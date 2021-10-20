@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021102014 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021102020 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -2528,8 +2528,11 @@ informatique.gp.	86400	IN	NS	ns1.ikoula.fr.
 informatique.gp.	86400	IN	NS	ns2.ikoula.fr.
 infos.gp.		86400	IN	NS	ns1.ikoula.fr.
 infos.gp.		86400	IN	NS	ns2.ikoula.fr.
-initial.gp.		86400	IN	NS	dns1.cscdns.net.
-initial.gp.		86400	IN	NS	dns2.cscdns.net.
+initial.gp.		86400	IN	NS	ns1.markmonitor.com.
+initial.gp.		86400	IN	NS	ns2.markmonitor.com.
+initial.gp.		86400	IN	NS	ns3.markmonitor.com.
+initial.gp.		86400	IN	NS	ns4.markmonitor.com.
+initial.gp.		86400	IN	NS	ns5.markmonitor.com.
 initiativesfrancevictimes.gp. 86400 IN	NS	ns104.ovh.net.
 initiativesfrancevictimes.gp. 86400 IN	NS	dns104.ovh.net.
 inspiredbywomen.gp.	86400	IN	NS	ns1.instradns.com.
@@ -3309,6 +3312,8 @@ mestresorsbio.gp.	86400	IN	NS	ns4.francedns.com.
 mestresorsbio.gp.	86400	IN	NS	ns5.francedns.com.
 meta.gp.		86400	IN	NS	ns1.101domain.com.
 meta.gp.		86400	IN	NS	ns2.101domain.com.
+metafb.gp.		86400	IN	NS	ns1.101domain.com.
+metafb.gp.		86400	IN	NS	ns2.101domain.com.
 metalu.gp.		86400	IN	NS	ns1.amenworld.com.
 metalu.gp.		86400	IN	NS	ns2.amenworld.com.
 metaverse.gp.		86400	IN	NS	dns2015a.trouble-free.net.
@@ -4275,13 +4280,21 @@ rentalcars.gp.		86400	IN	NS	ns3.markmonitor.com.
 rentalcars.gp.		86400	IN	NS	ns4.markmonitor.com.
 rentalcars.gp.		86400	IN	NS	ns5.markmonitor.com.
 rentalcars.gp.		86400	IN	NS	ns6.markmonitor.com.
-rentokil.gp.		86400	IN	NS	ns.domainnetwork.se.
-rentokil.gp.		86400	IN	NS	ns2.domainnetwork.se.
-rentokil-initial.gp.	86400	IN	NS	ns.domainnetwork.se.
-rentokil-initial.gp.	86400	IN	NS	ns2.domainnetwork.se.
-rentokilinitial.gp.	86400	IN	NS	ns.domainnetwork.se.
-rentokilinitial.gp.	86400	IN	NS	ns2.domainnetwork.se.
-rentokilinitial.gp.	86400	IN	NS	ns3.domainnetwork.com.
+rentokil.gp.		86400	IN	NS	ns1.markmonitor.com.
+rentokil.gp.		86400	IN	NS	ns2.markmonitor.com.
+rentokil.gp.		86400	IN	NS	ns3.markmonitor.com.
+rentokil.gp.		86400	IN	NS	ns4.markmonitor.com.
+rentokil.gp.		86400	IN	NS	ns5.markmonitor.com.
+rentokil-initial.gp.	86400	IN	NS	ns1.markmonitor.com.
+rentokil-initial.gp.	86400	IN	NS	ns2.markmonitor.com.
+rentokil-initial.gp.	86400	IN	NS	ns3.markmonitor.com.
+rentokil-initial.gp.	86400	IN	NS	ns4.markmonitor.com.
+rentokil-initial.gp.	86400	IN	NS	ns5.markmonitor.com.
+rentokilinitial.gp.	86400	IN	NS	ns1.markmonitor.com.
+rentokilinitial.gp.	86400	IN	NS	ns2.markmonitor.com.
+rentokilinitial.gp.	86400	IN	NS	ns3.markmonitor.com.
+rentokilinitial.gp.	86400	IN	NS	ns4.markmonitor.com.
+rentokilinitial.gp.	86400	IN	NS	ns5.markmonitor.com.
 repassage.gp.		86400	IN	NS	ns14.wixdns.net.
 repassage.gp.		86400	IN	NS	ns15.wixdns.net.
 repetto.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
