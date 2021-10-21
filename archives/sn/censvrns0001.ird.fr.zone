@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222406995 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407006 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211205155833 20211021154003 9009 sn. MOl6qT9GXuiayl4KHfzHLhl9nYp5sx1cf4dQQvsH8CTYx984mhwQPHMq r8ylpRLVHAFw5w2Q4ShemJxAaYs8/A==
-sn.			172800	IN	TXT	"No RRs processed [21/10/2021 18H40:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211118165451 20211021172002 9009 sn. ZQhMhEAdROoDd1LFn+pBFv7s/RdHQhqGA+5tJ3vS0r5vgx+j58+pXYEO tEvQfpEsKmI9FsjTQAWrru4vq6iOqQ==
+sn.			172800	IN	TXT	"4 RRs processed [21/10/2021 20H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211220164003 20211021154003 9009 sn. 9EWXuMSFdXQtrLuGPnoYRhnGQacLshlEifb2WnbsIlINkZsTPOaycfQT lks41yrrHv4U3POKKxBeM3LqqCPcAg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211220182002 20211021172002 9009 sn. cjsr+WmgUVGNyqHq6AyDyKp3fY+9BNw1HIwu7udGXdRX18ECfdisYkLI UHG4rPPLfM601ROhQjICFjikgi6hmA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -11264,6 +11264,8 @@ lglv.sn.		43200	IN	NS	ns-353.awsdns-44.com.
 lglv.sn.		43200	IN	NS	ns-882.awsdns-46.net.
 lglv.sn.		43200	IN	NS	ns-1052.awsdns-03.org.
 lglv.sn.		43200	IN	NS	ns-1732.awsdns-24.co.uk.
+lgnconsulting.sn.	172800	IN	NS	ns16.ovh.net.
+lgnconsulting.sn.	172800	IN	NS	dns16.ovh.net.
 lgseeds.sn.		43200	IN	NS	dns.w3line.fr.
 lgseeds.sn.		43200	IN	NS	mail.w3line.fr.
 lgseeds.sn.		43200	IN	NS	ext01.w3line.fr.
@@ -13428,6 +13430,10 @@ omana.sn.		172800	IN	RRSIG	DS 13 2 172800 20211123014407 20211007064028 9009 sn.
 omana.sn.		172800	IN	DS	20800 8 2 DCEDCB240AB2CD30FDEE4F2644EA019D29E20674F4E3304CA6651506 A266BD98
 omana.sn.		172800	IN	NS	ns106.ovh.net.
 omana.sn.		172800	IN	NS	dns106.ovh.net.
+omedias.sn.		172800	IN	NS	ns1.wanekoohost.com.
+omedias.sn.		172800	IN	NS	ns2.wanekoohost.com.
+omedias.sn.		172800	IN	NS	ns5.wanekoohost.com.
+omedias.sn.		172800	IN	NS	ns6.wanekoohost.com.
 omegamarine.sn.		43200	IN	NS	hosting100.arc.sn.
 omegapetroleum.sn.	43200	IN	NS	ns200.anycast.me.
 omegapetroleum.sn.	43200	IN	NS	dns200.anycast.me.
@@ -19949,7 +19955,7 @@ xeltech.sn.		172800	IN	NS	ns1.ascio.com.
 xeltech.sn.		172800	IN	NS	ns2.ascio.com.
 xeltech.sn.		172800	IN	NS	ns3.ascio.com.
 xeltech.sn.		172800	IN	NS	ns4.ascio.com.
-xerus.sn.		172800	IN	RRSIG	DS 13 2 172800 20211104173950 20210905164952 9009 sn. NABIG4+PPsvZ2fBmqnDPfUQGomxswlWtSbuSSr1D1iIIl83yqx9xvyS4 8JDzA25+EJMNfIRP/Im+9gxTeX9lAA==
+xerus.sn.		172800	IN	RRSIG	DS 13 2 172800 20211220172906 20211021163950 9009 sn. Pk+eaD/+N4/2iBxemUV9VupAqVsSkVDC6dyPODoG+TuExTn6GBOSkKlR L0G6Lz5ZUAKoP+HOvCJaIfARDuBtEA==
 xerus.sn.		172800	IN	DS	34759 8 2 EBE1CB1202EBE4D6206421AC91D876A7AE1BD1998698F8D21A9A747D 1E498464
 xerus.sn.		172800	IN	NS	ns106.ovh.net.
 xerus.sn.		172800	IN	NS	dns106.ovh.net.
