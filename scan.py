@@ -158,6 +158,8 @@ class DNSTool:
         for rdata in answers:
             nameservers.append( str( rdata ) )
 
+        nameservers.sort()
+
         GLOBAL_DNS_CACHE['NS'][domain] = nameservers
 
         return nameservers
