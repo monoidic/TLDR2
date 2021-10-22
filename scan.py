@@ -154,11 +154,8 @@ class DNSTool:
             return []
         except dns.name.EmptyLabel:
             return []
-        nameservers = []
-        for rdata in answers:
-            nameservers.append( str( rdata ) )
 
-        nameservers.sort()
+        nameservers = sorted(str(rdata).lower() for rdata in answers)
 
         GLOBAL_DNS_CACHE['NS'][domain] = nameservers
 
