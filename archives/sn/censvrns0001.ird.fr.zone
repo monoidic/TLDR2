@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407286 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407301 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211122202106 20211023092003 9009 sn. TOVQowhntjGZlXQMdM4YKYlQu35ugjqOZSnANQHTIzxnzo4mDfIlSUCb uRVzVaFti3lQJPbaDGktr665F2zRHA==
-sn.			172800	IN	TXT	"No RRs processed [23/10/2021 12H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211215072251 20211023112002 9009 sn. HY60tDpwnvNPbAgMpLTn50ASEEP5IApnbjSTfV9aS9kqfkPXDQGFTnBm G3vAWe5iCZPkgf0q86TnMqXuAyxNag==
+sn.			172800	IN	TXT	"No RRs processed [23/10/2021 14H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211222102003 20211023092003 9009 sn. UiEtAe4i93ZGJyH7X8JHqbF3XCx0yCbfnFbNlfBLmdVLpFX3VDoMXTHF Dt4QxtLKAq+q/ig3bqVlfoz2gF6UJA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211222122002 20211023112002 9009 sn. XjM11g/HcFX/zCeggpln+fzuYzzAYELskFbRZ8l/JpSN/SwogdRPPkv2 lpU/e4ZkTlC9DYyRVA99Wy/SwB8HLA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -707,6 +707,10 @@ africastore.sn.		43200	IN	NS	cp5.dnshostservices.com.
 africastore.sn.		43200	IN	NS	cp6.dnshostservices.com.
 africatransit.sn.	43200	IN	NS	ns9.lwsdns.com.
 africatransit.sn.	43200	IN	NS	ns10.lwsdns.com.
+africmanagement.sn.	172800	IN	NS	ns1.kheweul.net.
+africmanagement.sn.	172800	IN	NS	ns2.kheweul.net.
+africmanagement.sn.	172800	IN	NS	ns3.kheweul.net.
+africmanagement.sn.	172800	IN	NS	ns4.kheweul.net.
 africome.sn.		43200	IN	NS	ns31.infomaniak.com.
 africome.sn.		43200	IN	NS	ns32.infomaniak.com.
 afridis.sn.		43200	IN	NS	ns200.anycast.me.
@@ -2516,7 +2520,7 @@ bing.sn.		43200	IN	NS	ns1-204.azure-dns.com.
 bing.sn.		43200	IN	NS	ns2-204.azure-dns.net.
 bing.sn.		43200	IN	NS	ns3-204.azure-dns.org.
 bing.sn.		43200	IN	NS	ns4-204.azure-dns.info.
-bintabeauty.sn.		172800	IN	RRSIG	DS 13 2 172800 20211106112644 20210907102741 9009 sn. uP76XkpWLHemksJVRJ2sgB6F+dkIQWjdwsWHc84XlZYoUVFyyxRsSXV2 M0rYUVe4yOm5BOhjwWQVcRwdrOAOZA==
+bintabeauty.sn.		172800	IN	RRSIG	DS 13 2 172800 20211222103759 20211023102644 9009 sn. uN+Y2JCZT6Q5i+VaAi5y5k4ZLfiGEM3irC+HrwAUzf1g7CCs6ET+GqwM lv6Q0uHiwH85gUHFevQ2PJNEPX9O0g==
 bintabeauty.sn.		172800	IN	DS	50434 8 2 ABE3886E0CE2DCA755BE4AC040E641143AD9EDBE4C2C2109CCBD6727 24FD166E
 bintabeauty.sn.		172800	IN	NS	ns200.anycast.me.
 bintabeauty.sn.		172800	IN	NS	dns200.anycast.me.
@@ -9199,6 +9203,10 @@ immosen.sn.		172800	IN	NS	dns109.ovh.net.
 immosolutions.sn.	43200	IN	NS	ns.czhosting.de.
 immosolutions.sn.	43200	IN	NS	ns.immosolutions.sn.
 ns.immosolutions.sn.	43200	IN	A	85.158.1.198
+imp-africmanagement.sn.	172800	IN	NS	ns1.kheweul.net.
+imp-africmanagement.sn.	172800	IN	NS	ns2.kheweul.net.
+imp-africmanagement.sn.	172800	IN	NS	ns3.kheweul.net.
+imp-africmanagement.sn.	172800	IN	NS	ns4.kheweul.net.
 impack.sn.		43200	IN	NS	ns12.ovh.net.
 impack.sn.		43200	IN	NS	dns12.ovh.net.
 impact.sn.		43200	IN	NS	dns1.wmaker.net.
@@ -15918,8 +15926,10 @@ se-bat.sn.		172800	IN	NS	ns105.ovh.net.
 se-bat.sn.		172800	IN	NS	dns105.ovh.net.
 seao.sn.		43200	IN	NS	ns1.sh001.webhostbox.net.
 seao.sn.		43200	IN	NS	ns2.sh001.webhostbox.net.
-seaplaza.sn.		43200	IN	NS	ns.arc.sn.
-seaplaza.sn.		43200	IN	NS	ns3.arc.sn.
+seaplaza.sn.		172800	IN	NS	ns.arc.sn.
+seaplaza.sn.		172800	IN	NS	ns1.wix.com.
+seaplaza.sn.		172800	IN	NS	ns2.wix.com.
+seaplaza.sn.		172800	IN	NS	ns3.arc.sn.
 seat.sn.		43200	IN	NS	ns1.gedas.es.
 seat.sn.		43200	IN	NS	ns1.francedns.com.
 seat.sn.		43200	IN	NS	ns2.francedns.com.
@@ -16493,7 +16503,7 @@ senpoulailler.sn.	43200	IN	NS	eisdns1.expertis.sn.
 senpoulailler.sn.	43200	IN	NS	eisdns2.expertis.sn.
 senre.sn.		43200	IN	NS	ns15.dnsprive.com.
 senre.sn.		43200	IN	NS	ns16.dnsprive.com.
-senretail.sn.		43200	IN	RRSIG	DS 13 2 43200 20211106105900 20210907103239 9009 sn. YNKt+OG8qOJH6AfmgxJHPtiiJR4xOcHQriW+edglFT23B8B4+4iaVZkY PRUc4QOY9ng4bF/iEbwXxUP+kmx1Mw==
+senretail.sn.		43200	IN	RRSIG	DS 13 2 43200 20211222102918 20211023095900 9009 sn. d6/Fxr6czFoLA9DzYRQGxHFYZoX0wbVDE0YaFm0oXK7kgCdJvL18FcFn Xgk3TlhabxX9t7iNU+XrMtMnW3XmOw==
 senretail.sn.		43200	IN	DS	16075 8 2 B9B18C485B4E1A5EA54974AB253F7CC44D44499AC6B61C6CA102062C 3516D854
 senretail.sn.		43200	IN	NS	ns107.ovh.net.
 senretail.sn.		43200	IN	NS	dns107.ovh.net.
@@ -19554,8 +19564,8 @@ vusadoc.sn.		43200	IN	NS	dns107.ovh.net.
 vw.sn.			43200	IN	NS	ns1.volkswagen.de.
 vw.sn.			43200	IN	NS	ns2.volkswagen.de.
 vw.sn.			43200	IN	NS	ns5.xc-ns.de.
-waaw.sn.		172800	IN	NS	ns200.anycast.me.
-waaw.sn.		172800	IN	NS	dns200.anycast.me.
+waaw.sn.		172800	IN	NS	ns1.wanekoohost.com.
+waaw.sn.		172800	IN	NS	ns5.wanekoohost.com.
 waca.sn.		43200	IN	NS	ns16207.caurys.net.
 wadic.sn.		172800	IN	NS	sdns2.ovh.net.
 wadic.sn.		172800	IN	NS	ns367064.ip-188-165-235.eu.
@@ -20665,7 +20675,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 7LCVLABA63Q4LGHQKPH108SI0GMM08R8.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7LR1QC43UJMLPC0AMSKDM54CKH9TICA7 NS DS RRSIG
 7LR1QC43UJMLPC0AMSKDM54CKH9TICA7.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211112140817 20210913133537 9009 sn. 09Hi6lCop9Vetb6+vlMBKoutOZmNJYzctIZUoxVTuOF3ezGcAKFDNCXi L+cXgbwOtMyX2ReHsSPMTPTIGETwBQ==
 7LR1QC43UJMLPC0AMSKDM54CKH9TICA7.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7MKLH21PR74CNDOLC7FQ97T02OMVG73A NS DS RRSIG
-7MKLH21PR74CNDOLC7FQ97T02OMVG73A.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211106102511 20210907093341 9009 sn. o5nMIE8r2hTkLSW/fFoFYaOi6GVcpmHJHqqI6jlYQHROSAkyy50bMa8M 4zVa4YwR9ODeyROF45VgWo67lsTZpg==
+7MKLH21PR74CNDOLC7FQ97T02OMVG73A.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211222101401 20211023092511 9009 sn. ze3OD5U0rHn6DY3CtYleXaD6aBXV3/V5OyBA+PEKKjftEjSHu4jARO0P 44V0zM4/hvLDk57yaFpfHfclIzvjEg==
 7MKLH21PR74CNDOLC7FQ97T02OMVG73A.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7MMT4J60LQNB51B808BESAUSQ9N81ORD NS DS RRSIG
 7MMT4J60LQNB51B808BESAUSQ9N81ORD.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211128010246 20210929004211 9009 sn. 5BEjvhXJqNirAIuAPAoszBZRwywbl4pT7mgivP2N7EFVFf9MnH6Zce9G zctHhmdkdosIBj9FAjgWMLdxKQnrlQ==
 7MMT4J60LQNB51B808BESAUSQ9N81ORD.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7N5I3C4UPC8TA1E7MO4NDSUPOJDAGGU8 NS DS RRSIG
