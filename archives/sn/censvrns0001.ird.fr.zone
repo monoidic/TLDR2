@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407254 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407270 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211201062741 20211023052003 9009 sn. 0OV2dixGw7NABo0f0pD8ky6L0RAiOzDdfTsYQEiZTCDEI+DIoGIK2VKj W4MtIbVayLw65F3nOMB9bp+6voicwg==
-sn.			172800	IN	TXT	"No RRs processed [23/10/2021 08H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211127011135 20211023071003 9009 sn. CAirRTTZiL896kitzu67JP+JInoCxLqgC1+Kj0rN/LhrJrCbYu2WcSPI V/R3o7pHN9pJEPCdRzt5xyq78xTmXQ==
+sn.			172800	IN	TXT	"No RRs processed [23/10/2021 10H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211222062003 20211023052003 9009 sn. SLZvW8XusfOZcb+Fv9IQaKyAbmhj8ZYbTcNhsS/lODcgv0WD4jlh7WKt X0B1q0D23Mgsv0l3Zb3OvDWU77UxMg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211222081644 20211023071644 9009 sn. 7pynPELUZNSrBwIBGYJDeTDbIp185U7Ob0CMAsW+YjahaXEBXXcSBbfR YNoQzLjPpAwBrD2dlE2vrNiP9YCeyQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -3390,7 +3390,7 @@ casamour-beauty.sn.	172800	IN	RRSIG	DS 13 2 172800 20211211144321 20211012142803
 casamour-beauty.sn.	172800	IN	DS	24592 8 2 0F21557E5F6177EDFB6C43BAC522088225DA0081745FC9708BAFEDF6 71AF6B15
 casamour-beauty.sn.	172800	IN	NS	ns105.ovh.net.
 casamour-beauty.sn.	172800	IN	NS	dns105.ovh.net.
-casanova.sn.		43200	IN	RRSIG	DS 13 2 43200 20211106064034 20210907060523 9009 sn. sqzGnxYS+dXRtlqnvuflM2hJp2v8VRBtUwYSNnDv4ervNjVRzWw1Tj0P QAtDu4fzx7Jh92aRlTZ6qQ0OR9yRDw==
+casanova.sn.		43200	IN	RRSIG	DS 13 2 43200 20211222062457 20211023054034 9009 sn. Pi8OthZvnQ58Kcw7J9oBQjvB50VjOHyxO9tPcT/4YRlOmVgNjvdiZgqx nvsOZqF8nKLZVAPzgXu2TPt8In3ASg==
 casanova.sn.		43200	IN	DS	50656 8 2 3F848390A5441F059C4165056FBCBB86144F755662E3F4A830C75E2F 617B34B0
 casanova.sn.		43200	IN	NS	ns18.ovh.net.
 casanova.sn.		43200	IN	NS	dns18.ovh.net.
@@ -3785,7 +3785,7 @@ chambredesmines.sn.	172800	IN	NS	ns3.afriregister.com.
 chambredesmines.sn.	172800	IN	NS	ns01.afriregister.com.
 championbet.sn.		43200	IN	NS	ns1.victoriatech.cz.
 championbet.sn.		43200	IN	NS	ns2.victoriatech.cz.
-chantiers.sn.		172800	IN	RRSIG	DS 13 2 172800 20211106081644 20211011024505 9009 sn. msTRrreGjU2bkTED2DnqUSpN1+rfxuW2ZFnKwvjrFzD/jtSsxpaTfBQW JpPs2/MQZAShPfYuBshSsjU5RQiscQ==
+chantiers.sn.		172800	IN	RRSIG	DS 13 2 172800 20211222080229 20211023071644 9009 sn. CX3L72Ie9DuZtzET64cM0E1jQNz4CboqV7pFBLfqZ+oZ4nzGrDB4T2AS 6tqMBcdjBeIi+ETrolcjntwu90t4hA==
 chantiers.sn.		172800	IN	DS	44032 8 2 547DCD9C613A99DBD9AC87663128AF56E2D86764704BD6BEA0CF8484 779A600E
 chantiers.sn.		172800	IN	NS	ns15.ovh.net.
 chantiers.sn.		172800	IN	NS	dns15.ovh.net.
@@ -6409,7 +6409,7 @@ enami.sn.		172800	IN	RRSIG	DS 13 2 172800 20211208040327 20211009034155 9009 sn.
 enami.sn.		172800	IN	DS	27049 8 2 27FFE64E52076F95F9032B1B6072951DEFACDA0CC41B6477E739415A 6D5C0A8B
 enami.sn.		172800	IN	NS	ns200.anycast.me.
 enami.sn.		172800	IN	NS	dns200.anycast.me.
-encaf.sn.		43200	IN	RRSIG	DS 13 2 43200 20211106062320 20210907052756 9009 sn. N4do/7/iC3oYZ5d2BBkyS2S6HFq7UoUqGVwAfF3XZX4myN8tsFN/CjbJ aI4vcarMRx1/zmQeiXVM/fZCZdGBqw==
+encaf.sn.		43200	IN	RRSIG	DS 13 2 43200 20211222062051 20211023052320 9009 sn. wIc706TrM/zzM1NkGubh4TNwpD/3IIEWsuQz9oKa30tkYTOeeRG4wjk+ KufymuikKCO5HXlk4/ZIL1WbWM41qA==
 encaf.sn.		43200	IN	DS	31399 8 2 9A6AF6FBB260F6D1B8887F9BD42FFBEF7A8965D47927C56A3281D4F7 5AA87390
 encaf.sn.		43200	IN	NS	ns200.anycast.me.
 encaf.sn.		43200	IN	NS	dns200.anycast.me.
@@ -8858,7 +8858,7 @@ hyundai.sn.		43200	IN	NS	pns31.cloudns.net.
 hyundai.sn.		43200	IN	NS	pns32.cloudns.net.
 hyundaisenegal.sn.	43200	IN	NS	pns31.cloudns.net.
 hyundaisenegal.sn.	43200	IN	NS	pns32.cloudns.net.
-i-bacterial.sn.		43200	IN	RRSIG	DS 13 2 43200 20211106075441 20210907065959 9009 sn. vO6oKvIuUSawLqZxCQJIIWD6YYtrfkwP/EoVG4WfRnuqRtRBUebA+Zoi xG3jaPtpZi7ntZAMIAFIk3Wcg2JjcQ==
+i-bacterial.sn.		43200	IN	RRSIG	DS 13 2 43200 20211222074249 20211023065441 9009 sn. Tx8a0rvOFnkDRPE7nr/kaqHqAAEQTItu12H+4k10ivYJjVO+ZqlM1Lbo lK75mL7vgVgXpqI+fCtc7iMQPjUEWw==
 i-bacterial.sn.		43200	IN	DS	31867 8 2 A3B33FC0D5A919FBCC7F78B3E7B793BC2C9E380EA7C03E3660951D23 8E064FEF
 i-bacterial.sn.		43200	IN	NS	ns101.ovh.net.
 i-bacterial.sn.		43200	IN	NS	dns101.ovh.net.
@@ -15195,7 +15195,7 @@ residencelatdior.sn.	43200	IN	NS	ns1.sonatel.sn.
 residencelatdior.sn.	43200	IN	NS	ns2.sonatel.sn.
 restaurants.sn.		43200	IN	NS	cp5.dnshostservices.com.
 restaurants.sn.		43200	IN	NS	cp6.dnshostservices.com.
-resto.sn.		172800	IN	RRSIG	DS 13 2 172800 20211106064121 20210907060144 9009 sn. yP4RoeG+XcrgaF1qtnrl9Z2gjo17s7AeuaMH7n2OY1WpacQ4DpWhgQsK e2YO/tryXLXP4OhNfrTGs8j0WxcUmw==
+resto.sn.		172800	IN	RRSIG	DS 13 2 172800 20211222054339 20211023054121 9009 sn. DK0sWUW8enV6Fi7QJ3xEWdNheGyuwduXXEe+okMVkBTY99BlwBBkBQLn SaYk6HHxQ2Vnp3oyp/mXXyH0yCVFzw==
 resto.sn.		172800	IN	DS	37330 8 2 418292B718EC28B47E1AD8EA6AF438347ACA0EFF1A1F9DB2872ABCF9 A6BFBBEE
 resto.sn.		172800	IN	NS	ns200.anycast.me.
 resto.sn.		172800	IN	NS	dns200.anycast.me.
@@ -16712,8 +16712,6 @@ seytou.sn.		172800	IN	NS	ns2.wanekoohost.com.
 seytou.sn.		172800	IN	NS	ns4.wanekoohost.com.
 sfd.sn.			172800	IN	NS	pdns09.domaincontrol.com.
 sfd.sn.			172800	IN	NS	pdns10.domaincontrol.com.
-sfd-ld.sn.		43200	IN	NS	ns17.ovh.net.
-sfd-ld.sn.		43200	IN	NS	dns17.ovh.net.
 sfs.sn.			172800	IN	NS	ns1.wanekoohost.com.
 sfs.sn.			172800	IN	NS	ns2.wanekoohost.com.
 sfs.sn.			172800	IN	NS	ns4.wanekoohost.com.
@@ -16842,8 +16840,6 @@ sifi.sn.		43200	IN	NS	ns.sonatel.sn.
 sifi.sn.		43200	IN	NS	ns2.sonatel.sn.
 sifl.sn.		172800	IN	NS	pdns09.domaincontrol.com.
 sifl.sn.		172800	IN	NS	pdns10.domaincontrol.com.
-sifl-ld.sn.		43200	IN	NS	ns17.ovh.net.
-sifl-ld.sn.		43200	IN	NS	dns17.ovh.net.
 sig-peche-mpem.sn.	43200	IN	NS	ns1.kheweul.net.
 sig-peche-mpem.sn.	43200	IN	NS	ns2.kheweul.net.
 sig-peche-mpem.sn.	43200	IN	NS	ns3.kheweul.net.
