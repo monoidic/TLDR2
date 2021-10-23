@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102320 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1634976140"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102324 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1634983330"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -654,10 +654,8 @@ aldowlia.sy.		86400	IN	NS	suspend1.tld.sy.
 aldowlia.sy.		86400	IN	NS	suspend2.tld.sy.
 aldroubigroup.sy.	86400	IN	NS	ns1.aldrtech.sy.
 aldroubigroup.sy.	86400	IN	NS	ns2.aldrtech.sy.
-aldrtech.sy.		86400	IN	NS	ns1.aldrtech.sy.
-aldrtech.sy.		86400	IN	NS	ns2.aldrtech.sy.
-ns1.aldrtech.sy.	86400	IN	A	185.216.132.153
-ns2.aldrtech.sy.	86400	IN	A	185.216.132.153
+aldrtech.sy.		86400	IN	NS	suspend1.tld.sy.
+aldrtech.sy.		86400	IN	NS	suspend2.tld.sy.
 aldrtest.sy.		86400	IN	NS	ns1.aldrtech.sy.
 aldrtest.sy.		86400	IN	NS	ns2.aldrtech.sy.
 alduraie.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5726,12 +5724,12 @@ sct.sy.			86400	IN	NS	suspend1.tld.sy.
 sct.sy.			86400	IN	NS	suspend2.tld.sy.
 sd.sy.			86400	IN	NS	suspend1.tld.sy.
 sd.sy.			86400	IN	NS	suspend2.tld.sy.
-sd-media.sy.		86400	IN	NS	ns1.aldrtech.sy.
-sd-media.sy.		86400	IN	NS	ns2.aldrtech.sy.
+sd-media.sy.		86400	IN	NS	suspend1.tld.sy.
+sd-media.sy.		86400	IN	NS	suspend2.tld.sy.
 sdi.sy.			86400	IN	NS	ns3.tld.sy.
 sdi.sy.			86400	IN	NS	ns4.tld.sy.
-sdmedia.sy.		86400	IN	NS	ns1.aldrtech.sy.
-sdmedia.sy.		86400	IN	NS	ns2.aldrtech.sy.
+sdmedia.sy.		86400	IN	NS	suspend1.tld.sy.
+sdmedia.sy.		86400	IN	NS	suspend2.tld.sy.
 sds.sy.			86400	IN	NS	ns1.scs-net.sy.
 sds.sy.			86400	IN	NS	ns1.scs-net.org.
 sds.sy.			86400	IN	NS	ns2.scs-net.sy.
@@ -5977,8 +5975,8 @@ skar-sbiei.sy.		86400	IN	NS	suspend1.tld.sy.
 skar-sbiei.sy.		86400	IN	NS	suspend2.tld.sy.
 skinon.sy.		86400	IN	NS	ns1.shamcenter.com.
 skinon.sy.		86400	IN	NS	ns2.shamcenter.com.
-skola.sy.		86400	IN	NS	sydns1.nobalaa.com.
-skola.sy.		86400	IN	NS	sydns2.nobalaa.com.
+skola.sy.		86400	IN	NS	suspend1.tld.sy.
+skola.sy.		86400	IN	NS	suspend2.tld.sy.
 sky.sy.			86400	IN	NS	ns1.namecheaphosting.com.
 sky.sy.			86400	IN	NS	ns2.namecheaphosting.com.
 sm.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -6718,8 +6716,8 @@ thawra.sy.		86400	IN	NS	ns1.inet.sy.
 thawra.sy.		86400	IN	NS	ns2.inet.sy.
 thawraonline.sy.	86400	IN	NS	ns1.inet.sy.
 thawraonline.sy.	86400	IN	NS	ns2.inet.sy.
-thearabicteacher.sy.	86400	IN	NS	sydns1.nobalaa.com.
-thearabicteacher.sy.	86400	IN	NS	sydns2.nobalaa.com.
+thearabicteacher.sy.	86400	IN	NS	suspend1.tld.sy.
+thearabicteacher.sy.	86400	IN	NS	suspend2.tld.sy.
 theexperts-co.sy.	86400	IN	NS	ns1.damashost.com.
 theexperts-co.sy.	86400	IN	NS	ns2.damashost.com.
 thefreelancer.sy.	86400	IN	NS	ns1.alifouad91.com.
