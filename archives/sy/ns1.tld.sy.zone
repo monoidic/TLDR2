@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102521 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1635148941"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102524 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1635156130"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -17,8 +17,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 093.sy.			86400	IN	NS	auth2.syriatelisp.com.sy.
 10.sy.			86400	IN	NS	suzanne.ns.cloudflare.com.
 10.sy.			86400	IN	NS	giancarlo.ns.cloudflare.com.
-10k.sy.			86400	IN	NS	ns1.orasys.net.
-10k.sy.			86400	IN	NS	ns5.orasys.net.
+10k.sy.			86400	IN	NS	suspend1.tld.sy.
+10k.sy.			86400	IN	NS	suspend2.tld.sy.
 11.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
 11.sy.			86400	IN	NS	f1g1ns2.dnspod.net.
 111.sy.			86400	IN	NS	ns1.dns.com.
@@ -2771,8 +2771,8 @@ fairouz-tarding.sy.	86400	IN	NS	ns51.uae-dc.com.
 fairouz-tarding.sy.	86400	IN	NS	ns54.uae-dc.com.
 falcon-sys.sy.		86400	IN	NS	suspend1.tld.sy.
 falcon-sys.sy.		86400	IN	NS	suspend2.tld.sy.
-family.sy.		86400	IN	NS	suspend1.tld.sy.
-family.sy.		86400	IN	NS	suspend2.tld.sy.
+family.sy.		86400	IN	NS	ns1.alanqaa.com.
+family.sy.		86400	IN	NS	ns2.alanqaa.com.
 fant.sy.		86400	IN	NS	ns1.entornodns.com.
 fant.sy.		86400	IN	NS	ns2.entornodns.com.
 fanta.sy.		86400	IN	NS	ns2.co.com.
@@ -2976,8 +2976,8 @@ gfcsy.sy.		86400	IN	NS	ns1.ksa.onl.
 gfcsy.sy.		86400	IN	NS	ns2.ksa.onl.
 gg.sy.			86400	IN	NS	hugh.ns.cloudflare.com.
 gg.sy.			86400	IN	NS	lucy.ns.cloudflare.com.
-ggg.sy.			86400	IN	NS	rene.ns.cloudflare.com.
-ggg.sy.			86400	IN	NS	mckenzie.ns.cloudflare.com.
+ggg.sy.			86400	IN	NS	suspend1.tld.sy.
+ggg.sy.			86400	IN	NS	suspend2.tld.sy.
 ghadexmr.sy.		86400	IN	NS	suspend1.tld.sy.
 ghadexmr.sy.		86400	IN	NS	suspend2.tld.sy.
 ghali.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3006,8 +3006,8 @@ gift-center.sy.		86400	IN	NS	suspend1.tld.sy.
 gift-center.sy.		86400	IN	NS	suspend2.tld.sy.
 gina-pharm.sy.		86400	IN	NS	suspend1.tld.sy.
 gina-pharm.sy.		86400	IN	NS	suspend2.tld.sy.
-girls.sy.		86400	IN	NS	suspend1.tld.sy.
-girls.sy.		86400	IN	NS	suspend2.tld.sy.
+girls.sy.		86400	IN	NS	ns1.alanqaa.com.
+girls.sy.		86400	IN	NS	ns2.alanqaa.com.
 glamoura-g.sy.		86400	IN	NS	ns1.monster.sy.
 glamoura-g.sy.		86400	IN	NS	ns2.monster.sy.
 global-cables.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3046,8 +3046,8 @@ goldenstar.sy.		86400	IN	NS	suspend1.tld.sy.
 goldenstar.sy.		86400	IN	NS	suspend2.tld.sy.
 goldensteps.sy.		86400	IN	NS	ns1.servershost.net.
 goldensteps.sy.		86400	IN	NS	ns2.servershost.net.
-googlha.sy.		86400	IN	NS	suspend1.tld.sy.
-googlha.sy.		86400	IN	NS	suspend2.tld.sy.
+googlha.sy.		86400	IN	NS	ns1.damashost.com.
+googlha.sy.		86400	IN	NS	ns2.damashost.com.
 gors.sy.		86400	IN	NS	ns3.tld.sy.
 gors.sy.		86400	IN	NS	ns4.tld.sy.
 goshop.sy.		86400	IN	NS	isaac.ns.cloudflare.com.
@@ -3278,8 +3278,8 @@ hh.sy.			86400	IN	NS	ulla.ns.cloudflare.com.
 hh.sy.			86400	IN	NS	julian.ns.cloudflare.com.
 hhc.sy.			86400	IN	NS	suspend1.tld.sy.
 hhc.sy.			86400	IN	NS	suspend2.tld.sy.
-hhh.sy.			86400	IN	NS	rene.ns.cloudflare.com.
-hhh.sy.			86400	IN	NS	mckenzie.ns.cloudflare.com.
+hhh.sy.			86400	IN	NS	suspend1.tld.sy.
+hhh.sy.			86400	IN	NS	suspend2.tld.sy.
 hi.sy.			86400	IN	NS	alan.ns.cloudflare.com.
 hi.sy.			86400	IN	NS	marissa.ns.cloudflare.com.
 hi-fi.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3384,20 +3384,14 @@ ht.sy.			86400	IN	NS	suspend1.tld.sy.
 ht.sy.			86400	IN	NS	suspend2.tld.sy.
 hudhod.sy.		86400	IN	NS	ns1.sawa-host.net.
 hudhod.sy.		86400	IN	NS	ns2.sawa-host.net.
-huffingtonpost.sy.	86400	IN	NS	ns1.yahoo.com.
-huffingtonpost.sy.	86400	IN	NS	ns2.yahoo.com.
-huffingtonpost.sy.	86400	IN	NS	ns3.yahoo.com.
-huffingtonpost.sy.	86400	IN	NS	ns4.yahoo.com.
-huffingtonpost.sy.	86400	IN	NS	ns5.yahoo.com.
+huffingtonpost.sy.	86400	IN	NS	suspend1.tld.sy.
+huffingtonpost.sy.	86400	IN	NS	suspend2.tld.sy.
 huffingtonpostarabi.sy.	86400	IN	NS	suspend1.tld.sy.
 huffingtonpostarabi.sy.	86400	IN	NS	suspend2.tld.sy.
 huffingtonpostarabic.sy. 86400	IN	NS	suspend1.tld.sy.
 huffingtonpostarabic.sy. 86400	IN	NS	suspend2.tld.sy.
-huffpost.sy.		86400	IN	NS	ns1.yahoo.com.
-huffpost.sy.		86400	IN	NS	ns2.yahoo.com.
-huffpost.sy.		86400	IN	NS	ns3.yahoo.com.
-huffpost.sy.		86400	IN	NS	ns4.yahoo.com.
-huffpost.sy.		86400	IN	NS	ns5.yahoo.com.
+huffpost.sy.		86400	IN	NS	suspend1.tld.sy.
+huffpost.sy.		86400	IN	NS	suspend2.tld.sy.
 huffpostarabi.sy.	86400	IN	NS	suspend1.tld.sy.
 huffpostarabi.sy.	86400	IN	NS	suspend2.tld.sy.
 huffpostarabic.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3909,8 +3903,8 @@ kid.sy.			86400	IN	NS	ns1.topservers.biz.
 kid.sy.			86400	IN	NS	ns2.topservers.biz.
 kiddo.sy.		86400	IN	NS	suspend1.tld.sy.
 kiddo.sy.		86400	IN	NS	suspend2.tld.sy.
-kids.sy.		86400	IN	NS	suspend1.tld.sy.
-kids.sy.		86400	IN	NS	suspend2.tld.sy.
+kids.sy.		86400	IN	NS	ns1.alanqaa.com.
+kids.sy.		86400	IN	NS	ns2.alanqaa.com.
 kidswagen.sy.		86400	IN	NS	ns3.tld.sy.
 kidswagen.sy.		86400	IN	NS	ns4.tld.sy.
 kig.sy.			86400	IN	NS	ns1.scs-net.org.
@@ -5204,8 +5198,8 @@ powerem.sy.		86400	IN	NS	suspend1.tld.sy.
 powerem.sy.		86400	IN	NS	suspend2.tld.sy.
 pp.sy.			86400	IN	NS	ns1.brmja.co.
 pp.sy.			86400	IN	NS	ns2.brmja.co.
-pregnancy.sy.		86400	IN	NS	suspend1.tld.sy.
-pregnancy.sy.		86400	IN	NS	suspend2.tld.sy.
+pregnancy.sy.		86400	IN	NS	ns1.alanqaa.com.
+pregnancy.sy.		86400	IN	NS	ns2.alanqaa.com.
 preview.sy.		86400	IN	NS	suspend1.tld.sy.
 preview.sy.		86400	IN	NS	suspend2.tld.sy.
 price.sy.		86400	IN	NS	ns1.brmja.co.
@@ -5734,8 +5728,8 @@ sd-media.sy.		86400	IN	NS	suspend1.tld.sy.
 sd-media.sy.		86400	IN	NS	suspend2.tld.sy.
 sdi.sy.			86400	IN	NS	ns3.tld.sy.
 sdi.sy.			86400	IN	NS	ns4.tld.sy.
-sdmedia.sy.		86400	IN	NS	suspend1.tld.sy.
-sdmedia.sy.		86400	IN	NS	suspend2.tld.sy.
+sdmedia.sy.		86400	IN	NS	ns1.aldrtech.sy.
+sdmedia.sy.		86400	IN	NS	ns2.aldrtech.sy.
 sds.sy.			86400	IN	NS	ns1.scs-net.sy.
 sds.sy.			86400	IN	NS	ns1.scs-net.org.
 sds.sy.			86400	IN	NS	ns2.scs-net.sy.
@@ -6250,14 +6244,14 @@ sy-cit.sy.		86400	IN	NS	suspend1.tld.sy.
 sy-cit.sy.		86400	IN	NS	suspend2.tld.sy.
 sy-ir.sy.		86400	IN	NS	ns1.imtyaz.sy.
 sy-ir.sy.		86400	IN	NS	ns2.imtyaz.sy.
-sybro.sy.		86400	IN	NS	ns3.tld.sy.
-sybro.sy.		86400	IN	NS	ns4.tld.sy.
+sybro.sy.		86400	IN	NS	suspend1.tld.sy.
+sybro.sy.		86400	IN	NS	suspend2.tld.sy.
 syc.sy.			86400	IN	NS	ns1.sourceahosting.com.
 syc.sy.			86400	IN	NS	ns2.sourceahosting.com.
 syenvas.sy.		86400	IN	NS	ns16.samamax.com.
 syenvas.sy.		86400	IN	NS	ns17.samamax.com.
-symap.sy.		86400	IN	NS	ns3.tld.sy.
-symap.sy.		86400	IN	NS	ns4.tld.sy.
+symap.sy.		86400	IN	NS	suspend1.tld.sy.
+symap.sy.		86400	IN	NS	suspend2.tld.sy.
 synog.sy.		86400	IN	NS	suspend1.tld.sy.
 synog.sy.		86400	IN	NS	suspend2.tld.sy.
 syr-leb.sy.		86400	IN	NS	ns1.e-gate.me.
@@ -6669,8 +6663,8 @@ techno-gas.sy.		86400	IN	NS	suspend1.tld.sy.
 techno-gas.sy.		86400	IN	NS	suspend2.tld.sy.
 techno-tex.sy.		86400	IN	NS	suspend1.tld.sy.
 techno-tex.sy.		86400	IN	NS	suspend2.tld.sy.
-technowave.sy.		86400	IN	NS	ns3.tld.sy.
-technowave.sy.		86400	IN	NS	ns4.tld.sy.
+technowave.sy.		86400	IN	NS	suspend1.tld.sy.
+technowave.sy.		86400	IN	NS	suspend2.tld.sy.
 techpeak.sy.		86400	IN	NS	suspend1.tld.sy.
 techpeak.sy.		86400	IN	NS	suspend2.tld.sy.
 tecnic-metal.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -6955,8 +6949,8 @@ uranus-group.sy.	86400	IN	NS	suspend1.tld.sy.
 uranus-group.sy.	86400	IN	NS	suspend2.tld.sy.
 url.sy.			86400	IN	NS	andrea.dnspod.net.
 url.sy.			86400	IN	NS	hayden.dnspod.net.
-urology-clinic.sy.	86400	IN	NS	ns1.shamcenter.com.
-urology-clinic.sy.	86400	IN	NS	ns2.shamcenter.com.
+urology-clinic.sy.	86400	IN	NS	suspend1.tld.sy.
+urology-clinic.sy.	86400	IN	NS	suspend2.tld.sy.
 urologyclinic.sy.	86400	IN	NS	ns1.monster.sy.
 urologyclinic.sy.	86400	IN	NS	ns2.monster.sy.
 us.sy.			86400	IN	NS	suspend1.tld.sy.
