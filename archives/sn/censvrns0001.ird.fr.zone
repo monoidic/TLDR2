@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407647 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407661 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211203131858 20211025111003 9009 sn. XdyhCCH4sTSscrQgz2h80CHBGal3I1ECuF+A3FmA60CgPyXpD70i1k5R xkRdmA1VMnbxS5OZmZLhjsRmgq74GQ==
-sn.			172800	IN	TXT	"No RRs processed [25/10/2021 14H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211127002513 20211025131003 9009 sn. RKuZNTDb/pQHw/p7Q8Me1YfJ0ddRAI1dVi84bzGdWCj36chidNNUq7b7 w4gQDSYzti4T39nMNVoNP9VC6T96VA==
+sn.			172800	IN	TXT	"7 RRs processed [25/10/2021 16H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211224121003 20211025111003 9009 sn. 0PYe4a8v0oqPBqsdsDDnV9RL4j07jiekhZZSYKWK6lFPmdoreQQaApiS UITq6+5B3bdsNwmUnHkH7Np34R4luw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211224141003 20211025131003 9009 sn. apIrnd9BGJUKR8remZs9zmiDO7tQZSD0Qh0+5v6WdlM1toV4CqWrGKB3 5ZhS5KtkOzojsarSZp45Ritmu9E6Yw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -5817,6 +5817,8 @@ dsl.sn.			172800	IN	NS	ns3.afriregister.com.
 dsl.sn.			172800	IN	NS	ns01.afriregister.com.
 dslelec.sn.		172800	IN	NS	ns3.afriregister.com.
 dslelec.sn.		172800	IN	NS	ns01.afriregister.com.
+dsnotaires.sn.		172800	IN	NS	nsmpro1.nordnet.com.
+dsnotaires.sn.		172800	IN	NS	nsmpro2.nordnet.com.
 dsolutions.sn.		43200	IN	NS	ns1045.ui-dns.de.
 dsolutions.sn.		43200	IN	NS	ns1045.ui-dns.biz.
 dsolutions.sn.		43200	IN	NS	ns1045.ui-dns.com.
@@ -9217,10 +9219,6 @@ immosen.sn.		172800	IN	NS	dns109.ovh.net.
 immosolutions.sn.	43200	IN	NS	ns.czhosting.de.
 immosolutions.sn.	43200	IN	NS	ns.immosolutions.sn.
 ns.immosolutions.sn.	43200	IN	A	85.158.1.198
-imp-africmanagement.sn.	172800	IN	NS	ns1.kheweul.net.
-imp-africmanagement.sn.	172800	IN	NS	ns2.kheweul.net.
-imp-africmanagement.sn.	172800	IN	NS	ns3.kheweul.net.
-imp-africmanagement.sn.	172800	IN	NS	ns4.kheweul.net.
 impack.sn.		43200	IN	NS	ns12.ovh.net.
 impack.sn.		43200	IN	NS	dns12.ovh.net.
 impact.sn.		43200	IN	NS	dns1.wmaker.net.
@@ -9581,6 +9579,10 @@ ipg-isti.sn.		43200	IN	NS	ns1.cp-1.webhostbox.net.
 ipg-isti.sn.		43200	IN	NS	ns2.cp-1.webhostbox.net.
 ipj.sn.			43200	IN	NS	ns1.caurys.net.
 ipj.sn.			43200	IN	NS	ns2.caurys.net.
+ipm-africmanagement.sn.	172800	IN	NS	ns1.kheweul.net.
+ipm-africmanagement.sn.	172800	IN	NS	ns2.kheweul.net.
+ipm-africmanagement.sn.	172800	IN	NS	ns3.kheweul.net.
+ipm-africmanagement.sn.	172800	IN	NS	ns4.kheweul.net.
 ipmse.sn.		43200	IN	NS	ns1.kheweul.net.
 ipmse.sn.		43200	IN	NS	ns2.kheweul.net.
 ipmse.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -13704,6 +13706,8 @@ orangesmspro.sn.	43200	IN	NS	ns.sonatel.sn.
 orangesmspro.sn.	43200	IN	NS	ns2.sonatel.sn.
 orangesonatel.sn.	43200	IN	NS	ns.sonatel.sn.
 orangesonatel.sn.	43200	IN	NS	ns2.sonatel.sn.
+orangestartupstudio.sn.	172800	IN	NS	ns.sonatel.sn.
+orangestartupstudio.sn.	172800	IN	NS	ns2.sonatel.sn.
 orangestore.sn.		43200	IN	NS	ns.sonatel.sn.
 orangestore.sn.		43200	IN	NS	ns2.sonatel.sn.
 orao.sn.		43200	IN	NS	a.dns.gandi.net.
@@ -19545,7 +19549,7 @@ vouzenou.sn.		43200	IN	NS	dns1.namecheaphosting.com.
 vouzenou.sn.		43200	IN	NS	dns2.namecheaphosting.com.
 voxpop.sn.		43200	IN	NS	ns11.infomaniak.ch.
 voxpop.sn.		43200	IN	NS	ns12.infomaniak.ch.
-voyagesenegal.sn.	172800	IN	RRSIG	DS 13 2 172800 20211108135926 20210909135633 9009 sn. z80HQzM5omKfArR2o15xGWDOw9mWZaQPmSTOZl0Th3YxXiwwVrAkVahJ cC1o2CWvkxKvWaNEuAOnVLPCuj4DnA==
+voyagesenegal.sn.	172800	IN	RRSIG	DS 13 2 172800 20211224135709 20211025125926 9009 sn. rNZ4nOkOTUvLo2bznIDFRxEkDbMdEinE5R1KfZbEGC3Tm0naftjf1IUA ytZ1AJOxvE42NcGDlS9RkotnHCC52Q==
 voyagesenegal.sn.	172800	IN	DS	31567 8 2 3E8A62A78D9E7891D08C9C26D0097934367F8DCB7FD0F9B3F995D5D0 ACEC10FA
 voyagesenegal.sn.	172800	IN	NS	ns11.ovh.net.
 voyagesenegal.sn.	172800	IN	NS	dns11.ovh.net.
@@ -21763,7 +21767,7 @@ V3CKU9BUJ3L9SFQLFFEMG0G70UN00BAA.sn. 5400 IN RRSIG NSEC3 13 2 5400 2021121613060
 V3CKU9BUJ3L9SFQLFFEMG0G70UN00BAA.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V3TEP32TQUIHS39K67IJ9VJ153LBJA5L NS DS RRSIG
 V3TEP32TQUIHS39K67IJ9VJ153LBJA5L.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211224111858 20211025105420 9009 sn. zG5MQj8ly8XwW3w7B/MuJ3ZpbL/wONbMf3nbRiVwLuPDz7+VsiFCBxt3 sRr+v4zwcDtdXn4Fop+fFyMBiexa4g==
 V3TEP32TQUIHS39K67IJ9VJ153LBJA5L.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV NS DS RRSIG
-V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211108132057 20210909131336 9009 sn. MclJcEDNDYo1wKfK7jxL30jMr4Q8lHD18snNXJ7tX/+qvfDusYR+A2O2 AjHOrM4Pjqr0OFSekzQf2IgUPRsPwg==
+V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211224125837 20211025122057 9009 sn. S1Emoae5ohQwSjqdr7vVii7IQh3anXDm29NEQaX1F2Sos571bL9VnnJ5 Wk17K9C2oiZk12/LpJdmanTjUrMroQ==
 V5VV8OSSHCN4NJU6T5333HCAUVHUEPAV.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V7668N7UL50V0N4NHEEPD4IKSRUQ2JN7 NS DS RRSIG
 V7668N7UL50V0N4NHEEPD4IKSRUQ2JN7.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211213105040 20211014095119 9009 sn. YHuImDXGvXT3cUCja4NGCslo1ZkXDMpZTbsum2d360dZTLdN9SQnEJu6 2yJ5H3nEqZzKX23gt8nAhEDiaaKuhg==
 V7668N7UL50V0N4NHEEPD4IKSRUQ2JN7.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 V7F6GORNBK0M41Q0GFG6SKMHU9S9IP1U NS DS RRSIG
