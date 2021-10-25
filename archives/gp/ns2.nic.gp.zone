@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021102101 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021102502 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -746,6 +746,8 @@ blandin.gp.		86400	IN	NS	ns15.ovh.net.
 blandin.gp.		86400	IN	NS	dns15.ovh.net.
 blockchain.gp.		86400	IN	NS	maxine.ns.cloudflare.com.
 blockchain.gp.		86400	IN	NS	kianchau.ns.cloudflare.com.
+blog.gp.		86400	IN	NS	ns-500.awsdns-62.com.
+blog.gp.		86400	IN	NS	ns-1387.awsdns-45.org.
 blogspot.gp.		86400	IN	NS	ns1.markmonitor.com.
 blogspot.gp.		86400	IN	NS	ns3.markmonitor.com.
 bloomberglinea.gp.	86400	IN	NS	dns1.cscdns.net.
