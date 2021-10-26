@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407807 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211225102002 20211026092002 9009 sn. ju2QrGed+/BSjjSnT2qxvhQukGQJpUT0EDlzKH7w8QQ17twoO9tPWAvU QKBkcTbg7GnO00RxpcsUOA59z8CVWw==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222407823 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211225121003 20211026111003 9009 sn. nnaE/rEvfYJxAW1RvHQhMPFDfZR+NDf49+NbVN0BxBIRyIs/xLMfhEVp NIa/q4b9NBfJ81MslsbtZdgRct0HEw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
-sn.			172800	IN	TXT	"No RRs processed [26/10/2021 12H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211215160040 20211026092002 9009 sn. jcBg4AYbwk/bgMBsQlkVkWGZWXzv1I2+DgUhths2S2SBDce/3ysmYNjo jW0nfdTa7y9RGOkBztbipmAW9iYf1w==
+sn.			172800	IN	TXT	"No RRs processed [26/10/2021 14H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211211083219 20211026111003 9009 sn. oBG2HtKrm/Ti1NnPZBrOkJh/5ohbNbY2RChidVswDkWKi60lZr5UFm7M vqhHZV6gW6rT6bMdC6hg0H//ILxlIg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
@@ -641,7 +641,7 @@ aflegal.sn.		43200	IN	NS	ns2.mmbaye.com.
 afotech.sn.		172800	IN	NS	ns200.anycast.me.
 afotech.sn.		172800	IN	NS	dns200.anycast.me.
 afotech.sn.		172800	IN	DS	45070 8 2 21D970B1B2E02829A43F5FE445B73B61A7AB2BDCBCC4E3B755EF7686 C4D00625
-afotech.sn.		172800	IN	RRSIG	DS 13 2 172800 20211109104915 20210910102555 9009 sn. YzIWx8mR7W/VD7qeQpwHOvoD1dPwMp5xvn2OAgi5uA+UMwzYPvIl2av6 iCxVOpcQUnG8sPw9EQxHVpMtJZ63Jg==
+afotech.sn.		172800	IN	RRSIG	DS 13 2 172800 20211225102612 20211026094915 9009 sn. DNHuGoE3kZ8A2hlNvl51sGTp/QbwlLtnsIIta9bsQCl89np8C3ymYcBJ HGugvaE8MjveFgeohVIpPlAMBzo1aQ==
 afp.sn.			43200	IN	NS	ns10.ovh.ca.
 afp.sn.			43200	IN	NS	dns10.ovh.ca.
 afp.sn.			43200	IN	DS	15289 8 2 392D5B1AADEDB9B1ED1F52A01960FCB40ECE9623D31BA1B6FD7044B5 297543F0
@@ -1933,7 +1933,7 @@ avenirpresta.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 aviex.sn.		172800	IN	NS	ns11.ovh.net.
 aviex.sn.		172800	IN	NS	dns11.ovh.net.
 aviex.sn.		172800	IN	DS	37354 8 2 BCF956EDC5431256D5532ACE6D4B19351591B2E362A399268F8D535E F481EE30
-aviex.sn.		172800	IN	RRSIG	DS 13 2 172800 20211109112550 20211017022503 9009 sn. y9asmMkMTLVQD2e9/EzbjE4OpXk3m0FrMd8ZvwQ4qeBY6w7xoSBnEPrR +mWaVZhCU180Uc8gOF9T2AV/GdoGow==
+aviex.sn.		172800	IN	RRSIG	DS 13 2 172800 20211225105956 20211026102550 9009 sn. TyZ8soS5BUj9fYLbUEk34r5xpwQcZenZE/bllyK8eLWmmWBVQHFP2EkF mmr8N69eOWSrbAJYZEDKnNBSGsquPA==
 avis.sn.		43200	IN	NS	ns1.digitalocean.com.
 avis.sn.		43200	IN	NS	ns2.digitalocean.com.
 avisen.sn.		43200	IN	NS	ns.sonatel.sn.
@@ -2870,7 +2870,7 @@ bourseagricole.sn.	43200	IN	NS	ns1.infomaniak.ch.
 bourseagricole.sn.	43200	IN	NS	ns2.infomaniak.ch.
 boutik.sn.		43200	IN	NS	ns1.dns-parking.com.
 boutik.sn.		43200	IN	NS	ns2.dns-parking.com.
-boutik221.sn.		172800	IN	RRSIG	DS 13 2 172800 20211109112255 20210918125003 9009 sn. gTLe2eI0pHtnIYcy2sURHNIujm+zG4mIrX1kc0H/CGbSkRFOocWIpXOA RJAx9YReOAgzKfxp++IFUxpJ+M2/5w==
+boutik221.sn.		172800	IN	RRSIG	DS 13 2 172800 20211225110026 20211026102255 9009 sn. QvW++DpTo5lCjXp6W6q4ZgcVxKL73HewN9M5kE1kwCYQnIuEl+DqIWGh ppkacfFMWG1JwHsnJ9zN10k4cxsakw==
 boutik221.sn.		172800	IN	DS	52699 8 2 353B3D5F807E03DDC91B36A7BEF3017849BD01C4D046DD28BF549DD9 C4A8AEF8
 boutik221.sn.		172800	IN	NS	ns200.anycast.me.
 boutik221.sn.		172800	IN	NS	dns200.anycast.me.
@@ -4058,7 +4058,7 @@ cliniqueamitie.sn.	43200	IN	NS	ns2.sonatel.sn.
 cliniquebellevue.sn.	43200	IN	NS	ns13.ovh.net.
 cliniquebellevue.sn.	43200	IN	NS	dns13.ovh.net.
 cliniquebellevue.sn.	43200	IN	DS	39142 8 2 135C86AC4CCB5FD64E149149851251D1C53820E6DDEE1653EC2182E3 6D408A41
-cliniquebellevue.sn.	43200	IN	RRSIG	DS 13 2 43200 20211109115933 20210910113802 9009 sn. 1kRu8mv17ixk8cu9H/SnZ2Vvm2oCdulBLFlt2dBYiNFOvJeiwyv4ITeS 0E0OUodtCNsK/Cpd4ANXJcuCyr4pIA==
+cliniquebellevue.sn.	43200	IN	RRSIG	DS 13 2 43200 20211225113655 20211026105933 9009 sn. SvE/1fJhQfOJhU+rNHdg/Nqwuig3yGIfF/P4cxkpcRdf48bJMVNlImXv HPzw+w82MnunVn2eac2KmICEeEc+Cg==
 cliniquecardiodedakar.sn. 172800 IN	NS	nsmpro1.nordnet.com.
 cliniquecardiodedakar.sn. 172800 IN	NS	nsmpro2.nordnet.com.
 cliniquedelafamille.sn.	43200	IN	NS	ns1.digitalocean.com.
@@ -4068,6 +4068,8 @@ cliniquedelocean.sn.	172800	IN	NS	ns2.kheweul.net.
 cliniquedelocean.sn.	172800	IN	NS	ns3.kheweul.net.
 cliniquedelocean.sn.	172800	IN	NS	ns4.kheweul.net.
 cliniquedentairegazal.sn. 43200	IN	NS	hosting100.arc.sn.
+cliniquedentairelacasamance.sn.	172800 IN NS	ns200.anycast.me.
+cliniquedentairelacasamance.sn.	172800 IN NS	dns200.anycast.me.
 cliniquedusoleil.sn.	43200	IN	NS	ns1.caurys.net.
 cliniquelaprovidence.sn. 43200	IN	NS	ns109.ovh.net.
 cliniquelaprovidence.sn. 43200	IN	NS	dns109.ovh.net.
@@ -8306,6 +8308,10 @@ grayphilanthropy.sn.	43200	IN	NS	brain.bb-online.co.uk.
 greatwallmotors.sn.	43200	IN	NS	ns1.icp100.net.
 greatwallmotors.sn.	43200	IN	NS	ns2.icp100.net.
 greatwallmotors.sn.	43200	IN	NS	ns3.icp100.net.
+greds.sn.		172800	IN	NS	ns1.kheweul.net.
+greds.sn.		172800	IN	NS	ns2.kheweul.net.
+greds.sn.		172800	IN	NS	ns3.kheweul.net.
+greds.sn.		172800	IN	NS	ns4.kheweul.net.
 greenitude.sn.		172800	IN	RRSIG	DS 13 2 172800 20211125180516 20211018104002 9009 sn. lF7Jc9ty1sngfGuhkYZMRB9S1Z4rt1teC/Sim8Yx+e50Er+LPTKwlWpH LkUeIxWdZ5/o7f/3r0YM4Cp4m33lEQ==
 greenitude.sn.		172800	IN	DS	19492 8 2 B87CC7F475344A42BC2BC0772F8CD68276EB2CC3107CCC79D1C29D34 C87E1839
 greenitude.sn.		172800	IN	NS	ns105.ovh.net.
@@ -9767,6 +9773,10 @@ ispp.sn.		172800	IN	NS	ns4.kheweul.net.
 isra.sn.		43200	IN	NS	ns.isra.sn.
 isra.sn.		43200	IN	NS	dns.ucad.sn.
 ns.isra.sn.		43200	IN	A	41.208.179.114
+isra-dahra.sn.		172800	IN	NS	ns1.wanekoohost.com.
+isra-dahra.sn.		172800	IN	NS	ns2.wanekoohost.com.
+isra-dahra.sn.		172800	IN	NS	ns5.wanekoohost.com.
+isra-dahra.sn.		172800	IN	NS	ns6.wanekoohost.com.
 isra-vaccin.sn.		172800	IN	NS	ns1.wanekoohost.com.
 isra-vaccin.sn.		172800	IN	NS	ns2.wanekoohost.com.
 isra-vaccin.sn.		172800	IN	NS	ns5.wanekoohost.com.
@@ -13461,6 +13471,9 @@ officexpress.sn.	43200	IN	NS	ns1.kheweul.net.
 officexpress.sn.	43200	IN	NS	ns2.kheweul.net.
 officexpress.sn.	43200	IN	NS	ns3.kheweul.net.
 officexpress.sn.	43200	IN	NS	ns4.kheweul.net.
+offitech.sn.		172800	IN	NS	ns1.francedns.com.
+offitech.sn.		172800	IN	NS	ns2.francedns.com.
+offitech.sn.		172800	IN	NS	ns3.francedns.com.
 offitechstore.sn.	43200	IN	NS	eisdns1.expertis.sn.
 offitechstore.sn.	43200	IN	NS	eisdns2.expertis.sn.
 offload.sn.		43200	IN	NS	a.dns.gandi.net.
@@ -13761,8 +13774,10 @@ ordredesavocats.sn.	172800	IN	NS	ns105.ovh.net.
 ordredesavocats.sn.	172800	IN	NS	dns105.ovh.net.
 ordredesavocats.sn.	43200	IN	DS	5530 8 2 A2BEBF72CA1C03CAB927C951B692308821FDDEF8C9B966CEDBBC2517 9DDF284A
 ordredesavocats.sn.	43200	IN	RRSIG	DS 13 2 43200 20211129143114 20210930140606 9009 sn. NDv9XOHkIEjXZ6ZV3Ukej/GPtcRHIg7wM7/GKx9b1mz8eVbBrlqDTmWq 1Fm3/PUoz3BW3f82LI2fInGZwoClCg==
-ordredeshuissiers.sn.	43200	IN	NS	ns10.ovh.net.
-ordredeshuissiers.sn.	43200	IN	NS	dns10.ovh.net.
+ordredeshuissiers.sn.	172800	IN	NS	ns1.ascio.com.
+ordredeshuissiers.sn.	172800	IN	NS	ns2.ascio.com.
+ordredeshuissiers.sn.	172800	IN	NS	ns3.ascio.com.
+ordredeshuissiers.sn.	172800	IN	NS	ns4.ascio.com.
 ordredespharmaciens.sn.	43200	IN	NS	ns14.ovh.net.
 ordredespharmaciens.sn.	43200	IN	NS	dns14.ovh.net.
 ordremedecins.sn.	43200	IN	NS	ns1.bluehost.com.
@@ -13893,6 +13908,10 @@ oxahost.sn.		172800	IN	NS	ns2.tn.oxa.host.
 oxelo.sn.		43200	IN	NS	a.dns.gandi.net.
 oxelo.sn.		43200	IN	NS	b.dns.gandi.net.
 oxelo.sn.		43200	IN	NS	c.dns.gandi.net.
+oxio.sn.		172800	IN	NS	ns1.kheweul.net.
+oxio.sn.		172800	IN	NS	ns2.kheweul.net.
+oxio.sn.		172800	IN	NS	ns3.kheweul.net.
+oxio.sn.		172800	IN	NS	ns4.kheweul.net.
 oxybul.sn.		43200	IN	NS	indom10.indomco.com.
 oxybul.sn.		43200	IN	NS	indom20.indomco.net.
 oxybul.sn.		43200	IN	NS	indom30.indomco.fr.
@@ -18570,7 +18589,7 @@ thiofe.sn.		172800	IN	RRSIG	DS 13 2 172800 20211109192329 20210910183402 9009 sn
 thiofel.sn.		172800	IN	NS	ns15.ovh.net.
 thiofel.sn.		172800	IN	NS	dns15.ovh.net.
 thiofel.sn.		172800	IN	DS	59044 8 2 985C905443AA8D1C9360CD495D40C6840FFC2A1AE4D73D8BDAF1C5FA 55F26B1B
-thiofel.sn.		172800	IN	RRSIG	DS 13 2 172800 20211109115133 20210910110528 9009 sn. h61WvZEYkoZOuxHIv6Z+VAVTj7n/7j4q1wpmeaDxVYEjGmKlFY39Vd8D aMuWNUyTKXkPX3JgVnmQT0TQLYA2cA==
+thiofel.sn.		172800	IN	RRSIG	DS 13 2 172800 20211225111524 20211026105133 9009 sn. 8dRrwJ221gexH2F8u+O9lS65BDEJ+17QE+6+iFGBN6HLpX+pc+GpJFeQ KXzO70bNVpH1my+CnQBVXGZber5HEw==
 thiossane.sn.		43200	IN	NS	ns1.o2switch.net.
 thiossane.sn.		43200	IN	NS	ns2.o2switch.net.
 thiourayeshop.sn.	43200	IN	NS	pdns1.registrar-servers.com.
@@ -21386,9 +21405,9 @@ MCRCSMTO7RG4BJ85HUAECAP9K3BJ1RFK.sn. 5400 IN RRSIG NSEC3 13 2 5400 2021122109191
 ME4CMSJ8E1K4JDIEJV85CQAGU3LMNK03.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 MEGP33AOD2A5MSSGF155U5B6R8L1DOEJ NS DS RRSIG
 ME4CMSJ8E1K4JDIEJV85CQAGU3LMNK03.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211112180734 20210913171055 9009 sn. CZg5fyHQy+6W4xnhQwNrJIiGX8vdqzEeNvbd2uz2k0Usdo4fqN6BT68Y zNL8K5qmN7btIFKvmRYGh685amhQiw==
 MEGP33AOD2A5MSSGF155U5B6R8L1DOEJ.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 MFG2LMGNV1HQCL65AETT7UKCL7N1RQIU NS DS RRSIG
-MEGP33AOD2A5MSSGF155U5B6R8L1DOEJ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211109112255 20210918125003 9009 sn. U5zEJ0y/IgaPe5Z9lXcAIg8Uh77NTLRbmJNhtZrej/29AlJhhmpyCjEJ wC7XBnINU6ftflM0h7rimaZD/n7Srw==
+MEGP33AOD2A5MSSGF155U5B6R8L1DOEJ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211225110026 20211026102255 9009 sn. wkDNJ0Ic1DeEe1xZ++Zueyro7H0Y5EGHC5nh5LWOWafI/5m4TrFQlm+a xeZgcKU4onzErfTVTwrcBtoN6Lkrcw==
 MFG2LMGNV1HQCL65AETT7UKCL7N1RQIU.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 MG8152TTDA5JU4B2F01LABI0P295AIIG NS DS RRSIG
-MFG2LMGNV1HQCL65AETT7UKCL7N1RQIU.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211109112255 20210918125003 9009 sn. ilbEhMm0M0CJ2WEwQneA+uFhKcyoF0oEplxFUjpLwjkfT7ETyU5mWLgL Cw2wLTtFmc0ClRwyOkBQfXutTPFBQw==
+MFG2LMGNV1HQCL65AETT7UKCL7N1RQIU.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211225110026 20211026102255 9009 sn. CROavrfQt+pMnHK29PmA/jHozBsx6bGxO0/oLyQnd/DD3iM/mDwE+gQ8 DRFoZ1RtJk/pO4fplt1cRMd7QZFbTg==
 MG8152TTDA5JU4B2F01LABI0P295AIIG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 MJH21M4J2KN7SK3IL10O5C6CMKBJ98HU NS DS RRSIG
 MG8152TTDA5JU4B2F01LABI0P295AIIG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211114013443 20210915005841 9009 sn. 3OTuuEsNHKyy8Ut13cQX+na268gBbJQ2BQSQSkByIZUIZC9NryZsuaOa 64KFBF/rEmIdJnxiZFYjvCo1ZCZTjw==
 MJH21M4J2KN7SK3IL10O5C6CMKBJ98HU.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 MJMS2GOCP656K5BIFOB7L33ID2D8USMP NS DS RRSIG
