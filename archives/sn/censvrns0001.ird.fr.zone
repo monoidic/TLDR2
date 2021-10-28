@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222408148 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211227062002 20211028052002 9009 sn. BO6OWr8B+A0z1dVPHyS+LajDetTS6mPBzrqdNJESYnFjb0H59fUoTneA Si07kETEOnX8aMYIDLK9aN9S3iPz2g==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222408162 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211227081003 20211028071003 9009 sn. XL34XFhhdgAym2U5hvhf1w3z/Yg/WdLJo/VuQm6exoD7+RhOhAZgXNtX Ank0r0ln4so46PquqyaAKF319KA1zg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
-sn.			172800	IN	TXT	"No RRs processed [28/10/2021 08H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211216083048 20211028052002 9009 sn. BN6N4POvHgOVhcn1SG+j4uDeRvm0l/vvS2eGyRCSSYGZPD6yXMvrsSqc 0pp3/GpXNUNtI8OIJ1k4EhhNEonQcQ==
+sn.			172800	IN	TXT	"No RRs processed [28/10/2021 10H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211117185601 20211028071003 9009 sn. ZAvPbcrGl9VZAbOEvmbcOwj5JrsOty+HA5rwpXqfhO9snZAnVf/sYMFc 3VHVaur5mC1kwKZKPQmpwqk4BCUQBA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
@@ -515,7 +515,7 @@ adeos.sn.		43200	IN	NS	dns101.ovh.net.
 adepme.sn.		43200	IN	NS	ns14.ovh.net.
 adepme.sn.		43200	IN	NS	dns14.ovh.net.
 adepme.sn.		43200	IN	DS	23274 7 2 8B76D1BF6E6301C37727553F2F7B7ECD8B5A6B1698060907E8A19BA0 17BC439C
-adepme.sn.		43200	IN	RRSIG	DS 13 2 43200 20211111064527 20210912054805 9009 sn. QL04zzrwuv2D6YcnbE0huky7YueI0WkYHsYEbCEiW3EnQsolLaOPZvWR SgkzaYXfLTqaNqDJI/nXjBNmXrCkcA==
+adepme.sn.		43200	IN	RRSIG	DS 13 2 43200 20211227064426 20211028054527 9009 sn. 2wDBW8ofT0+0/7cW61TvMeuEMAMhkaYtLZokO7por6xaUQSpHE3PIrdb EMCUIMDrOZaT29pq+Y2IIiAxaOvMAA==
 adept.sn.		43200	IN	NS	ns1.md-91.webhostbox.net.
 adept.sn.		43200	IN	NS	ns2.md-91.webhostbox.net.
 adesa.sn.		172800	IN	NS	dns1.cscdns.net.
@@ -5463,7 +5463,7 @@ digisen.sn.		172800	IN	NS	ns4.a2hosting.com.
 digismileagency.sn.	43200	IN	NS	ns7.jajeuf.com.
 digismileagency.sn.	43200	IN	NS	ns8.jajeuf.com.
 digismileagency.sn.	43200	IN	DS	26647 1 1 E9E26B45966230FCCC7CF397D53AA1F33F11AC01
-digismileagency.sn.	43200	IN	RRSIG	DS 13 2 43200 20211111073548 20210912065603 9009 sn. hQyJCeuho2WJKy6vue7si6Y0+O/6MtRQvekljFavEI+HNs40TqsovWPy G6vjPDyT+STKf3vrh4L8v4PoWhaqBQ==
+digismileagency.sn.	43200	IN	RRSIG	DS 13 2 43200 20211227070356 20211028063548 9009 sn. wb3tofpzvn6aDz0EI2VjT6fXodwxUGILR6L+iJ4tNtdaXw/YpHrgiKr6 WRP17t+9C+Mq0h24WN6pttDB2/JonQ==
 digisport.sn.		172800	IN	NS	ns1.kheweul.net.
 digisport.sn.		172800	IN	NS	ns2.kheweul.net.
 digisport.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -9674,8 +9674,9 @@ irisholding.sn.		172800	IN	NS	ns100.ovh.net.
 irisholding.sn.		172800	IN	NS	dns100.ovh.net.
 irisn.sn.		43200	IN	NS	ns.sonatel.sn.
 irisn.sn.		43200	IN	NS	ns2.sonatel.sn.
-irritec.sn.		43200	IN	NS	ns113.ovh.net.
-irritec.sn.		43200	IN	NS	dns113.ovh.net.
+irritec.sn.		172800	IN	NS	ns.abdns.eu.
+irritec.sn.		172800	IN	NS	ns.abdns.biz.
+irritec.sn.		172800	IN	NS	ns.abdns.info.
 isa.sn.			43200	IN	NS	ns1.kheweul.net.
 isa.sn.			43200	IN	NS	ns2.kheweul.net.
 isa.sn.			43200	IN	NS	ns3.kheweul.net.
@@ -10457,7 +10458,7 @@ kayloo.sn.		172800	IN	NS	ns01.afriregister.com.
 kaynoo.sn.		43200	IN	NS	ns13.ovh.net.
 kaynoo.sn.		43200	IN	NS	dns13.ovh.net.
 kaynoo.sn.		43200	IN	DS	43210 8 2 CA4B507FFA47B5DD70B615DCA143364F55AE0B738061829F1B75DF72 DEDBC989
-kaynoo.sn.		43200	IN	RRSIG	DS 13 2 43200 20211111064323 20210912055641 9009 sn. tO9ZcJ0/xz4D9QtyJ4g+19bWknV1JQSVKtOlWXJ7tIJ+iXBtXNL9mJhc dfs6auUeS06dqvrJHqEThZ+7D70b5g==
+kaynoo.sn.		43200	IN	RRSIG	DS 13 2 43200 20211227063539 20211028054323 9009 sn. Iu/KyJ8LmsmD1r87/7Y/ZsvJ3UYr47lLYEqOTmKrSqQ9NixpJLlsXl/x 6kvb4aRtWo1UpV8KkHdUpWeFv/Jodw==
 kaynos.sn.		43200	IN	NS	ns200.anycast.me.
 kaynos.sn.		43200	IN	NS	dns200.anycast.me.
 kayoor.sn.		43200	IN	NS	ns1.francedns.com.
@@ -10556,8 +10557,6 @@ kessidev.sn.		43200	IN	DS	13657 8 2 5F23873CAFDD7442C28125FDDD2EFB8A5094946EF58A
 kessidev.sn.		43200	IN	RRSIG	DS 13 2 43200 20211224023216 20211025013638 9009 sn. ATmRI3wpEnx9raor190IndCw3NQarUBZIKx+4GYv1up8rrQWPH46kt8f YT8oaAgFRUUCJMr5UuTaKl3gzU0MKQ==
 keur.sn.		43200	IN	NS	ns1.snterra.com.
 keur.sn.		43200	IN	NS	ns2.snterra.com.
-keurapplestore.sn.	43200	IN	NS	ns1.giowm1147.siteground.biz.
-keurapplestore.sn.	43200	IN	NS	ns2.giowm1147.siteground.biz.
 keurimmo.sn.		172800	IN	NS	ns1.bluehost.com.
 keurimmo.sn.		172800	IN	NS	ns2.bluehost.com.
 keurinvest.sn.		43200	IN	NS	ns105.ovh.net.
@@ -16283,6 +16282,8 @@ sencommerce.sn.		43200	IN	NS	ns1.caurys.net.
 sencommerce.sn.		43200	IN	NS	ns2.caurys.net.
 sencommune.sn.		43200	IN	NS	ns1.cp-ht-7.webhostbox.net.
 sencommune.sn.		43200	IN	NS	ns2.cp-ht-7.webhostbox.net.
+sencompte.sn.		172800	IN	NS	ns200.anycast.me.
+sencompte.sn.		172800	IN	NS	dns200.anycast.me.
 sencosp.sn.		172800	IN	NS	ns1.wanekoohost.com.
 sencosp.sn.		172800	IN	NS	ns2.wanekoohost.com.
 sencosp.sn.		172800	IN	NS	ns4.wanekoohost.com.
