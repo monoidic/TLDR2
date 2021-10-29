@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222408335 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222408349 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211209062227 20211029072003 9009 sn. vtsL3EEFwvo8Rp3P1nW4CK9oKyWyXCqks6VdzRDL++3XnWb8F/qeJSJs mGy+BLzljwdRQvyt5t9P17hx+X2TEg==
-sn.			172800	IN	TXT	"No RRs processed [29/10/2021 10H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211127073043 20211029091003 9009 sn. exsSiiMTmj2GaacTv7gXv5QRcmljHoQ3jszF7h1hLStr2bqWhsam2l8V 8F55FMgkph/tQtEnFjS8tR8M1zOClg==
+sn.			172800	IN	TXT	"No RRs processed [29/10/2021 12H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211228082003 20211029072003 9009 sn. U1GjFr/lMkgow+Y8V3xDhZOwXswy8/55Xb96gR33M9R1MXFKoSEXWRHq IfEXYkX9qD6aLKaVDXggKt/iCRRAiw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211228101003 20211029091003 9009 sn. FoaJjdc6KfsQv60cO9jIs7WuHZlUm/4rBsKpIt/kkYxpJ6xNFYuYda38 ig/rnYXHwqINNyJU5mNa7C6Mpx6Ivw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -5855,6 +5855,9 @@ drpepper.sn.		43200	IN	NS	ns3-09.azure-dns.org.
 drpepper.sn.		43200	IN	NS	ns4-09.azure-dns.info.
 dsbimmo.sn.		43200	IN	NS	ns113.ovh.net.
 dsbimmo.sn.		43200	IN	NS	dns113.ovh.net.
+dsflix.sn.		172800	IN	NS	ns1.francedns.com.
+dsflix.sn.		172800	IN	NS	ns2.francedns.com.
+dsflix.sn.		172800	IN	NS	ns3.francedns.com.
 dsi.sn.			43200	IN	NS	ns1.cp-ht-11.webhostbox.net.
 dsi.sn.			43200	IN	NS	ns2.cp-ht-11.webhostbox.net.
 dsi-senegal.sn.		43200	IN	NS	ns1.caurys.net.
@@ -10737,7 +10740,7 @@ konnect.sn.		172800	IN	NS	ns4.wanekoohost.com.
 konnect-mauritanie.sn.	172800	IN	NS	ns1.wanekoohost.com.
 konnect-mauritanie.sn.	172800	IN	NS	ns2.wanekoohost.com.
 konnect-mauritanie.sn.	172800	IN	NS	ns4.wanekoohost.com.
-konnectek.sn.		172800	IN	RRSIG	DS 13 2 172800 20211112094116 20210913091700 9009 sn. A9FPSg9uGHxJLVKQtc++CwB06lbvv+MWUTHgslhjY+NcyhJ/WFUqykpg iaYOqTwF/A88lDXZ6vHeR38G2cFZ4A==
+konnectek.sn.		172800	IN	RRSIG	DS 13 2 172800 20211228092435 20211029084116 9009 sn. kX4D7jJJDsgH3pjT1u9UQeiB5BmfahH+w3ucP7h/uqlC7BOm2y35emIA h1khxjEmkfqm4qPgypHekr+5/6yhKA==
 konnectek.sn.		172800	IN	DS	51199 8 2 486E65100ED7B5469AB3D1102831CAACE07244B8A1CE90DD5AF7A710 B6338AE8
 konnectek.sn.		172800	IN	NS	ns14.ovh.net.
 konnectek.sn.		172800	IN	NS	dns14.ovh.net.
@@ -13007,7 +13010,7 @@ navetane.sn.		172800	IN	RRSIG	DS 13 2 172800 20211209070518 20211011124002 9009 
 navetane.sn.		172800	IN	DS	52207 8 2 8AFC52760BABA8281AD2350839C6AE46F0F57631CB66C60F9C39A98A EC570EBD
 navetane.sn.		172800	IN	NS	ns105.ovh.net.
 navetane.sn.		172800	IN	NS	dns105.ovh.net.
-navitec.sn.		43200	IN	RRSIG	DS 13 2 43200 20211112084242 20210913074338 9009 sn. Xz4zDv20nyZE5Yk+OdiFutu0WyaHgB0RZq8W1xlaer4NRBOE7bIWowUe T6XRRtWgDp6thRB7yGERaF3L3dlbGQ==
+navitec.sn.		43200	IN	RRSIG	DS 13 2 43200 20211228082101 20211029074242 9009 sn. /nvT+uJCa0VuBOrIbdpqsbiMBCyb4Pe2bMeIo9G1oPNoicoobQBw5Dq3 DVMizjUENGZWFH7q7WAHifB0T4r4KA==
 navitec.sn.		43200	IN	DS	27835 8 2 FF30531E25EB895DD793DD5B4BA1A8C89C0E494CF9AC373102730F12 B32694E4
 navitec.sn.		43200	IN	NS	ns200.anycast.me.
 navitec.sn.		43200	IN	NS	dns200.anycast.me.
@@ -17764,10 +17767,8 @@ sowlawyers.sn.		43200	IN	NS	nsmpro2.nordnet.com.
 spar.sn.		43200	IN	NS	ns1.101domain.com.
 spar.sn.		43200	IN	NS	ns2.101domain.com.
 spar.sn.		43200	IN	NS	ns5.101domain.com.
-spdi.sn.		43200	IN	NS	ns1.kheweul.net.
-spdi.sn.		43200	IN	NS	ns2.kheweul.net.
-spdi.sn.		43200	IN	NS	ns3.kheweul.net.
-spdi.sn.		43200	IN	NS	ns4.kheweul.net.
+spdi.sn.		172800	IN	NS	dns1.tizoo.com.
+spdi.sn.		172800	IN	NS	dns2.tizoo.com.
 spe.sn.			43200	IN	NS	ns1.afrowebmaster.com.
 spe.sn.			43200	IN	NS	ns2.afrowebmaster.com.
 spe.sn.			43200	IN	NS	ns3.afrowebmaster.com.
@@ -18096,7 +18097,7 @@ sunuwork.sn.		43200	IN	NS	ns2.snterra.com.
 sunuyeuf.sn.		43200	IN	NS	ns2.observatoiredesmarques.fr.
 sunuyeuf.sn.		43200	IN	NS	ns3.nameshield.net.
 sunuyeuf.sn.		43200	IN	NS	obs.ns1.fr.
-sup-tp.sn.		43200	IN	RRSIG	DS 13 2 43200 20211112082521 20210913073042 9009 sn. kXO5rsKWLVqw+3mhP6o5fZ/6qW/Kng/k1e78M6T/ncmarA6Vq2glhAXg QkEu3WII9KH/oaAg5URCmY4Vu6djqw==
+sup-tp.sn.		43200	IN	RRSIG	DS 13 2 43200 20211228080406 20211029072521 9009 sn. vNdjhP5ttklzvWrfI/ySN7xv8kplhHfSsqSWSzbMeP6fycO56ckxnCBX SnPRhGpelDywgB7SyFq5fmOtlV295Q==
 sup-tp.sn.		43200	IN	DS	48619 8 2 56940125987E117FF61D04220D9EC755FD480968924EBC2EDAA488C7 D870998E
 sup-tp.sn.		43200	IN	NS	ns10.ovh.ca.
 sup-tp.sn.		43200	IN	NS	dns10.ovh.ca.
@@ -19217,6 +19218,8 @@ ucao2-elearning.sn.	43200	IN	NS	ns.arc.sn.
 ucao2-elearning.sn.	43200	IN	NS	ns3.arc.sn.
 ucspe.sn.		43200	IN	NS	ns.sonatel.sn.
 ucspe.sn.		43200	IN	NS	ns2.sonatel.sn.
+udongo.sn.		172800	IN	NS	ns-sv1.ocpgroup.ma.
+udongo.sn.		172800	IN	NS	ns-sv2.ocpgroup.ma.
 uein.sn.		43200	IN	NS	ns.sonatel.sn.
 uein.sn.		43200	IN	NS	ns2.sonatel.sn.
 ufertilizers.sn.	43200	IN	NS	ns4-l2.nic.ru.
