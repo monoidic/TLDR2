@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222408426 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222408438 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211228131619 20211029191003 9009 sn. aKBdqKe4IIwEr5MVsvMDE1kGcxzdlXDgFoLhjdlojwuSBfoDP0rAX9Z+ cD1TaqPMTtwP8br+xpVahx780JGwpA==
-sn.			172800	IN	TXT	"No RRs processed [29/10/2021 22H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211227073654 20211029211003 9009 sn. eaW7GG2m3V9W71J/Ibg1a/Ucs+MAvkFCSZUFX7USjPSONjC8ZQsa4/2c HbU5FoTpkUgLIqZ0+BQGhTQVDIhR6A==
+sn.			172800	IN	TXT	"No RRs processed [30/10/2021 00H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211228201003 20211029191003 9009 sn. wwRSvRbmKzkaQe8mARe9R7/LPIcYc7aFdtjXTlJqmppxKjoUs7w4Te3q hLbxwPKxTtKYanyA1Vf0UE90RY+AGg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211228221003 20211029211003 9009 sn. di69iBWjyR82l0mm9ZuehyBd0ugduiEWIHP6TCQu1r1F5VCysPhbFgpS YkrkPHK9klRtLXsdvjc/ZShCfECtvA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -12493,6 +12493,10 @@ mis.sn.			43200	IN	NS	ns2.101domain.com.
 mis.sn.			43200	IN	NS	ns5.101domain.com.
 mismo.sn.		43200	IN	NS	ns200.anycast.me.
 mismo.sn.		43200	IN	NS	dns200.anycast.me.
+miss.sn.		172800	IN	NS	dns1.supremedns.com.
+miss.sn.		172800	IN	NS	dns2.supremedns.com.
+miss.sn.		172800	IN	NS	dns3.supremedns.com.
+miss.sn.		172800	IN	NS	dns4.supremedns.com.
 missbaby.sn.		172800	IN	RRSIG	DS 13 2 172800 20211217085906 20211018083548 9009 sn. zqEf4v/LUiCo+XLnhmRihJarS0PC2s8KB/kylqTZyAzJa29cmCJyWpxV GrqR+wGBK4ZB8e219fU8QhRLynxUPQ==
 missbaby.sn.		172800	IN	DS	25084 8 2 2F5A8BB614877A55C1B75A8789671A01C5B265CC0FF4E93DE9395DDD CB0D0628
 missbaby.sn.		172800	IN	NS	ns200.anycast.me.
@@ -16361,8 +16365,10 @@ sencommerce.sn.		43200	IN	NS	ns1.caurys.net.
 sencommerce.sn.		43200	IN	NS	ns2.caurys.net.
 sencommune.sn.		43200	IN	NS	ns1.cp-ht-7.webhostbox.net.
 sencommune.sn.		43200	IN	NS	ns2.cp-ht-7.webhostbox.net.
-sencompte.sn.		172800	IN	NS	anuj.ns.cloudflare.com.
-sencompte.sn.		172800	IN	NS	tina.ns.cloudflare.com.
+sencompte.sn.		172800	IN	NS	ns16.ovh.net.
+sencompte.sn.		172800	IN	NS	dns16.ovh.net.
+sencompte.sn.		172800	IN	NS	ns200.anycast.me.
+sencompte.sn.		172800	IN	NS	dns200.anycast.me.
 sencosp.sn.		172800	IN	NS	ns1.wanekoohost.com.
 sencosp.sn.		172800	IN	NS	ns2.wanekoohost.com.
 sencosp.sn.		172800	IN	NS	ns4.wanekoohost.com.
