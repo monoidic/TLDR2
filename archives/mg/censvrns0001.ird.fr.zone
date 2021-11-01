@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021110114 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021110116 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1635775240"
+mg.			7200	IN	TXT	"Generation Time: 1635782432"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -43,8 +43,8 @@ mg.			7200	IN	TXT	"Generation Time: 1635775240"
 15.mg.			7200	IN	NS	ursula.ns.cloudflare.com.
 16.mg.			7200	IN	NS	mario.ns.cloudflare.com.
 16.mg.			7200	IN	NS	tara.ns.cloudflare.com.
-168.mg.			7200	IN	NS	ns1.world-server.net.
-168.mg.			7200	IN	NS	ns2.world-server.net.
+168.mg.			7200	IN	NS	ns1.registry-server.com.
+168.mg.			7200	IN	NS	ns2.registry-server.com.
 17.mg.			7200	IN	NS	ns1.4.cn.
 17.mg.			7200	IN	NS	ns2.4.cn.
 18.mg.			7200	IN	NS	ns1.dns.com.
@@ -2391,6 +2391,8 @@ clinicsthomas.mg.	7200	IN	NS	ns2.gasyweb.com.
 cliniquereinemarie.mg.	7200	IN	NS	ns1.mg.tambazotra.net.
 cliniquereinemarie.mg.	7200	IN	NS	ns2.mg.tambazotra.net.
 cliniquereinemarie.mg.	7200	IN	NS	ns1.fr.malagasy.com.
+clood.mg.		7200	IN	NS	ns29.illi.co.mg.
+clood.mg.		7200	IN	NS	ns29.dot.mg.
 cloud.mg.		7200	IN	NS	ns1.hostadom.net.
 cloud.mg.		7200	IN	NS	ns2.hostadom.net.
 cloud-univ.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
@@ -6279,8 +6281,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
