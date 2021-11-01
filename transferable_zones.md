@@ -22,6 +22,7 @@
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `er` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/zaranew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
+* `fj` via `ns2.fj.`: [Click here to view zone data.](archives/fj/ns2.fj.zone)
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
 * `kg` via `ns2.kg.`: [Click here to view zone data.](archives/kg/ns2.kg.zone)
 * `mg` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/censvrns0001.ird.fr.zone)
