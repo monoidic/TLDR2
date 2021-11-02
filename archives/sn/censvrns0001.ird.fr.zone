@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409055 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409068 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211227184457 20211102152003 9009 sn. /rf8WXF/DT0EfyA+CS2FlqnJHwM6p7eYDILYtkn9JPySWHuSru8Ulqt/ iqrW+tykXjh4UrKeqV2Bd4qwqL4JBw==
-sn.			172800	IN	TXT	"No RRs processed [02/11/2021 17H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211117194217 20211102172003 9009 sn. k3qCZjg9cMoti1WfjM5hPsHHeTZuUvTTC1jLVvry6zo79uwT8ZuOB9qT ymxV21ffff0Nkrpt3MyvJLsm9ZzXfg==
+sn.			172800	IN	TXT	"No RRs processed [02/11/2021 19H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220101162003 20211102152003 9009 sn. DSylLZ//KS200EMbt6DB4PtrWGCTf1rKDc3trQZdI4Cq/aN304t+802T r7jVFTALSbvEwj9lRdY9ErypusZJ2w==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220101182553 20211102172553 9009 sn. rgGJhJLMNtdL0TBmnfaOS86+d7CPhw4HgnfIEEq/s5JG9ItBUk87Tdyo +4a+FvCJQKxXmLCmsnMzdA2PiS0AiQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -10459,7 +10459,7 @@ kanedia.sn.		172800	IN	NS	ns2.francedns.com.
 kanedia.sn.		172800	IN	NS	ns3.francedns.com.
 kangam-it.sn.		43200	IN	NS	ns1.macaisse.sn.
 kangam-it.sn.		43200	IN	NS	ns2.macaisse.sn.
-kangeprestations.sn.	172800	IN	RRSIG	DS 13 2 172800 20211116182553 20210917181234 9009 sn. 8bFYZzMhIBhQi4QKKB6m4YYmi6ldk8d5ZLPrQP9ePjJbaKRayMXB9xAv TxqOni/3+ANEz88jSzwHyl9f3TqfuQ==
+kangeprestations.sn.	172800	IN	RRSIG	DS 13 2 172800 20220101174515 20211102172553 9009 sn. GZ+sMxpCxavhZVi8scluKl/pXuAFrd4uMKBJDSE28mD/FSSho/jmSjMY GAYUItwgqnGG3pFE/7mpNT5wK/wWUw==
 kangeprestations.sn.	172800	IN	DS	45157 8 2 5A41F6B764A8F7198467FF9040ED9B338BDCC2C94AA560237735B1AC B574E623
 kangeprestations.sn.	172800	IN	NS	ns106.ovh.net.
 kangeprestations.sn.	172800	IN	NS	dns106.ovh.net.
@@ -19517,6 +19517,10 @@ uvp.sn.			43200	IN	NS	dns10.ovh.net.
 uvs.sn.			43200	IN	NS	dns.ucad.sn.
 uvs.sn.			43200	IN	NS	poste1.uvs.sn.
 poste1.uvs.sn.		172800	IN	A	102.36.136.2
+uwheels.sn.		172800	IN	NS	ns1.wanekoohost.com.
+uwheels.sn.		172800	IN	NS	ns2.wanekoohost.com.
+uwheels.sn.		172800	IN	NS	ns5.wanekoohost.com.
+uwheels.sn.		172800	IN	NS	ns6.wanekoohost.com.
 vallagri.sn.		43200	IN	NS	ns200.anycast.me.
 vallagri.sn.		43200	IN	NS	dns200.anycast.me.
 valoris.sn.		43200	IN	NS	ns20.ovh.net.
