@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021110308 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021110310 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1635926447"
+mg.			7200	IN	TXT	"Generation Time: 1635933630"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -236,6 +236,8 @@ mg.			7200	IN	TXT	"Generation Time: 1635926447"
 6t.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
 6w.mg.			7200	IN	NS	norm.ns.cloudflare.com.
 6w.mg.			7200	IN	NS	rihana.ns.cloudflare.com.
+700.mg.			7200	IN	NS	ns1.ndns.cn.
+700.mg.			7200	IN	NS	ns2.ndns.cn.
 73.mg.			7200	IN	NS	ns1.accountsupport.com.
 73.mg.			7200	IN	NS	ns2.accountsupport.com.
 75.mg.			7200	IN	NS	howard.ns.cloudflare.com.
@@ -2360,6 +2362,8 @@ cir.mg.			7200	IN	NS	ns29.dot.mg.
 cirad.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 cirad.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 cirad.mg.		7200	IN	NS	ns1.fr.malagasy.com.
+cisco-tanaville.mg.	7200	IN	NS	ns1.da.cloudns.io.
+cisco-tanaville.mg.	7200	IN	NS	ns2.da.cloudns.io.
 citizentananarive.mg.	7200	IN	NS	ns.dts.mg.
 citizentananarive.mg.	7200	IN	NS	ns1.dts.mg.
 citroen.mg.		7200	IN	NS	a.dns.gandi.net.
@@ -2880,6 +2884,8 @@ dggfpe.mg.		7200	IN	NS	karl.ns.cloudflare.com.
 dggfpe.mg.		7200	IN	NS	oaklyn.ns.cloudflare.com.
 diabe.mg.		7200	IN	NS	ns5.webhostingpad.com.
 diabe.mg.		7200	IN	NS	ns6.webhostingpad.com.
+diarynofy.mg.		7200	IN	NS	ns1.cloudns.io.
+diarynofy.mg.		7200	IN	NS	ns2.cloudns.io.
 diaspora.mg.		7200	IN	NS	ns6111.hostgator.com.
 diaspora.mg.		7200	IN	NS	ns6112.hostgator.com.
 dibaq.mg.		7200	IN	NS	ns1.servermada.com.
@@ -4840,6 +4846,8 @@ i-dokotera.mg.		86400	IN	NS	ns3.entrydns.net.
 i-dokotera.mg.		86400	IN	NS	ns4.entrydns.net.
 i-fanampy.mg.		86400	IN	NS	cpanel9.lws-hosting.com.
 i-fanampy.mg.		86400	IN	NS	cpanel10.lws-hosting.com.
+i-fokontany.mg.		86400	IN	NS	dns200.anycast.me.
+i-fokontany.mg.		86400	IN	NS	ns200.anycast.me.
 i-laharana.mg.		86400	IN	NS	dns1.alwaysdata.com.
 i-laharana.mg.		86400	IN	NS	dns2.alwaysdata.com.
 i-lease.mg.		86400	IN	NS	ns1.o2switch.net.
@@ -4848,6 +4856,8 @@ i-madagasikara.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 i-madagasikara.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 i-politika.mg.		86400	IN	NS	ns1.da.cloudns.io.
 i-politika.mg.		86400	IN	NS	ns2.da.cloudns.io.
+i-sekoliko.mg.		86400	IN	NS	ns16.ovh.net.
+i-sekoliko.mg.		86400	IN	NS	dns16.ovh.net.
 i-sekoly.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 i-sekoly.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 i-tantsoroka.mg.	86400	IN	NS	ns1.digitalocean.com.
@@ -5104,8 +5114,8 @@ ingenosya.mg.		86400	IN	NS	ns2.contabo.net.
 ingenosya.mg.		86400	IN	NS	ns3.contabo.net.
 ingrammicro.mg.		86400	IN	NS	acsints01.acsonline.com.
 ingrammicro.mg.		86400	IN	NS	acsints02.acsonline.com.
-initiative-madagasikara.mg. 86400 IN	NS	ns16.ovh.net.
-initiative-madagasikara.mg. 86400 IN	NS	dns16.ovh.net.
+initiative-madagasikara.mg. 86400 IN	NS	dns200.anycast.me.
+initiative-madagasikara.mg. 86400 IN	NS	ns200.anycast.me.
 initiatives.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 initiatives.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 initiatives.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -5563,6 +5573,8 @@ kasia.mg.		86400	IN	NS	ns2.da.cloudns.io.
 kaspersky.mg.		86400	IN	NS	ns2.kasperskylabs.net.
 kaspersky.mg.		86400	IN	NS	ns3.kasperskylabs.net.
 kaspersky.mg.		86400	IN	NS	ns1.kasperskylabs.net.
+katolika.mg.		86400	IN	NS	ns1.gasyweb.com.
+katolika.mg.		86400	IN	NS	ns2.gasyweb.com.
 kawasaki.mg.		86400	IN	NS	ns1.da.cloudns.io.
 kawasaki.mg.		86400	IN	NS	ns2.da.cloudns.io.
 keas.mg.		86400	IN	NS	ns1705.websitewelcome.com.
@@ -10509,8 +10521,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
