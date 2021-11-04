@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021110412 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021110414 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1636027242"
+mg.			7200	IN	TXT	"Generation Time: 1636034430"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3478,6 +3478,8 @@ esri.mg.		86400	IN	NS	ns1-park.esri.com.
 esri.mg.		86400	IN	NS	ns2-park.esri.com.
 essagro.mg.		86400	IN	NS	ns1.cloudns.io.
 essagro.mg.		86400	IN	NS	ns2.cloudns.io.
+essca.mg.		86400	IN	NS	ns1.servermada.com.
+essca.mg.		86400	IN	NS	ns2.servermada.com.
 essence.mg.		86400	IN	NS	dns1.inforent.net.
 essence.mg.		86400	IN	NS	dns2.inforent.de.
 essence.mg.		86400	IN	NS	dns3.inforent.eu.
@@ -6300,8 +6302,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6470,8 +6472,8 @@ malagasyinitiativeinstitute.mg.	86400 IN NS	ns1.hostibox.com.
 malagasyinitiativeinstitute.mg.	86400 IN NS	ns2.hostibox.com.
 malagasysolutionspartner.mg. 86400 IN	NS	ns1.gasyweb.com.
 malagasysolutionspartner.mg. 86400 IN	NS	ns2.gasyweb.com.
-malina.mg.		86400	IN	NS	adns1.easydns.com.
-malina.mg.		86400	IN	NS	adns2.easydns.com.
+malina.mg.		86400	IN	NS	ns1.cloudns.io.
+malina.mg.		86400	IN	NS	ns2.cloudns.io.
 malio.mg.		86400	IN	NS	dns1.supremepanel.com.
 malio.mg.		86400	IN	NS	dns2.supremepanel.com.
 malp.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -10004,9 +10006,8 @@ telmasa.mg.		86400	IN	NS	ns.dts.mg.
 telmasa.mg.		86400	IN	NS	ns1.dts.mg.
 telmatv.mg.		86400	IN	NS	ns.tgn.mg.
 telmatv.mg.		86400	IN	NS	ns1.tgn.mg.
-tenamora.mg.		86400	IN	NS	ns1.indritech.mg.
-tenamora.mg.		86400	IN	NS	ns2.indritech.mg.
-tenamora.mg.		86400	IN	NS	ns3.indritech.mg.
+tenamora.mg.		86400	IN	NS	andronicus.ns.cloudflare.com.
+tenamora.mg.		86400	IN	NS	kristin.ns.cloudflare.com.
 teny.mg.		86400	IN	NS	ns29.illi.co.mg.
 teny.mg.		86400	IN	NS	ns29.dot.mg.
 terabit.mg.		86400	IN	NS	ns.anjaharizah.com.
@@ -10530,8 +10531,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
