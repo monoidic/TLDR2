@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409375 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409387 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211215064349 20211104152002 9009 sn. mzObd3eTjohlQ3lxQEheH3Iy8lg0CGpRQeU9kCwbtn7jYCqqYz5P6es5 wh0naUAb0G2skvKnrJWs2ZK/4XDk0A==
-sn.			172800	IN	TXT	"No RRs processed [04/11/2021 17H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211222124051 20211104172003 9009 sn. RmE/q4UV/nfn9S4U9gRTeQEwzTv2jYIZTMpUSAl3QhsS5TbEEE/MLB7S s6yDv+e13ID3SrMfM0a8CTZXUz0/DQ==
+sn.			172800	IN	TXT	"No RRs processed [04/11/2021 19H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220103162002 20211104152002 9009 sn. z8ECMNnGXq6pHGxfdw+M6crc/56pTWVMMCmuxLwVkTbncPFouDgvDqFF Sk1f5i0aoz09Ei+IyHRzxLEyr+Ly2w==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220103182003 20211104172003 9009 sn. AIzMR0E6kUlyhJ/CcZC5h9KoXzFrkCKzRlQRymnM9jVpsmpOGilEGswH WKKm2+V2fr5phyAYG0V/E+jEfIZB1w==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -1136,6 +1136,8 @@ alrahma.sn.		43200	IN	NS	dns200.anycast.me.
 alstom.sn.		43200	IN	NS	ns2.observatoiredesmarques.fr.
 alstom.sn.		43200	IN	NS	ns3.nameshield.net.
 alstom.sn.		43200	IN	NS	obs.ns1.fr.
+altaservices.sn.	172800	IN	NS	ns9.jajeuf.com.
+altaservices.sn.	172800	IN	NS	ns10.jajeuf.com.
 altria.sn.		43200	IN	NS	dns1.cscdns.net.
 altria.sn.		43200	IN	NS	dns2.cscdns.net.
 altrosen.sn.		43200	IN	NS	ns113.ovh.net.
@@ -3173,6 +3175,8 @@ cafex.sn.		43200	IN	NS	ns1.ascio.com.
 cafex.sn.		43200	IN	NS	ns2.ascio.com.
 cafex.sn.		43200	IN	NS	ns3.ascio.com.
 cafex.sn.		43200	IN	NS	ns4.ascio.com.
+cafi.sn.		172800	IN	NS	ns16.ovh.net.
+cafi.sn.		172800	IN	NS	dns16.ovh.net.
 cafijex.sn.		43200	IN	NS	ns31.infomaniak.com.
 cafijex.sn.		43200	IN	NS	ns32.infomaniak.com.
 cais-agro-industries.sn. 43200	IN	NS	sdns2.ovh.net.
