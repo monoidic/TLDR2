@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409318 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409332 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211218090746 20211104071003 9009 sn. U0bmRrSCGaExpj7LMy6zmUyW9bNB5O58QoGCogj/fJhyoVCJZCJ4vZiK gmn740LQXbbX6ZP38hMOj3n8ouLlHQ==
-sn.			172800	IN	TXT	"No RRs processed [04/11/2021 09H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211120111028 20211104091002 9009 sn. gimKhiKGPbBFADdgWJXZVHPZEYPfL+PWrET/WILq6KhFbqqneChgXr/k kykZr7B6BtFKEl6qG73WbDJ9eNfshw==
+sn.			172800	IN	TXT	"8 RRs processed [04/11/2021 11H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220103081003 20211104071003 9009 sn. 2hS81NJyzJKvm0TsIFChBRPytabQFEOn4kDdOQbDzsOgW2nVUBxOmfPz K2YG/yW/EsSPys8n0SNppqPnwlD74A==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220103101002 20211104091002 9009 sn. 0nVMYdX64mfLo5J20OeJijMmJ5QjBU66l/BviaPHUaoAX4a72aU997o5 tPS8qbUaqnKFpbcr5TnBZGoBneYgyQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -7014,7 +7014,7 @@ evolution.sn.		172800	IN	NS	dns1.zaccodigitaltrustlabs.com.
 evolution.sn.		172800	IN	NS	dns2.zaccodigitaltrustlabs.net.
 evolution.sn.		172800	IN	NS	dns3.zaccodigitaltrustlabs.se.
 evolution.sn.		172800	IN	NS	dns4.zaccodigitaltrustlabs.se.
-evolution-perspectives.sn. 43200 IN	RRSIG	DS 13 2 43200 20211118084210 20210919082637 9009 sn. WDN/HQHDj1ei1MDNAbpt1ObQNUpTt4Cc4tOhpDl9NsrDyzxQIsGNyJns rMa69nh83glvtB6N0pYDwma11LsG0g==
+evolution-perspectives.sn. 43200 IN	RRSIG	DS 13 2 43200 20220103081902 20211104074210 9009 sn. XRLisENtzF7SxwrGOh6B7Hk3nFadX3LCTEi8Xn/1x9GyaajJY8+L1jdk ya62Q1i6AhD6RGVL1CoXF4YQKAx01w==
 evolution-perspectives.sn. 43200 IN	DS	53992 8 2 5E12ABD6450908097EA2F86E3547C9F48F797952021B63A9AD441FED 88C47038
 evolution-perspectives.sn. 43200 IN	NS	ns101.ovh.net.
 evolution-perspectives.sn. 43200 IN	NS	dns101.ovh.net.
@@ -10687,6 +10687,9 @@ kheweul.sn.		43200	IN	NS	ns1.kheweul.net.
 kheweul.sn.		43200	IN	NS	ns2.kheweul.net.
 kheweul.sn.		43200	IN	NS	ns3.kheweul.net.
 kheweul.sn.		43200	IN	NS	ns4.kheweul.net.
+khouma.sn.		172800	IN	NS	ns1.francedns.com.
+khouma.sn.		172800	IN	NS	ns2.francedns.com.
+khouma.sn.		172800	IN	NS	ns3.francedns.com.
 kiabi.sn.		43200	IN	NS	a.dns.gandi.net.
 kiabi.sn.		43200	IN	NS	b.dns.gandi.net.
 kiabi.sn.		43200	IN	NS	c.dns.gandi.net.
@@ -12730,6 +12733,11 @@ monmenu.sn.		43200	IN	NS	ns.arc.sn.
 monmenu.sn.		43200	IN	NS	ns3.arc.sn.
 monoprix.sn.		172800	IN	NS	dns1.cscdns.net.
 monoprix.sn.		172800	IN	NS	dns2.cscdns.net.
+monouztaz.sn.		172800	IN	NS	ns1.wanekoohost.com.
+monouztaz.sn.		172800	IN	NS	ns2.wanekoohost.com.
+monouztaz.sn.		172800	IN	NS	ns4.wanekoohost.com.
+monouztaz.sn.		172800	IN	NS	ns5.wanekoohost.com.
+monouztaz.sn.		172800	IN	NS	ns6.wanekoohost.com.
 monpays.sn.		43200	IN	NS	ns1.cp-43.webhostbox.net.
 monpays.sn.		43200	IN	NS	ns2.cp-43.webhostbox.net.
 monsanto.sn.		43200	IN	NS	dns1.cscdns.net.
@@ -18564,6 +18572,9 @@ technova.sn.		43200	IN	NS	ns2.francedns.com.
 technova.sn.		43200	IN	NS	cloudf03.francedns.com.
 techrepair.sn.		43200	IN	NS	ns112.ovh.net.
 techrepair.sn.		43200	IN	NS	dns112.ovh.net.
+techsen.sn.		172800	IN	NS	ns1.francedns.com.
+techsen.sn.		172800	IN	NS	ns2.francedns.com.
+techsen.sn.		172800	IN	NS	ns3.francedns.com.
 techserv.sn.		43200	IN	NS	ns1.bdm.microsoftonline.com.
 techserv.sn.		43200	IN	NS	ns2.bdm.microsoftonline.com.
 techserv.sn.		43200	IN	NS	ns3.bdm.microsoftonline.com.
@@ -20998,7 +21009,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 7F6PL7B0UVMQRODIKCEIS1GPK2TFPMH8.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7GLHLAO25KCMSOIL9F1EVP6UKSU50V55 NS DS RRSIG
 7GLHLAO25KCMSOIL9F1EVP6UKSU50V55.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211130030732 20211001020948 9009 sn. PraFLCQTzsJEINjIh0ZGGxrz5gVD/sJUHj9sDAKIkKUDbn0wLrNrhcO8 lcJthFXo+eM3SI1tMMK/JA1G4e5dlg==
 7GLHLAO25KCMSOIL9F1EVP6UKSU50V55.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7GVD58V4LQUF8D2BJTHEJHPQ8F83372R NS DS RRSIG
-7GVD58V4LQUF8D2BJTHEJHPQ8F83372R.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211118081150 20210919072446 9009 sn. SPnMQkq51xKCV+gZABXZUHJeex05JZHycfwlAMCVKkQi1iJeJgJ/b4Q7 NLobn0Cyn/7tIY6kDBADYAPM1JRKwA==
+7GVD58V4LQUF8D2BJTHEJHPQ8F83372R.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220103073656 20211104071150 9009 sn. NYHTMk8osZzj+nugFU1OLY8ivR/TpsG5LDDkgXh7XtATjL9UgWrxowQL VZ6IMjzPkws4Coh8NTFgzo9Cb2kyWQ==
 7GVD58V4LQUF8D2BJTHEJHPQ8F83372R.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7JPQF7CCB48APIIAPC0MAIOJO8SEPMIR NS DS RRSIG
 7JPQF7CCB48APIIAPC0MAIOJO8SEPMIR.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211230213346 20211031210318 9009 sn. ZPh5PtIFg3vjictl5+dApoYnzPJsfyptWzfeSYrc9wo1aPL3fQ3Ji+ya MrqMSfOAYNpBXIBoBkKOVG6nUmVzfg==
 7JPQF7CCB48APIIAPC0MAIOJO8SEPMIR.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 7LCVLABA63Q4LGHQKPH108SI0GMM08R8 NS DS RRSIG
