@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021110420 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1636020139"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021110423 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1636027343"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2301,6 +2301,8 @@ ns1.dentalcare.sy.	86400	IN	A	185.216.132.119
 ns2.dentalcare.sy.	86400	IN	A	185.216.132.119
 dentecs.sy.		86400	IN	NS	suspend1.tld.sy.
 dentecs.sy.		86400	IN	NS	suspend2.tld.sy.
+dentelle.sy.		86400	IN	NS	ns1.lazernet.sy.
+dentelle.sy.		86400	IN	NS	ns2.lazernet.sy.
 deuzicronapine.sy.	86400	IN	NS	nssui.comlaude.ch.
 deuzicronapine.sy.	86400	IN	NS	nssui.comlaude.net.
 dev.sy.			86400	IN	NS	kiki.ns.cloudflare.com.
@@ -4881,8 +4883,11 @@ njwaninfo.sy.		86400	IN	NS	ns16.samamax.com.
 njwaninfo.sy.		86400	IN	NS	ns17.samamax.com.
 nmail.sy.		86400	IN	NS	ns3.tld.sy.
 nmail.sy.		86400	IN	NS	ns4.tld.sy.
-no.sy.			86400	IN	NS	suspend1.tld.sy.
-no.sy.			86400	IN	NS	suspend2.tld.sy.
+no.sy.			86400	IN	NS	freedns1.registrar-servers.com.
+no.sy.			86400	IN	NS	freedns2.registrar-servers.com.
+no.sy.			86400	IN	NS	freedns3.registrar-servers.com.
+no.sy.			86400	IN	NS	freedns4.registrar-servers.com.
+no.sy.			86400	IN	NS	freedns5.registrar-servers.com.
 nobalaa.sy.		86400	IN	NS	ns1.nobalaa.sy.
 nobalaa.sy.		86400	IN	NS	ns2.nobalaa.sy.
 ns1.nobalaa.sy.		86400	IN	A	185.216.132.26
@@ -5209,8 +5214,11 @@ pm.sy.			86400	IN	NS	ns4.ucg-core.com.
 pm.sy.			86400	IN	NS	ns11.ucg-core.com.
 pm.sy.			86400	IN	NS	ns51.uae-dc.com.
 pm.sy.			86400	IN	NS	ns54.uae-dc.com.
-po.sy.			86400	IN	NS	suspend1.tld.sy.
-po.sy.			86400	IN	NS	suspend2.tld.sy.
+po.sy.			86400	IN	NS	freedns1.registrar-servers.com.
+po.sy.			86400	IN	NS	freedns2.registrar-servers.com.
+po.sy.			86400	IN	NS	freedns3.registrar-servers.com.
+po.sy.			86400	IN	NS	freedns4.registrar-servers.com.
+po.sy.			86400	IN	NS	freedns5.registrar-servers.com.
 podcast.sy.		86400	IN	NS	ns3009.mochahost.com.
 podcast.sy.		86400	IN	NS	ns4009.mochahost.com.
 poe.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -5383,6 +5391,8 @@ ratib-saif.sy.		86400	IN	NS	suspend1.tld.sy.
 ratib-saif.sy.		86400	IN	NS	suspend2.tld.sy.
 raya-alsham.sy.		86400	IN	NS	suspend1.tld.sy.
 raya-alsham.sy.		86400	IN	NS	suspend2.tld.sy.
+razandentelle.sy.	86400	IN	NS	ns1.lazernet.sy.
+razandentelle.sy.	86400	IN	NS	ns2.lazernet.sy.
 razilabs.sy.		86400	IN	NS	suspend1.tld.sy.
 razilabs.sy.		86400	IN	NS	suspend2.tld.sy.
 rbt.sy.			86400	IN	NS	suspend1.tld.sy.
