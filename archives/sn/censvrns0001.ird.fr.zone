@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409532 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409543 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211230230442 20211105152003 9009 sn. 4BvgRGAl2LA2nN+KytIdw9pNpNjX0J5cnnY/z0Qitbf2EG1E3e9CfF4T 7cdF4nCjQQwUeR3fu+9MIbT+3Xl45w==
-sn.			172800	IN	TXT	"No RRs processed [05/11/2021 17H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211122191552 20211105171003 9009 sn. CXghr1XPh/sFqq/6TFluyhPu/UnJGEhzOJ80Xl+XxbO2SEoXYRmrA+kT Bct6unr/pZRXuWPaxmAUBgK+N07I0A==
+sn.			172800	IN	TXT	"No RRs processed [05/11/2021 19H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220104162003 20211105152003 9009 sn. K4H4oknPKF4pdNYcrXXCl5MxRe0nUf6iYl4E0LpDRKGF/+EIoLBKiKDC nb62iHgfpdPelu3OigXnXMmCYOOaGA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220104181003 20211105171003 9009 sn. 0wu1wzBR8M+anKOwUUYBMuGhmem+TEMtTJja2LQsI6K8YnmavTP2Gs44 MOgl9n6ZdI+9Sqbj937YP7r7+DMzpw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -13791,6 +13791,8 @@ oneplus.sn.		43200	IN	NS	ns1.netim.net.
 oneplus.sn.		43200	IN	NS	ns2.netim.net.
 onesource.sn.		43200	IN	NS	ns73.domaincontrol.com.
 onesource.sn.		43200	IN	NS	ns74.domaincontrol.com.
+onestop.sn.		172800	IN	NS	ns1.101domain.com.
+onestop.sn.		172800	IN	NS	ns2.101domain.com.
 onfp.sn.		172800	IN	NS	ns.gouv.sn.
 onfp.sn.		172800	IN	NS	ns2.gouv.sn.
 onfp.sn.		172800	IN	NS	ns3.gouv.sn.
@@ -18757,6 +18759,10 @@ terraindawa.sn.		172800	IN	NS	ns1.wanekoohost.com.
 terraindawa.sn.		172800	IN	NS	ns2.wanekoohost.com.
 terraindawa.sn.		172800	IN	NS	ns4.wanekoohost.com.
 terraindawa.sn.		172800	IN	NS	ns5.wanekoohost.com.
+terrangamotors.sn.	172800	IN	NS	ns1.wanekoohost.com.
+terrangamotors.sn.	172800	IN	NS	ns2.wanekoohost.com.
+terrangamotors.sn.	172800	IN	NS	ns5.wanekoohost.com.
+terrangamotors.sn.	172800	IN	NS	ns6.wanekoohost.com.
 terrawash.sn.		43200	IN	NS	ns1.francedns.com.
 terrawash.sn.		43200	IN	NS	ns2.francedns.com.
 terrawash.sn.		43200	IN	NS	ns3.francedns.com.
