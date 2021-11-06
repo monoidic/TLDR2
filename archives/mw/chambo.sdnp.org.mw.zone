@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1636099501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1636164301 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -409,12 +409,12 @@ bayercropscience.mw.	18000	IN	NS	pdns1.cscdns.net.
 bayercropscience.mw.	18000	IN	NS	pdns2.cscdns.net.
 bba.mw.			18000	IN	NS	pdns07.domaincontrol.com.
 bba.mw.			18000	IN	NS	pdns08.domaincontrol.com.
-bbonline.mw.		18000	IN	DS	17119 8 1 C047C14805567041B2A3B19FA9A4A9F9E9474962
-bbonline.mw.		18000	IN	DS	26665 8 1 068F69DB63EF3772483FA60351E2A9801B081EC9
 bbonline.mw.		18000	IN	NS	brain.bb-online.co.uk.
 bbonline.mw.		18000	IN	NS	ns1.bb-online.net.
 bbonline.mw.		18000	IN	NS	ns2.bb-online.net.
 bbonline.mw.		18000	IN	NS	ns5.bb-online.net.
+bbonline.mw.		18000	IN	DS	17119 8 1 C047C14805567041B2A3B19FA9A4A9F9E9474962
+bbonline.mw.		18000	IN	DS	26665 8 1 068F69DB63EF3772483FA60351E2A9801B081EC9
 bbva.mw.		18000	IN	NS	a1-166.akam.net.
 bbva.mw.		18000	IN	NS	a22-65.akam.net.
 bbva.mw.		18000	IN	NS	a3-66.akam.net.
@@ -518,11 +518,6 @@ bistel.mw.		18000	IN	NS	proxy2.africa-online.net.
 bistel.mw.		18000	IN	NS	proxy3.africa-online.net.
 bitcoin.mw.		18000	IN	NS	cash.ns.cloudflare.com.
 bitcoin.mw.		18000	IN	NS	nelly.ns.cloudflare.com.
-bitgrin.mw.		18000	IN	NS	ns1.netim.net.
-bitgrin.mw.		18000	IN	NS	ns2.netim.net.
-bitgrin.mw.		18000	IN	NS	ns3.netim.net.
-bitgrin.mw.		18000	IN	NS	ns4.netim.net.
-bitgrin.mw.		18000	IN	NS	ns5.netim.net.
 biz.mw.			18000	IN	NS	chambo.sdnp.org.mw.
 biz.mw.			18000	IN	NS	domwe.sdn.mw.
 biz.mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
@@ -749,10 +744,6 @@ chakhaza.mw.		18000	IN	NS	ns2.digitalassociates.us.
 championbet.mw.		18000	IN	NS	ns01.trademarkarea.com.
 championbet.mw.		18000	IN	NS	ns02.trademarkarea.com.
 championbet.mw.		18000	IN	NS	ns03.trademarkarea.com.
-championlubes.mw.	18000	IN	NS	dns1.novagraaf-dns.com.
-championlubes.mw.	18000	IN	NS	dns2.novagraaf-dns.net.
-championlubes.mw.	18000	IN	NS	dns3.novagraaf-dns.nl.
-championlubes.mw.	18000	IN	NS	dns4.novagraaf-dns.eu.
 chanel.mw.		18000	IN	NS	dns1.cscdns.net.
 chanel.mw.		18000	IN	NS	dns2.cscdns.net.
 charter-insurance.mw.	18000	IN	NS	proxy2.africa-online.net.
@@ -903,6 +894,10 @@ continentalasset.mw.	18000	IN	NS	ruben.ns.cloudflare.com.
 continentalasset.mw.	18000	IN	NS	savanna.ns.cloudflare.com.
 continentalcapital.mw.	18000	IN	NS	dns1.namecheaphosting.com.
 continentalcapital.mw.	18000	IN	NS	dns2.namecheaphosting.com.
+continentalholdings.mw.	18000	IN	NS	ruben.ns.cloudflare.com.
+continentalholdings.mw.	18000	IN	NS	savanna.ns.cloudflare.com.
+continentalpension.mw.	18000	IN	NS	ruben.ns.cloudflare.com.
+continentalpension.mw.	18000	IN	NS	savanna.ns.cloudflare.com.
 coolpro.mw.		18000	IN	NS	proxy2.africa-online.net.
 coolpro.mw.		18000	IN	NS	proxy3.africa-online.net.
 coop.mw.		18000	IN	NS	chambo.sdnp.org.mw.
@@ -1231,6 +1226,8 @@ esso.mw.		18000	IN	NS	a13-67.akam.net.
 esso.mw.		18000	IN	NS	a14-65.akam.net.
 esso.mw.		18000	IN	NS	a18-64.akam.net.
 esso.mw.		18000	IN	NS	a3-66.akam.net.
+eth.mw.			18000	IN	NS	ns1.dan.com.
+eth.mw.			18000	IN	NS	ns2.dan.com.
 etrade.mw.		18000	IN	NS	dns1.cscdns.net.
 etrade.mw.		18000	IN	NS	dns2.cscdns.net.
 eu.mw.			18000	IN	NS	dns1.safenames.com.
@@ -2098,8 +2095,8 @@ kitaandcompany.mw.	18000	IN	NS	ns3.mailboxmw.com.
 kitaandcompany.mw.	18000	IN	NS	ns4.mailboxmw.com.
 kitchenaid.mw.		18000	IN	NS	ns1e.whirlpool.com.
 kitchenaid.mw.		18000	IN	NS	ns2e.whirlpool.com.
-kliktsi.mw.		18000	IN	NS	ns1.wolverinedns.com.
-kliktsi.mw.		18000	IN	NS	ns3.wolverinedns.com.
+kliktsi.mw.		18000	IN	NS	ruben.ns.cloudflare.com.
+kliktsi.mw.		18000	IN	NS	savanna.ns.cloudflare.com.
 klm.mw.			18000	IN	NS	ns2.kpn.net.
 klm.mw.			18000	IN	NS	ns4.kpn.net.
 klm.mw.			18000	IN	NS	ns.klm.nl.
