@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409570 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409583 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211213022249 20211105211003 9009 sn. w6DlPOgPebwjcJzYHLMMvtIgCp6fWVKeEj6Oo1XMStfq++DooM7zw7pv LEeHkQVmRtas5Q7j85dOXm9dsdex7A==
-sn.			172800	IN	TXT	"No RRs processed [05/11/2021 23H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211202171236 20211105231003 9009 sn. cxgzo723b5tdBdzqEozaZlfpHofXga80t7LSWskX9PSvp+8GiL1b18sT tEouiYqu+p4i1AnDIccQ+KLelZkUdg==
+sn.			172800	IN	TXT	"No RRs processed [06/11/2021 01H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220104221003 20211105211003 9009 sn. 3IwWWYKuI9f+z4HS3wybjOVAoeiCYuLq0g4II3iJqY94SJQBZbNiFd/G pAWvylc6VRM42nO0fLKNiHVmUji/tQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220105001547 20211105231547 9009 sn. bGQyxu8rXfBKXyenIVihVH5BH+VmshSGjlKv1gA5M2JIyLFHXEHS/i0N eJOUisiupufplxPiVQc3K20MhX094A==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -6248,8 +6248,8 @@ edfutur.sn.		43200	IN	NS	ns1.kheweul.net.
 edfutur.sn.		43200	IN	NS	ns2.kheweul.net.
 edfutur.sn.		43200	IN	NS	ns3.kheweul.net.
 edfutur.sn.		43200	IN	NS	ns4.kheweul.net.
-edg.sn.			172800	IN	NS	domain-expired.planethoster.net.
-edg.sn.			172800	IN	NS	expired-domain.planethoster.net.
+edg.sn.			172800	IN	NS	aaron.ns.cloudflare.com.
+edg.sn.			172800	IN	NS	crystal.ns.cloudflare.com.
 edgegroup.sn.		43200	IN	NS	ns1.kheweul.net.
 edgegroup.sn.		43200	IN	NS	ns2.kheweul.net.
 edgegroup.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -13624,7 +13624,7 @@ oberthur.sn.		43200	IN	NS	dns2.cscdns.net.
 objetrama.sn.		43200	IN	NS	a.dns.gandi.net.
 objetrama.sn.		43200	IN	NS	b.dns.gandi.net.
 objetrama.sn.		43200	IN	NS	c.dns.gandi.net.
-obk.sn.			43200	IN	RRSIG	DS 13 2 43200 20211120001547 20210920233215 9009 sn. ahPtwuOG84esRl5zoWA+aiH4dnMBkFUI4E6DLBf6rB43XvniCU05Bg1M TcY7SGAsrDvncj6J9EqsVWiQAraXhw==
+obk.sn.			43200	IN	RRSIG	DS 13 2 43200 20220104233410 20211105231547 9009 sn. Ehh+LQh4vdqfbyWl25keTvMI4m5/4S8ELAhuYoBIotabn5Vtf3H6lXll SGtX7QrkNA8Ll3qq9IpSj1Z+sriPlA==
 obk.sn.			43200	IN	DS	18664 8 2 E2BA691D1D3C858B1E784EAF419C1FE3317A091C18F6135550EDD86A 7783C6F0
 obk.sn.			43200	IN	NS	ns200.anycast.me.
 obk.sn.			43200	IN	NS	dns200.anycast.me.
