@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410041 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220107201003 20211108191003 9009 sn. TOUyR4lCHzix4JeChZDeSauUWbrpgqba0LOurxy/hO4VmFJK8KpSaaYK 7phO6gZle9IrzG1qM0W3rBxN1vMHNQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410056 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220107221003 20211108211003 9009 sn. GbcKCB8FZd9H5+sJkEJl6F1dP9vN1qTPs6oNCWNm/beL0FUZp6JUeLss zs62KRv2m1cGxJowe0BGpOAMe3dXyA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
-sn.			172800	IN	TXT	"1 RRs processed [08/11/2021 21H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211204151123 20211108191003 9009 sn. gZE/KEUUVO68sKt5ZW+Q722V4CeOfqq/BADGnPQjso5+jAeGHA4M9lQg bwYnrebm+RuDk0z/zD9eg9fna0IUzw==
+sn.			172800	IN	TXT	"No RRs processed [08/11/2021 23H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211217224014 20211108211003 9009 sn. /KtcXWH9APcyfDuGAI3DYHO5lVfKupP1BNMCDzz+NPav72/qOrrNXlgG aQEAX2aYedxDGCczd4Q21Xq2+IWr3Q==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
@@ -3403,7 +3403,7 @@ carvertical.sn.		172800	IN	NS	ns4.serveriai.lt.
 casa-industries.sn.	172800	IN	NS	ns200.anycast.me.
 casa-industries.sn.	172800	IN	NS	dns200.anycast.me.
 casa-industries.sn.	172800	IN	DS	25471 8 2 87B2E34FC12A2FBBF38307C8FACBE973677999555CFD0E4C6A666D42 267649BD
-casa-industries.sn.	172800	IN	RRSIG	DS 13 2 172800 20211122211258 20210923210629 9009 sn. bBhkPwFl31O47MyH/XMX6nzdeyT40xjgZK7tzPaCmE3csOqWL837k2we LEgAfZd364JuMkwBaEO5EnbOLngUmQ==
+casa-industries.sn.	172800	IN	RRSIG	DS 13 2 172800 20220107210218 20211108201258 9009 sn. /IohdwvazYzQgZ+juo3tYMRphGCM/1ITu4MJq4cFlaToe074Iy54zBXU q0qK4F0uq0YBKJ3t6tZ7omr7h6Sfmg==
 casa24.sn.		43200	IN	NS	dns1.wmaker.net.
 casa24.sn.		43200	IN	NS	dns2.wmaker.net.
 casacloud.sn.		172800	IN	NS	ns15.ovh.net.
@@ -6229,7 +6229,7 @@ edcom.sn.		43200	IN	RRSIG	DS 13 2 43200 20211223143045 20211024135911 9009 sn. s
 eddys.sn.		172800	IN	NS	ns106.ovh.net.
 eddys.sn.		172800	IN	NS	dns106.ovh.net.
 eddys.sn.		172800	IN	DS	47374 8 2 345C09497C9359A5CB2336B98E38D7D18011EBBE34E88FBCE9A1CF24 DA62B0E6
-eddys.sn.		172800	IN	RRSIG	DS 13 2 172800 20211122205048 20210923195129 9009 sn. SoiqvQPFrDVDaa6eiSIwbuVVGYrfoCIKsu+PeYuUb7WM2TCLrE/flJvc CZfOg6mPX7CBaQ0oNAQXZZ+vrLNhLA==
+eddys.sn.		172800	IN	RRSIG	DS 13 2 172800 20220107200108 20211108195048 9009 sn. sAONV5dFWOzYGK99PBgpH5VW6l1YC3ePkvhTfiMWipII1NcgvVv03zNc AzDZfry1OOe3EJRKkjiQHbzeuJXYhg==
 eden.sn.		172800	IN	NS	ns1.caurys.net.
 eden.sn.		172800	IN	NS	ns2.caurys.net.
 edenfleur.sn.		43200	IN	NS	ns.sonatel.sn.
@@ -6484,6 +6484,10 @@ emedic.sn.		172800	IN	NS	ns1.kheweul.net.
 emedic.sn.		172800	IN	NS	ns2.kheweul.net.
 emedic.sn.		172800	IN	NS	ns3.kheweul.net.
 emedic.sn.		172800	IN	NS	ns4.kheweul.net.
+emessdigital.sn.	172800	IN	NS	ns1.wanekoohost.com.
+emessdigital.sn.	172800	IN	NS	ns2.wanekoohost.com.
+emessdigital.sn.	172800	IN	NS	ns5.wanekoohost.com.
+emessdigital.sn.	172800	IN	NS	ns6.wanekoohost.com.
 emguniversalauto.sn.	43200	IN	NS	ns1.ipower.com.
 emguniversalauto.sn.	43200	IN	NS	ns2.ipower.com.
 emirates.sn.		43200	IN	NS	ns3.emirates.com.
@@ -12224,7 +12228,7 @@ mbayebabacar.sn.	43200	IN	RRSIG	DS 13 2 43200 20211227224736 20211028221309 9009
 mbaymi.sn.		172800	IN	NS	ns100.ovh.net.
 mbaymi.sn.		172800	IN	NS	dns100.ovh.net.
 mbaymi.sn.		172800	IN	DS	8239 8 2 EEF436CFB4F1D8699944F17D55B0DFCDCE01E09A7BFB3F4B9C53668A D63A59EE
-mbaymi.sn.		172800	IN	RRSIG	DS 13 2 172800 20211122213633 20210923210043 9009 sn. coerkAQYuMZOKcFC91Ey5Eqz79i9/BEYwY6QQqOZYBWu0lHf0mFe+2qZ Lt/ox8lSYAyycAkrHwZizptDOdLZsQ==
+mbaymi.sn.		172800	IN	RRSIG	DS 13 2 172800 20220107210549 20211108203633 9009 sn. MDLabHoK7WZkJlw02MIyYDnavsqssACC3giZK8JzTdu6BBwJeupS1K1y Z6KuFYPnzt4M8W7Y59Tsa2ePlBfxOw==
 mbc.sn.			43200	IN	NS	ns1000.mochahost.com.
 mbc.sn.			43200	IN	NS	ns2000.mochahost.com.
 mbexpert.sn.		43200	IN	NS	pdns01.domaincontrol.com.
