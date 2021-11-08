@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021110817 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1636356739"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021110821 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1636365744"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3317,8 +3317,10 @@ dns01.hifi.sy.		86400	IN	A	185.150.143.194
 dns02.hifi.sy.		86400	IN	A	185.150.143.195
 hifi-isp.sy.		86400	IN	NS	dns01.hifi.sy.
 hifi-isp.sy.		86400	IN	NS	dns02.hifi.sy.
-hify.sy.		86400	IN	NS	suspend1.tld.sy.
-hify.sy.		86400	IN	NS	suspend2.tld.sy.
+hify.sy.		86400	IN	NS	dns01.hify.sy.
+hify.sy.		86400	IN	NS	dns02.hify.sy.
+dns01.hify.sy.		86400	IN	A	185.150.143.194
+dns02.hify.sy.		86400	IN	A	185.150.143.195
 highfi.sy.		86400	IN	NS	suspend1.tld.sy.
 highfi.sy.		86400	IN	NS	suspend2.tld.sy.
 hijazi-part.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5206,8 +5208,8 @@ platinum.sy.		86400	IN	NS	ns7.platinum-global.net.
 platinum.sy.		86400	IN	NS	ns8.platinum-global.net.
 play.sy.		86400	IN	NS	sydns1.nobalaa.com.
 play.sy.		86400	IN	NS	sydns2.nobalaa.com.
-plwhm.sy.		86400	IN	NS	ns3.tld.sy.
-plwhm.sy.		86400	IN	NS	ns4.tld.sy.
+plwhm.sy.		86400	IN	NS	suspend1.tld.sy.
+plwhm.sy.		86400	IN	NS	suspend2.tld.sy.
 pm.sy.			86400	IN	NS	ns1.ucg-core.com.
 pm.sy.			86400	IN	NS	ns4.ucg-core.com.
 pm.sy.			86400	IN	NS	ns11.ucg-core.com.
@@ -5282,8 +5284,8 @@ prosouk.sy.		86400	IN	NS	suspend1.tld.sy.
 prosouk.sy.		86400	IN	NS	suspend2.tld.sy.
 prosouq.sy.		86400	IN	NS	suspend1.tld.sy.
 prosouq.sy.		86400	IN	NS	suspend2.tld.sy.
-prospector.sy.		86400	IN	NS	ns21.cloudns.net.
-prospector.sy.		86400	IN	NS	ns23.cloudns.net.
+prospector.sy.		86400	IN	NS	suspend1.tld.sy.
+prospector.sy.		86400	IN	NS	suspend2.tld.sy.
 prosys.sy.		86400	IN	NS	suspend1.tld.sy.
 prosys.sy.		86400	IN	NS	suspend2.tld.sy.
 protech.sy.		86400	IN	NS	ns203.canadianwebhosting.com.
