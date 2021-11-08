@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222409990 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220107121003 20211108111003 9009 sn. zkvn058N/AHwhuhxiS3zB/4+Xb8zFpWUBuCxSkb/F/a3bgCXyd6DT9TZ NFSCMV8Z7kBAkk03XZWYbmsO7dckcw==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410003 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220107141003 20211108131003 9009 sn. k2K59pc98TZkXC82GG4SRnfMWENHcTVAAQZ1b3Bsfib3WTClDDnaXXHu 6QcjSsxwOdMuWlL101Arsbvh/N3XHA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
-sn.			172800	IN	TXT	"No RRs processed [08/11/2021 13H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211211211214 20211108111003 9009 sn. gMHRfwwqb2jXiVx/QhPXZSPPALGJ0m/IVY5mvnykrMSDX/8B4nxasvfk rd2pZhjfD5AvRwE23Pdav1jTdwREOA==
+sn.			172800	IN	TXT	"1 RRs processed [08/11/2021 15H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211130075536 20211108131003 9009 sn. Gag5O0EvBbT/Fw4vgcdlslPNhw1b8zsBvU6Lhl6JxUfWMioJANX7eW1M NNBu/E/DOHVmpxk4UAMZbS9HV4kmTQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
@@ -11468,8 +11468,6 @@ lgalifts.sn.		43200	IN	NS	ns1.kheweul.net.
 lgalifts.sn.		43200	IN	NS	ns2.kheweul.net.
 lgalifts.sn.		43200	IN	NS	ns3.kheweul.net.
 lgalifts.sn.		43200	IN	NS	ns4.kheweul.net.
-lgd.sn.			172800	IN	NS	ns5.afriregister.co.ke.
-lgd.sn.			172800	IN	NS	ns6.afriregister.co.ke.
 lglv.sn.		43200	IN	NS	ns-353.awsdns-44.com.
 lglv.sn.		43200	IN	NS	ns-882.awsdns-46.net.
 lglv.sn.		43200	IN	NS	ns-1052.awsdns-03.org.
@@ -14807,7 +14805,8 @@ polytechnique.sn.	43200	IN	NS	ns1.kheweul.net.
 polytechnique.sn.	43200	IN	NS	ns2.kheweul.net.
 polytechnique.sn.	43200	IN	NS	ns3.kheweul.net.
 polytechnique.sn.	43200	IN	NS	ns4.kheweul.net.
-polytek.sn.		172800	IN	NS	hosting100.arc.sn.
+polytek.sn.		172800	IN	NS	ns8.jajeuf.com.
+polytek.sn.		172800	IN	NS	ns9.jajeuf.com.
 polytrans.sn.		43200	IN	NS	ns200.anycast.me.
 polytrans.sn.		43200	IN	NS	dns200.anycast.me.
 polytrans.sn.		43200	IN	DS	21790 8 2 749B51B5C7194887A44F7F0912AAFA5106D03B26202E9E478A333BBD 6F6F10EA
@@ -17744,7 +17743,7 @@ solutech.sn.		43200	IN	NS	ns2.sonatel.sn.
 solux.sn.		172800	IN	NS	ns15.ovh.net.
 solux.sn.		172800	IN	NS	dns15.ovh.net.
 solux.sn.		172800	IN	DS	9799 8 2 20599EC041A73698087BE1EFBE65B4F97A91D5C5860280982DE5D4EC A6947E74
-solux.sn.		172800	IN	RRSIG	DS 13 2 172800 20211122135727 20210923125931 9009 sn. Zomk2EGzvHe9HphlnEJQsd2dw9ufGKJrdxW0od10egNpL67Rjz+cdffa fim9CVJM3+gHk9alY9gZqjMHawp8WQ==
+solux.sn.		172800	IN	RRSIG	DS 13 2 172800 20220107130445 20211108125727 9009 sn. oNT5OfC49dPVaxcmbmvBmWXkDc7y3jdafEhcERvkpoPhDulkZ/0GM+Ay 7qUsBafn2yqyaXJk+dn40iynG3Ld3g==
 somef.sn.		43200	IN	NS	ns1.hostpapa.com.
 somef.sn.		43200	IN	NS	ns2.hostpapa.com.
 somelservices.sn.	43200	IN	NS	ns1.cp-29.webhostbox.net.
@@ -18616,6 +18615,8 @@ technotech.sn.		172800	IN	NS	ns2.netim.net.
 technotech.sn.		172800	IN	NS	ns3.netim.net.
 technova.sn.		43200	IN	NS	ns2.francedns.com.
 technova.sn.		43200	IN	NS	cloudf03.francedns.com.
+techplus.sn.		172800	IN	NS	ns6185.hostgator.com.
+techplus.sn.		172800	IN	NS	ns6186.hostgator.com.
 techrepair.sn.		43200	IN	NS	ns112.ovh.net.
 techrepair.sn.		43200	IN	NS	dns112.ovh.net.
 techsen.sn.		172800	IN	NS	ns1.contabo.net.
@@ -19827,6 +19828,8 @@ vistacom.sn.		172800	IN	NS	ns1.kheweul.net.
 vistacom.sn.		172800	IN	NS	ns2.kheweul.net.
 vistacom.sn.		172800	IN	NS	ns3.kheweul.net.
 vistacom.sn.		172800	IN	NS	ns4.kheweul.net.
+vitagro.sn.		172800	IN	NS	ns1.psej.net.
+vitagro.sn.		172800	IN	NS	ns2.psej.net.
 vital.sn.		43200	IN	NS	ns10a.haisoft.net.
 vital.sn.		43200	IN	NS	ns10b.haisoft.net.
 vitogaz.sn.		43200	IN	NS	ns1.iptwins.net.
