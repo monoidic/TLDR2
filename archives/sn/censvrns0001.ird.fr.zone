@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410016 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220107162002 20211108152002 9009 sn. TlF/Thpfmp7vbpCTrg/+/MIg1Vh58oDSNVeXJpXI/Vfg0w1W1MbkHT1c uYCmlPj+Baz760lncA3JF0rsDdQE1g==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410029 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220107182003 20211108172003 9009 sn. aLk4nPkc7k3gneVCskyee2S+GciJh9Xr6tLBk1bCXIuJKCRk7MVn6ZM/ F+UuV3qgxP1nbsCFvTPa0Y+wU8kMoA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
-sn.			172800	IN	TXT	"No RRs processed [08/11/2021 17H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220102122005 20211108152002 9009 sn. C1hxGg4CQG0Zf2IwC9bQXsiXF+PVV6cGfQQhpi1IzN+oDhFZ6UlaZ4sV DOCr2bmQjvTdR8MIbIrkaPujAtIzmQ==
+sn.			172800	IN	TXT	"No RRs processed [08/11/2021 19H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211208175349 20211108172003 9009 sn. 7FH1HeT3cNRVL4g0isOjKNkGh20QFYo7dMcyVuSnNozBD0bnFkQF/0Nx u7Y7/sZkbfgQF+3gKAUQLy8KGo/ing==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
@@ -6327,6 +6327,10 @@ efor.sn.		43200	IN	NS	ns3.kheweul.net.
 efor.sn.		43200	IN	NS	ns4.kheweul.net.
 eg2c.sn.		43200	IN	NS	ns1.servconfig.com.
 eg2c.sn.		43200	IN	NS	ns2.servconfig.com.
+egeleb.sn.		172800	IN	NS	ns1.wanekoohost.com.
+egeleb.sn.		172800	IN	NS	ns2.wanekoohost.com.
+egeleb.sn.		172800	IN	NS	ns5.wanekoohost.com.
+egeleb.sn.		172800	IN	NS	ns6.wanekoohost.com.
 eges.sn.		43200	IN	NS	ns109.ovh.net.
 eges.sn.		43200	IN	NS	dns109.ovh.net.
 egetra.sn.		172800	IN	NS	ns5.jokko-hosting.com.
@@ -6898,7 +6902,7 @@ estm.sn.		43200	IN	RRSIG	DS 13 2 43200 20211214223624 20211015215452 9009 sn. zp
 estral.sn.		43200	IN	NS	ns107.ovh.net.
 estral.sn.		43200	IN	NS	dns107.ovh.net.
 estral.sn.		43200	IN	DS	50514 7 2 EC84BEDA84DB49A1C8B07D950B5CB91B9FECCFD3BC7B35C96C8DB749 49EED5D5
-estral.sn.		43200	IN	RRSIG	DS 13 2 43200 20211122172927 20210923165905 9009 sn. EFN2PEiZ7vofCENnCCOeeXL0gQb+YlG/hF7fSMfB99lARrChSaPcDJ/0 6d+KOsnlG3ZFoJoJc/JmALD4Qg8HhA==
+estral.sn.		43200	IN	RRSIG	DS 13 2 43200 20220107170611 20211108162927 9009 sn. 9b1U4G3tiP9a7PghffyX2xuk/pUzdSt5UtmhkRdXCsEN4EAeENLg8Tt/ hr+FC+Wa640g1xgfGmeXgbOa9MUbOQ==
 esupdakar.sn.		43200	IN	NS	ns15.ovh.net.
 esupdakar.sn.		43200	IN	NS	dns15.ovh.net.
 etablissementmansoursysuarl.sn.	43200 IN NS	nsmpro1.nordnet.com.
@@ -8682,6 +8686,10 @@ gym.sn.			172800	IN	NS	ns1.a2hosting.com.
 gym.sn.			172800	IN	NS	ns2.a2hosting.com.
 gym.sn.			172800	IN	NS	ns3.a2hosting.com.
 gym.sn.			172800	IN	NS	ns4.a2hosting.com.
+gymshark.sn.		172800	IN	NS	ha1.markmonitor.zone.
+gymshark.sn.		172800	IN	NS	ha2.markmonitor.zone.
+gymshark.sn.		172800	IN	NS	ha3.markmonitor.zone.
+gymshark.sn.		172800	IN	NS	ha4.markmonitor.zone.
 gyneplus.sn.		43200	IN	NS	ns1.kheweul.net.
 gyneplus.sn.		43200	IN	NS	ns2.kheweul.net.
 gyneplus.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -15655,6 +15663,8 @@ rts.sn.			43200	IN	NS	ns.rts.sn.
 ns.rts.sn.		43200	IN	A	213.154.77.218
 rubis.sn.		43200	IN	NS	ns2.wixdns.net.
 rubis.sn.		43200	IN	NS	ns3.wixdns.net.
+ruby.sn.		172800	IN	NS	ns16.ovh.net.
+ruby.sn.		172800	IN	NS	dns16.ovh.net.
 rue221.sn.		43200	IN	NS	ns1.kheweul.net.
 rue221.sn.		43200	IN	NS	ns2.kheweul.net.
 rue221.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -17178,6 +17188,8 @@ siena.sn.		43200	IN	NS	ns.cse.sn.
 sifa.sn.		43200	IN	NS	ns1.netim.net.
 sifa.sn.		43200	IN	NS	ns2.netim.net.
 sifa.sn.		43200	IN	NS	ns3.netim.net.
+sifagroup.sn.		172800	IN	NS	ns200.anycast.me.
+sifagroup.sn.		172800	IN	NS	dns200.anycast.me.
 sifi.sn.		43200	IN	NS	ns.sonatel.sn.
 sifi.sn.		43200	IN	NS	ns2.sonatel.sn.
 sifl.sn.		172800	IN	NS	pdns09.domaincontrol.com.
