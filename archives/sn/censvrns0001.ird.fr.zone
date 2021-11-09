@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410141 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410153 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211211105756 20211109092002 9009 sn. kuaE2jjRndoJUebAVk3SgusOfQiUNv4N+PBWw7VsALmvv5DI/7voSEUV Rre23pzgTfQkpfawEW/xxzTs+o7tig==
-sn.			172800	IN	TXT	"No RRs processed [09/11/2021 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211212120702 20211109111002 9009 sn. n8ggY/WR42qk4f5TcfaYTc18ohKjpyJ18ZpxFN+QOM2Q7ouf4Aa3Fzcw uS9icjkbKaaiA3RydRnVbqJ1TDjbsg==
+sn.			172800	IN	TXT	"No RRs processed [09/11/2021 13H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220108102002 20211109092002 9009 sn. GUqCgSByI6o7fgivUjpDIq8BgADyxq3cIPdVxQ9qZL29IYJYJ1c5Rr6Z K4kj8OluJ6yR52V2XNZ/NERFE5OXJw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220108121002 20211109111002 9009 sn. jj5MC3L5+++kbcPa/cM0X/ffuhjV4yiQkoqtbe8SEq/aE4MIEOlEp/NJ CNmWDeV5sJusRffMxltSZIhXTrtCFQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -2595,6 +2595,8 @@ biomerieux.sn.		43200	IN	NS	ns03.eolas.fr.
 bionaturecasamance.sn.	43200	IN	NS	ns1.francedns.com.
 bionaturecasamance.sn.	43200	IN	NS	ns2.francedns.com.
 bionaturecasamance.sn.	43200	IN	NS	ns3.francedns.com.
+biontech.sn.		172800	IN	NS	dns1.epag.net.
+biontech.sn.		172800	IN	NS	dns2.epag.net.
 biooil.sn.		43200	IN	NS	ns1.markmonitor.com.
 biooil.sn.		43200	IN	NS	ns2.markmonitor.com.
 biooil.sn.		43200	IN	NS	ns3.markmonitor.com.
@@ -5672,6 +5674,9 @@ divineprovidence.sn.	172800	IN	NS	ns16.ovh.net.
 divineprovidence.sn.	172800	IN	NS	dns16.ovh.net.
 divineprovidence.sn.	172800	IN	DS	5734 8 2 179EC5976832028C8393CCFF430F23C46010888702295F2645F68C9E 58243A38
 divineprovidence.sn.	172800	IN	RRSIG	DS 13 2 172800 20211126191726 20211028093002 9009 sn. bVrYPKp1nRzxc23reTWLZzQIwrb+sq2osLqqomQYac+w30I9TX99q2GD BzwHrMlbzvDy6q0wwBJafcRnR3eVvw==
+divisionsidaist.sn.	172800	IN	NS	ns.gouv.sn.
+divisionsidaist.sn.	172800	IN	NS	ns2.gouv.sn.
+divisionsidaist.sn.	172800	IN	NS	ns3.gouv.sn.
 divorce.sn.		43200	IN	NS	ns1.francedns.com.
 divorce.sn.		43200	IN	NS	ns2.francedns.com.
 divorce.sn.		43200	IN	NS	ns3.francedns.com.
@@ -12152,6 +12157,8 @@ matamactu.sn.		43200	IN	NS	ns1.kheweul.net.
 matamactu.sn.		43200	IN	NS	ns2.kheweul.net.
 matamactu.sn.		43200	IN	NS	ns3.kheweul.net.
 matamactu.sn.		43200	IN	NS	ns4.kheweul.net.
+matelas.sn.		172800	IN	NS	ns16.ovh.net.
+matelas.sn.		172800	IN	NS	dns16.ovh.net.
 matequip.sn.		43200	IN	NS	ns16.ovh.net.
 matequip.sn.		43200	IN	NS	dns16.ovh.net.
 materielmedical.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -14269,7 +14276,7 @@ papajohns.sn.		43200	IN	NS	dns1.cscdns.net.
 papajohns.sn.		43200	IN	NS	dns2.cscdns.net.
 papex.sn.		43200	IN	NS	pdns11.domaincontrol.com.
 papex.sn.		43200	IN	NS	pdns12.domaincontrol.com.
-papimex.sn.		172800	IN	RRSIG	DS 13 2 172800 20211123120305 20210924114556 9009 sn. dZXDGrWrhueUQdRktbxWFAMnOL1gwznAKiEF06d0d1vEhkF9BEsEAVUD QZb1qD9chUvYOy5S32ihOHjn6DVz2A==
+papimex.sn.		172800	IN	RRSIG	DS 13 2 172800 20220108110529 20211109110305 9009 sn. 8ZNchCCHRF3H95W/zfrE/Hv7hOGETfll9a+rc69nr2SJJQ5eYo8xkBll JOPUhf4ZRlYDdJkY05Rus0iTZwyKqg==
 papimex.sn.		172800	IN	DS	23959 8 2 EA54A585D229BE350239353218A6920458CCAC9DB1AE9A77D34CD622 C7212EDC
 papimex.sn.		172800	IN	NS	ns200.anycast.me.
 papimex.sn.		172800	IN	NS	dns200.anycast.me.
@@ -19779,8 +19786,10 @@ vieirasa.sn.		43200	IN	NS	ns.arc.sn.
 vieirasa.sn.		43200	IN	NS	ns.ucad.sn.
 vif.sn.			172800	IN	NS	ns1.o2switch.net.
 vif.sn.			172800	IN	NS	ns2.o2switch.net.
-vigialert.sn.		172800	IN	NS	ns6.wixdns.net.
-vigialert.sn.		172800	IN	NS	ns7.wixdns.net.
+vigialert.sn.		172800	IN	NS	ns1.wanekoohost.com.
+vigialert.sn.		172800	IN	NS	ns2.wanekoohost.com.
+vigialert.sn.		172800	IN	NS	ns5.wanekoohost.com.
+vigialert.sn.		172800	IN	NS	ns6.wanekoohost.com.
 vignette.sn.		43200	IN	NS	dns1.safenames.com.
 vignette.sn.		43200	IN	NS	dns2.safenames.net.
 vignette.sn.		43200	IN	NS	dns3.safenames.org.
@@ -21385,7 +21394,7 @@ DLV4EQQQO0MKE6ONQUPG23TDMUREPELE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DMA17S6544FUN2
 DLV4EQQQO0MKE6ONQUPG23TDMUREPELE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211129193329 20210930190103 9009 sn. KZ81WfqL1AgCxw4o5XiahaJ8eWbG/wgKql0dx09hIJnzSkMOkuvwohy8 gbcIMmSsS03vYemtuztEjGK6VVlWdQ==
 DMA17S6544FUN25KUC7HQRGTCPTRFVGE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211211104140 20211012102502 9009 sn. vxmeEhm4saxchLK8xnxL+dri0U1M+nwXp+xdupDHNQ2TVToZZklv88dn tD62O2ljpEKsYsGpk0cy4qxJzh6OBQ==
 DMA17S6544FUN25KUC7HQRGTCPTRFVGE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ NS DS RRSIG
-DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211123120305 20210924114556 9009 sn. 5cCAGMhjaW9UxPWFGEyifpqDmab37U8T7TcDvlM1V9vb0LckWa3h7QOj YZRaSQ4PeJSwBWyH+J3v8P0XiAp0fg==
+DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220108110529 20211109110305 9009 sn. H+V/JXUn7Dj9O9DshIl11q1sDEvUzn9+hL6ZSsM55RfXTCXFxSRF+0I8 kW1tAYocZJ2wbDXDRp0kGKi5DF/iOA==
 DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DO9IGCM9763A1PPEH0T392DPOI5GQG97 NS DS RRSIG
 DO9IGCM9763A1PPEH0T392DPOI5GQG97.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DOCP9SF66Q833741HQ4KHAGGB1CPOM29 NS DS RRSIG
 DO9IGCM9763A1PPEH0T392DPOI5GQG97.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211219105830 20211022143003 9009 sn. SW3bdAgb/61eHmF7fXLXOGAwp2X2Bv1/ZStp7c6wVlmCj6Lxhu3F7o+0 kO6BmRuEhEPESykf4Qiitrhh5pEyeA==
