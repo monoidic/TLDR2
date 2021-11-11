@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410497 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410511 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211227081913 20211111132003 9009 sn. i1V8DurKvJ167Y9cSkaSysDvdhT3gLlkTWg15WakjCtPk9HnakbJ2b0M 1DAANbBbA26iPwD09gFN4E0lYib3kg==
-sn.			172800	IN	TXT	"No RRs processed [11/11/2021 15H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211203113952 20211111152003 9009 sn. f52i+MHdJzSi0YnyNEmrxFntCzoFCfXd6v3Fmd1XjeD1kRh235uD9jHS O5z5xDg7OqhZYT6VqinYvDxyT370gg==
+sn.			172800	IN	TXT	"No RRs processed [11/11/2021 17H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220110142003 20211111132003 9009 sn. 8woWGMOQQkVg4R2N/3iNdvmqYBt761kM1q2vahYr76xXIlx5ZyzOSprd UB2/Hm0WuZuUxPevV6UIw7LnvaTr2A==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220110162003 20211111152003 9009 sn. lDMlxJmpOIIub9T7zv08VbGVlC0wj7VWY/5G2jw94WBHegmFya8P9bL4 9N+WlEZthbtOBV5bdVBuYy3lDDo01g==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -1220,6 +1220,8 @@ amateurfoot.sn.		172800	IN	NS	ns1045.ui-dns.com.
 amateurfoot.sn.		172800	IN	NS	ns1045.ui-dns.org.
 amauto.sn.		43200	IN	NS	ns19.ovh.net.
 amauto.sn.		43200	IN	NS	dns19.ovh.net.
+amazing.sn.		172800	IN	NS	ns31.infomaniak.com.
+amazing.sn.		172800	IN	NS	ns32.infomaniak.com.
 amazon.sn.		43200	IN	NS	ns1.p31.dynect.net.
 amazon.sn.		43200	IN	NS	ns2.p31.dynect.net.
 amazon.sn.		43200	IN	NS	pdns1.ultradns.net.
@@ -10728,8 +10730,8 @@ kessidev.sn.		43200	IN	NS	ns10.ovh.net.
 kessidev.sn.		43200	IN	NS	dns10.ovh.net.
 keur.sn.		43200	IN	NS	ns1.snterra.com.
 keur.sn.		43200	IN	NS	ns2.snterra.com.
-keurimmo.sn.		172800	IN	NS	ns1.bluehost.com.
-keurimmo.sn.		172800	IN	NS	ns2.bluehost.com.
+keurimmo.sn.		172800	IN	NS	ns1.freehosting.com.
+keurimmo.sn.		172800	IN	NS	ns2.freehosting.com.
 keurinvest.sn.		43200	IN	NS	ns105.ovh.net.
 keurinvest.sn.		43200	IN	NS	dns105.ovh.net.
 keurmamanthiou.sn.	43200	IN	NS	ns1.contabo.net.
@@ -16712,7 +16714,7 @@ senegalnumerique2020.sn. 43200	IN	NS	ns.ucad.sn.
 senegalnumerique2020.sn. 43200	IN	NS	dns.ucad.sn.
 senegalphotography.sn.	43200	IN	NS	ns19.ovh.net.
 senegalphotography.sn.	43200	IN	NS	dns19.ovh.net.
-senegalpme.sn.		43200	IN	RRSIG	DS 13 2 43200 20211125160124 20210926152551 9009 sn. Yenlm3WtwB4iYwjCSCNW9++YARZTh97U3EPcIjyoGK5iWu8guJx9WGQ1 mBdv+ByEoa8dE6kOperYqJM7xRr96g==
+senegalpme.sn.		43200	IN	RRSIG	DS 13 2 43200 20220110154900 20211111150124 9009 sn. n/KC4ML2ZUaMlNGV/KcB+aAlpJSZ8ucgZhJGIOhV94AmVYAnD+5mYMo8 smpoRX6BZF9VOoi7QRyyUpGsR3o/lg==
 senegalpme.sn.		43200	IN	DS	10639 8 2 3015DD804ECC738EE4FA62CE8839A4AEA9C63419337CE37E6C0A5E98 3586A92C
 senegalpme.sn.		43200	IN	NS	ns14.ovh.net.
 senegalpme.sn.		43200	IN	NS	dns14.ovh.net.
@@ -19635,7 +19637,7 @@ universvolailles.sn.	43200	IN	NS	ns1.caurys.net.
 universvolailles.sn.	43200	IN	NS	ns2.caurys.net.
 upay.sn.		43200	IN	NS	ns1.cp-ht-11.webhostbox.net.
 upay.sn.		43200	IN	NS	ns2.cp-ht-11.webhostbox.net.
-upcine.sn.		43200	IN	RRSIG	DS 13 2 43200 20211125161250 20210926160639 9009 sn. Nf6UjpKQvT6XQO0HhIrxg/zVx/COpDriUEmWKga1wB9F4HCM4kWL/tVw zpNKZ8lhOJGhj31fpu50ToEO6sqjVg==
+upcine.sn.		43200	IN	RRSIG	DS 13 2 43200 20220110151546 20211111151250 9009 sn. FyGK0ZKdBoDKnI4jZUXCE8ExWJzJj/z0zf5egeSLBI9yVpBOBZNDw8Tz TfJtDiQKdiN/Hj4koasN7oyPVAcX5A==
 upcine.sn.		43200	IN	DS	54295 8 2 CB05A16E8D2D30B0D31DDE6C776072FE04ED6E2CFB228A517F1E0EC0 E5852402
 upcine.sn.		43200	IN	NS	ns200.anycast.me.
 upcine.sn.		43200	IN	NS	dns200.anycast.me.
