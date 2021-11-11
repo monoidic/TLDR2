@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410432 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410445 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220108140458 20211111032003 9009 sn. eR+TEnXE47TzPsMsL2QXwtXaz9h1NY6KETb2hwKHlYt10lsrD3TKFxhM ZljYK9fC51v9QW1EzJhVh8fbyhHl/A==
-sn.			172800	IN	TXT	"No RRs processed [11/11/2021 05H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211217115838 20211111052002 9009 sn. T04YCZNJvrsKUJMLEt47SClPxIHuNYb0kcB9HwS/7RuYnmU2S8sfwkY+ jwp0HjIxOqoTrT3Y4irs6HQH4tHEUg==
+sn.			172800	IN	TXT	"No RRs processed [11/11/2021 07H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220110042003 20211111032003 9009 sn. 4BJUB/nVmbbtBeqTqKpj3wFRNAGOw4I5CVi28s8oFfAomo1Hvd6gddeT z81l9BLQhwNrRXgG6ZmrBZVahpGplw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220110062002 20211111052002 9009 sn. NwqRQ1reqokEaQlsfHM7HnobbDPgPtdnZkb+7QyCwex+PfeWhYSpXKbK EoCpzMkFYqNoDQKtBsuZBjZOh40b3A==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -5227,6 +5227,8 @@ decpc.sn.		43200	IN	NS	ns1.ascio.com.
 decpc.sn.		43200	IN	NS	ns2.ascio.com.
 decpc.sn.		43200	IN	NS	ns3.ascio.com.
 decpc.sn.		43200	IN	NS	ns4.ascio.com.
+dedegroupe.sn.		172800	IN	NS	ns16.ovh.net.
+dedegroupe.sn.		172800	IN	NS	dns16.ovh.net.
 dee.sn.			43200	IN	NS	gail.ns.cloudflare.com.
 dee.sn.			43200	IN	NS	hugh.ns.cloudflare.com.
 defact.sn.		43200	IN	NS	ns18.ovh.net.
@@ -17777,7 +17779,7 @@ sogi.sn.		43200	IN	NS	ns1.eco-dns.co.uk.
 sogi.sn.		43200	IN	NS	ns2.eco-dns.co.uk.
 sogi.sn.		43200	IN	NS	ns3.eco-dns.co.uk.
 sogi.sn.		43200	IN	NS	ns4.eco-dns.co.uk.
-sogip.sn.		43200	IN	RRSIG	DS 13 2 43200 20211125051631 20210926044946 9009 sn. 5zXsHBM+qZ3mwMU330wo66BP/fX/aSRbI0wTTes2k+P6laO92cvNOyfZ PGxHQIoxAoI0hpVVkOmu4FWuQcAq3w==
+sogip.sn.		43200	IN	RRSIG	DS 13 2 43200 20220110043645 20211111041631 9009 sn. 8M2iW/DfD0L0PBsA6cSeyuxFX5fIK33jpb9U6MQKgQZqp38sK6IzfWdY TtDwWA31ypotlH3VE9wN9SpCow29gw==
 sogip.sn.		43200	IN	DS	63909 7 2 44B0644B32945D46425217BE7D0DC6352ACA9C6EF9FCF6627D2E7561 FD6C2BA4
 sogip.sn.		43200	IN	NS	ns.sonatel.sn.
 sogip.sn.		43200	IN	NS	ns2.sonatel.sn.

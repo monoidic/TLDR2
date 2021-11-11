@@ -39,3 +39,4 @@
 * `xn--lgbbat1ad8j` via `idn2.nic.dz.`: [Click here to view zone data.](archives/xn--lgbbat1ad8j/idn2.nic.dz.zone)
 * `xn--ogbpf8fl` via `ns1.tld.sy.`: [Click here to view zone data.](archives/xn--ogbpf8fl/ns1.tld.sy.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
+* `xn--ygbi2ammx` via `ns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.gov.ps.zone)
