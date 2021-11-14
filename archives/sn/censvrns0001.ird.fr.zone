@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410890 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222410902 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220104062411 20211113212003 9009 sn. Fc6gDG/KVcEGoseW0wS0UA7F2OxH7K57bqZEzkbxv6wZrHJogzDRW296 OVGxdA6Jqyxp3nrY3AVmaHOtJYHUhQ==
-sn.			172800	IN	TXT	"No RRs processed [13/11/2021 23H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211211142924 20211113231003 9009 sn. gl9SFH8r+gO9wzPG8yagAybMUJoIqyUy4E2QO9ID2EC2n/+FUKuRtgWz NSst2Pp2gzkI5QFPPo5pYkQ7fsuqrw==
+sn.			172800	IN	TXT	"No RRs processed [14/11/2021 01H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220112222003 20211113212003 9009 sn. kWcT7EGVw9nmD7Zv0mzJc/vBg+r0L/M3y1/9/g+EOgQ7iSHgPg5MUco6 v+IeI5tpKhu+BHSoV/undh3+1YU5Ag==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220113001003 20211113231003 9009 sn. XZMzMQXnntJqUrWCFvpNmaE6RZ/oZo3emiFsrhuhHQmqgkSKt4MXjd6M JSIPM6xzF3IkAZUsnnjJmLRQfyOphQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -11884,6 +11884,8 @@ maboutique.sn.		43200	IN	NS	ns1.snterra.com.
 maboutique.sn.		43200	IN	NS	ns2.snterra.com.
 mabtools.sn.		43200	IN	NS	ns0.vename.com.
 mabtools.sn.		43200	IN	NS	ns1.vename.com.
+mabulledesoleil.sn.	172800	IN	NS	ns16.ovh.net.
+mabulledesoleil.sn.	172800	IN	NS	dns16.ovh.net.
 maca.sn.		43200	IN	NS	ns18.ovh.net.
 maca.sn.		43200	IN	NS	dns18.ovh.net.
 macaisse.sn.		43200	IN	NS	ns1.macaisse.sn.
@@ -20559,7 +20561,7 @@ xypex.sn.		43200	IN	NS	ns5.101domain.com.
 yaashotel.sn.		43200	IN	NS	ns1.101domain.com.
 yaashotel.sn.		43200	IN	NS	ns2.101domain.com.
 yaashotel.sn.		43200	IN	NS	ns5.101domain.com.
-yaatalmbinde.sn.	43200	IN	RRSIG	DS 13 2 43200 20211127233722 20210928225639 9009 sn. c7oRFDtag0i5wlthr3nKBKt1J+EHlFNdhJNSXUmhrcn60BbsFRmsPIUn BqnPgBthob22+1g8AeNb9xi/yW9ANA==
+yaatalmbinde.sn.	43200	IN	RRSIG	DS 13 2 43200 20220112233205 20211113223722 9009 sn. qPN2zi4g4i2/IV9Kn8zopJ9qOifFzuGrzytsfF8mmgLH34aUSln9NyIe QlF2nA8x07RZ/XRZbvfKWdY6AZ/rdA==
 yaatalmbinde.sn.	43200	IN	DS	20869 8 2 1FD850713610741E79C5F66DF79F2EE992AFDEFE7B35EBC156CE242B 9F59F945
 yaatalmbinde.sn.	43200	IN	NS	ns200.anycast.me.
 yaatalmbinde.sn.	43200	IN	NS	dns200.anycast.me.
