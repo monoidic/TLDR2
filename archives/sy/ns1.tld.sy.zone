@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021111517 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1636965134"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021111520 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1636970538"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -392,8 +392,8 @@ afpc.sy.		86400	IN	NS	ns3.tld.sy.
 afpc.sy.		86400	IN	NS	ns4.tld.sy.
 afreet.sy.		86400	IN	NS	suspend1.tld.sy.
 afreet.sy.		86400	IN	NS	suspend2.tld.sy.
-ag.sy.			86400	IN	NS	walt.ns.cloudflare.com.
-ag.sy.			86400	IN	NS	stevie.ns.cloudflare.com.
+ag.sy.			86400	IN	NS	suspend1.tld.sy.
+ag.sy.			86400	IN	NS	suspend2.tld.sy.
 age.sy.			86400	IN	NS	cns1.canadianwebhosting.com.
 age.sy.			86400	IN	NS	cns2.canadianwebhosting.com.
 agha-grain.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2274,8 +2274,8 @@ dayco.sy.		86400	IN	NS	ns1.alanqaa.com.
 dayco.sy.		86400	IN	NS	ns2.alanqaa.com.
 dca.sy.			86400	IN	NS	ns3.tld.sy.
 dca.sy.			86400	IN	NS	ns4.tld.sy.
-dcc.sy.			86400	IN	NS	ns1.damashost.com.
-dcc.sy.			86400	IN	NS	ns2.damashost.com.
+dcc.sy.			86400	IN	NS	suspend1.tld.sy.
+dcc.sy.			86400	IN	NS	suspend2.tld.sy.
 dcci-me.sy.		86400	IN	NS	ns1.damashost.com.
 dcci-me.sy.		86400	IN	NS	ns2.damashost.com.
 dchd.sy.		86400	IN	NS	ns3.tld.sy.
@@ -6242,10 +6242,8 @@ stepstone.sy.		86400	IN	NS	ns2.domainnetwork.se.
 stepstone.sy.		86400	IN	NS	ns3.domainnetwork.com.
 steri-tech.sy.		86400	IN	NS	ns1.sawa-host.net.
 steri-tech.sy.		86400	IN	NS	ns2.sawa-host.net.
-sterico.sy.		86400	IN	NS	ns1.scs-net.sy.
-sterico.sy.		86400	IN	NS	ns1.scs-net.org.
-sterico.sy.		86400	IN	NS	ns2.scs-net.sy.
-sterico.sy.		86400	IN	NS	ns2.scs-net.org.
+sterico.sy.		86400	IN	NS	suspend1.tld.sy.
+sterico.sy.		86400	IN	NS	suspend2.tld.sy.
 steritech.sy.		86400	IN	NS	ns1.syrian-center.com.
 steritech.sy.		86400	IN	NS	ns2.syrian-center.com.
 store.sy.		86400	IN	NS	suspend1.tld.sy.
