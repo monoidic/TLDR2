@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021111506 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021111508 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1636956031"
+mg.			7200	IN	TXT	"Generation Time: 1636963245"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1713,6 +1713,8 @@ bioesoil.mg.		7200	IN	NS	dns1.indritech.biz.
 bioesoil.mg.		7200	IN	NS	dns2.indritech.biz.
 bioflavour.mg.		7200	IN	NS	ns1.eden.dnshostnetwork.com.
 bioflavour.mg.		7200	IN	NS	ns2.eden.dnshostnetwork.com.
+biolabo.mg.		7200	IN	NS	ns1.da.cloudns.io.
+biolabo.mg.		7200	IN	NS	ns2.da.cloudns.io.
 biomerieux.mg.		7200	IN	NS	ns01.eolas.fr.
 biomerieux.mg.		7200	IN	NS	ns02.eolas.fr.
 biomerieux.mg.		7200	IN	NS	ns03.eolas.fr.
@@ -1916,8 +1918,6 @@ bourdon.mg.		7200	IN	NS	ns1.ntmada-webhosting.com.
 bourdon.mg.		7200	IN	NS	ns2.ntmada-webhosting.com.
 bovima.mg.		7200	IN	NS	ns1.o2switch.net.
 bovima.mg.		7200	IN	NS	ns2.o2switch.net.
-boxblanc.mg.		7200	IN	NS	ns1.servermada.com.
-boxblanc.mg.		7200	IN	NS	ns2.servermada.com.
 boxin.mg.		7200	IN	NS	ns1.da.cloudns.io.
 boxin.mg.		7200	IN	NS	ns2.da.cloudns.io.
 boxoffice.mg.		7200	IN	NS	ns1.mweb.co.za.
@@ -5322,6 +5322,8 @@ itv.mg.			86400	IN	NS	ns1.mg.tambazotra.net.
 itv.mg.			86400	IN	NS	ns2.mg.tambazotra.net.
 itworks.mg.		86400	IN	NS	ns1.o2switch.net.
 itworks.mg.		86400	IN	NS	ns2.o2switch.net.
+ivana.mg.		86400	IN	NS	dns11.ovh.net.
+ivana.mg.		86400	IN	NS	ns11.ovh.net.
 ivision.mg.		86400	IN	NS	ns1.da.cloudns.io.
 ivision.mg.		86400	IN	NS	ns2.da.cloudns.io.
 ivokoloaina.mg.		86400	IN	NS	ns29.dot.mg.
@@ -6661,8 +6663,8 @@ mci-care.mg.		86400	IN	NS	ns.dts.mg.
 mci-care.mg.		86400	IN	NS	ns1.dts.mg.
 mcmad.mg.		86400	IN	NS	ns1.servermada.com.
 mcmad.mg.		86400	IN	NS	ns2.servermada.com.
-mcmining.mg.		86400	IN	NS	ns29.dot.mg.
-mcmining.mg.		86400	IN	NS	ns29.illi.co.mg.
+mcmining.mg.		86400	IN	NS	ns.tgn.mg.
+mcmining.mg.		86400	IN	NS	ns1.tgn.mg.
 mcri-gov.mg.		86400	IN	NS	bruce.ns.cloudflare.com.
 mcri-gov.mg.		86400	IN	NS	wanda.ns.cloudflare.com.
 mcs-environnement.mg.	86400	IN	NS	dns19.ovh.net.
@@ -8493,8 +8495,6 @@ raiso.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 raiso.mg.		86400	IN	NS	ns1.fr.malagasy.com.
 rajaona.mg.		86400	IN	NS	ns1.cloudns.io.
 rajaona.mg.		86400	IN	NS	ns2.cloudns.io.
-rajosefa.mg.		86400	IN	NS	ns1.o2switch.net.
-rajosefa.mg.		86400	IN	NS	ns2.o2switch.net.
 raketa.mg.		86400	IN	NS	ns1.da.cloudns.io.
 raketa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 rakitra.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -10540,8 +10540,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.

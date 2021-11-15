@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222411114 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222411128 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211210192553 20211115051003 9009 sn. UceGKeh8LH5VbNRWlp9uNniyKRyGMN56hvZwF4TCuSzPZ1D07TsR1FdN 8THVuOqRiuLQ71/Fw4mZCIZjOZildQ==
-sn.			172800	IN	TXT	"No RRs processed [15/11/2021 07H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220106131249 20211115073003 9009 sn. G1idlU+Fve7W2T0fSw79GSjBnzVKGEglQYt3c1QxUKb/9qa+j5fixGGH MKEMQ2FDiqhGrec/7TnA5mYndA2A/g==
+sn.			172800	IN	TXT	"No RRs processed [15/11/2021 09H30:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220114061003 20211115051003 9009 sn. onnaaLbJOwrNcMA++kSyK9ioXWApBgTa2/G0sGuFqX40Z+zWma3GGxx6 CFnjq4qpGsEj+KNnXgzylCHjKYxaYA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220114083003 20211115073003 9009 sn. 8uvZ7e0w3DLFJwS2dc9khduiRts8usICODcSqa0TwWEdUpQHxw1GiiRv lKabeuSUQ7s2Jhj4lU4tvzbuMN0bWg==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -1071,6 +1071,8 @@ alibaba.sn.		43200	IN	NS	ns1.kheweul.net.
 alibaba.sn.		43200	IN	NS	ns2.kheweul.net.
 alibaba.sn.		43200	IN	NS	ns3.kheweul.net.
 alibaba.sn.		43200	IN	NS	ns4.kheweul.net.
+alimentsdusenegal.sn.	172800	IN	NS	ns16.ovh.net.
+alimentsdusenegal.sn.	172800	IN	NS	dns16.ovh.net.
 alinis.sn.		43200	IN	NS	nsa.planethoster.net.
 alinis.sn.		43200	IN	NS	nsb.planethoster.net.
 alinis.sn.		43200	IN	NS	nsc.planethoster.net.
@@ -4072,6 +4074,8 @@ citywork.sn.		43200	IN	RRSIG	DS 13 2 43200 20211206113701 20211007111909 9009 sn
 citywork.sn.		43200	IN	DS	26512 8 2 4F955CE9D31EE62234B1172CC3AD6307E168E4C87423DB2274229110 8DC4F7BF
 citywork.sn.		43200	IN	NS	ns107.ovh.net.
 citywork.sn.		43200	IN	NS	dns107.ovh.net.
+civisme.sn.		172800	IN	NS	ns1.dns-parking.com.
+civisme.sn.		172800	IN	NS	ns2.dns-parking.com.
 clan-campbell.sn.	43200	IN	NS	dns1.cscdns.net.
 clan-campbell.sn.	43200	IN	NS	dns2.cscdns.net.
 clancampbell.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -8721,6 +8725,9 @@ gts-sa.sn.		43200	IN	NS	ns31.infomaniak.com.
 gts-sa.sn.		43200	IN	NS	ns32.infomaniak.com.
 gueumsabopp.sn.		43200	IN	NS	ns1.kheweul.net.
 gueumsabopp.sn.		43200	IN	NS	ns2.kheweul.net.
+guichet.sn.		172800	IN	NS	ns1.francedns.com.
+guichet.sn.		172800	IN	NS	ns2.francedns.com.
+guichet.sn.		172800	IN	NS	ns3.francedns.com.
 guichetunique.sn.	43200	IN	RRSIG	DS 13 2 43200 20211210150054 20211011140235 9009 sn. omYQNnK093+Rnlj3Jdq2WnBIC3r5tNfcSuhR/ZyRCbqRKP0VODkIHVJY Q9CzG0G3Yl/sMy6hTsM37YW99lEDHw==
 guichetunique.sn.	43200	IN	DS	37840 8 2 77F1F6792340FEF7943030782D52E2511C94598E7B69576AD9631933 755751DA
 guichetunique.sn.	43200	IN	NS	ns107.ovh.net.
@@ -19246,6 +19253,8 @@ touchsolutions.sn.	43200	IN	NS	ns105.ovh.net.
 touchsolutions.sn.	43200	IN	NS	dns105.ovh.net.
 toukki.sn.		43200	IN	NS	ns110.ovh.net.
 toukki.sn.		43200	IN	NS	dns110.ovh.net.
+tourisme.sn.		172800	IN	NS	ns1.dns-parking.com.
+tourisme.sn.		172800	IN	NS	ns2.dns-parking.com.
 tourisme-senegal.sn.	43200	IN	NS	ns111.ovh.net.
 tourisme-senegal.sn.	43200	IN	NS	dns111.ovh.net.
 tous.sn.		43200	IN	NS	nsgbr.comlaude.co.uk.
