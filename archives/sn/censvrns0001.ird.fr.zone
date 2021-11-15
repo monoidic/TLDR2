@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222411156 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222411169 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211201011730 20211115112002 9009 sn. 2yUUUoZGD2m6/VcKVP/zlk3RDMtwEh6TpDjbQJQ/WiLUbzOyks9UoFDc eQCuRlrXcpeagpaPdA7Axx3bOYz0Hg==
-sn.			172800	IN	TXT	"No RRs processed [15/11/2021 13H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211228165929 20211115132002 9009 sn. eV0oWgGnSphXrmw89JILcKQXqAQKCrlahDA3czpS0quzYAuA/OCc4Cnq OtVKjnL+IGyMrJTdl7KvtErj/bQCXw==
+sn.			172800	IN	TXT	"No RRs processed [15/11/2021 15H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220114122002 20211115112002 9009 sn. 59/yXW3iO5EQn5QnHGqDtvPOC3ohf54NfEllT/r8ydZyS1ihGf59no6J AwcYF1k71J4H2BV702n+5G2SJhmbJg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220114142002 20211115132002 9009 sn. O0blWu35dewIdm2XwhBBO/H7suWSYsaSJMnSEuGuSMVTkDn9EePz61os +nrphcpmqJk1aCcyPVNPM1+2Zmon9g==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -7126,7 +7126,7 @@ expertis.sn.		43200	IN	NS	eisdns1.expertis.sn.
 expertis.sn.		43200	IN	NS	eisdns2.expertis.sn.
 eisdns1.expertis.sn.	43200	IN	A	51.178.30.245
 eisdns2.expertis.sn.	43200	IN	A	51.83.72.63
-exphar.sn.		43200	IN	RRSIG	DS 13 2 43200 20211129124155 20210930122404 9009 sn. eFeLMehng24IIA9ZxEZ59frhQ8Jobcnov/E5L6DpiyHbcv9/e9+JtGHl nEIqtd0w0a3gMzqsw0dZztZXrGSzsw==
+exphar.sn.		43200	IN	RRSIG	DS 13 2 43200 20220114122916 20211115114155 9009 sn. Nw5qMcKdq+rW9maQAEc8jc2xTJ8yInX0brg9R7zkHOSooP8mq+0mPTMA EpXXMJdofy6S5LBgoBEfy2jPm9jL0A==
 exphar.sn.		43200	IN	DS	56734 8 2 6069B2AB7D8F5E0851100C7DDD9D186468F80F401FDEFAEA39BEA80A 2B2693B2
 exphar.sn.		43200	IN	NS	ns200.anycast.me.
 exphar.sn.		43200	IN	NS	dns200.anycast.me.
@@ -8284,6 +8284,8 @@ globalfruit.sn.		172800	IN	RRSIG	DS 13 2 172800 20220110221212 20211111213233 90
 globalgbs.sn.		43200	IN	NS	hosting100.arc.sn.
 globalimmo.sn.		43200	IN	NS	ns.arc.sn.
 globalimmo.sn.		43200	IN	NS	ns3.arc.sn.
+globalinks.sn.		172800	IN	NS	ns1.o2switch.net.
+globalinks.sn.		172800	IN	NS	ns2.o2switch.net.
 globalinvesttrading.sn.	172800	IN	NS	nsa.planethoster.net.
 globalinvesttrading.sn.	172800	IN	NS	nsb.planethoster.net.
 globalinvesttrading.sn.	172800	IN	NS	nsc.planethoster.net.
@@ -11732,6 +11734,8 @@ logisen.sn.		43200	IN	NS	ns2.sonatel.sn.
 logistixx.sn.		43200	IN	NS	nsa.planethoster.net.
 logistixx.sn.		43200	IN	NS	nsb.planethoster.net.
 logistixx.sn.		43200	IN	NS	nsc.planethoster.net.
+loli.sn.		172800	IN	NS	simon.ns.cloudflare.com.
+loli.sn.		172800	IN	NS	tegan.ns.cloudflare.com.
 lon.sn.			172800	IN	NS	ns1.squadhelp.com.
 lon.sn.			172800	IN	NS	ns2.squadhelp.com.
 lonase.sn.		43200	IN	NS	ns200.anycast.me.
@@ -12345,6 +12349,8 @@ mdconsulting.sn.	43200	IN	NS	ns1.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns2.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns3.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns4.ascio.com.
+mdiconstruction.sn.	172800	IN	NS	ns1.ipage.com.
+mdiconstruction.sn.	172800	IN	NS	ns2.ipage.com.
 mdindustrie.sn.		172800	IN	RRSIG	DS 13 2 172800 20211228192659 20211029184735 9009 sn. qqO04NTL3/70154JuRGlBLPyJWMFnju4uPVbMn11zQEQq1nz0PUDCg8G P/OYXZAiazd4Hitsu3NP6TlX7J7qgQ==
 mdindustrie.sn.		172800	IN	DS	6307 8 2 5203035433CADFBD6DA3BB7569EEF1F28378506D8270344E0C737FE5 4586C10E
 mdindustrie.sn.		172800	IN	NS	ns100.ovh.net.
@@ -16298,6 +16304,10 @@ sci-jamm.sn.		172800	IN	NS	ns19.ovh.net.
 sci-jamm.sn.		172800	IN	NS	dns19.ovh.net.
 scientology.sn.		43200	IN	NS	ns1.markmonitor.com.
 scientology.sn.		43200	IN	NS	ns2.markmonitor.com.
+scimad.sn.		172800	IN	NS	ns1.wanekoohost.com.
+scimad.sn.		172800	IN	NS	ns2.wanekoohost.com.
+scimad.sn.		172800	IN	NS	ns5.wanekoohost.com.
+scimad.sn.		172800	IN	NS	ns6.wanekoohost.com.
 scin.sn.		172800	IN	RRSIG	DS 13 2 172800 20211228225616 20211029225156 9009 sn. J2Bcvz3GCNB9PRkK/8UUDPANI69Pbeq4afaAZ4KrQ3l1X8oapQDrEqUA /NoXWLLNIqwJQb3uEntWkEeS3l5pIQ==
 scin.sn.		172800	IN	DS	22537 8 2 D13E809447E740AD3EAA977BA3E75C11B6DF0BBE9C516B988642F7CA 88C653A0
 scin.sn.		172800	IN	NS	ns100.ovh.net.
