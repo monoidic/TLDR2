@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021111622 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1637056932"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021111625 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1637062335"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2101,6 +2101,8 @@ container-agency.sy.	86400	IN	NS	suspend1.tld.sy.
 container-agency.sy.	86400	IN	NS	suspend2.tld.sy.
 copa.sy.		86400	IN	NS	ns1.waveshost.sy.
 copa.sy.		86400	IN	NS	ns2.waveshost.sy.
+copa-creamy.sy.		86400	IN	NS	ns1.waveshost.sy.
+copa-creamy.sy.		86400	IN	NS	ns2.waveshost.sy.
 cordoba.sy.		86400	IN	NS	suspend1.tld.sy.
 cordoba.sy.		86400	IN	NS	suspend2.tld.sy.
 cosmo.sy.		86400	IN	NS	ns1.runnet.sy.
@@ -3990,6 +3992,8 @@ l-l-c.sy.		86400	IN	NS	suspend1.tld.sy.
 l-l-c.sy.		86400	IN	NS	suspend2.tld.sy.
 labandmore.sy.		86400	IN	NS	suspend1.tld.sy.
 labandmore.sy.		86400	IN	NS	suspend2.tld.sy.
+labtix.sy.		86400	IN	NS	ns3.tld.sy.
+labtix.sy.		86400	IN	NS	ns4.tld.sy.
 lahamco.sy.		86400	IN	NS	suspend1.tld.sy.
 lahamco.sy.		86400	IN	NS	suspend2.tld.sy.
 laith.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5002,8 +5006,8 @@ one.sy.			86400	IN	NS	ns3.one.sy.
 one.sy.			86400	IN	NS	ns4.one.sy.
 ns3.one.sy.		86400	IN	A	185.216.132.26
 ns4.one.sy.		86400	IN	A	185.216.132.26
-oneaddress.sy.		86400	IN	NS	suspend1.tld.sy.
-oneaddress.sy.		86400	IN	NS	suspend2.tld.sy.
+oneaddress.sy.		86400	IN	NS	ns1.dns-parking.com.
+oneaddress.sy.		86400	IN	NS	ns2.dns-parking.com.
 onitsukatiger.sy.	86400	IN	NS	rns1.rightsdns.com.
 onitsukatiger.sy.	86400	IN	NS	rns2.rightsdns.com.
 online.sy.		86400	IN	NS	ns506.canadianwebhosting.com.
