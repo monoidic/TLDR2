@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021111708 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021111710 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1637136052"
+mg.			7200	IN	TXT	"Generation Time: 1637143228"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -126,8 +126,8 @@ mg.			7200	IN	TXT	"Generation Time: 1637136052"
 37.mg.			7200	IN	NS	ursula.ns.cloudflare.com.
 38.mg.			7200	IN	NS	ns1.dns.com.
 38.mg.			7200	IN	NS	ns2.dns.com.
-383.mg.			7200	IN	NS	ns1.dns.com.
-383.mg.			7200	IN	NS	ns2.dns.com.
+383.mg.			7200	IN	NS	ns1.dnscu.com.
+383.mg.			7200	IN	NS	ns2.dnscu.com.
 3977.mg.		7200	IN	NS	kim.ns.cloudflare.com.
 3977.mg.		7200	IN	NS	malcolm.ns.cloudflare.com.
 3bl.mg.			7200	IN	NS	ns.dts.mg.
@@ -622,10 +622,6 @@ aladdin.mg.		7200	IN	NS	ns29.dot.mg.
 aladdin.mg.		7200	IN	NS	ns29.illi.co.mg.
 alala.mg.		7200	IN	NS	marjory.ns.cloudflare.com.
 alala.mg.		7200	IN	NS	miguel.ns.cloudflare.com.
-alefa-barea.mg.		7200	IN	NS	ns.dts.mg.
-alefa-barea.mg.		7200	IN	NS	ns1.dts.mg.
-alefabarea.mg.		7200	IN	NS	ns.dts.mg.
-alefabarea.mg.		7200	IN	NS	ns1.dts.mg.
 alemaina.mg.		7200	IN	NS	ns1.cloudns.io.
 alemaina.mg.		7200	IN	NS	ns2.cloudns.io.
 alexandra-travel.mg.	7200	IN	NS	ns29.illi.co.mg.
@@ -4190,6 +4186,8 @@ gasynet-openvpn.mg.	86400	IN	NS	ns.dts.mg.
 gasynet-openvpn.mg.	86400	IN	NS	ns1.dts.mg.
 gasynet-openvpn2.mg.	86400	IN	NS	ns.dts.mg.
 gasynet-openvpn2.mg.	86400	IN	NS	ns1.dts.mg.
+gasynode.mg.		86400	IN	NS	ns1.madanetinfo.mg.
+gasynode.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 gasyonevision.mg.	86400	IN	NS	ns1.gasyweb.com.
 gasyonevision.mg.	86400	IN	NS	ns2.gasyweb.com.
 gasypay.mg.		86400	IN	NS	ns1.gasyweb.com.
@@ -4432,6 +4430,8 @@ groupeauxiliaire.mg.	86400	IN	NS	ns1.servermada.com.
 groupeauxiliaire.mg.	86400	IN	NS	ns2.servermada.com.
 groupebasan.mg.		86400	IN	NS	paul.ns.cloudflare.com.
 groupebasan.mg.		86400	IN	NS	venus.ns.cloudflare.com.
+groupedt.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
+groupedt.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 groupelhotel.mg.	86400	IN	NS	ns1.servermada.com.
 groupelhotel.mg.	86400	IN	NS	ns2.servermada.com.
 grouperefrigepeche.mg.	86400	IN	NS	dns10.ovh.net.
@@ -6311,8 +6311,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
