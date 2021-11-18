@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2021111709 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2021111805 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -703,8 +703,10 @@ alifmobile.tj.		7200	IN	NS	ns3.timeweb.org.
 alifmobile.tj.		7200	IN	NS	ns4.timeweb.org.
 alifpay.tj.		7200	IN	NS	ns1.aliftech.net.
 alifpay.tj.		7200	IN	NS	ns2.aliftech.net.
-alifshop.tj.		7200	IN	NS	ns1.aliftech.net.
-alifshop.tj.		7200	IN	NS	ns2.aliftech.net.
+alifshop.tj.		7200	IN	NS	ns-44.awsdns-05.com.
+alifshop.tj.		7200	IN	NS	ns-671.awsdns-19.net.
+alifshop.tj.		7200	IN	NS	ns-1090.awsdns-08.org.
+alifshop.tj.		7200	IN	NS	ns-1758.awsdns-27.co.uk.
 aliftech.tj.		7200	IN	NS	ns1.aliftech.net.
 aliftech.tj.		7200	IN	NS	ns2.aliftech.net.
 alifzhuma.tj.		7200	IN	NS	ns1.aliftech.net.
@@ -4790,8 +4792,6 @@ e-commerce.tj.		7200	IN	NS	ns.tojikiston.com.
 e-commerce.tj.		7200	IN	NS	ns1.tojikiston.com.
 e-coupon.tj.		7200	IN	NS	ns.tojikiston.com.
 e-coupon.tj.		7200	IN	NS	ns1.tojikiston.com.
-e-donish.tj.		7200	IN	NS	ns.tojikiston.com.
-e-donish.tj.		7200	IN	NS	ns1.tojikiston.com.
 e-mail.tj.		7200	IN	NS	ns1.intercom.tj.
 e-mail.tj.		7200	IN	NS	ns2.intercom.tj.
 e-reklama.tj.		7200	IN	NS	ns1.rsnx.ru.
@@ -8685,6 +8685,8 @@ m-family.tj.		7200	IN	NS	ns9.ismtj.co.
 m-family.tj.		7200	IN	NS	ns10.ismtj.co.
 m-k.tj.			7200	IN	NS	ns1.rspd.tj.
 m-k.tj.			7200	IN	NS	ns2.rspd.tj.
+m-mobile.tj.		7200	IN	NS	ns1.daramal.ru.
+m-mobile.tj.		7200	IN	NS	ns2.daramal.ru.
 m-store.tj.		7200	IN	NS	dns1.yandex.net.
 m-store.tj.		7200	IN	NS	dns2.yandex.net.
 m-vector.tj.		7200	IN	NS	ns9.ismtj.co.
@@ -11245,6 +11247,8 @@ pitfi.tj.		7200	IN	NS	ns5.gettj.net.
 pitfi.tj.		7200	IN	NS	ns6.gettj.net.
 piu.tj.			7200	IN	NS	ns1.rspd.tj.
 piu.tj.			7200	IN	NS	ns2.rspd.tj.
+piumof.tj.		7200	IN	NS	ns1.shedevr.name.
+piumof.tj.		7200	IN	NS	ns2.shedevr.name.
 pixel.tj.		7200	IN	NS	ns1.daramal.ru.
 pixel.tj.		7200	IN	NS	ns2.daramal.ru.
 pixelshop.tj.		7200	IN	NS	ns1.timeweb.ru.
@@ -11341,8 +11345,8 @@ pokupka.tj.		7200	IN	NS	ns1.rsnx.ru.
 pokupka.tj.		7200	IN	NS	ns2.rsnx.ru.
 police-reform.tj.	7200	IN	NS	ns.tojikiston.com.
 police-reform.tj.	7200	IN	NS	ns1.tojikiston.com.
-poliglotiki.tj.		7200	IN	NS	dns1.yandex.net.
-poliglotiki.tj.		7200	IN	NS	dns2.yandex.net.
+poliglotiki.tj.		7200	IN	NS	ns1.rsnx.ru.
+poliglotiki.tj.		7200	IN	NS	ns2.rsnx.ru.
 poly.tj.		7200	IN	NS	dns1.cscdns.net.
 poly.tj.		7200	IN	NS	dns2.cscdns.net.
 polygraph-group.tj.	7200	IN	NS	ns.tojikiston.com.
@@ -11588,8 +11592,8 @@ qgames.tj.		7200	IN	NS	ns1.reg.ru.
 qgames.tj.		7200	IN	NS	ns2.reg.ru.
 qiwi.tj.		7200	IN	NS	ns1.rspd.tj.
 qiwi.tj.		7200	IN	NS	ns2.rspd.tj.
-qjf.tj.			7200	IN	NS	ns1.rspd.tj.
-qjf.tj.			7200	IN	NS	ns2.rspd.tj.
+qjf.tj.			7200	IN	NS	ns1.timeweb.ru.
+qjf.tj.			7200	IN	NS	ns3.timeweb.org.
 qlled.tj.		7200	IN	NS	ns1.dns-diy.com.
 qlled.tj.		7200	IN	NS	ns2.dns-diy.com.
 qmc.tj.			7200	IN	NS	ns1.hosting.reg.ru.
@@ -12498,6 +12502,8 @@ sc-sinon.tj.		7200	IN	NS	ns9.ismtj.co.
 sc-sinon.tj.		7200	IN	NS	ns10.ismtj.co.
 scania.tj.		7200	IN	NS	ns2.domainnetwork.se.
 scania.tj.		7200	IN	NS	ns4.scania.com.
+schiever.tj.		7200	IN	NS	ns105.ovh.net.
+schiever.tj.		7200	IN	NS	dns105.ovh.net.
 schindler.tj.		7200	IN	NS	ns1.schindler.com.
 schindler.tj.		7200	IN	NS	ns2.schindler.com.
 schindler.tj.		7200	IN	NS	ns3.schindler.com.
@@ -14663,8 +14669,8 @@ trustpilot.tj.		7200	IN	NS	ns-296.awsdns-37.com.
 trustpilot.tj.		7200	IN	NS	ns-516.awsdns-00.net.
 tsb.tj.			7200	IN	NS	ns.tojikiston.com.
 tsb.tj.			7200	IN	NS	ns1.tojikiston.com.
-tsnu.tj.		7200	IN	NS	eu.atakdomain.com.
-tsnu.tj.		7200	IN	NS	tr.atakdomain.com.
+tsnu.tj.		7200	IN	NS	ns3016.mochahost.com.
+tsnu.tj.		7200	IN	NS	ns4016.mochahost.com.
 tspu.tj.		7200	IN	NS	ns.tarena.tj.
 tspu.tj.		7200	IN	NS	ns2.tarena.tj.
 tsulbp.tj.		7200	IN	NS	ns.tojikiston.com.
