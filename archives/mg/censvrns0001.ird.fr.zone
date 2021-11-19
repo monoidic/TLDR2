@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021111908 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021111910 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1637308835"
+mg.			7200	IN	TXT	"Generation Time: 1637316033"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -5259,8 +5259,8 @@ isae.mg.		86400	IN	NS	ns1.da.cloudns.io.
 isae.mg.		86400	IN	NS	ns2.da.cloudns.io.
 isasolutions.mg.	86400	IN	NS	ns1.da.cloudns.io.
 isasolutions.mg.	86400	IN	NS	ns2.da.cloudns.io.
-iscam.mg.		86400	IN	NS	ns1.servermada.com.
-iscam.mg.		86400	IN	NS	ns2.servermada.com.
+iscam.mg.		86400	IN	NS	laila.ns.cloudflare.com.
+iscam.mg.		86400	IN	NS	yichun.ns.cloudflare.com.
 iscamien.mg.		86400	IN	NS	ns29.dot.mg.
 iscamien.mg.		86400	IN	NS	ns29.illi.co.mg.
 islandassistance.mg.	86400	IN	NS	ns.dts.mg.
@@ -6313,8 +6313,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6906,9 +6906,9 @@ midaspartners.mg.	86400	IN	NS	ns2.serveurgasy.com.
 midem.mg.		86400	IN	NS	ns1.indritech.mg.
 midem.mg.		86400	IN	NS	ns2.indritech.mg.
 midem.mg.		86400	IN	NS	ns3.indritech.mg.
-midi-madagasikara.mg.	86400	IN	NS	ns1.midi-madagasikara.mg.
-midi-madagasikara.mg.	86400	IN	NS	ns2.sivit.org.
-ns1.midi-madagasikara.mg. 86400	IN	A	194.146.226.121
+midi-madagasikara.mg.	86400	IN	NS	ns2.midi-madagasikara.mg.
+midi-madagasikara.mg.	86400	IN	NS	vps-ae979fb7.vps.ovh.ca.
+ns2.midi-madagasikara.mg. 86400	IN	A	66.70.190.95
 mielleriedelagrandeile.mg. 86400 IN	NS	ns13.wixdns.net.
 mielleriedelagrandeile.mg. 86400 IN	NS	ns12.wixdns.net.
 mihari-vola.mg.		86400	IN	NS	ns1.cloudns.io.
