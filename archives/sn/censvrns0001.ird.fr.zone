@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222411802 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222411813 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220103010953 20211119092003 9009 sn. v6/LO9mdPyqT2Fv3zVvY5a/4pq5IHYNr7N3DQGxYh1LO0B/BuIMGh9ge IVT1q+r3UM0K50J7GjF4wWynZHkqUw==
-sn.			172800	IN	TXT	"No RRs processed [19/11/2021 11H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211219054322 20211119111003 9009 sn. 7gQREmLXRdJnHBsj2mjgE1V2bSwDJnaFf1rrqJQLQlsgECUJSeafCYa1 xG7UITdDCqgyGetemmToVcMmSw0lxg==
+sn.			172800	IN	TXT	"No RRs processed [19/11/2021 13H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220118102003 20211119092003 9009 sn. BRvqknozbMdeGbANLVFn9f3OJy4aITTJ/FVcU7TJA67mRSreD5z9gIid b9nQ11YfHm13CHGlKj9oGrtrGs1qvQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220118121003 20211119111003 9009 sn. 5Imz5hyqvJJbWMPxyMbdJIOxGRI+K4sMp1Nhg3k9lDW3VzN6ZS2d14rj Q5bjULMRW+vco0Eb8KIE+rIVX257Lw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -2544,6 +2544,10 @@ bienchezsoi.sn.		43200	IN	NS	ns4.kheweul.net.
 bigdata.sn.		43200	IN	NS	ns1.101domain.com.
 bigdata.sn.		43200	IN	NS	ns2.101domain.com.
 bigdata.sn.		43200	IN	NS	ns5.101domain.com.
+bijoux-stars.sn.	172800	IN	NS	ns1.wanekoohost.com.
+bijoux-stars.sn.	172800	IN	NS	ns2.wanekoohost.com.
+bijoux-stars.sn.	172800	IN	NS	ns5.wanekoohost.com.
+bijoux-stars.sn.	172800	IN	NS	ns6.wanekoohost.com.
 billboard.sn.		43200	IN	NS	ns1.kheweul.net.
 billboard.sn.		43200	IN	NS	ns2.kheweul.net.
 billboard.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -6290,8 +6294,6 @@ eds.sn.			43200	IN	NS	ns3075487.ip-147-135-221.eu.
 edu.sn.			43200	IN	NS	ns.nic.sn.
 edu.sn.			43200	IN	NS	ns.ucad.sn.
 edu.sn.			43200	IN	NS	ns3.cctld.sn.
-edu-numerique.sn.	43200	IN	NS	cpanel5.lws-hosting.com.
-edu-numerique.sn.	43200	IN	NS	cpanel6.lws-hosting.com.
 education.sn.		43200	IN	NS	ns1.kheweul.net.
 education.sn.		43200	IN	NS	ns2.kheweul.net.
 education.sn.		43200	IN	NS	ns3.kheweul.net.
