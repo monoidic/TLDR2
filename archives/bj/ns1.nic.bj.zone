@@ -1,5 +1,4 @@
 bj.			86400	IN	SOA	pch.nic.bj. tech.nic.bj. 2021111909 21600 1800 2419200 7200
-bj.			86400	IN	TXT	"Generation Time: 1637308808"
 bj.			86400	IN	NS	ns1.nic.bj.
 bj.			86400	IN	NS	ns2.nic.bj.
 bj.			86400	IN	NS	pch.nic.bj.
@@ -7,6 +6,7 @@ bj.			86400	IN	NS	ns-bj.nic.fr.
 bj.			86400	IN	NS	ns-bj.afrinic.net.
 bj.			86400	IN	NS	anycastdns1.nic.bj.
 bj.			86400	IN	NS	anycastdns2.nic.bj.
+bj.			86400	IN	TXT	"Generation Time: 1637308808"
 001.bj.			86400	IN	NS	ns1.001.bj.
 001.bj.			86400	IN	NS	ns2.001.bj.
 ns1.001.bj.		86400	IN	A	192.64.112.83
@@ -2973,9 +2973,9 @@ hotel.bj.		86400	IN	NS	ns6.kasserver.com.
 hoteliya-oasis.bj.	86400	IN	NS	ns1.arobase360.com.
 hoteliya-oasis.bj.	86400	IN	NS	ns2.arobase360.com.
 hoteliya-oasis.bj.	86400	IN	NS	ns3.arobase360.com.
+hotels.bj.		86400	IN	TXT	"Generation Time: 1637308809"
 hotels.bj.		86400	IN	NS	gwen.ns.cloudflare.com.
 hotels.bj.		86400	IN	NS	lynn.ns.cloudflare.com.
-hotels.bj.		86400	IN	TXT	"Generation Time: 1637308809"
 houndekon.bj.		86400	IN	NS	ns1.secureplus.bj.
 houndekon.bj.		86400	IN	NS	ns2.secureplus.bj.
 houngbo.bj.		86400	IN	NS	ns100.whbdns.com.
@@ -4282,13 +4282,13 @@ ngassociate.bj.		86400	IN	NS	ns2.hotspot240.com.
 nic.bj.			86400	IN	NS	ns1.nic.bj.
 nic.bj.			86400	IN	NS	ns2.nic.bj.
 nic.bj.			86400	IN	NS	pch.nic.bj.
-anycastdns1.nic.bj.	86400	IN	AAAA	2a00:fea0:dead::beef
 anycastdns1.nic.bj.	86400	IN	A	185.38.108.108
+anycastdns1.nic.bj.	86400	IN	AAAA	2a00:fea0:dead::beef
 anycastdns2.nic.bj.	86400	IN	A	185.28.194.194
 ns1.nic.bj.		86400	IN	A	154.65.28.218
 ns2.nic.bj.		86400	IN	A	41.85.191.2
-pch.nic.bj.		86400	IN	AAAA	2001:500:14:6125:ad::1
 pch.nic.bj.		86400	IN	A	204.61.216.125
+pch.nic.bj.		86400	IN	AAAA	2001:500:14:6125:ad::1
 nila.bj.		86400	IN	NS	ns1.arobase360.com.
 nila.bj.		86400	IN	NS	ns2.arobase360.com.
 nila.bj.		86400	IN	NS	ns3.arobase360.com.
@@ -4978,8 +4978,8 @@ revuejogbe.bj.		86400	IN	NS	ns3.francedns.com.
 rgz.bj.			86400	IN	NS	ns105.ovh.net.
 rgz.bj.			86400	IN	NS	dns105.ovh.net.
 rgz.bj.			86400	IN	NS	ovhcontrole.rgz.bj.
-ovhcontrole.rgz.bj.	86400	IN	AAAA	2001:41d0:1:1b00:213:186:33:3
 ovhcontrole.rgz.bj.	86400	IN	A	213.186.33.171
+ovhcontrole.rgz.bj.	86400	IN	AAAA	2001:41d0:1:1b00:213:186:33:3
 rim.bj.			86400	IN	NS	ns1.squadhelp.com.
 rim.bj.			86400	IN	NS	ns2.squadhelp.com.
 rimming.bj.		86400	IN	NS	ns1.squadhelp.com.
@@ -5702,9 +5702,9 @@ tourism.bj.		86400	IN	NS	ns1.squadhelp.com.
 tourism.bj.		86400	IN	NS	ns2.squadhelp.com.
 tourismbenin.bj.	86400	IN	NS	deb.ns.cloudflare.com.
 tourismbenin.bj.	86400	IN	NS	james.ns.cloudflare.com.
+tourisme.bj.		86400	IN	TXT	"Generation Time: 1637308809"
 tourisme.bj.		86400	IN	NS	ns1.beninweb.org.
 tourisme.bj.		86400	IN	NS	ns2.beninweb.org.
-tourisme.bj.		86400	IN	TXT	"Generation Time: 1637308809"
 tourisme-collines.bj.	86400	IN	NS	ns10.ovh.net.
 tourisme-collines.bj.	86400	IN	NS	dns10.ovh.net.
 tourismebenin.bj.	86400	IN	NS	ns1.o2switch.net.
