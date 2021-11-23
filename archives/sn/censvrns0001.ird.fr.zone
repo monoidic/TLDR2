@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222412525 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222412540 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211225053547 20211123191003 9009 sn. +PrSQYQYUkIk2WuWp91o8ulG9zFr2EXx2Rpc3ummfVdoDQ8O76Rh5iPl 5l82bLiZjbqEK8h3MGFk1oWerwmRug==
-sn.			172800	IN	TXT	"No RRs processed [23/11/2021 21H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220118210859 20211123212003 9009 sn. 3WsFMR/NDUm9miRBpB5sb5k7MgW9horm+3XcnApemaHB4eZlz4W99WqL ESXMjtucp11hCYcC30TjYrhhlXMF6g==
+sn.			172800	IN	TXT	"No RRs processed [23/11/2021 23H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220122201003 20211123191003 9009 sn. DRrn0oIShLMTmTq6xT0UZRiS0YPL3uD0a2uVCI0JhZlQw/v9qJFIqdZ1 SrbnP9VFGrUkx8aiK4xsz0kz0O5LLg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220122222003 20211123212003 9009 sn. c3Syarn1vIFtJQzFl/xxXIrGogKHeFD8RyW9Efkx44DOBk2cL6U5Jbue 2rhxnlGPtJkJwCaYKIB71sFSQX5UmA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -976,7 +976,7 @@ airliquide.sn.		43200	IN	NS	ns01.airliquide.com.
 airliquide.sn.		43200	IN	NS	ns02.airliquide.com.
 airliquide.sn.		43200	IN	NS	ns03.airliquide.com.
 airliquide.sn.		43200	IN	NS	ns04.airliquide.com.
-airmes.sn.		43200	IN	RRSIG	DS 13 2 43200 20211207204106 20211008201751 9009 sn. deF4X/iJUZrwCeu6o8bbwuSBP7HCVKtsAOgH+Y/sVPiLUKQth9xdW5GT rqjWF+azgrFg2PVK2SfNA7ESE5LQkQ==
+airmes.sn.		43200	IN	RRSIG	DS 13 2 43200 20220122203141 20211123194106 9009 sn. RN9tfm2pocXNOQSQNrCTH9dmKUWnemifvh627mZEntpVGkFUWmZXDkfR B44ZbqWnkv2a4fm0d1QiTLaCvOkA+w==
 airmes.sn.		43200	IN	DS	62770 8 2 9DA887B91EA063478AF5A0E68C38C87530F92A227E08F783AA37210F 30B142C2
 airmes.sn.		43200	IN	NS	ns200.anycast.me.
 airmes.sn.		43200	IN	NS	dns200.anycast.me.
@@ -9771,6 +9771,10 @@ investimex.sn.		43200	IN	NS	ns1.caurys.net.
 investimex.sn.		43200	IN	NS	ns2.caurys.net.
 investir.sn.		43200	IN	NS	sdns2.ovh.net.
 investir.sn.		43200	IN	NS	hr3894623590.reseller.mis.ovh.net.
+investwithconfidence.sn. 172800	IN	NS	edns1.ultradns.biz.
+investwithconfidence.sn. 172800	IN	NS	edns1.ultradns.com.
+investwithconfidence.sn. 172800	IN	NS	edns1.ultradns.net.
+investwithconfidence.sn. 172800	IN	NS	edns1.ultradns.org.
 inzo.sn.		172800	IN	NS	ns200.anycast.me.
 inzo.sn.		172800	IN	NS	dns200.anycast.me.
 ioms.sn.		172800	IN	NS	ns105.ovh.net.
@@ -15990,7 +15994,7 @@ samabourse.sn.		43200	IN	NS	dns13.ovh.net.
 samabusiness.sn.	172800	IN	NS	ns1.wanekoohost.com.
 samabusiness.sn.	172800	IN	NS	ns2.wanekoohost.com.
 samabusiness.sn.	172800	IN	NS	ns4.wanekoohost.com.
-samachauffeur.sn.	43200	IN	RRSIG	DS 13 2 43200 20211207204302 20211008203208 9009 sn. McJ6kGks82l63/47pBWChGL0gMPE7tDCuVFaL/6m/uiXp9BPo97d8rPc 8qlikk3a2NIoWA/Gl3QDBN5G0xWCoQ==
+samachauffeur.sn.	43200	IN	RRSIG	DS 13 2 43200 20220122202002 20211123194302 9009 sn. vS6lEqxD6b4l603QOXr9NohjO8v3RuL9ijNv4CxW7yY6N7LTrh6OLiNX ZY41nwNG4F9a0M05JHYD0fipBNBc3A==
 samachauffeur.sn.	43200	IN	DS	15421 8 2 BE5925C37405042EB156B4ED0CB6987513099F1B693837CB1F04CDD3 32E7572C
 samachauffeur.sn.	43200	IN	NS	ns10.ovh.net.
 samachauffeur.sn.	43200	IN	NS	dns10.ovh.net.
@@ -19447,6 +19451,10 @@ trouvetonbonheur.sn.	43200	IN	NS	ns1.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns2.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns3.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns4.kheweul.net.
+troweprice.sn.		172800	IN	NS	edns1.ultradns.biz.
+troweprice.sn.		172800	IN	NS	edns1.ultradns.com.
+troweprice.sn.		172800	IN	NS	edns1.ultradns.net.
+troweprice.sn.		172800	IN	NS	edns1.ultradns.org.
 tru.sn.			43200	IN	NS	ns1.netnames.net.
 tru.sn.			43200	IN	NS	ns2.netnames.net.
 truniagen.sn.		43200	IN	NS	ns01.trademarkarea.com.

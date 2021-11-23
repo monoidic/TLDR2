@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021112320 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021112322 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1637697633"
+mg.			7200	IN	TXT	"Generation Time: 1637704835"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2274,9 +2274,11 @@ chambres-voyageur.mg.	7200	IN	NS	nsb.planethoster.net.
 chambres-voyageur.mg.	7200	IN	NS	nsc.planethoster.net.
 championbet.mg.		7200	IN	NS	ns01.trademarkarea.com.
 championbet.mg.		7200	IN	NS	ns02.trademarkarea.com.
-championlubes.mg.	7200	IN	NS	dns1.novagraaf-dns.com.
-championlubes.mg.	7200	IN	NS	dns2.novagraaf-dns.net.
-championlubes.mg.	7200	IN	NS	dns3.novagraaf-dns.nl.
+championlubes.mg.	7200	IN	NS	ns5.brandshelter.us.
+championlubes.mg.	7200	IN	NS	ns4.brandshelter.net.
+championlubes.mg.	7200	IN	NS	ns3.brandshelter.info.
+championlubes.mg.	7200	IN	NS	ns1.brandshelter.com.
+championlubes.mg.	7200	IN	NS	ns2.brandshelter.de.
 championpetfoods.mg.	7200	IN	NS	ns1.101domain.com.
 championpetfoods.mg.	7200	IN	NS	ns2.101domain.com.
 chamsul.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -6322,8 +6324,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6669,9 +6671,9 @@ mbike.mg.		86400	IN	NS	dns1.dedie-ipt.com.
 mbike.mg.		86400	IN	NS	dns2.dedie-ipt.com.
 mbikelivraisonexpress.mg. 86400	IN	NS	dns16.ovh.net.
 mbikelivraisonexpress.mg. 86400	IN	NS	ns16.ovh.net.
+mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbola.mg.		86400	IN	NS	ns1.freesite.vip.
 mbola.mg.		86400	IN	NS	ns2.freesite.vip.
-mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.dot.mg.
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.illi.co.mg.
 mca.mg.			86400	IN	NS	sdns2.ovh.net.
@@ -6920,9 +6922,8 @@ midaspartners.mg.	86400	IN	NS	ns2.serveurgasy.com.
 midem.mg.		86400	IN	NS	ns1.indritech.mg.
 midem.mg.		86400	IN	NS	ns2.indritech.mg.
 midem.mg.		86400	IN	NS	ns3.indritech.mg.
-midi-madagasikara.mg.	86400	IN	NS	ns1.midi-madagasikara.mg.
-midi-madagasikara.mg.	86400	IN	NS	ns2.sivit.org.
-ns1.midi-madagasikara.mg. 86400	IN	A	194.146.226.121
+midi-madagasikara.mg.	86400	IN	NS	ns1.servermada.com.
+midi-madagasikara.mg.	86400	IN	NS	ns2.servermada.com.
 mielleriedelagrandeile.mg. 86400 IN	NS	ns13.wixdns.net.
 mielleriedelagrandeile.mg. 86400 IN	NS	ns12.wixdns.net.
 mihari-vola.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -10575,8 +10576,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -11027,9 +11028,11 @@ wnsr.mg.		86400	IN	NS	v1s1.xundns.com.
 wnsr.mg.		86400	IN	NS	v1s2.xundns.com.
 wolfarea.mg.		86400	IN	NS	ns1.cloudns.io.
 wolfarea.mg.		86400	IN	NS	ns2.cloudns.io.
-wolflubes.mg.		86400	IN	NS	dns1.novagraaf-dns.com.
-wolflubes.mg.		86400	IN	NS	dns2.novagraaf-dns.net.
-wolflubes.mg.		86400	IN	NS	dns3.novagraaf-dns.nl.
+wolflubes.mg.		86400	IN	NS	ns3.brandshelter.info.
+wolflubes.mg.		86400	IN	NS	ns4.brandshelter.net.
+wolflubes.mg.		86400	IN	NS	ns5.brandshelter.us.
+wolflubes.mg.		86400	IN	NS	ns2.brandshelter.de.
+wolflubes.mg.		86400	IN	NS	ns1.brandshelter.com.
 wolfpack.mg.		86400	IN	NS	ns.udag.de.
 wolfpack.mg.		86400	IN	NS	ns.udag.net.
 wolfpack.mg.		86400	IN	NS	ns.udag.org.
