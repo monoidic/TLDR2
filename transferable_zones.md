@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -9,12 +10,14 @@
 * `arpa` via `b.root-servers.net.`: [Click here to view zone data.](archives/arpa/b.root-servers.net.zone)
 * `arpa` via `c.root-servers.net.`: [Click here to view zone data.](archives/arpa/c.root-servers.net.zone)
 * `arpa` via `d.root-servers.net.`: [Click here to view zone data.](archives/arpa/d.root-servers.net.zone)
+* `arpa` via `e.root-servers.net.`: [Click here to view zone data.](archives/arpa/e.root-servers.net.zone)
 * `arpa` via `f.root-servers.net.`: [Click here to view zone data.](archives/arpa/f.root-servers.net.zone)
 * `arpa` via `g.root-servers.net.`: [Click here to view zone data.](archives/arpa/g.root-servers.net.zone)
 * `arpa` via `k.root-servers.net.`: [Click here to view zone data.](archives/arpa/k.root-servers.net.zone)
 * `bf` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/bf/censvrns0001.ird.fr.zone)
 * `bj` via `ns1.nic.bj.`: [Click here to view zone data.](archives/bj/ns1.nic.bj.zone)
 * `bj` via `ns2.nic.bj.`: [Click here to view zone data.](archives/bj/ns2.nic.bj.zone)
+* `cd` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-23.scpt-network.net.zone)
 * `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `dz` via `ns2.nic.dz.`: [Click here to view zone data.](archives/dz/ns2.nic.dz.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
