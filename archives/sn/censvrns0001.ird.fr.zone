@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222412635 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220123122003 20211124112003 9009 sn. inx/ejdbSGRwNbUUbLC6BcgO4BReovyeIJwtQQuGztvBzXDGOyyQ1kbt ykuH677fqRf4hbUSbeiWug1FiTJJqw==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222412647 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220123142002 20211124132002 9009 sn. N40fGBBhqp3LZaf8V2K6cyhKMWjVog32E+1xcUMew3Fd/luvJnUEfUpq HAs56UK7TxreHM6/lNwH1LdOGc4afQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [24/11/2021 13H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211227073715 20211124112003 9009 sn. mhGRxlNnJk7jNhKELyMZaYUeKkuTN3qAgVUV7BQbBkyliOi0wVjXySi0 Y4DW7mHPV+2JpBLIgLOwK+DdX0IfkQ==
+sn.			172800	IN	TXT	"2 RRs processed [24/11/2021 15H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220111200303 20211124132002 9009 sn. pd0PE1wzPZahduHSXKGqbR+SZGThxKDInicRKjkHYpP4BsIctoa2r4Kz twZqcuc0mmM9ddOhIv/tSmRVXkgNZw==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -82,8 +82,8 @@ sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF43
 22betlogin.sn.		172800	IN	NS	ns33.cloudns.net.
 22betsenegal.sn.	172800	IN	NS	bart.ns.cloudflare.com.
 22betsenegal.sn.	172800	IN	NS	zelda.ns.cloudflare.com.
-24heures.sn.		43200	IN	NS	ns6.jajeuf.com.
-24heures.sn.		43200	IN	NS	ns7.jajeuf.com.
+24heures.sn.		172800	IN	NS	ns9.jajeuf.com.
+24heures.sn.		172800	IN	NS	ns10.jajeuf.com.
 2aconsulting.sn.	43200	IN	NS	ns31.infomaniak.com.
 2aconsulting.sn.	43200	IN	NS	ns32.infomaniak.com.
 2asgh.sn.		43200	IN	NS	ns.nic.sn.
@@ -2000,6 +2000,8 @@ axallure.sn.		43200	IN	NS	ns2.francedns.com.
 axallure.sn.		43200	IN	NS	ns3.francedns.com.
 axallure.sn.		43200	IN	NS	ns4.francedns.com.
 axallure.sn.		43200	IN	NS	ns5.francedns.com.
+axe.sn.			172800	IN	NS	ns103.ovh.net.
+axe.sn.			172800	IN	NS	dns103.ovh.net.
 axes-cibles-com.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 axes-cibles-com.sn.	172800	IN	NS	ns6.jokko-hosting.com.
 axiombarom.sn.		43200	IN	NS	ns01.trademarkarea.com.
@@ -2108,10 +2110,6 @@ baidu.sn.		43200	IN	NS	ns3.baidu.com.
 baidu.sn.		43200	IN	NS	ns4.baidu.com.
 baiedehann.sn.		43200	IN	NS	ns5.jokko-hosting.com.
 baiedehann.sn.		43200	IN	NS	ns6.jokko-hosting.com.
-bailasn.sn.		43200	IN	NS	ns1.ascio.com.
-bailasn.sn.		43200	IN	NS	ns2.ascio.com.
-bailasn.sn.		43200	IN	NS	ns3.ascio.com.
-bailasn.sn.		43200	IN	NS	ns4.ascio.com.
 bakertilly.sn.		43200	IN	NS	ns1.namecity.com.
 bakertilly.sn.		43200	IN	NS	ns2.namecity.com.
 bakertillyera.sn.	43200	IN	NS	ns1.caurys.net.
@@ -7745,10 +7743,6 @@ foreveryoung.sn.	172800	IN	NS	ns1.wanekoohost.com.
 foreveryoung.sn.	172800	IN	NS	ns2.wanekoohost.com.
 foreveryoung.sn.	172800	IN	NS	ns5.wanekoohost.com.
 foreveryoung.sn.	172800	IN	NS	ns6.wanekoohost.com.
-forlan.sn.		43200	IN	NS	ns1.ascio.com.
-forlan.sn.		43200	IN	NS	ns2.ascio.com.
-forlan.sn.		43200	IN	NS	ns3.ascio.com.
-forlan.sn.		43200	IN	NS	ns4.ascio.com.
 formafin.sn.		43200	IN	NS	ns.sonatel.sn.
 formafin.sn.		43200	IN	NS	ns2.sonatel.sn.
 formationinsertion.sn.	43200	IN	DS	10105 8 2 9407FF43FB338D11F0CC9493FB08F0B2EB364281334259E822491BC9 2E79CB97
@@ -8016,10 +8010,6 @@ gallium.sn.		43200	IN	NS	ns5.jokko-hosting.com.
 gallium.sn.		43200	IN	NS	ns6.jokko-hosting.com.
 galsen.sn.		43200	IN	NS	corporate.vip51.noc40.com.
 galsen.sn.		43200	IN	NS	corporate.vip52.noc40.com.
-galsen221.sn.		43200	IN	NS	ns1.ascio.com.
-galsen221.sn.		43200	IN	NS	ns2.ascio.com.
-galsen221.sn.		43200	IN	NS	ns3.ascio.com.
-galsen221.sn.		43200	IN	NS	ns4.ascio.com.
 galsencm.sn.		43200	IN	NS	alla.ns.cloudflare.com.
 galsencm.sn.		43200	IN	NS	peyton.ns.cloudflare.com.
 gamou.sn.		172800	IN	NS	ns5.jokko-hosting.com.
@@ -9749,10 +9739,6 @@ interprest.sn.		172800	IN	NS	ns15.ovh.net.
 interprest.sn.		172800	IN	NS	dns15.ovh.net.
 interprest.sn.		172800	IN	DS	8497 8 2 DEE8D507999F148A62245B861242C2C8305DA3A5FBD2A8E4E808E8F9 0971ECEF
 interprest.sn.		172800	IN	RRSIG	DS 13 2 172800 20211221214929 20211022213510 9009 sn. Z66ta1sltPCfzwvDwePibKYtk6vomiRu77rrTJDNUMJaFxwL7a4loP3J VgZdSjn+ZLwEsC7wsJnLX0kjX5ZoDA==
-interpub.sn.		43200	IN	NS	ns1.ascio.com.
-interpub.sn.		43200	IN	NS	ns2.ascio.com.
-interpub.sn.		43200	IN	NS	ns3.ascio.com.
-interpub.sn.		43200	IN	NS	ns4.ascio.com.
 interrent.sn.		43200	IN	NS	ns1.markmonitor.com.
 interrent.sn.		43200	IN	NS	ns2.markmonitor.com.
 interrent.sn.		43200	IN	NS	ns3.markmonitor.com.
@@ -11127,8 +11113,6 @@ lamad.sn.		43200	IN	NS	ns1.o2switch.net.
 lamad.sn.		43200	IN	NS	ns2.o2switch.net.
 lamaisondubonheur.sn.	43200	IN	NS	dns.medialook.net.
 lamaisondubonheur.sn.	43200	IN	NS	cloud11.medialook.net.
-lamaisonducoran.sn.	43200	IN	NS	cpanel13.lws-hosting.com.
-lamaisonducoran.sn.	43200	IN	NS	cpanel14.lws-hosting.com.
 lamaisonduparfum.sn.	172800	IN	RRSIG	DS 13 2 172800 20211227045002 20211028035613 9009 sn. e1lCFwdRGNTi5xo+TEF+3iH3n41fHfswGOOAlhhtsRdYbn4aTeq56dOH QZiE169/luWUVFPHvDT4GKhuOqrI9g==
 lamaisonduparfum.sn.	172800	IN	DS	25624 8 2 3EA01CC591BFD348F2CB89A08E78F51B6F84329770B04BF41BF717F4 C5365296
 lamaisonduparfum.sn.	172800	IN	NS	ns20.ovh.net.
@@ -11883,6 +11867,10 @@ m2c.sn.			43200	IN	NS	ns1.kheweul.net.
 m2c.sn.			43200	IN	NS	ns2.kheweul.net.
 m2c.sn.			43200	IN	NS	ns3.kheweul.net.
 m2c.sn.			43200	IN	NS	ns4.kheweul.net.
+m7actu.sn.		172800	IN	NS	ns1.ascio.com.
+m7actu.sn.		172800	IN	NS	ns2.ascio.com.
+m7actu.sn.		172800	IN	NS	ns3.ascio.com.
+m7actu.sn.		172800	IN	NS	ns4.ascio.com.
 maasef.sn.		172800	IN	NS	ns1.contabo.net.
 maasef.sn.		172800	IN	NS	ns2.contabo.net.
 maasef.sn.		172800	IN	NS	ns3.contabo.net.
