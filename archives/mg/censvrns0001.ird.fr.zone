@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021112404 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021112406 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1637726438"
+mg.			7200	IN	TXT	"Generation Time: 1637733641"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3665,6 +3665,8 @@ fair-grade.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fair-grade.mg.		86400	IN	NS	ns2.da.cloudns.io.
 fakonews.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fakonews.mg.		86400	IN	NS	ns2.da.cloudns.io.
+falcon-service.mg.	86400	IN	NS	ns1.da.cloudns.io.
+falcon-service.mg.	86400	IN	NS	ns2.da.cloudns.io.
 faly.mg.		86400	IN	NS	ns1.compureweb.com.
 faly.mg.		86400	IN	NS	ns2.compureweb.com.
 fama.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -4532,6 +4534,8 @@ happy.mg.		86400	IN	NS	ns1.da.cloudns.io.
 happy.mg.		86400	IN	NS	ns2.da.cloudns.io.
 hardi-madagascar.mg.	86400	IN	NS	ns29.dot.mg.
 hardi-madagascar.mg.	86400	IN	NS	ns29.illi.co.mg.
+harea.mg.		86400	IN	NS	ns1.da.cloudns.io.
+harea.mg.		86400	IN	NS	ns2.da.cloudns.io.
 harena-discovery.mg.	86400	IN	NS	ns29.dot.mg.
 harena-discovery.mg.	86400	IN	NS	ns29.illi.co.mg.
 harenavilla.mg.		86400	IN	NS	ns29.illi.co.mg.
@@ -6324,8 +6328,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6671,9 +6675,9 @@ mbike.mg.		86400	IN	NS	dns1.dedie-ipt.com.
 mbike.mg.		86400	IN	NS	dns2.dedie-ipt.com.
 mbikelivraisonexpress.mg. 86400	IN	NS	dns16.ovh.net.
 mbikelivraisonexpress.mg. 86400	IN	NS	ns16.ovh.net.
-mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbola.mg.		86400	IN	NS	ns1.freesite.vip.
 mbola.mg.		86400	IN	NS	ns2.freesite.vip.
+mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.dot.mg.
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.illi.co.mg.
 mca.mg.			86400	IN	NS	sdns2.ovh.net.
@@ -10576,8 +10580,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
