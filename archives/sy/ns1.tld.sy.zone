@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112517 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1637827331"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112521 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1637834535"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -660,8 +660,8 @@ alcocare.sy.		86400	IN	NS	suspend1.tld.sy.
 alcocare.sy.		86400	IN	NS	suspend2.tld.sy.
 aldakhil-bro.sy.	86400	IN	NS	suspend1.tld.sy.
 aldakhil-bro.sy.	86400	IN	NS	suspend2.tld.sy.
-aldamen.sy.		86400	IN	NS	ns1.sawa-host.net.
-aldamen.sy.		86400	IN	NS	ns2.sawa-host.net.
+aldamen.sy.		86400	IN	NS	suspend1.tld.sy.
+aldamen.sy.		86400	IN	NS	suspend2.tld.sy.
 aldiab.sy.		86400	IN	NS	suspend1.tld.sy.
 aldiab.sy.		86400	IN	NS	suspend2.tld.sy.
 aldimashqi.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -2321,8 +2321,8 @@ ns1.dentalcare.sy.	86400	IN	A	185.216.132.119
 ns2.dentalcare.sy.	86400	IN	A	185.216.132.119
 dentecs.sy.		86400	IN	NS	suspend1.tld.sy.
 dentecs.sy.		86400	IN	NS	suspend2.tld.sy.
-dentelle.sy.		86400	IN	NS	ns1.lazernet.sy.
-dentelle.sy.		86400	IN	NS	ns2.lazernet.sy.
+dentelle.sy.		86400	IN	NS	ns1.orasys.xyz.
+dentelle.sy.		86400	IN	NS	ns2.orasys.xyz.
 deuzicronapine.sy.	86400	IN	NS	nssui.comlaude.ch.
 deuzicronapine.sy.	86400	IN	NS	nssui.comlaude.net.
 dev.sy.			86400	IN	NS	kiki.ns.cloudflare.com.
@@ -3660,10 +3660,8 @@ itar.sy.		86400	IN	NS	ns1.topservers.biz.
 itar.sy.		86400	IN	NS	ns2.topservers.biz.
 itarat.sy.		86400	IN	NS	ns1.topservers.biz.
 itarat.sy.		86400	IN	NS	ns2.topservers.biz.
-itc.sy.			86400	IN	NS	ns1.itc.sy.
-itc.sy.			86400	IN	NS	ns2.itc.sy.
-ns1.itc.sy.		86400	IN	A	136.243.90.133
-ns2.itc.sy.		86400	IN	A	94.130.116.142
+itc.sy.			86400	IN	NS	suspend1.tld.sy.
+itc.sy.			86400	IN	NS	suspend2.tld.sy.
 itec.sy.		86400	IN	NS	suspend1.tld.sy.
 itec.sy.		86400	IN	NS	suspend2.tld.sy.
 itech.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -5422,8 +5420,8 @@ ratib-saif.sy.		86400	IN	NS	suspend1.tld.sy.
 ratib-saif.sy.		86400	IN	NS	suspend2.tld.sy.
 raya-alsham.sy.		86400	IN	NS	suspend1.tld.sy.
 raya-alsham.sy.		86400	IN	NS	suspend2.tld.sy.
-razandentelle.sy.	86400	IN	NS	ns1.lazernet.sy.
-razandentelle.sy.	86400	IN	NS	ns2.lazernet.sy.
+razandentelle.sy.	86400	IN	NS	ns1.orasys.xyz.
+razandentelle.sy.	86400	IN	NS	ns2.orasys.xyz.
 razilabs.sy.		86400	IN	NS	suspend1.tld.sy.
 razilabs.sy.		86400	IN	NS	suspend2.tld.sy.
 rbt.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -6129,8 +6127,8 @@ soa.sy.			86400	IN	NS	jo.ns.cloudflare.com.
 soa.sy.			86400	IN	NS	doug.ns.cloudflare.com.
 soc.sy.			86400	IN	NS	ns1.voilahost.com.
 soc.sy.			86400	IN	NS	ns2.voilahost.com.
-soea.sy.		86400	IN	NS	ray.ns.cloudflare.com.
-soea.sy.		86400	IN	NS	melinda.ns.cloudflare.com.
+soea.sy.		86400	IN	NS	suspend1.tld.sy.
+soea.sy.		86400	IN	NS	suspend2.tld.sy.
 sogemaa.sy.		86400	IN	NS	suspend1.tld.sy.
 sogemaa.sy.		86400	IN	NS	suspend2.tld.sy.
 sohaj-cosmetic.sy.	86400	IN	NS	suspend1.tld.sy.

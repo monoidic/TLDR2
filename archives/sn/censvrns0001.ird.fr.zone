@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222412776 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222412789 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20211210081655 20211011073227 9009 sn. NcJF4357s5mkBjZgkbbSPplnQItcPLq6coC4Q72k68XV3oaM5c5SChVU zhEBMHq4OzKJLAB4aGGsWbF786qB5w==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211211191543 20211125071002 9009 sn. J3wiMhtUcfHM4WMY0vgg1U9n1bhWCsg6ErgQzmUDp3N2FVOaCO/jaAni klcB0btyrrupbzXwQcLdhCZB+wiHNQ==
-sn.			172800	IN	TXT	"No RRs processed [25/11/2021 09H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211227012751 20211125092002 9009 sn. kkzdO8K4IR0r0ncIVfLI7h2DMluhCThriIXHhywyAMiKMk5OBunThu7T cFIj8ArkkaQHVkxEBv+8scmCzYjC1Q==
+sn.			172800	IN	TXT	"No RRs processed [25/11/2021 11H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220124081938 20211125071938 9009 sn. tCCPpxdkMdHF6c7QYVkOR9WGtRp3Nh9v/T5Vz9CTP1hXqyo+mhmCMFgZ cVrxEHtHO/mn0Npp8WMJxr1yIty5vQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220124102002 20211125092002 9009 sn. EPK5TrxXPoLqTpLqvxJL8hXILeL7GXxsL9AvC/ESciDf8NBtEarYaow1 36+wEHnGRIIQhMKqeIpUdnzzoo9tbw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -10233,6 +10233,14 @@ jed.sn.			43200	IN	NS	ns200.anycast.me.
 jed.sn.			43200	IN	NS	dns200.anycast.me.
 jeep.sn.		43200	IN	NS	dns1.cscdns.net.
 jeep.sn.		43200	IN	NS	dns2.cscdns.net.
+jeff-de-bruges.sn.	172800	IN	NS	ns1.iptwins.net.
+jeff-de-bruges.sn.	172800	IN	NS	ns2.iptwins.net.
+jeff-de-bruges.sn.	172800	IN	NS	ns3.iptwins.com.
+jeff-de-bruges.sn.	172800	IN	NS	ns4.iptwins.com.
+jeffdebruges.sn.	172800	IN	NS	ns1.iptwins.net.
+jeffdebruges.sn.	172800	IN	NS	ns2.iptwins.net.
+jeffdebruges.sn.	172800	IN	NS	ns3.iptwins.com.
+jeffdebruges.sn.	172800	IN	NS	ns4.iptwins.com.
 jege.sn.		172800	IN	NS	ns3015.mochahost.com.
 jege.sn.		172800	IN	NS	ns4015.mochahost.com.
 jegesinaa.sn.		43200	IN	NS	ns11.infomaniak.ch.
@@ -15157,8 +15165,8 @@ propulsedakar.sn.	172800	IN	NS	ns2.wanekoohost.com.
 propulsedakar.sn.	172800	IN	NS	ns4.wanekoohost.com.
 proquelec.sn.		172800	IN	NS	ns1.wanekoohost.com.
 proquelec.sn.		172800	IN	NS	ns2.wanekoohost.com.
-proquelec.sn.		172800	IN	NS	ns4.wanekoohost.com.
 proquelec.sn.		172800	IN	NS	ns5.wanekoohost.com.
+proquelec.sn.		172800	IN	NS	ns6.wanekoohost.com.
 pros.sn.		43200	IN	NS	ns5.jokko-hosting.com.
 pros.sn.		43200	IN	NS	ns6.jokko-hosting.com.
 prosaf.sn.		43200	IN	NS	ns11.ovh.net.
