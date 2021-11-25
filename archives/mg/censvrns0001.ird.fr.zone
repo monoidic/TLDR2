@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021112506 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021112508 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1637820037"
+mg.			7200	IN	TXT	"Generation Time: 1637827254"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -202,8 +202,6 @@ mg.			7200	IN	TXT	"Generation Time: 1637820037"
 600.mg.			7200	IN	NS	ns-110-b.gandi.net.
 600.mg.			7200	IN	NS	ns-150-c.gandi.net.
 600.mg.			7200	IN	NS	ns-245-a.gandi.net.
-608.mg.			7200	IN	NS	ns1.dns.com.
-608.mg.			7200	IN	NS	ns2.dns.com.
 62.mg.			7200	IN	NS	bjorn.ns.cloudflare.com.
 62.mg.			7200	IN	NS	kinsley.ns.cloudflare.com.
 63.mg.			7200	IN	NS	bjorn.ns.cloudflare.com.
@@ -4368,8 +4366,8 @@ gov.mg.			86400	IN	NS	ns.gov.mg.
 gov.mg.			86400	IN	NS	ns2.gov.mg.
 gov.mg.			86400	IN	NS	ns1.gov.mg.
 ns.gov.mg.		86400	IN	A	41.207.52.196
-ns1.gov.mg.		86400	IN	A	41.207.52.196
-ns2.gov.mg.		86400	IN	A	35.180.69.30
+ns1.gov.mg.		86400	IN	A	15.188.45.248
+ns2.gov.mg.		86400	IN	A	176.34.213.26
 gpb.mg.			86400	IN	NS	ns3-fwl2.nic.ru.
 gpb.mg.			86400	IN	NS	ns4-fwl2.nic.ru.
 gpb.mg.			86400	IN	NS	ns8-fwl2.nic.ru.
@@ -6209,6 +6207,8 @@ mada.mg.		86400	IN	NS	ns1.o2switch.net.
 mada.mg.		86400	IN	NS	ns2.o2switch.net.
 mada-agribiz.mg.	86400	IN	NS	ns1.onyx.cloudns.io.
 mada-agribiz.mg.	86400	IN	NS	ns2.onyx.cloudns.io.
+mada-bestchange.mg.	86400	IN	NS	dns1.indritech.biz.
+mada-bestchange.mg.	86400	IN	NS	dns2.indritech.biz.
 mada-equip.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
 mada-equip.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 mada-evasion.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
@@ -8380,8 +8380,6 @@ prorent.mg.		86400	IN	NS	ns1.servermada.com.
 prorent.mg.		86400	IN	NS	ns2.servermada.com.
 prosperer.mg.		86400	IN	NS	ns.dts.mg.
 prosperer.mg.		86400	IN	NS	ns1.dts.mg.
-prosperer-madagascar.mg. 86400	IN	NS	ns1.ntmada-webhosting.com.
-prosperer-madagascar.mg. 86400	IN	NS	ns2.ntmada-webhosting.com.
 protech-security.mg.	86400	IN	NS	ns1.hostns.io.
 protech-security.mg.	86400	IN	NS	ns2.hostns.io.
 protectedareas.mg.	86400	IN	NS	hal.ns.cloudflare.com.
@@ -9139,6 +9137,8 @@ segb.mg.		86400	IN	NS	dns1.supremepanel.com.
 segb.mg.		86400	IN	NS	dns2.supremepanel.com.
 seidan.mg.		86400	IN	NS	ns1.servermada.com.
 seidan.mg.		86400	IN	NS	ns2.servermada.com.
+seiffa.mg.		86400	IN	NS	ns1.gasyweb.com.
+seiffa.mg.		86400	IN	NS	ns2.gasyweb.com.
 seimad-immo.mg.		86400	IN	NS	ns.dts.mg.
 seimad-immo.mg.		86400	IN	NS	ns1.dts.mg.
 sekologistics.mg.	86400	IN	NS	ns01.servage.net.
@@ -10511,11 +10511,6 @@ ucp.mg.			86400	IN	NS	ns.dts.mg.
 ucp.mg.			86400	IN	NS	ns1.dts.mg.
 uditec.mg.		86400	IN	NS	ns1.servermada.com.
 uditec.mg.		86400	IN	NS	ns2.servermada.com.
-ueas.mg.		86400	IN	NS	ns1.he.net.
-ueas.mg.		86400	IN	NS	ns2.he.net.
-ueas.mg.		86400	IN	NS	ns3.he.net.
-ueas.mg.		86400	IN	NS	ns4.he.net.
-ueas.mg.		86400	IN	NS	ns5.he.net.
 ufp-education.mg.	86400	IN	NS	ns1.da.cloudns.io.
 ufp-education.mg.	86400	IN	NS	ns2.da.cloudns.io.
 ugpeducation.mg.	86400	IN	NS	ns1.francedns.com.
@@ -10580,8 +10575,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
