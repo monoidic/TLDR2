@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112818 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638086540"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112822 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638093729"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1992,10 +1992,8 @@ cham.sy.		86400	IN	NS	ns1.shamcenter.com.
 cham.sy.		86400	IN	NS	ns2.shamcenter.com.
 cham-exchange.sy.	86400	IN	NS	suspend1.tld.sy.
 cham-exchange.sy.	86400	IN	NS	suspend2.tld.sy.
-chambank.sy.		86400	IN	NS	dns1.chambank.sy.
-chambank.sy.		86400	IN	NS	dns2.chambank.sy.
-dns1.chambank.sy.	86400	IN	A	213.178.250.154
-dns2.chambank.sy.	86400	IN	A	213.178.241.226
+chambank.sy.		86400	IN	NS	suspend1.tld.sy.
+chambank.sy.		86400	IN	NS	suspend2.tld.sy.
 chamcapital.sy.		86400	IN	NS	ns1.scs-net.sy.
 chamcapital.sy.		86400	IN	NS	ns1.scs-net.org.
 chamcapital.sy.		86400	IN	NS	ns2.scs-net.sy.
@@ -2198,8 +2196,8 @@ damascusopera.sy.	86400	IN	NS	ns1.digitallsoft.com.
 damascusopera.sy.	86400	IN	NS	ns2.digitallsoft.com.
 damascusuniversity.sy.	86400	IN	NS	ns1.damasuniv.edu.sy.
 damascusuniversity.sy.	86400	IN	NS	ns2.damasuniv.edu.sy.
-damasedu.sy.		86400	IN	NS	ns3.tld.sy.
-damasedu.sy.		86400	IN	NS	ns4.tld.sy.
+damasedu.sy.		86400	IN	NS	suspend1.tld.sy.
+damasedu.sy.		86400	IN	NS	suspend2.tld.sy.
 damasgate-agri.sy.	86400	IN	NS	ns1.ucg-core.com.
 damasgate-agri.sy.	86400	IN	NS	ns4.ucg-core.com.
 damasgate-agri.sy.	86400	IN	NS	ns11.ucg-core.com.
@@ -2984,8 +2982,8 @@ gcb.sy.			86400	IN	NS	ns1.syrianmonster.com.sy.
 gcb.sy.			86400	IN	NS	ns2.syrianmonster.com.sy.
 gcbc.sy.		86400	IN	NS	ns3.tld.sy.
 gcbc.sy.		86400	IN	NS	ns4.tld.sy.
-gces.sy.		86400	IN	NS	ns1.shamcenter.com.
-gces.sy.		86400	IN	NS	ns2.shamcenter.com.
+gces.sy.		86400	IN	NS	suspend1.tld.sy.
+gces.sy.		86400	IN	NS	suspend2.tld.sy.
 gcwb.sy.		86400	IN	NS	suspend1.tld.sy.
 gcwb.sy.		86400	IN	NS	suspend2.tld.sy.
 gdmkd.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5378,8 +5376,8 @@ rafah.sy.		86400	IN	NS	suspend1.tld.sy.
 rafah.sy.		86400	IN	NS	suspend2.tld.sy.
 raha.sy.		86400	IN	NS	suspend1.tld.sy.
 raha.sy.		86400	IN	NS	suspend2.tld.sy.
-rahafs.sy.		86400	IN	NS	ns3.tld.sy.
-rahafs.sy.		86400	IN	NS	ns4.tld.sy.
+rahafs.sy.		86400	IN	NS	suspend1.tld.sy.
+rahafs.sy.		86400	IN	NS	suspend2.tld.sy.
 rahal.sy.		86400	IN	NS	suspend1.tld.sy.
 rahal.sy.		86400	IN	NS	suspend2.tld.sy.
 rahhal.sy.		86400	IN	NS	suspend1.tld.sy.
