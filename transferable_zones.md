@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -10,7 +9,6 @@
 * `arpa` via `b.root-servers.net.`: [Click here to view zone data.](archives/arpa/b.root-servers.net.zone)
 * `arpa` via `c.root-servers.net.`: [Click here to view zone data.](archives/arpa/c.root-servers.net.zone)
 * `arpa` via `d.root-servers.net.`: [Click here to view zone data.](archives/arpa/d.root-servers.net.zone)
-* `arpa` via `e.root-servers.net.`: [Click here to view zone data.](archives/arpa/e.root-servers.net.zone)
 * `arpa` via `f.root-servers.net.`: [Click here to view zone data.](archives/arpa/f.root-servers.net.zone)
 * `arpa` via `g.root-servers.net.`: [Click here to view zone data.](archives/arpa/g.root-servers.net.zone)
 * `arpa` via `k.root-servers.net.`: [Click here to view zone data.](archives/arpa/k.root-servers.net.zone)
@@ -25,6 +23,7 @@
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
 * `kg` via `ns2.kg.`: [Click here to view zone data.](archives/kg/ns2.kg.zone)
 * `mg` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/censvrns0001.ird.fr.zone)
+* `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
 * `rw` via `ns1.ricta.org.rw.`: [Click here to view zone data.](archives/rw/ns1.ricta.org.rw.zone)
