@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112919 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638172935"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112922 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638180138"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2680,8 +2680,10 @@ ns1.emome.sy.		86400	IN	A	212.11.196.150
 ns2.emome.sy.		86400	IN	A	212.11.196.150
 ems.sy.			86400	IN	NS	suspend1.tld.sy.
 ems.sy.			86400	IN	NS	suspend2.tld.sy.
-emsherif.sy.		86400	IN	NS	suspend1.tld.sy.
-emsherif.sy.		86400	IN	NS	suspend2.tld.sy.
+emsherif.sy.		86400	IN	NS	ns1.supercp.com.
+emsherif.sy.		86400	IN	NS	ns2.supercp.com.
+emsherif.sy.		86400	IN	NS	ns3.supercp.com.
+emsherif.sy.		86400	IN	NS	ns4.supercp.com.
 emsherife.sy.		86400	IN	NS	suspend1.tld.sy.
 emsherife.sy.		86400	IN	NS	suspend2.tld.sy.
 eng-cont.sy.		86400	IN	NS	suspend1.tld.sy.
