@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112924 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638187341"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021112927 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638190930"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1995,8 +1995,10 @@ cham.sy.		86400	IN	NS	ns1.shamcenter.com.
 cham.sy.		86400	IN	NS	ns2.shamcenter.com.
 cham-exchange.sy.	86400	IN	NS	suspend1.tld.sy.
 cham-exchange.sy.	86400	IN	NS	suspend2.tld.sy.
-chambank.sy.		86400	IN	NS	suspend1.tld.sy.
-chambank.sy.		86400	IN	NS	suspend2.tld.sy.
+chambank.sy.		86400	IN	NS	dns1.chambank.sy.
+chambank.sy.		86400	IN	NS	dns2.chambank.sy.
+dns1.chambank.sy.	86400	IN	A	213.178.250.154
+dns2.chambank.sy.	86400	IN	A	213.178.241.226
 chamcapital.sy.		86400	IN	NS	ns1.scs-net.sy.
 chamcapital.sy.		86400	IN	NS	ns1.scs-net.org.
 chamcapital.sy.		86400	IN	NS	ns2.scs-net.sy.
