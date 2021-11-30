@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021113019 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638266536"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021113023 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638273740"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -424,8 +424,8 @@ airbnb.sy.		86400	IN	NS	suspend1.tld.sy.
 airbnb.sy.		86400	IN	NS	suspend2.tld.sy.
 ajg.sy.			86400	IN	NS	suspend1.tld.sy.
 ajg.sy.			86400	IN	NS	suspend2.tld.sy.
-ajil-transport.sy.	86400	IN	NS	suspend1.tld.sy.
-ajil-transport.sy.	86400	IN	NS	suspend2.tld.sy.
+ajil-transport.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
+ajil-transport.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 ak-kantkji.sy.		86400	IN	NS	suspend1.tld.sy.
 ak-kantkji.sy.		86400	IN	NS	suspend2.tld.sy.
 akad.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -3669,8 +3669,10 @@ itar.sy.		86400	IN	NS	ns1.topservers.biz.
 itar.sy.		86400	IN	NS	ns2.topservers.biz.
 itarat.sy.		86400	IN	NS	ns1.topservers.biz.
 itarat.sy.		86400	IN	NS	ns2.topservers.biz.
-itc.sy.			86400	IN	NS	suspend1.tld.sy.
-itc.sy.			86400	IN	NS	suspend2.tld.sy.
+itc.sy.			86400	IN	NS	ns1.itc.sy.
+itc.sy.			86400	IN	NS	ns2.itc.sy.
+ns1.itc.sy.		86400	IN	A	136.243.90.133
+ns2.itc.sy.		86400	IN	A	94.130.116.142
 itec.sy.		86400	IN	NS	suspend1.tld.sy.
 itec.sy.		86400	IN	NS	suspend2.tld.sy.
 itech.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
