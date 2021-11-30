@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021113023 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638273740"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021113027 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638280944"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -863,8 +863,10 @@ alkhayal-llc.sy.	86400	IN	NS	suspend1.tld.sy.
 alkhayal-llc.sy.	86400	IN	NS	suspend2.tld.sy.
 alkhayrat-co.sy.	86400	IN	NS	ns1.waveshost.sy.
 alkhayrat-co.sy.	86400	IN	NS	ns2.waveshost.sy.
-alkhergroup.sy.		86400	IN	NS	suspend1.tld.sy.
-alkhergroup.sy.		86400	IN	NS	suspend2.tld.sy.
+alkhergroup.sy.		86400	IN	NS	ns1.alkhergroup.sy.
+alkhergroup.sy.		86400	IN	NS	ns2.alkhergroup.sy.
+ns1.alkhergroup.sy.	86400	IN	A	116.203.183.77
+ns2.alkhergroup.sy.	86400	IN	A	116.203.183.77
 alkhoury.sy.		86400	IN	NS	suspend1.tld.sy.
 alkhoury.sy.		86400	IN	NS	suspend2.tld.sy.
 alkhoury-drinks.sy.	86400	IN	NS	suspend1.tld.sy.
