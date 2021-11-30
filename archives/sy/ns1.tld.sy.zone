@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021113015 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638259332"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021113019 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638266536"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -57,8 +57,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 28.sy.			86400	IN	NS	suspend2.tld.sy.
 29.sy.			86400	IN	NS	suzanne.ns.cloudflare.com.
 29.sy.			86400	IN	NS	giancarlo.ns.cloudflare.com.
-2hh.sy.			86400	IN	NS	sage.ns.cloudflare.com.
-2hh.sy.			86400	IN	NS	tess.ns.cloudflare.com.
+2hh.sy.			86400	IN	NS	suspend1.tld.sy.
+2hh.sy.			86400	IN	NS	suspend2.tld.sy.
 33.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
 33.sy.			86400	IN	NS	f1g1ns2.dnspod.net.
 333.sy.			86400	IN	NS	ns1.dns.com.
@@ -280,8 +280,8 @@ abojeb.sy.		86400	IN	NS	suspend1.tld.sy.
 abojeb.sy.		86400	IN	NS	suspend2.tld.sy.
 aboodhamad.sy.		86400	IN	NS	suspend1.tld.sy.
 aboodhamad.sy.		86400	IN	NS	suspend2.tld.sy.
-abratalshraa.sy.	86400	IN	NS	ns1.signal-host.com.
-abratalshraa.sy.	86400	IN	NS	ns2.signal-host.com.
+abratalshraa.sy.	86400	IN	NS	suspend1.tld.sy.
+abratalshraa.sy.	86400	IN	NS	suspend2.tld.sy.
 abt.sy.			86400	IN	NS	ns1.clicknetco.com.
 abt.sy.			86400	IN	NS	ns2.clicknetco.com.
 abualeyoun.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -1489,14 +1489,16 @@ avice.sy.		86400	IN	NS	ns2.dns-parking.com.
 avice.sy.		86400	IN	NS	ns3.hostinger.com.
 avsys.sy.		86400	IN	NS	suspend1.tld.sy.
 avsys.sy.		86400	IN	NS	suspend2.tld.sy.
-awa.sy.			86400	IN	NS	ns1.panelboxmanager.com.
-awa.sy.			86400	IN	NS	ns2.panelboxmanager.com.
+awa.sy.			86400	IN	NS	suspend1.tld.sy.
+awa.sy.			86400	IN	NS	suspend2.tld.sy.
 awaaelbusiness.sy.	86400	IN	NS	suspend1.tld.sy.
 awaaelbusiness.sy.	86400	IN	NS	suspend2.tld.sy.
 awad-caravan.sy.	86400	IN	NS	suspend1.tld.sy.
 awad-caravan.sy.	86400	IN	NS	suspend2.tld.sy.
 awad-flaha.sy.		86400	IN	NS	suspend1.tld.sy.
 awad-flaha.sy.		86400	IN	NS	suspend2.tld.sy.
+awj.sy.			86400	IN	NS	dns3.aya.sy.
+awj.sy.			86400	IN	NS	dns4.aya.sy.
 awm.sy.			86400	IN	NS	suspend1.tld.sy.
 awm.sy.			86400	IN	NS	suspend2.tld.sy.
 awqaaf-reef.sy.		86400	IN	NS	ns1.awqaaf-reef.sy.
@@ -3197,11 +3199,8 @@ hakim.sy.		86400	IN	NS	ns2.scs-net.sy.
 hakim.sy.		86400	IN	NS	ns2.scs-net.org.
 halafly.sy.		86400	IN	NS	dns11.aya.sy.
 halafly.sy.		86400	IN	NS	dns12.aya.sy.
-halo.sy.		86400	IN	NS	ns1.ucg-core.com.
-halo.sy.		86400	IN	NS	ns4.ucg-core.com.
-halo.sy.		86400	IN	NS	ns11.ucg-core.com.
-halo.sy.		86400	IN	NS	ns51.uae-dc.com.
-halo.sy.		86400	IN	NS	ns54.uae-dc.com.
+halo.sy.		86400	IN	NS	suspend1.tld.sy.
+halo.sy.		86400	IN	NS	suspend2.tld.sy.
 hama-edu.sy.		86400	IN	NS	ns1.scs-net.sy.
 hama-edu.sy.		86400	IN	NS	ns1.scs-net.org.
 hama-edu.sy.		86400	IN	NS	ns2.scs-net.sy.
@@ -3619,6 +3618,8 @@ investinsyria.sy.	86400	IN	NS	ns1.shamcenter.com.
 investinsyria.sy.	86400	IN	NS	ns2.shamcenter.com.
 investn.sy.		86400	IN	NS	ns1.shamcenter.com.
 investn.sy.		86400	IN	NS	ns2.shamcenter.com.
+io.sy.			86400	IN	NS	maxim.ns.cloudflare.com.
+io.sy.			86400	IN	NS	nucum.ns.cloudflare.com.
 ip.sy.			86400	IN	NS	theo.ns.cloudflare.com.
 ip.sy.			86400	IN	NS	izabella.ns.cloudflare.com.
 ipay.sy.		86400	IN	NS	ns1.scltd.sy.
@@ -4227,8 +4228,8 @@ ns1.madargroup.sy.	86400	IN	A	173.212.239.103
 ns2.madargroup.sy.	86400	IN	A	173.212.239.103
 madas.sy.		86400	IN	NS	suspend1.tld.sy.
 madas.sy.		86400	IN	NS	suspend2.tld.sy.
-madeinsyria.sy.		86400	IN	NS	ns1.bluesky.sy.
-madeinsyria.sy.		86400	IN	NS	ns2.bluesky.sy.
+madeinsyria.sy.		86400	IN	NS	suspend1.tld.sy.
+madeinsyria.sy.		86400	IN	NS	suspend2.tld.sy.
 madfox.sy.		86400	IN	NS	ns1.monster.sy.
 madfox.sy.		86400	IN	NS	ns2.monster.sy.
 madinacity.sy.		86400	IN	NS	ns3.tld.sy.
@@ -4574,8 +4575,8 @@ mil.sy.			86400	IN	NS	freedns4.registrar-servers.com.
 mil.sy.			86400	IN	NS	freedns5.registrar-servers.com.
 milano-sport.sy.	86400	IN	NS	suspend1.tld.sy.
 milano-sport.sy.	86400	IN	NS	suspend2.tld.sy.
-milestone.sy.		86400	IN	NS	ns1.flexsolutiondomains.com.
-milestone.sy.		86400	IN	NS	ns2.flexsolutiondomains.com.
+milestone.sy.		86400	IN	NS	suspend1.tld.sy.
+milestone.sy.		86400	IN	NS	suspend2.tld.sy.
 milkman.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 milkman.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 millia-bara.sy.		86400	IN	NS	ns16.samamax.com.
@@ -5242,11 +5243,8 @@ play.sy.		86400	IN	NS	sydns1.nobalaa.com.
 play.sy.		86400	IN	NS	sydns2.nobalaa.com.
 plwhm.sy.		86400	IN	NS	suspend1.tld.sy.
 plwhm.sy.		86400	IN	NS	suspend2.tld.sy.
-pm.sy.			86400	IN	NS	ns1.ucg-core.com.
-pm.sy.			86400	IN	NS	ns4.ucg-core.com.
-pm.sy.			86400	IN	NS	ns11.ucg-core.com.
-pm.sy.			86400	IN	NS	ns51.uae-dc.com.
-pm.sy.			86400	IN	NS	ns54.uae-dc.com.
+pm.sy.			86400	IN	NS	suspend1.tld.sy.
+pm.sy.			86400	IN	NS	suspend2.tld.sy.
 po.sy.			86400	IN	NS	freedns1.registrar-servers.com.
 po.sy.			86400	IN	NS	freedns2.registrar-servers.com.
 po.sy.			86400	IN	NS	freedns3.registrar-servers.com.
@@ -5575,8 +5573,8 @@ saad-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 saad-trade.sy.		86400	IN	NS	suspend2.tld.sy.
 saada-marble.sy.	86400	IN	NS	suspend1.tld.sy.
 saada-marble.sy.	86400	IN	NS	suspend2.tld.sy.
-saada-trading.sy.	86400	IN	NS	ns1.waveshost.sy.
-saada-trading.sy.	86400	IN	NS	ns2.waveshost.sy.
+saada-trading.sy.	86400	IN	NS	suspend1.tld.sy.
+saada-trading.sy.	86400	IN	NS	suspend2.tld.sy.
 saas.sy.		86400	IN	NS	ns1.monster.sy.
 saas.sy.		86400	IN	NS	ns2.monster.sy.
 sabaa.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6044,8 +6042,8 @@ sinalco.sy.		86400	IN	NS	adam.ns.cloudflare.com.
 sinalco.sy.		86400	IN	NS	brenna.ns.cloudflare.com.
 sinbad.sy.		86400	IN	NS	ns1.signal-host.com.
 sinbad.sy.		86400	IN	NS	ns2.signal-host.com.
-sindibad.sy.		86400	IN	NS	ns1.lazernet.sy.
-sindibad.sy.		86400	IN	NS	ns2.lazernet.sy.
+sindibad.sy.		86400	IN	NS	suspend1.tld.sy.
+sindibad.sy.		86400	IN	NS	suspend2.tld.sy.
 sipc.sy.		86400	IN	NS	ns1.scs-net.sy.
 sipc.sy.		86400	IN	NS	ns1.scs-net.org.
 sipc.sy.		86400	IN	NS	ns2.scs-net.sy.
@@ -6916,6 +6914,11 @@ tsd-daraa.sy.		86400	IN	NS	ns1.syrianmonster.sy.
 tsd-daraa.sy.		86400	IN	NS	ns2.syrianmonster.sy.
 tsd-lattakia.sy.	86400	IN	NS	ns3.tld.sy.
 tsd-lattakia.sy.	86400	IN	NS	ns4.tld.sy.
+tss.sy.			86400	IN	NS	ns1.ucg-core.com.
+tss.sy.			86400	IN	NS	ns4.ucg-core.com.
+tss.sy.			86400	IN	NS	ns11.ucg-core.com.
+tss.sy.			86400	IN	NS	ns51.uae-dc.com.
+tss.sy.			86400	IN	NS	ns54.uae-dc.com.
 tt.sy.			86400	IN	NS	bayan.ns.cloudflare.com.
 tt.sy.			86400	IN	NS	lorna.ns.cloudflare.com.
 ttn.sy.			86400	IN	NS	suspend1.tld.sy.
