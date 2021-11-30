@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222413658 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222413671 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220123153700 20211130131002 9009 sn. azPQNiVFJYXcRHA4nv3XMo6RfNuPBQjwOa9wAuh3r5tTnCgrWUgUAvHp p4hdz5c+QyA89zgEnxnwH28a/preMQ==
-sn.			172800	IN	TXT	"No RRs processed [30/11/2021 15H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220111183357 20211130151002 9009 sn. ZvX2n5uCzWq6Prb3llcIOM1JI5iCeqddx4YTeuZLcDY8QugyOlMPVdCr lG/wWggqFYwlmSE0TwR7Z1/t6bwKFQ==
+sn.			172800	IN	TXT	"No RRs processed [30/11/2021 17H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220129141002 20211130131002 9009 sn. CnI/tk6vZkwJOLn2auXKAsX+oRIBgemJWDQn+AyeFMSmGbKidVlF3VE5 GWYnoyin1ny4n7lJIM3s2TU5W0zM4Q==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220129161002 20211130151002 9009 sn. zwFH560m0z5+6o5uSwP2P/KJnh7sanpkjMOKXtsY5CQWIrwyO74rWdAl sksKCjf907En1pwhmWgtjJj7Lpahpw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -2228,6 +2228,8 @@ barometrecitoyen.sn.	43200	IN	NS	ns1.kheweul.net.
 barometrecitoyen.sn.	43200	IN	NS	ns2.kheweul.net.
 barometrecitoyen.sn.	43200	IN	NS	ns3.kheweul.net.
 barometrecitoyen.sn.	43200	IN	NS	ns4.kheweul.net.
+barrista.sn.		172800	IN	NS	ns5.jokko-hosting.com.
+barrista.sn.		172800	IN	NS	ns6.jokko-hosting.com.
 barthelemy2022.sn.	172800	IN	NS	ns1.francedns.com.
 barthelemy2022.sn.	172800	IN	NS	ns2.francedns.com.
 barthelemy2022.sn.	172800	IN	NS	ns3.francedns.com.
@@ -2241,6 +2243,8 @@ barvafor.sn.		43200	IN	NS	ns1.infomaniak.ch.
 barvafor.sn.		43200	IN	NS	ns2.infomaniak.ch.
 basketballafricaleague.sn. 43200 IN	NS	dns1.cscdns.net.
 basketballafricaleague.sn. 43200 IN	NS	dns2.cscdns.net.
+basmala.sn.		172800	IN	NS	ns103.ovh.net.
+basmala.sn.		172800	IN	NS	dns103.ovh.net.
 bataaxal.sn.		43200	IN	NS	ns1045.ui-dns.de.
 bataaxal.sn.		43200	IN	NS	ns1045.ui-dns.biz.
 bataaxal.sn.		43200	IN	NS	ns1045.ui-dns.com.
@@ -5096,7 +5100,7 @@ dakarvision.sn.		43200	IN	NS	ns.arc.sn.
 dakarvision.sn.		43200	IN	NS	ns3.arc.sn.
 dakarvoyages.sn.	43200	IN	NS	ns109.ovh.net.
 dakarvoyages.sn.	43200	IN	NS	dns109.ovh.net.
-dakarvtc.sn.		43200	IN	RRSIG	DS 13 2 43200 20211214143202 20211015135118 9009 sn. FxdYb8ggOiQ21BkU99c5YMwTobc49dJUBaosF5bGsB5uhRvzPkQBuVtA tMDq3KOanJ900HHLYe+6Y3UBBSN4pQ==
+dakarvtc.sn.		43200	IN	RRSIG	DS 13 2 43200 20220129140136 20211130133202 9009 sn. 8d/UHdpeOUe3JGQCTyoky+Hj0NN13sc4KNo+A/KWHD7GN1ctaQhQfvEQ qe9+NcJhgNNqsaiAZtM2XE60r8T45g==
 dakarvtc.sn.		43200	IN	DS	29914 8 2 90BF8B47D1429ADEE70C0581A3A3327BD0B232617B190C8E9C5024E7 2B9EC886
 dakarvtc.sn.		43200	IN	NS	ns107.ovh.net.
 dakarvtc.sn.		43200	IN	NS	dns107.ovh.net.
@@ -9330,8 +9334,8 @@ iga.sn.			172800	IN	NS	ns3.kheweul.net.
 iga.sn.			172800	IN	NS	ns4.kheweul.net.
 igaj.sn.		43200	IN	NS	ns1.servconfig.com.
 igaj.sn.		43200	IN	NS	ns2.servconfig.com.
-igat.sn.		172800	IN	NS	ns3.afriregister.com.
-igat.sn.		172800	IN	NS	ns01.afriregister.com.
+igat.sn.		172800	IN	NS	ns1.dns-parking.com.
+igat.sn.		172800	IN	NS	ns2.dns-parking.com.
 igdk.sn.		43200	IN	NS	ns110.ovh.net.
 igdk.sn.		43200	IN	NS	dns110.ovh.net.
 ige.sn.			43200	IN	NS	ns1.kheweul.net.
@@ -11052,6 +11056,8 @@ kyndryl.sn.		43200	IN	NS	nssui.comlaude.ch.
 kyndryl.sn.		43200	IN	NS	nsusa.comlaude.net.
 l2jimmo.sn.		172800	IN	NS	pdns09.domaincontrol.com.
 l2jimmo.sn.		172800	IN	NS	pdns10.domaincontrol.com.
+l2t.sn.			172800	IN	NS	ns5.jokko-hosting.com.
+l2t.sn.			172800	IN	NS	ns6.jokko-hosting.com.
 la3m.sn.		43200	IN	NS	ns31.infomaniak.com.
 la3m.sn.		43200	IN	NS	ns32.infomaniak.com.
 laa.sn.			43200	IN	NS	ns1.skytechnology.pl.
