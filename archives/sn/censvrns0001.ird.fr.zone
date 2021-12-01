@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222413861 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220130162003 20211201152003 9009 sn. 7c18GK5yWmm+LYaeMpm/F6PdM3sWiEnW8LOnZMHYqR4NkhBtPHUlKtxV LWE0rRak+mL7mx+OV1bVyZqviNSsgA==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222413874 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220130182003 20211201172003 9009 sn. h0pyVCV4BrRbXzzhFoUC+y3AkjXBYFre9BF2T90Wec++04uZQ9HDmCI5 I4oU4nYmPOObePvI9KIp8O0QyvU3aw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"2 RRs processed [01/12/2021 17H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211223143004 20211201152003 9009 sn. WQ3Z2s8dHzjE5jF1tZiWvGLbZ9N9Sr+odAfBheuZxnfd5SiVBtQIS8lx x1zYFTHarQTNWEf9AFHP8XKpCDqPtw==
+sn.			172800	IN	TXT	"No RRs processed [01/12/2021 19H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211227072721 20211201172003 9009 sn. xWX9XT3EMRtPP42fxW9yvI4Sz+vTKltOhyaZx72v37F87YFcm3ZW8gaQ AH5ZVc2s4ErfX7VpYuEPi6pRgei93A==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -4814,6 +4814,8 @@ crusoe.sn.		43200	IN	NS	ns2.register.be.
 crusoe.sn.		43200	IN	NS	ns3.register.be.
 crypto.sn.		43200	IN	NS	ns1.101domain.com.
 crypto.sn.		43200	IN	NS	ns2.101domain.com.
+crypto221.sn.		172800	IN	NS	ns103.ovh.net.
+crypto221.sn.		172800	IN	NS	dns103.ovh.net.
 cryptocurrency.sn.	43200	IN	NS	ns100.ovh.net.
 cryptocurrency.sn.	43200	IN	NS	dns100.ovh.net.
 cryptomarket.sn.	172800	IN	RRSIG	DS 13 2 172800 20220129055927 20211130051646 9009 sn. k5O8+e1j/hj1DDqyl4C4kBx8ualkF82ihgEhbEvPQqOItiAngxSEo29P 9tP7u+b6Dy765ZUi9c6VAxmDQGYUKA==
@@ -11351,7 +11353,7 @@ ld-international.sn.	43200	IN	RRSIG	DS 13 2 43200 20220111002904 20211111234743 
 ldb.sn.			43200	IN	NS	ns12.ovh.net.
 ldb.sn.			43200	IN	NS	dns12.ovh.net.
 ldb.sn.			43200	IN	DS	53350 8 2 4D69CF5D53DD41FECA3ACE278B7371CF289F96CC1CC868D50146DF5E 9A92543F
-ldb.sn.			43200	IN	RRSIG	DS 13 2 43200 20211215162359 20211016155724 9009 sn. bB/WtiznUoHIPKCnhrbRvKURdKbfqyHbdAZDC0P3IrhHlwJRIkAMLaQV XgTSDUGBgWhd+FdXl7TwsB3+4V1JPQ==
+ldb.sn.			43200	IN	RRSIG	DS 13 2 43200 20220130154002 20211201152359 9009 sn. 9Nn2P8FD2bTTJK2bJCdA/qlho8jQdHjzy/Pz3c/BV5wVoQWwaO+SJuU0 DjbrIMguqbaKBBLaGg2GbyUqhoLY5Q==
 ldc.sn.			172800	IN	NS	ns1.dnsres.net.
 ldc.sn.			172800	IN	NS	ns2.dnsres.net.
 ldc.sn.			172800	IN	NS	ns3.dnsres.net.
@@ -12301,6 +12303,8 @@ matoutils.sn.		43200	IN	NS	ns2.francedns.com.
 matoutils.sn.		43200	IN	NS	ns3.francedns.com.
 matpro.sn.		43200	IN	NS	ns5.afriregister.com.
 matpro.sn.		43200	IN	NS	ns6.afriregister.com.
+matrice.sn.		172800	IN	NS	ns103.ovh.net.
+matrice.sn.		172800	IN	NS	dns103.ovh.net.
 matsi.sn.		43200	IN	NS	ns1.kheweul.net.
 matsi.sn.		43200	IN	NS	ns2.kheweul.net.
 matsi.sn.		43200	IN	NS	ns3.kheweul.net.
