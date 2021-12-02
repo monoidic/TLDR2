@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021120209 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638424932"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021120213 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638432136"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2631,8 +2631,10 @@ elias-khalaf.sy.	86400	IN	NS	ns4.ucg-core.com.
 elias-khalaf.sy.	86400	IN	NS	ns11.ucg-core.com.
 elias-khalaf.sy.	86400	IN	NS	ns51.uae-dc.com.
 elias-khalaf.sy.	86400	IN	NS	ns54.uae-dc.com.
-elira.sy.		86400	IN	NS	ns1.lazernet.sy.
-elira.sy.		86400	IN	NS	ns2.lazernet.sy.
+elira.sy.		86400	IN	NS	ns1.elira.sy.
+elira.sy.		86400	IN	NS	ns2.elira.sy.
+ns1.elira.sy.		86400	IN	A	217.20.222.126
+ns2.elira.sy.		86400	IN	A	217.20.222.126
 elisyr.sy.		86400	IN	NS	ns1.lazernet.sy.
 elisyr.sy.		86400	IN	NS	ns2.lazernet.sy.
 elite.sy.		86400	IN	NS	beau.ns.cloudflare.com.
