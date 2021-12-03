@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2021113001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2021120301 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -6673,6 +6673,8 @@ rfs.cv.			28800	IN	NS	ns2.dnscpanel.com.
 rfs.cv.			28800	IN	NS	ns3.dnscpanel.com.
 rhformacoes.cv.		28800	IN	NS	ns1.bluehost.com.
 rhformacoes.cv.		28800	IN	NS	ns2.bluehost.com.
+ribeirabravafm.cv.	28800	IN	NS	ns1.ipage.com.
+ribeirabravafm.cv.	28800	IN	NS	ns2.ipage.com.
 rima.cv.		28800	IN	NS	ns1.hostinger.pt.
 rima.cv.		28800	IN	NS	ns2.hostinger.pt.
 rima.cv.		28800	IN	NS	ns3.hostinger.pt.
@@ -6738,11 +6740,11 @@ robinson-kapverden.cv.	28800	IN	NS	ns01.brandshelter.com.
 robinson-kapverden.cv.	28800	IN	NS	ns02.brandshelter.net.
 robinsonclub.cv.	28800	IN	NS	ns01.brandshelter.com.
 robinsonclub.cv.	28800	IN	NS	ns02.brandshelter.net.
-roda.cv.		28800	IN	NS	ns1.webstarts.com.
-roda.cv.		28800	IN	NS	ns2.webstarts.com.
 roda.cv.		28800	IN	AAAA	2604:9a00:2100:af02:4::dc
 roda.cv.		28800	IN	AAAA	2a00:c98:2200:af0a:5::de
 roda.cv.		28800	IN	AAAA	2a03:6420::abcd:ef01
+roda.cv.		28800	IN	NS	ns1.webstarts.com.
+roda.cv.		28800	IN	NS	ns2.webstarts.com.
 rogerinc.cv.		28800	IN	NS	ns1.wtservers.com.
 rogerinc.cv.		28800	IN	NS	ns2.wtservers.com.
 rogerinc.cv.		28800	IN	NS	ns3.wtservers.com.
@@ -7593,8 +7595,10 @@ terranova.cv.		28800	IN	NS	ns2.webhs.org.
 terranova.cv.		28800	IN	NS	ns3.webhs.org.
 terrasystem.cv.		28800	IN	NS	ns1.inmotionhosting.com.
 terrasystem.cv.		28800	IN	NS	ns2.inmotionhosting.com.
-textoeditores.cv.	28800	IN	NS	ns1.textoeditora.pt.
-textoeditores.cv.	28800	IN	NS	ns2.textoeditora.pt.
+textoeditores.cv.	28800	IN	NS	ns-36.awsdns-04.com.
+textoeditores.cv.	28800	IN	NS	ns-933.awsdns-52.net.
+textoeditores.cv.	28800	IN	NS	ns-1455.awsdns-53.org.
+textoeditores.cv.	28800	IN	NS	ns-1871.awsdns-41.co.uk.
 thebluebananagroup.cv.	28800	IN	NS	ns1.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns2.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns3.ptwebserv.net.
@@ -7934,13 +7938,13 @@ vendasonline.cv.	28800	IN	NS	ns3.sitechcv.com.
 vendasonline.cv.	28800	IN	NS	ns4.sitechcv.com.
 vendeli.cv.		28800	IN	NS	ns1.rhostjh.com.
 vendeli.cv.		28800	IN	NS	ns2.rhostjh.com.
-vendese.cv.		28800	IN	NS	ns.vendese.cv.
-vendese.cv.		28800	IN	NS	ns1.capeverdehosting.com.
-vendese.cv.		28800	IN	NS	ns2.capeverdehosting.com.
 vendese.cv.		28800	IN	AAAA	2600:9000:5301:7000::1
 vendese.cv.		28800	IN	AAAA	2600:9000:5302:cb00::1
 vendese.cv.		28800	IN	AAAA	2600:9000:5305:ea00::1
 vendese.cv.		28800	IN	AAAA	2600:9000:5307:fc00::1
+vendese.cv.		28800	IN	NS	ns.vendese.cv.
+vendese.cv.		28800	IN	NS	ns1.capeverdehosting.com.
+vendese.cv.		28800	IN	NS	ns2.capeverdehosting.com.
 mail.vendese.cv.	28800	IN	A	184.168.119.98
 ns.vendese.cv.		28800	IN	A	184.168.119.98
 vendus.cv.		28800	IN	NS	ns1.vendus.com.
