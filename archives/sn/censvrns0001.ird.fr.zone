@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222414189 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220201141002 20211203131002 9009 sn. 8Aw0XnSSZx99/IY9ddXyKhmd9wbuikLSrjr/fGREj7vbRbjJZp9WlDes DMZ/NEEGoChG6uImRxVuJc0XGAiKjQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222414201 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220201161003 20211203151003 9009 sn. NCy9lt9TBUhtrsxZ7WpyPQnNjPKTMa/6ClzNHV2CdG1XnAyppTN8dDL7 pTeGw1RdrakY3fl4XHJA12tUbcC0KQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [03/12/2021 15H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220117232036 20211203131002 9009 sn. CHIP/82MMgdToKhxjg6qS/0d69P2AnCVKMLR/bgs/0tCcS74Jo7ieX8T GlZOZHDVgd/4cT0/G2ZM8Y1Cwv7FCQ==
+sn.			172800	IN	TXT	"No RRs processed [03/12/2021 17H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220116123311 20211203151003 9009 sn. jDwlMH6Gpg5MGa+5I/aGthZXgVRiQ/kflJvv467QPzExez8VSvlG78he xJtSPN1A6DMTXVWSDvW1sF/cgKlSHA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -4253,6 +4253,8 @@ cmdakar.sn.		43200	IN	NS	ns1.kheweul.net.
 cmdakar.sn.		43200	IN	NS	ns2.kheweul.net.
 cmdakar.sn.		43200	IN	NS	ns3.kheweul.net.
 cmdakar.sn.		43200	IN	NS	ns4.kheweul.net.
+cme-africa.sn.		172800	IN	NS	ns103.ovh.net.
+cme-africa.sn.		172800	IN	NS	dns103.ovh.net.
 cmedia.sn.		43200	IN	NS	ns1.ascio.com.
 cmedia.sn.		43200	IN	NS	ns2.ascio.com.
 cmedia.sn.		43200	IN	NS	ns3.ascio.com.
@@ -12227,6 +12229,9 @@ mariesawndiaye.sn.	43200	IN	NS	cp4.dnshostservices.com.
 mariestopes.sn.		43200	IN	NS	ns01.trademarkarea.com.
 mariestopes.sn.		43200	IN	NS	ns02.trademarkarea.com.
 mariestopes.sn.		43200	IN	NS	ns03.trademarkarea.com.
+marimba.sn.		172800	IN	NS	ns1.francedns.com.
+marimba.sn.		172800	IN	NS	ns2.francedns.com.
+marimba.sn.		172800	IN	NS	ns3.francedns.com.
 marimbafactory.sn.	43200	IN	NS	ns1.francedns.com.
 marimbafactory.sn.	43200	IN	NS	ns2.francedns.com.
 marimbafactory.sn.	43200	IN	NS	ns3.francedns.com.
@@ -16915,6 +16920,8 @@ senegalvente.sn.	43200	IN	NS	ns200.anycast.me.
 senegalvente.sn.	43200	IN	NS	dns200.anycast.me.
 senegalvisa.sn.		43200	IN	NS	ns200.anycast.me.
 senegalvisa.sn.		43200	IN	NS	dns200.anycast.me.
+senegalvolleyball.sn.	172800	IN	NS	ns200.anycast.me.
+senegalvolleyball.sn.	172800	IN	NS	dns200.anycast.me.
 senegalzakat.sn.	43200	IN	NS	ns107.ovh.net.
 senegalzakat.sn.	43200	IN	NS	dns107.ovh.net.
 senegindia.sn.		43200	IN	NS	ns1045.ui-dns.de.
@@ -18141,6 +18148,8 @@ sosegh.sn.		172800	IN	NS	ns.gouv.sn.
 sosegh.sn.		172800	IN	NS	ns2.gouv.sn.
 sosegh.sn.		172800	IN	NS	ns3.gouv.sn.
 sosem.sn.		43200	IN	NS	hosting100.arc.sn.
+sosemat.sn.		172800	IN	RRSIG	DS 13 2 172800 20220121104637 20211203132003 9009 sn. RE7TbSUwlt4UEME8o2vu5jvFxA50/CQyeflBRPKI984N/T7Tpf80aX03 J2lHGYtz1mTBgXiUbpCEiuy+Zb9+tw==
+sosemat.sn.		172800	IN	DS	34429 8 2 480A4E47738509A99A69CB8ECB42B9B800BEEC52628A3F05D7112157 96A61727
 sosemat.sn.		43200	IN	NS	ns200.anycast.me.
 sosemat.sn.		43200	IN	NS	dns200.anycast.me.
 sosemic.sn.		172800	IN	NS	ns1.kheweul.net.
@@ -19076,6 +19085,9 @@ terrawash.sn.		43200	IN	NS	ns2.francedns.com.
 terrawash.sn.		43200	IN	NS	ns3.francedns.com.
 terrawash.sn.		43200	IN	NS	ns4.francedns.com.
 terrawash.sn.		43200	IN	NS	ns5.francedns.com.
+terre-senegal.sn.	172800	IN	NS	ns1.francedns.com.
+terre-senegal.sn.	172800	IN	NS	ns2.francedns.com.
+terre-senegal.sn.	172800	IN	NS	ns3.francedns.com.
 terredesenegal.sn.	43200	IN	NS	ns1.francedns.com.
 terredesenegal.sn.	43200	IN	NS	ns2.francedns.com.
 terredesenegal.sn.	43200	IN	NS	ns3.francedns.com.
@@ -19086,6 +19098,9 @@ terreprecieuse.sn.	43200	IN	RRSIG	DS 13 2 43200 20220111053311 20211112044232 90
 terresdesenegal.sn.	43200	IN	NS	ns1.francedns.com.
 terresdesenegal.sn.	43200	IN	NS	ns2.francedns.com.
 terresdesenegal.sn.	43200	IN	NS	ns3.francedns.com.
+terrsenegal.sn.		172800	IN	NS	ns1.francedns.com.
+terrsenegal.sn.		172800	IN	NS	ns2.francedns.com.
+terrsenegal.sn.		172800	IN	NS	ns3.francedns.com.
 tersea.sn.		43200	IN	NS	ns107.ovh.net.
 tersea.sn.		43200	IN	NS	dns107.ovh.net.
 tersea.sn.		43200	IN	DS	22234 8 2 920397D285F2459E1DA184F04C5016BFC09870975E508C571506D2DF 21590B78
@@ -21699,8 +21714,10 @@ DLQNKDCTHB9ANOEKFDCBTU07TRVPGMIQ.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DLV4EQQQO0MKE6
 DLQNKDCTHB9ANOEKFDCBTU07TRVPGMIQ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220114191656 20211115183329 9009 sn. caIG1hdAQ3UiMEFCkSGYDtI2dsQcMjpzPuZcPYTUWqwP51OFvytcc1Ff 0cpqtqkyHAdU3Dn3Iu4/CMXC6jUQeg==
 DLV4EQQQO0MKE6ONQUPG23TDMUREPELE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220114191656 20211115183329 9009 sn. YDQmdg4gBQ+yPVFCVd5xfp72ywk8VvT/rbAoOgTT1kvo/FEN6WeXO4q5 n5sryJQNKxSd9xBfrLfrqjUBwaA9cg==
 DLV4EQQQO0MKE6ONQUPG23TDMUREPELE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DMA17S6544FUN25KUC7HQRGTCPTRFVGE NS DS RRSIG
-DMA17S6544FUN25KUC7HQRGTCPTRFVGE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DO9IGCM9763A1PPEH0T392DPOI5GQG97 NS DS RRSIG
-DMA17S6544FUN25KUC7HQRGTCPTRFVGE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220105184351 20211203122002 9009 sn. QVUFi0tR1YiiSVSRUhquTpkJCEzqn/3tINaUMm//7hhtQXZXabsu/M4d WGVko4bAKY1nmmal33gKAi4/GZMALg==
+DMA17S6544FUN25KUC7HQRGTCPTRFVGE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ NS DS RRSIG
+DMA17S6544FUN25KUC7HQRGTCPTRFVGE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220121104637 20211203132003 9009 sn. 23ChksDnJKId0eP3JJ7LgxcFeOaxTZmj3L8j8rK20dI/Zx0kqwaJrnsO mSWWVVP2lab/ONWL0aOhnz9De17ccQ==
+DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DO9IGCM9763A1PPEH0T392DPOI5GQG97 NS DS RRSIG
+DMN3CDTNBRHNLQT4DJKP3TMP8L1LO9TJ.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220121104637 20211203132003 9009 sn. 7GYXgk5cDLgOtHnOa1SKpx8O+bO+S1n81sb3y1FN9lN0OZmALKQqm4ym ni1opIIbbkGTL7cSUO5WUHmA5qNQkg==
 DO9IGCM9763A1PPEH0T392DPOI5GQG97.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211219105830 20211022143003 9009 sn. SW3bdAgb/61eHmF7fXLXOGAwp2X2Bv1/ZStp7c6wVlmCj6Lxhu3F7o+0 kO6BmRuEhEPESykf4Qiitrhh5pEyeA==
 DO9IGCM9763A1PPEH0T392DPOI5GQG97.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DOCP9SF66Q833741HQ4KHAGGB1CPOM29 NS DS RRSIG
 DOCP9SF66Q833741HQ4KHAGGB1CPOM29.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 DPBDHF3SVI48BCQ3G0K00NTC644U4VL3 NS DS RRSIG
