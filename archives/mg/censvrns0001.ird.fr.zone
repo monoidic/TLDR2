@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120410 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120412 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1638612030"
+mg.			7200	IN	TXT	"Generation Time: 1638619236"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -5296,8 +5296,9 @@ itconsult.mg.		86400	IN	NS	dns1.supremepanel.com.
 itconsult.mg.		86400	IN	NS	dns2.supremepanel.com.
 itdcmada.mg.		86400	IN	NS	ns.dts.mg.
 itdcmada.mg.		86400	IN	NS	ns1.dts.mg.
-iteam-s.mg.		86400	IN	NS	vps72584.serveur-vps.net.
-iteam-s.mg.		86400	IN	NS	dns2.lws-hosting.com.
+iteam-s.mg.		86400	IN	NS	ns1.contabo.net.
+iteam-s.mg.		86400	IN	NS	ns2.contabo.net.
+iteam-s.mg.		86400	IN	NS	ns3.contabo.net.
 itech.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 itech.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 itech.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -6308,8 +6309,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10120,6 +10121,9 @@ tickets.mg.		86400	IN	NS	ns60.domaincontrol.com.
 ticsalama.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 ticsalama.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 ticsalama.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+timbu.mg.		86400	IN	NS	ns1.netim.net.
+timbu.mg.		86400	IN	NS	ns2.netim.net.
+timbu.mg.		86400	IN	NS	ns3.netim.net.
 time.mg.		86400	IN	NS	ns1.eurodns.com.
 time.mg.		86400	IN	NS	ns2.eurodns.com.
 time.mg.		86400	IN	NS	ns3.eurodns.com.
