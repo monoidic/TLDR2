@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120610 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120612 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1638784836"
+mg.			7200	IN	TXT	"Generation Time: 1638792041"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1412,6 +1412,8 @@ baloon.mg.		7200	IN	NS	dns13.ovh.net.
 baloon.mg.		7200	IN	NS	ns13.ovh.net.
 bamada.mg.		7200	IN	NS	ns1.servermada.com.
 bamada.mg.		7200	IN	NS	ns2.servermada.com.
+bambou.mg.		7200	IN	NS	ns.inmotionhosting.com.
+bambou.mg.		7200	IN	NS	ns2.inmotionhosting.com.
 bank-of-africa.mg.	7200	IN	NS	mrozia.mtds.com.
 bank-of-africa.mg.	7200	IN	NS	rfissa.mtds.com.
 bankofafrica.mg.	7200	IN	NS	mrozia.mtds.com.
@@ -6305,8 +6307,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6362,6 +6364,9 @@ madeinmada.mg.		86400	IN	NS	ns1.cloudns.io.
 madeinmada.mg.		86400	IN	NS	ns2.cloudns.io.
 madepices.mg.		86400	IN	NS	ns.dts.mg.
 madepices.mg.		86400	IN	NS	ns1.dts.mg.
+mades.mg.		86400	IN	NS	ns1.indritech.mg.
+mades.mg.		86400	IN	NS	ns2.indritech.mg.
+mades.mg.		86400	IN	NS	ns3.indritech.mg.
 madexia.mg.		86400	IN	NS	ns1.mysecurecloudhost.com.
 madexia.mg.		86400	IN	NS	ns2.mysecurecloudhost.com.
 madintech.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -9397,6 +9402,8 @@ smtp-madagascar.mg.	86400	IN	NS	ns1.servermada.com.
 smtp-madagascar.mg.	86400	IN	NS	ns2.servermada.com.
 smtpmadagascar.mg.	86400	IN	NS	ns1.servermada.com.
 smtpmadagascar.mg.	86400	IN	NS	ns2.servermada.com.
+smwm.mg.		86400	IN	NS	ns29.dot.mg.
+smwm.mg.		86400	IN	NS	ns29.illi.co.mg.
 snedamada.mg.		86400	IN	NS	ns1.servermada.com.
 snedamada.mg.		86400	IN	NS	ns2.servermada.com.
 sngf-madagascar.mg.	86400	IN	NS	lana.ns.cloudflare.com.
@@ -10111,9 +10118,9 @@ tickets.mg.		86400	IN	NS	ns60.domaincontrol.com.
 ticsalama.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 ticsalama.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 ticsalama.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-timbu.mg.		86400	IN	NS	ns1.netim.net.
-timbu.mg.		86400	IN	NS	ns2.netim.net.
-timbu.mg.		86400	IN	NS	ns3.netim.net.
+timbu.mg.		86400	IN	NS	hydrogen.ns.hetzner.com.
+timbu.mg.		86400	IN	NS	oxygen.ns.hetzner.com.
+timbu.mg.		86400	IN	NS	helium.ns.hetzner.de.
 time.mg.		86400	IN	NS	ns1.eurodns.com.
 time.mg.		86400	IN	NS	ns2.eurodns.com.
 time.mg.		86400	IN	NS	ns3.eurodns.com.
