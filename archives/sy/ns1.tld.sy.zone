@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021120618 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1638777735"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021120620 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1638784939"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2453,8 +2453,8 @@ douwaji.sy.		86400	IN	NS	ns3.tld.sy.
 douwaji.sy.		86400	IN	NS	ns4.tld.sy.
 doval.sy.		86400	IN	NS	ns1.shamcenter.com.
 doval.sy.		86400	IN	NS	ns2.shamcenter.com.
-dozan-co.sy.		86400	IN	NS	ns3.tld.sy.
-dozan-co.sy.		86400	IN	NS	ns4.tld.sy.
+dozan-co.sy.		86400	IN	NS	suspend1.tld.sy.
+dozan-co.sy.		86400	IN	NS	suspend2.tld.sy.
 dps.sy.			86400	IN	NS	ns1.summahost.net.
 dps.sy.			86400	IN	NS	ns2.summahostt.net.
 dr-link.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -4853,8 +4853,8 @@ ncsr.sy.		86400	IN	NS	suspend1.tld.sy.
 ncsr.sy.		86400	IN	NS	suspend2.tld.sy.
 nct.sy.			86400	IN	NS	ns1.boulevardme.com.
 nct.sy.			86400	IN	NS	ns2.boulevardme.com.
-ncva.sy.		86400	IN	NS	suspend1.tld.sy.
-ncva.sy.		86400	IN	NS	suspend2.tld.sy.
+ncva.sy.		86400	IN	NS	eva.ns.cloudflare.com.
+ncva.sy.		86400	IN	NS	drew.ns.cloudflare.com.
 ne.sy.			86400	IN	NS	ns1.idvdns.com.
 ne.sy.			86400	IN	NS	ns2.idvdns.com.
 ne.sy.			86400	IN	NS	ns3.idvdns.com.
@@ -6730,12 +6730,10 @@ tawasultelecom.sy.	86400	IN	NS	ns1.scs-net.sy.
 tawasultelecom.sy.	86400	IN	NS	ns1.scs-net.org.
 tawasultelecom.sy.	86400	IN	NS	ns2.scs-net.sy.
 tawasultelecom.sy.	86400	IN	NS	ns2.scs-net.org.
-tawasy.sy.		86400	IN	NS	ns1.monster.sy.
-tawasy.sy.		86400	IN	NS	ns2.monster.sy.
-tawasyme.sy.		86400	IN	NS	ns1.tawasyme.sy.
-tawasyme.sy.		86400	IN	NS	ns2.tawasyme.sy.
-ns1.tawasyme.sy.	86400	IN	A	212.11.196.154
-ns2.tawasyme.sy.	86400	IN	A	212.11.196.154
+tawasy.sy.		86400	IN	NS	suspend1.tld.sy.
+tawasy.sy.		86400	IN	NS	suspend2.tld.sy.
+tawasyme.sy.		86400	IN	NS	suspend1.tld.sy.
+tawasyme.sy.		86400	IN	NS	suspend2.tld.sy.
 tawwasy.sy.		86400	IN	NS	ns3.tld.sy.
 tawwasy.sy.		86400	IN	NS	ns4.tld.sy.
 tawzeef.sy.		86400	IN	NS	pdns1.registrar-servers.com.
