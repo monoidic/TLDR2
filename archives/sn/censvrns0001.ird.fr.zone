@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222414876 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220205161805 20211207151805 9009 sn. xsCmwylCMcNczubfkJqAqKYYPmTYh74yVKjLJ9NVbPZYlPOUVB89Pt1k RtXfvTRmW7hsd2Fo24iu7iYaH9a47A==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222414890 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220205182002 20211207172002 9009 sn. n8Vy5qIgs8Wkm1te8MvJYVyf4y4ZEu7csrGQLD3Sn5HRBGXJwW9OG9gs bXV5Ayg8+wODVywXdbOu6LK4TE4how==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"2 RRs processed [07/12/2021 17H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211223175546 20211207151002 9009 sn. zyK7VxVL7WarhoXGKGqzYkKjeU6xt4QmiPojknoGrffgALeQO8y8Exr1 LYr2E/KglhSK6zOzStKBXDXaD46xrQ==
+sn.			172800	IN	TXT	"No RRs processed [07/12/2021 19H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220105105121 20211207172002 9009 sn. BfzNqQDTGqi2xhSrxjBA0Hr9uZCmhWQegJwhnCR6tA/+CxwJkvBvwH/t wFwwQHtBUyRbBPcQnQ520/xfHD5mag==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -1881,8 +1881,10 @@ attijari.sn.		43200	IN	NS	uranus.bcm.ma.
 attijari.sn.		43200	IN	NS	mercure.bcm.co.ma.
 attijaribank.sn.	43200	IN	NS	ns.sonatel.sn.
 attijaribank.sn.	43200	IN	NS	ns2.sonatel.sn.
-attijarigestion.sn.	43200	IN	NS	ns1.validname.com.
-attijarigestion.sn.	43200	IN	NS	ns2.validname.com.
+attijarigestion.sn.	172800	IN	NS	ns1.kheweul.net.
+attijarigestion.sn.	172800	IN	NS	ns2.kheweul.net.
+attijarigestion.sn.	172800	IN	NS	ns3.kheweul.net.
+attijarigestion.sn.	172800	IN	NS	ns4.kheweul.net.
 attijariwafa.sn.	43200	IN	NS	uranus.bcm.ma.
 attijariwafa.sn.	43200	IN	NS	mercure.bcm.co.ma.
 attijariwafabank.sn.	43200	IN	NS	uranus.bcm.ma.
@@ -17269,8 +17271,8 @@ ns1.senvitalesh.sn.	172800	IN	A	34.69.242.43
 ns2.senvitalesh.sn.	172800	IN	A	34.69.242.43
 senwood.sn.		43200	IN	NS	ns.arc.sn.
 senwood.sn.		43200	IN	NS	ns3.arc.sn.
-senyone.sn.		172800	IN	NS	ns103.ovh.net.
-senyone.sn.		172800	IN	NS	dns103.ovh.net.
+senyone.sn.		172800	IN	NS	ns200.anycast.me.
+senyone.sn.		172800	IN	NS	dns200.anycast.me.
 seo.sn.			172800	IN	NS	ns19.ovh.net.
 seo.sn.			172800	IN	NS	dns19.ovh.net.
 seoh.sn.		43200	IN	NS	hosting100.arc.sn.
@@ -18537,6 +18539,8 @@ suneor.sn.		43200	IN	NS	ns.sonatel.sn.
 suneor.sn.		43200	IN	NS	ns2.sonatel.sn.
 sunquick.sn.		43200	IN	NS	dns1.cscdns.net.
 sunquick.sn.		43200	IN	NS	dns2.cscdns.net.
+sunsusondage.sn.	172800	IN	NS	ns103.ovh.net.
+sunsusondage.sn.	172800	IN	NS	dns103.ovh.net.
 suntop.sn.		43200	IN	NS	dns1.cscdns.net.
 suntop.sn.		43200	IN	NS	dns2.cscdns.net.
 sunu.sn.		43200	IN	NS	dns1.p08.nsone.net.
@@ -19308,6 +19312,10 @@ thocomar.sn.		43200	IN	NS	ns.thocomar.sn.
 ns.thocomar.sn.		43200	IN	A	213.154.80.121
 thom.sn.		43200	IN	NS	udns1.cscdns.net.
 thom.sn.		43200	IN	NS	udns2.cscdns.uk.
+thomimmobilier.sn.	172800	IN	NS	ns1.ascio.com.
+thomimmobilier.sn.	172800	IN	NS	ns2.ascio.com.
+thomimmobilier.sn.	172800	IN	NS	ns3.ascio.com.
+thomimmobilier.sn.	172800	IN	NS	ns4.ascio.com.
 tiaktiak.sn.		43200	IN	NS	ns1.ascio.com.
 tiaktiak.sn.		43200	IN	NS	ns2.ascio.com.
 tiaktiak.sn.		43200	IN	NS	ns3.ascio.com.
@@ -21084,6 +21092,8 @@ yves-rocher.sn.		43200	IN	NS	ns1.kheweul.net.
 yves-rocher.sn.		43200	IN	NS	ns2.kheweul.net.
 yves-rocher.sn.		43200	IN	NS	ns3.kheweul.net.
 yves-rocher.sn.		43200	IN	NS	ns4.kheweul.net.
+zahraiyane.sn.		172800	IN	NS	ns103.ovh.net.
+zahraiyane.sn.		172800	IN	NS	dns103.ovh.net.
 zaina.sn.		43200	IN	NS	ns1.francedns.com.
 zaina.sn.		43200	IN	NS	ns2.francedns.com.
 zaina.sn.		43200	IN	NS	ns3.francedns.com.
@@ -22649,7 +22659,7 @@ SG84SGHN7OT3F8IC7E9I5QDSUFASFOVO.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022013109371
 SHVBFMUGD5F6OH9JDV2NVTR3PP7RE2PE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 SJC45DCD0D6EGGAAENHPV4RSIH2MTL49 NS DS RRSIG
 SHVBFMUGD5F6OH9JDV2NVTR3PP7RE2PE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211226230134 20211027224949 9009 sn. 3bzibno4ux8lzLGRJU5YBsEELczdVeGVtMwoz1QK7WBFQ1uEZN18S+EJ EGJHJ2uZBEScP3+IkES3ThmTQ+8jgw==
 SJC45DCD0D6EGGAAENHPV4RSIH2MTL49.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 SNGBN6QQ7K9POCQL6L89BGFKEFJ0LM4D NS DS RRSIG
-SJC45DCD0D6EGGAAENHPV4RSIH2MTL49.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211221172642 20211022170930 9009 sn. dnETquVjlFm7WZjPBXskIK/kBYY/k9rVoWmPIKvY1X5UF53BjeGuCM+y LutQBV3h1mAepJdeUa4hs37sVdrYAQ==
+SJC45DCD0D6EGGAAENHPV4RSIH2MTL49.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220205171138 20211207162642 9009 sn. 0cHWL3Sq+11ScfGkaXED8li9mXDsuSvomzpodnXy8GAingdeFL0eDvuT EDCJPLYopUvSWGdAWHGq8rPrJ96xHw==
 SNGBN6QQ7K9POCQL6L89BGFKEFJ0LM4D.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 SNT8VUUUE2I4EUERL296LLEP1B279R5P NS DS RRSIG
 SNGBN6QQ7K9POCQL6L89BGFKEFJ0LM4D.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220205152610 20211207145457 9009 sn. GK7PQ9pm2NOrYz6rmWkw0KbkO/1VLHPiSrNXIDryFwgpoEIrjHfNx/or uYkNr4bKhZCsHvf1EF0+kz99Fi0/gA==
 SNT8VUUUE2I4EUERL296LLEP1B279R5P.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 SOUPA0J892O01N8O72QMB3AIQPP1V8E1 NS DS RRSIG
