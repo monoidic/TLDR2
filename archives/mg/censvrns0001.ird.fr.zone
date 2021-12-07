@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120706 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021120708 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1638856841"
+mg.			7200	IN	TXT	"Generation Time: 1638864045"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -862,8 +862,6 @@ answerteen.mg.		7200	IN	NS	ns1.servermada.com.
 answerteen.mg.		7200	IN	NS	ns2.servermada.com.
 antananarivo-cci.mg.	7200	IN	NS	ns.dts.mg.
 antananarivo-cci.mg.	7200	IN	NS	ns1.dts.mg.
-antares.mg.		7200	IN	NS	ns1.gasyweb.com.
-antares.mg.		7200	IN	NS	ns2.gasyweb.com.
 antares-madagascar.mg.	7200	IN	NS	ns1.da.cloudns.io.
 antares-madagascar.mg.	7200	IN	NS	ns2.da.cloudns.io.
 antokoundd.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -2743,6 +2741,8 @@ dagomivarotra.mg.	7200	IN	NS	dns100.ovh.net.
 dagomivarotra.mg.	7200	IN	NS	ns100.ovh.net.
 dagopixel.mg.		7200	IN	NS	ns1.cloudns.io.
 dagopixel.mg.		7200	IN	NS	ns2.cloudns.io.
+dagoproduct.mg.		7200	IN	NS	ns1.gasyweb.com.
+dagoproduct.mg.		7200	IN	NS	ns2.gasyweb.com.
 dagotruck.mg.		7200	IN	NS	ns1.indritech.mg.
 dagotruck.mg.		7200	IN	NS	ns2.indritech.mg.
 dagotruck.mg.		7200	IN	NS	ns3.indritech.mg.
@@ -5509,10 +5509,6 @@ justice.mg.		86400	IN	NS	ns.dts.mg.
 justice.mg.		86400	IN	NS	ns1.dts.mg.
 justride.mg.		86400	IN	NS	ns1.onyx.cloudns.io.
 justride.mg.		86400	IN	NS	ns2.onyx.cloudns.io.
-justwalkin.mg.		86400	IN	NS	nsgbr.comlaude.co.uk.
-justwalkin.mg.		86400	IN	NS	nssui.comlaude.ch.
-justwalkout.mg.		86400	IN	NS	nsgbr.comlaude.co.uk.
-justwalkout.mg.		86400	IN	NS	nssui.comlaude.ch.
 juul.mg.		86400	IN	NS	ns-965.awsdns-56.net.
 juul.mg.		86400	IN	NS	ns-1681.awsdns-18.co.uk.
 juul.mg.		86400	IN	NS	ns-332.awsdns-41.com.
@@ -5529,8 +5525,6 @@ juulvapor.mg.		86400	IN	NS	ns-1576.awsdns-05.co.uk.
 juulvapor.mg.		86400	IN	NS	ns-524.awsdns-01.net.
 juulvapor.mg.		86400	IN	NS	ns-70.awsdns-08.com.
 juulvapor.mg.		86400	IN	NS	ns-1029.awsdns-00.org.
-jwo.mg.			86400	IN	NS	nsgbr.comlaude.co.uk.
-jwo.mg.			86400	IN	NS	nssui.comlaude.ch.
 k9.mg.			86400	IN	NS	ns-13-b.gandi.net.
 k9.mg.			86400	IN	NS	ns-241-a.gandi.net.
 k9.mg.			86400	IN	NS	ns-34-c.gandi.net.
@@ -8058,6 +8052,8 @@ peyron.mg.		86400	IN	NS	ns2.indritech.mg.
 peyron.mg.		86400	IN	NS	ns3.indritech.mg.
 pfoi.mg.		86400	IN	NS	nsmpro1.nordnet.com.
 pfoi.mg.		86400	IN	NS	nsmpro2.nordnet.com.
+pfphmad.mg.		86400	IN	NS	ns1.cloudns.io.
+pfphmad.mg.		86400	IN	NS	ns2.cloudns.io.
 pfsce.mg.		86400	IN	NS	ns.dts.mg.
 pfsce.mg.		86400	IN	NS	ns1.dts.mg.
 pgi.mg.			86400	IN	NS	ns1.da.cloudns.io.
@@ -10551,8 +10547,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
