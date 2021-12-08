@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415054 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415067 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220110155258 20211208152003 9009 sn. 77yTjz/C2a9XUnNX/7FBLBJid6wuodXOOiEzIclyQ21Q8vrhYZQCNmoQ z0Pt/ALfXyCnm0anRYt6jEWNYfLABQ==
-sn.			172800	IN	TXT	"No RRs processed [08/12/2021 17H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220106001104 20211208172002 9009 sn. Z6RDukTIxsy4u8NbZsO1cKwrFKpUe9G+9Y7VspdyyoE2auJVoJOp6F3G fPF0DceW14qqRLu3qhsUDOMK4TnMGA==
+sn.			172800	IN	TXT	"No RRs processed [08/12/2021 19H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220206162003 20211208152003 9009 sn. 62akVm/CCPM2xODe75UuYpbkouPRDEh5amWcZeqJx9VD2JctoN0MH91V KUPXRT/84ksZDaeRVjnsopGP9SNuTw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220206182002 20211208172002 9009 sn. fN2y6vH/6TrqC8dUMRr3Dq6Cqk5y6fkpY5Y0CoyEsBdwTM6e5Yqjx0Rq GGiY1/vkBCM3+GqyFyyaYn/i7NDkaQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -1243,8 +1243,8 @@ amateurfoot.sn.		172800	IN	NS	ns1045.ui-dns.com.
 amateurfoot.sn.		172800	IN	NS	ns1045.ui-dns.org.
 amaus.sn.		172800	IN	NS	nsany1.infomaniak.com.
 amaus.sn.		172800	IN	NS	nsany2.infomaniak.com.
-amazing.sn.		172800	IN	NS	ns31.infomaniak.com.
-amazing.sn.		172800	IN	NS	ns32.infomaniak.com.
+amazing.sn.		172800	IN	NS	ns1.dns-parking.com.
+amazing.sn.		172800	IN	NS	ns2.dns-parking.com.
 amazon.sn.		43200	IN	NS	ns1.p31.dynect.net.
 amazon.sn.		43200	IN	NS	ns2.p31.dynect.net.
 amazon.sn.		43200	IN	NS	pdns1.ultradns.net.
@@ -3593,7 +3593,7 @@ cayorventure.sn.	43200	IN	RRSIG	DS 13 2 43200 20220108054127 20211109045501 9009
 cayorventure.sn.	43200	IN	DS	27019 8 2 1F1F67C8088677C4B4F59EC9E7D64977A9F3D664CAB1934AFFF74C3F CC95DDDF
 cayorventure.sn.	43200	IN	NS	ns12.ovh.net.
 cayorventure.sn.	43200	IN	NS	dns12.ovh.net.
-cayorventures.sn.	43200	IN	RRSIG	DS 13 2 43200 20211222174033 20211023170050 9009 sn. uJPsGlvAGLizhXx8zUOdb+TwXd2JW6NAZGjMkEnrpBNH8oouiX9P9ost LpJAkrLN+McsSVYXaaQ//LiVFjG5mg==
+cayorventures.sn.	43200	IN	RRSIG	DS 13 2 43200 20220206170537 20211208164033 9009 sn. ko+1jfpJVI0qf8h4Cj3PTpkeRgi7Jm8e/afGh6XFHBPFCJxSgapI4sIo MowgCWDjvgktv7T/EvIAxNnCXqaQSg==
 cayorventures.sn.	43200	IN	DS	6259 8 2 B20D550B14A43CC9E948746CCB1B23279AA1855683EA4D32EE2F173B 81BEAE58
 cayorventures.sn.	43200	IN	NS	ns12.ovh.net.
 cayorventures.sn.	43200	IN	NS	dns12.ovh.net.
@@ -4437,6 +4437,8 @@ cogep.sn.		43200	IN	NS	ns1.kheweul.net.
 cogep.sn.		43200	IN	NS	ns2.kheweul.net.
 coges.sn.		43200	IN	NS	ns200.anycast.me.
 coges.sn.		43200	IN	NS	dns200.anycast.me.
+cognebusiness.sn.	172800	IN	NS	ns1.md-45.webhostbox.net.
+cognebusiness.sn.	172800	IN	NS	ns2.md-45.webhostbox.net.
 cohin-environnement.sn.	172800	IN	RRSIG	DS 13 2 172800 20220121231528 20211122231406 9009 sn. WJHp+jY85GQ3tVCM9QW+dZdq3STV3bljSylssiYcsq4eFJ6DVUWuI86A OueMb+0cfsvkuNSYFHqxmf8uV0a1yg==
 cohin-environnement.sn.	172800	IN	DS	61969 8 2 1EF0CB9C7941441044615296235F2E3E8958C38DD9E2220A3129C197 2B44C1BF
 cohin-environnement.sn.	172800	IN	NS	ns200.anycast.me.
@@ -12245,6 +12247,9 @@ mango.sn.		43200	IN	NS	ns-184.awsdns-23.com.
 mango.sn.		43200	IN	NS	ns-999.awsdns-60.net.
 mango.sn.		43200	IN	NS	ns-1327.awsdns-37.org.
 mango.sn.		43200	IN	NS	ns-1925.awsdns-48.co.uk.
+mango-media.sn.		172800	IN	NS	ns.second-ns.com.
+mango-media.sn.		172800	IN	NS	ns1.your-server.de.
+mango-media.sn.		172800	IN	NS	ns3.second-ns.de.
 mangoo.sn.		172800	IN	RRSIG	DS 13 2 172800 20220204043236 20211206035838 9009 sn. Jg5PV19HToYBoFQlCJ97fU4+bITV3sCg7+p8e4kDV2WMVYDG22nKuXve 7+RCJz8gECJQfZW7uYgDrMmSKuQpYw==
 mangoo.sn.		172800	IN	DS	32899 8 2 592849DE70FE4CA1AA141FAEE6C44F4A141D1CF2947EEF2C55C39232 575AFE0A
 mangoo.sn.		172800	IN	NS	ns15.ovh.net.
@@ -14966,8 +14971,6 @@ planetevent.sn.		43200	IN	NS	ns2.sonatel.sn.
 planethoster.sn.	43200	IN	NS	nsa.n0c.com.
 planethoster.sn.	43200	IN	NS	nsb.n0c.com.
 planethoster.sn.	43200	IN	NS	nsc.n0c.com.
-planetpizza.sn.		43200	IN	NS	ns0.wixdns.net.
-planetpizza.sn.		43200	IN	NS	ns1.wixdns.net.
 plaquiste.sn.		43200	IN	NS	ns109.ovh.net.
 plaquiste.sn.		43200	IN	NS	dns109.ovh.net.
 plasepri.sn.		172800	IN	RRSIG	DS 13 2 172800 20220116072818 20211202110003 9009 sn. MsibmmgFCR9WIvW0YzPyQ9B9kUC/kxFGHQxezyFWoOlga4lAJwnVHmCm B20HdHsDRae83ambbMPVJrWU0IinnQ==
@@ -17557,6 +17560,8 @@ sifl.sn.		172800	IN	NS	pdns09.domaincontrol.com.
 sifl.sn.		172800	IN	NS	pdns10.domaincontrol.com.
 sigadesign.sn.		172800	IN	NS	ns1.caurys.net.
 sigadesign.sn.		172800	IN	NS	ns2.caurys.net.
+sigainformatique.sn.	172800	IN	NS	ns.sonatel.sn.
+sigainformatique.sn.	172800	IN	NS	ns2.sonatel.sn.
 sigfox.sn.		43200	IN	NS	ns01.trademarkarea.com.
 sigfox.sn.		43200	IN	NS	ns02.trademarkarea.com.
 sigfox.sn.		43200	IN	NS	ns03.trademarkarea.com.
@@ -19000,6 +19005,9 @@ tdsc.sn.		43200	IN	NS	ns20.ovh.net.
 tdsc.sn.		43200	IN	NS	dns20.ovh.net.
 tdstrading.sn.		43200	IN	NS	ns1.ipower.com.
 tdstrading.sn.		43200	IN	NS	ns2.ipower.com.
+teambuilding.sn.	172800	IN	NS	ns.second-ns.com.
+teambuilding.sn.	172800	IN	NS	ns1.your-server.de.
+teambuilding.sn.	172800	IN	NS	ns3.second-ns.de.
 teber.sn.		172800	IN	RRSIG	DS 13 2 172800 20220130063757 20211201054058 9009 sn. F20W6jwq8apwKG9S19laLJBlFMM1R5D9Orif0sfFdOA9+Yi6AohEA30Z nT1/QYZvSMibqllOttNt+le9BUvepg==
 teber.sn.		172800	IN	DS	29374 8 2 4D4D9071B60F1B4B07C40EC661C43A5208F3B03DD98C6AB9DF72305D 5D24427C
 teber.sn.		172800	IN	NS	ns15.ovh.net.
