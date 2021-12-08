@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415005 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415018 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220128225054 20211208092002 9009 sn. OH3OtMwoMDfQUTIbNEWt85MklPKMWG0asRUWRB5GN/NkCymfN8fr5YRz pBaD5uTlBkdAZSr9XOnidorjKQIgXw==
-sn.			172800	IN	TXT	"No RRs processed [08/12/2021 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220104140941 20211208110002 9009 sn. pq6v3IhFpypPh5o1i/4zl5EFvekMSbH07zPD2V+lC9IIuRCPRc2iccpd V13818Vrg5OEfTRv5YhG/nPzAqjCWw==
+sn.			172800	IN	TXT	"No RRs processed [08/12/2021 13H00:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220206102002 20211208092002 9009 sn. MDObCBHHAb4vVoe3hlkwK7Sznbgi/x5A3lyrWPz+3kdtmt6AuIW/Z9BT lYc75OkRoCFIBUxeeIXFGt2mtvAqqw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220206120718 20211208110718 9009 sn. pG4o9JJWlybxVrYdLBpeiOBOL38vosgHeuelGSVP9AYOL66B3IVl813U jgjqe95sF/CvHcFb4UNRKSu4AxvLQg==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -2624,7 +2624,7 @@ bing.sn.		43200	IN	NS	ns1-204.azure-dns.com.
 bing.sn.		43200	IN	NS	ns2-204.azure-dns.net.
 bing.sn.		43200	IN	NS	ns3-204.azure-dns.org.
 bing.sn.		43200	IN	NS	ns4-204.azure-dns.info.
-bintabeauty.sn.		172800	IN	RRSIG	DS 13 2 172800 20211222103759 20211023102644 9009 sn. uN+Y2JCZT6Q5i+VaAi5y5k4ZLfiGEM3irC+HrwAUzf1g7CCs6ET+GqwM lv6Q0uHiwH85gUHFevQ2PJNEPX9O0g==
+bintabeauty.sn.		172800	IN	RRSIG	DS 13 2 172800 20220206094856 20211208093759 9009 sn. f9nnnyrvPtp6u29lwxw355gyuBLP48xa0noOz33gF1OnfJr5kGLwbuOx 5e+vgR9ciq6W093Rip3RVDiIhX9p0g==
 bintabeauty.sn.		172800	IN	DS	50434 8 2 ABE3886E0CE2DCA755BE4AC040E641143AD9EDBE4C2C2109CCBD6727 24FD166E
 bintabeauty.sn.		172800	IN	NS	ns200.anycast.me.
 bintabeauty.sn.		172800	IN	NS	dns200.anycast.me.
@@ -6810,8 +6810,6 @@ envolcity.sn.		43200	IN	NS	ns2.site5.com.
 envr-cybersecurite.sn.	43200	IN	NS	ns.gouv.sn.
 envr-cybersecurite.sn.	43200	IN	NS	ns2.gouv.sn.
 envr-cybersecurite.sn.	43200	IN	NS	ns3.gouv.sn.
-eolis.sn.		172800	IN	NS	ns103.ovh.net.
-eolis.sn.		172800	IN	NS	dns103.ovh.net.
 eolsenegal.sn.		43200	IN	NS	ns1.snterra.com.
 eolsenegal.sn.		43200	IN	NS	ns2.snterra.com.
 eos.sn.			172800	IN	NS	ns3.afriregister.com.
@@ -17183,7 +17181,7 @@ senpoulailler.sn.	43200	IN	NS	eisdns1.expertis.sn.
 senpoulailler.sn.	43200	IN	NS	eisdns2.expertis.sn.
 senre.sn.		43200	IN	NS	ns15.dnsprive.com.
 senre.sn.		43200	IN	NS	ns16.dnsprive.com.
-senretail.sn.		43200	IN	RRSIG	DS 13 2 43200 20211222102918 20211023095900 9009 sn. d6/Fxr6czFoLA9DzYRQGxHFYZoX0wbVDE0YaFm0oXK7kgCdJvL18FcFn Xgk3TlhabxX9t7iNU+XrMtMnW3XmOw==
+senretail.sn.		43200	IN	RRSIG	DS 13 2 43200 20220206100851 20211208092918 9009 sn. DstBeTpqdHZLp8oyYol2twnHvjqmHWk+SXEBT+lVusGHR6Faw2PK+HnQ b4ztIN5eL/yags02qAWHbEdH6/jgAA==
 senretail.sn.		43200	IN	DS	16075 8 2 B9B18C485B4E1A5EA54974AB253F7CC44D44499AC6B61C6CA102062C 3516D854
 senretail.sn.		43200	IN	NS	ns107.ovh.net.
 senretail.sn.		43200	IN	NS	dns107.ovh.net.
@@ -19600,6 +19598,8 @@ traco.sn.		43200	IN	NS	ns200.anycast.me.
 traco.sn.		43200	IN	NS	dns200.anycast.me.
 tract.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 tract.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+trafic221.sn.		172800	IN	NS	ns103.ovh.net.
+trafic221.sn.		172800	IN	NS	dns103.ovh.net.
 trainmar.sn.		43200	IN	NS	ns2765.hostgator.com.
 traiteur.sn.		43200	IN	NS	sdns2.ovh.net.
 traiteur.sn.		43200	IN	NS	ns210566.ovh.net.
@@ -20145,8 +20145,8 @@ versus.sn.		43200	IN	NS	ns.sonatel.sn.
 versus.sn.		43200	IN	NS	ns2.sonatel.sn.
 versuscapital.sn.	43200	IN	NS	ns1.giowm1171.siteground.biz.
 versuscapital.sn.	43200	IN	NS	ns2.giowm1171.siteground.biz.
-vertjaune.sn.		43200	IN	NS	dns1.hosteur.com.
-vertjaune.sn.		43200	IN	NS	dns2.hosteur.com.
+vertjaune.sn.		172800	IN	NS	ns1.uk07.tmd.cloud.
+vertjaune.sn.		172800	IN	NS	ns2.uk07.tmd.cloud.
 vetservices.sn.		43200	IN	NS	ns1.kheweul.net.
 vetservices.sn.		43200	IN	NS	ns2.kheweul.net.
 vezeeta.sn.		43200	IN	NS	ns1.101domain.com.
@@ -21241,7 +21241,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 1AMUNN07EITNTIDA03AVMUMU18F5NGS4.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 1BLP3UQ9FOPP31CGT3J1RV5VHUNPS4KM NS DS RRSIG
 1BLP3UQ9FOPP31CGT3J1RV5VHUNPS4KM.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220119032315 20211126182002 9009 sn. un6hALX0LCeRwYbG8cWsO2pi2212gWus4Y8+dO/IIaAypBqW8sIc+Tw9 ecWRz23Fg07mzZJ0/d3wxhF407FN9w==
 1BLP3UQ9FOPP31CGT3J1RV5VHUNPS4KM.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 1C9847HDG620R3M4SQMV0LP2I5B3S8AG NS DS RRSIG
-1C9847HDG620R3M4SQMV0LP2I5B3S8AG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211222120718 20211023120215 9009 sn. zDVEMok5tZqAdLUqp2ezWZRjeJ3Fm8y12qj06cWHazeka+XQBBMoo5xx g2qQMmwbRM0sfnefEkfXLRtfnfAixQ==
+1C9847HDG620R3M4SQMV0LP2I5B3S8AG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220206110816 20211208110718 9009 sn. /3SF+DzRwea3xI89xl93/rc0AEqqFDS+f/uaWU6NstyoXG74vvPMfHtA ylKJTeWzd1mhJAS5Yhp9CMkrICOxEA==
 1C9847HDG620R3M4SQMV0LP2I5B3S8AG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 1CSKTS8QTMICF343Q4QQUKU0OVSHSGKU NS DS RRSIG
 1CSKTS8QTMICF343Q4QQUKU0OVSHSGKU.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220203115628 20211205112145 9009 sn. XEpdFAwQ8hpX48lARn3Csc0pmsueBXdiZuXPzcqsAaKAXa8zv/0cY9VQ xkqM7kzrrm1G1bJYUsmP/oyJjb9Emw==
 1CSKTS8QTMICF343Q4QQUKU0OVSHSGKU.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 1FG9QP4OMQDRLEE27TA6HRDA5VT8J5AM NS DS RRSIG
