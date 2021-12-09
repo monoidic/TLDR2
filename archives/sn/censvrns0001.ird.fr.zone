@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415178 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220207101556 20211209091556 9009 sn. NG4X+MR/I8c0Pe3V0CeecRYGe8tNuLfVy9pnd4Po2ZjdksBGO1gqkDZF VfHwghgATFRuMjBsFStFk6kgS9Mdbw==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415192 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220207121003 20211209111003 9009 sn. APtYkqkcWpGTNq2ZdY/tnr8xipHTnKo/yY/T0141TUOxERgBdj0XGzOn hyF100gUBf//Iw29XKztUcG0Frl91Q==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [09/12/2021 11H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220109194116 20211209091002 9009 sn. PKQBHb+YjmDY97xOdQONWnVbMR7NzdOuAMKZvwMbK2MzodmiNHr2lhtC kr0LnZFC7cRHPZvsEixEsHGKMFotZw==
+sn.			172800	IN	TXT	"1 RRs processed [09/12/2021 13H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220130084520 20211209111003 9009 sn. S/V48d2ceFGboqNcrliTgLDGLxPzMHNfedod6YcuLH9gYyI93l+mdgin B9ThDox85dltTbtF17npdnHjM4pQBQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -73,6 +73,10 @@ sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZ
 20bet.sn.		43200	IN	NS	ns03.trademarkarea.com.
 221.sn.			43200	IN	NS	ns1.boxsecured.com.
 221.sn.			43200	IN	NS	ns2.boxsecured.com.
+221tv.sn.		172800	IN	NS	ns1.kheweul.net.
+221tv.sn.		172800	IN	NS	ns2.kheweul.net.
+221tv.sn.		172800	IN	NS	ns3.kheweul.net.
+221tv.sn.		172800	IN	NS	ns4.kheweul.net.
 226dets.sn.		43200	IN	NS	ns1.cp-ht-6.webhostbox.net.
 226dets.sn.		43200	IN	NS	ns2.cp-ht-6.webhostbox.net.
 22bet.sn.		43200	IN	NS	rosalyn.ns.cloudflare.com.
@@ -3209,8 +3213,6 @@ cachetexpress.sn.	172800	IN	NS	ns4.wanekoohost.com.
 cachetexpress.sn.	172800	IN	NS	ns5.wanekoohost.com.
 caci.sn.		43200	IN	NS	ns1.kheweul.net.
 caci.sn.		43200	IN	NS	ns2.kheweul.net.
-cacieps.sn.		43200	IN	NS	ns19.ovh.net.
-cacieps.sn.		43200	IN	NS	dns19.ovh.net.
 caco.sn.		43200	IN	NS	ns200.anycast.me.
 caco.sn.		43200	IN	NS	dns200.anycast.me.
 cacs.sn.		43200	IN	NS	ns.sonatel.sn.
@@ -3412,6 +3414,10 @@ caperformance.sn.	43200	IN	NS	ns2.sonatel.sn.
 caperlan.sn.		43200	IN	NS	a.dns.gandi.net.
 caperlan.sn.		43200	IN	NS	b.dns.gandi.net.
 caperlan.sn.		43200	IN	NS	c.dns.gandi.net.
+capinfo.sn.		172800	IN	NS	ns1.kheweul.net.
+capinfo.sn.		172800	IN	NS	ns2.kheweul.net.
+capinfo.sn.		172800	IN	NS	ns3.kheweul.net.
+capinfo.sn.		172800	IN	NS	ns4.kheweul.net.
 capitalimmo.sn.		172800	IN	NS	eisdns1.expertis.sn.
 capitalimmo.sn.		172800	IN	NS	eisdns2.expertis.sn.
 capkarange.sn.		43200	IN	NS	ns.gouv.sn.
@@ -3894,6 +3900,8 @@ cfpc.sn.		172800	IN	NS	ns1.siteground.net.
 cfpc.sn.		172800	IN	NS	ns2.siteground.net.
 cfpjymca.sn.		43200	IN	NS	ns200.anycast.me.
 cfpjymca.sn.		43200	IN	NS	dns200.anycast.me.
+cfpkaolack.sn.		172800	IN	NS	ns9.jajeuf.com.
+cfpkaolack.sn.		172800	IN	NS	ns10.jajeuf.com.
 cfpt-sj.sn.		43200	IN	NS	ns1.afrowebmaster.com.
 cfpt-sj.sn.		43200	IN	NS	ns2.afrowebmaster.com.
 cfpt-sj.sn.		43200	IN	NS	ns3.afrowebmaster.com.
@@ -4592,7 +4600,7 @@ consulat-mozambique.sn.	43200	IN	NS	ns3.afriregister.com.
 contechs.sn.		43200	IN	NS	ns107.ovh.net.
 contechs.sn.		43200	IN	NS	dns107.ovh.net.
 contechs.sn.		43200	IN	DS	34195 8 2 8D55B8A40EDD3F9DCA0827BD86FA19C65FE7712E9D642010886D99B4 508718AA
-contechs.sn.		43200	IN	RRSIG	DS 13 2 43200 20211223102423 20211024101614 9009 sn. 0EEWXy8McipJRPIriawLIb+okMJXI7iTNA5lbdfWWFhQZ1iaIELCrok9 0S0TW0y1FlVoa6o7EjU2cFIWPA//Yg==
+contechs.sn.		43200	IN	RRSIG	DS 13 2 43200 20220207100524 20211209092423 9009 sn. WVTJwR76slIzMZJA2IK/Tfi44uDrXGdS+KuvdEodCimtI+8gxN9Gx+YT Yl9t5eldMxWrd0FIIma5aapXde9ADQ==
 contentsquare.sn.	172800	IN	NS	ns1.markmonitor.com.
 contentsquare.sn.	172800	IN	NS	ns2.markmonitor.com.
 contentsquare.sn.	172800	IN	NS	ns3.markmonitor.com.
@@ -9140,6 +9148,8 @@ horlogeparlante.sn.	43200	IN	NS	ns.sonatel.sn.
 horlogeparlante.sn.	43200	IN	NS	ns2.sonatel.sn.
 horlogesenegal.sn.	43200	IN	NS	ns.sonatel.sn.
 horlogesenegal.sn.	43200	IN	NS	ns2.sonatel.sn.
+horus.sn.		172800	IN	NS	dns1.tizoo.com.
+horus.sn.		172800	IN	NS	dns2.tizoo.com.
 hosteur.sn.		43200	IN	NS	dns1.hosteur.com.
 hosteur.sn.		43200	IN	NS	dns2.hosteur.com.
 hostoweb.sn.		172800	IN	NS	htwns1.hostoweb.com.
@@ -15407,8 +15417,6 @@ prosys.sn.		43200	IN	NS	ns1.kheweul.net.
 prosys.sn.		43200	IN	NS	ns2.kheweul.net.
 prosys.sn.		43200	IN	NS	ns3.kheweul.net.
 prosys.sn.		43200	IN	NS	ns4.kheweul.net.
-proteambh.sn.		43200	IN	NS	ns19.ovh.net.
-proteambh.sn.		43200	IN	NS	dns19.ovh.net.
 protectioncotiere.sn.	43200	IN	NS	ns.sonatel.sn.
 protectioncotiere.sn.	43200	IN	NS	ns2.sonatel.sn.
 proteines.sn.		172800	IN	NS	ns1.o2switch.net.
@@ -21361,7 +21369,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 37IS54AH6KGKA82NBOPDTUJDV9B257F5.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 38N4S84GLS6H3G1R4UDN0HQS3NE7H0VC NS DS RRSIG
 37IS54AH6KGKA82NBOPDTUJDV9B257F5.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220123160151 20211124151723 9009 sn. XQJJlPVQSx+tRcntcwnBRAqEZryZG37tCOCxyFwfizIjmSl3+5pUgRZ+ B8lQH5vWR/5gg4PiWLlBVduRJ6y2vQ==
 38N4S84GLS6H3G1R4UDN0HQS3NE7H0VC.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3AK8H33VPBL3DK8VFGQMMGS9I1FBK1SN NS DS RRSIG
-38N4S84GLS6H3G1R4UDN0HQS3NE7H0VC.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211223102021 20211103122003 9009 sn. hd853RWGY16X+XM3x3heEIvx6Hl/aHTSFmFbeF8CSUs98yXzg6UcfYfh kvAvnIztMJ1VSRwzDT/hhrAfJ28NGg==
+38N4S84GLS6H3G1R4UDN0HQS3NE7H0VC.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220207101409 20211209092021 9009 sn. C6OPpa2r53zHTsMQUxafbumHm1ofvv88e8LfGm4+2Quzcjphj5NJq3jN q0J384knanPELo+0MOQrHOlePnzoag==
 3AK8H33VPBL3DK8VFGQMMGS9I1FBK1SN.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3CAC567BKQJ1UMLH6IQN7KHTK7FLL8JE NS DS RRSIG
 3AK8H33VPBL3DK8VFGQMMGS9I1FBK1SN.sn. 5400 IN RRSIG NSEC3 13 2 5400 20211224011111 20211025010130 9009 sn. ZBiwTqPbYIn5y6F4qfULTp0IZKdbKJcsu9zqve+UK2OxfqhFT6VO7v1x zxaPfaPGoWhBZ9erI4pwQ4JWV57i+w==
 3CAC567BKQJ1UMLH6IQN7KHTK7FLL8JE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3EV67OL5QRFONNJJCPV1RC8HREBDHG7J NS DS RRSIG
