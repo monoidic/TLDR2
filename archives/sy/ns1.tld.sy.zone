@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021121232 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1639324929"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021121236 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1639332134"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -6733,10 +6733,12 @@ tawasultelecom.sy.	86400	IN	NS	ns1.scs-net.sy.
 tawasultelecom.sy.	86400	IN	NS	ns1.scs-net.org.
 tawasultelecom.sy.	86400	IN	NS	ns2.scs-net.sy.
 tawasultelecom.sy.	86400	IN	NS	ns2.scs-net.org.
-tawasy.sy.		86400	IN	NS	suspend1.tld.sy.
-tawasy.sy.		86400	IN	NS	suspend2.tld.sy.
-tawasyme.sy.		86400	IN	NS	suspend1.tld.sy.
-tawasyme.sy.		86400	IN	NS	suspend2.tld.sy.
+tawasy.sy.		86400	IN	NS	ns1.monster.sy.
+tawasy.sy.		86400	IN	NS	ns2.monster.sy.
+tawasyme.sy.		86400	IN	NS	ns1.tawasyme.sy.
+tawasyme.sy.		86400	IN	NS	ns2.tawasyme.sy.
+ns1.tawasyme.sy.	86400	IN	A	212.11.196.154
+ns2.tawasyme.sy.	86400	IN	A	212.11.196.154
 tawwasy.sy.		86400	IN	NS	ns3.tld.sy.
 tawwasy.sy.		86400	IN	NS	ns4.tld.sy.
 tawzeef.sy.		86400	IN	NS	pdns1.registrar-servers.com.
