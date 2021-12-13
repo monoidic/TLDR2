@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415971 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220211201633 20211213191633 9009 sn. CWrvWeD7iBG7knBh45vrEmS7Hnzq/gItljT0nr0R2uFkPFeISyUFcKtJ 07lHtcwu3uGPuTkWYIe1I7qPEtgh/w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415985 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220211222002 20211213212002 9009 sn. 4owvkkXt3VYZmJ3rIFd9pduPZ7iz0prSPlRCkySGVTypxcRzxjZ++7P0 hi8DQyQPXr8MGvqTROqDZpjcI3ReLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [13/12/2021 21H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220210151019 20211213191002 9009 sn. 4hkJzBgRpikULDFGNhHNi6Akx5pPFvtd6P4vB8yalcmWgCfej+HOlGmX J3D0abGmUZztnLHeIEzWYnhfQTZzXg==
+sn.			172800	IN	TXT	"No RRs processed [13/12/2021 23H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220203184149 20211213212002 9009 sn. 4KV1cw9SQSKHSTgRNV5jWmbn2OKHfTGXXGf8wQTPh4mSQBmqRjKv1X3b tc99n1bUtfoMo6afqGkuPLt3QVpmYQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -10411,7 +10411,7 @@ jena.sn.		43200	IN	NS	eisdns2.expertis.sn.
 jendalma.sn.		43200	IN	NS	ns13.ovh.net.
 jendalma.sn.		43200	IN	NS	dns13.ovh.net.
 jendalma.sn.		43200	IN	DS	62587 8 2 728939DC62E7B6A54AAF209A2653695275A2024CF0638AACD9141D6E 4723E60B
-jendalma.sn.		43200	IN	RRSIG	DS 13 2 43200 20211227205655 20211028205412 9009 sn. cnw5X7PQ+U9Ppeheq8fF1eaGG63g+fPEaOr3AEUaFm5nf6qFDJmJGzU7 tPMcEU8x9CPN4hVknSuD6MuvDNg9fQ==
+jendalma.sn.		43200	IN	RRSIG	DS 13 2 43200 20220211205402 20211213195655 9009 sn. QfYv8tPV30msfCMeyr+/qXNo33N2Hg0TW5QAqj47olBalZ7EcvzfZVVc Sj7BwVb3VsZ84NrbVbzEmWFvZAJA2g==
 jendalmart.sn.		43200	IN	NS	ns107.ovh.net.
 jendalmart.sn.		43200	IN	NS	dns107.ovh.net.
 jennyfer.sn.		43200	IN	NS	ns.arc.sn.
@@ -17164,6 +17164,8 @@ senlabo.sn.		43200	IN	NS	pdns13.domaincontrol.com.
 senlabo.sn.		43200	IN	NS	pdns14.domaincontrol.com.
 senlogic.sn.		43200	IN	NS	ns109.ovh.net.
 senlogic.sn.		43200	IN	NS	dns109.ovh.net.
+senmarket.sn.		172800	IN	NS	ns103.ovh.net.
+senmarket.sn.		172800	IN	NS	dns103.ovh.net.
 senmask221.sn.		43200	IN	NS	ns1.francedns.com.
 senmask221.sn.		43200	IN	NS	ns2.francedns.com.
 senmask221.sn.		43200	IN	NS	ns3.francedns.com.
