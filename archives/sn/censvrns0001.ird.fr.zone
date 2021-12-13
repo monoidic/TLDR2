@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415959 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220211182003 20211213172003 9009 sn. IFVmc1WZu0OE8H1vZjKaQMhMulHa0dFhKhhhLHKOXGR2Xx6hCRkFQfXI Us4pvXU9pTo/6YsFBDgII7xKDS0b7A==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415971 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220211201633 20211213191633 9009 sn. CWrvWeD7iBG7knBh45vrEmS7Hnzq/gItljT0nr0R2uFkPFeISyUFcKtJ 07lHtcwu3uGPuTkWYIe1I7qPEtgh/w==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [13/12/2021 19H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220205024050 20211213172003 9009 sn. CDDehBByaPK/lbOrv49VHVUzCU0ZZXaObQaW3vzgupBJoFUfkvPAPNQj W4ma8Su/ovUr/W+SHNNW0ESNnZntrQ==
+sn.			172800	IN	TXT	"No RRs processed [13/12/2021 21H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220210151019 20211213191002 9009 sn. 4hkJzBgRpikULDFGNhHNi6Akx5pPFvtd6P4vB8yalcmWgCfej+HOlGmX J3D0abGmUZztnLHeIEzWYnhfQTZzXg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -8083,8 +8083,6 @@ gagu.sn.		43200	IN	NS	ns200.anycast.me.
 gagu.sn.		43200	IN	NS	dns200.anycast.me.
 gagu.sn.		43200	IN	DS	13675 8 2 B8D3070B93211EA2376A395B8383E88A5D13A5D37D6D30F240BA4F40 7919BE0B
 gagu.sn.		43200	IN	RRSIG	DS 13 2 43200 20220128111609 20211129101826 9009 sn. okFSVvH564HhxoYlfxeh5nv3SFi/WTgLFgw9TWlYL2LR/icZ3b7em362 zNCftzRudfRUNeXxBr+bm4wxi8eyhg==
-gainakohtech.sn.	43200	IN	NS	ns1.macaisse.sn.
-gainakohtech.sn.	43200	IN	NS	ns2.macaisse.sn.
 gainde2000.sn.		43200	IN	NS	ns.gainde2000.sn.
 gainde2000.sn.		43200	IN	NS	ns2.gainde2000.sn.
 ns.gainde2000.sn.	43200	IN	A	41.208.149.77
@@ -9507,8 +9505,6 @@ ilovesenegal.sn.	43200	IN	NS	ns107.ovh.net.
 ilovesenegal.sn.	43200	IN	NS	dns107.ovh.net.
 ilys.sn.		43200	IN	NS	ns1.caurys.net.
 ilys.sn.		43200	IN	NS	ns2.caurys.net.
-imagedor.sn.		43200	IN	NS	ns1.macaisse.sn.
-imagedor.sn.		43200	IN	NS	ns2.macaisse.sn.
 imagetvie.sn.		43200	IN	NS	ns1.kheweul.net.
 imagetvie.sn.		43200	IN	NS	ns2.kheweul.net.
 imagetvie.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -11290,7 +11286,7 @@ lalima.sn.		43200	IN	NS	ns2.caurys.net.
 lalumiere.sn.		172800	IN	NS	ns200.anycast.me.
 lalumiere.sn.		172800	IN	NS	dns200.anycast.me.
 lalumiere.sn.		172800	IN	DS	60949 8 2 7674790D8EFFF65FC8AF502DD519134E28735A7567EFBF15719ABCAF C921D581
-lalumiere.sn.		172800	IN	RRSIG	DS 13 2 172800 20211227201633 20211028193459 9009 sn. +z+OF09fRIU8CG2CXk7bf1YzBxSsm1gi0GCuKCSmb7MIuWRu6KpkoO5r RWy3omqVnC26enzYNETZOoczEb+HHA==
+lalumiere.sn.		172800	IN	RRSIG	DS 13 2 172800 20220211193516 20211213191633 9009 sn. aQLaWjTSIudVz1pIbgH8NXUM2GwmQE/N7xWW7Tc4soTTQbJmW+LX7i+F 6L3j1BX7QpImnpifsNE/7AhfRTDCtA==
 lamacom.sn.		172800	IN	NS	ayoub.genious.net.
 lamacom.sn.		172800	IN	NS	fouad.genious.net.
 lamad.sn.		43200	IN	NS	ns1.o2switch.net.
@@ -12973,8 +12969,6 @@ mode.sn.		172800	IN	NS	ns1045.ui-dns.com.
 mode.sn.		172800	IN	NS	ns1045.ui-dns.org.
 modelsis.sn.		43200	IN	NS	ns105.ovh.net.
 modelsis.sn.		43200	IN	NS	dns105.ovh.net.
-moderaagoulo.sn.	43200	IN	NS	ns1.macaisse.sn.
-moderaagoulo.sn.	43200	IN	NS	ns2.macaisse.sn.
 modernatx.sn.		172800	IN	NS	ns01.trademarkarea.com.
 modernatx.sn.		172800	IN	NS	ns02.trademarkarea.com.
 modernatx.sn.		172800	IN	NS	ns03.trademarkarea.com.
