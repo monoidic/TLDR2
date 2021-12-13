@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415887 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220211081002 20211213071002 9009 sn. 3B7NJSCgVP0LHi9Ht9zI1wSSPsyn/6jK33kEc/jZ/Lc63574ERLNfeHM Y981yJW4iTDKHF//x014Dz46cGtafg==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222415902 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220211102002 20211213092002 9009 sn. UZFnrVCZDajT/Iefez3ex1uVtPWCMMRCWY2B1xd+ItLGcuwvYNVol8yL GqSRzvJXidFC7r5pkva+YgqyJ3zGpw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [13/12/2021 09H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220207043408 20211213071002 9009 sn. UP09UBtYdAmAhnKSM6Ot/IKlsQ1XTpt1B/ShtSfcgsxav7oyvzQfdPGz R6+lQbU5Mqb6qno7rxdCxSTv3+NxuQ==
+sn.			172800	IN	TXT	"6 RRs processed [13/12/2021 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220123215234 20211213092002 9009 sn. w/LmwoBlVbeeBPkVE8caWZrwI0lXigFYeY12f896oodNcE88G6/MVY0v I/0RRH0O/C+FIhjfvGMg/C4TzbG1VA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -3758,6 +3758,8 @@ cedaa.sn.		43200	IN	NS	ns2.sh002.webhostbox.net.
 cedda.sn.		43200	IN	NS	ns1.contabo.net.
 cedda.sn.		43200	IN	NS	ns2.contabo.net.
 cedda.sn.		43200	IN	NS	ns3.contabo.net.
+ceeneer.sn.		172800	IN	NS	ns103.ovh.net.
+ceeneer.sn.		172800	IN	NS	dns103.ovh.net.
 cein.sn.		172800	IN	NS	ns1.caurys.net.
 cein.sn.		172800	IN	NS	ns2.caurys.net.
 cel.sn.			43200	IN	NS	dns1.stabletransit.com.
@@ -6394,6 +6396,9 @@ edfutur.sn.		43200	IN	NS	ns1.kheweul.net.
 edfutur.sn.		43200	IN	NS	ns2.kheweul.net.
 edfutur.sn.		43200	IN	NS	ns3.kheweul.net.
 edfutur.sn.		43200	IN	NS	ns4.kheweul.net.
+edg.sn.			172800	IN	NS	nsa.planethoster.net.
+edg.sn.			172800	IN	NS	nsb.planethoster.net.
+edg.sn.			172800	IN	NS	nsc.planethoster.net.
 edgegroup.sn.		43200	IN	NS	ns1.kheweul.net.
 edgegroup.sn.		43200	IN	NS	ns2.kheweul.net.
 edgegroup.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -7496,6 +7501,11 @@ festivalsalam.sn.	43200	IN	NS	dns12.ovh.net.
 festo.sn.		43200	IN	NS	ns0.atvirtual.com.
 festo.sn.		43200	IN	NS	ns1.atvirtual.com.
 festo.sn.		43200	IN	NS	ns2.atvirtual.com.
+fetedesdebats.sn.	172800	IN	NS	ns1.wanekoohost.com.
+fetedesdebats.sn.	172800	IN	NS	ns2.wanekoohost.com.
+fetedesdebats.sn.	172800	IN	NS	ns3.wanekoohost.com.
+fetedesdebats.sn.	172800	IN	NS	ns5.wanekoohost.com.
+fetedesdebats.sn.	172800	IN	NS	ns6.wanekoohost.com.
 fetrix.sn.		172800	IN	NS	ns106.ovh.net.
 fetrix.sn.		172800	IN	NS	dns106.ovh.net.
 fetrix.sn.		172800	IN	DS	63550 8 2 E00BA40C6FECD36BA2CFD47C80B16B5B63119E8DDFC2C10C859A3BA6 D7816011
@@ -14370,7 +14380,7 @@ osmose.sn.		43200	IN	NS	ns4.kheweul.net.
 osmoz.sn.		172800	IN	NS	ns11.ovh.net.
 osmoz.sn.		172800	IN	NS	dns11.ovh.net.
 osmoz.sn.		172800	IN	DS	57127 8 2 E5575163B7EEF325A7CB44B49A5738335E6F682B7E48531770365285 45E6B8BD
-osmoz.sn.		172800	IN	RRSIG	DS 13 2 172800 20211227082530 20211028081029 9009 sn. 3sRvWOlQYHNzehpxWQwq7bW8vr6YVncE+u+YBzgtVZs24CesZIur1shQ c0E2uUGkl9vaGTKpOm2reqw/A5L/8g==
+osmoz.sn.		172800	IN	RRSIG	DS 13 2 172800 20220211073507 20211213072530 9009 sn. pBf7IqoPwTC7hLdD0GRaWRHl8ruzoNzmO/KrtbYB5k7XSR/51rBhOAO6 8doofoynYwsHCrdF6SUd6sKFrqsXMg==
 ostore.sn.		43200	IN	NS	ns.sonatel.sn.
 ostore.sn.		43200	IN	NS	ns2.sonatel.sn.
 otherstories.sn.	43200	IN	NS	a1-139.akam.net.
@@ -18104,6 +18114,8 @@ soloesport.sn.		43200	IN	NS	dns17.ovh.net.
 solognac.sn.		43200	IN	NS	a.dns.gandi.net.
 solognac.sn.		43200	IN	NS	b.dns.gandi.net.
 solognac.sn.		43200	IN	NS	c.dns.gandi.net.
+solosar.sn.		172800	IN	NS	ns200.anycast.me.
+solosar.sn.		172800	IN	NS	dns200.anycast.me.
 solosport.sn.		43200	IN	NS	ns1.afriregister.com.
 solosport.sn.		43200	IN	NS	ns3.afriregister.com.
 solutech.sn.		43200	IN	NS	ns.sonatel.sn.
@@ -20398,7 +20410,7 @@ vuba.sn.		43200	IN	NS	ns3.francedns.com.
 vusadoc.sn.		43200	IN	NS	ns107.ovh.net.
 vusadoc.sn.		43200	IN	NS	dns107.ovh.net.
 vusadoc.sn.		43200	IN	DS	43711 8 2 C27136EB0757F852DA37E9C82A15A8914C6421A36B4F540E7331767E 342795F4
-vusadoc.sn.		43200	IN	RRSIG	DS 13 2 43200 20211227095006 20211028085750 9009 sn. IcdavB8UXQ2EevCEKd5pqDuea94vIx0atxqYpbV005cpjkL5froal2IK NvAAvS0NBT07H/Yn1f4ggmc+64s80Q==
+vusadoc.sn.		43200	IN	RRSIG	DS 13 2 43200 20220125002204 20211213085506 9009 sn. TlYHVaRkvwGd7hvYnXd2QXGbR2OYSKH6OO0A7tpYa0C4OTVrqg+1tejP uRkiL9H9IYBYgommkrs+AcU1GnPS0g==
 vw.sn.			43200	IN	NS	ns1.volkswagen.de.
 vw.sn.			43200	IN	NS	ns2.volkswagen.de.
 vw.sn.			43200	IN	NS	ns5.xc-ns.de.
