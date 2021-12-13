@@ -25,8 +25,6 @@
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
 * `kg` via `ns2.kg.`: [Click here to view zone data.](archives/kg/ns2.kg.zone)
 * `mg` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/censvrns0001.ird.fr.zone)
-* `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
-* `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
 * `rw` via `ns1.ricta.org.rw.`: [Click here to view zone data.](archives/rw/ns1.ricta.org.rw.zone)
 * `rw` via `ns3.ricta.org.rw.`: [Click here to view zone data.](archives/rw/ns3.ricta.org.rw.zone)
@@ -37,4 +35,3 @@
 * `xn--j1amh` via `tier1.num.net.ua.`: [Click here to view zone data.](archives/xn--j1amh/tier1.num.net.ua.zone)
 * `xn--lgbbat1ad8j` via `idn2.nic.dz.`: [Click here to view zone data.](archives/xn--lgbbat1ad8j/idn2.nic.dz.zone)
 * `xn--ogbpf8fl` via `ns1.tld.sy.`: [Click here to view zone data.](archives/xn--ogbpf8fl/ns1.tld.sy.zone)
-* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
