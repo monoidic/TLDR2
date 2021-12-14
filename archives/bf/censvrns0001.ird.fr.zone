@@ -1,4 +1,4 @@
-bf.			3600	IN	SOA	a.registre.bf. hostmaster.registre.bf. 2021121462 3600 1800 3600000 900
+bf.			3600	IN	SOA	a.registre.bf. hostmaster.registre.bf. 2021121471 3600 1800 3600000 900
 bf.			3600	IN	NS	a.registre.bf.
 bf.			3600	IN	NS	pch.ns.registre.bf.
 bf.			3600	IN	NS	ns-bf.nic.fr.
@@ -382,7 +382,7 @@ armp.bf.		3600	IN	NS	webgate2.dadhsoft.com.
 armp.bf.		3600	IN	NS	webgate1.dadhsoft.com.
 arse.bf.		3600	IN	NS	ns.kimsufi.com.
 arse.bf.		3600	IN	NS	ns3128347.ip-178-32-216.eu.
-art.bf.			3600	IN	TXT	"Generation Time: 1639495817"
+art.bf.			3600	IN	TXT	"Generation Time: 1639503908"
 dns-test.art.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.art.bf.	3600	IN	NS	ns2.dns-test.bf.
 artel.bf.		3600	IN	NS	nahouri2.onatel.bf.
@@ -552,7 +552,10 @@ betty123.bf.		3600	IN	NS	ns2.easydns.com.
 betty123.bf.		3600	IN	NS	ns1.easydns.com.
 bettymovil.bf.		3600	IN	NS	ns2.easydns.com.
 bettymovil.bf.		3600	IN	NS	ns1.easydns.com.
-bfix.bf.		3600	IN	NS	oubri.gov.bf.
+bfix.bf.		3600	IN	NS	bfixdnsprim.bfix.bf.
+bfix.bf.		3600	IN	NS	bfixdnssec.bfix.bf.
+bfixdnsprim.bfix.bf.	3600	IN	A	196.49.19.51
+bfixdnssec.bfix.bf.	3600	IN	A	196.49.74.193
 bfnog.bf.		3600	IN	NS	dns200.anycast.me.
 bfnog.bf.		3600	IN	NS	ns200.anycast.me.
 bgti.bf.		3600	IN	NS	cluster023.hosting.ovh.net.
@@ -1025,7 +1028,7 @@ collegedelasalle.bf.	3600	IN	NS	ks311368.kimsufi.com.
 collegedelasalle.bf.	3600	IN	NS	ns.kimsufi.com.
 colycee.bf.		3600	IN	NS	ns2.lwsdns.com.
 colycee.bf.		3600	IN	NS	ns1.lwsdns.com.
-com.bf.			3600	IN	TXT	"Generation Time: 1639495817"
+com.bf.			3600	IN	TXT	"Generation Time: 1639503908"
 dns-test.com.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.com.bf.	3600	IN	NS	ns2.dns-test.bf.
 comincom.bf.		3600	IN	NS	nahouri.onatel.bf.
@@ -1318,7 +1321,7 @@ edimedia.bf.		3600	IN	NS	nsa.planethoster.net.
 edimedia.bf.		3600	IN	NS	nsb.planethoster.net.
 edst-univ-ouaga.bf.	3600	IN	NS	nahouri.onatel.bf.
 edst-univ-ouaga.bf.	3600	IN	NS	nahouri2.onatel.bf.
-edu.bf.			3600	IN	TXT	"Generation Time: 1639495818"
+edu.bf.			3600	IN	TXT	"Generation Time: 1639503908"
 dns-test.edu.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.edu.bf.	3600	IN	NS	ns2.dns-test.bf.
 educanet.bf.		3600	IN	NS	oubri.gov.bf.
@@ -2057,8 +2060,8 @@ jpec.bf.		3600	IN	NS	oubri.gov.bf.
 jpec.bf.		3600	IN	NS	ntoo.gov.bf.
 jumia.bf.		3600	IN	NS	ns-1865.awsdns-41.co.uk.
 jumia.bf.		3600	IN	NS	ns-411.awsdns-51.com.
-jump.bf.		3600	IN	NS	decker.ns.cloudflare.com.
-jump.bf.		3600	IN	NS	ivy.ns.cloudflare.com.
+jump.bf.		3600	IN	NS	ben.ns.cloudflare.com.
+jump.bf.		3600	IN	NS	kenia.ns.cloudflare.com.
 juriburkina.bf.		3600	IN	NS	ns1617.websitewelcome.com.
 juriburkina.bf.		3600	IN	NS	ns1618.websitewelcome.com.
 jus-malia.bf.		3600	IN	NS	ns113.ovh.net.
@@ -2667,7 +2670,7 @@ ordremedecinsburkina.bf. 3600	IN	NS	ntoo.gov.bf.
 ordremedecinsburkina.bf. 3600	IN	NS	oubri.gov.bf.
 ordrepharmacien.bf.	3600	IN	NS	ns.kimsufi.com.
 ordrepharmacien.bf.	3600	IN	NS	ns331926.ip-178-32-223.eu.
-org.bf.			3600	IN	TXT	"Generation Time: 1639495818"
+org.bf.			3600	IN	TXT	"Generation Time: 1639503908"
 dns-test.org.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.org.bf.	3600	IN	NS	ns2.dns-test.bf.
 organeb.bf.		3600	IN	NS	ns1618.websitewelcome.com.
@@ -2797,7 +2800,7 @@ perfect.bf.		3600	IN	NS	ns2.101domain.com.
 perfect.bf.		3600	IN	NS	ns1.101domain.com.
 performancepartner.bf.	3600	IN	NS	ns1.o2switch.net.
 performancepartner.bf.	3600	IN	NS	ns2.o2switch.net.
-perso.bf.		3600	IN	TXT	"Generation Time: 1639495818"
+perso.bf.		3600	IN	TXT	"Generation Time: 1639503908"
 dns-test.perso.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.perso.bf.	3600	IN	NS	ns2.dns-test.bf.
 perspective.bf.		3600	IN	NS	cpanel7.lws-hosting.com.
@@ -3624,7 +3627,7 @@ unicom.bf.		3600	IN	NS	nahouri.onatel.bf.
 unicom.bf.		3600	IN	NS	nahouri2.onatel.bf.
 unisys.bf.		3600	IN	NS	ns1.lws-hosting.biz.
 unisys.bf.		3600	IN	NS	ns2.lws-hosting.biz.
-univ.bf.		3600	IN	TXT	"Generation Time: 1639495818"
+univ.bf.		3600	IN	TXT	"Generation Time: 1639503908"
 dns-test.univ.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.univ.bf.	3600	IN	NS	ns2.dns-test.bf.
 univ-bobo.bf.		3600	IN	NS	ns.univ-bobo.bf.

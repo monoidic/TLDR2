@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021121413 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021121418 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -47,6 +47,9 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 24.gp.			86400	IN	NS	ns2.subdomain.net.
 2411.gp.		86400	IN	NS	ns1.sedoparking.com.
 2411.gp.		86400	IN	NS	ns2.sedoparking.com.
+24h.gp.			86400	IN	NS	ns1.routing.net.
+24h.gp.			86400	IN	NS	ns2.routing.net.
+24h.gp.			86400	IN	NS	ns3.routing.net.
 25.gp.			86400	IN	NS	ns1.sedoparking.com.
 25.gp.			86400	IN	NS	ns2.sedoparking.com.
 26.gp.			86400	IN	NS	ns1.sedoparking.com.
@@ -1516,6 +1519,9 @@ ecb-groupe-blandin.gp.	86400	IN	NS	ns15.ovh.net.
 ecb-groupe-blandin.gp.	86400	IN	NS	dns15.ovh.net.
 ecb-groupeblandin.gp.	86400	IN	NS	ns15.ovh.net.
 ecb-groupeblandin.gp.	86400	IN	NS	dns15.ovh.net.
+eco.gp.			86400	IN	NS	ns1.routing.net.
+eco.gp.			86400	IN	NS	ns2.routing.net.
+eco.gp.			86400	IN	NS	ns3.routing.net.
 ecofip.gp.		86400	IN	NS	ns1.netim.net.
 ecofip.gp.		86400	IN	NS	ns2.netim.net.
 ecofip.gp.		86400	IN	NS	ns3.netim.net.
@@ -1649,6 +1655,9 @@ epson.gp.		86400	IN	NS	ns3.epson-europe.com.
 epson.gp.		86400	IN	NS	ns4.epson-europe.com.
 equinoxe.gp.		86400	IN	NS	ns13.ovh.net.
 equinoxe.gp.		86400	IN	NS	dns13.ovh.net.
+erally.gp.		86400	IN	NS	ns1.routing.net.
+erally.gp.		86400	IN	NS	ns2.routing.net.
+erally.gp.		86400	IN	NS	ns3.routing.net.
 eram.gp.		86400	IN	NS	a.ns.mailclub.fr.
 eram.gp.		86400	IN	NS	b.ns.mailclub.eu.
 eram.gp.		86400	IN	NS	c.ns.mailclub.com.
@@ -3275,9 +3284,8 @@ meteofrance.gp.		86400	IN	NS	vivaldi.meteo.fr.
 meteofrance.gp.		86400	IN	NS	cadillac.meteo.fr.
 mfrcotesouslevent.gp.	86400	IN	NS	ns4.wixdns.net.
 mfrcotesouslevent.gp.	86400	IN	NS	ns5.wixdns.net.
-mg-guadeloupe.gp.	86400	IN	NS	ns1.francedns.com.
-mg-guadeloupe.gp.	86400	IN	NS	ns2.francedns.com.
-mg-guadeloupe.gp.	86400	IN	NS	ns3.francedns.com.
+mg-guadeloupe.gp.	86400	IN	NS	ip199.ip-176-31-217.eu.
+mg-guadeloupe.gp.	86400	IN	NS	sdns2.ovh.net.
 mi.gp.			86400	IN	NS	ns1.sedoparking.com.
 mi.gp.			86400	IN	NS	ns2.sedoparking.com.
 michelgaschet.gp.	86400	IN	NS	sdns1.ovh.ca.
@@ -4116,6 +4124,9 @@ rafael.gp.		86400	IN	NS	ns3.afraid.org.
 rafael.gp.		86400	IN	NS	ns4.afraid.org.
 raimond.gp.		86400	IN	NS	ns12.ovh.net.
 raimond.gp.		86400	IN	NS	dns12.ovh.net.
+rally.gp.		86400	IN	NS	ns1.routing.net.
+rally.gp.		86400	IN	NS	ns2.routing.net.
+rally.gp.		86400	IN	NS	ns3.routing.net.
 randoguadeloupe.gp.	86400	IN	NS	ns1.francedns.com.
 randoguadeloupe.gp.	86400	IN	NS	ns2.francedns.com.
 randoguadeloupe.gp.	86400	IN	NS	ns3.francedns.com.
@@ -4628,6 +4639,9 @@ spb.gp.			86400	IN	NS	ns-81-c.gandi.net.
 specialistebio.gp.	86400	IN	NS	ns1.francedns.com.
 specialistebio.gp.	86400	IN	NS	ns2.francedns.com.
 specialistebio.gp.	86400	IN	NS	ns3.francedns.com.
+speed.gp.		86400	IN	NS	ns1.routing.net.
+speed.gp.		86400	IN	NS	ns2.routing.net.
+speed.gp.		86400	IN	NS	ns3.routing.net.
 speedo.gp.		86400	IN	NS	ns1.markmonitor.com.
 speedo.gp.		86400	IN	NS	ns2.markmonitor.com.
 speedo.gp.		86400	IN	NS	ns3.markmonitor.com.
