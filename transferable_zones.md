@@ -10,7 +10,6 @@
 * `arpa` via `c.root-servers.net.`: [Click here to view zone data.](archives/arpa/c.root-servers.net.zone)
 * `arpa` via `d.root-servers.net.`: [Click here to view zone data.](archives/arpa/d.root-servers.net.zone)
 * `arpa` via `f.root-servers.net.`: [Click here to view zone data.](archives/arpa/f.root-servers.net.zone)
-* `arpa` via `g.root-servers.net.`: [Click here to view zone data.](archives/arpa/g.root-servers.net.zone)
 * `arpa` via `k.root-servers.net.`: [Click here to view zone data.](archives/arpa/k.root-servers.net.zone)
 * `bf` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/bf/censvrns0001.ird.fr.zone)
 * `bj` via `ns1.nic.bj.`: [Click here to view zone data.](archives/bj/ns1.nic.bj.zone)
