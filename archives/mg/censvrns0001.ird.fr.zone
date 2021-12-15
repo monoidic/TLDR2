@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121510 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121512 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1639562436"
+mg.			7200	IN	TXT	"Generation Time: 1639569643"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -58,6 +58,8 @@ mg.			7200	IN	TXT	"Generation Time: 1639562436"
 188.mg.			7200	IN	NS	ns2.dns.com.
 19.mg.			7200	IN	NS	odin.ns.cloudflare.com.
 19.mg.			7200	IN	NS	paloma.ns.cloudflare.com.
+1963.mg.		7200	IN	NS	meilani.ns.cloudflare.com.
+1963.mg.		7200	IN	NS	miles.ns.cloudflare.com.
 1up.mg.			7200	IN	NS	ns.udag.de.
 1up.mg.			7200	IN	NS	ns.udag.net.
 1up.mg.			7200	IN	NS	ns.udag.org.
@@ -2549,9 +2551,9 @@ conseilsuperieurdelamagistrature.mg. 7200 IN NS	ns.tgn.mg.
 conseilsuperieurdelamagistrature.mg. 7200 IN NS	ns1.tgn.mg.
 conservatoirebotanique.mg. 7200	IN	NS	ns1.cloudns.io.
 conservatoirebotanique.mg. 7200	IN	NS	ns2.cloudns.io.
-constancehotels.mg.	7200	IN	NS	ns1.instradns.com.
-constancehotels.mg.	7200	IN	NS	ns2.instradns.com.
-constancehotels.mg.	7200	IN	NS	ns3.instradns.com.
+constancehotels.mg.	7200	IN	NS	ns0.dnsmadeeasy.com.
+constancehotels.mg.	7200	IN	NS	ns1.dnsmadeeasy.com.
+constancehotels.mg.	7200	IN	NS	ns2.dnsmadeeasy.com.
 construct.mg.		7200	IN	NS	ns1.cloudns.io.
 construct.mg.		7200	IN	NS	ns2.cloudns.io.
 construction.mg.	7200	IN	NS	cpanel7.lws-hosting.com.
@@ -9828,9 +9830,10 @@ super.mg.		86400	IN	NS	ns1.cloudns.io.
 super.mg.		86400	IN	NS	ns2.cloudns.io.
 superafrica.mg.		86400	IN	NS	ns1.webpresenceworld.com.
 superafrica.mg.		86400	IN	NS	ns2.webpresenceworld.com.
-superdist.mg.		86400	IN	NS	ns-147-a.gandi.net.
-superdist.mg.		86400	IN	NS	ns-89-c.gandi.net.
-superdist.mg.		86400	IN	NS	ns-64-b.gandi.net.
+superdist.mg.		86400	IN	NS	ns1-03.azure-dns.com.
+superdist.mg.		86400	IN	NS	ns2-03.azure-dns.net.
+superdist.mg.		86400	IN	NS	ns3-03.azure-dns.org.
+superdist.mg.		86400	IN	NS	ns4-03.azure-dns.info.
 superette.mg.		86400	IN	NS	ns1.cloudns.io.
 superette.mg.		86400	IN	NS	ns2.cloudns.io.
 supermarche.mg.		86400	IN	NS	drew.ns.cloudflare.com.
