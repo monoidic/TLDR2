@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416462 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416474 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220127200222 20211216152002 9009 sn. nlZ0wrkOLLzW1h71cO2LWap5/pDlHGO+wwTyOFbf4MOeFlTipfogLuqM VAZMEXoroHs5Vn+/zhBny4pAtGLUjw==
-sn.			172800	IN	TXT	"No RRs processed [16/12/2021 17H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220131220628 20211216172003 9009 sn. t2fDoZqgQJ1YtibJCIYlDQ2YNSdOaM1fYHF830oZRvoh9dFGBH1PzhK8 Tc0YTGjijWjRfcHzsCPcIsNlwf5sWg==
+sn.			172800	IN	TXT	"No RRs processed [16/12/2021 19H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220214162002 20211216152002 9009 sn. DwqIR+PFDAYSaMSqZ5KPdT65pOaBCg9CTDCPAj/G27f8rzG+ei7p71IX KN64D19KpW1i2v0kgMQ0v7G7HvvELw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220214182003 20211216172003 9009 sn. aGmT4KN2NgVLMA3sbfCAbiRe0yfELLuT8ABvEAstO94JCuxFpVrx4T4O 9zIjZbsg1KEZes+a5DU4rmV+pKscNg==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -4344,6 +4344,10 @@ cndn.sn.		43200	IN	NS	pns22.cloudns.net.
 cndn.sn.		43200	IN	NS	pns23.cloudns.net.
 cndt.sn.		43200	IN	NS	sdns2.ovh.net.
 cndt.sn.		43200	IN	NS	ns367064.ip-188-165-235.eu.
+cneps.sn.		172800	IN	NS	ns1.kheweul.net.
+cneps.sn.		172800	IN	NS	ns2.kheweul.net.
+cneps.sn.		172800	IN	NS	ns3.kheweul.net.
+cneps.sn.		172800	IN	NS	ns4.kheweul.net.
 cnepsthies.sn.		172800	IN	NS	ns1.kheweul.net.
 cnepsthies.sn.		172800	IN	NS	ns2.kheweul.net.
 cnepsthies.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -19859,6 +19863,8 @@ tybanatours.sn.		43200	IN	NS	nsmpro1.nordnet.com.
 tybanatours.sn.		43200	IN	NS	nsmpro2.nordnet.com.
 tyc.sn.			43200	IN	NS	cody.ns.cloudflare.com.
 tyc.sn.			43200	IN	NS	dolly.ns.cloudflare.com.
+tycho.sn.		172800	IN	NS	ns103.ovh.net.
+tycho.sn.		172800	IN	NS	dns103.ovh.net.
 tysilio.sn.		43200	IN	NS	ns101.ovh.net.
 tysilio.sn.		43200	IN	NS	dns101.ovh.net.
 u-cad.sn.		43200	IN	NS	ns01.trademarkarea.com.
@@ -21041,8 +21047,6 @@ yobbalema.sn.		172800	IN	RRSIG	DS 13 2 172800 20220123161951 20211204125003 9009
 yobbalema.sn.		172800	IN	DS	9874 8 2 7430E087296684D65C8449456A311BEA3E37AB06C609EB3C9A07F688 6B42E93E
 yobbalema.sn.		172800	IN	NS	ns103.ovh.net.
 yobbalema.sn.		172800	IN	NS	dns103.ovh.net.
-yobou.sn.		43200	IN	NS	ns19.ovh.net.
-yobou.sn.		43200	IN	NS	dns19.ovh.net.
 yoboulma.sn.		43200	IN	RRSIG	DS 13 2 43200 20220104025231 20211105015614 9009 sn. LscwdWl6A8VyWnVaTH1V53VhTTS0QASm2x2Vehpy9RABV4DPth6OVg7s bNAdWkjQBnzNZ2p0kqSFpdb0WwfSag==
 yoboulma.sn.		43200	IN	DS	21322 8 2 537E890CE09F4650C3F06B43E69BBC369DD0D801710D253F14CDDE07 7484273F
 yoboulma.sn.		43200	IN	NS	ns13.ovh.net.
