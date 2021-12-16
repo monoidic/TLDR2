@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121607 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121611 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1639634426"
+mg.			7200	IN	TXT	"Generation Time: 1639641641"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -532,8 +532,6 @@ agritrade.mg.		7200	IN	NS	ns.tgn.mg.
 agritrade.mg.		7200	IN	NS	ns1.tgn.mg.
 agrival.mg.		7200	IN	NS	ns1.o2switch.net.
 agrival.mg.		7200	IN	NS	ns2.o2switch.net.
-agrivet.mg.		7200	IN	NS	ns2.o2switch.net.
-agrivet.mg.		7200	IN	NS	ns1.o2switch.net.
 agrogasy.mg.		7200	IN	NS	dns106.ovh.net.
 agrogasy.mg.		7200	IN	NS	ns106.ovh.net.
 ah.mg.			7200	IN	NS	b.dns.gandi.net.
@@ -1231,6 +1229,8 @@ atorka.mg.		7200	IN	NS	c.dns.gandi.net.
 atorka.mg.		7200	IN	NS	a.dns.gandi.net.
 atos.mg.		7200	IN	NS	dns1.cscdns.net.
 atos.mg.		7200	IN	NS	dns2.cscdns.net.
+atou.mg.		7200	IN	NS	ns1.da.cloudns.io.
+atou.mg.		7200	IN	NS	ns2.da.cloudns.io.
 atoutnytsena.mg.	7200	IN	NS	cpanel13.lws-hosting.com.
 atoutnytsena.mg.	7200	IN	NS	cpanel14.lws-hosting.com.
 atria.mg.		7200	IN	NS	ns1.servermada.com.
@@ -2406,8 +2406,6 @@ cmahospital.mg.		7200	IN	NS	ns1.dts.mg.
 cmc.mg.			7200	IN	NS	ns1.mg.tambazotra.net.
 cmc.mg.			7200	IN	NS	ns2.mg.tambazotra.net.
 cmc.mg.			7200	IN	NS	ns1.fr.malagasy.com.
-cmce.mg.		7200	IN	NS	ns29.dot.mg.
-cmce.mg.		7200	IN	NS	ns29.illi.co.mg.
 cmcs.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 cmcs.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 cmcs.mg.		7200	IN	NS	ns1.fr.malagasy.com.
@@ -3878,8 +3876,6 @@ fjkm-betelatanambaov.mg. 86400	IN	NS	ns29.fjkm.mg.
 fjkm-betelatanambaov.mg. 86400	IN	NS	ns30.fjkm.mg.
 fjkm-ilanivato.mg.	86400	IN	NS	dns1.supremepanel.com.
 fjkm-ilanivato.mg.	86400	IN	NS	dns2.supremepanel.com.
-fjkm-itaosy.mg.		86400	IN	NS	dns1.indritech.biz.
-fjkm-itaosy.mg.		86400	IN	NS	dns2.indritech.biz.
 fjkm-tranovatorasalamaambohipotsy.mg. 86400 IN NS ns29.fjkm.mg.
 fjkm-tranovatorasalamaambohipotsy.mg. 86400 IN NS ns30.fjkm.mg.
 fjkmanosyavaratravaovao.mg. 86400 IN	NS	ns1.gasyweb.com.
@@ -6326,8 +6322,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10583,8 +10579,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
