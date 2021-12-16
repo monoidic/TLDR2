@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2021121401 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2021121601 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -2365,11 +2365,11 @@ palop-admin.com.cv.	28800	IN	NS	ns2.weblx-0.net.
 pay.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 pay.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 pay.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
-paytm.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
-paytm.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 paytm.com.cv.		28800	IN	A	162.212.133.2
 paytm.com.cv.		28800	IN	A	192.190.94.1
 paytm.com.cv.		28800	IN	A	216.119.143.2
+paytm.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
+paytm.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 pens.com.cv.		28800	IN	NS	ns1.a2hosting.com.
 pens.com.cv.		28800	IN	NS	ns2.a2hosting.com.
 pens.com.cv.		28800	IN	NS	ns3.a2hosting.com.
@@ -2934,8 +2934,10 @@ darq.cv.		28800	IN	NS	ns294.websitewelcome.com.
 dasani.cv.		28800	IN	NS	ns2.ko.com.
 dasani.cv.		28800	IN	NS	ns3.ko.com.
 dasani.cv.		28800	IN	NS	ns4.ko.com.
-dasinal.cv.		28800	IN	NS	ns47.domaincontrol.com.
-dasinal.cv.		28800	IN	NS	ns48.domaincontrol.com.
+dasinal.cv.		28800	IN	NS	ns-cloud-c1.googledomains.com.
+dasinal.cv.		28800	IN	NS	ns-cloud-c2.googledomains.com.
+dasinal.cv.		28800	IN	NS	ns-cloud-c3.googledomains.com.
+dasinal.cv.		28800	IN	NS	ns-cloud-c4.googledomains.com.
 data.cv.		28800	IN	NS	ns01.trademarkarea.com.
 data.cv.		28800	IN	NS	ns02.trademarkarea.com.
 data.cv.		28800	IN	NS	ns03.trademarkarea.com.
@@ -3001,12 +3003,12 @@ designsuites.cv.	28800	IN	NS	ns01.spotnet.cv.
 designsuites.cv.	28800	IN	NS	ns02.spotnet.cv.
 despachanteoficial.cv.	28800	IN	NS	ns5.dnshati.com.
 despachanteoficial.cv.	28800	IN	NS	ns6.dnshati.com.
-dev.cv.			28800	IN	NS	ns1.dan.com.
-dev.cv.			28800	IN	NS	ns2.dan.com.
-dev.cv.			28800	IN	NS	verification-eyq3i5ls.ns3.dan.hosting.
 dev.cv.			28800	IN	A	3.120.163.96
 dev.cv.			28800	IN	A	3.126.142.17
 dev.cv.			28800	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
+dev.cv.			28800	IN	NS	ns1.dan.com.
+dev.cv.			28800	IN	NS	ns2.dan.com.
+dev.cv.			28800	IN	NS	verification-eyq3i5ls.ns3.dan.hosting.
 developer.cv.		28800	IN	A	3.120.163.96
 developer.cv.		28800	IN	A	3.126.142.17
 developer.cv.		28800	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
@@ -3031,9 +3033,8 @@ dgape.cv.		28800	IN	NS	ns1.gov.cv.
 dgape.cv.		28800	IN	NS	ns2.gov.cv.
 dgasp.cv.		28800	IN	NS	ns1.gov.cv.
 dgasp.cv.		28800	IN	NS	ns2.gov.cv.
-dgefpep.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
-dgefpep.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
-dgefpep.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
+dgasp.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
+dgasp.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
 dgmp.cv.		28800	IN	NS	ns1.gov.cv.
 dgmp.cv.		28800	IN	NS	ns2.gov.cv.
 dgmtrading.cv.		28800	IN	NS	ns1.gnldm1009.siteground.biz.
@@ -5284,8 +5285,8 @@ micotecnica.cv.		28800	IN	NS	ns7.mydnspt.net.
 micotecnica.cv.		28800	IN	NS	ns8.mydnspt.net.
 micromat.cv.		28800	IN	NS	ns1.alojamentos2.com.
 micromat.cv.		28800	IN	NS	ns2.alojamentos2.com.
-microtecnica.cv.	28800	IN	NS	ns1.webs24h.com.
-microtecnica.cv.	28800	IN	NS	ns2.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns1.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns2.webs24h.com.
 midi.cv.		28800	IN	NS	ns1.hyp.net.
 midi.cv.		28800	IN	NS	ns2.hyp.net.
 midi.cv.		28800	IN	NS	ns3.hyp.net.
@@ -7872,9 +7873,9 @@ uno.cv.			28800	IN	NS	ns2.surf-town.net.
 uno.cv.			28800	IN	NS	ns3.surf-town.net.
 unotur.cv.		28800	IN	NS	ns1.gov.cv.
 unotur.cv.		28800	IN	NS	ns2.gov.cv.
+untc.cv.		28800	IN	A	41.221.194.233
 untc.cv.		28800	IN	NS	ns1.okservidores.com.br.
 untc.cv.		28800	IN	NS	ns2.okservidores.com.br.
-untc.cv.		28800	IN	A	41.221.194.233
 untc-cs.cv.		28800	IN	NS	ns1.gov.cv.
 untc-cs.cv.		28800	IN	NS	ns2.gov.cv.
 upapit.cv.		28800	IN	NS	ns1.linxisp.net.
@@ -7883,6 +7884,8 @@ upapit.cv.		28800	IN	NS	ns3.linxisp.net.
 upapit.cv.		28800	IN	NS	ns4.linxisp.net.
 upgrade.cv.		28800	IN	NS	ns7.securenet-server.net.
 upgrade.cv.		28800	IN	NS	ns8.securenet-server.net.
+upranimal.cv.		28800	IN	NS	ns1.bluehost.com.
+upranimal.cv.		28800	IN	NS	ns2.bluehost.com.
 upside.cv.		28800	IN	NS	ns01.trademarkarea.com.
 upside.cv.		28800	IN	NS	ns02.trademarkarea.com.
 upside.cv.		28800	IN	NS	ns03.trademarkarea.com.
