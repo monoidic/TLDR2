@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416629 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220215162002 20211217152002 9009 sn. L4/J5gI3XfToUAl3YjM1pDYwinpZs0LdoRtQQkXIUDGgsbeCq6SITABK e0Xhw+Bco/NnlMYU151gxWWTVqYvjQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416641 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220215182002 20211217172002 9009 sn. /suCO6ddQIHv9annfLQTWdyBdJ6OLbqq9GA/0R+GM6JlbBkuy04xn8Rz /s9geO3Qt7Rc8BGZ8QhA+kAF/8Jjuw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [17/12/2021 17H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220125210839 20211217152002 9009 sn. a/zI0jz1iRjuxVSKDQu1hMYwnoZiwF+cQLLeXG/DPMjF+N4z2hPdwFVn 6WPpujMIjs80DrKdJvoWjrVAvRm3JQ==
+sn.			172800	IN	TXT	"No RRs processed [17/12/2021 19H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220101052947 20211217172002 9009 sn. dijNA7AAgjuwP4c18fL3f989PcfkgptsRpyuADDUDHeNMP0/JZSFw19T bwg7aXiEKTRfBYBTTY8PS/GWCBM7eA==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -13493,10 +13493,6 @@ ns1.ndoffane-commune.sn. 43200	IN	A	35.238.127.107
 ns2.ndoffane-commune.sn. 43200	IN	A	35.238.127.107
 ndougi.sn.		43200	IN	NS	ns5.jokko-hosting.com.
 ndougi.sn.		43200	IN	NS	ns6.jokko-hosting.com.
-ndoumbelane.sn.		43200	IN	NS	ns1.kheweul.net.
-ndoumbelane.sn.		43200	IN	NS	ns2.kheweul.net.
-ndoumbelane.sn.		43200	IN	NS	ns3.kheweul.net.
-ndoumbelane.sn.		43200	IN	NS	ns4.kheweul.net.
 ndugu.sn.		43200	IN	NS	cp3.dnshostservices.com.
 ndugu.sn.		43200	IN	NS	cp4.dnshostservices.com.
 ndugubi.sn.		43200	IN	NS	eisdns1.expertis.sn.
@@ -16202,10 +16198,8 @@ samabourse.sn.		43200	IN	RRSIG	DS 13 2 43200 20220209121909 20211211115053 9009 
 samabusiness.sn.	172800	IN	NS	ns1.wanekoohost.com.
 samabusiness.sn.	172800	IN	NS	ns2.wanekoohost.com.
 samabusiness.sn.	172800	IN	NS	ns4.wanekoohost.com.
-samachance.sn.		172800	IN	NS	ns1.kheweul.net.
-samachance.sn.		172800	IN	NS	ns2.kheweul.net.
-samachance.sn.		172800	IN	NS	ns3.kheweul.net.
-samachance.sn.		172800	IN	NS	ns4.kheweul.net.
+samachance.sn.		172800	IN	NS	ns41.infomaniak.com.
+samachance.sn.		172800	IN	NS	ns42.infomaniak.com.
 samachauffeur.sn.	43200	IN	NS	ns10.ovh.net.
 samachauffeur.sn.	43200	IN	NS	dns10.ovh.net.
 samachauffeur.sn.	43200	IN	DS	15421 8 2 BE5925C37405042EB156B4ED0CB6987513099F1B693837CB1F04CDD3 32E7572C
@@ -17509,6 +17503,8 @@ siac.sn.		43200	IN	DS	49987 8 2 3652B8395A0260DB976B9F562306FE7FC6C4489EB2C266AC
 siac.sn.		43200	IN	RRSIG	DS 13 2 43200 20220213073044 20211215065402 9009 sn. vOY8/hZVk8i+6iCmL6NVAVNdVnhFlxXGgogjNcZLVJ4bzW9ZYEr3YWAg CcyEppcDniNRKvecbwqngpa0RrBygQ==
 siad.sn.		43200	IN	NS	ns.arc.sn.
 siad.sn.		43200	IN	NS	ns3.arc.sn.
+siaed.sn.		172800	IN	NS	ns103.ovh.net.
+siaed.sn.		172800	IN	NS	dns103.ovh.net.
 siagro.sn.		172800	IN	NS	ns1.kheweul.net.
 siagro.sn.		172800	IN	NS	ns2.kheweul.net.
 siagro.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -18656,6 +18652,8 @@ sunusenegal.sn.		43200	IN	NS	ns13.ovh.net.
 sunusenegal.sn.		43200	IN	NS	dns13.ovh.net.
 sunusenegal.sn.		43200	IN	DS	14761 8 2 5FFBDE70B7DD51F06551B9F9433F12B2A58E523C425FE14D7B44FA43 9995A47B
 sunusenegal.sn.		43200	IN	RRSIG	DS 13 2 43200 20220201051348 20211203044236 9009 sn. 1O8pQShodNd56/ZmFXySVSBIOUV2rXFrGNInOjpq80C65hD8GKx0AYWQ /VHWf6jV84ckIrrUrSEZJVRGn5fgaw==
+sunusondage.sn.		172800	IN	NS	ns103.ovh.net.
+sunusondage.sn.		172800	IN	NS	dns103.ovh.net.
 sunutaax.sn.		43200	IN	NS	ns1.sh004.webhostbox.net.
 sunutaax.sn.		43200	IN	NS	ns2.sh004.webhostbox.net.
 sunutalents.sn.		43200	IN	NS	ns13.ovh.net.
