@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416588 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220215101003 20211217091003 9009 sn. 8Cp7la6viTJYYP2tf9cjdIeIvjaaMyyLuOBLqzBieBgOhRXDZ2OTlNkp 3wv+h8TG6L6jy+4q8dKHxMq/1ummUA==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416601 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220215122002 20211217112002 9009 sn. Rscmuy79BGwStGmWg6qQnwX/yG1ydF/UJgDFopmT3TyCSPSl8jjW6M/8 mC6GMu9A2/pK4HIQUW6awS3Lib6Q/g==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"3 RRs processed [17/12/2021 11H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220108041425 20211217091003 9009 sn. YDvhOqm3HZlKFujRaUm0wIcdfM4y+qZhpOmxicRKbP8rC/D6SZIzXjGu 2JT9FmsjmBjz2lGx9+Ay6gc+fHdIeQ==
+sn.			172800	IN	TXT	"No RRs processed [17/12/2021 13H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220209181514 20211217112002 9009 sn. zMgF6DkT//MPcYff3y9YY72UY9eb19O3KuBDuYE2YwvTZCpJKsbnWtWq eaeZ2TW/jzAgd09bWGOwb7R/ccoH4g==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -8301,10 +8301,9 @@ getzner.sn.		43200	IN	NS	cns03.derprovider.at.
 getzner.sn.		43200	IN	NS	cns04.derprovider.at.
 gewiss.sn.		43200	IN	NS	ns1.register.it.
 gewiss.sn.		43200	IN	NS	ns2.register.it.
-gfc.sn.			43200	IN	NS	ns1.ascio.com.
-gfc.sn.			43200	IN	NS	ns2.ascio.com.
-gfc.sn.			43200	IN	NS	ns3.ascio.com.
-gfc.sn.			43200	IN	NS	ns4.ascio.com.
+gfc.sn.			172800	IN	NS	nsa.planethoster.net.
+gfc.sn.			172800	IN	NS	nsb.planethoster.net.
+gfc.sn.			172800	IN	NS	nsc.planethoster.net.
 gfi.sn.			43200	IN	NS	dns1.cscdns.net.
 gfi.sn.			43200	IN	NS	dns2.cscdns.net.
 gfm.sn.			43200	IN	NS	chan.ns.cloudflare.com.
@@ -16216,6 +16215,10 @@ samabourse.sn.		43200	IN	RRSIG	DS 13 2 43200 20220209121909 20211211115053 9009 
 samabusiness.sn.	172800	IN	NS	ns1.wanekoohost.com.
 samabusiness.sn.	172800	IN	NS	ns2.wanekoohost.com.
 samabusiness.sn.	172800	IN	NS	ns4.wanekoohost.com.
+samachance.sn.		172800	IN	NS	ns1.kheweul.net.
+samachance.sn.		172800	IN	NS	ns2.kheweul.net.
+samachance.sn.		172800	IN	NS	ns3.kheweul.net.
+samachance.sn.		172800	IN	NS	ns4.kheweul.net.
 samachauffeur.sn.	43200	IN	NS	ns10.ovh.net.
 samachauffeur.sn.	43200	IN	NS	dns10.ovh.net.
 samachauffeur.sn.	43200	IN	DS	15421 8 2 BE5925C37405042EB156B4ED0CB6987513099F1B693837CB1F04CDD3 32E7572C
