@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121725 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021121729 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1639742482"
+mg.			7200	IN	TXT	"Generation Time: 1639749685"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1479,6 +1479,8 @@ batpro.mg.		7200	IN	NS	ns1.servermada.com.
 batpro.mg.		7200	IN	NS	ns2.servermada.com.
 bau.mg.			7200	IN	NS	ns1.cyon.ch.
 bau.mg.			7200	IN	NS	ns2.cyon.ch.
+bayaaxian.mg.		7200	IN	NS	ns.dts.mg.
+bayaaxian.mg.		7200	IN	NS	ns1.dts.mg.
 bayercropscience.mg.	7200	IN	NS	pdns1.cscdns.net.
 bayercropscience.mg.	7200	IN	NS	pdns2.cscdns.net.
 baywa.mg.		7200	IN	NS	ns1.ri-solution.com.
@@ -6317,8 +6319,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -6670,9 +6672,9 @@ mbike.mg.		86400	IN	NS	dns1.dedie-ipt.com.
 mbike.mg.		86400	IN	NS	dns2.dedie-ipt.com.
 mbikelivraisonexpress.mg. 86400	IN	NS	dns16.ovh.net.
 mbikelivraisonexpress.mg. 86400	IN	NS	ns16.ovh.net.
+mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbola.mg.		86400	IN	NS	ns1.freesite.vip.
 mbola.mg.		86400	IN	NS	ns2.freesite.vip.
-mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.dot.mg.
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.illi.co.mg.
 mca.mg.			86400	IN	NS	sdns2.ovh.net.
@@ -6781,6 +6783,8 @@ memento.mg.		86400	IN	NS	c.dns.gandi.net.
 memento.mg.		86400	IN	NS	a.dns.gandi.net.
 memoconseil.mg.		86400	IN	NS	ns1.da.cloudns.io.
 memoconseil.mg.		86400	IN	NS	ns2.da.cloudns.io.
+menscom.mg.		86400	IN	NS	ns1.da.cloudns.io.
+menscom.mg.		86400	IN	NS	ns2.da.cloudns.io.
 mentallyfit.mg.		86400	IN	NS	ns01.trademarkarea.com.
 mentallyfit.mg.		86400	IN	NS	ns02.trademarkarea.com.
 mercatis.mg.		86400	IN	NS	greg.ns.cloudflare.com.
@@ -7115,6 +7119,8 @@ morabe.mg.		86400	IN	NS	dns102.ovh.net.
 morabe.mg.		86400	IN	NS	ns102.ovh.net.
 morahita.mg.		86400	IN	NS	dns13.ovh.net.
 morahita.mg.		86400	IN	NS	ns13.ovh.net.
+moramora.mg.		86400	IN	NS	ns1.da.cloudns.io.
+moramora.mg.		86400	IN	NS	ns2.da.cloudns.io.
 morecast.mg.		86400	IN	NS	ns1.markmonitor.com.
 morecast.mg.		86400	IN	NS	ns2.markmonitor.com.
 morecast.mg.		86400	IN	NS	ns3.markmonitor.com.
