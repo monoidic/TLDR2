@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416613 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220215140507 20211217130507 9009 sn. NKKRtUacgJrtxVhTywO6S9SXIw1RX97QtHCTMOzNvMX4u7HBuWGqWOZn GKELekOUPPWmrogehwoIG95FNhHiTw==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222416629 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220215162002 20211217152002 9009 sn. L4/J5gI3XfToUAl3YjM1pDYwinpZs0LdoRtQQkXIUDGgsbeCq6SITABK e0Xhw+Bco/NnlMYU151gxWWTVqYvjQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
-sn.			172800	IN	TXT	"No RRs processed [17/12/2021 15H00:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220211202453 20211217130003 9009 sn. AONdfa5YQF9EmQKbamXmK+UqslLgqELRXBfbNorFTBkKvKOYEfn7N+au qwgj/9BzhtiybhEhX2mZkstm96j2KQ==
+sn.			172800	IN	TXT	"No RRs processed [17/12/2021 17H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220125210839 20211217152002 9009 sn. a/zI0jz1iRjuxVSKDQu1hMYwnoZiwF+cQLLeXG/DPMjF+N4z2hPdwFVn 6WPpujMIjs80DrKdJvoWjrVAvRm3JQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
@@ -5853,6 +5853,8 @@ djolof.sn.		43200	IN	NS	ns10.ovh.net.
 djolof.sn.		43200	IN	NS	dns10.ovh.net.
 djolof.sn.		172800	IN	DS	40537 8 2 A1149D5D1B7F7D648BB3CBD29ABAED7CF70FC599F66850369F5A3E8F CCB55019
 djolof.sn.		172800	IN	RRSIG	DS 13 2 172800 20220208101325 20211210093019 9009 sn. F+EbaCS/NoT0Pb1l4Yi/lUeS662cwxD8S/LPV7x9Lg3NunjEB7JKERH7 qQ8nrJ2RPbyUqlmoWR/Nq3HwcuImYQ==
+djolof-agricole.sn.	172800	IN	NS	nsmpro1.nordnet.com.
+djolof-agricole.sn.	172800	IN	NS	nsmpro2.nordnet.com.
 djoloffrelax.sn.	43200	IN	NS	ns1.contabo.net.
 djoloffrelax.sn.	43200	IN	NS	ns2.contabo.net.
 djoloffrelax.sn.	43200	IN	NS	ns3.contabo.net.
@@ -11474,7 +11476,7 @@ ldmpt.sn.		43200	IN	NS	ns2.sonatel.sn.
 leadanddigit.sn.	172800	IN	NS	ns106.ovh.net.
 leadanddigit.sn.	172800	IN	NS	dns106.ovh.net.
 leadanddigit.sn.	172800	IN	DS	42964 8 2 13C8433975ADAB1B391D3298DB32D287AD95CE4D214ADB9D57E00312 D65AD777
-leadanddigit.sn.	172800	IN	RRSIG	DS 13 2 172800 20211231150535 20211101140853 9009 sn. 8kzTbZ1ure8h/zHGSfo3Tlq6rKQaGlAmy+mIjQXD5Pm4iNnt/X222grv XmRL2rQENDHjErN3RWuLpx/vWTfx3w==
+leadanddigit.sn.	172800	IN	RRSIG	DS 13 2 172800 20220215143139 20211217140535 9009 sn. Wiwi9dJ79H9gomVHYk+ygync7RKVyq0NbVxV+pLklueq/982u1biZAcE 64ph5zDBfpYQW4N6gRTI9Xk1j55guA==
 leader.sn.		43200	IN	NS	cp5.dnshostservices.com.
 leader.sn.		43200	IN	NS	cp6.dnshostservices.com.
 leadershipacademy.sn.	43200	IN	NS	ns102.ovh.net.
@@ -14741,7 +14743,7 @@ pdi-sa.sn.		43200	IN	NS	ns2.caurys.net.
 pdr.sn.			43200	IN	NS	ns18.ovh.net.
 pdr.sn.			43200	IN	NS	dns18.ovh.net.
 pdr.sn.			43200	IN	DS	59086 8 2 E807757F784C6530F057C057004466B121ADEDE7ABBED114AA6C2433 3303D6C4
-pdr.sn.			43200	IN	RRSIG	DS 13 2 43200 20211231150007 20211101145713 9009 sn. Z+pjhDGzOpgWH4/TYhGJxROy/PXewf8e4nfjTmFctN5toP5SaE5OfdGo f+6SkWGs1ufWt1zM3XtL7teioV5tNA==
+pdr.sn.			43200	IN	RRSIG	DS 13 2 43200 20220117083546 20211217140507 9009 sn. P8C6/+1SHxvGs4cowLrGRGMnbJ+0JtUwIn2WpR2Z2CnETk78c7+dqKU2 cYPAgcS7WJrIGR6+QDDtHBAyrDefOg==
 pds.sn.			43200	IN	NS	ns1.kheweul.net.
 pds.sn.			43200	IN	NS	ns2.kheweul.net.
 pds.sn.			43200	IN	NS	ns3.kheweul.net.
@@ -21078,6 +21080,8 @@ youssoundour.sn.	172800	IN	NS	ns11.ovh.net.
 youssoundour.sn.	172800	IN	NS	dns11.ovh.net.
 youssoundour.sn.	172800	IN	DS	37705 8 2 9C5801A11FFCF41F239DF894CBFE4472A6AD81C75D6645341D467CD5 BC0DC61E
 youssoundour.sn.	172800	IN	RRSIG	DS 13 2 172800 20220129225608 20211130222158 9009 sn. g0+Bo7xd+Bm1g34bU+k/NZJbsPzFcX47PORdE5UGikfOj/c77KKgs7cC 6j2ZlZE8xTgUGLzkd461TwhwNHHtUQ==
+youssouphben.sn.	172800	IN	NS	ns1.servconfig.com.
+youssouphben.sn.	172800	IN	NS	ns2.servconfig.com.
 youthconnekt.sn.	172800	IN	NS	ns3020.mochahost.com.
 youthconnekt.sn.	172800	IN	NS	ns4020.mochahost.com.
 youtube.sn.		43200	IN	NS	ns1.google.com.
