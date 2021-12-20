@@ -1,4 +1,4 @@
-xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2112201027 86400 3600 2592000 345600
+xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2112201211 86400 3600 2592000 345600
 xn--j1amh.		3600	IN	NS	dns1.u-registry.com.
 xn--j1amh.		3600	IN	NS	dns2.u-registry.net.
 xn--j1amh.		3600	IN	NS	dns3.dotukr.com.
@@ -152,6 +152,9 @@ xn--j1amh.		3600	IN	NS	nsi.uanic.net.
 4.xn--j1amh.		3600	IN	NS	ns3.ukrnames.com.
 4.xn--j1amh.		3600	IN	NS	ns2.ukrnames.com.
 4.xn--j1amh.		3600	IN	NS	ns1.ukrnames.com.
+48240.xn--j1amh.	3600	IN	NS	ns32.inhostedns.org.
+48240.xn--j1amh.	3600	IN	NS	ns22.inhostedns.net.
+48240.xn--j1amh.	3600	IN	NS	ns12.inhostedns.com.
 5.xn--j1amh.		3600	IN	NS	890.ns2.domainparking.ru.
 5.xn--j1amh.		3600	IN	NS	890.ns1.domainparking.ru.
 500.xn--j1amh.		3600	IN	NS	nsb4.srv53.net.
@@ -12035,8 +12038,6 @@ xn--80ae2afcdj.xn--j1amh. 3600	IN	NS	nsa1.srv53.com.
 xn--80ae2afcdj.xn--j1amh. 3600	IN	NS	nsa2.srv53.org.
 xn--80ae2afcdj.xn--j1amh. 3600	IN	NS	nsc2.srv53.net.
 xn--80ae2afcdj.xn--j1amh. 3600	IN	NS	nsc2.srv53.com.
-xn--80ae4ahaft8b4i.xn--j1amh. 3600 IN	NS	expired1.privacy.com.ua.
-xn--80ae4ahaft8b4i.xn--j1amh. 3600 IN	NS	expired2.privacy.com.ua.
 xn--80ae4ahbayd.xn--j1amh. 3600	IN	NS	ns10.uadns.com.
 xn--80ae4ahbayd.xn--j1amh. 3600	IN	NS	ns11.uadns.com.
 xn--80ae4ahbayd.xn--j1amh. 3600	IN	NS	ns12.uadns.com.
@@ -14822,8 +14823,8 @@ xn--80ajarcje4aidhe.xn--j1amh. 3600 IN	NS	nsd1.srv53.net.
 xn--80ajarcje4aidhe.xn--j1amh. 3600 IN	NS	nsa1.srv53.net.
 xn--80ajarmhiahos3d.xn--j1amh. 3600 IN	NS	ns02.zonereg.ru.
 xn--80ajarmhiahos3d.xn--j1amh. 3600 IN	NS	ns01.zonereg.ru.
-xn--80ajatlkp4a.xn--j1amh. 3600	IN	NS	ns2.h61.hvosting.ua.
-xn--80ajatlkp4a.xn--j1amh. 3600	IN	NS	ns1.h61.hvosting.ua.
+xn--80ajatlkp4a.xn--j1amh. 3600	IN	NS	ns2.h06.hvosting.ua.
+xn--80ajatlkp4a.xn--j1amh. 3600	IN	NS	ns1.h06.hvosting.ua.
 xn--80ajatwdeecsg.xn--j1amh. 3600 IN	NS	d7.dns82.org.
 xn--80ajatwdeecsg.xn--j1amh. 3600 IN	NS	g2.dns82.info.
 xn--80ajatwdeecsg.xn--j1amh. 3600 IN	NS	b8.dns82.link.
@@ -27382,6 +27383,14 @@ xn--h1adbcon6c3c.xn--j1amh. 3600 IN	NS	ns14.inhostedns.com.
 xn--h1adbcr6c.xn--j1amh. 3600	IN	NS	ns2.ukrnames.com.
 xn--h1adbcr6c.xn--j1amh. 3600	IN	NS	ns3.ukrnames.com.
 xn--h1adbcr6c.xn--j1amh. 3600	IN	NS	ns1.ukrnames.com.
+xn--h1adbo4c.xn--j1amh.	3600	IN	NS	d7.dns82.org.
+xn--h1adbo4c.xn--j1amh.	3600	IN	NS	g4.dns82.link.
+xn--h1adbo4c.xn--j1amh.	3600	IN	NS	b2.dns82.info.
+xn--h1adbo4c.xn--j1amh.	3600	IN	NS	a5.dns82.net.
+b2.dns82.info.xn--h1adbo4c.xn--j1amh. 3600 IN A	194.0.200.215
+g4.dns82.link.xn--h1adbo4c.xn--j1amh. 3600 IN A	213.239.209.154
+a5.dns82.net.xn--h1adbo4c.xn--j1amh. 3600 IN A	77.222.131.188
+d7.dns82.org.xn--h1adbo4c.xn--j1amh. 3600 IN A	163.172.206.219
 xn--h1adbshod.xn--j1amh. 3600	IN	NS	ns1.ukit.com.
 xn--h1adbshod.xn--j1amh. 3600	IN	NS	ns2.ukit.com.
 xn--h1adc0f.xn--j1amh.	3600	IN	NS	ns2.ucoz.net.
