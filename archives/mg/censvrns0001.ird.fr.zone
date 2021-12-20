@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122027 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122031 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1640008838"
+mg.			7200	IN	TXT	"Generation Time: 1640016033"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2694,6 +2694,8 @@ ctas.mg.		7200	IN	NS	ns1.cloudns.io.
 ctas.mg.		7200	IN	NS	ns2.cloudns.io.
 ctb.mg.			7200	IN	NS	ns.tgn.mg.
 ctb.mg.			7200	IN	NS	ns1.tgn.mg.
+ctb-labo.mg.		7200	IN	NS	ns1.da.cloudns.io.
+ctb-labo.mg.		7200	IN	NS	ns2.da.cloudns.io.
 ctmotors.mg.		7200	IN	NS	ns.dts.mg.
 ctmotors.mg.		7200	IN	NS	ns1.dts.mg.
 ctrlweb.mg.		7200	IN	NS	dolly.ns.cloudflare.com.
@@ -6670,9 +6672,9 @@ mbike.mg.		86400	IN	NS	dns1.dedie-ipt.com.
 mbike.mg.		86400	IN	NS	dns2.dedie-ipt.com.
 mbikelivraisonexpress.mg. 86400	IN	NS	dns16.ovh.net.
 mbikelivraisonexpress.mg. 86400	IN	NS	ns16.ovh.net.
+mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbola.mg.		86400	IN	NS	ns1.freesite.vip.
 mbola.mg.		86400	IN	NS	ns2.freesite.vip.
-mbola.mg.		86400	IN	DS	57764 13 2 705546A939F622CBEF05A2D986E33F8353A640E9C37D9588EADE366E 140BD661
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.dot.mg.
 mbolatiana-strategie.mg. 86400	IN	NS	ns29.illi.co.mg.
 mca.mg.			86400	IN	NS	sdns2.ovh.net.
