@@ -1,4 +1,4 @@
-tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2021122006 7200 3600 2678400 7200
+tj.			7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2021122104 7200 3600 2678400 7200
 tj.			7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.			7200	IN	NS	ns1.nic.tj.
 tj.			7200	IN	NS	ns2.tojikiston.com.
@@ -353,10 +353,8 @@ adlshop.tj.		7200	IN	NS	ns3.timeweb.org.
 adlshop.tj.		7200	IN	NS	ns4.timeweb.org.
 admedia.tj.		7200	IN	NS	ns1.ht-systems.ru.
 admedia.tj.		7200	IN	NS	ns2.ht-systems.ru.
-admin.tj.		7200	IN	NS	ns1.beget.ru.
-admin.tj.		7200	IN	NS	ns1.beget.com.
-admin.tj.		7200	IN	NS	ns2.beget.ru.
-admin.tj.		7200	IN	NS	ns2.beget.com.
+admin.tj.		7200	IN	NS	ns.tojikiston.com.
+admin.tj.		7200	IN	NS	ns1.tojikiston.com.
 adobe.tj.		7200	IN	NS	adobe-dns-01.adobe.com.
 adobe.tj.		7200	IN	NS	adobe-dns-03.adobe.com.
 adrenalin.tj.		7200	IN	NS	ns1.gettj.net.
@@ -4831,6 +4829,8 @@ economist.tj.		7200	IN	NS	ns.tojikiston.com.
 economist.tj.		7200	IN	NS	ns1.tojikiston.com.
 economy.tj.		7200	IN	NS	ns.server.tj.
 economy.tj.		7200	IN	NS	ns3.server.tj.
+ecooking.tj.		7200	IN	NS	ns1.eurodns.com.
+ecooking.tj.		7200	IN	NS	ns2.eurodns.com.
 ecosugd.tj.		7200	IN	NS	pins1.eastera.tj.
 ecosugd.tj.		7200	IN	NS	pins2.eastera.tj.
 ecoupon.tj.		7200	IN	NS	ns.tojikiston.com.
@@ -5333,7 +5333,8 @@ fason.tj.		7200	IN	NS	ns3.timeweb.org.
 fason.tj.		7200	IN	NS	ns4.timeweb.org.
 fast.tj.		7200	IN	NS	ns.tjpro.net.
 fast.tj.		7200	IN	NS	ns2.tjpro.net.
-favran.tj.		7200	IN	NS	94.199.18.144.
+favran.tj.		7200	IN	NS	ns1.gettj.net.
+favran.tj.		7200	IN	NS	ns2.gettj.net.
 favranlogistics.tj.	7200	IN	NS	ns9.ismtj.co.
 favranlogistics.tj.	7200	IN	NS	ns10.ismtj.co.
 favri.tj.		7200	IN	NS	ns1.shedevr.name.
@@ -6230,10 +6231,8 @@ hamers.tj.		7200	IN	NS	ns1.hamers.tj.
 hamers.tj.		7200	IN	NS	ns2.hamers.tj.
 ns1.hamers.tj.		7200	IN	A	185.55.224.120
 ns2.hamers.tj.		7200	IN	A	185.55.224.120
-hamidoil.tj.		7200	IN	NS	ns1.adminvps.ru.
-hamidoil.tj.		7200	IN	NS	ns2.adminvps.net.
-hamidoil.tj.		7200	IN	NS	ns3.adminvps.ru.
-hamidoil.tj.		7200	IN	NS	ns4.adminvps.net.
+hamidoil.tj.		7200	IN	NS	ns9.ismtj.co.
+hamidoil.tj.		7200	IN	NS	ns10.ismtj.co.
 hamidov.tj.		7200	IN	NS	ns9.ismtj.co.
 hamidov.tj.		7200	IN	NS	ns10.ismtj.co.
 hamkor.tj.		7200	IN	NS	ns1.beget.ru.
@@ -7810,6 +7809,8 @@ khujand-airport.tj.	7200	IN	NS	ns1.rspd.tj.
 khujand-airport.tj.	7200	IN	NS	ns2.rspd.tj.
 khujand-deluxe.tj.	7200	IN	NS	ns1.timeweb.ru.
 khujand-deluxe.tj.	7200	IN	NS	ns2.timeweb.ru.
+khujandmall.tj.		7200	IN	NS	ns1.reg.ru.
+khujandmall.tj.		7200	IN	NS	ns2.reg.ru.
 khujandtextile.tj.	7200	IN	NS	ns.sugdien.com.
 khujandtextile.tj.	7200	IN	NS	ns2.tajnet.tj.
 khurok.tj.		7200	IN	NS	ns9.ismtj.co.
@@ -12624,10 +12625,8 @@ shire.tj.		7200	IN	NS	ns-396.awsdns-49.com.
 shire.tj.		7200	IN	NS	ns-1583.awsdns-05.co.uk.
 shiridushanbe.tj.	7200	IN	NS	ns1.hosting.reg.ru.
 shiridushanbe.tj.	7200	IN	NS	ns2.hosting.reg.ru.
-shirin.tj.		7200	IN	NS	ns1.beget.com.
-shirin.tj.		7200	IN	NS	ns2.beget.com.
-shirin.tj.		7200	IN	NS	ns3.beget.pro.
-shirin.tj.		7200	IN	NS	ns4.beget.pro.
+shirin.tj.		7200	IN	NS	ns9.ismtj.co.
+shirin.tj.		7200	IN	NS	ns10.ismtj.co.
 shirivatan.tj.		7200	IN	NS	pins1.eastera.tj.
 shirivatan.tj.		7200	IN	NS	pins2.eastera.tj.
 shivaki.tj.		7200	IN	NS	ns1.timeweb.ru.
@@ -12755,8 +12754,8 @@ simo.tj.		7200	IN	NS	ns1.timeweb.ru.
 simo.tj.		7200	IN	NS	ns3.timeweb.org.
 simon.tj.		7200	IN	NS	jean.ns.cloudflare.com.
 simon.tj.		7200	IN	NS	isaac.ns.cloudflare.com.
-simoprint.tj.		7200	IN	NS	ns1.beget.com.
-simoprint.tj.		7200	IN	NS	ns2.beget.com.
+simoprint.tj.		7200	IN	NS	ns1.gettj.net.
+simoprint.tj.		7200	IN	NS	ns2.gettj.net.
 simple.tj.		7200	IN	NS	ns1.hosting.reg.ru.
 simple.tj.		7200	IN	NS	ns2.hosting.reg.ru.
 simsim.tj.		7200	IN	NS	ns1.hosting.reg.ru.
@@ -15651,8 +15650,8 @@ zakariyorozi.tj.	7200	IN	NS	ns1.abstragan.com.
 zakariyorozi.tj.	7200	IN	NS	ns2.abstragan.com.
 zakaz.tj.		7200	IN	NS	ns1.bigcommerce.com.
 zakaz.tj.		7200	IN	NS	ns2.bigcommerce.com.
-zakot.tj.		7200	IN	NS	tani.ns.cloudflare.com.
-zakot.tj.		7200	IN	NS	frank.ns.cloudflare.com.
+zakot.tj.		7200	IN	NS	arch.ns.cloudflare.com.
+zakot.tj.		7200	IN	NS	elinore.ns.cloudflare.com.
 zakup.tj.		7200	IN	NS	ns1.hostiman.ru.
 zakup.tj.		7200	IN	NS	ns2.hostiman.ru.
 zakupka.tj.		7200	IN	NS	ns.tojikiston.com.
