@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122101 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021122105 600 3600 604800 86400
+mg.			7200	IN	TXT	"Generation Time: 1640052082"
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1640044885"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1742,6 +1742,9 @@ bituniversity.mg.	7200	IN	NS	ns2.atlonia.com.
 blablacar.mg.		7200	IN	NS	ns2.observatoiredesmarques.fr.
 blablacar.mg.		7200	IN	NS	obs.ns1.fr.
 blablacar.mg.		7200	IN	NS	ns3.nameshield.net.
+blak.mg.		7200	IN	NS	ns1191.hexonet.net.
+blak.mg.		7200	IN	NS	ns2209.hexonet.net.
+blak.mg.		7200	IN	NS	ns3194.hexonet.net.
 blanbir.mg.		7200	IN	NS	ns.dts.mg.
 blanbir.mg.		7200	IN	NS	ns1.dts.mg.
 blast.mg.		7200	IN	NS	ns1.o2switch.net.
@@ -3384,9 +3387,9 @@ enterprise.mg.		7200	IN	NS	ns4.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns5.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns2.markmonitor.com.
 enterprise.mg.		7200	IN	NS	ns7.markmonitor.com.
+entrepreneuriat.mg.	86400	IN	DS	2371 13 2 9E61DBD2644CE02AC9FA419FF63EB620A7D6B622232BE8BCE4ACC4FF 43A72947
 entrepreneuriat.mg.	7200	IN	NS	lina.ns.cloudflare.com.
 entrepreneuriat.mg.	7200	IN	NS	phil.ns.cloudflare.com.
-entrepreneuriat.mg.	86400	IN	DS	2371 13 2 9E61DBD2644CE02AC9FA419FF63EB620A7D6B622232BE8BCE4ACC4FF 43A72947
 entreprisejj-mada.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 entreprisejj-mada.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 entreprisejj-mada.mg.	86400	IN	NS	ns1.fr.malagasy.com.
@@ -6252,9 +6255,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -8410,8 +8413,6 @@ pte.mg.			86400	IN	NS	ns1-boxer.vivawebhost.com.
 pte.mg.			86400	IN	NS	ns2-boxer.vivawebhost.com.
 pubg.mg.		86400	IN	NS	ns1.servermada.com.
 pubg.mg.		86400	IN	NS	ns2.servermada.com.
-publika.mg.		86400	IN	NS	dns1.hosteur.com.
-publika.mg.		86400	IN	NS	dns2.hosteur.com.
 publipointe.mg.		86400	IN	NS	ivy.ns.cloudflare.com.
 publipointe.mg.		86400	IN	NS	jake.ns.cloudflare.com.
 puker.mg.		86400	IN	NS	ns1.dnsdun.com.
@@ -8839,10 +8840,6 @@ rotaractiarivo.mg.	86400	IN	NS	ns1.ipage.com.
 rotaractiarivo.mg.	86400	IN	NS	ns2.ipage.com.
 rottweiler.mg.		86400	IN	NS	ns1.servermada.com.
 rottweiler.mg.		86400	IN	NS	ns2.servermada.com.
-rouge-hexagone.mg.	86400	IN	NS	dns1.hosteur.com.
-rouge-hexagone.mg.	86400	IN	NS	dns2.hosteur.com.
-rougehexagone.mg.	86400	IN	NS	dns1.hosteur.com.
-rougehexagone.mg.	86400	IN	NS	dns2.hosteur.com.
 rova-travel.mg.		86400	IN	NS	ns29.illi.co.mg.
 rova-travel.mg.		86400	IN	NS	ns29.dot.mg.
 rovatraveltours.mg.	86400	IN	NS	ns.dts.mg.
@@ -10575,8 +10572,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
