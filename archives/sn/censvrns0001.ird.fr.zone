@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222417364 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222417376 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220109090800 20211222052002 9009 sn. cPlHXGUAdWrDW3LlfOYd6CKKWwu7gy5KkJdszi/vcWVnEfcEDj1mDThN Hy/lR+q9OWIkPv71+s9UMt8KMOeCUQ==
-sn.			172800	IN	TXT	"5 RRs processed [22/12/2021 07H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220108102923 20211222072003 9009 sn. YTRq68HvQJ+cNtiThbyW4gg1j31oz8Ef5X6lad3FFLrjlwtVAoC/Ra69 XchQcOKnxyNQlVH0F5/GH/caBDrTHA==
+sn.			172800	IN	TXT	"No RRs processed [22/12/2021 09H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220220062002 20211222052002 9009 sn. 7LGwak3Av0vzE7Wscm60k3WqiN4hmtHJaUD1f8xTQsk9rWx2YMLgA7z4 1ikky+ZcRvyOp6Az8SCsGexFoNiRNQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220220082003 20211222072003 9009 sn. 1S46RSOcW6HXnw+urfNgCaGO1fpzhNa8nJ4+GfeCrPRIXJjBqFMIayBE twSC4xFGsRXYESFy4slYSJ5fpSpWmw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -9142,9 +9142,6 @@ hopetrade-senegal.sn.	43200	IN	NS	ns2.wanekoohost.com.
 hopitalprincipal.sn.	43200	IN	NS	ns.adie.sn.
 hopitalsaintjeandedieudethies.sn. 43200	IN NS	ns.sonatel.sn.
 hopitalsaintjeandedieudethies.sn. 43200	IN NS	ns2.sonatel.sn.
-horizon-360.sn.		43200	IN	NS	ns1.francedns.com.
-horizon-360.sn.		43200	IN	NS	ns2.francedns.com.
-horizon-360.sn.		43200	IN	NS	ns3.francedns.com.
 horizon7.sn.		43200	IN	NS	ns1.o2switch.net.
 horizon7.sn.		43200	IN	NS	ns2.o2switch.net.
 horizons-bleus.sn.	172800	IN	NS	hybrid862.fr.ns.planethoster.net.
@@ -18067,6 +18064,8 @@ sodevit.sn.		43200	IN	NS	ns4.perf1.de.
 sodevit.sn.		43200	IN	NS	ns5.perf1.asia.
 sodial.sn.		43200	IN	NS	ns.arc.sn.
 sodial.sn.		43200	IN	NS	ns3.arc.sn.
+sodieco.sn.		172800	IN	NS	ns31.infomaniak.com.
+sodieco.sn.		172800	IN	NS	ns32.infomaniak.com.
 sodimelsa.sn.		43200	IN	NS	ns1.kheweul.net.
 sodimelsa.sn.		43200	IN	NS	ns2.kheweul.net.
 sodimelsa.sn.		43200	IN	NS	ns3.kheweul.net.
