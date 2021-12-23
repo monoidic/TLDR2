@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021122314 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1640246540"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021122318 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1640253738"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1330,8 +1330,8 @@ apollodoor.sy.		86400	IN	NS	ns2.scs-net.sy.
 apollodoor.sy.		86400	IN	NS	ns2.scs-net.org.
 app.sy.			86400	IN	NS	suspend1.tld.sy.
 app.sy.			86400	IN	NS	suspend2.tld.sy.
-appd3.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
-appd3.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
+appd3.sy.		86400	IN	NS	suspend1.tld.sy.
+appd3.sy.		86400	IN	NS	suspend2.tld.sy.
 appfirm.sy.		86400	IN	NS	suspend1.tld.sy.
 appfirm.sy.		86400	IN	NS	suspend2.tld.sy.
 applesyria.sy.		86400	IN	NS	ns1.imjordan.com.
@@ -6091,8 +6091,8 @@ sista.sy.		86400	IN	NS	ns3.tld.sy.
 sista.sy.		86400	IN	NS	ns4.tld.sy.
 sit-ind.sy.		86400	IN	NS	suspend1.tld.sy.
 sit-ind.sy.		86400	IN	NS	suspend2.tld.sy.
-site.sy.		86400	IN	NS	ns1.zad.sy.
-site.sy.		86400	IN	NS	ns2.zad.sy.
+site.sy.		86400	IN	NS	suspend1.tld.sy.
+site.sy.		86400	IN	NS	suspend2.tld.sy.
 skafko-syria.sy.	86400	IN	NS	suspend1.tld.sy.
 skafko-syria.sy.	86400	IN	NS	suspend2.tld.sy.
 skar-sbiei.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7105,8 +7105,8 @@ vectroclad.sy.		86400	IN	NS	ns1.brandshelter.com.
 vectroclad.sy.		86400	IN	NS	ns2.brandshelter.de.
 view.sy.		86400	IN	NS	ns3.tld.sy.
 view.sy.		86400	IN	NS	ns4.tld.sy.
-vip.sy.			86400	IN	NS	ns1.zad.sy.
-vip.sy.			86400	IN	NS	ns2.zad.sy.
+vip.sy.			86400	IN	NS	suspend1.tld.sy.
+vip.sy.			86400	IN	NS	suspend2.tld.sy.
 vipgym.sy.		86400	IN	NS	suspend1.tld.sy.
 vipgym.sy.		86400	IN	NS	suspend2.tld.sy.
 vita-cosmetics.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7273,8 +7273,8 @@ yff.sy.			86400	IN	NS	suspend1.tld.sy.
 yff.sy.			86400	IN	NS	suspend2.tld.sy.
 yin.sy.			86400	IN	NS	suspend1.tld.sy.
 yin.sy.			86400	IN	NS	suspend2.tld.sy.
-yj.sy.			86400	IN	NS	karl.ns.cloudflare.com.
-yj.sy.			86400	IN	NS	ziggy.ns.cloudflare.com.
+yj.sy.			86400	IN	NS	suspend1.tld.sy.
+yj.sy.			86400	IN	NS	suspend2.tld.sy.
 yl.sy.			86400	IN	NS	suspend1.tld.sy.
 yl.sy.			86400	IN	NS	suspend2.tld.sy.
 yomyat.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7299,10 +7299,8 @@ yy.sy.			86400	IN	NS	suspend1.tld.sy.
 yy.sy.			86400	IN	NS	suspend2.tld.sy.
 zaazou-co.sy.		86400	IN	NS	suspend1.tld.sy.
 zaazou-co.sy.		86400	IN	NS	suspend2.tld.sy.
-zad.sy.			86400	IN	NS	ns1.zad.sy.
-zad.sy.			86400	IN	NS	ns2.zad.sy.
-ns1.zad.sy.		86400	IN	A	185.19.127.202
-ns2.zad.sy.		86400	IN	A	185.19.127.203
+zad.sy.			86400	IN	NS	suspend1.tld.sy.
+zad.sy.			86400	IN	NS	suspend2.tld.sy.
 zada-co.sy.		86400	IN	NS	suspend1.tld.sy.
 zada-co.sy.		86400	IN	NS	suspend2.tld.sy.
 zadak.sy.		86400	IN	NS	ns1.tqniyati.com.
