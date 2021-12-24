@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021122422 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1640340131"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021122427 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1640347331"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -7299,8 +7299,10 @@ yy.sy.			86400	IN	NS	suspend1.tld.sy.
 yy.sy.			86400	IN	NS	suspend2.tld.sy.
 zaazou-co.sy.		86400	IN	NS	suspend1.tld.sy.
 zaazou-co.sy.		86400	IN	NS	suspend2.tld.sy.
-zad.sy.			86400	IN	NS	suspend1.tld.sy.
-zad.sy.			86400	IN	NS	suspend2.tld.sy.
+zad.sy.			86400	IN	NS	ns1.zad.sy.
+zad.sy.			86400	IN	NS	ns2.zad.sy.
+ns1.zad.sy.		86400	IN	A	185.19.127.202
+ns2.zad.sy.		86400	IN	A	185.19.127.203
 zada-co.sy.		86400	IN	NS	suspend1.tld.sy.
 zada-co.sy.		86400	IN	NS	suspend2.tld.sy.
 zadak.sy.		86400	IN	NS	ns1.tqniyati.com.
