@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222417756 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222417769 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220210053344 20211224152003 9009 sn. B4as8QJ+4I1bDXyRSanTjXHjW1ojF1Qz++0oNxkavGR+5iONtj2BQbYd PYImXNW+RzLlkkdz6yYPE7B2QjTkEw==
-sn.			172800	IN	TXT	"No RRs processed [24/12/2021 17H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220115140908 20211224172002 9009 sn. 7CzkYa1EcYJZtuVhToeYRfVCRPvkHEmvIkGF33pn+581ZmDe/Ds04x2q 1Ja8TgKZ6J+oDcSh0nRfyzA9MsC9tw==
+sn.			172800	IN	TXT	"No RRs processed [24/12/2021 19H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220110024229 20211111021555 9009 sn. J4fR3RCeH3dmDQeB+pWcRC7wc4cFwr7pQjdNS9t2J4FYr5R1Si1jTExR b9mWfX7aNMJIYN41KuGyfzNobg1vLA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220222162003 20211224152003 9009 sn. hlQynA0sa7t9Reum+eDrDLweNUh52mOJYk4NrJ3O7KER5VIN6oSZFFw8 MLVsWnGBjhG5yVmprNbmmDHoR08vcQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220222182002 20211224172002 9009 sn. ZxAIfYxbDHhXf+CkmgCtySR2awd2S2XiG6kmQlZZrpCZ1SdOfN2RKhYK HhlMoeuMsHHSDMZpb2+cG1a0wudc1A==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -7104,7 +7104,7 @@ estm.sn.		43200	IN	RRSIG	DS 13 2 43200 20220129215839 20211130213624 9009 sn. TL
 estm.sn.		43200	IN	DS	8050 8 2 69F63B700C43C23A33302C8CA749B6A21369E0A3A090A9AB6712DDC2 58FBAE3F
 estm.sn.		43200	IN	NS	ns19.ovh.net.
 estm.sn.		43200	IN	NS	dns19.ovh.net.
-estral.sn.		43200	IN	RRSIG	DS 13 2 43200 20220107170611 20211108162927 9009 sn. 9b1U4G3tiP9a7PghffyX2xuk/pUzdSt5UtmhkRdXCsEN4EAeENLg8Tt/ hr+FC+Wa640g1xgfGmeXgbOa9MUbOQ==
+estral.sn.		43200	IN	RRSIG	DS 13 2 43200 20220222165755 20211224160611 9009 sn. Ny91qP0pjvOaPMND4+uSfsbHeWf9KEg250JMiy1rWdDl28MnM5HzbzmG zuSGIsnStw46qerwRTOXIM4kjuJ/PQ==
 estral.sn.		43200	IN	DS	50514 7 2 EC84BEDA84DB49A1C8B07D950B5CB91B9FECCFD3BC7B35C96C8DB749 49EED5D5
 estral.sn.		43200	IN	NS	ns107.ovh.net.
 estral.sn.		43200	IN	NS	dns107.ovh.net.
@@ -8453,6 +8453,10 @@ globalproperties.sn.	172800	IN	NS	ns3.kheweul.net.
 globalproperties.sn.	172800	IN	NS	ns4.kheweul.net.
 globaltechnology.sn.	43200	IN	NS	ns5.jokko-hosting.com.
 globaltechnology.sn.	43200	IN	NS	ns6.jokko-hosting.com.
+globaltours.sn.		172800	IN	NS	ns1.ascio.com.
+globaltours.sn.		172800	IN	NS	ns2.ascio.com.
+globaltours.sn.		172800	IN	NS	ns3.ascio.com.
+globaltours.sn.		172800	IN	NS	ns4.ascio.com.
 globeservices.sn.	43200	IN	NS	ns1.cp-34.webhostbox.net.
 globeservices.sn.	43200	IN	NS	ns2.cp-34.webhostbox.net.
 globexfedex.sn.		43200	IN	NS	ns31.infomaniak.com.
