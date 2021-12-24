@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021122216 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021122400 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -2592,8 +2592,8 @@ isuite.gp.		86400	IN	NS	ns2.cloudns.net.
 isuite.gp.		86400	IN	NS	pns1.cloudns.net.
 isuite.gp.		86400	IN	NS	pns2.cloudns.net.
 isuite.gp.		86400	IN	NS	pns3.cloudns.net.
-it.gp.			86400	IN	NS	ns1.subdomain.com.
-it.gp.			86400	IN	NS	ns2.subdomain.com.
+it.gp.			86400	IN	NS	liz.ns.cloudflare.com.
+it.gp.			86400	IN	NS	lynn.ns.cloudflare.com.
 itg.gp.			86400	IN	NS	ns21.cloudns.net.
 itg.gp.			86400	IN	NS	ns22.cloudns.net.
 itv.gp.			86400	IN	NS	ns1.sedoparking.com.
@@ -3792,8 +3792,10 @@ orchestra.gp.		86400	IN	NS	a.dns.gandi.net.
 orchestra.gp.		86400	IN	NS	b.dns.gandi.net.
 org.gp.			86400	IN	NS	ns1.nic.gp.
 org.gp.			86400	IN	NS	ns-gp.nic.fr.
-organon.gp.		86400	IN	NS	ns1.markmonitor.com.
-organon.gp.		86400	IN	NS	ns3.markmonitor.com.
+organon.gp.		86400	IN	NS	ns6.customer.level3.net.
+organon.gp.		86400	IN	NS	ns9.customer.level3.net.
+organon.gp.		86400	IN	NS	cbru.br.ns.els-gms.att.net.
+organon.gp.		86400	IN	NS	cmtu.mt.ns.els-gms.att.net.
 oriflame.gp.		86400	IN	NS	ns1-01.azure-dns.com.
 oriflame.gp.		86400	IN	NS	ns2-01.azure-dns.net.
 oriflame.gp.		86400	IN	NS	ns3-01.azure-dns.org.
