@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222418384 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222418396 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220128055604 20211228092002 9009 sn. woERqc5XWrCCIiVRCLBZM9mD0aJ3bo9+OWWXlzVw0lYqir8lEdNfK6yR AJwY2xLDpuPbTTa0SkSrNDGpohTyeA==
-sn.			172800	IN	TXT	"No RRs processed [28/12/2021 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220122110309 20211228111003 9009 sn. Q0brqJyo6O6IDCzpd3nx1eBS4SL88b4mrrqADr+SsusBKKVemc0gm4mp T4YzH3alraIeeaXZdPt26WB1VdmWIQ==
+sn.			172800	IN	TXT	"2 RRs processed [28/12/2021 13H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220226102002 20211228092002 9009 sn. iiKRqtXcN8F46J1EoPjNAdxCHHNdQsAOFSSnlnnOZaS6LMg6UEPBOTFK /yDXZBnSPOvviV4OyvrueErTnN8K2w==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220226121003 20211228111003 9009 sn. xftvX+RDXgPK8M4N0+sa/dl3l2hUffIubUsnqh7EUZjh4tsJ8u4nlZe3 koTBJyduj1OoQKg0ykj1/ABmqbjIlA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -2136,6 +2136,8 @@ backofficelidor.sn.	172800	IN	RRSIG	DS 13 2 172800 20220126070030 20211127060855
 backofficelidor.sn.	172800	IN	DS	14599 8 2 1D7281828BE04841DFD5A1F5458B0275931B9B6A1DA27383434D6A7E E3F98D1A
 backofficelidor.sn.	172800	IN	NS	ns103.ovh.net.
 backofficelidor.sn.	172800	IN	NS	dns103.ovh.net.
+bacomputerservices.sn.	172800	IN	NS	ns1.sh003.webhostbox.net.
+bacomputerservices.sn.	172800	IN	NS	ns2.sh003.webhostbox.net.
 bada.sn.		172800	IN	NS	ns11.infomaniak.ch.
 bada.sn.		172800	IN	NS	ns12.infomaniak.ch.
 badegna.sn.		43200	IN	NS	ns1.macaisse.sn.
@@ -2315,8 +2317,8 @@ batiproduits.sn.	172800	IN	NS	ns1.kheweul.net.
 batiproduits.sn.	172800	IN	NS	ns2.kheweul.net.
 batiproduits.sn.	172800	IN	NS	ns3.kheweul.net.
 batiproduits.sn.	172800	IN	NS	ns4.kheweul.net.
-batix.sn.		172800	IN	NS	ns109.ovh.net.
-batix.sn.		172800	IN	NS	dns109.ovh.net.
+batix.sn.		172800	IN	NS	dns1.alwaysdata.com.
+batix.sn.		172800	IN	NS	dns2.alwaysdata.com.
 batobi.sn.		43200	IN	RRSIG	DS 13 2 43200 20220113145225 20211114141508 9009 sn. JzeEQ8UKHUBDM6HGFJYN7WyZgkJkMngh9UBZPzqc8KViqmLxu1SMpKcS iw+7uau0tAugUdCIDaE++pgJD4aXxQ==
 batobi.sn.		43200	IN	DS	49459 8 2 D29069AE495488AF51FB7C6B2516E15EFC4FCE143040ECBF56824E77 7DAF8574
 batobi.sn.		43200	IN	NS	ns200.anycast.me.
@@ -7508,6 +7510,8 @@ fedex.sn.		172800	IN	NS	land.fedex.com.
 fedex.sn.		172800	IN	NS	grace.fedex.com.
 feeljuice.sn.		43200	IN	NS	ns.sonatel.sn.
 feeljuice.sn.		43200	IN	NS	ns2.sonatel.sn.
+feems.sn.		172800	IN	NS	ns103.ovh.net.
+feems.sn.		172800	IN	NS	dns103.ovh.net.
 fegu.sn.		172800	IN	NS	ns.gouv.sn.
 fegu.sn.		172800	IN	NS	ns2.gouv.sn.
 fegu.sn.		172800	IN	NS	ns3.gouv.sn.
@@ -12222,7 +12226,7 @@ maintenancepneus.sn.	43200	IN	NS	sdns2.ovh.net.
 maintenancepneus.sn.	43200	IN	NS	ns309487.ovh.net.
 mairi.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 mairi.sn.		172800	IN	NS	ns6.jokko-hosting.com.
-mairiedegoree.sn.	43200	IN	RRSIG	DS 13 2 43200 20220111104325 20211112094637 9009 sn. 83xUEFhyJaA4kn8oT0B43LrKMb0lkqk8De7S8157pp5KrvPrBXVRer1k sBh1lZykfG0sjfP1DruUit4Mg+BC3A==
+mairiedegoree.sn.	43200	IN	RRSIG	DS 13 2 43200 20220226095958 20211228094325 9009 sn. jlPjyZbW5m82f2BP/i2qJL8MBs8ALlKnPUlT6876MX3ylktIkNx0nijr ru2nPo5u/0Bct+7wrKhuOumCuqvdJQ==
 mairiedegoree.sn.	43200	IN	DS	58954 8 2 27FF4DE0AAC2F29BF69BECA994E1C85C0E4BE87CC45D34A7AA61CC8A A73BBCE2
 mairiedegoree.sn.	43200	IN	NS	ns18.ovh.net.
 mairiedegoree.sn.	43200	IN	NS	dns18.ovh.net.
@@ -12587,6 +12591,8 @@ mbouractu.sn.		43200	IN	NS	ns1.kheweul.net.
 mbouractu.sn.		43200	IN	NS	ns2.kheweul.net.
 mbouractu.sn.		43200	IN	NS	ns3.kheweul.net.
 mbouractu.sn.		43200	IN	NS	ns4.kheweul.net.
+mbs.sn.			172800	IN	NS	ns103.ovh.net.
+mbs.sn.			172800	IN	NS	dns103.ovh.net.
 mbs-dakar.sn.		43200	IN	NS	ns108.ovh.net.
 mbs-dakar.sn.		43200	IN	NS	dns108.ovh.net.
 mbsdakar.sn.		43200	IN	NS	ns108.ovh.net.
