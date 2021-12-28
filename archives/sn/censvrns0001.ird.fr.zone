@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222418371 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222418384 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220113054308 20211114052952 37490 sn. 8B5ZVuPK+3jgNeA8gZtNOxhDuTNR/n0tXob3X9/D3Pe1dfuzOSHRi3iJ b+l91ULNTwuxCCzf7FBv0gycPW6wcg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220131071703 20211228072002 9009 sn. davuxIoErdZqqqV5O7YIAXNz9XCSz/PDBhPUdI1uo3H30fh0nPYo0NSG e5rwR9EXPedFpJFfKHwyFgfTgBSyhQ==
-sn.			172800	IN	TXT	"No RRs processed [28/12/2021 09H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220128055604 20211228092002 9009 sn. woERqc5XWrCCIiVRCLBZM9mD0aJ3bo9+OWWXlzVw0lYqir8lEdNfK6yR AJwY2xLDpuPbTTa0SkSrNDGpohTyeA==
+sn.			172800	IN	TXT	"No RRs processed [28/12/2021 11H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220226082002 20211228072002 9009 sn. vc8DuZYPrVBrbCuUyuMpcz5Zrt23VIWKc5EnAGR1RVLqBoEgvdkkyqfS w1y/gvwooZ+liFfhAbLy86d7zmwMMg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220226102002 20211228092002 9009 sn. iiKRqtXcN8F46J1EoPjNAdxCHHNdQsAOFSSnlnnOZaS6LMg6UEPBOTFK /yDXZBnSPOvviV4OyvrueErTnN8K2w==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -3293,8 +3293,9 @@ calif.sn.		43200	IN	NS	ns3.dnsimple.com.
 calif.sn.		43200	IN	NS	ns4.dnsimple.com.
 callon.sn.		172800	IN	NS	ns1.dns-parking.com.
 callon.sn.		172800	IN	NS	ns2.dns-parking.com.
-calm.sn.		172800	IN	NS	ns20.kelihost.com.
-calm.sn.		172800	IN	NS	ns22.kelihost.com.
+calm.sn.		172800	IN	NS	ns1.digitalocean.com.
+calm.sn.		172800	IN	NS	ns2.digitalocean.com.
+calm.sn.		172800	IN	NS	ns3.digitalocean.com.
 cam4.sn.		43200	IN	NS	ns1.101domain.com.
 cam4.sn.		43200	IN	NS	ns2.101domain.com.
 cam4.sn.		43200	IN	NS	ns5.101domain.com.
@@ -11115,6 +11116,7 @@ koparpay.sn.		43200	IN	NS	ns1.afrowebmaster.com.
 koparpay.sn.		43200	IN	NS	ns2.afrowebmaster.com.
 koparpay.sn.		43200	IN	NS	ns3.afrowebmaster.com.
 koparpay.sn.		43200	IN	NS	ns4.afrowebmaster.com.
+koraafrica.sn.		172800	IN	NS	hosting100.arc.sn.
 korok.sn.		43200	IN	NS	a.dns.gandi.net.
 korok.sn.		43200	IN	NS	b.dns.gandi.net.
 korok.sn.		43200	IN	NS	c.dns.gandi.net.
@@ -11472,7 +11474,7 @@ latribune.sn.		43200	IN	NS	ns3.kheweul.net.
 latribune.sn.		43200	IN	NS	ns4.kheweul.net.
 laturquoise.sn.		43200	IN	NS	ns.sonatel.sn.
 laturquoise.sn.		43200	IN	NS	ns2.sonatel.sn.
-laturquoisetraiteur.sn.	172800	IN	RRSIG	DS 13 2 172800 20220111095736 20211112092116 9009 sn. RmqDJFOuvuOJUNfxOEXNjH3pxqCkD/OiRJzDPCX+JpBc4dPfUCNs3z5s zZZoVhihiDWcxCr99OASPn3wbuj+Uw==
+laturquoisetraiteur.sn.	172800	IN	RRSIG	DS 13 2 172800 20220226090936 20211228085736 9009 sn. VL4fsM/MWyssoBk93cGc7BZz3KQRdDp4KbJVptDXxm4Kl39wxzqGB3yV CUPCXlq1966TbLNN8Ti7FMuQTs+U4Q==
 laturquoisetraiteur.sn.	172800	IN	DS	1282 8 2 BB9A86A1B8852D6F0BACDFA7CCB77E607D8A9A877839A1FE2CE5184A 524546E6
 laturquoisetraiteur.sn.	172800	IN	NS	ns200.anycast.me.
 laturquoisetraiteur.sn.	172800	IN	NS	dns200.anycast.me.
