@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222418688 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222418702 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220228051101 20211230044308 37490 sn. hOlZgpyKQSurKFSswvQ35EI8sBkDnTX7H0587IFGuM+878QjGcZWQ1CM w3LwUSceDGRyDVzWPwh0YOSelNatJw==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220203170601 20211230051002 9009 sn. Dj61/3eYWR4P6PEoTZYe4jwPx+xkcMtIqh6UVJm3/n/JG5xrTufvbe1+ zBVb+fX8TJ89jAat8LdaI8VKaa/JWw==
-sn.			172800	IN	TXT	"1 RRs processed [30/12/2021 07H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220222182745 20211230071003 9009 sn. BBUrHEDcTT8NXsuf58UCzdMBySyP3iv4CBOlX4f7Mzs3QU60+8FQBeVe ycc+EkcaVU3HDpOmXmKfkkDwl6sjUg==
+sn.			172800	IN	TXT	"No RRs processed [30/12/2021 09H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220228061744 20211230051744 9009 sn. ovttB0LDcbWwCw1CEkOqRsDmFm5Dljn2nBPtxnoTBwbT0PdmjXPymTu1 XWrwpSjwWbe6T2Igtw7uDB8WklA0Aw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220228081003 20211230071003 9009 sn. gDg4vpSgJmVlp7j98aMmbmcJrwy/bA/7FO8TvU8c+ltLWmjCCEDuMMMG qehIVeWgVPueXHjUVt3iAJ4zGXBWBg==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -13657,7 +13657,7 @@ neurotech.sn.		43200	IN	NS	ns.neurotech.sn.
 neurotech.sn.		43200	IN	NS	ns1.neurotech.sn.
 ns.neurotech.sn.	43200	IN	A	41.219.17.115
 ns1.neurotech.sn.	43200	IN	A	154.65.33.214
-neverforgetwhereyoucomefrom.sn.	43200 IN RRSIG	DS 13 2 43200 20220113064414 20211114060440 9009 sn. YpRQ/wZsKaNFJ0seii2/mE1NLX1plHmcc2s9LREVzYZpb/rJsjGcgRBb N0J8kBj8Uo7jlUZLT1wSF9wETEGYWQ==
+neverforgetwhereyoucomefrom.sn.	43200 IN RRSIG	DS 13 2 43200 20220228062034 20211230054414 9009 sn. eVtTPwBfWXxmh5KglD3F5JXHMBntEjIDmMwadnvVimlbhwzgiyeXAE0P 3rYpRgOJvoh4lWxXUR2YBIG4GvyRYg==
 neverforgetwhereyoucomefrom.sn.	43200 IN DS	24616 8 2 FBA17DBBB0D3A0AA036EFCBDE756A1BD33D944C28AAFB20A992C1946 EAFEC289
 neverforgetwhereyoucomefrom.sn.	43200 IN NS	ns107.ovh.net.
 neverforgetwhereyoucomefrom.sn.	43200 IN NS	dns107.ovh.net.
@@ -19951,7 +19951,7 @@ trouverunemploi.sn.	172800	IN	NS	nsa.n0c.com.
 trouverunemploi.sn.	172800	IN	NS	nsb.n0c.com.
 trouverunemploi.sn.	172800	IN	NS	nsc.n0c.com.
 trouverunemploi.sn.	172800	IN	DS	62437 8 1 47EAB2EA0C50B4914C0D20BA7D0F07CC4F00EC62
-trouverunemploi.sn.	172800	IN	RRSIG	DS 13 2 172800 20220113065510 20211114064710 9009 sn. BkJY7Thtxxl7VLhszpMOOsNgokUKX2s4Lr2n5TGhYTt2QEzOaN5ngBZ5 +GVcPjkJgiT2xO5N6d7a5rJar/y81g==
+trouverunemploi.sn.	172800	IN	RRSIG	DS 13 2 172800 20220228061301 20211230055510 9009 sn. UVDHAsIaKmkWq4ntPXqblgbk3VgV97Soc+j4Dso0MM1wN0fKIKmqEix6 TyzKzyeurUH0ZWoaohOiYBw8XpuAZA==
 trouvetonbonheur.sn.	43200	IN	NS	ns1.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns2.kheweul.net.
 trouvetonbonheur.sn.	43200	IN	NS	ns3.kheweul.net.
