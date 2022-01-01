@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010109 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641024026"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010111 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641031231"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -6411,9 +6411,10 @@ basf.ng.		3600	IN	NS	ns2.basf-ag.de.
 basf.ng.		3600	IN	NS	basfegw.basf-corp.com.
 bashir.ng.		3600	IN	NS	ns1.qservers.net.
 bashir.ng.		3600	IN	NS	ns2.qservers.net.
-basic.ng.		3600	IN	NS	ns1.digitalocean.com.
-basic.ng.		3600	IN	NS	ns2.digitalocean.com.
-basic.ng.		3600	IN	NS	ns3.digitalocean.com.
+basic.ng.		3600	IN	NS	briatekserver1.basic.ng.
+basic.ng.		3600	IN	NS	briatekserver2.basic.ng.
+briatekserver1.basic.ng. 3600	IN	A	68.233.227.44
+briatekserver2.basic.ng. 3600	IN	A	68.233.227.44
 basicneeds.ng.		3600	IN	NS	ns3.doveserver.com.
 basicneeds.ng.		3600	IN	NS	ns4.doveserver.com.
 basketballafricaleague.ng. 3600	IN	NS	ns40.nba.com.
@@ -12412,8 +12413,8 @@ chargi.ng.		3600	IN	NS	ns1.sedoparking.com.
 chargi.ng.		3600	IN	NS	ns2.sedoparking.com.
 chariot.ng.		3600	IN	NS	nsa.whogohost.com.
 chariot.ng.		3600	IN	NS	nsb.whogohost.com.
-charisma.ng.		3600	IN	NS	ns3.qservers.net.
-charisma.ng.		3600	IN	NS	ns4.qservers.net.
+charisma.ng.		3600	IN	NS	ns1.bluehost.com.
+charisma.ng.		3600	IN	NS	ns2.bluehost.com.
 charity.ng.		3600	IN	NS	ns1.whogohost.com.
 charity.ng.		3600	IN	NS	ns2.whogohost.com.
 charitytees.ng.		3600	IN	NS	ns13.qservers.net.
@@ -35172,9 +35173,11 @@ kevlar.ng.		3600	IN	NS	pdns3.ultradns.org.
 kevlar.ng.		3600	IN	NS	pdns4.ultradns.org.
 kevonneconsults.ng.	3600	IN	NS	ns1.globalhosting247.com.
 kevonneconsults.ng.	3600	IN	NS	ns2.globalhosting247.com.
-kex.ng.			3600	IN	NS	ns1.site4now.net.
-kex.ng.			3600	IN	NS	ns2.site4now.net.
-kex.ng.			3600	IN	NS	ns3.site4now.net.
+kex.ng.			3600	IN	NS	freedns1.registrar-servers.com.
+kex.ng.			3600	IN	NS	freedns2.registrar-servers.com.
+kex.ng.			3600	IN	NS	freedns3.registrar-servers.com.
+kex.ng.			3600	IN	NS	freedns4.registrar-servers.com.
+kex.ng.			3600	IN	NS	freedns5.registrar-servers.com.
 kexpress.ng.		3600	IN	NS	chad.ns.cloudflare.com.
 kexpress.ng.		3600	IN	NS	melinda.ns.cloudflare.com.
 keybase.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -43900,6 +43903,8 @@ nagreenenergy.ng.	3600	IN	NS	ns1.webguru.ng.
 nagreenenergy.ng.	3600	IN	NS	ns2.webguru.ng.
 nahwewe.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 nahwewe.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+naicfund.ng.		3600	IN	NS	ns91.cloudhost.com.ng.
+naicfund.ng.		3600	IN	NS	ns92.cloudhost.com.ng.
 naiis.ng.		3600	IN	NS	ns17.whogohost.com.
 naiis.ng.		3600	IN	NS	ns18.whogohost.com.
 naija.ng.		3600	IN	NS	asa.ns.cloudflare.com.
@@ -44971,8 +44976,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -56007,6 +56012,8 @@ road.ng.		3600	IN	NS	ns1.sedoparking.com.
 road.ng.		3600	IN	NS	ns2.sedoparking.com.
 roadly.ng.		3600	IN	NS	nsa.whogohost.com.
 roadly.ng.		3600	IN	NS	nsb.whogohost.com.
+roadracers.ng.		3600	IN	NS	rs75a.registrar-servers.com.
+roadracers.ng.		3600	IN	NS	rs75b.registrar-servers.com.
 roadside.ng.		3600	IN	NS	ns43.qservers.net.
 roadside.ng.		3600	IN	NS	ns44.qservers.net.
 roadx.ng.		3600	IN	NS	ns1.icp100.net.
@@ -58366,6 +58373,8 @@ service.ng.		3600	IN	NS	nsa.whogohost.com.
 service.ng.		3600	IN	NS	nsb.whogohost.com.
 service234.ng.		3600	IN	NS	nsa.whogohost.com.
 service234.ng.		3600	IN	NS	nsb.whogohost.com.
+service247.ng.		3600	IN	NS	rs75a.registrar-servers.com.
+service247.ng.		3600	IN	NS	rs75b.registrar-servers.com.
 servicebreeder.ng.	3600	IN	NS	ns19.garanntor.net.
 servicebreeder.ng.	3600	IN	NS	ns20.garanntor.net.
 servicecall.ng.		3600	IN	NS	ns1.truelogicng.com.
