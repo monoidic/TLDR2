@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010115 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641045627"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010117 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641052830"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -1600,8 +1600,8 @@ adesundaytech.ng.	3600	IN	NS	ns1.qservers.net.
 adesundaytech.ng.	3600	IN	NS	ns2.qservers.net.
 adesuwa.ng.		3600	IN	NS	ns1.upperserver29.com.
 adesuwa.ng.		3600	IN	NS	ns2.upperserver29.com.
-adexcrane.ng.		3600	IN	NS	ns13.qservers.net.
-adexcrane.ng.		3600	IN	NS	ns14.qservers.net.
+adexcrane.ng.		3600	IN	NS	ns1.qservers.net.
+adexcrane.ng.		3600	IN	NS	ns2.qservers.net.
 adexmall.ng.		3600	IN	NS	ns5.speedyconnect.net.
 adexmall.ng.		3600	IN	NS	ns6.speedyconnect.net.
 adfp.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -6413,10 +6413,9 @@ basf.ng.		3600	IN	NS	ns2.basf-ag.de.
 basf.ng.		3600	IN	NS	basfegw.basf-corp.com.
 bashir.ng.		3600	IN	NS	ns1.qservers.net.
 bashir.ng.		3600	IN	NS	ns2.qservers.net.
-basic.ng.		3600	IN	NS	briatekserver1.basic.ng.
-basic.ng.		3600	IN	NS	briatekserver2.basic.ng.
-briatekserver1.basic.ng. 3600	IN	A	68.233.227.44
-briatekserver2.basic.ng. 3600	IN	A	68.233.227.44
+basic.ng.		3600	IN	NS	ns1.digitalocean.com.
+basic.ng.		3600	IN	NS	ns2.digitalocean.com.
+basic.ng.		3600	IN	NS	ns3.digitalocean.com.
 basicneeds.ng.		3600	IN	NS	ns3.doveserver.com.
 basicneeds.ng.		3600	IN	NS	ns4.doveserver.com.
 basketballafricaleague.ng. 3600	IN	NS	ns40.nba.com.
@@ -10840,6 +10839,8 @@ cabs.ng.		3600	IN	NS	ns1.fasttopups.com.
 cabs.ng.		3600	IN	NS	ns2.fasttopups.com.
 caca.ng.		3600	IN	NS	nsa.whogohost.com.
 caca.ng.		3600	IN	NS	nsb.whogohost.com.
+cach.ng.		3600	IN	NS	ns1.vercel-dns.com.
+cach.ng.		3600	IN	NS	ns2.vercel-dns.com.
 cache.ng.		3600	IN	NS	ns1.vercel-dns.com.
 cache.ng.		3600	IN	NS	ns2.vercel-dns.com.
 cachet.ng.		3600	IN	NS	ns1.dkstack.com.
@@ -30320,6 +30321,8 @@ housemates.ng.		3600	IN	NS	ns1.web4africa.com.
 housemates.ng.		3600	IN	NS	ns2.web4africa.com.
 housemates.ng.		3600	IN	NS	ns3.web4africa.com.
 housemates.ng.		3600	IN	NS	ns4.web4africa.com.
+houseme.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+houseme.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 houseofchildren.ng.	3600	IN	NS	nsa.whogohost.com.
 houseofchildren.ng.	3600	IN	NS	nsb.whogohost.com.
 houseofdaniels.ng.	3600	IN	NS	dns1.namecheaphosting.com.
@@ -44979,8 +44982,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
