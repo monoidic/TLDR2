@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021123002 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022010122 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -2015,8 +2015,8 @@ gedibois.gp.		86400	IN	NS	ns03.eolas.fr.
 gedimat.gp.		86400	IN	NS	ns01.eolas.fr.
 gedimat.gp.		86400	IN	NS	ns02.eolas.fr.
 gedimat.gp.		86400	IN	NS	ns03.eolas.fr.
-geek.gp.		86400	IN	NS	ns1.geek.gp.
-geek.gp.		86400	IN	NS	ns2.geek.gp.
+geek.gp.		86400	IN	NS	ns103.ovh.net.
+geek.gp.		86400	IN	NS	dns103.ovh.net.
 ns1.geek.gp.		86400	IN	A	62.210.13.165
 ns2.geek.gp.		86400	IN	NS	62.210.13.163.gp.
 gemo.gp.		86400	IN	NS	a.ns.mailclub.fr.
@@ -3323,8 +3323,8 @@ mg-guadeloupe.gp.	86400	IN	NS	ns2.francedns.com.
 mg-guadeloupe.gp.	86400	IN	NS	ns3.francedns.com.
 mi.gp.			86400	IN	NS	ns1.sedoparking.com.
 mi.gp.			86400	IN	NS	ns2.sedoparking.com.
-michelgaschet.gp.	86400	IN	NS	sdns1.ovh.ca.
-michelgaschet.gp.	86400	IN	NS	merci-ovh.intra.geek.gp.
+michelgaschet.gp.	86400	IN	NS	ns103.ovh.net.
+michelgaschet.gp.	86400	IN	NS	dns103.ovh.net.
 microcreche.gp.		86400	IN	NS	ns1.mediatemple.net.
 microcreche.gp.		86400	IN	NS	ns2.mediatemple.net.
 microsoft.gp.		86400	IN	NS	ns1-04.azure-dns.com.
