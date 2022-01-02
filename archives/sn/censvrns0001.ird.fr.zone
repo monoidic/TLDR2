@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222419229 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222419242 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220125074840 20211126071655 9009 sn. uDUSKZVfUl7SpWhdt/5Al9zToZRK54kq/lYkgjgHn6wWZ3ia/C3u9lCF vfKS+YP8hubAhprvj6HjHWAnYZbo7A==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220228051101 20211230044308 37490 sn. hOlZgpyKQSurKFSswvQ35EI8sBkDnTX7H0587IFGuM+878QjGcZWQ1CM w3LwUSceDGRyDVzWPwh0YOSelNatJw==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220117061609 20220102112003 9009 sn. 89ZLcxixFNQGD6zh1B1lRPZ9UHrodkbTB/3DdnjWX/pX1OfZraw2XHuY AgATl2u7Qq+2L/QaNSD84F6AG3/M0g==
-sn.			172800	IN	TXT	"No RRs processed [02/01/2022 13H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220131231453 20220102131003 9009 sn. N4GNPWfQcGTW3HqAz3/7CXh9nRORReSueS5xHyyx0Jc++bhqzMobfoll 6vuDVW/l4uaK3S2oJcyKlpWbysQ+Ug==
+sn.			172800	IN	TXT	"No RRs processed [02/01/2022 15H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220303122003 20220102112003 9009 sn. u3Oz9REzlfOsgm3vvctcW9n9lab/3vCkvZ0qyiPnNjKfeKPXfn4Kgkb2 6CsU6VIQI3Qv6+eIhkQTDEelOG/HXg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220303141003 20220102131003 9009 sn. 3Lme14Eya6M8Tv9Jg9+53VABIGXq1DKhR4xr+cN5OPLJW7hGNzJ1LLuj uUB4svh3g1f312d1aJNDQZgtYBorfA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -6312,9 +6312,8 @@ ecodressing.sn.		43200	IN	NS	dns104.ovh.net.
 ecofirma.sn.		172800	IN	NS	ns9.erudis.pt.
 ecofirma.sn.		172800	IN	NS	ns11.erudis.pt.
 ecofirma.sn.		172800	IN	NS	ns47.erudis.pt.
-ecofromafrica.sn.	172800	IN	NS	nsa.planethoster.net.
-ecofromafrica.sn.	172800	IN	NS	nsb.planethoster.net.
-ecofromafrica.sn.	172800	IN	NS	nsc.planethoster.net.
+ecofromafrica.sn.	172800	IN	NS	domain-expired.planethoster.net.
+ecofromafrica.sn.	172800	IN	NS	expired-domain.planethoster.net.
 ecole-frontdeterre.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 ecole-frontdeterre.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 ecolebi.sn.		172800	IN	NS	ns1.ababacarhosting.space.
@@ -7268,7 +7267,7 @@ exphar.sn.		43200	IN	RRSIG	DS 13 2 43200 20220301120254 20211231112916 9009 sn. 
 exphar.sn.		43200	IN	DS	56734 8 2 6069B2AB7D8F5E0851100C7DDD9D186468F80F401FDEFAEA39BEA80A 2B2693B2
 exphar.sn.		43200	IN	NS	ns200.anycast.me.
 exphar.sn.		43200	IN	NS	dns200.anycast.me.
-expodubaisenegal.sn.	172800	IN	RRSIG	DS 13 2 172800 20220116140230 20211117130331 9009 sn. FS7SU4NLuR8o+U80hE4FnZ7D35OTEHGMuhfJGTAD+C6UzeAdIVg51nwQ ReUlqUPxI5SFkHW78HnkTiVrjmI2Yw==
+expodubaisenegal.sn.	172800	IN	RRSIG	DS 13 2 172800 20220303131553 20220102130230 9009 sn. 2Xfa0KWwSPLY8vlsmNx9w++B7C5Nmb5o9G5w6HcubhDglj8h4+V6dIz7 MB/AFR6McD7YlNFJSwQ5Cn4p/M0Z8w==
 expodubaisenegal.sn.	172800	IN	DS	63229 8 1 72138DB19641B366901DD22EE98D67F7815F2661
 expodubaisenegal.sn.	172800	IN	NS	nsa.n0c.com.
 expodubaisenegal.sn.	172800	IN	NS	nsb.n0c.com.
@@ -16610,7 +16609,7 @@ secomar.sn.		43200	IN	NS	dns200.anycast.me.
 secopower.sn.		43200	IN	NS	dns1.softdom.com.
 secopower.sn.		43200	IN	NS	dns2.softdom.com.
 secopower.sn.		43200	IN	NS	dns3.softdom.com.
-sectronic.sn.		172800	IN	RRSIG	DS 13 2 172800 20220116123354 20211117120549 9009 sn. 2ro9bim+6rIwGNB9WeQKYD8QBJbakX36A1YiSqYkaYMv/Jf1S7jiqJlD iBzeZDZBHTr7QvqFYKDItRGk/QMNmA==
+sectronic.sn.		172800	IN	RRSIG	DS 13 2 172800 20220303123126 20220102113354 9009 sn. OMxQ2NkaE3pMto2cv7Z5ZYPZb6zrRy/eeBL6INU5ADxYsZMqbkb9OhgF vr6OfOO94FpVLKa4h1huUEyV+B0+Bg==
 sectronic.sn.		172800	IN	DS	30055 8 2 CAF37AC0BD7DF5A3EB0AB8F6B513EDFB508225EDB35112A631A373EB 9E77C5C6
 sectronic.sn.		172800	IN	NS	ns11.ovh.net.
 sectronic.sn.		172800	IN	NS	dns11.ovh.net.
