@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2021123001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022010301 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -2218,8 +2218,8 @@ ns2.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::2:66
 ns2.matilde.com.cv.	28800	IN	A	185.136.97.66
 ns3.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::3:66
 ns3.matilde.com.cv.	28800	IN	A	185.136.98.66
-ns4.matilde.com.cv.	28800	IN	A	185.136.99.66
 ns4.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::4:66
+ns4.matilde.com.cv.	28800	IN	A	185.136.99.66
 mediq.com.cv.		28800	IN	NS	nsgbr.comlaude.co.uk.
 mediq.com.cv.		28800	IN	NS	nssui.comlaude.ch.
 mediq.com.cv.		28800	IN	NS	nsusa.comlaude.net.
@@ -2334,11 +2334,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
-nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
+nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -2579,9 +2579,9 @@ winners.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
 wisemach.com.cv.	28800	IN	NS	ns01.trademarkarea.com.
 wisemach.com.cv.	28800	IN	NS	ns02.trademarkarea.com.
 wisemach.com.cv.	28800	IN	NS	ns03.trademarkarea.com.
+xoom.com.cv.		28800	IN	AAAA	2001:67c:1bc::2
 xoom.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 xoom.com.cv.		28800	IN	NS	ns2.markmonitor.com.
-xoom.com.cv.		28800	IN	AAAA	2001:67c:1bc::2
 youtube.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 youtube.com.cv.		28800	IN	NS	ns3.markmonitor.com.
 comandoregionaldapraia.cv. 28800 IN	NS	ns7.securenet-server.net.
@@ -6237,6 +6237,9 @@ pgbspensao.cv.		28800	IN	NS	dns1.prime.cv.
 pgbspensao.cv.		28800	IN	NS	dns2.prime.cv.
 pgr.cv.			28800	IN	NS	ns1.gov.cv.
 pgr.cv.			28800	IN	NS	ns2.gov.cv.
+phcsoftware.cv.		28800	IN	NS	ns01.trademarkarea.com.
+phcsoftware.cv.		28800	IN	NS	ns02.trademarkarea.com.
+phcsoftware.cv.		28800	IN	NS	ns03.trademarkarea.com.
 photogira.cv.		86400	IN	NS	ns1.webs24h.com.
 photogira.cv.		86400	IN	NS	ns2.webs24h.com.
 physios.cv.		28800	IN	AAAA	2001:67c:1bc::104
@@ -6364,10 +6367,10 @@ pratex.cv.		28800	IN	NS	ns3.digitalocean.com.
 predio.cv.		28800	IN	NS	ns1.dreamhost.com.
 predio.cv.		28800	IN	NS	ns2.dreamhost.com.
 predio.cv.		28800	IN	NS	ns3.dreamhost.com.
-presidencia.cv.		28800	IN	A	41.221.194.233
-presidencia.cv.		28800	IN	A	41.221.194.234
 presidencia.cv.		28800	IN	NS	ns1.servconfig.com.
 presidencia.cv.		28800	IN	NS	ns2.servconfig.com.
+presidencia.cv.		28800	IN	A	41.221.194.233
+presidencia.cv.		28800	IN	A	41.221.194.234
 presidenciais2011.cv.	28800	IN	NS	ns1.gov.cv.
 presidenciais2011.cv.	28800	IN	NS	ns2.gov.cv.
 prevencaorodoviaria.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
@@ -6485,10 +6488,10 @@ psicoterapia.cv.	28800	IN	NS	ns1.dns-parking.com.
 psicoterapia.cv.	28800	IN	NS	ns2.dns-parking.com.
 anacao.publ.cv.		28800	IN	NS	ns1.weblx-0.net.
 anacao.publ.cv.		28800	IN	NS	ns2.weblx-0.net.
+asemana.publ.cv.	28800	IN	AAAA	2a01:68:100:1::2
 asemana.publ.cv.	28800	IN	A	91.121.162.16
 asemana.publ.cv.	28800	IN	NS	ns1.efedus.com.
 asemana.publ.cv.	28800	IN	NS	ns2.efedus.com.
-asemana.publ.cv.	28800	IN	AAAA	2a01:68:100:1::2
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1819
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1827
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1981
@@ -7032,11 +7035,11 @@ serralhariavidal.cv.	28800	IN	NS	ns59.domaincontrol.com.
 serralhariavidal.cv.	28800	IN	NS	ns60.domaincontrol.com.
 serralheriaandrade.cv.	28800	IN	NS	ns1000.mochahost.com.
 serralheriaandrade.cv.	28800	IN	NS	ns2000.mochahost.com.
+servicesound.cv.	28800	IN	A	66.96.142.162
+servicesound.cv.	28800	IN	A	66.96.142.163
 servicesound.cv.	28800	IN	NS	ns1.wtservers.com.
 servicesound.cv.	28800	IN	NS	ns2.wtservers.com.
 servicesound.cv.	28800	IN	NS	ns3.wtservers.com.
-servicesound.cv.	28800	IN	A	66.96.142.162
-servicesound.cv.	28800	IN	A	66.96.142.163
 servintil.cv.		28800	IN	NS	ns1.ipage.com.
 servintil.cv.		28800	IN	NS	ns2.ipage.com.
 sesis.cv.		28800	IN	NS	ns1.bugbyte.pt.
@@ -7389,11 +7392,11 @@ squad.cv.		28800	IN	NS	ns02.trademarkarea.com.
 squad.cv.		28800	IN	NS	ns03.trademarkarea.com.
 square.cv.		28800	IN	NS	ns1.siteground263.com.
 square.cv.		28800	IN	NS	ns2.siteground263.com.
-src.cv.			86400	IN	NS	ns1.webs24h.com.
-src.cv.			86400	IN	NS	ns2.webs24h.com.
 src.cv.			28800	IN	AAAA	2001:4cc0:3:a::6dfe
 src.cv.			28800	IN	AAAA	2001:4cc0:4:10::5
 src.cv.			28800	IN	A	91.198.47.1
+src.cv.			86400	IN	NS	ns1.webs24h.com.
+src.cv.			86400	IN	NS	ns2.webs24h.com.
 ssaadvogados.cv.	28800	IN	NS	dns1.host-redirect.com.
 ssaadvogados.cv.	28800	IN	NS	dns2.host-redirect.com.
 ssaadvogados.cv.	28800	IN	NS	dns3.host-redirect.com.
@@ -8000,11 +8003,11 @@ verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
-verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
-verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
 verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
 verdefam.cv.		28800	IN	A	5.189.191.29
 verdefam.cv.		28800	IN	A	79.143.182.242
+verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
+verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
 verdelines.cv.		28800	IN	NS	ns1.contabo.net.
 verdelines.cv.		28800	IN	NS	ns2.contabo.net.
 verdelines.cv.		28800	IN	NS	ns3.contabo.net.
@@ -8115,12 +8118,12 @@ vulcanico.cv.		28800	IN	NS	ns1.capeverdehosting.com.
 vulcanico.cv.		28800	IN	NS	ns2.capeverdehosting.com.
 mail.vulcanico.cv.	28800	IN	A	184.168.119.98
 ns.vulcanico.cv.	28800	IN	A	184.168.119.98
-vunku.cv.		28800	IN	A	45.154.66.253
-vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 vunku.cv.		28800	IN	NS	ns1.linxisp.net.
 vunku.cv.		28800	IN	NS	ns2.linxisp.net.
 vunku.cv.		28800	IN	NS	ns3.linxisp.net.
 vunku.cv.		28800	IN	NS	ns4.linxisp.net.
+vunku.cv.		28800	IN	A	45.154.66.253
+vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 wag.cv.			28800	IN	NS	ns1.wtservers.com.
 wag.cv.			28800	IN	NS	ns2.wtservers.com.
 wag.cv.			28800	IN	NS	ns3.wtservers.com.
