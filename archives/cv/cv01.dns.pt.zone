@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022010301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022010401 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -2334,11 +2334,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
+nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
-nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -7514,6 +7514,10 @@ sys.cv.			28800	IN	NS	ns1.webhs.org.
 sys.cv.			28800	IN	NS	ns2.webhs.org.
 sys.cv.			28800	IN	NS	ns3.webhs.org.
 sys.cv.			28800	IN	NS	ns4.webhs.org.
+sysconsult.cv.		28800	IN	NS	dns.sysconsult.cv.
+sysconsult.cv.		28800	IN	NS	dns2.sysconsult.cv.
+dns.sysconsult.cv.	28800	IN	A	212.55.141.41
+dns2.sysconsult.cv.	28800	IN	A	212.55.141.33
 systec.cv.		28800	IN	NS	ns1.efeito.net.
 systec.cv.		28800	IN	NS	ns2.efeito.net.
 tacv.cv.		28800	IN	NS	ns1.tacv.cv.
@@ -7995,12 +7999,12 @@ vendus.cv.		28800	IN	NS	ns1.vendus.com.
 vendus.cv.		28800	IN	NS	ns2.vendus.com.
 vendus.cv.		28800	IN	NS	ns3.vendus.com.
 vendus.cv.		28800	IN	NS	ns4.vendus.com.
-verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
-verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 verdeana.cv.		28800	IN	NS	ns101.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns102.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
+verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
+verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
 verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
@@ -8118,12 +8122,12 @@ vulcanico.cv.		28800	IN	NS	ns1.capeverdehosting.com.
 vulcanico.cv.		28800	IN	NS	ns2.capeverdehosting.com.
 mail.vulcanico.cv.	28800	IN	A	184.168.119.98
 ns.vulcanico.cv.	28800	IN	A	184.168.119.98
+vunku.cv.		28800	IN	A	45.154.66.253
+vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 vunku.cv.		28800	IN	NS	ns1.linxisp.net.
 vunku.cv.		28800	IN	NS	ns2.linxisp.net.
 vunku.cv.		28800	IN	NS	ns3.linxisp.net.
 vunku.cv.		28800	IN	NS	ns4.linxisp.net.
-vunku.cv.		28800	IN	A	45.154.66.253
-vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 wag.cv.			28800	IN	NS	ns1.wtservers.com.
 wag.cv.			28800	IN	NS	ns2.wtservers.com.
 wag.cv.			28800	IN	NS	ns3.wtservers.com.
