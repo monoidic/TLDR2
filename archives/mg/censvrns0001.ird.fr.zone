@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010417 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010421 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641283284"
+mg.			7200	IN	TXT	"Generation Time: 1641290489"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -912,6 +912,8 @@ app.mg.			7200	IN	NS	ns2.digitalocean.com.
 app.mg.			7200	IN	NS	ns3.digitalocean.com.
 appam.mg.		7200	IN	NS	dns1.supremepanel.com.
 appam.mg.		7200	IN	NS	dns2.supremepanel.com.
+appel.mg.		7200	IN	NS	ns1.ntmada-webhosting.com.
+appel.mg.		7200	IN	NS	ns2.ntmada-webhosting.com.
 appel-offres-madagascar.mg. 7200 IN	NS	nsa.planethoster.net.
 appel-offres-madagascar.mg. 7200 IN	NS	nsb.planethoster.net.
 appel-offres-madagascar.mg. 7200 IN	NS	nsc.planethoster.net.
@@ -6329,8 +6331,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9938,6 +9940,8 @@ tanawaterfront.mg.	86400	IN	NS	ns2.evm1295.sgvps.net.
 tandem-conseil.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 tandem-conseil.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 tandem-conseil.mg.	86400	IN	NS	ns1.fr.malagasy.com.
+tandramenasupermarket.mg. 86400	IN	NS	ns1.ntmada-webhosting.com.
+tandramenasupermarket.mg. 86400	IN	NS	ns2.ntmada-webhosting.com.
 tanetylava.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 tanetylava.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 tanetylava.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -10781,8 +10785,8 @@ visit.mg.		86400	IN	NS	gwen.ns.cloudflare.com.
 visit.mg.		86400	IN	NS	lynn.ns.cloudflare.com.
 vistaprint.mg.		86400	IN	NS	ns2.markmonitor.com.
 vistaprint.mg.		86400	IN	NS	ns1.markmonitor.com.
-vita.mg.		86400	IN	NS	ns1.malagasy-hosting.com.
-vita.mg.		86400	IN	NS	ns2.malagasy-hosting.com.
+vita.mg.		86400	IN	NS	ns1.hostns.io.
+vita.mg.		86400	IN	NS	ns2.hostns.io.
 vita-malagasy.mg.	86400	IN	NS	ns1.servermada.com.
 vita-malagasy.mg.	86400	IN	NS	ns2.servermada.com.
 vita-shop.mg.		86400	IN	NS	ns32.infomaniak.com.
