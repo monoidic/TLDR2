@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010505 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641355225"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010507 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641362428"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -719,8 +719,16 @@ ns2.4sale.ng.		3600	IN	A	179.61.137.235
 88logistics.ng.		3600	IN	NS	nsb.whogohost.com.
 894.ng.			3600	IN	NS	ns1.linkservehost.com.
 894.ng.			3600	IN	NS	ns2.linkservehost.com.
+894bank.ng.		3600	IN	NS	ns1.linkservehost.com.
+894bank.ng.		3600	IN	NS	ns2.linkservehost.com.
+894banking.ng.		3600	IN	NS	ns1.linkservehost.com.
+894banking.ng.		3600	IN	NS	ns2.linkservehost.com.
 894online.ng.		3600	IN	NS	ns1.linkservehost.com.
 894online.ng.		3600	IN	NS	ns2.linkservehost.com.
+894ussd.ng.		3600	IN	NS	ns1.linkservehost.com.
+894ussd.ng.		3600	IN	NS	ns2.linkservehost.com.
+894web.ng.		3600	IN	NS	ns1.linkservehost.com.
+894web.ng.		3600	IN	NS	ns2.linkservehost.com.
 8md.ng.			3600	IN	NS	nsa.whogohost.com.
 8md.ng.			3600	IN	NS	nsb.whogohost.com.
 8mg.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -5775,6 +5783,12 @@ axieva.ng.		3600	IN	NS	pns31.cloudns.net.
 axieva.ng.		3600	IN	NS	pns32.cloudns.net.
 axieva.ng.		3600	IN	NS	pns33.cloudns.net.
 axieva.ng.		3600	IN	NS	pns34.cloudns.net.
+axiongroup.ng.		3600	IN	NS	ns1.cloudoon.com.
+axiongroup.ng.		3600	IN	NS	ns2.cloudoon.com.
+axiongroup.ng.		3600	IN	NS	ns3.cloudoon.com.
+axiontechnologies.ng.	3600	IN	NS	ns1.cloudoon.com.
+axiontechnologies.ng.	3600	IN	NS	ns2.cloudoon.com.
+axiontechnologies.ng.	3600	IN	NS	ns3.cloudoon.com.
 axiontv.ng.		3600	IN	NS	ns1.cloudoon.com.
 axiontv.ng.		3600	IN	NS	ns2.cloudoon.com.
 axiontv.ng.		3600	IN	NS	ns3.cloudoon.com.
@@ -17120,6 +17134,8 @@ devco.ng.		3600	IN	NS	nsa.whogohost.com.
 devco.ng.		3600	IN	NS	nsb.whogohost.com.
 devcom.ng.		3600	IN	NS	ns7.garanntor.net.
 devcom.ng.		3600	IN	NS	ns8.garanntor.net.
+develop.ng.		3600	IN	NS	ns1.sedoparking.com.
+develop.ng.		3600	IN	NS	ns2.sedoparking.com.
 developer.ng.		3600	IN	NS	ns1.dknoc.com.
 developer.ng.		3600	IN	NS	ns2.dknoc.com.
 developers.ng.		3600	IN	NS	ns1.dknoc.com.
@@ -31356,9 +31372,8 @@ iih.ng.			3600	IN	NS	nsa.whogohost.com.
 iih.ng.			3600	IN	NS	nsb.whogohost.com.
 iiibf-buk.ng.		3600	IN	NS	ns9.syskay.com.
 iiibf-buk.ng.		3600	IN	NS	ns10.syskay.com.
-iips.ng.		3600	IN	NS	cdns1.interserver.net.
-iips.ng.		3600	IN	NS	cdns2.interserver.net.
-iips.ng.		3600	IN	NS	cdns3.interserver.net.
+iips.ng.		3600	IN	NS	ns1.webhostinghub.com.
+iips.ng.		3600	IN	NS	ns2.webhostinghub.com.
 iisysgroup.ng.		3600	IN	NS	nsa.whogohost.com.
 iisysgroup.ng.		3600	IN	NS	nsb.whogohost.com.
 iit.ng.			3600	IN	NS	ns1.bluehost.com.
@@ -42875,6 +42890,14 @@ my833.ng.		3600	IN	NS	ns1.linkservehost.com.
 my833.ng.		3600	IN	NS	ns2.linkservehost.com.
 my894.ng.		3600	IN	NS	ns1.linkservehost.com.
 my894.ng.		3600	IN	NS	ns2.linkservehost.com.
+my894bank.ng.		3600	IN	NS	ns1.linkservehost.com.
+my894bank.ng.		3600	IN	NS	ns2.linkservehost.com.
+my894banking.ng.	3600	IN	NS	ns1.linkservehost.com.
+my894banking.ng.	3600	IN	NS	ns2.linkservehost.com.
+my894ussd.ng.		3600	IN	NS	ns1.linkservehost.com.
+my894ussd.ng.		3600	IN	NS	ns2.linkservehost.com.
+my894web.ng.		3600	IN	NS	ns1.linkservehost.com.
+my894web.ng.		3600	IN	NS	ns2.linkservehost.com.
 my901.ng.		3600	IN	NS	ns1.linkservehost.com.
 my901.ng.		3600	IN	NS	ns2.linkservehost.com.
 my909.ng.		3600	IN	NS	ns1.linkservehost.com.
@@ -44907,8 +44930,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -45814,8 +45837,8 @@ nigex.ng.		3600	IN	NS	ns1.qservers.net.
 nigex.ng.		3600	IN	NS	ns2.qservers.net.
 nigger.ng.		3600	IN	NS	hope.ns.cloudflare.com.
 nigger.ng.		3600	IN	NS	jake.ns.cloudflare.com.
-nightangle.ng.		3600	IN	NS	nsa.whogohost.com.
-nightangle.ng.		3600	IN	NS	nsb.whogohost.com.
+nightangle.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+nightangle.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 nightclub.ng.		3600	IN	NS	ns1.sedoparking.com.
 nightclub.ng.		3600	IN	NS	ns2.sedoparking.com.
 nightingale.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -73309,6 +73332,7 @@ yinya.ng.		3600	IN	NS	nsa.whogohost.com.
 yinya.ng.		3600	IN	NS	nsb.whogohost.com.
 yip.ng.			3600	IN	NS	ns1.yiponline.com.
 yip.ng.			3600	IN	NS	ns2.yiponline.com.
+yipe.ng.		86400	IN	DS	2371 13 2 F6DDEB1DB6DAB48949668B9C25941A4C64A0A21277717B1CF66AA576 C5AAEAC4
 yipe.ng.		3600	IN	NS	clint.ns.cloudflare.com.
 yipe.ng.		3600	IN	NS	addyson.ns.cloudflare.com.
 yito.ng.		3600	IN	NS	tom.ns.cloudflare.com.
