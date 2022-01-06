@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010610 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010612 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641463284"
+mg.			7200	IN	TXT	"Generation Time: 1641470489"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -323,6 +323,8 @@ abcdom.mg.		7200	IN	NS	ns1.cloudns.io.
 abcdom.mg.		7200	IN	NS	ns2.cloudns.io.
 abchr.mg.		7200	IN	NS	ns1.cloudns.io.
 abchr.mg.		7200	IN	NS	ns2.cloudns.io.
+abelleca.mg.		7200	IN	NS	ns1.gasyweb.com.
+abelleca.mg.		7200	IN	NS	ns2.gasyweb.com.
 abidys.mg.		7200	IN	NS	ns1.madanetinfo.mg.
 abidys.mg.		7200	IN	NS	ns2.madanetinfo.mg.
 abm-construction.mg.	7200	IN	NS	ns1.ntmada-webhosting.com.
@@ -491,6 +493,8 @@ agence-web-madagascar.mg. 7200	IN	NS	apollo.ns.cloudflare.com.
 agence-web-madagascar.mg. 7200	IN	NS	sofia.ns.cloudflare.com.
 agencegenerale.mg.	7200	IN	NS	ns1.hostns.io.
 agencegenerale.mg.	7200	IN	NS	ns2.hostns.io.
+agenceroutiere.mg.	7200	IN	NS	brett.ns.cloudflare.com.
+agenceroutiere.mg.	7200	IN	NS	margot.ns.cloudflare.com.
 agenceroutiere.mg.	7200	IN	NS	ns1.ipage.com.
 agenceroutiere.mg.	7200	IN	NS	ns2.ipage.com.
 agenceweb.mg.		7200	IN	NS	ns1.o2switch.net.
@@ -889,6 +893,8 @@ apex-reanda.mg.		7200	IN	NS	ns11.cloudns.net.
 apex-reanda.mg.		7200	IN	NS	ns12.cloudns.net.
 apex-reanda.mg.		7200	IN	NS	ns13.cloudns.net.
 apex-reanda.mg.		7200	IN	NS	ns14.cloudns.net.
+api.mg.			7200	IN	NS	brett.ns.cloudflare.com.
+api.mg.			7200	IN	NS	margot.ns.cloudflare.com.
 api.mg.			7200	IN	NS	ns1.ipage.com.
 api.mg.			7200	IN	NS	ns2.ipage.com.
 apimfmada.mg.		7200	IN	NS	ns.tgn.mg.
@@ -6339,8 +6345,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
