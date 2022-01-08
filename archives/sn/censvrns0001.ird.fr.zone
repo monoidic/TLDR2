@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420242 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220309201002 20220108191002 9009 sn. 3RJP35lNIr2yspGpETw6ZcNB+lGNe+SAiNwXpe55zYQWFNQpKUUFjOOy UTpV3+FrjKLSBRJT71q+t88oTgAupQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420255 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220309222002 20220108212002 9009 sn. 9U9avTdivk1mAj8XOZKik4Kk9s90slF/WxqA2NbZvng+2hL38sd/qLZ2 G012wCvGddy147gnJ6Px7fsuBCl2pQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
-sn.			172800	IN	TXT	"No RRs processed [08/01/2022 21H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220305111136 20220108191002 9009 sn. k8klFLopKJLDHl+dx3J3aKe0O40hjmRxAjtMoxtKgZb3SaCSITuGfbey i0gbFU+69e6hXxJLWv1/mmT+B0VQNA==
+sn.			172800	IN	TXT	"No RRs processed [08/01/2022 23H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220228172225 20220108212002 9009 sn. cxk/lUS+tEZ1cWc5PmlEhXWQWAVNilV3uRqdtfDsDFOJjuGM2bE4rOng rlRNSPsam7B1EaHEITFJ7ln2p5rVSQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -9585,9 +9585,8 @@ iman.sn.		43200	IN	DS	41287 8 2 E4B326A460B4CB555ACA6A4FBD4A204BD01E9B397D0613BC
 iman.sn.		43200	IN	RRSIG	DS 13 2 43200 20220211050258 20211213042119 9009 sn. aekSYvcusgnGQwtKjzLGGeSB/Jyx8GGuKkUWnvic6yjIvVoSprC2N1IA lIu7eTfJxGgJhn9Eme6teJf1KCcYcQ==
 imbewu.sn.		172800	IN	NS	ns106.ovh.net.
 imbewu.sn.		172800	IN	NS	dns106.ovh.net.
-imbs.sn.		43200	IN	NS	nsa.planethoster.net.
-imbs.sn.		43200	IN	NS	nsb.planethoster.net.
-imbs.sn.		43200	IN	NS	nsc.planethoster.net.
+imbs.sn.		172800	IN	NS	domain-expired.planethoster.net.
+imbs.sn.		172800	IN	NS	expired-domain.planethoster.net.
 imc.sn.			43200	IN	NS	ns1.kheweul.net.
 imc.sn.			43200	IN	NS	ns2.kheweul.net.
 imc.sn.			43200	IN	NS	ns3.kheweul.net.

@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010821 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641672040"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010823 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641679225"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -44965,8 +44965,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -54731,6 +54731,8 @@ rechargecenter.ng.	3600	IN	NS	nsa.whogohost.com.
 rechargecenter.ng.	3600	IN	NS	nsb.whogohost.com.
 rechargehub.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 rechargehub.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+rechargeking.ng.	3600	IN	NS	ns1.mobileoneapp.net.
+rechargeking.ng.	3600	IN	NS	ns2.mobileoneapp.net.
 rechargepower.ng.	3600	IN	NS	nsa.whogohost.com.
 rechargepower.ng.	3600	IN	NS	nsb.whogohost.com.
 rechargepro.ng.		3600	IN	NS	ns1045.ui-dns.de.
@@ -58479,6 +58481,8 @@ seychelles.ng.		3600	IN	NS	ns1.nira.org.ng.
 seytu.ng.		3600	IN	NS	ns1.instradns.com.
 seytu.ng.		3600	IN	NS	ns2.instradns.com.
 seytu.ng.		3600	IN	NS	ns3.instradns.com.
+sfc.ng.			3600	IN	NS	ns5.speedyconnect.net.
+sfc.ng.			3600	IN	NS	ns6.speedyconnect.net.
 sfl.ng.			3600	IN	NS	ns1.whogohost.com.
 sfl.ng.			3600	IN	NS	ns2.whogohost.com.
 sfmarina.ng.		3600	IN	NS	ns1.abedns.se.
@@ -65145,9 +65149,9 @@ thebest.ng.		3600	IN	NS	nsa.whogohost.com.
 thebest.ng.		3600	IN	NS	nsb.whogohost.com.
 thebestfirst.ng.	3600	IN	NS	dns1.cscdns.net.
 thebestfirst.ng.	3600	IN	NS	dns2.cscdns.net.
-thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigbo.ng.		3600	IN	NS	ns3.epik.com.
 thebigbo.ng.		3600	IN	NS	ns4.epik.com.
+thebigbo.ng.		86400	IN	DS	21109 13 2 3709A850D7BA9484CE0A27B4D4688E7EEB02A938965996931D1F0BA8 BA9B15A8
 thebigdeal.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 thebigdeal.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 thebignews.ng.		3600	IN	NS	dns1.supremedns.com.
@@ -66597,8 +66601,10 @@ tmsnews.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 tmsnews.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 tmtleds.ng.		3600	IN	NS	nsa.whogohost.com.
 tmtleds.ng.		3600	IN	NS	nsb.whogohost.com.
-tmz.ng.			3600	IN	NS	nola.ns.cloudflare.com.
-tmz.ng.			3600	IN	NS	david.ns.cloudflare.com.
+tmz.ng.			3600	IN	NS	ns1.ultahost.com.
+tmz.ng.			3600	IN	NS	ns2.ultahost.com.
+tmz.ng.			3600	IN	NS	ns3.ultahost.com.
+tmz.ng.			3600	IN	NS	ns4.ultahost.com.
 tni.ng.			3600	IN	NS	ns1.dns-parking.com.
 tni.ng.			3600	IN	NS	ns2.dns-parking.com.
 tnl.ng.			3600	IN	NS	ns1.rdm.ng.
@@ -68607,8 +68613,8 @@ uncommonsense.ng.	3600	IN	NS	nsa.whogohost.com.
 uncommonsense.ng.	3600	IN	NS	nsb.whogohost.com.
 uncover.ng.		3600	IN	NS	dns1.doveserver.com.
 uncover.ng.		3600	IN	NS	dns2.doveserver.com.
-unda.ng.		3600	IN	NS	ns1.vercel-dns.com.
-unda.ng.		3600	IN	NS	ns2.vercel-dns.com.
+unda.ng.		3600	IN	NS	celine.ns.cloudflare.com.
+unda.ng.		3600	IN	NS	kolton.ns.cloudflare.com.
 undefeated.ng.		3600	IN	NS	ns3.doveserver.com.
 undefeated.ng.		3600	IN	NS	ns4.doveserver.com.
 undefined.ng.		3600	IN	NS	nsa.whogohost.com.
