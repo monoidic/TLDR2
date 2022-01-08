@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420122 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220309002002 20220107232002 9009 sn. iEuVB2M5CkURjCOY2br9iOnhzEg2EHKfQ+sijk2CfQzIHia1ARZxhHdE BmGJUEjbpAboiQh01Ea5ljj6nekl5A==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420137 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220309025002 20220108015002 9009 sn. uLV/9NGmJdiRu52EL44aXQdVs4RDXMP4HLZtsMUrq8kof2eTX6/vkY/9 CKxn9hHluIJCnIJYEMh6zrt3O55FmA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
-sn.			172800	IN	TXT	"No RRs processed [08/01/2022 01H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220216174847 20220107232002 9009 sn. XNzavaAmVjfgs7QA84ejD3ZbnaYRFWABJlI8C/XvuCs9xrKhyv0RVCyH 1K5iHvQiNwiuN2hKRSqZc5ewbDMfvw==
+sn.			172800	IN	TXT	"No RRs processed [08/01/2022 03H50:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220122062218 20220108015002 9009 sn. 0frYIrT4wMEFUkdoDyqhPIDGlMaxheKy61ExHzr7Zv2LkourUgh6iVGD OIkfI7KWFWbzUo6/SadmO02Kjte7Jw==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -324,6 +324,8 @@ absolut.sn.		43200	IN	NS	dns1.cscdns.net.
 absolut.sn.		43200	IN	NS	dns2.cscdns.net.
 abt.sn.			43200	IN	NS	ns200.anycast.me.
 abt.sn.			43200	IN	NS	dns200.anycast.me.
+abtec.sn.		172800	IN	NS	ns200.anycast.me.
+abtec.sn.		172800	IN	NS	dns200.anycast.me.
 abx.sn.			172800	IN	NS	ns5.jokko-hosting.com.
 abx.sn.			172800	IN	NS	ns6.jokko-hosting.com.
 aca.sn.			43200	IN	NS	ns1.bluehost.com.
