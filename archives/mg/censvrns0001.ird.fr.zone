@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010812 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022010814 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641643283"
+mg.			7200	IN	TXT	"Generation Time: 1641650488"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -495,8 +495,6 @@ agencegenerale.mg.	7200	IN	NS	ns1.hostns.io.
 agencegenerale.mg.	7200	IN	NS	ns2.hostns.io.
 agenceroutiere.mg.	7200	IN	NS	brett.ns.cloudflare.com.
 agenceroutiere.mg.	7200	IN	NS	margot.ns.cloudflare.com.
-agenceroutiere.mg.	7200	IN	NS	ns1.ipage.com.
-agenceroutiere.mg.	7200	IN	NS	ns2.ipage.com.
 agenceweb.mg.		7200	IN	NS	ns1.o2switch.net.
 agenceweb.mg.		7200	IN	NS	ns2.o2switch.net.
 ageru.mg.		7200	IN	NS	ns1.onyx.cloudns.io.
@@ -897,8 +895,6 @@ apex-reanda.mg.		7200	IN	NS	ns13.cloudns.net.
 apex-reanda.mg.		7200	IN	NS	ns14.cloudns.net.
 api.mg.			7200	IN	NS	brett.ns.cloudflare.com.
 api.mg.			7200	IN	NS	margot.ns.cloudflare.com.
-api.mg.			7200	IN	NS	ns1.ipage.com.
-api.mg.			7200	IN	NS	ns2.ipage.com.
 apimfmada.mg.		7200	IN	NS	ns.tgn.mg.
 apimfmada.mg.		7200	IN	NS	ns1.tgn.mg.
 apiqa.mg.		7200	IN	NS	ns1705.websitewelcome.com.
@@ -6274,9 +6270,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -7487,8 +7483,6 @@ novity.mg.		86400	IN	NS	ns1.dagocloud.com.
 novity.mg.		86400	IN	NS	ns2.dagocloud.com.
 novo-comm.mg.		86400	IN	NS	brett.ns.cloudflare.com.
 novo-comm.mg.		86400	IN	NS	margot.ns.cloudflare.com.
-novo-comm.mg.		86400	IN	NS	ns1.ipage.com.
-novo-comm.mg.		86400	IN	NS	ns2.ipage.com.
 now.mg.			86400	IN	NS	ns1.domaindiscount24.net.
 now.mg.			86400	IN	NS	ns2.domaindiscount24.net.
 now.mg.			86400	IN	NS	ns3.domaindiscount24.net.
@@ -8567,8 +8561,6 @@ ram.mg.			86400	IN	NS	ns1.extra.chrysler.com.
 ram.mg.			86400	IN	NS	ns2.extra.chrysler.com.
 ramanitra.mg.		86400	IN	NS	brett.ns.cloudflare.com.
 ramanitra.mg.		86400	IN	NS	margot.ns.cloudflare.com.
-ramanitra.mg.		86400	IN	NS	ns1.ipage.com.
-ramanitra.mg.		86400	IN	NS	ns2.ipage.com.
 ramatoa.mg.		86400	IN	NS	ns1.cloudns.io.
 ramatoa.mg.		86400	IN	NS	ns2.cloudns.io.
 ramboloson.mg.		86400	IN	NS	dns14.ovh.net.
@@ -10585,8 +10577,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
