@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010809 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641628832"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010811 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641636034"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -16282,6 +16282,8 @@ dangote.ng.		3600	IN	NS	ns1.whogohost.com.
 dangote.ng.		3600	IN	NS	ns2.whogohost.com.
 daniel.ng.		3600	IN	NS	alice.ns.cloudflare.com.
 daniel.ng.		3600	IN	NS	nitin.ns.cloudflare.com.
+danieligoh.ng.		3600	IN	NS	nsa.whogohost.com.
+danieligoh.ng.		3600	IN	NS	nsb.whogohost.com.
 danielonjeh.ng.		3600	IN	NS	nsa.whogohost.com.
 danielonjeh.ng.		3600	IN	NS	nsb.whogohost.com.
 daniels.ng.		3600	IN	NS	ns1.seehost.net.
@@ -44942,8 +44944,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -48816,10 +48818,8 @@ oscar.ng.		3600	IN	NS	ns5.garanntor.net.
 oscar.ng.		3600	IN	NS	ns6.garanntor.net.
 oscht.ng.		3600	IN	NS	ns1.upperserver20.com.
 oscht.ng.		3600	IN	NS	ns2.upperserver20.com.
-osdom.ng.		3600	IN	NS	ns1.osdom.ng.
-osdom.ng.		3600	IN	NS	ns2.osdom.ng.
-ns1.osdom.ng.		3600	IN	A	82.223.103.22
-ns2.osdom.ng.		3600	IN	A	82.223.103.22
+osdom.ng.		3600	IN	NS	nsa.whogohost.com.
+osdom.ng.		3600	IN	NS	nsb.whogohost.com.
 osec.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 osec.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 osedayeba.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -54936,6 +54936,8 @@ refinanci.ng.		3600	IN	NS	ns1.sedoparking.com.
 refinanci.ng.		3600	IN	NS	ns2.sedoparking.com.
 refined.ng.		3600	IN	NS	nsa.whogohost.com.
 refined.ng.		3600	IN	NS	nsb.whogohost.com.
+refinedbranding.ng.	3600	IN	NS	ns41.qservers.net.
+refinedbranding.ng.	3600	IN	NS	ns42.qservers.net.
 refinitiv.ng.		3600	IN	NS	ns1.markmonitor.com.
 refinitiv.ng.		3600	IN	NS	ns2.markmonitor.com.
 refresh.ng.		3600	IN	NS	ns5.garanntor.net.
