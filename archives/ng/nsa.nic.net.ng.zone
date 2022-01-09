@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010909 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1641715235"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022010911 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1641722437"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -64520,6 +64520,8 @@ tee.ng.			3600	IN	NS	ns1.sedoparking.com.
 tee.ng.			3600	IN	NS	ns2.sedoparking.com.
 tee-effassociates.ng.	3600	IN	NS	ns17.garanntor.net.
 tee-effassociates.ng.	3600	IN	NS	ns18.garanntor.net.
+teeble.ng.		3600	IN	NS	ns33.qservers.net.
+teeble.ng.		3600	IN	NS	ns34.qservers.net.
 teejet.ng.		3600	IN	NS	dns1.cscdns.net.
 teejet.ng.		3600	IN	NS	dns2.cscdns.net.
 teekets.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -74050,8 +74052,10 @@ zoo.ng.			3600	IN	NS	ns1.dan.com.
 zoo.ng.			3600	IN	NS	ns2.dan.com.
 zoom.ng.		3600	IN	NS	nsa.whogohost.com.
 zoom.ng.		3600	IN	NS	nsb.whogohost.com.
-zoomba.ng.		3600	IN	NS	ns1.suspended-domain.com.
-zoomba.ng.		3600	IN	NS	ns2.suspended-domain.com.
+zoomba.ng.		3600	IN	NS	ns1.zoomba.ng.
+zoomba.ng.		3600	IN	NS	ns2.zoomba.ng.
+ns1.zoomba.ng.		3600	IN	A	198.54.113.2
+ns2.zoomba.ng.		3600	IN	A	198.54.113.2
 zoombet.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 zoombet.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 zoomclass.ng.		3600	IN	NS	ns3.dktlds.com.
