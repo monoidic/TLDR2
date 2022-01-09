@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420255 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220309222002 20220108212002 9009 sn. 9U9avTdivk1mAj8XOZKik4Kk9s90slF/WxqA2NbZvng+2hL38sd/qLZ2 G012wCvGddy147gnJ6Px7fsuBCl2pQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420266 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220310001002 20220108231002 9009 sn. t9joE9KH6lttiFMMHG9tz2cAxsJGSh469O5pBEn5vmZmQ9yRODJsdsQO JQ9mBIlZ3YVa5NKEVA/ZJUX0ckC7Dw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220225015852 20211227014229 9009 sn. CTrde/NhdqMhaE9fYPB6Uqjow3f09BW4ZK45H668NBKreojmODfrjniT vMjUGoopdNIWQQ2NCa0DdHiuu4O8og==
-sn.			172800	IN	TXT	"No RRs processed [08/01/2022 23H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220228172225 20220108212002 9009 sn. cxk/lUS+tEZ1cWc5PmlEhXWQWAVNilV3uRqdtfDsDFOJjuGM2bE4rOng rlRNSPsam7B1EaHEITFJ7ln2p5rVSQ==
+sn.			172800	IN	TXT	"No RRs processed [09/01/2022 01H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220128195443 20220108231002 9009 sn. Pyk7YyZzilwEP00U0e4lZ3iyULVo69EmIEVYy3NV5Smg2z0cxxYOWS5w y6d6byHRU+D0JC81ZYMbB84Ng6FsLQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -2874,8 +2874,8 @@ bmia.sn.		172800	IN	NS	ns3.ascio.com.
 bmia.sn.		172800	IN	NS	ns4.ascio.com.
 bmigroup.sn.		43200	IN	NS	dns1.cscdns.net.
 bmigroup.sn.		43200	IN	NS	dns2.cscdns.net.
-bmn.sn.			43200	IN	NS	ns1.host7x24.com.
-bmn.sn.			43200	IN	NS	ns2.host7x24.com.
+bmn.sn.			172800	IN	NS	ns200.anycast.me.
+bmn.sn.			172800	IN	NS	dns200.anycast.me.
 bmw.sn.			43200	IN	NS	dns1.cscdns.net.
 bmw.sn.			43200	IN	NS	dns2.cscdns.net.
 bnb.sn.			172800	IN	NS	ns1.squadhelp.com.
@@ -3050,6 +3050,8 @@ britishcouncil.sn.	43200	IN	NS	ns.sonatel.sn.
 britishcouncil.sn.	43200	IN	NS	ns2.sonatel.sn.
 brsafrica.sn.		43200	IN	NS	eisdns1.expertis.sn.
 brsafrica.sn.		43200	IN	NS	eisdns2.expertis.sn.
+brt.sn.			172800	IN	NS	ns10.ovh.ca.
+brt.sn.			172800	IN	NS	dns10.ovh.ca.
 brtdakar.sn.		43200	IN	NS	ns1.efedus.com.
 brtdakar.sn.		43200	IN	NS	ns2.efedus.com.
 bry.sn.			172800	IN	NS	ns1.dreamhost.com.
@@ -14304,8 +14306,8 @@ optimis.sn.		43200	IN	NS	ns10.ovh.net.
 optimis.sn.		43200	IN	NS	dns10.ovh.net.
 optimumcapital.sn.	43200	IN	NS	ns104.ovh.net.
 optimumcapital.sn.	43200	IN	NS	dns104.ovh.net.
-optimusprime.sn.	172800	IN	NS	ns106.ovh.net.
-optimusprime.sn.	172800	IN	NS	dns106.ovh.net.
+optimusprime.sn.	172800	IN	NS	ns16.ovh.net.
+optimusprime.sn.	172800	IN	NS	dns16.ovh.net.
 optimusprime.sn.	172800	IN	DS	60655 8 2 37B6C406BDDB15A5E11874BBBF20060ED870F730D54529D607C1927D 24908FDD
 optimusprime.sn.	172800	IN	RRSIG	DS 13 2 172800 20220129022634 20211130014842 9009 sn. 3xZi91w7SP42mXl3Ocm8oDJrCuyjEROdCN421J7oeZHA2PlHAMQsjHMt jv4jgGph74RSOOE2wa/hoAlfNytACA==
 optioncarriere.sn.	172800	IN	NS	ns-cloud-c1.googledomains.com.
