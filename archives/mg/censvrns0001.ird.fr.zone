@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011012 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011014 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641816092"
+mg.			7200	IN	TXT	"Generation Time: 1641823280"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -462,9 +462,8 @@ africa50.mg.		7200	IN	NS	dns103.ovh.net.
 africacoin.mg.		7200	IN	NS	ns1.francedns.com.
 africacoin.mg.		7200	IN	NS	ns2.francedns.com.
 africacoin.mg.		7200	IN	NS	ns3.francedns.com.
-africagreentec.mg.	7200	IN	NS	ns.udag.de.
-africagreentec.mg.	7200	IN	NS	ns.udag.net.
-africagreentec.mg.	7200	IN	NS	ns.udag.org.
+africagreentec.mg.	7200	IN	NS	james.ns.cloudflare.com.
+africagreentec.mg.	7200	IN	NS	uma.ns.cloudflare.com.
 africamagic.mg.		7200	IN	NS	ns1.mweb.co.za.
 africamagic.mg.		7200	IN	NS	ns2.mweb.co.za.
 africapay.mg.		7200	IN	NS	nscloud105.caphosting.com.
@@ -2926,6 +2925,8 @@ dite.mg.		7200	IN	NS	ns107.ovh.net.
 dj.mg.			7200	IN	NS	ns-89-a.gandi.net.
 dj.mg.			7200	IN	NS	ns-184-b.gandi.net.
 dj.mg.			7200	IN	NS	ns-223-c.gandi.net.
+dmsconsulting.mg.	7200	IN	NS	ns1.mada-webhosting.com.
+dmsconsulting.mg.	7200	IN	NS	ns2.mada-webhosting.com.
 dmt.mg.			7200	IN	NS	ns1.servermada.com.
 dmt.mg.			7200	IN	NS	ns2.servermada.com.
 dna.mg.			7200	IN	NS	ns1-boxer.vivawebhost.com.
@@ -6332,8 +6333,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.

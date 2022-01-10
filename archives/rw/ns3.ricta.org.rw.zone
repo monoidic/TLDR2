@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011012 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1641816082"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2022011014 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1641823276"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -4932,8 +4932,8 @@ goat.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 goat.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 goclinic.rw.		1800	IN	NS	ns5.afriregister.com.
 goclinic.rw.		1800	IN	NS	ns6.afriregister.com.
-gocook.rw.		1800	IN	NS	ns5.afriregister.co.ke.
-gocook.rw.		1800	IN	NS	ns6.afriregister.co.ke.
+gocook.rw.		1800	IN	NS	dns1.namecheaphosting.com.
+gocook.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 godaddy.rw.		1800	IN	NS	cns1.secureserver.net.
 godaddy.rw.		1800	IN	NS	cns2.secureserver.net.
 godigital.rw.		1800	IN	NS	ns1.megabithosting.com.
@@ -11705,6 +11705,10 @@ server.rw.		86400	IN	NS	ns1.parkingcrew.net.
 server.rw.		86400	IN	NS	ns2.parkingcrew.net.
 servexe.rw.		86400	IN	NS	ns207.websitewelcome.com.
 servexe.rw.		86400	IN	NS	ns208.websitewelcome.com.
+servicestatus.rw.	86400	IN	NS	ns1.stackdns.com.
+servicestatus.rw.	86400	IN	NS	ns2.stackdns.com.
+servicestatus.rw.	86400	IN	NS	ns3.stackdns.com.
+servicestatus.rw.	86400	IN	NS	ns4.stackdns.com.
 seso.rw.		86400	IN	NS	dns1.web-hosting.com.
 seso.rw.		86400	IN	NS	dns1.namecheaphosting.com.
 seso.rw.		86400	IN	NS	dns2.namecheaphosting.com.
@@ -13105,9 +13109,10 @@ trustworthytranslation.rw. 86400 IN	NS	ns1.adicthost.net.
 trustworthytranslation.rw. 86400 IN	NS	ns2.adicthost.net.
 tsdo.rw.		86400	IN	NS	ns5.afriregister.co.ke.
 tsdo.rw.		86400	IN	NS	ns6.afriregister.co.ke.
-tsrl.rw.		86400	IN	NS	ns3.afriregister.com.
-tsrl.rw.		86400	IN	NS	ns5.afriregister.com.
-tsrl.rw.		86400	IN	NS	ns6.afriregister.com.
+tsrl.rw.		86400	IN	NS	ns1.a2hosting.com.
+tsrl.rw.		86400	IN	NS	ns2.a2hosting.com.
+tsrl.rw.		86400	IN	NS	ns3.a2hosting.com.
+tsrl.rw.		86400	IN	NS	ns4.a2hosting.com.
 tsrtech.rw.		86400	IN	NS	ns4.aos.rw.
 tsrtech.rw.		86400	IN	NS	ns5.aos.rw.
 tssl.rw.		86400	IN	NS	ns1.hackflix.net.
