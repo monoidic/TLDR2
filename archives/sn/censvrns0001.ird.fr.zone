@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420452 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220311062003 20220110052003 17389 sn. h9b+dOdlry2Ki6Qv2Kx3W8Lymchth/G1x5r1aR23hhK0ZzBiFdn3Kohw JecRo7Dt2h66dnUHE2piMtMOs+IniQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420463 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220311081002 20220110071002 17389 sn. pYZVURuLxdOPtY4+FZinr9cbCzIKFKQ0LRsZTm8n+HHOjL7eulPRqvu1 cY5/o+0QZNCskFhmuT6m7iwexkDSYQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [10/01/2022 07H20:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220205083419 20220110052003 17389 sn. PCUwo1En3P3tCziV2AX8z8ctYKaqXBIkvVNOzD/Y7FYjMddZpKx+dhMi GVTdE+Wsac+0OIP8MkbHqpPq2PnYXA==
+sn.			172800	IN	TXT	"9 RRs processed [10/01/2022 09H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220126181529 20220110071002 17389 sn. 6HQdqxX5vTYu9JhT7N8ALUvIqLefQXO+MmZ+ZIQb1m+j7pmX8HsiH4pn qhPhX4Esw0qntc+P4Yf8YT5LTyYxyw==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -7762,6 +7762,9 @@ flex.sn.		172800	IN	RRSIG	DS 13 2 172800 20220125021553 20220109160727 17389 sn.
 flexsecurite.sn.	43200	IN	NS	ns3184415.ip-135-125-0.eu.
 flexsecurite.sn.	43200	IN	DS	8755 8 2 0D1F55773704B7DAFD53DC53B913BBFA55D5DBF980BBFE607F53E4CC FCE9D4A5
 flexsecurite.sn.	43200	IN	RRSIG	DS 13 2 43200 20220308105129 20220109160727 17389 sn. /l3MVq0qwb+PAGXqNJoidrds4RNArYnhtkJBGoJaOSRTzx2dnZTV/izs yFu61utmE7GHcpRgYPnm66hHi6Tf/A==
+flit.sn.		172800	IN	NS	ns1.francedns.com.
+flit.sn.		172800	IN	NS	ns2.francedns.com.
+flit.sn.		172800	IN	NS	ns3.francedns.com.
 flormar.sn.		43200	IN	NS	ns200.anycast.me.
 flormar.sn.		43200	IN	NS	dns200.anycast.me.
 fls.sn.			172800	IN	NS	ns11.infomaniak.ch.
@@ -14486,9 +14489,10 @@ osmoz.sn.		172800	IN	NS	ns11.ovh.net.
 osmoz.sn.		172800	IN	NS	dns11.ovh.net.
 osmoz.sn.		172800	IN	DS	57127 8 2 E5575163B7EEF325A7CB44B49A5738335E6F682B7E48531770365285 45E6B8BD
 osmoz.sn.		172800	IN	RRSIG	DS 13 2 172800 20220301233320 20220109160727 17389 sn. uUPHo44n8rEbRNR5n5fCOSxzTGG7Zi88wt0BLTn4DmWtauqFGaASl4mz zVsY3++swyZ2Bj5NXo9iAnwwR3OLeg==
-osonsladeco.sn.		172800	IN	NS	ns1.francedns.com.
-osonsladeco.sn.		172800	IN	NS	ns2.francedns.com.
-osonsladeco.sn.		172800	IN	NS	ns3.francedns.com.
+osonsladeco.sn.		172800	IN	NS	ns1.a2hosting.com.
+osonsladeco.sn.		172800	IN	NS	ns2.a2hosting.com.
+osonsladeco.sn.		172800	IN	NS	ns3.a2hosting.com.
+osonsladeco.sn.		172800	IN	NS	ns4.a2hosting.com.
 ostore.sn.		43200	IN	NS	ns.sonatel.sn.
 ostore.sn.		43200	IN	NS	ns2.sonatel.sn.
 otherstories.sn.	43200	IN	NS	a1-139.akam.net.
@@ -14952,8 +14956,6 @@ perte.sn.		172800	IN	NS	ns1.kheweul.net.
 perte.sn.		172800	IN	NS	ns2.kheweul.net.
 perte.sn.		172800	IN	NS	ns3.kheweul.net.
 perte.sn.		172800	IN	NS	ns4.kheweul.net.
-petbuddies.sn.		43200	IN	NS	dns1.namecheaphosting.com.
-petbuddies.sn.		43200	IN	NS	dns2.namecheaphosting.com.
 petitecote.sn.		43200	IN	NS	ns1.snterra.com.
 petitecote.sn.		43200	IN	NS	ns2.snterra.com.
 petitenfance.sn.	172800	IN	NS	ns.sonatel.sn.
