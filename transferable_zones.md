@@ -34,5 +34,6 @@
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
 * `xn--j1amh` via `tier1.num.net.ua.`: [Click here to view zone data.](archives/xn--j1amh/tier1.num.net.ua.zone)
 * `xn--lgbbat1ad8j` via `idn2.nic.dz.`: [Click here to view zone data.](archives/xn--lgbbat1ad8j/idn2.nic.dz.zone)
+* `xn--mgbai9azgqp6j` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns1.ntc.net.pk.zone)
 * `xn--ogbpf8fl` via `ns1.tld.sy.`: [Click here to view zone data.](archives/xn--ogbpf8fl/ns1.tld.sy.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
