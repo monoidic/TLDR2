@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420607 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220312061003 20220111051003 17389 sn. 83u7TO6rH/VNF2tSDOaDDiQrPQtdqVFLZZd77euHAodRmKZK+KJ1wPLf yCQMhxnMG3vXDy+mwxSwz75wDBEg3g==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420623 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220312081607 20220111071607 17389 sn. 5oSA1beUk6L0XtUSvSuOhGVPXS34F3wQDBMUfClrKdCyn9glxpy319kQ u3sNxnwDVNBnIMjluMOWs8CoPZlrqg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [11/01/2022 07H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220305210604 20220111051003 17389 sn. QTUuy0lK0eT1TOs55Hyn5HaJKFoetTty3RJwNRenLz9wDvotzYT6Wa/7 QGQKCSa50DB7jU18UUWt6aTXaxQgvw==
+sn.			172800	IN	TXT	"No RRs processed [11/01/2022 09H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220312080335 20220111071002 17389 sn. XUGlSRoBXPIFUpXJPup0JGIkM70s5JfE48djAbT51bdzuqfBwfn3Vi/T e4oTdFpUW7kFZdDsvD1mcm5Heh7OAg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -8376,6 +8376,11 @@ get.sn.			43200	IN	NS	ns5.jokko-hosting.com.
 get.sn.			43200	IN	NS	ns6.jokko-hosting.com.
 getalu.sn.		43200	IN	NS	ns5.jokko-hosting.com.
 getalu.sn.		43200	IN	NS	ns6.jokko-hosting.com.
+getassistance.sn.	172800	IN	NS	ns1.wanekoohost.com.
+getassistance.sn.	172800	IN	NS	ns2.wanekoohost.com.
+getassistance.sn.	172800	IN	NS	ns3.wanekoohost.com.
+getassistance.sn.	172800	IN	NS	ns5.wanekoohost.com.
+getassistance.sn.	172800	IN	NS	ns6.wanekoohost.com.
 getel.sn.		172800	IN	NS	dns1.hosteur.com.
 getel.sn.		172800	IN	NS	dns2.hosteur.com.
 getma.sn.		43200	IN	NS	ns.arc.sn.
@@ -10846,7 +10851,7 @@ kangam-it.sn.		43200	IN	NS	ns2.macaisse.sn.
 kangeprestations.sn.	172800	IN	NS	ns106.ovh.net.
 kangeprestations.sn.	172800	IN	NS	dns106.ovh.net.
 kangeprestations.sn.	172800	IN	DS	45157 8 2 5A41F6B764A8F7198467FF9040ED9B338BDCC2C94AA560237735B1AC B574E623
-kangeprestations.sn.	172800	IN	RRSIG	DS 13 2 172800 20220125070905 20220109160727 17389 sn. JYlLLheDUWvotkSqBdE0Cpa4KibqL1z7Ir1l6Y1Vi79rJuk0DUWqYRMo OPjPTOGQzpEnsqRpr3kdTTFZ8Z+zvg==
+kangeprestations.sn.	172800	IN	RRSIG	DS 13 2 172800 20220312061804 20220111060905 17389 sn. Rmwd0iRELAZkCOz+W4cc0mNY/rRSGBrpsvZZwVsvcaFkEL8JAvwDWMA4 oM0/CgnlvKSecAn5r2aDwU6p8ockOw==
 kangooafrica.sn.	172800	IN	NS	ns1.ascio.com.
 kangooafrica.sn.	172800	IN	NS	ns2.ascio.com.
 kangooafrica.sn.	172800	IN	NS	ns3.ascio.com.
@@ -11713,7 +11718,7 @@ lesandaga.sn.		172800	IN	RRSIG	DS 13 2 172800 20220215135452 20220109160727 1738
 lesateliersdelafilature.sn. 43200 IN	NS	ns18.ovh.net.
 lesateliersdelafilature.sn. 43200 IN	NS	dns18.ovh.net.
 lesateliersdelafilature.sn. 43200 IN	DS	23272 8 2 8889788100B70BF4122B938D5EFF721EACC94E3C61F4FA1BC50BA02C 65795C82
-lesateliersdelafilature.sn. 43200 IN	RRSIG	DS 13 2 43200 20220125081607 20220109160727 17389 sn. mZgUllAcWXqERsY5/BR8H4Bar/PY5+tvCejFOp71oP4kuCiifKyiH5Ou KtCtfQflWiG2QVXNYZ5/UOH3QKPI0w==
+lesateliersdelafilature.sn. 43200 IN	RRSIG	DS 13 2 43200 20220312071827 20220111071607 17389 sn. m2lD/9jUXNhT70nYn/2fjiAJavuj3nRWfKyDDXoaHfBJMwDNPMTfcWns wLrQYaO42XG07Z85Ro8tyVYFuu5FWQ==
 lesateliersducontenulocal.sn. 172800 IN	NS	ns3.afriregister.com.
 lesateliersducontenulocal.sn. 172800 IN	NS	ns01.afriregister.com.
 lesautoroutesdusenegal.sn. 172800 IN	NS	ns.gouv.sn.
@@ -12207,7 +12212,7 @@ machinesachetplastique.sn. 43200 IN	NS	ns2.101domain.com.
 mackysall.sn.		172800	IN	NS	ns11.ovh.net.
 mackysall.sn.		172800	IN	NS	dns11.ovh.net.
 mackysall.sn.		172800	IN	DS	52885 8 2 B94A08215361C0B1B5F4101CF94F52CD0BC00EEFDD3EFD66B16F2830 77E1D6D4
-mackysall.sn.		172800	IN	RRSIG	DS 13 2 172800 20220125062627 20220109160727 17389 sn. v3VbuXNwCbirElxhGXQdE4hN3Zeo/6jHoeqPcP1HLZVvq+3RDK7KkQ0V dmszYkdRMQDpW9g8ggFbDGBGcAYj1w==
+mackysall.sn.		172800	IN	RRSIG	DS 13 2 172800 20220312055506 20220111052627 17389 sn. IxjpkFd+pBF7npGlA74+SrWnEqmTZ374F3Lz48XeVqzo1RCjCkugTBJF MkqpyIAoKojjLkmQ4d8Q8WN5uByKQA==
 maclasse.sn.		43200	IN	NS	ns1.snterra.com.
 maclasse.sn.		43200	IN	NS	ns2.snterra.com.
 macommune.sn.		43200	IN	NS	ns1.sh004.webhostbox.net.
@@ -15833,7 +15838,7 @@ recensement.sn.		43200	IN	NS	ns.ansd.sn.
 rechargexeweul.sn.	172800	IN	NS	ns103.ovh.net.
 rechargexeweul.sn.	172800	IN	NS	dns103.ovh.net.
 rechargexeweul.sn.	172800	IN	DS	36505 8 2 FEFCADF2B2540EBBDCFF8B15EEB05B6DE5B9F24167F0D8C20B83D28F 9BE6995D
-rechargexeweul.sn.	172800	IN	RRSIG	DS 13 2 172800 20220125065903 20220109160727 17389 sn. vxci/476vihC9Dy/6CxoKmwDZn/hYULPenBiFIzCSPziQn574EpCXHrk uzTzLBRKu6wng/acb0t9U5VYXMIAmg==
+rechargexeweul.sn.	172800	IN	RRSIG	DS 13 2 172800 20220312062316 20220111055903 17389 sn. CqxYv/g72kQoOo+Lnm2hn1LGJ1Nh+PGWW9HBAw2DeJqP78sqJU60HUoc ZHgXxZWPeecGgYEcwZnSCiwloJlFaw==
 reclaim.sn.		43200	IN	NS	ns1.o2switch.net.
 reclaim.sn.		43200	IN	NS	ns2.o2switch.net.
 reconomia.sn.		172800	IN	NS	a.ns.mailclub.fr.
