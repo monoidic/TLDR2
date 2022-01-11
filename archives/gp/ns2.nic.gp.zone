@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022011117 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022011122 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3887,8 +3887,10 @@ pe.gp.			86400	IN	NS	ns1.subdomain.com.
 pe.gp.			86400	IN	NS	ns2.subdomain.com.
 pegasus.gp.		86400	IN	NS	ns109.ovh.net.
 pegasus.gp.		86400	IN	NS	dns109.ovh.net.
-penannou.gp.		86400	IN	NS	dns1.cloudns.net.
-penannou.gp.		86400	IN	NS	dns2.cloudns.net.
+penannou.gp.		86400	IN	NS	ns41.cloudns.net.
+penannou.gp.		86400	IN	NS	ns42.cloudns.net.
+penannou.gp.		86400	IN	NS	ns43.cloudns.net.
+penannou.gp.		86400	IN	NS	ns44.cloudns.net.
 penchard.gp.		86400	IN	NS	dns1.namebay.com.
 penchard.gp.		86400	IN	NS	dns2.namebay.com.
 people.gp.		86400	IN	NS	ns1.ikoula.fr.
