@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420884 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220313202003 20220112192003 17389 sn. l19hwtfTdkdXU9xvxrQhzfLW5RyqfgYypHcmrl4myZu5HsHWlrq+4/oV LOu6EC0K7DQv/juBXrmg7tRcCzq3YQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420897 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220313222002 20220112212002 17389 sn. ZUv9pAhVBBnh6Kz4mdg1+NKqOJOUtOCfGg9H1UpGKiAHYURsaCy4WkUV HvN8UsDR/JKYE8MQVac/DSsLo7X5Gg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [12/01/2022 21H20:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220202194433 20220112192003 17389 sn. Z7lk4NeNwpc/JutUFzZb4RypklshRIaSSbll+zW/xBW1+mv9QC7Yb6DD FPBpLf24vSkZJNfwha9fOSDBlI+CPA==
+sn.			172800	IN	TXT	"No RRs processed [12/01/2022 23H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220217202512 20220112212002 17389 sn. jNEAIU4tBMRxlvuQYIqeP4OF/hB4BrgUE11t3PGHhtwfN6iq5iwBxlsR cjKFXtNUxGGFnVHcGiI4oK94Ynic9A==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -2015,7 +2015,7 @@ autozone.sn.		43200	IN	NS	dns2.cscdns.net.
 auxfinspalais.sn.	172800	IN	NS	ns20.ovh.net.
 auxfinspalais.sn.	172800	IN	NS	dns20.ovh.net.
 auxfinspalais.sn.	172800	IN	DS	51997 8 2 6E5BAA4FEA7DF291D500B6912A1220F33D7F268DB6D64E9A02E3186C A62856B6
-auxfinspalais.sn.	172800	IN	RRSIG	DS 13 2 172800 20220126215050 20220109160727 17389 sn. dpABnbQneAqqZVRqb1Mkyi7qFtZODFgvmHhMTzh1zbfXUVRsOV22zDCW zwWQUoqEYLswNpqaBAU8mD1mm9jLug==
+auxfinspalais.sn.	172800	IN	RRSIG	DS 13 2 172800 20220313211400 20220112205050 17389 sn. VrOkY01W0uWJbQJzy1HP7TMV4MLh9SM2S+kxOgAIDDMr2o2nlw6TLqwS trQm37f7BpdUb0h786V0bs3oEc4k1w==
 ava.sn.			43200	IN	NS	nsmpro1.nordnet.com.
 ava.sn.			43200	IN	NS	nsmpro2.nordnet.com.
 avantgardeproperties.sn. 43200	IN	NS	ns105.ovh.net.
@@ -14472,8 +14472,10 @@ oregonshop.sn.		172800	IN	NS	ns2.youcan.shop.
 org.sn.			43200	IN	NS	ns.nic.sn.
 org.sn.			43200	IN	NS	ns.ucad.sn.
 org.sn.			43200	IN	NS	ns3.cctld.sn.
-organon.sn.		43200	IN	NS	ns1.markmonitor.com.
-organon.sn.		43200	IN	NS	ns3.markmonitor.com.
+organon.sn.		172800	IN	NS	ns6.customer.level3.net.
+organon.sn.		172800	IN	NS	ns9.customer.level3.net.
+organon.sn.		172800	IN	NS	cbru.br.ns.els-gms.att.net.
+organon.sn.		172800	IN	NS	cmtu.mt.ns.els-gms.att.net.
 orgatech.sn.		43200	IN	NS	pdns11.domaincontrol.com.
 orgatech.sn.		43200	IN	NS	pdns12.domaincontrol.com.
 oriflame.sn.		43200	IN	NS	ns1-01.azure-dns.com.
