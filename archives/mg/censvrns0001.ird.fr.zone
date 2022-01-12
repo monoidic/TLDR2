@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011212 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011214 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1641988891"
+mg.			7200	IN	TXT	"Generation Time: 1641996081"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -268,6 +268,8 @@ mg.			7200	IN	TXT	"Generation Time: 1641988891"
 86e.mg.			7200	IN	NS	zeus.ns.cloudflare.com.
 87.mg.			7200	IN	NS	alan.ns.cloudflare.com.
 87.mg.			7200	IN	NS	fish.ns.cloudflare.com.
+88.mg.			7200	IN	NS	ns1.dns.com.
+88.mg.			7200	IN	NS	ns2.dns.com.
 888.mg.			7200	IN	NS	ns1.dns.com.
 888.mg.			7200	IN	NS	ns2.dns.com.
 888jt.mg.		7200	IN	NS	ns1.dns.com.
@@ -6343,8 +6345,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -11169,8 +11171,8 @@ ycf-riding.mg.		86400	IN	NS	c.dns.gandi.net.
 ycf-riding.mg.		86400	IN	NS	a.dns.gandi.net.
 yellow.mg.		86400	IN	NS	drew.ns.cloudflare.com.
 yellow.mg.		86400	IN	NS	elma.ns.cloudflare.com.
-yes.mg.			86400	IN	NS	ns1.cloudns.io.
-yes.mg.			86400	IN	NS	ns2.cloudns.io.
+yes.mg.			86400	IN	NS	ns1.da.cloudns.io.
+yes.mg.			86400	IN	NS	ns2.da.cloudns.io.
 yl.mg.			86400	IN	NS	ns1.dns.com.
 yl.mg.			86400	IN	NS	ns2.dns.com.
 yltp.mg.		86400	IN	NS	ns-848.awsdns-42.net.

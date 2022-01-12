@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420825 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220313121003 20220112111003 17389 sn. NwxbgxhBU9KPKZwxzr4gjZypxrzv7QMnCmk42ZMdnhiC+uVkp+3IYh1B B58zbO1RxKP9XO2V2I5q4peW+IaRiA==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222420840 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220313141002 20220112131002 17389 sn. KoPFuvPQCTRW/3k4DaeJXXAxUfMuTz27d6HhHZWb3gmwQ3l6HsH4+xVm E5QlqvjICqtKaTg300vDQLzRSRHw3A==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [12/01/2022 13H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220304120636 20220112111003 17389 sn. fBchWLPH/d30ldaSN5Fj4SJ0xJlkZb3HODmNEhxvtKA4qbneaLJSbeI/ +Z7pAlcLkHpcabZzXdlgTL3DZNZuIA==
+sn.			172800	IN	TXT	"No RRs processed [12/01/2022 15H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220126182717 20220112131002 17389 sn. S/vCacAfe7C4j0rB6LE2o70mH1mGvAS2Pc5ed5sIg2eNc3zaBVWxdQA+ UaNt/b2ulmHmJSZFZ2/RERMF0Pm3wQ==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -5590,7 +5590,7 @@ diagram.sn.		172800	IN	RRSIG	DS 13 2 172800 20220304105020 20220109160727 17389 
 dialconsulting.sn.	43200	IN	NS	ns107.ovh.net.
 dialconsulting.sn.	43200	IN	NS	dns107.ovh.net.
 dialconsulting.sn.	43200	IN	DS	27364 8 2 DFF124B0BD155692D9FB50EEB7B1480DE8432931F0EBEF6ADF5D9C72 FB45D848
-dialconsulting.sn.	43200	IN	RRSIG	DS 13 2 43200 20220126124747 20220112071505 17389 sn. NyPsd1UfMThNnbM5v1XqsD9K9dqCdyaN5axtm75f2IQjV+cUU+U1Dt6l eZME5Py2i1jWL7pDltwmwuXouj6dGA==
+dialconsulting.sn.	43200	IN	RRSIG	DS 13 2 43200 20220313121653 20220112114747 17389 sn. mhh/gRn0dR7NiFdMOOJnD//BGpuvhxzoJQNqsvuz5jAEJPI6lCY01jGd y8YHVqk4ioIwzYxV8R0ZLRLjEOB1zQ==
 dialdiopsportingclub.sn. 43200	IN	NS	ns5.jokko-hosting.com.
 dialdiopsportingclub.sn. 43200	IN	NS	ns6.jokko-hosting.com.
 diallodieri.sn.		172800	IN	NS	ns.gestiondecuenta.com.
@@ -5777,6 +5777,11 @@ digitalschools.sn.	43200	IN	DS	34753 1 1 B2982A1FF022F2BAF74B584213698E0068DCE44
 digitalschools.sn.	43200	IN	RRSIG	DS 13 2 43200 20220304183728 20220109160727 17389 sn. ilYA62ufC/6PTNfDYhK8JEjMiTpLahr3cgzV1zJngLBTDBvvW4QKJE2N rfZl1EW4UBVTYeWpDkVPYloO2ipX8Q==
 digitalsenegal.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 digitalsenegal.sn.	172800	IN	NS	ns6.jokko-hosting.com.
+digitalsolutiongroup.sn. 172800	IN	NS	ns1.wanekoohost.com.
+digitalsolutiongroup.sn. 172800	IN	NS	ns2.wanekoohost.com.
+digitalsolutiongroup.sn. 172800	IN	NS	ns3.wanekoohost.com.
+digitalsolutiongroup.sn. 172800	IN	NS	ns5.wanekoohost.com.
+digitalsolutiongroup.sn. 172800	IN	NS	ns6.wanekoohost.com.
 digitalstores.sn.	43200	IN	NS	ns31.infomaniak.com.
 digitalstores.sn.	43200	IN	NS	ns32.infomaniak.com.
 digitalstores.sn.	43200	IN	NS	cp-49.webhostbox.net.
@@ -15116,7 +15121,7 @@ plaquiste.sn.		43200	IN	NS	dns109.ovh.net.
 plasepri.sn.		43200	IN	NS	ns12.ovh.net.
 plasepri.sn.		43200	IN	NS	dns12.ovh.net.
 plasepri.sn.		172800	IN	DS	9697 8 2 35FA64121E8D7AEEA053745CDE663A6E90E44D617C71EEAC1E223ED4 F55DCE35
-plasepri.sn.		172800	IN	RRSIG	DS 13 2 172800 20220126133305 20220109160727 17389 sn. 89ep3aaeVf9jQ6wX/hDOLapc7vmbYTMnIfs7vSBf2yl2B8r8GpkOJha1 gs5RTFVoF7TxJanemSRtDoCHogAZ7g==
+plasepri.sn.		172800	IN	RRSIG	DS 13 2 172800 20220313132035 20220112123305 17389 sn. cFI3BDRMS9q8WCNOC2HAyKAsDiamHRhEf4XgWONYZddvwqsRhmS5TML4 EfLe2JjkUrG9i72GN2kNJlVSHxx+hQ==
 plasma-immo.sn.		43200	IN	NS	ns.sonatel.sn.
 plasma-immo.sn.		43200	IN	NS	ns2.sonatel.sn.
 plateforme-ane.sn.	43200	IN	NS	ns17.ovh.net.
@@ -17053,6 +17058,8 @@ senegal-dakar-business-school.sn. 43200	IN NS	ns108.ovh.net.
 senegal-dakar-business-school.sn. 43200	IN NS	dns108.ovh.net.
 senegal-fruits.sn.	43200	IN	NS	ns1.kheweul.com.
 senegal-fruits.sn.	43200	IN	NS	ns2.kheweul.com.
+senegal-invest.sn.	172800	IN	NS	ns112.ovh.net.
+senegal-invest.sn.	172800	IN	NS	dns112.ovh.net.
 senegal-lib-tour.sn.	43200	IN	NS	ns105.ovh.net.
 senegal-lib-tour.sn.	43200	IN	NS	dns105.ovh.net.
 senegal-peche.sn.	43200	IN	NS	nsmpro1.nordnet.com.
@@ -19548,7 +19555,7 @@ thinkplace.sn.		43200	IN	NS	ns4-03.azure-dns.info.
 thiofe.sn.		172800	IN	NS	ns15.ovh.net.
 thiofe.sn.		172800	IN	NS	dns15.ovh.net.
 thiofe.sn.		172800	IN	DS	55186 8 2 4B0B34D54F8F6F03AEEBB524347361E01979348F998EC247E9FEDB73 62EE0C5F
-thiofe.sn.		172800	IN	RRSIG	DS 13 2 172800 20220126125756 20220109160727 17389 sn. yc0dx3XvaxOUZqbxekrtwvwnSuFASAuKEWVFCuxxbL+mldWbWnmfPJ/a FzwUNwK9HFakyzspQBW3M+4mpxHC+w==
+thiofe.sn.		172800	IN	RRSIG	DS 13 2 172800 20220313121359 20220112115756 17389 sn. sQjsyQ/bRN8SWCa1Hf91BRaE+5RF/Me2whcFH6lY/7BXrlPcTw2w7iPg 2kGPq+rWxg4Y16NT48jkSZIc1ZDFYQ==
 thiofel.sn.		172800	IN	NS	ns15.ovh.net.
 thiofel.sn.		172800	IN	NS	dns15.ovh.net.
 thiofel.sn.		172800	IN	DS	59044 8 2 985C905443AA8D1C9360CD495D40C6840FFC2A1AE4D73D8BDAF1C5FA 55F26B1B
