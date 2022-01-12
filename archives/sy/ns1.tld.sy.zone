@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022011218 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1641974537"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022011222 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1641981741"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1039,8 +1039,8 @@ alnazir-global.sy.	86400	IN	NS	suspend1.tld.sy.
 alnazir-global.sy.	86400	IN	NS	suspend2.tld.sy.
 alneser-alzahabi.sy.	86400	IN	NS	suspend1.tld.sy.
 alneser-alzahabi.sy.	86400	IN	NS	suspend2.tld.sy.
-alnobalaa.sy.		86400	IN	NS	ns1.marota.me.
-alnobalaa.sy.		86400	IN	NS	ns2.marota.me.
+alnobalaa.sy.		86400	IN	NS	suspend1.tld.sy.
+alnobalaa.sy.		86400	IN	NS	suspend2.tld.sy.
 alnooor-co.sy.		86400	IN	NS	ns1.sawa-host.net.
 alnooor-co.sy.		86400	IN	NS	ns2.sawa-host.net.
 alnurforages.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3516,8 +3516,8 @@ hypertech.sy.		86400	IN	NS	dns1.hypertech.sy.
 hypertech.sy.		86400	IN	NS	dns2.hypertech.sy.
 dns1.hypertech.sy.	86400	IN	A	185.151.151.151
 dns2.hypertech.sy.	86400	IN	A	185.151.151.152
-hyundai.sy.		86400	IN	NS	suspend1.tld.sy.
-hyundai.sy.		86400	IN	NS	suspend2.tld.sy.
+hyundai.sy.		86400	IN	NS	ns1.pronet.sy.
+hyundai.sy.		86400	IN	NS	ns2.pronet.sy.
 iamthechef.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 iamthechef.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
 ibaa.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4974,10 +4974,8 @@ no.sy.			86400	IN	NS	freedns2.registrar-servers.com.
 no.sy.			86400	IN	NS	freedns3.registrar-servers.com.
 no.sy.			86400	IN	NS	freedns4.registrar-servers.com.
 no.sy.			86400	IN	NS	freedns5.registrar-servers.com.
-nobalaa.sy.		86400	IN	NS	ns1.nobalaa.sy.
-nobalaa.sy.		86400	IN	NS	ns2.nobalaa.sy.
-ns1.nobalaa.sy.		86400	IN	A	185.216.132.26
-ns2.nobalaa.sy.		86400	IN	A	185.216.132.26
+nobalaa.sy.		86400	IN	NS	suspend1.tld.sy.
+nobalaa.sy.		86400	IN	NS	suspend2.tld.sy.
 noc.sy.			86400	IN	NS	ns10.ucg-core.com.
 noc.sy.			86400	IN	NS	ns15.ucg-core.com.
 noec.sy.		86400	IN	NS	ns1.silaset.us.
@@ -5366,10 +5364,10 @@ propertyfinder.sy.	86400	IN	NS	ns4.ucg-core.com.
 propertyfinder.sy.	86400	IN	NS	ns11.ucg-core.com.
 propertyfinder.sy.	86400	IN	NS	ns51.uae-dc.com.
 propertyfinder.sy.	86400	IN	NS	ns54.uae-dc.com.
-propower.sy.		86400	IN	NS	suspend1.tld.sy.
-propower.sy.		86400	IN	NS	suspend2.tld.sy.
-prosat.sy.		86400	IN	NS	suspend1.tld.sy.
-prosat.sy.		86400	IN	NS	suspend2.tld.sy.
+propower.sy.		86400	IN	NS	ns203.canadianwebhosting.com.
+propower.sy.		86400	IN	NS	ns204.canadianwebhosting.com.
+prosat.sy.		86400	IN	NS	ns203.canadianwebhosting.com.
+prosat.sy.		86400	IN	NS	ns204.canadianwebhosting.com.
 proshop.sy.		86400	IN	NS	suspend1.tld.sy.
 proshop.sy.		86400	IN	NS	suspend2.tld.sy.
 prosouk.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5378,12 +5376,12 @@ prosouq.sy.		86400	IN	NS	suspend1.tld.sy.
 prosouq.sy.		86400	IN	NS	suspend2.tld.sy.
 prospector.sy.		86400	IN	NS	ns21.cloudns.net.
 prospector.sy.		86400	IN	NS	ns23.cloudns.net.
-prosys.sy.		86400	IN	NS	suspend1.tld.sy.
-prosys.sy.		86400	IN	NS	suspend2.tld.sy.
+prosys.sy.		86400	IN	NS	ns1.pronet.sy.
+prosys.sy.		86400	IN	NS	ns2.pronet.sy.
 protech.sy.		86400	IN	NS	ns203.canadianwebhosting.com.
 protech.sy.		86400	IN	NS	ns204.canadianwebhosting.com.
-protv.sy.		86400	IN	NS	suspend1.tld.sy.
-protv.sy.		86400	IN	NS	suspend2.tld.sy.
+protv.sy.		86400	IN	NS	ns1.pronet.sy.
+protv.sy.		86400	IN	NS	ns2.pronet.sy.
 pspexpress.sy.		86400	IN	NS	ns1.scs-net.org.
 pspexpress.sy.		86400	IN	NS	ns2.scs-net.sy.
 pulse.sy.		86400	IN	NS	ns5001.mochahost.com.
