@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011310 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011312 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642068039"
+mg.			7200	IN	TXT	"Generation Time: 1642075234"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -801,7 +801,7 @@ anati.mg.		7200	IN	NS	ns1.freehosting.com.
 anati.mg.		7200	IN	NS	ns2.freehosting.com.
 andasibe-lemurs-lodge.mg. 7200	IN	NS	ns29.dot.mg.
 andasibe-lemurs-lodge.mg. 7200	IN	NS	ns29.illi.co.mg.
-andea.mg.		7200	IN	NS	ns1.da.coudns.io.
+andea.mg.		7200	IN	NS	ns1.da.cloudns.io.
 andea.mg.		7200	IN	NS	ns2.da.cloudns.io.
 andis.mg.		7200	IN	NS	ns1.servermada.com.
 andis.mg.		7200	IN	NS	ns2.servermada.com.
@@ -3044,6 +3044,9 @@ dukas.mg.		7200	IN	NS	ns1.eurodns.com.
 dukas.mg.		7200	IN	NS	ns2.eurodns.com.
 dukas.mg.		7200	IN	NS	ns3.eurodns.com.
 dukas.mg.		7200	IN	NS	ns4.eurodns.com.
+dx.mg.			7200	IN	NS	ns-189-a.gandi.net.
+dx.mg.			7200	IN	NS	ns-34-c.gandi.net.
+dx.mg.			7200	IN	NS	ns-175-b.gandi.net.
 dzama.mg.		7200	IN	NS	dns200.anycast.me.
 dzama.mg.		7200	IN	NS	ns200.anycast.me.
 e-annuaire.mg.		7200	IN	NS	ns1.da.cloudns.io.
@@ -3662,6 +3665,8 @@ fahasoavana.mg.		86400	IN	NS	ns1.servermada.com.
 fahasoavana.mg.		86400	IN	NS	ns2.servermada.com.
 fair-grade.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fair-grade.mg.		86400	IN	NS	ns2.da.cloudns.io.
+faith.mg.		86400	IN	NS	ns1.da.cloudns.io.
+faith.mg.		86400	IN	NS	ns2.da.cloudns.io.
 fakonews.mg.		86400	IN	NS	ns1.da.cloudns.io.
 fakonews.mg.		86400	IN	NS	ns2.da.cloudns.io.
 faktiora.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -6029,6 +6034,8 @@ lgb.mg.			86400	IN	NS	ns2.da.cloudns.io.
 lgp-madagascar.mg.	86400	IN	NS	ns1.indritech.mg.
 lgp-madagascar.mg.	86400	IN	NS	ns2.indritech.mg.
 lgp-madagascar.mg.	86400	IN	NS	ns3.indritech.mg.
+lhm.mg.			86400	IN	NS	ns1.hostns.io.
+lhm.mg.			86400	IN	NS	ns2.hostns.io.
 liberty32.mg.		86400	IN	NS	ns1.da.cloudns.io.
 liberty32.mg.		86400	IN	NS	ns2.da.cloudns.io.
 lic.mg.			86400	IN	NS	ns1.da.cloudns.io.
@@ -6346,8 +6353,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7548,6 +7555,8 @@ nxtn.mg.		86400	IN	NS	dns1.supremepanel.com.
 nxtn.mg.		86400	IN	NS	dns2.supremepanel.com.
 ny-feo.mg.		86400	IN	NS	nsa.planethoster.net.
 ny-feo.mg.		86400	IN	NS	nsb.planethoster.net.
+nyakanintsika.mg.	86400	IN	NS	ns1.da.cloudns.io.
+nyakanintsika.mg.	86400	IN	NS	ns2.da.cloudns.io.
 nyalaspa.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 nyalaspa.mg.		86400	IN	NS	ns2.madanetinfo.mg.
 nyamba.mg.		86400	IN	NS	ns-154-a.gandi.net.
@@ -8496,8 +8505,8 @@ qualex.mg.		86400	IN	NS	dns10.ovh.net.
 qualex.mg.		86400	IN	NS	ns10.ovh.net.
 qualitevolaille.mg.	86400	IN	NS	ns.tgn.mg.
 qualitevolaille.mg.	86400	IN	NS	ns1.tgn.mg.
-qubeta.mg.		86400	IN	NS	ns.dts.mg.
-qubeta.mg.		86400	IN	NS	ns1.dts.mg.
+qubeta.mg.		86400	IN	NS	pdns05.domaincontrol.com.
+qubeta.mg.		86400	IN	NS	pdns06.domaincontrol.com.
 quechua.mg.		86400	IN	NS	ns-105-a.gandi.net.
 quechua.mg.		86400	IN	NS	ns-39-b.gandi.net.
 quechua.mg.		86400	IN	NS	ns-179-c.gandi.net.
@@ -9232,6 +9241,8 @@ sex.mg.			86400	IN	NS	parking1.qualigo.com.
 sex.mg.			86400	IN	NS	parking2.qualigo.com.
 sexe.mg.		86400	IN	NS	parking1.qualigo.com.
 sexe.mg.		86400	IN	NS	parking2.qualigo.com.
+seys.mg.		86400	IN	NS	ns1.da.cloudns.io.
+seys.mg.		86400	IN	NS	ns2.da.cloudns.io.
 sfi.mg.			86400	IN	NS	dns113.ovh.net.
 sfi.mg.			86400	IN	NS	ns113.ovh.net.
 sfoi.mg.		86400	IN	NS	dns11.ovh.net.
@@ -10606,8 +10617,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
