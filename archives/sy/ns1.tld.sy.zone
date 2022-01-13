@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022011335 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1642096934"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022011338 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1642102338"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2751,8 +2751,10 @@ erthsyria.sy.		86400	IN	NS	ns16.samamax.com.
 erthsyria.sy.		86400	IN	NS	ns17.samamax.com.
 esa-partner.sy.		86400	IN	NS	suspend1.tld.sy.
 esa-partner.sy.		86400	IN	NS	suspend2.tld.sy.
-eshhanli.sy.		86400	IN	NS	ns1.monster.sy.
-eshhanli.sy.		86400	IN	NS	ns2.monster.sy.
+eshhanli.sy.		86400	IN	NS	ns1.eshhanli.sy.
+eshhanli.sy.		86400	IN	NS	ns2.eshhanli.sy.
+ns1.eshhanli.sy.	86400	IN	A	185.216.132.73
+ns2.eshhanli.sy.	86400	IN	A	185.216.132.73
 eshop.sy.		86400	IN	NS	ns1.topservers.biz.
 eshop.sy.		86400	IN	NS	ns2.topservers.biz.
 esoaq.sy.		86400	IN	NS	ns1.aldrtech.sy.
