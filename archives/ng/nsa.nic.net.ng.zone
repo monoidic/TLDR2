@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011317 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642089629"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011319 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642096833"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -1404,10 +1404,8 @@ acki.ng.		3600	IN	NS	ns1.101domain.com.
 acki.ng.		3600	IN	NS	ns2.101domain.com.
 acl.ng.			3600	IN	NS	vres1.tinitop.com.
 acl.ng.			3600	IN	NS	vres2.tinitop.com.
-acltd.ng.		3600	IN	NS	ns-502.awsdns-62.com.
-acltd.ng.		3600	IN	NS	ns-597.awsdns-10.net.
-acltd.ng.		3600	IN	NS	ns-1492.awsdns-58.org.
-acltd.ng.		3600	IN	NS	ns-2038.awsdns-62.co.uk.
+acltd.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+acltd.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 acmeengineering.ng.	3600	IN	NS	dns1.doveserver.com.
 acmeengineering.ng.	3600	IN	NS	dns2.doveserver.com.
 acmpn.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -25603,6 +25601,8 @@ funjobs.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 funjobs.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 funktrunk.ng.		3600	IN	NS	nsa.whogohost.com.
 funktrunk.ng.		3600	IN	NS	nsb.whogohost.com.
+funkycollections.ng.	3600	IN	NS	nsa.whogohost.com.
+funkycollections.ng.	3600	IN	NS	nsb.whogohost.com.
 funkycollectionz.ng.	3600	IN	NS	ns1.jeffreyjola.com.
 funkycollectionz.ng.	3600	IN	NS	ns2.jeffreyjola.com.
 funnel.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -35143,8 +35143,8 @@ kenstarlimited.ng.	3600	IN	NS	nsa.whogohost.com.
 kenstarlimited.ng.	3600	IN	NS	nsb.whogohost.com.
 kenya.ng.		3600	IN	NS	cp.nira.org.ng.
 kenya.ng.		3600	IN	NS	ns1.nira.org.ng.
-kenyahighcommission.ng.	3600	IN	NS	nsa.whogohost.com.
-kenyahighcommission.ng.	3600	IN	NS	nsb.whogohost.com.
+kenyahighcommission.ng.	3600	IN	NS	ns1.naijadomains.com.
+kenyahighcommission.ng.	3600	IN	NS	ns2.naijadomains.com.
 keo.ng.			3600	IN	NS	tim.ns.cloudflare.com.
 keo.ng.			3600	IN	NS	beth.ns.cloudflare.com.
 keoun.ng.		3600	IN	NS	ns1.upperserver16.com.
@@ -39230,6 +39230,8 @@ madeingidi.ng.		3600	IN	NS	ns8.hostnownow.com.
 madeinheaven.ng.	3600	IN	NS	ns1.digitalocean.com.
 madeinheaven.ng.	3600	IN	NS	ns2.digitalocean.com.
 madeinheaven.ng.	3600	IN	NS	ns3.digitalocean.com.
+madeinnaija.ng.		3600	IN	NS	nsa.whogohost.com.
+madeinnaija.ng.		3600	IN	NS	nsb.whogohost.com.
 madeinnigeria.ng.	3600	IN	NS	clay.ns.cloudflare.com.
 madeinnigeria.ng.	3600	IN	NS	marjory.ns.cloudflare.com.
 mademart.ng.		3600	IN	NS	ns29.syskay.com.
@@ -44114,6 +44116,8 @@ naijalotto.ng.		3600	IN	NS	ns1.dknoc.com.
 naijalotto.ng.		3600	IN	NS	ns2.dknoc.com.
 naijaluxuryawards.ng.	3600	IN	NS	ns5.doveserver.com.
 naijaluxuryawards.ng.	3600	IN	NS	ns6.doveserver.com.
+naijamade.ng.		3600	IN	NS	nsa.whogohost.com.
+naijamade.ng.		3600	IN	NS	nsb.whogohost.com.
 naijamail.ng.		3600	IN	NS	ns-460.awsdns-57.com.
 naijamail.ng.		3600	IN	NS	ns-931.awsdns-52.net.
 naijamail.ng.		3600	IN	NS	ns-1479.awsdns-56.org.
@@ -45014,8 +45018,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -48801,8 +48805,10 @@ organize.ng.		3600	IN	NS	kara.ns.cloudflare.com.
 organize.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
 organizi.ng.		3600	IN	NS	ns1.blinkenlichten.de.
 organizi.ng.		3600	IN	NS	dns01.blinkenbox.net.
-organon.ng.		3600	IN	NS	ns1.markmonitor.com.
-organon.ng.		3600	IN	NS	ns3.markmonitor.com.
+organon.ng.		3600	IN	NS	ns6.customer.level3.net.
+organon.ng.		3600	IN	NS	ns9.customer.level3.net.
+organon.ng.		3600	IN	NS	cbru.br.ns.els-gms.att.net.
+organon.ng.		3600	IN	NS	cmtu.mt.ns.els-gms.att.net.
 orgnat.ng.		3600	IN	NS	nsa.whogohost.com.
 orgnat.ng.		3600	IN	NS	nsb.whogohost.com.
 ori.ng.			3600	IN	NS	eugene.ns.cloudflare.com.
@@ -49457,6 +49463,8 @@ packnpay.ng.		3600	IN	NS	ns3.web4africa.com.
 packnpay.ng.		3600	IN	NS	ns4.web4africa.com.
 packshot.ng.		3600	IN	NS	ns1.qservers.net.
 packshot.ng.		3600	IN	NS	ns2.qservers.net.
+pactilis.ng.		3600	IN	NS	dns1.namebay.com.
+pactilis.ng.		3600	IN	NS	dns2.namebay.com.
 pactmedia.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 pactmedia.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 pad.ng.			3600	IN	NS	nsa.whogohost.com.
@@ -60813,6 +60821,8 @@ solacedentalclinics.ng.	3600	IN	NS	ns23.dev2.works.
 solacedentalclinics.ng.	3600	IN	NS	ns24.dev2.works.
 solana.ng.		3600	IN	NS	ns1.101domain.com.
 solana.ng.		3600	IN	NS	ns2.101domain.com.
+solanapay.ng.		3600	IN	NS	ns1.101domain.com.
+solanapay.ng.		3600	IN	NS	ns2.101domain.com.
 solapro.ng.		3600	IN	NS	ns1.web4africa.com.
 solapro.ng.		3600	IN	NS	ns2.web4africa.com.
 solapro.ng.		3600	IN	NS	ns3.web4africa.com.
