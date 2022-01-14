@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421154 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220315101003 20220114091003 17389 sn. rd2UrBbVXixpg5gOS3dXNN1RiGKJdRL/dxhriFHNrNOWUBUblzYb3xXt 7Y7PEmmiIpHA3kyEKRlOPTNkTw2BoQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421167 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220315121003 20220114111003 17389 sn. U/OP2BwKZZJuzO8qR70Eqmz7FL1kuJLrhVz3ZZImiAbAY98vYnsyMlOe BcY+g0oGa3zVL2TnXAbBRwBZCcePyw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [14/01/2022 11H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220131083924 20220114091003 17389 sn. zJP0ZlZyaz4U9YZ1aAjRC4dRGPA4/bDBjpOL77wTc78DUHJYVRbUVzP3 +oookfby8m7zyQBbu6QyKkXMBpMywg==
+sn.			172800	IN	TXT	"2 RRs processed [14/01/2022 13H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220210130640 20220114111003 17389 sn. ZltH2VaT25D0rZrRAp36apKrzD7ulnCcNI9hzYQcD+pDILwWFe/SS0rk 0KtRPrAj9R7C1C2u/yKF6ZuzMASs+A==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
@@ -891,8 +891,6 @@ agrisenergy.sn.		43200	IN	NS	gw1.tomware.it.
 agrisenergy.sn.		43200	IN	NS	ns2.tomware.it.
 agroalimentaire.sn.	43200	IN	NS	ns110.ovh.net.
 agroalimentaire.sn.	43200	IN	NS	dns110.ovh.net.
-agrobusiness.sn.	43200	IN	NS	ns1.afriregister.com.
-agrobusiness.sn.	43200	IN	NS	ns3.afriregister.com.
 agrocampus.sn.		43200	IN	NS	eisdns1.expertis.sn.
 agrocampus.sn.		43200	IN	NS	eisdns2.expertis.sn.
 agrocean.sn.		172800	IN	NS	ns1.wanekoohost.com.
@@ -3111,8 +3109,6 @@ btwin.sn.		43200	IN	NS	b.dns.gandi.net.
 btwin.sn.		43200	IN	NS	c.dns.gandi.net.
 budget.sn.		43200	IN	NS	ns.arc.sn.
 budget.sn.		43200	IN	NS	ns3.arc.sn.
-bug.sn.			43200	IN	NS	david.ns.cloudflare.com.
-bug.sn.			43200	IN	NS	megan.ns.cloudflare.com.
 build-ovh.sn.		43200	IN	NS	ns113.ovh.net.
 build-ovh.sn.		43200	IN	NS	dns113.ovh.net.
 build-ovhcloud.sn.	43200	IN	NS	ns113.ovh.net.
@@ -5699,7 +5695,7 @@ digal-consulting.sn.	172800	IN	RRSIG	DS 13 2 172800 20220226001438 2022010916072
 digalconseil.sn.	172800	IN	NS	ns16.ovh.net.
 digalconseil.sn.	172800	IN	NS	dns16.ovh.net.
 digalconseil.sn.	172800	IN	DS	5545 8 2 3D01FED8B094C81B3AAC6A47E72042CE421CF9D2835BC9E7046EE364 A5223137
-digalconseil.sn.	172800	IN	RRSIG	DS 13 2 172800 20220128105102 20220109160727 17389 sn. gipTmz9eUAs0+85y7tLsNotTWxEYDI/LO54k4489jYbD8gBpJa150Iy5 nzNFcQGsWSyce5w88W0HudDsghpZtg==
+digalconseil.sn.	172800	IN	RRSIG	DS 13 2 172800 20220315101036 20220114095102 17389 sn. WZnACwk1eT3qLBniKMFEuDYxnsSEvBNxFOahMT82HG18qLZTtbtV5HmA X7q/h0dnLTtyYa8N67BzUYQWxtJaUg==
 digalconsulting.sn.	172800	IN	NS	ns103.ovh.net.
 digalconsulting.sn.	172800	IN	NS	dns103.ovh.net.
 digalconsulting.sn.	172800	IN	DS	65374 8 2 5FDCDC38D49BD660EAAD6AD39BE83C9A823FE83604CBB45351280E0D 1D00BD27
@@ -7563,8 +7559,8 @@ fedex.sn.		172800	IN	NS	land.fedex.com.
 fedex.sn.		172800	IN	NS	grace.fedex.com.
 feeljuice.sn.		43200	IN	NS	ns.sonatel.sn.
 feeljuice.sn.		43200	IN	NS	ns2.sonatel.sn.
-feems.sn.		172800	IN	NS	ns103.ovh.net.
-feems.sn.		172800	IN	NS	dns103.ovh.net.
+feems.sn.		172800	IN	NS	cpanel19.lws-hosting.com.
+feems.sn.		172800	IN	NS	cpanel20.lws-hosting.com.
 fegu.sn.		172800	IN	NS	ns.gouv.sn.
 fegu.sn.		172800	IN	NS	ns2.gouv.sn.
 fegu.sn.		172800	IN	NS	ns3.gouv.sn.
@@ -10438,8 +10434,6 @@ jambaar.sn.		43200	IN	NS	dns102.ovh.net.
 jambaardelaroute.sn.	172800	IN	NS	ns1.whc.ca.
 jambaardelaroute.sn.	172800	IN	NS	ns2.whc.ca.
 jambaardelaroute.sn.	172800	IN	NS	ns3.whc.ca.
-jambar-tech.sn.		43200	IN	NS	ns1.afriregister.com.
-jambar-tech.sn.		43200	IN	NS	ns3.afriregister.com.
 jambarchallenge.sn.	172800	IN	NS	ns1.o2switch.net.
 jambarchallenge.sn.	172800	IN	NS	ns2.o2switch.net.
 jame.sn.		43200	IN	NS	ns-329.awsdns-41.com.
@@ -12401,8 +12395,6 @@ mansourmotors.sn.	172800	IN	NS	ns103.ovh.net.
 mansourmotors.sn.	172800	IN	NS	dns103.ovh.net.
 mansourmotors.sn.	172800	IN	DS	202 8 2 302D0C562C3C08555A3D4C3933FBD9B741DF3327844A0C1865EB71BD A3BF6E55
 mansourmotors.sn.	172800	IN	RRSIG	DS 13 2 172800 20220217130145 20220109160727 17389 sn. yVWeH4piFq1AOSZKm9uF9JOvv69phuiBAFIywUqlwX+PwZAtJJgJudKu 5erCp6Y44cA34NsYVdHDkz7HjJx7ow==
-mansourtine.sn.		43200	IN	NS	ns1.afriregister.com.
-mansourtine.sn.		43200	IN	NS	ns3.afriregister.com.
 manusquall.sn.		43200	IN	NS	eisdns1.expertis.sn.
 manusquall.sn.		43200	IN	NS	eisdns2.expertis.sn.
 mapauto.sn.		172800	IN	NS	kobe.ns.cloudflare.com.
@@ -12606,8 +12598,6 @@ maximmo.sn.		172800	IN	NS	ns104.ovh.net.
 maximmo.sn.		172800	IN	NS	dns104.ovh.net.
 maxsolutions.sn.	43200	IN	NS	ns108.ovh.net.
 maxsolutions.sn.	43200	IN	NS	dns108.ovh.net.
-maya.sn.		43200	IN	NS	ns1.afriregister.com.
-maya.sn.		43200	IN	NS	ns3.afriregister.com.
 mayana.sn.		43200	IN	NS	ns12.ovh.net.
 mayana.sn.		43200	IN	NS	dns12.ovh.net.
 mazars.sn.		43200	IN	NS	a.ns.mailclub.fr.
@@ -13497,8 +13487,6 @@ myscool.sn.		43200	IN	NS	ns8.jajeuf.com.
 myscool.sn.		43200	IN	NS	ns9.jajeuf.com.
 myscool.sn.		43200	IN	DS	13652 1 1 47151914BC2C4AFCAA317ABC0ABFF9F26F2D69E6
 myscool.sn.		43200	IN	RRSIG	DS 13 2 43200 20220130145133 20220109160727 17389 sn. XNcRmPpQu8tfuKLP0667W8Oo53Vd3PHjky1Lv3L8lIECCnpOMYOJLpta H85AYLDi1j1zNvyI2UgNiDxRxNmoPw==
-myteranga.sn.		43200	IN	NS	ns1.afriregister.com.
-myteranga.sn.		43200	IN	NS	ns3.afriregister.com.
 mytic.sn.		43200	IN	NS	ns200.anycast.me.
 mytic.sn.		43200	IN	NS	dns200.anycast.me.
 mytogg.sn.		172800	IN	NS	eisdns1.expertis.sn.
@@ -13971,8 +13959,6 @@ novartis.sn.		172800	IN	NS	a24-65.akam.net.
 novartis.sn.		172800	IN	NS	a28-67.akam.net.
 novelty.sn.		172800	IN	NS	ns1.gnldm1085.siteground.biz.
 novelty.sn.		172800	IN	NS	ns2.gnldm1085.siteground.biz.
-novoplanet.sn.		43200	IN	NS	ns10994.phdns5.es.
-novoplanet.sn.		43200	IN	NS	dns10994.phdns5.es.
 novus.sn.		43200	IN	NS	dns1.cscdns.net.
 novus.sn.		43200	IN	NS	dns2.cscdns.net.
 nowunited.sn.		43200	IN	NS	dns1.idp365.net.
@@ -14230,8 +14216,6 @@ omnia.sn.		43200	IN	NS	ns2.francedns.com.
 omnia.sn.		43200	IN	NS	cloudf03.francedns.com.
 omvg.sn.		43200	IN	NS	ns.sonatel.sn.
 omvg.sn.		43200	IN	NS	ns2.sonatel.sn.
-omzocamara.sn.		43200	IN	NS	ns1.afriregister.com.
-omzocamara.sn.		43200	IN	NS	ns3.afriregister.com.
 on-track.sn.		43200	IN	NS	ns103.ovh.net.
 on-track.sn.		43200	IN	NS	dns103.ovh.net.
 onachetevotrevoiture.sn. 172800	IN	NS	dns3.cloudns.net.
@@ -18764,8 +18748,6 @@ successinsights.sn.	43200	IN	NS	ns.sonatel.sn.
 successinsights.sn.	43200	IN	NS	ns2.sonatel.sn.
 sudenergies.sn.		43200	IN	NS	ns.ucad.sn.
 sudenergies.sn.		43200	IN	NS	dns.ucad.sn.
-sudequipe.sn.		43200	IN	NS	ns1.afriregister.com.
-sudequipe.sn.		43200	IN	NS	ns3.afriregister.com.
 sudfm.sn.		43200	IN	NS	ns2.sonatel.sn.
 sudfm.sn.		43200	IN	NS	nsmpro1.nordnet.com.
 sudinfo.sn.		43200	IN	NS	ns.arc.sn.
@@ -18879,8 +18861,6 @@ sunumbay.sn.		172800	IN	NS	ns10.ovh.ca.
 sunumbay.sn.		172800	IN	NS	dns10.ovh.ca.
 sunumbay.sn.		172800	IN	DS	3109 8 2 21E5C4A7B0EDB684E8FB29639BD2A35CFFDFE6FCD9F5111CC5ACBEDD ACAF3FC5
 sunumbay.sn.		172800	IN	RRSIG	DS 13 2 172800 20220208041014 20220109160727 17389 sn. QQQW29dIwRVc42LZWbD46JUPCWKKoA9Vk/Lw31DF8j5kLCH8S53FZX24 XGztz4cgNxT4oSE7zXSsCZOdqTQzRg==
-sunuplets.sn.		43200	IN	NS	ns1.afriregister.com.
-sunuplets.sn.		43200	IN	NS	ns3.afriregister.com.
 sunusante.sn.		43200	IN	NS	ns1.ascio.com.
 sunusante.sn.		43200	IN	NS	ns2.ascio.com.
 sunusante.sn.		43200	IN	NS	ns3.ascio.com.
@@ -20569,8 +20549,6 @@ violence-nafijog.sn.	172800	IN	NS	ns9.jajeuf.com.
 violence-nafijog.sn.	172800	IN	NS	ns10.jajeuf.com.
 vip.sn.			43200	IN	NS	ns104.ovh.net.
 vip.sn.			43200	IN	NS	dns104.ovh.net.
-viral.sn.		43200	IN	NS	ns1.afriregister.com.
-viral.sn.		43200	IN	NS	ns3.afriregister.com.
 visa.sn.		43200	IN	NS	ns1.dnsvisa.com.
 visa.sn.		43200	IN	NS	ns2.dnsvisa.com.
 visa.sn.		43200	IN	NS	ns3.dnsvisa.com.

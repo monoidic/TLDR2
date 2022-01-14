@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011411 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642154433"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011413 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642161625"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2667,6 +2667,10 @@ airtaxi.ng.		3600	IN	NS	ns1.reg.ru.
 airtaxi.ng.		3600	IN	NS	ns2.reg.ru.
 airtel.ng.		3600	IN	NS	reza.ns.cloudflare.com.
 airtel.ng.		3600	IN	NS	arnold.ns.cloudflare.com.
+airtelads.ng.		3600	IN	NS	ns-13.awsdns-01.com.
+airtelads.ng.		3600	IN	NS	ns-1002.awsdns-61.net.
+airtelads.ng.		3600	IN	NS	ns-1484.awsdns-57.org.
+airtelads.ng.		3600	IN	NS	ns-1946.awsdns-51.co.uk.
 airtelmoney.ng.		3600	IN	NS	ns1.101domain.com.
 airtelmoney.ng.		3600	IN	NS	ns2.101domain.com.
 airtelmoney.ng.		3600	IN	NS	ns5.101domain.com.
@@ -27019,6 +27023,8 @@ globalchambers.ng.	3600	IN	NS	nsb.whogohost.com.
 globalconnect.ng.	3600	IN	NS	ns1.lexsynergy.net.
 globalconnect.ng.	3600	IN	NS	ns2.lexsynergy.us.
 globalconnect.ng.	3600	IN	NS	ns3.lexsynergy.info.
+globalcranes.ng.	3600	IN	NS	ns1.hostingbloc.com.
+globalcranes.ng.	3600	IN	NS	ns2.hostingbloc.com.
 globaldayofinfluence.ng. 3600	IN	NS	jim.ns.cloudflare.com.
 globaldayofinfluence.ng. 3600	IN	NS	liv.ns.cloudflare.com.
 globalfunds.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -29446,8 +29452,10 @@ hertz.ng.		3600	IN	NS	dns6.hertz.com.
 hertzya.ng.		86400	IN	DS	2371 13 2 91A5969A0A45C1E6306530AEE9085B54917D23FE332D86225F1D521B 61FE574D
 hertzya.ng.		3600	IN	NS	piotr.ns.cloudflare.com.
 hertzya.ng.		3600	IN	NS	sarah.ns.cloudflare.com.
-hervest.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-hervest.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+hervest.ng.		3600	IN	NS	ns1.hervest.ng.
+hervest.ng.		3600	IN	NS	ns2.hervest.ng.
+ns1.hervest.ng.		3600	IN	A	66.29.140.146
+ns2.hervest.ng.		3600	IN	A	66.29.140.146
 heshoutang.ng.		3600	IN	NS	ns01.trademarkarea.com.
 heshoutang.ng.		3600	IN	NS	ns02.trademarkarea.com.
 heshoutang.ng.		3600	IN	NS	ns03.trademarkarea.com.
@@ -36194,8 +36202,8 @@ kupo.ng.		3600	IN	NS	ns3.inbranddns.com.
 kupo.ng.		3600	IN	NS	ns4.inbranddns.com.
 kura365.ng.		3600	IN	NS	ns13.asurahosting.com.
 kura365.ng.		3600	IN	NS	ns14.asurahosting.com.
-kuryaloaded.ng.		3600	IN	NS	ns5.kanohost.com.
-kuryaloaded.ng.		3600	IN	NS	ns6.kanohost.com.
+kuryaloaded.ng.		3600	IN	NS	dawn.ns.cloudflare.com.
+kuryaloaded.ng.		3600	IN	NS	doug.ns.cloudflare.com.
 kuuzza.ng.		3600	IN	NS	nsa.whogohost.com.
 kuuzza.ng.		3600	IN	NS	nsb.whogohost.com.
 kuvuki.ng.		3600	IN	NS	ns19.doveserver.com.
@@ -45023,8 +45031,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52369,8 +52377,8 @@ premiumrentals.ng.	3600	IN	NS	ns1.greenmousetech.com.
 premiumrentals.ng.	3600	IN	NS	ns2.greenmousetech.com.
 premiumtimes.ng.	3600	IN	NS	ed.ns.cloudflare.com.
 premiumtimes.ng.	3600	IN	NS	magali.ns.cloudflare.com.
-premiumtrustbank.ng.	3600	IN	NS	ns1.weblagos.com.
-premiumtrustbank.ng.	3600	IN	NS	ns2.weblagos.com.
+premiumtrustbank.ng.	3600	IN	NS	ns1.bluehost.com.
+premiumtrustbank.ng.	3600	IN	NS	ns2.bluehost.com.
 prenovatetech.ng.	3600	IN	NS	ns1.upperserver8.com.
 prenovatetech.ng.	3600	IN	NS	ns2.upperserver8.com.
 preorder.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -54656,8 +54664,8 @@ realhub.ng.		3600	IN	NS	nsa.whogohost.com.
 realhub.ng.		3600	IN	NS	nsb.whogohost.com.
 realid.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 realid.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-realityngu.ng.		3600	IN	NS	dns1.doveserver.com.
-realityngu.ng.		3600	IN	NS	dns2.doveserver.com.
+realityngu.ng.		3600	IN	NS	ns45.doveserver.com.
+realityngu.ng.		3600	IN	NS	ns46.doveserver.com.
 realitypacesettersfoundation.ng. 3600 IN NS	nsa.whogohost.com.
 realitypacesettersfoundation.ng. 3600 IN NS	nsb.whogohost.com.
 reallifeministry.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -73799,6 +73807,8 @@ zainmoni.ng.		3600	IN	NS	ns2.linode.com.
 zainmoni.ng.		3600	IN	NS	ns3.linode.com.
 zainmoni.ng.		3600	IN	NS	ns4.linode.com.
 zainmoni.ng.		3600	IN	NS	ns5.linode.com.
+zainnest.ng.		3600	IN	NS	nsa.whogohost.com.
+zainnest.ng.		3600	IN	NS	nsb.whogohost.com.
 zainpay.ng.		3600	IN	NS	ns1.linode.com.
 zainpay.ng.		3600	IN	NS	ns2.linode.com.
 zainpay.ng.		3600	IN	NS	ns3.linode.com.
