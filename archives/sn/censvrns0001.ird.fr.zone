@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421217 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220315201002 20220114191002 17389 sn. LF+sNZwahAJmjx7tP5j6yqn8ZqwcLm3l9znJFGU+1BaRyxQkz/Qx5mdH bOU9C6OZZF/UWgYKRKEka3zMknXpBg==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421229 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220315221003 20220114211003 17389 sn. fBaVWXHMtOp/4Jxu5tKGMxUnJFkVJ8DqtwsiyOX3AKQ1OZZIOsONJ1be AyfS4gv+/AbLF5cJOZUpgtxBOIICtw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [14/01/2022 21H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220131135202 20220114191002 17389 sn. kg/l3uA9bfBeGn3FphZsagEnrgFy4fjEzolDmXm1dwtVHXfqrD/mvCe2 emQY4GECouc4We9DuVPDXQ3cxQU1cg==
+sn.			172800	IN	TXT	"No RRs processed [14/01/2022 23H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220309030102 20220114211003 17389 sn. h32WVY6BkZ7UFRlCtH0hLMhzBRwh7HoOZaEAbzTXBTBOnZ9SsKPXaU7t AY3EK6HJPqNdun+qpHwMsQai21bgsg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -14081,6 +14081,8 @@ ocas.sn.		43200	IN	NS	ns3.kheweul.net.
 ocas.sn.		43200	IN	NS	ns4.kheweul.net.
 ocass.sn.		172800	IN	NS	ns1.kheweul.net.
 ocass.sn.		172800	IN	NS	ns2.kheweul.net.
+occ.sn.			172800	IN	NS	dean.ns.cloudflare.com.
+occ.sn.			172800	IN	NS	carol.ns.cloudflare.com.
 oceandream.sn.		43200	IN	NS	ns1.kheweul.net.
 oceandream.sn.		43200	IN	NS	ns2.kheweul.net.
 oceandream.sn.		43200	IN	NS	ns3.kheweul.net.
