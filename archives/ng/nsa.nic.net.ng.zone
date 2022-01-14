@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011323 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642111223"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022011401 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642118427"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -2080,6 +2080,8 @@ afridoctor.ng.		3600	IN	NS	ns2.netim.net.
 afridoctor.ng.		3600	IN	NS	ns3.netim.net.
 afridoctor.ng.		3600	IN	NS	ns4.netim.net.
 afridoctor.ng.		3600	IN	NS	ns5.netim.net.
+afrifom.ng.		3600	IN	NS	nsa.whogohost.com.
+afrifom.ng.		3600	IN	NS	nsb.whogohost.com.
 afrigoldawards.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 afrigoldawards.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 afrihealthexpo.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -25516,8 +25518,9 @@ fullhouse.ng.		3600	IN	NS	ns1.supercp.com.
 fullhouse.ng.		3600	IN	NS	ns2.supercp.com.
 fullhouse.ng.		3600	IN	NS	ns3.supercp.com.
 fullhouse.ng.		3600	IN	NS	ns4.supercp.com.
-fulloaded.ng.		3600	IN	NS	dns1.namecheaphosting.com.
-fulloaded.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+fulloaded.ng.		3600	IN	NS	ns1.cloudoon.com.
+fulloaded.ng.		3600	IN	NS	ns2.cloudoon.com.
+fulloaded.ng.		3600	IN	NS	ns3.cloudoon.com.
 fullpass.ng.		3600	IN	NS	ns1.upperserver29.com.
 fullpass.ng.		3600	IN	NS	ns2.upperserver29.com.
 fullstack.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -45040,8 +45043,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -52805,6 +52808,8 @@ priverevaux.ng.		3600	IN	NS	ns1.upperserver29.com.
 priverevaux.ng.		3600	IN	NS	ns2.upperserver29.com.
 prize.ng.		3600	IN	NS	ns1.sedoparking.com.
 prize.ng.		3600	IN	NS	ns2.sedoparking.com.
+prk.ng.			3600	IN	NS	ns1.parkingcrew.net.
+prk.ng.			3600	IN	NS	ns2.parkingcrew.net.
 prmrc.ng.		3600	IN	NS	ns1.prmrc.ng.
 prmrc.ng.		3600	IN	NS	ns2.prmrc.ng.
 ns1.prmrc.ng.		3600	IN	A	164.160.129.222
@@ -54010,10 +54015,8 @@ quicklaw.ng.		3600	IN	NS	ns1.inmotionhosting.com.
 quicklaw.ng.		3600	IN	NS	ns2.inmotionhosting.com.
 quicklearn.ng.		3600	IN	NS	ns35.qservers.net.
 quicklearn.ng.		3600	IN	NS	ns36.qservers.net.
-quicklist.ng.		3600	IN	NS	ns1.quicklist.ng.
-quicklist.ng.		3600	IN	NS	ns2.quicklist.ng.
-ns1.quicklist.ng.	3600	IN	A	204.93.172.184
-ns2.quicklist.ng.	3600	IN	A	204.93.172.184
+quicklist.ng.		3600	IN	NS	yew.ns.cloudflare.com.
+quicklist.ng.		3600	IN	NS	sydney.ns.cloudflare.com.
 quickloan.ng.		3600	IN	NS	ns1.upperserver29.com.
 quickloan.ng.		3600	IN	NS	ns2.upperserver29.com.
 quickloans.ng.		3600	IN	NS	ns1.askifa.ng.
@@ -58424,8 +58427,8 @@ senhasegura.ng.		3600	IN	NS	ns1.101domain.com.
 senhasegura.ng.		3600	IN	NS	ns2.101domain.com.
 senioradvocate.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 senioradvocate.ng.	3600	IN	NS	dns2.namecheaphosting.com.
-seniorfit.ng.		3600	IN	NS	nsa.whogohost.com.
-seniorfit.ng.		3600	IN	NS	nsb.whogohost.com.
+seniorfit.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+seniorfit.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 senmusicawards.ng.	3600	IN	NS	nsa.whogohost.com.
 senmusicawards.ng.	3600	IN	NS	nsb.whogohost.com.
 sense.ng.		3600	IN	NS	ns1.sedoparking.com.
