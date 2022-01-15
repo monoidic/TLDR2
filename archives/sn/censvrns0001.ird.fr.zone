@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421289 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220316081002 20220115071002 17389 sn. ydX6bOiK8lqjWequGLmP9bHpVMeE/vMp/UDtspE0iGPf4L36hhhPrUgs CZAFJNj4L2xsv0Aoy54m66GyFWDDUA==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421302 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220316102002 20220115092002 17389 sn. f/IJenvN+mm2xtRIr6V3p1s7IGHVqf3xa/QsFluKlod1ZRHgposAtApi N+/Xs4k1DrLl8TT9OYrRwwQHe7qfAg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [15/01/2022 09H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220218081010 20220115071002 17389 sn. ZP2SeYTImPsy1Su8MhIauPLYtmMOzb03UsbdhvNFfZkUUDk4z9gaLlOH 21nc6m/Yhp7ei5yifs8e2kPKOco4tA==
+sn.			172800	IN	TXT	"No RRs processed [15/01/2022 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220306203951 20220115092002 17389 sn. v41Utrtr5aawJu2T6TDjUahqZaLUS8F9oyZo3QYzuiK0WVtffX85pl4H cmqqvMmkDUT27NKjhzjvys9qEJLj8Q==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -16873,6 +16873,9 @@ semis.sn.		43200	IN	NS	ns.arc.sn.
 semis.sn.		43200	IN	NS	ns.ucad.sn.
 semisenegal.sn.		43200	IN	NS	ns20.ovh.net.
 semisenegal.sn.		43200	IN	NS	dns20.ovh.net.
+sen-annonces.sn.	172800	IN	NS	ns1.francedns.com.
+sen-annonces.sn.	172800	IN	NS	ns2.francedns.com.
+sen-annonces.sn.	172800	IN	NS	ns3.francedns.com.
 sen-cloud.sn.		172800	IN	NS	ns.gouv.sn.
 sen-cloud.sn.		172800	IN	NS	ns1.gouv.sn.
 sen-cloud.sn.		172800	IN	NS	ns2.gouv.sn.
@@ -20552,6 +20555,8 @@ vip.sn.			43200	IN	NS	dns104.ovh.net.
 visa.sn.		43200	IN	NS	ns1.dnsvisa.com.
 visa.sn.		43200	IN	NS	ns2.dnsvisa.com.
 visa.sn.		43200	IN	NS	ns3.dnsvisa.com.
+visasenegal.sn.		172800	IN	NS	170.ns1.above.com.
+visasenegal.sn.		172800	IN	NS	170.ns2.above.com.
 visible.sn.		172800	IN	NS	ns1.kheweul.net.
 visible.sn.		172800	IN	NS	ns2.kheweul.net.
 visible.sn.		172800	IN	NS	ns3.kheweul.net.
