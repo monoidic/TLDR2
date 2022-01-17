@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011706 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022011708 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1642399229"
+mg.			7200	IN	TXT	"Generation Time: 1642406438"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -694,6 +694,7 @@ alpa.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 alpa.mg.		7200	IN	NS	ns1.fr.malagasy.com.
 alstom.mg.		7200	IN	NS	ns2.observatoiredesmarques.fr.
 alstom.mg.		7200	IN	NS	obs.ns1.fr.
+alstom.mg.		7200	IN	NS	ns3.nameshield.net.
 alterego.mg.		7200	IN	NS	ns19.ovh.net.
 alterego.mg.		7200	IN	NS	dns19.ovh.net.
 althea.mg.		7200	IN	NS	dns112.ovh.net.
@@ -1453,10 +1454,6 @@ baobabgroup.mg.		7200	IN	NS	c.dns.gandi.net.
 baobabgroup.mg.		7200	IN	NS	a.dns.gandi.net.
 baolai.mg.		7200	IN	NS	ns1.da.cloudns.io.
 baolai.mg.		7200	IN	NS	ns2.da.cloudns.io.
-barawa-camp.mg.		7200	IN	NS	ns1.da.cloudns.io.
-barawa-camp.mg.		7200	IN	NS	ns2.da.cloudns.io.
-barawacamp.mg.		7200	IN	NS	ns1.da.cloudns.io.
-barawacamp.mg.		7200	IN	NS	ns2.da.cloudns.io.
 barcelo.mg.		7200	IN	NS	ns1.entornodns.com.
 barcelo.mg.		7200	IN	NS	ns2.entornodns.com.
 barday.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
@@ -4592,8 +4589,8 @@ havamad.mg.		86400	IN	NS	ns.dts.mg.
 havamad.mg.		86400	IN	NS	ns1.dts.mg.
 havana-resort.mg.	86400	IN	NS	bruce.ns.cloudflare.com.
 havana-resort.mg.	86400	IN	NS	karsyn.ns.cloudflare.com.
-hay-feo.mg.		86400	IN	NS	ns1.damanager.xyz.
-hay-feo.mg.		86400	IN	NS	ns2.damanager.xyz.
+hay-feo.mg.		86400	IN	NS	ns1.cloudns.io.
+hay-feo.mg.		86400	IN	NS	ns2.cloudns.io.
 hay-kira.mg.		86400	IN	NS	ns1.servermada.com.
 hay-kira.mg.		86400	IN	NS	ns2.servermada.com.
 hay-politika.mg.	86400	IN	NS	ns1.da.cloudns.io.
@@ -5003,6 +5000,8 @@ iheartradio.mg.		86400	IN	NS	ns1.clearchannel.com.
 iheartradio.mg.		86400	IN	NS	ns2.clearchannel.com.
 iheartradio.mg.		86400	IN	NS	dns1.clearchannel.com.
 iheartradio.mg.		86400	IN	NS	dns2.clearchannel.com.
+ihsm.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
+ihsm.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 ikea.mg.		86400	IN	NS	udns1.cscdns.net.
 ikea.mg.		86400	IN	NS	udns2.cscdns.uk.
 ikmalagasy.mg.		86400	IN	NS	ns1.gasyweb.com.
@@ -6407,8 +6406,6 @@ madecassecompta.mg.	86400	IN	NS	ns2.gasyweb.com.
 madeindago.mg.		86400	IN	NS	ns1.indritech.mg.
 madeindago.mg.		86400	IN	NS	ns2.indritech.mg.
 madeindago.mg.		86400	IN	NS	ns3.indritech.mg.
-madeinitaly.mg.		86400	IN	NS	dns1.supremepanel.com.
-madeinitaly.mg.		86400	IN	NS	dns2.supremepanel.com.
 madeinmada.mg.		86400	IN	NS	ns1.cloudns.io.
 madeinmada.mg.		86400	IN	NS	ns2.cloudns.io.
 madepices.mg.		86400	IN	NS	ns.dts.mg.
@@ -7357,6 +7354,9 @@ neho.mg.		86400	IN	NS	ns2.netim.net.
 neho.mg.		86400	IN	NS	ns3.netim.net.
 neho.mg.		86400	IN	NS	ns4.netim.net.
 neho.mg.		86400	IN	NS	ns5.netim.net.
+nepentheshotel.mg.	86400	IN	NS	ns1.servermada.com.
+nepentheshotel.mg.	86400	IN	NS	ns2.servermada.com.
+nepentheshotel.mg.	86400	IN	NS	ns3.servermada.com.
 nero.mg.		86400	IN	NS	ns1.da.cloudns.io.
 nero.mg.		86400	IN	NS	ns2.da.cloudns.io.
 nessentielle.mg.	86400	IN	NS	ns1.gasyweb.com.
@@ -8058,6 +8058,8 @@ paypal.mg.		86400	IN	NS	ns6.markmonitor.com.
 paypal.mg.		86400	IN	NS	ns7.markmonitor.com.
 payu.mg.		86400	IN	NS	dns1.cscdns.net.
 payu.mg.		86400	IN	NS	dns2.cscdns.net.
+pazc-madagascar.mg.	86400	IN	NS	cpanel7.lws-hosting.com.
+pazc-madagascar.mg.	86400	IN	NS	cpanel8.lws-hosting.com.
 pb-industries.mg.	86400	IN	NS	ns.dts.mg.
 pb-industries.mg.	86400	IN	NS	ns1.dts.mg.
 pciegisele.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -8542,6 +8544,8 @@ rabobank.mg.		86400	IN	NS	a7-64.akam.net.
 radbug.mg.		86400	IN	NS	ns-127-a.gandi.net.
 radbug.mg.		86400	IN	NS	ns-226-b.gandi.net.
 radbug.mg.		86400	IN	NS	ns-73-c.gandi.net.
+radilofe.mg.		86400	IN	NS	ns1.da.cloudns.io.
+radilofe.mg.		86400	IN	NS	ns2.da.cloudns.io.
 radio.mg.		86400	IN	NS	nitin.ns.cloudflare.com.
 radio.mg.		86400	IN	NS	olga.ns.cloudflare.com.
 radiofrequenceplus.mg.	86400	IN	NS	ns5.lwsdns.com.
@@ -9330,6 +9334,8 @@ simad.mg.		86400	IN	NS	ns1.servermada.com.
 simad.mg.		86400	IN	NS	ns2.servermada.com.
 simafri.mg.		86400	IN	NS	ben.ns.cloudflare.com.
 simafri.mg.		86400	IN	NS	isla.ns.cloudflare.com.
+simicro.mg.		86400	IN	NS	kristin.ns.cloudflare.com.
+simicro.mg.		86400	IN	NS	norman.ns.cloudflare.com.
 simond.mg.		86400	IN	NS	ns-108-a.gandi.net.
 simond.mg.		86400	IN	NS	ns-167-b.gandi.net.
 simond.mg.		86400	IN	NS	ns-47-c.gandi.net.
