@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022011719 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1642406539"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022011723 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1642413730"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -331,8 +331,8 @@ activia.sy.		86400	IN	NS	g4.nstld.com.
 activia.sy.		86400	IN	NS	l4.nstld.com.
 acura.sy.		86400	IN	NS	rns1.rightsdns.com.
 acura.sy.		86400	IN	NS	rns2.rightsdns.com.
-ad.sy.			86400	IN	NS	suspend1.tld.sy.
-ad.sy.			86400	IN	NS	suspend2.tld.sy.
+ad.sy.			86400	IN	NS	eva.ns.cloudflare.com.
+ad.sy.			86400	IN	NS	drew.ns.cloudflare.com.
 ad2z.sy.		86400	IN	NS	suspend1.tld.sy.
 ad2z.sy.		86400	IN	NS	suspend2.tld.sy.
 adamco.sy.		86400	IN	NS	ns1.topservers.biz.
@@ -1865,8 +1865,8 @@ bookings.sy.		86400	IN	NS	suspend2.tld.sy.
 boss.sy.		86400	IN	NS	ns1.rrpproxy.net.
 boss.sy.		86400	IN	NS	ns2.na.rrpproxy.net.
 boss.sy.		86400	IN	NS	ns2.rrpproxy.net.
-bostah.sy.		86400	IN	NS	suspend1.tld.sy.
-bostah.sy.		86400	IN	NS	suspend2.tld.sy.
+bostah.sy.		86400	IN	NS	eva.ns.cloudflare.com.
+bostah.sy.		86400	IN	NS	drew.ns.cloudflare.com.
 bot.sy.			86400	IN	NS	ns1.brmja.co.
 bot.sy.			86400	IN	NS	ns2.brmja.co.
 bottegaveneta.sy.	86400	IN	NS	dns1.comlaude-dns.com.
@@ -2120,8 +2120,8 @@ concrete-world.sy.	86400	IN	NS	suspend1.tld.sy.
 concrete-world.sy.	86400	IN	NS	suspend2.tld.sy.
 consulateofdjibouti.sy.	86400	IN	NS	ns1.alanqaa.com.
 consulateofdjibouti.sy.	86400	IN	NS	ns2.alanqaa.com.
-consulateofkazakhstan.sy. 86400	IN	NS	ns1.alanqaa.com.
-consulateofkazakhstan.sy. 86400	IN	NS	ns2.alanqaa.com.
+consulateofkazakhstan.sy. 86400	IN	NS	suspend1.tld.sy.
+consulateofkazakhstan.sy. 86400	IN	NS	suspend2.tld.sy.
 container-agency.sy.	86400	IN	NS	suspend1.tld.sy.
 container-agency.sy.	86400	IN	NS	suspend2.tld.sy.
 copa.sy.		86400	IN	NS	ns1.waveshost.sy.
@@ -2225,11 +2225,8 @@ damascusuniversity.sy.	86400	IN	NS	ns1.damasuniv.edu.sy.
 damascusuniversity.sy.	86400	IN	NS	ns2.damasuniv.edu.sy.
 damasedu.sy.		86400	IN	NS	ns3.tld.sy.
 damasedu.sy.		86400	IN	NS	ns4.tld.sy.
-damasgate-agri.sy.	86400	IN	NS	ns1.ucg-core.com.
-damasgate-agri.sy.	86400	IN	NS	ns4.ucg-core.com.
-damasgate-agri.sy.	86400	IN	NS	ns11.ucg-core.com.
-damasgate-agri.sy.	86400	IN	NS	ns51.uae-dc.com.
-damasgate-agri.sy.	86400	IN	NS	ns54.uae-dc.com.
+damasgate-agri.sy.	86400	IN	NS	suspend1.tld.sy.
+damasgate-agri.sy.	86400	IN	NS	suspend2.tld.sy.
 damasindustry.sy.	86400	IN	NS	ns1061.websiteservername.com.
 damasindustry.sy.	86400	IN	NS	ns1062.websiteservername.com.
 damaspharmacy.sy.	86400	IN	NS	ns3.tld.sy.
@@ -2929,8 +2926,8 @@ fluidra.sy.		86400	IN	NS	dns1.adbecartera.net.
 fluidra.sy.		86400	IN	NS	dns2.adbecartera.net.
 flyaman.sy.		86400	IN	NS	suspend1.tld.sy.
 flyaman.sy.		86400	IN	NS	suspend2.tld.sy.
-fm.sy.			86400	IN	NS	suspend1.tld.sy.
-fm.sy.			86400	IN	NS	suspend2.tld.sy.
+fm.sy.			86400	IN	NS	eva.ns.cloudflare.com.
+fm.sy.			86400	IN	NS	drew.ns.cloudflare.com.
 fmfb.sy.		86400	IN	NS	ns.fmfb.sy.
 fmfb.sy.		86400	IN	NS	ns2.fmfb.sy.
 ns.fmfb.sy.		86400	IN	A	213.178.241.246
@@ -3601,8 +3598,8 @@ imtyaz.sy.		86400	IN	NS	ns1.imtyaz.sy.
 imtyaz.sy.		86400	IN	NS	ns2.imtyaz.sy.
 ns1.imtyaz.sy.		86400	IN	A	136.243.90.133
 ns2.imtyaz.sy.		86400	IN	A	94.130.116.142
-in.sy.			86400	IN	NS	suspend1.tld.sy.
-in.sy.			86400	IN	NS	suspend2.tld.sy.
+in.sy.			86400	IN	NS	eva.ns.cloudflare.com.
+in.sy.			86400	IN	NS	drew.ns.cloudflare.com.
 ind.sy.			86400	IN	NS	ns3.tld.sy.
 ind.sy.			86400	IN	NS	ns4.tld.sy.
 indomi-biz.sy.		86400	IN	NS	ns1.hostdnsserver.com.
