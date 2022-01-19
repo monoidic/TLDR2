@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421832 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220320002002 20220118232002 17389 sn. mRxTB0iMYAcy6Ic6PYwLF1GJMPdI8qBB6L1bfw+KBfFDs8juWbicjJmk AjNtP/stK8QCyxFNUqg3Z9dOBOm19w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421846 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220320024003 20220119014003 17389 sn. H7+TiJUfsTHzOXky2WbGGp97rcGal/dEQ3ZNLi9hbiPnQKCSGCcUdkCj hTkzQis71IcBvcX5hQ2UYbS7QzfNbg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [19/01/2022 01H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220317071644 20220118232002 17389 sn. zLxDpfG3i+XfjxftvQqY/YyYYQb7sOzfXmuoQElizysuSj03EjMdwHV5 yz7a3WGMZvQhyQJcbAZ/Ko40raZhuQ==
+sn.			172800	IN	TXT	"No RRs processed [19/01/2022 03H40:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220207035854 20220119014003 17389 sn. rynvmF7Z3uOfKeBfC8rtlVr1KKOmMhUgMd6rphOZ/oD8z/L+EmpqZuKt FuRFuOaT6oJSfs7x1VwIL4spSKuqeQ==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -494,8 +494,8 @@ adagroupe.sn.		43200	IN	NS	ns1.kheweul.net.
 adagroupe.sn.		43200	IN	NS	ns2.kheweul.net.
 adagroupe.sn.		43200	IN	NS	ns3.kheweul.net.
 adagroupe.sn.		43200	IN	NS	ns4.kheweul.net.
-adamambaye.sn.		172800	IN	NS	ns1.101domain.com.
-adamambaye.sn.		172800	IN	NS	ns2.101domain.com.
+adamambaye.sn.		172800	IN	NS	ns4.wixdns.net.
+adamambaye.sn.		172800	IN	NS	ns5.wixdns.net.
 adars.sn.		172800	IN	NS	corporate.vip51.noc40.com.
 adars.sn.		172800	IN	NS	corporate.vip52.noc40.com.
 adas.sn.		43200	IN	NS	ns1.kheweul.net.
@@ -1973,6 +1973,8 @@ aus-g4s.sn.		43200	IN	NS	ns1.101domain.com.
 aus-g4s.sn.		43200	IN	NS	ns2.101domain.com.
 ausecurity.sn.		43200	IN	NS	ns1.101domain.com.
 ausecurity.sn.		43200	IN	NS	ns2.101domain.com.
+auth.sn.		172800	IN	NS	ns1.101domain.com.
+auth.sn.		172800	IN	NS	ns2.101domain.com.
 authentico.sn.		43200	IN	NS	cpanel17.lws-hosting.com.
 authentico.sn.		43200	IN	NS	cpanel18.lws-hosting.com.
 auto-ml.sn.		43200	IN	NS	ns17.ovh.net.
@@ -5987,8 +5989,8 @@ dmi.sn.			43200	IN	RRSIG	DS 13 2 43200 20220213071137 20220109160727 17389 sn. h
 dmwm.sn.		43200	IN	NS	ns1.netim.net.
 dmwm.sn.		43200	IN	NS	ns2.netim.net.
 dmwm.sn.		43200	IN	NS	ns3.netim.net.
-dna.sn.			172800	IN	NS	ian.ns.cloudflare.com.
-dna.sn.			172800	IN	NS	tina.ns.cloudflare.com.
+dna.sn.			172800	IN	NS	ns1.101domain.com.
+dna.sn.			172800	IN	NS	ns2.101domain.com.
 dnb.sn.			43200	IN	NS	dns1.safenames.com.
 dnb.sn.			43200	IN	NS	dns2.safenames.net.
 dnb.sn.			43200	IN	NS	dns3.safenames.org.
@@ -10809,6 +10811,8 @@ juulvapor.sn.		43200	IN	NS	ns-70.awsdns-08.com.
 juulvapor.sn.		43200	IN	NS	ns-524.awsdns-01.net.
 juulvapor.sn.		43200	IN	NS	ns-1029.awsdns-00.org.
 juulvapor.sn.		43200	IN	NS	ns-1576.awsdns-05.co.uk.
+kaay.sn.		172800	IN	NS	ns1.101domain.com.
+kaay.sn.		172800	IN	NS	ns2.101domain.com.
 kaayentreprendre.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 kaayentreprendre.sn.	172800	IN	NS	ns8.jokko-hosting.com.
 kabirex.sn.		43200	IN	NS	ns5.jokko-hosting.com.
@@ -10944,6 +10948,8 @@ kaspersky.sn.		43200	IN	NS	ns2.kasperskylabs.net.
 kaspersky.sn.		43200	IN	NS	ns3.kasperskylabs.net.
 kawsara.sn.		43200	IN	NS	ns1.kheweul.net.
 kawsara.sn.		43200	IN	NS	ns2.kheweul.net.
+kay.sn.			172800	IN	NS	ns1.101domain.com.
+kay.sn.			172800	IN	NS	ns2.101domain.com.
 kayenneboutik.sn.	43200	IN	NS	ns.sonatel.sn.
 kayenneboutik.sn.	43200	IN	NS	ns2.sonatel.sn.
 kayentreprendre.sn.	172800	IN	NS	ns5.jokko-hosting.com.
