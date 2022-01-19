@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421868 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220320062004 20220119052004 17389 sn. MhVabB1j0Bhi47hHwbDC8vcuw0VsPtkOvOS46VR6esGLzAQDw9IhtpCk CLSyK6E7+rf9YQ+1lDZ7f+BvjvJmtQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421880 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220320081003 20220119071003 17389 sn. hjK0txZM7T+BID0g2toksCsyN/zQDiGzeXMXxNmY+WnpX07lT1Kr1mus /9jSdnkyRnHJAaVFauc0fV8cEcSCcg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [19/01/2022 07H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220204090821 20220119052004 17389 sn. xMr3s0pS+ZZb/GoS+Ov1ZHBnZA1WGf8TrMw5ejaCKSXfIS+0N0XdrJBx PPFa89xmAPurDLBml8dXpl+tidU86g==
+sn.			172800	IN	TXT	"3 RRs processed [19/01/2022 09H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220307192410 20220119071003 17389 sn. ChtAduz0hHt1ku6elYKPKg81VnYKPz3y0oXvPXxtP4muGib6uN/JqKlx XFWtT7j5xdmAE7lK7QhD/wQmGpWUYg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -6387,14 +6387,6 @@ ecapisgroupe.sn.	43200	IN	NS	ns1.kheweul.net.
 ecapisgroupe.sn.	43200	IN	NS	ns2.kheweul.net.
 ecapisgroupe.sn.	43200	IN	NS	ns3.kheweul.net.
 ecapisgroupe.sn.	43200	IN	NS	ns4.kheweul.net.
-ecare.sn.		43200	IN	NS	bo.ecare.sn.
-ecare.sn.		43200	IN	NS	api.ecare.sn.
-ecare.sn.		43200	IN	NS	ns2.francedns.com.
-ecare.sn.		43200	IN	NS	dash.ecare.sn.
-ecare.sn.		43200	IN	NS	cloudf03.francedns.com.
-api.ecare.sn.		43200	IN	A	91.186.8.118
-bo.ecare.sn.		43200	IN	A	91.186.8.118
-dash.ecare.sn.		43200	IN	A	91.186.8.118
 eccotra.sn.		43200	IN	NS	ns1.caurys.net.
 eccotra.sn.		43200	IN	NS	ns2.caurys.net.
 echamatec.sn.		172800	IN	NS	whns.komodo.ch.
@@ -10845,7 +10837,7 @@ kajom-capital.sn.	172800	IN	NS	dns16.ovh.net.
 kajom-capital.sn.	172800	IN	DS	45526 8 2 B6B648C9D1828BD093F4F63861661F3F2D0EFF40D24C3BA19A4F027A 3FD9C2F9
 kajom-capital.sn.	172800	IN	RRSIG	DS 13 2 172800 20220210091710 20220109160727 17389 sn. /EKPbyT+Nb8GiwySbpfhkM7pr6ZLfmtMbR8rkqlWsDOxWhoKMiCS8+TE 9yl5B3cg5gm/UlfU5Ay2YU5ImwljWA==
 kajomcapital.sn.	172800	IN	DS	22915 8 2 2E1A164CC7998D2A1439A6D499A98E974027B06C7E534B4AF2EEB09C 031089D0
-kajomcapital.sn.	172800	IN	RRSIG	DS 13 2 172800 20220202073544 20220109160727 17389 sn. v5Ie82OvriR1L4VOevZfGk79qZu7e3t1MUk+IiQa8qERKMk7MukGXyBZ w9rgFdfG4rTO8ie08hr/oXXuDqgLmw==
+kajomcapital.sn.	172800	IN	RRSIG	DS 13 2 172800 20220320072643 20220119063544 17389 sn. 5aO+r0YKwDgNYI0xYR2KN4Kpehc8kGClmzWr+prSWzVR7dXO4AZydPOX DVy50xfIH157suJTSbhrZINMcEQyBQ==
 kajomcapital.sn.	172800	IN	NS	ns16.ovh.net.
 kajomcapital.sn.	172800	IN	NS	dns16.ovh.net.
 kajoorjankeen.sn.	43200	IN	NS	ns109.ovh.net.
@@ -15681,6 +15673,10 @@ puressentiel.sn.	43200	IN	NS	c.dns.gandi.net.
 pwcglobal.sn.		172800	IN	NS	nic.near.net.
 pwcglobal.sn.		172800	IN	NS	nic3.barrnet.net.
 pwcglobal.sn.		172800	IN	NS	knock.ser.bbnplanet.net.
+pwramed.sn.		172800	IN	NS	ns112.ovh.net.
+pwramed.sn.		172800	IN	NS	dns112.ovh.net.
+pwratech.sn.		172800	IN	NS	ns112.ovh.net.
+pwratech.sn.		172800	IN	NS	dns112.ovh.net.
 pyramidgroup.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pyramidgroup.sn.	172800	IN	NS	ns6.jokko-hosting.com.
 qar.sn.			43200	IN	NS	ns16.ovh.net.
@@ -21129,8 +21125,6 @@ wutiko.sn.		43200	IN	NS	ns1.kheweul.net.
 wutiko.sn.		43200	IN	NS	ns2.kheweul.net.
 wutiko.sn.		43200	IN	NS	ns3.kheweul.net.
 wutiko.sn.		43200	IN	NS	ns4.kheweul.net.
-wuuti.sn.		172800	IN	NS	ns1.siteground.net.
-wuuti.sn.		172800	IN	NS	ns2.siteground.net.
 wuuti.sn.		172800	IN	NS	nina.ns.cloudflare.com.
 wuuti.sn.		172800	IN	NS	rayden.ns.cloudflare.com.
 wwenetwork.sn.		43200	IN	NS	ns1.wwe.com.
