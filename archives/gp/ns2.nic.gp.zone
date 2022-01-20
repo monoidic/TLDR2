@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022012018 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022012019 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1471,8 +1471,11 @@ dr.gp.			86400	IN	NS	ns2.messagingengine.com.
 dr-pierre-ricaud.gp.	86400	IN	NS	ns.domainnetwork.se.
 dr-pierre-ricaud.gp.	86400	IN	NS	ns2.domainnetwork.se.
 dr-pierre-ricaud.gp.	86400	IN	NS	ns3.domainnetwork.com.
-dream.gp.		86400	IN	NS	ns1.francedns.com.
-dream.gp.		86400	IN	NS	ns2.francedns.com.
+dream.gp.		86400	IN	NS	freedns1.registrar-servers.com.
+dream.gp.		86400	IN	NS	freedns2.registrar-servers.com.
+dream.gp.		86400	IN	NS	freedns3.registrar-servers.com.
+dream.gp.		86400	IN	NS	freedns4.registrar-servers.com.
+dream.gp.		86400	IN	NS	freedns5.registrar-servers.com.
 drift.gp.		86400	IN	NS	ns1.2wisestartup.com.
 drift.gp.		86400	IN	NS	ns2.2wisestartup.com.
 driftmasters.gp.	86400	IN	NS	ns-74.awsdns-09.com.
@@ -1947,6 +1950,8 @@ franke.gp.		86400	IN	NS	ns2.rrpproxy.net.
 franke.gp.		86400	IN	NS	ns3.rrpproxy.net.
 freasylog.gp.		86400	IN	NS	ns103.ovh.net.
 freasylog.gp.		86400	IN	NS	dns103.ovh.net.
+free.gp.		86400	IN	NS	ns2.proxad.net.
+free.gp.		86400	IN	NS	ns3.proxad.net.
 free-mobile.gp.		86400	IN	NS	ns0.paname.org.
 free-mobile.gp.		86400	IN	NS	ns1.paname.org.
 freeflex.gp.		86400	IN	NS	freens1-g20.free.fr.
