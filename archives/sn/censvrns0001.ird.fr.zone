@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222421993 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220321001002 20220119231002 17389 sn. wjYPoJGvFqV52vgyAkbXCoXs7qx+7ADRU2X8qAutcbfpnTjDB941o9ZV OwI7fND5uths9JdW0VqSry25qwTSXg==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422011 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220321030003 20220120020003 17389 sn. ZvrKpHFrlf+zymuV1AumERXjnKtcNHBJWU59d7PQ/9wCLPNURSBnRRAc nRadwYD9hG9lqcoJ+qz7r6aRRH6p1g==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"3 RRs processed [20/01/2022 01H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220307233603 20220119231002 17389 sn. B4IZbKzYYH9AiU+TpdSdTaT84F/TFddwAX8OgoBy9YXTCBkPxwpxuVt4 Iu2xTuAO61nXkgtJoUqtDaTOzxa10Q==
+sn.			172800	IN	TXT	"No RRs processed [20/01/2022 04H00:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220304201155 20220120020003 17389 sn. V5uD27h2HESYqc+hZ+PeHCPcSJiWylXI6JmaC9wQQyodbOnuwDvQjikP ynUdHJA+ED7/o0Z8IUiU72vJ+R9jPw==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -645,9 +645,8 @@ aeroservices.sn.	43200	IN	NS	ns1.kheweul.net.
 aeroservices.sn.	43200	IN	NS	ns2.kheweul.net.
 aes.sn.			43200	IN	NS	ns11.infomaniak.ch.
 aes.sn.			43200	IN	NS	ns12.infomaniak.ch.
-afbs.sn.		43200	IN	NS	ns-60-c.gandi.net.
-afbs.sn.		43200	IN	NS	ns-187-b.gandi.net.
-afbs.sn.		43200	IN	NS	ns-218-a.gandi.net.
+afbs.sn.		172800	IN	NS	ns5.afriregister.co.ke.
+afbs.sn.		172800	IN	NS	ns6.afriregister.co.ke.
 afconsulting.sn.	43200	IN	NS	ns1.cloudns.io.
 afconsulting.sn.	43200	IN	NS	ns2.cloudns.io.
 afddakar.sn.		43200	IN	NS	ns.sonatel.sn.
@@ -2787,7 +2786,7 @@ blablacar.sn.		43200	IN	NS	obs.ns1.fr.
 black-mamba.sn.		172800	IN	NS	ns15.ovh.net.
 black-mamba.sn.		172800	IN	NS	dns15.ovh.net.
 black-mamba.sn.		172800	IN	DS	34045 8 2 94955DDBF975107DC17D38F6111AB0F1076FF333A838F5EF7174E8D9 8D42EBD8
-black-mamba.sn.		172800	IN	RRSIG	DS 13 2 172800 20220203020225 20220109160727 17389 sn. lEi+uC/xM9ELzsr1myhCV437k7c8VI63GF7J0w6Dkl1zIvs8xHmHN6b3 gsq27g6GVHjwgQ9cttyF6fyMfSQsDw==
+black-mamba.sn.		172800	IN	RRSIG	DS 13 2 172800 20220321011845 20220120010225 17389 sn. rvcQWh/b/hrrC6BYtsPSCkCaq52/qBhzLSTnJrkDEk0oj/elF0FxS3C1 BKPDTlSkwGbsS1ARDNrlEDu5HBaDhg==
 black-mamba-international.sn. 172800 IN	NS	ns105.ovh.net.
 black-mamba-international.sn. 172800 IN	NS	dns105.ovh.net.
 black-mamba-international.sn. 172800 IN	DS	26635 8 2 F70411B519534450B7D473297762AC4041D906D0F69EDF2A221384D5 DAE04F23
