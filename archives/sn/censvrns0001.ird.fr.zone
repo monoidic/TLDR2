@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422254 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422273 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220221081009 20220109160727 17389 sn. bfPc/+ffU4JNhaGnvEcYBDA8Qa7MOTSNnXRfwPren6XrUAlLC4EpgZC2 awl4sLLbilTx+yL9t8mGrIm0IBaauQ==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220217115732 20220121111003 17389 sn. aH6dGmiMUWU+xfHlW7Cqmihtq/Jov4RSkyMlM8NAmQ60oB1hlgnRqvxz fiv6gyMYb3MjS+x/l6DwbIHYzaW54A==
-sn.			172800	IN	TXT	"No RRs processed [21/01/2022 13H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220305135547 20220121131003 17389 sn. 59LBAc5wrkxljQzmnM/eIWYhbcxRS3wro/AC5h9ufwY+A1DIx0byW+tl WMpFKc2+erY5mjgBHRyLm1T1elw8HA==
+sn.			172800	IN	TXT	"No RRs processed [21/01/2022 15H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220322121003 20220121111003 17389 sn. RmVIPRWADOGQ7oVNpetgdUy5cJ88Ert+4pLmb1fRhx8Qh9asg14Nn4Ev oROfnGTBUTeCFXd9DXuhIW8jyfCbOQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220322141003 20220121131003 17389 sn. QbljnxAmakdjUIcn6+N+wg1AKpjhp1BW3tunkLXpC3vRsGQaSmf/De7L oQ0GWoam1x2QfZTYW8ljnVM80KSEAw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -407,6 +407,9 @@ aci-sn.sn.		43200	IN	NS	ns18.ovh.net.
 aci-sn.sn.		43200	IN	NS	dns18.ovh.net.
 acias.sn.		43200	IN	NS	ns1.skytechnology.pl.
 acias.sn.		43200	IN	NS	m001.skynode.pl.
+acibadem.sn.		172800	IN	NS	ns1.turkticaret.net.
+acibadem.sn.		172800	IN	NS	ns2.turkticaret.net.
+acibadem.sn.		172800	IN	NS	ns3.turkticaret.net.
 acis.sn.		43200	IN	NS	ns1.o2switch.net.
 acis.sn.		43200	IN	NS	ns2.o2switch.net.
 acisarl.sn.		43200	IN	NS	ns1.kheweul.net.
@@ -783,7 +786,7 @@ afrig.sn.		43200	IN	NS	ns1.site5.com.
 afrig.sn.		43200	IN	NS	ns2.site5.com.
 afrika-innovation.sn.	43200	IN	NS	ns113.ovh.net.
 afrika-innovation.sn.	43200	IN	NS	dns113.ovh.net.
-afrikysoft.sn.		172800	IN	RRSIG	DS 13 2 172800 20220204130720 20220109160727 17389 sn. o5hZ2ga4/q9dg+xLT2LC39bj626NuHt4/eyjinv4Sh5IrUTDyz2zpJgv U7GPABD5Fux2E/hnCSInmDyM6nEwvA==
+afrikysoft.sn.		172800	IN	RRSIG	DS 13 2 172800 20220322123542 20220121120720 17389 sn. XIX2MO4i0PG9pq6E6ZnTJq/dQbOmjc96f9lonenGK2OHmT/u2XsXQokt BZBtjszojcxwYMry7INvncVSwiFgmw==
 afrikysoft.sn.		172800	IN	DS	61960 8 2 2D99608A5913B6F45C51E85ED3047250C895ED5CE2F053F764B62753 D8A615C3
 afrikysoft.sn.		172800	IN	NS	ns20.ovh.net.
 afrikysoft.sn.		172800	IN	NS	dns20.ovh.net.
@@ -2050,7 +2053,7 @@ avensgroupe.sn.		172800	IN	NS	ns1.wanekoohost.com.
 avensgroupe.sn.		172800	IN	NS	ns2.wanekoohost.com.
 avensgroupe.sn.		172800	IN	NS	ns5.wanekoohost.com.
 avensgroupe.sn.		172800	IN	NS	ns6.wanekoohost.com.
-aviex.sn.		172800	IN	RRSIG	DS 13 2 172800 20220204130912 20220109160727 17389 sn. nonf8MoR1lkIXSmd/KyCvzLi3te6Ut3x8+sshJqXSRg8rhJveJRQaORr nBMauBfSVUWunSyVUbDqg5+OwKIzGw==
+aviex.sn.		172800	IN	RRSIG	DS 13 2 172800 20220322122849 20220121120912 17389 sn. Y6cr9vGOk2DMO8I4tEQReC5qb3pM3nn4Moar2IgC9oTtG8vIWMkonoSq OnR6Gzh++rraJ6IEDk3gsL3EGPQ14Q==
 aviex.sn.		172800	IN	DS	37354 8 2 BCF956EDC5431256D5532ACE6D4B19351591B2E362A399268F8D535E F481EE30
 aviex.sn.		172800	IN	NS	ns11.ovh.net.
 aviex.sn.		172800	IN	NS	dns11.ovh.net.
@@ -2596,7 +2599,7 @@ betwinner.sn.		43200	IN	NS	ns2.francedns.com.
 betwinner.sn.		43200	IN	NS	ns3.francedns.com.
 beuguena.sn.		43200	IN	NS	ns1.cp-32.webhostbox.net.
 beuguena.sn.		43200	IN	NS	ns2.cp-32.webhostbox.net.
-beurelen.sn.		172800	IN	RRSIG	DS 13 2 172800 20220204132800 20220109160727 17389 sn. Qm07fNEZdqeG5dhg/n56H0lE9c8Xa8eZoU4IVAVj4rNF89pnPWfAhBLS 77MRiODM3bY7BI7lsomAtSAD/1AxPQ==
+beurelen.sn.		172800	IN	RRSIG	DS 13 2 172800 20220322131642 20220121122800 17389 sn. FlN0EUNaZo6rpekyVi8gJvATM1U9jJ0gTF6APHMh/89Ynj7sgZMlaGs/ kqGHpoyTZKGV6iP5j8AgJtduOMso0Q==
 beurelen.sn.		172800	IN	DS	40687 8 2 B73D2FED7A34DDD0CB657E74C96CA7517DFCCCA250195E188A57B92D F474A50F
 beurelen.sn.		172800	IN	NS	ns200.anycast.me.
 beurelen.sn.		172800	IN	NS	dns200.anycast.me.
@@ -5404,6 +5407,10 @@ dds.sn.			43200	IN	NS	ns1.afrowebmaster.com.
 dds.sn.			43200	IN	NS	ns2.afrowebmaster.com.
 dds.sn.			43200	IN	NS	ns3.afrowebmaster.com.
 dds.sn.			43200	IN	NS	ns4.afrowebmaster.com.
+ddsm.sn.		172800	IN	NS	ns1.kheweul.net.
+ddsm.sn.		172800	IN	NS	ns2.kheweul.net.
+ddsm.sn.		172800	IN	NS	ns3.kheweul.net.
+ddsm.sn.		172800	IN	NS	ns4.kheweul.net.
 deal.sn.		43200	IN	NS	ns100.ovh.net.
 deal.sn.		43200	IN	NS	dns100.ovh.net.
 dealbi.sn.		172800	IN	NS	ns1.servconfig.com.
@@ -7787,6 +7794,8 @@ fitnesspark.sn.		172800	IN	NS	ns20.ovh.net.
 fitnesspark.sn.		172800	IN	NS	dns20.ovh.net.
 fiw.sn.			43200	IN	NS	ns1.jajeuf.com.
 fiw.sn.			43200	IN	NS	ns2.jajeuf.com.
+fkf.sn.			172800	IN	NS	ns5.jokko-hosting.com.
+fkf.sn.			172800	IN	NS	ns6.jokko-hosting.com.
 flash.sn.		43200	IN	NS	ns1.ascio.com.
 flash.sn.		43200	IN	NS	ns2.ascio.com.
 flash.sn.		43200	IN	NS	ns3.ascio.com.
@@ -8112,6 +8121,9 @@ freseniusmedicalcare.sn. 172800	IN	NS	ns4.markmonitor.com.
 freseniusmedicalcare.sn. 172800	IN	NS	ns5.markmonitor.com.
 freseniusmedicalcare.sn. 172800	IN	NS	ns6.markmonitor.com.
 freseniusmedicalcare.sn. 172800	IN	NS	ns7.markmonitor.com.
+fresh2you.sn.		172800	IN	NS	ns1.beedns.eu.
+fresh2you.sn.		172800	IN	NS	ns2.beedns.eu.
+fresh2you.sn.		172800	IN	NS	ns3.beedns.co.
 fri.sn.			43200	IN	NS	ns13.ovh.net.
 fri.sn.			43200	IN	NS	dns13.ovh.net.
 frm.sn.			43200	IN	NS	april.ns.cloudflare.com.
@@ -11426,8 +11438,8 @@ lacroix.sn.		172800	IN	NS	ns1.caurys.net.
 lacroix.sn.		172800	IN	NS	ns2.caurys.net.
 lacuisinedezahra.sn.	43200	IN	NS	eisdns1.expertis.sn.
 lacuisinedezahra.sn.	43200	IN	NS	eisdns2.expertis.sn.
-lafa.sn.		172800	IN	NS	ns5.poyrazhosting.com.
-lafa.sn.		172800	IN	NS	ns6.poyrazhosting.com.
+lafa.sn.		172800	IN	NS	nitin.ns.cloudflare.com.
+lafa.sn.		172800	IN	NS	rachel.ns.cloudflare.com.
 lafabrique.sn.		172800	IN	NS	ns1.francedns.com.
 lafabrique.sn.		172800	IN	NS	ns2.francedns.com.
 lafabrique.sn.		172800	IN	NS	ns3.francedns.com.
@@ -12128,7 +12140,7 @@ lonase.sn.		43200	IN	NS	ns200.anycast.me.
 lonase.sn.		43200	IN	NS	dns200.anycast.me.
 lonaselab.sn.		172800	IN	NS	eisdns1.expertis.sn.
 lonaselab.sn.		172800	IN	NS	eisdns2.expertis.sn.
-looking.sn.		43200	IN	RRSIG	DS 13 2 43200 20220204121149 20220109160727 17389 sn. AFmxvXcvWcp6wkZ51l+XmVSs0S+Rn/XMwQhuQjgNOrUttJN67uwPozre uFWGn3E5NqkmmVGJD6lsb0NrGDq0Fg==
+looking.sn.		43200	IN	RRSIG	DS 13 2 43200 20220322121024 20220121111149 17389 sn. t5EGGRREMVTteqv39pCm9JVf4m7iX/q4o+PtqCCS9PFxiXBAW228hW2E pnEZTOhxVPJbTRYRo4llgDfF1Z0Vaw==
 looking.sn.		43200	IN	DS	25625 13 1 7B4ED29EA44EFD42CC6419CB66BFBDCA1107F933
 looking.sn.		43200	IN	NS	nsa.n0c.com.
 looking.sn.		43200	IN	NS	nsb.n0c.com.
@@ -12839,6 +12851,8 @@ medincus.sn.		172800	IN	NS	dns3.home.pl.
 mediq.sn.		43200	IN	NS	nsgbr.comlaude.co.uk.
 mediq.sn.		43200	IN	NS	nssui.comlaude.ch.
 mediq.sn.		43200	IN	NS	nsusa.comlaude.net.
+medisc.sn.		172800	IN	NS	ns5.jokko-hosting.com.
+medisc.sn.		172800	IN	NS	ns6.jokko-hosting.com.
 medishop.sn.		172800	IN	RRSIG	DS 13 2 172800 20220320171952 20220109160727 17389 sn. JevsTAZeoex7dF3J0DI1LdjotzIAaRX4qDPxUmGisPuPw6yQ9qsHTvqt XA4zpFTXgCPAULoGaRCBVDwuK8bCRA==
 medishop.sn.		172800	IN	DS	31249 8 2 A3E534BFBACE29C7D8849295DD04FECFFA01A0F4620F4FEE09E8F667 B47B88F7
 medishop.sn.		172800	IN	NS	ns100.ovh.net.
@@ -14774,7 +14788,7 @@ papajohns.sn.		43200	IN	NS	dns1.cscdns.net.
 papajohns.sn.		43200	IN	NS	dns2.cscdns.net.
 papex.sn.		43200	IN	NS	pdns11.domaincontrol.com.
 papex.sn.		43200	IN	NS	pdns12.domaincontrol.com.
-papimex.sn.		172800	IN	RRSIG	DS 13 2 172800 20220204125531 20220109160727 17389 sn. I6Dag2XFajU9AYf3AZFCcMbgJg4KPQrA4Uc3rkLIuVoXrZQjDScqLkpk eDXTsK2oA8MwKbs0wMEvcCozCGXZbw==
+papimex.sn.		172800	IN	RRSIG	DS 13 2 172800 20220322122409 20220121115531 17389 sn. mDn0ahNdyeHym5CqQ2LibdMkcWX+TirKXpsPVnGtcD8QlqMS1dy0sEZf hFMGTwRIjzS0IcPmvMiK4m8rFLcmYA==
 papimex.sn.		172800	IN	DS	23959 8 2 EA54A585D229BE350239353218A6920458CCAC9DB1AE9A77D34CD622 C7212EDC
 papimex.sn.		172800	IN	NS	ns200.anycast.me.
 papimex.sn.		172800	IN	NS	dns200.anycast.me.
@@ -15497,6 +15511,8 @@ primature.sn.		172800	IN	NS	ns2.gouv.sn.
 primature.sn.		172800	IN	NS	ns3.gouv.sn.
 primeale.sn.		43200	IN	NS	dns1.cscdns.net.
 primeale.sn.		43200	IN	NS	dns2.cscdns.net.
+primetimes.sn.		172800	IN	NS	ns200.anycast.me.
+primetimes.sn.		172800	IN	NS	dns200.anycast.me.
 primmo.sn.		43200	IN	NS	ns1.kheweul.net.
 primmo.sn.		43200	IN	NS	ns2.kheweul.net.
 primmo.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -23227,7 +23243,7 @@ RSG9FAOGK98A45HF9V3CI7574KOQDTKN.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022021103033
 RSG9FAOGK98A45HF9V3CI7574KOQDTKN.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 RSM7O4NKQ4H91D5UKU8A50IGLN9B714L NS DS RRSIG
 RSM7O4NKQ4H91D5UKU8A50IGLN9B714L.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220211022801 20220109160727 17389 sn. AMmBh2YV4QpHZTkKmZLtqV7wGMz9yQsbGJJxTi4xp6OO1NX9ktGGesdw hwo40LEZ+JjIh6BKbbhL3VnuX2KEZg==
 RSM7O4NKQ4H91D5UKU8A50IGLN9B714L.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 RTDAGV4O0B8E16PS9RVO1SJB82IOFUNR NS DS RRSIG
-RTDAGV4O0B8E16PS9RVO1SJB82IOFUNR.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220204140403 20220109160727 17389 sn. 4lQaKInCEJQFtls3uuQsXJ0TzfMNDGdP+CCoW1lQ8g0r2/a43W648XcW 1O8sFWZ0N528flytSSyI5QPVtR80gQ==
+RTDAGV4O0B8E16PS9RVO1SJB82IOFUNR.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220322130639 20220121130403 17389 sn. AcxMgDZ4U2usGPypYjlD/2zvnKUQ2EdcgGY/YzIaaNCYm7Esl5qf7phr mP3UiVtuJL7KkpQ8buUzjUsAoFVWOA==
 RTDAGV4O0B8E16PS9RVO1SJB82IOFUNR.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 RTJKHEN5PU8OF6D9ED9K7VIHN9N99UHI NS DS RRSIG
 RTJKHEN5PU8OF6D9ED9K7VIHN9N99UHI.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220313192304 20220109160727 17389 sn. +d6/XgGSmk2hm0PFVXb4rBQq8a9Rg24lpJF6BpQExuQeUypFUdU/iL1B kfq0WPPKau4+ShioxARY/1RVZM4AxA==
 RTJKHEN5PU8OF6D9ED9K7VIHN9N99UHI.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 RU2R0TORQ9UO0G6JEPGLTQ2MFVUFF8UU NS DS RRSIG
@@ -23361,7 +23377,7 @@ UF6P010BMHQ4CE0VJ3MONSFPQ1DVFU7K.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022022006364
 UF6P010BMHQ4CE0VJ3MONSFPQ1DVFU7K.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 UGS8MNBTPP6BLMAVV0MDJLG6D3M1S5HH NS DS RRSIG
 UGS8MNBTPP6BLMAVV0MDJLG6D3M1S5HH.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220228115005 20220109160727 17389 sn. 2z1uVS/5OO0PqDRmzBkhxu7tKyM8vmRTmG4zjsGh4xfYT9kgx+oOo4oc fjN/hV/e5WgPmJ+fGOoQru0B9sWylg==
 UGS8MNBTPP6BLMAVV0MDJLG6D3M1S5HH.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 UJ9V82A08NVJQ80A9GIP7NVPUJC9RRO6 NS DS RRSIG
-UJ9V82A08NVJQ80A9GIP7NVPUJC9RRO6.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220204132934 20220109160727 17389 sn. qDQZo5mdR5Ka9eMR4eQjjUn8pq8egg2xXlcg9K/MgCmBJU3kA6SUSHyB nNd6Y0FvFr5TLVHfrAbVWHGPYjfiRQ==
+UJ9V82A08NVJQ80A9GIP7NVPUJC9RRO6.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220322123921 20220121122934 17389 sn. R8tSWK0U5jU9hfcRCnYjwCDGNRrVAOwb771NkruwCbEObaK19IMHR66P 6GPS3V8uu5API+XeYLSE3dvdOQI16w==
 UJ9V82A08NVJQ80A9GIP7NVPUJC9RRO6.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 UKUQI1EU44M7ML00CKNREA6RS2ILK7JI NS DS RRSIG
 UKUQI1EU44M7ML00CKNREA6RS2ILK7JI.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220223015720 20220109160727 17389 sn. d3Mo2TklSES6RzXatY1cYAftxud8KSL+xsK3qL+Tb25PK1ZN7edo0LfA ArjtmH7GVb2XXHQ05oq9xCcWgl+BXg==
 UKUQI1EU44M7ML00CKNREA6RS2ILK7JI.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 UMHUCQ8VQ6S5HOQAOGGJ0TP83PEPRJVF NS DS RRSIG
