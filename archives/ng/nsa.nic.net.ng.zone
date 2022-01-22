@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012219 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1642874434"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012221 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1642881634"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -597,6 +597,8 @@ ns2.4sale.ng.		3600	IN	A	179.61.137.235
 59s.ng.			3600	IN	NS	ns2.101domain.com.
 5aside.ng.		3600	IN	NS	nsa.whogohost.com.
 5aside.ng.		3600	IN	NS	nsb.whogohost.com.
+5gcon.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+5gcon.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 5gnetwork.ng.		3600	IN	NS	ns1.dan.com.
 5gnetwork.ng.		3600	IN	NS	ns2.dan.com.
 5kits.ng.		3600	IN	NS	ns1.web4africa.com.
@@ -10608,6 +10610,8 @@ buyersdelight.ng.	3600	IN	NS	ns25.qservers.net.
 buyersdelight.ng.	3600	IN	NS	ns26.qservers.net.
 buyersdirect.ng.	3600	IN	NS	ns17.doveserver.com.
 buyersdirect.ng.	3600	IN	NS	ns18.doveserver.com.
+buyeuphoriascents.ng.	3600	IN	NS	nsa.whogohost.com.
+buyeuphoriascents.ng.	3600	IN	NS	nsb.whogohost.com.
 buyevery.ng.		3600	IN	NS	nsa.whogohost.com.
 buyevery.ng.		3600	IN	NS	nsb.whogohost.com.
 buyeverything.ng.	3600	IN	NS	ns11.eapps.com.
@@ -14193,8 +14197,8 @@ collegegrad.ng.		3600	IN	NS	ns-1091.awsdns-08.org.
 collegegrad.ng.		3600	IN	NS	ns-1888.awsdns-44.co.uk.
 collegeport.ng.		3600	IN	NS	dns1.freehostia.com.
 collegeport.ng.		3600	IN	NS	dns2.freehostia.com.
-collegerelieffund.ng.	3600	IN	NS	ns1.cloud-86481f.managed-vps.net.
-collegerelieffund.ng.	3600	IN	NS	ns2.cloud-86481f.managed-vps.net.
+collegerelieffund.ng.	3600	IN	NS	ns1.cloud-da0d9a.managed-vps.net.
+collegerelieffund.ng.	3600	IN	NS	ns2.cloud-da0d9a.managed-vps.net.
 colli.ng.		3600	IN	NS	demi.ns.cloudflare.com.
 colli.ng.		3600	IN	NS	mark.ns.cloudflare.com.
 collins.ng.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -46648,6 +46652,10 @@ noticeboards.ng.	3600	IN	NS	ns1.web4africa.com.
 noticeboards.ng.	3600	IN	NS	ns2.web4africa.com.
 noticeboards.ng.	3600	IN	NS	ns3.web4africa.com.
 noticeboards.ng.	3600	IN	NS	ns4.web4africa.com.
+notify.ng.		3600	IN	NS	ns-cloud-d1.googledomains.com.
+notify.ng.		3600	IN	NS	ns-cloud-d2.googledomains.com.
+notify.ng.		3600	IN	NS	ns-cloud-d3.googledomains.com.
+notify.ng.		3600	IN	NS	ns-cloud-d4.googledomains.com.
 notifyme.ng.		3600	IN	NS	cp.ghotek.com.
 notifyme.ng.		3600	IN	NS	ns01.backupdns.com.
 notinmychurch.ng.	3600	IN	NS	ns1.eienigeria.org.
@@ -48572,9 +48580,9 @@ onpointclothing.ng.	3600	IN	NS	uk1.vastgig.com.
 onpointclothing.ng.	3600	IN	NS	uk2.vastgig.com.
 onpos.ng.		3600	IN	NS	ns1.gigalayer.com.
 onpos.ng.		3600	IN	NS	ns2.gigalayer.com.
+onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onspri.ng.		3600	IN	NS	ken.ns.cloudflare.com.
 onspri.ng.		3600	IN	NS	rita.ns.cloudflare.com.
-onspri.ng.		86400	IN	DS	2371 13 2 057660598D3FEE23BE39259D6B32FF0CDB536CAA529871E2E0393EC4 13CA14EB
 onthego.ng.		3600	IN	NS	ns11.meiranet.com.
 onthego.ng.		3600	IN	NS	ns12.meiranet.com.
 ontime.ng.		3600	IN	NS	dns1.doveserver.com.
@@ -60786,9 +60794,9 @@ snuggle.ng.		3600	IN	NS	dns1.p06.nsone.net.
 snuggle.ng.		3600	IN	NS	dns2.p06.nsone.net.
 snuggle.ng.		3600	IN	NS	dns3.p06.nsone.net.
 snuggle.ng.		3600	IN	NS	dns4.p06.nsone.net.
-soa.ng.			86400	IN	DS	51749 13 2 2D2074AB5FC63B049336FE07FDF793C5AF5AA3C999CEDC4F1A2A93FF 6DC5B3CE
 soa.ng.			3600	IN	NS	ns3.epik.com.
 soa.ng.			3600	IN	NS	ns4.epik.com.
+soa.ng.			86400	IN	DS	51749 13 2 2D2074AB5FC63B049336FE07FDF793C5AF5AA3C999CEDC4F1A2A93FF 6DC5B3CE
 soap.ng.		3600	IN	NS	ns1.sedoparking.com.
 soap.ng.		3600	IN	NS	ns2.sedoparking.com.
 soar.ng.		3600	IN	NS	ns1.sedoparking.com.
