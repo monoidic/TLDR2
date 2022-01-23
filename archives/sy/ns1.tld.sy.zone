@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022012320 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1642924932"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022012324 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1642932137"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2789,8 +2789,8 @@ eth.sy.			86400	IN	NS	liv.ns.cloudflare.com.
 eth.sy.			86400	IN	NS	ned.ns.cloudflare.com.
 etloob.sy.		86400	IN	NS	ns3.tld.sy.
 etloob.sy.		86400	IN	NS	ns4.tld.sy.
-etmam.sy.		86400	IN	NS	ns1.flexsolutiondomains.com.
-etmam.sy.		86400	IN	NS	ns2.flexsolutiondomains.com.
+etmam.sy.		86400	IN	NS	suspend1.tld.sy.
+etmam.sy.		86400	IN	NS	suspend2.tld.sy.
 etme.sy.		86400	IN	NS	suspend1.tld.sy.
 etme.sy.		86400	IN	NS	suspend2.tld.sy.
 etranz.sy.		86400	IN	NS	ns1.site4now.net.
@@ -4401,10 +4401,8 @@ marotacar.sy.		86400	IN	NS	ns1.one.sy.
 marotacar.sy.		86400	IN	NS	ns2.one.sy.
 marotacity.sy.		86400	IN	NS	ns1.shamcenter.com.
 marotacity.sy.		86400	IN	NS	ns2.shamcenter.com.
-marotanews.sy.		86400	IN	NS	ns1.marotanews.sy.
-marotanews.sy.		86400	IN	NS	ns2.marotanews.sy.
-ns1.marotanews.sy.	86400	IN	A	185.216.132.26
-ns2.marotanews.sy.	86400	IN	A	185.216.132.26
+marotanews.sy.		86400	IN	NS	suspend1.tld.sy.
+marotanews.sy.		86400	IN	NS	suspend2.tld.sy.
 marouf.sy.		86400	IN	NS	suspend1.tld.sy.
 marouf.sy.		86400	IN	NS	suspend2.tld.sy.
 mart.sy.		86400	IN	NS	ns1.scs-net.sy.
@@ -6673,8 +6671,8 @@ tagi.sy.		86400	IN	NS	ns1.tagidomains.com.
 tagi.sy.		86400	IN	NS	ns2.tagidomains.com.
 tago.sy.		86400	IN	NS	ns1.tagidomains.com.
 tago.sy.		86400	IN	NS	ns2.tagidomains.com.
-taha.sy.		86400	IN	NS	ns3.tld.sy.
-taha.sy.		86400	IN	NS	ns4.tld.sy.
+taha.sy.		86400	IN	NS	suspend1.tld.sy.
+taha.sy.		86400	IN	NS	suspend2.tld.sy.
 tahan.sy.		86400	IN	NS	suspend1.tld.sy.
 tahan.sy.		86400	IN	NS	suspend2.tld.sy.
 taher-agha.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6888,8 +6886,8 @@ test12.sy.		86400	IN	NS	ns3.tld.sy.
 test12.sy.		86400	IN	NS	ns4.tld.sy.
 testra.sy.		86400	IN	NS	ns3.tld.sy.
 testra.sy.		86400	IN	NS	ns4.tld.sy.
-testra1.sy.		86400	IN	NS	ns1.scs-net.sy.
-testra1.sy.		86400	IN	NS	ns1.scs-net.org.
+testra1.sy.		86400	IN	NS	suspend1.tld.sy.
+testra1.sy.		86400	IN	NS	suspend2.tld.sy.
 testsanaa.sy.		86400	IN	NS	suspend1.tld.sy.
 testsanaa.sy.		86400	IN	NS	suspend2.tld.sy.
 tezenis.sy.		86400	IN	NS	nsgbr.comlaude.co.uk.
@@ -6930,10 +6928,8 @@ tishreen-hospital.sy.	86400	IN	NS	suspend1.tld.sy.
 tishreen-hospital.sy.	86400	IN	NS	suspend2.tld.sy.
 tishreenonline.sy.	86400	IN	NS	ns1.inet.sy.
 tishreenonline.sy.	86400	IN	NS	ns2.inet.sy.
-tit.sy.			86400	IN	NS	ns1.scs-net.sy.
-tit.sy.			86400	IN	NS	ns1.scs-net.org.
-tit.sy.			86400	IN	NS	ns2.scs-net.sy.
-tit.sy.			86400	IN	NS	ns2.scs-net.org.
+tit.sy.			86400	IN	NS	suspend1.tld.sy.
+tit.sy.			86400	IN	NS	suspend2.tld.sy.
 tkachov.sy.		86400	IN	NS	suspend1.tld.sy.
 tkachov.sy.		86400	IN	NS	suspend2.tld.sy.
 tlaub.sy.		86400	IN	NS	ns1.exclucive-identity.com.
