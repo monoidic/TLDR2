@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012406 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022012408 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643004085"
+mg.			7200	IN	TXT	"Generation Time: 1643011292"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -442,6 +442,8 @@ aeromarine.mg.		7200	IN	NS	ns.dts.mg.
 aeromarine.mg.		7200	IN	NS	ns1.dts.mg.
 aerovillage.mg.		7200	IN	NS	dns14.ovh.net.
 aerovillage.mg.		7200	IN	NS	ns14.ovh.net.
+aes.mg.			7200	IN	NS	ns1.cloudns.io.
+aes.mg.			7200	IN	NS	ns2.cloudns.io.
 afafi-mutuelle.mg.	7200	IN	NS	ns1.cloudns.io.
 afafi-mutuelle.mg.	7200	IN	NS	ns2.cloudns.io.
 afflelouparis.mg.	7200	IN	NS	ns3.nameshield.net.
@@ -1380,8 +1382,6 @@ b2s.mg.			7200	IN	NS	ns1.iptwins.net.
 b2s.mg.			7200	IN	NS	ns2.iptwins.net.
 b2s.mg.			7200	IN	NS	ns3.iptwins.com.
 b2s.mg.			7200	IN	NS	ns4.iptwins.com.
-babagroup.mg.		7200	IN	NS	ns1.cloudns.io.
-babagroup.mg.		7200	IN	NS	ns2.cloudns.io.
 babatax.mg.		7200	IN	NS	ns01.trademarkarea.com.
 babatax.mg.		7200	IN	NS	ns02.trademarkarea.com.
 babera-concept.mg.	7200	IN	NS	ns1.gasyweb.com.
@@ -2934,6 +2934,8 @@ dite.mg.		7200	IN	NS	ns107.ovh.net.
 dj.mg.			7200	IN	NS	ns-89-a.gandi.net.
 dj.mg.			7200	IN	NS	ns-184-b.gandi.net.
 dj.mg.			7200	IN	NS	ns-223-c.gandi.net.
+djor.mg.		7200	IN	NS	ns1.da.cloudns.io.
+djor.mg.		7200	IN	NS	ns2.da.cloudns.io.
 dmsconsulting.mg.	7200	IN	NS	ns1.mada-webhosting.com.
 dmsconsulting.mg.	7200	IN	NS	ns2.mada-webhosting.com.
 dmt.mg.			7200	IN	NS	ns1.servermada.com.
@@ -4928,8 +4930,6 @@ iarivo-city.mg.		86400	IN	NS	ns1.da.cloudns.io.
 iarivo-city.mg.		86400	IN	NS	ns2.da.cloudns.io.
 iarivo-mandroso.mg.	86400	IN	NS	ns1.cloudns.io.
 iarivo-mandroso.mg.	86400	IN	NS	ns2.cloudns.io.
-iarivo-town.mg.		86400	IN	NS	ns1.aser16.simafri.com.
-iarivo-town.mg.		86400	IN	NS	ns2.aser16.simafri.com.
 ibank.mg.		86400	IN	NS	dns200.anycast.me.
 ibank.mg.		86400	IN	NS	ns200.anycast.me.
 ibazary.mg.		86400	IN	NS	ns105.ovh.net.
@@ -7082,8 +7082,6 @@ mitraka.mg.		86400	IN	NS	rex.ns.cloudflare.com.
 mitsubishi-motors.mg.	86400	IN	NS	ns1.cetsi.fr.
 mitsubishi-motors.mg.	86400	IN	NS	ns2.cetsi.eu.
 mitsubishi-motors.mg.	86400	IN	NS	ns3.cetsi.info.
-mividyvita.mg.		86400	IN	NS	ns1.servermada.com.
-mividyvita.mg.		86400	IN	NS	ns2.servermada.com.
 mivr.mg.		86400	IN	NS	ns.udag.de.
 mivr.mg.		86400	IN	NS	ns.udag.net.
 mivr.mg.		86400	IN	NS	ns.udag.org.
@@ -10548,8 +10546,8 @@ tullowoil.mg.		86400	IN	NS	ns7.markmonitor.com.
 tumi.mg.		86400	IN	NS	ns.bnamed.eu.
 tumi.mg.		86400	IN	NS	ns.bnamed.uk.
 tumi.mg.		86400	IN	NS	ns.bnamed.us.
-tumi.mg.		86400	IN	NS	ns.nscluster.fi.
-tumi.mg.		86400	IN	NS	ns.nscluster.hu.
+tumi.mg.		86400	IN	NS	ns.nscluster.tf.
+tumi.mg.		86400	IN	NS	ns.nscluster.re.
 turkcell.mg.		86400	IN	NS	ns1.101domain.com.
 turkcell.mg.		86400	IN	NS	ns5.101domain.com.
 turkcell.mg.		86400	IN	NS	ns2.101domain.com.
@@ -11045,8 +11043,6 @@ webservice.mg.		86400	IN	NS	ns.orchid.mg.
 webservice.mg.		86400	IN	NS	ns4.orchid.mg.
 website.mg.		86400	IN	NS	ns1.gasyweb.com.
 website.mg.		86400	IN	NS	ns2.gasyweb.com.
-weconnect.mg.		86400	IN	NS	ns29.illi.co.mg.
-weconnect.mg.		86400	IN	NS	ns29.dot.mg.
 wedze.mg.		86400	IN	NS	ns-173-a.gandi.net.
 wedze.mg.		86400	IN	NS	ns-135-b.gandi.net.
 wedze.mg.		86400	IN	NS	ns-192-c.gandi.net.
@@ -11357,8 +11353,6 @@ zebuscan.mg.		86400	IN	NS	ns-843.awsdns-41.net.
 zendesk.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 zendesk.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 zendesk.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-zenmel.mg.		86400	IN	NS	ns1.o2switch.net.
-zenmel.mg.		86400	IN	NS	ns2.o2switch.net.
 zepline.mg.		86400	IN	NS	ns.dts.mg.
 zepline.mg.		86400	IN	NS	ns1.dts.mg.
 zeturf.mg.		86400	IN	NS	ns-74-a.gandi.net.
