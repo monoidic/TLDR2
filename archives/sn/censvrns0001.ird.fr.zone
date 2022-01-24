@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422813 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220325141002 20220124131002 17389 sn. BlYtLlBIOBqi673/+XkHqXpTzWFBquZXnMriyTWofeibmldLvQvQUgEt rGvQRP2Eqz8ViYlZ7/j8UO/AkE2O3g==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422826 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220325161002 20220124151002 17389 sn. NENsN537XhUjdAzkI074RKglzSpiBpqd2FvkiG6vjhd+xpz7uykDnb7N V9DaqnHVDQvQJSxtb6M8WuDyw96Bew==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [24/01/2022 15H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220227082142 20220124131002 17389 sn. E5rmiLMzxS+cYdwUztHP7lGtgQCnqNN/JNURWbQ7uqLO833SYv/5eBsa +HXacaHMu/R8szmcyjC+qRLCLkHZlQ==
+sn.			172800	IN	TXT	"No RRs processed [24/01/2022 17H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220212143539 20220124151002 17389 sn. R2ajwVx32VYHqYwgTGAd/DJ+wTjx98y6ZK+HAk4ZWjR+1WvvrED0BOud xMP1eLWcga2m03xviueaORwh61A3hQ==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -1241,8 +1241,6 @@ amabeltech.sn.		43200	IN	NS	ns1.kheweul.net.
 amabeltech.sn.		43200	IN	NS	ns2.kheweul.net.
 amabeltech.sn.		43200	IN	NS	ns3.kheweul.net.
 amabeltech.sn.		43200	IN	NS	ns4.kheweul.net.
-amadouba.sn.		43200	IN	NS	dns1.namecheaphosting.com.
-amadouba.sn.		43200	IN	NS	dns2.namecheaphosting.com.
 amadu.sn.		172800	IN	NS	ns1.wanekoohost.com.
 amadu.sn.		172800	IN	NS	ns2.wanekoohost.com.
 amadu.sn.		172800	IN	NS	ns3.wanekoohost.com.
@@ -3743,8 +3741,8 @@ ccist.sn.		43200	IN	NS	ns1.kheweul.net.
 ccist.sn.		43200	IN	NS	ns2.kheweul.net.
 ccist.sn.		43200	IN	NS	ns3.kheweul.net.
 ccist.sn.		43200	IN	NS	ns4.kheweul.net.
-ccngroupe.sn.		172800	IN	NS	dns1.namecheaphosting.com.
-ccngroupe.sn.		172800	IN	NS	dns2.namecheaphosting.com.
+ccngroupe.sn.		172800	IN	NS	ns11.infomaniak.ch.
+ccngroupe.sn.		172800	IN	NS	ns12.infomaniak.ch.
 cco.sn.			43200	IN	NS	ns10.ovh.net.
 cco.sn.			43200	IN	NS	dns10.ovh.net.
 cco.sn.			43200	IN	DS	58774 8 2 5379AE01EAB065A5B1AE1F3E3351BA299567A7C11A185639A393AB4A CB254910
@@ -11777,9 +11775,8 @@ leketu.sn.		172800	IN	NS	ns200.anycast.me.
 leketu.sn.		172800	IN	NS	dns200.anycast.me.
 leketu.sn.		172800	IN	DS	4075 8 2 003BF5C586DF1BB70E61653F01F0E61B49907A58C8CAD9B61FFC5633 B4E02A1D
 leketu.sn.		172800	IN	RRSIG	DS 13 2 172800 20220308123051 20220109160727 17389 sn. 9m61eXSVrXF/Tkg8wtYPOeGqafhzDdi7dFtX43lGk+Gd2Wbxc/QxmWwM 0fiH0eZ0xymcVfru8+8Suq9+QathTQ==
-lekgroup.sn.		43200	IN	NS	ns1.mymanagementpanel.com.
-lekgroup.sn.		43200	IN	NS	ns2.mymanagementpanel.com.
-lekgroup.sn.		43200	IN	NS	ns3.mymanagementpanel.com.
+lekgroup.sn.		172800	IN	NS	ns1.dns-parking.com.
+lekgroup.sn.		172800	IN	NS	ns2.dns-parking.com.
 lekk.sn.		172800	IN	NS	ns100.ovh.net.
 lekk.sn.		172800	IN	NS	dns100.ovh.net.
 lekk.sn.		172800	IN	DS	60889 8 2 7408A8C0EDA4C55B120967147C6167E7F6BAEE5825D96B1903A01FC9 F0ADA266
@@ -13877,6 +13874,10 @@ niamartransit.sn.	172800	IN	NS	ns9.jajeuf.com.
 niamartransit.sn.	172800	IN	NS	ns10.jajeuf.com.
 niamnioro.sn.		43200	IN	NS	ns17.ovh.net.
 niamnioro.sn.		43200	IN	NS	dns17.ovh.net.
+nianemultiservice.sn.	172800	IN	NS	ns1.ascio.com.
+nianemultiservice.sn.	172800	IN	NS	ns2.ascio.com.
+nianemultiservice.sn.	172800	IN	NS	ns3.ascio.com.
+nianemultiservice.sn.	172800	IN	NS	ns4.ascio.com.
 niani.sn.		43200	IN	NS	ns03.domaincontrol.com.
 niani.sn.		43200	IN	NS	ns04.domaincontrol.com.
 niawoultransit.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -22539,7 +22540,7 @@ FTSKT8MTIIC9H454426HMK5D8PVH600D.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022030222070
 FV3Q79F5USS99BV83FC615KABQFS9MBE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 FV9RAT34P1RB3N1R928S8EU1985BA5E0 NS DS RRSIG
 FV3Q79F5USS99BV83FC615KABQFS9MBE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220212155859 20220109160727 17389 sn. kcU6asyIERRpecQZPe28ydMjZyonYQfjmrXNX9gfWKsY6B0/fkkZq0NH GAcP7/oTffwwQocXMnEjmDROWcEmCg==
 FV9RAT34P1RB3N1R928S8EU1985BA5E0.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 G12QHI2FKCEIM97UL9MDDKO3IF07HT12 NS DS RRSIG
-FV9RAT34P1RB3N1R928S8EU1985BA5E0.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220207151621 20220109160727 17389 sn. Knyuau2sfSvw+SzkE/RpR7sJKoYfoQKzWclX35Iw3tz1suHeEzgmcqmz ZIEvznDdnlwrxmqyI2iIAFZqpiBVDg==
+FV9RAT34P1RB3N1R928S8EU1985BA5E0.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220325142103 20220124141621 17389 sn. jpoW7Ek1tOOwNAulr4fCQBmaNcVWkP2R3dWlfiN6JDPwNbnDqc4l6AnE d7TIz//bSaHzjdLvC457806THW3WYA==
 G12QHI2FKCEIM97UL9MDDKO3IF07HT12.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 G32CHJERDOFM7DTEQ1DTQLQKPO95KVCO NS DS RRSIG
 G12QHI2FKCEIM97UL9MDDKO3IF07HT12.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220304200505 20220109160727 17389 sn. BsYhyiiYD5zruRx8meVB8ya17mxNOyRSSvAmvZcqoa/ne/Nvl4tz4O+o uZ/qHVlGLGYeo6O2f3iTpF6WiPaQhg==
 G32CHJERDOFM7DTEQ1DTQLQKPO95KVCO.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 G3DQPR07N7N4S1EMC2M03UL7TNOQU6BJ NS DS RRSIG
