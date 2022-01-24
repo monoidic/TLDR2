@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422826 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220325161002 20220124151002 17389 sn. NENsN537XhUjdAzkI074RKglzSpiBpqd2FvkiG6vjhd+xpz7uykDnb7N V9DaqnHVDQvQJSxtb6M8WuDyw96Bew==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222422841 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220325182004 20220124172004 17389 sn. uOqWz5C4sz5meh5D1VT3K81auHtHy1c/YO39AkQB5C44wgxkHcDoz5t/ m8pzZfZzkJ+Safin7TDe9a6dgrJzog==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [24/01/2022 17H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220212143539 20220124151002 17389 sn. R2ajwVx32VYHqYwgTGAd/DJ+wTjx98y6ZK+HAk4ZWjR+1WvvrED0BOud xMP1eLWcga2m03xviueaORwh61A3hQ==
+sn.			172800	IN	TXT	"2 RRs processed [24/01/2022 19H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220208003711 20220124172004 17389 sn. PHpjocqfZJiguPW1pN6xQHIXTH5uYKgmSmxAnHq2K3r6i7jBfZJSdJul rhD27a4DplqaGjWWAa6h32J1UzcC9Q==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -396,10 +396,8 @@ acena.sn.		43200	IN	DS	16810 8 2 B7F471F486E6468B1057077BE7D0F791A3519C6FD68B1B0
 acena.sn.		43200	IN	RRSIG	DS 13 2 43200 20220221023127 20220109160727 17389 sn. zmilD+JJi1RPEAneN8xaS5D+ls6K3hXAHFgbFQVAKtp6TUJs6MK7dBI3 UkUQ4IqajSQ4iCkRxeBQ9CWVrrEX1Q==
 acgroup.sn.		43200	IN	NS	ns19.domaincontrol.com.
 acgroup.sn.		43200	IN	NS	ns20.domaincontrol.com.
-achete.sn.		172800	IN	NS	ns1.kheweul.net.
-achete.sn.		172800	IN	NS	ns2.kheweul.net.
-achete.sn.		172800	IN	NS	ns3.kheweul.net.
-achete.sn.		172800	IN	NS	ns4.kheweul.net.
+achete.sn.		172800	IN	NS	cpanel53a.lws-hosting.com.
+achete.sn.		172800	IN	NS	cpanel53b.lws-hosting.com.
 acheter-louer.sn.	43200	IN	NS	ns1.francedns.com.
 acheter-louer.sn.	43200	IN	NS	ns2.francedns.com.
 acheter-louer.sn.	43200	IN	NS	ns3.francedns.com.
@@ -514,7 +512,7 @@ adas.sn.		43200	IN	NS	ns4.kheweul.net.
 adat.sn.		172800	IN	NS	ns105.ovh.net.
 adat.sn.		172800	IN	NS	dns105.ovh.net.
 adat.sn.		172800	IN	DS	34345 8 2 6E8CCAF2EFF030E3E48401A379D9885D6A89DDBD42220A85D0FDB1FB 959D1DCE
-adat.sn.		172800	IN	RRSIG	DS 13 2 172800 20220207162743 20220109160727 17389 sn. mJjXK7FB+rX5YH9cFZdOotIoLKD6MmAuaHOsC6h+B5Db+pBxoy3YZ+2+ IEjCElNrXg5vV1gaYseuJCLp4zz16Q==
+adat.sn.		172800	IN	RRSIG	DS 13 2 172800 20220325154120 20220124152743 17389 sn. WXec3KNPXQFkirzVkOXlSqIhxGaWDRCPhRQxdwUyU31mi03oxCszN1Eh siZa00jnF3GTHELIl96Q6oIKjPwezg==
 adbetheldakar.sn.	172800	IN	NS	ns1.caurys.net.
 adbetheldakar.sn.	172800	IN	NS	ns2.caurys.net.
 adc.sn.			43200	IN	NS	ns1.1ahostingpro.ch.
@@ -5439,7 +5437,7 @@ dectic.sn.		172800	IN	NS	ns20.lwsdns.com.
 dedegroupe.sn.		172800	IN	NS	ns16.ovh.net.
 dedegroupe.sn.		172800	IN	NS	dns16.ovh.net.
 dedegroupe.sn.		172800	IN	DS	46672 8 2 3029F31C521C799147D6C3B2C473D9B9821883EC8498995532072AC0 3F9BCDB7
-dedegroupe.sn.		172800	IN	RRSIG	DS 13 2 172800 20220207175931 20220109160727 17389 sn. S6j8Q+XUsUwMSyHsgRPfNr1zN3Z2umvpAsquwSwcLQDMylkdXv26twpx Ca9uiyk5cYZSUzE1sLqzGobHuMU6eQ==
+dedegroupe.sn.		172800	IN	RRSIG	DS 13 2 172800 20220325170423 20220124165931 17389 sn. +HilYWjb3sWHV5ojCvfUd4+mD/x9TJFOnntcLzjHNf5CuNCrGmo2hEVf OkGoVgbN3nQEbwGwhHu4pOHzpDliSQ==
 dee.sn.			43200	IN	NS	gail.ns.cloudflare.com.
 dee.sn.			43200	IN	NS	hugh.ns.cloudflare.com.
 defact.sn.		43200	IN	NS	ns18.ovh.net.
@@ -9772,6 +9770,8 @@ immosen.sn.		172800	IN	RRSIG	DS 13 2 172800 20220215000733 20220109160727 17389 
 immosolutions.sn.	43200	IN	NS	ns.czhosting.de.
 immosolutions.sn.	43200	IN	NS	ns.immosolutions.sn.
 ns.immosolutions.sn.	43200	IN	A	85.158.1.198
+immotep.sn.		172800	IN	NS	cpanel53a.lws-hosting.com.
+immotep.sn.		172800	IN	NS	cpanel53b.lws-hosting.com.
 imovel.sn.		172800	IN	NS	ns9.jajeuf.com.
 imovel.sn.		172800	IN	NS	ns10.jajeuf.com.
 impack.sn.		43200	IN	NS	ns12.ovh.net.
@@ -21009,6 +21009,8 @@ way2call.sn.		43200	IN	NS	ns17.ovh.net.
 way2call.sn.		43200	IN	NS	dns17.ovh.net.
 wayages.sn.		172800	IN	NS	ns3015.mochahost.com.
 wayages.sn.		172800	IN	NS	ns4015.mochahost.com.
+wayz.sn.		172800	IN	NS	ns112.ovh.net.
+wayz.sn.		172800	IN	NS	dns112.ovh.net.
 wazabi.sn.		43200	IN	NS	ns1045.ui-dns.de.
 wazabi.sn.		43200	IN	NS	ns1045.ui-dns.biz.
 wazabi.sn.		43200	IN	NS	ns1045.ui-dns.com.
