@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012423 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1643061626"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022012501 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1643068834"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -841,8 +841,9 @@ ns2.4sale.ng.		3600	IN	A	179.61.137.235
 9jafantasyleague.ng.	3600	IN	NS	ns2.web4africa.com.
 9jafantasyleague.ng.	3600	IN	NS	ns3.web4africa.com.
 9jafantasyleague.ng.	3600	IN	NS	ns4.web4africa.com.
-9jafinder.ng.		3600	IN	NS	nile.ns.cloudflare.com.
-9jafinder.ng.		3600	IN	NS	noor.ns.cloudflare.com.
+9jafinder.ng.		3600	IN	NS	ns1.digitalocean.com.
+9jafinder.ng.		3600	IN	NS	ns2.digitalocean.com.
+9jafinder.ng.		3600	IN	NS	ns3.digitalocean.com.
 9jaflaver.ng.		3600	IN	NS	ns1.9jaflaver.com.
 9jaflaver.ng.		3600	IN	NS	ns2.9jaflaver.com.
 9jafootballtalk.ng.	3600	IN	NS	ns1.upperserver29.com.
@@ -1724,6 +1725,8 @@ adspot.ng.		3600	IN	NS	dns1.doveserver.com.
 adspot.ng.		3600	IN	NS	dns2.doveserver.com.
 adspots.ng.		3600	IN	NS	ed.ns.cloudflare.com.
 adspots.ng.		3600	IN	NS	naya.ns.cloudflare.com.
+adsquick.ng.		3600	IN	NS	nsa.whogohost.com.
+adsquick.ng.		3600	IN	NS	nsb.whogohost.com.
 adtabloid.ng.		3600	IN	NS	suspended1.web4africa.com.
 adtabloid.ng.		3600	IN	NS	suspended2.web4africa.com.
 adtech.ng.		3600	IN	NS	dns1.namecheaphosting.com.
@@ -9091,6 +9094,8 @@ bonds.ng.		3600	IN	NS	ns1.bodis.com.
 bonds.ng.		3600	IN	NS	ns2.bodis.com.
 bonestraighthair.ng.	3600	IN	NS	doug.ns.cloudflare.com.
 bonestraighthair.ng.	3600	IN	NS	sara.ns.cloudflare.com.
+bonfamilytribe.ng.	3600	IN	NS	shubhi.ns.cloudflare.com.
+bonfamilytribe.ng.	3600	IN	NS	giancarlo.ns.cloudflare.com.
 bonfire.ng.		3600	IN	NS	pola.ns.cloudflare.com.
 bonfire.ng.		3600	IN	NS	elliot.ns.cloudflare.com.
 bongbo.ng.		3600	IN	NS	lola.ns.cloudflare.com.
@@ -30119,6 +30124,8 @@ homesuites.ng.		3600	IN	NS	emerson.ns.cloudflare.com.
 homesuites.ng.		3600	IN	NS	michelle.ns.cloudflare.com.
 hometeacher.ng.		3600	IN	NS	nsa.whogohost.com.
 hometeacher.ng.		3600	IN	NS	nsb.whogohost.com.
+hometown.ng.		3600	IN	NS	ns1.parkingcrew.net.
+hometown.ng.		3600	IN	NS	ns2.parkingcrew.net.
 hometrader.ng.		3600	IN	NS	nsa.whogohost.com.
 hometrader.ng.		3600	IN	NS	nsb.whogohost.com.
 hometv.ng.		3600	IN	NS	dns01.dipcon.com.
@@ -45261,8 +45268,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -56745,6 +56752,8 @@ royalcaribbean.ng.	3600	IN	NS	ns13.syskay.com.
 royalcaribbean.ng.	3600	IN	NS	ns14.syskay.com.
 royalclassystore.ng.	3600	IN	NS	nsa.whogohost.com.
 royalclassystore.ng.	3600	IN	NS	nsb.whogohost.com.
+royaldome.ng.		3600	IN	NS	ns1.bluehost.com.
+royaldome.ng.		3600	IN	NS	ns2.bluehost.com.
 royaleagle.ng.		3600	IN	NS	dns1.cscdns.net.
 royaleagle.ng.		3600	IN	NS	dns2.cscdns.net.
 royalestate.ng.		3600	IN	NS	ns1.tigma.ng.
@@ -68571,9 +68580,9 @@ turbopay.ng.		3600	IN	NS	ns1.web4africa.com.
 turbopay.ng.		3600	IN	NS	ns2.web4africa.com.
 turbopay.ng.		3600	IN	NS	ns3.web4africa.com.
 turbopay.ng.		3600	IN	NS	ns4.web4africa.com.
+turi.ng.		86400	IN	DS	46680 13 2 C4BF7BC08B2D1B1E62956392DA033B5191DE99B9D1590287226FDB58 53AAD861
 turi.ng.		3600	IN	NS	ns3.epik.com.
 turi.ng.		3600	IN	NS	ns4.epik.com.
-turi.ng.		86400	IN	DS	46680 13 2 C4BF7BC08B2D1B1E62956392DA033B5191DE99B9D1590287226FDB58 53AAD861
 turkedin.ng.		3600	IN	NS	nsa.whogohost.com.
 turkedin.ng.		3600	IN	NS	nsb.whogohost.com.
 turkey.ng.		3600	IN	NS	cp.nira.org.ng.
