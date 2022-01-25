@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022012401 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022012501 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -1765,10 +1765,10 @@ ares.com.cv.		28800	IN	NS	ns2.hostingpanel2.com.
 mail.ares.com.cv.	28800	IN	A	188.165.205.162
 arquipelago.com.cv.	28800	IN	NS	ns1.mydnspt.net.
 arquipelago.com.cv.	28800	IN	NS	ns2.mydnspt.net.
-artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
-artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
 artefaktos.com.cv.	28800	IN	A	66.96.142.162
 artefaktos.com.cv.	28800	IN	A	66.96.142.163
+artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
+artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
 atlantico.com.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
@@ -5229,6 +5229,9 @@ matec.cv.		28800	IN	NS	ns1.webhs.org.
 matec.cv.		28800	IN	NS	ns2.webhs.org.
 matec.cv.		28800	IN	NS	ns3.webhs.org.
 matec.cv.		28800	IN	NS	ns4.webhs.org.
+mattm.cv.		28800	IN	NS	ns01.trademarkarea.com.
+mattm.cv.		28800	IN	NS	ns02.trademarkarea.com.
+mattm.cv.		28800	IN	NS	ns03.trademarkarea.com.
 mautos.cv.		28800	IN	NS	ns1.mautos.cv.
 mautos.cv.		28800	IN	NS	ns2.mautos.cv.
 ns1.mautos.cv.		28800	IN	A	63.33.97.115
@@ -5340,8 +5343,8 @@ micotecnica.cv.		28800	IN	NS	ns7.mydnspt.net.
 micotecnica.cv.		28800	IN	NS	ns8.mydnspt.net.
 micromat.cv.		28800	IN	NS	ns1.alojamentos2.com.
 micromat.cv.		28800	IN	NS	ns2.alojamentos2.com.
-microtecnica.cv.	28800	IN	NS	ns1.webs24h.com.
-microtecnica.cv.	28800	IN	NS	ns2.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns1.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns2.webs24h.com.
 midi.cv.		28800	IN	NS	ns1.hyp.net.
 midi.cv.		28800	IN	NS	ns2.hyp.net.
 midi.cv.		28800	IN	NS	ns3.hyp.net.
@@ -6790,10 +6793,10 @@ robinson-club-caboverde.cv. 28800 IN	AAAA	2600:2000:1000::7
 robinson-club-caboverde.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-caboverde.cv. 28800 IN	NS	ns01.brandshelter.com.
 robinson-club-caboverde.cv. 28800 IN	NS	ns02.brandshelter.net.
-robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1000::7
-robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kap-verden.cv. 28800 IN	NS	ns01.brandshelter.com.
 robinson-club-kap-verden.cv. 28800 IN	NS	ns02.brandshelter.net.
+robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1000::7
+robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kapverden.cv. 28800 IN	AAAA	2600:2000:1000::7
 robinson-club-kapverden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kapverden.cv. 28800 IN	NS	ns01.brandshelter.com.
@@ -7326,11 +7329,11 @@ softbox.cv.		28800	IN	NS	ns3.webhs.org.
 softexpert.cv.		28800	IN	NS	ns01.trademarkarea.com.
 softexpert.cv.		28800	IN	NS	ns02.trademarkarea.com.
 softexpert.cv.		28800	IN	NS	ns03.trademarkarea.com.
+softfer.cv.		28800	IN	NS	ns1.gov.cv.
+softfer.cv.		28800	IN	NS	ns2.gov.cv.
 softfer.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 softfer.cv.		28800	IN	A	5.189.191.29
 softfer.cv.		28800	IN	A	79.143.182.242
-softfer.cv.		28800	IN	NS	ns1.gov.cv.
-softfer.cv.		28800	IN	NS	ns2.gov.cv.
 sogei.cv.		28800	IN	NS	ns1.contabo.net.
 sogei.cv.		28800	IN	NS	ns2.contabo.net.
 sogei.cv.		28800	IN	NS	ns3.contabo.net.
@@ -7625,11 +7628,11 @@ tecla.cv.		28800	IN	NS	ns1.hostinger.com.br.
 tecla.cv.		28800	IN	NS	ns2.hostinger.com.br.
 tecla.cv.		28800	IN	NS	ns3.hostinger.com.br.
 tecla.cv.		28800	IN	NS	ns4.hostinger.com.br.
+tecnocenter.cv.		28800	IN	A	217.182.171.109
 tecnocenter.cv.		28800	IN	AAAA	2604:9a00:2100:af02:4::dc
 tecnocenter.cv.		28800	IN	AAAA	2a03:6420::abcd:ef01
 tecnocenter.cv.		28800	IN	NS	ns1.servconfig.com.
 tecnocenter.cv.		28800	IN	NS	ns2.servconfig.com.
-tecnocenter.cv.		28800	IN	A	217.182.171.109
 tecnocor.cv.		28800	IN	A	35.182.190.110
 tecnocor.cv.		28800	IN	A	52.215.11.135
 tecnocor.cv.		28800	IN	A	199.73.55.49
@@ -7868,9 +7871,9 @@ tuicaboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
 tuicaboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 tuicaboverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 tuicaboverde.cv.	28800	IN	NS	ns02.brandshelter.net.
-tuicapeverde.cv.	28800	IN	AAAA	2001:41d0:8:3730::
 tuicapeverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 tuicapeverde.cv.	28800	IN	NS	ns02.brandshelter.net.
+tuicapeverde.cv.	28800	IN	AAAA	2001:41d0:8:3730::
 tuktuk.cv.		28800	IN	NS	ns1.ptservidor.net.
 tuktuk.cv.		28800	IN	NS	ns2.ptservidor.net.
 tuktuk.cv.		28800	IN	NS	ns3.ptservidor.net.
@@ -7889,6 +7892,8 @@ turismosab.cv.		28800	IN	NS	megan.ns.cloudflare.com.
 turismosab.cv.		28800	IN	NS	damien.ns.cloudflare.com.
 turistar.cv.		28800	IN	NS	ns1.wplannet.com.
 turistar.cv.		28800	IN	NS	ns2.wplannet.com.
+tva.cv.			28800	IN	NS	ns1.dns-parking.com.
+tva.cv.			28800	IN	NS	ns2.dns-parking.com.
 tvadvento.cv.		28800	IN	NS	ns1.servconfig.com.
 tvadvento.cv.		28800	IN	NS	ns2.servconfig.com.
 tvdasilvapartidjamentu.cv. 28800 IN	NS	ns1.nosiwebhosting.com.
@@ -7981,11 +7986,11 @@ ns1.usantiago.cv.	28800	IN	A	162.214.96.155
 ns2.usantiago.cv.	28800	IN	A	162.214.96.156
 uta.cv.			28800	IN	NS	ns.cvtelecom.cv.
 uta.cv.			28800	IN	NS	ns2.cvtelecom.cv.
+vaccine.cv.		28800	IN	NS	jean.ns.cloudflare.com.
+vaccine.cv.		28800	IN	NS	terry.ns.cloudflare.com.
 vaccine.cv.		28800	IN	AAAA	2001:67c:1bc::104
 vaccine.cv.		28800	IN	AAAA	2001:67c:10b8::104
 vaccine.cv.		28800	IN	AAAA	2a01:4f8:222:b03::2
-vaccine.cv.		28800	IN	NS	jean.ns.cloudflare.com.
-vaccine.cv.		28800	IN	NS	terry.ns.cloudflare.com.
 vale.cv.		28800	IN	NS	ns.inwx.de.
 vale.cv.		28800	IN	NS	ns2.inwx.de.
 vale.cv.		28800	IN	NS	ns3.inwx.eu.
@@ -8234,11 +8239,11 @@ working4u.cv.		28800	IN	NS	ns2.arvixeshared.com.
 wow.cv.			28800	IN	NS	ns01.trademarkarea.com.
 wow.cv.			28800	IN	NS	ns02.trademarkarea.com.
 wow.cv.			28800	IN	NS	ns03.trademarkarea.com.
-xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
-xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 xdconsultoria.cv.	28800	IN	NS	ns1.dreamhost.com.
 xdconsultoria.cv.	28800	IN	NS	ns2.dreamhost.com.
 xdconsultoria.cv.	28800	IN	NS	ns3.dreamhost.com.
+xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
+xdconsultoria.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 xintidu.cv.		28800	IN	NS	ns1.dns-parking.com.
 xintidu.cv.		28800	IN	NS	ns2.dns-parking.com.
 xmatika.cv.		28800	IN	NS	a.host-services.com.
