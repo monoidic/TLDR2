@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423155 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220327141002 20220126131002 17389 sn. AlNE34OLjhZZAwKijtRdNOILUFW+mvifAoe+1++3fJ20xUuic56zGb4C Sg3Cb85CG1QGWG2m6ITQXprZ0fMe/w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423168 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220327161002 20220126151002 17389 sn. OaUVVbQqxrQYM3/IdJucZR2rSHxPhkTK72NaZ8p7/s2T8kn4Ez43Yh7L GB/z3Jqsn735xNEXQ4N0t9nlKs1CKQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [26/01/2022 15H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220213081049 20220126131002 17389 sn. TXPxR28U704j8pwyFEmaDpOyVK1cU1Z3D8h3Fjxwcn7zdUJjoMS7joOp ctygWbv7wsF4REFKO7QSvFyDKTRvqw==
+sn.			172800	IN	TXT	"No RRs processed [26/01/2022 17H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220228233158 20220126151002 17389 sn. N6RsmZmHPBt9jWRAAGqgVf09hlsILN6b8AeDEVu/5QpaUJJ7/nRU4N+7 jK4UJNJkHrGuaGIIfnVhF1mtjk+5bQ==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -3217,7 +3217,7 @@ caas.sn.		43200	IN	NS	ns-1733.awsdns-24.co.uk.
 caban.sn.		172800	IN	NS	ns105.ovh.net.
 caban.sn.		172800	IN	NS	dns105.ovh.net.
 caban.sn.		172800	IN	DS	30736 8 2 7ACC82FC411C4B573D36E80469E5662002D10F59A1DF7FC5F16947A3 06DFB6C5
-caban.sn.		172800	IN	RRSIG	DS 13 2 172800 20220209155211 20220109160727 17389 sn. Nmio3mTPCVrDry/+IjCkMJWPLiQ7acaW9C+PGXnXTHVrKNX/ZhlogszC x+Pb2HbwFJRL8MwY07ZirCqgk4ar3Q==
+caban.sn.		172800	IN	RRSIG	DS 13 2 172800 20220327150427 20220126145211 17389 sn. DDMrwmP9usGA42oXADIXEVCxVvjdL+pYIwaPdsNIYiE5X1cIxO2z0A54 Q+V13+xfyHYDvPoMzaEh/jwxruqmLA==
 cabenergie.sn.		172800	IN	NS	ns1.wanekoohost.com.
 cabenergie.sn.		172800	IN	NS	ns2.wanekoohost.com.
 cabenergie.sn.		172800	IN	NS	ns4.wanekoohost.com.
@@ -6551,6 +6551,10 @@ eddys.sn.		172800	IN	DS	47374 8 2 345C09497C9359A5CB2336B98E38D7D18011EBBE34E88F
 eddys.sn.		172800	IN	RRSIG	DS 13 2 172800 20220323175454 20220109160727 17389 sn. VTDJe+PGV9qqO5v8ZEY2YCDCbdRf2wml43M0jrwRNcHX4PwvxqaWkcEr HGGdMOjfBAHSgUJE+FqclHBTroLGIQ==
 eden.sn.		172800	IN	NS	ns1.caurys.net.
 eden.sn.		172800	IN	NS	ns2.caurys.net.
+edenfarm.sn.		172800	IN	NS	ns1.kheweul.net.
+edenfarm.sn.		172800	IN	NS	ns2.kheweul.net.
+edenfarm.sn.		172800	IN	NS	ns3.kheweul.net.
+edenfarm.sn.		172800	IN	NS	ns4.kheweul.net.
 edenfleur.sn.		43200	IN	NS	ns.sonatel.sn.
 edenfleur.sn.		43200	IN	NS	ns2.sonatel.sn.
 edenfleurs.sn.		43200	IN	NS	ns13.ovh.net.
@@ -8447,6 +8451,10 @@ geria.sn.		43200	IN	NS	ns3.kheweul.net.
 geria.sn.		43200	IN	NS	ns4.kheweul.net.
 germ.sn.		43200	IN	NS	ns1.kheweul.net.
 germ.sn.		43200	IN	NS	ns2.kheweul.net.
+ges.sn.			172800	IN	NS	ns1.ascio.com.
+ges.sn.			172800	IN	NS	ns2.ascio.com.
+ges.sn.			172800	IN	NS	ns3.ascio.com.
+ges.sn.			172800	IN	NS	ns4.ascio.com.
 gestim.sn.		43200	IN	NS	ns113.ovh.net.
 gestim.sn.		43200	IN	NS	dns113.ovh.net.
 gestionnaireharmattan.sn. 172800 IN	RRSIG	DS 13 2 172800 20220315084642 20220115143003 17389 sn. j/dhKIN2ATRUC378hcKf+l9jOtUU4dLEZWp51AYV4TXhSAPclLtXTJG3 VEK9sZXmnUBVkmfXWzCLitjrsDsf8A==
@@ -15364,9 +15372,8 @@ podorbusiness.sn.	172800	IN	NS	ns1.wanekoohost.com.
 podorbusiness.sn.	172800	IN	NS	ns2.wanekoohost.com.
 podorbusiness.sn.	172800	IN	NS	ns5.wanekoohost.com.
 podorbusiness.sn.	172800	IN	NS	ns6.wanekoohost.com.
-point-s.sn.		172800	IN	NS	ns1.netim.net.
-point-s.sn.		172800	IN	NS	ns2.netim.net.
-point-s.sn.		172800	IN	NS	ns3.netim.net.
+point-s.sn.		172800	IN	NS	naya.ns.cloudflare.com.
+point-s.sn.		172800	IN	NS	noel.ns.cloudflare.com.
 pointbat.sn.		43200	IN	NS	ns17.ovh.net.
 pointbat.sn.		43200	IN	NS	dns17.ovh.net.
 pointcomcenter.sn.	172800	IN	NS	ns112.ovh.net.
