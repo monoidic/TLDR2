@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423316 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423329 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220221081009 20220109160727 17389 sn. bfPc/+ffU4JNhaGnvEcYBDA8Qa7MOTSNnXRfwPren6XrUAlLC4EpgZC2 awl4sLLbilTx+yL9t8mGrIm0IBaauQ==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220225220127 20220127111003 17389 sn. uPD8DlPfP6o6+BIBQBOrGLLlUGqe2lsv6dLLX90JKcEOHOxM7i3zo9E0 JnGm0cutx//NOB0HPjsoUVKFb+szCw==
-sn.			172800	IN	TXT	"No RRs processed [27/01/2022 13H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220316135214 20220127131002 17389 sn. QXyqi1SmN8PuukhmQfP1KKNdySubwSQKYHapH1EiePm/hnVb3pBWdCpZ 4lPxOkKT0QeM4wt1S6OaDPR69CVqwg==
+sn.			172800	IN	TXT	"3 RRs processed [27/01/2022 15H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220328121003 20220127111003 17389 sn. ke73dtQow3vgss1MYeTbjq/QfgRIsg1Up3g+6Chxg9+/PS/1ZOo38DPm fXP+/ssLu9qcA4Rgs5SbEQceIKWfTA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220328141002 20220127131002 17389 sn. /oNT9PQZDdquLYmjKRWdKkxUGYl6kSPaakWhL5GfWnG643bCUjHLa74M 1eFBRyzNJR79XcnFmQgjW+mOE/RssQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -1606,6 +1606,9 @@ aptonia.sn.		43200	IN	NS	b.dns.gandi.net.
 aptonia.sn.		43200	IN	NS	c.dns.gandi.net.
 aqua.sn.		43200	IN	NS	ns1.host7x24.com.
 aqua.sn.		43200	IN	NS	ns2.host7x24.com.
+aquarev.sn.		172800	IN	NS	nsa.n0c.com.
+aquarev.sn.		172800	IN	NS	nsb.n0c.com.
+aquarev.sn.		172800	IN	NS	nsc.n0c.com.
 aquatech.sn.		43200	IN	NS	ns200.anycast.me.
 aquatech.sn.		43200	IN	NS	dns200.anycast.me.
 aquaterra.sn.		43200	IN	NS	ip242.ip-54-38-106.eu.
@@ -14685,6 +14688,8 @@ oubii.sn.		172800	IN	RRSIG	DS 13 2 172800 20220321160658 20220120152535 17389 sn
 oubii.sn.		172800	IN	DS	50782 8 2 481286F19BFD734F7023E1887FB82F0950BFBCE8B0D0B6717A4E695A C278E451
 oubii.sn.		172800	IN	NS	ns106.ovh.net.
 oubii.sn.		172800	IN	NS	dns106.ovh.net.
+ouest-senegal.sn.	172800	IN	NS	ns14.ovh.net.
+ouest-senegal.sn.	172800	IN	NS	dns14.ovh.net.
 oumarndiaye.sn.		172800	IN	RRSIG	DS 13 2 172800 20220223095825 20220109160727 17389 sn. k8XFP2U7JHm/Bna+MWx0OfaXxSvZrtXdegpnO1q+xEaTbyV3voRac+3w 1GD/KlcCbb4pD4al/uL6aJXpedE8sg==
 oumarndiaye.sn.		172800	IN	DS	34285 8 2 F9762CD775B49AC9E26B09B00019208E5156ECDC4F24A999E4B6BAA7 21489CED
 oumarndiaye.sn.		172800	IN	NS	ns106.ovh.net.
@@ -16947,7 +16952,7 @@ secomar.sn.		43200	IN	NS	dns200.anycast.me.
 secopower.sn.		43200	IN	NS	dns1.softdom.com.
 secopower.sn.		43200	IN	NS	dns2.softdom.com.
 secopower.sn.		43200	IN	NS	dns3.softdom.com.
-sectronic.sn.		172800	IN	RRSIG	DS 13 2 172800 20220210124805 20220109160727 17389 sn. t/pL3mGmx8Ooy34OYpac4Ns/GpIMfubj7pupFOT6/y8bzZhaD1Unm1IU g+knPgUtKPtz039CeE1QfYm6x0Qqpg==
+sectronic.sn.		172800	IN	RRSIG	DS 13 2 172800 20220328123229 20220127114805 17389 sn. nSgCICIykViVBJIBMoGOYbMcLRtwkft+8SAkPSFOOMjQtWWti3Y64kBW dGmxcnp7T5cvc8D5mgpzrD5LmR+82g==
 sectronic.sn.		172800	IN	DS	30055 8 2 CAF37AC0BD7DF5A3EB0AB8F6B513EDFB508225EDB35112A631A373EB 9E77C5C6
 sectronic.sn.		172800	IN	NS	ns11.ovh.net.
 sectronic.sn.		172800	IN	NS	dns11.ovh.net.
@@ -20138,8 +20143,8 @@ translogistique.sn.	172800	IN	NS	ns1.kheweul.net.
 translogistique.sn.	172800	IN	NS	ns2.kheweul.net.
 translogistique.sn.	172800	IN	NS	ns3.kheweul.net.
 translogistique.sn.	172800	IN	NS	ns4.kheweul.net.
-transmersenegal.sn.	172800	IN	NS	ns1.afriregister.com.
-transmersenegal.sn.	172800	IN	NS	ns3.afriregister.com.
+transmersenegal.sn.	172800	IN	NS	ns15.afriregister.com.
+transmersenegal.sn.	172800	IN	NS	ns25.afriregister.com.
 transnumerik.sn.	43200	IN	NS	ns1-02.azure-dns.com.
 transnumerik.sn.	43200	IN	NS	ns2-02.azure-dns.net.
 transnumerik.sn.	43200	IN	NS	ns3-02.azure-dns.org.
