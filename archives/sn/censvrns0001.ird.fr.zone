@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423329 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423343 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220221081009 20220109160727 17389 sn. bfPc/+ffU4JNhaGnvEcYBDA8Qa7MOTSNnXRfwPren6XrUAlLC4EpgZC2 awl4sLLbilTx+yL9t8mGrIm0IBaauQ==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220316135214 20220127131002 17389 sn. QXyqi1SmN8PuukhmQfP1KKNdySubwSQKYHapH1EiePm/hnVb3pBWdCpZ 4lPxOkKT0QeM4wt1S6OaDPR69CVqwg==
-sn.			172800	IN	TXT	"3 RRs processed [27/01/2022 15H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220218100027 20220127152002 17389 sn. MILZCB4GvvN+7xt60Hk+OoP3CJQAzMea4s4X47fhjiUpikY4WBOcc84q 51jeE1FKAqHWGi+LYa2uVOCNdLec1Q==
+sn.			172800	IN	TXT	"No RRs processed [27/01/2022 17H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220328141002 20220127131002 17389 sn. /oNT9PQZDdquLYmjKRWdKkxUGYl6kSPaakWhL5GfWnG643bCUjHLa74M 1eFBRyzNJR79XcnFmQgjW+mOE/RssQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220328162002 20220127152002 17389 sn. 41c0gOcbMr4AvxpPLks1ucpxwSzsqVBX+p1d5CP4OARc76WKCa7u1rLd plwtkEdpdvxp3LargCjOc1Yhjzho1w==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -660,6 +660,9 @@ affairespublique.sn.	43200	IN	NS	ns1.ascio.com.
 affairespublique.sn.	43200	IN	NS	ns2.ascio.com.
 affairespublique.sn.	43200	IN	NS	ns3.ascio.com.
 affairespublique.sn.	43200	IN	NS	ns4.ascio.com.
+affic-group.sn.		172800	IN	NS	ns1.francedns.com.
+affic-group.sn.		172800	IN	NS	ns2.francedns.com.
+affic-group.sn.		172800	IN	NS	ns3.francedns.com.
 afi.sn.			43200	IN	NS	ns.sonatel.sn.
 afi.sn.			43200	IN	NS	ns2.sonatel.sn.
 afi-ue.sn.		43200	IN	NS	ns105.ovh.net.
@@ -2479,6 +2482,8 @@ beko.sn.		43200	IN	NS	dizzy.mgmt.koc.net.
 beko.sn.		43200	IN	NS	coltrane.mgmt.koc.net.
 beldo.sn.		172800	IN	NS	ns1.txpro15.fcomet.com.
 beldo.sn.		172800	IN	NS	ns2.txpro15.fcomet.com.
+beldograndirenconfiance.sn. 172800 IN	NS	ns1.md-45.webhostbox.net.
+beldograndirenconfiance.sn. 172800 IN	NS	ns2.md-45.webhostbox.net.
 bellefemme.sn.		172800	IN	NS	ns1.youcan.shop.
 bellefemme.sn.		172800	IN	NS	ns2.youcan.shop.
 bellevue.sn.		172800	IN	RRSIG	DS 13 2 172800 20220320123953 20220119114814 17389 sn. aHrUbXdtiliyweH0DFDPp84S2R+/hMlNJ632Nevm238k+eRoavv70/qA CdY6QsrVar0dcf14VuP6zcm0Yql2Eg==
@@ -15402,9 +15407,8 @@ pointech.sn.		172800	IN	NS	ns106.ovh.net.
 pointech.sn.		172800	IN	NS	dns106.ovh.net.
 pointel.sn.		43200	IN	NS	eisdns1.expertis.sn.
 pointel.sn.		43200	IN	NS	eisdns2.expertis.sn.
-points.sn.		172800	IN	NS	ns1.netim.net.
-points.sn.		172800	IN	NS	ns2.netim.net.
-points.sn.		172800	IN	NS	ns3.netim.net.
+points.sn.		172800	IN	NS	naya.ns.cloudflare.com.
+points.sn.		172800	IN	NS	noel.ns.cloudflare.com.
 pok.sn.			43200	IN	NS	ns1.bdm.microsoftonline.com.
 pok.sn.			43200	IN	NS	ns2.bdm.microsoftonline.com.
 pok.sn.			43200	IN	NS	ns3.bdm.microsoftonline.com.
@@ -18599,7 +18603,7 @@ sones.sn.		172800	IN	NS	ns.sones.sn.
 sones.sn.		172800	IN	NS	ns1.sones.sn.
 ns.sones.sn.		172800	IN	A	213.154.73.158
 ns1.sones.sn.		172800	IN	A	41.219.17.122
-sonia.sn.		172800	IN	RRSIG	DS 13 2 172800 20220210154253 20220109160727 17389 sn. IUjcPsNeUZgcUPvVo79IcRad88ahHn9O11tjjzNJPDJNb1Gz1pWVsppv P+q7u197Y1OigmNhwFO+qxu5QQ4exg==
+sonia.sn.		172800	IN	RRSIG	DS 13 2 172800 20220328152816 20220127144253 17389 sn. sh8n167iR2UVflXrBE8khcmKV5YRzxK676sHwwlN6dq4Gv825Lvv0ztD gMsKQGgarM769n4JKEjND8BKvEjOJg==
 sonia.sn.		172800	IN	DS	44245 8 2 60645D802127BD37F4836C7FD21B0832D1A2EDE84886FF353BB4FC37 60C5682C
 sonia.sn.		172800	IN	NS	ns106.ovh.net.
 sonia.sn.		172800	IN	NS	dns106.ovh.net.
