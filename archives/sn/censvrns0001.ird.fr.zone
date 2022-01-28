@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423522 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220329161003 20220128151003 17389 sn. SdsGTrxMm9iTfBGDjHn2u9XxOINZiural6VeyCbcrEAL7SlqUdKZhAG/ OyRnV3JRcNafTVcXYOWf38/h63PsaQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423535 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220329181002 20220128171002 17389 sn. Y6frHS0bQG53zVm0AqX6L6jB9lhbtB1PzkgXkrP+q/zp7UHO8VOlhI3l 6+cOpy4fG3C3uYxyMSFmIBujBI9RAQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [28/01/2022 17H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220317195943 20220128151003 17389 sn. gwRnctH6yvXUFF9g8dHVwJjRPXn5tjOMAxpQpl6bwn8SIfaeBKdd+ey7 CSU44KAfMwilRyzDAJfnyKoBSaUReQ==
+sn.			172800	IN	TXT	"No RRs processed [28/01/2022 19H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220318013031 20220128171002 17389 sn. UJ1iWf94tW5zURGi47ALQfsiRmmSBhyvz37a2cpNchuqKN5l/c1Lyn5/ nOUPZc3MAk1q39g9JaQn8KLLJj7/tw==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -5925,10 +5925,6 @@ directiondupatrimoine.sn. 172800 IN	NS	ns20.kelihost.com.
 directiondupatrimoine.sn. 172800 IN	NS	ns22.kelihost.com.
 directnews.sn.		43200	IN	NS	ns1.snterra.com.
 directnews.sn.		43200	IN	NS	ns2.snterra.com.
-directsports.sn.	43200	IN	NS	ns1.kheweul.net.
-directsports.sn.	43200	IN	NS	ns2.kheweul.net.
-directsports.sn.	43200	IN	NS	ns3.kheweul.net.
-directsports.sn.	43200	IN	NS	ns4.kheweul.net.
 dirmingeol.sn.		43200	IN	NS	ns.sonatel.sn.
 dirmingeol.sn.		43200	IN	NS	ns2.sonatel.sn.
 dirpharm.sn.		43200	IN	NS	dns1.hosteur.com.
@@ -6006,10 +6002,6 @@ djenada.sn.		172800	IN	NS	ns1045.ui-dns.de.
 djenada.sn.		172800	IN	NS	ns1045.ui-dns.biz.
 djenada.sn.		172800	IN	NS	ns1045.ui-dns.com.
 djenada.sn.		172800	IN	NS	ns1045.ui-dns.org.
-djeya.sn.		43200	IN	NS	ns1.kheweul.net.
-djeya.sn.		43200	IN	NS	ns2.kheweul.net.
-djeya.sn.		43200	IN	NS	ns3.kheweul.net.
-djeya.sn.		43200	IN	NS	ns4.kheweul.net.
 djilak.sn.		172800	IN	NS	ns11.ovh.net.
 djilak.sn.		172800	IN	NS	dns11.ovh.net.
 djilak.sn.		172800	IN	DS	40879 8 2 946E5C0EE58B770859893853B3B4A02F179FEE3CDDEB80661A8E708D 486CFCB8
@@ -11854,10 +11846,6 @@ lekk.sn.		172800	IN	NS	ns100.ovh.net.
 lekk.sn.		172800	IN	NS	dns100.ovh.net.
 lekk.sn.		172800	IN	DS	60889 8 2 7408A8C0EDA4C55B120967147C6167E7F6BAEE5825D96B1903A01FC9 F0ADA266
 lekk.sn.		172800	IN	RRSIG	DS 13 2 172800 20220304174638 20220114113822 17389 sn. cmfQVrdDJNPvsXJhtx3PJlKN+6Dws7kgkYQMdat48ZLpYCxFah1TP1Jn +N8Z1RLwj7wGOZDb8yEpGVsdcYdXRQ==
-lekkufii.sn.		43200	IN	NS	ns1.kheweul.net.
-lekkufii.sn.		43200	IN	NS	ns2.kheweul.net.
-lekkufii.sn.		43200	IN	NS	ns3.kheweul.net.
-lekkufii.sn.		43200	IN	NS	ns4.kheweul.net.
 leluxe.sn.		172800	IN	NS	ns0.thundercloud.uk.
 leluxe.sn.		172800	IN	NS	ns1.thundercloud.uk.
 lemarche.sn.		172800	IN	NS	ns10.ovh.ca.
@@ -14835,7 +14823,7 @@ packing-service.sn.	43200	IN	NS	ns2.sonatel.sn.
 packplus.sn.		43200	IN	NS	ns200.anycast.me.
 packplus.sn.		43200	IN	NS	dns200.anycast.me.
 packplus.sn.		43200	IN	DS	32221 8 2 EB08BF6F1D2795AD1F6E8EE1EBD2665EC7314059CE77459CF3382DF2 CA78581F
-packplus.sn.		43200	IN	RRSIG	DS 13 2 43200 20220211173329 20220109160727 17389 sn. RkRA1ozJih9KoyyCefAY0efucqRsyoKCAtLy45gIcHd3ONymJ7kl3Si5 Sw9VD2lRX8VaH4IoMvYH+C2N73Bq/w==
+packplus.sn.		43200	IN	RRSIG	DS 13 2 43200 20220329173000 20220128163329 17389 sn. VAwJ39fF34+dbANCB04zt2UieLoPxLTbK3FOizdQmp65wtBriwJ6XSmq UtleWh7EekxO3X74ndqk3Oac5ef8Mg==
 pactilis.sn.		43200	IN	NS	dns1.namebay.com.
 pactilis.sn.		43200	IN	NS	dns2.namebay.com.
 padaer.sn.		43200	IN	NS	ns3.jokko-hosting.com.
