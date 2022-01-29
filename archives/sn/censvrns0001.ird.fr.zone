@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423652 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222423666 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220221081009 20220109160727 17389 sn. bfPc/+ffU4JNhaGnvEcYBDA8Qa7MOTSNnXRfwPren6XrUAlLC4EpgZC2 awl4sLLbilTx+yL9t8mGrIm0IBaauQ==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220330044344 20220129091002 17389 sn. nJRmHTz0d6D3/tZAY4REUPF9IkLYLzhhxDohh1Bv4jc3FXsaZlC873M4 AKaaueqcXfu51APU3W1t5/HYn2T7hQ==
-sn.			172800	IN	TXT	"No RRs processed [29/01/2022 11H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220314000233 20220129112002 17389 sn. 7FNoSBLiWnk5WSdua1TwH+lllRo3rHFcBjTEcD14lyq5pGGUznITutLk v1LCE28kGkwJxdxw6au4gNhAZ+Ea9Q==
+sn.			172800	IN	TXT	"No RRs processed [29/01/2022 13H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220330101002 20220129091002 17389 sn. VPoCF8055qIG2cTgHfcKwbtktM6RBx1a89ydH6KHGEwaWmrbr/JDBjOu wOLkES8B98WLaXXQuA1uYZ2xblEqFA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220330122002 20220129112002 17389 sn. /lewpbQhx8NPdquYeyrW6K1mu83AfrL6pJI+cgajRtX9BKDRArD2DVi0 w4D6/DK0OXmnFnBwWlOLFY38fMnIBQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -6003,7 +6003,7 @@ djenada.sn.		172800	IN	NS	ns1045.ui-dns.de.
 djenada.sn.		172800	IN	NS	ns1045.ui-dns.biz.
 djenada.sn.		172800	IN	NS	ns1045.ui-dns.com.
 djenada.sn.		172800	IN	NS	ns1045.ui-dns.org.
-djilak.sn.		172800	IN	RRSIG	DS 13 2 172800 20220212120122 20220109160727 17389 sn. aQubUEVw+8fY5fZu9fNK6AhfJTGmG1ZmJWhXV68b063JE4IgUmaefITf T+A4xmmb3/f5hBooCWCrWujZgDokrw==
+djilak.sn.		172800	IN	RRSIG	DS 13 2 172800 20220330113154 20220129110122 17389 sn. 2e+xwpNloPrhrnRfxoqnEDCJBfreKYqkNZGuj2LPL/B1G009QtetGfBL s/KzYUJYAsZOvNVaOJM/GNbJUR75Rw==
 djilak.sn.		172800	IN	DS	40879 8 2 946E5C0EE58B770859893853B3B4A02F179FEE3CDDEB80661A8E708D 486CFCB8
 djilak.sn.		172800	IN	NS	ns11.ovh.net.
 djilak.sn.		172800	IN	NS	dns11.ovh.net.
@@ -8948,10 +8948,6 @@ groupefutursmedias.sn.	172800	IN	NS	ns20.ovh.net.
 groupefutursmedias.sn.	172800	IN	NS	dns20.ovh.net.
 groupegce.sn.		43200	IN	NS	ns5.afriregister.com.
 groupegce.sn.		43200	IN	NS	ns6.afriregister.com.
-groupehcs.sn.		43200	IN	NS	ns1.eco-dns.co.uk.
-groupehcs.sn.		43200	IN	NS	ns2.eco-dns.co.uk.
-groupehcs.sn.		43200	IN	NS	ns3.eco-dns.co.uk.
-groupehcs.sn.		43200	IN	NS	ns4.eco-dns.co.uk.
 groupeibnbatouta.sn.	43200	IN	NS	ns1.caurys.net.
 groupeibnbatouta.sn.	43200	IN	NS	ns2.caurys.net.
 groupeifams.sn.		43200	IN	NS	ns1.kheweul.net.
