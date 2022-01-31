@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424009 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424021 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220221081009 20220109160727 17389 sn. bfPc/+ffU4JNhaGnvEcYBDA8Qa7MOTSNnXRfwPren6XrUAlLC4EpgZC2 awl4sLLbilTx+yL9t8mGrIm0IBaauQ==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220301094434 20220131091002 17389 sn. BvPW2j54ST4U+3lbsVSf56iSVEOS4kyQVM/oBEQsitHlPn+QCGNYDjm5 6CWG8/4cvKbBwtqkwaQuoSt/o9Q+rg==
-sn.			172800	IN	TXT	"4 RRs processed [31/01/2022 11H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220216182453 20220131111003 17389 sn. dVIwJn/DI/vrpMUfFolVkGQlD4q4CpUGvF4jzKZmzIHhlEWiUvr8UraN GkOutidDKt/GMR6xDjFNdu+CQkGucw==
+sn.			172800	IN	TXT	"No RRs processed [31/01/2022 13H10:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220401101002 20220131091002 17389 sn. 7Kf4xsjsS4kl3rtorlzncbydOJFQ8VhFVzqtsb6uiZbQbYAdipvrcOtG l+8q4yXcwtyGzbG+6zqO0FoD+DOQbw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220401121003 20220131111003 17389 sn. wtvTaWwNzVcUAfDQ6bSpJdqp/dVS06druMUdrWgeZihs1Lsx2R5Y3x90 dgruj75Wxmx+M/o2eQn3RYmBmhFHlw==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -1834,6 +1834,9 @@ assi-interim.sn.	43200	IN	NS	ns1.cloudns.io.
 assi-interim.sn.	43200	IN	NS	ns2.cloudns.io.
 assia.sn.		43200	IN	NS	ns1.cloudns.io.
 assia.sn.		43200	IN	NS	ns2.cloudns.io.
+assiba.sn.		172800	IN	NS	ns1.francedns.com.
+assiba.sn.		172800	IN	NS	ns2.francedns.com.
+assiba.sn.		172800	IN	NS	ns3.francedns.com.
 assidqiwasadiqin.sn.	43200	IN	NS	ns10.ovh.net.
 assidqiwasadiqin.sn.	43200	IN	NS	dns10.ovh.net.
 assirou.sn.		43200	IN	NS	ns1.cp-35.webhostbox.net.
@@ -20343,6 +20346,9 @@ tusa-ici.sn.		43200	IN	NS	ns5.infomaniak.ch.
 tusa-ici.sn.		43200	IN	NS	ns6.infomaniak.ch.
 tuuky.sn.		43200	IN	NS	ns16.ovh.net.
 tuuky.sn.		43200	IN	NS	dns16.ovh.net.
+tvsat.sn.		172800	IN	NS	ns1.netim.net.
+tvsat.sn.		172800	IN	NS	ns2.netim.net.
+tvsat.sn.		172800	IN	NS	ns3.netim.net.
 twh.sn.			172800	IN	NS	ns1.twh.sn.
 twh.sn.			172800	IN	NS	ns2.twh.sn.
 ns1.twh.sn.		172800	IN	A	173.244.41.40
