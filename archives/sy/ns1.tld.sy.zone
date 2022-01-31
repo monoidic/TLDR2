@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022013128 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1643630540"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022013133 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1643643135"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5003,8 +5003,10 @@ no.sy.			86400	IN	NS	freedns2.registrar-servers.com.
 no.sy.			86400	IN	NS	freedns3.registrar-servers.com.
 no.sy.			86400	IN	NS	freedns4.registrar-servers.com.
 no.sy.			86400	IN	NS	freedns5.registrar-servers.com.
-nobalaa.sy.		86400	IN	NS	suspend1.tld.sy.
-nobalaa.sy.		86400	IN	NS	suspend2.tld.sy.
+nobalaa.sy.		86400	IN	NS	ns1.nobalaa.sy.
+nobalaa.sy.		86400	IN	NS	ns2.nobalaa.sy.
+ns1.nobalaa.sy.		86400	IN	A	185.216.132.26
+ns2.nobalaa.sy.		86400	IN	A	185.216.132.26
 noc.sy.			86400	IN	NS	ns10.ucg-core.com.
 noc.sy.			86400	IN	NS	ns15.ucg-core.com.
 noec.sy.		86400	IN	NS	ns1.silaset.us.
@@ -6876,6 +6878,8 @@ telescopesyria.sy.	86400	IN	NS	ns1.syriaserv.com.
 telescopesyria.sy.	86400	IN	NS	ns2.syriaserv.com.
 tello-llc.sy.		86400	IN	NS	suspend1.tld.sy.
 tello-llc.sy.		86400	IN	NS	suspend2.tld.sy.
+telsa-mat.sy.		86400	IN	NS	ns1.waveshost.sy.
+telsa-mat.sy.		86400	IN	NS	ns2.waveshost.sy.
 telsagroup.sy.		86400	IN	NS	suspend1.tld.sy.
 telsagroup.sy.		86400	IN	NS	suspend2.tld.sy.
 temasilafood.sy.	86400	IN	NS	ns1.ucg-core.com.
