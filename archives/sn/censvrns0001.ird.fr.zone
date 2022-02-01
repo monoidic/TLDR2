@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424167 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220402080939 20220201070939 17389 sn. X+UbPIV7VeWLqPzzkQabdRqN5OCZ9rD8UyjEohQGFbH+oQcnXwZ1cNSQ 69d6//4ebjS5UMdtGJ+4/KNGUONcqQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424182 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220402102003 20220201092003 17389 sn. Zs6OxfQ2pVPRO/glIiz/LmkcpgXkweP4OZavr8v/99HDDCeTqMVAANSM kzjIAsJaKReYdIhfckGVFddF24eKcQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [01/02/2022 09H00:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220227010408 20220201070003 17389 sn. 8F3/u9KCr3hoHuot/KA5pFdE7XKv7/qyXu+mqPNnkwIOcKR610JnKiEx bQabQ8vCG11FclGSTEVVPqscA+gadg==
+sn.			172800	IN	TXT	"No RRs processed [01/02/2022 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220304234404 20220201092003 17389 sn. Sv5+nRoIKDICsU4LqKG3iT5N9Acne5KyAihCb/J6J+H3vHMJjMcuE1WT R6/zcCsqzDU/B512ax23fv9LaAwMUg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -13377,7 +13377,7 @@ monfournisseur.sn.	43200	IN	NS	ns2.cp-46.webhostbox.net.
 moni.sn.		43200	IN	NS	ns200.anycast.me.
 moni.sn.		43200	IN	NS	dns200.anycast.me.
 moni.sn.		43200	IN	DS	7960 8 2 CEA2E4E14E57AA903122E0299AB84FE7309B99890D9DDD1D00C3C891 125C9696
-moni.sn.		43200	IN	RRSIG	DS 13 2 43200 20220215083538 20220109160727 17389 sn. U8NHJVDpoa2aZ/9yrCK3trY48crbUEIPtqFZWelDw32N/aMQMMJntw1y aqilrv7dEtKMNb9SC+fknxlw+wpTSA==
+moni.sn.		43200	IN	RRSIG	DS 13 2 43200 20220402075533 20220201073538 17389 sn. lNRNuBdDMDrBu2nGyj39HXmYrDsv6UcfglbQOb/DRT1q+EkVpZ8E015g JMLxmvrBWL8+s76L+dd4rsjLhzx4tg==
 monin.sn.		43200	IN	NS	dns.w3line.fr.
 monin.sn.		43200	IN	NS	mail.w3line.fr.
 monin.sn.		43200	IN	NS	ext01.w3line.fr.
@@ -15002,8 +15002,10 @@ passchifa.sn.		172800	IN	NS	ns1.macaisse.sn.
 passchifa.sn.		172800	IN	NS	ns2.macaisse.sn.
 passepartout.sn.	43200	IN	NS	ns1.site5.com.
 passepartout.sn.	43200	IN	NS	ns2.site5.com.
-passeportsante.sn.	172800	IN	NS	ns1.macaisse.sn.
-passeportsante.sn.	172800	IN	NS	ns2.macaisse.sn.
+passeportsante.sn.	172800	IN	NS	ns-263.awsdns-32.com.
+passeportsante.sn.	172800	IN	NS	ns-707.awsdns-24.net.
+passeportsante.sn.	172800	IN	NS	ns-1167.awsdns-17.org.
+passeportsante.sn.	172800	IN	NS	ns-1582.awsdns-05.co.uk.
 passesante.sn.		172800	IN	NS	ns1.passesante.sn.
 passesante.sn.		172800	IN	NS	ns2.passesante.sn.
 ns1.passesante.sn.	172800	IN	A	34.69.242.43
