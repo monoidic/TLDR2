@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020113 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020117 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643695281"
+mg.			7200	IN	TXT	"Generation Time: 1643702486"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -952,6 +952,8 @@ appspot.mg.		7200	IN	NS	ns4.google.com.
 appysport.mg.		7200	IN	NS	ns-99-a.gandi.net.
 appysport.mg.		7200	IN	NS	ns-17-b.gandi.net.
 appysport.mg.		7200	IN	NS	ns-113-c.gandi.net.
+apt.mg.			7200	IN	NS	ns1.gasyweb.com.
+apt.mg.			7200	IN	NS	ns2.gasyweb.com.
 aptonia.mg.		7200	IN	NS	ns-183-a.gandi.net.
 aptonia.mg.		7200	IN	NS	ns-118-b.gandi.net.
 aptonia.mg.		7200	IN	NS	ns-183-c.gandi.net.
@@ -3524,6 +3526,8 @@ etam-lingerie.mg.	86400	IN	NS	c.dns.gandi.net.
 etamlingerie.mg.	86400	IN	NS	a.dns.gandi.net.
 etamlingerie.mg.	86400	IN	NS	b.dns.gandi.net.
 etamlingerie.mg.	86400	IN	NS	c.dns.gandi.net.
+etaxi.mg.		86400	IN	NS	ns.tgn.mg.
+etaxi.mg.		86400	IN	NS	ns1.tgn.mg.
 etbat.mg.		86400	IN	NS	ns.dts.mg.
 etbat.mg.		86400	IN	NS	ns1.dts.mg.
 ethereum.mg.		86400	IN	NS	ns1.flippa.com.
@@ -3863,8 +3867,6 @@ fixer.mg.		86400	IN	NS	ns1.cloudns.io.
 fixer.mg.		86400	IN	NS	ns2.cloudns.io.
 fjkm.mg.		86400	IN	NS	ns29.dot.mg.
 fjkm.mg.		86400	IN	NS	ns30.dot.mg.
-fjkm-ambalavaoisotry.mg. 86400	IN	NS	ns2.cloudns.io.
-fjkm-ambalavaoisotry.mg. 86400	IN	NS	ns1.cloudns.io.
 fjkm-ambanilalana-finoana.mg. 86400 IN	NS	ns29.fjkm.mg.
 fjkm-ambanilalana-finoana.mg. 86400 IN	NS	ns30.fjkm.mg.
 fjkm-ambohijafyfanantenana.mg. 86400 IN	NS	ns29.fjkm.mg.
@@ -4669,8 +4671,6 @@ hery2018.mg.		86400	IN	NS	dns12.ovh.net.
 hery2018.mg.		86400	IN	NS	ns12.ovh.net.
 hexagone.mg.		86400	IN	NS	ns1.inmotionhosting.com.
 hexagone.mg.		86400	IN	NS	ns2.inmotionhosting.com.
-hf.mg.			86400	IN	NS	dns17.ovh.net.
-hf.mg.			86400	IN	NS	ns17.ovh.net.
 hff.mg.			86400	IN	NS	ns1.mg.tambazotra.net.
 hff.mg.			86400	IN	NS	ns2.mg.tambazotra.net.
 hff.mg.			86400	IN	NS	ns1.fr.malagasy.com.
@@ -5277,8 +5277,6 @@ iqos.mg.		86400	IN	NS	ns3.markmonitor.com.
 iqos.mg.		86400	IN	NS	ns7.markmonitor.com.
 iqos.mg.		86400	IN	NS	ns2.markmonitor.com.
 iqos.mg.		86400	IN	NS	ns5.markmonitor.com.
-irany.mg.		86400	IN	NS	ns1.gasyweb.com.
-irany.mg.		86400	IN	NS	ns2.gasyweb.com.
 iray.mg.		86400	IN	NS	ns1.o2switch.net.
 iray.mg.		86400	IN	NS	ns2.o2switch.net.
 irayconseils.mg.	86400	IN	NS	ns.tgn.mg.
@@ -10133,8 +10131,6 @@ telmatv.mg.		86400	IN	NS	ns.tgn.mg.
 telmatv.mg.		86400	IN	NS	ns1.tgn.mg.
 tenamora.mg.		86400	IN	NS	andronicus.ns.cloudflare.com.
 tenamora.mg.		86400	IN	NS	kristin.ns.cloudflare.com.
-terabit.mg.		86400	IN	NS	cpanel19.lws-hosting.com.
-terabit.mg.		86400	IN	NS	cpanel20.lws-hosting.com.
 terra.mg.		86400	IN	NS	dns200.anycast.me.
 terra.mg.		86400	IN	NS	ns200.anycast.me.
 terraco.mg.		86400	IN	NS	ns01.trademarkarea.com.
@@ -10654,8 +10650,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
