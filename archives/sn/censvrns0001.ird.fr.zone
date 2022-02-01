@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424224 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220402161003 20220201151003 17389 sn. IV6joQIadnJQSIe6A3Gx+PtTW5cr0TXhBhfbB3OzDhxI98QkO2TurTT7 4GPTOlBPm41AfiNaRLlvA4llvdEkFA==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424239 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220402182002 20220201172002 17389 sn. LvOtfG53REnU+3uX9EsJsR4xB2k4cXRpGfzr8Logv7I/0/FWyBtzHZPS 1twfiah6UCt2rwkin6U9ulx86zCKkQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [01/02/2022 17H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220302012701 20220201151003 17389 sn. YojRXg//eT+U1S5EXBJxQXP9oZUqrF9IVtvqetKDhaTAogyaTl/SrHTY iWMzx1Jzro0qgsFJhpaUP3+GwWaGTw==
+sn.			172800	IN	TXT	"No RRs processed [01/02/2022 19H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220315174502 20220201172002 17389 sn. Uof1yFUOQwpGmtLG1dvVpkxJN5pnwfXV9vv/+cWL1WgPA5HbptqrvDaN 1CdJmaig0LLrWc7OAAMyIN+SgNkv6w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -6049,6 +6049,8 @@ dna.sn.			172800	IN	NS	tina.ns.cloudflare.com.
 dnb.sn.			43200	IN	NS	dns1.safenames.com.
 dnb.sn.			43200	IN	NS	dns2.safenames.net.
 dnb.sn.			43200	IN	NS	dns3.safenames.org.
+dobyfarm.sn.		172800	IN	NS	ns1.caurys.net.
+dobyfarm.sn.		172800	IN	NS	ns2.caurys.net.
 doc.sn.			43200	IN	NS	ns1.markmonitor.com.
 doc.sn.			43200	IN	NS	ns2.markmonitor.com.
 doc.sn.			43200	IN	NS	ns3.markmonitor.com.
@@ -12294,7 +12296,7 @@ lsb.sn.			172800	IN	RRSIG	DS 13 2 172800 20220307184451 20220109160727 17389 sn.
 lsb-materiaux.sn.	43200	IN	NS	ns200.anycast.me.
 lsb-materiaux.sn.	43200	IN	NS	dns200.anycast.me.
 lsb-materiaux.sn.	43200	IN	DS	14389 8 2 06AED655B613656B5CFF404AAD8D26BFCC02ECE855213E36A1672602 BB3BA3A9
-lsb-materiaux.sn.	43200	IN	RRSIG	DS 13 2 43200 20220215180519 20220114113822 17389 sn. lbiO8vH0nkSfc90CqQg+o7EExoUDjsbKDyW3GH2Ta3nHP4LYoqpiLUKs a0aZkZGAL2nzHUI0ZHaSVbVqO0PRWg==
+lsb-materiaux.sn.	43200	IN	RRSIG	DS 13 2 43200 20220402175720 20220201170519 17389 sn. kXm0ExzgAYg81j+dNYIHlNQR3DRBADEnNsj8DetNh8DBEfmY/QMfNb07 eEViiyZCuEx0KS0L57bFmnilNd3axg==
 lse-energies.sn.	172800	IN	NS	ns-9-b.gandi.net.
 lse-energies.sn.	172800	IN	NS	ns-71-c.gandi.net.
 lse-energies.sn.	172800	IN	NS	ns-179-a.gandi.net.
@@ -14364,6 +14366,9 @@ ola.sn.			43200	IN	NS	dns1.namecheaphosting.com.
 ola.sn.			43200	IN	NS	dns2.namecheaphosting.com.
 ola-energy.sn.		43200	IN	NS	ns.ola-energy.sn.
 ns.ola-energy.sn.	43200	IN	A	41.208.150.194
+ola360.sn.		172800	IN	NS	ns1.francedns.com.
+ola360.sn.		172800	IN	NS	ns2.francedns.com.
+ola360.sn.		172800	IN	NS	ns3.francedns.com.
 olac.sn.		172800	IN	NS	ns4.jokko-hosting.com.
 olac.sn.		172800	IN	NS	ns7.jokko-hosting.com.
 olaenergy.sn.		43200	IN	NS	ns.olaenergy.sn.
@@ -17995,6 +18000,8 @@ sifagroup.sn.		172800	IN	NS	ns200.anycast.me.
 sifagroup.sn.		172800	IN	NS	dns200.anycast.me.
 sifagroup.sn.		172800	IN	DS	31237 8 2 EEDCBCD81A44C5A4672D7BC24C0B829855326AFFDBD8F52AD3BFF6B6 B628F9D0
 sifagroup.sn.		172800	IN	RRSIG	DS 13 2 172800 20220323023328 20220122013434 17389 sn. f2XJOz8a/4KTj4viHnArmdA7en2oiROrFah/kpzXHAHq4ijxkeByaC/n f8AVDirw2T7D3Ae0Fxu1MISaMTS1TA==
+sifc.sn.		172800	IN	NS	ns1.caurys.net.
+sifc.sn.		172800	IN	NS	ns2.caurys.net.
 sifi.sn.		43200	IN	NS	ns.sonatel.sn.
 sifi.sn.		43200	IN	NS	ns2.sonatel.sn.
 sifl.sn.		172800	IN	NS	pdns09.domaincontrol.com.
@@ -19789,6 +19796,9 @@ thiabibi.sn.		172800	IN	NS	ns2.wanekoohost.com.
 thiabibi.sn.		172800	IN	NS	ns3.wanekoohost.com.
 thiabibi.sn.		172800	IN	NS	ns5.wanekoohost.com.
 thiabibi.sn.		172800	IN	NS	ns6.wanekoohost.com.
+thiakthiak.sn.		172800	IN	NS	ns1.netim.net.
+thiakthiak.sn.		172800	IN	NS	ns2.netim.net.
+thiakthiak.sn.		172800	IN	NS	ns3.netim.net.
 thierno-ndiaye.sn.	172800	IN	NS	ns1.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns2.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -22265,7 +22275,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 8V0MKA5GMI1HP36VPTSAETS96OLCFC00.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 90IFKRQBJC5JN6ATN8G0P7I2JCNPF7H8 NS DS RRSIG
 8V0MKA5GMI1HP36VPTSAETS96OLCFC00.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220305164643 20220109160727 17389 sn. aHN8tVwVoArS3qxyEQ0zRLwE2pQBDWbzJ6rCmq73kaeI9pNBceSZVZOX 8OT9X3p87psCDsC3bAvmm721PdkJ+w==
 90IFKRQBJC5JN6ATN8G0P7I2JCNPF7H8.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 91EGA4H0NKO20G0M5GMKGV1DBKNT1NSP NS DS RRSIG
-90IFKRQBJC5JN6ATN8G0P7I2JCNPF7H8.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220215174443 20220109160727 17389 sn. wiQCr+d1r2j9yNmc1GLn3ncL4jWiPNn0fkOh9f3PKaueGPbfz1uMK5qc jngFanQ/2bH7cFDTcwU/bfAgVi6GdA==
+90IFKRQBJC5JN6ATN8G0P7I2JCNPF7H8.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220402170003 20220201164443 17389 sn. frt2IZb/lkoSdZ2S0e/N/12OhLV8LIctOqySUtU3zmvHM7PeUpHS+Ens QDk9nnW6pyGJqVJXmvs0rcb0rHCT0A==
 91EGA4H0NKO20G0M5GMKGV1DBKNT1NSP.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 91N7Q3RPU5B6DOC3MRC1MKDDMM843275 NS DS RRSIG
 91EGA4H0NKO20G0M5GMKGV1DBKNT1NSP.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220302173341 20220109160727 17389 sn. AYJejxZCxp++AWiKaOw/HGPXm5ws9R20Qwib/u2ppD6rn0c0NUIEo5zE 6CFmVssgD6UeoCYPq012xadVQzjjXQ==
 91N7Q3RPU5B6DOC3MRC1MKDDMM843275.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 930PAAN0RHRT216HO5TVIP8JJ5UULKPP NS DS RRSIG
