@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424353 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424367 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220221081009 20220109160727 17389 sn. bfPc/+ffU4JNhaGnvEcYBDA8Qa7MOTSNnXRfwPren6XrUAlLC4EpgZC2 awl4sLLbilTx+yL9t8mGrIm0IBaauQ==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220329140442 20220202091003 17389 sn. ZhWWzS5fnA6qTaY731QZFrGMkFFMRzJE4KbrldQRrBFOjavHnj7FRNLF PDm/LM+eEvY7HDW8W0TUTtyqRIY/HQ==
-sn.			172800	IN	TXT	"3 RRs processed [02/02/2022 11H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220218120520 20220202111002 17389 sn. Mrm33g+FdyEL5ZOSg8A8SEzDYRq4GnD5juCBGFG842DdU3PVFgNjKiaa XmjxFhmodnYuSOfX9HbweCJF1HFIWA==
+sn.			172800	IN	TXT	"No RRs processed [02/02/2022 13H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220403101530 20220202091530 17389 sn. P2m7z/B/z9+WTS7bSQt23fzaJ5pJoYtbj5HGXzxp42auiT/XYXHCfXVP 6BjCTcmTJUSxxBQB2X16qGhP/F7fxg==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220403121002 20220202111002 17389 sn. UfZH/Lo06JvtTdc3UBm/jCzNZDCDG5iYNPtjqTm7c86lEyoX+sSFJ5VO DFLOS89g6B12FI+xip8+xenFY8VKoA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -342,6 +342,9 @@ aca.sn.			43200	IN	NS	ns1.bluehost.com.
 aca.sn.			43200	IN	NS	ns2.bluehost.com.
 acab.sn.		172800	IN	NS	ns3.afriregister.com.
 acab.sn.		172800	IN	NS	ns01.afriregister.com.
+acacia.sn.		172800	IN	NS	nsa.n0c.com.
+acacia.sn.		172800	IN	NS	nsb.n0c.com.
+acacia.sn.		172800	IN	NS	nsc.n0c.com.
 acadomia.sn.		43200	IN	NS	ns1.eurodns.com.
 acadomia.sn.		43200	IN	NS	ns2.eurodns.com.
 acadomia.sn.		43200	IN	NS	ns3.eurodns.com.
@@ -14181,7 +14184,7 @@ nsia-assetmanagement.sn. 43200	IN	NS	ns2.francedns.com.
 nsia-assetmanagement.sn. 43200	IN	NS	ns3.francedns.com.
 nsia-assetmanagement.sn. 43200	IN	NS	ns4.francedns.com.
 nsia-assetmanagement.sn. 43200	IN	NS	ns5.francedns.com.
-nsiabanque.sn.		43200	IN	RRSIG	DS 13 2 43200 20220216102813 20220109160727 17389 sn. Q/gGZNov7mGHjVioag/xjXEH9q1VuZgeqaZinnc4P0nuFALQAOFrsLqo 0Qvb1o3BRvqBqXYRzWO+Vn1cjaIKxg==
+nsiabanque.sn.		43200	IN	RRSIG	DS 13 2 43200 20220403101650 20220202092813 17389 sn. NJ1Y9tiO9nTLAx0TP2eO37wPi71U5LWdnSUOJiRBHbWm53BlLRQajk3S WZ9Te2mpvsGFzhU5fqjP6aU7FyKlnQ==
 nsiabanque.sn.		43200	IN	DS	214 8 2 A8C08A6EA6AEEFA3D16A3940291F937CBC3680473A5B35DF643C8115 5531EF8B
 nsiabanque.sn.		43200	IN	NS	ns200.anycast.me.
 nsiabanque.sn.		43200	IN	NS	dns200.anycast.me.
@@ -20182,7 +20185,7 @@ transcontinentaltransit.sn. 172800 IN	NS	ns2.wanekoohost.com.
 transcontinentaltransit.sn. 172800 IN	NS	ns3.wanekoohost.com.
 transcontinentaltransit.sn. 172800 IN	NS	ns5.wanekoohost.com.
 transcontinentaltransit.sn. 172800 IN	NS	ns6.wanekoohost.com.
-transelec.sn.		43200	IN	RRSIG	DS 13 2 43200 20220216110719 20220114113822 17389 sn. jkG+5SrrHwXIll8ye/cMXz+yF9XBRMRryo7mv4lL5bKgacIcQ5L/8pmJ bBgYWNQ6NPgi9ehQ9tkG3zkz1Lvk2A==
+transelec.sn.		43200	IN	RRSIG	DS 13 2 43200 20220403103646 20220202100719 17389 sn. wY10MLoR1Eu3YiWLQT4OnGIqHYHMCnTpSmXoPRUZ2qNszrla8rIApxn3 NXqWAREf+dnRopAI8KZjaS4Cch3hNg==
 transelec.sn.		43200	IN	DS	45904 8 2 8181C9E29703348AA7626B8E98FFB40DE23FB5063836243D9F958DB6 98EAD656
 transelec.sn.		43200	IN	NS	ns10.ovh.ca.
 transelec.sn.		43200	IN	NS	dns10.ovh.ca.
