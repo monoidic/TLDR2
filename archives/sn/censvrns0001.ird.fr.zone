@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424495 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220404061003 20220203051003 17389 sn. tPhGdLVUz0wNiVKOWCeHWMpj1FJVvau8V8SYWOJA1KqJPQiEfbbX7t2a g6IDX8hz2jTu2s52/R4uR5z5z6RJ1A==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222424510 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220404081003 20220203071003 17389 sn. BSAiwtAmKtiCQtkKRbdwFGaK2gZpJ27fyrYhPhHk69rKpUa07S8KgE0f u6cBFP56/Dr7aqOfqb1laWKNAw/BoQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [03/02/2022 07H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220307185151 20220203051003 17389 sn. 8Ynl+WeVfVd6Bxg6cqD3MkdJ4EvxmhMZFf06eYEp+0C+bXDVxPe0yEYB Z7CE1ZcYAseSRI2kjYtldCaAOGsWtw==
+sn.			172800	IN	TXT	"1 RRs processed [03/02/2022 09H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220316034302 20220203071003 17389 sn. 5VR5Mb4kw0YKELrhaA+3o35nMJXgqtRRLddBjb781SVLfl36KyCj/gYf ELKctCpO7I1r/uJK2av8NzGDm+bGJQ==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -3539,9 +3539,6 @@ carrierglobal.sn.	43200	IN	NS	tricia.ns.cloudflare.com.
 carriersolutions.sn.	43200	IN	NS	gabe.ns.cloudflare.com.
 carriersolutions.sn.	43200	IN	NS	tricia.ns.cloudflare.com.
 carservices.sn.		43200	IN	NS	ns1.caurys.net.
-carshop.sn.		43200	IN	NS	ns1.francedns.com.
-carshop.sn.		43200	IN	NS	ns2.francedns.com.
-carshop.sn.		43200	IN	NS	ns3.francedns.com.
 carsservices.sn.	43200	IN	NS	ns1.caurys.net.
 cartech.sn.		43200	IN	NS	ns1.mymanagementpanel.com.
 cartech.sn.		43200	IN	NS	ns2.mymanagementpanel.com.
@@ -7179,7 +7176,7 @@ esitech.sn.		43200	IN	NS	ns2.kheweul.net.
 eskaconseils.sn.	43200	IN	NS	ns.sonatel.sn.
 eskaconseils.sn.	43200	IN	NS	ns2.sonatel.sn.
 esmi.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-esmi.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+esmi.sn.		172800	IN	NS	ns2.jokko-hosting.com.
 esmic.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 esmic.sn.		172800	IN	NS	ns6.jokko-hosting.com.
 esmt.sn.		43200	IN	NS	ns3.afriregister.com.
@@ -8615,8 +8612,6 @@ globaldev.sn.		43200	IN	NS	ns10.ovh.net.
 globaldev.sn.		43200	IN	NS	dns10.ovh.net.
 globaldev.sn.		43200	IN	DS	41707 8 2 A3E75B4792EF9F4660C1A585083DD13CFC47376B33A5D9D2B34A3A8A EF352618
 globaldev.sn.		43200	IN	RRSIG	DS 13 2 43200 20220321162956 20220120155632 17389 sn. JtBEgVni0NFrpJLRkxTTcUEi4SX9aZS2NrUewkXYj3LP0veX200d2Y/2 vOYuOs2WFrA1gz3r9yQRzFG1Sue/bw==
-globaldigitalschool.sn.	43200	IN	NS	ns1.visible.africa.
-globaldigitalschool.sn.	43200	IN	NS	ns2.visible.africa.
 globalengineering.sn.	172800	IN	NS	ns1.kheweul.net.
 globalengineering.sn.	172800	IN	NS	ns2.kheweul.net.
 globalengineering.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -9789,8 +9784,6 @@ imc.sn.			43200	IN	NS	ns3.kheweul.net.
 imc.sn.			43200	IN	NS	ns4.kheweul.net.
 imedia.sn.		172800	IN	NS	ns200.anycast.me.
 imedia.sn.		172800	IN	NS	dns200.anycast.me.
-imedia.sn.		172800	IN	DS	48664 8 2 6156DF646239A02F84835008CEAC854644879A0C0F2750CD5AC95F24 38F01E75
-imedia.sn.		172800	IN	RRSIG	DS 13 2 172800 20220322144101 20220203010003 17389 sn. RD0P9PjdgEpZm9vMp+hMHlc5+u/USAQtQ8v2nek9+gHYGvwNJ+Pp7BxI NonAbfSGTzWTZt2A23HZ4COhCVRqeA==
 imedias.sn.		43200	IN	NS	ns1.afrowebmaster.com.
 imedias.sn.		43200	IN	NS	ns2.afrowebmaster.com.
 imedias.sn.		43200	IN	NS	ns3.afrowebmaster.com.
@@ -11469,7 +11462,7 @@ kyte.sn.		172800	IN	NS	ns2.101domain.com.
 l2jimmo.sn.		172800	IN	NS	pdns09.domaincontrol.com.
 l2jimmo.sn.		172800	IN	NS	pdns10.domaincontrol.com.
 l2t.sn.			172800	IN	NS	ns5.jokko-hosting.com.
-l2t.sn.			172800	IN	NS	ns6.jokko-hosting.com.
+l2t.sn.			172800	IN	NS	ns2.jokko-hosting.com.
 la3m.sn.		43200	IN	NS	ns31.infomaniak.com.
 la3m.sn.		43200	IN	NS	ns32.infomaniak.com.
 laa.sn.			43200	IN	NS	ns1.skytechnology.pl.
@@ -11934,7 +11927,7 @@ lescommeres.sn.		172800	IN	NS	ns4.kheweul.net.
 lescordistesdakarois.sn. 172800	IN	NS	ns1.cp-49.webhostbox.net.
 lescordistesdakarois.sn. 172800	IN	NS	ns2.cp-49.webhostbox.net.
 lesdelices.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-lesdelices.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+lesdelices.sn.		172800	IN	NS	ns2.jokko-hosting.com.
 lesdessousdegiulia.sn.	172800	IN	NS	ns9.jajeuf.com.
 lesdessousdegiulia.sn.	172800	IN	NS	ns10.jajeuf.com.
 lesenegaulois.sn.	172800	IN	NS	ns103.ovh.net.
@@ -12108,7 +12101,7 @@ linguerefarmer.sn.	172800	IN	NS	eisdns2.expertis.sn.
 link-pay.sn.		43200	IN	NS	ns19.ovh.net.
 link-pay.sn.		43200	IN	NS	dns19.ovh.net.
 link-pay.sn.		43200	IN	DS	53086 8 2 C3AB7785E40BD4BA6C3FE19028FCF6AE3792E8898548ED9077B87336 8AAAEDEE
-link-pay.sn.		43200	IN	RRSIG	DS 13 2 43200 20220217063831 20220114113822 17389 sn. 4QjSzurnNQmuG8VT4nFwtdBJ9mck+Qavj1zHI1NeFm2I9Rr3DdFVrBK/ UiL7ctap2EaIVWdasGRUamhdzb1jLg==
+link-pay.sn.		43200	IN	RRSIG	DS 13 2 43200 20220404060230 20220203053831 17389 sn. HRc/VqOo5di6fCm6+lBId5eS+A43C3kR08NKFVcnhx40JpBzisJTi+py k26ekPXSHA+yBgQDLnokJiyByE1e+Q==
 linklogistic.sn.	43200	IN	NS	ns1.kheweul.net.
 linklogistic.sn.	43200	IN	NS	ns2.kheweul.net.
 linklogistic.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -19212,7 +19205,7 @@ surfrider.sn.		43200	IN	NS	ns3.netim.net.
 surfshop.sn.		43200	IN	NS	ns200.anycast.me.
 surfshop.sn.		43200	IN	NS	dns200.anycast.me.
 surfshop.sn.		43200	IN	DS	62164 8 2 FBE49F6F23D975DAA8EFACF79E50CCA50E4853982EB6BFB293FEEFCF 79AC29DA
-surfshop.sn.		43200	IN	RRSIG	DS 13 2 43200 20220217064403 20220109160727 17389 sn. Qvq6xlOtJdwVw8QzjOIhPbKz3pBCjFuLVirqzC2tNDXU+BU3zKy0VN5c ResIuqte3mYUMWcngA2UPBdSUXVu3Q==
+surfshop.sn.		43200	IN	RRSIG	DS 13 2 43200 20220404060231 20220203054403 17389 sn. 24j/r0agDQG0EQuay5UPCC242hHdM1I0Nh/c55nRlMCq6YCKJz+z2o77 BXDDRbdXTiNR/fz7O4OrN+uhB/SNsQ==
 surleterrain.sn.	43200	IN	NS	ns1.francedns.com.
 surleterrain.sn.	43200	IN	NS	ns2.francedns.com.
 surleterrain.sn.	43200	IN	NS	ns3.francedns.com.
@@ -19283,8 +19276,8 @@ syslab.sn.		43200	IN	NS	ns11.infomaniak.ch.
 syslab.sn.		43200	IN	NS	ns12.infomaniak.ch.
 syspea.sn.		43200	IN	NS	ns200.anycast.me.
 syspea.sn.		43200	IN	NS	dns200.anycast.me.
-systemambulance.sn.	43200	IN	NS	ns200.anycast.me.
-systemambulance.sn.	43200	IN	NS	dns200.anycast.me.
+systemambulance.sn.	172800	IN	NS	ns14.ovh.net.
+systemambulance.sn.	172800	IN	NS	dns14.ovh.net.
 systemics.sn.		43200	IN	NS	ns1.dns-parking.com.
 systemics.sn.		43200	IN	NS	ns2.dns-parking.com.
 systemsplus.sn.		43200	IN	NS	ns.systemsplus.sn.
@@ -19641,7 +19634,7 @@ teranga-pasteur.sn.	172800	IN	NS	ns1.wordpress.com.
 teranga-pasteur.sn.	172800	IN	NS	ns2.wordpress.com.
 teranga-pasteur.sn.	172800	IN	NS	ns3.wordpress.com.
 terangabusinessservice.sn. 172800 IN	NS	ns5.jokko-hosting.com.
-terangabusinessservice.sn. 172800 IN	NS	ns6.jokko-hosting.com.
+terangabusinessservice.sn. 172800 IN	NS	ns2.jokko-hosting.com.
 terangaimpact.sn.	43200	IN	NS	ns110.ovh.net.
 terangaimpact.sn.	43200	IN	NS	dns110.ovh.net.
 terangalegacy.sn.	43200	IN	NS	ns1.cp-11.webhostbox.net.
@@ -22350,10 +22343,8 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 9SQ3HSLU71IRBV90N311U7LVMQE5PODT.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220403165850 20220202162842 17389 sn. xnGw5pfkDwYjdxzk6BsgLP+2hXxm+hEU9dEPx5WODml3NjBu3RQjSk/+ BOXvX7h8awtIkiA+BqEf2Y71DW9wSw==
 9TPOOOUAEHP3KAQQA1221SQMF9613BGO.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 9UF9KFQMNPFQ9JVON6J3NA8OKIBK9P4F NS DS RRSIG
 9TPOOOUAEHP3KAQQA1221SQMF9613BGO.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220218051448 20220109160727 17389 sn. NKzzy6Xf7Sqf493Cg/mwfpnDhOcUJJ0ZbaF9j2l4TjLiQqL+9GEoj/4z UAf5hcAVSXE6SSEINetn5Ybe7nfRKA==
-9UF9KFQMNPFQ9JVON6J3NA8OKIBK9P4F.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 9UVUT1IF26CS99EFQ99DFK4DVBEIAGU8 NS DS RRSIG
-9UF9KFQMNPFQ9JVON6J3NA8OKIBK9P4F.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220322144101 20220203010003 17389 sn. uNxKp0ZttTHz1f8BzwaWFZn3MJQYH7W9QZ9nv0R6LUi6dF8sO+qgnARP S5/uf00Xu24R/kqkVo1b1Nfq42ZmWw==
-9UVUT1IF26CS99EFQ99DFK4DVBEIAGU8.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220322144101 20220203010003 17389 sn. vgNNQyls0xB+TVEy4btLW68QU3dvf7Jegf8oUD2uw87YYGf0hYlvmUa7 /bDxlFpuBBskRPRGopJyzcXE2RnJnw==
-9UVUT1IF26CS99EFQ99DFK4DVBEIAGU8.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 A1BENTQV99163VMAHLF0VISD4BIIVO03 NS DS RRSIG
+9UF9KFQMNPFQ9JVON6J3NA8OKIBK9P4F.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 A1BENTQV99163VMAHLF0VISD4BIIVO03 NS DS RRSIG
+9UF9KFQMNPFQ9JVON6J3NA8OKIBK9P4F.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220316034302 20220203071003 17389 sn. eJ5fU2YdspTP9CP5S6uEDa8BCQVJcUdmILg2kMerB4BokCToYBFf0rD6 +pMETDyluzIBokG+merC+wk0HRY3VQ==
 A1BENTQV99163VMAHLF0VISD4BIIVO03.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 A4DBE1H2V16QLKQVQ42LLA77RO9V7542 NS DS RRSIG
 A1BENTQV99163VMAHLF0VISD4BIIVO03.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220227061718 20220109160727 17389 sn. IVp5S+ZTCdAnM1Qr62bW81wwjsKTEgQjBtA93pSkdfLkDUEU4XmjpOim XCh59ID91kCydViDS3lWqZKq3W9TCg==
 A4DBE1H2V16QLKQVQ42LLA77RO9V7542.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 AAD9JDEALF69J95HA6ACAJ8SLISD73S9 NS DS RRSIG
@@ -22767,7 +22758,7 @@ H5S71I7CDFDPRIQ8V1OVHJLO7O1BD18E.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022030419150
 H5U9JML3KOEH95P1LTJT8OFD5ILD3VEE.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 H6UPAUH2RLF11N0LAFJGDRI436R7TMCH NS DS RRSIG
 H5U9JML3KOEH95P1LTJT8OFD5ILD3VEE.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220330001053 20220129000736 17389 sn. kZqPpGDw49Jkty74Tu2bXneGuMEv19aO8fu0VpVoVdWwUEmaA0I44l/D dPMNlo6t+S6eFSi2rEBan3HRMsoL8A==
 H6UPAUH2RLF11N0LAFJGDRI436R7TMCH.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 H8PVJISHVK6KUDI8DL2KKKCFR9AM8AI4 NS DS RRSIG
-H6UPAUH2RLF11N0LAFJGDRI436R7TMCH.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220217075159 20220109160727 17389 sn. vEmLZNhfkcYBwpf7pMNKY4Lt/6GySz6Ls5dUKM7KUl0pA4IAu0/y3SGW JVl62Hg0bbhjnKI9//NtxQu1WJnMaw==
+H6UPAUH2RLF11N0LAFJGDRI436R7TMCH.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220404074102 20220203065159 17389 sn. JEFKq3Mq2ioEsOQWM39tXo58c9AcAWeBBv+Q+81/xf+1Wz3/S8TWGHNI pFy6a6Y8I4cBWHC3t83R9eU/hynicw==
 H8PVJISHVK6KUDI8DL2KKKCFR9AM8AI4.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 HAGP17SIMH69JKS8EETAT2S1A905QI07 NS DS RRSIG
 H8PVJISHVK6KUDI8DL2KKKCFR9AM8AI4.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220225165009 20220109160727 17389 sn. c/TNlMiRlUBcoaw78KEV81JT7pPpHWu8PhDp7B8CpQTVXFOYvV1qwRB+ dVlInLh60aB+dsysKc7nu1oApM4mqg==
 HAGP17SIMH69JKS8EETAT2S1A905QI07.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 HAK3RUHSCIE9HGPO3798FBMO1EJQBAS4 NS DS RRSIG
