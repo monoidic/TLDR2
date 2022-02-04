@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020406 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020408 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1643954431"
+mg.			7200	IN	TXT	"Generation Time: 1643961639"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -364,6 +364,8 @@ acmil.mg.		7200	IN	NS	ns1.hostns.io.
 acmil.mg.		7200	IN	NS	ns2.hostns.io.
 acnals.mg.		7200	IN	NS	ns.dts.mg.
 acnals.mg.		7200	IN	NS	ns1.dts.mg.
+acropolis.mg.		7200	IN	NS	ns1.da.cloudns.io.
+acropolis.mg.		7200	IN	NS	ns2.da.cloudns.io.
 acs.mg.			7200	IN	NS	ns.dts.mg.
 acs.mg.			7200	IN	NS	ns1.dts.mg.
 acs-sa.mg.		7200	IN	NS	dns106.ovh.net.
@@ -1064,8 +1066,6 @@ aroniaina.mg.		7200	IN	NS	ns1.cloudns.io.
 aroniaina.mg.		7200	IN	NS	ns2.cloudns.io.
 aropa.mg.		7200	IN	NS	ns.dts.mg.
 aropa.mg.		7200	IN	NS	ns1.dts.mg.
-aroriakafjkm.mg.	7200	IN	NS	ns29.fjkm.mg.
-aroriakafjkm.mg.	7200	IN	NS	ns30.fjkm.mg.
 arosaina.mg.		7200	IN	NS	ns1.da.cloudns.io.
 arosaina.mg.		7200	IN	NS	ns2.da.cloudns.io.
 arotek.mg.		7200	IN	NS	ns1.servermada.com.
@@ -6352,8 +6352,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7114,6 +7114,8 @@ mobot.mg.		86400	IN	NS	ns1.cloudns.io.
 mobot.mg.		86400	IN	NS	ns2.cloudns.io.
 moco.mg.		86400	IN	NS	ns.dts.mg.
 moco.mg.		86400	IN	NS	ns1.dts.mg.
+model.mg.		86400	IN	NS	ns1.samsdesign.mg.
+model.mg.		86400	IN	NS	ns2.samsdesign.mg.
 models.mg.		86400	IN	NS	ns10.wixdns.net.
 models.mg.		86400	IN	NS	ns11.wixdns.net.
 modern-immo.mg.		86400	IN	NS	ns-1829.awsdns-36.co.uk.
@@ -9236,6 +9238,9 @@ semana.mg.		86400	IN	NS	ns1.dts.mg.
 semba.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 semba.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 semba.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+semina.mg.		86400	IN	NS	ns-41-c.gandi.net.
+semina.mg.		86400	IN	NS	ns-130-b.gandi.net.
+semina.mg.		86400	IN	NS	ns-24-a.gandi.net.
 semsmga.mg.		86400	IN	NS	ns.dts.mg.
 semsmga.mg.		86400	IN	NS	ns1.dts.mg.
 semsmjn.mg.		86400	IN	NS	ns.dts.mg.
@@ -10663,8 +10668,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
