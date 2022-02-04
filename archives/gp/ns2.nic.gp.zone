@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020303 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020416 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1779,8 +1779,8 @@ extention.gp.		86400	IN	NS	ns1.ikoula.fr.
 extention.gp.		86400	IN	NS	ns2.ikoula.fr.
 f.gp.			86400	IN	NS	ns1.bodis.com.
 f.gp.			86400	IN	NS	ns2.bodis.com.
-f1.gp.			86400	IN	NS	dns1.cloudns.net.
-f1.gp.			86400	IN	NS	dns2.cloudns.net.
+f1.gp.			86400	IN	NS	ns1.dan.com.
+f1.gp.			86400	IN	NS	ns2.dan.com.
 f1sa.gp.		86400	IN	NS	ns1.101domain.com.
 f1sa.gp.		86400	IN	NS	ns2.101domain.com.
 fabienneyouyoutte.gp.	86400	IN	NS	ns1.iptwins.net.
@@ -5145,6 +5145,8 @@ visa.gp.		86400	IN	NS	ns1-32.akam.net.
 visa.gp.		86400	IN	NS	ns4-66.akam.net.
 visa.gp.		86400	IN	NS	ns5-66.akam.net.
 visa.gp.		86400	IN	NS	ns6-66.akam.net.
+vitabike.gp.		86400	IN	NS	ns103.ovh.net.
+vitabike.gp.		86400	IN	NS	dns103.ovh.net.
 vitaconfort.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
 vitaconfort.gp.		86400	IN	NS	ns3.nameshield.net.
 vitaconfort.gp.		86400	IN	NS	obs.ns1.fr.
