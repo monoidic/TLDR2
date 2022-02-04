@@ -15,6 +15,8 @@
 * `arpa` via `g.root-servers.net.`: [Click here to view zone data.](archives/arpa/g.root-servers.net.zone)
 * `arpa` via `k.root-servers.net.`: [Click here to view zone data.](archives/arpa/k.root-servers.net.zone)
 * `bf` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/bf/censvrns0001.ird.fr.zone)
+* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
+* `cd` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-23.scpt-network.net.zone)
 * `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `dz` via `ns2.nic.dz.`: [Click here to view zone data.](archives/dz/ns2.nic.dz.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
@@ -36,3 +38,4 @@
 * `xn--mgbai9azgqp6j` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns1.ntc.net.pk.zone)
 * `xn--ogbpf8fl` via `ns1.tld.sy.`: [Click here to view zone data.](archives/xn--ogbpf8fl/ns1.tld.sy.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
+* `xn--ygbi2ammx` via `ns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.gov.ps.zone)
