@@ -1,12 +1,12 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020623 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1644148934"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020625 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1644154338"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
 00.sy.			86400	IN	NS	garret.ns.cloudflare.com.
 00.sy.			86400	IN	NS	serena.ns.cloudflare.com.
-01.sy.			86400	IN	NS	suspend1.tld.sy.
-01.sy.			86400	IN	NS	suspend2.tld.sy.
+01.sy.			86400	IN	NS	sydns1.nobalaa.com.
+01.sy.			86400	IN	NS	sydns2.nobalaa.com.
 05.sy.			86400	IN	NS	jamie.ns.cloudflare.com.
 05.sy.			86400	IN	NS	gabriel.ns.cloudflare.com.
 06.sy.			86400	IN	NS	jamie.ns.cloudflare.com.
@@ -1043,8 +1043,8 @@ alnazir-global.sy.	86400	IN	NS	suspend1.tld.sy.
 alnazir-global.sy.	86400	IN	NS	suspend2.tld.sy.
 alneser-alzahabi.sy.	86400	IN	NS	suspend1.tld.sy.
 alneser-alzahabi.sy.	86400	IN	NS	suspend2.tld.sy.
-alnobalaa.sy.		86400	IN	NS	suspend1.tld.sy.
-alnobalaa.sy.		86400	IN	NS	suspend2.tld.sy.
+alnobalaa.sy.		86400	IN	NS	ns1.marota.me.
+alnobalaa.sy.		86400	IN	NS	ns2.marota.me.
 alnooor-co.sy.		86400	IN	NS	ns1.sawa-host.net.
 alnooor-co.sy.		86400	IN	NS	ns2.sawa-host.net.
 alnurforages.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -4418,8 +4418,10 @@ marotacar.sy.		86400	IN	NS	ns1.one.sy.
 marotacar.sy.		86400	IN	NS	ns2.one.sy.
 marotacity.sy.		86400	IN	NS	ns1.shamcenter.com.
 marotacity.sy.		86400	IN	NS	ns2.shamcenter.com.
-marotanews.sy.		86400	IN	NS	suspend1.tld.sy.
-marotanews.sy.		86400	IN	NS	suspend2.tld.sy.
+marotanews.sy.		86400	IN	NS	ns1.marotanews.sy.
+marotanews.sy.		86400	IN	NS	ns2.marotanews.sy.
+ns1.marotanews.sy.	86400	IN	A	185.216.132.26
+ns2.marotanews.sy.	86400	IN	A	185.216.132.26
 marouf.sy.		86400	IN	NS	suspend1.tld.sy.
 marouf.sy.		86400	IN	NS	suspend2.tld.sy.
 mart.sy.		86400	IN	NS	ns1.scs-net.sy.
@@ -6217,8 +6219,8 @@ sms-co.sy.		86400	IN	NS	suspend1.tld.sy.
 sms-co.sy.		86400	IN	NS	suspend2.tld.sy.
 sms-syria.sy.		86400	IN	NS	ns1.damashost.com.
 sms-syria.sy.		86400	IN	NS	ns2.damashost.com.
-sms1.sy.		86400	IN	NS	suspend1.tld.sy.
-sms1.sy.		86400	IN	NS	suspend2.tld.sy.
+sms1.sy.		86400	IN	NS	sydns1.nobalaa.com.
+sms1.sy.		86400	IN	NS	sydns2.nobalaa.com.
 snacktural.sy.		86400	IN	NS	suspend1.tld.sy.
 snacktural.sy.		86400	IN	NS	suspend2.tld.sy.
 snc.sy.			86400	IN	NS	ns3.tld.sy.
