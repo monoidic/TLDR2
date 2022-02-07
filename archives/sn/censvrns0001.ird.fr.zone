@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425250 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220408120604 20220207110604 17389 sn. 0w6mVphwaOwNNeSWRsmxhGAerxkfR8/NQRQzD+vqsUi7OriY0a3smCeN VSYsL7KJk7r8SdzIhtB5ht79KZI4TQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425266 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220408141002 20220207131002 17389 sn. pWsAQFcH5T/Bl9NXB/lqasiVEglaztSlBRFbPBwMk09Um34ENiWCf7Hl TCSlClrj6ZLQBpkGC04OdOwzQsOH0g==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [07/02/2022 13H00:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220222175353 20220207110003 17389 sn. AKyQApyOtG6aLVoGeyOSvPk789KIVG1kOZoCm5qXSVxBlyXILT/gpOIS 2PT4i2Etk/lZYr33SEwVvTQppcts2w==
+sn.			172800	IN	TXT	"No RRs processed [07/02/2022 15H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220311084047 20220207131002 17389 sn. OWuQklF3o3Q8C4fvxe1AHl49R++2JcZWT2kxcyaTjcqKEOrQVFVEo6w/ WHBf5LvrkH1OsGPVg6X0WcqVDMuIYQ==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -5922,6 +5922,8 @@ diprom.sn.		43200	IN	NS	sdns2.ovh.net.
 diprom.sn.		43200	IN	NS	ns367064.ip-188-165-235.eu.
 diprotec.sn.		43200	IN	NS	ns105.ovh.net.
 diprotec.sn.		43200	IN	NS	dns105.ovh.net.
+dircom.sn.		172800	IN	NS	ns200.anycast.me.
+dircom.sn.		172800	IN	NS	dns200.anycast.me.
 directiondesbourses.sn.	43200	IN	NS	eisdns1.expertis.sn.
 directiondesbourses.sn.	43200	IN	NS	eisdns2.expertis.sn.
 directiondupatrimoine.sn. 172800 IN	NS	ns20.kelihost.com.
@@ -7037,7 +7039,7 @@ epureau.sn.		43200	IN	NS	dns111.ovh.net.
 eqodex.sn.		43200	IN	NS	ns7.jajeuf.com.
 eqodex.sn.		43200	IN	NS	ns8.jajeuf.com.
 eqodex.sn.		43200	IN	DS	17630 1 1 94D8F58FE348F22526CFFD9A20541C6B8D2D04F6
-eqodex.sn.		43200	IN	RRSIG	DS 13 2 43200 20220221140111 20220109160727 17389 sn. VhWEekqLsbV+oUrOE/cZOx+IiwvfvHjuiTUbjprA7CBSYhaeOVLVVDd/ RbtfJzALF7PSj5hddBCRv5+nMRhb5A==
+eqodex.sn.		43200	IN	RRSIG	DS 13 2 43200 20220408130346 20220207130111 17389 sn. 0R+KvH8ilXwLfkIYQykgWM9WPF8pIT/nz82IW91eQVlVgs5c0dxRT6Ws L2Q7Jc1IeiSPPXd5+Ks4dEowqWR96g==
 equicons.sn.		172800	IN	NS	ns1.wanekoohost.com.
 equicons.sn.		172800	IN	NS	ns2.wanekoohost.com.
 equicons.sn.		172800	IN	NS	ns4.wanekoohost.com.
@@ -12205,7 +12207,7 @@ locationauto.sn.	172800	IN	NS	dns10.ovh.ca.
 locationvoiture.sn.	172800	IN	NS	ns10.ovh.ca.
 locationvoiture.sn.	172800	IN	NS	dns10.ovh.ca.
 locationvoiture.sn.	172800	IN	DS	55660 8 2 270F682CF77F0E81CF5EA4A5AC88AF3AC364D318025966BCC410E169 8487E28D
-locationvoiture.sn.	172800	IN	RRSIG	DS 13 2 172800 20220221120804 20220109160727 17389 sn. g9pKm+A+VMHGR92eizw7VENg6bUmeI42eycL8mHQwXomDqBt36LrDQP5 Wr2+Zxk5U/q8OQuvq/f0RMzQFhKJLQ==
+locationvoiture.sn.	172800	IN	RRSIG	DS 13 2 172800 20220408110836 20220207110804 17389 sn. 3zo5ZzcU4EDch/alBQ1sy5FxPhQwjR5hBrA/niNqCI7IeLhqCncZ/LBW qtPE8iAUuwcfaQsCVBq5bPTg38rtsQ==
 locavoiture-dakar.sn.	172800	IN	NS	ns1.kheweul.net.
 locavoiture-dakar.sn.	172800	IN	NS	ns2.kheweul.net.
 locavoiture-dakar.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -15112,8 +15114,8 @@ pdcej.sn.		43200	IN	NS	ns1.kheweul.net.
 pdcej.sn.		43200	IN	NS	ns2.kheweul.net.
 pdcej.sn.		43200	IN	NS	ns3.kheweul.net.
 pdcej.sn.		43200	IN	NS	ns4.kheweul.net.
-pdeps.sn.		43200	IN	NS	ns5.jokko-hosting.com.
-pdeps.sn.		43200	IN	NS	ns6.jokko-hosting.com.
+pdeps.sn.		172800	IN	NS	ns5.jokko-hosting.com.
+pdeps.sn.		172800	IN	NS	ns8.jokko-hosting.com.
 pdg.sn.			43200	IN	NS	ns31.infomaniak.com.
 pdg.sn.			43200	IN	NS	ns32.infomaniak.com.
 pdi.sn.			43200	IN	NS	ns.sonatel.sn.
@@ -15694,6 +15696,8 @@ processonetech.sn.	43200	IN	NS	ns2.francedns.com.
 processonetech.sn.	43200	IN	NS	ns3.francedns.com.
 prodac.sn.		43200	IN	NS	ns3.jokko-hosting.com.
 prodac.sn.		43200	IN	NS	ns4.jokko-hosting.com.
+prodas.sn.		172800	IN	NS	ns5.jokko-hosting.com.
+prodas.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 proddel.sn.		43200	IN	NS	ns100.webhostingbuzz.com.
 proddel.sn.		43200	IN	NS	ns101.webhostingbuzz.com.
 prodesign.sn.		43200	IN	NS	ns200.anycast.me.
@@ -17916,7 +17920,7 @@ shacman.sn.		43200	IN	NS	ns2.gsgp1011.siteground.asia.
 shalomschool.sn.	43200	IN	NS	ns200.anycast.me.
 shalomschool.sn.	43200	IN	NS	dns200.anycast.me.
 shalomschool.sn.	43200	IN	DS	60364 8 2 08EEAE9731A3D150F43026A557905D4FD330AEA1884DB4D3AFB5E900 DCD85AC6
-shalomschool.sn.	43200	IN	RRSIG	DS 13 2 43200 20220221131045 20220109160727 17389 sn. +NNSe84HgfDoxbgvkPH2bflQVWn1kRmhiTldbHpx0oZnZVt8jfjabVGx NdBAzG0m9GKEqNiX2qS6Yh/H5eiI+g==
+shalomschool.sn.	43200	IN	RRSIG	DS 13 2 43200 20220408122530 20220207121045 17389 sn. 9IZ8/5noGPcTno7nXhwaytoGKtZI4RkDBVxk3WHbIb0JgdlIAa62ugW0 sw8BRtA66c12nS5a1pweIoqzDhjyZg==
 shameer.sn.		172800	IN	NS	lana.ns.cloudflare.com.
 shameer.sn.		172800	IN	NS	norm.ns.cloudflare.com.
 shapeengineering.sn.	43200	IN	NS	ns19.ovh.net.
