@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425204 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220408061003 20220207051003 17389 sn. 8XGQQ5GNLjudgO9qHjOa99ERGNwdH6pcABxp/JNM2P5oAg9YEoOs76Or VrmLee0rZlT6tczgqDn3LlI3w8j13Q==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425218 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220408081003 20220207071003 17389 sn. Vhvd6HAcrUKhBWrWinG/FusZWvgnQWiMekV/cgx8NpFAGn4xO4pXA73m u0mssPLvaNp4nvSKBZQicCQ4mwkNMg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [07/02/2022 07H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220311044351 20220207051003 17389 sn. 7S7S85rb+AczA8BfXA5XxmpZQVwr2yDJ7aPoeu4YEZ3/RoNvxqqo99KL vArEN24ERysE/t3125XqgZIwRdWu6g==
+sn.			172800	IN	TXT	"No RRs processed [07/02/2022 09H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220322032213 20220207071003 17389 sn. KE+3kDmniFzpjEmObuUzpNBrM47qeBj7Zl1eWAcpNt1KjrTFZf4zGtTh qGiqjfFRMt0N8YH5uQvr2MW6c+kq/A==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -578,7 +578,7 @@ adjimakka.sn.		43200	IN	NS	dns108.ovh.net.
 adjimakka.sn.		43200	IN	DS	32116 8 2 CC5D4D08AEF7655C8C7188A30266C8F855B4EBBDAABF61AE71DE0D6C 1BB27D6C
 adjimakka.sn.		43200	IN	RRSIG	DS 13 2 43200 20220223045554 20220109160727 17389 sn. y5RRduyAlmRJtBMnx3XBm+sk+6/mrkXwKqlggXOXnThmc2ibchhrz36d 9BNumxfQ7cKDVx0cm6Ao1LB3cgVm8w==
 adk.sn.			172800	IN	NS	ns5.jokko-hosting.com.
-adk.sn.			172800	IN	NS	ns6.jokko-hosting.com.
+adk.sn.			172800	IN	NS	ns9.jokko-hosting.com.
 adkar.sn.		43200	IN	NS	ns1.bluehost.com.
 adkar.sn.		43200	IN	NS	ns2.bluehost.com.
 adl.sn.			43200	IN	NS	ns1.kheweul.net.
@@ -2657,11 +2657,6 @@ bicis.sn.		43200	IN	NS	ns3.domivesta.net.
 bicis.sn.		43200	IN	NS	ns4.domivesta.com.
 bicomgroup.sn.		172800	IN	NS	ns2.francedns.com.
 bicomgroup.sn.		172800	IN	NS	cloudf03.francedns.com.
-bidiwe.sn.		43200	IN	NS	ns1.francedns.com.
-bidiwe.sn.		43200	IN	NS	ns2.francedns.com.
-bidiwe.sn.		43200	IN	NS	ns3.francedns.com.
-bidiwe.sn.		43200	IN	NS	ns4.francedns.com.
-bidiwe.sn.		43200	IN	NS	ns5.francedns.com.
 bidvest.sn.		43200	IN	NS	ns1.lexsynergy.net.
 bidvest.sn.		43200	IN	NS	ns2.lexsynergy.us.
 bidvest.sn.		43200	IN	NS	ns3.lexsynergy.info.
@@ -2992,7 +2987,7 @@ bopima.sn.		43200	IN	NS	ns1045.ui-dns.org.
 boroom.sn.		172800	IN	NS	ns100.ovh.net.
 boroom.sn.		172800	IN	NS	dns100.ovh.net.
 boroom.sn.		172800	IN	DS	15445 8 2 EEB5F96245D0E6D07BAA8FAFA534DF16C5C7DE5C0CB8BC6CE32F060E 5DA1046F
-boroom.sn.		172800	IN	RRSIG	DS 13 2 172800 20220221065638 20220109160727 17389 sn. 3zlNP8BRoUYCqx3935xSWht1SiMT4vgWm+Y90LLJxJDVsYu4baULHykg VREN9dTYbBf07SZ53uTGd9OabbM8fQ==
+boroom.sn.		172800	IN	RRSIG	DS 13 2 172800 20220408055743 20220207055638 17389 sn. loHsJtcZCoi+cC5bTntl4RbdzUXwPydApUhDEgTaQyKBFiZN/7NIpDZ9 hIv9DCFXrNQqjRQKML/tkoZKjXtK2Q==
 boroom-dakar.sn.	172800	IN	NS	ns100.ovh.net.
 boroom-dakar.sn.	172800	IN	NS	dns100.ovh.net.
 boroom-dakar.sn.	172800	IN	DS	29014 8 2 60D0148BFB77FE8269D1104B67A8C833065164C18F085032CC30CF07 08A8314A
@@ -4862,7 +4857,7 @@ coummbiaa.sn.		43200	IN	NS	ns4.ascio.com.
 coupdetete.sn.		43200	IN	NS	ns57.1and1.com.
 coupdetete.sn.		43200	IN	NS	ns58.1and1.com.
 couravision.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-couravision.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+couravision.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 courdescomptes.sn.	43200	IN	NS	ns.sonatel.sn.
 coursdexcellence.sn.	43200	IN	NS	ns1.infomaniak.ch.
 coursdexcellence.sn.	43200	IN	NS	ns2.infomaniak.ch.
@@ -7179,7 +7174,7 @@ eskaconseils.sn.	43200	IN	NS	ns2.sonatel.sn.
 esmi.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 esmi.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 esmic.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-esmic.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+esmic.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 esmt.sn.		43200	IN	NS	ns3.afriregister.com.
 esmt.sn.		43200	IN	NS	ns01.afriregister.com.
 esnt.sn.		43200	IN	NS	ns1.kheweul.net.
@@ -9100,6 +9095,10 @@ guideportuaireafrique.sn. 43200	IN	NS	dns13.ovh.net.
 guideportuaireafrique.sn. 43200	IN	DS	33952 8 2 D2D90FBAB1974F3BD0240D5DC7AF0FBE3AD8ECF4F82CABB0C2EF4930 C2D47913
 guideportuaireafrique.sn. 43200	IN	RRSIG	DS 13 2 43200 20220305202522 20220109160727 17389 sn. 33ZLfCBMZqPSymZydSUsjSEBm3f0MA6zgmztj0/AK/om2h5TV1bTKbll 0UVcly277yOhN5jIr9Z4l8mcETOEVQ==
 guillaumepriso.sn.	172800	IN	NS	ns1.macaisse.sn.
+guiss-docteur.sn.	172800	IN	NS	ns1.francedns.com.
+guiss-docteur.sn.	172800	IN	NS	ns2.francedns.com.
+guiss-docteur.sn.	172800	IN	NS	ns3.francedns.com.
+guiss-docteur.sn.	172800	IN	NS	ns4.francedns.com.
 gwork.sn.		172800	IN	NS	pdns01.domaincontrol.com.
 gwork.sn.		172800	IN	NS	pdns02.domaincontrol.com.
 gyloil.sn.		43200	IN	NS	ns7.jajeuf.com.
@@ -9577,7 +9576,7 @@ ici.sn.			172800	IN	NS	nsa.planethoster.net.
 ici.sn.			172800	IN	NS	nsb.planethoster.net.
 ici.sn.			172800	IN	NS	nsc.planethoster.net.
 iciwork.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-iciwork.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+iciwork.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 iconnect.sn.		43200	IN	NS	nsa.planethoster.net.
 iconnect.sn.		43200	IN	NS	nsb.planethoster.net.
 iconnect.sn.		43200	IN	NS	nsc.planethoster.net.
@@ -13610,8 +13609,6 @@ mun.sn.			172800	IN	NS	ns2.francedns.com.
 mun.sn.			172800	IN	NS	ns3.francedns.com.
 munngano.sn.		172800	IN	NS	cpanel13.lws-hosting.com.
 munngano.sn.		172800	IN	NS	cpanel14.lws-hosting.com.
-musee-ifan.sn.		43200	IN	NS	ns14.wixdns.net.
-musee-ifan.sn.		43200	IN	NS	ns15.wixdns.net.
 musix.sn.		43200	IN	NS	ns1.netim.net.
 musix.sn.		43200	IN	NS	ns2.netim.net.
 musix.sn.		43200	IN	NS	ns3.netim.net.
@@ -19819,9 +19816,8 @@ thiabibi.sn.		172800	IN	NS	ns6.wanekoohost.com.
 thiak-thiak.sn.		172800	IN	NS	ns1.netim.net.
 thiak-thiak.sn.		172800	IN	NS	ns2.netim.net.
 thiak-thiak.sn.		172800	IN	NS	ns3.netim.net.
-thiakthiak.sn.		172800	IN	NS	ns1.netim.net.
-thiakthiak.sn.		172800	IN	NS	ns2.netim.net.
-thiakthiak.sn.		172800	IN	NS	ns3.netim.net.
+thiakthiak.sn.		172800	IN	NS	ns1.hosting-server-1022.com.
+thiakthiak.sn.		172800	IN	NS	ns2.hosting-server-1022.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns1.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns2.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -23024,7 +23020,7 @@ L102CG9OMTSMDJANC0AF5TGRHHNQ32K4.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022032122351
 L1REGCAJ81RI0K6H7A6RLJN6P51NTLDG.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 L2FP55OBO611JPK7KVFPEMS2SD3C6KO4 NS DS RRSIG
 L1REGCAJ81RI0K6H7A6RLJN6P51NTLDG.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220312161648 20220111154935 17389 sn. 9/BvQnPGySc+5XfTxwbaR0qcYzwvlTrtjc4qySeS3J/OMJyJqHTa4iiA l0FK6HMpYpQVmb6uj8XgcKVsW3eBUA==
 L2FP55OBO611JPK7KVFPEMS2SD3C6KO4.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 L3B2HH9MBP1593ISOS6EFLGK4DC5FJDN NS DS RRSIG
-L2FP55OBO611JPK7KVFPEMS2SD3C6KO4.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220221074241 20220114113822 17389 sn. 8V3V89LmO1kchpAJwA3CeZL6WNOoEyGJaETwlfbBZhwGqJ+T07+TQrt/ 7J3HiDWneOD5mq+hD+5EQ1CRzAQ7zQ==
+L2FP55OBO611JPK7KVFPEMS2SD3C6KO4.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220408072959 20220207064241 17389 sn. TPOKV3aHvBq6ESWW/ZrtlStuRn7AJnBWOtvnPjbtSHuqAG8RPYiyyxGt yXKKFT01vfcXpuKTQ8R9aJSs9XYxNA==
 L3B2HH9MBP1593ISOS6EFLGK4DC5FJDN.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 L3BI3KSO29NE418R1N6L2H0G79QBBJUS NS DS RRSIG
 L3B2HH9MBP1593ISOS6EFLGK4DC5FJDN.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220315002404 20220109160727 17389 sn. 2OmVLMz/w6JGapgZlv0AWMPCCL0sM6fpsmOWyi+DgaNWAaOeqVIz/f4T E2iI/e6la3g9IbBxHeUtuSBRMpFRXQ==
 L3BI3KSO29NE418R1N6L2H0G79QBBJUS.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 L4J45HJMCLB841MPIV00C9IOHQ325TUM NS DS RRSIG
