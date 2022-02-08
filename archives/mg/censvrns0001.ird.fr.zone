@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020808 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022020810 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644307239"
+mg.			7200	IN	TXT	"Generation Time: 1644314440"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2488,6 +2488,8 @@ coinhub.mg.		7200	IN	NS	ns1.icp100.net.
 coinhub.mg.		7200	IN	NS	ns2.icp100.net.
 coinme.mg.		7200	IN	NS	ns1.101domain.com.
 coinme.mg.		7200	IN	NS	ns2.101domain.com.
+cola.mg.		7200	IN	NS	ursula.ns.cloudflare.com.
+cola.mg.		7200	IN	NS	yichun.ns.cloudflare.com.
 colearning.mg.		7200	IN	NS	ns1.o2switch.net.
 colearning.mg.		7200	IN	NS	ns2.o2switch.net.
 college-leparadisdesenfants.mg.	7200 IN	NS	ns1.cloudns.io.
@@ -6341,8 +6343,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7085,6 +7087,8 @@ mnparks.mg.		86400	IN	NS	ns.tgn.mg.
 mnparks.mg.		86400	IN	NS	ns1.tgn.mg.
 mnt.mg.			86400	IN	NS	ns1.dns-parking.com.
 mnt.mg.			86400	IN	NS	ns2.dns-parking.com.
+mobalpa.mg.		86400	IN	NS	dns200.anycast.me.
+mobalpa.mg.		86400	IN	NS	ns200.anycast.me.
 mobility.mg.		86400	IN	NS	nsmpro1.nordnet.com.
 mobility.mg.		86400	IN	NS	nsmpro2.nordnet.com.
 mobitruck.mg.		86400	IN	NS	ns1.reg.ru.

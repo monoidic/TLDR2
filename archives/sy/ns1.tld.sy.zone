@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020818 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1644307339"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022020822 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1644314544"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -3413,8 +3413,10 @@ hitaxi.sy.		86400	IN	NS	ns1.waveshost.sy.
 hitaxi.sy.		86400	IN	NS	ns2.waveshost.sy.
 hitaxi.sy.		86400	IN	NS	ns3.tld.sy.
 hitaxi.sy.		86400	IN	NS	ns4.tld.sy.
-hitech.sy.		86400	IN	NS	ns1.arabiangroup.com.
-hitech.sy.		86400	IN	NS	ns2.arabiangroup.com.
+hitech.sy.		86400	IN	NS	ns1.hitech.sy.
+hitech.sy.		86400	IN	NS	ns2.hitech.sy.
+ns1.hitech.sy.		86400	IN	A	185.216.132.119
+ns2.hitech.sy.		86400	IN	A	185.216.132.119
 hji.sy.			86400	IN	NS	ns3.tld.sy.
 hji.sy.			86400	IN	NS	ns4.tld.sy.
 hjizle.sy.		86400	IN	NS	ns1.damashost.com.
@@ -4199,8 +4201,8 @@ likelego.sy.		86400	IN	NS	suspend1.tld.sy.
 likelego.sy.		86400	IN	NS	suspend2.tld.sy.
 likemarket.sy.		86400	IN	NS	suspend1.tld.sy.
 likemarket.sy.		86400	IN	NS	suspend2.tld.sy.
-likesyria.sy.		86400	IN	NS	s1.sawa-host.net.
-likesyria.sy.		86400	IN	NS	ns2.sawa-host.net.
+likesyria.sy.		86400	IN	NS	suspend1.tld.sy.
+likesyria.sy.		86400	IN	NS	suspend2.tld.sy.
 liketaxi.sy.		86400	IN	NS	suspend1.tld.sy.
 liketaxi.sy.		86400	IN	NS	suspend2.tld.sy.
 linenet.sy.		86400	IN	NS	ns1.linet.sy.
@@ -4339,8 +4341,8 @@ majestynews.sy.		86400	IN	NS	suspend1.tld.sy.
 majestynews.sy.		86400	IN	NS	suspend2.tld.sy.
 majidalfuttaimpropertiessyria.sy. 86400	IN NS	ns1.alanqaa.com.
 majidalfuttaimpropertiessyria.sy. 86400	IN NS	ns2.alanqaa.com.
-makani.sy.		86400	IN	NS	ns1.lazernet.sy.
-makani.sy.		86400	IN	NS	ns2.lazernet.sy.
+makani.sy.		86400	IN	NS	suspend1.tld.sy.
+makani.sy.		86400	IN	NS	suspend2.tld.sy.
 makansi.sy.		86400	IN	NS	suspend1.tld.sy.
 makansi.sy.		86400	IN	NS	suspend2.tld.sy.
 makki.sy.		86400	IN	NS	dns1.supremepanel.com.
