@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425324 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220408221003 20220207211003 17389 sn. tG+hpRCwy9CzJDyP7daOVElqHcyCuo6LN1Z07vdblxwkBnkLYsZ/dM3i K/YnmwEEdVxnk/oKZA14ObJGQ0A94Q==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425338 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220409002002 20220207232002 17389 sn. 63XeyP5zvBSMjowEpFl5ZD64D+hW0iA6CpiXIxa/h7edGhtighr/7cpj 80fF0VxCOSWBD5BQTy15qnTikyLQOw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"2 RRs processed [07/02/2022 23H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220401220855 20220207211003 17389 sn. i+ERK5t5YMeqsR475gplhxs/NQ6PwtWyZCw19KNIoxk+tQARHuOouTUp yoTUS6t5W7ityLhvMdfJzqt25q6I2A==
+sn.			172800	IN	TXT	"No RRs processed [08/02/2022 01H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220403130206 20220207232002 17389 sn. niiWR1PSoWFmwaqkDNCR6WBMJ6aQuBrFb/5vQMY8Rk91WyterBIO42BC rh06QWnOIjx0nXedaRwsBhylQ8eg+w==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -4305,7 +4305,7 @@ cliniquemaimouna.sn.	43200	IN	NS	ns2.cp-31.webhostbox.net.
 cliniquesarr.sn.	172800	IN	NS	ns106.ovh.net.
 cliniquesarr.sn.	172800	IN	NS	dns106.ovh.net.
 cliniquesarr.sn.	172800	IN	DS	8155 8 2 45F5F865AFE567E620B699B4AE9EF172D694FBED849DC764F36DDB37 621B01A1
-cliniquesarr.sn.	172800	IN	RRSIG	DS 13 2 172800 20220221234353 20220109160727 17389 sn. m4hPV+sQc2JXDOy0c5Eb+PKjEbAsggiBAgmeAAruoPd7HIvnTsRicVQO 8R0nX42hzySB/62Vi3BT1oh03g1QLQ==
+cliniquesarr.sn.	172800	IN	RRSIG	DS 13 2 172800 20220408232404 20220207224353 17389 sn. osPZmLOUiJBoAmIyIoesM6ardwNYPncleNkLO1F1XpSo9llBCYWR+6Dr jtSPYNzDSwtVKYoxkyDtv9I1m9zSPw==
 clm.sn.			43200	IN	NS	pns21.cloudns.net.
 clm.sn.			43200	IN	NS	pns22.cloudns.net.
 clm.sn.			43200	IN	NS	pns23.cloudns.net.
@@ -8550,8 +8550,8 @@ gic.sn.			43200	IN	NS	ns3.kheweul.net.
 gic.sn.			43200	IN	NS	ns4.kheweul.net.
 gica.sn.		172800	IN	NS	ns200.anycast.me.
 gica.sn.		172800	IN	NS	dns200.anycast.me.
-gidelam.sn.		172800	IN	NS	ns14.ovh.net.
-gidelam.sn.		172800	IN	NS	dns14.ovh.net.
+gidelam.sn.		172800	IN	NS	ns200.anycast.me.
+gidelam.sn.		172800	IN	NS	dns200.anycast.me.
 gieterremere.sn.	43200	IN	NS	ns10.ovh.net.
 gieterremere.sn.	43200	IN	NS	dns10.ovh.net.
 gifas.sn.		43200	IN	NS	ns1.wanekoohost.com.
