@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425367 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425382 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220408073817 20220207071009 17389 sn. peH6IfJr1ekw+Na19MT1bogFU7ltYzay+77oFpYEuHJS5ict/KhXqmzL 4gIN2kyuRpnUVII1qdyofldzYpsWDA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220307224912 20220208031002 17389 sn. 438cKrnKqw+c1rAg8l7QdAJfMsSUpiIqwnnpXxgYKhWHxT4V0xPAee6k QYVJCw9nzXT2Z18KmrlFzw9dT0HilA==
-sn.			172800	IN	TXT	"No RRs processed [08/02/2022 05H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220329130050 20220208051002 17389 sn. /ZKbFKinsqYunRxNZBcwOLHXEzRHMyna3t/RlM01PS9oclxzfXVl7rzd KqVxpOLeLogpwVb7BjHHztECWQl3Eg==
+sn.			172800	IN	TXT	"7 RRs processed [08/02/2022 07H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220409041715 20220208031715 17389 sn. IBkDWI6aMJTrLF4eKAC0Osra8isjNWk3reic4iu7veBVTnGqEuRnvUJ3 ZBy/CFQS+KUOjk0AAtwRQGX6zT+hmA==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220409061002 20220208051002 17389 sn. RHIMrUTuIZWeh+vHwnti0gAlxJeAA9kIFb3nkrBoYBY9++ICrbP2dpGC G4uG9vxwaa2b4ylQ+VHxMvxohHDC1Q==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -4912,8 +4912,6 @@ creationdentreprise.sn.	172800	IN	RRSIG	DS 13 2 172800 20220308063629 2022010916
 creationdentreprise.sn.	172800	IN	DS	8725 8 2 9D9F1E29EE97D1E9635D667EF0A76C9F584A609C0DE379C844BBC75B A16771C4
 creationdentreprise.sn.	172800	IN	NS	ns103.ovh.net.
 creationdentreprise.sn.	172800	IN	NS	dns103.ovh.net.
-creditkash.sn.		43200	IN	NS	ns1.wtservers.com.
-creditkash.sn.		43200	IN	NS	ns2.wtservers.com.
 creditkash-mobile.sn.	43200	IN	NS	ns1.wtservers.com.
 creditkash-mobile.sn.	43200	IN	NS	ns2.wtservers.com.
 creditkash-mobile.sn.	43200	IN	NS	ns3.wtservers.com.
@@ -6657,8 +6655,6 @@ eeds.sn.		43200	IN	NS	ns3-08.azure-dns.org.
 eeds.sn.		43200	IN	NS	ns4-08.azure-dns.info.
 eeht.sn.		43200	IN	NS	ns5.afriregister.com.
 eeht.sn.		43200	IN	NS	ns6.afriregister.com.
-eenas.sn.		43200	IN	NS	ns1.ipower.com.
-eenas.sn.		43200	IN	NS	ns2.ipower.com.
 efaa.sn.		172800	IN	RRSIG	DS 13 2 172800 20220302214826 20220114113822 17389 sn. 2qFXO/Nh9VsnawlVcYt2oGxwjGHxxDcMH99P/ydzu9OopfmdYwSsPk1V 55htc174dxR5JEArylIoHZXdw3Bj3g==
 efaa.sn.		172800	IN	DS	57691 8 2 16B67097BB5D062A1C8CBE57BB2EF803DD8715DBD62956D739748BB2 A6E030DA
 efaa.sn.		172800	IN	NS	ns106.ovh.net.
@@ -9972,8 +9968,6 @@ influence-digitale.sn.	43200	IN	RRSIG	DS 13 2 43200 20220320213348 2022010916072
 influence-digitale.sn.	43200	IN	DS	63514 8 2 905EF37AA3A12F5EC3D090A6E6185A3D851A79CBC6E188A86EC8D5CB 0FE47BA5
 influence-digitale.sn.	43200	IN	NS	ns200.anycast.me.
 influence-digitale.sn.	43200	IN	NS	dns200.anycast.me.
-infoado.sn.		43200	IN	NS	ns1.oneworld.org.
-infoado.sn.		43200	IN	NS	ns2.oneworld.org.
 infoetude.sn.		43200	IN	NS	ns1.001.bj.
 infoetude.sn.		43200	IN	NS	ns2.001.bj.
 infoetudes.sn.		43200	IN	NS	ns1.001.bj.
@@ -13733,7 +13727,7 @@ namaka.sn.		43200	IN	NS	cpanel17.lws-hosting.com.
 namaka.sn.		43200	IN	NS	cpanel18.lws-hosting.com.
 namek.sn.		172800	IN	NS	ns100.ovh.net.
 namek.sn.		172800	IN	NS	dns100.ovh.net.
-namek.sn.		172800	IN	RRSIG	DS 13 2 172800 20220222055221 20220109160727 17389 sn. OzJyUQMnhFti8OqMIWvJazmdCQ//g4GBpovzpuAxKwHIvuBg+qpjJKue SkHEZeCk5RgLppbbvaOcPwWwKOOvEg==
+namek.sn.		172800	IN	RRSIG	DS 13 2 172800 20220409045239 20220208045221 17389 sn. xirYZdYlM6cNJ6a+MANqYUphUVF63unCGk7M2b9IjJSJkzxwu7li0l4F z4ECSxrDeWsoIm1qmZu50fzc3O1K1g==
 namek.sn.		172800	IN	DS	11074 8 2 3EEDA1B066D6D53871DCB2200713CC0D2EB81AA189040C7E11823AB8 9DD25566
 namnam.sn.		172800	IN	NS	ns1.wanekoohost.com.
 namnam.sn.		172800	IN	NS	ns4.wanekoohost.com.
@@ -15272,7 +15266,7 @@ pharedesmamelles.sn.	43200	IN	NS	ns112.ovh.net.
 pharedesmamelles.sn.	43200	IN	NS	dns112.ovh.net.
 pharesetbalises.sn.	43200	IN	NS	ns.sonatel.sn.
 pharesetbalises.sn.	43200	IN	NS	ns2.sonatel.sn.
-pharmacieconseil.sn.	172800	IN	RRSIG	DS 13 2 172800 20220222051018 20220109160727 17389 sn. ExSZ2ZqW2mcn8gh1dQ9eZHAhW4ffWj6QybBq98tDTO7M/01h9N0wLg2O +r4SNwYKRnDm+nEih0TB8fO6R3/jIw==
+pharmacieconseil.sn.	172800	IN	RRSIG	DS 13 2 172800 20220409050045 20220208041018 17389 sn. 5+iBysgw+sZdtmE+N3e8nhRDrsITk6nehITxOXJiIGBfq8nmQX2K0wHt uRAiwCzPJYbVFyaEuqNUixIEyWMhBQ==
 pharmacieconseil.sn.	172800	IN	DS	27595 8 2 637163CFB91F44A360FE6739CCBD4EA4272026F0A822724F1EA52D18 0EEFE30F
 pharmacieconseil.sn.	172800	IN	NS	ns20.ovh.net.
 pharmacieconseil.sn.	172800	IN	NS	dns20.ovh.net.
@@ -15587,8 +15581,6 @@ premierbetsenegal.sn.	43200	IN	NS	ns3.kheweul.net.
 premierbetsenegal.sn.	43200	IN	NS	ns4.kheweul.net.
 premiercasino.sn.	43200	IN	NS	donald.ns.cloudflare.com.
 premiercasino.sn.	43200	IN	NS	karina.ns.cloudflare.com.
-premiergames.sn.	43200	IN	NS	donald.ns.cloudflare.com.
-premiergames.sn.	43200	IN	NS	karina.ns.cloudflare.com.
 premierloto.sn.		43200	IN	NS	donald.ns.cloudflare.com.
 premierloto.sn.		43200	IN	NS	karina.ns.cloudflare.com.
 premierlotto.sn.	43200	IN	NS	donald.ns.cloudflare.com.
@@ -19243,10 +19235,6 @@ surfshop.sn.		43200	IN	NS	dns200.anycast.me.
 surleterrain.sn.	43200	IN	NS	ns1.francedns.com.
 surleterrain.sn.	43200	IN	NS	ns2.francedns.com.
 surleterrain.sn.	43200	IN	NS	ns3.francedns.com.
-surtransfert.sn.	43200	IN	NS	ns1.wtservers.com.
-surtransfert.sn.	43200	IN	NS	ns2.wtservers.com.
-surtransfertargent.sn.	43200	IN	NS	ns1.wtservers.com.
-surtransfertargent.sn.	43200	IN	NS	ns2.wtservers.com.
 sustainera.sn.		172800	IN	NS	ns1.gandi.net.
 sustainera.sn.		172800	IN	NS	ns2.gandi.net.
 sustainera.sn.		172800	IN	NS	ns3.gandi.net.
@@ -20223,8 +20211,6 @@ transexpress.sn.	43200	IN	NS	ns.arc.sn.
 transexpress.sn.	43200	IN	NS	ns3.arc.sn.
 transfertleasing.sn.	43200	IN	NS	ns18.ovh.net.
 transfertleasing.sn.	43200	IN	NS	dns18.ovh.net.
-transfertsur.sn.	43200	IN	NS	ns1.wtservers.com.
-transfertsur.sn.	43200	IN	NS	ns2.wtservers.com.
 transfret.sn.		43200	IN	NS	ns1.hebergement-online.com.
 transfret.sn.		43200	IN	NS	ns2.hebergement-online.com.
 transfusionsenegal.sn.	43200	IN	NS	ns1.francedns.com.
@@ -23573,7 +23559,7 @@ TD8RHI14PI7717JU2D11U75NTRLLB6V7.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022033113112
 TD8RHI14PI7717JU2D11U75NTRLLB6V7.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TDN05J17TA09RRV83TJOG0CP2P93GTCU NS DS RRSIG
 TDN05J17TA09RRV83TJOG0CP2P93GTCU.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220226132739 20220109160727 17389 sn. Ih7PU7nhjCyG0xcDoYLk2Xwcg51/Ch/uD0FlpxygjwZAF5RXKCVYz36/ JSUQ3WQKziSMGsqRRart/4L43PwE6g==
 TDN05J17TA09RRV83TJOG0CP2P93GTCU.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TEV9KE8SDNM3U1CCS0QF7D8K0LHBO1PU NS DS RRSIG
-TEV9KE8SDNM3U1CCS0QF7D8K0LHBO1PU.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220222052843 20220109160727 17389 sn. 5HmDjC4uEF0AoISKM1VTjwiWVZpwSitaHFYUaT9jVEIPPPN0OTc49VTU YMvdTc3rJHAMaHzWQ6NP0XwE8fCirQ==
+TEV9KE8SDNM3U1CCS0QF7D8K0LHBO1PU.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220409052434 20220208042843 17389 sn. vXwL7jVvAf3y/o037NTsDnCR+7Jz5qL5l1iWxuN6HkG95wu1MeWOBgIA g1cFXO3fZDJZmM06pskD4/K1ZXFYWQ==
 TEV9KE8SDNM3U1CCS0QF7D8K0LHBO1PU.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TH5PQJ528TNHLPLNNTB2GL3E8IHVNMJ3 NS DS RRSIG
 TH5PQJ528TNHLPLNNTB2GL3E8IHVNMJ3.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220326175649 20220125173205 17389 sn. bZpIoq6fhnox9LpwgWmbbxWzKLKyrlVnDhc8ZvQUMnn3eA04dvpPCpee o0vrumGo3hv65Q7Iy4NNyP0nbsfH1w==
 TH5PQJ528TNHLPLNNTB2GL3E8IHVNMJ3.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 THR02LSIMUQSRK319G3OELVBRD6MQF60 NS DS RRSIG
