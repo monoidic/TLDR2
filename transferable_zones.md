@@ -15,6 +15,7 @@
 * `bf` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/bf/censvrns0001.ird.fr.zone)
 * `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cd` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-23.scpt-network.net.zone)
+* `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `dz` via `ns2.nic.dz.`: [Click here to view zone data.](archives/dz/ns2.nic.dz.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `er` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/zaranew.noc.net.er.zone)
