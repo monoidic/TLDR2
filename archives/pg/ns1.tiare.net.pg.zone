@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022020702 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022020900 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -1042,6 +1042,9 @@ dg.COM.pg.		172800	IN	NS	ns1.online.net.pg.
 dg.COM.pg.		172800	IN	NS	ns2.online.net.pg.
 dhl.COM.pg.		172800	IN	NS	ns4.dhl.com.
 dhl.COM.pg.		172800	IN	NS	ns6.dhl.com.
+diamondridge.COM.pg.	172800	IN	NS	pns21.cloudns.net.
+diamondridge.COM.pg.	172800	IN	NS	pns22.cloudns.net.
+diamondridge.COM.pg.	172800	IN	NS	pns23.cloudns.net.
 digara.COM.pg.		172800	IN	NS	ns25.domaincontrol.com.
 digara.COM.pg.		172800	IN	NS	ns26.domaincontrol.com.
 digicelplay.COM.pg.	172800	IN	NS	ns1.online.net.pg.
@@ -2808,6 +2811,8 @@ niupower.COM.pg.	172800	IN	NS	ken.ns.cloudflare.com.
 niupower.COM.pg.	172800	IN	NS	carol.ns.cloudflare.com.
 niuskypacific.COM.pg.	172800	IN	NS	ns1.digiteccloud.com.
 niuskypacific.COM.pg.	172800	IN	NS	ns2.digiteccloud.com.
+niusoft.COM.pg.		172800	IN	NS	ns1.niusoft.com.
+niusoft.COM.pg.		172800	IN	NS	ns2.niusoft.com.
 niutel.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 niutel.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 niutel.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -5747,9 +5752,8 @@ surfingpapuanewguinea.ORG.pg. 172800 IN	NS	ns1.online.net.pg.
 surfingpapuanewguinea.ORG.pg. 172800 IN	NS	ns2.online.net.pg.
 surfingpng-newireland.ORG.pg. 172800 IN	NS	ns1.global.net.pg.
 surfingpng-newireland.ORG.pg. 172800 IN	NS	ns2.global.net.pg.
-susumamas.ORG.pg.	172800	IN	NS	ns-796.awsdns-35.net.
-susumamas.ORG.pg.	172800	IN	NS	ns-1470.awsdns-55.org.
-susumamas.ORG.pg.	172800	IN	NS	ns-1544.awsdns-01.co.uk.
+susumamas.ORG.pg.	172800	IN	NS	dara.ns.cloudflare.com.
+susumamas.ORG.pg.	172800	IN	NS	jake.ns.cloudflare.com.
 tarangu.ORG.pg.		172800	IN	NS	ns1.datec.net.pg.
 tarangu.ORG.pg.		172800	IN	NS	ns2.datec.net.pg.
 tarangu.ORG.pg.		172800	IN	NS	ns3.datec.net.pg.
