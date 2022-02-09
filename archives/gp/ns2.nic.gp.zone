@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020821 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022020915 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -9,8 +9,9 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 0.gp.			86400	IN	NS	ns4.kv.de.
 00.gp.			86400	IN	NS	ns1.undeveloped.com.
 00.gp.			86400	IN	NS	ns2.undeveloped.com.
-01net.gp.		86400	IN	NS	ns1.mailclub.fr.
-01net.gp.		86400	IN	NS	ns2.mailclub.fr.
+01net.gp.		86400	IN	NS	a.ns.mailclub.fr.
+01net.gp.		86400	IN	NS	b.ns.mailclub.eu.
+01net.gp.		86400	IN	NS	c.ns.mailclub.com.
 1.gp.			86400	IN	NS	ns1.bodis.com.
 1.gp.			86400	IN	NS	ns2.bodis.com.
 1-2-3.gp.		86400	IN	NS	a.dns.gandi.net.
@@ -642,8 +643,9 @@ beautybay.gp.		86400	IN	NS	ns5.101domain.com.
 bebe9.gp.		86400	IN	NS	ns1.dnsres.net.
 bebe9.gp.		86400	IN	NS	ns2.dnsres.net.
 bebe9.gp.		86400	IN	NS	ns3.dnsres.net.
-becquet.gp.		86400	IN	NS	ns1.mailclub.fr.
-becquet.gp.		86400	IN	NS	ns2.mailclub.fr.
+becquet.gp.		86400	IN	NS	a.ns.mailclub.fr.
+becquet.gp.		86400	IN	NS	b.ns.mailclub.eu.
+becquet.gp.		86400	IN	NS	c.ns.mailclub.com.
 beer.gp.		86400	IN	NS	ns1.undeveloped.com.
 beer.gp.		86400	IN	NS	ns2.undeveloped.com.
 bemvinda.gp.		86400	IN	NS	dns1.cloudns.net.
@@ -2807,10 +2809,12 @@ la-carte-fid.gp.	86400	IN	NS	ns3.netim.net.
 la-halle.gp.		86400	IN	NS	a.ns.mailclub.fr.
 la-halle.gp.		86400	IN	NS	b.ns.mailclub.eu.
 la-halle.gp.		86400	IN	NS	c.ns.mailclub.com.
-la-halle-aux-chaussures.gp. 86400 IN	NS	ns1.mailclub.fr.
-la-halle-aux-chaussures.gp. 86400 IN	NS	ns2.mailclub.fr.
-la-halle-o-chaussures.gp. 86400	IN	NS	ns1.mailclub.fr.
-la-halle-o-chaussures.gp. 86400	IN	NS	ns2.mailclub.fr.
+la-halle-aux-chaussures.gp. 86400 IN	NS	a.ns.mailclub.fr.
+la-halle-aux-chaussures.gp. 86400 IN	NS	b.ns.mailclub.eu.
+la-halle-aux-chaussures.gp. 86400 IN	NS	c.ns.mailclub.com.
+la-halle-o-chaussures.gp. 86400	IN	NS	a.ns.mailclub.fr.
+la-halle-o-chaussures.gp. 86400	IN	NS	b.ns.mailclub.eu.
+la-halle-o-chaussures.gp. 86400	IN	NS	c.ns.mailclub.com.
 la1ere.gp.		86400	IN	NS	indom10.indomco.com.
 la1ere.gp.		86400	IN	NS	indom20.indomco.net.
 la1ere.gp.		86400	IN	NS	indom30.indomco.fr.
@@ -2862,10 +2866,12 @@ lagence.gp.		86400	IN	NS	ns17.ovh.net.
 lagence.gp.		86400	IN	NS	dns17.ovh.net.
 lagup.gp.		86400	IN	NS	ns1.bdmi.net.
 lagup.gp.		86400	IN	NS	ns2.bdmi.net.
-lahalle.gp.		86400	IN	NS	ns1.mailclub.fr.
-lahalle.gp.		86400	IN	NS	ns2.mailclub.fr.
-lahalleauxchaussures.gp. 86400	IN	NS	ns1.mailclub.fr.
-lahalleauxchaussures.gp. 86400	IN	NS	ns2.mailclub.fr.
+lahalle.gp.		86400	IN	NS	a.ns.mailclub.fr.
+lahalle.gp.		86400	IN	NS	b.ns.mailclub.eu.
+lahalle.gp.		86400	IN	NS	c.ns.mailclub.com.
+lahalleauxchaussures.gp. 86400	IN	NS	a.ns.mailclub.fr.
+lahalleauxchaussures.gp. 86400	IN	NS	b.ns.mailclub.eu.
+lahalleauxchaussures.gp. 86400	IN	NS	c.ns.mailclub.com.
 lakazauxfolles.gp.	86400	IN	NS	ns3015.mochahost.com.
 lakazauxfolles.gp.	86400	IN	NS	ns4015.mochahost.com.
 lakoufood.gp.		86400	IN	NS	ns-19-a.gandi.net.
@@ -3133,8 +3139,9 @@ map.gp.			86400	IN	NS	ns1.undeveloped.com.
 map.gp.			86400	IN	NS	ns2.undeveloped.com.
 mappingcontrol.gp.	86400	IN	NS	dns1.hosteur.com.
 mappingcontrol.gp.	86400	IN	NS	dns2.hosteur.com.
-mappy.gp.		86400	IN	NS	ns1.mailclub.fr.
-mappy.gp.		86400	IN	NS	ns2.mailclub.fr.
+mappy.gp.		86400	IN	NS	a.ns.mailclub.fr.
+mappy.gp.		86400	IN	NS	b.ns.mailclub.eu.
+mappy.gp.		86400	IN	NS	c.ns.mailclub.com.
 marathonclubbrand.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
 marathonclubbrand.gp.	86400	IN	NS	nssui.comlaude.ch.
 marathonclubbrand.gp.	86400	IN	NS	nsusa.comlaude.net.
@@ -3171,8 +3178,9 @@ maximini.gp.		86400	IN	NS	ns1.ikoula.fr.
 maximini.gp.		86400	IN	NS	ns2.ikoula.fr.
 maytag.gp.		86400	IN	NS	ns.whirlpool.com.
 maytag.gp.		86400	IN	NS	ns2.whirlpool.com.
-mazars.gp.		86400	IN	NS	ns1.mailclub.fr.
-mazars.gp.		86400	IN	NS	ns2.mailclub.fr.
+mazars.gp.		86400	IN	NS	a.ns.mailclub.fr.
+mazars.gp.		86400	IN	NS	b.ns.mailclub.eu.
+mazars.gp.		86400	IN	NS	c.ns.mailclub.com.
 mb.gp.			86400	IN	NS	ns10.dnsmadeeasy.com.
 mb.gp.			86400	IN	NS	ns11.dnsmadeeasy.com.
 mb.gp.			86400	IN	NS	ns12.dnsmadeeasy.com.
