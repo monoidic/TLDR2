@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425718 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220411062002 20220210052002 17389 sn. MvDoo5m8D1kCgpf+LD+BqbE7JJaKy5UFQPzelJNQd2uNynZgLWKM6zNc TGm5Z7W0OQFK9bjB+EjPiQ0R1ky55w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425731 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220411081003 20220210071003 17389 sn. CMzeDz/H0ZAkuYbJAteDyq9GDeMD1Nt+JwyH4LSYv15Cp9k5RROR/Ok+ ywY4K85KfbP056ik2FLYkqD3NaG5Yw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [10/02/2022 07H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220305044717 20220210052002 17389 sn. 6C1SaZ0jhRpYMEJOWRtQfTqOyqvuKfhRFyn81NiGGuVPU3GsFNYeCh49 lJkhs98y6h6JRxgAUzEhYO6ElafZMg==
+sn.			172800	IN	TXT	"8 RRs processed [10/02/2022 09H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220310124455 20220210071003 17389 sn. m2MUWSZgaJ/EXE50w+E34F1wvmKbfb6rS9ungqErKzY0YvttvD3PGOPw 8tns4usP9KGngqn0ywQ2iRfqJdcxzA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -407,7 +407,7 @@ acd.sn.			172800	IN	RRSIG	DS 13 2 172800 20220302051434 20220109160727 17389 sn.
 acec-audit.sn.		43200	IN	NS	ns108.ovh.net.
 acec-audit.sn.		43200	IN	NS	dns108.ovh.net.
 acec-audit.sn.		172800	IN	DS	5404 8 2 6B3AB75EE4E416F762ECFCA89EA90E18B4442965DFDF652B849F3ABD 56D3559B
-acec-audit.sn.		172800	IN	RRSIG	DS 13 2 172800 20220224062900 20220109160727 17389 sn. XFX366d9zCwmkLgTt5d3QJXFr2E0LyE2/11ZqKfwX+277BR93M/URbXn tktR9RP+8T4pgXtDQN2NzJWDeAKBwQ==
+acec-audit.sn.		172800	IN	RRSIG	DS 13 2 172800 20220411053344 20220210052900 17389 sn. crQMO1jbYxb05A7ajpuWsYcOWPUSRQfTkEAW5xPGgBSSk8OboeEwkYcY fSCrXmOQV4dtff1KZ4TnNbAGoTw8IQ==
 acena.sn.		43200	IN	NS	ns200.anycast.me.
 acena.sn.		43200	IN	NS	dns200.anycast.me.
 acena.sn.		43200	IN	DS	16810 8 2 B7F471F486E6468B1057077BE7D0F791A3519C6FD68B1B02ECCCB9B3 1F42B402
@@ -1330,7 +1330,7 @@ americanairlines.sn.	43200	IN	NS	dns2.cscdns.net.
 americanbeachclub.sn.	172800	IN	NS	ns200.anycast.me.
 americanbeachclub.sn.	172800	IN	NS	dns200.anycast.me.
 americanbeachclub.sn.	172800	IN	DS	50590 8 2 D0DFF4D742DB70C428DA811A670459CD92453391FC6641F758B5A4DB E933EC3A
-americanbeachclub.sn.	172800	IN	RRSIG	DS 13 2 172800 20220224065722 20220109160727 17389 sn. 9PZTJRRIR4669rzr6oNm1WYIst2sUiGEegUaVyHPDs3Ygtqdd/eIztAT HxQggPWnv/GViSALpVtxbPLGtSOOcg==
+americanbeachclub.sn.	172800	IN	RRSIG	DS 13 2 172800 20220411061712 20220210055722 17389 sn. qw8dYgz9NxE8IriyACIRiGUJ06m0zeiV2QD0vnjDwGDfeHXWtKu6XAhK 6WA2k7iO/WeuRfYfaHjl/VJwuqd3wQ==
 americanshop.sn.	172800	IN	NS	ns1.kheweul.net.
 americanshop.sn.	172800	IN	NS	ns2.kheweul.net.
 americanshop.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -1526,9 +1526,9 @@ aol.sn.			43200	IN	NS	ns4.yahoo.com.
 aol.sn.			43200	IN	NS	ns5.yahoo.com.
 aos.sn.			43200	IN	NS	eisdns1.expertis.sn.
 aos.sn.			43200	IN	NS	eisdns2.expertis.sn.
-apa.sn.			172800	IN	NS	ns1.netim.net.
 apa.sn.			172800	IN	NS	ns2.netim.net.
 apa.sn.			172800	IN	NS	ns3.netim.net.
+apa.sn.			172800	IN	NS	ns1.bdm.microsoftonline.com.
 apavesahel.sn.		43200	IN	NS	ns1.mdc.mk.
 apavesahel.sn.		43200	IN	NS	ns2.mdc.mk.
 apbef.sn.		43200	IN	NS	dns1.alwaysdata.com.
@@ -1587,9 +1587,9 @@ applestore.sn.		43200	IN	NS	c.ns.apple.com.
 applestore.sn.		43200	IN	NS	d.ns.apple.com.
 apporio.sn.		43200	IN	NS	may.ns.cloudflare.com.
 apporio.sn.		43200	IN	NS	aragorn.ns.cloudflare.com.
-appysport.sn.		43200	IN	NS	a.dns.gandi.net.
-appysport.sn.		43200	IN	NS	b.dns.gandi.net.
-appysport.sn.		43200	IN	NS	c.dns.gandi.net.
+appysport.sn.		172800	IN	NS	ns-42-c.gandi.net.
+appysport.sn.		172800	IN	NS	ns-61-a.gandi.net.
+appysport.sn.		172800	IN	NS	ns-252-b.gandi.net.
 apr.sn.			43200	IN	NS	ns1.kheweul.net.
 apr.sn.			43200	IN	NS	ns2.kheweul.net.
 april.sn.		43200	IN	NS	udns1.cscdns.net.
