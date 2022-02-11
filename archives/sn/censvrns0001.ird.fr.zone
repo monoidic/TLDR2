@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425992 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426004 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220408073817 20220207071009 17389 sn. peH6IfJr1ekw+Na19MT1bogFU7ltYzay+77oFpYEuHJS5ict/KhXqmzL 4gIN2kyuRpnUVII1qdyofldzYpsWDA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220320092410 20220211192002 17389 sn. FN4tzfo8n7Ec0wab484gFo9lr1W8KUt/j6WUPc8om9PWIr1Jy1bu1c1k kKdhc7kHk7tapDXd4S0Iq8sNp/+Wfg==
-sn.			172800	IN	TXT	"No RRs processed [11/02/2022 21H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220313185747 20220211212002 17389 sn. v1ZguxFmZnpOxfVirMqal7nsd0bmSO0d8On+r2VvQ+sD73UJVuCT/I6C ibhySAc8nHI468ugzPg8xTSByz5Bog==
+sn.			172800	IN	TXT	"No RRs processed [11/02/2022 23H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220412202002 20220211192002 17389 sn. rE1h4rFd5yAuVLG/PEmmk6agj1zJDPy33x/9qLe5tVNLFCPufG9cBp6o paYj6MC5djZcuaPsAiVFqWN/XguK8g==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220412222002 20220211212002 17389 sn. oQMxhbJdTUiYj3Iu7e7bHMeZ7E/JhWtTHtaYE9CvGAM33UgLQxnENGQf HOzYvd99xk3b7+WQvufRMsilQWrheQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -15360,6 +15360,8 @@ pmg-shop.sn.		172800	IN	NS	ns1.wanekoohost.com.
 pmg-shop.sn.		172800	IN	NS	ns2.wanekoohost.com.
 pmg-shop.sn.		172800	IN	NS	ns5.wanekoohost.com.
 pmg-shop.sn.		172800	IN	NS	ns6.wanekoohost.com.
+pmo.sn.			172800	IN	NS	ns200.anycast.me.
+pmo.sn.			172800	IN	NS	dns200.anycast.me.
 pmp.sn.			43200	IN	NS	ns1.francedns.com.
 pmp.sn.			43200	IN	NS	ns2.francedns.com.
 pmp.sn.			43200	IN	NS	ns3.francedns.com.
