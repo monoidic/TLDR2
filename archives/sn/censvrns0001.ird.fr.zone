@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425930 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222425945 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220408073817 20220207071009 17389 sn. peH6IfJr1ekw+Na19MT1bogFU7ltYzay+77oFpYEuHJS5ict/KhXqmzL 4gIN2kyuRpnUVII1qdyofldzYpsWDA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220305094736 20220211111003 17389 sn. UVgjpQb1uSGHNm9V1WzOExFqysYbygFi1iN7qVg4EC6sIWfE2GozIgZu U3+G9C3JGX9piJw39BX1B49OV+Gz6g==
-sn.			172800	IN	TXT	"No RRs processed [11/02/2022 13H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220310150632 20220211131002 17389 sn. f3ABU0SYgSM80Z9m40YFkLLz06iVkV2TA3juoVf7BPbunY5C1fu5IfDJ 1ZSeG4kYXnjkab0RMcfrkxioj19Ejw==
+sn.			172800	IN	TXT	"7 RRs processed [11/02/2022 15H10:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220412121542 20220211111542 17389 sn. N6+UBNFXnk900KfwgQ/rYOd8sWKQ8vwDHN1PBzYpin/7nkBvNErr2FQn KSu7EnOCj26DoPquqHPw5GQnLrbrgw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220412141636 20220211131636 17389 sn. NUhqtRb9RUVgwaVZpL8lEO/nHjzWyChB3gdLgsyOwKtS7Z6O7hUee9DK rRM7DRtsLmOpqQLcCH5l5ayZsExCKA==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -684,7 +684,7 @@ afi.sn.			43200	IN	NS	ns2.sonatel.sn.
 afi-ue.sn.		43200	IN	NS	ns105.ovh.net.
 afi-ue.sn.		43200	IN	NS	dns105.ovh.net.
 afijpro.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-afijpro.sn.		172800	IN	NS	ns6.jokko-hosting.com.
+afijpro.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 afitech.sn.		43200	IN	NS	ns1.kheweul.net.
 afitech.sn.		43200	IN	NS	ns2.kheweul.net.
 afitech.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -1130,8 +1130,8 @@ alkarama.sn.		172800	IN	NS	ns106.ovh.net.
 alkarama.sn.		172800	IN	NS	dns106.ovh.net.
 alliance-ac.sn.		43200	IN	NS	ns1.site5.com.
 alliance-ac.sn.		43200	IN	NS	ns2.site5.com.
-alliancemed-pharma.sn.	43200	IN	NS	ns5.jokko-hosting.com.
-alliancemed-pharma.sn.	43200	IN	NS	ns6.jokko-hosting.com.
+alliancemed-pharma.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+alliancemed-pharma.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 allianz.sn.		43200	IN	NS	ns1.allianz.com.
 allianz.sn.		43200	IN	NS	ns2.allianz.com.
 allianz.sn.		43200	IN	NS	ns3.allianz.de.
@@ -1256,10 +1256,6 @@ amadu.sn.		172800	IN	NS	ns5.wanekoohost.com.
 amadu.sn.		172800	IN	NS	ns6.wanekoohost.com.
 amafreightlogistics.sn.	43200	IN	NS	ns12.ovh.net.
 amafreightlogistics.sn.	43200	IN	NS	dns12.ovh.net.
-amairam.sn.		43200	IN	NS	ns5.jokko-hosting.com.
-amairam.sn.		43200	IN	NS	ns6.jokko-hosting.com.
-amairamforni.sn.	43200	IN	NS	ns1.jokko-hosting.com.
-amairamforni.sn.	43200	IN	NS	ns2.jokko-hosting.com.
 amam.sn.		43200	IN	NS	ns1.afrowebmaster.com.
 amam.sn.		43200	IN	NS	ns2.afrowebmaster.com.
 amam.sn.		43200	IN	NS	ns3.afrowebmaster.com.
@@ -2121,7 +2117,7 @@ axe.sn.			172800	IN	DS	15061 8 2 A2B6A3634F5A3360DAE685122B475FC9C7EB02123C4F3B2
 axe.sn.			172800	IN	NS	ns103.ovh.net.
 axe.sn.			172800	IN	NS	dns103.ovh.net.
 axes-cibles-com.sn.	172800	IN	NS	ns5.jokko-hosting.com.
-axes-cibles-com.sn.	172800	IN	NS	ns6.jokko-hosting.com.
+axes-cibles-com.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 axiombarom.sn.		43200	IN	NS	ns01.trademarkarea.com.
 axiombarom.sn.		43200	IN	NS	ns02.trademarkarea.com.
 axiombarom.sn.		43200	IN	NS	ns03.trademarkarea.com.
@@ -3629,9 +3625,6 @@ castel.sn.		43200	IN	NS	ns02.trademarkarea.com.
 castel.sn.		43200	IN	NS	ns03.trademarkarea.com.
 castelnightclub.sn.	172800	IN	NS	ns112.ovh.net.
 castelnightclub.sn.	172800	IN	NS	dns112.ovh.net.
-casting.sn.		43200	IN	NS	ns.jokko.pro.
-casting.sn.		43200	IN	NS	ns1.jokko.pro.
-casting.sn.		43200	IN	NS	ns2.jokko.pro.
 casumo.sn.		172800	IN	NS	dns01.dipcon.com.
 casumo.sn.		172800	IN	NS	dns02.ports.se.
 casumo.sn.		172800	IN	NS	dns03.ports.se.
@@ -4422,8 +4415,6 @@ cndea.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 cndea.sn.		172800	IN	NS	ns8.jokko-hosting.com.
 cndea-dgpre.sn.		43200	IN	NS	ns8.jajeuf.com.
 cndea-dgpre.sn.		43200	IN	NS	ns9.jajeuf.com.
-cndea-pmb.sn.		172800	IN	NS	ns5.jokko-hosting.com.
-cndea-pmb.sn.		172800	IN	NS	ns6.jokko-hosting.com.
 cndn.sn.		43200	IN	NS	pns22.cloudns.net.
 cndn.sn.		43200	IN	NS	pns23.cloudns.net.
 cndt.sn.		43200	IN	NS	sdns2.ovh.net.
@@ -4527,8 +4518,8 @@ cofisac.sn.		43200	IN	NS	ns.arc.sn.
 cofisac.sn.		43200	IN	NS	ns3.arc.sn.
 cofulef.sn.		43200	IN	NS	ns1.caurys.net.
 cofulef.sn.		43200	IN	NS	ns2.caurys.net.
-cogea.sn.		43200	IN	NS	ns5.jokko-hosting.com.
-cogea.sn.		43200	IN	NS	ns6.jokko-hosting.com.
+cogea.sn.		172800	IN	NS	ns5.jokko-hosting.com.
+cogea.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 cogep.sn.		43200	IN	NS	ns1.kheweul.net.
 cogep.sn.		43200	IN	NS	ns2.kheweul.net.
 cognebusiness.sn.	172800	IN	NS	ns1.md-45.webhostbox.net.
@@ -5082,7 +5073,7 @@ ctisn.sn.		43200	IN	NS	dns20.ovh.net.
 ctmi-uemoa.sn.		43200	IN	NS	ns.ctmi-uemoa.sn.
 ns.ctmi-uemoa.sn.	43200	IN	A	196.207.240.146
 ctsmanagement.sn.	172800	IN	NS	ns5.jokko-hosting.com.
-ctsmanagement.sn.	172800	IN	NS	ns6.jokko-hosting.com.
+ctsmanagement.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 ctu.sn.			43200	IN	NS	ns1.francedns.com.
 ctu.sn.			43200	IN	NS	ns2.francedns.com.
 ctu.sn.			43200	IN	NS	ns3.francedns.com.
@@ -5479,7 +5470,6 @@ defwar-services.sn.	172800	IN	NS	ns1.wanekoohost.com.
 defwar-services.sn.	172800	IN	NS	ns2.wanekoohost.com.
 defwar-services.sn.	172800	IN	NS	ns5.wanekoohost.com.
 defwar-services.sn.	172800	IN	NS	ns6.wanekoohost.com.
-degloul.sn.		43200	IN	NS	ns1.jokko-hosting.com.
 dekkbi.sn.		43200	IN	NS	ns1.webgoku.com.
 dekkbi.sn.		43200	IN	NS	ns2.webgoku.com.
 del.sn.			172800	IN	NS	ns1.ascio.com.
@@ -5531,8 +5521,6 @@ demdikk.sn.		43200	IN	NS	ns1.demdikk.sn.
 demdikk.sn.		43200	IN	NS	ns2.demdikk.sn.
 ns1.demdikk.sn.		172800	IN	A	162.0.208.205
 ns2.demdikk.sn.		172800	IN	A	162.0.208.217
-demfuulaneex.sn.	43200	IN	NS	ns5.jokko-hosting.com.
-demfuulaneex.sn.	43200	IN	NS	ns6.jokko-hosting.com.
 demsid.sn.		172800	IN	RRSIG	DS 13 2 172800 20220408032718 20220207031947 17389 sn. Ruz5+gjioHbCnR4yjreF78+T9Ovm4XvbKSHNlPac/PxsubvH2b2yt4qR /hlCfED60oG380zihrr+9d74F3staA==
 demsid.sn.		172800	IN	DS	22159 8 2 270361784EFA32347AFEF27519742D78BAD11D61F07CBA084C9B9AD7 5CA133FE
 demsid.sn.		43200	IN	NS	ns11.ovh.net.
@@ -5659,8 +5647,8 @@ dialconsulting.sn.	43200	IN	RRSIG	DS 13 2 43200 20220313121653 20220112114747 17
 dialconsulting.sn.	43200	IN	DS	27364 8 2 DFF124B0BD155692D9FB50EEB7B1480DE8432931F0EBEF6ADF5D9C72 FB45D848
 dialconsulting.sn.	43200	IN	NS	ns107.ovh.net.
 dialconsulting.sn.	43200	IN	NS	dns107.ovh.net.
-dialdiopsportingclub.sn. 43200	IN	NS	ns5.jokko-hosting.com.
-dialdiopsportingclub.sn. 43200	IN	NS	ns6.jokko-hosting.com.
+dialdiopsportingclub.sn. 172800	IN	NS	ns5.jokko-hosting.com.
+dialdiopsportingclub.sn. 172800	IN	NS	ns9.jokko-hosting.com.
 diallodieri.sn.		172800	IN	NS	ns.gestiondecuenta.com.
 diallodieri.sn.		172800	IN	NS	ns2.gestiondecuenta.com.
 diallodieri.sn.		172800	IN	NS	ns3.gestiondecuenta.com.
@@ -5776,8 +5764,6 @@ digicom.sn.		43200	IN	NS	ns1.kheweul.net.
 digicom.sn.		43200	IN	NS	ns2.kheweul.net.
 digicom.sn.		43200	IN	NS	ns3.kheweul.net.
 digicom.sn.		43200	IN	NS	ns4.kheweul.net.
-digilab.sn.		43200	IN	NS	ns5.jokko-hosting.com.
-digilab.sn.		43200	IN	NS	ns6.jokko-hosting.com.
 digimmo.sn.		43200	IN	NS	ns.arc.sn.
 digimmo.sn.		43200	IN	NS	ns3.arc.sn.
 digimp.sn.		172800	IN	RRSIG	DS 13 2 172800 20220329173146 20220128171032 17389 sn. c4DDkIBXCb/09sfILBR8zoKGxTbyP6C9PFWIBeE6SuBcKJ6fYRY2tdC6 qkPZzY80fTV5xltYPFBxHL4n++GXAw==
@@ -7115,8 +7101,6 @@ ert.sn.			43200	IN	NS	ns.arc.sn.
 ert.sn.			43200	IN	NS	ns3.arc.sn.
 erte.sn.		43200	IN	NS	eisdns1.expertis.sn.
 erte.sn.		43200	IN	NS	eisdns2.expertis.sn.
-ertheg.sn.		43200	IN	NS	ns5.jokko-hosting.com.
-ertheg.sn.		43200	IN	NS	ns6.jokko-hosting.com.
 erudits.sn.		43200	IN	NS	ns1.kheweul.net.
 erudits.sn.		43200	IN	NS	ns2.kheweul.net.
 erudits.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -7213,8 +7197,6 @@ ess.sn.			172800	IN	RRSIG	DS 13 2 172800 20220324051805 20220123043844 17389 sn.
 ess.sn.			172800	IN	DS	24181 8 2 D7F9B40EC352B1CA1E1F8FFFB8E1916BF468E3545A34564A20B55AA7 9080DCAA
 ess.sn.			172800	IN	NS	ns20.ovh.net.
 ess.sn.			172800	IN	NS	dns20.ovh.net.
-essencemedpharma.sn.	43200	IN	NS	ns1.jokko-hosting.com.
-essencemedpharma.sn.	43200	IN	NS	ns2.jokko-hosting.com.
 essensworld.sn.		43200	IN	NS	ns1.regzone.cz.
 essensworld.sn.		43200	IN	NS	ns1.regzone.de.
 essensworld.sn.		43200	IN	NS	ns1.regzone.info.
@@ -7774,8 +7756,8 @@ fil.sn.			43200	IN	NS	ns-1463.awsdns-54.org.
 fil.sn.			43200	IN	NS	ns-1716.awsdns-22.co.uk.
 fila.sn.		43200	IN	NS	ns3.broadwing.net.
 fila.sn.		43200	IN	NS	ns4.broadwing.net.
-filofolies.sn.		172800	IN	NS	ns100.ovh.net.
-filofolies.sn.		172800	IN	NS	dns100.ovh.net.
+filofolies.sn.		172800	IN	NS	ns15.domaincontrol.com.
+filofolies.sn.		172800	IN	NS	ns16.domaincontrol.com.
 fimf.sn.		172800	IN	NS	ns1.kheweul.net.
 fimf.sn.		172800	IN	NS	ns2.kheweul.net.
 fimf.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -8110,6 +8092,8 @@ franke.sn.		43200	IN	NS	ns1.rrpproxy.net.
 franke.sn.		43200	IN	NS	ns2.aspectra.com.
 franke.sn.		43200	IN	NS	ns2.rrpproxy.net.
 franke.sn.		43200	IN	NS	ns3.rrpproxy.net.
+franservices.sn.	172800	IN	NS	ns200.anycast.me.
+franservices.sn.	172800	IN	NS	dns200.anycast.me.
 free.sn.		43200	IN	NS	ns1.free.sn.
 free.sn.		43200	IN	NS	ns2.free.sn.
 ns1.free.sn.		43200	IN	A	154.65.34.29
@@ -20846,7 +20830,7 @@ villedepikine.sn.	43200	IN	NS	ns3.infomaniak.ch.
 villedepikine.sn.	43200	IN	NS	ns4.infomaniak.ch.
 villedepikine.sn.	43200	IN	NS	ns5.infomaniak.ch.
 villedepikine.sn.	43200	IN	NS	ns6.infomaniak.ch.
-villedesaintlouis.sn.	172800	IN	RRSIG	DS 13 2 172800 20220225134200 20220109160727 17389 sn. +PDYNCdzJePLQ4pzk2GYrDhbilvJgEusBAcKZzQc9F2vu6yvJQXeZ+m8 jLUQ90oeEfDfFde9yS+KfPhwPbVL9Q==
+villedesaintlouis.sn.	172800	IN	RRSIG	DS 13 2 172800 20220412124259 20220211124200 17389 sn. 4X8njFc2KxDuGWFtFGQazqhst1r1n9emmqQXnXCxQElrn1FBol9UjATB k+vBzBfZuvAVnwvITdS8mXMBhgGLCQ==
 villedesaintlouis.sn.	172800	IN	DS	24187 8 2 0C57BCB73CE0035622226DDA1156D2F99BF6DE926FA1E2E4B0123527 A7EEF30D
 villedesaintlouis.sn.	43200	IN	NS	ns14.ovh.net.
 villedesaintlouis.sn.	43200	IN	NS	dns14.ovh.net.
@@ -21101,8 +21085,8 @@ wantermarket.sn.	172800	IN	NS	ns5.wanekoohost.com.
 wantermarket.sn.	172800	IN	NS	ns6.wanekoohost.com.
 waouh.sn.		43200	IN	NS	eisdns1.expertis.sn.
 waouh.sn.		43200	IN	NS	eisdns2.expertis.sn.
-waph.sn.		43200	IN	NS	ns5.jokko-hosting.com.
-waph.sn.		43200	IN	NS	ns6.jokko-hosting.com.
+waph.sn.		172800	IN	NS	ns5.jokko-hosting.com.
+waph.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 wara-couture.sn.	172800	IN	NS	ns1.101domain.com.
 wara-couture.sn.	172800	IN	NS	ns2.101domain.com.
 wara-creations.sn.	172800	IN	NS	ns1.101domain.com.
@@ -22026,7 +22010,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 42UBR0M9RLBRMANI01NMURCHTO5BVQ3O.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 43RR10RUQ99IN7G0KU7KAS45GAIUCSRP NS DS RRSIG
 43RR10RUQ99IN7G0KU7KAS45GAIUCSRP.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220323030930 20220109160727 17389 sn. P4jb/VAbOI3ne6kLH1ujl8vgZkAjH4HBDRyT25SB9ggA979oY9P3je6F JoD+pp0418WMX3t3Jc6Qj2cVZ0cCeA==
 43RR10RUQ99IN7G0KU7KAS45GAIUCSRP.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 44KD9V8HK28G5D0RV390M5A41642L3C1 NS DS RRSIG
-44KD9V8HK28G5D0RV390M5A41642L3C1.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220225141636 20220109160727 17389 sn. zjCRPc3dC7/iMy3GnbWBYOwjOnCG0T+DMOV8nhY8Ir5w63s3ganyiFSt Fflh3p25pcxsKEqOucGdZ3ykx19X3w==
+44KD9V8HK28G5D0RV390M5A41642L3C1.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220412131852 20220211131636 17389 sn. W8XJ4ooPA28NmPX0Dbmwf/wFwQpKI2m6tvBFlWP2hwbrXXh3wW7yR1iE 2m9aimYU7x/6cpWtROb4yUabDTdSCw==
 44KD9V8HK28G5D0RV390M5A41642L3C1.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 451VG2TQLE8B61VNQB40TICR2DS4HS3T NS DS RRSIG
 451VG2TQLE8B61VNQB40TICR2DS4HS3T.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220307223927 20220127193002 17389 sn. ++bcXC+MAcBpTM4YoMzVgSNvUB016P6bwqrlilY7phG9XcKJq9e1jxhq E2PZ6jNc6dIxCa/ZFbuhY7TbvNu1sg==
 451VG2TQLE8B61VNQB40TICR2DS4HS3T.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 45M73F39O4DOT0Q0UQ64UVFGE8HRRQ4U NS DS RRSIG
@@ -23178,7 +23162,7 @@ N0ADNGRB76PUDI3TGCSKV8626CDUCD7H.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022032717085
 N0ADNGRB76PUDI3TGCSKV8626CDUCD7H.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 N1555CDLJIELNO5KP77R0RSIU4RJVT60 NS DS RRSIG
 N1555CDLJIELNO5KP77R0RSIU4RJVT60.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220228075404 20220109160727 17389 sn. t7cbxnCpBjXm+MB1VSmaI5iEDqOCAdSFx+hAaL5U4wwQu0I+cU7l1wnR 4NjjMxSnFTngKpfL6l4sFTpHVozeYw==
 N1555CDLJIELNO5KP77R0RSIU4RJVT60.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 N1C6BJFF5SCAU0N67OVH997HRKQL6N1A NS DS RRSIG
-N1C6BJFF5SCAU0N67OVH997HRKQL6N1A.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220225130228 20220109160727 17389 sn. CglpDxIwtfNviR8V0Y/ujTSJD8Q/fVIp/Byz5yiGWu/W+tKpYfW4nR7L fRhV2Jw2d3a9kb/h7HYSS6xARRa8kA==
+N1C6BJFF5SCAU0N67OVH997HRKQL6N1A.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220412120304 20220211120228 17389 sn. vy1AY9sqmYwFxJA3aeVF5kqSR78kwkLYIp573qb9TAC9WpU0utghi9Ob U0iWkdbUbRWKonmS8oGeqaKKUHN41g==
 N1C6BJFF5SCAU0N67OVH997HRKQL6N1A.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 N2NMI702D0GGTUN5OUE5CRRSUKDMT834 NS DS RRSIG
 N2NMI702D0GGTUN5OUE5CRRSUKDMT834.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220407033423 20220206025033 17389 sn. kGAEXkaO/MqJHNuI0/WletvdInVFfhTILwAz5r2NmscjOkbhCenm1YYJ tvg50WdVVUagMZt2m3+hRL331qLRgA==
 N2NMI702D0GGTUN5OUE5CRRSUKDMT834.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 N2RJIT4C23R7JLNH155OD2ACOCL9A67O NS DS RRSIG
