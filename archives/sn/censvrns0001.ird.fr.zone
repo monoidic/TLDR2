@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426136 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220413162002 20220212152002 17389 sn. +9fJBexhDGcvn0w0E2Xn3TbdbEavJmka6uTIn0Hsrd3G/HaD0J7wuyNo z0HAmZDCm6EuzJLtwOToKkXhmxjKUQ==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426150 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220413182003 20220212172003 17389 sn. D8EB4z1cMAry8ML3KGY41k6bYG2d1vDmRs+2uime7tB3vpkrWdTOOqo0 dElVA/JX979n2vLHoyVXngVlxXk9SQ==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [12/02/2022 17H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220308234109 20220212152002 17389 sn. VU/TxTqcnNNFBnHAf8Iun37GaV7oqMQKei3TDZRLzIWBrhxhLk5zqPli TR3E0bkoPMz8hGI/PaaB2vBvuW9+zA==
+sn.			172800	IN	TXT	"No RRs processed [12/02/2022 19H20:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220403112703 20220212172003 17389 sn. nqj/vR0ZG1YRQgE5CeTYMdn2M+KoiEy8ipYo2RP46ufrHkVEkDDB+oRg pdYEil5CzRJQyeoMmGz46culk0TRVA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -3608,8 +3608,6 @@ casinoenligne.sn.	43200	IN	NS	b2.nslite.net.
 casinoplaza.sn.		43200	IN	NS	ns1.wordpress.com.
 casinoplaza.sn.		43200	IN	NS	ns2.wordpress.com.
 casinoplaza.sn.		43200	IN	NS	ns3.wordpress.com.
-casr3pm.sn.		43200	IN	NS	ns1.kheweul.net.
-casr3pm.sn.		43200	IN	NS	ns2.kheweul.net.
 castel.sn.		43200	IN	NS	ns01.trademarkarea.com.
 castel.sn.		43200	IN	NS	ns02.trademarkarea.com.
 castel.sn.		43200	IN	NS	ns03.trademarkarea.com.
@@ -4447,8 +4445,6 @@ cnpas.sn.		43200	IN	NS	ns1.sendns.net.
 cnpas.sn.		43200	IN	NS	ns2.sendns.net.
 cnra.sn.		43200	IN	NS	ns16.ovh.net.
 cnra.sn.		43200	IN	NS	dns16.ovh.net.
-cnrabambey.sn.		43200	IN	NS	ns1.kheweul.net.
-cnrabambey.sn.		43200	IN	NS	ns2.kheweul.net.
 cnrf.sn.		43200	IN	NS	ns.gouv.sn.
 cnscl.sn.		172800	IN	NS	ns.gouv.sn.
 cnscl.sn.		172800	IN	NS	ns2.gouv.sn.
@@ -7143,10 +7139,6 @@ esmic.sn.		172800	IN	NS	ns5.jokko-hosting.com.
 esmic.sn.		172800	IN	NS	ns9.jokko-hosting.com.
 esmt.sn.		43200	IN	NS	ns3.afriregister.com.
 esmt.sn.		43200	IN	NS	ns01.afriregister.com.
-esnt.sn.		43200	IN	NS	ns1.kheweul.net.
-esnt.sn.		43200	IN	NS	ns2.kheweul.net.
-esnt.sn.		43200	IN	NS	ns3.kheweul.net.
-esnt.sn.		43200	IN	NS	ns4.kheweul.net.
 esp.sn.			43200	IN	NS	ns.ucad.sn.
 esp.sn.			43200	IN	NS	dns.ucad.sn.
 espaceassurances.sn.	43200	IN	NS	ns1.infomaniak.ch.
@@ -8532,7 +8524,7 @@ git.sn.			172800	IN	NS	student.dnspod.net.
 gito.sn.		172800	IN	NS	ns9.jajeuf.com.
 gito.sn.		172800	IN	NS	ns10.jajeuf.com.
 gito.sn.		172800	IN	DS	3022 1 1 928937BE5F6169865FB39EB1558B9315C322C335
-gito.sn.		172800	IN	RRSIG	DS 13 2 172800 20220226170553 20220109160727 17389 sn. 3mM4WrK2/jZYgaNaytcwfAK6qpJJ4PEqEadLHthHCY75dgLoA/SZ9oHo hBEXiJnh/W6j95ChG6B4BfvMEBDS9g==
+gito.sn.		172800	IN	RRSIG	DS 13 2 172800 20220413162224 20220212160553 17389 sn. nbF04cjdNXtJb0M3WY9eU2YzfqPRG3VJT0BOjn3XdbkZaNbwWRwVzfQB RDcDXLugZrJcBwcGiQi0+e00XDWwtg==
 gits.sn.		43200	IN	NS	ns1.kheweul.net.
 gits.sn.		43200	IN	NS	ns2.kheweul.net.
 gits.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -15009,10 +15001,6 @@ patrans.sn.		43200	IN	NS	dns111.ovh.net.
 patrans.sn.		172800	IN	DS	8890 8 2 C7740EFA3C2919294CDB7CF92E6F02C99631AC1C083EB5A023BFB3C4 9B91CE78
 patrimoinebati.sn.	43200	IN	NS	ns.sonatel.sn.
 patrimoinebati.sn.	43200	IN	NS	ns2.sonatel.sn.
-patriotesdusenegal.sn.	43200	IN	NS	ns1.kheweul.net.
-patriotesdusenegal.sn.	43200	IN	NS	ns2.kheweul.net.
-patriotesdusenegal.sn.	43200	IN	NS	ns3.kheweul.net.
-patriotesdusenegal.sn.	43200	IN	NS	ns4.kheweul.net.
 paume.sn.		172800	IN	NS	ns19.ovh.net.
 paume.sn.		172800	IN	NS	dns19.ovh.net.
 pawapay.sn.		172800	IN	NS	ns1.afriregister.com.
@@ -15609,8 +15597,6 @@ printexpress.sn.	172800	IN	NS	ns1.ascio.com.
 printexpress.sn.	172800	IN	NS	ns2.ascio.com.
 printexpress.sn.	172800	IN	NS	ns3.ascio.com.
 printexpress.sn.	172800	IN	NS	ns4.ascio.com.
-printsecure.sn.		43200	IN	NS	ns1.kheweul.net.
-printsecure.sn.		43200	IN	NS	ns2.kheweul.net.
 prismaindustries.sn.	172800	IN	NS	ns100.ovh.net.
 prismaindustries.sn.	172800	IN	NS	dns100.ovh.net.
 priusgroup.sn.		172800	IN	NS	ns1.kheweul.net.
@@ -16569,7 +16555,7 @@ samadesign.sn.		172800	IN	NS	ns2.kheweul.net.
 samadesign.sn.		172800	IN	NS	ns3.kheweul.net.
 samadesign.sn.		172800	IN	NS	ns4.kheweul.net.
 samadoc.sn.		43200	IN	DS	42289 8 2 9D29061D5EE2F1F0F9050D6388C2B2719485D40F0A25DA036752D5C6 7CA6DBCF
-samadoc.sn.		43200	IN	RRSIG	DS 13 2 43200 20220226162445 20220114113822 17389 sn. DPwayRVWyuOo22QFYqtyAEMwyvhU55hseBRMSjiTPSAfXdL3GHECnGDQ zRvTs0kd07v+mcqTvEcc6GYOQAsgCw==
+samadoc.sn.		43200	IN	RRSIG	DS 13 2 43200 20220413154130 20220212152445 17389 sn. gkgmFQgcLG/O4EPqXilPL3hxBBpnuy0CuqjYv05gl8m3EhwMHNvMPcgP ljFXctlW1ewOQHm7kCkz9Qx+1Yq1UQ==
 samadoc.sn.		43200	IN	NS	ns200.anycast.me.
 samadoc.sn.		43200	IN	NS	dns200.anycast.me.
 samadocteur.sn.		43200	IN	NS	ns1.digitalocean.com.
@@ -19402,10 +19388,6 @@ taxawu-etudiant.sn.	172800	IN	NS	ns4.wanekoohost.com.
 taxawu-etudiant.sn.	172800	IN	NS	ns5.wanekoohost.com.
 taxawuleen.sn.		43200	IN	NS	ns1.hostmonster.com.
 taxawuleen.sn.		43200	IN	NS	ns2.hostmonster.com.
-taxiaibd.sn.		43200	IN	NS	ns1.kheweul.net.
-taxiaibd.sn.		43200	IN	NS	ns2.kheweul.net.
-taxiaibd.sn.		43200	IN	NS	ns3.kheweul.net.
-taxiaibd.sn.		43200	IN	NS	ns4.kheweul.net.
 taxiburger.sn.		172800	IN	NS	ns16.ovh.net.
 taxiburger.sn.		172800	IN	NS	dns16.ovh.net.
 taxiburger.sn.		172800	IN	DS	34225 8 2 E72F67CBCF13EF386FA5991BF5F202EE272FA6DAF8D9172416713C88 DEE20075
