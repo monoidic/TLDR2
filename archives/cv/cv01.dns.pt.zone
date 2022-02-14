@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022021101 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022021401 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -2142,12 +2142,12 @@ jmacedo.com.cv.		28800	IN	NS	jmafor065.jmacedo.com.br.
 jmacedo.com.cv.		28800	IN	NS	jmafor066.jmacedo.com.br.
 jobs.com.cv.		28800	IN	NS	ns1.myhostdns.com.
 jobs.com.cv.		28800	IN	NS	ns2.myhostdns.com.
-jsn.com.cv.		28800	IN	NS	ns1.mydnspt.net.
-jsn.com.cv.		28800	IN	NS	ns2.mydnspt.net.
 jsn.com.cv.		28800	IN	A	130.185.80.200
 jsn.com.cv.		28800	IN	A	130.185.80.201
 jsn.com.cv.		28800	IN	A	130.185.80.210
 jsn.com.cv.		28800	IN	A	130.185.80.211
+jsn.com.cv.		28800	IN	NS	ns1.mydnspt.net.
+jsn.com.cv.		28800	IN	NS	ns2.mydnspt.net.
 kap-verde.com.cv.	28800	IN	NS	ns1.myhostdns.com.
 kap-verde.com.cv.	28800	IN	NS	ns2.myhostdns.com.
 kapverde.com.cv.	28800	IN	NS	ns1.myhostdns.com.
@@ -7064,6 +7064,10 @@ sde.cv.			28800	IN	NS	dns1.ibername.com.
 sde.cv.			28800	IN	NS	dns2.ibername.com.
 sde.cv.			28800	IN	NS	dns3.ibername.net.
 sde.cv.			28800	IN	NS	dns4.ibername.net.
+sdg.cv.			28800	IN	NS	ns1.societynext.org.
+sdg.cv.			28800	IN	NS	ns2.societynext.org.
+sdg.cv.			28800	IN	NS	ns3.societynext.org.
+sdg.cv.			28800	IN	NS	ns4.societynext.org.
 sdm.cv.			28800	IN	NS	ns1000.mochahost.com.
 sdm.cv.			28800	IN	NS	ns2000.mochahost.com.
 sdtibm.cv.		28800	IN	NS	ns59.domaincontrol.com.
@@ -7690,12 +7694,12 @@ tecnocenter.cv.		28800	IN	AAAA	2604:9a00:2100:af02:4::dc
 tecnocenter.cv.		28800	IN	AAAA	2a03:6420::abcd:ef01
 tecnocenter.cv.		28800	IN	NS	ns1.servconfig.com.
 tecnocenter.cv.		28800	IN	NS	ns2.servconfig.com.
-tecnocor.cv.		28800	IN	A	35.182.190.110
-tecnocor.cv.		28800	IN	A	52.215.11.135
-tecnocor.cv.		28800	IN	A	199.73.55.49
 tecnocor.cv.		28800	IN	NS	ns1.wtservers.com.
 tecnocor.cv.		28800	IN	NS	ns2.wtservers.com.
 tecnocor.cv.		28800	IN	NS	ns3.wtservers.com.
+tecnocor.cv.		28800	IN	A	35.182.190.110
+tecnocor.cv.		28800	IN	A	52.215.11.135
+tecnocor.cv.		28800	IN	A	199.73.55.49
 tecnoland.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 tecnoland.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 tecnoland.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
@@ -7749,17 +7753,17 @@ thebluebananagroup.cv.	28800	IN	NS	ns2.ptwebserv.net.
 thebluebananagroup.cv.	28800	IN	NS	ns3.ptwebserv.net.
 thechameleon.cv.	28800	IN	NS	ns1.dnscpanel.com.
 thechameleon.cv.	28800	IN	NS	ns2.dnscpanel.com.
-thefactory.cv.		28800	IN	A	85.17.199.26
-thefactory.cv.		28800	IN	AAAA	2001:4801:7818:6:94c2:71bb:ff10:7bc1
 thefactory.cv.		28800	IN	NS	ns1.dnscpanel.com.
 thefactory.cv.		28800	IN	NS	ns2.dnscpanel.com.
 thefactory.cv.		28800	IN	NS	ns3.dnscpanel.com.
-thetravellers.cv.	28800	IN	NS	een.dnssrv.nl.
-thetravellers.cv.	28800	IN	NS	drie.dnssrv.nl.
-thetravellers.cv.	28800	IN	NS	twee.dnssrv.nl.
+thefactory.cv.		28800	IN	A	85.17.199.26
+thefactory.cv.		28800	IN	AAAA	2001:4801:7818:6:94c2:71bb:ff10:7bc1
 thetravellers.cv.	28800	IN	AAAA	2001:67c:1bc::104
 thetravellers.cv.	28800	IN	AAAA	2001:67c:10b8::104
 thetravellers.cv.	28800	IN	AAAA	2a01:4f8:222:b03::2
+thetravellers.cv.	28800	IN	NS	een.dnssrv.nl.
+thetravellers.cv.	28800	IN	NS	drie.dnssrv.nl.
+thetravellers.cv.	28800	IN	NS	twee.dnssrv.nl.
 thisismy.cv.		28800	IN	NS	ns.inwx.de.
 thisismy.cv.		28800	IN	NS	ns2.inwx.de.
 thisismy.cv.		28800	IN	NS	ns3.inwx.eu.
@@ -8243,11 +8247,11 @@ watersolutions.cv.	28800	IN	NS	ns4.webhs.org.
 web.cv.			28800	IN	NS	ns0-vh.tagadab.com.
 web.cv.			28800	IN	NS	ns1-vh.tagadab.com.
 web.cv.			28800	IN	NS	ns2-vh.tagadab.com.
-webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
-webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webdesign.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 webdesign.cv.		28800	IN	A	5.189.191.29
 webdesign.cv.		28800	IN	A	79.143.182.242
+webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
+webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webfood.cv.		28800	IN	NS	ns1.contabo.net.
 webfood.cv.		28800	IN	NS	ns2.contabo.net.
 webfood.cv.		28800	IN	NS	ns3.contabo.net.
