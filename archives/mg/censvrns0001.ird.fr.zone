@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021404 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021406 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644811241"
+mg.			7200	IN	TXT	"Generation Time: 1644818436"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1118,6 +1118,8 @@ arw.mg.			7200	IN	NS	pdns77.ultradns.org.
 asa.mg.			7200	IN	NS	ns1.mg.tambazotra.net.
 asa.mg.			7200	IN	NS	ns2.mg.tambazotra.net.
 asa.mg.			7200	IN	NS	ns1.fr.malagasy.com.
+asagasyfilm.mg.		7200	IN	NS	ns1.cloudns.io.
+asagasyfilm.mg.		7200	IN	NS	ns2.cloudns.io.
 asako.mg.		7200	IN	NS	dns20.ovh.net.
 asako.mg.		7200	IN	NS	ns20.ovh.net.
 asataratra.mg.		7200	IN	NS	ns1.ipage.com.
@@ -1210,6 +1212,8 @@ atelierdessens.mg.	7200	IN	NS	ns1.cloudns.io.
 atelierdessens.mg.	7200	IN	NS	ns2.cloudns.io.
 ateliermecaniquemiary.mg. 7200	IN	NS	ns1.cloudns.io.
 ateliermecaniquemiary.mg. 7200	IN	NS	ns2.cloudns.io.
+atelierponos.mg.	7200	IN	NS	ns1.da.cloudns.io.
+atelierponos.mg.	7200	IN	NS	ns2.da.cloudns.io.
 atfco.mg.		7200	IN	NS	ns29.dot.mg.
 atfco.mg.		7200	IN	NS	ns29.illi.co.mg.
 ati.mg.			7200	IN	NS	ns.dts.mg.
@@ -3719,9 +3723,6 @@ fb.mg.			86400	IN	NS	b.ns.facebook.com.
 fb.mg.			86400	IN	NS	a.ns.facebook.com.
 fb.mg.			86400	IN	NS	c.ns.facebook.com.
 fb.mg.			86400	IN	NS	d.ns.facebook.com.
-fc.mg.			86400	IN	NS	ns-181-b.gandi.net.
-fc.mg.			86400	IN	NS	ns-128-c.gandi.net.
-fc.mg.			86400	IN	NS	ns-131-a.gandi.net.
 fccim.mg.		86400	IN	NS	ns.dts.mg.
 fccim.mg.		86400	IN	NS	ns1.dts.mg.
 fcra.mg.		86400	IN	NS	ns.tgn.mg.
@@ -6273,9 +6274,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -6338,8 +6339,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10253,6 +10254,8 @@ tmk.mg.			86400	IN	NS	ns.nic.mg.
 tmk.mg.			86400	IN	NS	ns.dts.mg.
 tmk.mg.			86400	IN	NS	censvrns0001.ird.fr.
 tmk.mg.			86400	IN	NS	pch.nic.mg.
+tmovie.mg.		86400	IN	NS	ns1.cloudns.io.
+tmovie.mg.		86400	IN	NS	ns2.cloudns.io.
 tmt.mg.			86400	IN	NS	dns102.ovh.net.
 tmt.mg.			86400	IN	NS	ns102.ovh.net.
 tmv.mg.			86400	IN	NS	ns.dts.mg.
@@ -10300,6 +10303,8 @@ toprent.mg.		86400	IN	NS	ns.tgn.mg.
 toprent.mg.		86400	IN	NS	ns1.tgn.mg.
 topvert.mg.		86400	IN	NS	dns11.ovh.net.
 topvert.mg.		86400	IN	NS	ns11.ovh.net.
+toroway.mg.		86400	IN	NS	ns1.cloudns.io.
+toroway.mg.		86400	IN	NS	ns2.cloudns.io.
 toshiba.mg.		86400	IN	NS	ns1.markmonitor.com.
 toshiba.mg.		86400	IN	NS	ns2.markmonitor.com.
 toshiba.mg.		86400	IN	NS	ns3.markmonitor.com.
@@ -10650,8 +10655,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -10920,6 +10925,8 @@ volamahasoa.mg.		86400	IN	NS	ns2.da.cloudns.io.
 volkswagen.mg.		86400	IN	NS	ns1.volkswagen.de.
 volkswagen.mg.		86400	IN	NS	ns5.xc-ns.de.
 volkswagen.mg.		86400	IN	NS	ns2.volkswagen.de.
+volprive.mg.		86400	IN	NS	ns1.da.cloudns.io.
+volprive.mg.		86400	IN	NS	ns2.da.cloudns.io.
 vomadeal.mg.		86400	IN	NS	ns1.da.cloudns.io.
 vomadeal.mg.		86400	IN	NS	ns2.da.cloudns.io.
 vony.mg.		86400	IN	NS	dolly.ns.cloudflare.com.
