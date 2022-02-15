@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021509 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644897638"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021513 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644904825"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -486,6 +486,8 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 3cx.ng.			3600	IN	NS	ns-cloud-b2.googledomains.com.
 3cx.ng.			3600	IN	NS	ns-cloud-b3.googledomains.com.
 3cx.ng.			3600	IN	NS	ns-cloud-b4.googledomains.com.
+3dhomes.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+3dhomes.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 3di.ng.			3600	IN	NS	ns1.nexin.it.
 3di.ng.			3600	IN	NS	ns2.nexin.it.
 3di.ng.			3600	IN	NS	ns3.nexin.it.
@@ -45720,8 +45722,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -67642,10 +67644,8 @@ tmsnews.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 tmsnews.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 tmtleds.ng.		3600	IN	NS	nsa.whogohost.com.
 tmtleds.ng.		3600	IN	NS	nsb.whogohost.com.
-tmz.ng.			3600	IN	NS	ns1.ultahost.com.
-tmz.ng.			3600	IN	NS	ns2.ultahost.com.
-tmz.ng.			3600	IN	NS	ns3.ultahost.com.
-tmz.ng.			3600	IN	NS	ns4.ultahost.com.
+tmz.ng.			3600	IN	NS	nola.ns.cloudflare.com.
+tmz.ng.			3600	IN	NS	david.ns.cloudflare.com.
 tncba-edu.ng.		3600	IN	NS	ns1.hostonacme.net.
 tncba-edu.ng.		3600	IN	NS	ns2.hostonacme.net.
 tni.ng.			3600	IN	NS	ns1.dns-parking.com.
@@ -73657,8 +73657,8 @@ workbridge.ng.		3600	IN	NS	nsa.whogohost.com.
 workbridge.ng.		3600	IN	NS	nsb.whogohost.com.
 workcafe.ng.		3600	IN	NS	ns1.giowm1311.siteground.biz.
 workcafe.ng.		3600	IN	NS	ns2.giowm1311.siteground.biz.
-workcentral.ng.		3600	IN	NS	nsa.whogohost.com.
-workcentral.ng.		3600	IN	NS	nsb.whogohost.com.
+workcentral.ng.		3600	IN	NS	liberty.ns.cloudflare.com.
+workcentral.ng.		3600	IN	NS	randall.ns.cloudflare.com.
 workchop.ng.		3600	IN	NS	ns1.stackdns.com.
 workchop.ng.		3600	IN	NS	ns2.stackdns.com.
 workchop.ng.		3600	IN	NS	ns3.stackdns.com.
