@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021506 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021508 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644904894"
+mg.			7200	IN	TXT	"Generation Time: 1644912080"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2198,6 +2198,8 @@ cci.mg.			7200	IN	NS	ns.dts.mg.
 cci.mg.			7200	IN	NS	ns1.dts.mg.
 cci-mahajanga.mg.	7200	IN	NS	ns1.cloudns.io.
 cci-mahajanga.mg.	7200	IN	NS	ns2.cloudns.io.
+ccianalanjirofo.mg.	7200	IN	NS	ns1.da.cloudns.io.
+ccianalanjirofo.mg.	7200	IN	NS	ns2.da.cloudns.io.
 ccifm.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 ccifm.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 ccifm.mg.		7200	IN	NS	ns1.fr.malagasy.com.
@@ -3896,8 +3898,6 @@ fjkm-betelatanambaov.mg. 86400	IN	NS	ns29.fjkm.mg.
 fjkm-betelatanambaov.mg. 86400	IN	NS	ns30.fjkm.mg.
 fjkm-ilanivato.mg.	86400	IN	NS	dns1.supremepanel.com.
 fjkm-ilanivato.mg.	86400	IN	NS	dns2.supremepanel.com.
-fjkm-tranovatorasalamaambohipotsy.mg. 86400 IN NS ns29.fjkm.mg.
-fjkm-tranovatorasalamaambohipotsy.mg. 86400 IN NS ns30.fjkm.mg.
 fjkmanosyavaratravaovao.mg. 86400 IN	NS	ns1.gasyweb.com.
 fjkmanosyavaratravaovao.mg. 86400 IN	NS	ns2.gasyweb.com.
 fjkmmandrosoailafy.mg.	86400	IN	NS	ns.dts.mg.
@@ -4092,21 +4092,6 @@ freseniusmedicalcare.mg. 86400	IN	NS	ns4.markmonitor.com.
 freseniusmedicalcare.mg. 86400	IN	NS	ns5.markmonitor.com.
 freseniusmedicalcare.mg. 86400	IN	NS	ns6.markmonitor.com.
 freseniusmedicalcare.mg. 86400	IN	NS	ns7.markmonitor.com.
-fresh.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
-fresh.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
-fresh.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-fresh-madagascar.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
-fresh-madagascar.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
-fresh-madagascar.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-fresh-panache.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
-fresh-panache.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
-fresh-panache.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-freshmadagascar.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
-freshmadagascar.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
-freshmadagascar.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-freshpanache.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
-freshpanache.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
-freshpanache.mg.	86400	IN	NS	ns1.fr.malagasy.com.
 frieden.mg.		86400	IN	NS	ns1.serveurgasy.com.
 frieden.mg.		86400	IN	NS	ns2.serveurgasy.com.
 fruugo.mg.		86400	IN	NS	ns1.netim.net.
@@ -5714,8 +5699,6 @@ kp.mg.			86400	IN	NS	ns20.go.kpmg.com.
 kp.mg.			86400	IN	NS	ns10.go.kpmg.com.
 kraoma.mg.		86400	IN	NS	ns.dts.mg.
 kraoma.mg.		86400	IN	NS	ns1.dts.mg.
-kraoma-sa.mg.		86400	IN	NS	ns1.servermada.com.
-kraoma-sa.mg.		86400	IN	NS	ns2.servermada.com.
 krasiv.mg.		86400	IN	NS	kia.ns.cloudflare.com.
 krasiv.mg.		86400	IN	NS	tom.ns.cloudflare.com.
 kreativity.mg.		86400	IN	NS	dns1.e-c.com.
@@ -6345,8 +6328,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7524,8 +7507,6 @@ ns-entreprise.mg.	86400	IN	NS	ns2.hostns.io.
 nsegsm.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 nsegsm.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 nsegsm.mg.		86400	IN	NS	ns1.fr.malagasy.com.
-nsentreprise.mg.	86400	IN	NS	ns1.cloudns.io.
-nsentreprise.mg.	86400	IN	NS	ns2.cloudns.io.
 nss.mg.			86400	IN	NS	ns1.mg.tambazotra.net.
 nss.mg.			86400	IN	NS	ns2.mg.tambazotra.net.
 nss.mg.			86400	IN	NS	ns1.fr.malagasy.com.
@@ -8213,6 +8194,8 @@ plae.mg.		86400	IN	NS	ns1.cloudns.io.
 plae.mg.		86400	IN	NS	ns2.cloudns.io.
 planete-france-madagascar.mg. 86400 IN	NS	ns1.serveurgasy.com.
 planete-france-madagascar.mg. 86400 IN	NS	ns2.serveurgasy.com.
+plantae.mg.		86400	IN	NS	ns1.da.cloudns.io.
+plantae.mg.		86400	IN	NS	ns2.da.cloudns.io.
 plascom.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 plascom.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 plascom.mg.		86400	IN	NS	ns1.fr.malagasy.com.
@@ -10179,12 +10162,6 @@ tgn.mg.			86400	IN	NS	ns1.dts.mg.
 thb.mg.			86400	IN	NS	ns1.mg.tambazotra.net.
 thb.mg.			86400	IN	NS	ns2.mg.tambazotra.net.
 thb.mg.			86400	IN	NS	ns1.fr.malagasy.com.
-thb-madagascar.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
-thb-madagascar.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
-thb-madagascar.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-thbmadagascar.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
-thbmadagascar.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
-thbmadagascar.mg.	86400	IN	NS	ns1.fr.malagasy.com.
 theamerican.mg.		86400	IN	NS	dns1.supremedns.com.
 theamerican.mg.		86400	IN	NS	dns2.supremedns.com.
 theamerican.mg.		86400	IN	NS	dns3.supremedns.com.
