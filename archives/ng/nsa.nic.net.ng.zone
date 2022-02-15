@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021451 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1644873220"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021501 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1644883230"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -1191,6 +1191,8 @@ above.ng.		3600	IN	NS	ns7.qservers.net.
 above.ng.		3600	IN	NS	ns8.qservers.net.
 aboveonly.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 aboveonly.ng.		3600	IN	NS	dns2.namecheaphosting.com.
+abrahamibrahim.ng.	3600	IN	NS	dns1.doveserver.com.
+abrahamibrahim.ng.	3600	IN	NS	dns2.doveserver.com.
 abri.ng.		3600	IN	NS	nsa.whogohost.com.
 abri.ng.		3600	IN	NS	nsb.whogohost.com.
 abrilada.ng.		3600	IN	NS	ns1.p15.dynect.net.
@@ -13877,10 +13879,10 @@ cloudinteractiveplatforms.ng. 3600 IN	NS	ns1.cloudinteractiveplatforms.ng.
 cloudinteractiveplatforms.ng. 3600 IN	NS	ns2.cloudinteractiveplatforms.ng.
 ns1.cloudinteractiveplatforms.ng. 3600 IN A	99.80.41.227
 ns2.cloudinteractiveplatforms.ng. 3600 IN A	99.80.41.227
-cloudkitchen.ng.	3600	IN	NS	ns1.web4africa.com.
-cloudkitchen.ng.	3600	IN	NS	ns2.web4africa.com.
-cloudkitchen.ng.	3600	IN	NS	ns3.web4africa.com.
-cloudkitchen.ng.	3600	IN	NS	ns4.web4africa.com.
+cloudkitchen.ng.	3600	IN	NS	ns-368.awsdns-46.com.
+cloudkitchen.ng.	3600	IN	NS	ns-750.awsdns-29.net.
+cloudkitchen.ng.	3600	IN	NS	ns-1345.awsdns-40.org.
+cloudkitchen.ng.	3600	IN	NS	ns-1910.awsdns-46.co.uk.
 cloudlog.ng.		3600	IN	NS	ns1.gr8impacthost.com.
 cloudlog.ng.		3600	IN	NS	ns2.gr8impacthost.com.
 cloudmall.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -31134,10 +31136,10 @@ hungary.ng.		3600	IN	NS	cp.nira.org.ng.
 hungary.ng.		3600	IN	NS	ns1.nira.org.ng.
 hungry.ng.		3600	IN	NS	nsa.whogohost.com.
 hungry.ng.		3600	IN	NS	nsb.whogohost.com.
-hungrylagosian.ng.	3600	IN	NS	ns-368.awsdns-46.com.
-hungrylagosian.ng.	3600	IN	NS	ns-750.awsdns-29.net.
-hungrylagosian.ng.	3600	IN	NS	ns-1345.awsdns-40.org.
-hungrylagosian.ng.	3600	IN	NS	ns-1910.awsdns-46.co.uk.
+hungrylagosian.ng.	3600	IN	NS	ns1.web4africa.com.
+hungrylagosian.ng.	3600	IN	NS	ns2.web4africa.com.
+hungrylagosian.ng.	3600	IN	NS	ns3.web4africa.com.
+hungrylagosian.ng.	3600	IN	NS	ns4.web4africa.com.
 hunt.ng.		3600	IN	NS	kara.ns.cloudflare.com.
 hunt.ng.		3600	IN	NS	ishaan.ns.cloudflare.com.
 hunter.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -31297,6 +31299,8 @@ hyundai.ng.		3600	IN	NS	ns1.parkingcrew.net.
 hyundai.ng.		3600	IN	NS	ns2.parkingcrew.net.
 hyve.ng.		3600	IN	NS	lady.ns.cloudflare.com.
 hyve.ng.		3600	IN	NS	george.ns.cloudflare.com.
+hyway.ng.		3600	IN	NS	nsa.whogohost.com.
+hyway.ng.		3600	IN	NS	nsb.whogohost.com.
 i.ng.			3600	IN	NS	ns1.nic.net.ng.
 i.ng.			3600	IN	NS	ns2.nic.net.ng.
 i.ng.			3600	IN	NS	ns3.nic.net.ng.
@@ -42244,6 +42248,8 @@ minet.ng.		3600	IN	NS	ns2.lexsynergy.us.
 minet.ng.		3600	IN	NS	ns3.lexsynergy.info.
 mingle.ng.		3600	IN	NS	ns1.hostsilo.com.
 mingle.ng.		3600	IN	NS	ns2.hostsilo.com.
+mingles.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+mingles.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 minglo.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 minglo.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 mings.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -61495,9 +61501,9 @@ snuggle.ng.		3600	IN	NS	dns1.p06.nsone.net.
 snuggle.ng.		3600	IN	NS	dns2.p06.nsone.net.
 snuggle.ng.		3600	IN	NS	dns3.p06.nsone.net.
 snuggle.ng.		3600	IN	NS	dns4.p06.nsone.net.
-soa.ng.			86400	IN	DS	51749 13 2 2D2074AB5FC63B049336FE07FDF793C5AF5AA3C999CEDC4F1A2A93FF 6DC5B3CE
 soa.ng.			3600	IN	NS	ns3.epik.com.
 soa.ng.			3600	IN	NS	ns4.epik.com.
+soa.ng.			86400	IN	DS	51749 13 2 2D2074AB5FC63B049336FE07FDF793C5AF5AA3C999CEDC4F1A2A93FF 6DC5B3CE
 soap.ng.		3600	IN	NS	ns1.sedoparking.com.
 soap.ng.		3600	IN	NS	ns2.sedoparking.com.
 soar.ng.		3600	IN	NS	ns1.sedoparking.com.
@@ -66586,6 +66592,8 @@ theheraldnews.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 theheraldnews.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 theheritagetimes.ng.	3600	IN	NS	nsa.whogohost.com.
 theheritagetimes.ng.	3600	IN	NS	nsb.whogohost.com.
+thehighway.ng.		3600	IN	NS	nsa.whogohost.com.
+thehighway.ng.		3600	IN	NS	nsb.whogohost.com.
 thehills.ng.		3600	IN	NS	ns7.hostnownow.com.
 thehills.ng.		3600	IN	NS	ns8.hostnownow.com.
 thehive.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -67698,8 +67706,10 @@ tmsnews.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 tmsnews.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 tmtleds.ng.		3600	IN	NS	nsa.whogohost.com.
 tmtleds.ng.		3600	IN	NS	nsb.whogohost.com.
-tmz.ng.			3600	IN	NS	cns2047.hostgator.com.
-tmz.ng.			3600	IN	NS	cns2048.hostgator.com.
+tmz.ng.			3600	IN	NS	ns1.ultahost.com.
+tmz.ng.			3600	IN	NS	ns2.ultahost.com.
+tmz.ng.			3600	IN	NS	ns3.ultahost.com.
+tmz.ng.			3600	IN	NS	ns4.ultahost.com.
 tncba-edu.ng.		3600	IN	NS	ns1.hostonacme.net.
 tncba-edu.ng.		3600	IN	NS	ns2.hostonacme.net.
 tni.ng.			3600	IN	NS	ns1.dns-parking.com.
@@ -73722,8 +73732,8 @@ workbridge.ng.		3600	IN	NS	nsa.whogohost.com.
 workbridge.ng.		3600	IN	NS	nsb.whogohost.com.
 workcafe.ng.		3600	IN	NS	ns1.giowm1311.siteground.biz.
 workcafe.ng.		3600	IN	NS	ns2.giowm1311.siteground.biz.
-workcentral.ng.		3600	IN	NS	liberty.ns.cloudflare.com.
-workcentral.ng.		3600	IN	NS	randall.ns.cloudflare.com.
+workcentral.ng.		3600	IN	NS	nsa.whogohost.com.
+workcentral.ng.		3600	IN	NS	nsb.whogohost.com.
 workchop.ng.		3600	IN	NS	ns1.stackdns.com.
 workchop.ng.		3600	IN	NS	ns2.stackdns.com.
 workchop.ng.		3600	IN	NS	ns3.stackdns.com.
