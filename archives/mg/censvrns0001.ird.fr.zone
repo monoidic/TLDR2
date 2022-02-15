@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021508 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022021510 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1644912080"
+mg.			7200	IN	TXT	"Generation Time: 1644919286"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2307,9 +2307,9 @@ chipnets.mg.		7200	IN	NS	clyde.ns.cloudflare.com.
 chipnets.mg.		7200	IN	NS	magali.ns.cloudflare.com.
 chipsmall.mg.		7200	IN	NS	dell.ns.cloudflare.com.
 chipsmall.mg.		7200	IN	NS	todd.ns.cloudflare.com.
-cho.mg.			7200	IN	NS	b.dns.gandi.net.
-cho.mg.			7200	IN	NS	c.dns.gandi.net.
-cho.mg.			7200	IN	NS	a.dns.gandi.net.
+cho.mg.			7200	IN	NS	ns-223-a.gandi.net.
+cho.mg.			7200	IN	NS	ns-98-b.gandi.net.
+cho.mg.			7200	IN	NS	ns-199-c.gandi.net.
 chocodate.mg.		7200	IN	NS	ns1.netim.net.
 chocodate.mg.		7200	IN	NS	ns2.netim.net.
 chocodate.mg.		7200	IN	NS	ns3.netim.net.
@@ -6328,8 +6328,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10638,8 +10638,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
