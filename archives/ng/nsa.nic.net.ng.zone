@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021621 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645002738"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021625 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645010036"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -304,6 +304,8 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 234news.ng.		3600	IN	NS	ns2.de11.fcomet.com.
 234parts.ng.		3600	IN	NS	nsa.whogohost.com.
 234parts.ng.		3600	IN	NS	nsb.whogohost.com.
+234property.ng.		3600	IN	NS	nsa.whogohost.com.
+234property.ng.		3600	IN	NS	nsb.whogohost.com.
 234realestate.ng.	3600	IN	NS	ns1.dknoc.com.
 234realestate.ng.	3600	IN	NS	ns2.dknoc.com.
 234register.ng.		3600	IN	NS	ns761.websitewelcome.com.
@@ -5305,8 +5307,8 @@ atoka.ng.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 atoka.ng.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 atom.ng.		3600	IN	NS	n3.hihostnow.com.ng.
 atom.ng.		3600	IN	NS	n4.hihostnow.com.ng.
-atomloans.ng.		3600	IN	NS	ns1.superappscloud.com.
-atomloans.ng.		3600	IN	NS	ns2.superappscloud.com.
+atomloans.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+atomloans.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 atomstore.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 atomstore.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 atone.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -24747,14 +24749,10 @@ flowerbudnews.ng.	3600	IN	NS	nsa.whogohost.com.
 flowerbudnews.ng.	3600	IN	NS	nsb.whogohost.com.
 flowers.ng.		3600	IN	NS	ns1.above.com.
 flowers.ng.		3600	IN	NS	ns2.above.com.
-flowers-abuja.ng.	3600	IN	NS	ns1.web4africa.com.
-flowers-abuja.ng.	3600	IN	NS	ns2.web4africa.com.
-flowers-abuja.ng.	3600	IN	NS	ns3.web4africa.com.
-flowers-abuja.ng.	3600	IN	NS	ns4.web4africa.com.
-flowers-lagos.ng.	3600	IN	NS	ns1.web4africa.com.
-flowers-lagos.ng.	3600	IN	NS	ns2.web4africa.com.
-flowers-lagos.ng.	3600	IN	NS	ns3.web4africa.com.
-flowers-lagos.ng.	3600	IN	NS	ns4.web4africa.com.
+flowers-abuja.ng.	3600	IN	NS	ns1.loopia.se.
+flowers-abuja.ng.	3600	IN	NS	ns2.loopia.se.
+flowers-lagos.ng.	3600	IN	NS	ns1.loopia.se.
+flowers-lagos.ng.	3600	IN	NS	ns2.loopia.se.
 flowersabuja.ng.	3600	IN	NS	ns1.web4africa.com.
 flowersabuja.ng.	3600	IN	NS	ns2.web4africa.com.
 flowersabuja.ng.	3600	IN	NS	ns3.web4africa.com.
@@ -27976,8 +27974,8 @@ goride.ng.		3600	IN	NS	ns2.qservers.net.
 gorilla.ng.		3600	IN	NS	ns1.gigalayer.com.
 gorilla.ng.		3600	IN	NS	ns2.gigalayer.com.
 gorilla.ng.		3600	IN	NS	ns3.gigalayer.com.
-goroo.ng.		3600	IN	NS	ns1.goroo.in.
-goroo.ng.		3600	IN	NS	ns2.goroo.in.
+goroo.ng.		3600	IN	NS	clint.ns.cloudflare.com.
+goroo.ng.		3600	IN	NS	maria.ns.cloudflare.com.
 goround.ng.		3600	IN	NS	nsa.whogohost.com.
 goround.ng.		3600	IN	NS	nsb.whogohost.com.
 gosabi.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -31713,6 +31711,8 @@ identi.ng.		3600	IN	NS	ns-1596.awsdns-07.co.uk.
 identify.ng.		3600	IN	NS	ns1.digitalocean.com.
 identify.ng.		3600	IN	NS	ns2.digitalocean.com.
 identify.ng.		3600	IN	NS	ns3.digitalocean.com.
+identikosolutions.ng.	3600	IN	NS	nsa.whogohost.com.
+identikosolutions.ng.	3600	IN	NS	nsb.whogohost.com.
 identiphy.ng.		3600	IN	NS	ns1.web4africa.com.
 identiphy.ng.		3600	IN	NS	ns2.web4africa.com.
 identiphy.ng.		3600	IN	NS	ns3.web4africa.com.
@@ -61716,6 +61716,8 @@ sohls.ng.		3600	IN	NS	nsa.whogohost.com.
 sohls.ng.		3600	IN	NS	nsb.whogohost.com.
 soho.ng.		3600	IN	NS	ns1.websguy.com.
 soho.ng.		3600	IN	NS	ns2.websguy.com.
+sohoproperties.ng.	3600	IN	NS	ns3.truehostdns.com.
+sohoproperties.ng.	3600	IN	NS	ns4.truehostdns.com.
 soigne.ng.		3600	IN	NS	ns1.gigalayer.com.
 soigne.ng.		3600	IN	NS	ns2.gigalayer.com.
 soigne.ng.		3600	IN	NS	ns3.gigalayer.com.
@@ -69275,9 +69277,9 @@ turbopay.ng.		3600	IN	NS	ns1.web4africa.com.
 turbopay.ng.		3600	IN	NS	ns2.web4africa.com.
 turbopay.ng.		3600	IN	NS	ns3.web4africa.com.
 turbopay.ng.		3600	IN	NS	ns4.web4africa.com.
-turi.ng.		86400	IN	DS	46680 13 2 C4BF7BC08B2D1B1E62956392DA033B5191DE99B9D1590287226FDB58 53AAD861
 turi.ng.		3600	IN	NS	ns3.epik.com.
 turi.ng.		3600	IN	NS	ns4.epik.com.
+turi.ng.		86400	IN	DS	46680 13 2 C4BF7BC08B2D1B1E62956392DA033B5191DE99B9D1590287226FDB58 53AAD861
 turkedin.ng.		3600	IN	NS	nsa.whogohost.com.
 turkedin.ng.		3600	IN	NS	nsb.whogohost.com.
 turkey.ng.		3600	IN	NS	cp.nira.org.ng.
@@ -71131,6 +71133,8 @@ videoresume.ng.		3600	IN	NS	nsa.whogohost.com.
 videoresume.ng.		3600	IN	NS	nsb.whogohost.com.
 videos.ng.		3600	IN	NS	ns1.hyperexpert.com.
 videos.ng.		3600	IN	NS	ns2.hyperexpert.com.
+videoslots.ng.		3600	IN	NS	ns1.uniregistrymarket.link.
+videoslots.ng.		3600	IN	NS	ns2.uniregistrymarket.link.
 videostacks.ng.		3600	IN	NS	dns1.doveserver.com.
 videostacks.ng.		3600	IN	NS	dns2.doveserver.com.
 videostore.ng.		3600	IN	NS	ns1.101domain.com.
