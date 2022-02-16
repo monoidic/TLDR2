@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426828 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426841 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220408073817 20220207071009 17389 sn. peH6IfJr1ekw+Na19MT1bogFU7ltYzay+77oFpYEuHJS5ict/KhXqmzL 4gIN2kyuRpnUVII1qdyofldzYpsWDA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220328004951 20220216132002 17389 sn. lwOoBbAmEMyWC6RSrtqNfEVZJyhx4ErzF6kDhZ1o2tP+ISN7CAqAmUNf 2vMP7nTg4gnjWbXsth5oPuAAhwYBxg==
-sn.			172800	IN	TXT	"No RRs processed [16/02/2022 15H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220324220839 20220216152003 17389 sn. 8ulI4U17rgxGkHyeI88ds9nBjbRu+LDHAQ7/WL9YYaNYR3nlFxU0aGdJ ErI9Usdueyhm0UDonHbzUpVMuesU9g==
+sn.			172800	IN	TXT	"2 RRs processed [16/02/2022 17H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220417142002 20220216132002 17389 sn. lrqHmALcbjdLvka1Mp8moSO3Pc4+Dv477od+jI+WcoI/R9OlPXBKdt8e SyM7TC7iCjXnM22yJq3O9p282/kvrQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220417162003 20220216152003 17389 sn. sUxq2auetWT+a30AyN5L6uUb2ES1ixUojcIVyhlUVuGbVEC4njuNrwc0 qKouePawKKAgluW4I/3uRekq4dhH6Q==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -11490,6 +11490,10 @@ lafacc.sn.		43200	IN	NS	ns20.ovh.net.
 lafacc.sn.		43200	IN	NS	dns20.ovh.net.
 lafactory.sn.		43200	IN	NS	pdns11.domaincontrol.com.
 lafactory.sn.		43200	IN	NS	pdns12.domaincontrol.com.
+lafirme360.sn.		172800	IN	NS	ns1.ascio.com.
+lafirme360.sn.		172800	IN	NS	ns2.ascio.com.
+lafirme360.sn.		172800	IN	NS	ns3.ascio.com.
+lafirme360.sn.		172800	IN	NS	ns4.ascio.com.
 laformationpourtous.sn.	43200	IN	NS	dns1.cscdns.net.
 laformationpourtous.sn.	43200	IN	NS	dns2.cscdns.net.
 lafraiche.sn.		172800	IN	NS	corporate.vip51.noc40.com.
@@ -15461,6 +15465,8 @@ polytrans.sn.		43200	IN	NS	dns200.anycast.me.
 polywork.sn.		172800	IN	NS	ns-338.awsdns-42.com.
 polywork.sn.		172800	IN	NS	ns-990.awsdns-59.net.
 polywork.sn.		172800	IN	NS	ns-1139.awsdns-14.org.
+pom.sn.			172800	IN	NS	ns14.ovh.net.
+pom.sn.			172800	IN	NS	dns14.ovh.net.
 pongori.sn.		43200	IN	NS	a.dns.gandi.net.
 pongori.sn.		43200	IN	NS	b.dns.gandi.net.
 pongori.sn.		43200	IN	NS	c.dns.gandi.net.
@@ -16901,10 +16907,8 @@ scsolutions.sn.		172800	IN	NS	ns3.kheweul.net.
 scsolutions.sn.		172800	IN	NS	ns4.kheweul.net.
 sct.sn.			43200	IN	NS	ns100.ovh.net.
 sct.sn.			43200	IN	NS	dns100.ovh.net.
-sctsenegal.sn.		172800	IN	NS	ns1.ascio.com.
-sctsenegal.sn.		172800	IN	NS	ns2.ascio.com.
-sctsenegal.sn.		172800	IN	NS	ns3.ascio.com.
-sctsenegal.sn.		172800	IN	NS	ns4.ascio.com.
+sctsenegal.sn.		172800	IN	NS	mx1.privateemail.com.
+sctsenegal.sn.		172800	IN	NS	mx2.privateemail.com.
 sctsn.sn.		172800	IN	NS	ns1.cp-13.webhostbox.net.
 sctsn.sn.		172800	IN	NS	ns2.cp-13.webhostbox.net.
 sde.sn.			43200	IN	NS	ns.sonatel.sn.
@@ -21922,7 +21926,7 @@ zou0784.sn.		43200	IN	NS	ns2.wanekoohost.com.
 3EV67OL5QRFONNJJCPV1RC8HREBDHG7J.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3F7USQECD4C17NNFVNKMG4GAL6NEURKR NS DS RRSIG
 3F7USQECD4C17NNFVNKMG4GAL6NEURKR.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220308125603 20220109160727 17389 sn. ILayGK9td/PMyouOjZux0T3w1XQblq4Pw22fFH0W2ImqFh9LOAZx+khM rq8bffpl/T0MJ8avLRP5ZDUxeh7urw==
 3F7USQECD4C17NNFVNKMG4GAL6NEURKR.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3HE5QEASM49M4AE0PFEKHO3GAUUN2IUV NS DS RRSIG
-3HE5QEASM49M4AE0PFEKHO3GAUUN2IUV.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220302151608 20220109160727 17389 sn. YadBxQW2Np3JwvDTdf/qKkXn3IcFpnP53CqdY/MYtxJ/2606cn5O24Dm ntUN618xFyd5RvLWmC3qwIUvBbAAmQ==
+3HE5QEASM49M4AE0PFEKHO3GAUUN2IUV.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220417150657 20220216141608 17389 sn. P3x2CgezQLd0C2GfTqt8TpQwLkRmIoxOonlnAKLyuaCVYzY7zHCW7sVa LVF52CKYACEO4wb1qXiPXSPL6rQ+tg==
 3HE5QEASM49M4AE0PFEKHO3GAUUN2IUV.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3M9B7G70L06MB7M8RTLEEDK5GUP4LS6F NS DS RRSIG
 3M9B7G70L06MB7M8RTLEEDK5GUP4LS6F.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220313145312 20220112135339 17389 sn. cVLg0LdBTia4aeBZ3swoK4H1FiNDWRoqLeyUmJZ6Jz3XTfi3aaD45z9b eeMF9aPUoBqeBv7zddGLq1L6U7bmQw==
 3M9B7G70L06MB7M8RTLEEDK5GUP4LS6F.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 3N4QQ2FNKDO0DJDCHHI7GIV8Q0OA57A9 NS DS RRSIG
