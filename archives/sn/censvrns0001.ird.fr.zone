@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426946 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220418062003 20220217052003 17389 sn. NCV7XT1NshFZnrF7EXCad8KJI7v2uHqp/i4PjuT/9Bc4sJzGAsIuk+k6 6F6QQmlbJteLCkyRQRoimoYWAXm6Qg==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222426958 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220418081002 20220217071002 17389 sn. JPuj9hIwWhX6TCO7NhGgqSolIytirGqfGnq4pa+4DR6BQHtjJIs7cINN iPRv8vINwdGYsWjJGNlcd3unfviilg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220304171340 20220109160727 17389 sn. 0Xw2m+LBbPaSUG0rfj+KTaBLfLWknD1CR9M7dtohhXKL0GgGGc2w2f/c 5CaDA71DW562h5nj3BJlN/9dGwEHgA==
-sn.			172800	IN	TXT	"No RRs processed [17/02/2022 07H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220413164757 20220217052003 17389 sn. MhJxrwrzSb6VZDSs6lRqoUpiBE2aYCcbIGWrCzrNhLcuqLMO0WPU2WVC qPKdW3apncC8SZRq9h7iZg2+nOIzHw==
+sn.			172800	IN	TXT	"6 RRs processed [17/02/2022 09H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220320173033 20220217071002 17389 sn. Bzobu8SBy+l+zfY4H9cdswf397xBNdC0/vJT3cK8QeC8qXRaKerVrAZq qIYkUdgpsgr5/77Nonip95SSUa4nxA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -372,6 +372,9 @@ acc.sn.			43200	IN	NS	ns2.101domain.com.
 acc.sn.			43200	IN	NS	ns5.101domain.com.
 acc-communication.sn.	43200	IN	NS	ns103.ovh.net.
 acc-communication.sn.	43200	IN	NS	dns103.ovh.net.
+accelleronindustries.sn. 172800	IN	NS	ns1.netim.net.
+accelleronindustries.sn. 172800	IN	NS	ns2.netim.net.
+accelleronindustries.sn. 172800	IN	NS	ns3.netim.net.
 accenture.sn.		43200	IN	NS	amrns1501.accenture.com.
 accenture.sn.		43200	IN	NS	apans3501.accenture.com.
 accenture.sn.		43200	IN	NS	emens3501.accenture.com.
@@ -3756,8 +3759,8 @@ ccs.sn.			43200	IN	NS	ns.arc.sn.
 ccs.sn.			43200	IN	NS	ns3.arc.sn.
 ccsj.sn.		43200	IN	NS	dns1.e-andorra.eu.
 ccsj.sn.		43200	IN	NS	dns2.e-andorra.eu.
-ccsn.sn.		43200	IN	NS	ns200.anycast.me.
-ccsn.sn.		43200	IN	NS	dns200.anycast.me.
+ccsn.sn.		172800	IN	NS	ns14.ovh.net.
+ccsn.sn.		172800	IN	NS	dns14.ovh.net.
 cctld.sn.		43200	IN	NS	ns.nic.sn.
 cctld.sn.		43200	IN	NS	dns.ucad.sn.
 cctld.sn.		43200	IN	NS	ns3.cctld.sn.
@@ -12881,6 +12884,8 @@ medianet.sn.		43200	IN	NS	ns20.ovh.net.
 medianet.sn.		43200	IN	NS	dns20.ovh.net.
 mediashop.sn.		43200	IN	NS	ns101.ovh.net.
 mediashop.sn.		43200	IN	NS	dns101.ovh.net.
+mediatech.sn.		172800	IN	NS	ns14.ovh.net.
+mediatech.sn.		172800	IN	NS	dns14.ovh.net.
 mediathequegfm.sn.	43200	IN	NS	ns12.ovh.net.
 mediathequegfm.sn.	43200	IN	NS	dns12.ovh.net.
 mediatime.sn.		43200	IN	NS	sdns2.ovh.net.
@@ -21149,6 +21154,8 @@ wedze.sn.		43200	IN	NS	b.dns.gandi.net.
 wedze.sn.		43200	IN	NS	c.dns.gandi.net.
 weekend.sn.		43200	IN	NS	ns1.africatichost.com.
 weekend.sn.		43200	IN	NS	ns2.africatichost.com.
+weethio.sn.		172800	IN	NS	ns14.ovh.net.
+weethio.sn.		172800	IN	NS	dns14.ovh.net.
 wefund.sn.		43200	IN	NS	ns1.kheweul.net.
 wefund.sn.		43200	IN	NS	ns2.kheweul.net.
 wefund.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -22855,7 +22862,7 @@ J5K0IAUEJHH7LHP5VDBU1EE254SGTQ16.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022032307045
 J5Q12AM8BGO8Q0LJJU0IMPM03MT0HSUF.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 J72NMPMEO12M46TO7N4RACFRR7MV6333 NS DS RRSIG
 J5Q12AM8BGO8Q0LJJU0IMPM03MT0HSUF.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220318124322 20220109160727 17389 sn. XRdZZchioY9T8rO9xhmlvnLaxNVAoCNt58BcgJUcbzwhGj4p1sJmL4tJ VBUcP0vfMiejP/hTdf5Vr6yphIse1Q==
 J72NMPMEO12M46TO7N4RACFRR7MV6333.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 J7AVS2GLE3U09S7B6IBH8FHUUJ69EB68 NS DS RRSIG
-J72NMPMEO12M46TO7N4RACFRR7MV6333.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220303073329 20220109160727 17389 sn. GG3S6Xr4Dq1LRw9QSzZxLDTaqh/8asa8sEpml7ty5cpEM9tu1bHU31IL dIz4b4OPgcqwKDboAEobFH+Vnx1yyA==
+J72NMPMEO12M46TO7N4RACFRR7MV6333.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220418064950 20220217063329 17389 sn. qUfHI4d4PWQ1PL7u9YQqbNT0eQaqEl9WvGvhq3Q7kp+73X7lHuFs6g52 p+1/4m/yuIwgyduKmvXm0oDpxnYKiQ==
 J7AVS2GLE3U09S7B6IBH8FHUUJ69EB68.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 J80DSJ98RG5KIVKK3FA2IGMB00SLTC4Q NS DS RRSIG
 J7AVS2GLE3U09S7B6IBH8FHUUJ69EB68.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220309182539 20220109160727 17389 sn. oknKKItat+e7/6TNGI2Rn5SbG9t3pKSHn5mxtCNZ9Fh/4OEs2lrodAY5 2smtAeIt/tm1OW9qZsjSoK+PkGs6dQ==
 J80DSJ98RG5KIVKK3FA2IGMB00SLTC4Q.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220325113247 20220124110533 17389 sn. Ejw6JJMQoQElf3ek/mIHVsyuXf7MF2/CjaiX3Jxv8+9ii7AjCOJmfMr7 3/4/6CCD9Oz5p2vw8IeY7cno9N/Paw==
