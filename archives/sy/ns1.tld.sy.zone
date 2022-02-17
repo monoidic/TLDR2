@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022021718 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1645084931"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022021722 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1645092137"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -680,6 +680,8 @@ aldimashqi.sy.		86400	IN	NS	suspend1.tld.sy.
 aldimashqi.sy.		86400	IN	NS	suspend2.tld.sy.
 aldowlia.sy.		86400	IN	NS	suspend1.tld.sy.
 aldowlia.sy.		86400	IN	NS	suspend2.tld.sy.
+aldrobi.sy.		86400	IN	NS	ns3.tld.sy.
+aldrobi.sy.		86400	IN	NS	ns4.tld.sy.
 aldroubigroup.sy.	86400	IN	NS	ns1.aldrtech.sy.
 aldroubigroup.sy.	86400	IN	NS	ns2.aldrtech.sy.
 aldrtech.sy.		86400	IN	NS	ns1.aldrtech.sy.
@@ -805,10 +807,8 @@ alhayat.sy.		86400	IN	NS	ns1.scs-net.sy.
 alhayat.sy.		86400	IN	NS	ns1.scs-net.org.
 alhayat.sy.		86400	IN	NS	ns2.scs-net.sy.
 alhayat.sy.		86400	IN	NS	ns2.scs-net.org.
-alhayatsyria.sy.	86400	IN	NS	ns1.alhayatsyria.sy.
-alhayatsyria.sy.	86400	IN	NS	ns2.alhayatsyria.sy.
-ns1.alhayatsyria.sy.	86400	IN	A	116.203.183.77
-ns2.alhayatsyria.sy.	86400	IN	A	116.203.183.77
+alhayatsyria.sy.	86400	IN	NS	suspend1.tld.sy.
+alhayatsyria.sy.	86400	IN	NS	suspend2.tld.sy.
 alhomsi-ind.sy.		86400	IN	NS	suspend1.tld.sy.
 alhomsi-ind.sy.		86400	IN	NS	suspend2.tld.sy.
 alhomsi-part.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -1723,8 +1723,8 @@ bel.sy.			86400	IN	NS	ns1.damashost.com.
 bel.sy.			86400	IN	NS	ns2.damashost.com.
 bel-syria.sy.		86400	IN	NS	suspend1.tld.sy.
 bel-syria.sy.		86400	IN	NS	suspend2.tld.sy.
-bellani.sy.		86400	IN	NS	ns1.nobalaa.me.
-bellani.sy.		86400	IN	NS	ns2.nobalaa.me.
+bellani.sy.		86400	IN	NS	suspend1.tld.sy.
+bellani.sy.		86400	IN	NS	suspend2.tld.sy.
 bellyful.sy.		86400	IN	NS	ns1.waveshost.sy.
 bellyful.sy.		86400	IN	NS	ns2.waveshost.sy.
 bena-properties.sy.	86400	IN	NS	hosting2.tarassul.sy.
@@ -2979,8 +2979,8 @@ foryousyria.sy.		86400	IN	NS	ns22.nocservers.com.
 foryousyria.sy.		86400	IN	NS	ns23.nocservers.com.
 foryousyrianews.sy.	86400	IN	NS	suspend1.tld.sy.
 foryousyrianews.sy.	86400	IN	NS	suspend2.tld.sy.
-fouadi.sy.		86400	IN	NS	ns1.souria.net.
-fouadi.sy.		86400	IN	NS	ns2.souria.net.
+fouadi.sy.		86400	IN	NS	suspend1.tld.sy.
+fouadi.sy.		86400	IN	NS	suspend2.tld.sy.
 fouadmt.sy.		86400	IN	NS	ns1.damashost.com.
 fouadmt.sy.		86400	IN	NS	ns2.damashost.com.
 fourseasonsdam.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3180,8 +3180,8 @@ grain.sy.		86400	IN	NS	ns1.scs-net.sy.
 grain.sy.		86400	IN	NS	ns1.scs-net.org.
 grain.sy.		86400	IN	NS	ns2.scs-net.sy.
 grain.sy.		86400	IN	NS	ns2.scs-net.org.
-grainapps.sy.		86400	IN	NS	ns3.tld.sy.
-grainapps.sy.		86400	IN	NS	ns4.tld.sy.
+grainapps.sy.		86400	IN	NS	suspend1.tld.sy.
+grainapps.sy.		86400	IN	NS	suspend2.tld.sy.
 grbc.sy.		86400	IN	NS	ns3.tld.sy.
 grbc.sy.		86400	IN	NS	ns4.tld.sy.
 gree.sy.		86400	IN	NS	ns252.ucg.ltd.
@@ -5367,8 +5367,8 @@ po.sy.			86400	IN	NS	freedns2.registrar-servers.com.
 po.sy.			86400	IN	NS	freedns3.registrar-servers.com.
 po.sy.			86400	IN	NS	freedns4.registrar-servers.com.
 po.sy.			86400	IN	NS	freedns5.registrar-servers.com.
-podcast.sy.		86400	IN	NS	ns3009.mochahost.com.
-podcast.sy.		86400	IN	NS	ns4009.mochahost.com.
+podcast.sy.		86400	IN	NS	suspend1.tld.sy.
+podcast.sy.		86400	IN	NS	suspend2.tld.sy.
 poe.sy.			86400	IN	NS	suspend1.tld.sy.
 poe.sy.			86400	IN	NS	suspend2.tld.sy.
 pohllalyaman.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -6707,8 +6707,6 @@ tagi.sy.		86400	IN	NS	ns1.tagidomains.com.
 tagi.sy.		86400	IN	NS	ns2.tagidomains.com.
 tago.sy.		86400	IN	NS	ns1.tagidomains.com.
 tago.sy.		86400	IN	NS	ns2.tagidomains.com.
-taha.sy.		86400	IN	NS	suspend1.tld.sy.
-taha.sy.		86400	IN	NS	suspend2.tld.sy.
 tahan.sy.		86400	IN	NS	suspend1.tld.sy.
 tahan.sy.		86400	IN	NS	suspend2.tld.sy.
 taher-agha.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -7107,11 +7105,8 @@ uec.sy.			86400	IN	NS	ns1.uec.sy.
 uec.sy.			86400	IN	NS	ns2.uec.sy.
 ns1.uec.sy.		86400	IN	A	82.137.231.51
 ns2.uec.sy.		86400	IN	A	82.137.231.51
-ufuq.sy.		86400	IN	NS	ns1.ucg-core.com.
-ufuq.sy.		86400	IN	NS	ns4.ucg-core.com.
-ufuq.sy.		86400	IN	NS	ns11.ucg-core.com.
-ufuq.sy.		86400	IN	NS	ns51.uae-dc.com.
-ufuq.sy.		86400	IN	NS	ns54.uae-dc.com.
+ufuq.sy.		86400	IN	NS	suspend1.tld.sy.
+ufuq.sy.		86400	IN	NS	suspend2.tld.sy.
 ugarit-pharma.sy.	86400	IN	NS	suspend1.tld.sy.
 ugarit-pharma.sy.	86400	IN	NS	suspend2.tld.sy.
 ugarite.sy.		86400	IN	NS	ns1.sawa-host.com.
