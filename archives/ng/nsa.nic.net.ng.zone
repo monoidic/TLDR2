@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021818 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645171289"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022021822 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645178492"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -385,8 +385,8 @@ ns2.1stattorneys.ng.	3600	IN	A	23.227.135.35
 24travels.ng.		3600	IN	NS	ns4.web4africa.com.
 25idx.ng.		3600	IN	NS	ns19.garanntor.net.
 25idx.ng.		3600	IN	NS	ns20.garanntor.net.
-28studios.ng.		3600	IN	NS	ns1.28bookings.com.
-28studios.ng.		3600	IN	NS	ns2.28bookings.com.
+28studios.ng.		3600	IN	NS	ns15.garanntor.net.
+28studios.ng.		3600	IN	NS	ns16.garanntor.net.
 2am.ng.			3600	IN	NS	nsa.whogohost.com.
 2am.ng.			3600	IN	NS	nsb.whogohost.com.
 2b2g.ng.		3600	IN	NS	ns1.vultr.com.
@@ -2723,6 +2723,8 @@ airfrance.ng.		3600	IN	NS	ns0.airfrance.fr.
 airfrance.ng.		3600	IN	NS	a1-101.akam.net.
 airfrance.ng.		3600	IN	NS	a20-65.akam.net.
 airfrance.ng.		3600	IN	NS	a22-66.akam.net.
+airgate.ng.		3600	IN	NS	nsa.whogohost.com.
+airgate.ng.		3600	IN	NS	nsb.whogohost.com.
 airmed.ng.		3600	IN	NS	nsa.whogohost.com.
 airmed.ng.		3600	IN	NS	nsb.whogohost.com.
 airmedia.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -8243,8 +8245,6 @@ biswal.ng.		3600	IN	NS	mns02.domaincontrol.com.
 bitbets.ng.		3600	IN	NS	ns0.registeram.com.
 bitbets.ng.		3600	IN	NS	ns1.registeram.com.
 bitbets.ng.		3600	IN	NS	ns2.registeram.com.
-bitbuy.ng.		3600	IN	NS	nsa.whogohost.com.
-bitbuy.ng.		3600	IN	NS	nsb.whogohost.com.
 bitbyte.ng.		3600	IN	NS	dns6.whogohost.com.
 bitbyte.ng.		3600	IN	NS	dns7.whogohost.com.
 bitbyte.ng.		3600	IN	NS	dns8.whogohost.com.
@@ -16837,8 +16837,8 @@ datatac.ng.		3600	IN	NS	ns41.whogohost.com.
 datatac.ng.		3600	IN	NS	ns42.whogohost.com.
 datavault.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 datavault.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-datavilla.ng.		3600	IN	NS	nsa.whogohost.com.
-datavilla.ng.		3600	IN	NS	nsb.whogohost.com.
+datavilla.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+datavilla.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 dataway.ng.		3600	IN	NS	zoe.ns.cloudflare.com.
 dataway.ng.		3600	IN	NS	mario.ns.cloudflare.com.
 dataworks.ng.		3600	IN	NS	ns1.bb-online.net.
@@ -41395,8 +41395,8 @@ megafarm.ng.		3600	IN	NS	ns1.dknoc.com.
 megafarm.ng.		3600	IN	NS	ns2.dknoc.com.
 megahost.ng.		3600	IN	NS	ns1.megahost.io.
 megahost.ng.		3600	IN	NS	ns2.megahost.io.
-megalights.ng.		3600	IN	NS	ns1.upperserver29.com.
-megalights.ng.		3600	IN	NS	ns2.upperserver29.com.
+megalights.ng.		3600	IN	NS	ns6261.hostgator.com.
+megalights.ng.		3600	IN	NS	ns6262.hostgator.com.
 megamillions.ng.	3600	IN	NS	ns1.netim.net.
 megamillions.ng.	3600	IN	NS	ns2.netim.net.
 megamillions.ng.	3600	IN	NS	ns3.netim.net.
@@ -45795,8 +45795,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -61398,6 +61398,8 @@ smokeybones.ng.		3600	IN	NS	ns1.web4africa.com.
 smokeybones.ng.		3600	IN	NS	ns2.web4africa.com.
 smokeybones.ng.		3600	IN	NS	ns3.web4africa.com.
 smokeybones.ng.		3600	IN	NS	ns4.web4africa.com.
+smokeys.ng.		3600	IN	NS	nsa.whogohost.com.
+smokeys.ng.		3600	IN	NS	nsb.whogohost.com.
 smoki.ng.		3600	IN	NS	ns1.sedoparking.com.
 smoki.ng.		3600	IN	NS	ns2.sedoparking.com.
 smollan.ng.		3600	IN	NS	ns1.lexsynergy.net.
@@ -69918,6 +69920,8 @@ unityboard.ng.		3600	IN	NS	ns1.skannet.com.ng.
 unityboard.ng.		3600	IN	NS	ns2.skannet.com.ng.
 unitycolleges.ng.	3600	IN	NS	nsa.whogohost.com.
 unitycolleges.ng.	3600	IN	NS	nsb.whogohost.com.
+unityglobalventures.ng.	3600	IN	NS	nsa.whogohost.com.
+unityglobalventures.ng.	3600	IN	NS	nsb.whogohost.com.
 unityproject.ng.	3600	IN	NS	ns1.web4africa.com.
 unityproject.ng.	3600	IN	NS	ns2.web4africa.com.
 unityproject.ng.	3600	IN	NS	ns3.web4africa.com.
