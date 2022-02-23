@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222428071 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220424162032 20220223152032 17389 sn. qAyskX/uxecU61F3QvqTOHa1AN0YYxCgBskvE+vnX+uoGNJJrMIVKMpq VSf7yPcc7crtmhVLsP0OFqYcc3G6ag==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222428084 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220424181003 20220223171003 17389 sn. Tp0uMnEcmAjuP9e1ECYmyDvCsHBsfhAPB2n4T/9YxWjzSFIx4UR/OmAV Wy5T+9sMMVAbziqJfFRVEPkLYceENw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
-sn.			172800	IN	TXT	"No RRs processed [23/02/2022 17H20:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220401065133 20220223152032 17389 sn. W5PAOlEJrVkYis61qXY9OW1tFfaJgIQpGmz9RKDfBncO6HFIc/ffC0qE O70UX5OUH3JF8gxoapihg2WBmLID0w==
+sn.			172800	IN	TXT	"No RRs processed [23/02/2022 19H10:02]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220316144054 20220223171003 17389 sn. kMD3Pu9o+fQjVbV2r+7fVWnqkjwl0SHSMDZGBWdRe5LUlNfnHdtHsFNC xioZLOE5l3TZj1JSYrmtWjlcXM0M3A==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220311214243 20220114113822 37490 sn. O3M81CH5RzPmQWICYCfTEluKNjNLQmvks/l/eNCGIycBrwnPudz2Mvja d1n3OXT9BOtyJyCOSrXo+6qKh4naXA==
@@ -7658,6 +7658,8 @@ federalexpress.sn.	172800	IN	NS	land.fedex.com.
 federalexpress.sn.	172800	IN	NS	grace.fedex.com.
 federationdubaol.sn.	43200	IN	NS	ns200.anycast.me.
 federationdubaol.sn.	43200	IN	NS	dns200.anycast.me.
+federationsenegalaisederandonneepedestres.sn. 172800 IN	NS dns1.wmaker.net.
+federationsenegalaisederandonneepedestres.sn. 172800 IN	NS dns2.wmaker.net.
 fedesa.sn.		172800	IN	NS	ns1.kheweul.net.
 fedesa.sn.		172800	IN	NS	ns2.kheweul.net.
 fedesa.sn.		172800	IN	NS	ns3.kheweul.net.
@@ -11371,6 +11373,11 @@ koparpay.sn.		43200	IN	NS	ns2.afrowebmaster.com.
 koparpay.sn.		43200	IN	NS	ns3.afrowebmaster.com.
 koparpay.sn.		43200	IN	NS	ns4.afrowebmaster.com.
 koraafrica.sn.		172800	IN	NS	hosting100.arc.sn.
+koreamotors.sn.		172800	IN	NS	ns1.wanekoohost.com.
+koreamotors.sn.		172800	IN	NS	ns2.wanekoohost.com.
+koreamotors.sn.		172800	IN	NS	ns3.wanekoohost.com.
+koreamotors.sn.		172800	IN	NS	ns5.wanekoohost.com.
+koreamotors.sn.		172800	IN	NS	ns6.wanekoohost.com.
 korok.sn.		43200	IN	NS	a.dns.gandi.net.
 korok.sn.		43200	IN	NS	b.dns.gandi.net.
 korok.sn.		43200	IN	NS	c.dns.gandi.net.
@@ -13533,7 +13540,7 @@ moura.sn.		172800	IN	NS	ns5.wanekoohost.com.
 mourchidtv.sn.		43200	IN	NS	ns113.ovh.net.
 mourchidtv.sn.		43200	IN	NS	dns113.ovh.net.
 mourchidtv.sn.		43200	IN	DS	44587 8 2 590948C304AABF8159C4F3F811284ADB9F9C83363E02E31F2077CAFF A3D76174
-mourchidtv.sn.		43200	IN	RRSIG	DS 13 2 43200 20220309174139 20220109160727 17389 sn. TDrXfOEBpN5YKlZ1GVN8NW0/K6LnGkfop3Lcu81k5Qr+erkqgN+Hh5WO qeqotrVypPhgH3T4r6NuQ0sRf8Zgig==
+mourchidtv.sn.		43200	IN	RRSIG	DS 13 2 43200 20220424170318 20220223164139 17389 sn. s5taLzsAzFeuCOvvkWTFernEeEYoVDzv/oQTS8VfGInUFZ+bz6JLwTmK 0sOZStP9eIfibMKnyi5rfuZZfxWv5g==
 moussad.sn.		43200	IN	NS	ns1.mmbaye.com.
 moussad.sn.		43200	IN	NS	ns2.mmbaye.com.
 mouvementvaleurs.sn.	172800	IN	NS	dns1.namecheaphosting.com.
@@ -15990,6 +15997,8 @@ rabobank.sn.		43200	IN	NS	a12-64.akam.net.
 rabobank.sn.		43200	IN	NS	a18-65.akam.net.
 racine.sn.		43200	IN	NS	ns.sonatel.sn.
 racine.sn.		43200	IN	NS	ns2.sonatel.sn.
+ractes.sn.		172800	IN	NS	ns4.wixdns.net.
+ractes.sn.		172800	IN	NS	ns5.wixdns.net.
 radarinfo.sn.		43200	IN	NS	ns1.kheweul.net.
 radarinfo.sn.		43200	IN	NS	ns2.kheweul.net.
 radarinfo.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -23651,7 +23660,7 @@ TIEFLA91UCT51OR0K3SIRDUGDVC6GJ91.sn. 5400 IN RRSIG NSEC3 13 2 5400 2022041801452
 TIHJGUDDSKO0IQJ2T92C3EHD692RC0MA.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220418014522 20220222031002 17389 sn. V1qixe2jr81BW9v2eYVe1OlN6jaZqTt7fIUJGVRC/eeaz5gyI7qHhLC9 M+dBnjWOiXqC1eaZ0GpxJSQ/lnaIYA==
 TIHJGUDDSKO0IQJ2T92C3EHD692RC0MA.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TIV4Q9G47UDVP2RS0LEK798A5VNMFFQ4 NS DS RRSIG
 TIV4Q9G47UDVP2RS0LEK798A5VNMFFQ4.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TJ2G53VOQJR1MSE0UNL2QDAF0EH7343N
-TIV4Q9G47UDVP2RS0LEK798A5VNMFFQ4.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220309163838 20220109160727 17389 sn. PY3cFee6v570cyE9VdqckBUOKc2MK1cbx2mpp2wAz66g17Qh4IQ5IUwQ V0+MrnTWJhSeg0ALofS9VRv+v+FZXw==
+TIV4Q9G47UDVP2RS0LEK798A5VNMFFQ4.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220424163453 20220223153838 17389 sn. iqJgAAZDXkbvq0Mepi04VDFtaBSJ8VowcP4SGVw2OsmPiQ2JEOYaSRtU CsLt8bPE6hddMiFbVQdYC3npDM/3WA==
 TJ2G53VOQJR1MSE0UNL2QDAF0EH7343N.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TOL5ANHBTBKLKON98J23E5LIMARMQ0AN NS DS RRSIG
 TJ2G53VOQJR1MSE0UNL2QDAF0EH7343N.sn. 5400 IN RRSIG NSEC3 13 2 5400 20220415074002 20220214065432 17389 sn. iwGae4GWO/d8Px5KzgW+63rmqqJ13MoJaa2YKMvG5Iikhu5aAWB9FI8y PxBXgM+NR+f0YcNCVsaLb1szpd3xeg==
 TOL5ANHBTBKLKON98J23E5LIMARMQ0AN.sn. 5400 IN NSEC3 1 1 1 8B9A19E6 TQED6JCU0K7SDFFTHKJM5IEGIL403VQQ NS DS RRSIG
