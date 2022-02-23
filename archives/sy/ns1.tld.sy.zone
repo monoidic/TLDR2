@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022318 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1645603343"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022321 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1645610533"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -204,8 +204,8 @@ sy.			86400	IN	NS	pch.anycast.tld.sy.
 93.sy.			86400	IN	NS	terin.ns.cloudflare.com.
 933.sy.			86400	IN	NS	auth1.syriatelisp.com.sy.
 933.sy.			86400	IN	NS	auth2.syriatelisp.com.sy.
-963.sy.			86400	IN	NS	ns1.damashost.com.
-963.sy.			86400	IN	NS	ns2.damashost.com.
+963.sy.			86400	IN	NS	suspend1.tld.sy.
+963.sy.			86400	IN	NS	suspend2.tld.sy.
 963m.sy.		86400	IN	NS	ns1.ucg-core.com.
 963m.sy.		86400	IN	NS	ns4.ucg-core.com.
 963m.sy.		86400	IN	NS	ns11.ucg-core.com.
@@ -309,8 +309,8 @@ ac.sy.			86400	IN	NS	ns3.tld.sy.
 ac.sy.			86400	IN	NS	ns4.tld.sy.
 acc.sy.			86400	IN	NS	suspend1.tld.sy.
 acc.sy.			86400	IN	NS	suspend2.tld.sy.
-acdivet.sy.		86400	IN	NS	ns11.inet.sy.
-acdivet.sy.		86400	IN	NS	ns12.inet.sy.
+acdivet.sy.		86400	IN	NS	suspend1.tld.sy.
+acdivet.sy.		86400	IN	NS	suspend2.tld.sy.
 acg.sy.			86400	IN	NS	tim.ns.cloudflare.com.
 acg.sy.			86400	IN	NS	kate.ns.cloudflare.com.
 aci.sy.			86400	IN	NS	robotns2.second-ns.de.
@@ -1786,10 +1786,8 @@ bibendum.sy.		86400	IN	NS	ns2.rrpproxy.net.
 bibendum.sy.		86400	IN	NS	ns3.rrpproxy.net.
 bibico.sy.		86400	IN	NS	suspend1.tld.sy.
 bibico.sy.		86400	IN	NS	suspend2.tld.sy.
-big4show.sy.		86400	IN	NS	ns1.big4show.sy.
-big4show.sy.		86400	IN	NS	ns2.big4show.sy.
-ns1.big4show.sy.	86400	IN	A	185.216.132.119
-ns2.big4show.sy.	86400	IN	A	185.216.132.119
+big4show.sy.		86400	IN	NS	suspend1.tld.sy.
+big4show.sy.		86400	IN	NS	suspend2.tld.sy.
 bigbang.sy.		86400	IN	NS	beth.ns.cloudflare.com.
 bigbang.sy.		86400	IN	NS	major.ns.cloudflare.com.
 biladi.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -2679,11 +2677,8 @@ element-14.sy.		86400	IN	NS	nsusa.comlaude.net.
 element14.sy.		86400	IN	NS	nsgbr.comlaude.co.uk.
 element14.sy.		86400	IN	NS	nssui.comlaude.ch.
 element14.sy.		86400	IN	NS	nsusa.comlaude.net.
-elias-khalaf.sy.	86400	IN	NS	ns1.ucg-core.com.
-elias-khalaf.sy.	86400	IN	NS	ns4.ucg-core.com.
-elias-khalaf.sy.	86400	IN	NS	ns11.ucg-core.com.
-elias-khalaf.sy.	86400	IN	NS	ns51.uae-dc.com.
-elias-khalaf.sy.	86400	IN	NS	ns54.uae-dc.com.
+elias-khalaf.sy.	86400	IN	NS	suspend1.tld.sy.
+elias-khalaf.sy.	86400	IN	NS	suspend2.tld.sy.
 elira.sy.		86400	IN	NS	ns3.tld.sy.
 elira.sy.		86400	IN	NS	ns4.tld.sy.
 elisyr.sy.		86400	IN	NS	ns1.lazernet.sy.
@@ -4409,10 +4404,8 @@ manhalalam.sy.		86400	IN	NS	suspend1.tld.sy.
 manhalalam.sy.		86400	IN	NS	suspend2.tld.sy.
 mansour-trade.sy.	86400	IN	NS	suspend1.tld.sy.
 mansour-trade.sy.	86400	IN	NS	suspend2.tld.sy.
-mapex.sy.		86400	IN	NS	ns1.mapex.sy.
-mapex.sy.		86400	IN	NS	ns2.mapex.sy.
-ns1.mapex.sy.		86400	IN	A	185.216.132.119
-ns2.mapex.sy.		86400	IN	A	185.216.132.119
+mapex.sy.		86400	IN	NS	suspend1.tld.sy.
+mapex.sy.		86400	IN	NS	suspend2.tld.sy.
 maq.sy.			86400	IN	NS	ns1.damashost.com.
 maq.sy.			86400	IN	NS	ns2.damashost.com.
 maranello.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -6309,8 +6302,8 @@ sourcecode-ai.sy.	86400	IN	NS	suspend1.tld.sy.
 sourcecode-ai.sy.	86400	IN	NS	suspend2.tld.sy.
 soureon.sy.		86400	IN	NS	ns1.damashost.com.
 soureon.sy.		86400	IN	NS	ns2.damashost.com.
-sourialyoum.sy.		86400	IN	NS	ns1.arabiangroup.com.
-sourialyoum.sy.		86400	IN	NS	ns2.arabiangroup.com.
+sourialyoum.sy.		86400	IN	NS	suspend1.tld.sy.
+sourialyoum.sy.		86400	IN	NS	suspend2.tld.sy.
 souryana.sy.		86400	IN	NS	suspend1.tld.sy.
 souryana.sy.		86400	IN	NS	suspend2.tld.sy.
 spark-wear.sy.		86400	IN	NS	suspend1.tld.sy.
