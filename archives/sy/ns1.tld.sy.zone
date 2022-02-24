@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022426 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1645711339"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022022429 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1645718530"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -309,8 +309,8 @@ ac.sy.			86400	IN	NS	ns3.tld.sy.
 ac.sy.			86400	IN	NS	ns4.tld.sy.
 acc.sy.			86400	IN	NS	suspend1.tld.sy.
 acc.sy.			86400	IN	NS	suspend2.tld.sy.
-acdivet.sy.		86400	IN	NS	suspend1.tld.sy.
-acdivet.sy.		86400	IN	NS	suspend2.tld.sy.
+acdivet.sy.		86400	IN	NS	ns11.inet.sy.
+acdivet.sy.		86400	IN	NS	ns12.inet.sy.
 acg.sy.			86400	IN	NS	tim.ns.cloudflare.com.
 acg.sy.			86400	IN	NS	kate.ns.cloudflare.com.
 aci.sy.			86400	IN	NS	robotns2.second-ns.de.
@@ -3322,6 +3322,11 @@ haramtransfer.sy.	86400	IN	NS	ns1.shamcenter.com.
 haramtransfer.sy.	86400	IN	NS	ns2.shamcenter.com.
 harba.sy.		86400	IN	NS	suspend1.tld.sy.
 harba.sy.		86400	IN	NS	suspend2.tld.sy.
+harbuk.sy.		86400	IN	NS	ns1.ucg-core.com.
+harbuk.sy.		86400	IN	NS	ns4.ucg-core.com.
+harbuk.sy.		86400	IN	NS	ns11.ucg-core.com.
+harbuk.sy.		86400	IN	NS	ns51.uae-dc.com.
+harbuk.sy.		86400	IN	NS	ns54.uae-dc.com.
 harirah-ghafari.sy.	86400	IN	NS	suspend1.tld.sy.
 harirah-ghafari.sy.	86400	IN	NS	suspend2.tld.sy.
 haroon-bros.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -4762,8 +4767,8 @@ ns1.monster.sy.		86400	IN	A	185.216.132.207
 ns2.monster.sy.		86400	IN	A	185.216.132.207
 monteagudoemail.sy.	86400	IN	NS	suspend1.tld.sy.
 monteagudoemail.sy.	86400	IN	NS	suspend2.tld.sy.
-moonlight.sy.		86400	IN	NS	suspend1.tld.sy.
-moonlight.sy.		86400	IN	NS	suspend2.tld.sy.
+moonlight.sy.		86400	IN	NS	ns1.shamcenter.com.
+moonlight.sy.		86400	IN	NS	ns2.shamcenter.com.
 morakada.sy.		86400	IN	NS	suspend1.tld.sy.
 morakada.sy.		86400	IN	NS	suspend2.tld.sy.
 morganmotors.sy.	86400	IN	NS	ns1.ucg-core.com.
