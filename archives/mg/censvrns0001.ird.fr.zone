@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022512 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022022514 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1645790494"
+mg.			7200	IN	TXT	"Generation Time: 1645797688"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2632,8 +2632,6 @@ couchecalin.mg.		7200	IN	NS	ns1.hostns.io.
 couchecalin.mg.		7200	IN	NS	ns2.hostns.io.
 coupdepouce-mada.mg.	7200	IN	NS	ns1.da.cloudns.io.
 coupdepouce-mada.mg.	7200	IN	NS	ns2.da.cloudns.io.
-cours-de-massage.mg.	7200	IN	NS	ns47.kreativmedia.ch.
-cours-de-massage.mg.	7200	IN	NS	ns48.kreativmedia.ch.
 coursera.mg.		7200	IN	NS	b.dns.gandi.net.
 coursera.mg.		7200	IN	NS	c.dns.gandi.net.
 coursera.mg.		7200	IN	NS	a.dns.gandi.net.
@@ -4505,6 +4503,9 @@ h3m.mg.			86400	IN	NS	ns1.onyx.cloudns.io.
 h3m.mg.			86400	IN	NS	ns2.onyx.cloudns.io.
 h6.mg.			86400	IN	NS	ns1.51dns.com.
 h6.mg.			86400	IN	NS	ns2.51dns.com.
+habakabaka.mg.		86400	IN	NS	ns1.digitalocean.com.
+habakabaka.mg.		86400	IN	NS	ns2.digitalocean.com.
+habakabaka.mg.		86400	IN	NS	ns3.digitalocean.com.
 habakae-mangazina.mg.	86400	IN	NS	ns1.serveurgasy.com.
 habakae-mangazina.mg.	86400	IN	NS	ns2.serveurgasy.com.
 habbo.mg.		86400	IN	NS	mary.ns.cloudflare.com.
@@ -6275,9 +6276,9 @@ madagascar-edu.mg.	86400	IN	NS	ns2.servermada.com.
 madagascar-instn.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 madagascar-instn.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-internet.mg.	86400	IN	NS	ns1.servermada.com.
 madagascar-internet.mg.	86400	IN	NS	ns2.servermada.com.
+madagascar-internet.mg.	86400	IN	DS	48034 8 1 21DB3A5D34078CD3DAAFBB628E3FBA1453EFAC3A
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns2.mg.tambazotra.net.
 madagascar-like-a-local.mg. 86400 IN	NS	ns1.fr.malagasy.com.
@@ -6340,8 +6341,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9754,8 +9755,9 @@ sportpesa.mg.		86400	IN	NS	ns5.101domain.com.
 sportzahnarzt.mg.	86400	IN	NS	ns.udag.de.
 sportzahnarzt.mg.	86400	IN	NS	ns.udag.net.
 sportzahnarzt.mg.	86400	IN	NS	ns.udag.org.
-spotify.mg.		86400	IN	NS	ns-1171.awsdns-18.org.
-spotify.mg.		86400	IN	NS	ns-745.awsdns-29.net.
+spotify.mg.		86400	IN	NS	hydrogen.ns.hetzner.com.
+spotify.mg.		86400	IN	NS	oxygen.ns.hetzner.com.
+spotify.mg.		86400	IN	NS	helium.ns.hetzner.de.
 spsm.mg.		86400	IN	NS	dns112.ovh.net.
 spsm.mg.		86400	IN	NS	ns112.ovh.net.
 spvision.mg.		86400	IN	NS	kip.ns.cloudflare.com.
