@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022646 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1645913614"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022022701 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1645920035"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -45845,8 +45845,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
+ns3.nic.net.ng.		3600	IN	A	196.216.168.41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -66065,6 +66065,8 @@ teraskep.ng.		3600	IN	NS	ns1.gigalayer.com.
 teraskep.ng.		3600	IN	NS	ns2.gigalayer.com.
 terastake.ng.		3600	IN	NS	ns1.upperserver29.com.
 terastake.ng.		3600	IN	NS	ns2.upperserver29.com.
+teravolt.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+teravolt.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 terawork.ng.		3600	IN	NS	ns-31.awsdns-03.com.
 terawork.ng.		3600	IN	NS	ns-634.awsdns-15.net.
 terawork.ng.		3600	IN	NS	ns-1332.awsdns-38.org.
@@ -70517,8 +70519,8 @@ valuesservicesltd.ng.	3600	IN	NS	nsa.whogohost.com.
 valuesservicesltd.ng.	3600	IN	NS	nsb.whogohost.com.
 valuestar.ng.		3600	IN	NS	ns1.softlayer.com.
 valuestar.ng.		3600	IN	NS	ns2.softlayer.com.
-valueversity.ng.	3600	IN	NS	nsa.whogohost.com.
-valueversity.ng.	3600	IN	NS	nsb.whogohost.com.
+valueversity.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+valueversity.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 valuewalk.ng.		3600	IN	NS	ns25.qservers.net.
 valuewalk.ng.		3600	IN	NS	ns26.qservers.net.
 valueworth.ng.		3600	IN	NS	nsa.whogohost.com.
