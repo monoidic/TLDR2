@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429214 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220430141002 20220301131002 17389 sn. k0VsWksnt2ZIOW7Ot8D8hqubY0isgnynHdhUy1pbMxNNwv4NBOQqUFcJ G9fwdBe5W3D2BqtX16a+hLuFOpGE6Q==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429227 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220430161002 20220301151002 17389 sn. fX2mTG2mEpx9k2XV/3UJs8akl131hBLFBieGg+sIV/zl0+YqQ9fkREPK kv7yN/E2MW0Wc0gNXdOrblky7+ZaEw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
-sn.			172800	IN	TXT	"No RRs processed [01/03/2022 15H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220319185951 20220301131002 17389 sn. VTj9AO797/IThmMpDXJVyV44l4FXSZ7Yu3qKduyB0ehGRN9vkvIL6457 REFiUggSPUx3KSsVA9b8C30aJ/e8Rw==
+sn.			172800	IN	TXT	"No RRs processed [01/03/2022 17H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220415110308 20220301151002 17389 sn. Apjsl3t+LPm8AY4BqqjvE8g8uBhFc+cePNYoiTJC1clBIjY+0B6K6SiS EUiioT0M/1JG6HeeZPrquXggrIl17g==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
@@ -886,8 +886,10 @@ agencevitamines.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 ageroute.sn.		43200	IN	NS	ns.gouv.sn.
 ageroute.sn.		43200	IN	NS	ns2.gouv.sn.
 ageroute.sn.		43200	IN	NS	ns3.gouv.sn.
-agetip.sn.		43200	IN	NS	dnspub.agetip.sn.
-dnspub.agetip.sn.	43200	IN	A	41.82.213.43
+agetip.sn.		172800	IN	NS	dnspub.agetip.sn.
+agetip.sn.		172800	IN	NS	dnspub1.agetip.sn.
+dnspub.agetip.sn.	172800	IN	A	41.82.213.43
+dnspub1.agetip.sn.	172800	IN	A	41.214.67.187
 agip.sn.		43200	IN	NS	ns1.register.it.
 agip.sn.		43200	IN	NS	ns2.register.it.
 agora-center.sn.	172800	IN	NS	pdns01.domaincontrol.com.
@@ -4884,6 +4886,8 @@ cpi.sn.			172800	IN	NS	ns200.anycast.me.
 cpi.sn.			172800	IN	NS	dns200.anycast.me.
 cpi.sn.			172800	IN	DS	12931 8 2 08601A3A015857E70583099FF2754B3ED7B46A6C895E868CF10621F5 81272B5C
 cpi.sn.			172800	IN	RRSIG	DS 13 2 172800 20220319084406 20220222094003 17389 sn. y35RkSdXQxRaPd/IGUhhxZg6Eb6zaD+j5qgW5UJuhrzr1U+kgqxlmusr OcyukZ4uskBHyaCn4rn2IyFSRkPsSA==
+cpm.sn.			172800	IN	NS	ns1.caurys.net.
+cpm.sn.			172800	IN	NS	ns2.caurys.net.
 cpossible.sn.		43200	IN	NS	ns1.dns-parking.com.
 cpossible.sn.		43200	IN	NS	ns2.dns-parking.com.
 crades.sn.		172800	IN	NS	dns1.registrar-servers.com.
@@ -11252,6 +11256,8 @@ kheweul.sn.		43200	IN	NS	ns1.kheweul.net.
 kheweul.sn.		43200	IN	NS	ns2.kheweul.net.
 kheweul.sn.		43200	IN	NS	ns3.kheweul.net.
 kheweul.sn.		43200	IN	NS	ns4.kheweul.net.
+khmc.sn.		172800	IN	NS	ns1.caurys.net.
+khmc.sn.		172800	IN	NS	ns2.caurys.net.
 khouma.sn.		172800	IN	NS	ns1.francedns.com.
 khouma.sn.		172800	IN	NS	ns2.francedns.com.
 khouma.sn.		172800	IN	NS	ns3.francedns.com.
@@ -16086,7 +16092,7 @@ rainbow.sn.		43200	IN	NS	ns4.kheweul.net.
 rakintak.sn.		43200	IN	NS	ns7.jajeuf.com.
 rakintak.sn.		43200	IN	NS	ns8.jajeuf.com.
 rakintak.sn.		43200	IN	DS	43222 1 1 4D6DF6A946B722815D08DDE473F1A7E186F70376
-rakintak.sn.		43200	IN	RRSIG	DS 13 2 43200 20220315145704 20220109160727 17389 sn. J/iGgHsYdtt9Qt4T72XmQlxNwxSGtPib8anTz6oKelt4kpnQQ56v20Vi 8q2F717gqsEFe9YC+pDux367aMiYzA==
+rakintak.sn.		43200	IN	RRSIG	DS 13 2 43200 20220430141017 20220301135704 17389 sn. QcdhRcjNmc2HNZLoDa8vQ9iIPtkaQDsdV/tBVWGJoRdF24FkybmArDzh HJA6BmSHpN53g11UulGmPFQSpGgE4A==
 raktak.sn.		43200	IN	NS	ns1.francedns.com.
 raktak.sn.		43200	IN	NS	ns2.francedns.com.
 raktak.sn.		43200	IN	NS	ns3.francedns.com.
@@ -16771,8 +16777,9 @@ samasen.sn.		172800	IN	NS	ns3.kheweul.net.
 samasen.sn.		172800	IN	NS	ns4.kheweul.net.
 samashop.sn.		43200	IN	NS	ns104.ovh.net.
 samashop.sn.		43200	IN	NS	dns104.ovh.net.
-samaweekend.sn.		172800	IN	NS	ns1.dns-parking.com.
-samaweekend.sn.		172800	IN	NS	ns2.dns-parking.com.
+samaweekend.sn.		172800	IN	NS	ns2.wixdns.net.
+samaweekend.sn.		172800	IN	NS	ns3.wixdns.net.
+samaweekend.sn.		172800	IN	NS	ns1.wixdns.net.
 samaxew.sn.		43200	IN	NS	ns1.kheweul.net.
 samaxew.sn.		43200	IN	NS	ns2.kheweul.net.
 samaxew.sn.		43200	IN	NS	ns3.kheweul.net.
@@ -17668,6 +17675,8 @@ senhebergement.sn.	43200	IN	NS	ns1.ascio.com.
 senhebergement.sn.	43200	IN	NS	ns2.ascio.com.
 senhebergement.sn.	43200	IN	NS	ns3.ascio.com.
 senhebergement.sn.	43200	IN	NS	ns4.ascio.com.
+senhmc.sn.		172800	IN	NS	ns1.caurys.net.
+senhmc.sn.		172800	IN	NS	ns2.caurys.net.
 senhorloge.sn.		43200	IN	NS	ns.sonatel.sn.
 senhorloge.sn.		43200	IN	NS	ns2.sonatel.sn.
 senhotel.sn.		43200	IN	NS	ns1.kheweul.net.
