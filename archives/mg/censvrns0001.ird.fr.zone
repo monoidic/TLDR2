@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030115 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030119 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646121646"
+mg.			7200	IN	TXT	"Generation Time: 1646128828"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -383,8 +383,8 @@ adamas.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 adamas.mg.		7200	IN	NS	ns1.fr.malagasy.com.
 adema.mg.		7200	IN	NS	ns1.giow1047.siteground.us.
 adema.mg.		7200	IN	NS	ns2.giow1047.siteground.us.
-ader.mg.		7200	IN	NS	ivy.ns.cloudflare.com.
-ader.mg.		7200	IN	NS	jake.ns.cloudflare.com.
+ader.mg.		7200	IN	NS	dns1.indritech.biz.
+ader.mg.		7200	IN	NS	dns2.indritech.biz.
 adesolaire.mg.		7200	IN	NS	ns.dts.mg.
 adesolaire.mg.		7200	IN	NS	ns1.dts.mg.
 admob.mg.		7200	IN	NS	ns1.google.com.
@@ -420,8 +420,8 @@ adwords.mg.		7200	IN	NS	ns1.google.com.
 adwords.mg.		7200	IN	NS	ns2.google.com.
 adwords.mg.		7200	IN	NS	ns3.google.com.
 adwords.mg.		7200	IN	NS	ns4.google.com.
-aec.mg.			7200	IN	NS	ns1.aser16.simafri.com.
-aec.mg.			7200	IN	NS	ns2.aser16.simafri.com.
+aec.mg.			7200	IN	NS	magdalena.ns.cloudflare.com.
+aec.mg.			7200	IN	NS	tim.ns.cloudflare.com.
 aedim.mg.		7200	IN	NS	ns1.ntmada-webhosting.com.
 aedim.mg.		7200	IN	NS	ns2.ntmada-webhosting.com.
 aefe-ien-madagascar.mg.	7200	IN	NS	ns1.da.cloudns.io.
@@ -2343,6 +2343,8 @@ cidst.mg.		7200	IN	NS	ns1.irenala.edu.mg.
 cidst.mg.		7200	IN	NS	ns2.irenala.edu.mg.
 cimelta.mg.		7200	IN	NS	ns1.servermada.com.
 cimelta.mg.		7200	IN	NS	ns2.servermada.com.
+cimelta-madagascar.mg.	7200	IN	NS	ns1.servermada.com.
+cimelta-madagascar.mg.	7200	IN	NS	ns2.servermada.com.
 cine.mg.		7200	IN	NS	ns1.evm1295.sgvps.net.
 cine.mg.		7200	IN	NS	ns2.evm1295.sgvps.net.
 cinemada.mg.		7200	IN	NS	ns1.evm1295.sgvps.net.
@@ -6330,8 +6332,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9171,8 +9173,6 @@ sediver.mg.		86400	IN	NS	ns1.eurodns.com.
 sediver.mg.		86400	IN	NS	ns2.eurodns.com.
 sediver.mg.		86400	IN	NS	ns3.eurodns.com.
 sediver.mg.		86400	IN	NS	ns4.eurodns.com.
-seemada.mg.		86400	IN	NS	ns29.illi.co.mg.
-seemada.mg.		86400	IN	NS	ns29.dot.mg.
 seemadapt.mg.		86400	IN	NS	ns29.dot.mg.
 seemadapt.mg.		86400	IN	NS	ns29.illi.co.mg.
 segb.mg.		86400	IN	NS	dns1.supremepanel.com.
@@ -9183,6 +9183,8 @@ seiffa.mg.		86400	IN	NS	ns1.gasyweb.com.
 seiffa.mg.		86400	IN	NS	ns2.gasyweb.com.
 seimad-immo.mg.		86400	IN	NS	ns.dts.mg.
 seimad-immo.mg.		86400	IN	NS	ns1.dts.mg.
+sekolinyfiadanana.mg.	86400	IN	NS	ns1.madanetinfo.mg.
+sekolinyfiadanana.mg.	86400	IN	NS	ns2.madanetinfo.mg.
 sekologistics.mg.	86400	IN	NS	ns01.servage.net.
 sekologistics.mg.	86400	IN	NS	ns02.servage.net.
 sekologistics.mg.	86400	IN	NS	ns03.servage.net.
@@ -10644,8 +10646,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
