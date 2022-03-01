@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429227 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220430161002 20220301151002 17389 sn. fX2mTG2mEpx9k2XV/3UJs8akl131hBLFBieGg+sIV/zl0+YqQ9fkREPK kv7yN/E2MW0Wc0gNXdOrblky7+ZaEw==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429241 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220430181941 20220301171941 17389 sn. RWz57dH/2uBp54l+qVAo40landO3kQ4OEVCA0/Zm4xZ9gqrehpFgr/pg iz3tfMvY5YzJP/wP/pGagppR7l9DVw==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
-sn.			172800	IN	TXT	"No RRs processed [01/03/2022 17H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220415110308 20220301151002 17389 sn. Apjsl3t+LPm8AY4BqqjvE8g8uBhFc+cePNYoiTJC1clBIjY+0B6K6SiS EUiioT0M/1JG6HeeZPrquXggrIl17g==
+sn.			172800	IN	TXT	"5 RRs processed [01/03/2022 19H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220323040401 20220301171002 17389 sn. RGldRuLpNwHogRBcL8k05/a2cSGMQ6z6/6pOk4P+usPiuWZStloXdQ5G B7IWqXm58s71IhUncLjGboIInaggeg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
@@ -8142,6 +8142,8 @@ free.sn.		43200	IN	NS	ns1.free.sn.
 free.sn.		43200	IN	NS	ns2.free.sn.
 ns1.free.sn.		43200	IN	A	154.65.34.29
 ns2.free.sn.		43200	IN	A	41.208.148.36
+free-partenaires.sn.	172800	IN	NS	ns1.servconfig.com.
+free-partenaires.sn.	172800	IN	NS	ns2.servconfig.com.
 free-senegal.sn.	43200	IN	NS	ns1.servconfig.com.
 free-senegal.sn.	43200	IN	NS	ns2.servconfig.com.
 freebusiness.sn.	43200	IN	NS	ns1.free.sn.
@@ -11166,7 +11168,7 @@ kebebyfocus.sn.		43200	IN	NS	ns4.kheweul.net.
 kebec.sn.		172800	IN	NS	ns105.ovh.net.
 kebec.sn.		172800	IN	NS	dns105.ovh.net.
 kebec.sn.		172800	IN	DS	11032 8 2 7EA447108C96B313593749BE9B5638D398D79A1B36DF8363F4A01DCD 4F211093
-kebec.sn.		172800	IN	RRSIG	DS 13 2 172800 20220315165310 20220109160727 17389 sn. Takb+gdFrNz/Ufx17XDl4pOKsvJTrPGTY0UkZ4RYRT/ZgpghxAIjbyBz V6sraWMrtZgTsST6CUxpXRtdz6wmrg==
+kebec.sn.		172800	IN	RRSIG	DS 13 2 172800 20220430162639 20220301155310 17389 sn. iZFfYIx/nQ++5K9aqSYfsxwmaloawwlEaeTOQCsOFhPTV+0GWbgte5tm mujMt/h8SGckYwD/w+AT6kOk/y/hAw==
 kebetu.sn.		43200	IN	NS	ns1.macaisse.sn.
 kebetu.sn.		43200	IN	NS	ns2.macaisse.sn.
 kedprest.sn.		43200	IN	NS	hosting201-46-105-52-222.ittrefle.net.
@@ -11826,7 +11828,7 @@ lcwaikiki.sn.		172800	IN	NS	tr.atakdomain.com.
 ld-international.sn.	43200	IN	NS	ns107.ovh.net.
 ld-international.sn.	43200	IN	NS	dns107.ovh.net.
 ld-international.sn.	43200	IN	DS	54322 8 2 66570E9F39BC971AFFEC91436CF84DD147CDE3A5B348BF1C28F5F6E6 FF53EA2D
-ld-international.sn.	43200	IN	RRSIG	DS 13 2 43200 20220315181941 20220109160727 17389 sn. iwaIwDsP0Hiy9nE0XwKatSjwGTTtt6vHyfw8OsrOkBjy95CGj2kJUbHE f//oTIVTmRXQNhTxarWDaYRQV9Pl2A==
+ld-international.sn.	43200	IN	RRSIG	DS 13 2 43200 20220430173130 20220301171941 17389 sn. RZm+hsyNtUS6FPcNdxtsUznFJjycFfOzXTt8GwXha6DjzCd3NdaoRfl9 JS8oIcoW+Ts4UVcTJJbIGSE97S32rA==
 ldb.sn.			43200	IN	NS	ns12.ovh.net.
 ldb.sn.			43200	IN	NS	dns12.ovh.net.
 ldb.sn.			43200	IN	DS	53350 8 2 4D69CF5D53DD41FECA3ACE278B7371CF289F96CC1CC868D50146DF5E 9A92543F
@@ -20191,6 +20193,11 @@ toubasolarrama.sn.	172800	IN	NS	ns2.wanekoohost.com.
 toubasolarrama.sn.	172800	IN	NS	ns4.wanekoohost.com.
 toubatv.sn.		172800	IN	NS	ns9.jajeuf.com.
 toubatv.sn.		172800	IN	NS	ns10.jajeuf.com.
+toubazig.sn.		172800	IN	NS	ns1.wanekoohost.com.
+toubazig.sn.		172800	IN	NS	ns2.wanekoohost.com.
+toubazig.sn.		172800	IN	NS	ns3.wanekoohost.com.
+toubazig.sn.		172800	IN	NS	ns5.wanekoohost.com.
+toubazig.sn.		172800	IN	NS	ns6.wanekoohost.com.
 touchsolutions.sn.	43200	IN	NS	ns105.ovh.net.
 touchsolutions.sn.	43200	IN	NS	dns105.ovh.net.
 toukki.sn.		43200	IN	NS	ns110.ovh.net.
