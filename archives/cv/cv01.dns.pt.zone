@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022030101 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022030301 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -510,12 +510,9 @@ arquipelagodigital.cv.	28800	IN	NS	ns1.arquipelagodigital.cv.
 arquipelagodigital.cv.	28800	IN	NS	ns2.arquipelagodigital.cv.
 ns1.arquipelagodigital.cv. 28800 IN	A	186.202.190.61
 ns2.arquipelagodigital.cv. 28800 IN	A	186.202.190.62
-arquivonacional.cv.	28800	IN	AAAA	2a02:c200:0:10::891:1
-arquivonacional.cv.	28800	IN	A	5.189.191.29
-arquivonacional.cv.	28800	IN	A	79.143.182.242
-arquivonacional.cv.	28800	IN	NS	ns1.contabo.net.
-arquivonacional.cv.	28800	IN	NS	ns2.contabo.net.
-arquivonacional.cv.	28800	IN	NS	ns3.contabo.net.
+arquivonacional.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
+arquivonacional.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
+arquivonacional.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 artconstroi.cv.		28800	IN	NS	ns1.hostinger.com.br.
 artconstroi.cv.		28800	IN	NS	ns2.hostinger.com.br.
 artconstroi.cv.		28800	IN	NS	ns3.hostinger.com.br.
@@ -542,6 +539,8 @@ asdenova.cv.		28800	IN	NS	ns1.asdenova.cv.
 asdenova.cv.		28800	IN	NS	ns2.asdenova.cv.
 ns1.asdenova.cv.	28800	IN	A	51.38.180.174
 ns2.asdenova.cv.	28800	IN	A	54.36.162.9
+asemana.cv.		28800	IN	NS	ns1.dns-parking.com.
+asemana.cv.		28800	IN	NS	ns2.dns-parking.com.
 asi.cv.			28800	IN	NS	ns1.mydnspt.net.
 asi.cv.			28800	IN	NS	ns2.mydnspt.net.
 asi.cv.			28800	IN	NS	ns7.mydnspt.net.
@@ -4468,11 +4467,11 @@ igf.cv.			28800	IN	NS	ns1.igf.cv.
 igf.cv.			28800	IN	NS	ns2.igf.cv.
 ns1.igf.cv.		28800	IN	A	41.221.192.219
 ns2.igf.cv.		28800	IN	A	41.221.192.221
-igj.cv.			28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 igj.cv.			28800	IN	NS	ns1.wtservers.com.
 igj.cv.			28800	IN	NS	ns2.wtservers.com.
 igj.cv.			28800	IN	NS	ns3.wtservers.com.
 igj.cv.			28800	IN	A	45.154.66.253
+igj.cv.			28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 igoogle.cv.		28800	IN	NS	ns1.google.com.
 igoogle.cv.		28800	IN	NS	ns2.google.com.
 igoogle.cv.		28800	IN	NS	ns3.google.com.
@@ -5051,13 +5050,13 @@ leseb.cv.		28800	IN	NS	ns7.mydnspt.net.
 leseb.cv.		28800	IN	NS	ns8.mydnspt.net.
 levom.cv.		28800	IN	NS	ns01.spotnet.cv.
 levom.cv.		28800	IN	NS	ns02.spotnet.cv.
-lifesmart.cv.		28800	IN	A	50.23.197.94
-lifesmart.cv.		28800	IN	A	70.39.97.253
 lifesmart.cv.		28800	IN	NS	ns1.afraid.org.
 lifesmart.cv.		28800	IN	NS	ns2.afraid.org.
 lifesmart.cv.		28800	IN	NS	ns3.afraid.org.
 lifesmart.cv.		28800	IN	NS	ns4.afraid.org.
 lifesmart.cv.		28800	IN	AAAA	2607:f0d0:3001:92::2
+lifesmart.cv.		28800	IN	A	50.23.197.94
+lifesmart.cv.		28800	IN	A	70.39.97.253
 lifetech.cv.		28800	IN	NS	ns1.p200.hocnet.pt.
 lifetech.cv.		28800	IN	NS	dns1.hocnet.com.
 liftech.cv.		28800	IN	NS	ns.netgocioserver3.com.
@@ -5639,10 +5638,10 @@ museus.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 museus.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
 music.cv.		28800	IN	NS	xvm50648.vps.cloud.tagadab.com.
 mail.music.cv.		28800	IN	A	95.172.8.58
-muska.cv.		28800	IN	A	66.96.142.162
-muska.cv.		28800	IN	A	66.96.142.163
 muska.cv.		28800	IN	NS	ns1.ipage.com.
 muska.cv.		28800	IN	NS	ns2.ipage.com.
+muska.cv.		28800	IN	A	66.96.142.162
+muska.cv.		28800	IN	A	66.96.142.163
 mvr.cv.			28800	IN	NS	ns01.spotnet.cv.
 mvr.cv.			28800	IN	NS	ns02.spotnet.cv.
 my.cv.			28800	IN	NS	fritz.miauw.com.
