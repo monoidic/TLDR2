@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429521 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220502061512 20220303051512 17389 sn. 8ueXR634VxXN3n0d+LO1t4sKwXqInbgtK3F56Ki+WX2RTqezUBjswdf6 nbpz1fPj/EuoUJ4LA1OoiwTFioIE6w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429534 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220502082002 20220303072002 17389 sn. uWCekMhOMZwoB+fNiTM3QjSFKhjs3D8CX3K8ZCZ1IIFrf8e0pkuRIdp4 8SNgRcBILM/xsN51pMnx29xfyzrMyA==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
-sn.			172800	IN	TXT	"No RRs processed [03/03/2022 07H10:01]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220329221709 20220303051003 17389 sn. l1S53tk0Da+A9HUwZXcNxILKzdUijhUpS5BmKVBQrxsxlv2I6oRycxzb wEwkUSgEKmHUPgiK+SSFHqjr3S0VGQ==
+sn.			172800	IN	TXT	"No RRs processed [03/03/2022 09H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220429125357 20220303072002 17389 sn. ygko9OkJgwfViV+HV5pFh7SwB3J7vHP544b70ODWys2Veou/BVJekBRk mxB/+KiodANIN0nAHcRc1W85PmjnXA==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
@@ -12546,6 +12546,8 @@ magicbox.sn.		172800	IN	NS	ns.nscluster.dk.
 magicbox.sn.		172800	IN	NS	ns.nscluster.pw.
 magiline.sn.		43200	IN	NS	ns18.ovh.net.
 magiline.sn.		43200	IN	NS	dns18.ovh.net.
+magnus.sn.		172800	IN	NS	ns102.ovh.net.
+magnus.sn.		172800	IN	NS	dns102.ovh.net.
 magp.sn.		43200	IN	NS	ns1.kheweul.net.
 magp.sn.		43200	IN	NS	ns2.kheweul.net.
 magp.sn.		43200	IN	NS	ns3.kheweul.net.
