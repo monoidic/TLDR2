@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429693 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429707 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220408073817 20220207071009 17389 sn. peH6IfJr1ekw+Na19MT1bogFU7ltYzay+77oFpYEuHJS5ict/KhXqmzL 4gIN2kyuRpnUVII1qdyofldzYpsWDA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220430061047 20220304051002 17389 sn. beqTskMBjpzHPN+T+M1peiOBb0NRWtd6Y6L7fxWHTBVczUlEDKP1Hpzk Zv5YGZ+Oy+Vezpc76eFFXqq2m7708A==
-sn.			172800	IN	TXT	"No RRs processed [04/03/2022 07H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220501134548 20220304072003 17389 sn. eBNcwCftITo4ibnuS5TbPojaZW2ZRufUATDlhOIEptkGjwIDwWRfeUt7 3IzqyUzab8BaC/nCjT5Lm1jUC1QrZw==
+sn.			172800	IN	TXT	"No RRs processed [04/03/2022 09H20:02]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220503061002 20220304051002 17389 sn. z1qhpUyRinDy7qX6EKFc7GV1VorsoHMKIZwX4pajWaP6HweBmX/5R7lQ H78mtCSpjHVp/51FnxvgikpHwixMIw==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220503082003 20220304072003 17389 sn. 4FQ83Qi1HgsqupiJqUYP2anx65MsjS4Y7jTT0LmsDFGBQCm1ohpN4xnw LwNk2P8WEvFu6ZC7Ofb9jui7dyzGfQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -7572,6 +7572,9 @@ falldistributions.sn.	172800	IN	NS	ns11.infomaniak.ch.
 falldistributions.sn.	172800	IN	NS	ns12.infomaniak.ch.
 famy.sn.		43200	IN	NS	ns104.ovh.net.
 famy.sn.		43200	IN	NS	dns104.ovh.net.
+faninfos.sn.		172800	IN	NS	ns1.netim.net.
+faninfos.sn.		172800	IN	NS	ns2.netim.net.
+faninfos.sn.		172800	IN	NS	ns3.netim.net.
 fanta.sn.		43200	IN	NS	ns1-09.azure-dns.com.
 fanta.sn.		43200	IN	NS	ns2-09.azure-dns.net.
 fanta.sn.		43200	IN	NS	ns3-09.azure-dns.org.
@@ -9066,6 +9069,9 @@ gsk.sn.			43200	IN	NS	ns.domainnetwork.se.
 gsk.sn.			43200	IN	NS	ns2.domainnetwork.se.
 gsklaw.sn.		43200	IN	NS	ns1.africatichost.com.
 gsklaw.sn.		43200	IN	NS	ns2.africatichost.com.
+gsm.sn.			172800	IN	NS	ns1.netim.net.
+gsm.sn.			172800	IN	NS	ns2.netim.net.
+gsm.sn.			172800	IN	NS	ns3.netim.net.
 gsmsenegal.sn.		43200	IN	NS	ns1.infomaniak.ch.
 gsmsenegal.sn.		43200	IN	NS	ns2.infomaniak.ch.
 gso-senegal.sn.		172800	IN	NS	ns1.caurys.net.
@@ -11906,8 +11912,6 @@ ledengroup.sn.		172800	IN	NS	ns1.kheweul.net.
 ledengroup.sn.		172800	IN	NS	ns2.kheweul.net.
 ledengroup.sn.		172800	IN	NS	ns3.kheweul.net.
 ledengroup.sn.		172800	IN	NS	ns4.kheweul.net.
-lediamantnoir.sn.	43200	IN	NS	cpanel17.lws-hosting.com.
-lediamantnoir.sn.	43200	IN	NS	cpanel18.lws-hosting.com.
 leerukocc.sn.		172800	IN	NS	ns1.ascio.com.
 leerukocc.sn.		172800	IN	NS	ns2.ascio.com.
 leerukocc.sn.		172800	IN	NS	ns3.ascio.com.
@@ -12141,8 +12145,6 @@ lias.sn.		172800	IN	NS	ns2.digitalocean.com.
 lias.sn.		172800	IN	NS	ns3.digitalocean.com.
 lias.sn.		172800	IN	NS	ns4.digitalocean.com.
 lias.sn.		172800	IN	NS	ns5.digitalocean.com.
-liberation.sn.		43200	IN	NS	ns1.sendns.net.
-liberation.sn.		43200	IN	NS	ns2.sendns.net.
 libidor.sn.		172800	IN	RRSIG	DS 13 2 172800 20220411151943 20220210151852 17389 sn. A3nhqX3Ns9SoAFnZv7TSczww5c+2tromhQLkTk3D41qqFYkCPHreHfdd lhub8iQqSx4h/cjq5+VV/XwOT/WlTA==
 libidor.sn.		172800	IN	DS	22171 8 2 F7E442FEF1B3EF7FE3788702C75FBF3AFC6A9EDD3A31F38C4F43FA40 9646121E
 libidor.sn.		172800	IN	NS	ns200.anycast.me.
@@ -20981,7 +20983,7 @@ vikapafrika.sn.		172800	IN	NS	pdns13.domaincontrol.com.
 vikapafrika.sn.		172800	IN	NS	pdns14.domaincontrol.com.
 villagedebandia.sn.	43200	IN	NS	ns108.ovh.net.
 villagedebandia.sn.	43200	IN	NS	dns108.ovh.net.
-villagedebandia.sn.	43200	IN	RRSIG	DS 13 2 43200 20220318081253 20220117075510 17389 sn. r6zo3rnXiHXUTj2EMzMaty48d38GHWW+8KGdbHZW3VygUbF54f9ehXwz CcyYdxlRDjLuSXtVXboW2Bs0Kg1M7g==
+villagedebandia.sn.	43200	IN	RRSIG	DS 13 2 43200 20220503073644 20220304071253 17389 sn. DNQ4MZ7/cXT2PN6RjjR49vtTClLg4bEiFjjnUk9HAKXEhfuANVUQM0WV 212QPp//ycsYmdum3gS/SVJVQHJVyw==
 villagedebandia.sn.	43200	IN	DS	22120 8 2 F638635D015060DC872A64C6644F0B5FFC732FB8BFAF041DD402D132 D8669482
 villaon.sn.		172800	IN	NS	ns1.101domain.com.
 villaon.sn.		172800	IN	NS	ns2.101domain.com.
