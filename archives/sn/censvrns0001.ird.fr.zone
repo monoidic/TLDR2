@@ -1,18 +1,18 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429758 3600 1800 3600000 5400
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222429771 3600 1800 3600000 5400
 sn.			0	IN	RRSIG	NSEC3PARAM 13 1 0 20220408073817 20220207071009 17389 sn. peH6IfJr1ekw+Na19MT1bogFU7ltYzay+77oFpYEuHJS5ict/KhXqmzL 4gIN2kyuRpnUVII1qdyofldzYpsWDA==
 sn.			0	IN	NSEC3PARAM 1 0 1 8B9A19E6
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220427034827 20220304132002 17389 sn. NFW2E/00iOrc7cMD4rNnxR0ugMCYALlckzIZtBSu6uGmwHNwRlH71NIL C0piVvkehm+RkFIDdrtO72XhSsjU9A==
-sn.			172800	IN	TXT	"No RRs processed [04/03/2022 15H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220408081104 20220304152002 17389 sn. Y3PdraDgD1L5dZH/OT8ufZJYQu0r2vvjmupsrcPwGRU1+j0qSipVAw6B snLPRgRdZ4LOgLGebNQtOv6dhtalyg==
+sn.			172800	IN	TXT	"No RRs processed [04/03/2022 17H20:01]"
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220503142002 20220304132002 17389 sn. VDLB0VVTsWo9pewHN6R9TkjEMcNm86pOoClCPL2HL3Xi3HQkUECGk9nF l+9mT3vsocV2VkjwXly/tuBp7ynJfQ==
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220503162002 20220304152002 17389 sn. qCibwn1L0McmevXmue4rnQHNHEa2hKstiGs6rWlgYXVUeucSfJU/RsQW Y6qpSGtJ3g2CgfAz8rqEpsYaJXSERQ==
 002.sn.			43200	IN	NS	ns1.francedns.com.
 002.sn.			43200	IN	NS	ns2.francedns.com.
 002.sn.			43200	IN	NS	ns3.francedns.com.
@@ -14289,6 +14289,11 @@ novartis.sn.		172800	IN	NS	a24-65.akam.net.
 novartis.sn.		172800	IN	NS	a28-67.akam.net.
 novelty.sn.		172800	IN	NS	ns1.gnldm1085.siteground.biz.
 novelty.sn.		172800	IN	NS	ns2.gnldm1085.siteground.biz.
+novoplanet.sn.		172800	IN	NS	ns.nscluster.eu.
+novoplanet.sn.		172800	IN	NS	ns.nscluster.hu.
+novoplanet.sn.		172800	IN	NS	ns.nscluster.it.
+novoplanet.sn.		172800	IN	NS	ns.nscluster.uk.
+novoplanet.sn.		172800	IN	NS	ns.nscluster.us.
 novus.sn.		43200	IN	NS	dns1.cscdns.net.
 novus.sn.		43200	IN	NS	dns2.cscdns.net.
 nowunited.sn.		43200	IN	NS	dns1.idp365.net.
@@ -18292,6 +18297,8 @@ ns1.simus.sn.		43200	IN	A	41.208.152.139
 ns2.simus.sn.		43200	IN	A	41.208.153.133
 sina.sn.		43200	IN	NS	sdns2.ovh.net.
 sina.sn.		43200	IN	NS	ns309487.ovh.net.
+sinac.sn.		172800	IN	NS	ns2.francedns.com.
+sinac.sn.		172800	IN	NS	cloudf03.francedns.com.
 sinapps.sn.		43200	IN	NS	ns1.kheweul.net.
 sinapps.sn.		43200	IN	NS	ns2.kheweul.net.
 sinedufuture.sn.	43200	IN	NS	ns5.jokko-hosting.com.
@@ -18677,6 +18684,8 @@ sodishop.sn.		43200	IN	NS	ns2.francedns.com.
 sodishop.sn.		43200	IN	NS	ns3.francedns.com.
 sodishop.sn.		43200	IN	NS	ns4.francedns.com.
 sodishop.sn.		43200	IN	NS	ns5.francedns.com.
+sodix.sn.		172800	IN	NS	ns200.anycast.me.
+sodix.sn.		172800	IN	NS	dns200.anycast.me.
 soeco.sn.		43200	IN	NS	ns102.dnsprive.com.
 soeco.sn.		43200	IN	NS	ns103.dnsprive.com.
 soes.sn.		43200	IN	NS	ns20.ovh.net.
@@ -18825,7 +18834,7 @@ sonam.sn.		43200	IN	NS	ns16.ovh.net.
 sonam.sn.		43200	IN	NS	dns16.ovh.net.
 sonamassurances.sn.	43200	IN	NS	ns.kimsufi.com.
 sonamassurances.sn.	43200	IN	NS	ks381076.kimsufi.com.
-sonapta.sn.		43200	IN	RRSIG	DS 13 2 43200 20220318154243 20220109160727 17389 sn. K/O8tbJDpogGjZV2bnXYHGWhA5FwlRcwGG9k45q0v0dxUwZWeB8ZE57N 9C3uU2hGrrgFK7LAIXlT04xQ2aGU6A==
+sonapta.sn.		43200	IN	RRSIG	DS 13 2 43200 20220503150045 20220304144243 17389 sn. gvCdrqfX7PzKF9Nf4ua3GUYNbuCGqsszS08RBDrgWOE8j4/bAXwaZwEx Gjc7dXfwv9fFwQrGNmGclq+eq0zkYA==
 sonapta.sn.		43200	IN	DS	63276 7 2 39731B05D1F55569E681AC979723B8E11E194234A6C9FE766EDE8710 54472166
 sonapta.sn.		43200	IN	NS	ns1.caurys.net.
 sonapta.sn.		43200	IN	NS	ns2.caurys.net.
