@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030508 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030510 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646467252"
+mg.			7200	IN	TXT	"Generation Time: 1646474431"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3146,6 +3146,9 @@ e-solve.mg.		86400	IN	NS	ns1408.websitewelcome.com.
 e-supplier.mg.		86400	IN	NS	ns1.digitalocean.com.
 e-supplier.mg.		86400	IN	NS	ns2.digitalocean.com.
 e-supplier.mg.		86400	IN	NS	ns3.digitalocean.com.
+e-tady.mg.		86400	IN	NS	ns1.ex2.com.
+e-tady.mg.		86400	IN	NS	ns2.ex2.com.
+e-tady.mg.		86400	IN	NS	ns3.ex2.com.
 e-talk-mada.mg.		86400	IN	NS	ns1.indritech.mg.
 e-talk-mada.mg.		86400	IN	NS	ns2.indritech.mg.
 e-talk-mada.mg.		86400	IN	NS	ns3.indritech.mg.
@@ -6341,8 +6344,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.

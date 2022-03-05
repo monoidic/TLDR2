@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022030518 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1646467331"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022030521 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1646474536"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1866,8 +1866,8 @@ bluesky.sy.		86400	IN	NS	ns1.bluesky.sy.
 bluesky.sy.		86400	IN	NS	ns2.bluesky.sy.
 ns1.bluesky.sy.		86400	IN	A	185.61.153.71
 ns2.bluesky.sy.		86400	IN	A	185.61.153.73
-bob.sy.			86400	IN	NS	ns7.alidns.com.
-bob.sy.			86400	IN	NS	ns8.alidns.com.
+bob.sy.			86400	IN	NS	suspend1.tld.sy.
+bob.sy.			86400	IN	NS	suspend2.tld.sy.
 boj.sy.			86400	IN	NS	ns.plesklogin.net.
 boj.sy.			86400	IN	NS	ns2.plesklogin.net.
 bojsyria.sy.		86400	IN	NS	ns.plesklogin.net.
@@ -3846,8 +3846,8 @@ jhanaharakataval.sy.	86400	IN	NS	ns3.tld.sy.
 jhanaharakataval.sy.	86400	IN	NS	ns4.tld.sy.
 jiang.sy.		86400	IN	NS	ns1.entornodns.com.
 jiang.sy.		86400	IN	NS	ns2.entornodns.com.
-jinsha.sy.		86400	IN	NS	ns7.alidns.com.
-jinsha.sy.		86400	IN	NS	ns8.alidns.com.
+jinsha.sy.		86400	IN	NS	suspend1.tld.sy.
+jinsha.sy.		86400	IN	NS	suspend2.tld.sy.
 jj.sy.			86400	IN	NS	mona.ns.cloudflare.com.
 jj.sy.			86400	IN	NS	maxim.ns.cloudflare.com.
 job.sy.			86400	IN	NS	ns506.canadianwebhosting.com.
@@ -6686,12 +6686,12 @@ syriatelbusiness.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 syriatelbusiness.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 syriatelcash.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 syriatelcash.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
-syriatelinfo.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
-syriatelinfo.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
+syriatelinfo.sy.	86400	IN	NS	suspend1.tld.sy.
+syriatelinfo.sy.	86400	IN	NS	suspend2.tld.sy.
 syriatelisp.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 syriatelisp.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
-syriatelnews.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
-syriatelnews.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
+syriatelnews.sy.	86400	IN	NS	suspend1.tld.sy.
+syriatelnews.sy.	86400	IN	NS	suspend2.tld.sy.
 syriatimes.sy.		86400	IN	NS	ns1.inet.sy.
 syriatimes.sy.		86400	IN	NS	ns2.inet.sy.
 syriatoday.sy.		86400	IN	NS	cns1.canadianwebhosting.com.
@@ -7246,8 +7246,8 @@ vita-cosmetics.sy.	86400	IN	NS	suspend1.tld.sy.
 vita-cosmetics.sy.	86400	IN	NS	suspend2.tld.sy.
 vlp.sy.			86400	IN	NS	ns16.samamax.com.
 vlp.sy.			86400	IN	NS	ns17.samamax.com.
-vns.sy.			86400	IN	NS	ns7.alidns.com.
-vns.sy.			86400	IN	NS	ns8.alidns.com.
+vns.sy.			86400	IN	NS	suspend1.tld.sy.
+vns.sy.			86400	IN	NS	suspend2.tld.sy.
 volkswagen.sy.		86400	IN	NS	ns1.volkswagen.de.
 volkswagen.sy.		86400	IN	NS	ns2.volkswagen.de.
 vortex.sy.		86400	IN	NS	ns1.shamcenter.com.
@@ -7343,8 +7343,8 @@ wishandorder.sy.	86400	IN	NS	dns3.aya.sy.
 wishandorder.sy.	86400	IN	NS	dns4.aya.sy.
 wm.sy.			86400	IN	NS	dean.ns.cloudflare.com.
 wm.sy.			86400	IN	NS	kate.ns.cloudflare.com.
-wns.sy.			86400	IN	NS	ns7.alidns.com.
-wns.sy.			86400	IN	NS	ns8.alidns.com.
+wns.sy.			86400	IN	NS	suspend1.tld.sy.
+wns.sy.			86400	IN	NS	suspend2.tld.sy.
 wolf77.sy.		86400	IN	NS	dns1.supremepanel.com.
 wolf77.sy.		86400	IN	NS	dns2.supremepanel.com.
 wolflubes.sy.		86400	IN	NS	dns1.novagraaf-dns.com.
@@ -7374,8 +7374,8 @@ xw.sy.			86400	IN	NS	jule.ns.cloudflare.com.
 xw.sy.			86400	IN	NS	albert.ns.cloudflare.com.
 xx.sy.			86400	IN	NS	gavin.dnspod.net.
 xx.sy.			86400	IN	NS	veromca.dnspod.net.
-yabo.sy.		86400	IN	NS	ns7.alidns.com.
-yabo.sy.		86400	IN	NS	ns8.alidns.com.
+yabo.sy.		86400	IN	NS	suspend1.tld.sy.
+yabo.sy.		86400	IN	NS	suspend2.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend1.tld.sy.
 yafa-global.sy.		86400	IN	NS	suspend2.tld.sy.
 yalla.sy.		86400	IN	NS	suspend1.tld.sy.
