@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030809 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030815 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646715639"
+mg.			7200	IN	TXT	"Generation Time: 1646726432"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2610,8 +2610,11 @@ control-strategy.mg.	7200	IN	NS	ns1.cloudns.io.
 control-strategy.mg.	7200	IN	NS	ns2.cloudns.io.
 coolconcept.mg.		7200	IN	NS	ns1.cloudns.io.
 coolconcept.mg.		7200	IN	NS	ns2.cloudns.io.
-coop-nedala.mg.		7200	IN	NS	ns1.da.cloudns.io.
-coop-nedala.mg.		7200	IN	NS	ns2.da.cloudns.io.
+coop-nedala.mg.		7200	IN	NS	ns1.linode.com.
+coop-nedala.mg.		7200	IN	NS	ns2.linode.com.
+coop-nedala.mg.		7200	IN	NS	ns3.linode.com.
+coop-nedala.mg.		7200	IN	NS	ns4.linode.com.
+coop-nedala.mg.		7200	IN	NS	ns5.linode.com.
 copaya.mg.		7200	IN	NS	ns-104-a.gandi.net.
 copaya.mg.		7200	IN	NS	ns-33-b.gandi.net.
 copaya.mg.		7200	IN	NS	ns-252-c.gandi.net.
@@ -7487,8 +7490,8 @@ nostra.mg.		86400	IN	NS	ns29.dot.mg.
 nostra.mg.		86400	IN	NS	ns29.illi.co.mg.
 nosy-mada-tours.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 nosy-mada-tours.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
-nosybe.mg.		86400	IN	NS	dns1.supremepanel.com.
-nosybe.mg.		86400	IN	NS	dns2.supremepanel.com.
+nosybe.mg.		86400	IN	NS	ns1.da.cloudns.io.
+nosybe.mg.		86400	IN	NS	ns2.da.cloudns.io.
 nosysaba.mg.		86400	IN	NS	ns1.servermada.com.
 nosysaba.mg.		86400	IN	NS	ns2.servermada.com.
 notaires.mg.		86400	IN	NS	ns.dts.mg.
@@ -7600,9 +7603,8 @@ oa.mg.			86400	IN	NS	ns-240-b.gandi.net.
 oa.mg.			86400	IN	NS	ns-207-c.gandi.net.
 oab.mg.			86400	IN	NS	ns1.wrhospedagem.com.br.
 oab.mg.			86400	IN	NS	ns2.wrhospedagem.com.br.
-oatf-madagascar.mg.	86400	IN	NS	ns1.indritech.mg.
-oatf-madagascar.mg.	86400	IN	NS	ns2.indritech.mg.
-oatf-madagascar.mg.	86400	IN	NS	ns3.indritech.mg.
+oatf-madagascar.mg.	86400	IN	NS	leland.ns.cloudflare.com.
+oatf-madagascar.mg.	86400	IN	NS	nataly.ns.cloudflare.com.
 ober.mg.		86400	IN	NS	nsmpro1.nordnet.com.
 ober.mg.		86400	IN	NS	nsmpro2.nordnet.com.
 objectifdoctorat.mg.	86400	IN	NS	ns29.dot.mg.
@@ -7611,8 +7613,8 @@ observatoire-foncier.mg. 86400	IN	NS	darl.ns.cloudflare.com.
 observatoire-foncier.mg. 86400	IN	NS	dawn.ns.cloudflare.com.
 observatoire-migrations-internes.mg. 86400 IN NS ns1.da.cloudns.io.
 observatoire-migrations-internes.mg. 86400 IN NS ns2.da.cloudns.io.
-observatoire-territoire.mg. 86400 IN	NS	ns1.madanetinfo.mg.
-observatoire-territoire.mg. 86400 IN	NS	ns2.madanetinfo.mg.
+observatoire-territoire.mg. 86400 IN	NS	leland.ns.cloudflare.com.
+observatoire-territoire.mg. 86400 IN	NS	nataly.ns.cloudflare.com.
 occidental.mg.		86400	IN	NS	ns1.entornodns.com.
 occidental.mg.		86400	IN	NS	ns2.entornodns.com.
 oceane-aventure.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
@@ -9470,8 +9472,6 @@ smef-grm.mg.		86400	IN	NS	ns.dts.mg.
 smef-grm.mg.		86400	IN	NS	ns1.dts.mg.
 smgd.mg.		86400	IN	NS	ns.tgn.mg.
 smgd.mg.		86400	IN	NS	ns1.tgn.mg.
-smi.mg.			86400	IN	NS	ns1.servermada.com.
-smi.mg.			86400	IN	NS	ns2.servermada.com.
 smie.mg.		86400	IN	NS	ns1.servermada.com.
 smie.mg.		86400	IN	NS	ns2.servermada.com.
 smilebox.mg.		86400	IN	NS	ns1.servermada.com.
@@ -10243,8 +10243,6 @@ timeshare.mg.		86400	IN	NS	ns1.sahazamarline.net.
 timeshare.mg.		86400	IN	NS	ns2.sahazamarline.net.
 tisinday.mg.		86400	IN	NS	ns.dts.mg.
 tisinday.mg.		86400	IN	NS	ns1.dts.mg.
-titan.mg.		86400	IN	NS	katelyn.ns.cloudflare.com.
-titan.mg.		86400	IN	NS	matt.ns.cloudflare.com.
 titrepublic.mg.		86400	IN	NS	ns.dts.mg.
 titrepublic.mg.		86400	IN	NS	ns1.dts.mg.
 tls-vigie.mg.		86400	IN	NS	ns.dts.mg.
@@ -10865,8 +10863,6 @@ visiondirect.mg.	86400	IN	NS	ns3.eurodns.com.
 visiondirect.mg.	86400	IN	NS	ns4.eurodns.com.
 visionhm.mg.		86400	IN	NS	dns1.supremepanel.com.
 visionhm.mg.		86400	IN	NS	dns2.supremepanel.com.
-visionnord-madagascar.mg. 86400	IN	NS	ns1.da.cloudns.io.
-visionnord-madagascar.mg. 86400	IN	NS	ns2.da.cloudns.io.
 visit.mg.		86400	IN	NS	gwen.ns.cloudflare.com.
 visit.mg.		86400	IN	NS	lynn.ns.cloudflare.com.
 vistaprint.mg.		86400	IN	NS	ns2.markmonitor.com.
@@ -10992,6 +10988,8 @@ wateraidmadagascar.mg.	86400	IN	NS	ns2.gasyweb.com.
 watko.mg.		86400	IN	NS	ns-68-a.gandi.net.
 watko.mg.		86400	IN	NS	ns-225-b.gandi.net.
 watko.mg.		86400	IN	NS	ns-91-c.gandi.net.
+watson.mg.		86400	IN	NS	ns1.cloudns.io.
+watson.mg.		86400	IN	NS	ns2.cloudns.io.
 wattec.mg.		86400	IN	NS	ns1.cloudns.io.
 wattec.mg.		86400	IN	NS	ns2.cloudns.io.
 wau.mg.			86400	IN	NS	a.dns.gandi.net.
