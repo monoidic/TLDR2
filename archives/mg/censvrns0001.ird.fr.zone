@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030839 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022030843 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646769632"
+mg.			7200	IN	TXT	"Generation Time: 1646776833"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3213,6 +3213,8 @@ eclosia.mg.		7200	IN	NS	amy.ns.cloudflare.com.
 eclosia.mg.		7200	IN	NS	henry.ns.cloudflare.com.
 eco.mg.			7200	IN	NS	ns.dts.mg.
 eco.mg.			7200	IN	NS	ns1.dts.mg.
+eco-diagnostic.mg.	7200	IN	NS	ns1.gasyweb.com.
+eco-diagnostic.mg.	7200	IN	NS	ns2.gasyweb.com.
 eco-logik.mg.		7200	IN	NS	ns1.da.cloudns.io.
 eco-logik.mg.		7200	IN	NS	ns2.da.cloudns.io.
 eco-multiservice.mg.	7200	IN	NS	ns.dts.mg.
@@ -6094,8 +6096,6 @@ livinguard.mg.		86400	IN	NS	ns4.brandshelter.net.
 livinguard.mg.		86400	IN	NS	ns5.brandshelter.us.
 livresetmoi.mg.		86400	IN	NS	ns1.da.cloudns.io.
 livresetmoi.mg.		86400	IN	NS	ns2.da.cloudns.io.
-ll.mg.			86400	IN	NS	cortney.ns.cloudflare.com.
-ll.mg.			86400	IN	NS	rajeev.ns.cloudflare.com.
 llm-u-ank.mg.		86400	IN	NS	ns1.cloudns.io.
 llm-u-ank.mg.		86400	IN	NS	ns2.cloudns.io.
 lmoi.mg.		86400	IN	NS	dns101.ovh.net.
