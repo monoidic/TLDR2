@@ -1,5 +1,5 @@
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2022030931 3600 600 1209600 3600
-cd.			86400	IN	TXT	"Generation Time: 1646811913"
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2022030947 3600 600 1209600 3600
+cd.			86400	IN	TXT	"Generation Time: 1646826311"
 cd.			86400	IN	NS	pch.nic.cd.
 cd.			86400	IN	NS	gransy-anycast1.nic.cd.
 cd.			86400	IN	NS	gransy-anycast2.nic.cd.
@@ -404,7 +404,7 @@ abnamro.cd.		86400	IN	NS	g4.nstld.com.
 abnamro.cd.		86400	IN	NS	l4.nstld.com.
 absolut.cd.		86400	IN	NS	dns1.cscdns.net.
 absolut.cd.		86400	IN	NS	dns2.cscdns.net.
-ac.cd.			86400	IN	TXT	"Generation Time: 1646811913"
+ac.cd.			86400	IN	TXT	"Generation Time: 1646826311"
 abil.ac.cd.		86400	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.		86400	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	86400	IN	NS	cpanel11.lws-hosting.com.
@@ -1185,6 +1185,8 @@ amazonvideo.cd.		86400	IN	NS	nssui.comlaude.ch.
 amazonvideo.cd.		86400	IN	NS	nsusa.comlaude.net.
 ambassademaroc.cd.	86400	IN	NS	ns110.ovh.net.
 ambassademaroc.cd.	86400	IN	NS	dns110.ovh.net.
+amc.cd.			86400	IN	NS	ns1.webhost4life.com.
+amc.cd.			86400	IN	NS	ns2.webhost4life.com.
 amcc.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 amcc.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 amen.cd.		86400	IN	NS	vita.ns.cloudflare.com.
@@ -1214,10 +1216,8 @@ amstel.cd.		86400	IN	NS	dns1.cscdns.net.
 amstel.cd.		86400	IN	NS	dns2.cscdns.net.
 amtpharma.cd.		86400	IN	NS	ns1.phptransformer.net.
 amtpharma.cd.		86400	IN	NS	ns2.phptransformer.net.
-amvc.cd.		86400	IN	NS	ns1.h-43.com.
-amvc.cd.		86400	IN	NS	ns2.h-43.com.
-amvc.cd.		86400	IN	NS	ns29.boxsecured.com.
-amvc.cd.		86400	IN	NS	ns30.boxsecured.com.
+amvc.cd.		86400	IN	NS	ns101.h-43.com.
+amvc.cd.		86400	IN	NS	ns201.h-43.com.
 amway.cd.		86400	IN	NS	ns1.datatelecomm.net.
 amway.cd.		86400	IN	NS	ns2.datatelecomm.net.
 amway.cd.		86400	IN	NS	ns3.datatelecomm.net.
@@ -3402,7 +3402,7 @@ colruyt-export.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	86400	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	86400	IN	NS	ns2.mypandos.com.
-com.cd.			86400	IN	TXT	"Generation Time: 1646811913"
+com.cd.			86400	IN	TXT	"Generation Time: 1646826311"
 14trees.com.cd.		86400	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns01us.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns02ch.holcim.com.
@@ -4888,7 +4888,7 @@ edtech-243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.		86400	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp2.dnshostservices.com.
-edu.cd.			86400	IN	TXT	"Generation Time: 1646811913"
+edu.cd.			86400	IN	TXT	"Generation Time: 1646826311"
 egov.edu.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.edu.cd.		86400	IN	NS	ns2.scpt-network.cd.
 gsrecsha.edu.cd.	86400	IN	NS	ns1.h-43.com.
@@ -5585,8 +5585,8 @@ fdec.cd.		86400	IN	NS	ns1.scpt-network.cd.
 fdec.cd.		86400	IN	NS	ns2.scpt-network.cd.
 fdm.cd.			86400	IN	NS	ns1.mypandos.com.
 fdm.cd.			86400	IN	NS	ns2.mypandos.com.
-fdss.cd.		86400	IN	NS	ns1.h-43.com.
-fdss.cd.		86400	IN	NS	ns2.h-43.com.
+fdss.cd.		86400	IN	NS	ns101.h-43.com.
+fdss.cd.		86400	IN	NS	ns201.h-43.com.
 fec.cd.			86400	IN	NS	dns.afrinet.cd.
 fec.cd.			86400	IN	NS	auth01.afrinet.cd.
 fecofa.cd.		86400	IN	NS	a.dns.gandi.net.
@@ -5909,8 +5909,8 @@ foxplus.cd.		86400	IN	NS	ns1.markmonitor.com.
 foxplus.cd.		86400	IN	NS	ns2.markmonitor.com.
 foxsports.cd.		86400	IN	NS	ns01.foxinc.com.
 foxsports.cd.		86400	IN	NS	ns03.foxinc.com.
-foxtimes.cd.		86400	IN	NS	ns3.cloudcws.com.
-foxtimes.cd.		86400	IN	NS	ns4.cloudcws.com.
+foxtimes.cd.		86400	IN	NS	ns1045.ui-dns.de.
+foxtimes.cd.		86400	IN	NS	ns1045.ui-dns.biz.
 fpi-rdc.cd.		86400	IN	NS	ns3.combell.net.
 fpi-rdc.cd.		86400	IN	NS	ns4.combell.net.
 fpm.cd.			86400	IN	NS	ada.ns.cloudflare.com.
@@ -6421,7 +6421,7 @@ gothere.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 gothere.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 gourmandine.cd.		86400	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.		86400	IN	NS	ns2.uniteddns.net.
-gouv.cd.		86400	IN	TXT	"Generation Time: 1646811914"
+gouv.cd.		86400	IN	TXT	"Generation Time: 1646826312"
 acorep.gouv.cd.		86400	IN	NS	ns1.acorep.gouv.cd.
 acorep.gouv.cd.		86400	IN	NS	ns2.acorep.gouv.cd.
 ns1.acorep.gouv.cd.	86400	IN	A	75.119.139.203
@@ -6720,7 +6720,7 @@ gouvtanganyika.cd.	86400	IN	NS	dns13.ovh.net.
 gov.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.			86400	IN	TXT	"Generation Time: 1646811913"
+gov.cd.			86400	IN	TXT	"Generation Time: 1646826311"
 egov.gov.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.		86400	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	86400	IN	NS	ns1.scpt-network.cd.
@@ -7039,8 +7039,8 @@ helpdesk.cd.		86400	IN	NS	ns1.namesecure.de.
 helpdesk.cd.		86400	IN	NS	ns2.namesecure.de.
 hentai.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 hentai.cd.		86400	IN	NS	arch.ns.cloudflare.com.
-heritage.cd.		86400	IN	NS	ns1.h-43.com.
-heritage.cd.		86400	IN	NS	ns2.h-43.com.
+heritage.cd.		86400	IN	NS	ns101.h-43.com.
+heritage.cd.		86400	IN	NS	ns201.h-43.com.
 hero.cd.		86400	IN	NS	ns1.hero.cd.
 hero.cd.		86400	IN	NS	ns2.hero.cd.
 ns1.hero.cd.		86400	IN	A	5.196.66.179
@@ -10875,7 +10875,7 @@ nesys.cd.		86400	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.		86400	IN	NS	ns2.m77.siteground.biz.
 net.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 net.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
-net.cd.			86400	IN	TXT	"Generation Time: 1646811913"
+net.cd.			86400	IN	TXT	"Generation Time: 1646826312"
 egov.net.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.		86400	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.		86400	IN	NS	ns1.afraid.org.
@@ -11564,7 +11564,7 @@ ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.org.
 orellig.cd.		86400	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.		86400	IN	NS	dns2.namecheaphosting.com.
-org.cd.			86400	IN	TXT	"Generation Time: 1646811913"
+org.cd.			86400	IN	TXT	"Generation Time: 1646826312"
 csc.org.cd.		86400	IN	NS	ns1.4levels.net.
 csc.org.cd.		86400	IN	NS	ns2.4levels.net.
 egov.org.cd.		86400	IN	NS	ns1.scpt-network.cd.
