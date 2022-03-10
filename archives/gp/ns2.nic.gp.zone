@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022030716 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022031015 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -303,8 +303,9 @@ alamo.gp.		86400	IN	NS	ha1.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha2.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha3.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha4.markmonitor.zone.
-alch.gp.		86400	IN	NS	ns1.dan.com.
-alch.gp.		86400	IN	NS	ns2.dan.com.
+alch.gp.		86400	IN	NS	ns1.dan.hosting.
+alch.gp.		86400	IN	NS	ns2.dan.hosting.
+alch.gp.		86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 alerte.gp.		86400	IN	NS	ns1.ikoula.fr.
 alerte.gp.		86400	IN	NS	ns2.ikoula.fr.
 ales.gp.		86400	IN	NS	a.ns.mailclub.fr.
@@ -1461,9 +1462,9 @@ drug.gp.		86400	IN	NS	ns2.bodis.com.
 ds-automobiles.gp.	86400	IN	NS	a.dns.gandi.net.
 ds-automobiles.gp.	86400	IN	NS	b.dns.gandi.net.
 ds-automobiles.gp.	86400	IN	NS	c.dns.gandi.net.
-dsautomobiles.gp.	86400	IN	NS	a.dns.gandi.net.
-dsautomobiles.gp.	86400	IN	NS	b.dns.gandi.net.
-dsautomobiles.gp.	86400	IN	NS	c.dns.gandi.net.
+dsautomobiles.gp.	86400	IN	NS	ns-86-b.gandi.net.
+dsautomobiles.gp.	86400	IN	NS	ns-207-c.gandi.net.
+dsautomobiles.gp.	86400	IN	NS	ns-221-a.gandi.net.
 dulux.gp.		86400	IN	NS	ns1.akzonobel.com.
 dulux.gp.		86400	IN	NS	ns2.akzonobel.com.
 dulux.gp.		86400	IN	NS	ns3.akzonobel.com.
@@ -1472,9 +1473,9 @@ durex.gp.		86400	IN	NS	ns2.markmonitor.com.
 durex.gp.		86400	IN	NS	ns3.markmonitor.com.
 durex.gp.		86400	IN	NS	ns4.markmonitor.com.
 durex.gp.		86400	IN	NS	ns5.markmonitor.com.
-dutch.gp.		86400	IN	NS	ns1.dan.com.
-dutch.gp.		86400	IN	NS	ns2.dan.com.
-dutch.gp.		86400	IN	NS	verification-8ohu4jc8.ns3.dan.hosting.
+dutch.gp.		86400	IN	NS	ns1.dan.hosting.
+dutch.gp.		86400	IN	NS	ns2.dan.hosting.
+dutch.gp.		86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 dycaparts.gp.		86400	IN	NS	ns1.francedns.com.
 dycaparts.gp.		86400	IN	NS	ns2.francedns.com.
 dycaparts.gp.		86400	IN	NS	ns3.francedns.com.
@@ -1768,8 +1769,9 @@ extention.gp.		86400	IN	NS	ns1.ikoula.fr.
 extention.gp.		86400	IN	NS	ns2.ikoula.fr.
 f.gp.			86400	IN	NS	ns1.bodis.com.
 f.gp.			86400	IN	NS	ns2.bodis.com.
-f1.gp.			86400	IN	NS	ns1.dan.com.
-f1.gp.			86400	IN	NS	ns2.dan.com.
+f1.gp.			86400	IN	NS	ns1.dan.hosting.
+f1.gp.			86400	IN	NS	ns2.dan.hosting.
+f1.gp.			86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 f1sa.gp.		86400	IN	NS	ns1.101domain.com.
 f1sa.gp.		86400	IN	NS	ns2.101domain.com.
 fabienneyouyoutte.gp.	86400	IN	NS	ns1.iptwins.net.
@@ -3284,9 +3286,9 @@ mg-guadeloupe.gp.	86400	IN	NS	ns2.francedns.com.
 mg-guadeloupe.gp.	86400	IN	NS	ns3.francedns.com.
 mi.gp.			86400	IN	NS	ns1.sedoparking.com.
 mi.gp.			86400	IN	NS	ns2.sedoparking.com.
-miami.gp.		86400	IN	NS	ns1.dan.com.
-miami.gp.		86400	IN	NS	ns2.dan.com.
-miami.gp.		86400	IN	NS	verification-8ohu4jc8.ns3.dan.hosting.
+miami.gp.		86400	IN	NS	ns1.dan.hosting.
+miami.gp.		86400	IN	NS	ns2.dan.hosting.
+miami.gp.		86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 michelgaschet.gp.	86400	IN	NS	ns103.ovh.net.
 michelgaschet.gp.	86400	IN	NS	dns103.ovh.net.
 microcreche.gp.		86400	IN	NS	ns1.mediatemple.net.
@@ -4353,9 +4355,9 @@ rubyintimite.gp.	86400	IN	NS	ns3.jnj.com.
 rubyintimite.gp.	86400	IN	NS	ns5.jnj.com.
 rumanesc.gp.		86400	IN	NS	ns1.mediatemple.net.
 rumanesc.gp.		86400	IN	NS	ns2.mediatemple.net.
-runescape.gp.		86400	IN	NS	ns1.dan.com.
-runescape.gp.		86400	IN	NS	ns2.dan.com.
-runescape.gp.		86400	IN	NS	verification-8ohu4jc8.ns3.dan.hosting.
+runescape.gp.		86400	IN	NS	ns1.dan.hosting.
+runescape.gp.		86400	IN	NS	ns2.dan.hosting.
+runescape.gp.		86400	IN	NS	verification-5mltl5xc.ns3.dan.hosting.
 rw.gp.			86400	IN	NS	pns41.cloudns.net.
 rw.gp.			86400	IN	NS	pns42.cloudns.net.
 rw.gp.			86400	IN	NS	pns43.cloudns.net.
