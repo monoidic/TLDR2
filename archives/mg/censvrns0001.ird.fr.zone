@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031011 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031015 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1646892039"
+mg.			7200	IN	TXT	"Generation Time: 1646899239"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -782,8 +782,6 @@ amica.mg.		7200	IN	NS	ns2.unixstorm.org.
 amica.mg.		7200	IN	NS	ns1.unixstorm.org.
 amit.mg.		7200	IN	NS	ns.dts.mg.
 amit.mg.		7200	IN	NS	ns1.dts.mg.
-amjlogistique.mg.	7200	IN	NS	ns29.dot.mg.
-amjlogistique.mg.	7200	IN	NS	ns29.illi.co.mg.
 ampelamitraoke.mg.	7200	IN	NS	ns1.da.cloudns.io.
 ampelamitraoke.mg.	7200	IN	NS	ns2.da.cloudns.io.
 ampm.mg.		7200	IN	NS	ns-29-a.gandi.net.
@@ -1460,8 +1458,10 @@ barcelo.mg.		7200	IN	NS	ns2.entornodns.com.
 barday.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
 barday.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 barday.mg.		7200	IN	NS	ns1.fr.malagasy.com.
-baronbet.mg.		7200	IN	NS	ns1.101domain.com.
-baronbet.mg.		7200	IN	NS	ns2.101domain.com.
+baronbet.mg.		7200	IN	NS	dns1.p06.nsone.net.
+baronbet.mg.		7200	IN	NS	dns2.p06.nsone.net.
+baronbet.mg.		7200	IN	NS	dns3.p06.nsone.net.
+baronbet.mg.		7200	IN	NS	dns4.p06.nsone.net.
 basan.mg.		7200	IN	NS	paul.ns.cloudflare.com.
 basan.mg.		7200	IN	NS	venus.ns.cloudflare.com.
 basetoliara.mg.		7200	IN	NS	ns1.instradns.com.
@@ -2595,6 +2595,8 @@ consulat-oman-mdg.mg.	7200	IN	NS	ns.dts.mg.
 consulat-oman-mdg.mg.	7200	IN	NS	ns1.dts.mg.
 consulat-slovaquie.mg.	7200	IN	NS	ns15.ovh.net.
 consulat-slovaquie.mg.	7200	IN	NS	dns15.ovh.net.
+consulat-vietnam.mg.	7200	IN	NS	ns1705.websitewelcome.com.
+consulat-vietnam.mg.	7200	IN	NS	ns1706.websitewelcome.com.
 consulate-namibia.mg.	7200	IN	NS	ns.dts.mg.
 consulate-namibia.mg.	7200	IN	NS	ns1.dts.mg.
 consultant.mg.		7200	IN	NS	ns.inmotionhosting.com.
@@ -3323,9 +3325,6 @@ elearning.mg.		7200	IN	NS	ns1.da.cloudns.io.
 elearning.mg.		7200	IN	NS	ns2.da.cloudns.io.
 elearning-madagascar.mg. 7200	IN	NS	ns1.da.cloudns.io.
 elearning-madagascar.mg. 7200	IN	NS	ns2.da.cloudns.io.
-elec-plus.mg.		7200	IN	NS	ns1.contabo.net.
-elec-plus.mg.		7200	IN	NS	ns2.contabo.net.
-elec-plus.mg.		7200	IN	NS	ns3.contabo.net.
 elecdis.mg.		7200	IN	NS	ns1.o2switch.net.
 elecdis.mg.		7200	IN	NS	ns2.o2switch.net.
 electic.mg.		7200	IN	NS	ns1.mg.tambazotra.net.
@@ -3505,8 +3504,6 @@ espacehitech.mg.	86400	IN	NS	ns2.servermada.com.
 espacemedical.mg.	86400	IN	NS	ns1.entrydns.net.
 espacemedical.mg.	86400	IN	NS	ns2.entrydns.net.
 espacemedical.mg.	86400	IN	NS	ns3.entrydns.net.
-espacom.mg.		86400	IN	NS	dns1.namecheaphosting.com.
-espacom.mg.		86400	IN	NS	dns2.namecheaphosting.com.
 espritdentreprise.mg.	86400	IN	NS	lina.ns.cloudflare.com.
 espritdentreprise.mg.	86400	IN	NS	phil.ns.cloudflare.com.
 esri.mg.		86400	IN	NS	ns1-park.esri.com.
@@ -3660,8 +3657,6 @@ extension.mg.		86400	IN	NS	ns-248-a.gandi.net.
 externaliser.mg.	86400	IN	NS	ns1.mg.tambazotra.net.
 externaliser.mg.	86400	IN	NS	ns2.mg.tambazotra.net.
 externaliser.mg.	86400	IN	NS	ns1.fr.malagasy.com.
-extrapizza.mg.		86400	IN	NS	ns1.da.cloudns.io.
-extrapizza.mg.		86400	IN	NS	ns2.da.cloudns.io.
 exxchange.mg.		86400	IN	NS	ns1.markmonitor.com.
 exxchange.mg.		86400	IN	NS	ns2.markmonitor.com.
 exxchange.mg.		86400	IN	NS	ns3.markmonitor.com.
@@ -3973,9 +3968,6 @@ focusprint.mg.		86400	IN	NS	ns29.dot.mg.
 focusprint.mg.		86400	IN	NS	ns29.illi.co.mg.
 fofifa.mg.		86400	IN	NS	ns1.irenala.edu.mg.
 fofifa.mg.		86400	IN	NS	ns2.irenala.edu.mg.
-foire-paam.mg.		86400	IN	NS	ns1.digitalocean.com.
-foire-paam.mg.		86400	IN	NS	ns2.digitalocean.com.
-foire-paam.mg.		86400	IN	NS	ns3.digitalocean.com.
 followme.mg.		86400	IN	NS	ns.tgn.mg.
 followme.mg.		86400	IN	NS	ns1.tgn.mg.
 fonbet.mg.		86400	IN	NS	ns1.101domain.com.
@@ -4497,8 +4489,6 @@ gsl.mg.			86400	IN	NS	ns-230-a.gandi.net.
 gsuite.mg.		86400	IN	NS	ns3.domaindiscount24.net.
 gsuite.mg.		86400	IN	NS	ns2.domaindiscount24.net.
 gsuite.mg.		86400	IN	NS	ns1.domaindiscount24.net.
-gtl.mg.			86400	IN	NS	dns1.namecheaphosting.com.
-gtl.mg.			86400	IN	NS	dns2.namecheaphosting.com.
 gucci.mg.		86400	IN	NS	dns1.comlaude-dns.com.
 gucci.mg.		86400	IN	NS	dns2.comlaude-dns.net.
 gucci.mg.		86400	IN	NS	dns3.comlaude-dns.co.uk.
@@ -7547,10 +7537,6 @@ numen.mg.		86400	IN	NS	ns.dts.mg.
 numen.mg.		86400	IN	NS	ns1.dts.mg.
 numenmadagascar.mg.	86400	IN	NS	ns.dts.mg.
 numenmadagascar.mg.	86400	IN	NS	ns1.dts.mg.
-numerika.mg.		86400	IN	NS	ns1.supercp.com.
-numerika.mg.		86400	IN	NS	ns2.supercp.com.
-numerika.mg.		86400	IN	NS	ns3.supercp.com.
-numerika.mg.		86400	IN	NS	ns4.supercp.com.
 nutri-muscle.mg.	86400	IN	NS	b.dns.gandi.net.
 nutri-muscle.mg.	86400	IN	NS	c.dns.gandi.net.
 nutri-muscle.mg.	86400	IN	NS	a.dns.gandi.net.
@@ -8989,6 +8975,8 @@ saisie.mg.		86400	IN	NS	ns.dts.mg.
 saisie.mg.		86400	IN	NS	ns1.dts.mg.
 saisie-de-donnees.mg.	86400	IN	NS	ns29.dot.mg.
 saisie-de-donnees.mg.	86400	IN	NS	ns29.illi.co.mg.
+sakabeloha.mg.		86400	IN	NS	ns1.lemursystems.com.
+sakabeloha.mg.		86400	IN	NS	ns2.lemursystems.com.
 sakafo.mg.		86400	IN	NS	ns1.topmora.com.
 sakafo.mg.		86400	IN	NS	ns2.topmora.com.
 sakura.mg.		86400	IN	NS	ns1.eden.dnshostnetwork.com.
