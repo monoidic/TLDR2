@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022030801 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022031001 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -3120,8 +3120,9 @@ digitalsupply.cv.	28800	IN	NS	ns02.trademarkarea.com.
 digitalsupply.cv.	28800	IN	NS	ns03.trademarkarea.com.
 dikor.cv.		28800	IN	NS	ns1.mydomain.com.
 dikor.cv.		28800	IN	NS	ns2.mydomain.com.
-dikurason.cv.		28800	IN	NS	ns77.domaincontrol.com.
-dikurason.cv.		28800	IN	NS	ns78.domaincontrol.com.
+dikurason.cv.		28800	IN	NS	ns1.digitalocean.com.
+dikurason.cv.		28800	IN	NS	ns2.digitalocean.com.
+dikurason.cv.		28800	IN	NS	ns3.digitalocean.com.
 dimansil.cv.		28800	IN	A	66.96.142.162
 dimansil.cv.		28800	IN	A	66.96.142.163
 dimansil.cv.		28800	IN	NS	ns1.ipage.com.
@@ -3424,6 +3425,11 @@ etgdh.edu.cv.		28800	IN	NS	ns7.securenet-server.net.
 etgdh.edu.cv.		28800	IN	NS	ns8.securenet-server.net.
 etpcv.edu.cv.		28800	IN	NS	ns1.servconfig.com.
 etpcv.edu.cv.		28800	IN	NS	ns2.servconfig.com.
+eucatolica.edu.cv.	28800	IN	A	45.154.66.253
+eucatolica.edu.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
+eucatolica.edu.cv.	28800	IN	NS	ns1.wtservers.com.
+eucatolica.edu.cv.	28800	IN	NS	ns2.wtservers.com.
+eucatolica.edu.cv.	28800	IN	NS	ns3.wtservers.com.
 iscee.edu.cv.		28800	IN	NS	ns1.aeminiummultimedia.pt.
 iscee.edu.cv.		28800	IN	NS	ns2.aeminiummultimedia.pt.
 iscjs.edu.cv.		28800	IN	NS	ns1.dreamhost.COM.
@@ -4180,8 +4186,8 @@ ns1.grupoimpar.cv.	28800	IN	A	169.239.14.34
 ns2.grupoimpar.cv.	28800	IN	A	169.239.14.35
 grupoinnovatel.cv.	28800	IN	NS	ns.grupoinnovatel.cv.
 grupoinnovatel.cv.	28800	IN	AAAA	2001:8d8:860:8c00::45:ddbc
-mail.grupoinnovatel.cv.	28800	IN	AAAA	2001:8d8:860:8c00::45:ddbc
 mail.grupoinnovatel.cv.	28800	IN	A	87.106.53.191
+mail.grupoinnovatel.cv.	28800	IN	AAAA	2001:8d8:860:8c00::45:ddbc
 ns.grupoinnovatel.cv.	28800	IN	A	87.106.53.191
 ns.grupoinnovatel.cv.	28800	IN	AAAA	2001:8d8:860:8c00::45:ddbc
 grupokhymnegoce.cv.	28800	IN	NS	ns41.cloudns.net.
@@ -5819,11 +5825,11 @@ novatour.cv.		28800	IN	NS	ns1.inmotionhosting.com.
 novatour.cv.		28800	IN	NS	ns2.inmotionhosting.com.
 novatur.cv.		28800	IN	NS	ns1.inmotionhosting.com.
 novatur.cv.		28800	IN	NS	ns2.inmotionhosting.com.
+novobanco.cv.		28800	IN	NS	ns.cvtelecom.cv.
+novobanco.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 novobanco.cv.		28800	IN	AAAA	2620:115:c00f::c000:4a09
 novobanco.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7409
 novobanco.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7509
-novobanco.cv.		28800	IN	NS	ns.cvtelecom.cv.
-novobanco.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 nsh.cv.			28800	IN	NS	ns1.wordpress.com.
 nsh.cv.			28800	IN	NS	ns2.wordpress.com.
 nsh.cv.			28800	IN	NS	ns3.wordpress.com.
@@ -6199,11 +6205,11 @@ ossportalcontabilidade.cv. 28800 IN	NS	ns.jcle.pt.
 ossportalcontabilidade.cv. 28800 IN	NS	ns.jcle.net.
 ostubaroes.cv.		28800	IN	NS	ns1.gnld6.siteground.eu.
 ostubaroes.cv.		28800	IN	NS	ns2.gnld6.siteground.eu.
-oticavisionplus.cv.	28800	IN	NS	ns1.ipage.com.
-oticavisionplus.cv.	28800	IN	NS	ns2.ipage.com.
 oticavisionplus.cv.	28800	IN	AAAA	2a02:c200:0:10::891:1
 oticavisionplus.cv.	28800	IN	A	5.189.191.29
 oticavisionplus.cv.	28800	IN	A	79.143.182.242
+oticavisionplus.cv.	28800	IN	NS	ns1.ipage.com.
+oticavisionplus.cv.	28800	IN	NS	ns2.ipage.com.
 otium.cv.		28800	IN	NS	ns1.contabo.net.
 otium.cv.		28800	IN	NS	ns2.contabo.net.
 otium.cv.		28800	IN	NS	ns3.contabo.net.
@@ -7935,10 +7941,10 @@ ns.tudo.cv.		28800	IN	A	162.241.70.96
 tudonumclick.cv.	28800	IN	NS	ns1.ibername.com.
 tudonumclick.cv.	28800	IN	NS	ns2.ibername.com.
 tudonumclick.cv.	28800	IN	NS	ns3.ibername.com.
-tuduli.cv.		28800	IN	AAAA	2600:2000:1000::7
-tuduli.cv.		28800	IN	AAAA	2600:2000:1001::7
 tuduli.cv.		28800	IN	NS	da100a.trouble-free.net.
 tuduli.cv.		28800	IN	NS	dn100b.trouble-free.net.
+tuduli.cv.		28800	IN	AAAA	2600:2000:1000::7
+tuduli.cv.		28800	IN	AAAA	2600:2000:1001::7
 tui-blue.cv.		28800	IN	AAAA	2600:2000:1000::7
 tui-blue.cv.		28800	IN	AAAA	2600:2000:1001::7
 tui-blue.cv.		28800	IN	NS	ns01.brandshelter.com.
@@ -8307,13 +8313,13 @@ website.cv.		28800	IN	NS	ns1.webhs.org.
 website.cv.		28800	IN	NS	ns2.webhs.org.
 website.cv.		28800	IN	NS	ns3.webhs.org.
 website.cv.		28800	IN	NS	ns4.webhs.org.
+webzilla.cv.		28800	IN	AAAA	2001:67c:1bc::104
+webzilla.cv.		28800	IN	AAAA	2001:67c:10b8::104
+webzilla.cv.		28800	IN	AAAA	2a01:4f8:222:b03::2
 webzilla.cv.		28800	IN	NS	ns1.linxisp.net.
 webzilla.cv.		28800	IN	NS	ns2.linxisp.net.
 webzilla.cv.		28800	IN	NS	ns3.linxisp.net.
 webzilla.cv.		28800	IN	NS	ns4.linxisp.net.
-webzilla.cv.		28800	IN	AAAA	2001:67c:1bc::104
-webzilla.cv.		28800	IN	AAAA	2001:67c:10b8::104
-webzilla.cv.		28800	IN	AAAA	2a01:4f8:222:b03::2
 wedo.cv.		28800	IN	NS	ns.inwx.de.
 wedo.cv.		28800	IN	NS	ns2.inwx.de.
 wedo.cv.		28800	IN	NS	ns3.inwx.eu.
