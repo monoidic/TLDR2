@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031020 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1646899335"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031023 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1646906541"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -399,8 +399,8 @@ affan.sy.		86400	IN	NS	suspend2.tld.sy.
 afkar.sy.		86400	IN	NS	ns1.web-dns1.com.
 afkar.sy.		86400	IN	NS	ns2.web-dns1.com.
 afkar.sy.		86400	IN	NS	ns3.web-dns1.com.
-afkarllc.sy.		86400	IN	NS	ns1.pronet.sy.
-afkarllc.sy.		86400	IN	NS	ns2.pronet.sy.
+afkarllc.sy.		86400	IN	NS	suspend1.tld.sy.
+afkarllc.sy.		86400	IN	NS	suspend2.tld.sy.
 afpc.sy.		86400	IN	NS	ns3.tld.sy.
 afpc.sy.		86400	IN	NS	ns4.tld.sy.
 afreet.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -727,8 +727,8 @@ alfajr-cont.sy.		86400	IN	NS	suspend1.tld.sy.
 alfajr-cont.sy.		86400	IN	NS	suspend2.tld.sy.
 alfajr-modern.sy.	86400	IN	NS	suspend1.tld.sy.
 alfajr-modern.sy.	86400	IN	NS	suspend2.tld.sy.
-alfajr-security.sy.	86400	IN	NS	suspend1.tld.sy.
-alfajr-security.sy.	86400	IN	NS	suspend2.tld.sy.
+alfajr-security.sy.	86400	IN	NS	ns1.signal-host.com.
+alfajr-security.sy.	86400	IN	NS	ns2.signal-host.com.
 alfakhame.sy.		86400	IN	NS	ns11.ucg-core.com.
 alfakhame.sy.		86400	IN	NS	ns16.ucg-core.com.
 alfalak-trade.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3361,10 +3361,8 @@ hashtag.sy.		86400	IN	NS	suspend1.tld.sy.
 hashtag.sy.		86400	IN	NS	suspend2.tld.sy.
 hat.sy.			86400	IN	NS	suspend1.tld.sy.
 hat.sy.			86400	IN	NS	suspend2.tld.sy.
-hawaalsham.sy.		86400	IN	NS	ns1.supercp.com.
-hawaalsham.sy.		86400	IN	NS	ns2.supercp.com.
-hawaalsham.sy.		86400	IN	NS	ns3.supercp.com.
-hawaalsham.sy.		86400	IN	NS	ns4.supercp.com.
+hawaalsham.sy.		86400	IN	NS	suspend1.tld.sy.
+hawaalsham.sy.		86400	IN	NS	suspend2.tld.sy.
 hawai.sy.		86400	IN	NS	ns1.alanqaa.com.
 hawai.sy.		86400	IN	NS	ns2.alanqaa.com.
 hawarispices.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -5115,6 +5113,8 @@ nour-mf.sy.		86400	IN	NS	suspend1.tld.sy.
 nour-mf.sy.		86400	IN	NS	suspend2.tld.sy.
 nour-mfi.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 nour-mfi.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
+noura.sy.		86400	IN	NS	ns1.monster.sy.
+noura.sy.		86400	IN	NS	ns2.monster.sy.
 nova.sy.		86400	IN	NS	dns7.aya.sy.
 nova.sy.		86400	IN	NS	dns8.aya.sy.
 novello.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -5168,6 +5168,10 @@ oki.sy.			86400	IN	NS	rns1.rightsdns.com.
 oki.sy.			86400	IN	NS	rns2.rightsdns.com.
 olabi-co.sy.		86400	IN	NS	suspend1.tld.sy.
 olabi-co.sy.		86400	IN	NS	suspend2.tld.sy.
+oliva.sy.		86400	IN	NS	ns1.monster.sy.
+oliva.sy.		86400	IN	NS	ns2.monster.sy.
+oliva-cosmetic.sy.	86400	IN	NS	ns1.monster.sy.
+oliva-cosmetic.sy.	86400	IN	NS	ns2.monster.sy.
 omaya-trade.sy.		86400	IN	NS	suspend1.tld.sy.
 omaya-trade.sy.		86400	IN	NS	suspend2.tld.sy.
 omayad.sy.		86400	IN	NS	ns3.tld.sy.
@@ -5474,8 +5478,8 @@ profilenews.sy.		86400	IN	NS	ns1.pronet.sy.
 profilenews.sy.		86400	IN	NS	ns2.pronet.sy.
 profit.sy.		86400	IN	NS	gene.ns.cloudflare.com.
 profit.sy.		86400	IN	NS	aiden.ns.cloudflare.com.
-proguard.sy.		86400	IN	NS	suspend1.tld.sy.
-proguard.sy.		86400	IN	NS	suspend2.tld.sy.
+proguard.sy.		86400	IN	NS	ns205.canadianwebhosting.com.
+proguard.sy.		86400	IN	NS	ns206.canadianwebhosting.com.
 promed.sy.		86400	IN	NS	suspend1.tld.sy.
 promed.sy.		86400	IN	NS	suspend2.tld.sy.
 prominent.sy.		86400	IN	NS	a.ns.prominent.de.
@@ -5504,8 +5508,8 @@ prospector.sy.		86400	IN	NS	ns21.cloudns.net.
 prospector.sy.		86400	IN	NS	ns23.cloudns.net.
 prosys.sy.		86400	IN	NS	ns1.pronet.sy.
 prosys.sy.		86400	IN	NS	ns2.pronet.sy.
-protech.sy.		86400	IN	NS	suspend1.tld.sy.
-protech.sy.		86400	IN	NS	suspend2.tld.sy.
+protech.sy.		86400	IN	NS	ns203.canadianwebhosting.com.
+protech.sy.		86400	IN	NS	ns204.canadianwebhosting.com.
 protv.sy.		86400	IN	NS	ns1.pronet.sy.
 protv.sy.		86400	IN	NS	ns2.pronet.sy.
 pspexpress.sy.		86400	IN	NS	ns1.scs-net.org.
@@ -5572,8 +5576,8 @@ rahal.sy.		86400	IN	NS	suspend1.tld.sy.
 rahal.sy.		86400	IN	NS	suspend2.tld.sy.
 rahhal.sy.		86400	IN	NS	suspend1.tld.sy.
 rahhal.sy.		86400	IN	NS	suspend2.tld.sy.
-rahmonews.sy.		86400	IN	NS	ns1.ksa.onl.
-rahmonews.sy.		86400	IN	NS	ns2.ksa.onl.
+rahmonews.sy.		86400	IN	NS	suspend1.tld.sy.
+rahmonews.sy.		86400	IN	NS	suspend2.tld.sy.
 rahwanji-cards.sy.	86400	IN	NS	ns1.alanqaa.com.
 rahwanji-cards.sy.	86400	IN	NS	ns2.alanqaa.com.
 rahwanjicards.sy.	86400	IN	NS	ns1.alanqaa.com.
@@ -6374,6 +6378,8 @@ sourialyoum.sy.		86400	IN	NS	ns1.arabiangroup.com.
 sourialyoum.sy.		86400	IN	NS	ns2.arabiangroup.com.
 souryana.sy.		86400	IN	NS	suspend1.tld.sy.
 souryana.sy.		86400	IN	NS	suspend2.tld.sy.
+sowhite.sy.		86400	IN	NS	ns1.monster.sy.
+sowhite.sy.		86400	IN	NS	ns2.monster.sy.
 spark-wear.sy.		86400	IN	NS	suspend1.tld.sy.
 spark-wear.sy.		86400	IN	NS	suspend2.tld.sy.
 speakea.sy.		86400	IN	NS	ns1.entornodns.com.
