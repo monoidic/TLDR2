@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031036 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1646928813"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031039 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1646932414"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -46035,8 +46035,8 @@ ns1.nic.net.ng.		3600	IN	AAAA	2001:678:4::1d
 ns1.nic.net.ng.		3600	IN	A	194.0.1.29
 ns2.nic.net.ng.		3600	IN	AAAA	2001:500:14:6040:ad::1
 ns2.nic.net.ng.		3600	IN	A	204.61.216.40
-ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns3.nic.net.ng.		3600	IN	A	196.216.168.41
+ns3.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns4.nic.net.ng.		3600	IN	A	204.13.250.93
 ns5.nic.net.ng.		3600	IN	AAAA	2001:43f8:120::41
 ns5.nic.net.ng.		3600	IN	A	196.216.168.41
@@ -47978,6 +47978,8 @@ nzira.ng.		3600	IN	NS	nsa.whogohost.com.
 nzira.ng.		3600	IN	NS	nsb.whogohost.com.
 nzogbunzogbu.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 nzogbunzogbu.ng.	3600	IN	NS	dns2.namecheaphosting.com.
+nzuko.ng.		3600	IN	NS	ns59.qservers.net.
+nzuko.ng.		3600	IN	NS	ns60.qservers.net.
 o-kash.ng.		3600	IN	NS	ns-405.awsdns-50.com.
 o-kash.ng.		3600	IN	NS	ns-730.awsdns-27.net.
 o-kash.ng.		3600	IN	NS	ns-1042.awsdns-02.org.
@@ -65042,10 +65044,8 @@ swordpress.ng.		3600	IN	NS	ns1.supercp.com.
 swordpress.ng.		3600	IN	NS	ns2.supercp.com.
 swot.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 swot.ng.		3600	IN	NS	dns2.namecheaphosting.com.
-swottech.ng.		3600	IN	NS	ns-381.awsdns-47.com.
-swottech.ng.		3600	IN	NS	ns-656.awsdns-18.net.
-swottech.ng.		3600	IN	NS	ns-1299.awsdns-34.org.
-swottech.ng.		3600	IN	NS	ns-1781.awsdns-30.co.uk.
+swottech.ng.		3600	IN	NS	nsa.whogohost.com.
+swottech.ng.		3600	IN	NS	nsb.whogohost.com.
 swu.ng.			3600	IN	NS	ns1.eurodns.com.
 swu.ng.			3600	IN	NS	ns2.eurodns.com.
 swu.ng.			3600	IN	NS	ns3.eurodns.com.
@@ -73363,7 +73363,7 @@ westfieldglobal.ng.	3600	IN	NS	nsb.whogohost.com.
 westgate.ng.		3600	IN	NS	ns1.westgate.ng.
 westgate.ng.		3600	IN	NS	ns2.westgate.ng.
 ns1.westgate.ng.	3600	IN	A	69.64.55.110
-ns2.westgate.ng.	3600	IN	A	104.219.250.52
+ns2.westgate.ng.	3600	IN	A	69.64.55.110
 westgateestate.ng.	3600	IN	NS	ns10.dnsmadeeasy.com.
 westgateestate.ng.	3600	IN	NS	ns11.dnsmadeeasy.com.
 westgateestate.ng.	3600	IN	NS	ns12.dnsmadeeasy.com.
