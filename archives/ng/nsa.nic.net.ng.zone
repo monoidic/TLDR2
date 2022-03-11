@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031051 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1646946807"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031101 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1646956833"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -984,6 +984,8 @@ a-z.ng.			3600	IN	NS	dns1.namecheaphosting.com.
 a-z.ng.			3600	IN	NS	dns2.namecheaphosting.com.
 a1foundation.ng.	3600	IN	NS	ns29.doveserver.com.
 a1foundation.ng.	3600	IN	NS	ns30.doveserver.com.
+a1homes.ng.		3600	IN	NS	dns1.doveserver.com.
+a1homes.ng.		3600	IN	NS	dns2.doveserver.com.
 a1store.ng.		3600	IN	NS	ns29.doveserver.com.
 a1store.ng.		3600	IN	NS	ns30.doveserver.com.
 a2b.ng.			3600	IN	NS	ns-445.awsdns-55.com.
@@ -1424,16 +1426,16 @@ acefuels-futo.ng.	3600	IN	NS	ns4.linode.com.
 acefuels-futo.ng.	3600	IN	NS	ns5.linode.com.
 aceglobal.ng.		3600	IN	NS	nsa.whogohost.com.
 aceglobal.ng.		3600	IN	NS	nsb.whogohost.com.
-acenetwork.ng.		3600	IN	NS	ns1.dknoc.com.
-acenetwork.ng.		3600	IN	NS	ns2.dknoc.com.
+acenetwork.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+acenetwork.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 acenews.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 acenews.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 acer.ng.		3600	IN	NS	ns-409.awsdns-51.com.
 acer.ng.		3600	IN	NS	ns-577.awsdns-08.net.
 acer.ng.		3600	IN	NS	ns-1499.awsdns-59.org.
 acer.ng.		3600	IN	NS	ns-1932.awsdns-49.co.uk.
-acerealestates.ng.	3600	IN	NS	ns1.dknoc.com.
-acerealestates.ng.	3600	IN	NS	ns2.dknoc.com.
+acerealestates.ng.	3600	IN	NS	dns1.namecheaphosting.com.
+acerealestates.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 acerostalflowers.ng.	3600	IN	NS	ns1.dknoc.com.
 acerostalflowers.ng.	3600	IN	NS	ns2.dknoc.com.
 aces.ng.		3600	IN	NS	dns1.freehostia.com.
@@ -3517,6 +3519,8 @@ altmedia.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 altmedia.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 altpower.ng.		3600	IN	NS	ns1.upperserver29.com.
 altpower.ng.		3600	IN	NS	ns2.upperserver29.com.
+altravel.ng.		3600	IN	NS	ns1.upperserver29.com.
+altravel.ng.		3600	IN	NS	ns2.upperserver29.com.
 aluba.ng.		3600	IN	NS	ns1.cba.pl.
 aluba.ng.		3600	IN	NS	ns2.cba.pl.
 aluba.ng.		3600	IN	NS	ns3.cba.pl.
@@ -16774,8 +16778,9 @@ dartinvest.ng.		3600	IN	NS	ns1.web4africa.com.
 dartinvest.ng.		3600	IN	NS	ns2.web4africa.com.
 dartinvest.ng.		3600	IN	NS	ns3.web4africa.com.
 dartinvest.ng.		3600	IN	NS	ns4.web4africa.com.
-dartly.ng.		3600	IN	NS	ns1.bdrivebox10.net.
-dartly.ng.		3600	IN	NS	ns2.bdrivebox10.net.
+dartly.ng.		3600	IN	NS	ns1.digitalocean.com.
+dartly.ng.		3600	IN	NS	ns2.digitalocean.com.
+dartly.ng.		3600	IN	NS	ns3.digitalocean.com.
 darulabrar.ng.		3600	IN	NS	ns1.dknoc.com.
 darulabrar.ng.		3600	IN	NS	ns2.dknoc.com.
 darum.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -28649,8 +28654,10 @@ gridsmart.ng.		3600	IN	NS	ns1.upperserver29.com.
 gridsmart.ng.		3600	IN	NS	ns2.upperserver29.com.
 gridx.ng.		3600	IN	NS	nsa.whogohost.com.
 gridx.ng.		3600	IN	NS	nsb.whogohost.com.
-gril.ng.		3600	IN	NS	ns1.dn-servers.com.
-gril.ng.		3600	IN	NS	ns2.dn-servers.com.
+gril.ng.		3600	IN	NS	ns1.supercp.com.
+gril.ng.		3600	IN	NS	ns2.supercp.com.
+gril.ng.		3600	IN	NS	ns3.supercp.com.
+gril.ng.		3600	IN	NS	ns4.supercp.com.
 grilli.ng.		3600	IN	NS	ns1.sedoparking.com.
 grilli.ng.		3600	IN	NS	ns2.sedoparking.com.
 grind.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -51772,6 +51779,8 @@ pepsimusicacad.ng.	3600	IN	NS	ns1.isn.com.ng.
 pepsimusicacad.ng.	3600	IN	NS	ns2.isn.com.ng.
 pepsimusicacademy.ng.	3600	IN	NS	ns1.isn.com.ng.
 pepsimusicacademy.ng.	3600	IN	NS	ns2.isn.com.ng.
+pepsimusiclabnaija.ng.	3600	IN	NS	ns1.isn.com.ng.
+pepsimusiclabnaija.ng.	3600	IN	NS	ns2.isn.com.ng.
 pepsinaija.ng.		3600	IN	NS	ns1.threee.ng.
 pepsinaija.ng.		3600	IN	NS	ns2.threee.ng.
 pepsinaijamusic.ng.	3600	IN	NS	ns1.isn.com.ng.
@@ -52845,6 +52854,8 @@ pministry.ng.		3600	IN	NS	ns2.onenetservers.com.
 pministry.ng.		3600	IN	NS	ns3.onenetservers.com.
 pml.ng.			3600	IN	NS	nsa.whogohost.com.
 pml.ng.			3600	IN	NS	nsb.whogohost.com.
+pmlnaija.ng.		3600	IN	NS	ns1.isn.com.ng.
+pmlnaija.ng.		3600	IN	NS	ns2.isn.com.ng.
 pmp.ng.			3600	IN	NS	dns1.namecheaphosting.com.
 pmp.ng.			3600	IN	NS	dns2.namecheaphosting.com.
 pms.ng.			3600	IN	NS	ns1.dknoc.com.
@@ -54148,6 +54159,8 @@ promostation.ng.	3600	IN	NS	ns1.web4africa.com.
 promostation.ng.	3600	IN	NS	ns2.web4africa.com.
 promostation.ng.	3600	IN	NS	ns3.web4africa.com.
 promostation.ng.	3600	IN	NS	ns4.web4africa.com.
+promote.ng.		3600	IN	NS	ns1.domains.ng.
+promote.ng.		3600	IN	NS	ns2.domains.ng.
 promoteme.ng.		3600	IN	NS	ns29.syskay.com.
 promoteme.ng.		3600	IN	NS	ns30.syskay.com.
 promotickets.ng.	3600	IN	NS	nsa.whogohost.com.
@@ -64772,8 +64785,8 @@ suretrade.ng.		3600	IN	NS	ns2.digitalocean.com.
 suretrade.ng.		3600	IN	NS	ns3.digitalocean.com.
 suretree.ng.		3600	IN	NS	ns1.upperserver29.com.
 suretree.ng.		3600	IN	NS	ns2.upperserver29.com.
-suretrip.ng.		3600	IN	NS	ns1.qservers.net.
-suretrip.ng.		3600	IN	NS	ns2.qservers.net.
+suretrip.ng.		3600	IN	NS	dns1.namecheaphosting.com.
+suretrip.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 surf.ng.		3600	IN	NS	ns15.hostnownow.com.
 surf.ng.		3600	IN	NS	ns16.hostnownow.com.
 surfi.ng.		3600	IN	NS	ns1.dknoc.com.
