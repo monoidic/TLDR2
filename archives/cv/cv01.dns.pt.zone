@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022031001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022031101 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	cv01.dns.pt.
@@ -2041,9 +2041,8 @@ galadodesporto.com.cv.	28800	IN	NS	ns1.mydnspt.net.
 galadodesporto.com.cv.	28800	IN	NS	ns2.mydnspt.net.
 games.com.cv.		28800	IN	NS	ns1.myhostdns.com.
 games.com.cv.		28800	IN	NS	ns2.myhostdns.com.
-geedo.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
-geedo.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
-geedo.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
+geedo.com.cv.		28800	IN	NS	burt.ns.cloudflare.com.
+geedo.com.cv.		28800	IN	NS	jade.ns.cloudflare.com.
 geostar.com.cv.		28800	IN	NS	ns01.feriaseviagens.com.
 geostar.com.cv.		28800	IN	NS	ns02.feriaseviagens.com.
 geostar.com.cv.		28800	IN	NS	ns03.feriaseviagens.com.
@@ -6919,6 +6918,8 @@ rotarypraia.cv.		28800	IN	NS	ns1.weblx-0.net.
 rotarypraia.cv.		28800	IN	NS	ns2.weblx-0.net.
 rotaventura.cv.		28800	IN	NS	ns3.dnstarvos.com.
 rotaventura.cv.		28800	IN	NS	ns4.dnstarvos.com.
+rotex.cv.		28800	IN	NS	ns1.inforsalweb.com.
+rotex.cv.		28800	IN	NS	ns2.inforsalweb.com.
 royal-t.cv.		28800	IN	NS	ns25.domaincontrol.com.
 royal-t.cv.		28800	IN	NS	ns26.domaincontrol.com.
 royalhideawayjasmin.cv.	28800	IN	NS	ns-452.awsdns-56.com.
@@ -7941,10 +7942,10 @@ ns.tudo.cv.		28800	IN	A	162.241.70.96
 tudonumclick.cv.	28800	IN	NS	ns1.ibername.com.
 tudonumclick.cv.	28800	IN	NS	ns2.ibername.com.
 tudonumclick.cv.	28800	IN	NS	ns3.ibername.com.
-tuduli.cv.		28800	IN	NS	da100a.trouble-free.net.
-tuduli.cv.		28800	IN	NS	dn100b.trouble-free.net.
 tuduli.cv.		28800	IN	AAAA	2600:2000:1000::7
 tuduli.cv.		28800	IN	AAAA	2600:2000:1001::7
+tuduli.cv.		28800	IN	NS	da100a.trouble-free.net.
+tuduli.cv.		28800	IN	NS	dn100b.trouble-free.net.
 tui-blue.cv.		28800	IN	AAAA	2600:2000:1000::7
 tui-blue.cv.		28800	IN	AAAA	2600:2000:1001::7
 tui-blue.cv.		28800	IN	NS	ns01.brandshelter.com.
