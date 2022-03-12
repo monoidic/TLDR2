@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031206 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031208 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647064830"
+mg.			7200	IN	TXT	"Generation Time: 1647072040"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3842,10 +3842,6 @@ filmcrew.mg.		86400	IN	NS	ns1.cloudns.io.
 filmcrew.mg.		86400	IN	NS	ns2.cloudns.io.
 filmfixer.mg.		86400	IN	NS	ns1.cloudns.io.
 filmfixer.mg.		86400	IN	NS	ns2.cloudns.io.
-filmlocation.mg.	86400	IN	NS	ns1.cloudns.io.
-filmlocation.mg.	86400	IN	NS	ns2.cloudns.io.
-filmproduction.mg.	86400	IN	NS	ns1.cloudns.io.
-filmproduction.mg.	86400	IN	NS	ns2.cloudns.io.
 filtre.mg.		86400	IN	NS	ns1.eden.dnshostnetwork.com.
 filtre.mg.		86400	IN	NS	ns2.eden.dnshostnetwork.com.
 filtres.mg.		86400	IN	NS	ns1.eden.dnshostnetwork.com.
@@ -5398,6 +5394,8 @@ izyrent.mg.		86400	IN	NS	ns1.dts.mg.
 izytv.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 izytv.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 izytv.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+izzyfoam.mg.		86400	IN	NS	ns1.dago-it.com.
+izzyfoam.mg.		86400	IN	NS	ns2.dago-it.com.
 jacadi.mg.		86400	IN	NS	dns1.cscdns.net.
 jacadi.mg.		86400	IN	NS	dns2.cscdns.net.
 jacarandas.mg.		86400	IN	NS	ns1.da.cloudns.io.
@@ -6349,8 +6347,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -7335,8 +7333,6 @@ natureau.mg.		86400	IN	NS	ns2.onyx.cloudns.io.
 natureholidayshouse.mg.	86400	IN	NS	ns1.contabo.net.
 natureholidayshouse.mg.	86400	IN	NS	ns2.contabo.net.
 natureholidayshouse.mg.	86400	IN	NS	ns3.contabo.net.
-naturopathie.mg.	86400	IN	NS	ns29.dot.mg.
-naturopathie.mg.	86400	IN	NS	ns29.illi.co.mg.
 nautilusmada.mg.	86400	IN	NS	ns1.servermada.com.
 nautilusmada.mg.	86400	IN	NS	ns2.servermada.com.
 navigo.mg.		86400	IN	NS	ns1.navigo.mg.
@@ -7994,8 +7990,6 @@ pangalanes.mg.		86400	IN	NS	ns2.mysecurecloudhost.com.
 pano-antananarivo.mg.	86400	IN	NS	ns-189-b.gandi.net.
 pano-antananarivo.mg.	86400	IN	NS	ns-164-c.gandi.net.
 pano-antananarivo.mg.	86400	IN	NS	ns-207-a.gandi.net.
-pantone.mg.		86400	IN	NS	ns1705.websitewelcome.com.
-pantone.mg.		86400	IN	NS	ns1706.websitewelcome.com.
 paositramada.mg.	86400	IN	NS	ns.dts.mg.
 paositramada.mg.	86400	IN	NS	ns1.dts.mg.
 paositramalagasy.mg.	86400	IN	NS	ns1.cloudns.io.
@@ -9164,8 +9158,6 @@ scout.mg.		86400	IN	NS	ns43.cloudns.net.
 scout.mg.		86400	IN	NS	ns44.cloudns.net.
 scout-evolution.mg.	86400	IN	NS	ns.dts.mg.
 scout-evolution.mg.	86400	IN	NS	ns1.dts.mg.
-scoutlocation.mg.	86400	IN	NS	ns1.cloudns.io.
-scoutlocation.mg.	86400	IN	NS	ns2.cloudns.io.
 scrimad.mg.		86400	IN	NS	ns.dts.mg.
 scrimad.mg.		86400	IN	NS	ns1.dts.mg.
 scriptura.mg.		86400	IN	NS	ns1.cloudns.io.
@@ -9552,9 +9544,6 @@ soc-semences.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 soc-semences.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 socamad.mg.		86400	IN	NS	ns.dts.mg.
 socamad.mg.		86400	IN	NS	ns1.dts.mg.
-socavitre.mg.		86400	IN	NS	ns1.contabo.net.
-socavitre.mg.		86400	IN	NS	ns2.contabo.net.
-socavitre.mg.		86400	IN	NS	ns3.contabo.net.
 societegenerale.mg.	86400	IN	NS	tigdns01.socgen.com.
 societegenerale.mg.	86400	IN	NS	tigdns02.socgen.com.
 societegenerale.mg.	86400	IN	NS	tigdns05.socgen.com.
@@ -10343,8 +10332,6 @@ totalenergies.mg.	86400	IN	NS	ns1.totalenergies.net.
 totalenergies.mg.	86400	IN	NS	ns3.totalenergies.biz.
 totalmall.mg.		86400	IN	NS	ns01.trademarkarea.com.
 totalmall.mg.		86400	IN	NS	ns02.trademarkarea.com.
-tourism.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
-tourism.mg.		86400	IN	NS	ns2.ntmada-webhosting.com.
 tourisme-aventure-madagascar.mg. 86400 IN NS	ivy.ns.cloudflare.com.
 tourisme-aventure-madagascar.mg. 86400 IN NS	jake.ns.cloudflare.com.
 tourisme-moto.mg.	86400	IN	NS	ns1.serveurgasy.com.
@@ -10682,8 +10669,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
