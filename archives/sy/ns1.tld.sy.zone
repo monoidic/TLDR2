@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031214 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1647066730"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031218 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1647079337"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -1614,8 +1614,8 @@ bakantex-op.sy.		86400	IN	NS	suspend1.tld.sy.
 bakantex-op.sy.		86400	IN	NS	suspend2.tld.sy.
 bala-plast.sy.		86400	IN	NS	suspend1.tld.sy.
 bala-plast.sy.		86400	IN	NS	suspend2.tld.sy.
-bala-waseet.sy.		86400	IN	NS	ns3.tld.sy.
-bala-waseet.sy.		86400	IN	NS	ns4.tld.sy.
+bala-waseet.sy.		86400	IN	NS	suspend1.tld.sy.
+bala-waseet.sy.		86400	IN	NS	suspend2.tld.sy.
 balade.sy.		86400	IN	NS	ns1.scs-net.org.
 balade.sy.		86400	IN	NS	ns2.scs-net.org.
 balkis-ol.sy.		86400	IN	NS	suspend1.tld.sy.
@@ -1868,10 +1868,8 @@ bluecloud.sy.		86400	IN	NS	ns1.veesp.com.
 bluecloud.sy.		86400	IN	NS	ns2.veesp.com.
 bluegenne.sy.		86400	IN	NS	ns16.samamax.com.
 bluegenne.sy.		86400	IN	NS	ns17.samamax.com.
-bluesky.sy.		86400	IN	NS	ns1.bluesky.sy.
-bluesky.sy.		86400	IN	NS	ns2.bluesky.sy.
-ns1.bluesky.sy.		86400	IN	A	185.61.153.71
-ns2.bluesky.sy.		86400	IN	A	185.61.153.73
+bluesky.sy.		86400	IN	NS	suspend1.tld.sy.
+bluesky.sy.		86400	IN	NS	suspend2.tld.sy.
 bob.sy.			86400	IN	NS	suspend1.tld.sy.
 bob.sy.			86400	IN	NS	suspend2.tld.sy.
 boj.sy.			86400	IN	NS	ns.plesklogin.net.
@@ -1928,6 +1926,8 @@ bsff.sy.		86400	IN	NS	ns11.inet.sy.
 bsff.sy.		86400	IN	NS	ns12.inet.sy.
 bss.sy.			86400	IN	NS	suspend1.tld.sy.
 bss.sy.			86400	IN	NS	suspend2.tld.sy.
+bt.sy.			86400	IN	NS	renan.ns.cloudflare.com.
+bt.sy.			86400	IN	NS	sierra.ns.cloudflare.com.
 btc.sy.			86400	IN	NS	ns1.dan.com.
 btc.sy.			86400	IN	NS	ns2.dan.com.
 btm.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -2410,8 +2410,8 @@ deuzicronapine.sy.	86400	IN	NS	nssui.comlaude.ch.
 deuzicronapine.sy.	86400	IN	NS	nssui.comlaude.net.
 dev.sy.			86400	IN	NS	kiki.ns.cloudflare.com.
 dev.sy.			86400	IN	NS	oswald.ns.cloudflare.com.
-deyari.sy.		86400	IN	NS	ns5.takamol.sy.
-deyari.sy.		86400	IN	NS	ns6.takamol.sy.
+deyari.sy.		86400	IN	NS	suspend1.tld.sy.
+deyari.sy.		86400	IN	NS	suspend2.tld.sy.
 dg.sy.			86400	IN	NS	f1g1ns1.dnspod.net.
 dg.sy.			86400	IN	NS	f1g1ns2.dnspod.net.
 dgr.sy.			86400	IN	NS	suspend1.tld.sy.
@@ -5983,8 +5983,8 @@ scltd.sy.		86400	IN	NS	ns1.scltd.sy.
 scltd.sy.		86400	IN	NS	ns2.scltd.sy.
 ns1.scltd.sy.		86400	IN	A	82.137.234.91
 ns2.scltd.sy.		86400	IN	A	82.137.234.92
-scm.sy.			86400	IN	NS	ns1.syrianmonster.com.sy.
-scm.sy.			86400	IN	NS	ns2.syrianmonster.com.sy.
+scm.sy.			86400	IN	NS	suspend1.tld.sy.
+scm.sy.			86400	IN	NS	suspend2.tld.sy.
 sco-me.sy.		86400	IN	NS	ns1.scs-net.sy.
 sco-me.sy.		86400	IN	NS	ns1.scs-net.org.
 sco-me.sy.		86400	IN	NS	ns2.scs-net.sy.
