@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222431484 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20220512082003 20220313072003 17389 sn. /CYdl7Oq5xU5y3gdNxfyYtEsEaF6wkm+DewqK17aLt5TZeiWMmvQnalv M7/GCJXZbYhpEAO6z2o+W6vjY/mL1w==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222431497 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20220512102003 20220313092003 17389 sn. dt2N1KCboSSqiv1179guCM27wcLfpdVFgreLDJcKzZiVrVGhpw0sJXpi 0RpdYecqCFPh0aLk2qq58rhlqfIBAg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20220419164952 20220218161340 17389 sn. q8sBXz1kK3A8utCNq/093Wy+DIeQLi+VXcWN0EaR+akmivCdQK3WJJ2d tTMlrTNn6Up1htEv1a7LcKOnuffyww==
-sn.			172800	IN	TXT	"No RRs processed [13/03/2022 09H20:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20220415130032 20220313072003 17389 sn. 9Vvon5IWynVxiz9kFu/UzmBUXEXgKUAQRXny4gARBzmaU335HIu6wOzG RzpwhwpBWKBgGbzLk1o68K7igsC1Ww==
+sn.			172800	IN	TXT	"No RRs processed [13/03/2022 11H20:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20220428232728 20220313092003 17389 sn. r9vjHo2tiikMmtddphLFDJ/3AUaLkWOn9P/ugpk41vPiH3V2DOOsLmsn CzZI3wmEnTxSrxSrQgQilHb5ujskig==
 sn.			43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO 3XzZeDQHA8ESqGXTthJvSpufECqLkw==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20220426213838 20220225204243 37490 sn. JliS85aiOUlRME+jPtusw+uRQ174vcUGFH1wbySyXsupCCF0sJTjN4+h vo0z7PVFi27aGFx5mQmXJbgDidKAHg==
@@ -6149,8 +6149,8 @@ dolima.sn.		43200	IN	NS	ns2.francedns.com.
 dolima.sn.		43200	IN	NS	ns3.francedns.com.
 dolima.sn.		43200	IN	NS	ns4.francedns.com.
 dolima.sn.		43200	IN	NS	ns5.francedns.com.
-domain.sn.		172800	IN	NS	ns110.ovh.net.
-domain.sn.		172800	IN	NS	dns110.ovh.net.
+domain.sn.		172800	IN	NS	ns1.bodis.com.
+domain.sn.		172800	IN	NS	ns2.bodis.com.
 domaine.sn.		43200	IN	NS	ns1.francedns.com.
 domaine.sn.		43200	IN	NS	ns2.francedns.com.
 domaine.sn.		43200	IN	NS	ns3.francedns.com.
@@ -11884,7 +11884,7 @@ laturquoise.sn.		43200	IN	NS	ns2.sonatel.sn.
 laturquoisetraiteur.sn.	172800	IN	NS	ns200.anycast.me.
 laturquoisetraiteur.sn.	172800	IN	NS	dns200.anycast.me.
 laturquoisetraiteur.sn.	172800	IN	DS	1282 8 2 BB9A86A1B8852D6F0BACDFA7CCB77E607D8A9A877839A1FE2CE5184A 524546E6
-laturquoisetraiteur.sn.	172800	IN	RRSIG	DS 13 2 172800 20220327095834 20220126095107 17389 sn. DV+6paugYy9Zkug2iPWTetnTTewnF+pDkUXdNq5Z8QWjUOBnURcH3mCV XymD5/0s53F6lO3t0mAbGIfw+GSVvg==
+laturquoisetraiteur.sn.	172800	IN	RRSIG	DS 13 2 172800 20220512085916 20220313085834 17389 sn. REb6mrT0GiJ2jqqiDyAnzoylrtLMENcwRHz2YSImMWP+2HIKwEo0CypF Qjw/gyEtGCZk4pJjPbXBOZUjOUzvMg==
 laurshop.sn.		172800	IN	NS	ns200.anycast.me.
 laurshop.sn.		172800	IN	NS	dns200.anycast.me.
 laurshop.sn.		172800	IN	DS	31852 8 2 71278E85C7DBCFD2AFB9A84D262CB24D15D01BDE124486352AF31A65 FB9503B2
