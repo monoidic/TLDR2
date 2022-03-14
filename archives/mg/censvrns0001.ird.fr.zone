@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031405 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031408 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647234086"
+mg.			7200	IN	TXT	"Generation Time: 1647244893"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -260,8 +260,8 @@ mg.			7200	IN	TXT	"Generation Time: 1647234086"
 86e.mg.			7200	IN	NS	zeus.ns.cloudflare.com.
 87.mg.			7200	IN	NS	alan.ns.cloudflare.com.
 87.mg.			7200	IN	NS	fish.ns.cloudflare.com.
-88.mg.			7200	IN	NS	ns1.dns.com.
-88.mg.			7200	IN	NS	ns2.dns.com.
+88.mg.			7200	IN	NS	adam.ns.cloudflare.com.
+88.mg.			7200	IN	NS	candy.ns.cloudflare.com.
 888.mg.			7200	IN	NS	ns1.dns.com.
 888.mg.			7200	IN	NS	ns2.dns.com.
 888jt.mg.		7200	IN	NS	ns1.dns.com.
@@ -428,6 +428,8 @@ aedim.mg.		7200	IN	NS	ns1.ntmada-webhosting.com.
 aedim.mg.		7200	IN	NS	ns2.ntmada-webhosting.com.
 aefe-ien-madagascar.mg.	7200	IN	NS	ns1.da.cloudns.io.
 aefe-ien-madagascar.mg.	7200	IN	NS	ns2.da.cloudns.io.
+aefm401.mg.		7200	IN	NS	ns1.serveurgasy.com.
+aefm401.mg.		7200	IN	NS	ns2.serveurgasy.com.
 aequo.mg.		7200	IN	NS	ns1.da.cloudns.io.
 aequo.mg.		7200	IN	NS	ns2.da.cloudns.io.
 aeroclubdetananarive.mg. 7200	IN	NS	ns1.mg.tambazotra.net.
@@ -3797,8 +3799,6 @@ fgc.mg.			86400	IN	NS	ns.tgn.mg.
 fgc.mg.			86400	IN	NS	ns1.tgn.mg.
 fhorm.mg.		86400	IN	NS	ns1.cloudns.io.
 fhorm.mg.		86400	IN	NS	ns2.cloudns.io.
-fianarana-sy-asa.mg.	86400	IN	NS	ns1.servermada.com.
-fianarana-sy-asa.mg.	86400	IN	NS	ns2.servermada.com.
 fiarako.mg.		86400	IN	NS	dns1.namecheaphosting.com.
 fiarako.mg.		86400	IN	NS	dns2.namecheaphosting.com.
 fiat.mg.		86400	IN	NS	dns4.p09.nsone.net.
@@ -5590,6 +5590,9 @@ kapila.mg.		86400	IN	NS	ns.dts.mg.
 kapila.mg.		86400	IN	NS	ns1.dts.mg.
 kaps.mg.		86400	IN	NS	ns1.hostns.io.
 kaps.mg.		86400	IN	NS	ns2.hostns.io.
+karama.mg.		86400	IN	NS	ns1.digitalocean.com.
+karama.mg.		86400	IN	NS	ns2.digitalocean.com.
+karama.mg.		86400	IN	NS	ns3.digitalocean.com.
 karatra.mg.		86400	IN	NS	ns1.wordpress.com.
 karatra.mg.		86400	IN	NS	ns2.wordpress.com.
 karatra.mg.		86400	IN	NS	ns3.wordpress.com.
@@ -9697,8 +9700,6 @@ sotans.mg.		86400	IN	NS	ns1.eden.dnshostnetwork.com.
 sotans.mg.		86400	IN	NS	ns2.eden.dnshostnetwork.com.
 sothys.mg.		86400	IN	NS	ns0.ordipat.fr.
 sothys.mg.		86400	IN	NS	ns2.ordipat.fr.
-soul-of-madagascartours.mg. 86400 IN	NS	dns1.namecheaphosting.com.
-soul-of-madagascartours.mg. 86400 IN	NS	dns2.namecheaphosting.com.
 sourcea.mg.		86400	IN	NS	ns1.onyx.cloudns.io.
 sourcea.mg.		86400	IN	NS	ns2.onyx.cloudns.io.
 sova.mg.		86400	IN	NS	ns1.firstvds.ru.
@@ -10233,8 +10234,6 @@ time.mg.		86400	IN	NS	ns1.eurodns.com.
 time.mg.		86400	IN	NS	ns2.eurodns.com.
 time.mg.		86400	IN	NS	ns3.eurodns.com.
 time.mg.		86400	IN	NS	ns4.eurodns.com.
-timeshare.mg.		86400	IN	NS	ns1.sahazamarline.net.
-timeshare.mg.		86400	IN	NS	ns2.sahazamarline.net.
 tisinday.mg.		86400	IN	NS	ns.dts.mg.
 tisinday.mg.		86400	IN	NS	ns1.dts.mg.
 titan.mg.		86400	IN	NS	katelyn.ns.cloudflare.com.
@@ -10659,8 +10658,8 @@ univ-mahajanga.mg.	86400	IN	NS	ns3.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns4.netim.net.
 univ-mahajanga.mg.	86400	IN	NS	ns5.netim.net.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
