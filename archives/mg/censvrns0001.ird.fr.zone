@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031706 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031708 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647496835"
+mg.			7200	IN	TXT	"Generation Time: 1647504044"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -1943,8 +1943,6 @@ bricorama.mg.		7200	IN	NS	ns2.mg.tambazotra.net.
 bricorama.mg.		7200	IN	NS	ns1.fr.malagasy.com.
 bricotech.mg.		7200	IN	NS	ns1.gasyweb.com.
 bricotech.mg.		7200	IN	NS	ns2.gasyweb.com.
-bridge.mg.		7200	IN	NS	kia.ns.cloudflare.com.
-bridge.mg.		7200	IN	NS	tom.ns.cloudflare.com.
 britishschool.mg.	7200	IN	NS	ns1.servermada.com.
 britishschool.mg.	7200	IN	NS	ns2.servermada.com.
 britneyspears.mg.	7200	IN	NS	ns1.101domain.com.
@@ -6352,8 +6350,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
+ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -9597,6 +9595,8 @@ soeco.mg.		86400	IN	NS	ns1.gasyweb.com.
 soeco.mg.		86400	IN	NS	ns2.gasyweb.com.
 sofitrans.mg.		86400	IN	NS	ns1.servermada.com.
 sofitrans.mg.		86400	IN	NS	ns2.servermada.com.
+sofitrans.mg.		86400	IN	NS	ns3.servermada.com.
+sofitrans.mg.		86400	IN	NS	ns1.sofitrans.sofitrans.mg.
 sofortprogramm.mg.	86400	IN	NS	ns26.ns26.de.
 sofortprogramm.mg.	86400	IN	NS	ns27.ns27.de.
 sofortprogramm.mg.	86400	IN	NS	ns28.ns28.de.
@@ -10681,8 +10681,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
@@ -10805,9 +10805,6 @@ vetcare.mg.		86400	IN	NS	ns3.entrydns.net.
 vetcare.mg.		86400	IN	NS	ns4.entrydns.net.
 vetclinic.mg.		86400	IN	NS	dns1.supremepanel31.com.
 vetclinic.mg.		86400	IN	NS	dns2.supremepanel31.com.
-veterinaire-majunga.mg.	86400	IN	NS	nsa.planethoster.net.
-veterinaire-majunga.mg.	86400	IN	NS	nsb.planethoster.net.
-veterinaire-majunga.mg.	86400	IN	NS	nsc.planethoster.net.
 vetiver-madagascar.mg.	86400	IN	NS	ns1.hostns.io.
 vetiver-madagascar.mg.	86400	IN	NS	ns2.hostns.io.
 vfriends.mg.		86400	IN	NS	ns3.brandcloudns.com.
