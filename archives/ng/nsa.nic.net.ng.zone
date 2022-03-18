@@ -1,5 +1,5 @@
-ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031812 10800 3600 604800 3600
-ng.			3600	IN	TXT	"Generation Time: 1647576098"
+ng.			3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022031818 10800 3600 604800 3600
+ng.			3600	IN	TXT	"Generation Time: 1647583288"
 ng.			3600	IN	NS	ns1.nic.net.ng.
 ng.			3600	IN	NS	ns2.nic.net.ng.
 ng.			3600	IN	NS	ns5.nic.net.ng.
@@ -20210,6 +20210,8 @@ eclipse.ng.		3600	IN	NS	nsa.whogohost.com.
 eclipse.ng.		3600	IN	NS	nsb.whogohost.com.
 eclipsepower.ng.	3600	IN	NS	ns15.qservers.net.
 eclipsepower.ng.	3600	IN	NS	ns16.qservers.net.
+ecms.ng.		3600	IN	NS	dns1.doveserver.com.
+ecms.ng.		3600	IN	NS	dns2.doveserver.com.
 ecnba.ng.		3600	IN	NS	nsa.whogohost.com.
 ecnba.ng.		3600	IN	NS	nsb.whogohost.com.
 ecnx.ng.		3600	IN	NS	ns1.ecnx.net.
@@ -25328,6 +25330,8 @@ foodora.ng.		3600	IN	NS	ns4.markmonitor.com.
 foodora.ng.		3600	IN	NS	ns5.markmonitor.com.
 foodora.ng.		3600	IN	NS	ns6.markmonitor.com.
 foodora.ng.		3600	IN	NS	ns7.markmonitor.com.
+foodpackaging.ng.	3600	IN	NS	dns1.doveserver.com.
+foodpackaging.ng.	3600	IN	NS	dns2.doveserver.com.
 foodpacks.ng.		3600	IN	NS	corporate.vip41.noc40.com.
 foodpacks.ng.		3600	IN	NS	corporate.vip42.noc40.com.
 foodpark.ng.		3600	IN	NS	nsa.whogohost.com.
@@ -26212,8 +26216,10 @@ funjobs.ng.		3600	IN	NS	dns1.namecheaphosting.com.
 funjobs.ng.		3600	IN	NS	dns2.namecheaphosting.com.
 funktrunk.ng.		3600	IN	NS	nsa.whogohost.com.
 funktrunk.ng.		3600	IN	NS	nsb.whogohost.com.
-funkycollections.ng.	3600	IN	NS	nsa.whogohost.com.
-funkycollections.ng.	3600	IN	NS	nsb.whogohost.com.
+funkycollections.ng.	3600	IN	NS	ns1.funkycollections.ng.
+funkycollections.ng.	3600	IN	NS	ns2.funkycollections.ng.
+ns1.funkycollections.ng. 3600	IN	A	67.223.117.108
+ns2.funkycollections.ng. 3600	IN	A	67.223.117.108
 funkycollectionz.ng.	3600	IN	NS	ns1.jeffreyjola.com.
 funkycollectionz.ng.	3600	IN	NS	ns2.jeffreyjola.com.
 funnels.ng.		3600	IN	NS	dns1.namecheaphosting.com.
