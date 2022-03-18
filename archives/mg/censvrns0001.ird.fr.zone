@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031812 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022031814 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1647604952"
+mg.			7200	IN	TXT	"Generation Time: 1647612155"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -2915,6 +2915,8 @@ dev.mg.			7200	IN	NS	ns1.sedoparking.com.
 dev.mg.			7200	IN	NS	ns2.sedoparking.com.
 dev-tech.mg.		7200	IN	NS	adam.ns.cloudflare.com.
 dev-tech.mg.		7200	IN	NS	sloan.ns.cloudflare.com.
+devschool.mg.		7200	IN	NS	ns1.da.cloudns.io.
+devschool.mg.		7200	IN	NS	ns2.da.cloudns.io.
 dexios.mg.		7200	IN	NS	dns102.ovh.net.
 dexios.mg.		7200	IN	NS	ns102.ovh.net.
 dgcf.mg.		7200	IN	NS	ns.tgn.mg.
@@ -7908,6 +7910,8 @@ osipd.mg.		86400	IN	NS	ns1.justhost.com.
 osipd.mg.		86400	IN	NS	ns2.justhost.com.
 osmoz.mg.		86400	IN	NS	ns.dts.mg.
 osmoz.mg.		86400	IN	NS	ns1.dts.mg.
+osmozmada.mg.		86400	IN	NS	ns1.da.cloudns.io.
+osmozmada.mg.		86400	IN	NS	ns2.da.cloudns.io.
 ostie.mg.		86400	IN	NS	ns.dts.mg.
 ostie.mg.		86400	IN	NS	ns1.dts.mg.
 otcorp.mg.		86400	IN	NS	ns.tgn.mg.
@@ -10692,8 +10696,8 @@ bsdrouter1.univ-fianar.mg. 86400 IN	A	51.91.102.71
 univ-mahajanga.mg.	86400	IN	NS	brit.ns.cloudflare.com.
 univ-mahajanga.mg.	86400	IN	NS	justin.ns.cloudflare.com.
 univ-toamasina.mg.	86400	IN	NS	ns.univ-toamasina.mg.
-ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 ns.univ-toamasina.mg.	86400	IN	A	41.242.103.3
+ns.univ-toamasina.mg.	86400	IN	A	41.242.103.8
 univ-toliara.mg.	86400	IN	NS	ns1.irenala.edu.mg.
 univ-toliara.mg.	86400	IN	NS	ns2.irenala.edu.mg.
 univers.mg.		86400	IN	NS	ns.dts.mg.
