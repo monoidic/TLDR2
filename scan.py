@@ -240,7 +240,7 @@ def get_dig_axfr_output( hostname, nameserver ):
     ], stdout=subprocess.PIPE) as proc:
         unsorted = proc.stdout.read()
 
-    with subprocess.Popen(['ldns-read-zone', '-z'], stdin=subprocess.PIPE, stdout=subprocess.PIPE) as proc:
+    with subprocess.Popen(['ldns-read-zone', '-zs'], stdin=subprocess.PIPE, stdout=subprocess.PIPE) as proc:
         sorted, err = proc.communicate(unsorted)
         if proc.returncode != 0:
             raise Exception(f'error parsing zone {hostname}')
