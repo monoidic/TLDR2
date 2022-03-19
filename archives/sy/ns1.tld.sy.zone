@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031923 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1647691333"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022031927 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1647698539"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -2852,8 +2852,9 @@ etmam.sy.		86400	IN	NS	suspend1.tld.sy.
 etmam.sy.		86400	IN	NS	suspend2.tld.sy.
 etme.sy.		86400	IN	NS	suspend1.tld.sy.
 etme.sy.		86400	IN	NS	suspend2.tld.sy.
-etranz.sy.		86400	IN	NS	suspend1.tld.sy.
-etranz.sy.		86400	IN	NS	suspend2.tld.sy.
+etranz.sy.		86400	IN	NS	ns1.site4now.net.
+etranz.sy.		86400	IN	NS	ns2.site4now.net.
+etranz.sy.		86400	IN	NS	ns3.site4now.net.
 eu.sy.			86400	IN	NS	suspend1.tld.sy.
 eu.sy.			86400	IN	NS	suspend2.tld.sy.
 euromedcm.sy.		86400	IN	NS	ns1.ucg-core.com.
