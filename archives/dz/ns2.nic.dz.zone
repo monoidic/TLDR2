@@ -1,4 +1,4 @@
-dz.	10800	IN	SOA	ns1.nic.dz. dnsmaster.nic.dz. 2022031711 10800 3600 2592000 432000
+dz.	10800	IN	SOA	ns1.nic.dz. dnsmaster.nic.dz. 2022032000 10800 3600 2592000 432000
 dz.	10800	IN	NS	ns1.nic.dz.
 dz.	10800	IN	NS	ns2.nic.dz.
 dz.	10800	IN	NS	ns3.nic.fr.
@@ -4798,8 +4798,10 @@ bri-marketing.dz.	10800	IN	NS	dns-1.djaweb.dz.
 bri-marketing.dz.	10800	IN	NS	dns-2.djaweb.dz.
 bri-marketing.dz.	10800	IN	NS	dns-3.djaweb.dz.
 bri-marketing.dz.	10800	IN	NS	dns-4.djaweb.dz.
-bricadeco.dz.	10800	IN	NS	djilweb-public-dns-a.djilweb.dz.
-bricadeco.dz.	10800	IN	NS	djilweb-public-dns-b.djilweb.dz.
+bricadeco.dz.	10800	IN	NS	ns1.djilweb.dz.
+bricadeco.dz.	10800	IN	NS	ns2.djilweb.dz.
+bricadeco.dz.	10800	IN	NS	ns3.djilweb.dz.
+bricadeco.dz.	10800	IN	NS	ns4.djilweb.dz.
 brice.dz.	10800	IN	NS	ns0.ordipat.fr.
 brice.dz.	10800	IN	NS	ns2.ordipat.fr.
 brice.dz.	10800	IN	NS	ns3.ordipat.fr.
@@ -8700,6 +8702,11 @@ djilweb.dz.	10800	IN	NS	djilweb-public-dns-a.djilweb.dz.
 djilweb.dz.	10800	IN	NS	djilweb-public-dns-b.djilweb.dz.
 djilweb-public-dns-a.djilweb.dz.	10800	IN	A	41.111.156.37
 djilweb-public-dns-b.djilweb.dz.	10800	IN	A	41.111.156.38
+ns1.djilweb.dz.	10800	IN	A	31.207.33.55
+ns2.djilweb.dz.	10800	IN	A	31.207.33.244
+ns3.djilweb.dz.	10800	IN	A	41.111.156.37
+ns4.djilweb.dz.	10800	IN	A	41.111.156.38
+ns4.djilweb.dz.	10800	IN	NS	djilweb-public-dns-b.djilweb.dz.
 djitinnovations.dz.	10800	IN	NS	dns2-r.dzsecurity.net.
 djitinnovations.dz.	10800	IN	NS	venus-shared.dzsecurity.net.
 djitinnovations.dz.	10800	IN	NS	jupiter-shared.dzsecurity.net.
