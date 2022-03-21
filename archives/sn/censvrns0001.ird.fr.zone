@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432927 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432940 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/03/2022 15H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [21/03/2022 17H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1248,6 +1248,8 @@ ambre.sn.	43200	IN	NS	ns1.kheweul.net.
 ambre.sn.	43200	IN	NS	ns2.kheweul.net.
 ambre.sn.	43200	IN	NS	ns3.kheweul.net.
 ambre.sn.	43200	IN	NS	ns4.kheweul.net.
+amcham.sn.	172800	IN	NS	ns1.cp-35.webhostbox.net.
+amcham.sn.	172800	IN	NS	ns2.cp-35.webhostbox.net.
 amecis.sn.	172800	IN	NS	ns105.ovh.net.
 amecis.sn.	172800	IN	NS	dns105.ovh.net.
 amecis.sn.	172800	IN	DS	44986 8 2 34eb5dce35918a83da1bb02ff96c40e534354b1d96e5bf7c19cc17d34a972896
