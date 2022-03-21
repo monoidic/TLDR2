@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432940 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432954 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/03/2022 17H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [21/03/2022 19H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -443,8 +443,6 @@ acrc.sn.	43200	IN	NS	ns4.eurodns.com.
 acs-immo.sn.	172800	IN	NS	ns11.ovh.net.
 acs-immo.sn.	172800	IN	NS	dns11.ovh.net.
 acs-immo.sn.	172800	IN	DS	63565 8 2 9d5b2d509a08cf5910b27e5a8851c816b535d286c5e8214b8ee3d9ec42be1cc7
-act.sn.	43200	IN	NS	corporate.vip51.noc40.com.
-act.sn.	43200	IN	NS	corporate.vip52.noc40.com.
 actifinfo.sn.	43200	IN	NS	ns1.kheweul.net.
 actifinfo.sn.	43200	IN	NS	ns2.kheweul.net.
 actifinfo.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -895,8 +893,6 @@ agts.sn.	43200	IN	NS	ns8.jajeuf.com.
 agts.sn.	43200	IN	DS	56646 1 1 f6a25fc1e83590017b99c1251ae03cb7f0534e16
 aguila.sn.	43200	IN	NS	ns102.ovh.net.
 aguila.sn.	43200	IN	NS	dns102.ovh.net.
-ahder.sn.	43200	IN	NS	corporate.vip51.noc40.com.
-ahder.sn.	43200	IN	NS	corporate.vip52.noc40.com.
 ahmadiya.sn.	172800	IN	NS	ns1.wanekoohost.com.
 ahmadiya.sn.	172800	IN	NS	ns2.wanekoohost.com.
 ahmadiya.sn.	172800	IN	NS	ns4.wanekoohost.com.
@@ -6654,6 +6650,10 @@ encorebyfocus.sn.	43200	IN	NS	ns1.kheweul.net.
 encorebyfocus.sn.	43200	IN	NS	ns2.kheweul.net.
 encorebyfocus.sn.	43200	IN	NS	ns3.kheweul.net.
 encorebyfocus.sn.	43200	IN	NS	ns4.kheweul.net.
+encove.sn.	172800	IN	NS	ns1.kheweul.net.
+encove.sn.	172800	IN	NS	ns2.kheweul.net.
+encove.sn.	172800	IN	NS	ns3.kheweul.net.
+encove.sn.	172800	IN	NS	ns4.kheweul.net.
 enda.sn.	43200	IN	NS	ns12.ovh.net.
 enda.sn.	43200	IN	NS	dns12.ovh.net.
 enekio.sn.	43200	IN	NS	ns200.anycast.me.
@@ -8058,8 +8058,6 @@ galaxysport.sn.	43200	IN	NS	ns31.infomaniak.com.
 galaxysport.sn.	43200	IN	NS	ns32.infomaniak.com.
 galeriekemboury.sn.	43200	IN	NS	ns200.anycast.me.
 galeriekemboury.sn.	43200	IN	NS	dns200.anycast.me.
-galsen.sn.	43200	IN	NS	corporate.vip51.noc40.com.
-galsen.sn.	43200	IN	NS	corporate.vip52.noc40.com.
 galsencm.sn.	43200	IN	NS	alla.ns.cloudflare.com.
 galsencm.sn.	43200	IN	NS	peyton.ns.cloudflare.com.
 galsenpeople.sn.	172800	IN	NS	ns2.wanekoohost.com.
@@ -8374,6 +8372,8 @@ globalproperties.sn.	172800	IN	NS	ns1.kheweul.net.
 globalproperties.sn.	172800	IN	NS	ns2.kheweul.net.
 globalproperties.sn.	172800	IN	NS	ns3.kheweul.net.
 globalproperties.sn.	172800	IN	NS	ns4.kheweul.net.
+globalpub.sn.	172800	IN	NS	ns1.servconfig.com.
+globalpub.sn.	172800	IN	NS	ns2.servconfig.com.
 globaltechnology.sn.	43200	IN	NS	ns5.jokko-hosting.com.
 globaltechnology.sn.	43200	IN	NS	ns6.jokko-hosting.com.
 globaltours.sn.	172800	IN	NS	ns1.ascio.com.
@@ -9963,6 +9963,10 @@ irisn.sn.	43200	IN	NS	ns2.sonatel.sn.
 irritec.sn.	172800	IN	NS	ns.abdns.eu.
 irritec.sn.	172800	IN	NS	ns.abdns.biz.
 irritec.sn.	172800	IN	NS	ns.abdns.info.
+irsaero.sn.	172800	IN	NS	ns1.kheweul.net.
+irsaero.sn.	172800	IN	NS	ns2.kheweul.net.
+irsaero.sn.	172800	IN	NS	ns3.kheweul.net.
+irsaero.sn.	172800	IN	NS	ns4.kheweul.net.
 isa.sn.	43200	IN	NS	ns1.kheweul.net.
 isa.sn.	43200	IN	NS	ns2.kheweul.net.
 isa.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -14883,8 +14887,6 @@ piecesauto.sn.	43200	IN	NS	dns200.anycast.me.
 pierrefabre-oralcare.sn.	43200	IN	NS	a.ns.mailclub.fr.
 pierrefabre-oralcare.sn.	43200	IN	NS	b.ns.mailclub.eu.
 pierrefabre-oralcare.sn.	43200	IN	NS	c.ns.mailclub.com.
-piindidentalfulbe.sn.	43200	IN	NS	ns1.md-9.webhostbox.net.
-piindidentalfulbe.sn.	43200	IN	NS	ns2.md-9.webhostbox.net.
 pilashop.sn.	172800	IN	NS	ns103.ovh.net.
 pilashop.sn.	172800	IN	NS	dns103.ovh.net.
 pilashop.sn.	172800	IN	DS	48949 8 2 cc3d1acee106a6161cffb382d829330b3b0a0a935f65bf0535c064f7a95a30aa
@@ -17947,8 +17949,6 @@ socetra.sn.	43200	IN	NS	dns12.ovh.net.
 socetra.sn.	172800	IN	DS	8086 8 2 d5411681d9a2b9f046b6a895b195e756c224567bdd6c46e7b856c6b26db29a31
 socetrans.sn.	43200	IN	NS	ns.sonatel.sn.
 socetrans.sn.	43200	IN	NS	ns2.sonatel.sn.
-socialab.sn.	43200	IN	NS	corporate.vip51.noc40.com.
-socialab.sn.	43200	IN	NS	corporate.vip52.noc40.com.
 sociallemon.sn.	43200	IN	NS	ns10.ovh.ca.
 sociallemon.sn.	43200	IN	NS	dns10.ovh.ca.
 sociallemon.sn.	43200	IN	DS	37840 8 2 1e42f62cd4db6980ff9aebd6c728a3b5b1866b16680520c0a52abcfefd5c7be4
@@ -19141,8 +19141,6 @@ terangamotors.sn.	172800	IN	NS	ns5.wanekoohost.com.
 terangamotors.sn.	172800	IN	NS	ns6.wanekoohost.com.
 teranganews.sn.	43200	IN	NS	lara.ns.cloudflare.com.
 teranganews.sn.	43200	IN	NS	jonah.ns.cloudflare.com.
-terangasenegal.sn.	43200	IN	NS	corporate.vip51.noc40.com.
-terangasenegal.sn.	43200	IN	NS	corporate.vip52.noc40.com.
 terangatech.sn.	172800	IN	NS	ns20.ovh.net.
 terangatech.sn.	172800	IN	NS	dns20.ovh.net.
 terangatech.sn.	172800	IN	DS	8581 8 2 797a1852d293e4cc6d4f55f586784acaaebf0a01416a705221f663e559c4b5e3
@@ -20034,8 +20032,8 @@ universedu.sn.	172800	IN	NS	ns.sonatel.sn.
 universedu.sn.	172800	IN	NS	ns2.sonatel.sn.
 universinformatique.sn.	172800	IN	NS	ns200.anycast.me.
 universinformatique.sn.	172800	IN	NS	dns200.anycast.me.
-universityofmanagement.sn.	43200	IN	NS	ns1.lwsdns.com.
-universityofmanagement.sn.	43200	IN	NS	ns2.lwsdns.com.
+universityofmanagement.sn.	172800	IN	NS	ns1.hostinger.fr.
+universityofmanagement.sn.	172800	IN	NS	ns2.hostinger.fr.
 universtransit.sn.	43200	IN	NS	ns1.kheweul.net.
 universtransit.sn.	43200	IN	NS	ns2.kheweul.net.
 universtransit.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -20777,6 +20775,9 @@ wommat.sn.	172800	IN	NS	ns1.kheweul.net.
 wommat.sn.	172800	IN	NS	ns2.kheweul.net.
 wommat.sn.	172800	IN	NS	ns3.kheweul.net.
 wommat.sn.	172800	IN	NS	ns4.kheweul.net.
+wonderfood.sn.	172800	IN	NS	nsa.n0c.com.
+wonderfood.sn.	172800	IN	NS	nsb.n0c.com.
+wonderfood.sn.	172800	IN	NS	nsc.n0c.com.
 wonema.sn.	43200	IN	NS	ns14.ovh.net.
 wonema.sn.	43200	IN	NS	dns14.ovh.net.
 woodmizer.sn.	172800	IN	NS	ns01.trademarkarea.com.
