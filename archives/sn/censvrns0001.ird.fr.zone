@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432971 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432984 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/03/2022 21H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [21/03/2022 23H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4366,6 +4366,8 @@ coinhub.sn.	172800	IN	NS	ns1.icp100.net.
 coinhub.sn.	172800	IN	NS	ns2.icp100.net.
 coinme.sn.	43200	IN	NS	ns1.101domain.com.
 coinme.sn.	43200	IN	NS	ns2.101domain.com.
+coinrule.sn.	172800	IN	NS	ns1.101domain.com.
+coinrule.sn.	172800	IN	NS	ns2.101domain.com.
 coins.sn.	172800	IN	NS	ns1.sedoparking.com.
 coins.sn.	172800	IN	NS	ns2.sedoparking.com.
 cola.sn.	172800	IN	NS	ursula.ns.cloudflare.com.
@@ -11571,6 +11573,8 @@ lequotidien.sn.	43200	IN	NS	ns1.africatichost.com.
 lequotidien.sn.	43200	IN	NS	ns2.africatichost.com.
 lerelais.sn.	43200	IN	NS	ns102.ovh.net.
 lerelais.sn.	43200	IN	NS	dns102.ovh.net.
+leroi.sn.	172800	IN	NS	ns1.101domain.com.
+leroi.sn.	172800	IN	NS	ns2.101domain.com.
 lerondpoint.sn.	43200	IN	NS	pdns05.domaincontrol.com.
 lerondpoint.sn.	43200	IN	NS	pdns06.domaincontrol.com.
 leroy-merlin.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -18709,6 +18713,8 @@ supeco.sn.	43200	IN	NS	antor.carrefour.com.
 supeco.sn.	43200	IN	NS	pendragon.carrefour.com.
 super-orange.sn.	43200	IN	NS	ns.sonatel.sn.
 super-orange.sn.	43200	IN	NS	ns2.sonatel.sn.
+supermarche.sn.	172800	IN	NS	ns110.ovh.net.
+supermarche.sn.	172800	IN	NS	dns110.ovh.net.
 supersportbet.sn.	172800	IN	NS	ns1-03.azure-dns.com.
 supersportbet.sn.	172800	IN	NS	ns2-03.azure-dns.net.
 supersportbet.sn.	172800	IN	NS	ns3-03.azure-dns.org.
