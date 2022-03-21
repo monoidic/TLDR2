@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432954 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222432971 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/03/2022 19H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [21/03/2022 21H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1802,9 +1802,6 @@ astechnologies.sn.	172800	IN	NS	dns100.ovh.net.
 astechnologies.sn.	172800	IN	DS	41836 8 2 3e31e54779e7c472e6997544e7c8c608b1744d00d9d70b93781086c1430a45fc
 astol.sn.	43200	IN	NS	ns15.ovh.net.
 astol.sn.	43200	IN	NS	dns15.ovh.net.
-astuce.sn.	172800	IN	NS	ns13.ovh.net.
-astuce.sn.	172800	IN	NS	dns13.ovh.net.
-astuce.sn.	43200	IN	DS	9457 8 2 4e35cec8d0d4f25b92f9707f1dd7c4ad34ad2294fd7997cf8829d32f0ebe2860
 astv.sn.	43200	IN	NS	ns200.anycast.me.
 astv.sn.	43200	IN	NS	dns200.anycast.me.
 atalian.sn.	43200	IN	NS	ns1.lerelaisinternet.com.
@@ -5053,6 +5050,11 @@ dakarmedical.sn.	43200	IN	NS	ns2.refer.sn.
 dakarmedicalcenter.sn.	172800	IN	NS	ns103.ovh.net.
 dakarmedicalcenter.sn.	172800	IN	NS	dns103.ovh.net.
 dakarmedicalcenter.sn.	172800	IN	DS	47554 8 2 737d722c128e30b7903a86fafd1d33b3ab76567c1c947a101bdcf4e7170fc5a0
+dakarmobilite.sn.	172800	IN	NS	ns.bnamed.eu.
+dakarmobilite.sn.	172800	IN	NS	ns.bnamed.uk.
+dakarmobilite.sn.	172800	IN	NS	ns.bnamed.us.
+dakarmobilite.sn.	172800	IN	NS	ns.nscluster.pt.
+dakarmobilite.sn.	172800	IN	NS	ns.nscluster.sk.
 dakarnave.sn.	43200	IN	NS	ns.sonatel.sn.
 dakarnave.sn.	43200	IN	NS	ns2.sonatel.sn.
 dakarnews.sn.	43200	IN	NS	ns1.ascio.com.
