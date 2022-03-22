@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032101 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032102 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -8138,6 +8138,7 @@ ie.	172800	IN	NS	b.ns.ie.
 ie.	172800	IN	NS	c.ns.ie.
 ie.	172800	IN	NS	d.ns.ie.
 ie.	172800	IN	NS	g.ns.ie.
+ie.	172800	IN	NS	h.ns.ie.
 ie.	172800	IN	NS	i.ns.ie.
 ie.	86400	IN	DS	64134 13 2 77b9519d16b62d0a70a7301945cbb3092a7978bfde75a3bcfb3d4719396e436a
 b.ns.ie.	172800	IN	A	77.72.72.34
@@ -8148,6 +8149,8 @@ d.ns.ie.	172800	IN	A	77.72.229.245
 d.ns.ie.	172800	IN	AAAA	2a01:3f0:0:309::53
 g.ns.ie.	172800	IN	A	192.111.39.100
 g.ns.ie.	172800	IN	AAAA	2001:7c8:2:a::64
+h.ns.ie.	172800	IN	A	192.93.0.4
+h.ns.ie.	172800	IN	AAAA	2001:660:3005:1::1:2
 i.ns.ie.	172800	IN	A	194.0.25.35
 i.ns.ie.	172800	IN	AAAA	2001:678:20::35
 ieee.	172800	IN	NS	dns1.nic.ieee.
