@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433129 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433145 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [22/03/2022 21H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [22/03/2022 23H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5394,8 +5394,9 @@ deuzicronapine.sn.	43200	IN	NS	nssui.comlaude.ch.
 deuzicronapine.sn.	43200	IN	NS	nsusa.comlaude.net.
 dev-ameublement.sn.	172800	IN	NS	ns1.md-82.webhostbox.net.
 dev-ameublement.sn.	172800	IN	NS	ns2.md-82.webhostbox.net.
-developpeurs.sn.	172800	IN	NS	ns11.ovh.net.
-developpeurs.sn.	172800	IN	NS	dns11.ovh.net.
+developpeurs.sn.	172800	IN	NS	ns1.digitalocean.com.
+developpeurs.sn.	172800	IN	NS	ns2.digitalocean.com.
+developpeurs.sn.	172800	IN	NS	ns3.digitalocean.com.
 devengine.sn.	43200	IN	NS	ns1.kheweul.net.
 devengine.sn.	43200	IN	NS	ns2.kheweul.net.
 devhoster.sn.	172800	IN	NS	nsa.n0c.com.
@@ -7248,6 +7249,12 @@ facebook.sn.	43200	IN	NS	ns4.lovellsnames.org.
 fadiou.sn.	172800	IN	NS	ns1.netim.net.
 fadiou.sn.	172800	IN	NS	ns2.netim.net.
 fadiou.sn.	172800	IN	NS	ns3.netim.net.
+fadju.sn.	172800	IN	NS	ns1.wanekoohost.com.
+fadju.sn.	172800	IN	NS	ns2.wanekoohost.com.
+fadju.sn.	172800	IN	NS	ns3.wanekoohost.com.
+fadju.sn.	172800	IN	NS	ns4.wanekoohost.com.
+fadju.sn.	172800	IN	NS	ns5.wanekoohost.com.
+fadju.sn.	172800	IN	NS	ns6.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns1.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fagaru.sn.	43200	IN	NS	eisdns1.expertis.sn.
@@ -9470,6 +9477,7 @@ ilfservices.sn.	43200	IN	NS	ns3.kheweul.net.
 ilfservices.sn.	43200	IN	NS	ns4.kheweul.net.
 iliosgroupe.sn.	172800	IN	NS	ns110.ovh.net.
 iliosgroupe.sn.	172800	IN	NS	dns110.ovh.net.
+iliosgroupe.sn.	172800	IN	DS	42115 8 2 08aaf2984e5c0e44298276a2799ec3910e1766b8ee9a93e3a4f2b6969c127258
 illihost.sn.	172800	IN	NS	ns1.wanekoohost.com.
 illihost.sn.	172800	IN	NS	ns4.wanekoohost.com.
 illihost.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -16935,8 +16943,6 @@ senegaldakar.sn.	172800	IN	NS	ns1045.ui-dns.de.
 senegaldakar.sn.	172800	IN	NS	ns1045.ui-dns.biz.
 senegaldakar.sn.	172800	IN	NS	ns1045.ui-dns.com.
 senegaldakar.sn.	172800	IN	NS	ns1045.ui-dns.org.
-senegalenlumieres.sn.	43200	IN	NS	ns1.101domain.com.
-senegalenlumieres.sn.	43200	IN	NS	ns2.101domain.com.
 senegalentraide.sn.	43200	IN	NS	ns5.jokko-hosting.com.
 senegalentraide.sn.	43200	IN	NS	ns6.jokko-hosting.com.
 senegaletvous.sn.	172800	IN	NS	ns103.ovh.net.
