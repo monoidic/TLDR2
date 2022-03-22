@@ -1,4 +1,4 @@
-pg.	172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022031501 14400 7200 1728000 14400
+pg.	172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032202 14400 7200 1728000 14400
 pg.	172800	IN	NS	ns.uu.net.
 pg.	172800	IN	NS	ns1.tiare.net.pg.
 pg.	172800	IN	NS	ns1.unitech.ac.pg.
@@ -1489,9 +1489,8 @@ grandcolumbia.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
 grandpapuahotel.com.pg.	172800	IN	NS	ns1.datec.net.pg.
 grandpapuahotel.com.pg.	172800	IN	NS	ns2.datec.net.pg.
 grandpapuahotel.com.pg.	172800	IN	NS	ns3.datec.net.pg.
-green.com.pg.	172800	IN	NS	ns1.he.net.
-green.com.pg.	172800	IN	NS	ns1.geoscaling.com.
-green.com.pg.	172800	IN	NS	freedns1.registrar-servers.com.
+green.com.pg.	172800	IN	NS	pdns1.registar-servers.com.
+green.com.pg.	172800	IN	NS	pdns2.registrar-servers.com.
 greenacreestates.com.pg.	172800	IN	NS	ns1.datec.net.pg.
 greenacreestates.com.pg.	172800	IN	NS	ns2.datec.net.pg.
 greenacreestates.com.pg.	172800	IN	NS	ns3.datec.net.pg.
@@ -2712,6 +2711,14 @@ nca.com.pg.	172800	IN	NS	ns2.online.net.pg.
 nccivilworks.com.pg.	172800	IN	NS	ns1.webcity.com.au.
 nccivilworks.com.pg.	172800	IN	NS	ns2.webcity.com.au.
 nccivilworks.com.pg.	172800	IN	NS	ns3.webcity.com.au.
+ncl.com.pg.	172800	IN	NS	ns1.vits.com.pg.
+ncl.com.pg.	172800	IN	NS	ns2.vits.com.
+ncl.com.pg.	172800	IN	NS	ns3.virtual.com.
+ncl.com.pg.	172800	IN	NS	ns4.virtualit.com.
+ncl-vits.com.pg.	172800	IN	NS	ns1.vits.com.pg.pg.
+ncl-vits.com.pg.	172800	IN	NS	ns2.vits.com.
+ncl-vits.com.pg.	172800	IN	NS	ns3.virtual.com.
+ncl-vits.com.pg.	172800	IN	NS	ns4.virtualit.com.
 ncr.com.pg.	172800	IN	NS	ns1.global.net.pg.
 ncr.com.pg.	172800	IN	NS	ns2.global.net.pg.
 ncs.com.pg.	172800	IN	NS	pdns07.domaincontrol.com.
@@ -2749,9 +2756,8 @@ newtonpacific.com.pg.	172800	IN	NS	ns1.global.net.pg.
 newtonpacific.com.pg.	172800	IN	NS	ns2.global.net.pg.
 newvision.com.pg.	172800	IN	NS	ns1.online.net.pg.
 newvision.com.pg.	172800	IN	NS	ns2.online.net.pg.
-next.com.pg.	172800	IN	NS	ns1.he.net.
-next.com.pg.	172800	IN	NS	ns1.geoscaling.com.
-next.com.pg.	172800	IN	NS	freedns1.registrar-servers.com.
+next.com.pg.	172800	IN	NS	pdns1.registrar-servers.com.
+next.com.pg.	172800	IN	NS	pdns2.registrar-servers.com.
 nextofkin.com.pg.	172800	IN	NS	ns1.global.net.pg.
 nextofkin.com.pg.	172800	IN	NS	ns2.global.net.pg.
 nexusengineering.com.pg.	172800	IN	NS	ns1.qldwebhosting.com.au.
@@ -3323,9 +3329,9 @@ pnghalla.com.pg.	172800	IN	NS	ns1.global.net.pg.
 pnghalla.com.pg.	172800	IN	NS	ns2.global.net.pg.
 pnghampers.com.pg.	172800	IN	NS	ns1.global.net.pg.
 pnghampers.com.pg.	172800	IN	NS	ns2.global.net.pg.
-pnghampers.com.pg.	172800	IN	NS	ns3.global.net.pg.
 pnghms.com.pg.	172800	IN	NS	ns1.online.net.pg.
 pnghms.com.pg.	172800	IN	NS	ns2.online.net.pg.
+pnghospitality.com.pg.	172800	IN	NS	pnghospitality.com.pg.
 pnginksolutions.com.pg.	172800	IN	NS	ns1.datec.net.pg.
 pnginksolutions.com.pg.	172800	IN	NS	ns2.datec.net.pg.
 pnginksolutions.com.pg.	172800	IN	NS	ns3.datec.net.pg.
@@ -3904,6 +3910,9 @@ stockspartners.com.pg.	172800	IN	NS	ns1.siteground218.com.
 stockspartners.com.pg.	172800	IN	NS	ns2.siteground218.com.
 styrotek.com.pg.	172800	IN	NS	ns65.domaincontrol.com.
 styrotek.com.pg.	172800	IN	NS	ns66.domaincontrol.com.
+sukope.com.pg.	172800	IN	NS	ns1.datec.net.pg.
+sukope.com.pg.	172800	IN	NS	ns2.datec.net.pg.
+sukope.com.pg.	172800	IN	NS	ns3.datec.net.pg.
 sula.com.pg.	172800	IN	NS	ns1.openhost.co.nz.
 sula.com.pg.	172800	IN	NS	ns2.openhost.co.nz.
 sula.com.pg.	172800	IN	NS	ns3.openhost.co.nz.
@@ -4013,8 +4022,10 @@ telikompng.com.pg.	172800	IN	NS	ns1.telinet.com.pg.
 telikompng.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
 telinet.com.pg.	172800	IN	NS	ns1.telinet.com.pg.
 telinet.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
+telinet.com.pg.	172800	IN	NS	ns3.telinet.com.pg.
 ns1.telinet.com.pg.	172800	IN	A	124.240.221.33
 ns2.telinet.com.pg.	172800	IN	A	124.240.221.34
+ns3.telinet.com.pg.	172800	IN	A	3.105.142.80
 temcreek.com.pg.	172800	IN	NS	ns1.telinet.com.pg.
 temcreek.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
 tepng.com.pg.	172800	IN	NS	ns1.shaktechnology.com.au.
@@ -4252,6 +4263,9 @@ unitygroup.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
 upd.com.pg.	172800	IN	NS	ns1.datec.net.pg.
 upd.com.pg.	172800	IN	NS	ns2.datec.net.pg.
 upd.com.pg.	172800	IN	NS	ns3.datec.net.pg.
+ura.com.pg.	172800	IN	NS	ns1.datec.net.pg.
+ura.com.pg.	172800	IN	NS	ns2.datec.net.pg.
+ura.com.pg.	172800	IN	NS	ns3.datec.net.pg.
 urbancityrealty.com.pg.	172800	IN	NS	ns1.telinet.com.pg.
 urbancityrealty.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
 urinsinvetdepcoll.com.pg.	172800	IN	NS	ns1.datec.net.pg.
