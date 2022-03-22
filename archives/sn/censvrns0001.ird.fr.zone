@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433052 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433067 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [22/03/2022 11H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [22/03/2022 13H00:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1806,6 +1806,9 @@ astechnologies.sn.	172800	IN	NS	dns100.ovh.net.
 astechnologies.sn.	172800	IN	DS	41836 8 2 3e31e54779e7c472e6997544e7c8c608b1744d00d9d70b93781086c1430a45fc
 astol.sn.	43200	IN	NS	ns15.ovh.net.
 astol.sn.	43200	IN	NS	dns15.ovh.net.
+astuce.sn.	172800	IN	NS	ns13.ovh.net.
+astuce.sn.	172800	IN	NS	dns13.ovh.net.
+astuce.sn.	172800	IN	DS	9457 8 2 4e35cec8d0d4f25b92f9707f1dd7c4ad34ad2294fd7997cf8829d32f0ebe2860
 astv.sn.	43200	IN	NS	ns200.anycast.me.
 astv.sn.	43200	IN	NS	dns200.anycast.me.
 atalian.sn.	43200	IN	NS	ns1.lerelaisinternet.com.
@@ -5594,10 +5597,6 @@ digit-all.sn.	43200	IN	NS	ns4.netim.net.
 digit-all.sn.	43200	IN	NS	ns5.netim.net.
 digital-campus.sn.	43200	IN	NS	ns1.justhost.com.
 digital-campus.sn.	43200	IN	NS	ns2.justhost.com.
-digital-electronics.sn.	43200	IN	NS	ns1.kheweul.net.
-digital-electronics.sn.	43200	IN	NS	ns2.kheweul.net.
-digital-electronics.sn.	43200	IN	NS	ns3.kheweul.net.
-digital-electronics.sn.	43200	IN	NS	ns4.kheweul.net.
 digital-us.sn.	43200	IN	NS	ns1.caurys.net.
 digital-us.sn.	43200	IN	NS	ns2.caurys.net.
 digitalbundle.sn.	172800	IN	NS	ns1045.ui-dns.de.
@@ -18271,6 +18270,10 @@ soria.sn.	172800	IN	NS	ns14.wixdns.net.
 soria.sn.	172800	IN	NS	ns15.wixdns.net.
 sorilachat.sn.	43200	IN	NS	ns14.ovh.net.
 sorilachat.sn.	43200	IN	NS	dns14.ovh.net.
+sortirausenegal.sn.	172800	IN	NS	ns1.kheweul.net.
+sortirausenegal.sn.	172800	IN	NS	ns2.kheweul.net.
+sortirausenegal.sn.	172800	IN	NS	ns3.kheweul.net.
+sortirausenegal.sn.	172800	IN	NS	ns4.kheweul.net.
 sos.sn.	172800	IN	NS	ns100.ovh.net.
 sos.sn.	172800	IN	NS	dns100.ovh.net.
 sos.sn.	172800	IN	DS	37582 8 2 3611570c07f5cb9722a1762c3c04c0d1267a949e02989a2ee5f25597840559d9
@@ -20212,6 +20215,8 @@ versus.sn.	43200	IN	NS	ns.sonatel.sn.
 versus.sn.	43200	IN	NS	ns2.sonatel.sn.
 versuscapital.sn.	43200	IN	NS	ns1.giowm1171.siteground.biz.
 versuscapital.sn.	43200	IN	NS	ns2.giowm1171.siteground.biz.
+vertjaune.sn.	172800	IN	NS	ns1.uk07.tmd.cloud.
+vertjaune.sn.	172800	IN	NS	ns2.uk07.tmd.cloud.
 vetservices.sn.	43200	IN	NS	ns1.kheweul.net.
 vetservices.sn.	43200	IN	NS	ns2.kheweul.net.
 vezeeta.sn.	43200	IN	NS	ns1.101domain.com.
