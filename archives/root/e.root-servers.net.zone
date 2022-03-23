@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032200 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032202 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -13542,7 +13542,6 @@ pw.	172800	IN	NS	ns1.nic.pw.
 pw.	172800	IN	NS	ns2.nic.pw.
 pw.	172800	IN	NS	ns5.nic.pw.
 pw.	172800	IN	NS	ns6.nic.pw.
-pw.	86400	IN	DS	26645 7 2 7ef397edf4d7ca228c0f5111f5e1696cdbf279c0b6afa48fc7e71a12e07e5880
 pw.	86400	IN	DS	44440 13 2 362cd4eb8c8fd51674622639f860f906ea08a7c977400547a9f0ac7db92e14c6
 ns1.nic.pw.	172800	IN	A	194.169.218.12
 ns1.nic.pw.	172800	IN	AAAA	2001:67c:13cc::1:12
@@ -19944,6 +19943,7 @@ yt.	172800	IN	NS	d.nic.fr.
 yt.	172800	IN	NS	e.ext.nic.fr.
 yt.	172800	IN	NS	f.ext.nic.fr.
 yt.	172800	IN	NS	g.ext.nic.fr.
+yt.	86400	IN	DS	58156 13 2 712dd1bbc29e719caf3b34e9a0bee2d443df1ed9d2d6e09b97baa828d5ff3dc7
 yt.	86400	IN	DS	64798 13 2 1f3df7f535f52c10bb7f9fac3791319924f279db261385d29493f191c202f99e
 yun.	172800	IN	NS	ns1.teleinfo.cn.
 yun.	172800	IN	NS	ns2.teleinfoo.com.
