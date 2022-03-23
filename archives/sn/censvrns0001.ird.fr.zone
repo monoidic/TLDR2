@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433285 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433297 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/03/2022 19H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [23/03/2022 21H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3060,6 +3060,8 @@ burinfo.sn.	172800	IN	NS	ns17.lwsdns.com.
 burinfo.sn.	172800	IN	NS	ns18.lwsdns.com.
 buro24.sn.	43200	IN	NS	cp5.dnshostservices.com.
 buro24.sn.	43200	IN	NS	cp6.dnshostservices.com.
+burok.sn.	172800	IN	NS	ns110.ovh.net.
+burok.sn.	172800	IN	NS	dns110.ovh.net.
 buroplus.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 buroplus.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 burotech.sn.	43200	IN	NS	ns1.validname.com.
@@ -3780,8 +3782,8 @@ ceppeche.sn.	172800	IN	NS	ns100.ovh.net.
 ceppeche.sn.	172800	IN	NS	dns100.ovh.net.
 ceram.sn.	43200	IN	NS	ns1.hostmonster.com.
 ceram.sn.	43200	IN	NS	ns2.hostmonster.com.
-cerave.sn.	172800	IN	NS	dns1.cscdns.net.
-cerave.sn.	172800	IN	NS	dns2.cscdns.net.
+cerave.sn.	172800	IN	NS	adam.ns.cloudflare.com.
+cerave.sn.	172800	IN	NS	leia.ns.cloudflare.com.
 cerealhouse.sn.	43200	IN	NS	ns5.afriregister.com.
 cerealhouse.sn.	43200	IN	NS	ns6.afriregister.com.
 cereeq.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -11120,7 +11122,6 @@ kuai.sn.	43200	IN	NS	dns1.cscdns.net.
 kuai.sn.	43200	IN	NS	dns2.cscdns.net.
 kubejara.sn.	172800	IN	NS	ns200.anycast.me.
 kubejara.sn.	172800	IN	NS	dns200.anycast.me.
-kubejara.sn.	172800	IN	DS	27709 8 2 6d9408e0c5e68a383e27e95d1c39836e9b588424082c37dc958628533b90ce8f
 kuhn.sn.	43200	IN	NS	ns1.perf1.com.
 kuhn.sn.	43200	IN	NS	ns2.perf1.fr.
 kuhn.sn.	43200	IN	NS	ns3.perf1.eu.
@@ -16038,6 +16039,7 @@ sadidal.sn.	172800	IN	NS	ns3.kheweul.net.
 sadidal.sn.	172800	IN	NS	ns4.kheweul.net.
 sadit.sn.	172800	IN	NS	ns110.ovh.net.
 sadit.sn.	172800	IN	NS	dns110.ovh.net.
+sadit.sn.	172800	IN	DS	10102 8 2 ce51a0751ee80444700c44e384af50d14a3ffb559525dcf059b06fdbcff6bc71
 saed.sn.	43200	IN	NS	ns.sonatel.sn.
 saed.sn.	43200	IN	NS	ns2.sonatel.sn.
 saes.sn.	43200	IN	NS	sdns2.ovh.net.
