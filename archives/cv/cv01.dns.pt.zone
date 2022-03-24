@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022032201 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022032401 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -4483,8 +4483,11 @@ ifh.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 ifome.cv.	28800	IN	NS	ns1.tmais.cv.
 ifome.cv.	28800	IN	NS	ns2.tmais.cv.
 ifome.cv.	28800	IN	NS	ns3.tmais.cv.
-igae.cv.	28800	IN	NS	ns1.rhostjh.com.
-igae.cv.	28800	IN	NS	ns2.rhostjh.com.
+igae.cv.	28800	IN	A	45.154.66.253
+igae.cv.	28800	IN	NS	ns1.wtservers.com.
+igae.cv.	28800	IN	NS	ns2.wtservers.com.
+igae.cv.	28800	IN	NS	ns3.wtservers.com.
+igae.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 igest.cv.	28800	IN	NS	ns1.acin.pt.
 igest.cv.	28800	IN	NS	ns2.acin.pt.
 igf.cv.	28800	IN	NS	ns1.igf.cv.
@@ -5041,9 +5044,11 @@ laginhaguesthouse.cv.	28800	IN	NS	dns1.prime.cv.
 laginhaguesthouse.cv.	28800	IN	NS	dns2.prime.cv.
 lamarea.cv.	28800	IN	NS	dns1.prime.cv.
 lamarea.cv.	28800	IN	NS	dns2.prime.cv.
-lance.cv.	28800	IN	NS	ns01.trademarkarea.com.
-lance.cv.	28800	IN	NS	ns02.trademarkarea.com.
-lance.cv.	28800	IN	NS	ns03.trademarkarea.com.
+lance.cv.	28800	IN	NS	ns1.gratisdns.dk.
+lance.cv.	28800	IN	NS	ns2.gratisdns.dk.
+lance.cv.	28800	IN	NS	ns3.gratisdns.dk.
+lance.cv.	28800	IN	NS	ns4.gratisdns.dk.
+lance.cv.	28800	IN	NS	ns5.gratisdns.dk.
 laterrasse.cv.	28800	IN	NS	ns1.mydnspt.net.
 laterrasse.cv.	28800	IN	NS	ns2.mydnspt.net.
 laterrasse.cv.	28800	IN	NS	ns7.mydnspt.net.
@@ -5240,6 +5245,9 @@ makeithappen.cv.	28800	IN	NS	ns1.bh-74.webhostbox.net.
 makeithappen.cv.	28800	IN	NS	ns2.bh-74.webhostbox.net.
 maker.cv.	28800	IN	NS	chad.ns.cloudflare.com.
 maker.cv.	28800	IN	NS	sasha.ns.cloudflare.com.
+maktubcar.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
+maktubcar.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
+maktubcar.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 malte.cv.	28800	IN	NS	ns.inwx.de.
 malte.cv.	28800	IN	NS	ns2.inwx.de.
 malte.cv.	28800	IN	NS	ns3.inwx.eu.
@@ -5397,6 +5405,9 @@ mercadonamon.cv.	28800	IN	NS	ns-cloud-e1.googledomains.com.
 mercadonamon.cv.	28800	IN	NS	ns-cloud-e2.googledomains.com.
 mercadonamon.cv.	28800	IN	NS	ns-cloud-e3.googledomains.com.
 mercadonamon.cv.	28800	IN	NS	ns-cloud-e4.googledomains.com.
+mestrehassane.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
+mestrehassane.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
+mestrehassane.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 meta.cv.	28800	IN	NS	ns8231.hostgator.com.
 meta.cv.	28800	IN	NS	ns8232.hostgator.com.
 metalica.cv.	28800	IN	NS	ns7.securenet-server.net.
