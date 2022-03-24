@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433325 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433348 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [24/03/2022 01H00:01]"
+sn.	172800	IN	TXT	"No RRs processed [24/03/2022 04H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -16040,7 +16040,6 @@ sadidal.sn.	172800	IN	NS	ns3.kheweul.net.
 sadidal.sn.	172800	IN	NS	ns4.kheweul.net.
 sadit.sn.	172800	IN	NS	ns110.ovh.net.
 sadit.sn.	172800	IN	NS	dns110.ovh.net.
-sadit.sn.	172800	IN	DS	10102 8 2 ce51a0751ee80444700c44e384af50d14a3ffb559525dcf059b06fdbcff6bc71
 saed.sn.	43200	IN	NS	ns.sonatel.sn.
 saed.sn.	43200	IN	NS	ns2.sonatel.sn.
 saes.sn.	43200	IN	NS	sdns2.ovh.net.
@@ -18165,8 +18164,6 @@ solognac.sn.	43200	IN	NS	c.dns.gandi.net.
 solosar.sn.	172800	IN	NS	ns200.anycast.me.
 solosar.sn.	172800	IN	NS	dns200.anycast.me.
 solosar.sn.	172800	IN	DS	4942 8 2 6254dc2ec5e47c4015daeeccaf7dd0eca051e5136b38de50ff86645a8be424e1
-solosport.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-solosport.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 solotina.sn.	172800	IN	NS	ns14.ovh.net.
 solotina.sn.	172800	IN	NS	dns14.ovh.net.
 solotina.sn.	172800	IN	DS	30100 8 2 ba695d20182ceea076e0bb5a9970ea2c2fdea9492ca8f444b6fcccf29b5efafd
@@ -21083,7 +21080,7 @@ ymca.sn.	43200	IN	NS	ns109a.avahost.net.
 ymca.sn.	43200	IN	NS	ns109b.avahost.net.
 ymsta.sn.	43200	IN	NS	ns110.ovh.net.
 ymsta.sn.	43200	IN	NS	dns110.ovh.net.
-ymsta.sn.	43200	IN	DS	28315 8 2 ed18512d5719a6259cc7208a6b7ea3624290049afd58f61d31ffa77bcce76a70
+ymsta.sn.	172800	IN	DS	65089 8 2 3921b94f5bac977601fa15718fe8895c0ce9f0ba86684f6528d3246670a6775a
 ynho.sn.	43200	IN	NS	ns17.ovh.net.
 ynho.sn.	43200	IN	NS	dns17.ovh.net.
 yntechnologies.sn.	43200	IN	NS	ns1.md-54.webhostbox.net.
