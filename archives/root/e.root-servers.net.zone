@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032300 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032302 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -8027,7 +8027,7 @@ hu.	172800	IN	NS	ns2.nic.fr.
 hu.	172800	IN	NS	ns-com.nic.hu.
 hu.	86400	IN	DS	2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e551105ebac5
 a.hu.	172800	IN	A	193.239.148.1
-a.hu.	172800	IN	AAAA	2001:738:4:8000::48
+a.hu.	172800	IN	AAAA	2a00:e6a0:3:1402::1
 b.hu.	172800	IN	A	193.239.149.161
 b.hu.	172800	IN	AAAA	2001:738:4:4000::3
 c.hu.	172800	IN	A	193.6.16.1
@@ -8175,8 +8175,11 @@ dns4.nic.ieee.	172800	IN	AAAA	2401:fd80:407::125
 dnsa.nic.ieee.	172800	IN	A	156.154.100.3
 dnsa.nic.ieee.	172800	IN	AAAA	2001:502:ad09::3
 dnsb.nic.ieee.	172800	IN	A	156.154.101.3
+dnsb.nic.ieee.	172800	IN	AAAA	2001:502:2eda::3
 dnsc.nic.ieee.	172800	IN	A	156.154.102.3
+dnsc.nic.ieee.	172800	IN	AAAA	2610:a1:1009::3
 dnsd.nic.ieee.	172800	IN	A	156.154.103.3
+dnsd.nic.ieee.	172800	IN	AAAA	2610:a1:1010::3
 ifm.	172800	IN	NS	anycast9.irondns.net.
 ifm.	172800	IN	NS	anycast10.irondns.net.
 ifm.	172800	IN	NS	anycast23.irondns.net.
@@ -19944,7 +19947,6 @@ yt.	172800	IN	NS	e.ext.nic.fr.
 yt.	172800	IN	NS	f.ext.nic.fr.
 yt.	172800	IN	NS	g.ext.nic.fr.
 yt.	86400	IN	DS	58156 13 2 712dd1bbc29e719caf3b34e9a0bee2d443df1ed9d2d6e09b97baa828d5ff3dc7
-yt.	86400	IN	DS	64798 13 2 1f3df7f535f52c10bb7f9fac3791319924f279db261385d29493f191c202f99e
 yun.	172800	IN	NS	ns1.teleinfo.cn.
 yun.	172800	IN	NS	ns2.teleinfoo.com.
 yun.	172800	IN	NS	ns3.teleinfo.cn.
