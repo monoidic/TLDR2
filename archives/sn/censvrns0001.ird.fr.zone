@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433399 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433410 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [24/03/2022 11H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [24/03/2022 13H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -18147,6 +18147,10 @@ solabsen.sn.	172800	IN	NS	dns102.ovh.net.
 solabsen.sn.	172800	IN	DS	14017 8 2 730c9b8a32ac5bda6997d85c0c8d6b9b2b5998d648c096a0bf885d47dd1a1d9f
 solarcom.sn.	43200	IN	NS	ns.sonatel.sn.
 solarcom.sn.	43200	IN	NS	ns2.sonatel.sn.
+solarig.sn.	172800	IN	NS	ns1.kheweul.net.
+solarig.sn.	172800	IN	NS	ns2.kheweul.net.
+solarig.sn.	172800	IN	NS	ns3.kheweul.net.
+solarig.sn.	172800	IN	NS	ns4.kheweul.net.
 solea.sn.	43200	IN	NS	ns11.ovh.net.
 solea.sn.	43200	IN	NS	dns11.ovh.net.
 solea.sn.	172800	IN	DS	54250 8 2 cf9f0efb7783d194885c98a6a0c70ef7600279e772c80bfdc6de79e2083b7760
