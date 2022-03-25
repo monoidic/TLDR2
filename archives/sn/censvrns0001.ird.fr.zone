@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433547 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433561 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/03/2022 07H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [25/03/2022 09H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -10100,6 +10100,8 @@ ismzonenord.sn.	43200	IN	NS	ns4.kheweul.net.
 isn.sn.	172800	IN	NS	ns200.anycast.me.
 isn.sn.	172800	IN	NS	dns200.anycast.me.
 isn.sn.	172800	IN	DS	18265 8 2 43cb40a6da3bc3a4116dd6ee5e1b39b408bcb6e7079b33ea3b3611a799b7adda
+isnet.sn.	172800	IN	NS	ns1.webhostingpad.com.
+isnet.sn.	172800	IN	NS	ns2.webhostingpad.com.
 isoc.sn.	43200	IN	NS	ns.nic.sn.
 isoc.sn.	43200	IN	NS	ns.ucad.sn.
 isoc.sn.	43200	IN	NS	dns.ucad.sn.
