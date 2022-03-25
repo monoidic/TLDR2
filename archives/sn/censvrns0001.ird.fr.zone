@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433561 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433576 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/03/2022 09H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [25/03/2022 11H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5031,8 +5031,6 @@ dakarchitects.sn.	172800	IN	NS	ns1.kheweul.net.
 dakarchitects.sn.	172800	IN	NS	ns2.kheweul.net.
 dakarchitects.sn.	172800	IN	NS	ns3.kheweul.net.
 dakarchitects.sn.	172800	IN	NS	ns4.kheweul.net.
-dakarconstruction.sn.	43200	IN	NS	dns1.namecheaphosting.com.
-dakarconstruction.sn.	43200	IN	NS	dns2.namecheaphosting.com.
 dakarexpress.sn.	172800	IN	NS	ns1.youcan.shop.
 dakarexpress.sn.	172800	IN	NS	ns2.youcan.shop.
 dakarforum.sn.	43200	IN	NS	ns200.anycast.me.
@@ -15671,9 +15669,6 @@ rcs.sn.	172800	IN	NS	dns112.ovh.net.
 rcs.sn.	172800	IN	DS	40354 8 2 df16cd2c385ab4a9ee4d341050b879c24ed84feb68dea1cdc88c894ee76650e6
 rdv.sn.	43200	IN	NS	ns200.anycast.me.
 rdv.sn.	43200	IN	NS	dns200.anycast.me.
-rebel.sn.	43200	IN	NS	ns200.anycast.me.
-rebel.sn.	43200	IN	NS	dns200.anycast.me.
-rebel.sn.	43200	IN	DS	13024 8 2 328af447c392072e6f9243728801ca9dc198b859f89dace812fd6b22a0a4bb6b
 rebeuss.sn.	172800	IN	NS	ns1045.ui-dns.de.
 rebeuss.sn.	172800	IN	NS	ns1045.ui-dns.biz.
 rebeuss.sn.	172800	IN	NS	ns1045.ui-dns.com.
