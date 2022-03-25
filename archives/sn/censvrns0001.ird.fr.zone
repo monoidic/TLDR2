@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433591 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433604 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/03/2022 13H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [25/03/2022 15H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2010,6 +2010,8 @@ avis.sn.	43200	IN	NS	ns1.digitalocean.com.
 avis.sn.	43200	IN	NS	ns2.digitalocean.com.
 avisen.sn.	43200	IN	NS	ns.sonatel.sn.
 avisen.sn.	43200	IN	NS	ns2.sonatel.sn.
+avisjournaux.sn.	172800	IN	NS	ns200.anycast.me.
+avisjournaux.sn.	172800	IN	NS	dns200.anycast.me.
 avocats.sn.	172800	IN	NS	ns112.ovh.net.
 avocats.sn.	172800	IN	NS	dns112.ovh.net.
 avocats.sn.	43200	IN	DS	31105 8 2 140084f80ec9a47ca0f187cd0e71b0cb517fb6c63c09f3a34ebdefbaaabfa1e6
@@ -5706,9 +5708,6 @@ dirpharme.sn.	43200	IN	NS	ns1.kheweul.net.
 dirpharme.sn.	43200	IN	NS	ns2.kheweul.net.
 dirpharme.sn.	43200	IN	NS	ns3.kheweul.net.
 dirpharme.sn.	43200	IN	NS	ns4.kheweul.net.
-dirtec.sn.	43200	IN	NS	ns111.ovh.net.
-dirtec.sn.	43200	IN	NS	dns111.ovh.net.
-dirtec.sn.	172800	IN	DS	16144 8 2 cfccbd2f1ea5aa1379bda84e0a600f92b9840102d41e794fdd9e11a806347cc6
 dis.sn.	172800	IN	NS	ns100.ovh.net.
 dis.sn.	172800	IN	NS	dns100.ovh.net.
 dis.sn.	172800	IN	DS	30355 8 2 754af5a6d60b117ffcf530715b374c8968e55ccfe0a65396be2cd8d45d4a5d10
@@ -12282,6 +12281,8 @@ manobi.sn.	43200	IN	NS	ns1.manobi.sn.
 manobi.sn.	43200	IN	NS	ns2.manobi.sn.
 ns1.manobi.sn.	43200	IN	A	195.154.185.9
 ns2.manobi.sn.	43200	IN	A	195.154.177.20
+mansa.sn.	172800	IN	NS	ns200.anycast.me.
+mansa.sn.	172800	IN	NS	dns200.anycast.me.
 mansourmotors.sn.	172800	IN	NS	ns103.ovh.net.
 mansourmotors.sn.	172800	IN	NS	dns103.ovh.net.
 mansourmotors.sn.	172800	IN	DS	202 8 2 302d0c562c3c08555a3d4c3933fbd9b741df3327844a0c1865eb71bda3bf6e55
