@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032500 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032501 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -2234,6 +2234,7 @@ bradesco.	172800	IN	NS	dnsb.nic.bradesco.
 bradesco.	172800	IN	NS	dnsc.nic.bradesco.
 bradesco.	172800	IN	NS	dnsd.nic.bradesco.
 bradesco.	86400	IN	DS	44254 8 2 49f78d30a829d5d40a7671f9831df0f056fc7f4e8e39906c905afb8eb1b54100
+bradesco.	86400	IN	DS	61375 8 2 a0ffe5a2c7c1cb086855963d43117563e509ca1e6b27d87ef9ce011c195b8344
 dns1.nic.bradesco.	172800	IN	A	213.248.217.37
 dns1.nic.bradesco.	172800	IN	AAAA	2a01:618:401::37
 dns2.nic.bradesco.	172800	IN	A	103.49.81.37
@@ -7627,11 +7628,7 @@ hiphop.	172800	IN	NS	ns1.uniregistry.net.
 hiphop.	172800	IN	NS	ns2.uniregistry.info.
 hiphop.	172800	IN	NS	ns3.uniregistry.net.
 hiphop.	172800	IN	NS	ns4.uniregistry.info.
-hiphop.	86400	IN	DS	4318 5 1 a3e154bb335869278313ab56c6a7abbbcc543d06
 hiphop.	86400	IN	DS	4318 5 2 84b5fae6c70901ac831720cef3388e2b169b9521799df03e9b762c812fe1cb04
-hiphop.	86400	IN	DS	18467 5 1 111d660d1de235cc5f06759ee5683223cf0b410c
-hiphop.	86400	IN	DS	18467 5 2 8f9e5682083362d4b911589fd9352315a6b09ebb0d15b38598435baa26f3161e
-hiphop.	86400	IN	DS	42352 5 1 88dfd84f659b93b368db22621912417df4b5bee5
 hiphop.	86400	IN	DS	42352 5 2 5943d3bc7da8882971bd32b19abcb563cc7bff51f60702daa43257c84a7d78da
 hisamitsu.	172800	IN	NS	a.gmoregistry.net.
 hisamitsu.	172800	IN	NS	b.gmoregistry.net.
