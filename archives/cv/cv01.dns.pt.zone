@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022032401 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022032501 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -387,8 +387,11 @@ anjosinvest.cv.	28800	IN	NS	ns101.cloudns.net.
 anjosinvest.cv.	28800	IN	NS	ns102.cloudns.net.
 anjosinvest.cv.	28800	IN	NS	ns103.cloudns.net.
 anjosinvest.cv.	28800	IN	NS	ns104.cloudns.net.
-anmcv.cv.	28800	IN	NS	ns1.rhostjh.com.
-anmcv.cv.	28800	IN	NS	ns2.rhostjh.com.
+anmcv.cv.	28800	IN	A	45.154.66.253
+anmcv.cv.	28800	IN	NS	ns1.wtservers.com.
+anmcv.cv.	28800	IN	NS	ns2.wtservers.com.
+anmcv.cv.	28800	IN	NS	ns3.wtservers.com.
+anmcv.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 ansa.cv.	28800	IN	NS	ns1.gov.cv.
 ansa.cv.	28800	IN	NS	ns2.gov.cv.
 anuncios.cv.	28800	IN	NS	ns1.anuncios.cv.
@@ -5762,6 +5765,9 @@ neuce.cv.	28800	IN	NS	ns10.maquinadigital.net.
 new.cv.	28800	IN	NS	ns1.digitalocean.com.
 new.cv.	28800	IN	NS	ns2.digitalocean.com.
 new.cv.	28800	IN	NS	ns3.digitalocean.com.
+newvisionrentacar.cv.	28800	IN	NS	ns1.dnscpanel.com.
+newvisionrentacar.cv.	28800	IN	NS	ns2.dnscpanel.com.
+newvisionrentacar.cv.	28800	IN	NS	ns3.dnscpanel.com.
 nft.cv.	28800	IN	NS	ns1.sedoparking.com.
 nft.cv.	28800	IN	NS	ns2.sedoparking.com.
 nhafatura.cv.	28800	IN	NS	ns1.nhafatura.cv.
@@ -7560,9 +7566,9 @@ sprotech.cv.	28800	IN	NS	ns1.mydnspt.net.
 sprotech.cv.	28800	IN	NS	ns2.mydnspt.net.
 sprotech.cv.	28800	IN	NS	ns7.mydnspt.net.
 sprotech.cv.	28800	IN	NS	ns8.mydnspt.net.
-squad.cv.	28800	IN	NS	ns01.trademarkarea.com.
-squad.cv.	28800	IN	NS	ns02.trademarkarea.com.
-squad.cv.	28800	IN	NS	ns03.trademarkarea.com.
+squad.cv.	28800	IN	NS	ns1.digitalocean.com.
+squad.cv.	28800	IN	NS	ns2.digitalocean.com.
+squad.cv.	28800	IN	NS	ns3.digitalocean.com.
 square.cv.	28800	IN	NS	ns1.siteground263.com.
 square.cv.	28800	IN	NS	ns2.siteground263.com.
 src.cv.	28800	IN	A	91.198.47.1
@@ -7826,6 +7832,7 @@ terrasystem.cv.	28800	IN	NS	ian.ns.cloudflare.com.
 terrasystem.cv.	28800	IN	NS	raina.ns.cloudflare.com.
 terraterra.cv.	28800	IN	NS	ns3.alexhost.md.
 terraterra.cv.	28800	IN	NS	ns4.alexhost.md.
+terrer.cv.	28800	IN	NS	ns41.cloudns.net.
 textoeditores.cv.	28800	IN	NS	ns-36.awsdns-04.com.
 textoeditores.cv.	28800	IN	NS	ns-933.awsdns-52.net.
 textoeditores.cv.	28800	IN	NS	ns-1455.awsdns-53.org.
