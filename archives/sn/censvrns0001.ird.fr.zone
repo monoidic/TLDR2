@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433797 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433813 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [26/03/2022 19H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [26/03/2022 21H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2666,6 +2666,8 @@ biooil.sn.	43200	IN	NS	ns1.markmonitor.com.
 biooil.sn.	43200	IN	NS	ns2.markmonitor.com.
 biooil.sn.	43200	IN	NS	ns3.markmonitor.com.
 biooil.sn.	43200	IN	NS	ns4.markmonitor.com.
+biophilia.sn.	172800	IN	NS	ns110.ovh.net.
+biophilia.sn.	172800	IN	NS	dns110.ovh.net.
 biopro.sn.	172800	IN	NS	ns112.ovh.net.
 biopro.sn.	172800	IN	NS	dns112.ovh.net.
 biosecurite.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -6994,8 +6996,8 @@ esupdakar.sn.	43200	IN	NS	ns15.ovh.net.
 esupdakar.sn.	43200	IN	NS	dns15.ovh.net.
 etablissementmansoursysuarl.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 etablissementmansoursysuarl.sn.	43200	IN	NS	nsmpro2.nordnet.com.
-etafi.sn.	172800	IN	NS	ns1.lwsdns.com.
-etafi.sn.	172800	IN	NS	ns2.lwsdns.com.
+etafi.sn.	172800	IN	NS	cpanel21.lws-hosting.com.
+etafi.sn.	172800	IN	NS	cpanel22.lws-hosting.com.
 etam.sn.	43200	IN	NS	a.dns.gandi.net.
 etam.sn.	43200	IN	NS	b.dns.gandi.net.
 etam.sn.	43200	IN	NS	c.dns.gandi.net.
@@ -19608,6 +19610,8 @@ toubakhelcom.sn.	43200	IN	NS	ns1.caurys.net.
 toubakhelcom.sn.	43200	IN	NS	ns2.caurys.net.
 toubasandaga.sn.	43200	IN	NS	cpanel9.lws-hosting.com.
 toubasandaga.sn.	43200	IN	NS	cpanel10.lws-hosting.com.
+toubaservices.sn.	172800	IN	NS	ns110.ovh.net.
+toubaservices.sn.	172800	IN	NS	dns110.ovh.net.
 toubasolarrama.sn.	172800	IN	NS	ns1.wanekoohost.com.
 toubasolarrama.sn.	172800	IN	NS	ns2.wanekoohost.com.
 toubasolarrama.sn.	172800	IN	NS	ns4.wanekoohost.com.
@@ -20151,8 +20155,8 @@ urophz.sn.	172800	IN	NS	ns2.contabo.net.
 urophz.sn.	172800	IN	NS	ns3.contabo.net.
 us3t.sn.	43200	IN	NS	ns17.ovh.net.
 us3t.sn.	43200	IN	NS	dns17.ovh.net.
-use.sn.	172800	IN	NS	ns1.wanekoohost.com.
-use.sn.	172800	IN	NS	ns2.wanekoohost.com.
+use.sn.	172800	IN	NS	ns5.wanekoohost.com.
+use.sn.	172800	IN	NS	ns6.wanekoohost.com.
 usetta.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 usetta.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 usf.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -21255,6 +21259,8 @@ ziarra.sn.	43200	IN	NS	ns1.kheweul.net.
 ziarra.sn.	43200	IN	NS	ns2.kheweul.net.
 ziarra.sn.	43200	IN	NS	ns3.kheweul.net.
 ziarra.sn.	43200	IN	NS	ns4.kheweul.net.
+zig-zag.sn.	172800	IN	NS	ns110.ovh.net.
+zig-zag.sn.	172800	IN	NS	dns110.ovh.net.
 zigactu.sn.	43200	IN	NS	ns1.kheweul.net.
 zigactu.sn.	43200	IN	NS	ns2.kheweul.net.
 zigactu.sn.	43200	IN	NS	ns3.kheweul.net.
