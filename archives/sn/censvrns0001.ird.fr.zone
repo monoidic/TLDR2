@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433673 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433694 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [26/03/2022 01H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [26/03/2022 04H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13451,6 +13451,7 @@ nbcservices.sn.	172800	IN	NS	dns16.ovh.net.
 nbcservices.sn.	172800	IN	DS	60622 8 2 058d2d698a0a4ce379bfef4b01af7fe0803395de8f2d8ead749909ac5401f35b
 nbi.sn.	172800	IN	NS	ns110.ovh.net.
 nbi.sn.	172800	IN	NS	dns110.ovh.net.
+nbi.sn.	172800	IN	DS	38569 8 2 e02660d8551c5591dc3c336329310430c7f8bb8a2149dac0d9a7417f3a3857b2
 ndamli.sn.	43200	IN	NS	ns.sonatel.sn.
 ndamli.sn.	43200	IN	NS	ns2.sonatel.sn.
 ndamlii.sn.	172800	IN	NS	ns1.kheweul.net.
