@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433813 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222433828 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [26/03/2022 21H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [26/03/2022 23H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2668,6 +2668,7 @@ biooil.sn.	43200	IN	NS	ns3.markmonitor.com.
 biooil.sn.	43200	IN	NS	ns4.markmonitor.com.
 biophilia.sn.	172800	IN	NS	ns110.ovh.net.
 biophilia.sn.	172800	IN	NS	dns110.ovh.net.
+biophilia.sn.	172800	IN	DS	49831 8 2 14e63bb252a973fb07fc03210b5d1e19384e351e4f263c7230666d2e60772611
 biopro.sn.	172800	IN	NS	ns112.ovh.net.
 biopro.sn.	172800	IN	NS	dns112.ovh.net.
 biosecurite.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -19612,6 +19613,7 @@ toubasandaga.sn.	43200	IN	NS	cpanel9.lws-hosting.com.
 toubasandaga.sn.	43200	IN	NS	cpanel10.lws-hosting.com.
 toubaservices.sn.	172800	IN	NS	ns110.ovh.net.
 toubaservices.sn.	172800	IN	NS	dns110.ovh.net.
+toubaservices.sn.	172800	IN	DS	63199 8 2 1d919e6305852e156c230c0757ae82c3fd9342f2f5a5e2a0501b2311fbe2c150
 toubasolarrama.sn.	172800	IN	NS	ns1.wanekoohost.com.
 toubasolarrama.sn.	172800	IN	NS	ns2.wanekoohost.com.
 toubasolarrama.sn.	172800	IN	NS	ns4.wanekoohost.com.
@@ -21261,6 +21263,7 @@ ziarra.sn.	43200	IN	NS	ns3.kheweul.net.
 ziarra.sn.	43200	IN	NS	ns4.kheweul.net.
 zig-zag.sn.	172800	IN	NS	ns110.ovh.net.
 zig-zag.sn.	172800	IN	NS	dns110.ovh.net.
+zig-zag.sn.	172800	IN	DS	466 8 2 ea8a36e2a2a9ee5729f6897730fb3c65b21e8ee7db6db63d3c1ae2bb4f07031d
 zigactu.sn.	43200	IN	NS	ns1.kheweul.net.
 zigactu.sn.	43200	IN	NS	ns2.kheweul.net.
 zigactu.sn.	43200	IN	NS	ns3.kheweul.net.
