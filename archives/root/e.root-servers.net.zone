@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032600 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022032602 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -552,7 +552,6 @@ ally.	172800	IN	NS	b.nic.ally.
 ally.	172800	IN	NS	c.nic.ally.
 ally.	172800	IN	NS	d.nic.ally.
 ally.	86400	IN	DS	61447 8 2 d2ad5d0222161e065e794add6c7d2867be04d7bb03eba4a707ebcd0d77734660
-ally.	86400	IN	DS	63106 8 2 b7f4550d13de48a5217e2dccbd18fb872db47c843028f48d413318271cc15261
 a.nic.ally.	172800	IN	A	37.209.192.9
 a.nic.ally.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.ally.	172800	IN	A	37.209.194.9
@@ -17766,9 +17765,7 @@ voting.	172800	IN	NS	a.nic.voting.
 voting.	172800	IN	NS	b.nic.voting.
 voting.	172800	IN	NS	c.nic.voting.
 voting.	172800	IN	NS	d.nic.voting.
-voting.	86400	IN	DS	17941 8 2 e6bc6d8c2136be07a700bba0f4cec5505daffcb3f6078bc612b50c6540c7d638
 voting.	86400	IN	DS	50080 8 2 c92c59443e44b4f08cdac7869d4fd41ad869e8fb22031f04ff64cec71015bbc3
-voting.	86400	IN	DS	51755 8 2 c65cb6885d44ef372400824799d8d6731e52dca6711cd1f7840329d49dc74e9a
 a.nic.voting.	172800	IN	A	37.209.192.10
 a.nic.voting.	172800	IN	AAAA	2001:dcd:1::10
 b.nic.voting.	172800	IN	A	37.209.194.10
