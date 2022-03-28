@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434081 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434092 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/03/2022 10H20:01]"
+sn.	172800	IN	TXT	"25 RRs processed [28/03/2022 12H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -722,9 +722,6 @@ africapay.sn.	172800	IN	NS	nscloud105.caphosting.com.
 africapay.sn.	172800	IN	NS	nscloud106.caphosting.com.
 africargo.sn.	43200	IN	NS	ns1.kheweul.net.
 africargo.sn.	43200	IN	NS	ns2.kheweul.net.
-africasamakag.sn.	43200	IN	NS	ns13.ovh.net.
-africasamakag.sn.	43200	IN	NS	dns13.ovh.net.
-africasamakag.sn.	43200	IN	DS	50059 8 2 3fec24975a9bf32b4f97349873dcd80f6e3317ba26a6792a8f5725ea84bae3e8
 africaseptic.sn.	43200	IN	NS	ns1.francedns.com.
 africaseptic.sn.	43200	IN	NS	ns2.francedns.com.
 africaseptic.sn.	43200	IN	NS	ns3.francedns.com.
@@ -1193,9 +1190,8 @@ amabeltech.sn.	43200	IN	NS	ns1.kheweul.net.
 amabeltech.sn.	43200	IN	NS	ns2.kheweul.net.
 amabeltech.sn.	43200	IN	NS	ns3.kheweul.net.
 amabeltech.sn.	43200	IN	NS	ns4.kheweul.net.
-amadu.sn.	172800	IN	NS	ns1.wanekoohost.com.
-amadu.sn.	172800	IN	NS	ns2.wanekoohost.com.
 amadu.sn.	172800	IN	NS	ns3.wanekoohost.com.
+amadu.sn.	172800	IN	NS	ns4.wanekoohost.com.
 amadu.sn.	172800	IN	NS	ns5.wanekoohost.com.
 amadu.sn.	172800	IN	NS	ns6.wanekoohost.com.
 amafreightlogistics.sn.	43200	IN	NS	ns12.ovh.net.
@@ -1260,9 +1256,8 @@ amee.sn.	172800	IN	NS	ns1.sendns.net.
 amee.sn.	172800	IN	NS	ns2.sendns.net.
 ameera.sn.	43200	IN	NS	ns17.ovh.net.
 ameera.sn.	43200	IN	NS	dns17.ovh.net.
-ameern.sn.	172800	IN	NS	ns1.wanekoohost.com.
-ameern.sn.	172800	IN	NS	ns2.wanekoohost.com.
 ameern.sn.	172800	IN	NS	ns3.wanekoohost.com.
+ameern.sn.	172800	IN	NS	ns4.wanekoohost.com.
 ameern.sn.	172800	IN	NS	ns5.wanekoohost.com.
 ameern.sn.	172800	IN	NS	ns6.wanekoohost.com.
 americanairlines.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -1356,8 +1351,8 @@ anaqsup.sn.	43200	IN	NS	ns2.gouv.sn.
 anaqsup.sn.	43200	IN	NS	ns3.gouv.sn.
 anars.sn.	43200	IN	NS	ns.sonatel.sn.
 anars.sn.	43200	IN	NS	ns2.sonatel.sn.
-anaser.sn.	172800	IN	NS	ns1.wanekoohost.com.
-anaser.sn.	172800	IN	NS	ns2.wanekoohost.com.
+anaser.sn.	172800	IN	NS	ns3.wanekoohost.com.
+anaser.sn.	172800	IN	NS	ns4.wanekoohost.com.
 anaser.sn.	172800	IN	NS	ns5.wanekoohost.com.
 anaser.sn.	172800	IN	NS	ns6.wanekoohost.com.
 anat.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -2957,9 +2952,8 @@ boutik.sn.	43200	IN	NS	ns2.dns-parking.com.
 boutik221.sn.	172800	IN	NS	ns200.anycast.me.
 boutik221.sn.	172800	IN	NS	dns200.anycast.me.
 boutik221.sn.	172800	IN	DS	52699 8 2 353b3d5f807e03ddc91b36a7bef3017849bd01c4d046dd28bf549dd9c4a8aef8
-boutiquededakar.sn.	172800	IN	NS	ns1.wanekoohost.com.
-boutiquededakar.sn.	172800	IN	NS	ns2.wanekoohost.com.
 boutiquededakar.sn.	172800	IN	NS	ns3.wanekoohost.com.
+boutiquededakar.sn.	172800	IN	NS	ns4.wanekoohost.com.
 boutiquededakar.sn.	172800	IN	NS	ns5.wanekoohost.com.
 boutiquededakar.sn.	172800	IN	NS	ns6.wanekoohost.com.
 boutiquedumonastere.sn.	43200	IN	NS	ns1.caurys.net.
@@ -3156,9 +3150,8 @@ cabex.sn.	43200	IN	NS	ns2.efedus.com.
 cabilux-properties.sn.	172800	IN	NS	ns200.anycast.me.
 cabilux-properties.sn.	172800	IN	NS	dns200.anycast.me.
 cabilux-properties.sn.	172800	IN	DS	31684 8 2 224c337d89b6387e6c972789a644e3767a476f3972faac51afda0c1b457e7b2d
-cabinet-eca.sn.	172800	IN	NS	ns1.wanekoohost.com.
-cabinet-eca.sn.	172800	IN	NS	ns2.wanekoohost.com.
 cabinet-eca.sn.	172800	IN	NS	ns3.wanekoohost.com.
+cabinet-eca.sn.	172800	IN	NS	ns4.wanekoohost.com.
 cabinet-eca.sn.	172800	IN	NS	ns5.wanekoohost.com.
 cabinet-eca.sn.	172800	IN	NS	ns6.wanekoohost.com.
 cabinetazizdiey.sn.	43200	IN	NS	ns.cabinetazizdiey.sn.
@@ -3609,9 +3602,8 @@ ccak.sn.	43200	IN	NS	ns3.kheweul.net.
 ccak.sn.	43200	IN	NS	ns4.kheweul.net.
 ccas.sn.	172800	IN	NS	ns1.sh002.webhostbox.net.
 ccas.sn.	172800	IN	NS	ns2.sh002.webhostbox.net.
-ccba.sn.	172800	IN	NS	ns1.wanekoohost.com.
-ccba.sn.	172800	IN	NS	ns2.wanekoohost.com.
 ccba.sn.	172800	IN	NS	ns3.wanekoohost.com.
+ccba.sn.	172800	IN	NS	ns4.wanekoohost.com.
 ccba.sn.	172800	IN	NS	ns5.wanekoohost.com.
 ccba.sn.	172800	IN	NS	ns6.wanekoohost.com.
 ccbm.sn.	43200	IN	NS	ns1.infomaniak.ch.
@@ -4455,8 +4447,7 @@ competences.sn.	43200	IN	NS	nsb.planethoster.net.
 competences.sn.	43200	IN	NS	nsc.planethoster.net.
 competencia.sn.	172800	IN	NS	ns1.o2switch.net.
 competencia.sn.	172800	IN	NS	ns2.o2switch.net.
-compill.sn.	172800	IN	NS	ns1.wanekoohost.com.
-compill.sn.	172800	IN	NS	ns2.wanekoohost.com.
+compill.sn.	172800	IN	NS	ns3.wanekoohost.com.
 compill.sn.	172800	IN	NS	ns4.wanekoohost.com.
 compill.sn.	172800	IN	NS	ns5.wanekoohost.com.
 compill.sn.	172800	IN	NS	ns6.wanekoohost.com.
@@ -4952,8 +4943,8 @@ cybercriminalite.sn.	172800	IN	NS	ns2.wanekoohost.com.
 cybercriminalite.sn.	172800	IN	NS	ns4.wanekoohost.com.
 cybersante.sn.	172800	IN	NS	ns112.ovh.net.
 cybersante.sn.	172800	IN	NS	dns112.ovh.net.
-cybersecurite.sn.	172800	IN	NS	ns1.wanekoohost.com.
-cybersecurite.sn.	172800	IN	NS	ns2.wanekoohost.com.
+cybersecurite.sn.	172800	IN	NS	ns3.wanekoohost.com.
+cybersecurite.sn.	172800	IN	NS	ns4.wanekoohost.com.
 cybersecurite.sn.	172800	IN	NS	ns5.wanekoohost.com.
 cybersecurite.sn.	172800	IN	NS	ns6.wanekoohost.com.
 cybersource.sn.	43200	IN	NS	ns1.dnsvisa.com.
@@ -5390,10 +5381,8 @@ dethiefall-prp.sn.	172800	IN	NS	ns1.wanekoohost.com.
 dethiefall-prp.sn.	172800	IN	NS	ns2.wanekoohost.com.
 dethiefall-prp.sn.	172800	IN	NS	ns5.wanekoohost.com.
 dethiefall-prp.sn.	172800	IN	NS	ns6.wanekoohost.com.
-deukeundo.sn.	172800	IN	NS	ns1.wanekoohost.com.
-deukeundo.sn.	172800	IN	NS	ns2.wanekoohost.com.
 deukeundo.sn.	172800	IN	NS	ns3.wanekoohost.com.
-deukeundo.sn.	172800	IN	NS	ns5.wanekoohost.com.
+deukeundo.sn.	172800	IN	NS	ns4.wanekoohost.com.
 deukeundo.sn.	172800	IN	NS	ns6.wanekoohost.com.
 deuzicronapine.sn.	43200	IN	NS	nsgbr.comlaude.co.uk.
 deuzicronapine.sn.	43200	IN	NS	nssui.comlaude.ch.
@@ -5639,9 +5628,8 @@ digitalschools.sn.	43200	IN	NS	ns8.jajeuf.com.
 digitalschools.sn.	43200	IN	DS	34753 1 1 b2982a1ff022f2baf74b584213698e0068dce44d
 digitalsenegal.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 digitalsenegal.sn.	172800	IN	NS	ns6.jokko-hosting.com.
-digitalsolutiongroup.sn.	172800	IN	NS	ns1.wanekoohost.com.
-digitalsolutiongroup.sn.	172800	IN	NS	ns2.wanekoohost.com.
 digitalsolutiongroup.sn.	172800	IN	NS	ns3.wanekoohost.com.
+digitalsolutiongroup.sn.	172800	IN	NS	ns4.wanekoohost.com.
 digitalsolutiongroup.sn.	172800	IN	NS	ns5.wanekoohost.com.
 digitalsolutiongroup.sn.	172800	IN	NS	ns6.wanekoohost.com.
 digitalstores.sn.	43200	IN	NS	ns31.infomaniak.com.
@@ -5673,9 +5661,8 @@ dimbaya.sn.	43200	IN	NS	ns109.ovh.net.
 dimbaya.sn.	43200	IN	NS	dns109.ovh.net.
 dimbl.sn.	43200	IN	NS	ns102.ovh.net.
 dimbl.sn.	43200	IN	NS	dns102.ovh.net.
-dimex.sn.	172800	IN	NS	ns1.wanekoohost.com.
-dimex.sn.	172800	IN	NS	ns2.wanekoohost.com.
 dimex.sn.	172800	IN	NS	ns3.wanekoohost.com.
+dimex.sn.	172800	IN	NS	ns4.wanekoohost.com.
 dimex.sn.	172800	IN	NS	ns5.wanekoohost.com.
 dimex.sn.	172800	IN	NS	ns6.wanekoohost.com.
 diminter.sn.	43200	IN	NS	nsmpro1.nordnet.com.
@@ -5919,9 +5906,8 @@ donneesnumeriques.sn.	43200	IN	NS	ns4.kheweul.net.
 doolelsunuart.sn.	172800	IN	NS	ns100.ovh.net.
 doolelsunuart.sn.	172800	IN	NS	dns100.ovh.net.
 doolelsunuart.sn.	172800	IN	DS	11482 8 2 3a81dd984f964a706abb741f2e04f0b6f12d748350d487a09343045903471b84
-dopecoffee.sn.	172800	IN	NS	ns1.wanekoohost.com.
-dopecoffee.sn.	172800	IN	NS	ns2.wanekoohost.com.
 dopecoffee.sn.	172800	IN	NS	ns3.wanekoohost.com.
+dopecoffee.sn.	172800	IN	NS	ns4.wanekoohost.com.
 dopecoffee.sn.	172800	IN	NS	ns5.wanekoohost.com.
 dopecoffee.sn.	172800	IN	NS	ns6.wanekoohost.com.
 doppelherz.sn.	172800	IN	NS	ns.inwx.de.
@@ -6427,6 +6413,8 @@ egeleb.sn.	172800	IN	NS	ns1.wanekoohost.com.
 egeleb.sn.	172800	IN	NS	ns2.wanekoohost.com.
 egeleb.sn.	172800	IN	NS	ns5.wanekoohost.com.
 egeleb.sn.	172800	IN	NS	ns6.wanekoohost.com.
+eges.sn.	172800	IN	NS	ns15.afriregister.com.
+eges.sn.	172800	IN	NS	ns25.afriregister.com.
 egetra.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 egetra.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 egfimport.sn.	43200	IN	NS	ns1.accountsupport.com.
@@ -7254,8 +7242,6 @@ facebook.sn.	43200	IN	NS	ns4.lovellsnames.org.
 fadiou.sn.	172800	IN	NS	ns1.netim.net.
 fadiou.sn.	172800	IN	NS	ns2.netim.net.
 fadiou.sn.	172800	IN	NS	ns3.netim.net.
-fadju.sn.	172800	IN	NS	ns1.wanekoohost.com.
-fadju.sn.	172800	IN	NS	ns2.wanekoohost.com.
 fadju.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadju.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadju.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -7380,8 +7366,8 @@ fdnotaires.sn.	172800	IN	NS	ns3.afriregister.com.
 fdnotaires.sn.	172800	IN	NS	ns01.afriregister.com.
 fdsut.sn.	43200	IN	NS	ns.sonatel.sn.
 fdsut.sn.	43200	IN	NS	ns2.sonatel.sn.
-fdtt.sn.	172800	IN	NS	ns1.wanekoohost.com.
-fdtt.sn.	172800	IN	NS	ns2.wanekoohost.com.
+fdtt.sn.	172800	IN	NS	ns3.wanekoohost.com.
+fdtt.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fdtt.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fdtt.sn.	172800	IN	NS	ns6.wanekoohost.com.
 fdv.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -7455,9 +7441,8 @@ festivalsalam.sn.	43200	IN	NS	dns12.ovh.net.
 festo.sn.	43200	IN	NS	ns0.atvirtual.com.
 festo.sn.	43200	IN	NS	ns1.atvirtual.com.
 festo.sn.	43200	IN	NS	ns2.atvirtual.com.
-fetedesdebats.sn.	172800	IN	NS	ns1.wanekoohost.com.
-fetedesdebats.sn.	172800	IN	NS	ns2.wanekoohost.com.
 fetedesdebats.sn.	172800	IN	NS	ns3.wanekoohost.com.
+fetedesdebats.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fetedesdebats.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fetedesdebats.sn.	172800	IN	NS	ns6.wanekoohost.com.
 fetrix.sn.	172800	IN	NS	ns106.ovh.net.
@@ -7770,8 +7755,7 @@ ns1.footmu7.sn.	43200	IN	A	165.22.182.189
 ns2.footmu7.sn.	43200	IN	A	165.22.182.189
 forages-ruraux.sn.	172800	IN	NS	ns1.cloudns.io.
 forages-ruraux.sn.	172800	IN	NS	ns2.cloudns.io.
-foramin.sn.	172800	IN	NS	ns1.wanekoohost.com.
-foramin.sn.	172800	IN	NS	ns2.wanekoohost.com.
+foramin.sn.	172800	IN	NS	ns3.wanekoohost.com.
 foramin.sn.	172800	IN	NS	ns4.wanekoohost.com.
 foramin.sn.	172800	IN	NS	ns5.wanekoohost.com.
 foramin.sn.	172800	IN	NS	ns6.wanekoohost.com.
@@ -8031,9 +8015,8 @@ gaal-mamecoumbandoye.sn.	43200	IN	NS	ns.sonatel.sn.
 gaal-mamecoumbandoye.sn.	43200	IN	NS	ns2.sonatel.sn.
 gaaras.sn.	43200	IN	NS	ns113.ovh.net.
 gaaras.sn.	43200	IN	NS	dns113.ovh.net.
-gabpay.sn.	172800	IN	NS	ns1.wanekoohost.com.
-gabpay.sn.	172800	IN	NS	ns2.wanekoohost.com.
 gabpay.sn.	172800	IN	NS	ns3.wanekoohost.com.
+gabpay.sn.	172800	IN	NS	ns4.wanekoohost.com.
 gabpay.sn.	172800	IN	NS	ns5.wanekoohost.com.
 gabpay.sn.	172800	IN	NS	ns6.wanekoohost.com.
 gagu.sn.	43200	IN	NS	ns200.anycast.me.
@@ -8080,8 +8063,8 @@ galeriekemboury.sn.	43200	IN	NS	ns200.anycast.me.
 galeriekemboury.sn.	43200	IN	NS	dns200.anycast.me.
 galsencm.sn.	43200	IN	NS	alla.ns.cloudflare.com.
 galsencm.sn.	43200	IN	NS	peyton.ns.cloudflare.com.
-galsenpeople.sn.	172800	IN	NS	ns2.wanekoohost.com.
 galsenpeople.sn.	172800	IN	NS	ns3.wanekoohost.com.
+galsenpeople.sn.	172800	IN	NS	ns4.wanekoohost.com.
 galsenpeople.sn.	172800	IN	NS	ns5.wanekoohost.com.
 galsenpeople.sn.	172800	IN	NS	ns6.wanekoohost.com.
 gamou.sn.	172800	IN	NS	ns5.jokko-hosting.com.
@@ -8423,8 +8406,6 @@ gmd.sn.	43200	IN	NS	ns.arc.sn.
 gmd.sn.	43200	IN	NS	ns3.arc.sn.
 gmm.sn.	43200	IN	NS	ns.sonatel.sn.
 gmm.sn.	43200	IN	NS	ns2.sonatel.sn.
-gmn.sn.	172800	IN	NS	ns1.wanekoohost.com.
-gmn.sn.	172800	IN	NS	ns2.wanekoohost.com.
 gmn.sn.	172800	IN	NS	ns3.wanekoohost.com.
 gmn.sn.	172800	IN	NS	ns4.wanekoohost.com.
 gmn.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -9014,9 +8995,8 @@ hexagones.sn.	172800	IN	NS	cpanel8.lws-hosting.com.
 heybus.sn.	172800	IN	NS	ns1.francedns.com.
 heybus.sn.	172800	IN	NS	ns2.francedns.com.
 heybus.sn.	172800	IN	NS	ns3.francedns.com.
-hfc.sn.	172800	IN	NS	ns1.wanekoohost.com.
-hfc.sn.	172800	IN	NS	ns2.wanekoohost.com.
 hfc.sn.	172800	IN	NS	ns3.wanekoohost.com.
+hfc.sn.	172800	IN	NS	ns4.wanekoohost.com.
 hfc.sn.	172800	IN	NS	ns5.wanekoohost.com.
 hfc.sn.	172800	IN	NS	ns6.wanekoohost.com.
 hfn.sn.	172800	IN	NS	ns-462.awsdns-57.com.
@@ -9252,9 +9232,8 @@ iacd.sn.	43200	IN	NS	ns1.kheweul.net.
 iacd.sn.	43200	IN	NS	ns2.kheweul.net.
 iacd.sn.	43200	IN	NS	ns3.kheweul.net.
 iacd.sn.	43200	IN	NS	ns4.kheweul.net.
-iafrica.sn.	172800	IN	NS	ns1.wanekoohost.com.
-iafrica.sn.	172800	IN	NS	ns2.wanekoohost.com.
 iafrica.sn.	172800	IN	NS	ns3.wanekoohost.com.
+iafrica.sn.	172800	IN	NS	ns4.wanekoohost.com.
 iafrica.sn.	172800	IN	NS	ns5.wanekoohost.com.
 iafrica.sn.	172800	IN	NS	ns6.wanekoohost.com.
 iakaffrine.sn.	43200	IN	NS	rob.ns.cloudflare.com.
@@ -9329,9 +9308,8 @@ iciwork.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 iciwork.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 iconoa.sn.	172800	IN	NS	ns1.servconfig.com.
 iconoa.sn.	172800	IN	NS	ns2.servconfig.com.
-icops.sn.	172800	IN	NS	ns1.wanekoohost.com.
-icops.sn.	172800	IN	NS	ns2.wanekoohost.com.
 icops.sn.	172800	IN	NS	ns3.wanekoohost.com.
+icops.sn.	172800	IN	NS	ns4.wanekoohost.com.
 icops.sn.	172800	IN	NS	ns5.wanekoohost.com.
 icops.sn.	172800	IN	NS	ns6.wanekoohost.com.
 icos.sn.	43200	IN	NS	ns200.anycast.me.
@@ -9584,9 +9562,8 @@ impact-elles.sn.	172800	IN	NS	ns2.eco-dns.co.uk.
 impactfitness.sn.	43200	IN	NS	ns1.netim.net.
 impactfitness.sn.	43200	IN	NS	ns2.netim.net.
 impactfitness.sn.	43200	IN	NS	ns3.netim.net.
-impactservices.sn.	172800	IN	NS	ns1.wanekoohost.com.
-impactservices.sn.	172800	IN	NS	ns2.wanekoohost.com.
 impactservices.sn.	172800	IN	NS	ns3.wanekoohost.com.
+impactservices.sn.	172800	IN	NS	ns4.wanekoohost.com.
 impactservices.sn.	172800	IN	NS	ns5.wanekoohost.com.
 impactservices.sn.	172800	IN	NS	ns6.wanekoohost.com.
 impactsolution.sn.	43200	IN	NS	ns1.txpro15.fcomet.com.
@@ -10077,9 +10054,8 @@ isjapostbac.sn.	43200	IN	NS	ns.arc.sn.
 isjapostbac.sn.	43200	IN	NS	ns3.arc.sn.
 ism.sn.	43200	IN	NS	ns.sonatel.sn.
 ism.sn.	43200	IN	NS	ns2.sonatel.sn.
-ism-mbour.sn.	172800	IN	NS	ns1.wanekoohost.com.
-ism-mbour.sn.	172800	IN	NS	ns2.wanekoohost.com.
 ism-mbour.sn.	172800	IN	NS	ns3.wanekoohost.com.
+ism-mbour.sn.	172800	IN	NS	ns4.wanekoohost.com.
 ism-mbour.sn.	172800	IN	NS	ns5.wanekoohost.com.
 ism-mbour.sn.	172800	IN	NS	ns6.wanekoohost.com.
 ism-online.sn.	43200	IN	NS	ns1.justhost.com.
@@ -11064,9 +11040,8 @@ koparpay.sn.	43200	IN	NS	ns2.afrowebmaster.com.
 koparpay.sn.	43200	IN	NS	ns3.afrowebmaster.com.
 koparpay.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 koraafrica.sn.	172800	IN	NS	hosting100.arc.sn.
-koreamotors.sn.	172800	IN	NS	ns1.wanekoohost.com.
-koreamotors.sn.	172800	IN	NS	ns2.wanekoohost.com.
 koreamotors.sn.	172800	IN	NS	ns3.wanekoohost.com.
+koreamotors.sn.	172800	IN	NS	ns4.wanekoohost.com.
 koreamotors.sn.	172800	IN	NS	ns5.wanekoohost.com.
 koreamotors.sn.	172800	IN	NS	ns6.wanekoohost.com.
 korok.sn.	43200	IN	NS	a.dns.gandi.net.
@@ -11075,9 +11050,8 @@ korok.sn.	43200	IN	NS	c.dns.gandi.net.
 kos.sn.	172800	IN	NS	ns16.ovh.net.
 kos.sn.	172800	IN	NS	dns16.ovh.net.
 kos.sn.	172800	IN	DS	15499 8 2 339944b1a7e0e08079ab76f1fa52675747f9e2cc2e26686103a6ca4d28747f92
-kosmosone.sn.	172800	IN	NS	ns1.wanekoohost.com.
-kosmosone.sn.	172800	IN	NS	ns2.wanekoohost.com.
 kosmosone.sn.	172800	IN	NS	ns3.wanekoohost.com.
+kosmosone.sn.	172800	IN	NS	ns4.wanekoohost.com.
 kosmosone.sn.	172800	IN	NS	ns5.wanekoohost.com.
 kosmosone.sn.	172800	IN	NS	ns6.wanekoohost.com.
 kotaocoffee.sn.	172800	IN	NS	ns100.ovh.net.
@@ -11126,9 +11100,8 @@ ksk.sn.	43200	IN	NS	dns200.anycast.me.
 ksk.sn.	172800	IN	DS	5551 8 2 b0aa65a867c293faaf8760049ed96618cc029a131108cacb257a4a729739f75c
 ktimmobilier.sn.	172800	IN	NS	ns9.jajeuf.com.
 ktimmobilier.sn.	172800	IN	NS	ns10.jajeuf.com.
-kts.sn.	172800	IN	NS	ns1.wanekoohost.com.
-kts.sn.	172800	IN	NS	ns2.wanekoohost.com.
 kts.sn.	172800	IN	NS	ns3.wanekoohost.com.
+kts.sn.	172800	IN	NS	ns4.wanekoohost.com.
 kts.sn.	172800	IN	NS	ns5.wanekoohost.com.
 kts.sn.	172800	IN	NS	ns6.wanekoohost.com.
 kuai.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -11460,9 +11433,8 @@ lba.sn.	43200	IN	NS	ns.sonatel.sn.
 lba.sn.	43200	IN	NS	ns2.sonatel.sn.
 lbo.sn.	43200	IN	NS	ns20.ovh.net.
 lbo.sn.	43200	IN	NS	dns20.ovh.net.
-lcm.sn.	172800	IN	NS	ns1.wanekoohost.com.
-lcm.sn.	172800	IN	NS	ns2.wanekoohost.com.
 lcm.sn.	172800	IN	NS	ns3.wanekoohost.com.
+lcm.sn.	172800	IN	NS	ns4.wanekoohost.com.
 lcm.sn.	172800	IN	NS	ns5.wanekoohost.com.
 lcm.sn.	172800	IN	NS	ns6.wanekoohost.com.
 lcs.sn.	43200	IN	NS	ns.arc.sn.
@@ -12256,9 +12228,8 @@ manal.sn.	172800	IN	NS	ns3.francedns.com.
 manal-hub.sn.	172800	IN	NS	ns1.francedns.com.
 manal-hub.sn.	172800	IN	NS	ns2.francedns.com.
 manal-hub.sn.	172800	IN	NS	ns3.francedns.com.
-mandellatraiteur.sn.	172800	IN	NS	ns1.wanekoohost.com.
-mandellatraiteur.sn.	172800	IN	NS	ns2.wanekoohost.com.
 mandellatraiteur.sn.	172800	IN	NS	ns3.wanekoohost.com.
+mandellatraiteur.sn.	172800	IN	NS	ns4.wanekoohost.com.
 mandellatraiteur.sn.	172800	IN	NS	ns5.wanekoohost.com.
 mandellatraiteur.sn.	172800	IN	NS	ns6.wanekoohost.com.
 manefoot.sn.	172800	IN	NS	ns1.dns-parking.com.
@@ -12512,8 +12483,8 @@ mbayebabacar.sn.	43200	IN	DS	7234 8 2 d1e24705b680122131ac0b9925129e2cc3b5a68717
 mbaymi.sn.	172800	IN	NS	ns100.ovh.net.
 mbaymi.sn.	172800	IN	NS	dns100.ovh.net.
 mbaymi.sn.	172800	IN	DS	8239 8 2 eef436cfb4f1d8699944f17d55b0dfcdce01e09a7bfb3f4b9c53668ad63a59ee
-mbb.sn.	172800	IN	NS	ns1.wanekoohost.com.
-mbb.sn.	172800	IN	NS	ns2.wanekoohost.com.
+mbb.sn.	172800	IN	NS	ns3.wanekoohost.com.
+mbb.sn.	172800	IN	NS	ns4.wanekoohost.com.
 mbb.sn.	172800	IN	NS	ns5.wanekoohost.com.
 mbb.sn.	172800	IN	NS	ns6.wanekoohost.com.
 mbexpert.sn.	43200	IN	NS	pdns01.domaincontrol.com.
@@ -12671,8 +12642,8 @@ megaluxfrance.sn.	172800	IN	NS	cp6.dnshostservices.com.
 megogo.sn.	43200	IN	NS	ns1.101domain.com.
 megogo.sn.	43200	IN	NS	ns2.101domain.com.
 megogo.sn.	43200	IN	NS	ns5.101domain.com.
-meilleur.sn.	172800	IN	NS	ns1.wanekoohost.com.
-meilleur.sn.	172800	IN	NS	ns2.wanekoohost.com.
+meilleur.sn.	172800	IN	NS	ns3.wanekoohost.com.
+meilleur.sn.	172800	IN	NS	ns4.wanekoohost.com.
 meilleur.sn.	172800	IN	NS	ns5.wanekoohost.com.
 meilleur.sn.	172800	IN	NS	ns6.wanekoohost.com.
 meinu.sn.	172800	IN	NS	ns103.ovh.net.
@@ -12871,9 +12842,8 @@ militantcatb.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 milleniumtransit.sn.	172800	IN	NS	ns102.ovh.net.
 milleniumtransit.sn.	172800	IN	NS	dns102.ovh.net.
 milleniumtransit.sn.	172800	IN	DS	42832 8 2 0d20dbd50b3bffccab68963223790745cf091e416093479619dd1d5970b4b5c8
-mim.sn.	172800	IN	NS	ns1.wanekoohost.com.
-mim.sn.	172800	IN	NS	ns2.wanekoohost.com.
 mim.sn.	172800	IN	NS	ns3.wanekoohost.com.
+mim.sn.	172800	IN	NS	ns4.wanekoohost.com.
 mim.sn.	172800	IN	NS	ns5.wanekoohost.com.
 mim.sn.	172800	IN	NS	ns6.wanekoohost.com.
 minane.sn.	43200	IN	NS	ns1.ascio.com.
@@ -13306,9 +13276,8 @@ my-canal.sn.	43200	IN	NS	ns3.nameshield.net.
 my-canal.sn.	43200	IN	NS	obs.ns1.fr.
 myauchan.sn.	43200	IN	NS	dns1.cscdns.net.
 myauchan.sn.	43200	IN	NS	dns2.cscdns.net.
-mybambino.sn.	172800	IN	NS	ns1.wanekoohost.com.
-mybambino.sn.	172800	IN	NS	ns2.wanekoohost.com.
 mybambino.sn.	172800	IN	NS	ns3.wanekoohost.com.
+mybambino.sn.	172800	IN	NS	ns4.wanekoohost.com.
 mybambino.sn.	172800	IN	NS	ns5.wanekoohost.com.
 mybambino.sn.	172800	IN	NS	ns6.wanekoohost.com.
 mybicis.sn.	172800	IN	NS	ns1.bnpparibas.com.
@@ -14618,9 +14587,8 @@ parfum.sn.	172800	IN	NS	ns2.youcan.shop.
 parfumdp.sn.	43200	IN	NS	ns5.jajeuf.com.
 parfumdp.sn.	43200	IN	NS	ns6.jajeuf.com.
 parfumdp.sn.	43200	IN	DS	61434 1 1 f48c6f505f457a99b40341c51e24b3bb17a2e4c9
-parfumerie-firdawsi.sn.	172800	IN	NS	ns1.wanekoohost.com.
-parfumerie-firdawsi.sn.	172800	IN	NS	ns2.wanekoohost.com.
 parfumerie-firdawsi.sn.	172800	IN	NS	ns3.wanekoohost.com.
+parfumerie-firdawsi.sn.	172800	IN	NS	ns4.wanekoohost.com.
 parfumerie-firdawsi.sn.	172800	IN	NS	ns5.wanekoohost.com.
 parfumerie-firdawsi.sn.	172800	IN	NS	ns6.wanekoohost.com.
 pargest.sn.	172800	IN	NS	nsmpro1.nordnet.com.
@@ -14936,8 +14904,8 @@ pierrefabre-oralcare.sn.	43200	IN	NS	c.ns.mailclub.com.
 pilashop.sn.	172800	IN	NS	ns103.ovh.net.
 pilashop.sn.	172800	IN	NS	dns103.ovh.net.
 pilashop.sn.	172800	IN	DS	48949 8 2 cc3d1acee106a6161cffb382d829330b3b0a0a935f65bf0535c064f7a95a30aa
-pimachambredecommerce.sn.	172800	IN	NS	ns1.wanekoohost.com.
-pimachambredecommerce.sn.	172800	IN	NS	ns2.wanekoohost.com.
+pimachambredecommerce.sn.	172800	IN	NS	ns3.wanekoohost.com.
+pimachambredecommerce.sn.	172800	IN	NS	ns4.wanekoohost.com.
 pimachambredecommerce.sn.	172800	IN	NS	ns5.wanekoohost.com.
 pimachambredecommerce.sn.	172800	IN	NS	ns6.wanekoohost.com.
 pimco.sn.	43200	IN	NS	ns1.netnames.net.
@@ -15310,9 +15278,8 @@ priusgroup.sn.	172800	IN	NS	ns4.kheweul.net.
 prix.sn.	172800	IN	NS	ns1.francedns.com.
 prix.sn.	172800	IN	NS	ns2.francedns.com.
 prix.sn.	172800	IN	NS	ns3.francedns.com.
-pro-fondeur.sn.	172800	IN	NS	ns1.wanekoohost.com.
-pro-fondeur.sn.	172800	IN	NS	ns2.wanekoohost.com.
 pro-fondeur.sn.	172800	IN	NS	ns3.wanekoohost.com.
+pro-fondeur.sn.	172800	IN	NS	ns4.wanekoohost.com.
 pro-fondeur.sn.	172800	IN	NS	ns5.wanekoohost.com.
 pro-fondeur.sn.	172800	IN	NS	ns6.wanekoohost.com.
 procallcenter.sn.	43200	IN	NS	ns1.ascio.com.
@@ -16309,9 +16276,8 @@ samu.sn.	43200	IN	NS	dns108.ovh.net.
 sanai.sn.	172800	IN	NS	nsa.n0c.com.
 sanai.sn.	172800	IN	NS	nsb.n0c.com.
 sanai.sn.	172800	IN	NS	nsc.n0c.com.
-sanarinside.sn.	172800	IN	NS	ns1.wanekoohost.com.
-sanarinside.sn.	172800	IN	NS	ns2.wanekoohost.com.
 sanarinside.sn.	172800	IN	NS	ns3.wanekoohost.com.
+sanarinside.sn.	172800	IN	NS	ns4.wanekoohost.com.
 sanarinside.sn.	172800	IN	NS	ns5.wanekoohost.com.
 sanarinside.sn.	172800	IN	NS	ns6.wanekoohost.com.
 sandbox.sn.	172800	IN	NS	ns14.ovh.net.
@@ -17133,9 +17099,8 @@ senfacture.sn.	43200	IN	NS	ns.sonatel.sn.
 senfacture.sn.	43200	IN	NS	ns2.sonatel.sn.
 senfinances.sn.	43200	IN	NS	ns1.imingo.net.
 senfinances.sn.	43200	IN	NS	ns2.imingo.net.
-senfitness.sn.	172800	IN	NS	ns1.wanekoohost.com.
-senfitness.sn.	172800	IN	NS	ns2.wanekoohost.com.
 senfitness.sn.	172800	IN	NS	ns3.wanekoohost.com.
+senfitness.sn.	172800	IN	NS	ns4.wanekoohost.com.
 senfitness.sn.	172800	IN	NS	ns5.wanekoohost.com.
 senfitness.sn.	172800	IN	NS	ns6.wanekoohost.com.
 senfood.sn.	43200	IN	NS	ns1.dns-parking.com.
@@ -17232,9 +17197,8 @@ senmask221.sn.	43200	IN	NS	ns3.francedns.com.
 senof.sn.	172800	IN	NS	ns1.netim.net.
 senof.sn.	172800	IN	NS	ns2.netim.net.
 senof.sn.	172800	IN	NS	ns3.netim.net.
-senoffice.sn.	172800	IN	NS	ns1.wanekoohost.com.
-senoffice.sn.	172800	IN	NS	ns2.wanekoohost.com.
 senoffice.sn.	172800	IN	NS	ns3.wanekoohost.com.
+senoffice.sn.	172800	IN	NS	ns4.wanekoohost.com.
 senoffice.sn.	172800	IN	NS	ns5.wanekoohost.com.
 senoffice.sn.	172800	IN	NS	ns6.wanekoohost.com.
 senoflay.sn.	172800	IN	NS	ns100.ovh.net.
@@ -17649,9 +17613,8 @@ signpub.sn.	43200	IN	NS	ns3.kheweul.net.
 signpub.sn.	43200	IN	NS	ns4.kheweul.net.
 siitav.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 siitav.sn.	172800	IN	NS	ns9.jokko-hosting.com.
-siiwal.sn.	172800	IN	NS	ns1.wanekoohost.com.
-siiwal.sn.	172800	IN	NS	ns2.wanekoohost.com.
 siiwal.sn.	172800	IN	NS	ns3.wanekoohost.com.
+siiwal.sn.	172800	IN	NS	ns4.wanekoohost.com.
 siiwal.sn.	172800	IN	NS	ns5.wanekoohost.com.
 siiwal.sn.	172800	IN	NS	ns6.wanekoohost.com.
 sil.sn.	43200	IN	NS	dns1.interdominios.com.
@@ -18402,9 +18365,8 @@ sources.sn.	172800	IN	NS	ns1.caurys.net.
 sources.sn.	172800	IN	NS	ns2.caurys.net.
 sowlawyers.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 sowlawyers.sn.	43200	IN	NS	nsmpro2.nordnet.com.
-soxla221.sn.	172800	IN	NS	ns1.wanekoohost.com.
-soxla221.sn.	172800	IN	NS	ns2.wanekoohost.com.
 soxla221.sn.	172800	IN	NS	ns3.wanekoohost.com.
+soxla221.sn.	172800	IN	NS	ns4.wanekoohost.com.
 soxla221.sn.	172800	IN	NS	ns5.wanekoohost.com.
 soxla221.sn.	172800	IN	NS	ns6.wanekoohost.com.
 spar.sn.	43200	IN	NS	ns1.101domain.com.
@@ -18426,9 +18388,8 @@ speedy.sn.	43200	IN	NS	ns4.kheweul.net.
 spi.sn.	43200	IN	NS	ns1.digitalocean.com.
 spi.sn.	43200	IN	NS	ns2.digitalocean.com.
 spi.sn.	43200	IN	NS	ns3.digitalocean.com.
-spicinvest.sn.	172800	IN	NS	ns1.wanekoohost.com.
-spicinvest.sn.	172800	IN	NS	ns2.wanekoohost.com.
 spicinvest.sn.	172800	IN	NS	ns3.wanekoohost.com.
+spicinvest.sn.	172800	IN	NS	ns4.wanekoohost.com.
 spicinvest.sn.	172800	IN	NS	ns5.wanekoohost.com.
 spicinvest.sn.	172800	IN	NS	ns6.wanekoohost.com.
 spikevax.sn.	172800	IN	NS	ns01.trademarkarea.com.
@@ -18635,8 +18596,8 @@ sumassistance.sn.	172800	IN	NS	ns2.caurys.net.
 sumayyah.sn.	172800	IN	NS	ns200.anycast.me.
 sumayyah.sn.	172800	IN	NS	dns200.anycast.me.
 sumayyah.sn.	172800	IN	DS	19357 8 2 619d1ee90d6aa894b12c5d91fa788366e5cce9bcb29a8558517460f81b9d94be
-sump.sn.	172800	IN	NS	ns1.wanekoohost.com.
-sump.sn.	172800	IN	NS	ns2.wanekoohost.com.
+sump.sn.	172800	IN	NS	ns3.wanekoohost.com.
+sump.sn.	172800	IN	NS	ns4.wanekoohost.com.
 sump.sn.	172800	IN	NS	ns5.wanekoohost.com.
 sump.sn.	172800	IN	NS	ns6.wanekoohost.com.
 sun.sn.	43200	IN	NS	ns1.sun.com.
@@ -19355,8 +19316,8 @@ thiak-thiak.sn.	172800	IN	NS	ns2.netim.net.
 thiak-thiak.sn.	172800	IN	NS	ns3.netim.net.
 thiakthiak.sn.	172800	IN	NS	ns1.hosting-server-1022.com.
 thiakthiak.sn.	172800	IN	NS	ns2.hosting-server-1022.com.
-thierno-ndiaye.sn.	172800	IN	NS	ns1.wanekoohost.com.
-thierno-ndiaye.sn.	172800	IN	NS	ns2.wanekoohost.com.
+thierno-ndiaye.sn.	172800	IN	NS	ns3.wanekoohost.com.
+thierno-ndiaye.sn.	172800	IN	NS	ns4.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns5.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns6.wanekoohost.com.
 thiesactu.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -20232,9 +20193,8 @@ vaponet.sn.	172800	IN	NS	dns100.ovh.net.
 vaponet.sn.	172800	IN	DS	4645 8 2 7fe1453056a884fe08121773b26c25516922bf2e5980bc82eb64a179b03034f4
 var.sn.	172800	IN	NS	ns1.cp-30.webhostbox.net.
 var.sn.	172800	IN	NS	ns2.cp-30.webhostbox.net.
-varconsulting.sn.	172800	IN	NS	ns1.wanekoohost.com.
-varconsulting.sn.	172800	IN	NS	ns2.wanekoohost.com.
 varconsulting.sn.	172800	IN	NS	ns3.wanekoohost.com.
+varconsulting.sn.	172800	IN	NS	ns4.wanekoohost.com.
 varconsulting.sn.	172800	IN	NS	ns5.wanekoohost.com.
 varconsulting.sn.	172800	IN	NS	ns6.wanekoohost.com.
 vasesdhonneur.sn.	172800	IN	NS	ns1.contabo.net.
@@ -20278,6 +20238,8 @@ versus.sn.	43200	IN	NS	ns.sonatel.sn.
 versus.sn.	43200	IN	NS	ns2.sonatel.sn.
 versuscapital.sn.	43200	IN	NS	ns1.giowm1171.siteground.biz.
 versuscapital.sn.	43200	IN	NS	ns2.giowm1171.siteground.biz.
+vertjaune.sn.	172800	IN	NS	ns1.tmd.cloud.
+vertjaune.sn.	172800	IN	NS	ns2.tmd.cloud.
 vetservices.sn.	43200	IN	NS	ns1.kheweul.net.
 vetservices.sn.	43200	IN	NS	ns2.kheweul.net.
 vezeeta.sn.	43200	IN	NS	ns1.101domain.com.
