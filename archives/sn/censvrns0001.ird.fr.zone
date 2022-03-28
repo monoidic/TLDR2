@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434020 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434042 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/03/2022 02H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [28/03/2022 05H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14590,6 +14590,9 @@ paradisepices.sn.	43200	IN	NS	ns1.kheweul.net.
 paradisepices.sn.	43200	IN	NS	ns2.kheweul.net.
 paradisepices.sn.	43200	IN	NS	ns3.kheweul.net.
 paradisepices.sn.	43200	IN	NS	ns4.kheweul.net.
+paradiseshop.sn.	172800	IN	NS	ns10.ovh.ca.
+paradiseshop.sn.	172800	IN	NS	dns10.ovh.ca.
+paradiseshop.sn.	172800	IN	DS	49894 8 2 41cb9881e54f5d7e9c197affbbb5e7b6ce3fb73072814e76f19be1986320d028
 parapharmacie.sn.	43200	IN	NS	ns1.kheweul.net.
 parapharmacie.sn.	43200	IN	NS	ns2.kheweul.net.
 parapharmacie.sn.	43200	IN	NS	ns3.kheweul.net.
