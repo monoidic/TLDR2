@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434138 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434152 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/03/2022 18H10:01]"
+sn.	172800	IN	TXT	"7 RRs processed [28/03/2022 20H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -893,9 +893,6 @@ agt.sn.	43200	IN	NS	ns1.kheweul.net.
 agt.sn.	43200	IN	NS	ns2.kheweul.net.
 agt.sn.	43200	IN	NS	ns3.kheweul.net.
 agt.sn.	43200	IN	NS	ns4.kheweul.net.
-agts.sn.	43200	IN	NS	ns7.jajeuf.com.
-agts.sn.	43200	IN	NS	ns8.jajeuf.com.
-agts.sn.	43200	IN	DS	56646 1 1 f6a25fc1e83590017b99c1251ae03cb7f0534e16
 aguila.sn.	43200	IN	NS	ns102.ovh.net.
 aguila.sn.	43200	IN	NS	dns102.ovh.net.
 ahmadiya.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -1694,6 +1691,10 @@ arw.sn.	43200	IN	NS	pdns77.ultradns.com.
 arw.sn.	43200	IN	NS	pdns77.ultradns.net.
 arw.sn.	43200	IN	NS	pdns77.ultradns.org.
 arys.sn.	43200	IN	NS	hosting100.arc.sn.
+as-samadiyyah.sn.	172800	IN	NS	ns1.kheweul.net.
+as-samadiyyah.sn.	172800	IN	NS	ns2.kheweul.net.
+as-samadiyyah.sn.	172800	IN	NS	ns3.kheweul.net.
+as-samadiyyah.sn.	172800	IN	NS	ns4.kheweul.net.
 asac.sn.	43200	IN	NS	ns.sonatel.sn.
 asac.sn.	43200	IN	NS	ns2.sonatel.sn.
 asafi.sn.	43200	IN	NS	ns1.caurys.net.
@@ -3887,6 +3888,10 @@ cger.sn.	172800	IN	NS	ns4.wanekoohost.com.
 cger.sn.	172800	IN	NS	ns5.wanekoohost.com.
 cger.sn.	172800	IN	NS	ns6.wanekoohost.com.
 cgfbourse.sn.	43200	IN	NS	ns304436.ip-94-23-218.eu.
+cgimmo.sn.	172800	IN	NS	ns1.kheweul.net.
+cgimmo.sn.	172800	IN	NS	ns2.kheweul.net.
+cgimmo.sn.	172800	IN	NS	ns3.kheweul.net.
+cgimmo.sn.	172800	IN	NS	ns4.kheweul.net.
 cgis.sn.	43200	IN	NS	ns112.ovh.net.
 cgis.sn.	43200	IN	NS	dns112.ovh.net.
 cgmic.sn.	43200	IN	NS	ns1.ascio.com.
@@ -4006,6 +4011,8 @@ cicabtp.sn.	43200	IN	NS	ns3.kheweul.net.
 cicabtp.sn.	43200	IN	NS	ns4.kheweul.net.
 cicad.sn.	43200	IN	NS	ns1.caurys.net.
 cicad.sn.	43200	IN	NS	ns2.caurys.net.
+cicaforumcivil.sn.	172800	IN	NS	ns1.caurys.net.
+cicaforumcivil.sn.	172800	IN	NS	ns2.caurys.net.
 cice.sn.	43200	IN	NS	sdns1.ovh.net.
 cice.sn.	43200	IN	NS	ns27684.ovh.net.
 cices.sn.	172800	IN	NS	ns1.caurys.net.
@@ -5800,8 +5807,6 @@ dkglobal.sn.	172800	IN	NS	ns1.caurys.net.
 dkglobal.sn.	172800	IN	NS	ns2.caurys.net.
 dki.sn.	43200	IN	NS	ns1.101domain.com.
 dki.sn.	43200	IN	NS	ns2.101domain.com.
-dkmultimedia.sn.	43200	IN	NS	ns7.jajeuf.com.
-dkmultimedia.sn.	43200	IN	NS	ns8.jajeuf.com.
 dktec.sn.	43200	IN	NS	ns200.anycast.me.
 dktec.sn.	43200	IN	NS	dns200.anycast.me.
 dlm.sn.	43200	IN	NS	ns104.ovh.net.
@@ -6649,8 +6654,6 @@ en2roues.sn.	172800	IN	NS	ns1045.ui-dns.org.
 ena.sn.	43200	IN	NS	ns.adie.sn.
 ena.sn.	43200	IN	NS	ns2.gouv.sn.
 ena.sn.	43200	IN	NS	ns3.gouv.sn.
-enablis.sn.	43200	IN	NS	ns2.jajeuf.com.
-enablis.sn.	43200	IN	NS	ns6.jajeuf.com.
 enactus.sn.	43200	IN	NS	ns11.infomaniak.ch.
 enactus.sn.	43200	IN	NS	ns12.infomaniak.ch.
 enadakar.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -6790,9 +6793,6 @@ ept.sn.	43200	IN	NS	ns3.kheweul.net.
 ept.sn.	43200	IN	NS	ns4.kheweul.net.
 epureau.sn.	43200	IN	NS	ns111.ovh.net.
 epureau.sn.	43200	IN	NS	dns111.ovh.net.
-eqodex.sn.	43200	IN	NS	ns7.jajeuf.com.
-eqodex.sn.	43200	IN	NS	ns8.jajeuf.com.
-eqodex.sn.	43200	IN	DS	17630 1 1 94d8f58fe348f22526cffd9a20541c6b8d2d04f6
 equicons.sn.	172800	IN	NS	ns3.wanekoohost.com.
 equicons.sn.	172800	IN	NS	ns4.wanekoohost.com.
 equicons.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -7147,6 +7147,8 @@ evolution-perspectives.sn.	43200	IN	NS	dns101.ovh.net.
 evolution-perspectives.sn.	43200	IN	DS	53992 8 2 5e12abd6450908097ea2f86e3547c9f48f797952021b63a9ad441fed88c47038
 evolv.sn.	43200	IN	NS	ns111.ovh.net.
 evolv.sn.	43200	IN	NS	dns111.ovh.net.
+evoplus.sn.	172800	IN	NS	ns1.md-2.webhostbox.net.
+evoplus.sn.	172800	IN	NS	ns2.md-2.webhostbox.net.
 evulpo.sn.	172800	IN	NS	ns01.trademarkarea.com.
 evulpo.sn.	172800	IN	NS	ns02.trademarkarea.com.
 evulpo.sn.	172800	IN	NS	ns03.trademarkarea.com.
@@ -16094,8 +16096,8 @@ saes.sn.	43200	IN	NS	sdns2.ovh.net.
 saes.sn.	43200	IN	NS	ns3362327.ip-37-187-73.eu.
 saf.sn.	172800	IN	NS	ns.arc.sn.
 saf.sn.	172800	IN	NS	hosting100.arc.sn.
-saf-ingredients.sn.	172800	IN	NS	ns1.o2switch.net.
-saf-ingredients.sn.	172800	IN	NS	ns2.o2switch.net.
+saf-ingredients.sn.	172800	IN	NS	ns19.ovh.net.
+saf-ingredients.sn.	172800	IN	NS	dns19.ovh.net.
 safarimmo.sn.	172800	IN	NS	alec.ns.cloudflare.com.
 safarimmo.sn.	172800	IN	NS	rihana.ns.cloudflare.com.
 safcom.sn.	43200	IN	NS	ns.arc.sn.
