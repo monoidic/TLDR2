@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434067 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434081 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/03/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/03/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2449,8 +2449,8 @@ bemore.sn.	172800	IN	NS	dns16.ovh.net.
 bemore.sn.	172800	IN	DS	34012 8 2 c029e5cd18bfcbca84b6cc1b03314b4dcf4f1afe4e16c08bcc9e6818aec5c2bf
 bemtech.sn.	43200	IN	NS	ns2.francedns.com.
 bemtech.sn.	43200	IN	NS	cloudf02.francedns.com.
-benimhocam10.sn.	172800	IN	NS	ns1.sedoparking.com.
-benimhocam10.sn.	172800	IN	NS	ns2.sedoparking.com.
+benimhocam10.sn.	172800	IN	NS	170.ns1.above.com.
+benimhocam10.sn.	172800	IN	NS	170.ns2.above.com.
 bennoosiggilsenegaal.sn.	43200	IN	NS	ns20.ovh.net.
 bennoosiggilsenegaal.sn.	43200	IN	NS	dns20.ovh.net.
 bergmann.sn.	43200	IN	NS	dns1.wmaker.net.
@@ -4488,6 +4488,9 @@ concisconsulting.sn.	43200	IN	NS	ns2.netim.net.
 concisconsulting.sn.	43200	IN	NS	ns3.netim.net.
 concours.sn.	172800	IN	NS	ns31.infomaniak.com.
 concours.sn.	172800	IN	NS	ns32.infomaniak.com.
+concours-cfj.sn.	172800	IN	NS	ns1.whc.ca.
+concours-cfj.sn.	172800	IN	NS	ns2.whc.ca.
+concours-cfj.sn.	172800	IN	NS	ns3.whc.ca.
 condak.sn.	172800	IN	NS	ns1.francedns.com.
 condak.sn.	172800	IN	NS	ns2.francedns.com.
 condak.sn.	172800	IN	NS	ns3.francedns.com.
@@ -10326,8 +10329,8 @@ jams.sn.	172800	IN	NS	ns3.francedns.com.
 jangalma.sn.	43200	IN	NS	ns1.ipage.com.
 janus.sn.	172800	IN	NS	udns1.cscdns.net.
 janus.sn.	172800	IN	NS	udns2.cscdns.uk.
-japanese.sn.	172800	IN	NS	ns1.sedoparking.com.
-japanese.sn.	172800	IN	NS	ns2.sedoparking.com.
+japanese.sn.	172800	IN	NS	170.ns1.above.com.
+japanese.sn.	172800	IN	NS	170.ns2.above.com.
 japanmotors.sn.	43200	IN	NS	ns200.anycast.me.
 japanmotors.sn.	43200	IN	NS	dns200.anycast.me.
 japanmotors.sn.	172800	IN	DS	14209 8 2 3b9fc42cd8eaddac88af1b940bcabec426bc31b02191525bca2d70d1d4894a6e
@@ -20377,8 +20380,8 @@ vip.sn.	43200	IN	NS	dns104.ovh.net.
 visa.sn.	43200	IN	NS	ns1.dnsvisa.com.
 visa.sn.	43200	IN	NS	ns2.dnsvisa.com.
 visa.sn.	43200	IN	NS	ns3.dnsvisa.com.
-visasenegal.sn.	172800	IN	NS	ns1.sedoparking.com.
-visasenegal.sn.	172800	IN	NS	ns2.sedoparking.com.
+visasenegal.sn.	172800	IN	NS	170.ns1.above.com.
+visasenegal.sn.	172800	IN	NS	170.ns2.above.com.
 visible.sn.	172800	IN	NS	ns1.kheweul.net.
 visible.sn.	172800	IN	NS	ns2.kheweul.net.
 visible.sn.	172800	IN	NS	ns3.kheweul.net.
