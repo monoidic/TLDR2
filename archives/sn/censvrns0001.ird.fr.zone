@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434121 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434138 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"40 RRs processed [28/03/2022 16H00:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/03/2022 18H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2712,9 +2712,10 @@ bitcoins.sn.	172800	IN	NS	ns1.siteground.net.
 bitcoins.sn.	172800	IN	NS	ns2.siteground.net.
 biti.sn.	43200	IN	NS	ns200.anycast.me.
 biti.sn.	43200	IN	NS	dns200.anycast.me.
-bitikbi.sn.	172800	IN	NS	ns1.wanekoohost.com.
-bitikbi.sn.	172800	IN	NS	ns2.wanekoohost.com.
+bitikbi.sn.	172800	IN	NS	ns3.wanekoohost.com.
 bitikbi.sn.	172800	IN	NS	ns4.wanekoohost.com.
+bitikbi.sn.	172800	IN	NS	ns5.wanekoohost.com.
+bitikbi.sn.	172800	IN	NS	ns6.wanekoohost.com.
 bitpanda.sn.	43200	IN	NS	ns1.gandi.net.
 bitpanda.sn.	43200	IN	NS	ns2.gandi.net.
 bitpanda.sn.	43200	IN	NS	ns3.gandi.net.
@@ -3830,9 +3831,10 @@ cesag.sn.	43200	IN	NS	ns1.caurys.net.
 cesag.sn.	43200	IN	NS	ns2.caurys.net.
 cese.sn.	43200	IN	NS	ns106.ovh.net.
 cese.sn.	43200	IN	NS	dns106.ovh.net.
-cesep.sn.	172800	IN	NS	ns3.wanekoo.net.
+cesep.sn.	172800	IN	NS	ns3.wanekoohost.com.
 cesep.sn.	172800	IN	NS	ns4.wanekoohost.com.
-cesep.sn.	172800	IN	NS	ns6.wanekoo.net.
+cesep.sn.	172800	IN	NS	ns5.wanekoohost.com.
+cesep.sn.	172800	IN	NS	ns6.wanekoohost.com.
 cesesenegal.sn.	43200	IN	NS	ns1.kheweul.net.
 cesesenegal.sn.	43200	IN	NS	ns2.kheweul.net.
 cesesenegal.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -7857,10 +7859,8 @@ fracht.sn.	43200	IN	NS	ns2.netim.net.
 fracht.sn.	43200	IN	NS	ns3.netim.net.
 fracht.sn.	43200	IN	NS	ns4.netim.net.
 fracht.sn.	43200	IN	NS	ns5.netim.net.
-fradevafrique.sn.	172800	IN	NS	ns1.kheweul.net.
-fradevafrique.sn.	172800	IN	NS	ns2.kheweul.net.
-fradevafrique.sn.	172800	IN	NS	ns3.kheweul.net.
-fradevafrique.sn.	172800	IN	NS	ns4.kheweul.net.
+fradevafrique.sn.	172800	IN	NS	ns1.o2switch.net.
+fradevafrique.sn.	172800	IN	NS	ns2.o2switch.net.
 frametek.sn.	43200	IN	NS	ns25.domaincontrol.com.
 frametek.sn.	43200	IN	NS	ns26.domaincontrol.com.
 francedns.sn.	43200	IN	NS	ns1.francedns.com.
@@ -10557,10 +10557,10 @@ juicejunkie.sn.	43200	IN	NS	ns2.101domain.com.
 juicejunkie.sn.	43200	IN	NS	ns5.101domain.com.
 jula.sn.	43200	IN	NS	ns1.infomaniak.ch.
 jula.sn.	43200	IN	NS	ns2.infomaniak.ch.
-julastore.sn.	43200	IN	NS	ns1.wanekoohost.com.
-julastore.sn.	43200	IN	NS	ns2.wanekoohost.com.
-julastore.sn.	43200	IN	NS	ns3.wanekoohost.com.
-julastore.sn.	43200	IN	NS	ns4.wanekoohost.com.
+julastore.sn.	172800	IN	NS	ns3.wanekoohost.com.
+julastore.sn.	172800	IN	NS	ns4.wanekoohost.com.
+julastore.sn.	172800	IN	NS	ns5.wanekoohost.com.
+julastore.sn.	172800	IN	NS	ns6.wanekoohost.com.
 julaya.sn.	43200	IN	NS	ns1.francedns.com.
 julaya.sn.	43200	IN	NS	ns2.francedns.com.
 julaya.sn.	43200	IN	NS	ns3.francedns.com.
@@ -11045,9 +11045,10 @@ komunity.sn.	172800	IN	NS	ns5.wanekoohost.com.
 komunity.sn.	172800	IN	NS	ns6.wanekoohost.com.
 konga.sn.	172800	IN	NS	ns1.101domain.com.
 konga.sn.	172800	IN	NS	ns2.101domain.com.
-konnect.sn.	172800	IN	NS	ns1.wanekoohost.com.
-konnect.sn.	172800	IN	NS	ns2.wanekoohost.com.
+konnect.sn.	172800	IN	NS	ns3.wanekoohost.com.
 konnect.sn.	172800	IN	NS	ns4.wanekoohost.com.
+konnect.sn.	172800	IN	NS	ns5.wanekoohost.com.
+konnect.sn.	172800	IN	NS	ns6.wanekoohost.com.
 konnect-mauritanie.sn.	172800	IN	NS	ns1.wanekoohost.com.
 konnect-mauritanie.sn.	172800	IN	NS	ns2.wanekoohost.com.
 konnect-mauritanie.sn.	172800	IN	NS	ns4.wanekoohost.com.
@@ -11283,9 +11284,10 @@ lagon.sn.	43200	IN	NS	ns.sonatel.sn.
 lagon.sn.	43200	IN	NS	ns2.sonatel.sn.
 lagondole.sn.	43200	IN	NS	ns.sonatel.sn.
 lagondole.sn.	43200	IN	NS	ns2.sonatel.sn.
-lagrace.sn.	172800	IN	NS	ns1.wanekoohost.com.
-lagrace.sn.	172800	IN	NS	ns2.wanekoohost.com.
+lagrace.sn.	172800	IN	NS	ns3.wanekoohost.com.
 lagrace.sn.	172800	IN	NS	ns4.wanekoohost.com.
+lagrace.sn.	172800	IN	NS	ns5.wanekoohost.com.
+lagrace.sn.	172800	IN	NS	ns6.wanekoohost.com.
 laicran.sn.	43200	IN	NS	indom10.indomco.com.
 laicran.sn.	43200	IN	NS	indom20.indomco.net.
 laicran.sn.	43200	IN	NS	indom30.indomco.net.
@@ -11981,6 +11983,8 @@ loumo.sn.	172800	IN	NS	ns.bnamed.uk.
 loumo.sn.	172800	IN	NS	ns.bnamed.us.
 loumo.sn.	172800	IN	NS	ns.nscluster.dk.
 loumo.sn.	172800	IN	NS	ns.nscluster.wf.
+lowprice.sn.	172800	IN	NS	ns41.infomaniak.com.
+lowprice.sn.	172800	IN	NS	ns42.infomaniak.com.
 loxea.sn.	43200	IN	NS	ns1.cetsi.fr.
 loxea.sn.	43200	IN	NS	ns2.cetsi.eu.
 loxea.sn.	43200	IN	NS	ns3.cetsi.info.
