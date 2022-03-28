@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434152 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434165 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"7 RRs processed [28/03/2022 20H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/03/2022 22H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5081,11 +5081,8 @@ dakarmedical.sn.	43200	IN	NS	ns2.refer.sn.
 dakarmedicalcenter.sn.	172800	IN	NS	ns103.ovh.net.
 dakarmedicalcenter.sn.	172800	IN	NS	dns103.ovh.net.
 dakarmedicalcenter.sn.	172800	IN	DS	47554 8 2 737d722c128e30b7903a86fafd1d33b3ab76567c1c947a101bdcf4e7170fc5a0
-dakarmobilite.sn.	172800	IN	NS	ns.bnamed.eu.
-dakarmobilite.sn.	172800	IN	NS	ns.bnamed.uk.
-dakarmobilite.sn.	172800	IN	NS	ns.bnamed.us.
-dakarmobilite.sn.	172800	IN	NS	ns.nscluster.pt.
-dakarmobilite.sn.	172800	IN	NS	ns.nscluster.sk.
+dakarmobilite.sn.	172800	IN	NS	ns1.bluehost.com.
+dakarmobilite.sn.	172800	IN	NS	ns2.bluehost.com.
 dakarnave.sn.	43200	IN	NS	ns.sonatel.sn.
 dakarnave.sn.	43200	IN	NS	ns2.sonatel.sn.
 dakarnews.sn.	43200	IN	NS	ns1.ascio.com.
@@ -16621,6 +16618,8 @@ seaplaza.sn.	172800	IN	NS	ns.arc.sn.
 seaplaza.sn.	172800	IN	NS	ns1.wix.com.
 seaplaza.sn.	172800	IN	NS	ns2.wix.com.
 seaplaza.sn.	172800	IN	NS	ns3.arc.sn.
+searates.sn.	172800	IN	NS	dns1.cscdns.net.
+searates.sn.	172800	IN	NS	dns2.cscdns.net.
 seat.sn.	43200	IN	NS	ns1.gedas.es.
 seat.sn.	43200	IN	NS	ns1.francedns.com.
 seat.sn.	43200	IN	NS	ns2.francedns.com.
