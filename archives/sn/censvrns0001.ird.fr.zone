@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434307 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434323 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [29/03/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [29/03/2022 20H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7776,6 +7776,7 @@ foodstorequipements.sn.	43200	IN	NS	ns.sonatel.sn.
 foodstorequipements.sn.	43200	IN	NS	ns2.sonatel.sn.
 foot.sn.	172800	IN	NS	ns110.ovh.net.
 foot.sn.	172800	IN	NS	dns110.ovh.net.
+foot.sn.	172800	IN	DS	6037 8 2 8bfb9e9007e361e8e3fca56ad01a8efafb4227a1e2249071d727ab25b217d83b
 footmu7.sn.	43200	IN	NS	ns1.footmu7.sn.
 footmu7.sn.	43200	IN	NS	ns2.footmu7.sn.
 ns1.footmu7.sn.	43200	IN	A	165.22.182.189
@@ -11410,6 +11411,7 @@ laroyaltine.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 laroyaltine.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 las-costumercareweek.sn.	172800	IN	NS	ns110.ovh.net.
 las-costumercareweek.sn.	172800	IN	NS	dns110.ovh.net.
+las-costumercareweek.sn.	172800	IN	DS	16864 8 2 cf667604d21d205935eb381861244a5d065e1d0b79497b23bb4d9d057a39079b
 lasa.sn.	43200	IN	NS	ns.sonatel.sn.
 lasa.sn.	43200	IN	NS	ns2.sonatel.sn.
 lasa.sn.	43200	IN	NS	edge.lasa.sn.
