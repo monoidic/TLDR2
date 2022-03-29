@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434231 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434247 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [29/03/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [29/03/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -922,11 +922,6 @@ aig.sn.	43200	IN	NS	f.service.afiliasdns.net.
 aihes.sn.	172800	IN	NS	nsa.n0c.com.
 aihes.sn.	172800	IN	NS	nsb.n0c.com.
 aihes.sn.	172800	IN	NS	nsc.n0c.com.
-aima.sn.	43200	IN	NS	ns1.francedns.com.
-aima.sn.	43200	IN	NS	ns2.francedns.com.
-aima.sn.	43200	IN	NS	ns3.francedns.com.
-aima.sn.	43200	IN	NS	ns4.francedns.com.
-aima.sn.	43200	IN	NS	ns5.francedns.com.
 aima-group.sn.	43200	IN	NS	ns5.afriregister.com.
 aima-group.sn.	43200	IN	NS	ns6.afriregister.com.
 ainou.sn.	43200	IN	NS	ns111.ovh.net.
@@ -14684,6 +14679,9 @@ particonservateur.sn.	172800	IN	DS	64804 8 2 ea14aa0458095491f43a84bb0c2423d8146
 partinco.sn.	172800	IN	NS	ns112.ovh.net.
 partinco.sn.	172800	IN	NS	dns112.ovh.net.
 partinco.sn.	172800	IN	DS	18034 8 2 aebf5694909c5ee9593e97f7cace87b3bad619a54574c2bbdd56aede59b42eb1
+pass.sn.	172800	IN	NS	ns1.francedns.com.
+pass.sn.	172800	IN	NS	ns2.francedns.com.
+pass.sn.	172800	IN	NS	ns3.francedns.com.
 passchifa.sn.	172800	IN	NS	ns1.macaisse.sn.
 passchifa.sn.	172800	IN	NS	ns2.macaisse.sn.
 passepartout.sn.	43200	IN	NS	ns1.site5.com.
@@ -15731,11 +15729,9 @@ recotech.sn.	172800	IN	NS	ns3.ascio.com.
 recotech.sn.	172800	IN	NS	ns4.ascio.com.
 recuplast.sn.	172800	IN	NS	ns1.o2switch.net.
 recuplast.sn.	172800	IN	NS	ns2.o2switch.net.
-redaviasolar.sn.	43200	IN	NS	ns.inwx.de.
-redaviasolar.sn.	43200	IN	NS	ns2.inwx.de.
-redaviasolar.sn.	43200	IN	NS	ns3.inwx.eu.
-redaviasolar.sn.	43200	IN	NS	ns4.inwx.com.
-redaviasolar.sn.	43200	IN	NS	ns5.inwx.net.
+redaviasolar.sn.	172800	IN	NS	ns.inwx.de.
+redaviasolar.sn.	172800	IN	NS	ns2.inwx.de.
+redaviasolar.sn.	172800	IN	NS	ns3.inwx.eu.
 redbowl.sn.	43200	IN	NS	ns17.ixwebhosting.com.
 redbowl.sn.	43200	IN	NS	ns18.ixwebhosting.com.
 redbull.sn.	43200	IN	NS	pdns91.ultradns.biz.
