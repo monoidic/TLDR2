@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434191 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434211 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [29/03/2022 02H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [29/03/2022 05H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14770,6 +14770,7 @@ pdeps.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pdeps.sn.	172800	IN	NS	ns8.jokko-hosting.com.
 pdg.sn.	172800	IN	NS	ns200.anycast.me.
 pdg.sn.	172800	IN	NS	dns200.anycast.me.
+pdg.sn.	172800	IN	DS	46204 8 2 2afcaf4e14ed5a4dcb9192572179180d4f2a13a1dc30e91aeded5951f04922dd
 pdi.sn.	43200	IN	NS	ns.sonatel.sn.
 pdi.sn.	43200	IN	NS	ns1.validname.com.
 pdi.sn.	43200	IN	NS	ns2.sonatel.sn.
@@ -20386,6 +20387,7 @@ villedesaintlouis.sn.	43200	IN	NS	dns14.ovh.net.
 villedesaintlouis.sn.	172800	IN	DS	24187 8 2 0c57bcb73ce0035622226dda1156d2f99bf6de926fa1e2e4b0123527a7eef30d
 villedeziguinchor.sn.	172800	IN	NS	ns200.anycast.me.
 villedeziguinchor.sn.	172800	IN	NS	dns200.anycast.me.
+villedeziguinchor.sn.	172800	IN	DS	27406 8 2 e1b4e274f1ed202c553d7a862e3ea9b92e661f314ed6f9048e6c8d8f2a1f4871
 villeverte.sn.	43200	IN	NS	ns101.ovh.net.
 villeverte.sn.	43200	IN	NS	dns101.ovh.net.
 vintage.sn.	172800	IN	NS	ns14.ovh.net.
