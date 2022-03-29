@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434291 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434307 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [29/03/2022 16H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [29/03/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2348,6 +2348,9 @@ bci-banque.sn.	43200	IN	NS	ns15.dnsprive.com.
 bci-banque.sn.	43200	IN	NS	ns16.dnsprive.com.
 bcmid.sn.	43200	IN	NS	ns1.dns-parking.com.
 bcmid.sn.	43200	IN	NS	ns2.dns-parking.com.
+bcs.sn.	172800	IN	NS	ns1.netim.net.
+bcs.sn.	172800	IN	NS	ns2.netim.net.
+bcs.sn.	172800	IN	NS	ns3.netim.net.
 bdiouf.sn.	43200	IN	NS	ns1.cp-29.webhostbox.net.
 bdiouf.sn.	43200	IN	NS	ns2.cp-29.webhostbox.net.
 bdk.sn.	43200	IN	NS	ns1.wtservers.com.
@@ -5049,6 +5052,8 @@ dakarchitects.sn.	172800	IN	NS	ns1.kheweul.net.
 dakarchitects.sn.	172800	IN	NS	ns2.kheweul.net.
 dakarchitects.sn.	172800	IN	NS	ns3.kheweul.net.
 dakarchitects.sn.	172800	IN	NS	ns4.kheweul.net.
+dakarconstruction.sn.	172800	IN	NS	dns1.namecheaphosting.com.
+dakarconstruction.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 dakarexpress.sn.	172800	IN	NS	ns1.youcan.shop.
 dakarexpress.sn.	172800	IN	NS	ns2.youcan.shop.
 dakarforum.sn.	43200	IN	NS	ns200.anycast.me.
@@ -12829,6 +12834,9 @@ mgmotor.sn.	172800	IN	DS	53365 8 2 550163d0a2f15334012d081932212023eb209a0c9660b
 mgp.sn.	172800	IN	NS	ns20.ovh.net.
 mgp.sn.	172800	IN	NS	dns20.ovh.net.
 mgp.sn.	172800	IN	DS	46702 8 2 4a08b3f93a0b25abf42d7951756024940220dc4acf78f735c81dcaabff420c65
+mgsolutions.sn.	172800	IN	NS	ns1.netim.net.
+mgsolutions.sn.	172800	IN	NS	ns2.netim.net.
+mgsolutions.sn.	172800	IN	NS	ns3.netim.net.
 mhmdstudio.sn.	172800	IN	NS	ns1.kheweul.net.
 mhmdstudio.sn.	172800	IN	NS	ns2.kheweul.net.
 mhmdstudio.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -15934,10 +15942,9 @@ richbond.sn.	43200	IN	NS	ns2.francedns.com.
 richbond.sn.	43200	IN	NS	ns3.francedns.com.
 richbond.sn.	43200	IN	NS	ns4.francedns.com.
 richbond.sn.	43200	IN	NS	ns5.francedns.com.
-rijkzwaan.sn.	43200	IN	NS	ns-313.awsdns-39.com.
-rijkzwaan.sn.	43200	IN	NS	ns-577.awsdns-08.net.
-rijkzwaan.sn.	43200	IN	NS	ns-1046.awsdns-02.org.
-rijkzwaan.sn.	43200	IN	NS	ns-1859.awsdns-40.co.uk.
+rijkzwaan.sn.	172800	IN	NS	ns1.yourdomainprovider.net.
+rijkzwaan.sn.	172800	IN	NS	ns2.yourdomainprovider.net.
+rijkzwaan.sn.	172800	IN	NS	ns3.yourdomainprovider.net.
 rim.sn.	43200	IN	NS	ns1.it-num.com.
 rim.sn.	43200	IN	NS	ns3.it-num.com.
 rimimmobilier.sn.	43200	IN	NS	ns.arc.sn.
@@ -16661,6 +16668,8 @@ sectronic.sn.	172800	IN	NS	dns11.ovh.net.
 sectronic.sn.	172800	IN	DS	30055 8 2 caf37ac0bd7df5a3eb0ab8f6b513edfb508225edb35112a631a373eb9e77c5c6
 secufoudre.sn.	43200	IN	NS	ns.sonatel.sn.
 secufoudre.sn.	43200	IN	NS	ns2.sonatel.sn.
+secumed.sn.	172800	IN	NS	usm11.noc41.com.
+secumed.sn.	172800	IN	NS	usm12.noc41.com.
 securimex.sn.	172800	IN	NS	ns1.o2switch.net.
 securimex.sn.	172800	IN	NS	ns2.o2switch.net.
 securisk.sn.	43200	IN	NS	ns1.cloudns.io.
