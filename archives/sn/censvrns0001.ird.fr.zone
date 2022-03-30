@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434420 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434431 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [30/03/2022 10H20:01]"
+sn.	172800	IN	TXT	"3 RRs processed [30/03/2022 12H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -11134,6 +11134,10 @@ krones.sn.	43200	IN	NS	ns1.krones-group.com.
 krones.sn.	43200	IN	NS	ns2.krones-group.com.
 krones.sn.	43200	IN	NS	ns3.krones-group.com.
 krones.sn.	43200	IN	NS	ns4.krones-group.com.
+kronos.sn.	172800	IN	NS	ns1.ascio.com.
+kronos.sn.	172800	IN	NS	ns2.ascio.com.
+kronos.sn.	172800	IN	NS	ns3.ascio.com.
+kronos.sn.	172800	IN	NS	ns4.ascio.com.
 ksb.sn.	43200	IN	NS	ns1.brandshelter.com.
 ksb.sn.	43200	IN	NS	ns2.brandshelter.de.
 ksb.sn.	43200	IN	NS	ns3.brandshelter.info.
@@ -14799,8 +14803,8 @@ pdcej.sn.	43200	IN	NS	ns3.kheweul.net.
 pdcej.sn.	43200	IN	NS	ns4.kheweul.net.
 pdeps.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pdeps.sn.	172800	IN	NS	ns8.jokko-hosting.com.
-pdg.sn.	172800	IN	NS	ns200.anycast.me.
-pdg.sn.	172800	IN	NS	dns200.anycast.me.
+pdg.sn.	172800	IN	NS	sam.ns.cloudflare.com.
+pdg.sn.	172800	IN	NS	margaret.ns.cloudflare.com.
 pdi.sn.	43200	IN	NS	ns.sonatel.sn.
 pdi.sn.	43200	IN	NS	ns1.validname.com.
 pdi.sn.	43200	IN	NS	ns2.sonatel.sn.
@@ -14922,9 +14926,6 @@ pfnac.sn.	43200	IN	NS	ns1.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns2.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns3.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns4.kheweul.net.
-pfpc.sn.	43200	IN	NS	ns200.anycast.me.
-pfpc.sn.	43200	IN	NS	dns200.anycast.me.
-pfpc.sn.	43200	IN	DS	44884 8 2 aeea200d80c9033175f368bb2fdcb20e80469b1d4c6522306564d69f31fc4011
 pgisecnsa.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pgisecnsa.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 pgo.sn.	172800	IN	NS	ns5.afriregister.co.ke.
@@ -16518,6 +16519,8 @@ sawaya.sn.	43200	IN	NS	ns2.cp-43.webhostbox.net.
 saxe.sn.	172800	IN	NS	ns110.ovh.net.
 saxe.sn.	172800	IN	NS	dns110.ovh.net.
 saxe.sn.	172800	IN	DS	1312 8 2 e524844db55b96926bd493bf6f68553562145d6941047eefa51a83173245e66d
+saydashop.sn.	172800	IN	NS	ns200.anycast.me.
+saydashop.sn.	172800	IN	NS	dns200.anycast.me.
 saytou-pse.sn.	43200	IN	NS	ns1.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns2.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns3.kheweul.net.
