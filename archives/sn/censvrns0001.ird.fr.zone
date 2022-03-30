@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434349 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434364 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [30/03/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [30/03/2022 02H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -12951,8 +12951,10 @@ mis.sn.	43200	IN	NS	ns2.101domain.com.
 mis.sn.	43200	IN	NS	ns5.101domain.com.
 mismo.sn.	43200	IN	NS	ns200.anycast.me.
 mismo.sn.	43200	IN	NS	dns200.anycast.me.
-miss.sn.	172800	IN	NS	ns1.101domain.com.
-miss.sn.	172800	IN	NS	ns2.101domain.com.
+miss.sn.	172800	IN	NS	dns1.supremedns.com.
+miss.sn.	172800	IN	NS	dns2.supremedns.com.
+miss.sn.	172800	IN	NS	dns3.supremedns.com.
+miss.sn.	172800	IN	NS	dns4.supremedns.com.
 missbaby.sn.	172800	IN	NS	ns200.anycast.me.
 missbaby.sn.	172800	IN	NS	dns200.anycast.me.
 missbaby.sn.	172800	IN	DS	25084 8 2 2f5a8bb614877a55c1b75a8789671a01c5b265cc0ff4e93de9395dddcb0d0628
@@ -16989,6 +16991,8 @@ senegal-tourisme.sn.	43200	IN	NS	dns14.ovh.net.
 senegal-tours.sn.	43200	IN	NS	ns108.ovh.net.
 senegal-tours.sn.	43200	IN	NS	dns108.ovh.net.
 senegal-tours.sn.	43200	IN	DS	32767 8 2 ed8a78911667c6d62fbbc177eb4e8c9d4d6aa5b23c30996a2c6dd09019502c07
+senegal-vente.sn.	172800	IN	NS	ns9.jajeuf.com.
+senegal-vente.sn.	172800	IN	NS	ns10.jajeuf.com.
 senegal-vision.sn.	172800	IN	NS	dns1.hosteur.com.
 senegal-vision.sn.	172800	IN	NS	dns2.hosteur.com.
 senegal2022.sn.	43200	IN	NS	ns1.101domain.com.
