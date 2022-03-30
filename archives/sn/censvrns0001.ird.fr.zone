@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434446 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434464 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [30/03/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [30/03/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1686,6 +1686,7 @@ arw.sn.	43200	IN	NS	pdns77.ultradns.org.
 arys.sn.	43200	IN	NS	hosting100.arc.sn.
 as-samadiyya.sn.	172800	IN	NS	ns110.ovh.net.
 as-samadiyya.sn.	172800	IN	NS	dns110.ovh.net.
+as-samadiyya.sn.	172800	IN	DS	3250 8 2 bd15587bcc81d49613ec4f052af2b1ea95fbd40ce268bf01800275fd0b0eff98
 as-samadiyyah.sn.	172800	IN	NS	ns1.kheweul.net.
 as-samadiyyah.sn.	172800	IN	NS	ns2.kheweul.net.
 as-samadiyyah.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -11885,8 +11886,8 @@ livescore.sn.	43200	IN	NS	seth.ns.cloudflare.com.
 livescore.sn.	43200	IN	NS	serena.ns.cloudflare.com.
 livestream.sn.	172800	IN	NS	ns11.infomaniak.ch.
 livestream.sn.	172800	IN	NS	ns12.infomaniak.ch.
-livetv.sn.	172800	IN	NS	ns1.sedoparking.com.
-livetv.sn.	172800	IN	NS	ns2.sedoparking.com.
+livetv.sn.	172800	IN	NS	170.ns1.above.com.
+livetv.sn.	172800	IN	NS	170.ns2.above.com.
 livewithconfidence.sn.	43200	IN	NS	ns1.lexsynergy.net.
 livewithconfidence.sn.	43200	IN	NS	ns2.lexsynergy.us.
 livewithconfidence.sn.	43200	IN	NS	ns3.lexsynergy.info.
@@ -14704,6 +14705,8 @@ parlementtv.sn.	43200	IN	NS	ns3.kheweul.net.
 parlementtv.sn.	43200	IN	NS	ns4.kheweul.net.
 paroissemipa.sn.	43200	IN	NS	ns13.ovh.net.
 paroissemipa.sn.	43200	IN	NS	dns13.ovh.net.
+paroleauxjeunes.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+paroleauxjeunes.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 parpeba.sn.	43200	IN	NS	ns.sonatel.sn.
 parpeba.sn.	43200	IN	NS	ns2.sonatel.sn.
 parsiec.sn.	172800	IN	NS	ns11.ovh.net.
@@ -15889,6 +15892,7 @@ reseau-agricash.sn.	172800	IN	NS	dns106.ovh.net.
 reseau-agricash.sn.	172800	IN	DS	7726 8 2 5b0c42011a01f5767c9841ddde757fed4c896026106790b83eab7879ee16c453
 reseau-jade.sn.	172800	IN	NS	ns110.ovh.net.
 reseau-jade.sn.	172800	IN	NS	dns110.ovh.net.
+reseau-jade.sn.	172800	IN	DS	43384 8 2 af189596407664397244c235664e961d8057549b3b17568f74143b6236de4a17
 reset.sn.	43200	IN	NS	ns1.dns-parking.com.
 reset.sn.	43200	IN	NS	ns2.dns-parking.com.
 reset.sn.	43200	IN	NS	ns3.francedns.com.
@@ -16526,6 +16530,7 @@ saxe.sn.	172800	IN	NS	dns110.ovh.net.
 saxe.sn.	172800	IN	DS	1312 8 2 e524844db55b96926bd493bf6f68553562145d6941047eefa51a83173245e66d
 saydashop.sn.	172800	IN	NS	ns200.anycast.me.
 saydashop.sn.	172800	IN	NS	dns200.anycast.me.
+saydashop.sn.	172800	IN	DS	3064 8 2 e5cd701e7429dc1f705a2e4d1bd24f40ea7ace2f5e3d5ba5457e5e29cf07ba60
 saytou-pse.sn.	43200	IN	NS	ns1.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns2.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns3.kheweul.net.
