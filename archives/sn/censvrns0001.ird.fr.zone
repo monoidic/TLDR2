@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434405 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434420 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [30/03/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [30/03/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8568,9 +8568,8 @@ gouyhost.sn.	43200	IN	NS	ns4.contabo.net.
 goxyoubess.sn.	172800	IN	NS	ns1.netim.net.
 goxyoubess.sn.	172800	IN	NS	ns2.netim.net.
 goxyoubess.sn.	172800	IN	NS	ns3.netim.net.
-goxyubess.sn.	172800	IN	NS	ns1.netim.net.
-goxyubess.sn.	172800	IN	NS	ns2.netim.net.
-goxyubess.sn.	172800	IN	NS	ns3.netim.net.
+goxyubess.sn.	172800	IN	NS	ns1.hosting-server-1022.com.
+goxyubess.sn.	172800	IN	NS	ns2.hosting-server-1022.com.
 gpeld.sn.	43200	IN	NS	pdns05.domaincontrol.com.
 gpeld.sn.	43200	IN	NS	pdns06.domaincontrol.com.
 gpsafrika.sn.	172800	IN	NS	ns1.francedns.com.
@@ -11385,6 +11384,8 @@ lantek.sn.	43200	IN	NS	ns3.kheweul.net.
 lantek.sn.	43200	IN	NS	ns4.kheweul.net.
 laparrilla.sn.	172800	IN	NS	ns20.ovh.net.
 laparrilla.sn.	172800	IN	NS	dns20.ovh.net.
+lapenda.sn.	172800	IN	NS	eisdns1.expertis.sn.
+lapenda.sn.	172800	IN	NS	eisdns2.expertis.sn.
 lapergola.sn.	43200	IN	NS	ns200.anycast.me.
 lapergola.sn.	43200	IN	NS	dns200.anycast.me.
 lapergola.sn.	43200	IN	DS	39709 8 2 3861fd2ad8e5b9349cc2ebf155653f12f3c13bdbdaf678ba14f160de206e232c
@@ -17669,9 +17670,6 @@ sidyababacarsyniang.sn.	172800	IN	NS	dns200.anycast.me.
 siemens.sn.	43200	IN	NS	dns1.cscdns.net.
 siemens.sn.	43200	IN	NS	dns2.cscdns.net.
 siena.sn.	43200	IN	NS	ns.cse.sn.
-sifa.sn.	43200	IN	NS	ns1.netim.net.
-sifa.sn.	43200	IN	NS	ns2.netim.net.
-sifa.sn.	43200	IN	NS	ns3.netim.net.
 sifagroup.sn.	172800	IN	NS	ns200.anycast.me.
 sifagroup.sn.	172800	IN	NS	dns200.anycast.me.
 sifagroup.sn.	172800	IN	DS	31237 8 2 eedcbcd81a44c5a4672d7bc24c0b829855326affdbd8f52ad3bff6b6b628f9d0
