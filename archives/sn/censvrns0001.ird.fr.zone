@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434629 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434644 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"1 RRs processed [31/03/2022 14H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [31/03/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -11887,8 +11887,8 @@ liveper.sn.	43200	IN	NS	a1-175.akam.net.
 liveper.sn.	43200	IN	NS	a12-64.akam.net.
 livescore.sn.	43200	IN	NS	seth.ns.cloudflare.com.
 livescore.sn.	43200	IN	NS	serena.ns.cloudflare.com.
-livestream.sn.	172800	IN	NS	ns11.infomaniak.ch.
-livestream.sn.	172800	IN	NS	ns12.infomaniak.ch.
+livestream.sn.	172800	IN	NS	ns41.infomaniak.ch.
+livestream.sn.	172800	IN	NS	ns42.infomaniak.ch.
 livetv.sn.	172800	IN	NS	170.ns1.above.com.
 livetv.sn.	172800	IN	NS	170.ns2.above.com.
 livewithconfidence.sn.	43200	IN	NS	ns1.lexsynergy.net.
@@ -14938,6 +14938,9 @@ pfnac.sn.	43200	IN	NS	ns1.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns2.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns3.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns4.kheweul.net.
+pfpc.sn.	172800	IN	NS	ns200.anycast.me.
+pfpc.sn.	172800	IN	NS	dns200.anycast.me.
+pfpc.sn.	172800	IN	DS	44884 8 2 aeea200d80c9033175f368bb2fdcb20e80469b1d4c6522306564d69f31fc4011
 pgisecnsa.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pgisecnsa.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 pgo.sn.	172800	IN	NS	ns5.afriregister.co.ke.
@@ -19778,6 +19781,9 @@ transcontinentaltransit.sn.	172800	IN	NS	ns3.wanekoohost.com.
 transcontinentaltransit.sn.	172800	IN	NS	ns4.wanekoohost.com.
 transcontinentaltransit.sn.	172800	IN	NS	ns5.wanekoohost.com.
 transcontinentaltransit.sn.	172800	IN	NS	ns6.wanekoohost.com.
+transelec.sn.	172800	IN	NS	ns10.ovh.ca.
+transelec.sn.	172800	IN	NS	dns10.ovh.ca.
+transelec.sn.	172800	IN	DS	45904 8 2 8181c9e29703348aa7626b8e98ffb40de23fb5063836243d9f958db698ead656
 transexpress.sn.	43200	IN	NS	ns.arc.sn.
 transexpress.sn.	43200	IN	NS	ns3.arc.sn.
 transfertleasing.sn.	43200	IN	NS	ns18.ovh.net.
