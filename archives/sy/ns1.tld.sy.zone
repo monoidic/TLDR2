@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022033121 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022033124 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1648713731"
+sy.	86400	IN	TXT	"Generation Time: 1648719139"
 00.sy.	86400	IN	NS	garret.ns.cloudflare.com.
 00.sy.	86400	IN	NS	serena.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -21,12 +21,12 @@ sy.	86400	IN	TXT	"Generation Time: 1648713731"
 10.sy.	86400	IN	NS	giancarlo.ns.cloudflare.com.
 10k.sy.	86400	IN	NS	suspend1.tld.sy.
 10k.sy.	86400	IN	NS	suspend2.tld.sy.
-11.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-11.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+11.sy.	86400	IN	NS	suspend1.tld.sy.
+11.sy.	86400	IN	NS	suspend2.tld.sy.
 111.sy.	86400	IN	NS	suspend1.tld.sy.
 111.sy.	86400	IN	NS	suspend2.tld.sy.
-1111.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-1111.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+1111.sy.	86400	IN	NS	suspend1.tld.sy.
+1111.sy.	86400	IN	NS	suspend2.tld.sy.
 12.sy.	86400	IN	NS	suzanne.ns.cloudflare.com.
 12.sy.	86400	IN	NS	giancarlo.ns.cloudflare.com.
 123.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -51,10 +51,10 @@ sy.	86400	IN	TXT	"Generation Time: 1648713731"
 21.sy.	86400	IN	NS	stanley.ns.cloudflare.com.
 22.sy.	86400	IN	NS	suspend1.tld.sy.
 22.sy.	86400	IN	NS	suspend2.tld.sy.
-222.sy.	86400	IN	NS	ns1.dns.com.
-222.sy.	86400	IN	NS	ns2.dns.com.
-2222.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-2222.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+222.sy.	86400	IN	NS	suspend1.tld.sy.
+222.sy.	86400	IN	NS	suspend2.tld.sy.
+2222.sy.	86400	IN	NS	suspend1.tld.sy.
+2222.sy.	86400	IN	NS	suspend2.tld.sy.
 26.sy.	86400	IN	NS	tadeo.ns.cloudflare.com.
 26.sy.	86400	IN	NS	ursula.ns.cloudflare.com.
 28.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -63,12 +63,12 @@ sy.	86400	IN	TXT	"Generation Time: 1648713731"
 29.sy.	86400	IN	NS	giancarlo.ns.cloudflare.com.
 2hh.sy.	86400	IN	NS	suspend1.tld.sy.
 2hh.sy.	86400	IN	NS	suspend2.tld.sy.
-33.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-33.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+33.sy.	86400	IN	NS	suspend1.tld.sy.
+33.sy.	86400	IN	NS	suspend2.tld.sy.
 333.sy.	86400	IN	NS	suspend1.tld.sy.
 333.sy.	86400	IN	NS	suspend2.tld.sy.
-3333.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-3333.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+3333.sy.	86400	IN	NS	suspend1.tld.sy.
+3333.sy.	86400	IN	NS	suspend2.tld.sy.
 36.sy.	86400	IN	NS	otto.ns.cloudflare.com.
 36.sy.	86400	IN	NS	melany.ns.cloudflare.com.
 360.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -97,8 +97,8 @@ sy.	86400	IN	TXT	"Generation Time: 1648713731"
 42.sy.	86400	IN	NS	terin.ns.cloudflare.com.
 43.sy.	86400	IN	NS	ollie.ns.cloudflare.com.
 43.sy.	86400	IN	NS	terin.ns.cloudflare.com.
-44.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-44.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+44.sy.	86400	IN	NS	suspend1.tld.sy.
+44.sy.	86400	IN	NS	suspend2.tld.sy.
 444.sy.	86400	IN	NS	suspend1.tld.sy.
 444.sy.	86400	IN	NS	suspend2.tld.sy.
 4444.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -120,8 +120,8 @@ sy.	86400	IN	TXT	"Generation Time: 1648713731"
 52.sy.	86400	IN	NS	suspend2.tld.sy.
 520.sy.	86400	IN	NS	suspend1.tld.sy.
 520.sy.	86400	IN	NS	suspend2.tld.sy.
-55.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-55.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+55.sy.	86400	IN	NS	suspend1.tld.sy.
+55.sy.	86400	IN	NS	suspend2.tld.sy.
 555.sy.	86400	IN	NS	suspend1.tld.sy.
 555.sy.	86400	IN	NS	suspend2.tld.sy.
 5555.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -183,8 +183,8 @@ sy.	86400	IN	TXT	"Generation Time: 1648713731"
 88.sy.	86400	IN	NS	lakas.ns.cloudflare.com.
 888.sy.	86400	IN	NS	adam.ns.cloudflare.com.
 888.sy.	86400	IN	NS	candy.ns.cloudflare.com.
-8888.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
-8888.sy.	86400	IN	NS	f1g1ns2.dnspod.net.
+8888.sy.	86400	IN	NS	suspend1.tld.sy.
+8888.sy.	86400	IN	NS	suspend2.tld.sy.
 89.sy.	86400	IN	NS	remy.ns.cloudflare.com.
 89.sy.	86400	IN	NS	jamie.ns.cloudflare.com.
 90.sy.	86400	IN	NS	vicente.ns.cloudflare.com.
@@ -3681,7 +3681,7 @@ imancargo.sy.	86400	IN	NS	suspend1.tld.sy.
 imancargo.sy.	86400	IN	NS	suspend2.tld.sy.
 imei.sy.	86400	IN	NS	ns1.ibaaco.sy.
 imei.sy.	86400	IN	NS	ns2.ibaaco.sy.
-imhere-co.sy.	86400	IN	NS	alan.ns.clouflare.com.
+imhere-co.sy.	86400	IN	NS	alan.ns.cloudflare.com.
 imhere-co.sy.	86400	IN	NS	cruz.ns.cloudflare.com.
 imtoken.sy.	86400	IN	NS	amber.ns.cloudflare.com.
 imtoken.sy.	86400	IN	NS	rodney.ns.cloudflare.com.

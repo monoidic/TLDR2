@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022033001 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022033101 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -25,8 +25,10 @@ mx.238cv.cv.	28800	IN	A	66.96.142.163
 ns.2bind.cv.	28800	IN	A	91.121.76.174
 2jlda.cv.	28800	IN	NS	r5a.gigilist.com.
 2jlda.cv.	28800	IN	NS	r5b.gigilist.com.
-3as.cv.	28800	IN	NS	ns1.aeminiummultimedia.pt.
-3as.cv.	28800	IN	NS	ns2.aeminiummultimedia.pt.
+3as.cv.	28800	IN	NS	ns1.mydnspt.net.
+3as.cv.	28800	IN	NS	ns2.mydnspt.net.
+3as.cv.	28800	IN	NS	ns7.mydnspt.net.
+3as.cv.	28800	IN	NS	ns8.mydnspt.net.
 3msgsolar.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 3msgsolar.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 3msgsolar.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
@@ -3690,6 +3692,9 @@ esg.cv.	28800	IN	NS	ns02.trademarkarea.com.
 esg.cv.	28800	IN	NS	ns03.trademarkarea.com.
 eskudo.cv.	28800	IN	NS	snomes03.servidoresdns.net.
 eskudo.cv.	28800	IN	NS	snomes04.servidoresdns.net.
+esolution.cv.	28800	IN	NS	ns1.dnscpanel.com.
+esolution.cv.	28800	IN	NS	ns2.dnscpanel.com.
+esolution.cv.	28800	IN	NS	ns3.dnscpanel.com.
 esom.cv.	28800	IN	NS	ns1.gov.cv.
 esom.cv.	28800	IN	NS	ns2.gov.cv.
 espacos-caboverde.cv.	28800	IN	NS	ns1.acidadosway.com.
@@ -3830,8 +3835,8 @@ fdcv.cv.	28800	IN	NS	ns1.gnldm1051.siteground.biz.
 fdcv.cv.	28800	IN	NS	ns2.gnldm1051.siteground.biz.
 fdi.cv.	28800	IN	NS	ns1000.mochahost.com.
 fdi.cv.	28800	IN	NS	ns2000.mochahost.com.
-fdp.cv.	28800	IN	NS	ns1.webs24h.com.
-fdp.cv.	28800	IN	NS	ns2.webs24h.com.
+fdp.cv.	86400	IN	NS	ns1.webs24h.com.
+fdp.cv.	86400	IN	NS	ns2.webs24h.com.
 fecad.cv.	28800	IN	NS	ns25.worldnic.com.
 fecad.cv.	28800	IN	NS	ns26.worldnic.com.
 ferarte.cv.	28800	IN	NS	ns534.hostgator.com.br.

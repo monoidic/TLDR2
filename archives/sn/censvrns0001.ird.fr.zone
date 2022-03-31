@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434601 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434615 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [31/03/2022 10H10:01]"
+sn.	172800	IN	TXT	"2 RRs processed [31/03/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -15389,9 +15389,6 @@ prodesign.sn.	43200	IN	NS	ns200.anycast.me.
 prodesign.sn.	43200	IN	NS	dns200.anycast.me.
 prodiamed-ucad2.sn.	43200	IN	NS	ns1.kheweul.net.
 prodiamed-ucad2.sn.	43200	IN	NS	ns2.kheweul.net.
-prodigen-promo.sn.	43200	IN	NS	ns13.ovh.net.
-prodigen-promo.sn.	43200	IN	NS	dns13.ovh.net.
-prodigen-promo.sn.	43200	IN	DS	60562 8 2 6fab13d408d3804adbd1b805395db32ea4804963889176184488e21c821069f9
 prodigital.sn.	172800	IN	NS	ns200.anycast.me.
 prodigital.sn.	172800	IN	NS	dns200.anycast.me.
 prodigital.sn.	172800	IN	DS	56461 8 2 bda97f5300e1ef4b6b39dc1139eb04bb34e29696b5ed85ca376da2aab0886378
@@ -16732,6 +16729,9 @@ secusociale.sn.	172800	IN	NS	serveur1.secusociale.sn.
 secusociale.sn.	172800	IN	NS	serveur3.secusociale.sn.
 serveur1.secusociale.sn.	172800	IN	A	196.207.237.155
 serveur3.secusociale.sn.	172800	IN	A	196.207.237.158
+sedab.sn.	172800	IN	NS	ns1.whc.ca.
+sedab.sn.	172800	IN	NS	ns2.francedns.com.
+sedab.sn.	172800	IN	NS	cloudf03.francedns.com.
 sedargroup.sn.	172800	IN	NS	dns1.p06.nsone.net.
 sedargroup.sn.	172800	IN	NS	dns2.p06.nsone.net.
 sedargroup.sn.	172800	IN	NS	dns3.p06.nsone.net.
@@ -16768,12 +16768,6 @@ seinegu.sn.	43200	IN	NS	ns.sonatel.sn.
 seinegu.sn.	43200	IN	NS	ns2.sonatel.sn.
 sel.sn.	43200	IN	NS	ns10.ovh.net.
 sel.sn.	43200	IN	NS	dns10.ovh.net.
-seldaf.sn.	43200	IN	NS	ns13.ovh.net.
-seldaf.sn.	43200	IN	NS	dns13.ovh.net.
-seldaf.sn.	43200	IN	DS	31309 8 2 d8174db30abc1f5bd22cbe48d787b49766da72aaeadc8f65e8533fb3bc0da9ad
-seldafrique.sn.	43200	IN	NS	ns13.ovh.net.
-seldafrique.sn.	43200	IN	NS	dns13.ovh.net.
-seldafrique.sn.	43200	IN	DS	33091 8 2 d5e69a6cfca3378787a0e68429ddf05dc4cc1076d50469d34400f501a7b100de
 selectimmo.sn.	172800	IN	NS	ns11.ovh.net.
 selectimmo.sn.	172800	IN	NS	dns11.ovh.net.
 selectimmo.sn.	172800	IN	DS	24274 8 2 bc2aa4dc2ff1b02af8f6fdbf9443dd0b901000e45c92124f2727d0218140d8fe
