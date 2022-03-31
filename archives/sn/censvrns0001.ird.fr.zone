@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434615 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434629 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [31/03/2022 12H20:01]"
+sn.	172800	IN	TXT	"1 RRs processed [31/03/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1939,8 +1939,6 @@ auth.sn.	172800	IN	NS	ian.ns.cloudflare.com.
 auth.sn.	172800	IN	NS	tina.ns.cloudflare.com.
 authentico.sn.	43200	IN	NS	cpanel17.lws-hosting.com.
 authentico.sn.	43200	IN	NS	cpanel18.lws-hosting.com.
-auto-ml.sn.	43200	IN	NS	ns17.ovh.net.
-auto-ml.sn.	43200	IN	NS	dns17.ovh.net.
 autocolors.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 autocolors.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 autodiscover.sn.	172800	IN	NS	ns1-36.azure-dns.com.
@@ -1954,8 +1952,6 @@ autoecole.sn.	172800	IN	NS	ns-1564.awsdns-03.co.uk.
 autofast.sn.	43200	IN	NS	ns1.cetsi.fr.
 autofast.sn.	43200	IN	NS	ns2.cetsi.eu.
 autofast.sn.	43200	IN	NS	ns3.cetsi.info.
-automl.sn.	43200	IN	NS	ns17.ovh.net.
-automl.sn.	43200	IN	NS	dns17.ovh.net.
 autonomiasolutions.sn.	172800	IN	NS	ns1.afrowebmaster.com.
 autonomiasolutions.sn.	172800	IN	NS	ns2.afrowebmaster.com.
 autonomiasolutions.sn.	172800	IN	NS	ns3.afrowebmaster.com.
@@ -3789,9 +3785,6 @@ centralesolutions.sn.	43200	IN	NS	ns1.kheweul.net.
 centralesolutions.sn.	43200	IN	NS	ns2.kheweul.net.
 centralesolutions.sn.	43200	IN	NS	ns3.kheweul.net.
 centralesolutions.sn.	43200	IN	NS	ns4.kheweul.net.
-centralmotors.sn.	43200	IN	NS	ns13.ovh.net.
-centralmotors.sn.	43200	IN	NS	dns13.ovh.net.
-centralmotors.sn.	43200	IN	DS	3094 8 2 fd69b7ae476489813fadffdae9356c27ee304e34e1389a151fb6c573548fb6b4
 centreantipoison.sn.	43200	IN	NS	ns.sonatel.sn.
 centreantipoison.sn.	43200	IN	NS	ns2.sonatel.sn.
 centredelamer.sn.	172800	IN	NS	ns11.ovh.net.
@@ -6604,6 +6597,10 @@ emedic.sn.	172800	IN	NS	ns1.kheweul.net.
 emedic.sn.	172800	IN	NS	ns2.kheweul.net.
 emedic.sn.	172800	IN	NS	ns3.kheweul.net.
 emedic.sn.	172800	IN	NS	ns4.kheweul.net.
+emeraldconsulting.sn.	172800	IN	NS	ns1.kheweul.net.
+emeraldconsulting.sn.	172800	IN	NS	ns2.kheweul.net.
+emeraldconsulting.sn.	172800	IN	NS	ns3.kheweul.net.
+emeraldconsulting.sn.	172800	IN	NS	ns4.kheweul.net.
 emessdigital.sn.	172800	IN	NS	ns3.wanekoohost.com.
 emessdigital.sn.	172800	IN	NS	ns4.wanekoohost.com.
 emessdigital.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -14929,10 +14926,8 @@ petrosents.sn.	43200	IN	NS	ns2.caurys.net.
 petrossian.sn.	43200	IN	NS	a.ns.mailclub.fr.
 petrossian.sn.	43200	IN	NS	b.ns.mailclub.eu.
 petrossian.sn.	43200	IN	NS	c.ns.mailclub.com.
-pewenimmo.sn.	172800	IN	NS	ns1.kheweul.net.
-pewenimmo.sn.	172800	IN	NS	ns2.kheweul.net.
-pewenimmo.sn.	172800	IN	NS	ns3.kheweul.net.
-pewenimmo.sn.	172800	IN	NS	ns4.kheweul.net.
+pewenimmo.sn.	172800	IN	NS	cpanel17.lws-hosting.com.
+pewenimmo.sn.	172800	IN	NS	cpanel18.lws-hosting.com.
 pf2e.sn.	43200	IN	NS	ns1.kheweul.net.
 pf2e.sn.	43200	IN	NS	ns2.kheweul.net.
 pf2e.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -15277,8 +15272,6 @@ premiumsarl.sn.	172800	IN	DS	21622 8 2 630ee1ba39ee5a212613e3b0a0fe2335e5ce1fe15
 prepa.sn.	172800	IN	NS	ns1.francedns.com.
 prepa.sn.	172800	IN	NS	ns2.francedns.com.
 prepa.sn.	172800	IN	NS	ns3.francedns.com.
-prescience.sn.	43200	IN	NS	ns17.ovh.net.
-prescience.sn.	43200	IN	NS	dns17.ovh.net.
 presentationdemarie.sn.	43200	IN	NS	ns200.anycast.me.
 presentationdemarie.sn.	43200	IN	NS	dns200.anycast.me.
 presentationdemarie.sn.	43200	IN	DS	58786 8 2 593e4153a39dbcb107a25f0c85ea7186681e5157dca626cadd09e699ff866b15
