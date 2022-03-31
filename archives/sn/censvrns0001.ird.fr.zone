@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434660 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434671 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [31/03/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [31/03/2022 20H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1608,6 +1608,7 @@ arkeos.sn.	172800	IN	NS	ns112.ovh.net.
 arkeos.sn.	172800	IN	NS	dns112.ovh.net.
 arksen.sn.	43200	IN	NS	ns200.anycast.me.
 arksen.sn.	43200	IN	NS	dns200.anycast.me.
+arksen.sn.	172800	IN	DS	25816 8 2 279a2126ac588fe731214f2714c954eff08f75d7d2bfca1b6323f64371c587a2
 arla.sn.	43200	IN	NS	ns1.rrpproxy.net.
 arla.sn.	43200	IN	NS	ns2.rrpproxy.net.
 arla.sn.	43200	IN	NS	ns3.rrpproxy.net.
@@ -17520,6 +17521,8 @@ sesigpuma.sn.	172800	IN	NS	ns4.ascio.com.
 setantal.sn.	172800	IN	NS	ns103.ovh.net.
 setantal.sn.	172800	IN	NS	dns103.ovh.net.
 setantal.sn.	172800	IN	DS	50857 8 2 cf8c658a54c654e0ad369725768a59c8726e69f71351e5ae6ec066a0dda4b2d2
+setapindustries.sn.	172800	IN	NS	ns1.caurys.net.
+setapindustries.sn.	172800	IN	NS	ns2.caurys.net.
 setec.sn.	172800	IN	NS	ns112.ovh.net.
 setec.sn.	172800	IN	NS	dns112.ovh.net.
 setelcom.sn.	43200	IN	NS	ns1.setelcom.sn.
