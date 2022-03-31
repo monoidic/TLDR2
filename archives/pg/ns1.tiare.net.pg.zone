@@ -1,4 +1,4 @@
-pg.	172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022032900 14400 7200 1728000 14400
+pg.	172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022033100 14400 7200 1728000 14400
 pg.	172800	IN	NS	ns.uu.net.
 pg.	172800	IN	NS	ns1.tiare.net.pg.
 pg.	172800	IN	NS	ns1.unitech.ac.pg.
@@ -1444,6 +1444,9 @@ globalconst.com.pg.	172800	IN	NS	ns2.qnetau.com.
 globalconst.com.pg.	172800	IN	NS	ns3.qnetau.com.
 globalcustoms.com.pg.	172800	IN	NS	ns1.telinet.com.pg.
 globalcustoms.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
+globaleng.com.pg.	172800	IN	NS	ns1.telinet.com.pg.
+globaleng.com.pg.	172800	IN	NS	ns2.telinet.com.pg.
+globaleng.com.pg.	172800	IN	NS	ns3.telinet.com.pg.
 globalpestcontrol.com.pg.	172800	IN	NS	kumul1.mortronix.com.
 globalpestcontrol.com.pg.	172800	IN	NS	kumul2.mortronix.com.
 globalsands.com.pg.	172800	IN	NS	ns1.pngconnect.com.
@@ -5446,8 +5449,8 @@ hrff.org.pg.	172800	IN	NS	ns2.siteground290.com.
 hssdp.org.pg.	172800	IN	NS	ns1.datec.net.pg.
 hssdp.org.pg.	172800	IN	NS	ns2.datec.net.pg.
 hssdp.org.pg.	172800	IN	NS	ns3.datec.net.pg.
-ictcluster.org.pg.	172800	IN	NS	ns1.gsydm1001.siteground.biz.
-ictcluster.org.pg.	172800	IN	NS	ns2.gsydm1001.siteground.biz.
+ictcluster.org.pg.	172800	IN	NS	ns8155.hostgator.com.
+ictcluster.org.pg.	172800	IN	NS	ns8156.hostgator.com.
 iepng.org.pg.	172800	IN	NS	ns1.hostingpng.com.
 iepng.org.pg.	172800	IN	NS	ns2.hostingpng.com.
 iepng.org.pg.	172800	IN	NS	ns3.hostingpng.com.
@@ -5571,8 +5574,9 @@ nfsls.org.pg.	172800	IN	NS	ns1.telinet.com.pg.
 nfsls.org.pg.	172800	IN	NS	ns2.telinet.com.pg.
 ngp.org.pg.	172800	IN	NS	ns1.sgp27.siteground.asia.
 ngp.org.pg.	172800	IN	NS	ns2.sgp27.siteground.asia.
-nicdassociation.org.pg.	172800	IN	NS	ns1.dns-parking.com.
-nicdassociation.org.pg.	172800	IN	NS	ns2.dns-parking.com.
+nicdassociation.org.pg.	172800	IN	NS	ns1.linode.com.
+nicdassociation.org.pg.	172800	IN	NS	ns2.linode.com.
+nicdassociation.org.pg.	172800	IN	NS	ns3.linode.com.
 nipma.org.pg.	172800	IN	NS	ken.ns.cloudflare.com.
 nipma.org.pg.	172800	IN	NS	carol.ns.cloudflare.com.
 nri.org.pg.	172800	IN	NS	ns1.datec.net.pg.
