@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022033101 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040101 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -5461,6 +5461,7 @@ es.	172800	IN	NS	a.nic.es.
 es.	172800	IN	NS	c.nic.es.
 es.	172800	IN	NS	g.nic.es.
 es.	172800	IN	NS	h.nic.es.
+es.	86400	IN	DS	49852 8 2 d620d9b2db89deac2719014558be3818d962a8128f0880eb4bd7c7ae387d5c17
 es.	86400	IN	DS	50252 8 1 9bf0115b43a4ee8f7223fbf5b294d91cdeed2dbe
 es.	86400	IN	DS	50252 8 2 dd2b515da6dbc0e826006e6ae02864c05825694a84b3e4e0e59918c78c1bc8eb
 a.nic.es.	172800	IN	A	194.69.254.1
@@ -5472,6 +5473,7 @@ g.nic.es.	172800	IN	AAAA	2001:500:14:7001:ad::1
 h.nic.es.	172800	IN	A	194.0.33.53
 h.nic.es.	172800	IN	AAAA	2001:678:40::53
 ad.ns.nic.es.	172800	IN	A	194.69.254.15
+ad.ns.nic.es.	172800	IN	AAAA	2001:67c:21cc:2000::64:47
 ns1.nic.es.	172800	IN	A	194.69.254.1
 ns1.nic.es.	172800	IN	AAAA	2001:67c:21cc:2000::64:41
 esq.	172800	IN	NS	ns-tld1.charlestonroadregistry.com.
@@ -15156,7 +15158,7 @@ si.	172800	IN	NS	h.dns.si.
 si.	172800	IN	NS	i.dns.si.
 si.	172800	IN	NS	k.dns.si.
 si.	172800	IN	NS	l.dns.si.
-si.	86400	IN	DS	23326 8 2 24b81f0829f6092e7fc2723b7e1fa82c381d34095fdc0a31dfd7069d151abc5b
+si.	86400	IN	DS	3986 8 2 386978c3c04a878b03f0f16a4bf27f2a0d2c2491310826854ae2f8f42948fed2
 ns2.arnes.si.	172800	IN	A	194.249.4.44
 ns2.arnes.si.	172800	IN	AAAA	2001:1470:8000:53::44
 b.dns.si.	172800	IN	A	194.249.4.44
