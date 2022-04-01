@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434790 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434804 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [01/04/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [01/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13529,8 +13529,8 @@ ndingler.sn.	172800	IN	DS	8581 8 2 48eff8be6e7a51ab8d649d906e3a1a866eff414225fe1
 ndingueler.sn.	172800	IN	NS	ns11.ovh.net.
 ndingueler.sn.	172800	IN	NS	dns11.ovh.net.
 ndingueler.sn.	172800	IN	DS	33475 8 2 6c39b205fb8eb5d0b5830ceb3ae6a0be229006041b1e124e1dcc3a39b9629db7
-ndougalma.sn.	172800	IN	NS	ns110.ovh.net.
-ndougalma.sn.	172800	IN	NS	dns110.ovh.net.
+ndougalma.sn.	172800	IN	NS	ns12.wixdns.net.
+ndougalma.sn.	172800	IN	NS	ns13.wixdns.net.
 ndougi.sn.	43200	IN	NS	ns5.jokko-hosting.com.
 ndougi.sn.	43200	IN	NS	ns6.jokko-hosting.com.
 ndugu.sn.	43200	IN	NS	cp3.dnshostservices.com.
@@ -13933,6 +13933,8 @@ numeriquegouv.sn.	43200	IN	NS	ns.ucad.sn.
 numeriquegouv.sn.	43200	IN	NS	dns.ucad.sn.
 numeris.sn.	43200	IN	NS	ns1.o2switch.net.
 numeris.sn.	43200	IN	NS	ns2.o2switch.net.
+numerisquantum.sn.	172800	IN	NS	ns110.ovh.net.
+numerisquantum.sn.	172800	IN	NS	dns110.ovh.net.
 numigi.sn.	172800	IN	NS	ns112.ovh.net.
 numigi.sn.	172800	IN	NS	dns112.ovh.net.
 numigi.sn.	172800	IN	DS	55621 8 2 ba12f0eee6bf5b23664faa75387938cbbc639d6a94cefaab7ff21bf460454908
@@ -14932,8 +14934,8 @@ petrosents.sn.	43200	IN	NS	ns2.caurys.net.
 petrossian.sn.	43200	IN	NS	a.ns.mailclub.fr.
 petrossian.sn.	43200	IN	NS	b.ns.mailclub.eu.
 petrossian.sn.	43200	IN	NS	c.ns.mailclub.com.
-pewenimmo.sn.	172800	IN	NS	cpanel17.lws-hosting.com.
-pewenimmo.sn.	172800	IN	NS	cpanel18.lws-hosting.com.
+pewenimmo.sn.	172800	IN	NS	cpanel19.lws-hosting.com.
+pewenimmo.sn.	172800	IN	NS	cpanel20.lws-hosting.com.
 pf2e.sn.	43200	IN	NS	ns1.kheweul.net.
 pf2e.sn.	43200	IN	NS	ns2.kheweul.net.
 pf2e.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -18031,9 +18033,8 @@ snts.sn.	43200	IN	NS	ns1.cloudns.io.
 snts.sn.	43200	IN	NS	ns2.cloudns.io.
 sntt.sn.	43200	IN	NS	ns.sntt.sn.
 ns.sntt.sn.	43200	IN	A	213.154.78.82
-snweb.sn.	172800	IN	NS	ns1.wanekoohost.com.
-snweb.sn.	172800	IN	NS	ns2.wanekoohost.com.
 snweb.sn.	172800	IN	NS	ns3.wanekoohost.com.
+snweb.sn.	172800	IN	NS	ns4.wanekoohost.com.
 snweb.sn.	172800	IN	NS	ns5.wanekoohost.com.
 snweb.sn.	172800	IN	NS	ns6.wanekoohost.com.
 so-trade.sn.	172800	IN	NS	ns2.francedns.com.
@@ -19257,6 +19258,7 @@ teranga-pasteur.sn.	172800	IN	NS	ns2.wordpress.com.
 teranga-pasteur.sn.	172800	IN	NS	ns3.wordpress.com.
 terangabet.sn.	172800	IN	NS	ns10.ovh.ca.
 terangabet.sn.	172800	IN	NS	dns10.ovh.ca.
+terangabet.sn.	172800	IN	DS	29362 8 2 26e1c0e6c1319a59029913ac4d6ceddecd02485f4875699419893699d312001a
 terangabusinessservice.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 terangabusinessservice.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 terangaimpact.sn.	43200	IN	NS	ns110.ovh.net.
