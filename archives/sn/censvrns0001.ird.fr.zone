@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434772 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434790 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [01/04/2022 10H00:02]"
+sn.	172800	IN	TXT	"No RRs processed [01/04/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7027,6 +7027,7 @@ etam.sn.	43200	IN	NS	b.dns.gandi.net.
 etam.sn.	43200	IN	NS	c.dns.gandi.net.
 etat-civil.sn.	172800	IN	NS	ns110.ovh.net.
 etat-civil.sn.	172800	IN	NS	dns110.ovh.net.
+etat-civil.sn.	172800	IN	DS	65386 8 2 f2ca78007d67f8c2180b247aef9699deef4f58318791d32198606eca08afeb81
 etds.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 etds.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 etechnologies.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -13431,9 +13432,6 @@ nabaiji.sn.	43200	IN	NS	b.dns.gandi.net.
 nabaiji.sn.	43200	IN	NS	c.dns.gandi.net.
 nabistore.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 nabistore.sn.	172800	IN	NS	ns8.jokko-hosting.com.
-naeloc.sn.	43200	IN	NS	ns200.anycast.me.
-naeloc.sn.	43200	IN	NS	dns200.anycast.me.
-naeloc.sn.	43200	IN	DS	45274 8 2 d4e90f9bd9e90b2af905ad0e2f33c3f1ea0ae63f3f6f6cd5e79fcf5869af3d85
 nafa.sn.	172800	IN	NS	ns1.caurys.net.
 nafa.sn.	172800	IN	NS	ns2.caurys.net.
 nafar.sn.	43200	IN	NS	ns.kimsufi.com.
@@ -19884,6 +19882,10 @@ tribune.sn.	43200	IN	NS	ns3.kheweul.net.
 tribune.sn.	43200	IN	NS	ns4.kheweul.net.
 trilenium.sn.	43200	IN	NS	ns.sonatel.sn.
 trilenium.sn.	43200	IN	NS	ns2.sonatel.sn.
+triton.sn.	172800	IN	NS	ns1.ascio.com.
+triton.sn.	172800	IN	NS	ns2.ascio.com.
+triton.sn.	172800	IN	NS	ns3.ascio.com.
+triton.sn.	172800	IN	NS	ns4.ascio.com.
 trocsenegal.sn.	172800	IN	NS	ns1.francedns.com.
 trocsenegal.sn.	172800	IN	NS	ns2.francedns.com.
 trocsenegal.sn.	172800	IN	NS	ns3.francedns.com.
