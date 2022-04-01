@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434830 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434845 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [01/04/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [01/04/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -494,10 +494,6 @@ ad2s-group.sn.	43200	IN	NS	ns2.o2switch.net.
 adacemtltab.sn.	172800	IN	NS	ns106.ovh.net.
 adacemtltab.sn.	172800	IN	NS	dns106.ovh.net.
 adacemtltab.sn.	172800	IN	DS	10666 8 2 5fe6ee0002b0f37df9c0f4e497b3f1f99c654ba1361b2d1342828b5a3f3ed0e6
-adagroupe.sn.	43200	IN	NS	ns1.kheweul.net.
-adagroupe.sn.	43200	IN	NS	ns2.kheweul.net.
-adagroupe.sn.	43200	IN	NS	ns3.kheweul.net.
-adagroupe.sn.	43200	IN	NS	ns4.kheweul.net.
 adamambaye.sn.	172800	IN	NS	ns4.wixdns.net.
 adamambaye.sn.	172800	IN	NS	ns5.wixdns.net.
 adansonia.sn.	172800	IN	NS	ns1.101domain.com.
@@ -8361,10 +8357,6 @@ git.sn.	172800	IN	NS	student.dnspod.net.
 gito.sn.	172800	IN	NS	ns9.jajeuf.com.
 gito.sn.	172800	IN	NS	ns10.jajeuf.com.
 gito.sn.	172800	IN	DS	3022 1 1 928937be5f6169865fb39eb1558b9315c322c335
-gits.sn.	43200	IN	NS	ns1.kheweul.net.
-gits.sn.	43200	IN	NS	ns2.kheweul.net.
-gits.sn.	43200	IN	NS	ns3.kheweul.net.
-gits.sn.	43200	IN	NS	ns4.kheweul.net.
 glamgloss.sn.	172800	IN	NS	dns1.namecheaphosting.com.
 glamgloss.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 glaxosmithkline.sn.	43200	IN	NS	ns.domainnetwork.se.
@@ -15966,10 +15958,6 @@ rezidorhotelgroup.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 rezidorhotelgroup.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 rfm.sn.	172800	IN	NS	ns12.ovh.net.
 rfm.sn.	172800	IN	NS	dns12.ovh.net.
-rgs.sn.	43200	IN	NS	ns1.kheweul.net.
-rgs.sn.	43200	IN	NS	ns2.kheweul.net.
-rgs.sn.	43200	IN	NS	ns3.kheweul.net.
-rgs.sn.	43200	IN	NS	ns4.kheweul.net.
 rial.sn.	43200	IN	NS	ns1.snterra.com.
 rial.sn.	43200	IN	NS	ns2.snterra.com.
 riamoneytransfer.sn.	172800	IN	NS	ns1.euronetworldwide.com.
@@ -16052,6 +16040,10 @@ ron.sn.	43200	IN	NS	ns-1342.awsdns-39.org.
 ron.sn.	43200	IN	NS	ns-1672.awsdns-17.co.uk.
 rootech.sn.	43200	IN	NS	eisdns1.expertis.sn.
 rootech.sn.	43200	IN	NS	eisdns2.expertis.sn.
+roqya.sn.	172800	IN	NS	ns1.kheweul.net.
+roqya.sn.	172800	IN	NS	ns2.kheweul.net.
+roqya.sn.	172800	IN	NS	ns3.kheweul.net.
+roqya.sn.	172800	IN	NS	ns4.kheweul.net.
 rosalux.sn.	43200	IN	NS	ns20.kelihost.com.
 rosalux.sn.	43200	IN	NS	ns22.kelihost.com.
 royalceramic.sn.	43200	IN	NS	ns112.ovh.net.

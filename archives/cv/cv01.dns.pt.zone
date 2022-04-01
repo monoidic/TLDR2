@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022033101 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022040101 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -309,6 +309,10 @@ allinclusive.cv.	28800	IN	NS	ns7.securenet-server.net.
 allinclusive.cv.	28800	IN	NS	ns8.securenet-server.net.
 allive.cv.	28800	IN	NS	ns1000.mochahost.com.
 allive.cv.	28800	IN	NS	ns2000.mochahost.com.
+allpilates.cv.	28800	IN	NS	ns1.webhs.org.
+allpilates.cv.	28800	IN	NS	ns2.webhs.org.
+allpilates.cv.	28800	IN	NS	ns3.webhs.org.
+allpilates.cv.	28800	IN	NS	ns4.webhs.org.
 almadainn.cv.	28800	IN	NS	dns1.prime.cv.
 almadainn.cv.	28800	IN	NS	dns2.prime.cv.
 almeidalandim.cv.	28800	IN	NS	ns1.servconfig.com.
@@ -851,6 +855,9 @@ mail2.binter.cv.	28800	IN	A	86.109.99.246
 bintercaboverde.cv.	28800	IN	NS	ns1.interdomain.net.
 bintercaboverde.cv.	28800	IN	NS	ns2.interdomain.net.
 bintercaboverde.cv.	28800	IN	NS	ns3.interdomain.es.
+bintercv.cv.	28800	IN	NS	ns1.interdomain.net.
+bintercv.cv.	28800	IN	NS	ns2.interdomain.net.
+bintercv.cv.	28800	IN	NS	ns3.interdomain.es.
 bintermais.cv.	28800	IN	NS	ns1.interdomain.net.
 bintermais.cv.	28800	IN	NS	ns2.interdomain.net.
 bintermais.cv.	28800	IN	NS	ns3.interdomain.es.
@@ -3902,8 +3909,11 @@ flex.cv.	28800	IN	NS	ns2.101domain.com.
 flex.cv.	28800	IN	NS	ns5.101domain.com.
 flopes.cv.	28800	IN	NS	ns8463.hostgator.com.
 flopes.cv.	28800	IN	NS	ns8464.hostgator.com.
-flordelakakan.cv.	28800	IN	NS	ns1.rhostjh.com.
-flordelakakan.cv.	28800	IN	NS	ns2.rhostjh.com.
+flordelakakan.cv.	28800	IN	A	45.154.66.253
+flordelakakan.cv.	28800	IN	NS	ns1.wtservers.com.
+flordelakakan.cv.	28800	IN	NS	ns2.wtservers.com.
+flordelakakan.cv.	28800	IN	NS	ns3.wtservers.com.
+flordelakakan.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 flordeliz.cv.	28800	IN	NS	ns7.securenet-server.net.
 flordeliz.cv.	28800	IN	NS	ns8.securenet-server.net.
 fluxu.cv.	28800	IN	NS	ns1.esoterica.com.
@@ -4723,6 +4733,8 @@ innovabusiness.cv.	28800	IN	NS	ns1.dns-parking.com.
 innovabusiness.cv.	28800	IN	NS	ns2.dns-parking.com.
 innovabusiness.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
 innovabusiness.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
+inova.cv.	28800	IN	NS	ns1.inmotionhosting.com.
+inova.cv.	28800	IN	NS	ns2.inmotionhosting.com.
 inovate.cv.	28800	IN	NS	ns1.dns-parking.com.
 inovate.cv.	28800	IN	NS	ns2.dns-parking.com.
 inove.cv.	28800	IN	NS	ns1.dnscpanel.com.
@@ -6975,6 +6987,12 @@ roda.cv.	28800	IN	AAAA	2a03:6420::abcd:ef01
 rogerinc.cv.	28800	IN	NS	ns1.wtservers.com.
 rogerinc.cv.	28800	IN	NS	ns2.wtservers.com.
 rogerinc.cv.	28800	IN	NS	ns3.wtservers.com.
+rogerinc.cv.	28800	IN	AAAA	2a04:2b00:14cc::226
+rogerinc.cv.	28800	IN	AAAA	2a04:2b00:14dd::226
+rogerinc.cv.	28800	IN	AAAA	2a04:2b00:14ee::226
+rolex.cv.	28800	IN	NS	ns1.rrpproxy.net.
+rolex.cv.	28800	IN	NS	ns2.rrpproxy.net.
+rolex.cv.	28800	IN	NS	ns3.rrpproxy.net.
 romasheva.cv.	28800	IN	NS	ken.ns.cloudflare.com.
 romasheva.cv.	28800	IN	NS	daisy.ns.cloudflare.com.
 roots.cv.	28800	IN	NS	ns.makeitsimple.pt.
