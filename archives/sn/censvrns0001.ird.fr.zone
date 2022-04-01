@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434756 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434772 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [01/04/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [01/04/2022 10H00:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1448,9 +1448,9 @@ aol.sn.	43200	IN	NS	ns4.yahoo.com.
 aol.sn.	43200	IN	NS	ns5.yahoo.com.
 aos.sn.	43200	IN	NS	eisdns1.expertis.sn.
 aos.sn.	43200	IN	NS	eisdns2.expertis.sn.
-apa.sn.	172800	IN	NS	ns1.bdm.microsoftonline.com.
+apa.sn.	172800	IN	NS	ns1.netim.net.
+apa.sn.	172800	IN	NS	ns2.netim.net.
 apa.sn.	172800	IN	NS	ns3.netim.net.
-apa.sn.	172800	IN	NS	apa-sn.mail.protection.outlook.com.
 apavesahel.sn.	43200	IN	NS	ns1.mdc.mk.
 apavesahel.sn.	43200	IN	NS	ns2.mdc.mk.
 apbef.sn.	43200	IN	NS	dns1.alwaysdata.com.
@@ -4767,8 +4767,6 @@ creditlyonnais.sn.	43200	IN	NS	ns.sonatel.sn.
 creditlyonnais.sn.	43200	IN	NS	ns2.sonatel.sn.
 creditmutuel.sn.	43200	IN	NS	ns.sonatel.sn.
 creditmutuel.sn.	43200	IN	NS	ns2.sonatel.sn.
-credits.sn.	172800	IN	NS	ns1.sedoparking.com.
-credits.sn.	172800	IN	NS	ns2.sedoparking.com.
 credo.sn.	172800	IN	NS	ns112.ovh.net.
 credo.sn.	172800	IN	NS	dns112.ovh.net.
 crg.sn.	172800	IN	NS	ns1.netim.net.
@@ -7236,8 +7234,6 @@ expressotelecom.sn.	43200	IN	NS	ns1.kheweul.net.
 expressotelecom.sn.	43200	IN	NS	ns2.kheweul.net.
 expressotelecom.sn.	43200	IN	NS	ns3.kheweul.net.
 expressotelecom.sn.	43200	IN	NS	ns4.kheweul.net.
-ext.sn.	172800	IN	NS	ns1.sedoparking.com.
-ext.sn.	172800	IN	NS	ns2.sedoparking.com.
 externalys.sn.	172800	IN	NS	ns10.ovh.net.
 externalys.sn.	172800	IN	NS	dns10.ovh.net.
 exxonmobil.sn.	43200	IN	NS	a1-116.akam.net.
@@ -8657,7 +8653,7 @@ greenitude.sn.	172800	IN	NS	dns105.ovh.net.
 greenitude.sn.	172800	IN	DS	19492 8 2 b87cc7f475344a42bc2bc0772f8cd68276eb2cc3107ccc79d1c29d34c87e1839
 greenmarket.sn.	172800	IN	NS	ns110.ovh.net.
 greenmarket.sn.	172800	IN	NS	dns110.ovh.net.
-greenmarket.sn.	172800	IN	DS	51820 8 2 c98a66c6c1d79d85c63c24a4f4af36431668168e515c34dc3e8576a44c8e7c39
+greenmarket.sn.	172800	IN	DS	16402 8 2 03af670036dcdf899b2b91090f3e4b983ebb9d50c2188251a8ef99a822a1869d
 greenmotion.sn.	172800	IN	NS	ns1.101domain.com.
 greenmotion.sn.	172800	IN	NS	ns2.101domain.com.
 greennetpressing.sn.	43200	IN	NS	ns1.ascio.com.
@@ -8732,8 +8728,6 @@ groupebem.sn.	43200	IN	NS	ns2.francedns.com.
 groupebem.sn.	43200	IN	NS	ns3.francedns.com.
 groupecoselec.sn.	43200	IN	NS	eisdns1.expertis.sn.
 groupecoselec.sn.	43200	IN	NS	eisdns2.expertis.sn.
-groupedelta.sn.	43200	IN	NS	eisdns1.expertis.sn.
-groupedelta.sn.	43200	IN	NS	eisdns2.expertis.sn.
 groupediallo.sn.	43200	IN	NS	dns101.ittrefle.net.
 groupediallo.sn.	43200	IN	NS	dns201.ittrefle.net.
 groupefutursmedias.sn.	172800	IN	NS	ns20.ovh.net.
@@ -15194,9 +15188,6 @@ poly.sn.	43200	IN	NS	dns1.cscdns.net.
 poly.sn.	43200	IN	NS	dns2.cscdns.net.
 polykrome.sn.	43200	IN	NS	ns.arc.sn.
 polykrome.sn.	43200	IN	NS	ns3.arc.sn.
-polysecurite.sn.	43200	IN	NS	ns200.anycast.me.
-polysecurite.sn.	43200	IN	NS	dns200.anycast.me.
-polysecurite.sn.	43200	IN	DS	49210 8 2 eb2336d4c1d5c9c4e8e5112fa0b2ba63cfc12269c7421e4821459725d4007d11
 polytechentreprise.sn.	43200	IN	NS	ns200.anycast.me.
 polytechentreprise.sn.	43200	IN	NS	dns200.anycast.me.
 polytechnique.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -17990,8 +17981,6 @@ sn-energy.sn.	172800	IN	NS	ns3.wanekoohost.com.
 sn-energy.sn.	172800	IN	NS	ns4.wanekoohost.com.
 sn-energy.sn.	172800	IN	NS	ns5.wanekoohost.com.
 sn-energy.sn.	172800	IN	NS	ns6.wanekoohost.com.
-sn2025.sn.	43200	IN	NS	ns13.ovh.net.
-sn2025.sn.	43200	IN	NS	dns13.ovh.net.
 snas.sn.	43200	IN	NS	ns.sonatel.sn.
 snas.sn.	43200	IN	NS	ns2.sonatel.sn.
 snat.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -19156,8 +19145,6 @@ technimex.sn.	43200	IN	NS	ns2.sonatel.sn.
 technocell.sn.	43200	IN	NS	ns1.technocell.sn.
 technocell.sn.	43200	IN	NS	ns2.sivit.org.
 ns1.technocell.sn.	43200	IN	A	80.248.221.51
-technomed.sn.	43200	IN	NS	eisdns1.expertis.sn.
-technomed.sn.	43200	IN	NS	eisdns2.expertis.sn.
 technoserv.sn.	43200	IN	NS	ns1.kheweul.net.
 technoserv.sn.	43200	IN	NS	ns2.kheweul.net.
 technoserv.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -19551,8 +19538,6 @@ tok.sn.	172800	IN	NS	ns4.gransy.com.
 tok.sn.	172800	IN	NS	ns5.gransy.com.
 token.sn.	172800	IN	NS	ns1.sedoparking.com.
 token.sn.	172800	IN	NS	ns2.sedoparking.com.
-tokens.sn.	172800	IN	NS	ns1.sedoparking.com.
-tokens.sn.	172800	IN	NS	ns2.sedoparking.com.
 tokoroma.sn.	43200	IN	NS	ns1.kheweul.net.
 tokoroma.sn.	43200	IN	NS	ns2.kheweul.net.
 tokoroma.sn.	43200	IN	NS	ns3.kheweul.net.
