@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434874 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222434887 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"4 RRs processed [02/04/2022 00H10:01]"
+sn.	172800	IN	TXT	"3 RRs processed [02/04/2022 02H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1023,6 +1023,8 @@ albatros.sn.	172800	IN	NS	ns31.infomaniak.com.
 albatros.sn.	172800	IN	NS	ns32.infomaniak.com.
 albayane.sn.	43200	IN	NS	cp5.dnshostservices.com.
 albayane.sn.	43200	IN	NS	cp6.dnshostservices.com.
+alcrosoft.sn.	172800	IN	NS	tara.ns.cloudflare.com.
+alcrosoft.sn.	172800	IN	NS	michael.ns.cloudflare.com.
 alfa-laval.sn.	43200	IN	NS	unit.nmugroup.com.
 alfa-laval.sn.	43200	IN	NS	origo.nmugroup.com.
 alfa-laval.sn.	43200	IN	NS	vertex.nmugroup.se.
