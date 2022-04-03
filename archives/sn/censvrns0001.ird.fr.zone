@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435172 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435186 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [03/04/2022 18H20:02]"
+sn.	172800	IN	TXT	"3 RRs processed [03/04/2022 20H00:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14497,6 +14497,7 @@ outstanding.sn.	43200	IN	NS	ns3.kheweul.net.
 outstanding.sn.	43200	IN	NS	ns4.kheweul.net.
 ovavitech.sn.	172800	IN	NS	ns102.ovh.net.
 ovavitech.sn.	172800	IN	NS	dns102.ovh.net.
+ovavitech.sn.	172800	IN	DS	12385 8 2 6e05afea31b649a10a16a4d3046d8580da935ca36a2dd42c4e54f91bb82f46e0
 ovh.sn.	43200	IN	NS	ns.ovh.net.
 ovh.sn.	43200	IN	NS	dns.ovh.net.
 ovh-cloud.sn.	43200	IN	NS	ns104.ovh.net.
@@ -18181,6 +18182,7 @@ sofinco.sn.	172800	IN	NS	dns1.cscdns.net.
 sofinco.sn.	172800	IN	NS	dns2.cscdns.net.
 sofix.sn.	172800	IN	NS	ns200.anycast.me.
 sofix.sn.	172800	IN	NS	dns200.anycast.me.
+sofix.sn.	172800	IN	DS	7522 8 2 275c7a51a59d99090aa5d0c5de3267302aecd2cf07d654dbfe53fd2c590f2c84
 sofnortech.sn.	172800	IN	NS	ns.bnamed.eu.
 sofnortech.sn.	172800	IN	NS	ns.bnamed.uk.
 sofnortech.sn.	172800	IN	NS	ns.bnamed.us.
@@ -18748,6 +18750,7 @@ sunucmu.sn.	43200	IN	NS	ns12.infomaniak.ch.
 sunucommune.sn.	172800	IN	NS	ns.kimsufi.com.
 sunucouture.sn.	172800	IN	NS	ns102.ovh.net.
 sunucouture.sn.	172800	IN	NS	dns102.ovh.net.
+sunucouture.sn.	172800	IN	DS	15751 8 2 7c5f1c1e0ba5fed2f5a4e6d7983eceb3c16584aa2951e55cc04dea686468dc52
 sunuentreprise.sn.	43200	IN	NS	ns200.anycast.me.
 sunuentreprise.sn.	43200	IN	NS	dns200.anycast.me.
 sunuevents.sn.	43200	IN	NS	ns1.digitalocean.com.
@@ -21082,6 +21085,7 @@ xpro-consulting.sn.	43200	IN	NS	ns1.o2switch.net.
 xpro-consulting.sn.	43200	IN	NS	ns2.o2switch.net.
 xrlab.sn.	172800	IN	NS	ns102.ovh.net.
 xrlab.sn.	172800	IN	NS	dns102.ovh.net.
+xrlab.sn.	172800	IN	DS	28474 8 2 9f62544718b8cc223c952315216147b1c59bd2c4d7e86fc3cc46207617943674
 xrp.sn.	172800	IN	NS	ns1.sedoparking.com.
 xrp.sn.	172800	IN	NS	ns2.sedoparking.com.
 xtandi.sn.	43200	IN	NS	ns1.markmonitor.com.
