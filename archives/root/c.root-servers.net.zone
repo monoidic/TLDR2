@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040400 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040401 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -359,9 +359,8 @@ c.nic.afl.	172800	IN	A	37.209.196.9
 c.nic.afl.	172800	IN	AAAA	2001:dcd:3::9
 d.nic.afl.	172800	IN	A	37.209.198.9
 d.nic.afl.	172800	IN	AAAA	2001:dcd:4::9
-africa.	172800	IN	NS	ns.coza.net.za.
+africa.	172800	IN	NS	nsp.netnod.se.
 africa.	172800	IN	NS	coza1.dnsnode.net.
-africa.	172800	IN	NS	ns2us.dns.business.
 africa.	86400	IN	DS	44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
 ag.	172800	IN	NS	a0.cctld.afilias-nst.info.
 ag.	172800	IN	NS	a2.cctld.afilias-nst.info.
@@ -2398,8 +2397,6 @@ ns1.dns.business.	172800	IN	A	157.90.205.138
 ns1.dns.business.	172800	IN	AAAA	2a01:4f8:252:4295::9d5a:cd8a
 ns2ke.dns.business.	172800	IN	A	147.135.106.237
 ns2ke.dns.business.	172800	IN	AAAA	2604:2dc0:200:2eb::237
-ns2us.dns.business.	172800	IN	A	147.135.106.236
-ns2us.dns.business.	172800	IN	AAAA	2604:2dc0:200:2eb::2
 v0n0.nic.business.	172800	IN	A	65.22.32.38
 v0n0.nic.business.	172800	IN	AAAA	2a01:8840:22::38
 v0n1.nic.business.	172800	IN	A	65.22.33.38
@@ -2670,9 +2667,8 @@ canon.	172800	IN	NS	b.gmoregistry.net.
 canon.	172800	IN	NS	k.gmoregistry.net.
 canon.	172800	IN	NS	l.gmoregistry.net.
 canon.	86400	IN	DS	5225 8 2 9a1fc16a90acf3c7d3233480f45f595debdef3f71ae637bf3f8093670dda7d8a
-capetown.	172800	IN	NS	ns.coza.net.za.
+capetown.	172800	IN	NS	nsp.netnod.se.
 capetown.	172800	IN	NS	coza1.dnsnode.net.
-capetown.	172800	IN	NS	ns2us.dns.business.
 capetown.	86400	IN	DS	58120 8 2 0d66710dd001e9120a86952cebb8c21aedd72d5e2ca46f0a40266529e7133107
 capital.	172800	IN	NS	v0n0.nic.capital.
 capital.	172800	IN	NS	v0n1.nic.capital.
@@ -5150,9 +5146,8 @@ ns5.dns.nic.dupont.	172800	IN	A	156.154.157.52
 ns5.dns.nic.dupont.	172800	IN	AAAA	2610:a1:1075::34
 ns6.dns.nic.dupont.	172800	IN	A	156.154.158.52
 ns6.dns.nic.dupont.	172800	IN	AAAA	2610:a1:1076::34
-durban.	172800	IN	NS	ns.coza.net.za.
+durban.	172800	IN	NS	nsp.netnod.se.
 durban.	172800	IN	NS	coza1.dnsnode.net.
-durban.	172800	IN	NS	ns2us.dns.business.
 durban.	86400	IN	DS	48265 8 2 57603308e8a6d14065f069a08c050cde3ad0c769dd2bece4da5fcc9456bafb32
 dvag.	172800	IN	NS	a.nic.dvag.
 dvag.	172800	IN	NS	b.nic.dvag.
@@ -8923,9 +8918,8 @@ dnsc.nic.jobs.	172800	IN	A	156.154.102.3
 dnsc.nic.jobs.	172800	IN	AAAA	2610:a1:1009::3
 dnsd.nic.jobs.	172800	IN	A	156.154.103.3
 dnsd.nic.jobs.	172800	IN	AAAA	2610:a1:1010::3
-joburg.	172800	IN	NS	ns.coza.net.za.
+joburg.	172800	IN	NS	nsp.netnod.se.
 joburg.	172800	IN	NS	coza1.dnsnode.net.
-joburg.	172800	IN	NS	ns2us.dns.business.
 joburg.	86400	IN	DS	65032 8 2 4abf29a076fc19ac89283bed93457b56d2b0c8ad90dc24d70f70988a7d8bb574
 jot.	172800	IN	NS	dns1.nic.jot.
 jot.	172800	IN	NS	dns2.nic.jot.
@@ -14796,6 +14790,8 @@ se.	172800	IN	NS	x.ns.se.
 se.	172800	IN	NS	y.ns.se.
 se.	172800	IN	NS	z.ns.se.
 se.	86400	IN	DS	59407 8 2 67a8e06fcefdd9397f77f26c41ade4ec142f299bcfa1827f0ef8fd87f2f63022
+nsp.netnod.se.	172800	IN	A	194.58.198.33
+nsp.netnod.se.	172800	IN	AAAA	2a01:3f1:3033::53
 a.ns.se.	172800	IN	A	192.36.144.107
 a.ns.se.	172800	IN	AAAA	2a01:3f0:0:301::53
 b.ns.se.	172800	IN	A	192.36.133.107
@@ -19951,8 +19947,6 @@ za.	172800	IN	NS	nsza.is.co.za.
 za.	172800	IN	NS	za-ns.anycast.pch.net.
 za.	86400	IN	DS	45749 8 2 3e2b0b7e6063ca11400fa4b54d8a530888234cd0eb3b5fbf820c0750784da84e
 nsza.is.co.za.	172800	IN	A	196.4.160.27
-ns.coza.net.za.	172800	IN	A	206.223.136.200
-ns.coza.net.za.	172800	IN	AAAA	2001:43f8:30::200
 zappos.	172800	IN	NS	dns1.nic.zappos.
 zappos.	172800	IN	NS	dns2.nic.zappos.
 zappos.	172800	IN	NS	dns3.nic.zappos.
