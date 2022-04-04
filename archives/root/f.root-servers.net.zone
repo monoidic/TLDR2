@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040401 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040402 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -9138,6 +9138,19 @@ kia.	172800	IN	NS	b.gmoregistry.net.
 kia.	172800	IN	NS	k.gmoregistry.net.
 kia.	172800	IN	NS	l.gmoregistry.net.
 kia.	86400	IN	DS	2195 8 2 f0e9a6aaf2b84cdd23a98ec5926f0d9f921351207278b1d02ef8067895466377
+kids.	172800	IN	NS	a0.nic.kids.
+kids.	172800	IN	NS	a2.nic.kids.
+kids.	172800	IN	NS	b0.nic.kids.
+kids.	172800	IN	NS	c0.nic.kids.
+kids.	86400	IN	DS	11536 8 2 0ade57b3836da5e4ce75aed8a7cd64b58e7d68a813d10cd94453d11f60a3ecee
+a0.nic.kids.	172800	IN	A	65.22.172.17
+a0.nic.kids.	172800	IN	AAAA	2a01:8840:a6::17
+a2.nic.kids.	172800	IN	A	65.22.175.17
+a2.nic.kids.	172800	IN	AAAA	2a01:8840:a9::17
+b0.nic.kids.	172800	IN	A	65.22.173.17
+b0.nic.kids.	172800	IN	AAAA	2a01:8840:a7::17
+c0.nic.kids.	172800	IN	A	65.22.174.17
+c0.nic.kids.	172800	IN	AAAA	2a01:8840:a8::17
 kim.	172800	IN	NS	a0.nic.kim.
 kim.	172800	IN	NS	a2.nic.kim.
 kim.	172800	IN	NS	b0.nic.kim.
