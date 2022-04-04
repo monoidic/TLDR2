@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435279 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435293 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [04/04/2022 08H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [04/04/2022 10H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4401,8 +4401,6 @@ coinme.sn.	43200	IN	NS	ns1.101domain.com.
 coinme.sn.	43200	IN	NS	ns2.101domain.com.
 coinrule.sn.	172800	IN	NS	ns1.101domain.com.
 coinrule.sn.	172800	IN	NS	ns2.101domain.com.
-coins.sn.	172800	IN	NS	ns1.sedoparking.com.
-coins.sn.	172800	IN	NS	ns2.sedoparking.com.
 cola.sn.	172800	IN	NS	ursula.ns.cloudflare.com.
 cola.sn.	172800	IN	NS	yichun.ns.cloudflare.com.
 coldstonecreamery.sn.	172800	IN	NS	ns01.trademarkarea.com.
@@ -9989,6 +9987,9 @@ irc.sn.	43200	IN	NS	dns16.ovh.net.
 ird.sn.	43200	IN	NS	censvrns0001.ird.fr.
 ird.sn.	43200	IN	NS	censvrns0002.ird.fr.
 ird.sn.	43200	IN	NS	censvrns0003.ird.fr.
+iremia.sn.	172800	IN	NS	ns1.francedns.com.
+iremia.sn.	172800	IN	NS	ns2.francedns.com.
+iremia.sn.	172800	IN	NS	ns3.francedns.com.
 irhis.sn.	43200	IN	NS	ns1.kheweul.net.
 irhis.sn.	43200	IN	NS	ns2.kheweul.net.
 irhis.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -11298,9 +11299,6 @@ lagardere-tr.sn.	43200	IN	NS	ns3.nameshield.net.
 lagardere-tr.sn.	43200	IN	NS	obs1.ns1.fr.
 lagazette.sn.	43200	IN	NS	fred.ns.cloudflare.com.
 lagazette.sn.	43200	IN	NS	rafe.ns.cloudflare.com.
-lagence.sn.	43200	IN	NS	ns1.netim.net.
-lagence.sn.	43200	IN	NS	ns2.netim.net.
-lagence.sn.	43200	IN	NS	ns3.netim.net.
 lagon.sn.	43200	IN	NS	ns.sonatel.sn.
 lagon.sn.	43200	IN	NS	ns2.sonatel.sn.
 lagondole.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -15452,6 +15450,9 @@ propertymonitor.sn.	43200	IN	NS	ns1.101domain.com.
 propertymonitor.sn.	43200	IN	NS	ns2.101domain.com.
 proplast-industrie.sn.	172800	IN	NS	ns1.o2switch.net.
 proplast-industrie.sn.	172800	IN	NS	ns2.o2switch.net.
+proprio.sn.	172800	IN	NS	ns1.netim.net.
+proprio.sn.	172800	IN	NS	ns2.netim.net.
+proprio.sn.	172800	IN	NS	ns3.netim.net.
 propulsedakar.sn.	172800	IN	NS	ns3.wanekoohost.com.
 propulsedakar.sn.	172800	IN	NS	ns4.wanekoohost.com.
 propulsedakar.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -17294,6 +17295,8 @@ senlabo.sn.	43200	IN	NS	pdns14.domaincontrol.com.
 senlaptop.sn.	172800	IN	NS	ns110.ovh.net.
 senlaptop.sn.	172800	IN	NS	dns110.ovh.net.
 senlaptop.sn.	172800	IN	DS	36637 8 2 5f2b23f81a71d00f9b4deb9bfde35fb409be071e38d638990f04e10507f1f54d
+senlocation.sn.	172800	IN	NS	ns110.ovh.net.
+senlocation.sn.	172800	IN	NS	dns110.ovh.net.
 senlogic.sn.	172800	IN	NS	lorna.ns.cloudflare.com.
 senlogic.sn.	172800	IN	NS	ishaan.ns.cloudflare.com.
 senlouma.sn.	172800	IN	NS	ns14.ovh.net.
@@ -20431,6 +20434,8 @@ villagedebandia.sn.	43200	IN	NS	dns108.ovh.net.
 villagedebandia.sn.	43200	IN	DS	22120 8 2 f638635d015060dc872a64c6644f0b5ffc732fb8bfaf041dd402d132d8669482
 villaon.sn.	172800	IN	NS	ns1.101domain.com.
 villaon.sn.	172800	IN	NS	ns2.101domain.com.
+ville.sn.	172800	IN	NS	ns1.gwedi.com.
+ville.sn.	172800	IN	NS	ns2.gwedi.com.
 ville-verte.sn.	43200	IN	NS	ns101.ovh.net.
 ville-verte.sn.	43200	IN	NS	dns101.ovh.net.
 villededakar.sn.	43200	IN	NS	ns1.digitalocean.com.
