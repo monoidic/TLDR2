@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435470 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435486 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [05/04/2022 12H10:02]"
+sn.	172800	IN	TXT	"4 RRs processed [05/04/2022 14H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -893,6 +893,10 @@ ahmadiya.sn.	172800	IN	NS	ns3.wanekoohost.com.
 ahmadiya.sn.	172800	IN	NS	ns4.wanekoohost.com.
 ahmadiya.sn.	172800	IN	NS	ns5.wanekoohost.com.
 ahmadiya.sn.	172800	IN	NS	ns6.wanekoohost.com.
+ai-hubsenegal.sn.	172800	IN	NS	ns1.kheweul.net.
+ai-hubsenegal.sn.	172800	IN	NS	ns2.kheweul.net.
+ai-hubsenegal.sn.	172800	IN	NS	ns3.kheweul.net.
+ai-hubsenegal.sn.	172800	IN	NS	ns4.kheweul.net.
 aibd.sn.	172800	IN	NS	ns1.aibd.sn.
 aibd.sn.	172800	IN	NS	ns2.aibd.sn.
 aibd.sn.	172800	IN	NS	ns2.francedns.com.
@@ -3408,6 +3412,8 @@ capinfo.sn.	172800	IN	NS	dns1.wmaker.net.
 capinfo.sn.	172800	IN	NS	dns2.wmaker.net.
 capitalimmo.sn.	172800	IN	NS	eisdns1.expertis.sn.
 capitalimmo.sn.	172800	IN	NS	eisdns2.expertis.sn.
+capitalmedia.sn.	172800	IN	NS	ns200.anycast.me.
+capitalmedia.sn.	172800	IN	NS	dns200.anycast.me.
 capkarange.sn.	43200	IN	NS	ns.gouv.sn.
 capkarange.sn.	43200	IN	NS	ns2.gouv.sn.
 capkarange.sn.	43200	IN	NS	ns3.gouv.sn.
@@ -10498,6 +10504,8 @@ jns.sn.	43200	IN	NS	ns5.netim.net.
 jnt.sn.	43200	IN	NS	ns104.ovh.net.
 jnt.sn.	43200	IN	NS	dns104.ovh.net.
 jnt.sn.	172800	IN	DS	27355 8 2 d2c667e6eeabcb492b05b719ce815de342b04ce1401b25d1df97366c2214125e
+joalfadiouthngazobil.sn.	172800	IN	NS	ns1.caurys.net.
+joalfadiouthngazobil.sn.	172800	IN	NS	ns2.caurys.net.
 job.sn.	172800	IN	NS	ns1.seytoo.net.
 job.sn.	172800	IN	NS	ns2.seytoo.net.
 job.sn.	172800	IN	NS	ns10.ovh.ca.
@@ -17135,10 +17143,6 @@ senegalvolleyball.sn.	172800	IN	NS	dns200.anycast.me.
 senegalvolleyball.sn.	172800	IN	DS	27934 8 2 58768506704ea955de89528864f92a724039426b61fc4bb18181b4621e576673
 senegalzakat.sn.	43200	IN	NS	ns107.ovh.net.
 senegalzakat.sn.	43200	IN	NS	dns107.ovh.net.
-senegindia.sn.	43200	IN	NS	ns1045.ui-dns.de.
-senegindia.sn.	43200	IN	NS	ns1045.ui-dns.biz.
-senegindia.sn.	43200	IN	NS	ns1045.ui-dns.com.
-senegindia.sn.	43200	IN	NS	ns1045.ui-dns.org.
 senego.sn.	172800	IN	NS	ns10.ovh.ca.
 senego.sn.	172800	IN	NS	dns10.ovh.ca.
 senego.sn.	172800	IN	DS	56965 8 2 33486e8e86e8a827959644edd37afbc1a0a8f562dcfadb5e55a96120c65b2f6f
