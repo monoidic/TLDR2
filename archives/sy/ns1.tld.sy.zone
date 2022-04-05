@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040516 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040520 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1649145730"
+sy.	86400	IN	TXT	"Generation Time: 1649152944"
 00.sy.	86400	IN	NS	garret.ns.cloudflare.com.
 00.sy.	86400	IN	NS	serena.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -1379,8 +1379,8 @@ arabex.sy.	86400	IN	NS	ns16.samamax.com.
 arabex.sy.	86400	IN	NS	ns17.samamax.com.
 arabian-healthy-food.sy.	86400	IN	NS	suspend1.tld.sy.
 arabian-healthy-food.sy.	86400	IN	NS	suspend2.tld.sy.
-arabtransit.sy.	86400	IN	NS	ns16.samamax.com.
-arabtransit.sy.	86400	IN	NS	ns17.samamax.com.
+arabtransit.sy.	86400	IN	NS	suspend1.tld.sy.
+arabtransit.sy.	86400	IN	NS	suspend2.tld.sy.
 arabunionre.sy.	86400	IN	NS	ns3.tld.sy.
 arabunionre.sy.	86400	IN	NS	ns4.tld.sy.
 araby.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3291,8 +3291,8 @@ habbal-trade.sy.	86400	IN	NS	suspend1.tld.sy.
 habbal-trade.sy.	86400	IN	NS	suspend2.tld.sy.
 habib-mosleh.sy.	86400	IN	NS	suspend1.tld.sy.
 habib-mosleh.sy.	86400	IN	NS	suspend2.tld.sy.
-habibkewan-co.sy.	86400	IN	NS	ns1.waveshost.sy.
-habibkewan-co.sy.	86400	IN	NS	ns2.waveshost.sy.
+habibkewan-co.sy.	86400	IN	NS	suspend1.tld.sy.
+habibkewan-co.sy.	86400	IN	NS	suspend2.tld.sy.
 habsha.sy.	86400	IN	NS	suspend1.tld.sy.
 habsha.sy.	86400	IN	NS	suspend2.tld.sy.
 haddadtrading.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -6361,10 +6361,8 @@ snd.sy.	86400	IN	NS	ns1.scs-net.sy.
 snd.sy.	86400	IN	NS	ns1.scs-net.org.
 snd.sy.	86400	IN	NS	ns2.scs-net.sy.
 snd.sy.	86400	IN	NS	ns2.scs-net.org.
-sns.sy.	86400	IN	NS	ns1.sns.sy.
-sns.sy.	86400	IN	NS	ns2.sns.sy.
-ns1.sns.sy.	86400	IN	A	212.11.196.160
-ns2.sns.sy.	86400	IN	A	212.11.196.160
+sns.sy.	86400	IN	NS	suspend1.tld.sy.
+sns.sy.	86400	IN	NS	suspend2.tld.sy.
 snz.sy.	86400	IN	NS	suspend1.tld.sy.
 snz.sy.	86400	IN	NS	suspend2.tld.sy.
 so.sy.	86400	IN	NS	f1g1ns1.dnspod.net.
@@ -6940,8 +6938,8 @@ tasliha.sy.	86400	IN	NS	cns1.canadianwebhosting.com.
 tasliha.sy.	86400	IN	NS	cns2.canadianwebhosting.com.
 tatary-co.sy.	86400	IN	NS	suspend1.tld.sy.
 tatary-co.sy.	86400	IN	NS	suspend2.tld.sy.
-tatheer.sy.	86400	IN	NS	ns1.sawa-host.net.
-tatheer.sy.	86400	IN	NS	ns2.sawa-host.net.
+tatheer.sy.	86400	IN	NS	suspend1.tld.sy.
+tatheer.sy.	86400	IN	NS	suspend2.tld.sy.
 tatweer.sy.	86400	IN	NS	ns1.tatweer.sy.
 tatweer.sy.	86400	IN	NS	ns2.tatweer.sy.
 ns1.tatweer.sy.	86400	IN	A	185.134.132.87

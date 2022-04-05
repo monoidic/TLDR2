@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435456 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435470 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [05/04/2022 10H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [05/04/2022 12H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -9992,9 +9992,10 @@ irc.sn.	43200	IN	NS	dns16.ovh.net.
 ird.sn.	43200	IN	NS	censvrns0001.ird.fr.
 ird.sn.	43200	IN	NS	censvrns0002.ird.fr.
 ird.sn.	43200	IN	NS	censvrns0003.ird.fr.
-iremia.sn.	172800	IN	NS	ns1.francedns.com.
-iremia.sn.	172800	IN	NS	ns2.francedns.com.
-iremia.sn.	172800	IN	NS	ns3.francedns.com.
+iremia.sn.	172800	IN	NS	ns1023.ui-dns.biz.
+iremia.sn.	172800	IN	NS	ns1030.ui-dns.org.
+iremia.sn.	172800	IN	NS	ns1055.ui-dns.de.
+iremia.sn.	172800	IN	NS	ns1091.ui-dns.com.
 irhis.sn.	43200	IN	NS	ns1.kheweul.net.
 irhis.sn.	43200	IN	NS	ns2.kheweul.net.
 irhis.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -10460,9 +10461,8 @@ jifaa.sn.	172800	IN	NS	ns1.wanekoohost.com.
 jifaa.sn.	172800	IN	NS	ns2.wanekoohost.com.
 jifaa.sn.	172800	IN	NS	ns4.wanekoohost.com.
 jifaa.sn.	172800	IN	NS	ns5.wanekoohost.com.
-jiji.sn.	172800	IN	NS	ns1.lexsynergy.net.
-jiji.sn.	172800	IN	NS	ns2.lexsynergy.us.
-jiji.sn.	172800	IN	NS	ns3.lexsynergy.info.
+jiji.sn.	172800	IN	NS	ara.ns.cloudflare.com.
+jiji.sn.	172800	IN	NS	tom.ns.cloudflare.com.
 jimproductions.sn.	172800	IN	NS	ns1.kheweul.net.
 jimproductions.sn.	172800	IN	NS	ns2.kheweul.net.
 jimproductions.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -11233,6 +11233,8 @@ labdev.sn.	43200	IN	NS	ns3.kheweul.net.
 labdev.sn.	43200	IN	NS	ns4.kheweul.net.
 labelbleu.sn.	43200	IN	NS	ns16207.caurys.net.
 labelbleu.sn.	43200	IN	NS	hosting202.ittrefle.net.
+labo-moderne.sn.	172800	IN	NS	ns110.ovh.net.
+labo-moderne.sn.	172800	IN	NS	dns110.ovh.net.
 labobio24.sn.	43200	IN	NS	ns1.labobio24.sn.
 labobio24.sn.	43200	IN	NS	ns2.labobio24.sn.
 ns1.labobio24.sn.	43200	IN	A	196.207.254.13
@@ -11241,6 +11243,8 @@ labodidy.sn.	172800	IN	NS	pdns01.domaincontrol.com.
 labodidy.sn.	172800	IN	NS	pdns02.domaincontrol.com.
 labohoudrouge.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 labohoudrouge.sn.	43200	IN	NS	pdns12.domaincontrol.com.
+labomoderne.sn.	172800	IN	NS	ns110.ovh.net.
+labomoderne.sn.	172800	IN	NS	dns110.ovh.net.
 labonneadresse.sn.	172800	IN	NS	ns102.ovh.net.
 labonneadresse.sn.	172800	IN	NS	dns102.ovh.net.
 labonneadresse.sn.	172800	IN	DS	21907 8 2 19d81ddfba2303dd7c726415259399e68e38a3fb469ff5295debe7a9f4a90166
@@ -16301,9 +16305,6 @@ sama-industries.sn.	43200	IN	NS	ns2.sonatel.sn.
 sama-orange-money.sn.	43200	IN	NS	ns1.sonatel.sn.
 samaapp.sn.	43200	IN	NS	ns.sonatel.sn.
 samaapp.sn.	43200	IN	NS	ns2.sonatel.sn.
-samabourse.sn.	43200	IN	NS	ns13.ovh.net.
-samabourse.sn.	43200	IN	NS	dns13.ovh.net.
-samabourse.sn.	43200	IN	DS	39235 8 2 7a8f11872ae774451ed7ebcc3d2ed8b3e8c03bca48d406a43ece53080ee98c04
 samachance.sn.	172800	IN	NS	ns41.infomaniak.com.
 samachance.sn.	172800	IN	NS	ns42.infomaniak.com.
 samachauffeur.sn.	43200	IN	NS	ns10.ovh.net.
