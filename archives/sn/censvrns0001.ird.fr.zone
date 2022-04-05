@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435486 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435499 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"4 RRs processed [05/04/2022 14H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [05/04/2022 16H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -9998,10 +9998,10 @@ irc.sn.	43200	IN	NS	dns16.ovh.net.
 ird.sn.	43200	IN	NS	censvrns0001.ird.fr.
 ird.sn.	43200	IN	NS	censvrns0002.ird.fr.
 ird.sn.	43200	IN	NS	censvrns0003.ird.fr.
-iremia.sn.	172800	IN	NS	ns1023.ui-dns.biz.
-iremia.sn.	172800	IN	NS	ns1030.ui-dns.org.
-iremia.sn.	172800	IN	NS	ns1055.ui-dns.de.
-iremia.sn.	172800	IN	NS	ns1091.ui-dns.com.
+iremia.sn.	172800	IN	NS	ns1045.ui-dns.de.
+iremia.sn.	172800	IN	NS	ns1045.ui-dns.biz.
+iremia.sn.	172800	IN	NS	ns1045.ui-dns.com.
+iremia.sn.	172800	IN	NS	ns1045.ui-dns.org.
 irhis.sn.	43200	IN	NS	ns1.kheweul.net.
 irhis.sn.	43200	IN	NS	ns2.kheweul.net.
 irhis.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -11243,6 +11243,7 @@ labelbleu.sn.	43200	IN	NS	ns16207.caurys.net.
 labelbleu.sn.	43200	IN	NS	hosting202.ittrefle.net.
 labo-moderne.sn.	172800	IN	NS	ns110.ovh.net.
 labo-moderne.sn.	172800	IN	NS	dns110.ovh.net.
+labo-moderne.sn.	172800	IN	DS	64399 8 2 d69032c578ad7b86b85fe94b69aa209044f9e9827de208012689f3aad928e608
 labobio24.sn.	43200	IN	NS	ns1.labobio24.sn.
 labobio24.sn.	43200	IN	NS	ns2.labobio24.sn.
 ns1.labobio24.sn.	43200	IN	A	196.207.254.13
@@ -11253,6 +11254,7 @@ labohoudrouge.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 labohoudrouge.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 labomoderne.sn.	172800	IN	NS	ns110.ovh.net.
 labomoderne.sn.	172800	IN	NS	dns110.ovh.net.
+labomoderne.sn.	172800	IN	DS	2674 8 2 9b3cb6930a1af70ee532d65aa6413f54843be276c9fbd6a8ef582da0cdc3898b
 labonneadresse.sn.	172800	IN	NS	ns102.ovh.net.
 labonneadresse.sn.	172800	IN	NS	dns102.ovh.net.
 labonneadresse.sn.	172800	IN	DS	21907 8 2 19d81ddfba2303dd7c726415259399e68e38a3fb469ff5295debe7a9f4a90166
