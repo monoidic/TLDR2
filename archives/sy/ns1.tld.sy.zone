@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040527 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040530 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1649167343"
+sy.	86400	IN	TXT	"Generation Time: 1649172732"
 00.sy.	86400	IN	NS	garret.ns.cloudflare.com.
 00.sy.	86400	IN	NS	serena.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -4482,10 +4482,10 @@ malva.sy.	86400	IN	NS	ns1.alanqaa.com.
 malva.sy.	86400	IN	NS	ns2.alanqaa.com.
 managementdc.sy.	86400	IN	NS	ns1.damashost.com.
 managementdc.sy.	86400	IN	NS	ns2.damashost.com.
-mandoob.sy.	86400	IN	NS	suspend1.tld.sy.
-mandoob.sy.	86400	IN	NS	suspend2.tld.sy.
-mandowb.sy.	86400	IN	NS	suspend1.tld.sy.
-mandowb.sy.	86400	IN	NS	suspend2.tld.sy.
+mandoob.sy.	86400	IN	NS	sydns1.nobalaa.com.
+mandoob.sy.	86400	IN	NS	sydns2.nobalaa.com.
+mandowb.sy.	86400	IN	NS	sydns1.nobalaa.com.
+mandowb.sy.	86400	IN	NS	sydns2.nobalaa.com.
 mango.sy.	86400	IN	NS	ns-310.awsdns-38.com.
 mango.sy.	86400	IN	NS	ns-742.awsdns-28.net.
 mango.sy.	86400	IN	NS	ns-1359.awsdns-41.org.
@@ -4821,8 +4821,8 @@ mobile.sy.	86400	IN	NS	ns1.nobalaa.biz.
 mobile.sy.	86400	IN	NS	ns2.nobalaa.biz.
 mobilesyria.sy.	86400	IN	NS	suspend1.tld.sy.
 mobilesyria.sy.	86400	IN	NS	suspend2.tld.sy.
-mobily.sy.	86400	IN	NS	suspend1.tld.sy.
-mobily.sy.	86400	IN	NS	suspend2.tld.sy.
+mobily.sy.	86400	IN	NS	sydns1.nobalaa.com.
+mobily.sy.	86400	IN	NS	sydns2.nobalaa.com.
 mobocel.sy.	86400	IN	NS	suspend1.tld.sy.
 mobocel.sy.	86400	IN	NS	suspend2.tld.sy.
 mod-cosmetic.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -5578,8 +5578,10 @@ qp.sy.	86400	IN	NS	suspend1.tld.sy.
 qp.sy.	86400	IN	NS	suspend2.tld.sy.
 qq.sy.	86400	IN	NS	chloe.ns.cloudflare.com.
 qq.sy.	86400	IN	NS	albert.ns.cloudflare.com.
-qr.sy.	86400	IN	NS	suspend1.tld.sy.
-qr.sy.	86400	IN	NS	suspend2.tld.sy.
+qr.sy.	86400	IN	NS	ns1.qr.sy.
+qr.sy.	86400	IN	NS	ns2.qr.sy.
+ns1.qr.sy.	86400	IN	A	89.36.220.200
+ns2.qr.sy.	86400	IN	A	89.36.220.200
 quality-house.sy.	86400	IN	NS	suspend1.tld.sy.
 quality-house.sy.	86400	IN	NS	suspend2.tld.sy.
 qualitysyria.sy.	86400	IN	NS	suspend1.tld.sy.
