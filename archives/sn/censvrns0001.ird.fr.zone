@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435617 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435632 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [06/04/2022 08H10:02]"
+sn.	172800	IN	TXT	"1 RRs processed [06/04/2022 10H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2477,8 +2477,6 @@ bestevents.sn.	43200	IN	NS	ns1.afrowebmaster.com.
 bestevents.sn.	43200	IN	NS	ns2.afrowebmaster.com.
 bestevents.sn.	43200	IN	NS	ns3.afrowebmaster.com.
 bestevents.sn.	43200	IN	NS	ns4.afrowebmaster.com.
-bestinfos.sn.	43200	IN	NS	eisdns1.expertis.sn.
-bestinfos.sn.	43200	IN	NS	eisdns2.expertis.sn.
 bet22.sn.	172800	IN	NS	bart.ns.cloudflare.com.
 bet22.sn.	172800	IN	NS	zelda.ns.cloudflare.com.
 bet221.sn.	43200	IN	NS	ns1.francedns.com.
@@ -2850,8 +2848,6 @@ bmn.sn.	172800	IN	NS	dns200.anycast.me.
 bmn.sn.	172800	IN	DS	53725 8 2 f1e4346f8e4eeb06f864593d9dfb4e83569462fdbd6c25c75edd7d25085e1197
 bmw.sn.	43200	IN	NS	dns1.cscdns.net.
 bmw.sn.	43200	IN	NS	dns2.cscdns.net.
-bnb.sn.	172800	IN	NS	ns1.sedoparking.com.
-bnb.sn.	172800	IN	NS	ns2.sedoparking.com.
 bnde.sn.	43200	IN	NS	ns19.ovh.net.
 bnde.sn.	43200	IN	NS	dns19.ovh.net.
 bnstp.sn.	172800	IN	NS	ns1.o2switch.net.
@@ -4793,8 +4789,6 @@ crnl.sn.	43200	IN	NS	ns-223.awsdns-27.com.
 crnl.sn.	43200	IN	NS	ns-931.awsdns-52.net.
 crnl.sn.	43200	IN	NS	ns-1167.awsdns-17.org.
 crnl.sn.	43200	IN	NS	ns-1766.awsdns-28.co.uk.
-cro.sn.	172800	IN	NS	ns1.squadhelp.com.
-cro.sn.	172800	IN	NS	ns2.squadhelp.com.
 crocodile.sn.	43200	IN	NS	ns1.markmonitor.com.
 crocodile.sn.	43200	IN	NS	ns2.markmonitor.com.
 crocodile.sn.	43200	IN	NS	ns3.markmonitor.com.
@@ -5879,8 +5873,6 @@ dodge.sn.	43200	IN	NS	dns1.cscdns.net.
 dodge.sn.	43200	IN	NS	dns2.cscdns.net.
 dodopizza.sn.	172800	IN	NS	ns1.101domain.com.
 dodopizza.sn.	172800	IN	NS	ns2.101domain.com.
-doge.sn.	172800	IN	NS	ns1.sedoparking.com.
-doge.sn.	172800	IN	NS	ns2.sedoparking.com.
 doggupourlegrandsenegal.sn.	43200	IN	NS	eisdns1.expertis.sn.
 doggupourlegrandsenegal.sn.	43200	IN	NS	eisdns2.expertis.sn.
 dogtas.sn.	172800	IN	NS	ns1.francedns.com.
@@ -7045,8 +7037,6 @@ etechnologies.sn.	43200	IN	NS	ns1.kheweul.net.
 etechnologies.sn.	43200	IN	NS	ns2.kheweul.net.
 ethansen.sn.	43200	IN	NS	ns.sonatel.sn.
 ethansen.sn.	43200	IN	NS	ns2.sonatel.sn.
-ethereum.sn.	172800	IN	NS	ns1.sedoparking.com.
-ethereum.sn.	172800	IN	NS	ns2.sedoparking.com.
 ethicajou.sn.	43200	IN	NS	ns1.ascio.com.
 ethicajou.sn.	43200	IN	NS	ns2.ascio.com.
 ethicajou.sn.	43200	IN	NS	ns3.ascio.com.
@@ -9385,8 +9375,6 @@ idco.sn.	43200	IN	NS	ns6.jajeuf.com.
 ideact.sn.	43200	IN	NS	ns108.ovh.net.
 ideact.sn.	43200	IN	NS	dns108.ovh.net.
 ideact.sn.	43200	IN	DS	7774 8 2 7c7809b3a0f4a477e1371f36e13dae15f586312abbf0a4d60edad44ad0060424
-idealagency.sn.	43200	IN	NS	eisdns1.expertis.sn.
-idealagency.sn.	43200	IN	NS	eisdns2.expertis.sn.
 idealdeco.sn.	43200	IN	NS	ns1.kheweul.net.
 idealdeco.sn.	43200	IN	NS	ns2.kheweul.net.
 idealdeco.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -11984,8 +11972,6 @@ loli.sn.	172800	IN	NS	ns2.he.net.
 loli.sn.	172800	IN	NS	ns3.he.net.
 loli.sn.	172800	IN	NS	ns4.he.net.
 loli.sn.	172800	IN	NS	ns5.he.net.
-lon.sn.	172800	IN	NS	ns1.sedoparking.com.
-lon.sn.	172800	IN	NS	ns2.sedoparking.com.
 lonase.sn.	43200	IN	NS	ns200.anycast.me.
 lonase.sn.	43200	IN	NS	dns200.anycast.me.
 lonaselab.sn.	172800	IN	NS	eisdns1.expertis.sn.
@@ -13117,8 +13103,6 @@ moncallcenter.sn.	43200	IN	NS	ns104.ovh.net.
 moncallcenter.sn.	43200	IN	NS	dns104.ovh.net.
 monchezmoi.sn.	43200	IN	NS	ns5.jajeuf.com.
 monchezmoi.sn.	43200	IN	NS	ns6.jajeuf.com.
-mondedesmamans.sn.	43200	IN	NS	eisdns1.expertis.sn.
-mondedesmamans.sn.	43200	IN	NS	eisdns2.expertis.sn.
 mondialbusiness.sn.	43200	IN	NS	ns.sonatel.sn.
 mondialbusiness.sn.	43200	IN	NS	ns2.sonatel.sn.
 mondialpaper.sn.	43200	IN	NS	ns110.ovh.net.
@@ -13773,8 +13757,6 @@ nnbh.sn.	172800	IN	NS	ns9.jajeuf.com.
 nnbh.sn.	172800	IN	NS	ns10.jajeuf.com.
 nodal.sn.	43200	IN	NS	ns111.ovh.net.
 nodal.sn.	43200	IN	NS	dns111.ovh.net.
-node.sn.	172800	IN	NS	ns1.sedoparking.com.
-node.sn.	172800	IN	NS	ns2.sedoparking.com.
 nogatech.sn.	172800	IN	NS	ns110.ovh.net.
 nogatech.sn.	172800	IN	NS	dns110.ovh.net.
 nogatech.sn.	172800	IN	DS	38620 8 2 79cbfb86016990c0027774347bb56b9431e00eee3999706e232abd0085a49061
@@ -14714,6 +14696,9 @@ parifoot.sn.	43200	IN	NS	donald.ns.cloudflare.com.
 parifoot.sn.	43200	IN	NS	karina.ns.cloudflare.com.
 parifoot-apk.sn.	43200	IN	NS	lars.ns.cloudflare.com.
 parifoot-apk.sn.	43200	IN	NS	meadow.ns.cloudflare.com.
+parigames.sn.	172800	IN	NS	ns1.francedns.com.
+parigames.sn.	172800	IN	NS	ns2.francedns.com.
+parigames.sn.	172800	IN	NS	ns3.francedns.com.
 pariis.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pariis.sn.	172800	IN	NS	ns7.jokko-hosting.com.
 parimobile.sn.	43200	IN	NS	kate.ns.cloudflare.com.
@@ -17204,9 +17189,6 @@ senetol.sn.	172800	IN	NS	dns200.anycast.me.
 senetol.sn.	172800	IN	DS	23014 8 2 9c0903f29e993d972815dd06832218ce5f95f1cfa4fd831cf90fb2de7f9f6a2f
 seneval.sn.	43200	IN	NS	dns1.namecheaphosting.com.
 seneval.sn.	43200	IN	NS	dns2.namecheaphosting.com.
-senevens.sn.	43200	IN	NS	ns1.francedns.com.
-senevens.sn.	43200	IN	NS	ns2.francedns.com.
-senevens.sn.	43200	IN	NS	ns3.francedns.com.
 senevents.sn.	43200	IN	NS	ns1.infomaniak.ch.
 senevents.sn.	43200	IN	NS	ns2.infomaniak.ch.
 senevents.sn.	43200	IN	NS	ns5.infomaniak.ch.
@@ -18835,8 +18817,6 @@ sunutechnology.sn.	43200	IN	NS	ns4.francedns.com.
 sunutechnology.sn.	43200	IN	NS	ns5.francedns.com.
 sunuteranga.sn.	172800	IN	NS	ns1.dns-parking.com.
 sunuteranga.sn.	172800	IN	NS	ns2.dns-parking.com.
-sunuthiossane.sn.	43200	IN	NS	eisdns1.expertis.sn.
-sunuthiossane.sn.	43200	IN	NS	eisdns2.expertis.sn.
 sunutool.sn.	172800	IN	NS	cpanel17.lws-hosting.com.
 sunutool.sn.	172800	IN	NS	cpanel18.lws-hosting.com.
 sunuvoyage.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -20133,8 +20113,6 @@ unas-senegal.sn.	172800	IN	NS	nsb.n0c.com.
 unas-senegal.sn.	172800	IN	NS	nsc.n0c.com.
 unccias.sn.	43200	IN	NS	ns31.infomaniak.com.
 unccias.sn.	43200	IN	NS	ns32.infomaniak.com.
-uncs.sn.	43200	IN	NS	eisdns1.expertis.sn.
-uncs.sn.	43200	IN	NS	eisdns2.expertis.sn.
 underberg.sn.	43200	IN	NS	dns.voerde.globvill.de.
 underberg.sn.	43200	IN	NS	dns.globvill.de.
 uneatlantico.sn.	43200	IN	NS	ns3.acens.net.
@@ -21111,8 +21089,6 @@ xpro-consulting.sn.	43200	IN	NS	ns2.o2switch.net.
 xrlab.sn.	172800	IN	NS	ns102.ovh.net.
 xrlab.sn.	172800	IN	NS	dns102.ovh.net.
 xrlab.sn.	172800	IN	DS	28474 8 2 9f62544718b8cc223c952315216147b1c59bd2c4d7e86fc3cc46207617943674
-xrp.sn.	172800	IN	NS	ns1.sedoparking.com.
-xrp.sn.	172800	IN	NS	ns2.sedoparking.com.
 xtandi.sn.	43200	IN	NS	ns1.markmonitor.com.
 xtandi.sn.	43200	IN	NS	ns3.markmonitor.com.
 xtandi.sn.	43200	IN	NS	ns4.markmonitor.com.
