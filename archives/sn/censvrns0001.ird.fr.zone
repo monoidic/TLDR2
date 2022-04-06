@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435559 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435572 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [06/04/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [06/04/2022 02H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5494,6 +5494,7 @@ diabos.sn.	43200	IN	DS	6442 8 2 f9cffda5ae2eedf22752e4b5aad3411e843fac0a47186a95
 diacksaoentreprise.sn.	172800	IN	NS	ns1.contabo.net.
 diacksaoentreprise.sn.	172800	IN	NS	ns2.contabo.net.
 diacksaoentreprise.sn.	172800	IN	NS	ns3.contabo.net.
+diadistribution.sn.	172800	IN	A	162.241.27.64
 diagram.sn.	172800	IN	NS	ns16.ovh.net.
 diagram.sn.	172800	IN	NS	dns16.ovh.net.
 diagram.sn.	172800	IN	DS	58159 8 2 46ed91fc4c2a246ca31369d15bf5c3bf257feefa4a5aef4f4f8750ad9c94830a
