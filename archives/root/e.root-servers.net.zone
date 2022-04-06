@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040402 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022040600 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -2221,32 +2221,20 @@ f.dns.br.	172800	IN	A	200.219.159.10
 f.dns.br.	172800	IN	AAAA	2001:12f8:c::10
 ns.dns.br.	172800	IN	A	200.160.0.5
 ns.dns.br.	172800	IN	AAAA	2001:12ff:0:a20::5
-bradesco.	172800	IN	NS	dns1.nic.bradesco.
-bradesco.	172800	IN	NS	dns2.nic.bradesco.
-bradesco.	172800	IN	NS	dns3.nic.bradesco.
-bradesco.	172800	IN	NS	dns4.nic.bradesco.
-bradesco.	172800	IN	NS	dnsa.nic.bradesco.
-bradesco.	172800	IN	NS	dnsb.nic.bradesco.
-bradesco.	172800	IN	NS	dnsc.nic.bradesco.
-bradesco.	172800	IN	NS	dnsd.nic.bradesco.
+bradesco.	172800	IN	NS	a0.nic.bradesco.
+bradesco.	172800	IN	NS	a2.nic.bradesco.
+bradesco.	172800	IN	NS	b0.nic.bradesco.
+bradesco.	172800	IN	NS	c0.nic.bradesco.
 bradesco.	86400	IN	DS	44254 8 2 49f78d30a829d5d40a7671f9831df0f056fc7f4e8e39906c905afb8eb1b54100
 bradesco.	86400	IN	DS	61375 8 2 a0ffe5a2c7c1cb086855963d43117563e509ca1e6b27d87ef9ce011c195b8344
-dns1.nic.bradesco.	172800	IN	A	213.248.217.37
-dns1.nic.bradesco.	172800	IN	AAAA	2a01:618:401::37
-dns2.nic.bradesco.	172800	IN	A	103.49.81.37
-dns2.nic.bradesco.	172800	IN	AAAA	2401:fd80:401::37
-dns3.nic.bradesco.	172800	IN	A	213.248.221.37
-dns3.nic.bradesco.	172800	IN	AAAA	2a01:618:405::37
-dns4.nic.bradesco.	172800	IN	A	43.230.49.37
-dns4.nic.bradesco.	172800	IN	AAAA	2401:fd80:405::37
-dnsa.nic.bradesco.	172800	IN	A	156.154.100.3
-dnsa.nic.bradesco.	172800	IN	AAAA	2001:502:ad09::3
-dnsb.nic.bradesco.	172800	IN	A	156.154.101.3
-dnsb.nic.bradesco.	172800	IN	AAAA	2001:502:2eda::3
-dnsc.nic.bradesco.	172800	IN	A	156.154.102.3
-dnsc.nic.bradesco.	172800	IN	AAAA	2610:a1:1009::3
-dnsd.nic.bradesco.	172800	IN	A	156.154.103.3
-dnsd.nic.bradesco.	172800	IN	AAAA	2610:a1:1010::3
+a0.nic.bradesco.	172800	IN	A	65.22.124.2
+a0.nic.bradesco.	172800	IN	AAAA	2a01:8840:7a::2
+a2.nic.bradesco.	172800	IN	A	65.22.127.2
+a2.nic.bradesco.	172800	IN	AAAA	2a01:8840:7d::2
+b0.nic.bradesco.	172800	IN	A	65.22.125.2
+b0.nic.bradesco.	172800	IN	AAAA	2a01:8840:7b::2
+c0.nic.bradesco.	172800	IN	A	65.22.126.2
+c0.nic.bradesco.	172800	IN	AAAA	2a01:8840:7c::2
 bridgestone.	172800	IN	NS	a.gmoregistry.net.
 bridgestone.	172800	IN	NS	b.gmoregistry.net.
 bridgestone.	172800	IN	NS	k.gmoregistry.net.
@@ -14289,7 +14277,7 @@ ru.	172800	IN	NS	b.dns.ripn.net.
 ru.	172800	IN	NS	d.dns.ripn.net.
 ru.	172800	IN	NS	e.dns.ripn.net.
 ru.	172800	IN	NS	f.dns.ripn.net.
-ru.	86400	IN	DS	7729 8 2 c035871113bb7c70c1fbfc1c9bfdfa9781733348d54f7ef9a4ad021aa00336f3
+ru.	86400	IN	DS	33257 8 2 641a0ba027a1027d2fd17b5743931804eebb329b8b514a357d1ef290f159d79f
 a.dns.flexireg.ru.	172800	IN	A	31.177.70.1
 a.dns.flexireg.ru.	172800	IN	AAAA	2a02:2090:6800::1
 rugby.	172800	IN	NS	a.nic.rugby.
