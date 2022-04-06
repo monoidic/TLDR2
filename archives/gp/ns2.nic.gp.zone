@@ -1,4 +1,4 @@
-gp.	86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022040512 86400 7200 2592000 345600
+gp.	86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022040615 86400 7200 2592000 345600
 gp.	86400	IN	NS	a.lactld.org.
 gp.	86400	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	86400	IN	NS	ns1.nic.gp.
@@ -1210,6 +1210,8 @@ crcc.gp.	86400	IN	NS	pns1.cloudns.net.
 crcc.gp.	86400	IN	NS	pns3.cloudns.net.
 credit.gp.	86400	IN	NS	ns1.sedoparking.com.
 credit.gp.	86400	IN	NS	ns2.sedoparking.com.
+crypto.gp.	86400	IN	NS	ns1.undeveloped.com.
+crypto.gp.	86400	IN	NS	ns2.undeveloped.com.
 csat.gp.	86400	IN	NS	ns1-gp.mediaserv.net.
 csat.gp.	86400	IN	NS	ns1-mq.mediaserv.net.
 cscdomains.gp.	86400	IN	NS	dns1.cscdns.net.
@@ -3265,9 +3267,10 @@ meteo.gp.	86400	IN	NS	vivaldi.meteo.fr.
 meteo.gp.	86400	IN	NS	cadillac.meteo.fr.
 meteofrance.gp.	86400	IN	NS	vivaldi.meteo.fr.
 meteofrance.gp.	86400	IN	NS	cadillac.meteo.fr.
-meubleskit.gp.	86400	IN	NS	ns1.francedns.com.
-meubleskit.gp.	86400	IN	NS	ns2.francedns.com.
-meubleskit.gp.	86400	IN	NS	ns3.francedns.com.
+meubleskit.gp.	86400	IN	NS	ns1045.ui-dns.de.
+meubleskit.gp.	86400	IN	NS	ns1045.ui-dns.biz.
+meubleskit.gp.	86400	IN	NS	ns1045.ui-dns.com.
+meubleskit.gp.	86400	IN	NS	ns1045.ui-dns.org.
 mfrcotesouslevent.gp.	86400	IN	NS	ns4.wixdns.net.
 mfrcotesouslevent.gp.	86400	IN	NS	ns5.wixdns.net.
 mg-guadeloupe.gp.	86400	IN	NS	ns1.francedns.com.

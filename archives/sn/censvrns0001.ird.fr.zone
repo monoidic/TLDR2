@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435679 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435697 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [06/04/2022 16H00:01]"
+sn.	172800	IN	TXT	"No RRs processed [06/04/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -710,7 +710,8 @@ africanews.sn.	43200	IN	NS	ns.africanews.sn.
 africanews.sn.	43200	IN	NS	ns2.africanews.sn.
 ns.africanews.sn.	43200	IN	A	81.92.238.142
 ns2.africanews.sn.	43200	IN	A	83.206.243.208
-africapaper.sn.	172800	IN	NS	hosting100.arc.sn.
+africapaper.sn.	172800	IN	NS	ns.arc.sn.
+africapaper.sn.	172800	IN	NS	ns3.arc.sn.
 africapay.sn.	172800	IN	NS	nscloud105.caphosting.com.
 africapay.sn.	172800	IN	NS	nscloud106.caphosting.com.
 africargo.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -1412,8 +1413,6 @@ anpej.sn.	43200	IN	NS	ns1.kheweul.net.
 anpej.sn.	43200	IN	NS	ns2.kheweul.net.
 anps.sn.	43200	IN	NS	ns1.ipower.com.
 anps.sn.	43200	IN	NS	ns2.ipower.com.
-ansaarudine.sn.	43200	IN	NS	eisdns1.expertis.sn.
-ansaarudine.sn.	43200	IN	NS	eisdns2.expertis.sn.
 ansaly.sn.	172800	IN	NS	ns1.kheweul.net.
 ansaly.sn.	172800	IN	NS	ns2.kheweul.net.
 ansaly.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -2032,8 +2031,6 @@ awale.sn.	172800	IN	NS	dns200.anycast.me.
 awale.sn.	172800	IN	DS	55675 8 2 0a0fd4c898ed10471acbdc3c5fd3dc8043a22a1e20cd75858c959fadc2b527ac
 awalyum.sn.	172800	IN	NS	ns102.ovh.net.
 awalyum.sn.	172800	IN	NS	dns102.ovh.net.
-awamarket.sn.	43200	IN	NS	ns1.servconfig.com.
-awamarket.sn.	43200	IN	NS	ns2.servconfig.com.
 awtouba.sn.	172800	IN	NS	ns1.kheweul.net.
 awtouba.sn.	172800	IN	NS	ns2.kheweul.net.
 awtouba.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -9760,8 +9757,6 @@ innovconsulting.sn.	172800	IN	NS	ns4011.hostgator.com.
 innovconsulting.sn.	172800	IN	NS	ns4012.hostgator.com.
 innovdigital.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 innovdigital.sn.	172800	IN	NS	ns9.jokko-hosting.com.
-innovebox.sn.	43200	IN	NS	eisdns1.expertis.sn.
-innovebox.sn.	43200	IN	NS	eisdns2.expertis.sn.
 innovent.sn.	43200	IN	NS	ns14.ovh.net.
 innovent.sn.	43200	IN	NS	dns14.ovh.net.
 innovsmile.sn.	172800	IN	NS	ns15.ovh.net.
@@ -15388,10 +15383,6 @@ promogem.sn.	172800	IN	NS	ns2.gouv.sn.
 promogem.sn.	172800	IN	NS	ns3.gouv.sn.
 promovilles.sn.	172800	IN	NS	ns1.o2switch.net.
 promovilles.sn.	172800	IN	NS	ns2.o2switch.net.
-promultimedia.sn.	172800	IN	NS	ns3.wanekoohost.com.
-promultimedia.sn.	172800	IN	NS	ns4.wanekoohost.com.
-promultimedia.sn.	172800	IN	NS	ns5.wanekoohost.com.
-promultimedia.sn.	172800	IN	NS	ns6.wanekoohost.com.
 propack.sn.	172800	IN	NS	ns200.anycast.me.
 propack.sn.	172800	IN	NS	dns200.anycast.me.
 propack.sn.	172800	IN	DS	9031 8 2 3ae369677811cefcbf04c40f4d28645595a7a480932456b9ce44937ca8db6afd
@@ -15464,10 +15455,6 @@ proximo.sn.	43200	IN	NS	ns1.cp-tr-1.webhostbox.net.
 proximo.sn.	43200	IN	NS	ns2.cp-tr-1.webhostbox.net.
 proxy.sn.	43200	IN	NS	ns2409.hostgator.com.
 proxy.sn.	43200	IN	NS	ns2410.hostgator.com.
-prp.sn.	172800	IN	NS	ns3.wanekoohost.com.
-prp.sn.	172800	IN	NS	ns4.wanekoohost.com.
-prp.sn.	172800	IN	NS	ns5.wanekoohost.com.
-prp.sn.	172800	IN	NS	ns6.wanekoohost.com.
 prudential.sn.	172800	IN	NS	ns3.afriregister.com.
 prudential.sn.	172800	IN	NS	ns01.afriregister.com.
 prytanee.sn.	172800	IN	NS	lorna.ns.cloudflare.com.
@@ -17057,6 +17044,8 @@ senegalsms.sn.	43200	IN	NS	dns108.ovh.net.
 senegalsms.sn.	43200	IN	DS	53101 8 2 54765bbbed7e7308e310f8b9c7c40ff4b63b6e3a571c613c688ade67cf58d190
 senegalsuntravel.sn.	172800	IN	NS	ns112.ovh.net.
 senegalsuntravel.sn.	172800	IN	NS	dns112.ovh.net.
+senegalsupplychain.sn.	172800	IN	NS	ns110.ovh.net.
+senegalsupplychain.sn.	172800	IN	NS	dns110.ovh.net.
 senegaltravelservices.sn.	43200	IN	NS	ns200.anycast.me.
 senegaltravelservices.sn.	43200	IN	NS	dns200.anycast.me.
 senegalvente.sn.	43200	IN	NS	ns200.anycast.me.
@@ -17389,10 +17378,6 @@ septodont.sn.	43200	IN	NS	ns3.gandi.net.
 seras.sn.	172800	IN	NS	ns103.ovh.net.
 seras.sn.	172800	IN	NS	dns103.ovh.net.
 seras.sn.	172800	IN	DS	6862 8 2 97fb473802824ef1f7fc0fc63fba26dd82856f08df18a0391978c9689697d4da
-sercsenegal.sn.	172800	IN	NS	ns3.wanekoohost.com.
-sercsenegal.sn.	172800	IN	NS	ns4.wanekoohost.com.
-sercsenegal.sn.	172800	IN	NS	ns5.wanekoohost.com.
-sercsenegal.sn.	172800	IN	NS	ns6.wanekoohost.com.
 serec.sn.	43200	IN	NS	ns1.kheweul.net.
 serec.sn.	43200	IN	NS	ns2.kheweul.net.
 serec.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -19289,10 +19274,6 @@ tetatou.sn.	43200	IN	NS	ns1.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns2.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns3.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns4.kheweul.net.
-teunguethfc.sn.	43200	IN	NS	ns1.kheweul.net.
-teunguethfc.sn.	43200	IN	NS	ns2.kheweul.net.
-teunguethfc.sn.	43200	IN	NS	ns3.kheweul.net.
-teunguethfc.sn.	43200	IN	NS	ns4.kheweul.net.
 texaco.sn.	43200	IN	NS	dns1.cscdns.net.
 texaco.sn.	43200	IN	NS	dns2.cscdns.net.
 texassba.sn.	43200	IN	NS	b.ns.netim.net.
@@ -21160,6 +21141,10 @@ yoboulma.sn.	43200	IN	DS	21322 8 2 537e890ce09f4650c3f06b43e69bbc369dd0d801710d2
 yobouma.sn.	43200	IN	NS	ns13.ovh.net.
 yobouma.sn.	43200	IN	NS	dns13.ovh.net.
 yobouma.sn.	43200	IN	DS	39466 8 2 294335389720606403a5a3d6cf42aa9afc412a5ed8177d1f46350ef79db5b7fe
+yodistyle.sn.	172800	IN	NS	ns1.kheweul.net.
+yodistyle.sn.	172800	IN	NS	ns2.kheweul.net.
+yodistyle.sn.	172800	IN	NS	ns3.kheweul.net.
+yodistyle.sn.	172800	IN	NS	ns4.kheweul.net.
 yody.sn.	172800	IN	NS	dns1.hosteur.com.
 yody.sn.	172800	IN	NS	dns2.hosteur.com.
 yoff.sn.	172800	IN	NS	ns1.caurys.net.
