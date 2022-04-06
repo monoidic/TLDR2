@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435697 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435711 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [06/04/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [06/04/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -9387,10 +9387,6 @@ ie2d.sn.	43200	IN	NS	ns1045.ui-dns.biz.
 ie2d.sn.	43200	IN	NS	ns1045.ui-dns.com.
 ie2d.sn.	43200	IN	NS	ns1045.ui-dns.org.
 iea-saintlouis.sn.	43200	IN	NS	dns.ucad.sn.
-ieadakar.sn.	43200	IN	NS	ns1.kheweul.net.
-ieadakar.sn.	43200	IN	NS	ns2.kheweul.net.
-ieadakar.sn.	43200	IN	NS	ns3.kheweul.net.
-ieadakar.sn.	43200	IN	NS	ns4.kheweul.net.
 iefpete.sn.	43200	IN	NS	ns.arc.sn.
 iefpete.sn.	43200	IN	NS	ns3.arc.sn.
 ielts.sn.	43200	IN	NS	udns1.cscdns.net.
@@ -15784,6 +15780,10 @@ relaxdays.sn.	43200	IN	NS	ns02.trademarkarea.com.
 relaxdays.sn.	43200	IN	NS	ns03.trademarkarea.com.
 relianceaudit.sn.	43200	IN	NS	ns2.francedns.com.
 relianceaudit.sn.	43200	IN	NS	cloudf03.francedns.com.
+relit.sn.	172800	IN	NS	ns1.kheweul.net.
+relit.sn.	172800	IN	NS	ns2.kheweul.net.
+relit.sn.	172800	IN	NS	ns3.kheweul.net.
+relit.sn.	172800	IN	NS	ns4.kheweul.net.
 relyfe.sn.	172800	IN	NS	ns100.ovh.net.
 relyfe.sn.	172800	IN	NS	dns100.ovh.net.
 relyfe.sn.	172800	IN	DS	31459 8 2 c83c2a0c2a7f45eefc18c883fe23a74bbd1f46c7ae7f2903dd4c44444e54bcae
@@ -17044,8 +17044,8 @@ senegalsms.sn.	43200	IN	NS	dns108.ovh.net.
 senegalsms.sn.	43200	IN	DS	53101 8 2 54765bbbed7e7308e310f8b9c7c40ff4b63b6e3a571c613c688ade67cf58d190
 senegalsuntravel.sn.	172800	IN	NS	ns112.ovh.net.
 senegalsuntravel.sn.	172800	IN	NS	dns112.ovh.net.
-senegalsupplychain.sn.	172800	IN	NS	ns110.ovh.net.
-senegalsupplychain.sn.	172800	IN	NS	dns110.ovh.net.
+senegalsupplychain.sn.	172800	IN	NS	ns1.o2switch.net.
+senegalsupplychain.sn.	172800	IN	NS	ns2.o2switch.net.
 senegaltravelservices.sn.	43200	IN	NS	ns200.anycast.me.
 senegaltravelservices.sn.	43200	IN	NS	dns200.anycast.me.
 senegalvente.sn.	43200	IN	NS	ns200.anycast.me.
