@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435852 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435870 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [07/04/2022 16H10:02]"
+sn.	172800	IN	TXT	"2 RRs processed [07/04/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -16840,10 +16840,6 @@ senchix.sn.	43200	IN	NS	ns2.caurys.net.
 sencia.sn.	172800	IN	NS	ns20.ovh.net.
 sencia.sn.	172800	IN	NS	dns20.ovh.net.
 sencia.sn.	172800	IN	DS	37900 8 2 003df156623b529f84a1020dfd8822cd38dc8c3f02189bec2a43aa43c53cb366
-senclim.sn.	43200	IN	NS	ns1.kheweul.net.
-senclim.sn.	43200	IN	NS	ns2.kheweul.net.
-senclim.sn.	43200	IN	NS	ns3.kheweul.net.
-senclim.sn.	43200	IN	NS	ns4.kheweul.net.
 sencloud.sn.	172800	IN	NS	ns103.ovh.net.
 sencloud.sn.	172800	IN	NS	dns103.ovh.net.
 sencloud.sn.	172800	IN	DS	30412 8 2 8317019b0a75548a3ca0968d7c30fb92a7a03c0c055bf352d536c64420b9fe3f
@@ -18721,6 +18717,8 @@ sunumarket.sn.	172800	IN	DS	16414 8 2 a4030a5c8bf4c48633ceebcf96262d283555913edd
 sunumbay.sn.	172800	IN	NS	ns10.ovh.ca.
 sunumbay.sn.	172800	IN	NS	dns10.ovh.ca.
 sunumbay.sn.	172800	IN	DS	3109 8 2 21e5c4a7b0edb684e8fb29639bd2a35cffdfe6fcd9f5111cc5acbeddacaf3fc5
+sunurew.sn.	172800	IN	NS	ns9.jajeuf.com.
+sunurew.sn.	172800	IN	NS	ns10.jajeuf.com.
 sunusante.sn.	43200	IN	NS	ns1.ascio.com.
 sunusante.sn.	43200	IN	NS	ns2.ascio.com.
 sunusante.sn.	43200	IN	NS	ns3.ascio.com.
@@ -19287,6 +19285,9 @@ tetatou.sn.	43200	IN	NS	ns1.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns2.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns3.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns4.kheweul.net.
+tetragroup.sn.	172800	IN	NS	ns1.francedns.com.
+tetragroup.sn.	172800	IN	NS	ns2.francedns.com.
+tetragroup.sn.	172800	IN	NS	ns3.francedns.com.
 texaco.sn.	43200	IN	NS	dns1.cscdns.net.
 texaco.sn.	43200	IN	NS	dns2.cscdns.net.
 texassba.sn.	43200	IN	NS	b.ns.netim.net.
