@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040725 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022040727 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1649325739"
+sy.	86400	IN	TXT	"Generation Time: 1649331143"
 00.sy.	86400	IN	NS	garret.ns.cloudflare.com.
 00.sy.	86400	IN	NS	serena.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -3570,8 +3570,8 @@ hs.sy.	86400	IN	NS	suspend1.tld.sy.
 hs.sy.	86400	IN	NS	suspend2.tld.sy.
 ht.sy.	86400	IN	NS	suspend1.tld.sy.
 ht.sy.	86400	IN	NS	suspend2.tld.sy.
-hudhod.sy.	86400	IN	NS	suspend1.tld.sy.
-hudhod.sy.	86400	IN	NS	suspend2.tld.sy.
+hudhod.sy.	86400	IN	NS	ns1.sawa-host.net.
+hudhod.sy.	86400	IN	NS	ns2.sawa-host.net.
 huffingtonpost.sy.	86400	IN	NS	suspend1.tld.sy.
 huffingtonpost.sy.	86400	IN	NS	suspend2.tld.sy.
 huffingtonpostarabi.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -6775,12 +6775,12 @@ syriatelbusiness.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 syriatelbusiness.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 syriatelcash.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 syriatelcash.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
-syriatelinfo.sy.	86400	IN	NS	suspend1.tld.sy.
-syriatelinfo.sy.	86400	IN	NS	suspend2.tld.sy.
+syriatelinfo.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
+syriatelinfo.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 syriatelisp.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 syriatelisp.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
-syriatelnews.sy.	86400	IN	NS	suspend1.tld.sy.
-syriatelnews.sy.	86400	IN	NS	suspend2.tld.sy.
+syriatelnews.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
+syriatelnews.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 syriatimes.sy.	86400	IN	NS	ns1.inet.sy.
 syriatimes.sy.	86400	IN	NS	ns2.inet.sy.
 syriatoday.sy.	86400	IN	NS	cns1.canadianwebhosting.com.
