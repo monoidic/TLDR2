@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436002 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436016 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [08/04/2022 12H10:01]"
+sn.	172800	IN	TXT	"2 RRs processed [08/04/2022 14H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -108,6 +108,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2asgh.sn.	43200	IN	NS	ns3.cctld.sn.
 2astechnics.sn.	43200	IN	NS	dns1.namebay.com.
 2astechnics.sn.	43200	IN	NS	dns2.namebay.com.
+2atv.sn.	172800	IN	NS	ns110.ovh.net.
+2atv.sn.	172800	IN	NS	dns110.ovh.net.
 2bi.sn.	43200	IN	NS	ns51.domaincontrol.com.
 2bi.sn.	43200	IN	NS	ns52.domaincontrol.com.
 2cgroupe.sn.	43200	IN	NS	ns1.caurys.net.
@@ -8970,7 +8972,6 @@ heetch.sn.	43200	IN	NS	ns-228-a.gandi.net.
 heg.sn.	43200	IN	NS	hosting100.arc.sn.
 helin.sn.	172800	IN	NS	ns102.ovh.net.
 helin.sn.	172800	IN	NS	dns102.ovh.net.
-helin.sn.	172800	IN	DS	57802 8 2 7e32cce7f8ef44d38622b05cad770c6e4a55d08ced14fdfba08f9eadd06a22ff
 heliostowers.sn.	43200	IN	NS	ns01.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns02.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns03.trademarkarea.com.
@@ -19287,6 +19288,7 @@ tetatou.sn.	43200	IN	NS	ns2.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns3.kheweul.net.
 tetatou.sn.	43200	IN	NS	ns4.kheweul.net.
 tetragroup.sn.	172800	IN	NS	ns2.francedns.com.
+tetragroup.sn.	172800	IN	NS	ns3.francedns.com.
 tetragroup.sn.	172800	IN	NS	cloudf03.francedns.com.
 texaco.sn.	43200	IN	NS	dns1.cscdns.net.
 texaco.sn.	43200	IN	NS	dns2.cscdns.net.
