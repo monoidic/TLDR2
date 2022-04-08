@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435974 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435987 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [08/04/2022 08H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [08/04/2022 10H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1604,8 +1604,8 @@ ariston.sn.	172800	IN	NS	ns4.brandshelter.net.
 ariston.sn.	172800	IN	NS	ns5.brandshelter.us.
 arkeos.sn.	172800	IN	NS	ns112.ovh.net.
 arkeos.sn.	172800	IN	NS	dns112.ovh.net.
-arksen.sn.	43200	IN	NS	ns200.anycast.me.
-arksen.sn.	43200	IN	NS	dns200.anycast.me.
+arksen.sn.	172800	IN	NS	ns110.ovh.net.
+arksen.sn.	172800	IN	NS	dns110.ovh.net.
 arksen.sn.	172800	IN	DS	25816 8 2 279a2126ac588fe731214f2714c954eff08f75d7d2bfca1b6323f64371c587a2
 arla.sn.	43200	IN	NS	ns1.rrpproxy.net.
 arla.sn.	43200	IN	NS	ns2.rrpproxy.net.
@@ -5695,6 +5695,8 @@ diotali.sn.	172800	IN	NS	eisdns1.expertis.sn.
 diotali.sn.	172800	IN	NS	eisdns2.expertis.sn.
 dioula.sn.	43200	IN	NS	ns200.anycast.me.
 dioula.sn.	43200	IN	NS	dns200.anycast.me.
+dipdoundouguiss.sn.	172800	IN	NS	ns2.francedns.com.
+dipdoundouguiss.sn.	172800	IN	NS	cloudf03.francedns.com.
 diplomatie.sn.	43200	IN	NS	dns1.namecheaphosting.com.
 diplomatie.sn.	43200	IN	NS	dns2.namecheaphosting.com.
 diprom.sn.	43200	IN	NS	sdns2.ovh.net.
