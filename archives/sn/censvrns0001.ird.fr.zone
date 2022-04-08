@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435914 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222435928 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [08/04/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [08/04/2022 02H00:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -917,8 +917,8 @@ aig.sn.	43200	IN	NS	f.service.afiliasdns.net.
 aihes.sn.	172800	IN	NS	nsa.n0c.com.
 aihes.sn.	172800	IN	NS	nsb.n0c.com.
 aihes.sn.	172800	IN	NS	nsc.n0c.com.
-aima-group.sn.	43200	IN	NS	ns5.afriregister.com.
-aima-group.sn.	43200	IN	NS	ns6.afriregister.com.
+aima-group.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+aima-group.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 aimagroup.sn.	172800	IN	NS	ns15.afriregister.com.
 aimagroup.sn.	172800	IN	NS	ns25.afriregister.com.
 ainou.sn.	43200	IN	NS	ns111.ovh.net.
@@ -3084,8 +3084,8 @@ businesscare.sn.	43200	IN	NS	ns1.kheweul.net.
 businesscare.sn.	43200	IN	NS	ns2.kheweul.net.
 businesscare.sn.	43200	IN	NS	ns3.kheweul.net.
 businesscare.sn.	43200	IN	NS	ns4.kheweul.net.
-businessmap.sn.	172800	IN	NS	ns5.afriregister.com.
-businessmap.sn.	172800	IN	NS	ns6.afriregister.com.
+businessmap.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+businessmap.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 businessvillage.sn.	172800	IN	NS	ns106.ovh.net.
 businessvillage.sn.	172800	IN	NS	dns106.ovh.net.
 butic.sn.	43200	IN	NS	ns1.a2hosting.com.
@@ -4696,8 +4696,8 @@ coursupreme.sn.	43200	IN	NS	ns1.kheweul.net.
 coursupreme.sn.	43200	IN	NS	ns2.kheweul.net.
 coursupreme.sn.	43200	IN	NS	ns3.kheweul.net.
 coursupreme.sn.	43200	IN	NS	ns4.kheweul.net.
-courtier.sn.	43200	IN	NS	ns3.afriregister.com.
-courtier.sn.	43200	IN	NS	ns01.afriregister.com.
+courtier.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+courtier.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 cousenegal.sn.	43200	IN	NS	ns1.kheweul.net.
 cousenegal.sn.	43200	IN	NS	ns2.kheweul.net.
 cousenegal.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -16338,6 +16338,8 @@ sandconsulting.sn.	43200	IN	NS	dns102.ovh.net.
 sandever.sn.	43200	IN	NS	a.dns.gandi.net.
 sandever.sn.	43200	IN	NS	b.dns.gandi.net.
 sandever.sn.	43200	IN	NS	c.dns.gandi.net.
+sangalkam.sn.	172800	IN	NS	ns200.anycast.me.
+sangalkam.sn.	172800	IN	NS	dns200.anycast.me.
 sangomar.sn.	172800	IN	NS	ns15.ovh.net.
 sangomar.sn.	172800	IN	NS	dns15.ovh.net.
 sangomar.sn.	172800	IN	DS	4531 8 2 aacffaf5fc70dba874053850c0d53a023bec57dcc0818f08d1d30fe14b084ebc
@@ -17899,8 +17901,8 @@ smpl.sn.	43200	IN	NS	ns3.bdm.microsoftonline.com.
 smpl.sn.	43200	IN	NS	ns4.bdm.microsoftonline.com.
 smr.sn.	43200	IN	NS	ns1.servconfig.com.
 smr.sn.	43200	IN	NS	ns2.servconfig.com.
-sms.sn.	43200	IN	NS	ns5.afriregister.com.
-sms.sn.	43200	IN	NS	ns6.afriregister.com.
+sms.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+sms.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 sms-technology.sn.	43200	IN	NS	ns1.dns-parking.com.
 sms-technology.sn.	43200	IN	NS	ns2.dns-parking.com.
 smspro.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -20245,8 +20247,8 @@ varconsulting.sn.	172800	IN	NS	ns3.wanekoohost.com.
 varconsulting.sn.	172800	IN	NS	ns4.wanekoohost.com.
 varconsulting.sn.	172800	IN	NS	ns5.wanekoohost.com.
 varconsulting.sn.	172800	IN	NS	ns6.wanekoohost.com.
-vasesdhonneur.sn.	172800	IN	NS	ns1.contabo.net.
-vasesdhonneur.sn.	172800	IN	NS	vmi602358.contaboserver.net.
+vasesdhonneur.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+vasesdhonneur.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 vatel.sn.	43200	IN	NS	ns.vatelconnect.com.
 vatel.sn.	43200	IN	NS	sdns2.ovh.net.
 vbet.sn.	43200	IN	NS	ns1.101domain.com.
@@ -20833,8 +20835,8 @@ wintech.sn.	172800	IN	NS	cpanel12.lws-hosting.com.
 wirgo.sn.	172800	IN	NS	ns105.ovh.net.
 wirgo.sn.	172800	IN	NS	dns105.ovh.net.
 wirgo.sn.	172800	IN	DS	48724 8 2 ece8e7ffa33a47a0b4e3830047fd1b3a8233dc94ec301024173efdf47658f1fc
-wise.sn.	43200	IN	NS	ns111.ovh.net.
-wise.sn.	43200	IN	NS	dns111.ovh.net.
+wise.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+wise.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 wise-group.sn.	172800	IN	NS	ns16.ovh.net.
 wise-group.sn.	172800	IN	NS	dns16.ovh.net.
 wise-group.sn.	172800	IN	DS	10969 8 2 b411cbbacbef3740ffe46ecb6460477a12f2f48b50cd80c4aa08e069f39fe022
@@ -20950,8 +20952,8 @@ xaamga.sn.	172800	IN	DS	29797 8 2 2ae3121ea0f6f9ead5a6bd7442baf7020caf5d1f114232
 xaircommunity.sn.	172800	IN	NS	ns110.ovh.net.
 xaircommunity.sn.	172800	IN	NS	dns110.ovh.net.
 xaircommunity.sn.	172800	IN	DS	18904 8 2 89baced525b9be6afb2b9d823dfda93ae15546c85b8f6f223a42b347eebf9201
-xalissaire.sn.	43200	IN	NS	ns5.afriregister.com.
-xalissaire.sn.	43200	IN	NS	ns6.afriregister.com.
+xalissaire.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+xalissaire.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 xamsagox.sn.	43200	IN	NS	ns.sonatel.sn.
 xamsagox.sn.	43200	IN	NS	ns2.sonatel.sn.
 xamtu.sn.	172800	IN	NS	ns11.infomaniak.ch.
@@ -21100,8 +21102,8 @@ yere.sn.	43200	IN	NS	ns103.ovh.net.
 yere.sn.	43200	IN	NS	dns103.ovh.net.
 yeri.sn.	43200	IN	NS	ns1.cloudns.io.
 yeri.sn.	43200	IN	NS	ns2.cloudns.io.
-yes.sn.	43200	IN	NS	ns19.ovh.net.
-yes.sn.	43200	IN	NS	vps-953a0d91.vps.ovh.net.
+yes.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+yes.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 yesfood.sn.	172800	IN	NS	ns8.wixdns.net.
 yesfood.sn.	172800	IN	NS	ns9.wixdns.net.
 yesfood.sn.	172800	IN	DS	41887 8 2 af8a0391b72a6c2e3d1d3f40849084d1c32c26479b492d23d2752ea450174bf5
