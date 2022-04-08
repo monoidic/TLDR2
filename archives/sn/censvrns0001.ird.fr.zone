@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436044 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436063 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [08/04/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [08/04/2022 20H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -110,6 +110,7 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2astechnics.sn.	43200	IN	NS	dns2.namebay.com.
 2atv.sn.	172800	IN	NS	ns110.ovh.net.
 2atv.sn.	172800	IN	NS	dns110.ovh.net.
+2atv.sn.	172800	IN	DS	57796 8 2 3e862e6017cc980ba91cc0021f8c453f3c7a16d5b8afac43aede2a88af4aa28a
 2bi.sn.	43200	IN	NS	ns51.domaincontrol.com.
 2bi.sn.	43200	IN	NS	ns52.domaincontrol.com.
 2cgroupe.sn.	43200	IN	NS	ns1.caurys.net.
@@ -757,6 +758,8 @@ afrig.sn.	43200	IN	NS	ns1.site5.com.
 afrig.sn.	43200	IN	NS	ns2.site5.com.
 afrika-innovation.sn.	43200	IN	NS	ns113.ovh.net.
 afrika-innovation.sn.	43200	IN	NS	dns113.ovh.net.
+afrikannonces.sn.	172800	IN	NS	ns1.cloud-04e47b.managed-vps.net.
+afrikannonces.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
 afrikysoft.sn.	172800	IN	NS	ns20.ovh.net.
 afrikysoft.sn.	172800	IN	NS	dns20.ovh.net.
 afrikysoft.sn.	172800	IN	DS	61960 8 2 2d99608a5913b6f45c51e85ed3047250c895ed5ce2f053f764b62753d8a615c3
@@ -4063,6 +4066,8 @@ ciscosystems.sn.	43200	IN	NS	ns4.markmonitor.com.
 ciscosystems.sn.	43200	IN	NS	ns5.markmonitor.com.
 ciscosystems.sn.	43200	IN	NS	ns6.markmonitor.com.
 ciscosystems.sn.	43200	IN	NS	ns7.markmonitor.com.
+cisen.sn.	172800	IN	NS	ns200.anycast.me.
+cisen.sn.	172800	IN	NS	dns200.anycast.me.
 cisix.sn.	43200	IN	NS	ns10.ovh.net.
 cisix.sn.	43200	IN	NS	dns10.ovh.net.
 cisix.sn.	43200	IN	NS	sdns2.ovh.net.
@@ -11839,6 +11844,8 @@ lissa.sn.	172800	IN	NS	ns1.kheweul.net.
 lissa.sn.	172800	IN	NS	ns2.kheweul.net.
 lissa.sn.	172800	IN	NS	ns3.kheweul.net.
 lissa.sn.	172800	IN	NS	ns4.kheweul.net.
+listings360.sn.	172800	IN	NS	ns1.cloud-04e47b.managed-vps.net.
+listings360.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
 listnbuy.sn.	172800	IN	NS	ns-29.awsdns-03.com.
 listnbuy.sn.	172800	IN	NS	ns-514.awsdns-00.net.
 listnbuy.sn.	172800	IN	NS	ns-1424.awsdns-50.org.
