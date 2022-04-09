@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436097 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436112 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/04/2022 00H00:01]"
+sn.	172800	IN	TXT	"6 RRs processed [09/04/2022 02H00:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -110,7 +110,6 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2astechnics.sn.	43200	IN	NS	dns2.namebay.com.
 2atv.sn.	172800	IN	NS	ns110.ovh.net.
 2atv.sn.	172800	IN	NS	dns110.ovh.net.
-2atv.sn.	172800	IN	DS	57796 8 2 3e862e6017cc980ba91cc0021f8c453f3c7a16d5b8afac43aede2a88af4aa28a
 2bi.sn.	43200	IN	NS	ns51.domaincontrol.com.
 2bi.sn.	43200	IN	NS	ns52.domaincontrol.com.
 2cgroupe.sn.	43200	IN	NS	ns1.caurys.net.
@@ -670,6 +669,8 @@ afp.sn.	43200	IN	NS	dns10.ovh.ca.
 afp.sn.	43200	IN	DS	15289 8 2 392d5b1aadedb9b1ed1f52a01960fcb40ece9623d31ba1b6fd7044b5297543f0
 afrex.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 afrex.sn.	172800	IN	NS	ns9.jokko-hosting.com.
+afribaba.sn.	172800	IN	NS	ns1.cloud-04e47b.managed-vps.net.
+afribaba.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
 afriboard.sn.	172800	IN	NS	ns200.anycast.me.
 afriboard.sn.	172800	IN	NS	dns200.anycast.me.
 afric-management.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -4456,6 +4457,7 @@ commune-hlm.sn.	43200	IN	NS	dns107.ovh.net.
 commune-hlm.sn.	43200	IN	DS	59425 8 2 c1c5647cc2bf0155f3ba6de3620ca3e4c90cb78a7cfe2c5f5036896611754159
 commune-ngogom.sn.	172800	IN	NS	ns200.anycast.me.
 commune-ngogom.sn.	172800	IN	NS	dns200.anycast.me.
+commune-ngogom.sn.	172800	IN	DS	29125 8 2 581e480c9e484470f9b540a5e52db0aef58c6c753333585b2ac5f27ca1810de0
 communedekeursambakane.sn.	43200	IN	NS	ns18.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	dns18.ovh.net.
 communedekoul.sn.	43200	IN	NS	dns1.namecheaphosting.com.
@@ -9334,6 +9336,10 @@ ici.sn.	172800	IN	NS	nsb.planethoster.net.
 ici.sn.	172800	IN	NS	nsc.planethoster.net.
 iciwork.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 iciwork.sn.	172800	IN	NS	ns9.jokko-hosting.com.
+iconnect.sn.	172800	IN	NS	ns1.iconnect.sn.
+iconnect.sn.	172800	IN	NS	ns2.iconnect.sn.
+ns1.iconnect.sn.	172800	IN	A	74.199.17.105
+ns2.iconnect.sn.	172800	IN	A	74.199.17.105
 iconoa.sn.	172800	IN	NS	ns1.servconfig.com.
 iconoa.sn.	172800	IN	NS	ns2.servconfig.com.
 icops.sn.	172800	IN	NS	ns3.wanekoohost.com.
