@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436157 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436175 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/04/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [09/04/2022 10H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8854,9 +8854,6 @@ guichet.sn.	172800	IN	NS	ns3.francedns.com.
 guichetjeunesse.sn.	172800	IN	NS	ns200.anycast.me.
 guichetjeunesse.sn.	172800	IN	NS	dns200.anycast.me.
 guichetjeunesse.sn.	172800	IN	DS	42316 8 2 674cfacbafa3d1e352ac8d8f946e0faedd065c9da022bf6110b76845d2dd4e2a
-guichetunique.sn.	43200	IN	NS	ns107.ovh.net.
-guichetunique.sn.	43200	IN	NS	dns107.ovh.net.
-guichetunique.sn.	43200	IN	DS	37840 8 2 77f1f6792340fef7943030782d52e2511c94598e7b69576ad9631933755751da
 guideportuaireafrique.sn.	43200	IN	NS	ns13.ovh.net.
 guideportuaireafrique.sn.	43200	IN	NS	dns13.ovh.net.
 guideportuaireafrique.sn.	43200	IN	DS	33952 8 2 d2d90fbab1974f3bd0240d5dc7af0fbe3ad8ecf4f82cabb0c2ef4930c2d47913
