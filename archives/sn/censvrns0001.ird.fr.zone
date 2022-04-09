@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436142 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436157 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/04/2022 06H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [09/04/2022 08H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1965,9 +1965,10 @@ autonomiasolutions.sn.	172800	IN	NS	ns3.afrowebmaster.com.
 autonomiasolutions.sn.	172800	IN	NS	ns4.afrowebmaster.com.
 autoparc.sn.	172800	IN	NS	eva.ns.cloudflare.com.
 autoparc.sn.	172800	IN	NS	guss.ns.cloudflare.com.
-autoparts.sn.	43200	IN	NS	nsa.planethoster.net.
-autoparts.sn.	43200	IN	NS	nsb.planethoster.net.
-autoparts.sn.	43200	IN	NS	nsc.planethoster.net.
+autoparts.sn.	172800	IN	NS	ns1.autoparts.sn.
+autoparts.sn.	172800	IN	NS	ns2.autoparts.sn.
+ns1.autoparts.sn.	172800	IN	A	74.199.17.105
+ns2.autoparts.sn.	172800	IN	A	74.199.17.105
 autorent.sn.	43200	IN	NS	ns1.efedus.com.
 autorent.sn.	43200	IN	NS	ns2.efedus.com.
 autorepair.sn.	43200	IN	NS	hosting100.arc.sn.
@@ -10167,6 +10168,9 @@ it-web-solution.sn.	43200	IN	NS	ns3.ascio.com.
 it-web-solution.sn.	43200	IN	NS	ns4.ascio.com.
 ita.sn.	43200	IN	NS	ns.sonatel.sn.
 ita.sn.	43200	IN	NS	ns2.sonatel.sn.
+italianmarket.sn.	172800	IN	NS	ns13.ovh.net.
+italianmarket.sn.	172800	IN	NS	dns13.ovh.net.
+italianmarket.sn.	172800	IN	DS	41671 8 2 93008114c58995d3bdab8361d27c6f52cfec83193df612b2b22ad9acff54f8f4
 itamax.sn.	172800	IN	NS	ns3.wanekoohost.com.
 itamax.sn.	172800	IN	NS	ns4.wanekoohost.com.
 itamax.sn.	172800	IN	NS	ns5.wanekoohost.com.
