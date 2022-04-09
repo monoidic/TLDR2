@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436215 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436230 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/04/2022 16H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [09/04/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -720,6 +720,9 @@ africapay.sn.	172800	IN	NS	nscloud105.caphosting.com.
 africapay.sn.	172800	IN	NS	nscloud106.caphosting.com.
 africargo.sn.	43200	IN	NS	ns1.kheweul.net.
 africargo.sn.	43200	IN	NS	ns2.kheweul.net.
+africasamakag.sn.	172800	IN	NS	ns13.ovh.net.
+africasamakag.sn.	172800	IN	NS	dns13.ovh.net.
+africasamakag.sn.	172800	IN	DS	50059 8 2 3fec24975a9bf32b4f97349873dcd80f6e3317ba26a6792a8f5725ea84bae3e8
 africaseptic.sn.	43200	IN	NS	ns1.francedns.com.
 africaseptic.sn.	43200	IN	NS	ns2.francedns.com.
 africaseptic.sn.	43200	IN	NS	ns3.francedns.com.
@@ -5806,6 +5809,10 @@ djolof.sn.	43200	IN	NS	dns10.ovh.net.
 djolof.sn.	172800	IN	DS	40537 8 2 a1149d5d1b7f7d648bb3cbd29abaed7cf70fc599f66850369f5a3e8fccb55019
 djolof-agricole.sn.	172800	IN	NS	nsmpro1.nordnet.com.
 djolof-agricole.sn.	172800	IN	NS	nsmpro2.nordnet.com.
+djolofagros.sn.	172800	IN	NS	ns3.wanekoohost.com.
+djolofagros.sn.	172800	IN	NS	ns4.wanekoohost.com.
+djolofagros.sn.	172800	IN	NS	ns5.wanekoohost.com.
+djolofagros.sn.	172800	IN	NS	ns6.wanekoohost.com.
 djoloffrelax.sn.	43200	IN	NS	ns1.contabo.net.
 djoloffrelax.sn.	43200	IN	NS	ns2.contabo.net.
 djoloffrelax.sn.	43200	IN	NS	ns3.contabo.net.
@@ -7462,6 +7469,7 @@ fermesdethiaye.sn.	172800	IN	NS	ns3.kheweul.net.
 fermesdethiaye.sn.	172800	IN	NS	ns4.kheweul.net.
 fes.sn.	172800	IN	NS	ns110.ovh.net.
 fes.sn.	172800	IN	NS	dns110.ovh.net.
+fes.sn.	172800	IN	DS	40099 8 2 a403414cd9de09d2d5c34c04565a40ba1f5623ad0a60657094d4d9e6b8c780d1
 festivalalimenterre.sn.	172800	IN	NS	ns102.ovh.net.
 festivalalimenterre.sn.	172800	IN	NS	dns102.ovh.net.
 festivalsalam.sn.	43200	IN	NS	ns12.ovh.net.
@@ -9481,6 +9489,10 @@ ilfservices.sn.	43200	IN	NS	ns1.kheweul.net.
 ilfservices.sn.	43200	IN	NS	ns2.kheweul.net.
 ilfservices.sn.	43200	IN	NS	ns3.kheweul.net.
 ilfservices.sn.	43200	IN	NS	ns4.kheweul.net.
+iliosconstruction.sn.	172800	IN	NS	ns110.ovh.net.
+iliosconstruction.sn.	172800	IN	NS	dns110.ovh.net.
+iliosgestion.sn.	172800	IN	NS	ns110.ovh.net.
+iliosgestion.sn.	172800	IN	NS	dns110.ovh.net.
 iliosgroupe.sn.	172800	IN	NS	ns110.ovh.net.
 iliosgroupe.sn.	172800	IN	NS	dns110.ovh.net.
 iliosgroupe.sn.	172800	IN	DS	42115 8 2 08aaf2984e5c0e44298276a2799ec3910e1766b8ee9a93e3a4f2b6969c127258
