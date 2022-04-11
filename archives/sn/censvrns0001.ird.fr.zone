@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436560 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436577 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [11/04/2022 16H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [11/04/2022 18H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2363,6 +2363,10 @@ bdkonline.sn.	43200	IN	NS	ns1.wtservers.com.
 bdkonline.sn.	43200	IN	NS	ns2.wtservers.com.
 bdn.sn.	43200	IN	NS	ns104.ovh.net.
 bdn.sn.	43200	IN	NS	dns104.ovh.net.
+bdstrading.sn.	172800	IN	NS	ns1.kheweul.net.
+bdstrading.sn.	172800	IN	NS	ns2.kheweul.net.
+bdstrading.sn.	172800	IN	NS	ns3.kheweul.net.
+bdstrading.sn.	172800	IN	NS	ns4.kheweul.net.
 bdswiss.sn.	43200	IN	NS	ns1.eurodns.com.
 bdswiss.sn.	43200	IN	NS	ns2.eurodns.com.
 bdswiss.sn.	43200	IN	NS	ns3.eurodns.com.
@@ -4959,10 +4963,6 @@ cwa-langagecentre.sn.	172800	IN	NS	ns3.kheweul.net.
 cwa-langagecentre.sn.	172800	IN	NS	ns4.kheweul.net.
 cwt.sn.	172800	IN	NS	ns1.101domain.com.
 cwt.sn.	172800	IN	NS	ns2.101domain.com.
-cybercriminalite.sn.	172800	IN	NS	ns3.wanekoohost.com.
-cybercriminalite.sn.	172800	IN	NS	ns4.wanekoohost.com.
-cybercriminalite.sn.	172800	IN	NS	ns5.wanekoohost.com.
-cybercriminalite.sn.	172800	IN	NS	ns6.wanekoohost.com.
 cybersante.sn.	172800	IN	NS	ns112.ovh.net.
 cybersante.sn.	172800	IN	NS	dns112.ovh.net.
 cybersecurite.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -5810,6 +5810,8 @@ djoloffrelax.sn.	43200	IN	NS	ns3.contabo.net.
 djoloftech.sn.	172800	IN	NS	ams-ns1.greengeeks.com.
 djoloftech.sn.	172800	IN	NS	chi-ns1.greengeeks.com.
 djoloftech.sn.	172800	IN	NS	chi-ns2.greengeeks.com.
+dkelectric.sn.	172800	IN	NS	ns101.ovh.net.
+dkelectric.sn.	172800	IN	NS	dns101.ovh.net.
 dkglobal.sn.	172800	IN	NS	ns1.caurys.net.
 dkglobal.sn.	172800	IN	NS	ns2.caurys.net.
 dki.sn.	43200	IN	NS	ns1.101domain.com.
@@ -10976,6 +10978,8 @@ kirene.sn.	43200	IN	DS	19291 8 2 6cc1167bf5ae902527830c79578142eef99de5ad2d0bf14
 kireneavecorange.sn.	172800	IN	NS	ns-52-c.gandi.net.
 kireneavecorange.sn.	172800	IN	NS	ns-59-b.gandi.net.
 kireneavecorange.sn.	172800	IN	NS	ns-236-a.gandi.net.
+kirikou.sn.	172800	IN	NS	dns1.hosteur.com.
+kirikou.sn.	172800	IN	NS	dns2.hosteur.com.
 kissfm.sn.	43200	IN	NS	ns1.dnsdienst.de.
 kissfm.sn.	43200	IN	NS	ns2.dnsdienst.de.
 kissfm.sn.	43200	IN	NS	ns3.dnsdienst.de.
