@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436504 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436520 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [11/04/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [11/04/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1420,8 +1420,6 @@ annuairehorsreseau.sn.	172800	IN	NS	ns2.gouv.sn.
 annuairehorsreseau.sn.	172800	IN	NS	ns3.gouv.sn.
 annuairepro.sn.	43200	IN	NS	ns113.ovh.net.
 annuairepro.sn.	43200	IN	NS	dns113.ovh.net.
-anomalyfit.sn.	43200	IN	NS	eisdns1.expertis.sn.
-anomalyfit.sn.	43200	IN	NS	eisdns2.expertis.sn.
 anpej.sn.	43200	IN	NS	ns1.kheweul.net.
 anpej.sn.	43200	IN	NS	ns2.kheweul.net.
 anps.sn.	43200	IN	NS	ns1.ipower.com.
@@ -2534,8 +2532,6 @@ betsson.sn.	43200	IN	NS	pdns142.ultradns.net.
 betsson.sn.	43200	IN	NS	pdns142.ultradns.org.
 betting.sn.	43200	IN	NS	ns1.sedoparking.com.
 betting.sn.	43200	IN	NS	ns2.sedoparking.com.
-bettma.sn.	43200	IN	NS	eisdns1.expertis.sn.
-bettma.sn.	43200	IN	NS	eisdns2.expertis.sn.
 betway.sn.	43200	IN	NS	ns1.instradns.com.
 betway.sn.	43200	IN	NS	ns2.instradns.com.
 betway.sn.	43200	IN	NS	ns3.instradns.com.
@@ -8484,8 +8480,6 @@ gogle.sn.	172800	IN	NS	ns2.radinko.com.
 goldenafrica.sn.	172800	IN	NS	ns-37-a.gandi.net.
 goldenafrica.sn.	172800	IN	NS	ns-93-b.gandi.net.
 goldenafrica.sn.	172800	IN	NS	ns-189-c.gandi.net.
-goldenconsulting.sn.	43200	IN	NS	eisdns1.expertis.sn.
-goldenconsulting.sn.	43200	IN	NS	eisdns2.expertis.sn.
 goldentrans.sn.	172800	IN	NS	ns1.francedns.com.
 goldentrans.sn.	172800	IN	NS	ns2.francedns.com.
 goldentrans.sn.	172800	IN	NS	ns3.francedns.com.
@@ -13064,6 +13058,8 @@ moncallcenter.sn.	43200	IN	NS	ns104.ovh.net.
 moncallcenter.sn.	43200	IN	NS	dns104.ovh.net.
 monchezmoi.sn.	43200	IN	NS	ns5.jajeuf.com.
 monchezmoi.sn.	43200	IN	NS	ns6.jajeuf.com.
+mondialannonce.sn.	172800	IN	NS	ns1.inmotionhosting.com.
+mondialannonce.sn.	172800	IN	NS	ns2.inmotionhosting.com.
 mondialbusiness.sn.	43200	IN	NS	ns.sonatel.sn.
 mondialbusiness.sn.	43200	IN	NS	ns2.sonatel.sn.
 mondialpaper.sn.	43200	IN	NS	ns110.ovh.net.
@@ -15792,9 +15788,6 @@ reisswolf.sn.	43200	IN	NS	ns9.managed-ip.com.
 reisswolf.sn.	43200	IN	NS	ns10.managed-ip.com.
 reisswolf.sn.	43200	IN	NS	ns11.managed-ip.info.
 reisswolf.sn.	43200	IN	NS	ns12.managed-ip.info.
-rekfi.sn.	43200	IN	NS	ns107.ovh.net.
-rekfi.sn.	43200	IN	NS	dns107.ovh.net.
-rekfi.sn.	43200	IN	DS	16630 8 2 6a12aa39e7605ae05acd9457a7da3fa46c4a2739b8dc11cd0af77ce2a79d8a8e
 rekrute.sn.	43200	IN	NS	sdns2.ovh.net.
 rekrute.sn.	43200	IN	NS	188-165-35-98.ovh.net.
 relaiskedougou.sn.	172800	IN	NS	ns103.ovh.net.
@@ -15995,8 +15988,6 @@ ron.sn.	43200	IN	NS	ns-164.awsdns-20.com.
 ron.sn.	43200	IN	NS	ns-721.awsdns-26.net.
 ron.sn.	43200	IN	NS	ns-1342.awsdns-39.org.
 ron.sn.	43200	IN	NS	ns-1672.awsdns-17.co.uk.
-rootech.sn.	43200	IN	NS	eisdns1.expertis.sn.
-rootech.sn.	43200	IN	NS	eisdns2.expertis.sn.
 roqya.sn.	172800	IN	NS	ns1.kheweul.net.
 roqya.sn.	172800	IN	NS	ns2.kheweul.net.
 roqya.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -16325,8 +16316,6 @@ samaxew.sn.	43200	IN	NS	ns3.kheweul.net.
 samaxew.sn.	43200	IN	NS	ns4.kheweul.net.
 samia.sn.	172800	IN	NS	ns1.caurys.net.
 samia.sn.	172800	IN	NS	ns2.caurys.net.
-samis.sn.	43200	IN	NS	eisdns1.expertis.sn.
-samis.sn.	43200	IN	NS	eisdns2.expertis.sn.
 samu.sn.	43200	IN	NS	ns108.ovh.net.
 samu.sn.	43200	IN	NS	dns108.ovh.net.
 sanai.sn.	172800	IN	NS	nsa.n0c.com.
@@ -17183,6 +17172,10 @@ senhmc.sn.	172800	IN	NS	ns1.caurys.net.
 senhmc.sn.	172800	IN	NS	ns2.caurys.net.
 senhorloge.sn.	43200	IN	NS	ns.sonatel.sn.
 senhorloge.sn.	43200	IN	NS	ns2.sonatel.sn.
+senhosting.sn.	172800	IN	NS	ns3.wanekoohost.com.
+senhosting.sn.	172800	IN	NS	ns4.wanekoohost.com.
+senhosting.sn.	172800	IN	NS	ns5.wanekoohost.com.
+senhosting.sn.	172800	IN	NS	ns6.wanekoohost.com.
 senhotel.sn.	43200	IN	NS	ns1.kheweul.net.
 senhotel.sn.	43200	IN	NS	ns2.kheweul.net.
 senhotel.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -17796,6 +17789,9 @@ skillandyou.sn.	43200	IN	NS	ns2.netim.net.
 skillandyou.sn.	43200	IN	NS	ns3.netim.net.
 skillandyou.sn.	43200	IN	NS	ns4.netim.net.
 skillandyou.sn.	43200	IN	NS	ns5.netim.net.
+skoda.sn.	172800	IN	NS	isp2.viapraga.cz.
+skoda.sn.	172800	IN	NS	skoda2.skoda-auto.cz.
+skoda.sn.	172800	IN	NS	skoda3.skoda-auto.cz.
 sky-vision.sn.	43200	IN	NS	ns1.sky-vision.net.
 sky-vision.sn.	43200	IN	NS	ns2.sky-vision.net.
 skycargo.sn.	43200	IN	NS	ns3.emirates.com.
