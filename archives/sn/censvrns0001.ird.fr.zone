@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436520 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436534 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [11/04/2022 10H20:01]"
+sn.	172800	IN	TXT	"2 RRs processed [11/04/2022 12H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1128,6 +1128,8 @@ allotaxi.sn.	43200	IN	NS	ns1.servconfig.com.
 allotaxi.sn.	43200	IN	NS	ns2.servconfig.com.
 allotech.sn.	172800	IN	NS	ns1.101domain.com.
 allotech.sn.	172800	IN	NS	ns2.101domain.com.
+allservicesvoyages.sn.	172800	IN	NS	ns110.ovh.net.
+allservicesvoyages.sn.	172800	IN	NS	dns110.ovh.net.
 allsix.sn.	43200	IN	NS	a.dns.gandi.net.
 allsix.sn.	43200	IN	NS	b.dns.gandi.net.
 allsix.sn.	43200	IN	NS	c.dns.gandi.net.
@@ -1528,10 +1530,6 @@ aprism.sn.	43200	IN	NS	ns8.jajeuf.com.
 aprosen.sn.	172800	IN	NS	ns.gouv.sn.
 aprosen.sn.	172800	IN	NS	ns2.gouv.sn.
 aprosen.sn.	172800	IN	NS	ns3.gouv.sn.
-aprosi.sn.	172800	IN	NS	ns1.kheweul.net.
-aprosi.sn.	172800	IN	NS	ns2.kheweul.net.
-aprosi.sn.	172800	IN	NS	ns3.kheweul.net.
-aprosi.sn.	172800	IN	NS	ns4.kheweul.net.
 aps.sn.	43200	IN	NS	ns14.ovh.net.
 aps.sn.	43200	IN	NS	dns14.ovh.net.
 apsfd.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -11625,8 +11623,8 @@ lesbaobabs.sn.	43200	IN	NS	sdns2.ovh.net.
 lesbaobabs.sn.	43200	IN	NS	ns386118.ovh.net.
 lesbarbus.sn.	43200	IN	NS	ns101.ovh.net.
 lesbarbus.sn.	43200	IN	NS	dns101.ovh.net.
-lesbatisseurs.sn.	43200	IN	NS	ns200.anycast.me.
-lesbatisseurs.sn.	43200	IN	NS	dns200.anycast.me.
+lesbatisseurs.sn.	172800	IN	NS	ns110.ovh.net.
+lesbatisseurs.sn.	172800	IN	NS	dns110.ovh.net.
 lesbatisseurs.sn.	172800	IN	DS	28972 8 2 ca8e55e4e1fdc1d43b71fee5e6e73e4c6e126c6b4262012de9ae40260a3630ab
 lesbouquetscanalplus.sn.	43200	IN	NS	ns2.observatoiredesmarques.fr.
 lesbouquetscanalplus.sn.	43200	IN	NS	ns3.nameshield.net.
@@ -15266,9 +15264,6 @@ prestech.sn.	43200	IN	NS	ns1.infomaniak.ch.
 prestech.sn.	43200	IN	NS	ns2.infomaniak.ch.
 prestige.sn.	172800	IN	NS	cpanel7.lws-hosting.com.
 prestige.sn.	172800	IN	NS	cpanel8.lws-hosting.com.
-prestige-immo.sn.	43200	IN	NS	ns107.ovh.net.
-prestige-immo.sn.	43200	IN	NS	dns107.ovh.net.
-prestige-immo.sn.	43200	IN	DS	29194 8 2 917b039a24cee2ccbaa07230d1ad2017a83537f89bf995ebef30507e2a53fa7f
 prestigeauto.sn.	172800	IN	NS	ns1.afrowebmaster.com.
 prestigeauto.sn.	172800	IN	NS	ns2.afrowebmaster.com.
 prestigeauto.sn.	172800	IN	NS	ns3.afrowebmaster.com.
@@ -17176,6 +17171,10 @@ senhosting.sn.	172800	IN	NS	ns3.wanekoohost.com.
 senhosting.sn.	172800	IN	NS	ns4.wanekoohost.com.
 senhosting.sn.	172800	IN	NS	ns5.wanekoohost.com.
 senhosting.sn.	172800	IN	NS	ns6.wanekoohost.com.
+ns1.senhosting.sn.	172800	IN	A	37.59.45.38
+ns2.senhosting.sn.	172800	IN	A	158.69.125.86
+ns3.senhosting.sn.	172800	IN	A	51.75.55.173
+ns4.senhosting.sn.	172800	IN	A	144.217.72.198
 senhotel.sn.	43200	IN	NS	ns1.kheweul.net.
 senhotel.sn.	43200	IN	NS	ns2.kheweul.net.
 senhotel.sn.	43200	IN	NS	ns3.kheweul.net.
