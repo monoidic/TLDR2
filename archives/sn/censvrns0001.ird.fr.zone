@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436534 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436546 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [11/04/2022 12H10:02]"
+sn.	172800	IN	TXT	"4 RRs processed [11/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2979,8 +2979,8 @@ brics.sn.	43200	IN	NS	ns200.anycast.me.
 brics.sn.	43200	IN	NS	dns200.anycast.me.
 bridgestone.sn.	172800	IN	NS	rns1.rightsdns.com.
 bridgestone.sn.	172800	IN	NS	rns2.rightsdns.com.
-bridgestone-firestone.sn.	43200	IN	NS	dns1.cscdns.net.
-bridgestone-firestone.sn.	43200	IN	NS	dns2.cscdns.net.
+bridgestone-firestone.sn.	172800	IN	NS	rns1.rightsdns.com.
+bridgestone-firestone.sn.	172800	IN	NS	rns2.rightsdns.com.
 bringme.sn.	172800	IN	NS	ns1.digitalocean.com.
 bringme.sn.	172800	IN	NS	ns2.digitalocean.com.
 bringme.sn.	172800	IN	NS	ns3.digitalocean.com.
@@ -4546,9 +4546,6 @@ consommonslocal.sn.	43200	IN	NS	ns2.a2hosting.com.
 consommonslocal.sn.	43200	IN	NS	ns3.a2hosting.com.
 consommonslocal.sn.	43200	IN	NS	ns4.a2hosting.com.
 consommonslocal.sn.	43200	IN	NS	teranga.tpsnet.org.
-contechs.sn.	43200	IN	NS	ns107.ovh.net.
-contechs.sn.	43200	IN	NS	dns107.ovh.net.
-contechs.sn.	43200	IN	DS	34195 8 2 8d55b8a40edd3f9dca0827bd86fa19c65fe7712e9d642010886d99b4508718aa
 contentsquare.sn.	172800	IN	NS	ns1.markmonitor.com.
 contentsquare.sn.	172800	IN	NS	ns2.markmonitor.com.
 contentsquare.sn.	172800	IN	NS	ns3.markmonitor.com.
@@ -7583,8 +7580,8 @@ firamaconseils.sn.	43200	IN	NS	ns1.kheweul.net.
 firamaconseils.sn.	43200	IN	NS	ns2.kheweul.net.
 firamaconseils.sn.	43200	IN	NS	ns3.kheweul.net.
 firamaconseils.sn.	43200	IN	NS	ns4.kheweul.net.
-firestone.sn.	43200	IN	NS	dns1.cscdns.net.
-firestone.sn.	43200	IN	NS	dns2.cscdns.net.
+firestone.sn.	172800	IN	NS	rns1.rightsdns.com.
+firestone.sn.	172800	IN	NS	rns2.rightsdns.com.
 fisapac.sn.	43200	IN	NS	ns1.kheweul.net.
 fisapac.sn.	43200	IN	NS	ns2.kheweul.net.
 fisapac.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -11308,6 +11305,8 @@ lamad.sn.	43200	IN	NS	ns1.o2switch.net.
 lamad.sn.	43200	IN	NS	ns2.o2switch.net.
 lamaisondubonheur.sn.	43200	IN	NS	dns.medialook.net.
 lamaisondubonheur.sn.	43200	IN	NS	cloud11.medialook.net.
+lamaisonducoran.sn.	172800	IN	NS	ns20.ovh.net.
+lamaisonducoran.sn.	172800	IN	NS	dns20.ovh.net.
 lamaisonduparfum.sn.	172800	IN	NS	ns20.ovh.net.
 lamaisonduparfum.sn.	172800	IN	NS	dns20.ovh.net.
 lamaisonduparfum.sn.	172800	IN	DS	25624 8 2 3ea01cc591bfd348f2cb89a08e78f51b6f84329770b04bf41bf717f4c5365296
@@ -11367,9 +11366,6 @@ laparrilla.sn.	172800	IN	NS	ns20.ovh.net.
 laparrilla.sn.	172800	IN	NS	dns20.ovh.net.
 lapenda.sn.	172800	IN	NS	eisdns1.expertis.sn.
 lapenda.sn.	172800	IN	NS	eisdns2.expertis.sn.
-lapergola.sn.	43200	IN	NS	ns200.anycast.me.
-lapergola.sn.	43200	IN	NS	dns200.anycast.me.
-lapergola.sn.	43200	IN	DS	39709 8 2 3861fd2ad8e5b9349cc2ebf155653f12f3c13bdbdaf678ba14f160de206e232c
 lapetitecavale.sn.	172800	IN	NS	ns1.caurys.net.
 lapetitecavale.sn.	172800	IN	NS	ns2.caurys.net.
 lapetitecote.sn.	43200	IN	NS	ns1.snterra.com.
@@ -12310,6 +12306,10 @@ mansourmotors.sn.	172800	IN	NS	dns103.ovh.net.
 mansourmotors.sn.	172800	IN	DS	202 8 2 302d0c562c3c08555a3d4c3933fbd9b741df3327844a0c1865eb71bda3bf6e55
 maor-technologies.sn.	172800	IN	NS	ns1.o2switch.net.
 maor-technologies.sn.	172800	IN	NS	ns2.o2switch.net.
+maparoisse.sn.	172800	IN	NS	ns1.kheweul.net.
+maparoisse.sn.	172800	IN	NS	ns2.kheweul.net.
+maparoisse.sn.	172800	IN	NS	ns3.kheweul.net.
+maparoisse.sn.	172800	IN	NS	ns4.kheweul.net.
 mapauto.sn.	172800	IN	NS	kobe.ns.cloudflare.com.
 mapauto.sn.	172800	IN	NS	novalee.ns.cloudflare.com.
 mapinvest.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -20382,6 +20382,10 @@ visa.sn.	43200	IN	NS	ns2.dnsvisa.com.
 visa.sn.	43200	IN	NS	ns3.dnsvisa.com.
 visasenegal.sn.	172800	IN	NS	170.ns1.above.com.
 visasenegal.sn.	172800	IN	NS	170.ns2.above.com.
+visible.sn.	172800	IN	NS	ns1.kheweul.net.
+visible.sn.	172800	IN	NS	ns2.kheweul.net.
+visible.sn.	172800	IN	NS	ns3.kheweul.net.
+visible.sn.	172800	IN	NS	ns4.kheweul.net.
 visiocontact.sn.	43200	IN	NS	ns1.kheweul.net.
 visiocontact.sn.	43200	IN	NS	ns2.kheweul.net.
 visiocontact.sn.	43200	IN	NS	ns3.kheweul.net.
