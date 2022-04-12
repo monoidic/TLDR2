@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436775 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436794 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [12/04/2022 22H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [13/04/2022 00H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -764,6 +764,8 @@ afrika-innovation.sn.	43200	IN	NS	ns113.ovh.net.
 afrika-innovation.sn.	43200	IN	NS	dns113.ovh.net.
 afrikannonces.sn.	172800	IN	NS	ns1.cloud-04e47b.managed-vps.net.
 afrikannonces.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
+afrikatic.sn.	172800	IN	NS	eisdns1.expertis.sn.
+afrikatic.sn.	172800	IN	NS	eisdns2.expertis.sn.
 afrikysoft.sn.	172800	IN	NS	ns20.ovh.net.
 afrikysoft.sn.	172800	IN	NS	dns20.ovh.net.
 afrikysoft.sn.	172800	IN	DS	61960 8 2 2d99608a5913b6f45c51e85ed3047250c895ed5ce2f053f764b62753d8a615c3
@@ -1494,6 +1496,8 @@ apnobnsp.sn.	172800	IN	NS	ns1.kheweul.net.
 apnobnsp.sn.	172800	IN	NS	ns2.kheweul.net.
 apnobnsp.sn.	172800	IN	NS	ns3.kheweul.net.
 apnobnsp.sn.	172800	IN	NS	ns4.kheweul.net.
+app-flexe.sn.	172800	IN	NS	eisdns1.expertis.sn.
+app-flexe.sn.	172800	IN	NS	eisdns2.expertis.sn.
 appart.sn.	172800	IN	NS	ns14.ovh.net.
 appart.sn.	172800	IN	NS	dns14.ovh.net.
 appart.sn.	172800	IN	DS	39286 8 2 80df07858c0ccb2acf4490862789ef52dd7ed46ee24823fcad38e37b02c0c7fc
@@ -4571,6 +4575,8 @@ convergence.sn.	43200	IN	NS	ns1.kheweul.net.
 convergence.sn.	43200	IN	NS	ns2.kheweul.net.
 convergence.sn.	43200	IN	NS	ns3.kheweul.net.
 convergence.sn.	43200	IN	NS	ns4.kheweul.net.
+cookandplay.sn.	172800	IN	NS	eisdns1.expertis.sn.
+cookandplay.sn.	172800	IN	NS	eisdns2.expertis.sn.
 coopervision.sn.	43200	IN	NS	ns1.markmonitor.com.
 coopervision.sn.	43200	IN	NS	ns2.markmonitor.com.
 coopervision.sn.	43200	IN	NS	ns3.markmonitor.com.
@@ -5330,6 +5336,7 @@ delphinus.sn.	43200	IN	NS	ns.sonatel.sn.
 delphinus.sn.	43200	IN	NS	ns2.sonatel.sn.
 deltainterim.sn.	172800	IN	NS	ns101.ovh.net.
 deltainterim.sn.	172800	IN	NS	dns101.ovh.net.
+deltainterim.sn.	172800	IN	DS	6079 8 2 9fe4efeec35be90b23dcd85ae4f0bc9137d99cfdcf62da7fe2c5bd84a5fff16c
 deltamedical.sn.	43200	IN	NS	ns.sonatel.sn.
 deltamedical.sn.	43200	IN	NS	ns2.sonatel.sn.
 deltaprotect.sn.	172800	IN	NS	ns5.afriregister.com.
@@ -12193,6 +12200,8 @@ magp.sn.	43200	IN	NS	ns3.kheweul.net.
 magp.sn.	43200	IN	NS	ns4.kheweul.net.
 mah.sn.	43200	IN	NS	ns1.klostudio.com.
 mah.sn.	43200	IN	NS	ns2.klostudio.com.
+maibirni.sn.	172800	IN	NS	eisdns1.expertis.sn.
+maibirni.sn.	172800	IN	NS	eisdns2.expertis.sn.
 maibraagribusiness.sn.	172800	IN	NS	ns1.ascio.com.
 maibraagribusiness.sn.	172800	IN	NS	ns2.ascio.com.
 maibraagribusiness.sn.	172800	IN	NS	ns3.ascio.com.
@@ -12706,8 +12715,6 @@ meinu.sn.	172800	IN	NS	dns103.ovh.net.
 meinu.sn.	172800	IN	DS	65407 8 2 c1602ac70caf5498d16e23fd7c428301c8bf887f75e3a2ba38a26dafde48adaf
 melbet.sn.	43200	IN	NS	dana.ns.cloudflare.com.
 melbet.sn.	43200	IN	NS	damon.ns.cloudflare.com.
-meliora.sn.	172800	IN	NS	domain-expired.planethoster.net.
-meliora.sn.	172800	IN	NS	expired-domain.planethoster.net.
 meloger.sn.	43200	IN	NS	ns1.validname.com.
 meloger.sn.	43200	IN	NS	ns2.validname.com.
 melon.sn.	43200	IN	NS	ns1.register.it.
@@ -14852,6 +14859,8 @@ people.sn.	43200	IN	NS	dns2.wmaker.net.
 people.sn.	43200	IN	NS	dns3.wmaker.net.
 pepam.sn.	43200	IN	NS	sdns2.ovh.net.
 pepam.sn.	43200	IN	NS	vps41218.ovh.net.
+pepi-ferme.sn.	172800	IN	NS	eisdns1.expertis.sn.
+pepi-ferme.sn.	172800	IN	NS	eisdns2.expertis.sn.
 pepiniere.sn.	172800	IN	NS	meg.ns.cloudflare.com.
 pepiniere.sn.	172800	IN	NS	dexter.ns.cloudflare.com.
 pepinieres.sn.	172800	IN	NS	ns16.ovh.net.
@@ -18862,6 +18871,8 @@ symbiose.sn.	43200	IN	NS	ns3.kheweul.net.
 symbiose.sn.	43200	IN	NS	ns4.kheweul.net.
 sympheos.sn.	43200	IN	NS	ns1.markmonitor.com.
 sympheos.sn.	43200	IN	NS	ns3.markmonitor.com.
+synaval.sn.	172800	IN	NS	eisdns1.expertis.sn.
+synaval.sn.	172800	IN	NS	eisdns2.expertis.sn.
 synchronix.sn.	172800	IN	NS	ns1.kheweul.net.
 synchronix.sn.	172800	IN	NS	ns2.kheweul.net.
 synchronix.sn.	172800	IN	NS	ns3.kheweul.net.
