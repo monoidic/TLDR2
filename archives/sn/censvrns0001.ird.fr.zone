@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436715 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436729 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [12/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [12/04/2022 16H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6372,6 +6372,8 @@ edgegroup.sn.	43200	IN	NS	ns3.kheweul.net.
 edgegroup.sn.	43200	IN	NS	ns4.kheweul.net.
 edit.sn.	172800	IN	NS	ian.ns.cloudflare.com.
 edit.sn.	172800	IN	NS	tina.ns.cloudflare.com.
+editionsdidactikos.sn.	172800	IN	NS	ns200.anycast.me.
+editionsdidactikos.sn.	172800	IN	NS	dns200.anycast.me.
 editis.sn.	172800	IN	NS	ns1.validname.com.
 editis.sn.	172800	IN	NS	ns2.validname.com.
 edja.sn.	43200	IN	NS	ns1.caurys.net.
@@ -11307,6 +11309,9 @@ lalastore.sn.	43200	IN	NS	ns3.kheweul.net.
 lalastore.sn.	43200	IN	NS	ns4.kheweul.net.
 lalima.sn.	43200	IN	NS	ns1.caurys.net.
 lalima.sn.	43200	IN	NS	ns2.caurys.net.
+lalinguere.sn.	172800	IN	NS	ns1.francedns.com.
+lalinguere.sn.	172800	IN	NS	ns2.francedns.com.
+lalinguere.sn.	172800	IN	NS	ns3.francedns.com.
 lalumiere.sn.	172800	IN	NS	ns200.anycast.me.
 lalumiere.sn.	172800	IN	NS	dns200.anycast.me.
 lalumiere.sn.	172800	IN	DS	60949 8 2 7674790d8efff65fc8af502dd519134e28735a7567efbf15719abcafc921d581
