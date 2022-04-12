@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436703 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436715 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [12/04/2022 12H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [12/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3717,8 +3717,10 @@ cdmp.sn.	43200	IN	NS	ns113.ovh.net.
 cdmp.sn.	43200	IN	NS	dns113.ovh.net.
 cdn.sn.	43200	IN	NS	kara.ns.cloudflare.com.
 cdn.sn.	43200	IN	NS	ishaan.ns.cloudflare.com.
-cdp.sn.	43200	IN	NS	ns.gouv.sn.
-cdp.sn.	43200	IN	NS	ns.ucad.sn.
+cdp.sn.	172800	IN	NS	ns.gouv.sn.
+cdp.sn.	172800	IN	NS	ns.ucad.sn.
+cdp.sn.	172800	IN	NS	ns2.gouv.sn.
+cdp.sn.	172800	IN	NS	ns3.gouv.sn.
 ceaagrisan.sn.	43200	IN	NS	ns1.kheweul.net.
 ceaagrisan.sn.	43200	IN	NS	ns2.kheweul.net.
 ceaagrisan.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -4082,6 +4084,10 @@ cit.sn.	43200	IN	NS	ns1.kheweul.net.
 cit.sn.	43200	IN	NS	ns2.kheweul.net.
 cit.sn.	43200	IN	NS	ns3.kheweul.net.
 cit.sn.	43200	IN	NS	ns4.kheweul.net.
+citesunies.sn.	172800	IN	NS	ns3.wanekoohost.com.
+citesunies.sn.	172800	IN	NS	ns4.wanekoohost.com.
+citesunies.sn.	172800	IN	NS	ns5.wanekoohost.com.
+citesunies.sn.	172800	IN	NS	ns6.wanekoohost.com.
 citi.sn.	43200	IN	NS	ns.citicorp.com.
 citi.sn.	43200	IN	NS	ns2.citicorp.com.
 citi.sn.	43200	IN	NS	ns5.citicorp.com.
