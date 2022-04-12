@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022040801 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022041201 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -1681,9 +1681,10 @@ cmsm.cv.	28800	IN	NS	ns1.gov.cv.
 cmsm.cv.	28800	IN	NS	ns2.gov.cv.
 cmssm.cv.	28800	IN	NS	ns1.gov.cv.
 cmssm.cv.	28800	IN	NS	ns2.gov.cv.
-cmsv.cv.	28800	IN	NS	ns1.webhs.org.
-cmsv.cv.	28800	IN	NS	ns2.webhs.org.
-cmsv.cv.	28800	IN	NS	ns3.webhs.org.
+cmsv.cv.	28800	IN	NS	ns1.cmsv.cv.
+cmsv.cv.	28800	IN	NS	ns2.cmsv.cv.
+ns1.cmsv.cv.	28800	IN	A	66.29.129.109
+ns2.cmsv.cv.	28800	IN	A	66.29.144.120
 cmt.cv.	28800	IN	NS	ns1.gov.cv.
 cmt.cv.	28800	IN	NS	ns2.gov.cv.
 cmtsn.cv.	28800	IN	NS	ns1.webhs.org.
@@ -2581,10 +2582,10 @@ truniagen.com.cv.	28800	IN	NS	ns02.trademarkarea.com.
 truniagen.com.cv.	28800	IN	NS	ns03.trademarkarea.com.
 tudaki.com.cv.	28800	IN	NS	ns1.dnscpanel.com.
 tudaki.com.cv.	28800	IN	NS	ns2.dnscpanel.com.
-tudor.com.cv.	28800	IN	NS	ns1.p09.dynect.net.
-tudor.com.cv.	28800	IN	NS	ns2.p09.dynect.net.
-tudor.com.cv.	28800	IN	NS	ns3.p09.dynect.net.
-tudor.com.cv.	28800	IN	NS	ns4.p09.dynect.net.
+tudor.com.cv.	28800	IN	NS	dns1.p02.nsone.net.
+tudor.com.cv.	28800	IN	NS	dns2.p02.nsone.net.
+tudor.com.cv.	28800	IN	NS	dns3.p02.nsone.net.
+tudor.com.cv.	28800	IN	NS	dns4.p02.nsone.net.
 tudorwatch.com.cv.	28800	IN	NS	ns1.p09.dynect.net.
 tudorwatch.com.cv.	28800	IN	NS	ns2.p09.dynect.net.
 tudorwatch.com.cv.	28800	IN	NS	ns3.p09.dynect.net.
@@ -2729,8 +2730,8 @@ contasemdia.cv.	28800	IN	NS	ns1.webhs.org.
 contasemdia.cv.	28800	IN	NS	ns2.webhs.org.
 contasemdia.cv.	28800	IN	NS	ns3.webhs.org.
 contasemdia.cv.	28800	IN	NS	ns4.webhs.org.
-contec.cv.	28800	IN	NS	ns69.domaincontrol.com.
-contec.cv.	28800	IN	NS	ns70.domaincontrol.com.
+contec.cv.	28800	IN	NS	ns35.domaincontrol.com.
+contec.cv.	28800	IN	NS	ns36.domaincontrol.com.
 conti.cv.	28800	IN	NS	ns1.mundogest.com.
 conti.cv.	28800	IN	NS	ns2.mundogest.com.
 contrabond.cv.	28800	IN	NS	ns1.dns-parking.com.
@@ -4316,6 +4317,9 @@ haia.cv.	28800	IN	NS	ns1.hostinger.com.
 haia.cv.	28800	IN	NS	ns2.hostinger.com.
 haia.cv.	28800	IN	NS	ns3.hostinger.com.
 haia.cv.	28800	IN	NS	ns4.hostinger.com.
+hal.cv.	28800	IN	NS	ns01.trademarkarea.com.
+hal.cv.	28800	IN	NS	ns02.trademarkarea.com.
+hal.cv.	28800	IN	NS	ns03.trademarkarea.com.
 halcyonair.cv.	28800	IN	NS	ns1.weblx.net.
 halcyonair.cv.	28800	IN	NS	ns2.weblx.net.
 halcyone.cv.	28800	IN	NS	ns1.bh-74.webhostbox.net.
@@ -4669,6 +4673,10 @@ imopraia.cv.	28800	IN	NS	ns1.mundogest.com.
 imopraia.cv.	28800	IN	NS	ns2.mundogest.com.
 imor.cv.	28800	IN	NS	dns1.improxy.com.
 imor.cv.	28800	IN	NS	dns2.improxy.com.
+imostar.cv.	28800	IN	NS	ns1.sitechcv.com.
+imostar.cv.	28800	IN	NS	ns2.sitechcv.com.
+imostar.cv.	28800	IN	NS	ns3.sitechcv.com.
+imostar.cv.	28800	IN	NS	ns4.sitechcv.com.
 imp.cv.	28800	IN	NS	ns1.webhs.org.
 imp.cv.	28800	IN	NS	ns2.webhs.org.
 imp.cv.	28800	IN	NS	ns3.webhs.org.
@@ -6515,9 +6523,10 @@ pj.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 pj.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 placaconstrucoes.cv.	28800	IN	NS	ns1.cabosys.cv.
 placaconstrucoes.cv.	28800	IN	NS	ns2.cabosys.cv.
-plana.cv.	28800	IN	NS	ns1.surf-town.net.
-plana.cv.	28800	IN	NS	ns2.surf-town.net.
-plana.cv.	28800	IN	NS	ns3.surf-town.net.
+plana.cv.	28800	IN	NS	ns1.simply.com.
+plana.cv.	28800	IN	NS	ns2.simply.com.
+plana.cv.	28800	IN	NS	ns3.simply.com.
+plana.cv.	28800	IN	NS	ns4.simply.com.
 plengenharia.cv.	28800	IN	NS	dns1.prime.cv.
 plengenharia.cv.	28800	IN	NS	dns2.prime.cv.
 plus.cv.	28800	IN	NS	ns1.dnscpanel.com.
@@ -6702,6 +6711,10 @@ property.cv.	28800	IN	NS	xvm50648.vps.cloud.tagadab.com.
 mail.property.cv.	28800	IN	A	95.172.8.58
 proseguro.cv.	28800	IN	NS	ns6479.hostgator.com.
 proseguro.cv.	28800	IN	NS	ns6480.hostgator.com.
+proshop.cv.	28800	IN	NS	ns1.sitechcv.com.
+proshop.cv.	28800	IN	NS	ns2.sitechcv.com.
+proshop.cv.	28800	IN	NS	ns3.sitechcv.com.
+proshop.cv.	28800	IN	NS	ns4.sitechcv.com.
 prosol.cv.	28800	IN	NS	ns3.dnstarvos.com.
 prosol.cv.	28800	IN	NS	ns4.dnstarvos.com.
 prosucesso.cv.	28800	IN	NS	ns1.webhs.org.
@@ -7222,8 +7235,8 @@ scryptus1.cv.	28800	IN	NS	ns2.efeito.net.
 scsantamaria.cv.	28800	IN	NS	ns1.site4now.net.
 scsantamaria.cv.	28800	IN	NS	ns2.site4now.net.
 scsantamaria.cv.	28800	IN	NS	ns3.site4now.net.
-sct.cv.	86400	IN	NS	ns1.webs24h.com.
-sct.cv.	86400	IN	NS	ns2.webs24h.com.
+sct.cv.	28800	IN	NS	ns1.webs24h.com.
+sct.cv.	28800	IN	NS	ns2.webs24h.com.
 sdconsultoriafinanceira.cv.	28800	IN	NS	ns1.heliosimobiliaria.com.
 sdconsultoriafinanceira.cv.	28800	IN	NS	ns2.heliosimobiliaria.com.
 sde.cv.	28800	IN	NS	dns1.ibername.com.
@@ -8080,11 +8093,9 @@ tudonumclick.cv.	28800	IN	NS	ns1.linxisp.net.
 tudonumclick.cv.	28800	IN	NS	ns2.linxisp.net.
 tudonumclick.cv.	28800	IN	NS	ns3.linxisp.net.
 tudonumclick.cv.	28800	IN	NS	ns4.linxisp.net.
-tudor.cv.	28800	IN	NS	freedns1.registrar-servers.com.
-tudor.cv.	28800	IN	NS	freedns2.registrar-servers.com.
-tudor.cv.	28800	IN	NS	freedns3.registrar-servers.com.
-tudor.cv.	28800	IN	NS	freedns4.registrar-servers.com.
-tudor.cv.	28800	IN	NS	freedns5.registrar-servers.com.
+tudor.cv.	28800	IN	NS	ns01.trademarkarea.com.
+tudor.cv.	28800	IN	NS	ns02.trademarkarea.com.
+tudor.cv.	28800	IN	NS	ns03.trademarkarea.com.
 tuduli.cv.	28800	IN	NS	da100a.trouble-free.net.
 tuduli.cv.	28800	IN	NS	dn100b.trouble-free.net.
 tuduli.cv.	28800	IN	AAAA	2600:2000:1000::7
