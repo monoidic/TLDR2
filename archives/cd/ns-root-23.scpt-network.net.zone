@@ -1,8 +1,8 @@
-cd.	86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2022041247 3600 600 1209600 3600
+cd.	86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2022041295 3600 600 1209600 3600
 cd.	86400	IN	NS	pch.nic.cd.
 cd.	86400	IN	NS	gransy-anycast1.nic.cd.
 cd.	86400	IN	NS	gransy-anycast2.nic.cd.
-cd.	86400	IN	TXT	"Generation Time: 1649763915"
+cd.	86400	IN	TXT	"Generation Time: 1649807115"
 0.cd.	86400	IN	NS	ns-29.awsdns-03.com.
 0.cd.	86400	IN	NS	ns-918.awsdns-50.net.
 0.cd.	86400	IN	NS	ns-1419.awsdns-49.org.
@@ -404,15 +404,15 @@ abnamro.cd.	86400	IN	NS	g4.nstld.com.
 abnamro.cd.	86400	IN	NS	l4.nstld.com.
 absolut.cd.	86400	IN	NS	dns1.cscdns.net.
 absolut.cd.	86400	IN	NS	dns2.cscdns.net.
-ac.cd.	86400	IN	TXT	"Generation Time: 1649763915"
+ac.cd.	86400	IN	TXT	"Generation Time: 1649807115"
 abil.ac.cd.	86400	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	86400	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	86400	IN	NS	cpanel11.lws-hosting.com.
 angazainstitute.ac.cd.	86400	IN	NS	cpanel12.lws-hosting.com.
 ascitech.ac.cd.	86400	IN	NS	ns16.ovh.net.
 ascitech.ac.cd.	86400	IN	NS	dns16.ovh.net.
-bnn.ac.cd.	86400	IN	NS	parking1.ovh.net.
-bnn.ac.cd.	86400	IN	NS	parking2.ovh.net.
+bnn.ac.cd.	86400	IN	NS	ns110.ovh.net.
+bnn.ac.cd.	86400	IN	NS	dns110.ovh.net.
 bozo.ac.cd.	86400	IN	NS	ns1.shivanet.net.
 bozo.ac.cd.	86400	IN	NS	ns2.shivanet.net.
 cered-ulc.ac.cd.	86400	IN	NS	ns1.h-43.com.
@@ -748,8 +748,8 @@ adr.cd.	86400	IN	NS	ns1.mongwd.com.
 adr.cd.	86400	IN	NS	ns2.mongwd.com.
 adresses.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 adresses.cd.	86400	IN	NS	arch.ns.cloudflare.com.
-adv.cd.	86400	IN	NS	parking1.ovh.net.
-adv.cd.	86400	IN	NS	parking2.ovh.net.
+adv.cd.	86400	IN	NS	ns110.ovh.net.
+adv.cd.	86400	IN	NS	dns110.ovh.net.
 advan.cd.	86400	IN	NS	mns01.domaincontrol.com.
 advan.cd.	86400	IN	NS	mns02.domaincontrol.com.
 adwc.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
@@ -1783,6 +1783,8 @@ balance.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 balance.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 balobaki.cd.	86400	IN	NS	ns1.bluehost.com.
 balobaki.cd.	86400	IN	NS	ns2.bluehost.com.
+balobakicheck.cd.	86400	IN	NS	ns1.bluehost.com.
+balobakicheck.cd.	86400	IN	NS	ns2.bluehost.com.
 banaboende.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 banaboende.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 banair.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
@@ -2280,8 +2282,8 @@ bnamed.cd.	86400	IN	NS	ns.nscluster.eu.
 bnamed.cd.	86400	IN	NS	ns.nscluster.nl.
 bnamed.cd.	86400	IN	NS	ns.nscluster.uk.
 bnamed.cd.	86400	IN	NS	ns.anycastcluster.com.
-bnn.cd.	86400	IN	NS	parking1.ovh.net.
-bnn.cd.	86400	IN	NS	parking2.ovh.net.
+bnn.cd.	86400	IN	NS	ns110.ovh.net.
+bnn.cd.	86400	IN	NS	dns110.ovh.net.
 bobbibrown.cd.	86400	IN	NS	ns2.elcompanies.com.
 bobbibrown.cd.	86400	IN	NS	ns3.elcompanies.com.
 bobbibrown.cd.	86400	IN	NS	ns4.elcompanies.com.
@@ -3422,7 +3424,7 @@ colruyt-export.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	86400	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	86400	IN	NS	ns2.mypandos.com.
-com.cd.	86400	IN	TXT	"Generation Time: 1649763915"
+com.cd.	86400	IN	TXT	"Generation Time: 1649807115"
 14trees.com.cd.	86400	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	86400	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	86400	IN	NS	ns02ch.holcim.com.
@@ -3859,11 +3861,15 @@ covers.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 covers.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 covestro.cd.	86400	IN	NS	pdns1.cscdns.net.
 covestro.cd.	86400	IN	NS	pdns2.cscdns.net.
+covid.cd.	86400	IN	NS	ns110.ovh.net.
+covid.cd.	86400	IN	NS	dns110.ovh.net.
 covid-19.cd.	86400	IN	NS	ns1.site4now.net.
 covid-19.cd.	86400	IN	NS	ns2.site4now.net.
 covid-19.cd.	86400	IN	NS	ns3.site4now.net.
 covid-19info.cd.	86400	IN	NS	ns53.domaincontrol.com.
 covid-19info.cd.	86400	IN	NS	ns54.domaincontrol.com.
+covid19.cd.	86400	IN	NS	ns110.ovh.net.
+covid19.cd.	86400	IN	NS	dns110.ovh.net.
 covid19-map.cd.	86400	IN	NS	ns1.covid19-map.cd.
 covid19-map.cd.	86400	IN	NS	ns2.covid19-map.cd.
 ns1.covid19-map.cd.	86400	IN	A	63.250.44.114
@@ -4304,6 +4310,8 @@ devjobs.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 devops.cd.	86400	IN	NS	ns1.instradns.com.
 devops.cd.	86400	IN	NS	ns2.instradns.com.
 devops.cd.	86400	IN	NS	ns3.instradns.com.
+devsolaire.cd.	86400	IN	NS	ns110.ovh.net.
+devsolaire.cd.	86400	IN	NS	dns110.ovh.net.
 dfiles.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 dfiles.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 dgcmp.cd.	86400	IN	NS	freedns1.registrar-servers.com.
@@ -4910,9 +4918,9 @@ edtech-243.cd.	86400	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	86400	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	86400	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	86400	IN	NS	cp2.dnshostservices.com.
-edu.cd.	86400	IN	TXT	"Generation Time: 1649763915"
-bnn.edu.cd.	86400	IN	NS	parking1.ovh.net.
-bnn.edu.cd.	86400	IN	NS	parking2.ovh.net.
+edu.cd.	86400	IN	TXT	"Generation Time: 1649807115"
+bnn.edu.cd.	86400	IN	NS	ns110.ovh.net.
+bnn.edu.cd.	86400	IN	NS	dns110.ovh.net.
 egov.edu.cd.	86400	IN	NS	ns1.scpt-network.cd.
 egov.edu.cd.	86400	IN	NS	ns2.scpt-network.cd.
 gsrecsha.edu.cd.	86400	IN	NS	ns1.h-43.com.
@@ -5130,6 +5138,8 @@ enerdc.cd.	86400	IN	NS	ns1.dotcd.net.
 enerdc.cd.	86400	IN	NS	ns2.dotcd.net.
 energie.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 energie.cd.	86400	IN	NS	arch.ns.cloudflare.com.
+energiesolaire.cd.	86400	IN	NS	ns110.ovh.net.
+energiesolaire.cd.	86400	IN	NS	dns110.ovh.net.
 energyst.cd.	86400	IN	NS	ns1.openprovider.nl.
 energyst.cd.	86400	IN	NS	ns2.openprovider.be.
 energyst.cd.	86400	IN	NS	ns3.openprovider.eu.
@@ -6464,7 +6474,7 @@ gothere.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 gothere.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 gourmandine.cd.	86400	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	86400	IN	NS	ns2.uniteddns.net.
-gouv.cd.	86400	IN	TXT	"Generation Time: 1649763915"
+gouv.cd.	86400	IN	TXT	"Generation Time: 1649807116"
 acorep.gouv.cd.	86400	IN	NS	ns1.acorep.gouv.cd.
 acorep.gouv.cd.	86400	IN	NS	ns2.acorep.gouv.cd.
 ns1.acorep.gouv.cd.	86400	IN	A	75.119.139.203
@@ -6759,7 +6769,7 @@ gouvtanganyika.cd.	86400	IN	NS	dns13.ovh.net.
 gov.cd.	86400	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	86400	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	86400	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	86400	IN	TXT	"Generation Time: 1649763915"
+gov.cd.	86400	IN	TXT	"Generation Time: 1649807115"
 egov.gov.cd.	86400	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	86400	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	86400	IN	NS	ns1.scpt-network.cd.
@@ -10941,7 +10951,7 @@ nesys.cd.	86400	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	86400	IN	NS	ns2.m77.siteground.biz.
 net.cd.	86400	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	86400	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	86400	IN	TXT	"Generation Time: 1649763915"
+net.cd.	86400	IN	TXT	"Generation Time: 1649807115"
 egov.net.cd.	86400	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	86400	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	86400	IN	NS	ns1.afraid.org.
@@ -11626,7 +11636,7 @@ ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	86400	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	86400	IN	NS	dns2.namecheaphosting.com.
-org.cd.	86400	IN	TXT	"Generation Time: 1649763915"
+org.cd.	86400	IN	TXT	"Generation Time: 1649807115"
 csc.org.cd.	86400	IN	NS	ns1.4levels.net.
 csc.org.cd.	86400	IN	NS	ns2.4levels.net.
 egov.org.cd.	86400	IN	NS	ns1.scpt-network.cd.
@@ -15283,6 +15293,8 @@ unilasallerdc.cd.	86400	IN	NS	ns4017.mochahost.com.
 unionrepublicaine.cd.	86400	IN	NS	ns1.instradns.com.
 unionrepublicaine.cd.	86400	IN	NS	ns2.instradns.com.
 unionrepublicaine.cd.	86400	IN	NS	ns3.instradns.com.
+uniplaques.cd.	86400	IN	NS	ns1.webnetafrica.net.
+uniplaques.cd.	86400	IN	NS	ns2.webnetafrica.net.
 uniq.cd.	86400	IN	NS	ns51.domaincontrol.com.
 uniq.cd.	86400	IN	NS	ns52.domaincontrol.com.
 unique.cd.	86400	IN	NS	ns1.domainit.de.
