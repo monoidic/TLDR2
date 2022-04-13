@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436912 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436931 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [13/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"4 RRs processed [13/04/2022 16H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4132,6 +4132,10 @@ civisme.sn.	172800	IN	NS	ns1.dns-parking.com.
 civisme.sn.	172800	IN	NS	ns2.dns-parking.com.
 cjs.sn.	172800	IN	NS	ns1.vultr.com.
 cjs.sn.	172800	IN	NS	ns2.vultr.com.
+ckconsulting.sn.	172800	IN	NS	ns3.wanekoohost.com.
+ckconsulting.sn.	172800	IN	NS	ns4.wanekoohost.com.
+ckconsulting.sn.	172800	IN	NS	ns5.wanekoohost.com.
+ckconsulting.sn.	172800	IN	NS	ns6.wanekoohost.com.
 clan-campbell.sn.	43200	IN	NS	dns1.cscdns.net.
 clan-campbell.sn.	43200	IN	NS	dns2.cscdns.net.
 clancampbell.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -10620,6 +10624,8 @@ jumiatravel.sn.	43200	IN	NS	bob.ns.cloudflare.com.
 jumiatravel.sn.	43200	IN	NS	dana.ns.cloudflare.com.
 jump.sn.	172800	IN	NS	ns8.wixdns.net.
 jump.sn.	172800	IN	NS	ns9.wixdns.net.
+jumtu.sn.	172800	IN	NS	ns1.snterra.com.
+jumtu.sn.	172800	IN	NS	ns2.snterra.com.
 jungle.sn.	43200	IN	NS	ns1.caurys.net.
 jungle.sn.	43200	IN	NS	ns2.caurys.net.
 junia.sn.	43200	IN	NS	ns107.ovh.net.
@@ -11654,9 +11660,6 @@ lesbaobabs.sn.	43200	IN	NS	sdns2.ovh.net.
 lesbaobabs.sn.	43200	IN	NS	ns386118.ovh.net.
 lesbarbus.sn.	43200	IN	NS	ns101.ovh.net.
 lesbarbus.sn.	43200	IN	NS	dns101.ovh.net.
-lesbatisseurs.sn.	172800	IN	NS	ns110.ovh.net.
-lesbatisseurs.sn.	172800	IN	NS	dns110.ovh.net.
-lesbatisseurs.sn.	172800	IN	DS	28972 8 2 ca8e55e4e1fdc1d43b71fee5e6e73e4c6e126c6b4262012de9ae40260a3630ab
 lesbouquetscanalplus.sn.	43200	IN	NS	ns2.observatoiredesmarques.fr.
 lesbouquetscanalplus.sn.	43200	IN	NS	ns3.nameshield.net.
 lesbouquetscanalplus.sn.	43200	IN	NS	obs.ns1.fr.
@@ -19299,6 +19302,10 @@ terredesenegal.sn.	43200	IN	NS	ns3.francedns.com.
 terreprecieuse.sn.	43200	IN	NS	ns107.ovh.net.
 terreprecieuse.sn.	43200	IN	NS	dns107.ovh.net.
 terreprecieuse.sn.	43200	IN	DS	5692 8 2 f622077fb9b5a38991a1f3f0ab9e834662104d836258cf5cf02f87ff7450ccbe
+terresarl.sn.	172800	IN	NS	ns1.ascio.com.
+terresarl.sn.	172800	IN	NS	ns2.ascio.com.
+terresarl.sn.	172800	IN	NS	ns3.ascio.com.
+terresarl.sn.	172800	IN	NS	ns4.ascio.com.
 terresdesenegal.sn.	43200	IN	NS	ns1.francedns.com.
 terresdesenegal.sn.	43200	IN	NS	ns2.francedns.com.
 terresdesenegal.sn.	43200	IN	NS	ns3.francedns.com.
