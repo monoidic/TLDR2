@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436867 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436883 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [13/04/2022 08H20:02]"
+sn.	172800	IN	TXT	"3 RRs processed [13/04/2022 10H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5493,6 +5493,9 @@ diacksaoentreprise.sn.	172800	IN	NS	ns1.contabo.net.
 diacksaoentreprise.sn.	172800	IN	NS	ns2.contabo.net.
 diacksaoentreprise.sn.	172800	IN	NS	ns3.contabo.net.
 diadistribution.sn.	172800	IN	A	162.241.27.64
+diagbox.sn.	172800	IN	NS	ns1.gandi.net.
+diagbox.sn.	172800	IN	NS	ns2.gandi.net.
+diagbox.sn.	172800	IN	NS	ns3.gandi.net.
 diagram.sn.	172800	IN	NS	ns16.ovh.net.
 diagram.sn.	172800	IN	NS	dns16.ovh.net.
 diagram.sn.	172800	IN	DS	58159 8 2 46ed91fc4c2a246ca31369d15bf5c3bf257feefa4a5aef4f4f8750ad9c94830a
@@ -17120,9 +17123,9 @@ senemeca.sn.	43200	IN	NS	ns17.ovh.net.
 senemeca.sn.	43200	IN	NS	dns17.ovh.net.
 senemusic.sn.	43200	IN	NS	ns14.ovh.net.
 senemusic.sn.	43200	IN	NS	dns14.ovh.net.
-senenews.sn.	43200	IN	NS	ns107.ovh.net.
-senenews.sn.	43200	IN	NS	dns107.ovh.net.
-senenews.sn.	43200	IN	DS	9799 8 2 f7d219e6a4eca902812a09b114b17ebad5aa51612bc50f96cf8fdc30e49381c2
+senenews.sn.	172800	IN	NS	ns107.ovh.net.
+senenews.sn.	172800	IN	NS	dns107.ovh.net.
+senenews.sn.	172800	IN	DS	9799 8 2 f7d219e6a4eca902812a09b114b17ebad5aa51612bc50f96cf8fdc30e49381c2
 senenow.sn.	43200	IN	NS	ns921.websitewelcome.com.
 senenow.sn.	43200	IN	NS	ns922.websitewelcome.com.
 senenum.sn.	172800	IN	NS	ns.gouv.sn.
