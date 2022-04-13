@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436931 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436945 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"4 RRs processed [13/04/2022 16H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [13/04/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -141,6 +141,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2sweb.sn.	172800	IN	NS	ns6.wanekoohost.com.
 2tf.sn.	43200	IN	NS	ns102.ovh.net.
 2tf.sn.	43200	IN	NS	dns102.ovh.net.
+2xbet.sn.	172800	IN	NS	ns1.kheweul.net.
+2xbet.sn.	172800	IN	NS	ns2.kheweul.net.
+2xbet.sn.	172800	IN	NS	ns3.kheweul.net.
+2xbet.sn.	172800	IN	NS	ns4.kheweul.net.
 313services.sn.	172800	IN	NS	ns1.o2switch.net.
 313services.sn.	172800	IN	NS	ns2.o2switch.net.
 333.sn.	172800	IN	NS	ns5.afriregister.co.ke.
@@ -428,6 +432,8 @@ acisarl.sn.	43200	IN	NS	ns1.kheweul.net.
 acisarl.sn.	43200	IN	NS	ns2.kheweul.net.
 acisarl.sn.	43200	IN	NS	ns3.kheweul.net.
 acisarl.sn.	43200	IN	NS	ns4.kheweul.net.
+acisenegal.sn.	172800	IN	NS	ns200.anycast.me.
+acisenegal.sn.	172800	IN	NS	dns200.anycast.me.
 acl.sn.	43200	IN	NS	ns200.anycast.me.
 acl.sn.	43200	IN	NS	dns200.anycast.me.
 acmarsh.sn.	43200	IN	NS	ns.ovh.net.
@@ -2405,6 +2411,10 @@ bece.sn.	172800	IN	NS	ns3.kheweul.net.
 bece.sn.	172800	IN	NS	ns4.kheweul.net.
 becid.sn.	172800	IN	NS	ns104.ovh.net.
 becid.sn.	172800	IN	NS	dns104.ovh.net.
+beda.sn.	172800	IN	NS	ns3.wanekoohost.com.
+beda.sn.	172800	IN	NS	ns4.wanekoohost.com.
+beda.sn.	172800	IN	NS	ns5.wanekoohost.com.
+beda.sn.	172800	IN	NS	ns6.wanekoohost.com.
 beemachines.sn.	43200	IN	NS	ns1.mediatemple.net.
 beemachines.sn.	43200	IN	NS	ns2.mediatemple.net.
 beernde.sn.	43200	IN	NS	ns1.kheweul.net.
