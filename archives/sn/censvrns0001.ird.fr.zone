@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437057 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437073 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/04/2022 08H10:01]"
+sn.	172800	IN	TXT	"2 RRs processed [14/04/2022 10H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -426,6 +426,8 @@ acias.sn.	43200	IN	NS	m001.skynode.pl.
 acibadem.sn.	172800	IN	NS	ns1.turkticaret.net.
 acibadem.sn.	172800	IN	NS	ns2.turkticaret.net.
 acibadem.sn.	172800	IN	NS	ns3.turkticaret.net.
+aciinformatique.sn.	172800	IN	NS	eisdns1.expertis.sn.
+aciinformatique.sn.	172800	IN	NS	eisdns2.expertis.sn.
 acis.sn.	43200	IN	NS	ns1.o2switch.net.
 acis.sn.	43200	IN	NS	ns2.o2switch.net.
 acisarl.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -1919,6 +1921,8 @@ attijariwestafrica.sn.	43200	IN	NS	dns2.cscdns.net.
 attirance.sn.	172800	IN	NS	ns200.anycast.me.
 attirance.sn.	172800	IN	NS	dns200.anycast.me.
 attirance.sn.	172800	IN	DS	13072 8 2 5fe487c5ae748d924c74e2f150bf784d0f18650318d93c5a210ed248f6d00d5e
+attitu2group.sn.	172800	IN	NS	eisdns1.expertis.sn.
+attitu2group.sn.	172800	IN	NS	eisdns2.expertis.sn.
 atts.sn.	172800	IN	NS	ns100.ovh.net.
 atts.sn.	172800	IN	NS	dns100.ovh.net.
 atts.sn.	172800	IN	DS	60721 8 2 229835445e8f644d23e1deda919c3cda133dbecda7e8b9c061d965ebee41cdbc
@@ -5685,6 +5689,8 @@ digitall.sn.	43200	IN	NS	ns2.netim.net.
 digitall.sn.	43200	IN	NS	ns3.netim.net.
 digitall.sn.	43200	IN	NS	ns4.netim.net.
 digitall.sn.	43200	IN	NS	ns5.netim.net.
+digitallsolutions.sn.	172800	IN	NS	eisdns1.expertis.sn.
+digitallsolutions.sn.	172800	IN	NS	eisdns2.expertis.sn.
 digitalnews.sn.	43200	IN	NS	eisdns1.expertis.sn.
 digitalnews.sn.	43200	IN	NS	eisdns2.expertis.sn.
 digitalprocess.sn.	172800	IN	NS	ns112.ovh.net.
@@ -7290,6 +7296,8 @@ fabrimetal.sn.	43200	IN	NS	pdns06.domaincontrol.com.
 fabriquesimplon.sn.	172800	IN	NS	ns14.ovh.net.
 fabriquesimplon.sn.	172800	IN	NS	dns14.ovh.net.
 fabriquesimplon.sn.	172800	IN	DS	45322 8 2 2a0bdce1f3f87f796f99cf2c7314f6c14fb88257577386f60a58d0a34820c15d
+fabulux.sn.	172800	IN	NS	eisdns1.expertis.sn.
+fabulux.sn.	172800	IN	NS	eisdns2.expertis.sn.
 face.sn.	43200	IN	NS	ns1.servconfig.com.
 face.sn.	43200	IN	NS	ns2.servconfig.com.
 face-solutions.sn.	172800	IN	NS	ns16.ovh.net.
@@ -8790,6 +8798,8 @@ groupetawhid.sn.	43200	IN	NS	ns1.kheweul.net.
 groupetawhid.sn.	43200	IN	NS	ns2.kheweul.net.
 groupetawhid.sn.	43200	IN	NS	ns3.kheweul.net.
 groupetawhid.sn.	43200	IN	NS	ns4.kheweul.net.
+groupetechnoflash.sn.	172800	IN	NS	eisdns1.expertis.sn.
+groupetechnoflash.sn.	172800	IN	NS	eisdns2.expertis.sn.
 groupetqg.sn.	43200	IN	NS	ns4.jokko-hosting.com.
 groupetqg.sn.	43200	IN	NS	ns7.jokko-hosting.com.
 groupetransair.sn.	43200	IN	NS	ns107.ovh.net.
@@ -10608,9 +10618,11 @@ julaya.sn.	43200	IN	NS	ns5.francedns.com.
 jules.sn.	43200	IN	NS	ns0.ordipat.fr.
 jules.sn.	43200	IN	NS	ns2.ordipat.fr.
 jules.sn.	43200	IN	NS	ns3.ordipat.fr.
-julesfashion.sn.	172800	IN	NS	ns3.wanekoohost.com.
-julesfashion.sn.	172800	IN	NS	ns4.wanekoohost.com.
-julesfashion.sn.	172800	IN	NS	ns5.wanekoohost.com.
+julesfashion.sn.	172800	IN	NS	freedns1.registrar-servers.com.
+julesfashion.sn.	172800	IN	NS	freedns2.registrar-servers.com.
+julesfashion.sn.	172800	IN	NS	freedns3.registrar-servers.com.
+julesfashion.sn.	172800	IN	NS	freedns4.registrar-servers.com.
+julesfashion.sn.	172800	IN	NS	freedns5.registrar-servers.com.
 julla.sn.	43200	IN	NS	ns1.dns-parking.com.
 julla.sn.	43200	IN	NS	ns2.dns-parking.com.
 jumeirah.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -11742,6 +11754,8 @@ lessentiel.sn.	43200	IN	NS	dns2.wmaker.net.
 lesupreme.sn.	172800	IN	NS	ns102.ovh.net.
 lesupreme.sn.	172800	IN	NS	dns102.ovh.net.
 lesupreme.sn.	172800	IN	DS	20545 8 2 93970242bef2e53bf217e5a8318590245d5ec3e9c4be97bb8d9a4383b197b841
+letechobservateur.sn.	172800	IN	NS	eisdns1.expertis.sn.
+letechobservateur.sn.	172800	IN	NS	eisdns2.expertis.sn.
 letemoinweb.sn.	43200	IN	NS	ns1.kheweul.net.
 letemoinweb.sn.	43200	IN	NS	ns2.kheweul.net.
 letemoinweb.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -16151,8 +16165,6 @@ sadit.sn.	172800	IN	NS	ns110.ovh.net.
 sadit.sn.	172800	IN	NS	dns110.ovh.net.
 saed.sn.	43200	IN	NS	ns.sonatel.sn.
 saed.sn.	43200	IN	NS	ns2.sonatel.sn.
-saes.sn.	43200	IN	NS	sdns2.ovh.net.
-saes.sn.	43200	IN	NS	ns3362327.ip-37-187-73.eu.
 saf.sn.	172800	IN	NS	ns.arc.sn.
 saf.sn.	172800	IN	NS	hosting100.arc.sn.
 saf-ingredients.sn.	172800	IN	NS	ns19.ovh.net.
