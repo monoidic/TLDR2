@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222436991 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437008 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/04/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [14/04/2022 02H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4793,8 +4793,10 @@ creative.sn.	172800	IN	NS	ns5.wanekoohost.com.
 creative.sn.	172800	IN	NS	ns6.wanekoohost.com.
 creative-machinery.sn.	172800	IN	NS	ns101.ovh.net.
 creative-machinery.sn.	172800	IN	NS	dns101.ovh.net.
+creative-machinery.sn.	172800	IN	DS	23440 8 2 15973df45d2364677e014f2387cdf790b07c9a629b990c2848859295de4788a3
 creativetools.sn.	172800	IN	NS	ns200.anycast.me.
 creativetools.sn.	172800	IN	NS	dns200.anycast.me.
+creativetools.sn.	172800	IN	DS	24322 8 2 d5a37a36decec746204628bc910427c1b7abffe10d989f8f3954e075195f3cf7
 creditkash-mobile.sn.	43200	IN	NS	ns1.wtservers.com.
 creditkash-mobile.sn.	43200	IN	NS	ns2.wtservers.com.
 creditkash-mobile.sn.	43200	IN	NS	ns3.wtservers.com.
@@ -12289,8 +12291,8 @@ major-technologies.sn.	172800	IN	NS	dns200.anycast.me.
 major-technologies.sn.	172800	IN	DS	21565 8 2 5bbd04ae7dbe1d497df0fe12a5a46287fa13e487eaf41a4067543fb1db1dd379
 makedom.sn.	43200	IN	NS	ns104.ovh.net.
 makedom.sn.	43200	IN	NS	dns104.ovh.net.
-makeovertherapy.sn.	172800	IN	NS	ns1.101domain.com.
-makeovertherapy.sn.	172800	IN	NS	ns2.101domain.com.
+makeovertherapy.sn.	172800	IN	NS	cosmin.ns.cloudflare.com.
+makeovertherapy.sn.	172800	IN	NS	kehlani.ns.cloudflare.com.
 makkity.sn.	43200	IN	NS	ns200.anycast.me.
 makkity.sn.	43200	IN	NS	dns200.anycast.me.
 makkity.sn.	172800	IN	DS	18730 8 2 075e88de066a80ca0ad88eef3984cad7f0003dabc8e12f97f9673621096f49a7
