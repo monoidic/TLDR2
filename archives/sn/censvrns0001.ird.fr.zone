@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437089 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437107 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/04/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [14/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5886,6 +5886,8 @@ dmi.sn.	43200	IN	DS	54319 8 2 dd7440864b408eb5c8a3c86ae93b94e397c173c0f1062291e0
 dmo.sn.	172800	IN	NS	ns1.dreamhost.com.
 dmo.sn.	172800	IN	NS	ns2.dreamhost.com.
 dmo.sn.	172800	IN	NS	ns3.dreamhost.com.
+dmouhibine.sn.	172800	IN	NS	ns1.caurys.net.
+dmouhibine.sn.	172800	IN	NS	ns2.caurys.net.
 dmssenegal.sn.	172800	IN	NS	ns200.anycast.me.
 dmssenegal.sn.	172800	IN	NS	dns200.anycast.me.
 dmwm.sn.	43200	IN	NS	ns1.netim.net.
@@ -14806,11 +14808,11 @@ pastefthiesnord.sn.	172800	IN	NS	ns6.wanekoohost.com.
 pasteur.sn.	43200	IN	NS	mail.pasteur.sn.
 pasteur.sn.	43200	IN	NS	jolof.pasteur.sn.
 pasteur.sn.	43200	IN	NS	jambour.pasteur.sn.
-pasteur.sn.	172800	IN	DS	38388 7 1 9a89dd72e2bbda8a144f561f72887773404c06c7
-pasteur.sn.	172800	IN	DS	38388 7 2 2070424b92cc3892e4a0b151e6c0dbe861a96129e54faec09154b8d557f34794
-jambour.pasteur.sn.	43200	IN	A	41.214.73.181
-jolof.pasteur.sn.	43200	IN	A	41.214.73.180
-mail.pasteur.sn.	43200	IN	A	41.214.73.180
+pasteur.sn.	172800	IN	DS	8920 7 1 4cb1b887b83d456d75754aa616eb1f4abf8787af
+pasteur.sn.	172800	IN	DS	8920 7 2 a6c54571f734f6d09109efbf9df3155bab91f00d7a18c0b4c4130071a5c342b5
+jambour.pasteur.sn.	172800	IN	A	213.154.75.74
+jolof.pasteur.sn.	172800	IN	A	213.154.75.74
+mail.pasteur.sn.	172800	IN	A	213.154.75.74
 pastis-51.sn.	172800	IN	NS	dns1.cscdns.net.
 pastis-51.sn.	172800	IN	NS	dns2.cscdns.net.
 pastis51.sn.	172800	IN	NS	dns1.cscdns.net.
@@ -16736,6 +16738,8 @@ securiteshop.sn.	172800	IN	NS	ns1.kheweul.net.
 securiteshop.sn.	172800	IN	NS	ns2.kheweul.net.
 securiteshop.sn.	172800	IN	NS	ns3.kheweul.net.
 securiteshop.sn.	172800	IN	NS	ns4.kheweul.net.
+securitis.sn.	172800	IN	NS	ns200.anycast.me.
+securitis.sn.	172800	IN	NS	dns200.anycast.me.
 securitytech221.sn.	172800	IN	NS	ns1.md-88.webhostbox.net.
 securitytech221.sn.	172800	IN	NS	ns2.md-88.webhostbox.net.
 securtech.sn.	172800	IN	NS	ns1.kheweul.net.
