@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437165 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437181 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/04/2022 22H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [15/04/2022 00H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2579,6 +2579,10 @@ beyondbyairbnb.sn.	43200	IN	NS	ns1.markmonitor.com.
 beyondbyairbnb.sn.	43200	IN	NS	ns2.markmonitor.com.
 bft.sn.	43200	IN	NS	ns1.kheweul.net.
 bft.sn.	43200	IN	NS	ns2.kheweul.net.
+bgbs-immo.sn.	172800	IN	NS	ns3.wanekoohost.com.
+bgbs-immo.sn.	172800	IN	NS	ns4.wanekoohost.com.
+bgbs-immo.sn.	172800	IN	NS	ns5.wanekoohost.com.
+bgbs-immo.sn.	172800	IN	NS	ns6.wanekoohost.com.
 bgec.sn.	43200	IN	NS	ns200.anycast.me.
 bgec.sn.	43200	IN	NS	dns200.anycast.me.
 bgec.sn.	43200	IN	DS	22726 8 2 80aa78efd3c0739829d05bab8198e286e3e9b5ade96376d4e93a338b464ccd76
@@ -5472,6 +5476,8 @@ devlink.sn.	43200	IN	NS	ns1.eurodns.com.
 devlink.sn.	43200	IN	NS	ns2.eurodns.com.
 devlink.sn.	43200	IN	NS	ns3.eurodns.com.
 devlink.sn.	43200	IN	NS	ns4.eurodns.com.
+dfmj.sn.	172800	IN	NS	ns9.lwsdns.com.
+dfmj.sn.	172800	IN	NS	ns10.lwsdns.com.
 dgase.sn.	172800	IN	NS	nsa.n0c.com.
 dgase.sn.	172800	IN	NS	nsb.n0c.com.
 dgase.sn.	172800	IN	NS	nsc.n0c.com.
@@ -8447,6 +8453,8 @@ globalinvesttrading.sn.	172800	IN	NS	nsb.planethoster.net.
 globalinvesttrading.sn.	172800	IN	NS	nsc.planethoster.net.
 globalizegroup.sn.	172800	IN	NS	ns21.canspace.ca.
 globalizegroup.sn.	172800	IN	NS	ns22.canspace.ca.
+globalmbekte.sn.	172800	IN	NS	ns9.lwsdns.com.
+globalmbekte.sn.	172800	IN	NS	ns10.lwsdns.com.
 globalnews.sn.	43200	IN	NS	ns1.snterra.com.
 globalnews.sn.	43200	IN	NS	ns2.snterra.com.
 globalpharma.sn.	43200	IN	NS	ns104.ovh.net.
@@ -19274,6 +19282,7 @@ teranga-experts.sn.	172800	IN	NS	ns-123-c.gandi.net.
 teranga-experts.sn.	172800	IN	NS	ns-252-b.gandi.net.
 teranga-house.sn.	172800	IN	NS	ns200.anycast.me.
 teranga-house.sn.	172800	IN	NS	dns200.anycast.me.
+teranga-house.sn.	172800	IN	DS	54037 8 2 913f312b95f7e1b13a087a8d4db3bc76ca28c467fda8d6f0e1823b5c43cbb89b
 teranga-pasteur.sn.	172800	IN	NS	ns1.wordpress.com.
 teranga-pasteur.sn.	172800	IN	NS	ns2.wordpress.com.
 teranga-pasteur.sn.	172800	IN	NS	ns3.wordpress.com.
