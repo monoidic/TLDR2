@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022041301 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022041401 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -709,6 +709,12 @@ bancobic.cv.	28800	IN	NS	ns1.ptempresas.pt.
 bancobic.cv.	28800	IN	NS	ns2.ptempresas.pt.
 bancobicifi.cv.	28800	IN	NS	ns1.ptempresas.pt.
 bancobicifi.cv.	28800	IN	NS	ns2.ptempresas.pt.
+bancodotempo.cv.	28800	IN	A	5.189.191.29
+bancodotempo.cv.	28800	IN	A	79.143.182.242
+bancodotempo.cv.	28800	IN	NS	ns1.contabo.net.
+bancodotempo.cv.	28800	IN	NS	ns2.contabo.net.
+bancodotempo.cv.	28800	IN	NS	ns3.contabo.net.
+bancodotempo.cv.	28800	IN	AAAA	2a02:c205:0:891::1
 bancointernacional.cv.	28800	IN	NS	ns1.bancointernacional.cv.
 bancointernacional.cv.	28800	IN	NS	ns2.bancointernacional.cv.
 bancointernacional.cv.	28800	IN	NS	ns3.bancointernacional.cv.
@@ -833,8 +839,8 @@ bfc.cv.	28800	IN	NS	dns4.ibername.net.
 bi.cv.	28800	IN	NS	ns.bi.cv.
 bi.cv.	28800	IN	NS	ns1.tmais.cv.
 ns.bi.cv.	28800	IN	A	41.79.125.100
-bic.cv.	28800	IN	NS	ns1.es71.siteground.eu.
-bic.cv.	28800	IN	NS	ns2.es71.siteground.eu.
+bic.cv.	28800	IN	NS	ns1.siteground.net.
+bic.cv.	28800	IN	NS	ns2.siteground.net.
 bidvest.cv.	28800	IN	A	45.79.129.26
 bidvest.cv.	28800	IN	NS	ns1.lexsynergy.net.
 bidvest.cv.	28800	IN	NS	ns2.lexsynergy.us.
@@ -4516,8 +4522,8 @@ idea.cv.	28800	IN	NS	ns1.mysecurecloudhost.com.
 idea.cv.	28800	IN	NS	ns2.mysecurecloudhost.com.
 idea.cv.	28800	IN	NS	ns3.mysecurecloudhost.com.
 idea.cv.	28800	IN	NS	ns4.mysecurecloudhost.com.
-ideia.cv.	28800	IN	NS	ns1.es73.siteground.eu.
-ideia.cv.	28800	IN	NS	ns2.es73.siteground.eu.
+ideia.cv.	28800	IN	NS	ns1.siteground.net.
+ideia.cv.	28800	IN	NS	ns2.siteground.net.
 ideia-atlantico.cv.	28800	IN	NS	ns1.webhs.org.
 ideia-atlantico.cv.	28800	IN	NS	ns2.webhs.org.
 ideia-atlantico.cv.	28800	IN	NS	ns3.webhs.org.
@@ -5223,8 +5229,8 @@ loft.cv.	28800	IN	NS	ns3.webhs.org.
 loft.cv.	28800	IN	NS	ns4.webhs.org.
 loftcasa.cv.	28800	IN	NS	ns3.dnstarvos.com.
 loftcasa.cv.	28800	IN	NS	ns4.dnstarvos.com.
-logoprint.cv.	28800	IN	NS	ns1.am20.siteground.biz.
-logoprint.cv.	28800	IN	NS	ns2.am20.siteground.biz.
+logoprint.cv.	28800	IN	NS	ns1.siteground.net.
+logoprint.cv.	28800	IN	NS	ns2.siteground.net.
 logout.cv.	28800	IN	NS	ns1.webhs.org.
 logout.cv.	28800	IN	NS	ns2.webhs.org.
 logout.cv.	28800	IN	NS	ns3.webhs.org.
@@ -5314,6 +5320,8 @@ mainservice.cv.	28800	IN	NS	ns2.mainservice.pt.
 mainvest.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 mainvest.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 mainvest.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
+maistech.cv.	28800	IN	NS	ns1.vercel-dns.com.
+maistech.cv.	28800	IN	NS	ns2.vercel-dns.com.
 maj.cv.	28800	IN	NS	b186ns1.hocnet.pt.
 maj.cv.	28800	IN	NS	b186ns2.hocnet.pt.
 make.cv.	28800	IN	NS	chad.ns.cloudflare.com.
@@ -6796,8 +6804,8 @@ quintaojuara.cv.	28800	IN	NS	ns4.webhs.org.
 r3c.cv.	28800	IN	NS	ns01.trademarkarea.com.
 r3c.cv.	28800	IN	NS	ns02.trademarkarea.com.
 r3c.cv.	28800	IN	NS	ns03.trademarkarea.com.
-ra-po.cv.	28800	IN	NS	ns1.es44.siteground.eu.
-ra-po.cv.	28800	IN	NS	ns2.es44.siteground.eu.
+ra-po.cv.	28800	IN	NS	ns1.siteground.net.
+ra-po.cv.	28800	IN	NS	ns2.siteground.net.
 racan.cv.	28800	IN	NS	ns1.weblx.net.
 racan.cv.	28800	IN	NS	ns2.weblx.net.
 radiodia.cv.	28800	IN	NS	ns1.ams25.siteground.eu.
@@ -7235,10 +7243,10 @@ scryptus1.cv.	28800	IN	NS	ns2.efeito.net.
 scsantamaria.cv.	28800	IN	NS	ns1.site4now.net.
 scsantamaria.cv.	28800	IN	NS	ns2.site4now.net.
 scsantamaria.cv.	28800	IN	NS	ns3.site4now.net.
-sct.cv.	28800	IN	NS	ns1.webs24h.com.
-sct.cv.	28800	IN	NS	ns2.webs24h.com.
-sdconsultoriafinanceira.cv.	28800	IN	NS	ns1.heliosimobiliaria.com.
-sdconsultoriafinanceira.cv.	28800	IN	NS	ns2.heliosimobiliaria.com.
+sct.cv.	86400	IN	NS	ns1.webs24h.com.
+sct.cv.	86400	IN	NS	ns2.webs24h.com.
+sdconsultoriafinanceira.cv.	28800	IN	NS	r3.gigilist.com.
+sdconsultoriafinanceira.cv.	28800	IN	NS	r4.gigilist.com.
 sde.cv.	28800	IN	NS	dns1.ibername.com.
 sde.cv.	28800	IN	NS	dns2.ibername.com.
 sde.cv.	28800	IN	NS	dns3.ibername.net.
