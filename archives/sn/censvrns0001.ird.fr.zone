@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437122 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437136 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/04/2022 16H20:01]"
+sn.	172800	IN	TXT	"1 RRs processed [14/04/2022 18H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2835,6 +2835,8 @@ bmcc.sn.	43200	IN	NS	ns.sonatel.sn.
 bmcc.sn.	43200	IN	NS	ns2.sonatel.sn.
 bmcg.sn.	172800	IN	NS	cpanel11.lws-hosting.com.
 bmcg.sn.	172800	IN	NS	cpanel12.lws-hosting.com.
+bmdsell.sn.	172800	IN	NS	ns1.cp-23.webhostbox.net.
+bmdsell.sn.	172800	IN	NS	ns2.cp-23.webhostbox.net.
 bme.sn.	43200	IN	NS	ns.sonatel.sn.
 bme.sn.	43200	IN	NS	ns2.sonatel.sn.
 bmelectro.sn.	172800	IN	NS	ns4.jokko-hosting.com.
@@ -14105,6 +14107,9 @@ ofnac.sn.	43200	IN	NS	ns3.kheweul.net.
 ofnac.sn.	43200	IN	NS	ns4.kheweul.net.
 ofor.sn.	172800	IN	NS	ns1.cloudns.io.
 ofor.sn.	172800	IN	NS	ns2.cloudns.io.
+ogdeals.sn.	172800	IN	NS	ns3.wanekoohost.com.
+ogdeals.sn.	172800	IN	NS	ns4.wanekoohost.com.
+ogdeals.sn.	172800	IN	NS	ns5.wanekoohost.com.
 ogs.sn.	43200	IN	NS	ns102.ovh.net.
 ogs.sn.	43200	IN	NS	dns102.ovh.net.
 oilgas.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -16740,6 +16745,7 @@ securiteshop.sn.	172800	IN	NS	ns3.kheweul.net.
 securiteshop.sn.	172800	IN	NS	ns4.kheweul.net.
 securitis.sn.	172800	IN	NS	ns200.anycast.me.
 securitis.sn.	172800	IN	NS	dns200.anycast.me.
+securitis.sn.	172800	IN	DS	43672 8 2 69f71f8f15ba70da1d8fd69347e464c40025d84c9534208d4967f5d2a25d2377
 securitytech221.sn.	172800	IN	NS	ns1.md-88.webhostbox.net.
 securitytech221.sn.	172800	IN	NS	ns2.md-88.webhostbox.net.
 securtech.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -21275,8 +21281,10 @@ youtube.sn.	43200	IN	NS	ns1.google.com.
 youtube.sn.	43200	IN	NS	ns2.google.com.
 youtube.sn.	43200	IN	NS	ns3.google.com.
 youtube.sn.	43200	IN	NS	ns4.google.com.
-yowit.sn.	172800	IN	NS	ns19.ovh.net.
-yowit.sn.	172800	IN	NS	dns19.ovh.net.
+yowit.sn.	172800	IN	NS	ns1.bdm.microsoftonline.com.
+yowit.sn.	172800	IN	NS	ns2.bdm.microsoftonline.com.
+yowit.sn.	172800	IN	NS	ns3.bdm.microsoftonline.com.
+yowit.sn.	172800	IN	NS	ns4.bdm.microsoftonline.com.
 yoxo.sn.	43200	IN	NS	dns1.cscdns.net.
 yoxo.sn.	43200	IN	NS	dns2.cscdns.net.
 yoyo.sn.	172800	IN	NS	ns110.ovh.net.
