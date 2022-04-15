@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437302 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437321 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [15/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [15/04/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -275,6 +275,8 @@ abb.sn.	43200	IN	NS	nse3.abb.com.
 abc.sn.	172800	IN	NS	ns1.digitalocean.com.
 abc.sn.	172800	IN	NS	ns2.digitalocean.com.
 abc.sn.	172800	IN	NS	ns3.digitalocean.com.
+abciss.sn.	172800	IN	NS	eisdns1.expertis.sn.
+abciss.sn.	172800	IN	NS	eisdns2.expertis.sn.
 abcissegroup.sn.	172800	IN	NS	ns14.ovh.net.
 abcissegroup.sn.	172800	IN	NS	dns14.ovh.net.
 abcissegroup.sn.	172800	IN	DS	64171 8 2 6ae4d78e1a3c6ded12d2165376ba3e770b046b314e07ec199a625e1b85ef3d9a
@@ -4551,6 +4553,8 @@ concours-cfj.sn.	172800	IN	NS	ns3.whc.ca.
 condak.sn.	172800	IN	NS	ns1.francedns.com.
 condak.sn.	172800	IN	NS	ns2.francedns.com.
 condak.sn.	172800	IN	NS	ns3.francedns.com.
+coneix.sn.	172800	IN	NS	eisdns1.expertis.sn.
+coneix.sn.	172800	IN	NS	eisdns2.expertis.sn.
 config.sn.	43200	IN	NS	ns102.ovh.net.
 config.sn.	43200	IN	NS	dns102.ovh.net.
 confisene.sn.	43200	IN	NS	ns18.ovh.net.
@@ -5265,6 +5269,8 @@ daw.sn.	43200	IN	NS	tara.ns.cloudflare.com.
 daw.sn.	43200	IN	NS	marty.ns.cloudflare.com.
 dawal.sn.	172800	IN	NS	ns.kimsufi.com.
 dawal.sn.	172800	IN	NS	ns3294593.ip-5-135-188.eu.
+dawalme.sn.	172800	IN	NS	eisdns1.expertis.sn.
+dawalme.sn.	172800	IN	NS	eisdns2.expertis.sn.
 dawcom.sn.	43200	IN	NS	nsa.planethoster.net.
 daydiay.sn.	43200	IN	NS	ns108.ovh.net.
 daydiay.sn.	43200	IN	NS	dns108.ovh.net.
@@ -8364,6 +8370,8 @@ gica.sn.	172800	IN	NS	dns200.anycast.me.
 gidelam.sn.	172800	IN	NS	ns200.anycast.me.
 gidelam.sn.	172800	IN	NS	dns200.anycast.me.
 gidelam.sn.	172800	IN	DS	17419 8 2 783a6ab3c7b3558e40ab706ba5080d6cd798fb61ffcedbe0b9b9d9c3e4660024
+gieele.sn.	172800	IN	NS	eisdns1.expertis.sn.
+gieele.sn.	172800	IN	NS	eisdns2.expertis.sn.
 gieterremere.sn.	43200	IN	NS	ns10.ovh.net.
 gieterremere.sn.	43200	IN	NS	dns10.ovh.net.
 gifas.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -13258,6 +13266,8 @@ mourchidtv.sn.	43200	IN	NS	dns113.ovh.net.
 mourchidtv.sn.	43200	IN	DS	44587 8 2 590948c304aabf8159c4f3f811284adb9f9c83363e02e31f2077caffa3d76174
 moussad.sn.	43200	IN	NS	ns1.mmbaye.com.
 moussad.sn.	43200	IN	NS	ns2.mmbaye.com.
+moussou.sn.	172800	IN	NS	eisdns1.expertis.sn.
+moussou.sn.	172800	IN	NS	eisdns2.expertis.sn.
 mouvementvaleurs.sn.	172800	IN	NS	dns1.namecheaphosting.com.
 mouvementvaleurs.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 mowali.sn.	43200	IN	NS	dns1.cscdns.net.
@@ -15077,6 +15087,8 @@ pittah.sn.	172800	IN	NS	ns1.ascio.com.
 pittah.sn.	172800	IN	NS	ns2.ascio.com.
 pittah.sn.	172800	IN	NS	ns3.ascio.com.
 pittah.sn.	172800	IN	NS	ns4.ascio.com.
+pittyscomputerservices.sn.	172800	IN	NS	eisdns1.expertis.sn.
+pittyscomputerservices.sn.	172800	IN	NS	eisdns2.expertis.sn.
 pku.sn.	43200	IN	NS	may.ns.cloudflare.com.
 pku.sn.	43200	IN	NS	fred.ns.cloudflare.com.
 placedusouvenir.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -18292,6 +18304,8 @@ solosar.sn.	172800	IN	DS	4942 8 2 6254dc2ec5e47c4015daeeccaf7dd0eca051e5136b38de
 solotina.sn.	172800	IN	NS	ns14.ovh.net.
 solotina.sn.	172800	IN	NS	dns14.ovh.net.
 solotina.sn.	172800	IN	DS	30100 8 2 ba695d20182ceea076e0bb5a9970ea2c2fdea9492ca8f444b6fcccf29b5efafd
+soloway.sn.	172800	IN	NS	ns101.ovh.net.
+soloway.sn.	172800	IN	NS	dns101.ovh.net.
 solutech.sn.	43200	IN	NS	ns.sonatel.sn.
 solutech.sn.	43200	IN	NS	ns2.sonatel.sn.
 solux.sn.	172800	IN	NS	ns15.ovh.net.
@@ -19445,6 +19459,8 @@ thiak-thiak.sn.	172800	IN	NS	ns2.netim.net.
 thiak-thiak.sn.	172800	IN	NS	ns3.netim.net.
 thiakthiak.sn.	172800	IN	NS	ns1.hosting-server-1022.com.
 thiakthiak.sn.	172800	IN	NS	ns2.hosting-server-1022.com.
+thiare.sn.	172800	IN	NS	ns41.infomaniak.com.
+thiare.sn.	172800	IN	NS	ns42.infomaniak.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns3.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns4.wanekoohost.com.
 thierno-ndiaye.sn.	172800	IN	NS	ns5.wanekoohost.com.
