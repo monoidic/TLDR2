@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437269 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437285 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [15/04/2022 10H10:01]"
+sn.	172800	IN	TXT	"10 RRs processed [15/04/2022 12H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2113,8 +2113,6 @@ b2ei.sn.	172800	IN	NS	dns108.ovh.net.
 b2ei.sn.	172800	IN	DS	31249 8 2 36ecd9419ee1ce652205dbd3c53ac462fe9e0eb4d3744d30c13d4125c4a8f9f0
 baamtu.sn.	43200	IN	NS	ns10.ovh.net.
 baamtu.sn.	43200	IN	NS	dns10.ovh.net.
-baamtusystem.sn.	43200	IN	NS	eisdns1.expertis.sn.
-baamtusystem.sn.	43200	IN	NS	eisdns2.expertis.sn.
 bab.sn.	43200	IN	NS	ns0.dnsmadeeasy.com.
 bab.sn.	43200	IN	NS	ns1.dnsmadeeasy.com.
 bab.sn.	43200	IN	NS	ns2.dnsmadeeasy.com.
@@ -2825,10 +2823,6 @@ blum.sn.	43200	IN	NS	ns12.managed-ip.info.
 blupuramimaservices.sn.	172800	IN	NS	ns105.ovh.net.
 blupuramimaservices.sn.	172800	IN	NS	dns105.ovh.net.
 blupuramimaservices.sn.	172800	IN	DS	22114 8 2 f6b3ac7c4c706f758bd63b04718f448b42bb3664851d3df8c85f9bdd2412c83e
-blutica.sn.	172800	IN	NS	ns3.wanekoohost.com.
-blutica.sn.	172800	IN	NS	ns4.wanekoohost.com.
-blutica.sn.	172800	IN	NS	ns5.wanekoohost.com.
-blutica.sn.	172800	IN	NS	ns6.wanekoohost.com.
 bmasolution.sn.	172800	IN	NS	ns106.ovh.net.
 bmasolution.sn.	172800	IN	NS	dns106.ovh.net.
 bmasolution.sn.	172800	IN	DS	47911 8 2 b6ba63bb266f512658245de97ccaab31f30746a9bd1e7a3d28d87fe0ecfb0959
@@ -3027,8 +3021,6 @@ briochedoree.sn.	172800	IN	NS	b.dns.gandi.net.
 briochedoree.sn.	172800	IN	NS	c.dns.gandi.net.
 britishcouncil.sn.	43200	IN	NS	ns.sonatel.sn.
 britishcouncil.sn.	43200	IN	NS	ns2.sonatel.sn.
-brsafrica.sn.	43200	IN	NS	eisdns1.expertis.sn.
-brsafrica.sn.	43200	IN	NS	eisdns2.expertis.sn.
 brt.sn.	172800	IN	NS	ns10.ovh.ca.
 brt.sn.	172800	IN	NS	dns10.ovh.ca.
 brtdakar.sn.	43200	IN	NS	ns1.efedus.com.
@@ -5702,8 +5694,6 @@ digitall.sn.	43200	IN	NS	ns4.netim.net.
 digitall.sn.	43200	IN	NS	ns5.netim.net.
 digitallsolutions.sn.	172800	IN	NS	eisdns1.expertis.sn.
 digitallsolutions.sn.	172800	IN	NS	eisdns2.expertis.sn.
-digitalnews.sn.	43200	IN	NS	eisdns1.expertis.sn.
-digitalnews.sn.	43200	IN	NS	eisdns2.expertis.sn.
 digitalprocess.sn.	172800	IN	NS	ns112.ovh.net.
 digitalprocess.sn.	172800	IN	NS	dns112.ovh.net.
 digitalprocess.sn.	172800	IN	DS	42424 8 2 ea7095bcf91d135fd63e59f7c9730dc189ae630af11459cc6a76134360b01dc6
@@ -5932,8 +5922,6 @@ dodge.sn.	43200	IN	NS	dns1.cscdns.net.
 dodge.sn.	43200	IN	NS	dns2.cscdns.net.
 dodopizza.sn.	172800	IN	NS	ns1.101domain.com.
 dodopizza.sn.	172800	IN	NS	ns2.101domain.com.
-doggupourlegrandsenegal.sn.	43200	IN	NS	eisdns1.expertis.sn.
-doggupourlegrandsenegal.sn.	43200	IN	NS	eisdns2.expertis.sn.
 dogtas.sn.	172800	IN	NS	ns1.francedns.com.
 dogtas.sn.	172800	IN	NS	ns2.francedns.com.
 dogtas.sn.	172800	IN	NS	ns3.francedns.com.
@@ -7339,8 +7327,6 @@ fadsr.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns6.wanekoohost.com.
-fagaru.sn.	43200	IN	NS	eisdns1.expertis.sn.
-fagaru.sn.	43200	IN	NS	eisdns2.expertis.sn.
 fagoul.sn.	172800	IN	NS	edward.ns.cloudflare.com.
 fagoul.sn.	172800	IN	NS	evangeline.ns.cloudflare.com.
 faise.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -9328,8 +9314,6 @@ iakaffrine.sn.	43200	IN	NS	rob.ns.cloudflare.com.
 iakaffrine.sn.	43200	IN	NS	gail.ns.cloudflare.com.
 iam.sn.	43200	IN	NS	ns13.ovh.net.
 iam.sn.	43200	IN	NS	dns13.ovh.net.
-iamthiouthe.sn.	43200	IN	NS	eisdns1.expertis.sn.
-iamthiouthe.sn.	43200	IN	NS	eisdns2.expertis.sn.
 iapc.sn.	172800	IN	NS	ns108.ovh.net.
 iapc.sn.	172800	IN	NS	ns200.anycast.me.
 iapc.sn.	172800	IN	NS	dns108.ovh.net.
@@ -14826,14 +14810,12 @@ pastefthiesnord.sn.	172800	IN	NS	ns3.wanekoohost.com.
 pastefthiesnord.sn.	172800	IN	NS	ns4.wanekoohost.com.
 pastefthiesnord.sn.	172800	IN	NS	ns5.wanekoohost.com.
 pastefthiesnord.sn.	172800	IN	NS	ns6.wanekoohost.com.
-pasteur.sn.	43200	IN	NS	mail.pasteur.sn.
-pasteur.sn.	43200	IN	NS	jolof.pasteur.sn.
-pasteur.sn.	43200	IN	NS	jambour.pasteur.sn.
+pasteur.sn.	172800	IN	NS	jolof.pasteur.sn.
+pasteur.sn.	172800	IN	NS	jambour.pasteur.sn.
 pasteur.sn.	172800	IN	DS	8920 7 1 4cb1b887b83d456d75754aa616eb1f4abf8787af
 pasteur.sn.	172800	IN	DS	8920 7 2 a6c54571f734f6d09109efbf9df3155bab91f00d7a18c0b4c4130071a5c342b5
-jambour.pasteur.sn.	172800	IN	A	213.154.75.74
-jolof.pasteur.sn.	172800	IN	A	213.154.75.74
-mail.pasteur.sn.	172800	IN	A	213.154.75.74
+jambour.pasteur.sn.	172800	IN	A	41.214.73.181
+jolof.pasteur.sn.	172800	IN	A	41.214.73.180
 pastis-51.sn.	172800	IN	NS	dns1.cscdns.net.
 pastis-51.sn.	172800	IN	NS	dns2.cscdns.net.
 pastis51.sn.	172800	IN	NS	dns1.cscdns.net.
@@ -17172,8 +17154,6 @@ senejobs.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
 senejumi.sn.	172800	IN	NS	ns200.anycast.me.
 senejumi.sn.	172800	IN	NS	dns200.anycast.me.
 senejumi.sn.	172800	IN	DS	41866 8 2 f176ae9b7546c670f447b52a7d281ade03ae1f4ecd527997f0b1d8bb2881b99b
-senekip.sn.	43200	IN	NS	eisdns1.expertis.sn.
-senekip.sn.	43200	IN	NS	eisdns2.expertis.sn.
 senelabo.sn.	43200	IN	NS	pdns13.domaincontrol.com.
 senelabo.sn.	43200	IN	NS	pdns14.domaincontrol.com.
 senelabo-btp.sn.	43200	IN	NS	ns12.ovh.net.
@@ -17511,8 +17491,6 @@ seric.sn.	43200	IN	NS	ns2.netim.net.
 seric.sn.	43200	IN	NS	ns3.netim.net.
 seric.sn.	43200	IN	NS	ns4.netim.net.
 seric.sn.	43200	IN	NS	ns5.netim.net.
-serignendiagadiop.sn.	43200	IN	NS	eisdns1.expertis.sn.
-serignendiagadiop.sn.	43200	IN	NS	eisdns2.expertis.sn.
 sermes.sn.	43200	IN	NS	a.ns.mailclub.fr.
 sermes.sn.	43200	IN	NS	b.ns.mailclub.eu.
 sermes.sn.	43200	IN	NS	c.ns.mailclub.com.
@@ -20729,8 +20707,6 @@ wantermarket.sn.	172800	IN	NS	ns3.wanekoohost.com.
 wantermarket.sn.	172800	IN	NS	ns4.wanekoohost.com.
 wantermarket.sn.	172800	IN	NS	ns5.wanekoohost.com.
 wantermarket.sn.	172800	IN	NS	ns6.wanekoohost.com.
-waouh.sn.	43200	IN	NS	eisdns1.expertis.sn.
-waouh.sn.	43200	IN	NS	eisdns2.expertis.sn.
 waph.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 waph.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 wara-couture.sn.	172800	IN	NS	ns1.101domain.com.
