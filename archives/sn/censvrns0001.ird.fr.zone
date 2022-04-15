@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437181 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437200 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [15/04/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [15/04/2022 02H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -15668,9 +15668,8 @@ quechua.sn.	43200	IN	NS	b.dns.gandi.net.
 quechua.sn.	43200	IN	NS	c.dns.gandi.net.
 quick.sn.	172800	IN	NS	ns1.101domain.com.
 quick.sn.	172800	IN	NS	ns2.101domain.com.
-quickpay.sn.	43200	IN	NS	ns200.anycast.me.
-quickpay.sn.	43200	IN	NS	dns200.anycast.me.
-quickpay.sn.	43200	IN	DS	35272 8 2 e65542fbb5cd000d9c966d3c9c97bf2b756e973afc93ff462195512922dd1873
+quickpay.sn.	172800	IN	NS	ns41.infomaniak.com.
+quickpay.sn.	172800	IN	NS	ns42.infomaniak.com.
 quickup.sn.	172800	IN	NS	ns102.ovh.net.
 quickup.sn.	172800	IN	NS	dns102.ovh.net.
 quinc-etoile.sn.	43200	IN	NS	pdns07.domaincontrol.com.
@@ -16382,6 +16381,8 @@ samanemvc.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 samapass.sn.	172800	IN	NS	ns10.ovh.ca.
 samapass.sn.	172800	IN	NS	dns10.ovh.ca.
 samapass.sn.	172800	IN	DS	13174 8 2 a6e197dd385e5db9429daf897fe4678df22f31d3c7a7c48e093bcd520288cad5
+samapeage.sn.	172800	IN	NS	ns101.ovh.net.
+samapeage.sn.	172800	IN	NS	dns101.ovh.net.
 samapiece.sn.	43200	IN	NS	ns.sonatel.sn.
 samapiece.sn.	43200	IN	NS	ns2.sonatel.sn.
 samaplace.sn.	172800	IN	NS	ns110.ovh.net.
