@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437249 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437269 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [15/04/2022 08H00:01]"
+sn.	172800	IN	TXT	"2 RRs processed [15/04/2022 10H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -410,9 +410,6 @@ acgroup.sn.	43200	IN	NS	ns19.domaincontrol.com.
 acgroup.sn.	43200	IN	NS	ns20.domaincontrol.com.
 achete.sn.	172800	IN	NS	cpanel53a.lws-hosting.com.
 achete.sn.	172800	IN	NS	cpanel53b.lws-hosting.com.
-acheter-louer.sn.	43200	IN	NS	ns1.francedns.com.
-acheter-louer.sn.	43200	IN	NS	ns2.francedns.com.
-acheter-louer.sn.	43200	IN	NS	ns3.francedns.com.
 achetezausenegal.sn.	43200	IN	NS	ns12.ovh.net.
 achetezausenegal.sn.	43200	IN	NS	dns12.ovh.net.
 achica.sn.	172800	IN	NS	ns5.jokko-hosting.com.
@@ -655,6 +652,8 @@ affairespublique.sn.	43200	IN	NS	ns1.ascio.com.
 affairespublique.sn.	43200	IN	NS	ns2.ascio.com.
 affairespublique.sn.	43200	IN	NS	ns3.ascio.com.
 affairespublique.sn.	43200	IN	NS	ns4.ascio.com.
+affiaservices.sn.	172800	IN	NS	eisdns1.expertis.sn.
+affiaservices.sn.	172800	IN	NS	eisdns2.expertis.sn.
 affic-group.sn.	172800	IN	NS	ns1.francedns.com.
 affic-group.sn.	172800	IN	NS	ns2.francedns.com.
 affic-group.sn.	172800	IN	NS	ns3.francedns.com.
@@ -1734,6 +1733,8 @@ asepma.sn.	43200	IN	NS	ns19.ovh.net.
 asepma.sn.	43200	IN	NS	dns19.ovh.net.
 aser.sn.	172800	IN	NS	ns1.caurys.net.
 aser.sn.	172800	IN	NS	ns2.caurys.net.
+asfartrading.sn.	172800	IN	NS	eisdns1.expertis.sn.
+asfartrading.sn.	172800	IN	NS	eisdns2.expertis.sn.
 ashana-b.sn.	172800	IN	NS	ns103.ovh.net.
 ashana-b.sn.	172800	IN	NS	dns103.ovh.net.
 ashia.sn.	43200	IN	NS	ns1.caurys.net.
@@ -3319,6 +3320,8 @@ cama.sn.	172800	IN	NS	ns4.kheweul.net.
 camacoes.sn.	43200	IN	NS	nsa.planethoster.net.
 camacoes.sn.	43200	IN	NS	nsb.planethoster.net.
 camacoes.sn.	43200	IN	NS	nsc.planethoster.net.
+cambridgeworldwideacademy.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+cambridgeworldwideacademy.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 camel.sn.	172800	IN	NS	ns1.dns-parking.com.
 camel.sn.	172800	IN	NS	ns2.dns-parking.com.
 camelway.sn.	43200	IN	NS	lia.ns.cloudflare.com.
@@ -8554,6 +8557,8 @@ goldentulip.sn.	43200	IN	NS	dns2.cscdns.net.
 goldfx.sn.	172800	IN	NS	ns01.trademarkarea.com.
 goldfx.sn.	172800	IN	NS	ns02.trademarkarea.com.
 goldfx.sn.	172800	IN	NS	ns03.trademarkarea.com.
+golfmedical.sn.	172800	IN	NS	eisdns1.expertis.sn.
+golfmedical.sn.	172800	IN	NS	eisdns2.expertis.sn.
 gomedia.sn.	172800	IN	NS	ns1.kheweul.net.
 gomedia.sn.	172800	IN	NS	ns2.kheweul.net.
 gondrand.sn.	43200	IN	NS	ns.francedns.com.
@@ -11873,6 +11878,9 @@ lincolnelectric.sn.	43200	IN	NS	udns1.cscdns.net.
 lincolnelectric.sn.	43200	IN	NS	udns2.cscdns.uk.
 linebet.sn.	172800	IN	NS	ns1.firstvds.ru.
 linebet.sn.	172800	IN	NS	ns2.firstvds.ru.
+lingueer.sn.	172800	IN	NS	ns1.francedns.com.
+lingueer.sn.	172800	IN	NS	ns2.francedns.com.
+lingueer.sn.	172800	IN	NS	ns3.francedns.com.
 linguerefarmer.sn.	172800	IN	NS	eisdns1.expertis.sn.
 linguerefarmer.sn.	172800	IN	NS	eisdns2.expertis.sn.
 link-pay.sn.	43200	IN	NS	ns19.ovh.net.
@@ -17656,6 +17664,8 @@ shopping-au-senegal.sn.	43200	IN	NS	pdns03.domaincontrol.com.
 shopping-au-senegal.sn.	43200	IN	NS	pdns04.domaincontrol.com.
 shoppingausenegal.sn.	43200	IN	NS	pdns03.domaincontrol.com.
 shoppingausenegal.sn.	43200	IN	NS	pdns04.domaincontrol.com.
+shopsn.sn.	172800	IN	NS	eisdns1.expertis.sn.
+shopsn.sn.	172800	IN	NS	eisdns2.expertis.sn.
 shoptech.sn.	172800	IN	NS	ns1.kheweul.net.
 shoptech.sn.	172800	IN	NS	ns2.kheweul.net.
 shoptech.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -18427,6 +18437,8 @@ sosconciergerie.sn.	172800	IN	NS	ns5.wanekoohost.com.
 sosconciergerie.sn.	172800	IN	NS	ns6.wanekoohost.com.
 sosdentiste.sn.	43200	IN	NS	dns1.alwaysdata.com.
 sosdentiste.sn.	43200	IN	NS	dns2.alwaysdata.com.
+sosefi.sn.	172800	IN	NS	eisdns1.expertis.sn.
+sosefi.sn.	172800	IN	NS	eisdns2.expertis.sn.
 sosegh.sn.	172800	IN	NS	ns.gouv.sn.
 sosegh.sn.	172800	IN	NS	ns2.gouv.sn.
 sosegh.sn.	172800	IN	NS	ns3.gouv.sn.
@@ -19827,6 +19839,8 @@ transfusionsenegal.sn.	43200	IN	NS	ns2.francedns.com.
 transfusionsenegal.sn.	43200	IN	NS	ns3.francedns.com.
 transglobal.sn.	43200	IN	NS	ns200.anycast.me.
 transglobal.sn.	43200	IN	NS	dns200.anycast.me.
+tranship.sn.	172800	IN	NS	eisdns1.expertis.sn.
+tranship.sn.	172800	IN	NS	eisdns2.expertis.sn.
 transipay.sn.	172800	IN	NS	ns1.kheweul.net.
 transipay.sn.	172800	IN	NS	ns2.kheweul.net.
 transipay.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -20288,6 +20302,8 @@ ussein.sn.	43200	IN	NS	ns4.kheweul.net.
 ussu.sn.	172800	IN	NS	ns15.ovh.net.
 ussu.sn.	172800	IN	NS	dns15.ovh.net.
 ussu.sn.	172800	IN	DS	28927 8 2 08c5208f6ebe3ba416fdcbdf728f9e63e856ab65f1bde75882294f7f2b228c2b
+ustek.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+ustek.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 ute.sn.	172800	IN	NS	ns9.jajeuf.com.
 ute.sn.	172800	IN	NS	ns10.jajeuf.com.
 uteco.sn.	43200	IN	NS	ns1.netim.net.
@@ -20985,6 +21001,8 @@ worldwaterforum9.sn.	43200	IN	NS	ns1.bdm.microsoftonline.com.
 worldwaterforum9.sn.	43200	IN	NS	ns2.bdm.microsoftonline.com.
 worldwaterforum9.sn.	43200	IN	NS	ns3.bdm.microsoftonline.com.
 worldwaterforum9.sn.	43200	IN	NS	ns4.bdm.microsoftonline.com.
+wotel.sn.	172800	IN	NS	eisdns1.expertis.sn.
+wotel.sn.	172800	IN	NS	eisdns2.expertis.sn.
 woto.sn.	43200	IN	NS	ns200.anycast.me.
 woto.sn.	43200	IN	NS	dns200.anycast.me.
 woto.sn.	172800	IN	DS	15169 8 2 84d8613b20462889f0c32788039f33779853e89b38fa90e0296264479c1736c5
