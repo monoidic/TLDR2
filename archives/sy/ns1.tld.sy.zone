@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041620 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022041624 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1650096136"
+sy.	86400	IN	TXT	"Generation Time: 1650103342"
 00.sy.	86400	IN	NS	garret.ns.cloudflare.com.
 00.sy.	86400	IN	NS	serena.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -404,8 +404,8 @@ agip.sy.	86400	IN	NS	ns1.tagidomains.com.
 agip.sy.	86400	IN	NS	ns2.tagidomains.com.
 agri-idlb.sy.	86400	IN	NS	ns3.tld.sy.
 agri-idlb.sy.	86400	IN	NS	ns4.tld.sy.
-agricext.sy.	86400	IN	NS	ns3.tld.sy.
-agricext.sy.	86400	IN	NS	ns4.tld.sy.
+agricext.sy.	86400	IN	NS	suspend1.tld.sy.
+agricext.sy.	86400	IN	NS	suspend2.tld.sy.
 agrighab.sy.	86400	IN	NS	ns1.scs-net.sy.
 agrighab.sy.	86400	IN	NS	ns1.scs-net.org.
 agrighab.sy.	86400	IN	NS	ns2.scs-net.sy.
@@ -1206,10 +1206,8 @@ altezeni.sy.	86400	IN	NS	suspend1.tld.sy.
 altezeni.sy.	86400	IN	NS	suspend2.tld.sy.
 altflalsaid.sy.	86400	IN	NS	suspend1.tld.sy.
 altflalsaid.sy.	86400	IN	NS	suspend2.tld.sy.
-althaalabalmacker.sy.	86400	IN	NS	ns1.madfox.solutions.
-althaalabalmacker.sy.	86400	IN	NS	ns1.madfoxhosting.com.
-althaalabalmacker.sy.	86400	IN	NS	ns2.madfox.solutions.
-althaalabalmacker.sy.	86400	IN	NS	ns2.madfoxhosting.com.
+althaalabalmacker.sy.	86400	IN	NS	suspend1.tld.sy.
+althaalabalmacker.sy.	86400	IN	NS	suspend2.tld.sy.
 altnbkji.sy.	86400	IN	NS	suspend1.tld.sy.
 altnbkji.sy.	86400	IN	NS	suspend2.tld.sy.
 alwahaib-iron.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3768,8 +3766,8 @@ intracom.sy.	86400	IN	NS	ns2.scs-net.sy.
 intracom.sy.	86400	IN	NS	ns2.scs-net.org.
 investinsyria.sy.	86400	IN	NS	ns1.shamcenter.com.
 investinsyria.sy.	86400	IN	NS	ns2.shamcenter.com.
-investn.sy.	86400	IN	NS	ns1.shamcenter.com.
-investn.sy.	86400	IN	NS	ns2.shamcenter.com.
+investn.sy.	86400	IN	NS	suspend1.tld.sy.
+investn.sy.	86400	IN	NS	suspend2.tld.sy.
 io.sy.	86400	IN	NS	maxim.ns.cloudflare.com.
 io.sy.	86400	IN	NS	nucum.ns.cloudflare.com.
 ip.sy.	86400	IN	NS	theo.ns.cloudflare.com.
@@ -4946,8 +4944,8 @@ mubawwab.sy.	86400	IN	NS	ns1.waveshost.sy.
 mubawwab.sy.	86400	IN	NS	ns2.waveshost.sy.
 mudalal.sy.	86400	IN	NS	suspend1.tld.sy.
 mudalal.sy.	86400	IN	NS	suspend2.tld.sy.
-muhanna.sy.	86400	IN	NS	ns16.samamax.com.
-muhanna.sy.	86400	IN	NS	ns17.samamax.com.
+muhanna.sy.	86400	IN	NS	suspend1.tld.sy.
+muhanna.sy.	86400	IN	NS	suspend2.tld.sy.
 mukheiber-part.sy.	86400	IN	NS	suspend1.tld.sy.
 mukheiber-part.sy.	86400	IN	NS	suspend2.tld.sy.
 mulhem-co.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7025,8 +7023,8 @@ techconsulting.sy.	86400	IN	NS	suspend1.tld.sy.
 techconsulting.sy.	86400	IN	NS	suspend2.tld.sy.
 technical-elevators.sy.	86400	IN	NS	suspend1.tld.sy.
 technical-elevators.sy.	86400	IN	NS	suspend2.tld.sy.
-techno.sy.	86400	IN	NS	ns16.samamax.com.
-techno.sy.	86400	IN	NS	ns17.samamax.com.
+techno.sy.	86400	IN	NS	suspend1.tld.sy.
+techno.sy.	86400	IN	NS	suspend2.tld.sy.
 techno-gas.sy.	86400	IN	NS	suspend1.tld.sy.
 techno-gas.sy.	86400	IN	NS	suspend2.tld.sy.
 techno-tex.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -7080,10 +7078,8 @@ tezenis.sy.	86400	IN	NS	nsgbr.comlaude.co.uk.
 tezenis.sy.	86400	IN	NS	nssui.comlaude.ch.
 th.sy.	86400	IN	NS	nina.ns.cloudflare.com.
 th.sy.	86400	IN	NS	hayes.ns.cloudflare.com.
-thaalabmacker.sy.	86400	IN	NS	ns1.madfox.solutions.
-thaalabmacker.sy.	86400	IN	NS	ns1.madfoxhosting.com.
-thaalabmacker.sy.	86400	IN	NS	ns2.madfox.solutions.
-thaalabmacker.sy.	86400	IN	NS	ns2.madfoxhosting.com.
+thaalabmacker.sy.	86400	IN	NS	suspend1.tld.sy.
+thaalabmacker.sy.	86400	IN	NS	suspend2.tld.sy.
 thawra.sy.	86400	IN	NS	ns1.inet.sy.
 thawra.sy.	86400	IN	NS	ns2.inet.sy.
 thawraonline.sy.	86400	IN	NS	ns1.inet.sy.
