@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437899 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437913 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [18/04/2022 20H20:02]"
+sn.	172800	IN	TXT	"4 RRs processed [18/04/2022 22H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8923,9 +8923,6 @@ guichet.sn.	172800	IN	NS	ns3.francedns.com.
 guichetjeunesse.sn.	172800	IN	NS	ns200.anycast.me.
 guichetjeunesse.sn.	172800	IN	NS	dns200.anycast.me.
 guichetjeunesse.sn.	172800	IN	DS	42316 8 2 674cfacbafa3d1e352ac8d8f946e0faedd065c9da022bf6110b76845d2dd4e2a
-guideportuaireafrique.sn.	43200	IN	NS	ns13.ovh.net.
-guideportuaireafrique.sn.	43200	IN	NS	dns13.ovh.net.
-guideportuaireafrique.sn.	43200	IN	DS	33952 8 2 d2d90fbab1974f3bd0240d5dc7af0fbe3ad8ecf4f82cabb0c2ef4930c2d47913
 guillaumepriso.sn.	172800	IN	NS	ns1.macaisse.sn.
 guiss-docteur.sn.	172800	IN	NS	ns1.francedns.com.
 guiss-docteur.sn.	172800	IN	NS	ns2.francedns.com.
@@ -12851,8 +12848,6 @@ merkezsenegal.sn.	43200	IN	NS	ns104.ovh.net.
 merkezsenegal.sn.	43200	IN	NS	dns104.ovh.net.
 mesa.sn.	43200	IN	NS	ns.sonatel.sn.
 mesa.sn.	43200	IN	NS	ns2.sonatel.sn.
-mescoursensolo.sn.	43200	IN	NS	ns16.ovh.net.
-mescoursensolo.sn.	43200	IN	NS	dns16.ovh.net.
 mesri.sn.	172800	IN	NS	ns1.kheweul.net.
 mesri.sn.	172800	IN	NS	ns2.kheweul.net.
 mesri.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -17061,6 +17056,8 @@ senecrea.sn.	43200	IN	NS	ns4.kheweul.net.
 senedelices.sn.	43200	IN	NS	ns1.francedns.com.
 senedelices.sn.	43200	IN	NS	ns2.francedns.com.
 senedelices.sn.	43200	IN	NS	ns3.francedns.com.
+senedoc.sn.	172800	IN	NS	ns1.apps1global.com.
+senedoc.sn.	172800	IN	NS	ns2.apps1global.com.
 senedroit.sn.	43200	IN	NS	ns5.afriregister.com.
 senedroit.sn.	43200	IN	NS	ns6.afriregister.com.
 senefand.sn.	43200	IN	NS	dns1.hispalisdns.com.
@@ -17223,6 +17220,8 @@ ns3.senelec.sn.	43200	IN	A	196.207.216.65
 ns4.senelec.sn.	43200	IN	A	196.207.216.68
 senelevage-investment.sn.	172800	IN	NS	sns13.webhostbox.net.
 senelevage-investment.sn.	172800	IN	NS	sns14.webhostbox.net.
+senelodge.sn.	172800	IN	NS	ns1.apps1global.com.
+senelodge.sn.	172800	IN	NS	ns2.apps1global.com.
 senemarket.sn.	172800	IN	NS	ns1.cloud-04e47b.managed-vps.net.
 senemarket.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
 senemeca.sn.	43200	IN	NS	ns17.ovh.net.
