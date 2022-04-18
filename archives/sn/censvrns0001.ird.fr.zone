@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437856 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437870 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [18/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"6 RRs processed [18/04/2022 16H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1053,8 +1053,8 @@ alfa-laval.sn.	43200	IN	NS	unit.nmugroup.com.
 alfa-laval.sn.	43200	IN	NS	origo.nmugroup.com.
 alfa-laval.sn.	43200	IN	NS	vertex.nmugroup.se.
 alfa-laval.sn.	43200	IN	NS	ephemera.nmugroup.se.
-alfacapital.sn.	43200	IN	NS	ns1.giow1114.siteground.us.
-alfacapital.sn.	43200	IN	NS	ns2.giow1114.siteground.us.
+alfacapital.sn.	172800	IN	NS	ns1.siteground.net.
+alfacapital.sn.	172800	IN	NS	ns2.siteground.net.
 alfalaval.sn.	43200	IN	NS	unit.nmugroup.com.
 alfalaval.sn.	43200	IN	NS	origo.nmugroup.com.
 alfalaval.sn.	43200	IN	NS	vertex.nmugroup.se.
@@ -4360,6 +4360,8 @@ cnp.sn.	43200	IN	NS	ns.sonatel.sn.
 cnp.sn.	43200	IN	NS	ns2.sonatel.sn.
 cnpas.sn.	43200	IN	NS	ns1.sendns.net.
 cnpas.sn.	43200	IN	NS	ns2.sendns.net.
+cnpc.sn.	172800	IN	NS	eisdns1.expertis.sn.
+cnpc.sn.	172800	IN	NS	eisdns2.expertis.sn.
 cnra.sn.	43200	IN	NS	ns16.ovh.net.
 cnra.sn.	43200	IN	NS	dns16.ovh.net.
 cnrabambey.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -6637,6 +6639,8 @@ emco.sn.	43200	IN	NS	ns3.zoneedit.com.
 emco.sn.	43200	IN	NS	ns8.zoneedit.com.
 emcsenegal.sn.	43200	IN	NS	ns1.snterra.com.
 emcsenegal.sn.	43200	IN	NS	ns2.snterra.com.
+emdidi.sn.	172800	IN	NS	ns101.ovh.net.
+emdidi.sn.	172800	IN	NS	dns101.ovh.net.
 emedia.sn.	172800	IN	NS	ns105.ovh.net.
 emedia.sn.	172800	IN	NS	dns105.ovh.net.
 emedic.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -7687,6 +7691,8 @@ flem.sn.	172800	IN	NS	brenna.ns.cloudflare.com.
 flex.sn.	172800	IN	NS	ns200.anycast.me.
 flex.sn.	172800	IN	NS	dns200.anycast.me.
 flex.sn.	172800	IN	DS	40717 8 2 e9d1346a7af9cf94aa2228aec5741bc221a3049a52e7e12d9cc9bb84a3648ee9
+flexisconcept.sn.	172800	IN	NS	eisdns1.expertis.sn.
+flexisconcept.sn.	172800	IN	NS	eisdns2.expertis.sn.
 flit.sn.	172800	IN	NS	sdns2.ovh.net.
 flit.sn.	172800	IN	NS	ns321231.ip-188-165-248.eu.
 flormar.sn.	43200	IN	NS	ns200.anycast.me.
@@ -8394,6 +8400,8 @@ git.sn.	172800	IN	NS	student.dnspod.net.
 gito.sn.	172800	IN	NS	ns9.jajeuf.com.
 gito.sn.	172800	IN	NS	ns10.jajeuf.com.
 gito.sn.	172800	IN	DS	3022 1 1 928937be5f6169865fb39eb1558b9315c322c335
+givpik.sn.	172800	IN	NS	ns1.apps1global.com.
+givpik.sn.	172800	IN	NS	ns2.apps1global.com.
 glamgloss.sn.	172800	IN	NS	dns1.namecheaphosting.com.
 glamgloss.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 glaxosmithkline.sn.	43200	IN	NS	ns.domainnetwork.se.
@@ -12372,6 +12380,9 @@ mango-media.sn.	172800	IN	NS	ns3.second-ns.de.
 mangoo.sn.	172800	IN	NS	ns15.ovh.net.
 mangoo.sn.	172800	IN	NS	dns15.ovh.net.
 mangoo.sn.	172800	IN	DS	32899 8 2 592849de70fe4ca1aa141faee6c44f4a141d1cf2947eef2c55c39232575afe0a
+manhattancybersecurity.sn.	172800	IN	NS	ns-122-b.gandi.net.
+manhattancybersecurity.sn.	172800	IN	NS	ns-178-c.gandi.net.
+manhattancybersecurity.sn.	172800	IN	NS	ns-195-a.gandi.net.
 manika.sn.	43200	IN	NS	ns1.netim.net.
 manika.sn.	43200	IN	NS	ns2.netim.net.
 manika.sn.	43200	IN	NS	ns3.netim.net.
@@ -12667,6 +12678,8 @@ mdconsulting.sn.	43200	IN	NS	ns1.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns2.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns3.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns4.ascio.com.
+mdd.sn.	172800	IN	NS	ns101.ovh.net.
+mdd.sn.	172800	IN	NS	dns101.ovh.net.
 mdiconstruction.sn.	172800	IN	NS	ns1.ipage.com.
 mdiconstruction.sn.	172800	IN	NS	ns2.ipage.com.
 mdindustrie.sn.	172800	IN	NS	ns100.ovh.net.
@@ -16340,6 +16353,8 @@ sama-industries.sn.	43200	IN	NS	ns2.sonatel.sn.
 sama-orange-money.sn.	43200	IN	NS	ns1.sonatel.sn.
 samaapp.sn.	43200	IN	NS	ns.sonatel.sn.
 samaapp.sn.	43200	IN	NS	ns2.sonatel.sn.
+samabi.sn.	172800	IN	NS	eisdns1.expertis.sn.
+samabi.sn.	172800	IN	NS	eisdns2.expertis.sn.
 samachance.sn.	172800	IN	NS	ns41.infomaniak.com.
 samachance.sn.	172800	IN	NS	ns42.infomaniak.com.
 samachauffeur.sn.	43200	IN	NS	ns10.ovh.net.
@@ -18459,6 +18474,8 @@ sosenergie.sn.	43200	IN	NS	ns1.kheweul.net.
 sosenergie.sn.	43200	IN	NS	ns2.kheweul.net.
 sosenergie.sn.	43200	IN	NS	ns3.kheweul.net.
 sosenergie.sn.	43200	IN	NS	ns4.kheweul.net.
+soserli.sn.	172800	IN	NS	eisdns1.expertis.sn.
+soserli.sn.	172800	IN	NS	eisdns2.expertis.sn.
 sosetec.sn.	43200	IN	NS	ns1.snterra.com.
 sosetec.sn.	43200	IN	NS	ns2.snterra.com.
 sosicob.sn.	43200	IN	NS	ns20.ovh.net.
