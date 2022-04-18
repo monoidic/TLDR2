@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437887 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222437899 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [18/04/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [18/04/2022 20H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5470,8 +5470,9 @@ devlink.sn.	43200	IN	NS	ns1.eurodns.com.
 devlink.sn.	43200	IN	NS	ns2.eurodns.com.
 devlink.sn.	43200	IN	NS	ns3.eurodns.com.
 devlink.sn.	43200	IN	NS	ns4.eurodns.com.
+dfmj.sn.	172800	IN	NS	ns1.dfmj.sn.
 dfmj.sn.	172800	IN	NS	ns9.lwsdns.com.
-dfmj.sn.	172800	IN	NS	ns10.lwsdns.com.
+ns1.dfmj.sn.	172800	IN	A	31.207.35.230
 dgase.sn.	172800	IN	NS	nsa.n0c.com.
 dgase.sn.	172800	IN	NS	nsb.n0c.com.
 dgase.sn.	172800	IN	NS	nsc.n0c.com.
@@ -6643,6 +6644,7 @@ emcsenegal.sn.	43200	IN	NS	ns1.snterra.com.
 emcsenegal.sn.	43200	IN	NS	ns2.snterra.com.
 emdidi.sn.	172800	IN	NS	ns101.ovh.net.
 emdidi.sn.	172800	IN	NS	dns101.ovh.net.
+emdidi.sn.	172800	IN	DS	53842 8 2 17cfe286be88674fa9d382a55068077210c78b143e4eb19a230e50eeb4a3d3b1
 emedia.sn.	172800	IN	NS	ns105.ovh.net.
 emedia.sn.	172800	IN	NS	dns105.ovh.net.
 emedic.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -8458,8 +8460,9 @@ globalinvesttrading.sn.	172800	IN	NS	nsb.planethoster.net.
 globalinvesttrading.sn.	172800	IN	NS	nsc.planethoster.net.
 globalizegroup.sn.	172800	IN	NS	ns21.canspace.ca.
 globalizegroup.sn.	172800	IN	NS	ns22.canspace.ca.
+globalmbekte.sn.	172800	IN	NS	ns1.globalmbekte.sn.
 globalmbekte.sn.	172800	IN	NS	ns9.lwsdns.com.
-globalmbekte.sn.	172800	IN	NS	ns10.lwsdns.com.
+ns1.globalmbekte.sn.	172800	IN	A	31.207.35.230
 globalnews.sn.	43200	IN	NS	ns1.snterra.com.
 globalnews.sn.	43200	IN	NS	ns2.snterra.com.
 globalpharma.sn.	43200	IN	NS	ns104.ovh.net.
@@ -12690,6 +12693,7 @@ mdconsulting.sn.	43200	IN	NS	ns3.ascio.com.
 mdconsulting.sn.	43200	IN	NS	ns4.ascio.com.
 mdd.sn.	172800	IN	NS	ns101.ovh.net.
 mdd.sn.	172800	IN	NS	dns101.ovh.net.
+mdd.sn.	172800	IN	DS	33889 8 2 7a387774b44ad2b650d265b9a30d8a2ce0aa2bfc2ab08159791fa1b22cd738fb
 mdiconstruction.sn.	172800	IN	NS	ns1.ipage.com.
 mdiconstruction.sn.	172800	IN	NS	ns2.ipage.com.
 mdindustrie.sn.	172800	IN	NS	ns100.ovh.net.

@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022041800 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022041801 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -3761,7 +3761,6 @@ ns-tld4.charlestonroadregistry.com.	172800	IN	AAAA	2001:4860:4802:38::69
 ns-tld5.charlestonroadregistry.com.	172800	IN	A	216.239.60.105
 ns-tld5.charlestonroadregistry.com.	172800	IN	AAAA	2001:4860:4805::69
 dns3.dotukr.com.	172800	IN	A	37.187.75.31
-dns3.dotukr.com.	172800	IN	AAAA	2001:41d0:a:2b1f::1
 hoppy.iom.com.	172800	IN	A	217.23.163.140
 pebbles.iom.com.	172800	IN	A	83.218.14.53
 ns-mg.malagasy.com.	172800	IN	A	87.98.132.231
@@ -3789,8 +3788,7 @@ ns2.teleinfoo.com.	172800	IN	A	103.61.61.1
 ns2.teleinfoo.com.	172800	IN	AAAA	2402:7d80:8888::1
 ns4.teleinfoo.com.	172800	IN	A	103.61.63.1
 ns2.tojikiston.com.	172800	IN	A	193.111.11.4
-dns1.u-registry.com.	172800	IN	A	173.208.218.43
-dns1.u-registry.com.	172800	IN	AAAA	2604:4300:a:8c:5054:ff:fe47:8582
+dns1.u-registry.com.	172800	IN	A	51.222.128.197
 a.zdnscloud.com.	172800	IN	A	203.99.24.1
 b.zdnscloud.com.	172800	IN	A	203.99.25.1
 c.zdnscloud.com.	172800	IN	A	203.99.26.1
@@ -11738,8 +11736,6 @@ ns.thnic.net.	172800	IN	A	202.28.0.1
 ns.twnic.net.	172800	IN	A	192.83.166.11
 ns.twnic.net.	172800	IN	AAAA	2001:288:1:1006::11
 dns2.u-registry.net.	172800	IN	A	195.123.1.7
-dns2.u-registry.net.	172800	IN	AAAA	2a02:128:2::5
-nsi.uanic.net.	172800	IN	A	212.1.66.247
 ns1.uniregistry.net.	172800	IN	A	64.96.1.1
 ns1.uniregistry.net.	172800	IN	AAAA	2620:57:4000:1::1
 ns3.uniregistry.net.	172800	IN	A	185.159.197.3
@@ -17120,7 +17116,8 @@ az.hostmaster.ua.	172800	IN	A	195.47.253.13
 az.hostmaster.ua.	172800	IN	AAAA	2001:67c:258::13
 ge.hostmaster.ua.	172800	IN	A	195.47.253.18
 ge.hostmaster.ua.	172800	IN	AAAA	2001:67c:258::18
-tier1.num.net.ua.	172800	IN	A	193.110.163.134
+tier1.num.net.ua.	172800	IN	A	149.202.5.226
+dns.tci.net.ua.	172800	IN	A	91.231.86.238
 bg.ns.ua.	172800	IN	A	185.136.96.185
 bg.ns.ua.	172800	IN	A	185.136.97.185
 bg.ns.ua.	172800	IN	AAAA	2a06:fb00:1::2:185
@@ -17135,6 +17132,8 @@ pch.ns.ua.	172800	IN	A	204.61.216.12
 pch.ns.ua.	172800	IN	AAAA	2001:500:14:6012:ad::1
 rcz.ns.ua.	172800	IN	A	193.46.128.10
 rcz.ns.ua.	172800	IN	AAAA	2a02:850:ffe0::10
+ukr.ns.ua.	172800	IN	A	194.58.197.4
+ukr.ns.ua.	172800	IN	AAAA	2a01:3f1:c001::53
 ubank.	172800	IN	NS	ac1.nstld.com.
 ubank.	172800	IN	NS	ac2.nstld.com.
 ubank.	172800	IN	NS	ac3.nstld.com.
@@ -19100,7 +19099,8 @@ xn--j1aef.	172800	IN	NS	ac2.nstld.com.
 xn--j1aef.	172800	IN	NS	ac3.nstld.com.
 xn--j1aef.	172800	IN	NS	ac4.nstld.com.
 xn--j1aef.	86400	IN	DS	32220 8 2 8cbaa94cf4c8387c6e98dcc53a90c9c7ce339029cf54d43e59e89b7d9c6f086c
-xn--j1amh.	172800	IN	NS	nsi.uanic.net.
+xn--j1amh.	172800	IN	NS	dns.tci.net.ua.
+xn--j1amh.	172800	IN	NS	ukr.ns.ua.
 xn--j1amh.	172800	IN	NS	dns1.u-registry.com.
 xn--j1amh.	172800	IN	NS	dns2.u-registry.net.
 xn--j1amh.	172800	IN	NS	dns3.dotukr.com.
