@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022041801 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022041901 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -4838,8 +4838,11 @@ ip.cv.	28800	IN	NS	ns2.gov.cv.
 ipc.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 ipc.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 ipc.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
-ipdd.cv.	28800	IN	NS	ns1.rhostjh.com.
-ipdd.cv.	28800	IN	NS	ns2.rhostjh.com.
+ipdd.cv.	28800	IN	A	45.154.66.253
+ipdd.cv.	28800	IN	NS	ns1.wtservers.com.
+ipdd.cv.	28800	IN	NS	ns2.wtservers.com.
+ipdd.cv.	28800	IN	NS	ns3.wtservers.com.
+ipdd.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 ipdroid.cv.	28800	IN	NS	dns01.ipdroid.net.
 ipdroid.cv.	28800	IN	NS	dns02.ipdroid.net.
 ipiaam.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
@@ -5539,8 +5542,8 @@ micotecnica.cv.	28800	IN	NS	ns7.mydnspt.net.
 micotecnica.cv.	28800	IN	NS	ns8.mydnspt.net.
 micromat.cv.	28800	IN	NS	ns1.alojamentos2.com.
 micromat.cv.	28800	IN	NS	ns2.alojamentos2.com.
-microtecnica.cv.	28800	IN	NS	ns1.webs24h.com.
-microtecnica.cv.	28800	IN	NS	ns2.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns1.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns2.webs24h.com.
 midi.cv.	28800	IN	NS	ns1.hyp.net.
 midi.cv.	28800	IN	NS	ns2.hyp.net.
 midi.cv.	28800	IN	NS	ns3.hyp.net.
@@ -7518,7 +7521,7 @@ smart-lynx.cv.	28800	IN	NS	ns03.trademarkarea.com.
 smartlabor.cv.	28800	IN	NS	ns3.dnstarvos.com.
 smartlabor.cv.	28800	IN	NS	ns4.dnstarvos.com.
 smartsolutions.cv.	28800	IN	NS	ns1.smartsolutions.cv.
-ns1.smartsolutions.cv.	28800	IN	A	185.122.57.102
+ns1.smartsolutions.cv.	28800	IN	A	208.87.102.102
 smarttech.cv.	28800	IN	NS	ns1.goshawk.arvixe.com.
 smarttech.cv.	28800	IN	NS	ns2.goshawk.arvixe.com.
 smilo.cv.	28800	IN	NS	ns1.comunitel.net.
