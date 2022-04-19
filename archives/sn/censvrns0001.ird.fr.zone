@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438056 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438071 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [19/04/2022 16H30:02]"
+sn.	172800	IN	TXT	"No RRs processed [19/04/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1929,6 +1929,8 @@ attitu2group.sn.	172800	IN	NS	eisdns2.expertis.sn.
 atts.sn.	172800	IN	NS	ns100.ovh.net.
 atts.sn.	172800	IN	NS	dns100.ovh.net.
 atts.sn.	172800	IN	DS	60721 8 2 229835445e8f644d23e1deda919c3cda133dbecda7e8b9c061d965ebee41cdbc
+atypicdigital.sn.	172800	IN	NS	ns1.101domain.com.
+atypicdigital.sn.	172800	IN	NS	ns2.101domain.com.
 aubonheurdesfemmes.sn.	172800	IN	NS	ns14.ovh.net.
 aubonheurdesfemmes.sn.	172800	IN	NS	dns14.ovh.net.
 aubonheurdesfemmes.sn.	172800	IN	DS	19924 8 2 c6d85c300e3ece4b5c1c1f7f2d13f97e541894aa75234f00feaa7cb868ceb1b1
@@ -5158,6 +5160,8 @@ dakarwebstore.sn.	43200	IN	NS	dns200.anycast.me.
 dakarwebstore.sn.	43200	IN	DS	34462 8 2 18e37e8a3fe2e34c521828b8093aac49b48bcadd24983198e745b7247657a884
 dakcor.sn.	43200	IN	NS	ns.kimsufi.com.
 dakcor.sn.	43200	IN	NS	ks381076.kimsufi.com.
+dakfin.sn.	172800	IN	NS	eisdns1.expertis.sn.
+dakfin.sn.	172800	IN	NS	eisdns2.expertis.sn.
 dakoccas.sn.	172800	IN	NS	ns11.ovh.net.
 dakoccas.sn.	172800	IN	NS	dns11.ovh.net.
 dakoccas.sn.	172800	IN	DS	15670 8 2 1cf1287c6ec1f67bfee7972baae6669728432938c3c400a8f1bf859a12bc7542
