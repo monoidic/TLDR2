@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438229 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438246 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [20/04/2022 14H00:01]"
+sn.	172800	IN	TXT	"No RRs processed [20/04/2022 16H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4862,6 +4862,8 @@ cryptomarket.sn.	172800	IN	NS	dns100.ovh.net.
 cryptomarket.sn.	172800	IN	DS	12670 8 2 f0a622f198ba1181ca3147e30a40592cb8311168b00b6b7606baa9e60469d8f0
 cryptomonnaie.sn.	43200	IN	NS	ns100.ovh.net.
 cryptomonnaie.sn.	43200	IN	NS	dns100.ovh.net.
+crystalauditetfinance.sn.	172800	IN	NS	ns1.caurys.net.
+crystalauditetfinance.sn.	172800	IN	NS	ns2.caurys.net.
 crystalservices.sn.	43200	IN	NS	ns1.caurys.net.
 crystalservices.sn.	43200	IN	NS	ns2.caurys.net.
 csa.sn.	43200	IN	NS	ns2.link-senegal.com.
@@ -16713,12 +16715,8 @@ sde.sn.	43200	IN	NS	ns.sonatel.sn.
 sde.sn.	43200	IN	NS	ns2.sonatel.sn.
 sdi.sn.	172800	IN	NS	ns.sonatel.sn.
 sdi.sn.	172800	IN	NS	ns2.sonatel.sn.
-sdiscount.sn.	172800	IN	NS	ns1.doli.sdiscount.sn.
 sdiscount.sn.	172800	IN	NS	ns1.sdiscount.sn.
-sdiscount.sn.	172800	IN	NS	ns2.doli.sdiscount.sn.
 sdiscount.sn.	172800	IN	NS	ns2.sdiscount.sn.
-ns1.doli.sdiscount.sn.	172800	IN	A	51.77.157.110
-ns2.doli.sdiscount.sn.	172800	IN	A	51.77.157.110
 ns1.sdiscount.sn.	172800	IN	A	51.77.157.110
 ns2.sdiscount.sn.	172800	IN	A	51.77.157.110
 sdm.sn.	172800	IN	NS	ns16.ovh.net.
