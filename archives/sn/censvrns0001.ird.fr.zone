@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438214 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438229 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [20/04/2022 12H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [20/04/2022 14H00:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -19549,6 +19549,8 @@ tickets.sn.	43200	IN	NS	cloe.ns.cloudflare.com.
 tidyshop.sn.	172800	IN	NS	ns200.anycast.me.
 tidyshop.sn.	172800	IN	NS	dns200.anycast.me.
 tidyshop.sn.	172800	IN	DS	30319 8 2 0fa178b6d02ae2f6da798ae059e5c2ede750bc7bff713402f76cf8ff21c78363
+tiepboudien.sn.	172800	IN	NS	ns200.anycast.me.
+tiepboudien.sn.	172800	IN	NS	dns200.anycast.me.
 tigo.sn.	43200	IN	NS	ns.tigo.sn.
 tigo.sn.	43200	IN	NS	ns2.tigo.sn.
 ns.tigo.sn.	43200	IN	A	154.65.34.2
@@ -21075,8 +21077,8 @@ wutiko.sn.	43200	IN	NS	ns1.kheweul.net.
 wutiko.sn.	43200	IN	NS	ns2.kheweul.net.
 wutiko.sn.	43200	IN	NS	ns3.kheweul.net.
 wutiko.sn.	43200	IN	NS	ns4.kheweul.net.
-wuuti.sn.	172800	IN	NS	jill.ns.cloudflare.com.
-wuuti.sn.	172800	IN	NS	javon.ns.cloudflare.com.
+wuuti.sn.	172800	IN	NS	ns1.siteground.net.
+wuuti.sn.	172800	IN	NS	ns2.siteground.net.
 wwenetwork.sn.	43200	IN	NS	ns1.wwe.com.
 wwenetwork.sn.	43200	IN	NS	ns2.wwe.com.
 wwte.sn.	43200	IN	NS	idns1.netsol.com.
