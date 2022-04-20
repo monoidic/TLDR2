@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438200 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438214 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [20/04/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [20/04/2022 12H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -499,8 +499,6 @@ actusen.sn.	172800	IN	DS	16713 7 2 31ae9eeec66b27e1d24e87ed519e43c9d822bc8bb984b
 actuthies.sn.	43200	IN	NS	ns1.ex2.com.
 actuthies.sn.	43200	IN	NS	ns2.ex2.com.
 actuthies.sn.	43200	IN	NS	ns3.ex2.com.
-ad2s-group.sn.	43200	IN	NS	ns1.o2switch.net.
-ad2s-group.sn.	43200	IN	NS	ns2.o2switch.net.
 adacemtltab.sn.	172800	IN	NS	ns106.ovh.net.
 adacemtltab.sn.	172800	IN	NS	dns106.ovh.net.
 adacemtltab.sn.	172800	IN	DS	10666 8 2 5fe6ee0002b0f37df9c0f4e497b3f1f99c654ba1361b2d1342828b5a3f3ed0e6
