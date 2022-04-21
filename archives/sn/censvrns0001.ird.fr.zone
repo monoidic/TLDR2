@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438425 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438440 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/04/2022 16H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [21/04/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6423,6 +6423,7 @@ edit.sn.	172800	IN	NS	ian.ns.cloudflare.com.
 edit.sn.	172800	IN	NS	tina.ns.cloudflare.com.
 editionsdidactikos.sn.	172800	IN	NS	ns200.anycast.me.
 editionsdidactikos.sn.	172800	IN	NS	dns200.anycast.me.
+editionsdidactikos.sn.	172800	IN	DS	3565 8 2 b9475fa20c77667f12719d374a2c441d7974e266451e3a54c570fc11423ffe93
 editis.sn.	172800	IN	NS	ns1.validname.com.
 editis.sn.	172800	IN	NS	ns2.validname.com.
 edja.sn.	43200	IN	NS	ns1.caurys.net.
@@ -12108,7 +12109,7 @@ lsb.sn.	43200	IN	NS	dns200.anycast.me.
 lsb.sn.	172800	IN	DS	39082 8 2 98e9d5c233aa267707e35a79a069ee0ff11945476fca0c309e17f835b3198771
 lsb-materiaux.sn.	43200	IN	NS	ns200.anycast.me.
 lsb-materiaux.sn.	43200	IN	NS	dns200.anycast.me.
-lsb-materiaux.sn.	43200	IN	DS	14389 8 2 06aed655b613656b5cff404aad8d26bfcc02ece855213e36a1672602bb3ba3a9
+lsb-materiaux.sn.	172800	IN	DS	45127 8 2 f7643ab4aaf386fa3c3d0dd4fe71124e8a35447778fc23549f926cb5e340e898
 lse-energies.sn.	172800	IN	NS	ns-9-b.gandi.net.
 lse-energies.sn.	172800	IN	NS	ns-71-c.gandi.net.
 lse-energies.sn.	172800	IN	NS	ns-179-a.gandi.net.
