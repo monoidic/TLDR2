@@ -1,4 +1,4 @@
-gp.	86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042116 86400 7200 2592000 345600
+gp.	86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022042118 86400 7200 2592000 345600
 gp.	86400	IN	NS	a.lactld.org.
 gp.	86400	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	86400	IN	NS	ns1.nic.gp.
@@ -7,8 +7,6 @@ gp.	86400	IN	NS	ns-gp.nic.fr.
 gp.	86400	IN	MX	10 ns1.nic.gp.
 0.gp.	86400	IN	NS	ns3.kv.de.
 0.gp.	86400	IN	NS	ns4.kv.de.
-00.gp.	86400	IN	NS	ns1.undeveloped.com.
-00.gp.	86400	IN	NS	ns2.undeveloped.com.
 01net.gp.	86400	IN	NS	a.ns.mailclub.fr.
 01net.gp.	86400	IN	NS	b.ns.mailclub.eu.
 01net.gp.	86400	IN	NS	c.ns.mailclub.com.
@@ -172,8 +170,6 @@ gp.	86400	IN	MX	10 ns1.nic.gp.
 999.gp.	86400	IN	NS	ns2.sedoparking.com.
 a.gp.	86400	IN	NS	ns1.website.org.
 a.gp.	86400	IN	NS	ns2.website.org.
-aa.gp.	86400	IN	NS	ns1.undeveloped.com.
-aa.gp.	86400	IN	NS	ns2.undeveloped.com.
 aaa.gp.	86400	IN	NS	ns106.ovh.net.
 aaa.gp.	86400	IN	NS	dns106.ovh.net.
 aag.gp.	86400	IN	NS	ns1.francedns.com.
@@ -1685,8 +1681,6 @@ espaceautos.gp.	86400	IN	NS	ns113.ovh.net.
 espaceautos.gp.	86400	IN	NS	dns113.ovh.net.
 espaceinterieur.gp.	86400	IN	NS	sdns2.ovh.net.
 espaceinterieur.gp.	86400	IN	NS	vps-204e817f.vps.ovh.net.
-espana.gp.	86400	IN	NS	ns1.nameserver.ie.
-espana.gp.	86400	IN	NS	ns2.nameserver.ie.
 esri.gp.	86400	IN	NS	ns1-park.esri.com.
 esri.gp.	86400	IN	NS	ns2-park.esri.com.
 essec.gp.	86400	IN	NS	indom10.indomco.com.
@@ -1847,8 +1841,6 @@ fitnessboutique.gp.	86400	IN	NS	ns3186.dns.dyn.com.
 fitnessboutique.gp.	86400	IN	NS	ns4188.dns.dyn.com.
 fitnesspark.gp.	86400	IN	NS	ns2195.dns.dyn.com.
 fitnesspark.gp.	86400	IN	NS	ns4188.dns.dyn.com.
-fl24.gp.	86400	IN	NS	dns1.cloudns.net.
-fl24.gp.	86400	IN	NS	dns2.cloudns.net.
 fld.gp.	86400	IN	NS	ns22.cloudns.net.
 fld.gp.	86400	IN	NS	ns23.cloudns.net.
 flir.gp.	86400	IN	NS	ns1.markmonitor.com.
@@ -1879,10 +1871,6 @@ ford.gp.	86400	IN	NS	lia.ns.cloudflare.com.
 ford.gp.	86400	IN	NS	chip.ns.cloudflare.com.
 forex.gp.	86400	IN	NS	ns1.sedoparking.com.
 forex.gp.	86400	IN	NS	ns2.sedoparking.com.
-formula-e.gp.	86400	IN	NS	ns1.undeveloped.com.
-formula-e.gp.	86400	IN	NS	ns2.undeveloped.com.
-formulae.gp.	86400	IN	NS	ns1.undeveloped.com.
-formulae.gp.	86400	IN	NS	ns2.undeveloped.com.
 formule1.gp.	86400	IN	NS	ns3.afternic.com.
 formule1.gp.	86400	IN	NS	ns4.afternic.com.
 forsale.gp.	86400	IN	NS	ns15.ovh.net.
@@ -1896,6 +1884,8 @@ fox.gp.	86400	IN	NS	ns6.markmonitor.com.
 fox.gp.	86400	IN	NS	ns7.markmonitor.com.
 fr.gp.	86400	IN	NS	ns1.subdomain.net.
 fr.gp.	86400	IN	NS	ns2.subdomain.net.
+fr24.gp.	86400	IN	NS	dns1.cloudns.net.
+fr24.gp.	86400	IN	NS	dns2.cloudns.net.
 fraikin.gp.	86400	IN	NS	s01.zone-srv.net.
 fraikin.gp.	86400	IN	NS	s11.zone-srv.net.
 franceantilles.gp.	86400	IN	NS	dns1.sdv.fr.
@@ -2636,6 +2626,10 @@ jetreports.gp.	86400	IN	NS	ns3.conetrix.com.
 jetreports.gp.	86400	IN	NS	ns4.conetrix.com.
 jets.gp.	86400	IN	NS	ns101.ovh.net.
 jets.gp.	86400	IN	NS	dns101.ovh.net.
+jets-200.gp.	86400	IN	NS	dns1.cloudns.net.
+jets-200.gp.	86400	IN	NS	dns2.cloudns.net.
+jets-400.gp.	86400	IN	NS	dns1.cloudns.net.
+jets-400.gp.	86400	IN	NS	dns2.cloudns.net.
 jets200.gp.	86400	IN	NS	ns15.ovh.net.
 jets200.gp.	86400	IN	NS	dns15.ovh.net.
 jets400.gp.	86400	IN	NS	dns1.cloudns.net.
@@ -4070,6 +4064,8 @@ pwcglobal.gp.	86400	IN	NS	dnsauth2.sys.gtei.net.
 pwcglobal.gp.	86400	IN	NS	dnsauth3.sys.gtei.net.
 q.gp.	86400	IN	NS	ns1.website.org.
 q.gp.	86400	IN	NS	ns2.website.org.
+q1.gp.	86400	IN	NS	dns1.cloudns.net.
+q1.gp.	86400	IN	NS	dns2.cloudns.net.
 qc.gp.	86400	IN	NS	dns1.cloudns.net.
 qc.gp.	86400	IN	NS	dns2.cloudns.net.
 qq.gp.	86400	IN	NS	ns1.sedoparking.com.
@@ -4078,6 +4074,8 @@ qr.gp.	86400	IN	NS	buck.ns.cloudflare.com.
 qr.gp.	86400	IN	NS	clara.ns.cloudflare.com.
 qualisun.gp.	86400	IN	NS	ns108.ovh.net.
 qualisun.gp.	86400	IN	NS	dns108.ovh.net.
+quebec-unite.gp.	86400	IN	NS	dns1.cloudns.net.
+quebec-unite.gp.	86400	IN	NS	dns2.cloudns.net.
 quiltednorthern.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
 quiltednorthern.gp.	86400	IN	NS	nssui.comlaude.ch.
 quiltednorthern.gp.	86400	IN	NS	nsusa.comlaude.net.
@@ -4532,10 +4530,6 @@ skyscanner.gp.	86400	IN	NS	ns1.netnames.net.
 skyscanner.gp.	86400	IN	NS	ns2.netnames.net.
 skyscanner.gp.	86400	IN	NS	ns5.netnames.net.
 skyscanner.gp.	86400	IN	NS	ns6.netnames.net.
-slot.gp.	86400	IN	NS	ns1.undeveloped.com.
-slot.gp.	86400	IN	NS	ns2.undeveloped.com.
-slots.gp.	86400	IN	NS	ns1.undeveloped.com.
-slots.gp.	86400	IN	NS	ns2.undeveloped.com.
 smart.gp.	86400	IN	NS	ns1.corpinter.net.
 smart.gp.	86400	IN	NS	ns2.corpinter.de.
 smart.gp.	86400	IN	NS	ns3.corpinter.net.
@@ -5015,8 +5009,6 @@ uz.gp.	86400	IN	NS	ns1.website.org.
 uz.gp.	86400	IN	NS	ns2.website.org.
 v.gp.	86400	IN	NS	ns1.website.org.
 v.gp.	86400	IN	NS	ns2.website.org.
-vacances.gp.	86400	IN	NS	ns1.undeveloped.com.
-vacances.gp.	86400	IN	NS	ns2.undeveloped.com.
 vacances-guadeloupe.gp.	86400	IN	NS	ns1.o2switch.net.
 vacances-guadeloupe.gp.	86400	IN	NS	ns2.o2switch.net.
 valkfleet.gp.	86400	IN	NS	ns3-eu.123ns.eu.
