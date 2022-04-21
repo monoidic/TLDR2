@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438453 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438469 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/04/2022 20H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [21/04/2022 22H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14900,8 +14900,10 @@ paytech.sn.	43200	IN	NS	dns20.ovh.net.
 paytick.sn.	172800	IN	NS	ns106.ovh.net.
 paytick.sn.	172800	IN	NS	dns106.ovh.net.
 paytick.sn.	172800	IN	DS	56677 8 2 299a8aac540edcdac9f6c3b5681113a093d3f1ee1398281a26c202248dfe93b0
-payu.sn.	43200	IN	NS	dns01.naspers.com.
-payu.sn.	43200	IN	NS	dns02.naspers.com.
+payu.sn.	172800	IN	NS	ns-63.awsdns-07.com.
+payu.sn.	172800	IN	NS	ns-853.awsdns-42.net.
+payu.sn.	172800	IN	NS	ns-1133.awsdns-13.org.
+payu.sn.	172800	IN	NS	ns-2004.awsdns-58.co.uk.
 pbcosmetics.sn.	172800	IN	NS	ns105.ovh.net.
 pbcosmetics.sn.	172800	IN	NS	dns105.ovh.net.
 pcbs.sn.	43200	IN	NS	ns1.it-num.com.
