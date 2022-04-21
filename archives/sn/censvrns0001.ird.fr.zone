@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438391 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438408 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [21/04/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [21/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8890,6 +8890,7 @@ gti.sn.	43200	IN	NS	ns17.ovh.net.
 gti.sn.	43200	IN	NS	dns17.ovh.net.
 gtide.sn.	172800	IN	NS	ns200.anycast.me.
 gtide.sn.	172800	IN	NS	dns200.anycast.me.
+gtide.sn.	172800	IN	DS	57214 8 2 d720864b76cf2b807f72efb02646eafef36f0e5aa4a43c1f14321151321703eb
 gtim.sn.	43200	IN	NS	ns200.anycast.me.
 gtim.sn.	43200	IN	NS	dns200.anycast.me.
 gtim.sn.	43200	IN	DS	55036 8 2 bb16ae1fbc2f2ab49a88e5e7082f3d106c73fe9f4290d3683d7194bf6a092490
@@ -9110,6 +9111,8 @@ hilton-hotels.sn.	43200	IN	NS	ns1.netnames.net.
 hilton-hotels.sn.	43200	IN	NS	ns2.netnames.net.
 hiltonhotels.sn.	43200	IN	NS	ns1.netnames.net.
 hiltonhotels.sn.	43200	IN	NS	ns2.netnames.net.
+hippocrate.sn.	172800	IN	NS	ns200.anycast.me.
+hippocrate.sn.	172800	IN	NS	dns200.anycast.me.
 hisense.sn.	43200	IN	NS	ns1.netim.net.
 hisense.sn.	43200	IN	NS	ns2.netim.net.
 hisense.sn.	43200	IN	NS	ns3.netim.net.
@@ -13398,6 +13401,10 @@ musix.sn.	43200	IN	NS	ns2.netim.net.
 musix.sn.	43200	IN	NS	ns3.netim.net.
 musix.sn.	43200	IN	NS	ns4.netim.net.
 musix.sn.	43200	IN	NS	ns5.netim.net.
+mustashop.sn.	172800	IN	NS	ns3.wanekoohost.com.
+mustashop.sn.	172800	IN	NS	ns4.wanekoohost.com.
+mustashop.sn.	172800	IN	NS	ns5.wanekoohost.com.
+mustashop.sn.	172800	IN	NS	ns6.wanekoohost.com.
 mustela.sn.	172800	IN	NS	nsa.perf1.fr.
 mustela.sn.	172800	IN	NS	nsb.perf1.com.
 mustela.sn.	172800	IN	NS	nsc.perf1.com.
@@ -17702,9 +17709,6 @@ shpf.sn.	43200	IN	NS	bonnie.ns.cloudflare.com.
 siab.sn.	172800	IN	NS	ns1.dreamhost.com.
 siab.sn.	172800	IN	NS	ns2.dreamhost.com.
 siab.sn.	172800	IN	NS	ns3.dreamhost.com.
-siac.sn.	43200	IN	NS	ns107.ovh.net.
-siac.sn.	43200	IN	NS	dns107.ovh.net.
-siac.sn.	43200	IN	DS	49987 8 2 3652b8395a0260db976b9f562306fe7fc6c4489eb2c266ac5b73406f6a36e47e
 siad.sn.	43200	IN	NS	ns.arc.sn.
 siad.sn.	43200	IN	NS	ns3.arc.sn.
 siaed.sn.	172800	IN	NS	ns103.ovh.net.
