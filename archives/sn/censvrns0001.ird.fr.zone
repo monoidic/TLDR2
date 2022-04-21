@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438363 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438377 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/04/2022 08H30:01]"
+sn.	172800	IN	TXT	"2 RRs processed [21/04/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8891,6 +8891,8 @@ gtfc.sn.	43200	IN	NS	ns8.jajeuf.com.
 gtfc.sn.	43200	IN	DS	53222 1 1 0d2cab52184ae88e2a34c78fec6a21f997d415bb
 gti.sn.	43200	IN	NS	ns17.ovh.net.
 gti.sn.	43200	IN	NS	dns17.ovh.net.
+gtide.sn.	172800	IN	NS	ns200.anycast.me.
+gtide.sn.	172800	IN	NS	dns200.anycast.me.
 gtim.sn.	43200	IN	NS	ns200.anycast.me.
 gtim.sn.	43200	IN	NS	dns200.anycast.me.
 gtim.sn.	43200	IN	DS	55036 8 2 bb16ae1fbc2f2ab49a88e5e7082f3d106c73fe9f4290d3683d7194bf6a092490
@@ -13972,9 +13974,6 @@ nsia-assetmanagement.sn.	43200	IN	NS	ns2.francedns.com.
 nsia-assetmanagement.sn.	43200	IN	NS	ns3.francedns.com.
 nsia-assetmanagement.sn.	43200	IN	NS	ns4.francedns.com.
 nsia-assetmanagement.sn.	43200	IN	NS	ns5.francedns.com.
-nsiabanque.sn.	43200	IN	NS	ns200.anycast.me.
-nsiabanque.sn.	43200	IN	NS	dns200.anycast.me.
-nsiabanque.sn.	43200	IN	DS	214 8 2 a8c08a6ea6aeefa3d16a3940291f937cbc3680473a5b35df643c81155531ef8b
 nsiachapchap.sn.	172800	IN	NS	ns1.cloudtemplewestafrica.com.
 nsiachapchap.sn.	172800	IN	NS	ns2.cloudtemplewestafrica.com.
 nsiachapchap.sn.	172800	IN	NS	ns3.cloudtemplewestafrica.com.

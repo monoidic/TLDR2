@@ -1,10 +1,10 @@
-mg.	7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042106 600 3600 604800 86400
+mg.	7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022042108 600 3600 604800 86400
 mg.	7200	IN	NS	ns.dts.mg.
 mg.	7200	IN	NS	ns.nic.mg.
 mg.	7200	IN	NS	pch.nic.mg.
 mg.	7200	IN	NS	ns-mg.malagasy.com.
 mg.	7200	IN	NS	censvrns0001.ird.fr.
-mg.	7200	IN	TXT	"Generation Time: 1650520891"
+mg.	7200	IN	TXT	"Generation Time: 1650528088"
 00.mg.	7200	IN	NS	gns1.cloudns.net.
 00.mg.	7200	IN	NS	gns2.cloudns.net.
 00.mg.	7200	IN	NS	gns3.cloudns.net.
@@ -129,6 +129,8 @@ mg.	7200	IN	TXT	"Generation Time: 1650520891"
 38.mg.	7200	IN	NS	ns2.dns.com.
 383.mg.	7200	IN	NS	ns1.dnscu.com.
 383.mg.	7200	IN	NS	ns2.dnscu.com.
+3917.mg.	7200	IN	NS	ns1.dns.com.
+3917.mg.	7200	IN	NS	ns2.dns.com.
 3977.mg.	7200	IN	NS	kim.ns.cloudflare.com.
 3977.mg.	7200	IN	NS	malcolm.ns.cloudflare.com.
 3bl.mg.	7200	IN	NS	ns.dts.mg.
@@ -894,8 +896,6 @@ antares-madagascar.mg.	7200	IN	NS	ns1.da.cloudns.io.
 antares-madagascar.mg.	7200	IN	NS	ns2.da.cloudns.io.
 antily.mg.	7200	IN	NS	ns1.gasyweb.com.
 antily.mg.	7200	IN	NS	ns2.gasyweb.com.
-antokoundd.mg.	7200	IN	NS	ns1.da.cloudns.io.
-antokoundd.mg.	7200	IN	NS	ns2.da.cloudns.io.
 antonio.mg.	7200	IN	NS	ns16.ovh.net.
 antonio.mg.	7200	IN	NS	dns16.ovh.net.
 ants-tech.mg.	7200	IN	NS	ns1705.websitewelcome.com.
@@ -3510,8 +3510,6 @@ erre.mg.	86400	IN	NS	ns.dts.mg.
 erre.mg.	86400	IN	NS	ns1.dts.mg.
 esca.mg.	86400	IN	NS	ns1.servermada.com.
 esca.mg.	86400	IN	NS	ns2.servermada.com.
-esca-moodle.mg.	86400	IN	NS	ns1.da.cloudns.io.
-esca-moodle.mg.	86400	IN	NS	ns2.da.cloudns.io.
 escapades.mg.	86400	IN	NS	ns11.ovh.net.
 escapades.mg.	86400	IN	NS	dns11.ovh.net.
 escapades-madagascar.mg.	86400	IN	NS	ns105.ovh.net.
@@ -4607,8 +4605,8 @@ haute-zonewifi.mg.	86400	IN	NS	ns1.ntmada-webhosting.com.
 haute-zonewifi.mg.	86400	IN	NS	ns2.ntmada-webhosting.com.
 hautecourdejustice-mada.mg.	86400	IN	NS	ns1.da.cloudns.io.
 hautecourdejustice-mada.mg.	86400	IN	NS	ns2.da.cloudns.io.
-haval.mg.	86400	IN	NS	ns1.cloudns.io.
-haval.mg.	86400	IN	NS	ns2.cloudns.io.
+haval.mg.	86400	IN	NS	ns1.da.cloudns.io.
+haval.mg.	86400	IN	NS	ns2.da.cloudns.io.
 havamad.mg.	86400	IN	NS	ns.dts.mg.
 havamad.mg.	86400	IN	NS	ns1.dts.mg.
 havana-resort.mg.	86400	IN	NS	bruce.ns.cloudflare.com.
@@ -10743,8 +10741,8 @@ unitedmalagasy.mg.	86400	IN	NS	ns1.o2switch.net.
 unitedmalagasy.mg.	86400	IN	NS	ns2.o2switch.net.
 unitedmotors.mg.	86400	IN	NS	ns.tgn.mg.
 unitedmotors.mg.	86400	IN	NS	ns1.tgn.mg.
-unitmedia.mg.	86400	IN	NS	ns101.ovh.net.
-unitmedia.mg.	86400	IN	NS	dns101.ovh.net.
+unitmedia.mg.	86400	IN	NS	eva.ns.cloudflare.com.
+unitmedia.mg.	86400	IN	NS	seth.ns.cloudflare.com.
 univ-antananarivo.mg.	86400	IN	NS	serivera.univ-antananarivo.mg.
 serivera.univ-antananarivo.mg.	86400	IN	A	192.139.15.34
 univ-antsiranana.mg.	86400	IN	NS	serveur.cnf.refer.mg.
