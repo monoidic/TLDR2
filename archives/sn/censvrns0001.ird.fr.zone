@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438605 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438624 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [22/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"2 RRs processed [22/04/2022 16H30:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1997,6 +1997,8 @@ autoroutedelavenir.sn.	43200	IN	NS	dante.ns.cloudflare.com.
 autoroutedelavenir.sn.	43200	IN	NS	journey.ns.cloudflare.com.
 autoservice.sn.	43200	IN	NS	ns1.caurys.net.
 autoservice.sn.	43200	IN	NS	ns2.caurys.net.
+autospa.sn.	172800	IN	NS	ns101.ovh.net.
+autospa.sn.	172800	IN	NS	dns101.ovh.net.
 autozone.sn.	43200	IN	NS	dns1.cscdns.net.
 autozone.sn.	43200	IN	NS	dns2.cscdns.net.
 auxfinspalais.sn.	172800	IN	NS	ns20.ovh.net.
@@ -3447,8 +3449,8 @@ captrans.sn.	172800	IN	NS	dns200.anycast.me.
 captrans.sn.	172800	IN	DS	55834 8 2 f1263349e62153c082ff335b60f3b2ea1d3c1ddcf1840dc67ef80b3cfdd5dcf4
 capvertinfos.sn.	172800	IN	NS	dns1.wmaker.net.
 capvertinfos.sn.	172800	IN	NS	dns2.wmaker.net.
-carapaces.sn.	43200	IN	NS	ns5.afriregister.com.
-carapaces.sn.	43200	IN	NS	ns6.afriregister.com.
+carapaces.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+carapaces.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 carat.sn.	43200	IN	NS	ns1.netnames.net.
 carat.sn.	43200	IN	NS	ns2.netnames.net.
 carat.sn.	43200	IN	NS	ns5.netnames.net.
@@ -12728,6 +12730,9 @@ mectrans.sn.	43200	IN	NS	ns3.kheweul.net.
 mectrans.sn.	43200	IN	NS	ns4.kheweul.net.
 meczy.sn.	172800	IN	NS	ns41.infomaniak.com.
 meczy.sn.	172800	IN	NS	ns42.infomaniak.com.
+meddo.sn.	172800	IN	NS	ns200.anycast.me.
+meddo.sn.	172800	IN	NS	dns200.anycast.me.
+meddo.sn.	172800	IN	DS	6571 8 2 7692135209a6df15aaccecb84f7673f4724786425771f6de43f6a958761bacb5
 medecinsdusahel.sn.	172800	IN	NS	eisdns1.expertis.sn.
 medecinsdusahel.sn.	172800	IN	NS	eisdns2.expertis.sn.
 mediabuzz.sn.	172800	IN	NS	cpanel7.lws-hosting.com.
@@ -17526,6 +17531,8 @@ sepi.sn.	172800	IN	NS	dns110.ovh.net.
 septodont.sn.	43200	IN	NS	ns1.gandi.net.
 septodont.sn.	43200	IN	NS	ns2.gandi.net.
 septodont.sn.	43200	IN	NS	ns3.gandi.net.
+septys.sn.	172800	IN	NS	dns1.hosteur.com.
+septys.sn.	172800	IN	NS	dns2.hosteur.com.
 seras.sn.	172800	IN	NS	ns103.ovh.net.
 seras.sn.	172800	IN	NS	dns103.ovh.net.
 seras.sn.	172800	IN	DS	6862 8 2 97fb473802824ef1f7fc0fc63fba26dd82856f08df18a0391978c9689697d4da
@@ -19796,11 +19803,6 @@ tourisme-senegal.sn.	43200	IN	NS	dns111.ovh.net.
 tous.sn.	43200	IN	NS	nsgbr.comlaude.co.uk.
 tous.sn.	43200	IN	NS	nssui.comlaude.ch.
 tous.sn.	43200	IN	NS	nsusa.comlaude.net.
-touta.sn.	43200	IN	NS	ns.bnamed.eu.
-touta.sn.	43200	IN	NS	ns.bnamed.uk.
-touta.sn.	43200	IN	NS	ns.bnamed.us.
-touta.sn.	43200	IN	NS	ns.nscluster.cz.
-touta.sn.	43200	IN	NS	ns.nscluster.ee.
 toutaffaire.sn.	172800	IN	NS	ns1.kheweul.net.
 toutaffaire.sn.	172800	IN	NS	ns2.kheweul.net.
 toutaffaire.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -20194,6 +20196,8 @@ unas-senegal.sn.	172800	IN	NS	nsb.n0c.com.
 unas-senegal.sn.	172800	IN	NS	nsc.n0c.com.
 unccias.sn.	43200	IN	NS	ns31.infomaniak.com.
 unccias.sn.	43200	IN	NS	ns32.infomaniak.com.
+uncs.sn.	172800	IN	NS	eisdns1.expertis.sn.
+uncs.sn.	172800	IN	NS	eisdns2.expertis.sn.
 underberg.sn.	43200	IN	NS	dns.voerde.globvill.de.
 underberg.sn.	43200	IN	NS	dns.globvill.de.
 uneatlantico.sn.	43200	IN	NS	ns3.acens.net.
