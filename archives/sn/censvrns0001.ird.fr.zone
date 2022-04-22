@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438487 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438507 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [22/04/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [22/04/2022 02H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8794,8 +8794,8 @@ groupediallo.sn.	43200	IN	NS	dns201.ittrefle.net.
 groupefutursmedias.sn.	172800	IN	NS	ns20.ovh.net.
 groupefutursmedias.sn.	172800	IN	NS	dns20.ovh.net.
 groupefutursmedias.sn.	172800	IN	DS	38044 8 2 3195efc0e485dcb0ea06fc5cfc1ef178f1f81428f9a8ca35cc30cd990d5e9424
-groupegce.sn.	43200	IN	NS	ns5.afriregister.com.
-groupegce.sn.	43200	IN	NS	ns6.afriregister.com.
+groupegce.sn.	172800	IN	NS	ns101.ovh.net.
+groupegce.sn.	172800	IN	NS	dns101.ovh.net.
 groupeibnbatouta.sn.	43200	IN	NS	ns1.caurys.net.
 groupeibnbatouta.sn.	43200	IN	NS	ns2.caurys.net.
 groupeifams.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -13522,8 +13522,6 @@ nafar.sn.	43200	IN	NS	ns.kimsufi.com.
 nafar.sn.	43200	IN	NS	ks381076.kimsufi.com.
 nakala.sn.	43200	IN	NS	ns1.caurys.net.
 nakala.sn.	43200	IN	NS	ns2.caurys.net.
-namaka.sn.	43200	IN	NS	cpanel17.lws-hosting.com.
-namaka.sn.	43200	IN	NS	cpanel18.lws-hosting.com.
 namek.sn.	172800	IN	NS	ns100.ovh.net.
 namek.sn.	172800	IN	NS	dns100.ovh.net.
 namek.sn.	172800	IN	DS	11074 8 2 3eeda1b066d6d53871dcb2200713cc0d2eb81aa189040c7e11823ab89dd25566
@@ -14714,10 +14712,6 @@ panbio.sn.	43200	IN	NS	rossns.abbott.com.
 panbio.sn.	43200	IN	NS	rossns2.abbott.com.
 panbio.sn.	43200	IN	NS	abtnsdmz1.abbott.com.
 panbio.sn.	43200	IN	NS	abtnsdmz2.abbott.com.
-panierdelamenageresenegalaise.sn.	43200	IN	NS	ns1.kheweul.net.
-panierdelamenageresenegalaise.sn.	43200	IN	NS	ns2.kheweul.net.
-panierdelamenageresenegalaise.sn.	43200	IN	NS	ns3.kheweul.net.
-panierdelamenageresenegalaise.sn.	43200	IN	NS	ns4.kheweul.net.
 panoply.sn.	172800	IN	NS	ns9.jajeuf.com.
 panoply.sn.	172800	IN	NS	ns10.jajeuf.com.
 papajohns.sn.	43200	IN	NS	dns1.cscdns.net.

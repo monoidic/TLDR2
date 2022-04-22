@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022042101 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022042102 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -13654,6 +13654,7 @@ re.	172800	IN	NS	d.nic.fr.
 re.	172800	IN	NS	e.ext.nic.fr.
 re.	172800	IN	NS	f.ext.nic.fr.
 re.	172800	IN	NS	g.ext.nic.fr.
+re.	86400	IN	DS	49754 13 2 ce6c40407ed006c7a2d34b04f01ea0d825a64fa2418d6e994192ad05ad24ff68
 re.	86400	IN	DS	52825 13 2 afc7c347395ca52e36e8851599efbf883dafb7f79fdeee5d849c2ba476d9f16b
 read.	172800	IN	NS	dns1.nic.read.
 read.	172800	IN	NS	dns2.nic.read.
