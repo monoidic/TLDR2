@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438589 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438605 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [22/04/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [22/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4710,7 +4710,6 @@ cosmetixdakar.sn.	43200	IN	NS	ns2.francedns.com.
 cosmetixdakar.sn.	43200	IN	NS	ns3.francedns.com.
 cospetrogaz.sn.	43200	IN	NS	ns200.anycast.me.
 cospetrogaz.sn.	43200	IN	NS	dns200.anycast.me.
-cospetrogaz.sn.	172800	IN	DS	2811 7 2 dbd53f2a21699389197503356a5b8374a70d35938113dd7fe10d83a2e738168d
 cosquare.sn.	43200	IN	NS	ns1.hostnet.nl.
 cosquare.sn.	43200	IN	NS	ns2.hosnetbv.com.
 cosquare.sn.	43200	IN	NS	ns3.hostnetbv.nl.
@@ -12629,9 +12628,6 @@ mbalax.sn.	172800	IN	NS	dns16.ovh.net.
 mbalax.sn.	172800	IN	DS	10939 8 2 01b55d7b1de6d9275b60d02af333c2bea5384ecc0980c8fb10cc685e5f5d1c20
 mbaobois.sn.	43200	IN	NS	ns31.infomaniak.com.
 mbaobois.sn.	43200	IN	NS	ns32.infomaniak.com.
-mbayebabacar.sn.	43200	IN	NS	ns107.ovh.net.
-mbayebabacar.sn.	43200	IN	NS	dns107.ovh.net.
-mbayebabacar.sn.	43200	IN	DS	7234 8 2 d1e24705b680122131ac0b9925129e2cc3b5a687174f8640c23b270c9e6ebfda
 mbaymi.sn.	172800	IN	NS	ns100.ovh.net.
 mbaymi.sn.	172800	IN	NS	dns100.ovh.net.
 mbaymi.sn.	172800	IN	DS	8239 8 2 eef436cfb4f1d8699944f17d55b0dfcdce01e09a7bfb3f4b9c53668ad63a59ee
@@ -13572,6 +13568,10 @@ natural-beauty.sn.	172800	IN	NS	ns200.anycast.me.
 natural-beauty.sn.	172800	IN	NS	dns200.anycast.me.
 natureattitude.sn.	43200	IN	NS	ns110.ovh.net.
 natureattitude.sn.	43200	IN	NS	dns110.ovh.net.
+natuzzi.sn.	172800	IN	NS	dns1.cscdns.net.
+natuzzi.sn.	172800	IN	NS	dns2.cscdns.net.
+natuzzieditions.sn.	172800	IN	NS	dns1.cscdns.net.
+natuzzieditions.sn.	172800	IN	NS	dns2.cscdns.net.
 nauticalodge.sn.	43200	IN	NS	ns16.ovh.net.
 nauticalodge.sn.	43200	IN	NS	dns16.ovh.net.
 navetane.sn.	172800	IN	NS	ns105.ovh.net.
@@ -14074,9 +14074,6 @@ oberthur.sn.	43200	IN	NS	dns2.cscdns.net.
 objetrama.sn.	43200	IN	NS	a.dns.gandi.net.
 objetrama.sn.	43200	IN	NS	b.dns.gandi.net.
 objetrama.sn.	43200	IN	NS	c.dns.gandi.net.
-obk.sn.	43200	IN	NS	ns200.anycast.me.
-obk.sn.	43200	IN	NS	dns200.anycast.me.
-obk.sn.	43200	IN	DS	18664 8 2 e2ba691d1d3c858b1e784eaf419c1fe3317a091c18f6135550edd86a7783c6f0
 obs-industrie.sn.	43200	IN	NS	ns.obs-industrie.sn.
 obs-industrie.sn.	43200	IN	NS	ns2.obs-industrie.sn.
 ns.obs-industrie.sn.	43200	IN	A	213.154.75.27
