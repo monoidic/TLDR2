@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438573 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438589 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [22/04/2022 10H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [22/04/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4732,6 +4732,10 @@ cotransen.sn.	43200	IN	NS	ns200.anycast.me.
 cotransen.sn.	43200	IN	NS	dns200.anycast.me.
 coud.sn.	43200	IN	NS	ns.sonatel.sn.
 coud.sn.	43200	IN	NS	ns2.sonatel.sn.
+coumbelle.sn.	172800	IN	NS	ns3.wanekoohost.com.
+coumbelle.sn.	172800	IN	NS	ns4.wanekoohost.com.
+coumbelle.sn.	172800	IN	NS	ns5.wanekoohost.com.
+coumbelle.sn.	172800	IN	NS	ns6.wanekoohost.com.
 coummbiaa.sn.	43200	IN	NS	ns1.ascio.com.
 coummbiaa.sn.	43200	IN	NS	ns2.ascio.com.
 coummbiaa.sn.	43200	IN	NS	ns3.ascio.com.
@@ -8796,6 +8800,7 @@ groupefutursmedias.sn.	172800	IN	NS	dns20.ovh.net.
 groupefutursmedias.sn.	172800	IN	DS	38044 8 2 3195efc0e485dcb0ea06fc5cfc1ef178f1f81428f9a8ca35cc30cd990d5e9424
 groupegce.sn.	172800	IN	NS	ns101.ovh.net.
 groupegce.sn.	172800	IN	NS	dns101.ovh.net.
+groupegce.sn.	172800	IN	DS	10552 8 2 40fc3065bc02fa7a3169ae5b9eba00d6cec09b40562a76682703f34792dfdf03
 groupeibnbatouta.sn.	43200	IN	NS	ns1.caurys.net.
 groupeibnbatouta.sn.	43200	IN	NS	ns2.caurys.net.
 groupeifams.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -10569,9 +10574,6 @@ jobchain.sn.	172800	IN	NS	ns4.markmonitor.com.
 jobchain.sn.	172800	IN	NS	ns5.markmonitor.com.
 jobchain.sn.	172800	IN	NS	ns6.markmonitor.com.
 jobchain.sn.	172800	IN	NS	ns7.markmonitor.com.
-jobrek.sn.	43200	IN	NS	ns107.ovh.net.
-jobrek.sn.	43200	IN	NS	dns107.ovh.net.
-jobrek.sn.	43200	IN	DS	20932 8 2 c92131c3630c117fdfe9e94b875c574763256a6e6bc43bbdf698bc453fce0f88
 jogjef.sn.	43200	IN	NS	ns11.ovh.net.
 jogjef.sn.	43200	IN	NS	dns11.ovh.net.
 jogjef.sn.	43200	IN	DS	27994 8 2 0a0d5022f429b491aab1253063672b9092308ac03a8b049836718755c3cac50e
@@ -13246,8 +13248,8 @@ monterrain.sn.	172800	IN	NS	dns103.ovh.net.
 monterrain.sn.	172800	IN	DS	20059 8 2 36d5c1d70d5c2d56f1d4e9f144e3174e8eec9ad65232bd5c3ee1c3a49dad18ec
 montessori.sn.	43200	IN	NS	ns.arc.sn.
 montessori.sn.	43200	IN	NS	ns3.arc.sn.
-montre.sn.	172800	IN	NS	ns1.storeinodns.com.
-montre.sn.	172800	IN	NS	ns2.storeinodns.com.
+montre.sn.	172800	IN	NS	ns1.youcan.shop.
+montre.sn.	172800	IN	NS	ns2.youcan.shop.
 montrezvoussenegal.sn.	172800	IN	NS	eisdns1.expertis.sn.
 montrezvoussenegal.sn.	172800	IN	NS	eisdns2.expertis.sn.
 monymoney.sn.	172800	IN	NS	ns200.anycast.me.
@@ -13475,6 +13477,9 @@ mygiftmarket.sn.	172800	IN	NS	ns6.wanekoohost.com.
 myhotelbike.sn.	43200	IN	NS	ns1.netim.net.
 myhotelbike.sn.	43200	IN	NS	ns2.netim.net.
 myhotelbike.sn.	43200	IN	NS	ns3.netim.net.
+myhrstaffing.sn.	172800	IN	NS	ns1.francedns.com.
+myhrstaffing.sn.	172800	IN	NS	ns2.francedns.com.
+myhrstaffing.sn.	172800	IN	NS	ns3.francedns.com.
 myimmo.sn.	172800	IN	NS	ns1.sourserv.com.
 myimmo.sn.	172800	IN	NS	ns2.sourserv.com.
 myisic.sn.	43200	IN	NS	ns1.netim.net.
@@ -14044,6 +14049,9 @@ nyvepria.sn.	43200	IN	NS	ns4.p15.dynect.net.
 o2nails.sn.	172800	IN	NS	ns200.anycast.me.
 o2nails.sn.	172800	IN	NS	dns200.anycast.me.
 o2nails.sn.	172800	IN	DS	60571 8 2 25ac7c4a50320d7c844ace8f2916f46a0a358f56b748f400f4681c07a9e63dd4
+o2s.sn.	172800	IN	NS	ns1.francedns.com.
+o2s.sn.	172800	IN	NS	ns2.francedns.com.
+o2s.sn.	172800	IN	NS	ns3.francedns.com.
 o3s.sn.	172800	IN	NS	ns9.jajeuf.com.
 o3s.sn.	172800	IN	NS	ns10.jajeuf.com.
 o3s.sn.	172800	IN	DS	3022 1 1 928937be5f6169865fb39eb1558b9315c322c335
@@ -18902,6 +18910,8 @@ super-orange.sn.	43200	IN	NS	ns.sonatel.sn.
 super-orange.sn.	43200	IN	NS	ns2.sonatel.sn.
 supermarche.sn.	172800	IN	NS	ns1.stackdns.com.
 supermarche.sn.	172800	IN	NS	ns2.stackdns.com.
+superpromo.sn.	172800	IN	NS	ns1.gwedi.com.
+superpromo.sn.	172800	IN	NS	ns2.gwedi.com.
 supersportbet.sn.	172800	IN	NS	ns1-03.azure-dns.com.
 supersportbet.sn.	172800	IN	NS	ns2-03.azure-dns.net.
 supersportbet.sn.	172800	IN	NS	ns3-03.azure-dns.org.
