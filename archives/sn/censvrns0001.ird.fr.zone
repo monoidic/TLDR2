@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438772 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438794 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/04/2022 12H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [23/04/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1755,6 +1755,9 @@ asis.sn.	172800	IN	NS	dns20.ovh.net.
 asis.sn.	172800	IN	DS	63436 8 2 d343fbd01c904a1def05ae09b6e8d0acdfa791f33d8dd1e5d9320173a5db6ba9
 askan.sn.	172800	IN	NS	ns104.ovh.net.
 askan.sn.	172800	IN	NS	dns104.ovh.net.
+askanoo.sn.	172800	IN	NS	ns101.ovh.net.
+askanoo.sn.	172800	IN	NS	dns101.ovh.net.
+askanoo.sn.	172800	IN	DS	45964 8 2 3768faf491f1adb1c7a22b6a641de3baad5fc6c2224da0155116435a17963d78
 askari.sn.	43200	IN	NS	ns1.lexsynergy.net.
 askari.sn.	43200	IN	NS	ns2.lexsynergy.us.
 askari.sn.	43200	IN	NS	ns3.lexsynergy.info.
@@ -8411,6 +8414,8 @@ gito.sn.	172800	IN	NS	ns10.jajeuf.com.
 gito.sn.	172800	IN	DS	3022 1 1 928937be5f6169865fb39eb1558b9315c322c335
 givpik.sn.	172800	IN	NS	ns1.apps1global.com.
 givpik.sn.	172800	IN	NS	ns2.apps1global.com.
+ns1.givpik.sn.	172800	IN	A	66.29.156.148
+ns2.givpik.sn.	172800	IN	A	66.29.156.148
 glamgloss.sn.	172800	IN	NS	dns1.namecheaphosting.com.
 glamgloss.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 glaxosmithkline.sn.	43200	IN	NS	ns.domainnetwork.se.
@@ -14312,6 +14317,9 @@ opef.sn.	43200	IN	NS	ns3.kheweul.net.
 opef.sn.	43200	IN	NS	ns4.kheweul.net.
 opendesign.sn.	172800	IN	NS	ns1.o2switch.net.
 opendesign.sn.	172800	IN	NS	ns2.o2switch.net.
+opengeode.sn.	172800	IN	NS	ns1.netim.net.
+opengeode.sn.	172800	IN	NS	ns2.netim.net.
+opengeode.sn.	172800	IN	NS	ns3.netim.net.
 openjob.sn.	172800	IN	NS	ns1.francedns.com.
 openjob.sn.	172800	IN	NS	ns2.francedns.com.
 openjob.sn.	172800	IN	NS	ns3.francedns.com.
@@ -19291,9 +19299,6 @@ tecsen-internationalsa.sn.	43200	IN	NS	ns.sonatel.sn.
 tecsen-internationalsa.sn.	43200	IN	NS	ns2.sonatel.sn.
 tectra.sn.	43200	IN	NS	ns8051.hostgator.com.
 tectra.sn.	43200	IN	NS	ns8052.hostgator.com.
-tedo.sn.	43200	IN	NS	ns200.anycast.me.
-tedo.sn.	43200	IN	NS	dns200.anycast.me.
-tedo.sn.	43200	IN	DS	2980 8 2 4036234770491b03db038065bcb785e5e257220603fc6a2e8d283fd5c0aad7a4
 tegalma.sn.	172800	IN	NS	dns1.namecheaphosting.com.
 tegalma.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 tek.sn.	172800	IN	NS	ns104.ovh.net.
