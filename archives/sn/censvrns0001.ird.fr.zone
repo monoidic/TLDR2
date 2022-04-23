@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438861 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438880 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/04/2022 22H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [24/04/2022 00H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2838,6 +2838,10 @@ blum.sn.	43200	IN	NS	ns12.managed-ip.info.
 blupuramimaservices.sn.	172800	IN	NS	ns105.ovh.net.
 blupuramimaservices.sn.	172800	IN	NS	dns105.ovh.net.
 blupuramimaservices.sn.	172800	IN	DS	22114 8 2 f6b3ac7c4c706f758bd63b04718f448b42bb3664851d3df8c85f9bdd2412c83e
+blutica.sn.	172800	IN	NS	ns3.wanekoohost.com.
+blutica.sn.	172800	IN	NS	ns4.wanekoohost.com.
+blutica.sn.	172800	IN	NS	ns5.wanekoohost.com.
+blutica.sn.	172800	IN	NS	ns6.wanekoohost.com.
 bmasolution.sn.	172800	IN	NS	ns106.ovh.net.
 bmasolution.sn.	172800	IN	NS	dns106.ovh.net.
 bmasolution.sn.	172800	IN	DS	47911 8 2 b6ba63bb266f512658245de97ccaab31f30746a9bd1e7a3d28d87fe0ecfb0959
@@ -19082,6 +19086,10 @@ tabakh.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 tabakh.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 tabax.sn.	43200	IN	NS	ns1.dns-parking.com.
 tabax.sn.	43200	IN	NS	ns2.dns-parking.com.
+tabaxjotna.sn.	172800	IN	NS	ns1.kheweul.net.
+tabaxjotna.sn.	172800	IN	NS	ns2.kheweul.net.
+tabaxjotna.sn.	172800	IN	NS	ns3.kheweul.net.
+tabaxjotna.sn.	172800	IN	NS	ns4.kheweul.net.
 tabet.sn.	172800	IN	NS	ns105.kreativmedia.ch.
 tabet.sn.	172800	IN	NS	ns106.kreativmedia.ch.
 taboucommunication.sn.	43200	IN	NS	ns.sonatel.sn.
