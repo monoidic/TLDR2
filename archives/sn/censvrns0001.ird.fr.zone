@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438740 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222438754 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [23/04/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [23/04/2022 10H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1477,8 +1477,10 @@ apds.sn.	172800	IN	NS	dns103.ovh.net.
 apds.sn.	172800	IN	DS	28855 8 2 b106d3317082b455b05b1d980b93e6ddd2580b2473d24f7a1c9cb91eebdba150
 ape-ibm.sn.	172800	IN	NS	ns31.infomaniak.com.
 ape-ibm.sn.	172800	IN	NS	ns32.infomaniak.com.
-apecsy.sn.	43200	IN	NS	ns1.kheweul.net.
-apecsy.sn.	43200	IN	NS	ns2.kheweul.net.
+apecsy.sn.	172800	IN	NS	ns1.kheweul.net.
+apecsy.sn.	172800	IN	NS	ns2.kheweul.net.
+apecsy.sn.	172800	IN	NS	ns3.kheweul.net.
+apecsy.sn.	172800	IN	NS	ns4.kheweul.net.
 apex.sn.	43200	IN	NS	ns1.brandcloudns.com.
 apex.sn.	43200	IN	NS	ns2.brandcloudns.com.
 aphia.sn.	43200	IN	NS	ns1.caurys.net.
