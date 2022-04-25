@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439244 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439264 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"5 RRs processed [25/04/2022 18H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [25/04/2022 20H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3800,8 +3800,8 @@ ceetrus.sn.	172800	IN	NS	dns1.cscdns.net.
 ceetrus.sn.	172800	IN	NS	dns2.cscdns.net.
 cein.sn.	172800	IN	NS	ns1.caurys.net.
 cein.sn.	172800	IN	NS	ns2.caurys.net.
-cel.sn.	43200	IN	NS	dns1.stabletransit.com.
-cel.sn.	43200	IN	NS	dns2.stabletransit.com.
+cel.sn.	172800	IN	NS	ns200.anycast.me.
+cel.sn.	172800	IN	NS	dns200.anycast.me.
 celloil.sn.	43200	IN	NS	ns1.validname.com.
 celloil.sn.	43200	IN	NS	ns2.validname.com.
 celsenegal.sn.	43200	IN	NS	ns107.ovh.net.
@@ -4514,6 +4514,8 @@ commune-hlm.sn.	43200	IN	DS	59425 8 2 c1c5647cc2bf0155f3ba6de3620ca3e4c90cb78a7c
 commune-ngogom.sn.	172800	IN	NS	ns200.anycast.me.
 commune-ngogom.sn.	172800	IN	NS	dns200.anycast.me.
 commune-ngogom.sn.	172800	IN	DS	29125 8 2 581e480c9e484470f9b540a5e52db0aef58c6c753333585b2ac5f27ca1810de0
+communedekedougou.sn.	172800	IN	NS	ns101.ovh.net.
+communedekedougou.sn.	172800	IN	NS	dns101.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	ns18.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	dns18.ovh.net.
 communedekoul.sn.	43200	IN	NS	dns1.namecheaphosting.com.
@@ -7221,6 +7223,8 @@ ns.everyday.sn.	43200	IN	A	41.208.148.35
 ns2.everyday.sn.	43200	IN	A	41.208.148.36
 evinostudio.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 evinostudio.sn.	172800	IN	NS	ns9.jokko-hosting.com.
+evo.sn.	172800	IN	NS	ns200.anycast.me.
+evo.sn.	172800	IN	NS	dns200.anycast.me.
 evolution.sn.	172800	IN	NS	ns1.zaccodns.com.
 evolution.sn.	172800	IN	NS	ns2.zaccodns.se.
 evolution.sn.	172800	IN	NS	dns1.zaccodigitaltrustlabs.com.

@@ -1,9 +1,9 @@
-arpa.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022042501 1800 900 604800 86400
-arpa.	518400	IN	NS	a.root-servers.net.
+arpa.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022042502 1800 900 604800 86400
+arpa.	518400	IN	NS	a.ns.arpa.
 arpa.	518400	IN	NS	b.root-servers.net.
-arpa.	518400	IN	NS	c.root-servers.net.
+arpa.	518400	IN	NS	c.ns.arpa.
 arpa.	518400	IN	NS	d.root-servers.net.
-arpa.	518400	IN	NS	e.root-servers.net.
+arpa.	518400	IN	NS	e.ns.arpa.
 arpa.	518400	IN	NS	f.root-servers.net.
 arpa.	518400	IN	NS	g.root-servers.net.
 arpa.	518400	IN	NS	h.root-servers.net.
@@ -102,6 +102,12 @@ iris.arpa.	172800	IN	NS	ns4.apnic.net.
 iris.arpa.	86400	IN	DS	38534 8 2 163416c9dcaf8d1babfec16552ed109029607907ab80b195e1dab40f1792a59c
 iris.arpa.	86400	IN	DS	39464 8 2 1e09a2d6374800d54cfd0e52293906ccf7db7e923dcab7015e4bb697d76d9846
 iris.arpa.	86400	IN	DS	44285 8 2 05cbf77375a8bf5702cf8e261ff947be8c8ab7a0b9485a0241edcfe2f155c7f3
+a.ns.arpa.	518400	IN	A	198.41.0.4
+a.ns.arpa.	518400	IN	AAAA	2001:503:ba3e::2:30
+c.ns.arpa.	518400	IN	A	192.33.4.12
+c.ns.arpa.	518400	IN	AAAA	2001:500:2::c
+e.ns.arpa.	518400	IN	A	192.203.230.10
+e.ns.arpa.	518400	IN	AAAA	2001:500:a8::e
 uri.arpa.	172800	IN	NS	a.iana-servers.net.
 uri.arpa.	172800	IN	NS	b.iana-servers.net.
 uri.arpa.	172800	IN	NS	c.iana-servers.net.
