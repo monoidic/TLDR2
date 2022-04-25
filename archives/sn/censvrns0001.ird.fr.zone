@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439204 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439228 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [25/04/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2934,8 +2934,10 @@ bookingsuite.sn.	43200	IN	NS	ns3.bkngs.com.
 bookmakers.sn.	172800	IN	NS	ns2.francedns.com.
 bookmakers.sn.	172800	IN	NS	ns3.francedns.com.
 bookmakers.sn.	172800	IN	NS	cloudf03.francedns.com.
-booleniar.sn.	172800	IN	NS	ns1.cp-50.webhostbox.net.
-booleniar.sn.	172800	IN	NS	ns2.cp-50.webhostbox.net.
+booleniar.sn.	172800	IN	NS	ns1.booleniar.sn.
+booleniar.sn.	172800	IN	NS	ns2.booleniar.sn.
+ns1.booleniar.sn.	172800	IN	A	69.49.246.227
+ns2.booleniar.sn.	172800	IN	A	69.49.246.227
 boomerang.sn.	172800	IN	NS	ns113.ovh.net.
 boomerang.sn.	172800	IN	NS	dns113.ovh.net.
 boost.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -13853,6 +13855,9 @@ nitnet.sn.	43200	IN	NS	ns.sonatel.sn.
 nitnet.sn.	43200	IN	NS	ns2.sonatel.sn.
 nivel.sn.	43200	IN	NS	ns10.ovh.net.
 nivel.sn.	43200	IN	NS	dns10.ovh.net.
+nkl.sn.	172800	IN	NS	ns101.ovh.net.
+nkl.sn.	172800	IN	NS	dns101.ovh.net.
+nkl.sn.	172800	IN	DS	14767 8 2 8b052603de1c0504b00fffd0cf473b8119e7df6a8a7ff56b6616c27254031ce2
 nmc-nutrition.sn.	172800	IN	NS	pdns13.domaincontrol.com.
 nmc-nutrition.sn.	172800	IN	NS	pdns14.domaincontrol.com.
 nmktransports.sn.	172800	IN	NS	nsa.n0c.com.
@@ -14005,6 +14010,9 @@ nsia-assetmanagement.sn.	43200	IN	NS	ns2.francedns.com.
 nsia-assetmanagement.sn.	43200	IN	NS	ns3.francedns.com.
 nsia-assetmanagement.sn.	43200	IN	NS	ns4.francedns.com.
 nsia-assetmanagement.sn.	43200	IN	NS	ns5.francedns.com.
+nsiabanque.sn.	172800	IN	NS	ns200.anycast.me.
+nsiabanque.sn.	172800	IN	NS	dns200.anycast.me.
+nsiabanque.sn.	172800	IN	DS	214 8 2 a8c08a6ea6aeefa3d16a3940291f937cbc3680473a5b35df643c81155531ef8b
 nsiachapchap.sn.	172800	IN	NS	ns1.cloudtemplewestafrica.com.
 nsiachapchap.sn.	172800	IN	NS	ns2.cloudtemplewestafrica.com.
 nsiachapchap.sn.	172800	IN	NS	ns3.cloudtemplewestafrica.com.
@@ -14157,7 +14165,7 @@ officechoice.sn.	43200	IN	NS	ns6121.hostgator.com.
 officechoice.sn.	43200	IN	NS	ns6122.hostgator.com.
 officedubac.sn.	43200	IN	NS	ns113.ovh.net.
 officedubac.sn.	43200	IN	NS	dns113.ovh.net.
-officedubac.sn.	43200	IN	DS	35737 8 2 e7168a6bed246a275b5c681f71a0c3c3801b40d93a7e03356eb41991f21c6c4c
+officedubac.sn.	172800	IN	DS	16720 8 2 f18ca9dee397470036af5db720aae234ea96b68ae6c7a77e1b755a2b286f870c
 officexpress.sn.	43200	IN	NS	ns1.kheweul.net.
 officexpress.sn.	43200	IN	NS	ns2.kheweul.net.
 officexpress.sn.	43200	IN	NS	ns3.kheweul.net.

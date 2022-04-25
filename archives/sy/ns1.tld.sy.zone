@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042520 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042524 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1650880942"
+sy.	86400	IN	TXT	"Generation Time: 1650895341"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -1400,8 +1400,8 @@ arc.sy.	86400	IN	NS	ns3.tld.sy.
 arc.sy.	86400	IN	NS	ns4.tld.sy.
 archimedes.sy.	86400	IN	NS	suspend1.tld.sy.
 archimedes.sy.	86400	IN	NS	suspend2.tld.sy.
-arecsy.sy.	86400	IN	NS	suspend1.tld.sy.
-arecsy.sy.	86400	IN	NS	suspend2.tld.sy.
+arecsy.sy.	86400	IN	NS	ns3.tld.sy.
+arecsy.sy.	86400	IN	NS	ns4.tld.sy.
 arfi-bro.sy.	86400	IN	NS	suspend1.tld.sy.
 arfi-bro.sy.	86400	IN	NS	suspend2.tld.sy.
 arheel.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -3766,6 +3766,8 @@ intracom.sy.	86400	IN	NS	ns1.scs-net.sy.
 intracom.sy.	86400	IN	NS	ns1.scs-net.org.
 intracom.sy.	86400	IN	NS	ns2.scs-net.sy.
 intracom.sy.	86400	IN	NS	ns2.scs-net.org.
+intsmartsys.sy.	86400	IN	NS	ns1.monster.sy.
+intsmartsys.sy.	86400	IN	NS	ns2.monster.sy.
 investinsyria.sy.	86400	IN	NS	ns1.shamcenter.com.
 investinsyria.sy.	86400	IN	NS	ns2.shamcenter.com.
 investn.sy.	86400	IN	NS	ns1.shamcenter.com.
@@ -5944,8 +5946,8 @@ sanofi.sy.	86400	IN	NS	ns1.sanofi-synthelabo.com.
 sanofi.sy.	86400	IN	NS	ns2.sanofi-synthelabo.com.
 sanofi.sy.	86400	IN	NS	ns3.sanofi-synthelabo.com.
 sanofi.sy.	86400	IN	NS	ns4.sanofi-synthelabo.com.
-sarc.sy.	86400	IN	NS	ns1.alanqaa.com.
-sarc.sy.	86400	IN	NS	ns2.alanqaa.com.
+sarc.sy.	86400	IN	NS	kolton.ns.cloudflare.com.
+sarc.sy.	86400	IN	NS	addyson.ns.cloudflare.com.
 sardawrak.sy.	86400	IN	NS	suspend1.tld.sy.
 sardawrak.sy.	86400	IN	NS	suspend2.tld.sy.
 sarraj-bro.sy.	86400	IN	NS	suspend1.tld.sy.
