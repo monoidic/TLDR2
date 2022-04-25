@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439228 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439244 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/04/2022 16H20:01]"
+sn.	172800	IN	TXT	"5 RRs processed [25/04/2022 18H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6208,6 +6208,9 @@ eagd.sn.	43200	IN	NS	ns200.anycast.me.
 eagd.sn.	43200	IN	NS	dns200.anycast.me.
 eastpak.sn.	43200	IN	NS	ns1.vfc.com.
 eastpak.sn.	43200	IN	NS	ns2.vfc.com.
+eastwestnetworks.sn.	172800	IN	NS	ns200.anycast.me.
+eastwestnetworks.sn.	172800	IN	NS	dns200.anycast.me.
+eastwestnetworks.sn.	172800	IN	DS	16552 8 2 bd8ebcfd7245775165cd0b48c61daeecd76d844538803f946695450cc7fde07a
 easy-tv.sn.	43200	IN	NS	ns2.observatoiredesmarques.fr.
 easy-tv.sn.	43200	IN	NS	ns3.nameshield.net.
 easy-tv.sn.	43200	IN	NS	obs.ns1.fr.
@@ -6433,10 +6436,8 @@ edgegroup.sn.	43200	IN	NS	ns1.kheweul.net.
 edgegroup.sn.	43200	IN	NS	ns2.kheweul.net.
 edgegroup.sn.	43200	IN	NS	ns3.kheweul.net.
 edgegroup.sn.	43200	IN	NS	ns4.kheweul.net.
-edgestudio.sn.	172800	IN	NS	ns1.kheweul.net.
-edgestudio.sn.	172800	IN	NS	ns2.kheweul.net.
-edgestudio.sn.	172800	IN	NS	ns3.kheweul.net.
-edgestudio.sn.	172800	IN	NS	ns4.kheweul.net.
+edgestudio.sn.	172800	IN	NS	ns1.md-88.webhostbox.net.
+edgestudio.sn.	172800	IN	NS	ns2.md-88.webhostbox.net.
 edit.sn.	172800	IN	NS	ian.ns.cloudflare.com.
 edit.sn.	172800	IN	NS	tina.ns.cloudflare.com.
 editionsdidactikos.sn.	172800	IN	NS	ns200.anycast.me.
@@ -10819,8 +10820,10 @@ kalydia.sn.	43200	IN	NS	derusrazdns01.ey.com.
 kalydia.sn.	43200	IN	NS	sgsinrazdns01.ey.com.
 kalydia.sn.	43200	IN	NS	ussecrazdns01.ey.com.
 kalydia.sn.	172800	IN	DS	4246 8 2 d1b91f8a1181b1e79c5e059b4f3435ed0f7a7e7b7aaf83330efebc035ba355b9
-kamac.sn.	43200	IN	NS	ns1.hostpapa.com.
-kamac.sn.	43200	IN	NS	ns2.hostpapa.com.
+kamac.sn.	172800	IN	NS	ns1.kheweul.net.
+kamac.sn.	172800	IN	NS	ns2.kheweul.net.
+kamac.sn.	172800	IN	NS	ns3.kheweul.net.
+kamac.sn.	172800	IN	NS	ns4.kheweul.net.
 kamaz.sn.	43200	IN	NS	ns2.wixdns.net.
 kamaz.sn.	43200	IN	NS	ns3.wixdns.net.
 kambal.sn.	172800	IN	NS	ns1.o2switch.net.
@@ -18391,8 +18394,10 @@ somaga.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 somaga.sn.	172800	IN	NS	ns6.jokko-hosting.com.
 somatrade.sn.	172800	IN	NS	ns1.siteground.net.
 somatrade.sn.	172800	IN	NS	ns2.siteground.net.
-somef.sn.	43200	IN	NS	ns1.hostpapa.com.
-somef.sn.	43200	IN	NS	ns2.hostpapa.com.
+somef.sn.	172800	IN	NS	ns1.kheweul.net.
+somef.sn.	172800	IN	NS	ns2.kheweul.net.
+somef.sn.	172800	IN	NS	ns3.kheweul.net.
+somef.sn.	172800	IN	NS	ns4.kheweul.net.
 somelservices.sn.	43200	IN	NS	ns1.cp-29.webhostbox.net.
 somelservices.sn.	43200	IN	NS	ns2.cp-29.webhostbox.net.
 somicoa.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -19008,6 +19013,9 @@ swan.sn.	172800	IN	NS	dns112.ovh.net.
 swin.sn.	172800	IN	NS	ns105.ovh.net.
 swin.sn.	172800	IN	NS	dns105.ovh.net.
 swin.sn.	172800	IN	DS	7999 8 2 c47dbb81e94f192080c49d1ebd892631cd3e3ee74b53d8775b346b3a75ec5d85
+swindon.sn.	172800	IN	NS	nsa.n0c.com.
+swindon.sn.	172800	IN	NS	nsb.n0c.com.
+swindon.sn.	172800	IN	NS	nsc.n0c.com.
 swisslac.sn.	172800	IN	NS	ns1.rrpproxy.net.
 swisslac.sn.	172800	IN	NS	ns2.na.rrpproxy.net.
 swisslac.sn.	172800	IN	NS	ns2.rrpproxy.net.
