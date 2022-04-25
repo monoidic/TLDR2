@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439172 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439187 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/04/2022 10H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [25/04/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3009,6 +3009,9 @@ bpo.sn.	43200	IN	NS	ns1.bdm.microsoftonline.com.
 bpo.sn.	43200	IN	NS	ns2.bdm.microsoftonline.com.
 bpo.sn.	43200	IN	NS	ns3.bdm.microsoftonline.com.
 bpo.sn.	43200	IN	NS	ns4.bdm.microsoftonline.com.
+bproauto.sn.	172800	IN	NS	ns1.gandi.net.
+bproauto.sn.	172800	IN	NS	ns2.gandi.net.
+bproauto.sn.	172800	IN	NS	ns3.gandi.net.
 brainit.sn.	172800	IN	NS	ns100.ovh.net.
 brainit.sn.	172800	IN	NS	dns100.ovh.net.
 brainstorming.sn.	172800	IN	NS	ns200.anycast.me.
@@ -8415,8 +8418,8 @@ git.sn.	172800	IN	NS	student.dnspod.net.
 gito.sn.	172800	IN	NS	ns9.jajeuf.com.
 gito.sn.	172800	IN	NS	ns10.jajeuf.com.
 gito.sn.	172800	IN	DS	3022 1 1 928937be5f6169865fb39eb1558b9315c322c335
-givpik.sn.	172800	IN	NS	ns1.apps1global.com.
-givpik.sn.	172800	IN	NS	ns2.apps1global.com.
+givpik.sn.	172800	IN	NS	ns1.givpik.sn.
+givpik.sn.	172800	IN	NS	ns2.givpik.sn.
 ns1.givpik.sn.	172800	IN	A	66.29.156.148
 ns2.givpik.sn.	172800	IN	A	66.29.156.148
 glamgloss.sn.	172800	IN	NS	dns1.namecheaphosting.com.
@@ -9112,6 +9115,8 @@ hfn.sn.	172800	IN	NS	ns-462.awsdns-57.com.
 hfn.sn.	172800	IN	NS	ns-529.awsdns-02.net.
 hfn.sn.	172800	IN	NS	ns-1048.awsdns-03.org.
 hfn.sn.	172800	IN	NS	ns-1994.awsdns-57.co.uk.
+hifatech.sn.	172800	IN	NS	ns101.ovh.net.
+hifatech.sn.	172800	IN	NS	dns101.ovh.net.
 hikvision.sn.	43200	IN	NS	ns1.markmonitor.com.
 hikvision.sn.	43200	IN	NS	ns2.markmonitor.com.
 hilanybeauty.sn.	172800	IN	NS	ns1.dns-parking.com.
@@ -17072,8 +17077,10 @@ senecrea.sn.	43200	IN	NS	ns4.kheweul.net.
 senedelices.sn.	43200	IN	NS	ns1.francedns.com.
 senedelices.sn.	43200	IN	NS	ns2.francedns.com.
 senedelices.sn.	43200	IN	NS	ns3.francedns.com.
-senedoc.sn.	172800	IN	NS	ns1.apps1global.com.
-senedoc.sn.	172800	IN	NS	ns2.apps1global.com.
+senedoc.sn.	172800	IN	NS	ns1.senedoc.sn.
+senedoc.sn.	172800	IN	NS	ns2.senedoc.sn.
+ns1.senedoc.sn.	172800	IN	A	66.29.156.148
+ns2.senedoc.sn.	172800	IN	A	66.29.156.148
 senedroit.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 senedroit.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 senefand.sn.	43200	IN	NS	dns1.hispalisdns.com.
@@ -17236,8 +17243,10 @@ ns3.senelec.sn.	43200	IN	A	196.207.216.65
 ns4.senelec.sn.	43200	IN	A	196.207.216.68
 senelevage-investment.sn.	172800	IN	NS	sns13.webhostbox.net.
 senelevage-investment.sn.	172800	IN	NS	sns14.webhostbox.net.
-senelodge.sn.	172800	IN	NS	ns1.apps1global.com.
-senelodge.sn.	172800	IN	NS	ns2.apps1global.com.
+senelodge.sn.	172800	IN	NS	ns1.senelodge.sn.
+senelodge.sn.	172800	IN	NS	ns2.senelodge.sn.
+ns1.senelodge.sn.	172800	IN	A	66.29.156.148
+ns2.senelodge.sn.	172800	IN	A	66.29.156.148
 senemarket.sn.	172800	IN	NS	ns1.cloud-04e47b.managed-vps.net.
 senemarket.sn.	172800	IN	NS	ns2.cloud-04e47b.managed-vps.net.
 senemeca.sn.	43200	IN	NS	ns17.ovh.net.
