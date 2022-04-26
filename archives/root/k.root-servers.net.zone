@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022042501 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022042502 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -854,11 +854,11 @@ v2n0.nic.army.	172800	IN	A	65.22.31.59
 v2n0.nic.army.	172800	IN	AAAA	2a01:8840:21::59
 v2n1.nic.army.	172800	IN	A	161.232.15.59
 v2n1.nic.army.	172800	IN	AAAA	2a01:8840:f9::59
-arpa.	172800	IN	NS	a.root-servers.net.
+arpa.	172800	IN	NS	a.ns.arpa.
 arpa.	172800	IN	NS	b.root-servers.net.
-arpa.	172800	IN	NS	c.root-servers.net.
+arpa.	172800	IN	NS	c.ns.arpa.
 arpa.	172800	IN	NS	d.root-servers.net.
-arpa.	172800	IN	NS	e.root-servers.net.
+arpa.	172800	IN	NS	e.ns.arpa.
 arpa.	172800	IN	NS	f.root-servers.net.
 arpa.	172800	IN	NS	g.root-servers.net.
 arpa.	172800	IN	NS	h.root-servers.net.
@@ -868,6 +868,12 @@ arpa.	172800	IN	NS	l.root-servers.net.
 arpa.	172800	IN	NS	m.root-servers.net.
 arpa.	86400	IN	DS	42581 8 1 778606d9623f843f156e7d11acbf815eb67ab516
 arpa.	86400	IN	DS	42581 8 2 f28391c1ed4dc0f151edd251a3103dce0b9a5a251acf6e24073771d71f3c40f9
+a.ns.arpa.	172800	IN	A	198.41.0.4
+a.ns.arpa.	172800	IN	AAAA	2001:503:ba3e::2:30
+c.ns.arpa.	172800	IN	A	192.33.4.12
+c.ns.arpa.	172800	IN	AAAA	2001:500:2::c
+e.ns.arpa.	172800	IN	A	192.203.230.10
+e.ns.arpa.	172800	IN	AAAA	2001:500:a8::e
 art.	172800	IN	NS	a.nic.art.
 art.	172800	IN	NS	b.nic.art.
 art.	172800	IN	NS	c.nic.art.
