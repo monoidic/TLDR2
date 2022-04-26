@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042626 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022042630 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1650967342"
+sy.	86400	IN	TXT	"Generation Time: 1650974534"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -2029,6 +2029,8 @@ cdi.sy.	86400	IN	NS	ns01.cdi.sy.
 cdi.sy.	86400	IN	NS	ns02.cdi.sy.
 ns01.cdi.sy.	86400	IN	A	82.137.193.100
 ns02.cdi.sy.	86400	IN	A	82.137.193.100
+cdn.sy.	86400	IN	NS	ns3.dnsv2.com.
+cdn.sy.	86400	IN	NS	ns4.dnsv2.com.
 cec.sy.	86400	IN	NS	ns1.shamcenter.com.
 cec.sy.	86400	IN	NS	ns2.shamcenter.com.
 celia.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -4893,6 +4895,8 @@ moustafakharbutly.sy.	86400	IN	NS	suspend1.tld.sy.
 moustafakharbutly.sy.	86400	IN	NS	suspend2.tld.sy.
 moveit.sy.	86400	IN	NS	ns1.lazernet.sy.
 moveit.sy.	86400	IN	NS	ns2.lazernet.sy.
+mowared.sy.	86400	IN	NS	ns1.monster.sy.
+mowared.sy.	86400	IN	NS	ns2.monster.sy.
 mp.sy.	86400	IN	NS	ns1.shamcenter.com.
 mp.sy.	86400	IN	NS	ns2.shamcenter.com.
 mpay.sy.	86400	IN	NS	ns1.pronet.sy.
