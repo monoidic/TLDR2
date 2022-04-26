@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439365 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439385 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [26/04/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [26/04/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1011,6 +1011,9 @@ aklaaa.sn.	172800	IN	NS	ns2.francedns.com.
 aklaaa.sn.	172800	IN	NS	ns3.francedns.com.
 aklaw.sn.	172800	IN	NS	ns111.ovh.net.
 aklaw.sn.	172800	IN	NS	dns111.ovh.net.
+akom-ic.sn.	172800	IN	NS	ns1.francedns.com.
+akom-ic.sn.	172800	IN	NS	ns2.francedns.com.
+akom-ic.sn.	172800	IN	NS	ns3.francedns.com.
 akoussa.sn.	43200	IN	NS	ns110.ovh.net.
 akoussa.sn.	43200	IN	NS	dns110.ovh.net.
 aktion.sn.	172800	IN	NS	ns1.o2switch.net.
@@ -2038,6 +2041,9 @@ avensgroupe.sn.	172800	IN	NS	ns3.wanekoohost.com.
 avensgroupe.sn.	172800	IN	NS	ns4.wanekoohost.com.
 avensgroupe.sn.	172800	IN	NS	ns5.wanekoohost.com.
 avensgroupe.sn.	172800	IN	NS	ns6.wanekoohost.com.
+avideals.sn.	172800	IN	NS	ns1.francedns.com.
+avideals.sn.	172800	IN	NS	ns2.francedns.com.
+avideals.sn.	172800	IN	NS	ns3.francedns.com.
 aviex.sn.	172800	IN	NS	ns11.ovh.net.
 aviex.sn.	172800	IN	NS	dns11.ovh.net.
 aviex.sn.	172800	IN	DS	37354 8 2 bcf956edc5431256d5532ace6d4b19351591b2e362a399268f8d535ef481ee30
@@ -11305,9 +11311,8 @@ la3m.sn.	43200	IN	NS	ns31.infomaniak.com.
 la3m.sn.	43200	IN	NS	ns32.infomaniak.com.
 laa.sn.	43200	IN	NS	ns1.skytechnology.pl.
 laa.sn.	43200	IN	NS	m001.skynode.pl.
-lab.sn.	172800	IN	NS	ns1.netim.net.
-lab.sn.	172800	IN	NS	ns2.netim.net.
-lab.sn.	172800	IN	NS	ns3.netim.net.
+lab.sn.	172800	IN	NS	ns1.dan.com.
+lab.sn.	172800	IN	NS	ns2.dan.com.
 lab-science.sn.	172800	IN	NS	ns112.ovh.net.
 lab-science.sn.	172800	IN	NS	dns112.ovh.net.
 lab-science.sn.	172800	IN	DS	35869 8 2 638cb15b35e277bc0268ad9ad8fdde679c1e633e38f15933ecab7f2a13ca2396
@@ -11969,6 +11974,8 @@ liquidation.sn.	172800	IN	NS	ns2.francedns.com.
 liquidation.sn.	172800	IN	NS	ns3.francedns.com.
 liquimoly.sn.	43200	IN	NS	ns1.is-fun.net.
 liquimoly.sn.	43200	IN	NS	ns2.is-fun.net.
+lisa-store.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+lisa-store.sn.	172800	IN	NS	ns8.jokko-hosting.com.
 lisca.sn.	43200	IN	NS	ns.sonatel.sn.
 lisca.sn.	43200	IN	NS	ns2.sonatel.sn.
 lissa.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -21464,11 +21471,6 @@ yves-rocher.sn.	43200	IN	NS	ns4.kheweul.net.
 zahraiyane.sn.	172800	IN	NS	ns103.ovh.net.
 zahraiyane.sn.	172800	IN	NS	dns103.ovh.net.
 zahraiyane.sn.	172800	IN	DS	27202 8 2 f17b80302c0e4c402f097200c23adb1bbfa6291a89cb39a80522b7fbcd69d6e6
-zaina.sn.	43200	IN	NS	ns1.francedns.com.
-zaina.sn.	43200	IN	NS	ns2.francedns.com.
-zaina.sn.	43200	IN	NS	ns3.francedns.com.
-zaina.sn.	43200	IN	NS	ns4.francedns.com.
-zaina.sn.	43200	IN	NS	ns5.francedns.com.
 zakhem.sn.	43200	IN	NS	ns1.kheweul.net.
 zakhem.sn.	43200	IN	NS	ns2.kheweul.net.
 zakhem.sn.	43200	IN	NS	ns3.kheweul.net.
