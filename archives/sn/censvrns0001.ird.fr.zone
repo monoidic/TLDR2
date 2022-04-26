@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439385 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439403 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [26/04/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [26/04/2022 12H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1812,8 +1812,6 @@ assidqiwasadiqin.sn.	43200	IN	NS	ns10.ovh.net.
 assidqiwasadiqin.sn.	43200	IN	NS	dns10.ovh.net.
 assirou.sn.	43200	IN	NS	ns1.cp-35.webhostbox.net.
 assirou.sn.	43200	IN	NS	ns2.cp-35.webhostbox.net.
-assistancevisa.sn.	43200	IN	NS	ns1.wanekoohost.com.
-assistancevisa.sn.	43200	IN	NS	ns2.wanekoohost.com.
 associatesgroup.sn.	43200	IN	NS	zod.ns.cloudflare.com.
 associatesgroup.sn.	43200	IN	NS	isabel.ns.cloudflare.com.
 assosenegal.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -1834,8 +1832,6 @@ assurances.sn.	172800	IN	NS	dns200.anycast.me.
 assurances.sn.	172800	IN	DS	41554 8 2 34afe2e17ec914a29c1de4213f1e31c43dc56e497e316fd70f053e77980dff24
 assuranceslaprovidence.sn.	43200	IN	NS	eisdns1.expertis.sn.
 assuranceslaprovidence.sn.	43200	IN	NS	eisdns2.expertis.sn.
-assurland.sn.	43200	IN	NS	ns1.afriregister.com.
-assurland.sn.	43200	IN	NS	ns3.afriregister.com.
 astechnologies.sn.	172800	IN	NS	ns100.ovh.net.
 astechnologies.sn.	172800	IN	NS	dns100.ovh.net.
 astechnologies.sn.	172800	IN	DS	41836 8 2 3e31e54779e7c472e6997544e7c8c608b1744d00d9d70b93781086c1430a45fc
@@ -3810,8 +3806,8 @@ ceetrus.sn.	172800	IN	NS	dns1.cscdns.net.
 ceetrus.sn.	172800	IN	NS	dns2.cscdns.net.
 cein.sn.	172800	IN	NS	ns1.caurys.net.
 cein.sn.	172800	IN	NS	ns2.caurys.net.
-cel.sn.	172800	IN	NS	ns200.anycast.me.
-cel.sn.	172800	IN	NS	dns200.anycast.me.
+cel.sn.	172800	IN	NS	ns107.ovh.net.
+cel.sn.	172800	IN	NS	dns107.ovh.net.
 celloil.sn.	43200	IN	NS	ns1.validname.com.
 celloil.sn.	43200	IN	NS	ns2.validname.com.
 celsenegal.sn.	43200	IN	NS	ns107.ovh.net.
@@ -13565,6 +13561,10 @@ nafa.sn.	172800	IN	NS	ns1.caurys.net.
 nafa.sn.	172800	IN	NS	ns2.caurys.net.
 nafar.sn.	43200	IN	NS	ns.kimsufi.com.
 nafar.sn.	43200	IN	NS	ks381076.kimsufi.com.
+nahju.sn.	172800	IN	NS	ns3.wanekoohost.com.
+nahju.sn.	172800	IN	NS	ns4.wanekoohost.com.
+nahju.sn.	172800	IN	NS	ns5.wanekoohost.com.
+nahju.sn.	172800	IN	NS	ns6.wanekoohost.com.
 nakala.sn.	43200	IN	NS	ns1.caurys.net.
 nakala.sn.	43200	IN	NS	ns2.caurys.net.
 namek.sn.	172800	IN	NS	ns100.ovh.net.
@@ -14816,8 +14816,6 @@ parem.sn.	172800	IN	NS	dns200.anycast.me.
 parem.sn.	172800	IN	DS	22132 8 2 abf4c1d5655a574bad0acf5c6d0ba4f5867ada4f383a42e79bcd75928bd4da3f
 parenterus.sn.	43200	IN	NS	ns15.ovh.net.
 parenterus.sn.	43200	IN	NS	dns15.ovh.net.
-parfum.sn.	172800	IN	NS	ns1.youcan.shop.
-parfum.sn.	172800	IN	NS	ns2.youcan.shop.
 parfumdp.sn.	43200	IN	NS	ns5.jajeuf.com.
 parfumdp.sn.	43200	IN	NS	ns6.jajeuf.com.
 parfumdp.sn.	43200	IN	DS	61434 1 1 f48c6f505f457a99b40341c51e24b3bb17a2e4c9
