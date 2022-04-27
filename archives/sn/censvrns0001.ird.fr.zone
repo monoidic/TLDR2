@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439562 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439575 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [27/04/2022 08H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [27/04/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1973,6 +1973,9 @@ auth.sn.	172800	IN	NS	ian.ns.cloudflare.com.
 auth.sn.	172800	IN	NS	tina.ns.cloudflare.com.
 authentico.sn.	43200	IN	NS	cpanel17.lws-hosting.com.
 authentico.sn.	43200	IN	NS	cpanel18.lws-hosting.com.
+auto24.sn.	172800	IN	NS	ns1.francedns.com.
+auto24.sn.	172800	IN	NS	ns2.francedns.com.
+auto24.sn.	172800	IN	NS	ns3.francedns.com.
 autocolors.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 autocolors.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 autodiscover.sn.	172800	IN	NS	ns1-36.azure-dns.com.
@@ -6284,8 +6287,6 @@ ebadsarl.sn.	43200	IN	NS	ns3.kheweul.net.
 ebadsarl.sn.	43200	IN	NS	ns4.kheweul.net.
 ebcmanagement.sn.	172800	IN	NS	ns1.md-20.webhostbox.net.
 ebcmanagement.sn.	172800	IN	NS	ns2.md-20.webhostbox.net.
-ebeneprod.sn.	43200	IN	NS	ns107.ovh.net.
-ebeneprod.sn.	43200	IN	NS	dns107.ovh.net.
 ebenta.sn.	172800	IN	NS	nsany1.infomaniak.com.
 ebenta.sn.	172800	IN	NS	nsany2.infomaniak.com.
 ebi-thiaroye.sn.	43200	IN	NS	ns1.webmo.fr.
@@ -6863,6 +6864,8 @@ epediatre.sn.	43200	IN	NS	ns1.digitalocean.com.
 epediatre.sn.	43200	IN	NS	ns2.digitalocean.com.
 epelle-moi.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 epelle-moi.sn.	172800	IN	NS	ns8.jokko-hosting.com.
+ephas.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+ephas.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 ephata.sn.	172800	IN	NS	ns1.dns-parking.com.
 ephata.sn.	172800	IN	NS	ns2.dns-parking.com.
 epita.sn.	43200	IN	NS	ns1.cp-10.webhostbox.net.
@@ -8748,6 +8751,8 @@ greennetpressing.sn.	43200	IN	NS	ns1.ascio.com.
 greennetpressing.sn.	43200	IN	NS	ns2.ascio.com.
 greennetpressing.sn.	43200	IN	NS	ns3.ascio.com.
 greennetpressing.sn.	43200	IN	NS	ns4.ascio.com.
+greenparadise.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+greenparadise.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 greenportafrica.sn.	172800	IN	NS	ns112.ovh.net.
 greenportafrica.sn.	172800	IN	NS	dns112.ovh.net.
 greensenegal.sn.	43200	IN	NS	ns6.wixdns.net.
