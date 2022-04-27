@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439602 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439618 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [27/04/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [27/04/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -65,6 +65,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 1888.sn.	43200	IN	NS	ns3.kheweul.net.
 1888.sn.	43200	IN	NS	ns4.kheweul.net.
 1etudiant1ordinateur.sn.	43200	IN	NS	ns.adie.sn.
+1jeune1solution.sn.	172800	IN	NS	dns1.hosteur.com.
+1jeune1solution.sn.	172800	IN	NS	dns2.hosteur.com.
 1win.sn.	172800	IN	NS	ns01.trademarkarea.com.
 1win.sn.	172800	IN	NS	ns02.trademarkarea.com.
 1win.sn.	172800	IN	NS	ns03.trademarkarea.com.
@@ -6610,6 +6612,8 @@ electrostore.sn.	43200	IN	NS	ns1.kheweul.net.
 electrostore.sn.	43200	IN	NS	ns2.kheweul.net.
 electrostore.sn.	43200	IN	NS	ns3.kheweul.net.
 electrostore.sn.	43200	IN	NS	ns4.kheweul.net.
+electrotop.sn.	172800	IN	NS	ns6431.hostgator.com.
+electrotop.sn.	172800	IN	NS	ns6432.hostgator.com.
 elephone.sn.	43200	IN	NS	ns01.trademarkarea.com.
 elephone.sn.	43200	IN	NS	ns02.trademarkarea.com.
 elephone.sn.	43200	IN	NS	ns03.trademarkarea.com.
@@ -12575,6 +12579,9 @@ mastercard.sn.	43200	IN	NS	dns1.mastercard.com.
 mastercard.sn.	43200	IN	NS	dns2.mastercard.com.
 masterdeco.sn.	43200	IN	NS	ns1.infomaniak.ch.
 masterdeco.sn.	43200	IN	NS	ns2.infomaniak.ch.
+masterfin.sn.	172800	IN	NS	ns107.ovh.net.
+masterfin.sn.	172800	IN	NS	dns107.ovh.net.
+masterfin.sn.	172800	IN	DS	16657 8 2 44fb7644585782c239229be8ba1aaa4d6de8a5232095ee4246f888649df9df3a
 mastergaz.sn.	172800	IN	NS	ns200.anycast.me.
 mastergaz.sn.	172800	IN	NS	dns200.anycast.me.
 mastergaz.sn.	172800	IN	DS	36325 8 2 cb2bca4e68fb6e59e17c01cb5a23bf54ecd89f269d9dbee6e002d85fe8adb6cf
@@ -17705,6 +17712,8 @@ seytoo.sn.	172800	IN	DS	63514 8 2 b1286f9b625fd12d5d7750cfed82dcc60f6bda030f87a8
 seytou.sn.	172800	IN	NS	ns1.wanekoohost.com.
 seytou.sn.	172800	IN	NS	ns2.wanekoohost.com.
 seytou.sn.	172800	IN	NS	ns4.wanekoohost.com.
+seytu.sn.	172800	IN	NS	ns200.anycast.me.
+seytu.sn.	172800	IN	NS	dns200.anycast.me.
 sfd.sn.	172800	IN	NS	pdns09.domaincontrol.com.
 sfd.sn.	172800	IN	NS	pdns10.domaincontrol.com.
 sfs.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -17742,6 +17751,8 @@ sgs.sn.	43200	IN	NS	ns5.netnames.net.
 sgs.sn.	43200	IN	NS	ns6.netnames.net.
 sh-properties.sn.	172800	IN	NS	pdns05.domaincontrol.com.
 sh-properties.sn.	172800	IN	NS	pdns06.domaincontrol.com.
+shalomschool.sn.	172800	IN	NS	ns108.ovh.net.
+shalomschool.sn.	172800	IN	NS	dns108.ovh.net.
 shameer.sn.	172800	IN	NS	lana.ns.cloudflare.com.
 shameer.sn.	172800	IN	NS	norm.ns.cloudflare.com.
 shapeengineering.sn.	43200	IN	NS	ns19.ovh.net.
