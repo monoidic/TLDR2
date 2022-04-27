@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439633 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439650 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [27/04/2022 18H20:01]"
+sn.	172800	IN	TXT	"1 RRs processed [27/04/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8587,6 +8587,8 @@ goethnyk.sn.	43200	IN	NS	sdns2.ovh.net.
 goethnyk.sn.	43200	IN	NS	ns321231.ip-188-165-248.eu.
 gogle.sn.	172800	IN	NS	ns1.radinko.com.
 gogle.sn.	172800	IN	NS	ns2.radinko.com.
+gogoanime.sn.	172800	IN	NS	ns101.ovh.net.
+gogoanime.sn.	172800	IN	NS	dns101.ovh.net.
 goldenafrica.sn.	172800	IN	NS	ns-37-a.gandi.net.
 goldenafrica.sn.	172800	IN	NS	ns-93-b.gandi.net.
 goldenafrica.sn.	172800	IN	NS	ns-189-c.gandi.net.
@@ -10355,6 +10357,10 @@ itv.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 itvisionplus.sn.	172800	IN	NS	ns108.ovh.net.
 itvisionplus.sn.	172800	IN	NS	dns108.ovh.net.
 itvisionplus.sn.	172800	IN	DS	34789 8 2 ecee92ba351a68e9871424d25127b2e5a0dca3d5cb08732c0ce64a0bb87739c9
+iuga.sn.	172800	IN	NS	ns1.kheweul.net.
+iuga.sn.	172800	IN	NS	ns2.kheweul.net.
+iuga.sn.	172800	IN	NS	ns3.kheweul.net.
+iuga.sn.	172800	IN	NS	ns4.kheweul.net.
 iupa.sn.	43200	IN	NS	ns1.o2switch.net.
 iupa.sn.	43200	IN	NS	ns2.o2switch.net.
 iupsante.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -10482,7 +10488,9 @@ jayma.sn.	43200	IN	DS	38584 8 2 36a432bbc3142677ba22475939fcb96e31c4d77534da5547
 jayma-market.sn.	172800	IN	NS	ns1.jayma-market.sn.
 jayma-market.sn.	172800	IN	NS	ns2.jayma-market.sn.
 ns1.jayma-market.sn.	172800	IN	A	54.36.100.226
+ns1.jayma-market.sn.	172800	IN	AAAA	2001:41d0:304:200::251b
 ns2.jayma-market.sn.	172800	IN	A	54.36.100.226
+ns2.jayma-market.sn.	172800	IN	AAAA	2001:41d0:304:200::251b
 jbservices.sn.	172800	IN	NS	ns3.wanekoohost.com.
 jbservices.sn.	172800	IN	NS	ns4.wanekoohost.com.
 jbservices.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -10923,6 +10931,9 @@ kawsara.sn.	43200	IN	NS	ns1.kheweul.net.
 kawsara.sn.	43200	IN	NS	ns2.kheweul.net.
 kay.sn.	172800	IN	NS	ns1.101domain.com.
 kay.sn.	172800	IN	NS	ns2.101domain.com.
+kay-senegal.sn.	172800	IN	NS	nsa.n0c.com.
+kay-senegal.sn.	172800	IN	NS	nsb.n0c.com.
+kay-senegal.sn.	172800	IN	NS	nsc.n0c.com.
 kayemor.sn.	172800	IN	NS	ns1.dns-parking.com.
 kayemor.sn.	172800	IN	NS	ns2.dns-parking.com.
 kayenneboutik.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -13302,6 +13313,10 @@ monsoko.sn.	43200	IN	NS	ns3.kheweul.net.
 monsoko.sn.	43200	IN	NS	ns4.kheweul.net.
 monster.sn.	43200	IN	NS	ns1.tmpw.net.
 monster.sn.	43200	IN	NS	ns2.tmpw.net.
+monteil.sn.	172800	IN	NS	ns1.kheweul.net.
+monteil.sn.	172800	IN	NS	ns2.kheweul.net.
+monteil.sn.	172800	IN	NS	ns3.kheweul.net.
+monteil.sn.	172800	IN	NS	ns4.kheweul.net.
 monterrain.sn.	172800	IN	NS	ns103.ovh.net.
 monterrain.sn.	172800	IN	NS	dns103.ovh.net.
 monterrain.sn.	172800	IN	DS	20059 8 2 36d5c1d70d5c2d56f1d4e9f144e3174e8eec9ad65232bd5c3ee1c3a49dad18ec
@@ -17084,6 +17099,9 @@ sendiasporas.sn.	43200	IN	NS	ns1.ascio.com.
 sendiasporas.sn.	43200	IN	NS	ns2.ascio.com.
 sendiasporas.sn.	43200	IN	NS	ns3.ascio.com.
 sendiasporas.sn.	43200	IN	NS	ns4.ascio.com.
+sendme.sn.	172800	IN	NS	ns9.jajeuf.com.
+sendme.sn.	172800	IN	NS	ns10.jajeuf.com.
+sendme.sn.	172800	IN	DS	63786 1 1 fa65b4a4fb72eac4ee2d1e35e81633e16b7c6496
 sendocteur.sn.	43200	IN	NS	ns1.digitalocean.com.
 sendocteur.sn.	43200	IN	NS	ns2.digitalocean.com.
 sendom.sn.	43200	IN	NS	ns1.caurys.net.
