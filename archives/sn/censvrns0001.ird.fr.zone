@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439754 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439767 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/04/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/04/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13710,6 +13710,9 @@ nenebydiaw.sn.	172800	IN	NS	dns103.ovh.net.
 nenebydiaw.sn.	172800	IN	DS	63034 8 2 2d90d1822c6d28fb9363d2a30920604c0bef750821225a64821d5e46f276db46
 neofarm.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 neofarm.sn.	43200	IN	NS	nsmpro2.nordnet.com.
+neosen.sn.	172800	IN	NS	ns101.ovh.net.
+neosen.sn.	172800	IN	NS	dns101.ovh.net.
+neosen.sn.	172800	IN	DS	61774 8 2 5cd797b55188bfe57ba2bd3446ef7924634750b113dc6cae44b4dd004201b77a
 neovia-group.sn.	43200	IN	NS	dns1.cscdns.net.
 neovia-group.sn.	43200	IN	NS	dns2.cscdns.net.
 neptune-oil.sn.	43200	IN	NS	ns200.anycast.me.
@@ -19434,6 +19437,8 @@ tena.sn.	43200	IN	NS	tilion.ngninfra.net.
 tencategeoclean.sn.	43200	IN	NS	ns01.trademarkarea.com.
 tencategeoclean.sn.	43200	IN	NS	ns02.trademarkarea.com.
 tencategeoclean.sn.	43200	IN	NS	ns03.trademarkarea.com.
+tendancesfemme.sn.	172800	IN	NS	ns1.caurys.net.
+tendancesfemme.sn.	172800	IN	NS	ns2.caurys.net.
 tenis.sn.	43200	IN	NS	ns109.ovh.net.
 tenis.sn.	43200	IN	NS	dns109.ovh.net.
 tennisausenegal.sn.	43200	IN	NS	ns109.ovh.net.
