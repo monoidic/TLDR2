@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439767 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439783 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/04/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/04/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1217,6 +1217,8 @@ amadu.sn.	172800	IN	NS	ns5.wanekoohost.com.
 amadu.sn.	172800	IN	NS	ns6.wanekoohost.com.
 amafreightlogistics.sn.	43200	IN	NS	ns12.ovh.net.
 amafreightlogistics.sn.	43200	IN	NS	dns12.ovh.net.
+amalimedia.sn.	172800	IN	NS	eisdns1.expertis.sn.
+amalimedia.sn.	172800	IN	NS	eisdns2.expertis.sn.
 amami.sn.	172800	IN	NS	ns200.anycast.me.
 amami.sn.	172800	IN	NS	dns200.anycast.me.
 amami.sn.	172800	IN	DS	55399 8 2 16f7601c92fd934816af01956ee834013d923a55c1287816a36bfa48b0e4d351
@@ -7375,8 +7377,6 @@ fadsr.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns6.wanekoohost.com.
-fagoul.sn.	172800	IN	NS	edward.ns.cloudflare.com.
-fagoul.sn.	172800	IN	NS	evangeline.ns.cloudflare.com.
 faise.sn.	43200	IN	NS	ns1.kheweul.net.
 faise.sn.	43200	IN	NS	ns2.kheweul.net.
 faise.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -11197,10 +11197,6 @@ kollere.sn.	43200	IN	NS	dns103.ovh.net.
 komodus.sn.	43200	IN	NS	dns1.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns2.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns3.snhosting.com.br.
-komunity.sn.	172800	IN	NS	ns3.wanekoohost.com.
-komunity.sn.	172800	IN	NS	ns4.wanekoohost.com.
-komunity.sn.	172800	IN	NS	ns5.wanekoohost.com.
-komunity.sn.	172800	IN	NS	ns6.wanekoohost.com.
 konga.sn.	172800	IN	NS	ns1.101domain.com.
 konga.sn.	172800	IN	NS	ns2.101domain.com.
 konnectek.sn.	172800	IN	NS	ns14.ovh.net.
@@ -14204,8 +14200,6 @@ oculusvr.sn.	172800	IN	NS	ns3.lovellsnames.org.
 oculusvr.sn.	172800	IN	NS	ns4.lovellsnames.org.
 odcavdakar.sn.	43200	IN	NS	ns1.caurys.net.
 odcavdakar.sn.	43200	IN	NS	ns2.caurys.net.
-odcsenegal.sn.	43200	IN	NS	ns107.ovh.net.
-odcsenegal.sn.	43200	IN	NS	dns107.ovh.net.
 odej.sn.	43200	IN	NS	ns1.kheweul.net.
 odej.sn.	43200	IN	NS	ns2.kheweul.net.
 odej.sn.	43200	IN	NS	ns3.kheweul.net.
