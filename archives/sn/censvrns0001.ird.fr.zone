@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439742 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439754 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/04/2022 08H30:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/04/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1470,9 +1470,10 @@ aol.sn.	43200	IN	NS	ns2.yahoo.com.
 aol.sn.	43200	IN	NS	ns3.yahoo.com.
 aol.sn.	43200	IN	NS	ns4.yahoo.com.
 aol.sn.	43200	IN	NS	ns5.yahoo.com.
-apa.sn.	172800	IN	NS	ns1.netim.net.
-apa.sn.	172800	IN	NS	ns2.netim.net.
-apa.sn.	172800	IN	NS	ns3.netim.net.
+apa.sn.	172800	IN	NS	ns1.bdm.microsoftonline.com.
+apa.sn.	172800	IN	NS	ns2.bdm.microsoftonline.com.
+apa.sn.	172800	IN	NS	ns3.bdm.microsoftonline.com.
+apa.sn.	172800	IN	NS	ns4.bdm.microsoftonline.com.
 apavesahel.sn.	43200	IN	NS	ns1.mdc.mk.
 apavesahel.sn.	43200	IN	NS	ns2.mdc.mk.
 apbef.sn.	43200	IN	NS	dns1.alwaysdata.com.
@@ -2343,8 +2344,9 @@ batix.sn.	172800	IN	NS	dns109.ovh.net.
 batobi.sn.	43200	IN	NS	ns200.anycast.me.
 batobi.sn.	43200	IN	NS	dns200.anycast.me.
 batobi.sn.	43200	IN	DS	49459 8 2 d29069ae495488af51fb7c6b2516e15efc4fce143040ecbf56824e777daf8574
-baudouin.sn.	43200	IN	NS	ns43.domaincontrol.com.
-baudouin.sn.	43200	IN	NS	ns44.domaincontrol.com.
+baudouin.sn.	172800	IN	NS	ns1.francedns.com.
+baudouin.sn.	172800	IN	NS	ns2.francedns.com.
+baudouin.sn.	172800	IN	NS	ns3.francedns.com.
 baxumaam.sn.	43200	IN	NS	ns1.servconfig.com.
 baxumaam.sn.	43200	IN	NS	ns2.servconfig.com.
 baya.sn.	172800	IN	NS	ns103.ovh.net.
@@ -3288,9 +3290,8 @@ caetanoformula.sn.	43200	IN	NS	pns31.cloudns.net.
 caetanoformula.sn.	43200	IN	NS	pns32.cloudns.net.
 caetanoformulasenegal.sn.	43200	IN	NS	pns31.cloudns.net.
 caetanoformulasenegal.sn.	43200	IN	NS	pns32.cloudns.net.
-caetanoparts.sn.	43200	IN	NS	pns31.cloudns.net.
-caetanoparts.sn.	43200	IN	NS	pns32.cloudns.net.
-caetanoparts.sn.	43200	IN	NS	pns33.cloudns.net.
+caetanoparts.sn.	172800	IN	NS	dns3.cloudns.net.
+caetanoparts.sn.	172800	IN	NS	dns4.cloudns.net.
 caetanorenting.sn.	172800	IN	NS	dns3.cloudns.net.
 caetanorenting.sn.	172800	IN	NS	dns4.cloudns.net.
 caetanorenting.sn.	172800	IN	NS	dns7.cloudns.net.
@@ -5596,9 +5597,6 @@ diapci.sn.	43200	IN	NS	ns112.ovh.net.
 diapci.sn.	43200	IN	NS	dns112.ovh.net.
 diarle.sn.	172800	IN	NS	ns9.jajeuf.com.
 diarle.sn.	172800	IN	NS	ns10.jajeuf.com.
-diaspora.sn.	43200	IN	NS	ns1.francedns.com.
-diaspora.sn.	43200	IN	NS	ns2.francedns.com.
-diaspora.sn.	43200	IN	NS	ns3.francedns.com.
 diasporahabitat.sn.	43200	IN	NS	ns1.kheweul.net.
 diasporahabitat.sn.	43200	IN	NS	ns2.kheweul.net.
 diasporahabitat.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -7909,10 +7907,8 @@ ford.sn.	43200	IN	NS	dns005.ford.com.
 ford.sn.	43200	IN	NS	dns006.ford.com.
 ford.sn.	43200	IN	NS	extdns001.ford.com.
 ford.sn.	43200	IN	NS	extdns002.ford.com.
-fordsenegal.sn.	43200	IN	NS	pns31.cloudns.net.
-fordsenegal.sn.	43200	IN	NS	pns32.cloudns.net.
-fordsenegal.sn.	43200	IN	NS	pns33.cloudns.net.
-fordsenegal.sn.	43200	IN	NS	pns34.cloudns.net.
+fordsenegal.sn.	172800	IN	NS	dns3.cloudns.net.
+fordsenegal.sn.	172800	IN	NS	dns4.cloudns.net.
 forest.sn.	172800	IN	NS	kirk.ns.cloudflare.com.
 forest.sn.	172800	IN	NS	penny.ns.cloudflare.com.
 foret-classee-mbao.sn.	43200	IN	NS	ns1.contabo.net.
@@ -8589,8 +8585,8 @@ goethnyk.sn.	43200	IN	NS	sdns2.ovh.net.
 goethnyk.sn.	43200	IN	NS	ns321231.ip-188-165-248.eu.
 gogle.sn.	172800	IN	NS	ns1.radinko.com.
 gogle.sn.	172800	IN	NS	ns2.radinko.com.
-gogoanime.sn.	172800	IN	NS	ns101.ovh.net.
-gogoanime.sn.	172800	IN	NS	dns101.ovh.net.
+gogoanime.sn.	172800	IN	NS	brit.ns.cloudflare.com.
+gogoanime.sn.	172800	IN	NS	matt.ns.cloudflare.com.
 goldenafrica.sn.	172800	IN	NS	ns-37-a.gandi.net.
 goldenafrica.sn.	172800	IN	NS	ns-93-b.gandi.net.
 goldenafrica.sn.	172800	IN	NS	ns-189-c.gandi.net.
@@ -10280,10 +10276,8 @@ istt.sn.	43200	IN	NS	ns1.kheweul.net.
 istt.sn.	43200	IN	NS	ns2.kheweul.net.
 istt.sn.	43200	IN	NS	ns3.kheweul.net.
 istt.sn.	43200	IN	NS	ns4.kheweul.net.
-isuzu.sn.	43200	IN	NS	pns31.cloudns.net.
-isuzu.sn.	43200	IN	NS	pns32.cloudns.net.
-isuzu.sn.	43200	IN	NS	pns33.cloudns.net.
-isuzu.sn.	43200	IN	NS	pns34.cloudns.net.
+isuzu.sn.	172800	IN	NS	dns3.cloudns.net.
+isuzu.sn.	172800	IN	NS	dns4.cloudns.net.
 it-consulting.sn.	43200	IN	NS	ns10.ovh.net.
 it-consulting.sn.	43200	IN	NS	dns10.ovh.net.
 it-services.sn.	43200	IN	NS	ns110.ovh.net.
@@ -16042,10 +16036,8 @@ remorques-senegal.sn.	172800	IN	NS	dns16.ovh.net.
 remorques-senegal.sn.	172800	IN	DS	13849 8 2 be01156bf8548a21e7cc4ad8baa3703c127d87c35b28537da64e14a1cd70a567
 renault.sn.	43200	IN	NS	anna.renault.fr.
 renault.sn.	43200	IN	NS	xenia.renault.fr.
-renaultsenegal.sn.	43200	IN	NS	pns31.cloudns.net.
-renaultsenegal.sn.	43200	IN	NS	pns32.cloudns.net.
-renaultsenegal.sn.	43200	IN	NS	pns33.cloudns.net.
-renaultsenegal.sn.	43200	IN	NS	pns34.cloudns.net.
+renaultsenegal.sn.	172800	IN	NS	dns3.cloudns.net.
+renaultsenegal.sn.	172800	IN	NS	dns4.cloudns.net.
 renfort.sn.	172800	IN	NS	ns1.whc.ca.
 renfort.sn.	172800	IN	NS	ns2.whc.ca.
 renfort.sn.	172800	IN	NS	ns3.whc.ca.
@@ -16444,9 +16436,8 @@ saloodo.sn.	43200	IN	NS	ns-1425.awsdns-50.org.
 saloodo.sn.	43200	IN	NS	ns-1912.awsdns-47.co.uk.
 saloumvoyages.sn.	43200	IN	NS	ns.sonatel.sn.
 saloumvoyages.sn.	43200	IN	NS	ns2.sonatel.sn.
-salvadorcaetano.sn.	43200	IN	NS	pns31.cloudns.net.
-salvadorcaetano.sn.	43200	IN	NS	pns32.cloudns.net.
-salvadorcaetano.sn.	43200	IN	NS	pns33.cloudns.net.
+salvadorcaetano.sn.	172800	IN	NS	dns3.cloudns.net.
+salvadorcaetano.sn.	172800	IN	NS	dns4.cloudns.net.
 salyprestige.sn.	43200	IN	NS	ns1.connexionservice.com.
 salyprestige.sn.	43200	IN	NS	ns6.gandi.net.
 sam.sn.	43200	IN	NS	ns-148.awsdns-18.com.
