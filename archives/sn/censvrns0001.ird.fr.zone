@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222439994 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440006 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [29/04/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [29/04/2022 20H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -244,6 +244,7 @@ a2agroupe.sn.	43200	IN	NS	ns3.kheweul.net.
 a2agroupe.sn.	43200	IN	NS	ns4.kheweul.net.
 a2d.sn.	172800	IN	NS	ns200.anycast.me.
 a2d.sn.	172800	IN	NS	dns200.anycast.me.
+a2d.sn.	172800	IN	DS	16132 8 2 c846bd17fd02888a8e8e966156203497204a6eb4075d7ddf9a10c966679d83c6
 aacs.sn.	43200	IN	NS	ns1.ascio.com.
 aacs.sn.	43200	IN	NS	ns2.ascio.com.
 aacs.sn.	43200	IN	NS	ns3.ascio.com.
@@ -663,6 +664,7 @@ affic-group.sn.	172800	IN	NS	ns2.francedns.com.
 affic-group.sn.	172800	IN	NS	ns3.francedns.com.
 afflix.sn.	172800	IN	NS	ns101.ovh.net.
 afflix.sn.	172800	IN	NS	dns101.ovh.net.
+afflix.sn.	172800	IN	DS	22525 8 2 ccfa827e50b643fa3d7475fffd25f503d13fa2d75af2cc32ecde0b4680ff3e1b
 afi.sn.	43200	IN	NS	ns.sonatel.sn.
 afi.sn.	43200	IN	NS	ns2.sonatel.sn.
 afi-ue.sn.	43200	IN	NS	ns105.ovh.net.
@@ -5319,6 +5321,7 @@ dbaloc.sn.	43200	IN	NS	ns3.ascio.com.
 dbaloc.sn.	43200	IN	NS	ns4.ascio.com.
 dca.sn.	43200	IN	NS	ns200.anycast.me.
 dca.sn.	43200	IN	NS	dns200.anycast.me.
+dca.sn.	172800	IN	DS	43786 8 2 a77ce708be21ab21091a5c7ff2dca3780955e4e98938e769eea84917f8be033a
 dceg.sn.	43200	IN	NS	ns11.ovh.net.
 dceg.sn.	43200	IN	NS	dns11.ovh.net.
 dci.sn.	43200	IN	NS	ns1.validname.com.
@@ -10909,7 +10912,7 @@ kaolackactu.sn.	43200	IN	NS	ns2.kheweul.net.
 kaolackactu.sn.	43200	IN	NS	ns3.kheweul.net.
 kaolackactu.sn.	43200	IN	NS	ns4.kheweul.net.
 kaolackcommune.sn.	172800	IN	NS	p5.dnshostservices.com.
-kaolackcommune.sn.	172800	IN	NS	p6.dnshostservices.com.
+kaolackcommune.sn.	172800	IN	NS	cp6.dnshostservices.com.
 kaori.sn.	43200	IN	NS	ns200.anycast.me.
 kaori.sn.	43200	IN	NS	dns200.anycast.me.
 kaori-sas.sn.	43200	IN	NS	ns200.anycast.me.
@@ -13438,6 +13441,8 @@ msante.sn.	172800	IN	NS	ns112.ovh.net.
 msante.sn.	172800	IN	NS	dns112.ovh.net.
 msc.sn.	43200	IN	NS	ns.sonatel.sn.
 msc.sn.	43200	IN	NS	ns2.sonatel.sn.
+msconstruction.sn.	172800	IN	NS	ns1.cp-13.webhostbox.net.
+msconstruction.sn.	172800	IN	NS	ns2.cp-13.webhostbox.net.
 msd-a.sn.	43200	IN	NS	ns1.caurys.net.
 msd-a.sn.	43200	IN	NS	ns2.caurys.net.
 msd-remote.sn.	43200	IN	NS	ns1.markmonitor.com.
@@ -19111,6 +19116,8 @@ switchup.sn.	172800	IN	NS	ns2.netim.net.
 switchup.sn.	172800	IN	NS	ns3.netim.net.
 swn.sn.	43200	IN	NS	ns31.domaincontrol.com.
 swn.sn.	43200	IN	NS	ns32.domaincontrol.com.
+sycorps.sn.	172800	IN	NS	ns1.cp-13.webhostbox.net.
+sycorps.sn.	172800	IN	NS	ns2.cp-13.webhostbox.net.
 symbiose.sn.	43200	IN	NS	ns1.kheweul.net.
 symbiose.sn.	43200	IN	NS	ns2.kheweul.net.
 symbiose.sn.	43200	IN	NS	ns3.kheweul.net.
