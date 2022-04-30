@@ -1,9 +1,9 @@
-ng.	3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022043007 10800 3600 604800 3600
+ng.	3600	IN	SOA	nsa.nic.net.ng. noc.nira.org.ng. 2022043009 10800 3600 604800 3600
 ng.	3600	IN	NS	ns1.nic.net.ng.
 ng.	3600	IN	NS	ns2.nic.net.ng.
 ng.	3600	IN	NS	ns5.nic.net.ng.
 ng.	3600	IN	NS	nsa.nic.net.ng.
-ng.	3600	IN	TXT	"Generation Time: 1651288601"
+ng.	3600	IN	TXT	"Generation Time: 1651292430"
 042market.ng.	3600	IN	NS	ns1.web4africa.com.
 042market.ng.	3600	IN	NS	ns2.web4africa.com.
 042market.ng.	3600	IN	NS	ns3.web4africa.com.
@@ -76617,8 +76617,10 @@ yogurberry.ng.	3600	IN	NS	dns1.namecheaphosting.com.
 yogurberry.ng.	3600	IN	NS	dns2.namecheaphosting.com.
 yohaig.ng.	3600	IN	NS	ns36.wpxhosting.com.
 yohaig.ng.	3600	IN	NS	ns37.wpxhosting.com.
-yohost.ng.	3600	IN	NS	clyde.ns.cloudflare.com.
-yohost.ng.	3600	IN	NS	sloan.ns.cloudflare.com.
+yohost.ng.	3600	IN	NS	ns1.yohost.ng.
+yohost.ng.	3600	IN	NS	ns2.yohost.ng.
+ns1.yohost.ng.	3600	IN	A	129.151.182.147
+ns2.yohost.ng.	3600	IN	A	129.151.182.147
 yojafarms.ng.	3600	IN	NS	ns.mcreal.net.
 yojafarms.ng.	3600	IN	NS	ns2.mcreal.net.
 yolo.ng.	3600	IN	NS	ns1.web4africa.com.
