@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440109 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440124 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [30/04/2022 10H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [30/04/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -988,9 +988,6 @@ airliquide.sn.	43200	IN	NS	ns01.airliquide.com.
 airliquide.sn.	43200	IN	NS	ns02.airliquide.com.
 airliquide.sn.	43200	IN	NS	ns03.airliquide.com.
 airliquide.sn.	43200	IN	NS	ns04.airliquide.com.
-airmes.sn.	43200	IN	NS	ns200.anycast.me.
-airmes.sn.	43200	IN	NS	dns200.anycast.me.
-airmes.sn.	43200	IN	DS	62770 8 2 9da887b91ea063478af5a0e68c38c87530f92a227e08f783aa37210f30b142c2
 airsenegal.sn.	43200	IN	NS	ns113.ovh.net.
 airsenegal.sn.	43200	IN	NS	dns113.ovh.net.
 airsenegal.sn.	172800	IN	DS	60649 8 2 4e9419dd73ec7085c96389ade4050f02f82a7db0046d1bd84647575f2159d215
@@ -16945,6 +16942,9 @@ sedatifpc.sn.	43200	IN	NS	dns1.cscdns.net.
 sedatifpc.sn.	43200	IN	NS	dns2.cscdns.net.
 sedico.sn.	43200	IN	NS	ns.arc.sn.
 sedico.sn.	43200	IN	NS	ns2.arc.sn.
+sedicom.sn.	172800	IN	NS	ns110.ovh.net.
+sedicom.sn.	172800	IN	NS	dns110.ovh.net.
+sedicom.sn.	172800	IN	DS	18631 8 2 cd20129c84d2a86b9322259b3cb03643e33cd3ff0dad16f4a104ffea68af2506
 sedif.sn.	172800	IN	NS	ns1.whc.ca.
 sedif.sn.	172800	IN	NS	ns2.whc.ca.
 sedif.sn.	172800	IN	NS	ns3.whc.ca.
