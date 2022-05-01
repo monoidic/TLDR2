@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440320 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440334 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [01/05/2022 14H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [01/05/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5253,8 +5253,9 @@ dana-petroleum-uk.sn.	43200	IN	NS	dns2.domeinbalie.org.
 daniela.sn.	172800	IN	NS	ns20.ovh.net.
 daniela.sn.	172800	IN	NS	dns20.ovh.net.
 daniela.sn.	172800	IN	DS	17266 8 2 8f9ffa3304e39bc614bf77e45274503f80f341966fd8568b7d9d4d4ce6619869
-danixt.sn.	43200	IN	NS	ns200.anycast.me.
-danixt.sn.	43200	IN	NS	dns200.anycast.me.
+danixt.sn.	172800	IN	NS	ns1.digitalocean.com.
+danixt.sn.	172800	IN	NS	ns2.digitalocean.com.
+danixt.sn.	172800	IN	NS	ns3.digitalocean.com.
 dansnoscoeurs.sn.	172800	IN	NS	ns103.ovh.net.
 dansnoscoeurs.sn.	172800	IN	NS	dns103.ovh.net.
 dansnoscoeurs.sn.	172800	IN	DS	4186 8 2 563b12d8f911d0388e6d71f311f272cde84386a5315ff496e4e62b5d24bd7b8d
