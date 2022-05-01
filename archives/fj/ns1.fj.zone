@@ -1,14 +1,14 @@
-fj.	3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022050110 3600 3600 3600 3600
+fj.	3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022050115 3600 3600 3600 3600
 fj.	86400	IN	NS	ns1.fj.
 fj.	86400	IN	NS	ns2.fj.
 fj.	86400	IN	NS	ns3.fj.
 fj.	86400	IN	NS	ns4.fj.
 fj.	86400	IN	NS	ns5.fj.
-fj.	86400	IN	TXT	"Generation Time: 1651356003"
+fj.	86400	IN	TXT	"Generation Time: 1651370408"
 fj.	3600	IN	DNSKEY	256 3 8 AwEAAdpT6o6ustm4WxYhP8Xa6P1+1dvYExn1LyOC9qUXdbt3BWPok+obi69yRywGD740Aj6AO7To2HXDlLF3YF5cR1mO5mo6iSTHqNAg4rjE49/BVxjV3KgmEOGFdtiMbAi+4d6KMPkl+HULwmJkdcu8gkG9cYjBkJ2OUpfvsjaZ47/azk+d8ffEd0oN/0dC9lhcaeYOvhJehdGHFemKY3Mk5O1FZrww9OF3SOBSrW+C6LPk04/mTji7j6OeIDfFIMvuu0oNOAqxTlwUuoTeIiHmJZ0jNlKgBgmsTmlRETAEjcDqcGhawiENI65uRYbx2eRv5k2U5If0ydhMxBLYAcqFEHE= ;{id = 24459 (zsk), size = 2048b}
 fj.	3600	IN	DNSKEY	257 3 8 AwEAAchm/6TsZVKXuzGe+5Kx/7PW2j1jMkctAL+FaWn+LW28Kzr4KI9XQz2bd1byWdsljsKkW1zMiiLBlxHcmUiKvv8hIPLwdxwEdutCve9arJNfDyDhCf5SCHenzQwaR3pQzQ+QzaTVPQKz9VIfV6u06wGqq4iTo014N2ITs2EtYU0TbydZ/cOuy2+N5xE1Xi6JrJuwPKSQfi3M3Ojb3SA4EK6fBaiGM2Ri1DN6OD+5A8Z9R4EihqAtPtkjJI8mqAbmXu+dkrMJVljtaCMlt2tejaqzqfwd4FJQEdFRiEdMwB3sYjsH+cMn3QJlvlSXm/w174e5Wzvk563TvuPOrLzefQU= ;{id = 12931 (ksk), size = 2048b}
 fj.	0	IN	NSEC3PARAM	1 0 5 76c4f303f016b631 
-ac.fj.	86400	IN	TXT	"Generation Time: 1651356004"
+ac.fj.	86400	IN	TXT	"Generation Time: 1651370408"
 adventist.ac.fj.	86400	IN	NS	lucy.ns.cloudflare.com.
 adventist.ac.fj.	86400	IN	NS	carlos.ns.cloudflare.com.
 bges.ac.fj.	86400	IN	NS	jay.ns.cloudflare.com.
@@ -133,7 +133,7 @@ wordlanguageinstitute.ac.fj.	86400	IN	NS	manu.usp.ac.fj.
 wordlanguageinstitute.ac.fj.	86400	IN	NS	teri.usp.ac.fj.
 yogafiji.ac.fj.	86400	IN	NS	ns1.fj.
 yogafiji.ac.fj.	86400	IN	NS	ns2.fj.
-biz.fj.	86400	IN	TXT	"Generation Time: 1651356004"
+biz.fj.	86400	IN	TXT	"Generation Time: 1651370408"
 ajynk.biz.fj.	86400	IN	NS	ns1.onlydomains.com.
 ajynk.biz.fj.	86400	IN	NS	ns2.onlydomains.com.
 altria.biz.fj.	86400	IN	NS	dns1.cscdns.net.
@@ -187,7 +187,7 @@ vodafone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-com.fj.	86400	IN	TXT	"Generation Time: 1651356007"
+com.fj.	86400	IN	TXT	"Generation Time: 1651370411"
 101domain.com.fj.	86400	IN	NS	ns1.101domain.com.
 101domain.com.fj.	86400	IN	NS	ns5.101domain.com.
 101domains.com.fj.	86400	IN	NS	ns1.101domain.com.
@@ -8394,7 +8394,7 @@ govt.fj.	86400	IN	NS	dnssecondary.auth-servers.net.
 gransy-anycast1.fj.	86400	IN	A	185.28.194.194
 gransy-anycast1.fj.	86400	IN	AAAA	2a00:fea0:dead::beef
 gransy-anycast2.fj.	86400	IN	A	185.38.108.108
-info.fj.	86400	IN	TXT	"Generation Time: 1651356008"
+info.fj.	86400	IN	TXT	"Generation Time: 1651370412"
 altria.info.fj.	86400	IN	NS	dns1.cscdns.net.
 altria.info.fj.	86400	IN	NS	dns2.cscdns.net.
 brother.info.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -8440,7 +8440,7 @@ vodaphone.info.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 master.fj.	86400	IN	A	144.120.141.11
 _e2521623b72ccec17d755e027b0feb6d.master.fj.	86400	IN	CNAME	68e23b12aed826cb6dd518ced98ac737.d18771cdc0331df3c32048e2af4f8884.n5v4wkb1xm5op55y5ni5.comodoca.com.
 www.master.fj.	86400	IN	A	144.120.141.11
-mil.fj.	86400	IN	TXT	"Generation Time: 1651356007"
+mil.fj.	86400	IN	TXT	"Generation Time: 1651370411"
 isatap.mil.fj.	86400	IN	NS	manu.usp.ac.fj.
 isatap.mil.fj.	86400	IN	NS	teri.usp.ac.fj.
 navneet.mil.fj.	86400	IN	NS	ns1.usp.ac.fj.
@@ -8449,7 +8449,7 @@ pacificeyeinstitute.mil.fj.	86400	IN	NS	caching01.usp.ac.fj.
 pacificeyeinstitute.mil.fj.	86400	IN	NS	caching02.usp.ac.fj.
 rfmf.mil.fj.	86400	IN	NS	ns4011.hostgator.com.
 rfmf.mil.fj.	86400	IN	NS	ns4012.hostgator.com.
-name.fj.	86400	IN	TXT	"Generation Time: 1651356008"
+name.fj.	86400	IN	TXT	"Generation Time: 1651370412"
 altria.name.fj.	86400	IN	NS	dns1.cscdns.net.
 altria.name.fj.	86400	IN	NS	dns2.cscdns.net.
 brother.name.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -8486,7 +8486,7 @@ vodafone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-net.fj.	86400	IN	TXT	"Generation Time: 1651356007"
+net.fj.	86400	IN	TXT	"Generation Time: 1651370411"
 3m.net.fj.	86400	IN	NS	ns.3m.com.
 3m.net.fj.	86400	IN	NS	pigseye.mmm.com.
 3mcompany.net.fj.	86400	IN	NS	ns.3m.com.
@@ -8680,7 +8680,7 @@ ns2.fj.	86400	IN	AAAA	2402:2940:100:100d::1
 ns3.fj.	86400	IN	A	185.38.108.108
 ns4.fj.	86400	IN	A	185.28.194.194
 ns5.fj.	86400	IN	A	204.61.216.138
-org.fj.	86400	IN	TXT	"Generation Time: 1651356008"
+org.fj.	86400	IN	TXT	"Generation Time: 1651370412"
 3m.org.fj.	86400	IN	NS	ns.3m.com.
 3m.org.fj.	86400	IN	NS	pigseye.mmm.com.
 3mcompany.org.fj.	86400	IN	NS	ns.3m.com.
@@ -9218,7 +9218,7 @@ yatsenfiji.org.fj.	86400	IN	NS	manu.usp.ac.fj.
 yatsenfiji.org.fj.	86400	IN	NS	teri.usp.ac.fj.
 youthcamp.org.fj.	86400	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	86400	IN	NS	ns2.justhost.com.
-pro.fj.	86400	IN	TXT	"Generation Time: 1651356008"
+pro.fj.	86400	IN	TXT	"Generation Time: 1651370412"
 altria.pro.fj.	86400	IN	NS	dns1.cscdns.net.
 altria.pro.fj.	86400	IN	NS	dns2.cscdns.net.
 brother.pro.fj.	86400	IN	NS	ns1.ipmirror.com.
