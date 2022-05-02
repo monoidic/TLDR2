@@ -1,16 +1,16 @@
-arpa.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022050201 1800 900 604800 86400
+arpa.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022050202 1800 900 604800 86400
 arpa.	518400	IN	NS	a.ns.arpa.
-arpa.	518400	IN	NS	b.root-servers.net.
+arpa.	518400	IN	NS	b.ns.arpa.
 arpa.	518400	IN	NS	c.ns.arpa.
-arpa.	518400	IN	NS	d.root-servers.net.
+arpa.	518400	IN	NS	d.ns.arpa.
 arpa.	518400	IN	NS	e.ns.arpa.
-arpa.	518400	IN	NS	f.root-servers.net.
-arpa.	518400	IN	NS	g.root-servers.net.
-arpa.	518400	IN	NS	h.root-servers.net.
-arpa.	518400	IN	NS	i.root-servers.net.
-arpa.	518400	IN	NS	k.root-servers.net.
-arpa.	518400	IN	NS	l.root-servers.net.
-arpa.	518400	IN	NS	m.root-servers.net.
+arpa.	518400	IN	NS	f.ns.arpa.
+arpa.	518400	IN	NS	g.ns.arpa.
+arpa.	518400	IN	NS	h.ns.arpa.
+arpa.	518400	IN	NS	i.ns.arpa.
+arpa.	518400	IN	NS	k.ns.arpa.
+arpa.	518400	IN	NS	l.ns.arpa.
+arpa.	518400	IN	NS	m.ns.arpa.
 arpa.	172800	IN	DNSKEY	256 3 8 AwEAAeCEDtvTZdHziY87gXwB+ATZe4V9yyRawvmccWAi5MHkwLc/D6SetGscZG8MqeSQ8bg9pSeYtGSgMFQIRfEqW+jjhPonb3Iz638rk+0Y3+LltGiLBL3eHFlltT4XnTy6XukRE129LTxT4SX2phmDJoeb17sr0jLYIei0eeGQ4NvxCZqmZw1KLkpxHBg944Ka90kjSZlpLIMVJKeoccAwNbh3D8NoWo/44a+x1WrRIrQNJGpiTh84elKXnE5aQ20Oy9zjJXA8JL9nf4DxxwyGob8IUhM7z3qsncvdrsH18p+YSRPkoyFTuNScmnCKSJFKzxew3FmSukP5ngI5TaP888E= ;{id = 64000 (zsk), size = 2048b}
 arpa.	172800	IN	DNSKEY	257 3 8 AwEAAaTeX8QjGPfu932a6OfQGYeeIdyXdLGLbvQD4LdNmEqJLL98kdOWB3bE97Wdh3FzI87OOqAVCITqWxqAM+phyZ6DsBzHpLDdqvFXkvv99n042rU1DROyIuHdZe/0qjR56PboiSEM6I7cPJWGJxlnR+JZVWXWJ3lK38teTaVrNm2Te/WPU2ntHY160etwVlxms4xbXa7WBbWXEq1q/9y18A56N/yz2dKkVLh9fmMU/frslsnn5BDYlkg4Xo0V+cw2Qw46mYV4g03ueCiDJAenUfV4iU9ud2h0Dq6Rhz7GMuTojDu3hdUz4DskR66yCetWRyofLCwVtZShGYqqLbiDTJc= ;{id = 42581 (ksk), size = 2048b}
 as112.arpa.	172800	IN	NS	a.iana-servers.net.
@@ -104,10 +104,28 @@ iris.arpa.	86400	IN	DS	39464 8 2 1e09a2d6374800d54cfd0e52293906ccf7db7e923dcab70
 iris.arpa.	86400	IN	DS	44285 8 2 05cbf77375a8bf5702cf8e261ff947be8c8ab7a0b9485a0241edcfe2f155c7f3
 a.ns.arpa.	518400	IN	A	198.41.0.4
 a.ns.arpa.	518400	IN	AAAA	2001:503:ba3e::2:30
+b.ns.arpa.	518400	IN	A	199.9.14.201
+b.ns.arpa.	518400	IN	AAAA	2001:500:200::b
 c.ns.arpa.	518400	IN	A	192.33.4.12
 c.ns.arpa.	518400	IN	AAAA	2001:500:2::c
+d.ns.arpa.	518400	IN	A	199.7.91.13
+d.ns.arpa.	518400	IN	AAAA	2001:500:2d::d
 e.ns.arpa.	518400	IN	A	192.203.230.10
 e.ns.arpa.	518400	IN	AAAA	2001:500:a8::e
+f.ns.arpa.	518400	IN	A	192.5.5.241
+f.ns.arpa.	518400	IN	AAAA	2001:500:2f::f
+g.ns.arpa.	518400	IN	A	192.112.36.4
+g.ns.arpa.	518400	IN	AAAA	2001:500:12::d0d
+h.ns.arpa.	518400	IN	A	198.97.190.53
+h.ns.arpa.	518400	IN	AAAA	2001:500:1::53
+i.ns.arpa.	518400	IN	A	192.36.148.17
+i.ns.arpa.	518400	IN	AAAA	2001:7fe::53
+k.ns.arpa.	518400	IN	A	193.0.14.129
+k.ns.arpa.	518400	IN	AAAA	2001:7fd::1
+l.ns.arpa.	518400	IN	A	199.7.83.42
+l.ns.arpa.	518400	IN	AAAA	2001:500:9f::42
+m.ns.arpa.	518400	IN	A	202.12.27.33
+m.ns.arpa.	518400	IN	AAAA	2001:dc3::35
 uri.arpa.	172800	IN	NS	a.iana-servers.net.
 uri.arpa.	172800	IN	NS	b.iana-servers.net.
 uri.arpa.	172800	IN	NS	c.iana-servers.net.
