@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440495 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440512 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [02/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [02/05/2022 16H30:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7009,6 +7009,8 @@ esa.sn.	43200	IN	NS	ns1.kheweul.net.
 esa.sn.	43200	IN	NS	ns2.kheweul.net.
 esa.sn.	43200	IN	NS	ns3.kheweul.net.
 esa.sn.	43200	IN	NS	ns4.kheweul.net.
+esabs.sn.	172800	IN	NS	170.ns1.above.com.
+esabs.sn.	172800	IN	NS	170.ns2.above.com.
 esaenergie.sn.	43200	IN	NS	ns100.ovh.net.
 esaenergie.sn.	43200	IN	NS	dns100.ovh.net.
 esatech.sn.	172800	IN	NS	cpanel21.lws-hosting.com.
@@ -7166,6 +7168,8 @@ eticcasenegal.sn.	43200	IN	NS	dns16.ovh.net.
 eticket.sn.	172800	IN	NS	ns200.anycast.me.
 eticket.sn.	172800	IN	NS	dns200.anycast.me.
 eticket.sn.	172800	IN	DS	8530 8 2 b768a3ef189b474408c11917a295ccb49242acca7a3b0219dc25713b2e6634fe
+eticsports.sn.	172800	IN	NS	ns101.ovh.net.
+eticsports.sn.	172800	IN	NS	dns101.ovh.net.
 etm-senegal.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 etm-senegal.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 etoilemarine.sn.	43200	IN	NS	eisdns1.expertis.sn.
@@ -9371,10 +9375,10 @@ hydrokit.sn.	43200	IN	NS	ns17.ovh.net.
 hydrokit.sn.	43200	IN	NS	dns17.ovh.net.
 hydrokit-senegal.sn.	43200	IN	NS	ns17.ovh.net.
 hydrokit-senegal.sn.	43200	IN	NS	dns17.ovh.net.
-hyundai.sn.	43200	IN	NS	pns31.cloudns.net.
-hyundai.sn.	43200	IN	NS	pns32.cloudns.net.
-hyundaisenegal.sn.	43200	IN	NS	pns31.cloudns.net.
-hyundaisenegal.sn.	43200	IN	NS	pns32.cloudns.net.
+hyundai.sn.	172800	IN	NS	dns3.cloudns.net.
+hyundai.sn.	172800	IN	NS	dns4.cloudns.net.
+hyundaisenegal.sn.	172800	IN	NS	dns3.cloudns.net.
+hyundaisenegal.sn.	172800	IN	NS	dns4.cloudns.net.
 i-bacterial.sn.	43200	IN	NS	ns101.ovh.net.
 i-bacterial.sn.	43200	IN	NS	dns101.ovh.net.
 i-bacterial.sn.	43200	IN	DS	31867 8 2 a3b33fc0d5a919fbcc7f78b3e7b793bc2c9e380ea7c03e3660951d238e064fef
@@ -12509,9 +12513,6 @@ mapinvest.sn.	43200	IN	NS	ns1.kheweul.net.
 mapinvest.sn.	43200	IN	NS	ns2.kheweul.net.
 mapinvest.sn.	43200	IN	NS	ns3.kheweul.net.
 mapinvest.sn.	43200	IN	NS	ns4.kheweul.net.
-mapote.sn.	43200	IN	NS	ns11.ovh.net.
-mapote.sn.	43200	IN	NS	dns11.ovh.net.
-mapote.sn.	43200	IN	DS	38740 8 2 34c805fbc9e5db0d16d77c7b897bc9acb52aec8750bc7d68da02ded84afe3192
 mappy.sn.	43200	IN	NS	a.ns.mailclub.fr.
 mappy.sn.	43200	IN	NS	b.ns.mailclub.eu.
 mappy.sn.	43200	IN	NS	c.ns.mailclub.com.
@@ -13542,8 +13543,8 @@ mybicis.sn.	172800	IN	NS	ns4.domivesta.com.
 mycanal.sn.	43200	IN	NS	ns2.observatoiredesmarques.fr.
 mycanal.sn.	43200	IN	NS	ns3.nameshield.net.
 mycanal.sn.	43200	IN	NS	obs.ns1.fr.
-mycarflix.sn.	43200	IN	NS	pns31.cloudns.net.
-mycarflix.sn.	43200	IN	NS	pns32.cloudns.net.
+mycarflix.sn.	172800	IN	NS	dns3.cloudns.net.
+mycarflix.sn.	172800	IN	NS	dns4.cloudns.net.
 myconsulting.sn.	172800	IN	NS	ns1.kheweul.net.
 myconsulting.sn.	172800	IN	NS	ns2.kheweul.net.
 myconsulting.sn.	172800	IN	NS	ns3.kheweul.net.
