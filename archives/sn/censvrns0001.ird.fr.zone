@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440448 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440463 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [02/05/2022 08H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [02/05/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1049,8 +1049,6 @@ albasoft.sn.	43200	IN	NS	ns109.ovh.net.
 albasoft.sn.	43200	IN	NS	dns109.ovh.net.
 albatros.sn.	172800	IN	NS	ns31.infomaniak.com.
 albatros.sn.	172800	IN	NS	ns32.infomaniak.com.
-albayane.sn.	43200	IN	NS	cp5.dnshostservices.com.
-albayane.sn.	43200	IN	NS	cp6.dnshostservices.com.
 alcrosoft.sn.	172800	IN	NS	tara.ns.cloudflare.com.
 alcrosoft.sn.	172800	IN	NS	michael.ns.cloudflare.com.
 alfa-laval.sn.	43200	IN	NS	unit.nmugroup.com.
@@ -2473,6 +2471,9 @@ beldo.sn.	172800	IN	NS	ns1.txpro15.fcomet.com.
 beldo.sn.	172800	IN	NS	ns2.txpro15.fcomet.com.
 beldograndirenconfiance.sn.	172800	IN	NS	ns1.md-45.webhostbox.net.
 beldograndirenconfiance.sn.	172800	IN	NS	ns2.md-45.webhostbox.net.
+belel.sn.	172800	IN	NS	ns1.francedns.com.
+belel.sn.	172800	IN	NS	ns2.francedns.com.
+belel.sn.	172800	IN	NS	ns3.francedns.com.
 bellefemme.sn.	172800	IN	NS	ns1.youcan.shop.
 bellefemme.sn.	172800	IN	NS	ns2.youcan.shop.
 bellevue.sn.	172800	IN	NS	ns20.ovh.net.
@@ -2726,6 +2727,8 @@ biophilia.sn.	172800	IN	NS	dns110.ovh.net.
 biophilia.sn.	172800	IN	DS	49831 8 2 14e63bb252a973fb07fc03210b5d1e19384e351e4f263c7230666d2e60772611
 biopro.sn.	172800	IN	NS	ns112.ovh.net.
 biopro.sn.	172800	IN	NS	dns112.ovh.net.
+biosavana.sn.	172800	IN	NS	ns1.o2switch.net.
+biosavana.sn.	172800	IN	NS	ns2.o2switch.net.
 biosecurite.sn.	43200	IN	NS	ns1.kheweul.net.
 biosecurite.sn.	43200	IN	NS	ns2.kheweul.net.
 biosecurite.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -5336,6 +5339,8 @@ ddsm.sn.	172800	IN	NS	ns3.kheweul.net.
 ddsm.sn.	172800	IN	NS	ns4.kheweul.net.
 deal.sn.	43200	IN	NS	ns100.ovh.net.
 deal.sn.	43200	IN	NS	dns100.ovh.net.
+deal-bi.sn.	172800	IN	NS	ns1.o2switch.net.
+deal-bi.sn.	172800	IN	NS	ns2.o2switch.net.
 dealbi.sn.	172800	IN	NS	ns1.servconfig.com.
 dealbi.sn.	172800	IN	NS	ns2.servconfig.com.
 deaupe.sn.	43200	IN	NS	ns1.francedns.com.
@@ -8981,9 +8986,8 @@ gts-sa.sn.	43200	IN	NS	ns31.infomaniak.com.
 gts-sa.sn.	43200	IN	NS	ns32.infomaniak.com.
 gueumsabopp.sn.	43200	IN	NS	ns1.kheweul.net.
 gueumsabopp.sn.	43200	IN	NS	ns2.kheweul.net.
-guichet.sn.	172800	IN	NS	ns1.francedns.com.
-guichet.sn.	172800	IN	NS	ns2.francedns.com.
-guichet.sn.	172800	IN	NS	ns3.francedns.com.
+guichet.sn.	172800	IN	NS	lila.ns.cloudflare.com.
+guichet.sn.	172800	IN	NS	bayan.ns.cloudflare.com.
 guichetjeunesse.sn.	172800	IN	NS	ns200.anycast.me.
 guichetjeunesse.sn.	172800	IN	NS	dns200.anycast.me.
 guichetjeunesse.sn.	172800	IN	DS	42316 8 2 674cfacbafa3d1e352ac8d8f946e0faedd065c9da022bf6110b76845d2dd4e2a
@@ -12934,6 +12938,8 @@ merkezsenegal.sn.	43200	IN	NS	ns104.ovh.net.
 merkezsenegal.sn.	43200	IN	NS	dns104.ovh.net.
 mesa.sn.	43200	IN	NS	ns.sonatel.sn.
 mesa.sn.	43200	IN	NS	ns2.sonatel.sn.
+mescoursensolo.sn.	172800	IN	NS	ns16.ovh.net.
+mescoursensolo.sn.	172800	IN	NS	dns16.ovh.net.
 mesri.sn.	172800	IN	NS	ns1.kheweul.net.
 mesri.sn.	172800	IN	NS	ns2.kheweul.net.
 mesri.sn.	172800	IN	NS	ns3.kheweul.net.
