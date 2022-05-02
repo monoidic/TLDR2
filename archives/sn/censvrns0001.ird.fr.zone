@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440391 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440404 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [02/05/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [02/05/2022 02H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3160,8 +3160,6 @@ businessman.sn.	172800	IN	NS	ns1.kheweul.net.
 businessman.sn.	172800	IN	NS	ns2.kheweul.net.
 businessman.sn.	172800	IN	NS	ns3.kheweul.net.
 businessman.sn.	172800	IN	NS	ns4.kheweul.net.
-businessmap.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-businessmap.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 businessvillage.sn.	172800	IN	NS	ns106.ovh.net.
 businessvillage.sn.	172800	IN	NS	dns106.ovh.net.
 butik.sn.	172800	IN	NS	ns112.ovh.net.
@@ -12311,8 +12309,8 @@ made-in-senegal.sn.	172800	IN	NS	ns3.ascio.com.
 made-in-senegal.sn.	172800	IN	NS	ns4.ascio.com.
 madec.sn.	43200	IN	NS	ns11.infomaniak.ch.
 madec.sn.	43200	IN	NS	ns12.infomaniak.ch.
-madein-senegal.sn.	172800	IN	NS	ns3.afriregister.com.
-madein-senegal.sn.	172800	IN	NS	ns01.afriregister.com.
+madein-senegal.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+madein-senegal.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 madeinsenegal.sn.	43200	IN	NS	dns1.alwaysdata.com.
 madeinsenegal.sn.	43200	IN	NS	dns2.alwaysdata.com.
 madgid.sn.	43200	IN	NS	ns200.anycast.me.
@@ -15830,6 +15828,8 @@ qvs.sn.	43200	IN	NS	ns4.kheweul.net.
 qwins.sn.	43200	IN	NS	ns1.101domain.com.
 qwins.sn.	43200	IN	NS	ns2.101domain.com.
 qwins.sn.	43200	IN	NS	ns5.101domain.com.
+r.sn.	172800	IN	NS	ns101.ovh.net.
+r.sn.	172800	IN	NS	dns101.ovh.net.
 rabo.sn.	43200	IN	NS	a7-64.akam.net.
 rabo.sn.	43200	IN	NS	a1-191.akam.net.
 rabo.sn.	43200	IN	NS	a12-64.akam.net.
@@ -19421,6 +19421,7 @@ tegalma.sn.	172800	IN	NS	dns1.namecheaphosting.com.
 tegalma.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 tek.sn.	172800	IN	NS	ns104.ovh.net.
 tek.sn.	172800	IN	NS	dns104.ovh.net.
+tek.sn.	172800	IN	DS	15019 8 2 54862a723e7c9ec043f86b8fbd0e925eebae2f5c091109c8cd15ed9712a28c42
 tekfi.sn.	172800	IN	NS	eisdns1.expertis.sn.
 tekfi.sn.	172800	IN	NS	eisdns2.expertis.sn.
 tekki.sn.	43200	IN	NS	ns1.efedus.com.
@@ -21400,8 +21401,6 @@ yere.sn.	43200	IN	NS	ns103.ovh.net.
 yere.sn.	43200	IN	NS	dns103.ovh.net.
 yeri.sn.	43200	IN	NS	ns1.cloudns.io.
 yeri.sn.	43200	IN	NS	ns2.cloudns.io.
-yes.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-yes.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 yesfood.sn.	172800	IN	NS	ns8.wixdns.net.
 yesfood.sn.	172800	IN	NS	ns9.wixdns.net.
 yesfood.sn.	172800	IN	DS	41887 8 2 af8a0391b72a6c2e3d1d3f40849084d1c32c26479b492d23d2752ea450174bf5
