@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440656 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440671 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [03/05/2022 12H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [03/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7169,8 +7169,6 @@ eticket.sn.	172800	IN	NS	dns200.anycast.me.
 eticket.sn.	172800	IN	DS	8530 8 2 b768a3ef189b474408c11917a295ccb49242acca7a3b0219dc25713b2e6634fe
 eticsports.sn.	172800	IN	NS	ns1.o2switch.net.
 eticsports.sn.	172800	IN	NS	ns2.o2switch.net.
-eticsports.sn.	172800	IN	NS	ns101.ovh.net.
-eticsports.sn.	172800	IN	NS	dns101.ovh.net.
 etm-senegal.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 etm-senegal.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 etoilemarine.sn.	43200	IN	NS	eisdns1.expertis.sn.
@@ -8068,8 +8066,8 @@ fri.sn.	43200	IN	NS	ns13.ovh.net.
 fri.sn.	43200	IN	NS	dns13.ovh.net.
 frm.sn.	43200	IN	NS	april.ns.cloudflare.com.
 frm.sn.	43200	IN	NS	ernest.ns.cloudflare.com.
-from.sn.	172800	IN	NS	kara.ns.cloudflare.com.
-from.sn.	172800	IN	NS	ishaan.ns.cloudflare.com.
+from.sn.	172800	IN	NS	ns1.vercel-dns.com.
+from.sn.	172800	IN	NS	ns2.vercel-dns.com.
 fruugo.sn.	43200	IN	NS	ns1.netim.net.
 fruugo.sn.	43200	IN	NS	ns2.netim.net.
 fruugo.sn.	43200	IN	NS	ns3.netim.net.
@@ -9799,8 +9797,8 @@ inas.sn.	43200	IN	NS	ns1.dominiok.it.
 inas.sn.	43200	IN	NS	ns2.dominiok.it.
 inasen.sn.	43200	IN	NS	ns1.efedus.com.
 inasen.sn.	43200	IN	NS	ns2.efedus.com.
-inc.sn.	172800	IN	NS	kara.ns.cloudflare.com.
-inc.sn.	172800	IN	NS	ishaan.ns.cloudflare.com.
+inc.sn.	172800	IN	NS	ns1.vercel-dns.com.
+inc.sn.	172800	IN	NS	ns2.vercel-dns.com.
 inclusionjob.sn.	43200	IN	NS	ns1.kheweul.net.
 inclusionjob.sn.	43200	IN	NS	ns2.kheweul.net.
 inclusionjob.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -21608,6 +21606,7 @@ zocdoc.sn.	43200	IN	NS	ns2.markmonitor.com.
 zoetis.sn.	43200	IN	NS	a1.verisigndns.com.
 zoetis.sn.	43200	IN	NS	a2.verisigndns.com.
 zoetis.sn.	43200	IN	NS	a3.verisigndns.com.
+zone01dakar.sn.	172800	IN	NS	hosting100.arc.sn.
 zou0784.sn.	172800	IN	NS	ns3.wanekoohost.com.
 zou0784.sn.	172800	IN	NS	ns4.wanekoohost.com.
 zou0784.sn.	172800	IN	NS	ns5.wanekoohost.com.
