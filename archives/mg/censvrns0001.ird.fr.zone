@@ -1,10 +1,10 @@
-mg.	7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050410 600 3600 604800 86400
+mg.	7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022050412 600 3600 604800 86400
 mg.	7200	IN	NS	ns.dts.mg.
 mg.	7200	IN	NS	ns.nic.mg.
 mg.	7200	IN	NS	pch.nic.mg.
 mg.	7200	IN	NS	ns-mg.malagasy.com.
 mg.	7200	IN	NS	censvrns0001.ird.fr.
-mg.	7200	IN	TXT	"Generation Time: 1651658437"
+mg.	7200	IN	TXT	"Generation Time: 1651665646"
 00.mg.	7200	IN	NS	gns1.cloudns.net.
 00.mg.	7200	IN	NS	gns2.cloudns.net.
 00.mg.	7200	IN	NS	gns3.cloudns.net.
@@ -6098,6 +6098,10 @@ lfds.mg.	86400	IN	NS	ns.dts.mg.
 lfds.mg.	86400	IN	NS	ns1.dts.mg.
 lflmada.mg.	86400	IN	NS	nsmpro1.nordnet.com.
 lflmada.mg.	86400	IN	NS	nsmpro2.nordnet.com.
+lft-alumni.mg.	86400	IN	NS	ns1.lft-alumni.mg.
+lft-alumni.mg.	86400	IN	NS	ns2.lft-alumni.mg.
+ns1.lft-alumni.mg.	86400	IN	A	51.210.188.80
+ns2.lft-alumni.mg.	86400	IN	A	51.210.188.80
 lftamatave.mg.	86400	IN	NS	ns29.dot.mg.
 lftamatave.mg.	86400	IN	NS	ns29.illi.co.mg.
 lhm.mg.	86400	IN	NS	ns1.hostns.io.
@@ -6459,6 +6463,8 @@ madatec.mg.	86400	IN	NS	ns1.cloudns.io.
 madatec.mg.	86400	IN	NS	ns2.cloudns.io.
 madatech.mg.	86400	IN	NS	ns1.da.cloudns.io.
 madatech.mg.	86400	IN	NS	ns2.da.cloudns.io.
+madatechno.mg.	86400	IN	NS	ns1.madanetinfo.mg.
+madatechno.mg.	86400	IN	NS	ns2.madanetinfo.mg.
 madatek.mg.	86400	IN	NS	ns1.servermada.com.
 madatek.mg.	86400	IN	NS	ns2.servermada.com.
 madatours.mg.	86400	IN	NS	ns1.servermada.com.
