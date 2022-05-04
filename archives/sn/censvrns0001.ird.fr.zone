@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440819 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440833 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [04/05/2022 10H10:01]"
+sn.	172800	IN	TXT	"1 RRs processed [04/05/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6592,6 +6592,8 @@ eiffage.sn.	43200	IN	NS	indom10.indomco.com.
 eiffage.sn.	43200	IN	NS	indom20.indomco.com.
 eiffage.sn.	43200	IN	NS	indom30.indomco.fr.
 eiffage.sn.	43200	IN	NS	indom80.indomco.hk.
+eiffageconcessionssenegal.sn.	172800	IN	NS	ns200.anycast.me.
+eiffageconcessionssenegal.sn.	172800	IN	NS	dns200.anycast.me.
 einhell.sn.	43200	IN	NS	ns1.is-fun.net.
 einhell.sn.	43200	IN	NS	ns2.is-fun.net.
 ejuma.sn.	43200	IN	NS	ns01.trademarkarea.com.
@@ -7402,6 +7404,8 @@ fadsr.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns6.wanekoohost.com.
+fagoul.sn.	172800	IN	NS	edward.ns.cloudflare.com.
+fagoul.sn.	172800	IN	NS	evangeline.ns.cloudflare.com.
 faise.sn.	43200	IN	NS	ns1.kheweul.net.
 faise.sn.	43200	IN	NS	ns2.kheweul.net.
 faise.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -16211,10 +16215,10 @@ rockrider.sn.	43200	IN	NS	a.dns.gandi.net.
 rockrider.sn.	43200	IN	NS	b.dns.gandi.net.
 rockrider.sn.	43200	IN	NS	c.dns.gandi.net.
 rokhayadiatta.sn.	43200	IN	NS	dns.ucad.sn.
-rolex.sn.	43200	IN	NS	ns1.p09.dynect.net.
-rolex.sn.	43200	IN	NS	ns2.p09.dynect.net.
-rolex.sn.	43200	IN	NS	ns3.p09.dynect.net.
-rolex.sn.	43200	IN	NS	ns4.p09.dynect.net.
+rolex.sn.	172800	IN	NS	dns1.p06.nsone.net.
+rolex.sn.	172800	IN	NS	dns2.p06.nsone.net.
+rolex.sn.	172800	IN	NS	dns3.p06.nsone.net.
+rolex.sn.	172800	IN	NS	dns4.p06.nsone.net.
 roly.sn.	43200	IN	NS	dns9.servidoresdns.net.
 roly.sn.	43200	IN	NS	dns10.servidoresdns.net.
 ron.sn.	43200	IN	NS	ns-164.awsdns-20.com.
@@ -19297,10 +19301,6 @@ tawhidtv.sn.	43200	IN	NS	ns1.kheweul.net.
 tawhidtv.sn.	43200	IN	NS	ns2.kheweul.net.
 tawhidtv.sn.	43200	IN	NS	ns3.kheweul.net.
 tawhidtv.sn.	43200	IN	NS	ns4.kheweul.net.
-taxawu-etudiant.sn.	172800	IN	NS	ns1.wanekoohost.com.
-taxawu-etudiant.sn.	172800	IN	NS	ns2.wanekoohost.com.
-taxawu-etudiant.sn.	172800	IN	NS	ns4.wanekoohost.com.
-taxawu-etudiant.sn.	172800	IN	NS	ns5.wanekoohost.com.
 taxawuleen.sn.	43200	IN	NS	ns1.hostmonster.com.
 taxawuleen.sn.	43200	IN	NS	ns2.hostmonster.com.
 taxiburger.sn.	172800	IN	NS	ns16.ovh.net.
