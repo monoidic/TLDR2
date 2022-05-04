@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440846 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440864 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [04/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [04/05/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1627,7 +1627,7 @@ ariesglobal.sn.	172800	IN	NS	dns20.ovh.net.
 ariesglobal.sn.	172800	IN	DS	43549 8 2 2f2eb2dfb7dde9b95322666a489e5d1147ceddbdec875321d2ec12daf0f3fa1c
 arimex.sn.	43200	IN	NS	ns.sonatel.sn.
 arimex.sn.	43200	IN	NS	ns2.sonatel.sn.
-arimmo.sn.	43200	IN	NS	ns1.caurys.net.
+arimmo.sn.	172800	IN	NS	hosting202.ittrefle.net.
 ariston.sn.	172800	IN	NS	ns1.brandshelter.com.
 ariston.sn.	172800	IN	NS	ns2.brandshelter.de.
 ariston.sn.	172800	IN	NS	ns3.brandshelter.info.
@@ -12936,7 +12936,6 @@ merkezsenegal.sn.	43200	IN	NS	ns104.ovh.net.
 merkezsenegal.sn.	43200	IN	NS	dns104.ovh.net.
 mermoz-sacrecoeur.sn.	172800	IN	NS	ns101.ovh.net.
 mermoz-sacrecoeur.sn.	172800	IN	NS	dns101.ovh.net.
-mermoz-sacrecoeur.sn.	172800	IN	DS	15595 8 2 44528b79f1db1d1ac4e5da96fddb87c4a441f4a49682ecba5decab602bba7a28
 mesa.sn.	43200	IN	NS	ns.sonatel.sn.
 mesa.sn.	43200	IN	NS	ns2.sonatel.sn.
 mescoursensolo.sn.	172800	IN	NS	ns16.ovh.net.
