@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440975 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440990 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"8 RRs processed [05/05/2022 08H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [05/05/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2475,6 +2475,9 @@ beldograndirenconfiance.sn.	172800	IN	NS	ns2.md-45.webhostbox.net.
 belel.sn.	172800	IN	NS	ns1.francedns.com.
 belel.sn.	172800	IN	NS	ns2.francedns.com.
 belel.sn.	172800	IN	NS	ns3.francedns.com.
+belelboutique.sn.	172800	IN	NS	ns1.francedns.com.
+belelboutique.sn.	172800	IN	NS	ns2.francedns.com.
+belelboutique.sn.	172800	IN	NS	ns3.francedns.com.
 bellefemme.sn.	172800	IN	NS	ns1.youcan.shop.
 bellefemme.sn.	172800	IN	NS	ns2.youcan.shop.
 bellevue.sn.	172800	IN	NS	ns20.ovh.net.
@@ -4003,10 +4006,6 @@ ches.sn.	43200	IN	NS	ns1.kheweul.net.
 ches.sn.	43200	IN	NS	ns2.kheweul.net.
 ches.sn.	43200	IN	NS	ns3.kheweul.net.
 ches.sn.	43200	IN	NS	ns4.kheweul.net.
-cheveuxnaturels.sn.	172800	IN	NS	ns3.wanekoohost.com.
-cheveuxnaturels.sn.	172800	IN	NS	ns4.wanekoohost.com.
-cheveuxnaturels.sn.	172800	IN	NS	ns5.wanekoohost.com.
-cheveuxnaturels.sn.	172800	IN	NS	ns6.wanekoohost.com.
 chevrolet.sn.	172800	IN	NS	ns200.anycast.me.
 chevrolet.sn.	172800	IN	NS	dns200.anycast.me.
 chevrolet.sn.	172800	IN	DS	45040 8 2 03af9cef027940a9833dacd121485da03e3b0ddf53f35dc2dae74ecef9c2ccdd
@@ -4511,6 +4510,7 @@ com.sn.	43200	IN	NS	ns.ucad.sn.
 com.sn.	43200	IN	NS	ns3.cctld.sn.
 com9.sn.	172800	IN	NS	ns101.ovh.net.
 com9.sn.	172800	IN	NS	dns101.ovh.net.
+com9.sn.	172800	IN	DS	56845 8 2 963ecad5e8162bac4b45dc768d4b4d9a907a9def60117d69f70e520cece3b488
 comasel.sn.	43200	IN	NS	ns102.ovh.net.
 comasel.sn.	43200	IN	NS	dns102.ovh.net.
 comat.sn.	43200	IN	NS	ns1.ascio.com.
@@ -4554,6 +4554,7 @@ comnacc.sn.	172800	IN	NS	ns1.logicweb.ml.
 comnacc.sn.	172800	IN	NS	ns2.logicweb.ml.
 comneuf.sn.	172800	IN	NS	ns200.anycast.me.
 comneuf.sn.	172800	IN	NS	dns200.anycast.me.
+comneuf.sn.	172800	IN	DS	43684 8 2 127f4b3b80fe34059d92b4990eb592cb6cb619dbb02a030180e03eb2a05efe82
 compagniesenegalaisedeproduitsdentretien.sn.	43200	IN	NS	ns1.francedns.com.
 compagniesenegalaisedeproduitsdentretien.sn.	43200	IN	NS	ns2.francedns.com.
 compagniesenegalaisedeproduitsdentretien.sn.	43200	IN	NS	ns3.francedns.com.
@@ -9864,10 +9865,6 @@ infogerance.sn.	172800	IN	NS	ns3.wanekoohost.com.
 infogerance.sn.	172800	IN	NS	ns4.wanekoohost.com.
 infogerance.sn.	172800	IN	NS	ns5.wanekoohost.com.
 infogerance.sn.	172800	IN	NS	ns6.wanekoohost.com.
-infographie.sn.	172800	IN	NS	ns3.wanekoohost.com.
-infographie.sn.	172800	IN	NS	ns4.wanekoohost.com.
-infographie.sn.	172800	IN	NS	ns5.wanekoohost.com.
-infographie.sn.	172800	IN	NS	ns6.wanekoohost.com.
 infolog.sn.	43200	IN	NS	ns1.kheweul.net.
 infolog.sn.	43200	IN	NS	ns2.kheweul.net.
 infomed.sn.	43200	IN	NS	ns1.dns-parking.com.
@@ -11139,10 +11136,6 @@ kijaniland.sn.	172800	IN	NS	ns2.md-68.webhostbox.net.
 kiji.sn.	172800	IN	NS	ns200.anycast.me.
 kiji.sn.	172800	IN	NS	dns200.anycast.me.
 kiji.sn.	172800	IN	DS	38035 8 2 9dbf98e602c900956b664759ec36bb5ddca5855dea722a114f6249a6c4515975
-kiki-bazar.sn.	172800	IN	NS	ns3.wanekoohost.com.
-kiki-bazar.sn.	172800	IN	NS	ns4.wanekoohost.com.
-kiki-bazar.sn.	172800	IN	NS	ns5.wanekoohost.com.
-kiki-bazar.sn.	172800	IN	NS	ns6.wanekoohost.com.
 kimjaly.sn.	43200	IN	NS	a.dns.gandi.net.
 kimjaly.sn.	43200	IN	NS	b.dns.gandi.net.
 kimjaly.sn.	43200	IN	NS	c.dns.gandi.net.
@@ -11231,6 +11224,7 @@ kollere.sn.	43200	IN	NS	ns103.ovh.net.
 kollere.sn.	43200	IN	NS	dns103.ovh.net.
 kom9.sn.	172800	IN	NS	ns101.ovh.net.
 kom9.sn.	172800	IN	NS	dns101.ovh.net.
+kom9.sn.	172800	IN	DS	35572 8 2 09d038011b0b788f16c4fd36f127daf119de42ff23750b19268f9ffd6a2c8fb4
 komodus.sn.	43200	IN	NS	dns1.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns2.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns3.snhosting.com.br.
@@ -15677,10 +15671,6 @@ propulsedakar.sn.	172800	IN	NS	ns3.wanekoohost.com.
 propulsedakar.sn.	172800	IN	NS	ns4.wanekoohost.com.
 propulsedakar.sn.	172800	IN	NS	ns5.wanekoohost.com.
 propulsedakar.sn.	172800	IN	NS	ns6.wanekoohost.com.
-proquelec.sn.	172800	IN	NS	ns3.wanekoohost.com.
-proquelec.sn.	172800	IN	NS	ns4.wanekoohost.com.
-proquelec.sn.	172800	IN	NS	ns5.wanekoohost.com.
-proquelec.sn.	172800	IN	NS	ns6.wanekoohost.com.
 prosaf.sn.	43200	IN	NS	ns11.ovh.net.
 prosaf.sn.	43200	IN	NS	dns11.ovh.net.
 prose.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -19921,6 +19911,9 @@ toubaameublement.sn.	43200	IN	NS	ns3.dreamhost.com.
 toubaassistancemedicale.sn.	172800	IN	NS	ns112.ovh.net.
 toubaassistancemedicale.sn.	172800	IN	NS	dns112.ovh.net.
 toubaassistancemedicale.sn.	172800	IN	DS	8041 8 2 e2078d69df05ff3dd89c1434c18d7225c6578f03f16c4b6ce9a5199ce798c5e6
+toubabelelboutique.sn.	172800	IN	NS	ns1.francedns.com.
+toubabelelboutique.sn.	172800	IN	NS	ns2.francedns.com.
+toubabelelboutique.sn.	172800	IN	NS	ns3.francedns.com.
 toubabogo.sn.	172800	IN	NS	ns3.wanekoohost.com.
 toubabogo.sn.	172800	IN	NS	ns4.wanekoohost.com.
 toubabogo.sn.	172800	IN	NS	ns5.wanekoohost.com.
