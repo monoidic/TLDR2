@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441029 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441043 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [05/05/2022 16H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [05/05/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8797,6 +8797,9 @@ greds.sn.	172800	IN	NS	ns4.kheweul.net.
 greenitude.sn.	172800	IN	NS	ns105.ovh.net.
 greenitude.sn.	172800	IN	NS	dns105.ovh.net.
 greenitude.sn.	172800	IN	DS	19492 8 2 b87cc7f475344a42bc2bc0772f8cd68276eb2cc3107ccc79d1c29d34c87e1839
+greenmarket.sn.	172800	IN	NS	ns110.ovh.net.
+greenmarket.sn.	172800	IN	NS	dns110.ovh.net.
+greenmarket.sn.	172800	IN	DS	16402 8 2 03af670036dcdf899b2b91090f3e4b983ebb9d50c2188251a8ef99a822a1869d
 greenmotion.sn.	172800	IN	NS	ns1.101domain.com.
 greenmotion.sn.	172800	IN	NS	ns2.101domain.com.
 greennetpressing.sn.	43200	IN	NS	ns1.ascio.com.
@@ -13283,10 +13286,6 @@ mondialbusiness.sn.	43200	IN	NS	ns.sonatel.sn.
 mondialbusiness.sn.	43200	IN	NS	ns2.sonatel.sn.
 mondialpaper.sn.	43200	IN	NS	ns110.ovh.net.
 mondialpaper.sn.	43200	IN	NS	dns110.ovh.net.
-mondialsport.sn.	43200	IN	NS	ns1.ascio.com.
-mondialsport.sn.	43200	IN	NS	ns2.ascio.com.
-mondialsport.sn.	43200	IN	NS	ns3.ascio.com.
-mondialsport.sn.	43200	IN	NS	ns4.ascio.com.
 monemoney.sn.	172800	IN	NS	ns200.anycast.me.
 monemoney.sn.	172800	IN	NS	dns200.anycast.me.
 monemoney.sn.	172800	IN	DS	52111 8 2 c1a153a20ad6a986555481e080b1d395288ab632b22d33c73e87b62b74ebee10
@@ -14068,9 +14067,6 @@ nouvelobs.sn.	172800	IN	DS	754 8 2 f177dc0081c4589184857eb444865e7ef035e76ae1e0c
 nouvelr.sn.	172800	IN	NS	ns1.francedns.com.
 nouvelr.sn.	172800	IN	NS	ns2.francedns.com.
 nouvelr.sn.	172800	IN	NS	ns3.francedns.com.
-nouverlr.sn.	43200	IN	NS	ns107.ovh.net.
-nouverlr.sn.	43200	IN	NS	dns107.ovh.net.
-nouverlr.sn.	43200	IN	DS	1252 8 2 6f18433e424f23544d7e0214e19cabcb8acee954e5cc4d69abf1a665677c13e5
 nova.sn.	43200	IN	NS	ns1.caurys.net.
 nova.sn.	43200	IN	NS	ns2.caurys.net.
 novartis.sn.	172800	IN	NS	a2-66.akam.net.
