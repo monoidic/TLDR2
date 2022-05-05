@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022050501 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022050502 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -6808,7 +6808,7 @@ gdn.	172800	IN	NS	ns1.nic.gdn.
 gdn.	172800	IN	NS	ns3.nic.gdn.
 gdn.	172800	IN	NS	ns4.nic.gdn.
 gdn.	86400	IN	DS	25276 8 1 f04fcf71cc66f4662e234316f3b47e74e03aea1a
-gdn.	86400	IN	DS	31885 8 1 8b3c32b09ab3d6b206f82dddee9b52b2bc5d30e6
+gdn.	86400	IN	DS	30307 8 1 7a16bf5938b9fe7cf2ac5be9c472e81443944686
 ns1.nic.gdn.	172800	IN	A	194.0.25.18
 ns1.nic.gdn.	172800	IN	AAAA	2001:678:20::18
 ns3.nic.gdn.	172800	IN	A	194.0.26.11
@@ -14165,6 +14165,7 @@ ro.	172800	IN	NS	dns-ro.denic.de.
 ro.	172800	IN	NS	primary.rotld.ro.
 ro.	172800	IN	NS	sec-dns-a.rotld.ro.
 ro.	172800	IN	NS	sec-dns-b.rotld.ro.
+ro.	86400	IN	DS	36332 8 2 46ec403715f76178d0d9de32dbf3a5a8f2c09ec5ee6ab4828a72cb58684d2e74
 ro.	86400	IN	DS	38627 8 2 f29a8932a478e688b8c4dae3503ed3acb42f22ec4a13cb2519d185c3d5ed674b
 dns-at.rotld.ro.	172800	IN	A	78.104.145.6
 dns-at.rotld.ro.	172800	IN	AAAA	2001:628:453:bb::6
