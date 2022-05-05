@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440964 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222440975 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [05/05/2022 06H40:02]"
+sn.	172800	IN	TXT	"8 RRs processed [05/05/2022 08H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4509,6 +4509,8 @@ colruyt.sn.	43200	IN	NS	dns3.colruyt.be.
 com.sn.	43200	IN	NS	ns.nic.sn.
 com.sn.	43200	IN	NS	ns.ucad.sn.
 com.sn.	43200	IN	NS	ns3.cctld.sn.
+com9.sn.	172800	IN	NS	ns101.ovh.net.
+com9.sn.	172800	IN	NS	dns101.ovh.net.
 comasel.sn.	43200	IN	NS	ns102.ovh.net.
 comasel.sn.	43200	IN	NS	dns102.ovh.net.
 comat.sn.	43200	IN	NS	ns1.ascio.com.
@@ -4550,6 +4552,8 @@ communedeyoff.sn.	172800	IN	NS	ns1.caurys.net.
 communedeyoff.sn.	172800	IN	NS	ns2.caurys.net.
 comnacc.sn.	172800	IN	NS	ns1.logicweb.ml.
 comnacc.sn.	172800	IN	NS	ns2.logicweb.ml.
+comneuf.sn.	172800	IN	NS	ns200.anycast.me.
+comneuf.sn.	172800	IN	NS	dns200.anycast.me.
 compagniesenegalaisedeproduitsdentretien.sn.	43200	IN	NS	ns1.francedns.com.
 compagniesenegalaisedeproduitsdentretien.sn.	43200	IN	NS	ns2.francedns.com.
 compagniesenegalaisedeproduitsdentretien.sn.	43200	IN	NS	ns3.francedns.com.
@@ -11225,6 +11229,8 @@ koldactu.sn.	43200	IN	NS	ns3.kheweul.net.
 koldactu.sn.	43200	IN	NS	ns4.kheweul.net.
 kollere.sn.	43200	IN	NS	ns103.ovh.net.
 kollere.sn.	43200	IN	NS	dns103.ovh.net.
+kom9.sn.	172800	IN	NS	ns101.ovh.net.
+kom9.sn.	172800	IN	NS	dns101.ovh.net.
 komodus.sn.	43200	IN	NS	dns1.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns2.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns3.snhosting.com.br.
@@ -15504,6 +15510,9 @@ presentationdemarie.sn.	43200	IN	DS	58786 8 2 593e4153a39dbcb107a25f0c85ea718668
 presidence.sn.	43200	IN	NS	ns.ucad.sn.
 presidence.sn.	43200	IN	NS	exchangesvr.presidence.sn.
 exchangesvr.presidence.sn.	43200	IN	A	213.154.77.132
+preskneuf.sn.	172800	IN	NS	ns101.ovh.net.
+preskneuf.sn.	172800	IN	NS	dns101.ovh.net.
+preskneuf.sn.	172800	IN	DS	45151 8 2 10d7ff79d75d9908ea75571e248965ca981756ed6d5d5309e3d7a246c656f5ce
 press.sn.	43200	IN	NS	dns1.p03.nsone.net.
 press.sn.	43200	IN	NS	dns2.p03.nsone.net.
 press.sn.	43200	IN	NS	ns01.gannett-dns.com.
