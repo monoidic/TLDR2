@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441005 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441017 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [05/05/2022 12H20:01]"
+sn.	172800	IN	TXT	"3 RRs processed [05/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -123,6 +123,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2good.sn.	172800	IN	DS	55840 8 2 bbe2ecc6ee57029d8aee7fe8e09a1e7ac103b7fbc33f9cd7767a51e253be2013
 2iris.sn.	172800	IN	NS	ns103.ovh.net.
 2iris.sn.	172800	IN	NS	dns103.ovh.net.
+2isimmo.sn.	172800	IN	NS	ns1.kheweul.net.
+2isimmo.sn.	172800	IN	NS	ns2.kheweul.net.
+2isimmo.sn.	172800	IN	NS	ns3.kheweul.net.
+2isimmo.sn.	172800	IN	NS	ns4.kheweul.net.
 2mintelligentsia.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 2mintelligentsia.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 2pi.sn.	43200	IN	NS	nsmpro1.nordnet.com.
@@ -1030,6 +1034,10 @@ akyla.sn.	172800	IN	NS	ns-1250.awsdns-28.org.
 akyla.sn.	172800	IN	NS	ns-1821.awsdns-35.co.uk.
 akys.sn.	172800	IN	NS	ns14.ovh.net.
 akys.sn.	172800	IN	NS	dns14.ovh.net.
+al-irada.sn.	172800	IN	NS	ns3.wanekoohost.com.
+al-irada.sn.	172800	IN	NS	ns4.wanekoohost.com.
+al-irada.sn.	172800	IN	NS	ns5.wanekoohost.com.
+al-irada.sn.	172800	IN	NS	ns6.wanekoohost.com.
 al-rahma.sn.	43200	IN	NS	ns200.anycast.me.
 al-rahma.sn.	43200	IN	NS	dns200.anycast.me.
 ala.sn.	172800	IN	NS	ns1.netim.net.
@@ -1050,6 +1058,10 @@ albasoft.sn.	43200	IN	NS	ns109.ovh.net.
 albasoft.sn.	43200	IN	NS	dns109.ovh.net.
 albatros.sn.	172800	IN	NS	ns31.infomaniak.com.
 albatros.sn.	172800	IN	NS	ns32.infomaniak.com.
+alchimie.sn.	172800	IN	NS	ns1.kheweul.net.
+alchimie.sn.	172800	IN	NS	ns2.kheweul.net.
+alchimie.sn.	172800	IN	NS	ns3.kheweul.net.
+alchimie.sn.	172800	IN	NS	ns4.kheweul.net.
 alcrosoft.sn.	172800	IN	NS	tara.ns.cloudflare.com.
 alcrosoft.sn.	172800	IN	NS	michael.ns.cloudflare.com.
 alfa-laval.sn.	43200	IN	NS	unit.nmugroup.com.
@@ -9659,8 +9671,6 @@ illiyin.sn.	43200	IN	NS	ns1.kheweul.net.
 illiyin.sn.	43200	IN	NS	ns2.kheweul.net.
 illiyin.sn.	43200	IN	NS	ns3.kheweul.net.
 illiyin.sn.	43200	IN	NS	ns4.kheweul.net.
-ilovesenegal.sn.	43200	IN	NS	ns107.ovh.net.
-ilovesenegal.sn.	43200	IN	NS	dns107.ovh.net.
 ilys.sn.	43200	IN	NS	ns1.caurys.net.
 ilys.sn.	43200	IN	NS	ns2.caurys.net.
 imagetvie.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -10564,8 +10574,6 @@ jena.sn.	43200	IN	NS	eisdns2.expertis.sn.
 jendalma.sn.	43200	IN	NS	ns13.ovh.net.
 jendalma.sn.	43200	IN	NS	dns13.ovh.net.
 jendalma.sn.	43200	IN	DS	62587 8 2 728939dc62e7b6a54aaf209a2653695275a2024cf0638aacd9141d6e4723e60b
-jendalmart.sn.	43200	IN	NS	ns107.ovh.net.
-jendalmart.sn.	43200	IN	NS	dns107.ovh.net.
 jennyfer.sn.	43200	IN	NS	ns.arc.sn.
 jennyfer.sn.	43200	IN	NS	ns2.arc.sn.
 jequipe.sn.	172800	IN	NS	ns106.ovh.net.
@@ -11548,8 +11556,8 @@ landtek.sn.	43200	IN	NS	ns37.domaincontrol.com.
 landtek.sn.	43200	IN	NS	ns38.domaincontrol.com.
 langagedigital.sn.	43200	IN	NS	ns1.dns-parking.com.
 langagedigital.sn.	43200	IN	NS	ns2.dns-parking.com.
-languages-senegal.sn.	172800	IN	NS	ns110.ovh.net.
-languages-senegal.sn.	172800	IN	NS	dns110.ovh.net.
+languages-senegal.sn.	172800	IN	NS	ns1.dns-parking.com.
+languages-senegal.sn.	172800	IN	NS	ns2.dns-parking.com.
 lantek.sn.	43200	IN	NS	ns1.kheweul.net.
 lantek.sn.	43200	IN	NS	ns2.kheweul.net.
 lantek.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -12937,8 +12945,8 @@ mercyships.sn.	43200	IN	NS	ns2.101domain.com.
 mercyships.sn.	43200	IN	NS	ns5.101domain.com.
 merkezsenegal.sn.	43200	IN	NS	ns104.ovh.net.
 merkezsenegal.sn.	43200	IN	NS	dns104.ovh.net.
-mermoz-sacrecoeur.sn.	172800	IN	NS	ns101.ovh.net.
-mermoz-sacrecoeur.sn.	172800	IN	NS	dns101.ovh.net.
+mermoz-sacrecoeur.sn.	172800	IN	NS	ns125.namehero.net.
+mermoz-sacrecoeur.sn.	172800	IN	NS	ns126.namehero.net.
 mesa.sn.	43200	IN	NS	ns.sonatel.sn.
 mesa.sn.	43200	IN	NS	ns2.sonatel.sn.
 mescoursensolo.sn.	172800	IN	NS	ns16.ovh.net.
@@ -15523,6 +15531,10 @@ prestech.sn.	43200	IN	NS	ns1.infomaniak.ch.
 prestech.sn.	43200	IN	NS	ns2.infomaniak.ch.
 prestige.sn.	172800	IN	NS	cpanel7.lws-hosting.com.
 prestige.sn.	172800	IN	NS	cpanel8.lws-hosting.com.
+prestige-auto.sn.	172800	IN	NS	ns1.kheweul.net.
+prestige-auto.sn.	172800	IN	NS	ns2.kheweul.net.
+prestige-auto.sn.	172800	IN	NS	ns3.kheweul.net.
+prestige-auto.sn.	172800	IN	NS	ns4.kheweul.net.
 prestigeauto.sn.	172800	IN	NS	ns1.afrowebmaster.com.
 prestigeauto.sn.	172800	IN	NS	ns2.afrowebmaster.com.
 prestigeauto.sn.	172800	IN	NS	ns3.afrowebmaster.com.
