@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022050601 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022050602 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -1687,6 +1687,7 @@ berlin.	172800	IN	NS	a.dns.nic.berlin.
 berlin.	172800	IN	NS	m.dns.nic.berlin.
 berlin.	172800	IN	NS	n.dns.nic.berlin.
 berlin.	86400	IN	DS	2990 8 2 f711a9e9b09a45c487a324b22de34db2831e2a8a0368d0bd0d8d3461470e5ffd
+berlin.	86400	IN	DS	25424 8 2 479dd34641c6386048518f9a39aafba26172060ee36a91f478ebe521aa1cffd5
 berlin.	86400	IN	DS	47974 8 2 b1ddc962a9293cda1c2ae8f951c86a8f391248c50751ad61f642d46d0f644b41
 a.dns.nic.berlin.	172800	IN	A	194.0.25.16
 a.dns.nic.berlin.	172800	IN	AAAA	2001:678:20::16
@@ -7463,6 +7464,7 @@ hamburg.	172800	IN	NS	m.dns.nic.hamburg.
 hamburg.	172800	IN	NS	n.dns.nic.hamburg.
 hamburg.	86400	IN	DS	12136 8 2 8bdc8642f1c0275904aea61c126d9d5a5db25881a564348af218eb4165bef7c5
 hamburg.	86400	IN	DS	34636 8 2 ae832fdb36452fb14a8fd7065a14a20fc4d119a12ff042704ef83a3b8febb213
+hamburg.	86400	IN	DS	39857 8 2 acadfbad24320a82cfad9dc5de24b5ef710fc0a9503f102596019b85ed1c74fa
 a.dns.nic.hamburg.	172800	IN	A	194.0.25.21
 a.dns.nic.hamburg.	172800	IN	AAAA	2001:678:20::21
 m.dns.nic.hamburg.	172800	IN	A	194.0.26.10
