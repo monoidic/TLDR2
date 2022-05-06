@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050301 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050601 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -3027,9 +3027,8 @@ daniel.cv.	28800	IN	NS	ns2.he.net.
 daniel.cv.	28800	IN	NS	ns3.he.net.
 daniel.cv.	28800	IN	NS	ns4.he.net.
 daniel.cv.	28800	IN	NS	ns5.he.net.
-darius.cv.	28800	IN	NS	ns01.trademarkarea.com.
-darius.cv.	28800	IN	NS	ns02.trademarkarea.com.
-darius.cv.	28800	IN	NS	ns03.trademarkarea.com.
+darius.cv.	28800	IN	NS	gordon.ns.cloudflare.com.
+darius.cv.	28800	IN	NS	kristina.ns.cloudflare.com.
 darq.cv.	28800	IN	NS	ns1.aguianet.com.
 darq.cv.	28800	IN	NS	ns2.aguianet.com.
 darq.cv.	28800	IN	NS	ns293.websitewelcome.com.
@@ -7731,8 +7730,8 @@ squad.cv.	28800	IN	NS	ns3.digitalocean.com.
 square.cv.	28800	IN	NS	ns1.siteground263.com.
 square.cv.	28800	IN	NS	ns2.siteground263.com.
 src.cv.	28800	IN	A	91.198.47.1
-src.cv.	86400	IN	NS	ns1.webs24h.com.
-src.cv.	86400	IN	NS	ns2.webs24h.com.
+src.cv.	28800	IN	NS	ns1.webs24h.com.
+src.cv.	28800	IN	NS	ns2.webs24h.com.
 src.cv.	28800	IN	AAAA	2001:4cc0:3:a::6dfe
 src.cv.	28800	IN	AAAA	2001:4cc0:4:10::5
 ssaadvogados.cv.	28800	IN	NS	dns1.host-redirect.com.
