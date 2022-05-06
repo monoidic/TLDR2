@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441149 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441160 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [06/05/2022 08H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [06/05/2022 10H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3810,6 +3810,8 @@ cdp.sn.	172800	IN	NS	ns.gouv.sn.
 cdp.sn.	172800	IN	NS	ns.ucad.sn.
 cdp.sn.	172800	IN	NS	ns2.gouv.sn.
 cdp.sn.	172800	IN	NS	ns3.gouv.sn.
+cdpefatick.sn.	172800	IN	NS	ns1.cloud-srv1.net.
+cdpefatick.sn.	172800	IN	NS	ns2.cloud-srv1.net.
 ceaagrisan.sn.	43200	IN	NS	ns1.kheweul.net.
 ceaagrisan.sn.	43200	IN	NS	ns2.kheweul.net.
 ceaagrisan.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -12647,9 +12649,6 @@ masterweb.sn.	172800	IN	NS	ns3.wanekoohost.com.
 masterweb.sn.	172800	IN	NS	ns4.wanekoohost.com.
 masterweb.sn.	172800	IN	NS	ns5.wanekoohost.com.
 masterweb.sn.	172800	IN	NS	ns6.wanekoohost.com.
-mat-outils.sn.	43200	IN	NS	ns1.francedns.com.
-mat-outils.sn.	43200	IN	NS	ns2.francedns.com.
-mat-outils.sn.	43200	IN	NS	ns3.francedns.com.
 matamactu.sn.	43200	IN	NS	ns1.kheweul.net.
 matamactu.sn.	43200	IN	NS	ns2.kheweul.net.
 matamactu.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -12670,9 +12669,6 @@ matontine.sn.	43200	IN	NS	ns1.name.com.
 matontine.sn.	43200	IN	NS	ns2.name.com.
 matookai.sn.	43200	IN	NS	ns.sonatel.sn.
 matookai.sn.	43200	IN	NS	ns2.sonatel.sn.
-matoutils.sn.	43200	IN	NS	ns1.francedns.com.
-matoutils.sn.	43200	IN	NS	ns2.francedns.com.
-matoutils.sn.	43200	IN	NS	ns3.francedns.com.
 matpro.sn.	43200	IN	NS	ns5.afriregister.com.
 matpro.sn.	43200	IN	NS	ns6.afriregister.com.
 matrice.sn.	172800	IN	NS	kay.ns.cloudflare.com.
@@ -20313,8 +20309,6 @@ ugbnumerique.sn.	43200	IN	NS	ns3.cctld.sn.
 uggcafrica.sn.	172800	IN	NS	ns-25-b.gandi.net.
 uggcafrica.sn.	172800	IN	NS	ns-46-a.gandi.net.
 uggcafrica.sn.	172800	IN	NS	ns-237-c.gandi.net.
-uhuria.sn.	172800	IN	NS	ns11.infomaniak.ch.
-uhuria.sn.	172800	IN	NS	ns12.infomaniak.ch.
 uidt.sn.	43200	IN	NS	ns.univ-thies.sn.
 uimcec.sn.	43200	IN	NS	ns.sonatel.sn.
 uimcec.sn.	43200	IN	NS	ns2.sonatel.sn.
