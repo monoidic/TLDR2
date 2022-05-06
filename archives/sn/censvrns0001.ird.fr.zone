@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441205 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441217 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [06/05/2022 16H20:01]"
+sn.	172800	IN	TXT	"1 RRs processed [06/05/2022 18H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -127,6 +127,12 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2isimmo.sn.	172800	IN	NS	ns2.kheweul.net.
 2isimmo.sn.	172800	IN	NS	ns3.kheweul.net.
 2isimmo.sn.	172800	IN	NS	ns4.kheweul.net.
+2ksen.sn.	172800	IN	NS	ns101.ovh.net.
+2ksen.sn.	172800	IN	NS	dns101.ovh.net.
+2kvg.sn.	172800	IN	NS	ns101.ovh.net.
+2kvg.sn.	172800	IN	NS	dns101.ovh.net.
+2kvisiongroup.sn.	172800	IN	NS	ns101.ovh.net.
+2kvisiongroup.sn.	172800	IN	NS	dns101.ovh.net.
 2mintelligentsia.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 2mintelligentsia.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 2pi.sn.	43200	IN	NS	nsmpro1.nordnet.com.
@@ -1043,8 +1049,6 @@ al-rahma.sn.	43200	IN	NS	dns200.anycast.me.
 ala.sn.	172800	IN	NS	ns1.netim.net.
 ala.sn.	172800	IN	NS	ns2.netim.net.
 ala.sn.	172800	IN	NS	ns3.netim.net.
-alafiasenegal.sn.	43200	IN	NS	ns20.kelilhost.com.
-alafiasenegal.sn.	43200	IN	NS	ns22.kelilhost.com.
 alala.sn.	172800	IN	NS	ns1.kheweul.net.
 alala.sn.	172800	IN	NS	ns2.kheweul.net.
 alala.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -2292,8 +2296,6 @@ baraka.sn.	43200	IN	NS	ns3.kheweul.net.
 baraka.sn.	43200	IN	NS	ns4.kheweul.net.
 baraka-services.sn.	43200	IN	NS	ns11.infomaniak.ch.
 baraka-services.sn.	43200	IN	NS	ns12.infomaniak.ch.
-barakagate.sn.	43200	IN	NS	ns20.kelilhost.com.
-barakagate.sn.	43200	IN	NS	ns22.kelilhost.com.
 barclays.sn.	43200	IN	NS	ns1.barclays.co.uk.
 barclays.sn.	43200	IN	NS	ns2.barclays.co.uk.
 barcodes.sn.	172800	IN	NS	ns110.ovh.net.
@@ -3802,8 +3804,8 @@ cdp.sn.	172800	IN	NS	ns.gouv.sn.
 cdp.sn.	172800	IN	NS	ns.ucad.sn.
 cdp.sn.	172800	IN	NS	ns2.gouv.sn.
 cdp.sn.	172800	IN	NS	ns3.gouv.sn.
-cdpefatick.sn.	172800	IN	NS	ns1.cloud-srv1.net.
-cdpefatick.sn.	172800	IN	NS	ns2.cloud-srv1.net.
+cdpefatick.sn.	172800	IN	NS	ns1.cloud-ns22.net.
+cdpefatick.sn.	172800	IN	NS	ns2.cloud-ns22.net.
 ceaagrisan.sn.	43200	IN	NS	ns1.kheweul.net.
 ceaagrisan.sn.	43200	IN	NS	ns2.kheweul.net.
 ceaagrisan.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -8240,6 +8242,10 @@ gandiol.sn.	43200	IN	NS	pdns07.domaincontrol.com.
 gandiol.sn.	43200	IN	NS	pdns08.domaincontrol.com.
 garage.sn.	43200	IN	NS	ns1.snterra.com.
 garage.sn.	43200	IN	NS	ns2.snterra.com.
+garmex.sn.	172800	IN	NS	ns3.wanekoohost.com.
+garmex.sn.	172800	IN	NS	ns4.wanekoohost.com.
+garmex.sn.	172800	IN	NS	ns5.wanekoohost.com.
+garmex.sn.	172800	IN	NS	ns6.wanekoohost.com.
 gas.sn.	43200	IN	NS	ns11.infomaniak.ch.
 gas.sn.	43200	IN	NS	ns12.infomaniak.ch.
 gayenneshop.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -10833,6 +10839,8 @@ kacyber.sn.	172800	IN	NS	ns1.vultr.com.
 kacyber.sn.	172800	IN	NS	ns2.vultr.com.
 kadiandou.sn.	43200	IN	NS	ns.sonatel.sn.
 kadiandou.sn.	43200	IN	NS	ns2.sonatel.sn.
+kadior.sn.	172800	IN	NS	eisdns1.expertis.sn.
+kadior.sn.	172800	IN	NS	eisdns2.expertis.sn.
 kadisarconsulting.sn.	43200	IN	NS	ns1.caurys.net.
 kadisarconsulting.sn.	43200	IN	NS	ns2.caurys.net.
 kaelassurance.sn.	172800	IN	NS	ns3.afriregister.com.
@@ -11789,6 +11797,8 @@ lequotidien.sn.	43200	IN	NS	ns1.africatichost.com.
 lequotidien.sn.	43200	IN	NS	ns2.africatichost.com.
 lerelais.sn.	43200	IN	NS	ns102.ovh.net.
 lerelais.sn.	43200	IN	NS	dns102.ovh.net.
+lereveil.sn.	172800	IN	NS	eisdns1.expertis.sn.
+lereveil.sn.	172800	IN	NS	eisdns2.expertis.sn.
 leroi.sn.	172800	IN	NS	ns1.hostmonster.com.
 leroi.sn.	172800	IN	NS	ns2.hostmonster.com.
 lerondpoint.sn.	43200	IN	NS	pdns05.domaincontrol.com.
@@ -14674,6 +14684,8 @@ ousmanendoye.sn.	172800	IN	NS	dns2.namecheaphosting.com.
 ousmanesonko.sn.	43200	IN	NS	ns1.netim.net.
 ousmanesonko.sn.	43200	IN	NS	ns2.netim.net.
 ousmanesonko.sn.	43200	IN	NS	ns3.netim.net.
+ousseynoudiagne.sn.	172800	IN	NS	ns101.ovh.net.
+ousseynoudiagne.sn.	172800	IN	NS	dns101.ovh.net.
 outshock.sn.	43200	IN	NS	a.dns.gandi.net.
 outshock.sn.	43200	IN	NS	b.dns.gandi.net.
 outshock.sn.	43200	IN	NS	c.dns.gandi.net.
@@ -15585,6 +15597,9 @@ procallcenter.sn.	43200	IN	NS	ns1.ascio.com.
 procallcenter.sn.	43200	IN	NS	ns2.ascio.com.
 procallcenter.sn.	43200	IN	NS	ns3.ascio.com.
 procallcenter.sn.	43200	IN	NS	ns4.ascio.com.
+procasef.sn.	172800	IN	NS	ns1.francedns.com.
+procasef.sn.	172800	IN	NS	ns2.francedns.com.
+procasef.sn.	172800	IN	NS	ns3.francedns.com.
 prodac.sn.	43200	IN	NS	ns3.jokko-hosting.com.
 prodac.sn.	43200	IN	NS	ns4.jokko-hosting.com.
 prodas.sn.	172800	IN	NS	ns5.jokko-hosting.com.
@@ -16991,8 +17006,8 @@ semisenegal.sn.	43200	IN	NS	dns20.ovh.net.
 sen-annonces.sn.	172800	IN	NS	ns1.dns-parking.com.
 sen-annonces.sn.	172800	IN	NS	ns2.dns-parking.com.
 sen-cloud.sn.	172800	IN	NS	ns.gouv.sn.
-sen-cloud.sn.	172800	IN	NS	ns1.gouv.sn.
 sen-cloud.sn.	172800	IN	NS	ns2.gouv.sn.
+sen-cloud.sn.	172800	IN	NS	ns3.gouv.sn.
 sen-eau.sn.	172800	IN	NS	ns1.prodomaines.com.
 sen-eau.sn.	172800	IN	NS	ns2.prodomaines.com.
 sen-mairie.sn.	172800	IN	NS	ns1.opennetworld.co.uk.
