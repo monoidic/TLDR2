@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441262 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441275 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [07/05/2022 00H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [07/05/2022 02H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7189,8 +7189,8 @@ etpc.sn.	43200	IN	NS	ns3.kheweul.net.
 etpc.sn.	43200	IN	NS	ns4.kheweul.net.
 etshamethfall.sn.	43200	IN	NS	ns.sonatel.sn.
 etshamethfall.sn.	43200	IN	NS	ns2.sonatel.sn.
-etsmg.sn.	43200	IN	NS	ns3.afriregister.com.
-etsmg.sn.	43200	IN	NS	ns01.afriregister.com.
+etsmg.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+etsmg.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 ettubwolof.sn.	43200	IN	NS	ns1.caurys.net.
 ettubwolof.sn.	43200	IN	NS	ns2.caurys.net.
 etudebadiane.sn.	43200	IN	NS	ns1.sevensys.me.
@@ -10849,6 +10849,9 @@ kadiandou.sn.	43200	IN	NS	ns.sonatel.sn.
 kadiandou.sn.	43200	IN	NS	ns2.sonatel.sn.
 kadior.sn.	172800	IN	NS	eisdns1.expertis.sn.
 kadior.sn.	172800	IN	NS	eisdns2.expertis.sn.
+kadis.sn.	172800	IN	NS	ns200.anycast.me.
+kadis.sn.	172800	IN	NS	dns200.anycast.me.
+kadis.sn.	172800	IN	DS	15877 8 2 987a22a2adb7a501163b7f281d200430efcdff0c710e687718132804307b1ae9
 kadisarconsulting.sn.	43200	IN	NS	ns1.caurys.net.
 kadisarconsulting.sn.	43200	IN	NS	ns2.caurys.net.
 kaelassurance.sn.	172800	IN	NS	ns3.afriregister.com.
