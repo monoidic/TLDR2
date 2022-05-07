@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441333 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441348 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [07/05/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [07/05/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4548,6 +4548,9 @@ communedekeursambakane.sn.	43200	IN	NS	ns18.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	dns18.ovh.net.
 communedekoul.sn.	43200	IN	NS	dns1.namecheaphosting.com.
 communedekoul.sn.	43200	IN	NS	dns2.namecheaphosting.com.
+communedesangalkam.sn.	172800	IN	NS	ns200.anycast.me.
+communedesangalkam.sn.	172800	IN	NS	dns200.anycast.me.
+communedesangalkam.sn.	172800	IN	DS	36082 8 2 bc5afaff339f6644b9ea38a369f2ffc8df05d7f09bf48cbbefb20d87ab352764
 communedeyoff.sn.	172800	IN	NS	ns1.caurys.net.
 communedeyoff.sn.	172800	IN	NS	ns2.caurys.net.
 comnacc.sn.	172800	IN	NS	ns1.logicweb.ml.
@@ -17279,8 +17282,9 @@ senegalinfo.sn.	43200	IN	NS	ns1.o2switch.net.
 senegalinfo.sn.	43200	IN	NS	ns2.o2switch.net.
 senegalinvestland.sn.	43200	IN	NS	dns1.interdominios.com.
 senegalinvestland.sn.	43200	IN	NS	dns2.interdominios.com.
-senegaljob.sn.	172800	IN	NS	ns200.anycast.me.
-senegaljob.sn.	172800	IN	NS	dns200.anycast.me.
+senegaljob.sn.	172800	IN	NS	nsa.n0c.com.
+senegaljob.sn.	172800	IN	NS	nsb.n0c.com.
+senegaljob.sn.	172800	IN	NS	nsc.n0c.com.
 senegaljobs.sn.	172800	IN	NS	ns1.101domain.com.
 senegaljobs.sn.	172800	IN	NS	ns2.101domain.com.
 senegalmedia.sn.	172800	IN	NS	ns1.wanekoohost.com.
@@ -19433,10 +19437,6 @@ techserv.sn.	43200	IN	NS	ns4.bdm.microsoftonline.com.
 techso.sn.	172800	IN	NS	ns113.ovh.net.
 techso.sn.	172800	IN	NS	dns113.ovh.net.
 techso.sn.	172800	IN	DS	53752 8 2 29aba0d162a32bdfcbeaa3330cc83c1e760d2d25c6a85a8f0b566988a7b21bcf
-techvision.sn.	172800	IN	NS	ns3.wanekoohost.com.
-techvision.sn.	172800	IN	NS	ns4.wanekoohost.com.
-techvision.sn.	172800	IN	NS	ns5.wanekoohost.com.
-techvision.sn.	172800	IN	NS	ns6.wanekoohost.com.
 techworks.sn.	172800	IN	NS	ns103.ovh.net.
 techworks.sn.	172800	IN	NS	dns103.ovh.net.
 techworks.sn.	172800	IN	DS	1975 8 2 a1e2e6050a837bcd91c699c86776dcb67bd3c3b09ce1c32d7360058d5fd7343a
