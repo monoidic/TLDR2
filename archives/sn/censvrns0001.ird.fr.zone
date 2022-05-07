@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441426 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441440 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [07/05/2022 22H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [08/05/2022 00H00:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5595,6 +5595,8 @@ di.sn.	43200	IN	NS	orns01.dig.com.
 di.sn.	43200	IN	NS	orns02.dig.com.
 di.sn.	43200	IN	NS	sens01.dig.com.
 di.sn.	43200	IN	NS	sens02.dig.com.
+diaba.sn.	172800	IN	NS	ns1.cloudns.io.
+diaba.sn.	172800	IN	NS	ns2.cloudns.io.
 diabos.sn.	43200	IN	NS	ns108.ovh.net.
 diabos.sn.	43200	IN	NS	dns108.ovh.net.
 diabos.sn.	43200	IN	DS	6442 8 2 f9cffda5ae2eedf22752e4b5aad3411e843fac0a47186a953bd8387466f795b0
