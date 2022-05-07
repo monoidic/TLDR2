@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441363 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441380 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [07/05/2022 14H00:01]"
+sn.	172800	IN	TXT	"No RRs processed [07/05/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3396,6 +3396,9 @@ campusmag.sn.	43200	IN	NS	ns1.kheweul.net.
 campusmag.sn.	43200	IN	NS	ns2.kheweul.net.
 campusmag.sn.	43200	IN	NS	ns3.kheweul.net.
 campusmag.sn.	43200	IN	NS	ns4.kheweul.net.
+campusmedia.sn.	172800	IN	NS	ns200.anycast.me.
+campusmedia.sn.	172800	IN	NS	dns200.anycast.me.
+campusmedia.sn.	172800	IN	DS	16741 8 2 8ab00962dd31eaef094930c5aff0fbf54a70968c0a926414ff42a660bf4411c2
 campustv.sn.	43200	IN	NS	ns1.kheweul.net.
 campustv.sn.	43200	IN	NS	ns2.kheweul.net.
 campustv.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -15686,6 +15689,14 @@ promogem.sn.	172800	IN	NS	ns2.gouv.sn.
 promogem.sn.	172800	IN	NS	ns3.gouv.sn.
 promovilles.sn.	172800	IN	NS	ns1.o2switch.net.
 promovilles.sn.	172800	IN	NS	ns2.o2switch.net.
+promultimedia.sn.	172800	IN	NS	ns3.wanekoohost.com.
+promultimedia.sn.	172800	IN	NS	ns4.wanekoohost.com.
+promultimedia.sn.	172800	IN	NS	ns5.wanekoohost.com.
+promultimedia.sn.	172800	IN	NS	ns6.wanekoohost.com.
+ns1.promultimedia.sn.	172800	IN	A	37.59.45.38
+ns2.promultimedia.sn.	172800	IN	A	51.38.56.141
+ns3.promultimedia.sn.	172800	IN	A	158.69.125.86
+ns4.promultimedia.sn.	172800	IN	A	144.217.72.198
 propack.sn.	172800	IN	NS	ns200.anycast.me.
 propack.sn.	172800	IN	NS	dns200.anycast.me.
 propack.sn.	172800	IN	DS	9031 8 2 3ae369677811cefcbf04c40f4d28645595a7a480932456b9ce44937ca8db6afd
@@ -18986,6 +18997,8 @@ sunucity.sn.	43200	IN	NS	ns3.afrowebmaster.com.
 sunucity.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 sunucmu.sn.	43200	IN	NS	ns11.infomaniak.ch.
 sunucmu.sn.	43200	IN	NS	ns12.infomaniak.ch.
+sunucommerce.sn.	172800	IN	NS	ns1.psej.net.
+sunucommerce.sn.	172800	IN	NS	ns2.psej.net.
 sunucommune.sn.	172800	IN	NS	ns.kimsufi.com.
 sunucouture.sn.	172800	IN	NS	ns102.ovh.net.
 sunucouture.sn.	172800	IN	NS	dns102.ovh.net.
@@ -20227,6 +20240,10 @@ tumi.sn.	172800	IN	NS	ns.bnamed.uk.
 tumi.sn.	172800	IN	NS	ns.bnamed.us.
 tumi.sn.	172800	IN	NS	ns.nscluster.re.
 tumi.sn.	172800	IN	NS	ns.nscluster.tf.
+tunde.sn.	172800	IN	NS	ns1.kheweul.net.
+tunde.sn.	172800	IN	NS	ns2.kheweul.net.
+tunde.sn.	172800	IN	NS	ns3.kheweul.net.
+tunde.sn.	172800	IN	NS	ns4.kheweul.net.
 turco-meubles.sn.	43200	IN	NS	ns1.ascio.com.
 turco-meubles.sn.	43200	IN	NS	ns2.ascio.com.
 turco-meubles.sn.	43200	IN	NS	ns3.ascio.com.
@@ -20335,6 +20352,8 @@ ugbnumerique.sn.	43200	IN	NS	ns3.cctld.sn.
 uggcafrica.sn.	172800	IN	NS	ns-25-b.gandi.net.
 uggcafrica.sn.	172800	IN	NS	ns-46-a.gandi.net.
 uggcafrica.sn.	172800	IN	NS	ns-237-c.gandi.net.
+uhuria.sn.	172800	IN	NS	ns200.anycast.me.
+uhuria.sn.	172800	IN	NS	dns200.anycast.me.
 uidt.sn.	43200	IN	NS	ns.univ-thies.sn.
 uimcec.sn.	43200	IN	NS	ns.sonatel.sn.
 uimcec.sn.	43200	IN	NS	ns2.sonatel.sn.
