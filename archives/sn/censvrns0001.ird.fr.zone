@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441316 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441333 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [07/05/2022 08H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [07/05/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5816,6 +5816,9 @@ diotali.sn.	172800	IN	NS	eisdns2.expertis.sn.
 dioula.sn.	43200	IN	NS	ns200.anycast.me.
 dioula.sn.	43200	IN	NS	dns200.anycast.me.
 dioula.sn.	172800	IN	DS	63829 8 2 dc570be60dcfb0ed3a8713514720fdf7873fa242444d9d3d15949d8610c8b9ee
+dipandfry.sn.	172800	IN	NS	ns1.netim.net.
+dipandfry.sn.	172800	IN	NS	ns2.netim.net.
+dipandfry.sn.	172800	IN	NS	ns3.netim.net.
 dipdoundouguiss.sn.	172800	IN	NS	ns2.francedns.com.
 dipdoundouguiss.sn.	172800	IN	NS	cloudf03.francedns.com.
 diplomatie.sn.	43200	IN	NS	dns1.namecheaphosting.com.
@@ -15613,9 +15616,10 @@ procallcenter.sn.	43200	IN	NS	ns1.ascio.com.
 procallcenter.sn.	43200	IN	NS	ns2.ascio.com.
 procallcenter.sn.	43200	IN	NS	ns3.ascio.com.
 procallcenter.sn.	43200	IN	NS	ns4.ascio.com.
-procasef.sn.	172800	IN	NS	ns1.francedns.com.
-procasef.sn.	172800	IN	NS	ns2.francedns.com.
-procasef.sn.	172800	IN	NS	ns3.francedns.com.
+procasef.sn.	172800	IN	NS	ns1.bdm.microsoftonline.com.
+procasef.sn.	172800	IN	NS	ns2.bdm.microsoftonline.com.
+procasef.sn.	172800	IN	NS	ns3.bdm.microsoftonline.com.
+procasef.sn.	172800	IN	NS	ns4.bdm.microsoftonline.com.
 prodac.sn.	43200	IN	NS	ns3.jokko-hosting.com.
 prodac.sn.	43200	IN	NS	ns4.jokko-hosting.com.
 prodas.sn.	172800	IN	NS	ns5.jokko-hosting.com.
@@ -17645,8 +17649,6 @@ senum.sn.	172800	IN	NS	ns2.o2switch.net.
 senumsa.sn.	172800	IN	NS	ns.gouv.sn.
 senumsa.sn.	172800	IN	NS	ns2.gouv.sn.
 senumsa.sn.	172800	IN	NS	ns3.gouv.sn.
-senveto.sn.	43200	IN	NS	ns102.ovh.net.
-senveto.sn.	43200	IN	NS	dns102.ovh.net.
 senvitalesh.sn.	172800	IN	NS	ns1.senvitalesh.sn.
 senvitalesh.sn.	172800	IN	NS	ns2.senvitalesh.sn.
 ns1.senvitalesh.sn.	172800	IN	A	34.69.242.43
