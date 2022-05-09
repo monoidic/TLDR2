@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441740 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441756 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/05/2022 18H20:01]"
+sn.	172800	IN	TXT	"2 RRs processed [09/05/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -265,6 +265,8 @@ aad.sn.	43200	IN	NS	ns3.kheweul.net.
 aad.sn.	43200	IN	NS	ns4.kheweul.net.
 aars.sn.	43200	IN	NS	pdns09.domaincontrol.com.
 aars.sn.	43200	IN	NS	pdns10.domaincontrol.com.
+aarsenegal.sn.	172800	IN	NS	ns1.kheweul.net.
+aarsenegal.sn.	172800	IN	NS	ns2.kheweul.net.
 aas.sn.	43200	IN	NS	ns1.aas.sn.
 aas.sn.	43200	IN	NS	ns2.aas.sn.
 ns1.aas.sn.	43200	IN	A	31.207.33.106
@@ -15453,6 +15455,9 @@ polytechnique.sn.	43200	IN	NS	ns2.kheweul.net.
 polytechnique.sn.	43200	IN	NS	ns3.kheweul.net.
 polytechnique.sn.	43200	IN	NS	ns4.kheweul.net.
 polytek.sn.	172800	IN	NS	ns.arc.sn.
+polytek.sn.	172800	IN	NS	ns1.wordpress.com.
+polytek.sn.	172800	IN	NS	ns2.wordpress.com.
+polytek.sn.	172800	IN	NS	ns3.wordpress.com.
 polytek.sn.	172800	IN	NS	hosting100.arc.sn.
 polywork.sn.	172800	IN	NS	ns-338.awsdns-42.com.
 polywork.sn.	172800	IN	NS	ns-990.awsdns-59.net.
@@ -16584,8 +16589,6 @@ samakeur.sn.	43200	IN	NS	ns1.afriregister.com.
 samakeur.sn.	43200	IN	NS	ns3.afriregister.com.
 samalife.sn.	43200	IN	NS	ns1.efedus.com.
 samalife.sn.	43200	IN	NS	ns2.efedus.com.
-samalook.sn.	172800	IN	NS	ns101.ovh.net.
-samalook.sn.	172800	IN	NS	dns101.ovh.net.
 samanaffa.sn.	172800	IN	NS	ns200.anycast.me.
 samanaffa.sn.	172800	IN	NS	dns200.anycast.me.
 samanaffa.sn.	172800	IN	DS	42565 8 2 fbb208a06c27ffc96f47d6b1118bf59e279951b45128c3887536ad2a36be736e
