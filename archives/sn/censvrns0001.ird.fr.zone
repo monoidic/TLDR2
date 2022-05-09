@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441714 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441728 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/05/2022 14H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [09/05/2022 16H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2542,6 +2542,10 @@ bet221.sn.	43200	IN	NS	ns4.francedns.com.
 bet221.sn.	43200	IN	NS	ns5.francedns.com.
 bet365.sn.	43200	IN	NS	ns1.markmonitor.com.
 bet365.sn.	43200	IN	NS	ns3.markmonitor.com.
+beta.sn.	172800	IN	NS	ns3.wanekoohost.com.
+beta.sn.	172800	IN	NS	ns4.wanekoohost.com.
+beta.sn.	172800	IN	NS	ns5.wanekoohost.com.
+beta.sn.	172800	IN	NS	ns6.wanekoohost.com.
 betaenergy.sn.	43200	IN	NS	ns1.kheweul.net.
 betaenergy.sn.	43200	IN	NS	ns2.kheweul.net.
 betaenergy.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -10750,6 +10754,9 @@ jourdesport.sn.	172800	IN	NS	amanda.ns.cloudflare.com.
 jourdesport.sn.	172800	IN	NS	matteo.ns.cloudflare.com.
 journal.sn.	43200	IN	NS	ns1.snterra.com.
 journal.sn.	43200	IN	NS	ns2.snterra.com.
+journaux.sn.	172800	IN	NS	ns101.ovh.net.
+journaux.sn.	172800	IN	NS	dns101.ovh.net.
+journaux.sn.	172800	IN	DS	32584 8 2 01704f71c0b849492db637eafa8b6e1badbf3f66e643b19ace9eeef93583ed1a
 jovi.sn.	43200	IN	NS	ns1.brandcloudns.com.
 jovi.sn.	43200	IN	NS	ns2.brandcloudns.com.
 jpacinstitute.sn.	43200	IN	NS	ns1.cp-11.webhostbox.net.
@@ -11691,6 +11698,10 @@ lavenue.sn.	43200	IN	NS	ns1.kheweul.net.
 lavenue.sn.	43200	IN	NS	ns2.kheweul.net.
 lavenue.sn.	43200	IN	NS	ns3.kheweul.net.
 lavenue.sn.	43200	IN	NS	ns4.kheweul.net.
+lavoixdetouba.sn.	172800	IN	NS	ns3.wanekoohost.com.
+lavoixdetouba.sn.	172800	IN	NS	ns4.wanekoohost.com.
+lavoixdetouba.sn.	172800	IN	NS	ns5.wanekoohost.com.
+lavoixdetouba.sn.	172800	IN	NS	ns6.wanekoohost.com.
 law.sn.	43200	IN	NS	dns1.safenames.com.
 law.sn.	43200	IN	NS	dns2.safenames.net.
 law.sn.	43200	IN	NS	dns3.safenames.org.
@@ -15195,9 +15206,6 @@ pfnac.sn.	43200	IN	NS	ns1.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns2.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns3.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns4.kheweul.net.
-pfpc.sn.	172800	IN	NS	ns200.anycast.me.
-pfpc.sn.	172800	IN	NS	dns200.anycast.me.
-pfpc.sn.	172800	IN	DS	44884 8 2 aeea200d80c9033175f368bb2fdcb20e80469b1d4c6522306564d69f31fc4011
 pgisecnsa.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pgisecnsa.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 pgo.sn.	172800	IN	NS	ns5.afriregister.co.ke.
@@ -18562,6 +18570,8 @@ sonac.sn.	43200	IN	NS	ns3.kheweul.net.
 sonac.sn.	43200	IN	NS	ns4.kheweul.net.
 sonacos.sn.	43200	IN	NS	ns.sonatel.sn.
 sonacos.sn.	43200	IN	NS	ns2.sonatel.sn.
+sonaged.sn.	172800	IN	NS	ns1.caurys.net.
+sonaged.sn.	172800	IN	NS	ns2.caurys.net.
 sonagroup.sn.	172800	IN	NS	ns1.wanekoohost.com.
 sonagroup.sn.	172800	IN	NS	ns2.wanekoohost.com.
 sonagroup.sn.	172800	IN	NS	ns4.wanekoohost.com.
@@ -19286,6 +19296,9 @@ taiyo.sn.	172800	IN	NS	dns110.ovh.net.
 takebusiness.sn.	172800	IN	NS	ns11.ovh.net.
 takebusiness.sn.	172800	IN	NS	dns11.ovh.net.
 takebusiness.sn.	172800	IN	DS	17299 8 2 9abe364bb7c9082e69e3cd3a17436e87c6609297ef956bd45a95542aa33274e0
+takedelivery.sn.	172800	IN	NS	ns11.ovh.net.
+takedelivery.sn.	172800	IN	NS	dns11.ovh.net.
+takedelivery.sn.	172800	IN	DS	10180 8 2 7c7997c08b00b1417106004997c2daf742071b0baa9fab0f7d1a432526b3e689
 takeoff.sn.	43200	IN	NS	ip242.ip-54-38-106.eu.
 takeoff.sn.	43200	IN	NS	sdns2.ovh.net.
 tal.sn.	43200	IN	NS	ns.sonatel.sn.
