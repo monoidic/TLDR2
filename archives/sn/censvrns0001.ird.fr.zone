@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441673 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441686 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [09/05/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [09/05/2022 10H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1831,6 +1831,8 @@ assidqiwasadiqin.sn.	43200	IN	NS	ns10.ovh.net.
 assidqiwasadiqin.sn.	43200	IN	NS	dns10.ovh.net.
 assirou.sn.	43200	IN	NS	ns1.cp-35.webhostbox.net.
 assirou.sn.	43200	IN	NS	ns2.cp-35.webhostbox.net.
+assistancevisa.sn.	172800	IN	NS	ns1.wanekoohost.com.
+assistancevisa.sn.	172800	IN	NS	ns2.wanekoohost.com.
 associatesgroup.sn.	43200	IN	NS	zod.ns.cloudflare.com.
 associatesgroup.sn.	43200	IN	NS	isabel.ns.cloudflare.com.
 assosenegal.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -7491,6 +7493,8 @@ fastef-fad.sn.	43200	IN	NS	ns1.kheweul.net.
 fastef-fad.sn.	43200	IN	NS	ns2.kheweul.net.
 fastef-fad.sn.	43200	IN	NS	ns3.kheweul.net.
 fastef-fad.sn.	43200	IN	NS	ns4.kheweul.net.
+fastfood.sn.	172800	IN	NS	cp5.dnshostservices.com.
+fastfood.sn.	172800	IN	NS	cp6.dnshostservices.com.
 fastorder.sn.	43200	IN	NS	ns20.ovh.net.
 fastorder.sn.	43200	IN	NS	dns20.ovh.net.
 fastosh.sn.	172800	IN	NS	ns101.ovh.net.
@@ -8822,8 +8826,8 @@ greennetpressing.sn.	43200	IN	NS	ns1.ascio.com.
 greennetpressing.sn.	43200	IN	NS	ns2.ascio.com.
 greennetpressing.sn.	43200	IN	NS	ns3.ascio.com.
 greennetpressing.sn.	43200	IN	NS	ns4.ascio.com.
-greenparadise.sn.	172800	IN	NS	ns5.jokko-hosting.com.
-greenparadise.sn.	172800	IN	NS	ns9.jokko-hosting.com.
+greenparadise.sn.	172800	IN	NS	ns1.cloud-ns22.net.
+greenparadise.sn.	172800	IN	NS	ns2.cloud-ns22.net.
 greenportafrica.sn.	172800	IN	NS	ns112.ovh.net.
 greenportafrica.sn.	172800	IN	NS	dns112.ovh.net.
 greensenegal.sn.	43200	IN	NS	ns6.wixdns.net.
@@ -16170,6 +16174,8 @@ residenceamitie.sn.	43200	IN	NS	ns3.kheweul.net.
 residenceamitie.sn.	43200	IN	NS	ns4.kheweul.net.
 residencelatdior.sn.	43200	IN	NS	ns1.sonatel.sn.
 residencelatdior.sn.	43200	IN	NS	ns2.sonatel.sn.
+restaurants.sn.	172800	IN	NS	cp5.dnshostservices.com.
+restaurants.sn.	172800	IN	NS	cp6.dnshostservices.com.
 resto.sn.	172800	IN	NS	ns200.anycast.me.
 resto.sn.	172800	IN	NS	dns200.anycast.me.
 resto.sn.	172800	IN	DS	37330 8 2 418292b718ec28b47e1ad8ea6af438347aca0eff1a1f9db2872abcf9a6bfbbee
@@ -19463,6 +19469,10 @@ techserv.sn.	43200	IN	NS	ns4.bdm.microsoftonline.com.
 techso.sn.	172800	IN	NS	ns113.ovh.net.
 techso.sn.	172800	IN	NS	dns113.ovh.net.
 techso.sn.	172800	IN	DS	53752 8 2 29aba0d162a32bdfcbeaa3330cc83c1e760d2d25c6a85a8f0b566988a7b21bcf
+techvision.sn.	172800	IN	NS	ns3.wanekoohost.com.
+techvision.sn.	172800	IN	NS	ns4.wanekoohost.com.
+techvision.sn.	172800	IN	NS	ns5.wanekoohost.com.
+techvision.sn.	172800	IN	NS	ns6.wanekoohost.com.
 techworks.sn.	172800	IN	NS	ns103.ovh.net.
 techworks.sn.	172800	IN	NS	dns103.ovh.net.
 techworks.sn.	172800	IN	DS	1975 8 2 a1e2e6050a837bcd91c699c86776dcb67bd3c3b09ce1c32d7360058d5fd7343a
