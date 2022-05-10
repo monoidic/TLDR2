@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441876 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441892 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [10/05/2022 12H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [10/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2969,9 +2969,6 @@ bonfoni.sn.	43200	IN	NS	ns1.hostens.com.
 bonfoni.sn.	43200	IN	NS	ns2.hostens.com.
 bonplan.sn.	43200	IN	NS	may.ns.cloudflare.com.
 bonplan.sn.	43200	IN	NS	elliot.ns.cloudflare.com.
-bookingsenegal.sn.	172800	IN	NS	ns11.ovh.net.
-bookingsenegal.sn.	172800	IN	NS	dns11.ovh.net.
-bookingsenegal.sn.	172800	IN	DS	29527 8 2 ace5993fed0c6e8ea70d5d21a4f1cd638313f861087a90ca105c826d7d936ad6
 bookingsuite.sn.	43200	IN	NS	ns0.bkngs.com.
 bookingsuite.sn.	43200	IN	NS	ns1.bkngs.com.
 bookingsuite.sn.	43200	IN	NS	ns2.bkngs.com.
@@ -6219,9 +6216,6 @@ dvoice.sn.	172800	IN	NS	ns1.kheweul.net.
 dvoice.sn.	172800	IN	NS	ns2.kheweul.net.
 dvoice.sn.	172800	IN	NS	ns3.kheweul.net.
 dvoice.sn.	172800	IN	NS	ns4.kheweul.net.
-dways.sn.	172800	IN	NS	ns11.ovh.net.
-dways.sn.	172800	IN	NS	dns11.ovh.net.
-dways.sn.	172800	IN	DS	56074 8 2 e3c294b82ed58eaf8810c106bf250467452647341d854b70cf14247e43842f29
 dwg.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 dwg.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 dyn.sn.	43200	IN	NS	deb.ns.cloudflare.com.
@@ -7435,8 +7429,6 @@ fadsr.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns6.wanekoohost.com.
-fagoul.sn.	172800	IN	NS	edward.ns.cloudflare.com.
-fagoul.sn.	172800	IN	NS	evangeline.ns.cloudflare.com.
 faise.sn.	43200	IN	NS	ns1.kheweul.net.
 faise.sn.	43200	IN	NS	ns2.kheweul.net.
 faise.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -8035,8 +8027,8 @@ fracht.sn.	43200	IN	NS	ns4.netim.net.
 fracht.sn.	43200	IN	NS	ns5.netim.net.
 fradevafrique.sn.	172800	IN	NS	ns1.o2switch.net.
 fradevafrique.sn.	172800	IN	NS	ns2.o2switch.net.
-frametek.sn.	43200	IN	NS	ns25.domaincontrol.com.
-frametek.sn.	43200	IN	NS	ns26.domaincontrol.com.
+frametek.sn.	172800	IN	NS	ns6.wixdns.net.
+frametek.sn.	172800	IN	NS	ns7.wixdns.net.
 francedns.sn.	43200	IN	NS	ns1.francedns.com.
 francedns.sn.	43200	IN	NS	ns2.francedns.com.
 francedns.sn.	43200	IN	NS	ns3.francedns.com.
@@ -9929,6 +9921,8 @@ infosetudes.sn.	43200	IN	NS	ns1.001.bj.
 infosetudes.sn.	43200	IN	NS	ns2.001.bj.
 infotech.sn.	43200	IN	NS	ns18.ovh.net.
 infotech.sn.	43200	IN	NS	dns18.ovh.net.
+infrafric.sn.	172800	IN	NS	ns.arc.sn.
+infrafric.sn.	172800	IN	NS	hosting100.arc.sn.
 ingcapital.sn.	43200	IN	NS	ns1.kheweul.net.
 ingcapital.sn.	43200	IN	NS	ns2.kheweul.net.
 ingcapital.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -11608,8 +11602,8 @@ landrover.sn.	43200	IN	NS	sgdns04.jlrext.com.
 landrover.sn.	43200	IN	NS	whdns04.jlrext.com.
 landsend.sn.	43200	IN	NS	dns1.cscdns.net.
 landsend.sn.	43200	IN	NS	dns2.cscdns.net.
-landtek.sn.	43200	IN	NS	ns37.domaincontrol.com.
-landtek.sn.	43200	IN	NS	ns38.domaincontrol.com.
+landtek.sn.	172800	IN	NS	ns6.wixdns.net.
+landtek.sn.	172800	IN	NS	ns7.wixdns.net.
 langagedigital.sn.	43200	IN	NS	ns1.dns-parking.com.
 langagedigital.sn.	43200	IN	NS	ns2.dns-parking.com.
 languages-senegal.sn.	172800	IN	NS	ns1.dns-parking.com.
@@ -11775,6 +11769,9 @@ lecourrier.sn.	43200	IN	NS	ns3.kheweul.net.
 lecourrier.sn.	43200	IN	NS	ns4.kheweul.net.
 lecourtier.sn.	172800	IN	NS	ns1.siwal.co.
 lecourtier.sn.	172800	IN	NS	ns2.siwal.co.
+lecube.sn.	172800	IN	NS	ns1.francedns.com.
+lecube.sn.	172800	IN	NS	ns2.francedns.com.
+lecube.sn.	172800	IN	NS	ns3.francedns.com.
 ledengroup.sn.	172800	IN	NS	ns1.kheweul.net.
 ledengroup.sn.	172800	IN	NS	ns2.kheweul.net.
 ledengroup.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -12246,6 +12243,9 @@ lovisa.sn.	172800	IN	NS	ns02.trademarkarea.com.
 lovisa.sn.	172800	IN	NS	ns03.trademarkarea.com.
 lowprice.sn.	172800	IN	NS	ns41.infomaniak.com.
 lowprice.sn.	172800	IN	NS	ns42.infomaniak.com.
+lowvig.sn.	172800	IN	NS	dns1.idp365.net.
+lowvig.sn.	172800	IN	NS	dns2.idp365.net.
+lowvig.sn.	172800	IN	NS	dns3.idp365.net.
 loxea.sn.	43200	IN	NS	ns1.cetsi.fr.
 loxea.sn.	43200	IN	NS	ns2.cetsi.eu.
 loxea.sn.	43200	IN	NS	ns3.cetsi.info.
@@ -12711,6 +12711,7 @@ matforce.sn.	43200	IN	NS	ns1.ipage.com.
 matforce.sn.	43200	IN	NS	ns2.ipage.com.
 matiere-tp.sn.	172800	IN	NS	ns200.anycast.me.
 matiere-tp.sn.	172800	IN	NS	dns200.anycast.me.
+matiere-tp.sn.	172800	IN	DS	42961 8 2 f3f302066a0c853a54f863680be2f907228bbf728c3f155336c2565c88ed755d
 matontine.sn.	43200	IN	NS	ns1.name.com.
 matontine.sn.	43200	IN	NS	ns2.name.com.
 matookai.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -14407,8 +14408,8 @@ onema.sn.	172800	IN	NS	ns1.caurys.net.
 onema.sn.	172800	IN	NS	ns2.caurys.net.
 oneplus.sn.	43200	IN	NS	ns1.netim.net.
 oneplus.sn.	43200	IN	NS	ns2.netim.net.
-onesource.sn.	43200	IN	NS	ns73.domaincontrol.com.
-onesource.sn.	43200	IN	NS	ns74.domaincontrol.com.
+onesource.sn.	172800	IN	NS	ns6.wixdns.net.
+onesource.sn.	172800	IN	NS	ns7.wixdns.net.
 onestop.sn.	172800	IN	NS	ns1.101domain.com.
 onestop.sn.	172800	IN	NS	ns2.101domain.com.
 onfp.sn.	172800	IN	NS	ns.gouv.sn.
@@ -15060,6 +15061,9 @@ pawapay.sn.	172800	IN	NS	ns1.afriregister.com.
 pawapay.sn.	172800	IN	NS	ns3.afriregister.com.
 pay.sn.	43200	IN	NS	ns1.tarad.com.
 pay.sn.	43200	IN	NS	ns2.tarad.com.
+paydaycasino.sn.	172800	IN	NS	dns1.idp365.net.
+paydaycasino.sn.	172800	IN	NS	dns2.idp365.net.
+paydaycasino.sn.	172800	IN	NS	dns3.idp365.net.
 payjoy.sn.	172800	IN	NS	ns1.101domain.com.
 payjoy.sn.	172800	IN	NS	ns2.101domain.com.
 paylen.sn.	43200	IN	NS	ns113.ovh.net.
@@ -18806,6 +18810,9 @@ ns2.sportpari.sn.	43200	IN	A	37.48.74.3
 sports.sn.	172800	IN	NS	ns106.ovh.net.
 sports.sn.	172800	IN	NS	dns106.ovh.net.
 sports.sn.	172800	IN	DS	25567 8 2 abbe52e4da8147ebf4d7a1203314056aef6567c8278c97ba9ccfce6df8a646b5
+sportsbetting.sn.	172800	IN	NS	dns1.idp365.net.
+sportsbetting.sn.	172800	IN	NS	dns2.idp365.net.
+sportsbetting.sn.	172800	IN	NS	dns3.idp365.net.
 sportsdirect.sn.	43200	IN	NS	ns1.netnames.net.
 sportsdirect.sn.	43200	IN	NS	ns2.netnames.net.
 sportsdirect.sn.	43200	IN	NS	ns5.netnames.net.
@@ -19125,6 +19132,9 @@ supermarche.sn.	172800	IN	NS	ns1.stackdns.com.
 supermarche.sn.	172800	IN	NS	ns2.stackdns.com.
 superpromo.sn.	172800	IN	NS	ns1.gwedi.com.
 superpromo.sn.	172800	IN	NS	ns2.gwedi.com.
+superslots.sn.	172800	IN	NS	dns1.idp365.net.
+superslots.sn.	172800	IN	NS	dns2.idp365.net.
+superslots.sn.	172800	IN	NS	dns3.idp365.net.
 supersportbet.sn.	172800	IN	NS	ns1-03.azure-dns.com.
 supersportbet.sn.	172800	IN	NS	ns2-03.azure-dns.net.
 supersportbet.sn.	172800	IN	NS	ns3-03.azure-dns.org.
@@ -19790,6 +19800,9 @@ tidyshop.sn.	172800	IN	DS	30319 8 2 0fa178b6d02ae2f6da798ae059e5c2ede750bc7bff71
 tiepboudien.sn.	172800	IN	NS	ns200.anycast.me.
 tiepboudien.sn.	172800	IN	NS	dns200.anycast.me.
 tiepboudien.sn.	172800	IN	DS	56212 8 2 6ea9b711fb1b64d554eab840cdd8bac3de491b35c934c85f7733eb251e622fad
+tigergaming.sn.	172800	IN	NS	dns1.idp365.net.
+tigergaming.sn.	172800	IN	NS	dns2.idp365.net.
+tigergaming.sn.	172800	IN	NS	dns3.idp365.net.
 tigo.sn.	43200	IN	NS	ns.tigo.sn.
 tigo.sn.	43200	IN	NS	ns2.tigo.sn.
 ns.tigo.sn.	43200	IN	A	154.65.34.2
@@ -20923,9 +20936,6 @@ vrla.sn.	43200	IN	NS	ns5.101domain.com.
 vsevmeste.sn.	172800	IN	NS	ns1.netim.net.
 vsevmeste.sn.	172800	IN	NS	ns2.netim.net.
 vsevmeste.sn.	172800	IN	NS	ns3.netim.net.
-vtcsenegal.sn.	172800	IN	NS	ns11.ovh.net.
-vtcsenegal.sn.	172800	IN	NS	dns11.ovh.net.
-vtcsenegal.sn.	172800	IN	DS	55762 8 2 2a288432de2520f73c34167ec3a4b2a2ddecce9c7197716df0f71c134d41b29c
 vuba.sn.	43200	IN	NS	ns1.francedns.com.
 vuba.sn.	43200	IN	NS	ns2.francedns.com.
 vuba.sn.	43200	IN	NS	ns3.francedns.com.
@@ -21197,6 +21207,9 @@ wikomobile.sn.	43200	IN	NS	b.dns.gandi.net.
 wikomobile.sn.	43200	IN	NS	c.dns.gandi.net.
 wilaya.sn.	43200	IN	NS	ns1.kheweul.net.
 wilaya.sn.	43200	IN	NS	ns2.kheweul.net.
+wildcasino.sn.	172800	IN	NS	dns1.idp365.net.
+wildcasino.sn.	172800	IN	NS	dns2.idp365.net.
+wildcasino.sn.	172800	IN	NS	dns3.idp365.net.
 wildwestdomains.sn.	43200	IN	NS	ns1.101domain.com.
 wildwestdomains.sn.	43200	IN	NS	ns2.101domain.com.
 wildwestdomains.sn.	43200	IN	NS	ns5.101domain.com.
