@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441861 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441876 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"2 RRs processed [10/05/2022 10H10:01]"
+sn.	172800	IN	TXT	"3 RRs processed [10/05/2022 12H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8732,6 +8732,7 @@ gouv.sn.	43200	IN	NS	ns.gouv.sn.
 gouv.sn.	43200	IN	NS	ns.ucad.sn.
 gouv.sn.	43200	IN	NS	ns2.gouv.sn.
 gouv.sn.	43200	IN	NS	ns3.gouv.sn.
+gouv.sn.	172800	IN	DS	48181 8 2 715c34035d228d59b3bd6df762e9bc008640078cfbc8b4da71eec701f51b48be
 ns.gouv.sn.	43200	IN	A	160.0.177.50
 ns2.gouv.sn.	43200	IN	A	160.0.177.10
 ns3.gouv.sn.	43200	IN	A	160.0.177.207
@@ -10838,8 +10839,9 @@ justemilieu.sn.	43200	IN	NS	ns1.o2switch.net.
 justemilieu.sn.	43200	IN	NS	ns2.o2switch.net.
 justice.sn.	43200	IN	NS	ns1.justice.sn.
 justice.sn.	43200	IN	NS	ns2.justice.sn.
-ns1.justice.sn.	43200	IN	A	5.189.175.203
-ns2.justice.sn.	43200	IN	A	173.212.197.8
+ns1.justice.sn.	172800	IN	A	161.97.121.252
+ns2.justice.sn.	172800	IN	A	161.97.121.252
+vps.justice.sn.	172800	IN	A	161.97.121.252
 justicedeproximite.sn.	43200	IN	NS	hosting100.arc.sn.
 justintime.sn.	172800	IN	NS	ns103.ovh.net.
 justintime.sn.	172800	IN	NS	dns103.ovh.net.
@@ -12707,6 +12709,8 @@ maternita.sn.	172800	IN	NS	dns20.ovh.net.
 maternita.sn.	172800	IN	DS	38161 8 2 3c1c5d35002abdf6b39ee3e9958f531a4b0844f2edbf1fbbd67c2141a726a4fd
 matforce.sn.	43200	IN	NS	ns1.ipage.com.
 matforce.sn.	43200	IN	NS	ns2.ipage.com.
+matiere-tp.sn.	172800	IN	NS	ns200.anycast.me.
+matiere-tp.sn.	172800	IN	NS	dns200.anycast.me.
 matontine.sn.	43200	IN	NS	ns1.name.com.
 matontine.sn.	43200	IN	NS	ns2.name.com.
 matookai.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -14377,6 +14381,9 @@ omegatechnologie.sn.	172800	IN	DS	56914 8 2 dca14fcd662fcfffaeab377f3ee590297204
 omexom.sn.	43200	IN	NS	ns0.infravesi.com.
 omexom.sn.	43200	IN	NS	ns1.infravesi.com.
 omexom.sn.	43200	IN	NS	ns2.observatoiredesmarques.fr.
+omexome.sn.	172800	IN	NS	ns19.ovh.net.
+omexome.sn.	172800	IN	NS	dns19.ovh.net.
+omexome.sn.	172800	IN	DS	58225 8 2 8b04fc2346bdb87260b52faab99e68c40a47e4978e3c376ed6ca547ea3d0ac7c
 omnia.sn.	43200	IN	NS	ns2.francedns.com.
 omnia.sn.	43200	IN	NS	cloudf03.francedns.com.
 omvg.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -15663,8 +15670,6 @@ prodiamed-ucad2.sn.	43200	IN	NS	ns2.kheweul.net.
 prodigital.sn.	172800	IN	NS	ns200.anycast.me.
 prodigital.sn.	172800	IN	NS	dns200.anycast.me.
 prodigital.sn.	172800	IN	DS	56461 8 2 bda97f5300e1ef4b6b39dc1139eb04bb34e29696b5ed85ca376da2aab0886378
-prodim.sn.	43200	IN	NS	ns102.ovh.net.
-prodim.sn.	43200	IN	NS	dns102.ovh.net.
 prodoid.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 prodoid.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 prodronewa.sn.	172800	IN	NS	ns110.ovh.net.
@@ -16201,9 +16206,6 @@ reup.sn.	172800	IN	NS	b.ns.reup.cloud.
 reup.sn.	172800	IN	NS	c.ns.reup.cloud.
 reup.sn.	172800	IN	NS	d.ns.reup.cloud.
 reup.sn.	172800	IN	NS	e.ns.reup.cloud.
-reussirasonrythme.sn.	172800	IN	NS	ns200.anycast.me.
-reussirasonrythme.sn.	172800	IN	NS	dns200.anycast.me.
-reussirasonrythme.sn.	172800	IN	DS	56755 8 2 9c18db49a95497765e6f69c186ba939b999fd8a90973f54dce0833ccb79527aa
 reussirausenegal.sn.	43200	IN	NS	ns1.efedus.com.
 reussirausenegal.sn.	43200	IN	NS	ns2.efedus.com.
 revafric-bm.sn.	43200	IN	NS	ns1.caurys.net.
@@ -17683,6 +17685,8 @@ senum.sn.	172800	IN	NS	ns2.o2switch.net.
 senumsa.sn.	172800	IN	NS	ns.gouv.sn.
 senumsa.sn.	172800	IN	NS	ns2.gouv.sn.
 senumsa.sn.	172800	IN	NS	ns3.gouv.sn.
+senveto.sn.	172800	IN	NS	ns102.ovh.net.
+senveto.sn.	172800	IN	NS	dns102.ovh.net.
 senvitalesh.sn.	172800	IN	NS	ns1.senvitalesh.sn.
 senvitalesh.sn.	172800	IN	NS	ns2.senvitalesh.sn.
 ns1.senvitalesh.sn.	172800	IN	A	34.69.242.43
@@ -19163,7 +19167,7 @@ surfrider.sn.	43200	IN	NS	ns2.netim.net.
 surfrider.sn.	43200	IN	NS	ns3.netim.net.
 surfshop.sn.	43200	IN	NS	ns200.anycast.me.
 surfshop.sn.	43200	IN	NS	dns200.anycast.me.
-surfshop.sn.	43200	IN	DS	62164 8 2 fbe49f6f23d975daa8efacf79e50cca50e4853982eb6bfb293feefcf79ac29da
+surfshop.sn.	172800	IN	DS	5332 8 2 8893b474b2faa41980f60d32a2a0c480f704d3820f103f91e03ffb3702084ff6
 surlespasdesinstitutions.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 surlespasdesinstitutions.sn.	172800	IN	NS	ns8.jokko-hosting.com.
 sustainera.sn.	172800	IN	NS	ns1.gandi.net.
@@ -21103,9 +21107,8 @@ websolver.sn.	43200	IN	NS	dns200.anycast.me.
 webstudent.sn.	43200	IN	NS	ns1.101domain.com.
 webstudent.sn.	43200	IN	NS	ns2.101domain.com.
 webstudent.sn.	43200	IN	NS	ns5.101domain.com.
-webtel.sn.	172800	IN	NS	ns1.francedns.com.
-webtel.sn.	172800	IN	NS	ns2.francedns.com.
-webtel.sn.	172800	IN	NS	ns3.francedns.com.
+webtel.sn.	172800	IN	NS	ns1.cloud2.agilgo.com.
+webtel.sn.	172800	IN	NS	ns2.cloud2.agilgo.com.
 webuycars.sn.	172800	IN	NS	ns1.101domain.com.
 webuycars.sn.	172800	IN	NS	ns2.101domain.com.
 wedeal.sn.	172800	IN	NS	ns15.ovh.net.
