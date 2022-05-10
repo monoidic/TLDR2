@@ -1,4 +1,4 @@
-kg.	1800	IN	SOA	ns.kg. adm.infotel.kg. 1652162402 1800 600 604800 86400
+kg.	1800	IN	SOA	ns.kg. adm.infotel.kg. 1652169602 1800 600 604800 86400
 kg.	86400	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	86400	IN	NS	ns.kg.
 kg.	86400	IN	NS	ns2.kg.
@@ -144,6 +144,8 @@ ns1.20.kg.	86400	IN	A	116.202.115.112
 2021.kg.	86400	IN	NS	ns2.beget.pro.
 20thcenturyfox.kg.	86400	IN	NS	dns1.cscdns.net.
 20thcenturyfox.kg.	86400	IN	NS	dns2.cscdns.net.
+21e-3.kg.	86400	IN	NS	pid1.srv53.net.
+21e-3.kg.	86400	IN	NS	pid2.srv53.org.
 22.kg.	86400	IN	NS	ns2.mailart.com.
 22.kg.	86400	IN	NS	ns3.mailart.com.
 220.kg.	86400	IN	NS	ns9.hoster.kg.
@@ -1593,8 +1595,8 @@ alterv.kg.	86400	IN	NS	ns1.netangels.ru.
 alterv.kg.	86400	IN	NS	ns2.netangels.ru.
 alterv.kg.	86400	IN	NS	ns3.netangels.ru.
 alterv.kg.	86400	IN	NS	ns4.netangels.ru.
-altospos.kg.	86400	IN	NS	ns1.cloud.kg.
-altospos.kg.	86400	IN	NS	ns2.cloud.kg.
+altospos.kg.	86400	IN	NS	dns1.namecheaphosting.com.
+altospos.kg.	86400	IN	NS	dns2.namecheaphosting.com.
 altria.kg.	86400	IN	NS	dns1.cscdns.net.
 altria.kg.	86400	IN	NS	dns2.cscdns.net.
 alty.kg.	86400	IN	NS	ns9.hoster.kg.
@@ -10076,8 +10078,6 @@ help.kg.	86400	IN	NS	ns6.hoster.kg.
 help2mama.kg.	86400	IN	NS	dns1.yandex.net.
 helpbook.kg.	86400	IN	NS	dns1.yandex.net.
 helpbook.kg.	86400	IN	NS	dns2.yandex.net.
-helper.kg.	86400	IN	NS	ns1.myhost.kg.
-helper.kg.	86400	IN	NS	ns2.myhost.kg.
 helukabel.kg.	86400	IN	NS	ns.udag.de.
 helukabel.kg.	86400	IN	NS	ns.udag.net.
 helukabel.kg.	86400	IN	NS	ns.udag.org.
@@ -19463,6 +19463,8 @@ reserve1.kg.	86400	IN	NS	ns2.beget.com.
 reserve1.kg.	86400	IN	NS	ns2.beget.pro.
 residence.kg.	86400	IN	NS	ns1.ktnet.kg.
 residence.kg.	86400	IN	NS	ns2.ktnet.kg.
+residence2.kg.	86400	IN	NS	ns1.webhost.kg.
+residence2.kg.	86400	IN	NS	ns2.webhost.kg.
 resistingvawinca.kg.	86400	IN	NS	ns1.sprinthost.ru.
 resistingvawinca.kg.	86400	IN	NS	ns2.sprinthost.ru.
 resmed.kg.	86400	IN	NS	ns9.hoster.kg.

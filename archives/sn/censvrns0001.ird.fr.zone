@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441847 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222441861 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [10/05/2022 08H10:01]"
+sn.	172800	IN	TXT	"2 RRs processed [10/05/2022 10H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6324,9 +6324,9 @@ eats-sarl.sn.	43200	IN	NS	ns1.eats-sarl.sn.
 eats-sarl.sn.	43200	IN	NS	ns2.eats-sarl.sn.
 ns1.eats-sarl.sn.	43200	IN	A	178.170.39.22
 ns2.eats-sarl.sn.	43200	IN	A	178.170.39.22
-eatsenegal.sn.	172800	IN	NS	ns11.ovh.net.
-eatsenegal.sn.	172800	IN	NS	dns11.ovh.net.
-eatsenegal.sn.	172800	IN	DS	47140 8 2 01121de5ff6515fd8cb55a1ba7da6324bfcb9ae4fa026202d227a56d63739bf1
+eau.sn.	172800	IN	NS	ns1.netim.net.
+eau.sn.	172800	IN	NS	ns2.netim.net.
+eau.sn.	172800	IN	NS	ns3.netim.net.
 eau-du-senegal.sn.	43200	IN	NS	dns1.cscdns.net.
 eau-du-senegal.sn.	43200	IN	NS	dns2.cscdns.net.
 eau-thermale-avene.sn.	43200	IN	NS	a.ns.mailclub.fr.
@@ -20904,9 +20904,6 @@ vosbesoinsservices.sn.	172800	IN	NS	ns3.kheweul.net.
 vosbesoinsservices.sn.	172800	IN	NS	ns4.kheweul.net.
 voxpop.sn.	43200	IN	NS	ns11.infomaniak.ch.
 voxpop.sn.	43200	IN	NS	ns12.infomaniak.ch.
-voyagesenegal.sn.	172800	IN	NS	ns11.ovh.net.
-voyagesenegal.sn.	172800	IN	NS	dns11.ovh.net.
-voyagesenegal.sn.	172800	IN	DS	31567 8 2 3e8a62a78d9e7891d08c9c26d0097934367f8dcb7fd0f9b3f995d5d0acec10fa
 vpn.sn.	43200	IN	NS	jo.ns.cloudflare.com.
 vpn.sn.	43200	IN	NS	lee.ns.cloudflare.com.
 vrgames.sn.	43200	IN	NS	ns1.eco-dns.co.uk.
@@ -20922,9 +20919,6 @@ vrla.sn.	43200	IN	NS	ns5.101domain.com.
 vsevmeste.sn.	172800	IN	NS	ns1.netim.net.
 vsevmeste.sn.	172800	IN	NS	ns2.netim.net.
 vsevmeste.sn.	172800	IN	NS	ns3.netim.net.
-vtcdakar.sn.	172800	IN	NS	ns11.ovh.net.
-vtcdakar.sn.	172800	IN	NS	dns11.ovh.net.
-vtcdakar.sn.	172800	IN	DS	33364 8 2 b5b157da314c148d82af8ba4462a92f75be4b15f8f4a4e8ce99e3693f608bf4c
 vtcsenegal.sn.	172800	IN	NS	ns11.ovh.net.
 vtcsenegal.sn.	172800	IN	NS	dns11.ovh.net.
 vtcsenegal.sn.	172800	IN	DS	55762 8 2 2a288432de2520f73c34167ec3a4b2a2ddecce9c7197716df0f71c134d41b29c
