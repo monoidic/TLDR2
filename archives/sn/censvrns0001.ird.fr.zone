@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442116 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442128 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [11/05/2022 22H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [12/05/2022 00H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -425,7 +425,7 @@ accorinvest.sn.	43200	IN	NS	dns1.cscdns.net.
 accorinvest.sn.	43200	IN	NS	dns2.cscdns.net.
 acd.sn.	172800	IN	NS	ns112.ovh.net.
 acd.sn.	172800	IN	NS	dns112.ovh.net.
-acd.sn.	172800	IN	DS	60820 8 2 7a3ed0089b4e049698e80577f27890a7595bc0234b00543205872ab20b160c29
+acd.sn.	172800	IN	DS	41290 8 2 23f51dba229c54658b81d2c7ad1392aa827515c8c818591c6698cad87fc468fa
 acec-audit.sn.	43200	IN	NS	ns108.ovh.net.
 acec-audit.sn.	43200	IN	NS	dns108.ovh.net.
 acec-audit.sn.	172800	IN	DS	5404 8 2 6b3ab75ee4e416f762ecfca89ea90e18b4442965dfdf652b849f3abd56d3559b
@@ -8163,8 +8163,8 @@ fujitsu.sn.	43200	IN	NS	rns1.rightsdns.com.
 fujitsu.sn.	43200	IN	NS	rns2.rightsdns.com.
 fula.sn.	172800	IN	NS	server93ns1.heberjahiz.com.
 fula.sn.	172800	IN	NS	server93ns2.heberjahiz.com.
-fulamarket.sn.	172800	IN	NS	server93ns1.heberjahiz.com.
-fulamarket.sn.	172800	IN	NS	server93ns2.heberjahiz.com.
+fulamarket.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+fulamarket.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 fumoa.sn.	43200	IN	NS	ns.arc.sn.
 fumoa.sn.	43200	IN	NS	ns3.arc.sn.
 funiber.sn.	43200	IN	NS	ns3.acens.net.
@@ -15706,6 +15706,8 @@ prodiamed-ucad2.sn.	43200	IN	NS	ns2.kheweul.net.
 prodigital.sn.	172800	IN	NS	ns200.anycast.me.
 prodigital.sn.	172800	IN	NS	dns200.anycast.me.
 prodigital.sn.	172800	IN	DS	56461 8 2 bda97f5300e1ef4b6b39dc1139eb04bb34e29696b5ed85ca376da2aab0886378
+prodim.sn.	172800	IN	NS	ns102.ovh.net.
+prodim.sn.	172800	IN	NS	dns102.ovh.net.
 prodoid.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 prodoid.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 prodronewa.sn.	172800	IN	NS	ns110.ovh.net.
@@ -16631,6 +16633,8 @@ samakeur.sn.	43200	IN	NS	ns1.afriregister.com.
 samakeur.sn.	43200	IN	NS	ns3.afriregister.com.
 samalife.sn.	43200	IN	NS	ns1.efedus.com.
 samalife.sn.	43200	IN	NS	ns2.efedus.com.
+samalook.sn.	172800	IN	NS	ns101.ovh.net.
+samalook.sn.	172800	IN	NS	dns101.ovh.net.
 samanaffa.sn.	172800	IN	NS	ns200.anycast.me.
 samanaffa.sn.	172800	IN	NS	dns200.anycast.me.
 samanaffa.sn.	172800	IN	DS	42565 8 2 fbb208a06c27ffc96f47d6b1118bf59e279951b45128c3887536ad2a36be736e
