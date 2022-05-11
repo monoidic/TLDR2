@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442058 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442074 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [11/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"1 RRs processed [11/05/2022 16H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7036,8 +7036,8 @@ esa.sn.	43200	IN	NS	ns3.kheweul.net.
 esa.sn.	43200	IN	NS	ns4.kheweul.net.
 esabs.sn.	172800	IN	NS	170.ns1.above.com.
 esabs.sn.	172800	IN	NS	170.ns2.above.com.
-esaenergie.sn.	43200	IN	NS	ns100.ovh.net.
-esaenergie.sn.	43200	IN	NS	dns100.ovh.net.
+esaenergie.sn.	172800	IN	NS	ns108.ovh.net.
+esaenergie.sn.	172800	IN	NS	dns108.ovh.net.
 esatech.sn.	172800	IN	NS	cpanel21.lws-hosting.com.
 esatech.sn.	172800	IN	NS	cpanel22.lws-hosting.com.
 escadrille.sn.	43200	IN	NS	ns1.sonatel.sn.
@@ -7446,6 +7446,9 @@ fallyaram.sn.	172800	IN	NS	eisdns2.expertis.sn.
 famaby.sn.	172800	IN	NS	ns110.ovh.net.
 famaby.sn.	172800	IN	NS	dns110.ovh.net.
 famaby.sn.	172800	IN	DS	43936 8 2 4964efa8b0fb5a0e66a114536ec81b6b2a67a7fad99d5ab8c6d7a4d512ea1a5d
+famouza.sn.	172800	IN	NS	ns200.anycast.me.
+famouza.sn.	172800	IN	NS	dns200.anycast.me.
+famouza.sn.	172800	IN	DS	5419 8 2 cf3fa201e2e13c8dbe80d49fc9e25d0f1d5356ab8350db4b6d1dfbb170da54a9
 famy.sn.	43200	IN	NS	ns104.ovh.net.
 famy.sn.	43200	IN	NS	dns104.ovh.net.
 faninfos.sn.	172800	IN	NS	ns1.hosting-server-1022.com.
@@ -11577,14 +11580,8 @@ lamaisonduparfum.sn.	172800	IN	DS	25624 8 2 3ea01cc591bfd348f2cb89a08e78f51b6f84
 lamaisonrose.sn.	43200	IN	NS	ns200.anycast.me.
 lamaisonrose.sn.	43200	IN	NS	dns200.anycast.me.
 lamaisonrose.sn.	43200	IN	DS	36544 8 2 619bed5548c3ced57e38b425deb67a457728a2786b74031868783eca308f9079
-lamarca.sn.	172800	IN	NS	ns.bnamed.eu.
-lamarca.sn.	172800	IN	NS	ns.bnamed.us.
-lamarca.sn.	172800	IN	NS	ns.nscluster.hk.
-lamarca.sn.	172800	IN	NS	ns.nscluster.tf.
-lamarca.sn.	172800	IN	NS	ns-cloud-d1.googledomains.com.
-lamarca.sn.	172800	IN	NS	ns-cloud-d2.googledomains.com.
-lamarca.sn.	172800	IN	NS	ns-cloud-d3.googledomains.com.
-lamarca.sn.	172800	IN	NS	ns-cloud-d4.googledomains.com.
+lamarca.sn.	172800	IN	NS	tmp.nscluster.eu.
+lamarca.sn.	172800	IN	NS	tmp.nscluster.us.
 lamb.sn.	172800	IN	NS	ns2.lamb.sn.
 ns2.lamb.sn.	172800	IN	A	41.208.148.36
 lame.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -13317,8 +13314,8 @@ molecules.sn.	172800	IN	NS	ns-1032.awsdns-01.org.
 molecules.sn.	172800	IN	NS	ns-1988.awsdns-56.co.uk.
 momel.sn.	172800	IN	NS	ns1.o2switch.net.
 momel.sn.	172800	IN	NS	ns2.o2switch.net.
-moment.sn.	43200	IN	NS	sdns2.ovh.net.
-moment.sn.	43200	IN	NS	ns309487.ovh.net.
+moment.sn.	172800	IN	NS	sdns2.ovh.net.
+moment.sn.	172800	IN	NS	vps-ad4dca96.vps.ovh.net.
 momotech.sn.	172800	IN	NS	ns100.ovh.net.
 momotech.sn.	172800	IN	NS	dns100.ovh.net.
 momotravel.sn.	172800	IN	NS	ns1.md-2.webhostbox.net.
@@ -16009,6 +16006,10 @@ ramatou.sn.	43200	IN	NS	dns15.ovh.net.
 randmerchantbank.sn.	43200	IN	NS	ns1.lexsynergy.net.
 randmerchantbank.sn.	43200	IN	NS	ns2.lexsynergy.us.
 randmerchantbank.sn.	43200	IN	NS	ns3.lexsynergy.info.
+randonneedelemergence.sn.	172800	IN	NS	ns3.wanekoohost.com.
+randonneedelemergence.sn.	172800	IN	NS	ns4.wanekoohost.com.
+randonneedelemergence.sn.	172800	IN	NS	ns5.wanekoohost.com.
+randonneedelemergence.sn.	172800	IN	NS	ns6.wanekoohost.com.
 rangerover.sn.	43200	IN	NS	dns003.ford.com.
 rangerover.sn.	43200	IN	NS	dns004.ford.com.
 rapidos.sn.	43200	IN	NS	ns1.kheweul.net.
