@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442019 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442033 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [11/05/2022 08H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [11/05/2022 10H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -244,6 +244,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 911.sn.	172800	IN	NS	ns1.netim.net.
 911.sn.	172800	IN	NS	ns2.netim.net.
 911.sn.	172800	IN	NS	ns3.netim.net.
+999.sn.	172800	IN	NS	pns101.cloudns.net.
+999.sn.	172800	IN	NS	pns102.cloudns.net.
+999.sn.	172800	IN	NS	pns103.cloudns.net.
+999.sn.	172800	IN	NS	pns104.cloudns.net.
 9pp.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 9pp.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 a1global.sn.	43200	IN	NS	ns1.bumeranginteraktif2.com.
@@ -806,8 +810,8 @@ afrimalin.sn.	172800	IN	NS	ns3.francedns.com.
 afrimarket.sn.	43200	IN	NS	ns1.francedns.com.
 afrimarket.sn.	43200	IN	NS	ns2.francedns.com.
 afrimarket.sn.	43200	IN	NS	ns3.francedns.com.
-afrinews.sn.	172800	IN	NS	ns1.ababacarhosting.space.
-afrinews.sn.	172800	IN	NS	ns2.ababacarhosting.space.
+afrinews.sn.	172800	IN	NS	ns1.melakhtech.com.
+afrinews.sn.	172800	IN	NS	ns2.melakhtech.com.
 afriquepesage.sn.	172800	IN	NS	ns1.101domain.com.
 afriquepesage.sn.	172800	IN	NS	ns2.101domain.com.
 afriregister.sn.	172800	IN	NS	ns5.afriregister.co.ke.
@@ -3214,9 +3218,6 @@ buzzmedia.sn.	172800	IN	NS	ns.bnamed.uk.
 buzzmedia.sn.	172800	IN	NS	ns.bnamed.us.
 buzzmedia.sn.	172800	IN	NS	ns.nscluster.me.
 buzzmedia.sn.	172800	IN	NS	ns.nscluster.pw.
-bvglr.sn.	43200	IN	NS	ns1.netim.net.
-bvglr.sn.	43200	IN	NS	ns2.netim.net.
-bvglr.sn.	43200	IN	NS	ns3.netim.net.
 bwinners.sn.	172800	IN	NS	ns1.101domain.com.
 bwinners.sn.	172800	IN	NS	ns2.101domain.com.
 bygoodrade.sn.	43200	IN	NS	eisdns1.expertis.sn.
@@ -4418,8 +4419,6 @@ cnoss.sn.	172800	IN	NS	ns2.gouv.sn.
 cnoss.sn.	172800	IN	NS	ns3.gouv.sn.
 cnp.sn.	43200	IN	NS	ns.sonatel.sn.
 cnp.sn.	43200	IN	NS	ns2.sonatel.sn.
-cnpas.sn.	43200	IN	NS	ns1.sendns.net.
-cnpas.sn.	43200	IN	NS	ns2.sendns.net.
 cnpc.sn.	172800	IN	NS	eisdns1.expertis.sn.
 cnpc.sn.	172800	IN	NS	eisdns2.expertis.sn.
 cnra.sn.	43200	IN	NS	ns16.ovh.net.
@@ -4984,10 +4983,10 @@ csigroup.sn.	43200	IN	NS	cpanel5.lws-hosting.com.
 csigroup.sn.	43200	IN	NS	cpanel6.lws-hosting.com.
 csip.sn.	43200	IN	NS	ns101.ovh.net.
 csip.sn.	43200	IN	NS	dns101.ovh.net.
-csl.sn.	172800	IN	NS	ns01.totalfinaelf.net.
-csl.sn.	172800	IN	NS	ns02.totalfinaelf.net.
-csl.sn.	172800	IN	NS	ns03.totalfinaelf.net.
-csl.sn.	172800	IN	NS	ns05.totalfinaelf.net.
+csl.sn.	172800	IN	NS	ns1.totalenergies.net.
+csl.sn.	172800	IN	NS	ns2.totalenergies.org.
+csl.sn.	172800	IN	NS	ns3.totalenergies.biz.
+csl.sn.	172800	IN	NS	ns4.totalenergies.info.
 cslsenegal.sn.	43200	IN	NS	ns.arc.sn.
 cslsenegal.sn.	43200	IN	NS	ns3.arc.sn.
 csmg.sn.	43200	IN	NS	pdns07.domaincontrol.com.
@@ -6392,8 +6391,8 @@ ecoleaimecesaire.sn.	172800	IN	NS	pdns13.domaincontrol.com.
 ecoleaimecesaire.sn.	172800	IN	NS	pdns14.domaincontrol.com.
 ecolebabylou.sn.	172800	IN	NS	ns101.ovh.net.
 ecolebabylou.sn.	172800	IN	NS	dns101.ovh.net.
-ecolebi.sn.	172800	IN	NS	ns1.ababacarhosting.space.
-ecolebi.sn.	172800	IN	NS	ns2.ababacarhosting.space.
+ecolebi.sn.	172800	IN	NS	ns1.melakhtech.com.
+ecolebi.sn.	172800	IN	NS	ns2.melakhtech.com.
 ecolechristroi.sn.	172800	IN	NS	ns1.kheweul.net.
 ecolechristroi.sn.	172800	IN	NS	ns2.kheweul.net.
 ecolechristroi.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -7945,6 +7944,9 @@ footmu7.sn.	43200	IN	NS	ns1.footmu7.sn.
 footmu7.sn.	43200	IN	NS	ns2.footmu7.sn.
 ns1.footmu7.sn.	43200	IN	A	165.22.182.189
 ns2.footmu7.sn.	43200	IN	A	165.22.182.189
+forage.sn.	172800	IN	NS	ns1.netim.net.
+forage.sn.	172800	IN	NS	ns2.netim.net.
+forage.sn.	172800	IN	NS	ns3.netim.net.
 forages-ruraux.sn.	172800	IN	NS	ns1.cloudns.io.
 forages-ruraux.sn.	172800	IN	NS	ns2.cloudns.io.
 foramin.sn.	172800	IN	NS	ns3.wanekoohost.com.
@@ -13414,8 +13416,8 @@ monterrain.sn.	172800	IN	NS	dns103.ovh.net.
 monterrain.sn.	172800	IN	DS	20059 8 2 36d5c1d70d5c2d56f1d4e9f144e3174e8eec9ad65232bd5c3ee1c3a49dad18ec
 montessori.sn.	43200	IN	NS	ns.arc.sn.
 montessori.sn.	43200	IN	NS	ns3.arc.sn.
-montre.sn.	172800	IN	NS	ns1.youcan.shop.
-montre.sn.	172800	IN	NS	ns2.youcan.shop.
+montre.sn.	172800	IN	NS	ns1.storeinodns.com.
+montre.sn.	172800	IN	NS	ns2.storeinodns.com.
 montrezvoussenegal.sn.	172800	IN	NS	eisdns1.expertis.sn.
 montrezvoussenegal.sn.	172800	IN	NS	eisdns2.expertis.sn.
 monymoney.sn.	172800	IN	NS	ns200.anycast.me.
@@ -15340,6 +15342,9 @@ plaquiste.sn.	43200	IN	NS	dns109.ovh.net.
 plasepri.sn.	43200	IN	NS	ns12.ovh.net.
 plasepri.sn.	43200	IN	NS	dns12.ovh.net.
 plasepri.sn.	172800	IN	DS	9697 8 2 35fa64121e8d7aeea053745cde663a6e90e44d617c71eeac1e223ed4f55dce35
+plasma.sn.	172800	IN	NS	ns1.francedns.com.
+plasma.sn.	172800	IN	NS	ns2.francedns.com.
+plasma.sn.	172800	IN	NS	ns3.francedns.com.
 plasma-immo.sn.	43200	IN	NS	ns.sonatel.sn.
 plasma-immo.sn.	43200	IN	NS	ns2.sonatel.sn.
 plateforme-ane.sn.	43200	IN	NS	ns17.ovh.net.
@@ -19974,10 +19979,10 @@ tosyalisteelironsenegal.sn.	43200	IN	NS	eu.atakdomain.com.
 tosyalisteelironsenegal.sn.	43200	IN	NS	tr.atakdomain.com.
 tosyalisteelsenegal.sn.	43200	IN	NS	eu.atakdomain.com.
 tosyalisteelsenegal.sn.	43200	IN	NS	tr.atakdomain.com.
-total.sn.	43200	IN	NS	ns01.totalfinaelf.net.
-total.sn.	43200	IN	NS	ns02.totalfinaelf.net.
-total.sn.	43200	IN	NS	ns03.totalfinaelf.net.
-total.sn.	43200	IN	NS	ns05.totalfinaelf.net.
+total.sn.	172800	IN	NS	ns1.totalenergies.net.
+total.sn.	172800	IN	NS	ns2.totalenergies.org.
+total.sn.	172800	IN	NS	ns3.totalenergies.biz.
+total.sn.	172800	IN	NS	ns4.totalenergies.info.
 total-energies.sn.	43200	IN	NS	ns2.observatoiredesmarques.fr.
 total-energies.sn.	43200	IN	NS	ns3.nameshield.net.
 total-energies.sn.	43200	IN	NS	obs.ns1.fr.
@@ -19985,10 +19990,10 @@ total-senegal.sn.	172800	IN	NS	ns1.totalenergies.net.
 total-senegal.sn.	172800	IN	NS	ns2.totalenergies.org.
 total-senegal.sn.	172800	IN	NS	ns3.totalenergies.biz.
 total-senegal.sn.	172800	IN	NS	ns4.totalenergies.info.
-totalenergies.sn.	172800	IN	NS	ns01.totalfinaelf.net.
-totalenergies.sn.	172800	IN	NS	ns02.totalfinaelf.net.
-totalenergies.sn.	172800	IN	NS	ns03.totalfinaelf.net.
-totalenergies.sn.	172800	IN	NS	ns05.totalfinaelf.net.
+totalenergies.sn.	172800	IN	NS	ns1.totalenergies.net.
+totalenergies.sn.	172800	IN	NS	ns2.totalenergies.org.
+totalenergies.sn.	172800	IN	NS	ns3.totalenergies.biz.
+totalenergies.sn.	172800	IN	NS	ns4.totalenergies.info.
 totalinfo.sn.	172800	IN	NS	ns2.wanekoohost.com.
 totalinfo.sn.	172800	IN	NS	ns3.wanekoohost.com.
 totalinfo.sn.	172800	IN	NS	ns5.wanekoohost.com.
