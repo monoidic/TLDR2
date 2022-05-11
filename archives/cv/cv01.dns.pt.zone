@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022050601 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022051101 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -1976,6 +1976,14 @@ covestro.com.cv.	28800	IN	NS	pdns1.cscdns.net.
 covestro.com.cv.	28800	IN	NS	pdns2.cscdns.net.
 cpr.com.cv.	28800	IN	NS	ns1000.mochahost.com.
 cpr.com.cv.	28800	IN	NS	ns2000.mochahost.com.
+cv-direct.com.cv.	28800	IN	NS	ns1.gruposafety.pt.
+cv-direct.com.cv.	28800	IN	NS	ns2.gruposafety.pt.
+cv-fire.com.cv.	28800	IN	NS	ns1.cv-fire.com.cv.
+cv-fire.com.cv.	28800	IN	NS	ns2.cv-fire.com.cv.
+ns1.cv-fire.com.cv.	28800	IN	A	94.46.167.34
+ns2.cv-fire.com.cv.	28800	IN	A	94.46.167.34
+cvdirect.com.cv.	28800	IN	NS	ns1.gruposafety.pt.
+cvdirect.com.cv.	28800	IN	NS	ns2.gruposafety.pt.
 davidhopfferalmada.com.cv.	28800	IN	NS	ns7.securenet-server.net.
 davidhopfferalmada.com.cv.	28800	IN	NS	ns8.securenet-server.net.
 decameron.com.cv.	28800	IN	NS	ns3.decameron.com.
@@ -2044,6 +2052,10 @@ estrela.com.cv.	28800	IN	NS	ns.cvtelecom.cv.
 estrela.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 estrelasantiago.com.cv.	28800	IN	NS	ns.cvtelecom.cv.
 estrelasantiago.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
+extintores.com.cv.	28800	IN	NS	ns1.extintores.com.cv.
+extintores.com.cv.	28800	IN	NS	ns2.extintores.com.cv.
+ns1.extintores.com.cv.	28800	IN	A	94.46.167.34
+ns2.extintores.com.cv.	28800	IN	A	94.46.167.34
 fashionfirst.com.cv.	28800	IN	NS	ns1.101domain.com.
 fashionfirst.com.cv.	28800	IN	NS	ns2.101domain.com.
 fashionfirst.com.cv.	28800	IN	NS	ns5.101domain.com.
@@ -2866,6 +2878,12 @@ cuzcuzera.cv.	28800	IN	NS	ns3.hostinger.com.br.
 cuzcuzera.cv.	28800	IN	NS	ns4.hostinger.com.br.
 cv-capital.cv.	28800	IN	NS	ns5.dnstrigno.com.
 cv-capital.cv.	28800	IN	NS	ns6.dnstrigno.com.
+cv-direct.cv.	28800	IN	NS	ns1.gruposafety.pt.
+cv-direct.cv.	28800	IN	NS	ns2.gruposafety.pt.
+cv-fire.cv.	28800	IN	NS	ns1.cv-fire.cv.
+cv-fire.cv.	28800	IN	NS	ns2.cv-fire.cv.
+ns1.cv-fire.cv.	28800	IN	A	94.46.167.34
+ns2.cv-fire.cv.	28800	IN	A	94.46.167.34
 cv360.cv.	28800	IN	NS	ns1.inmotionhosting.com.
 cv360.cv.	28800	IN	NS	ns2.inmotionhosting.com.
 cva.cv.	28800	IN	NS	ns1.amenworld.com.
@@ -2902,6 +2920,8 @@ cvdecor.cv.	28800	IN	NS	ns1.host-care.com.
 cvdecor.cv.	28800	IN	NS	ns2.host-care.com.
 cvdigital.cv.	28800	IN	NS	ns1.gov.cv.
 cvdigital.cv.	28800	IN	NS	ns2.gov.cv.
+cvdirect.cv.	28800	IN	NS	ns1.gruposafety.pt.
+cvdirect.cv.	28800	IN	NS	ns2.gruposafety.pt.
 cve.cv.	28800	IN	NS	ns1.alojamentovivo.com.
 cve.cv.	28800	IN	NS	ns2.alojamentovivo.com.
 cveeu.cv.	28800	IN	NS	ns01.trademarkarea.com.
@@ -3086,8 +3106,10 @@ della.cv.	28800	IN	NS	ns2.wix.com.
 delta.cv.	28800	IN	NS	ns1.softventure.pt.
 delta.cv.	28800	IN	NS	ns2.softventure.pt.
 ns.delta.cv.	28800	IN	A	62.193.213.69
-dentalclinic.cv.	28800	IN	NS	ns1.webs24h.com.
-dentalclinic.cv.	28800	IN	NS	ns2.webs24h.com.
+dentalclinic.cv.	28800	IN	NS	ns1.webhs.org.
+dentalclinic.cv.	28800	IN	NS	ns2.webhs.org.
+dentalclinic.cv.	28800	IN	NS	ns3.webhs.org.
+dentalclinic.cv.	28800	IN	NS	ns4.webhs.org.
 depara.cv.	28800	IN	NS	ns1.maxideia.net.
 depara.cv.	28800	IN	NS	ns2.maxideia.net.
 dermoclin.cv.	28800	IN	A	45.154.66.253
@@ -3836,6 +3858,10 @@ expressodasilhas.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1827
 expressodasilhas.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1981
 expressodasilhas.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1a63
 expressodasilhas.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1b48
+extintores.cv.	28800	IN	NS	ns1.extintores.cv.
+extintores.cv.	28800	IN	NS	ns2.extintores.cv.
+ns1.extintores.cv.	28800	IN	A	94.46.167.34
+ns2.extintores.cv.	28800	IN	A	94.46.167.34
 facabral.cv.	28800	IN	NS	ns.cvtelecom.cv.
 facabral.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 facestore.cv.	28800	IN	NS	ns5.visualwork.pt.
@@ -3913,8 +3939,10 @@ ffernandojorge.cv.	28800	IN	NS	ns1.servconfig.com.
 ffernandojorge.cv.	28800	IN	NS	ns2.servconfig.com.
 fgq.cv.	28800	IN	NS	ns293.websitewelcome.com.
 fgq.cv.	28800	IN	NS	ns294.websitewelcome.com.
-fic.cv.	28800	IN	NS	ns1.rhostjh.com.
-fic.cv.	28800	IN	NS	ns2.rhostjh.com.
+fic.cv.	28800	IN	NS	ns1.webhs.org.
+fic.cv.	28800	IN	NS	ns2.webhs.org.
+fic.cv.	28800	IN	NS	ns3.webhs.org.
+fic.cv.	28800	IN	NS	ns4.webhs.org.
 ficase.cv.	28800	IN	NS	ns1.dreamhost.com.
 ficase.cv.	28800	IN	NS	ns2.dreamhost.com.
 ficase.cv.	28800	IN	NS	ns3.dreamhost.com.
@@ -6366,7 +6394,9 @@ orthomedici.cv.	28800	IN	NS	ns8523.hostgator.com.
 orthomedici.cv.	28800	IN	NS	ns8524.hostgator.com.
 ortoclinic.cv.	28800	IN	NS	ns1.dns-parking.com.
 ortoclinic.cv.	28800	IN	NS	ns2.dns-parking.com.
-oscm.cv.	28800	IN	NS	solutreen.geomar.de.
+oscm.cv.	28800	IN	NS	dns-1.dfn.de.
+oscm.cv.	28800	IN	NS	dns-2.dfn.de.
+oscm.cv.	28800	IN	NS	dns-3.dfn.de.
 ossportalcontabilidade.cv.	28800	IN	NS	ns.jcle.pt.
 ossportalcontabilidade.cv.	28800	IN	NS	ns.jcle.net.
 ostubaroes.cv.	28800	IN	NS	ns1.gnld6.siteground.eu.
@@ -6592,6 +6622,8 @@ pnfogo.cv.	28800	IN	NS	ns1.plesk-web19.webhostbox.net.
 pnfogo.cv.	28800	IN	NS	ns2.plesk-web19.webhostbox.net.
 mail.pnfogo.cv.	28800	IN	A	208.91.199.147
 ns.pnfogo.cv.	28800	IN	A	208.91.199.147
+pnlcv.cv.	28800	IN	NS	ns16.hostgator.com.br.
+pnlcv.cv.	28800	IN	NS	ns17.hostgator.com.br.
 pnlp.cv.	28800	IN	A	50.23.197.94
 pnlp.cv.	28800	IN	A	69.65.50.223
 pnlp.cv.	28800	IN	A	70.39.97.253
@@ -7730,8 +7762,8 @@ squad.cv.	28800	IN	NS	ns3.digitalocean.com.
 square.cv.	28800	IN	NS	ns1.siteground263.com.
 square.cv.	28800	IN	NS	ns2.siteground263.com.
 src.cv.	28800	IN	A	91.198.47.1
-src.cv.	28800	IN	NS	ns1.webs24h.com.
-src.cv.	28800	IN	NS	ns2.webs24h.com.
+src.cv.	86400	IN	NS	ns1.webs24h.com.
+src.cv.	86400	IN	NS	ns2.webs24h.com.
 src.cv.	28800	IN	AAAA	2001:4cc0:3:a::6dfe
 src.cv.	28800	IN	AAAA	2001:4cc0:4:10::5
 ssaadvogados.cv.	28800	IN	NS	dns1.host-redirect.com.

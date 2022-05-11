@@ -1,4 +1,4 @@
-tj.	7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022051006 7200 3600 2678400 7200
+tj.	7200	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022051104 7200 3600 2678400 7200
 tj.	7200	IN	NS	tj.cctld.authdns.ripe.net.
 tj.	7200	IN	NS	ns1.nic.tj.
 tj.	7200	IN	NS	ns2.tojikiston.com.
@@ -131,6 +131,8 @@ tj.	7200	IN	NS	phloem.uoregon.edu.
 40-dukhtaron.tj.	7200	IN	NS	ns4.timeweb.org.
 4g.tj.	7200	IN	NS	ns9.ismtj.co.
 4g.tj.	7200	IN	NS	ns10.ismtj.co.
+4grant.tj.	7200	IN	NS	ns1.clover.host.
+4grant.tj.	7200	IN	NS	ns2.clover.host.
 4javon.tj.	7200	IN	NS	ns.sugdien.com.
 4javon.tj.	7200	IN	NS	ns2.tajnet.tj.
 4media.tj.	7200	IN	NS	ns.tojikiston.com.
@@ -890,8 +892,8 @@ anatomy.tj.	7200	IN	NS	ns3.jino.ru.
 anatomy.tj.	7200	IN	NS	ns4.jino.ru.
 anboz.tj.	7200	IN	NS	ns1.isatel.tj.
 anboz.tj.	7200	IN	NS	ns2.isatel.tj.
-andesha.tj.	7200	IN	NS	ns.tojikiston.com.
-andesha.tj.	7200	IN	NS	ns1.tojikiston.com.
+andesha.tj.	7200	IN	NS	ns9.ismtj.co.
+andesha.tj.	7200	IN	NS	ns10.ismtj.co.
 andoz.tj.	7200	IN	NS	ns1.rspd.tj.
 andoz.tj.	7200	IN	NS	ns2.rspd.tj.
 andrew.tj.	7200	IN	NS	ns.masterhost.ru.
@@ -1528,8 +1530,8 @@ aviakassa.tj.	7200	IN	NS	ns1.tojikiston.com.
 aviasales.tj.	7200	IN	NS	ns10.dnsmadeeasy.com.
 aviasales.tj.	7200	IN	NS	ns11.dnsmadeeasy.com.
 aviasales.tj.	7200	IN	NS	ns12.dnsmadeeasy.com.
-aviator.tj.	7200	IN	NS	ns1.reg.ru.
-aviator.tj.	7200	IN	NS	ns2.reg.ru.
+aviator.tj.	7200	IN	NS	aron.ns.cloudflare.com.
+aviator.tj.	7200	IN	NS	newt.ns.cloudflare.com.
 avicenna.tj.	7200	IN	NS	ns9.ismtj.co.
 avicenna.tj.	7200	IN	NS	ns10.ismtj.co.
 avicennagroup.tj.	7200	IN	NS	ns1.rspd.tj.
@@ -2983,8 +2985,8 @@ rentalcar.co.tj.	7200	IN	NS	ns1.markmonitor.com.
 rentalcar.co.tj.	7200	IN	NS	ns2.markmonitor.com.
 rentalcars.co.tj.	7200	IN	NS	ns1.markmonitor.com.
 rentalcars.co.tj.	7200	IN	NS	ns2.markmonitor.com.
-rolex.co.tj.	7200	IN	NS	ns1.p09.dynect.net.
-rolex.co.tj.	7200	IN	NS	ns2.p09.dynect.net.
+rolex.co.tj.	7200	IN	NS	dns1.p06.nsone.net.
+rolex.co.tj.	7200	IN	NS	dns2.p06.nsone.net.
 shopify.co.tj.	7200	IN	NS	ns01.trademarkarea.com.
 shopify.co.tj.	7200	IN	NS	ns02.trademarkarea.com.
 shopify.co.tj.	7200	IN	NS	ns03.trademarkarea.com.
@@ -3004,10 +3006,10 @@ tena.co.tj.	7200	IN	NS	melkor.ngninfra.net.
 tena.co.tj.	7200	IN	NS	tilion.ngninfra.net.
 tork.co.tj.	7200	IN	NS	melkor.ngninfra.net.
 tork.co.tj.	7200	IN	NS	tilion.ngninfra.net.
-tudor.co.tj.	7200	IN	NS	ns1.p09.dynect.net.
-tudor.co.tj.	7200	IN	NS	ns2.p09.dynect.net.
-tudorwatch.co.tj.	7200	IN	NS	ns1.p09.dynect.net.
-tudorwatch.co.tj.	7200	IN	NS	ns2.p09.dynect.net.
+tudor.co.tj.	7200	IN	NS	dns1.p02.nsone.net.
+tudor.co.tj.	7200	IN	NS	dns2.p02.nsone.net.
+tudorwatch.co.tj.	7200	IN	NS	dns1.p02.nsone.net.
+tudorwatch.co.tj.	7200	IN	NS	dns2.p02.nsone.net.
 tupperware.co.tj.	7200	IN	NS	ns1.tupperware.net.
 tupperware.co.tj.	7200	IN	NS	ns2.tupperware.net.
 viaplay.co.tj.	7200	IN	NS	dns1.zaccodigitaltrustlabs.com.
@@ -3677,8 +3679,8 @@ robinhood.com.tj.	7200	IN	NS	ns1.markmonitor.com.
 robinhood.com.tj.	7200	IN	NS	ns2.markmonitor.com.
 roblox.com.tj.	7200	IN	NS	ns1.101domain.com.
 roblox.com.tj.	7200	IN	NS	ns2.101domain.com.
-rolex.com.tj.	7200	IN	NS	ns1.p09.dynect.net.
-rolex.com.tj.	7200	IN	NS	ns2.p09.dynect.net.
+rolex.com.tj.	7200	IN	NS	dns1.p06.nsone.net.
+rolex.com.tj.	7200	IN	NS	dns2.p06.nsone.net.
 rothmans.com.tj.	7200	IN	NS	nsgbr.comlaude.co.uk.
 rothmans.com.tj.	7200	IN	NS	nssui.comlaude.ch.
 royalbet.com.tj.	7200	IN	NS	dns1.safenames.com.
@@ -3778,10 +3780,10 @@ tripplite.com.tj.	7200	IN	NS	ns1.activeby.net.
 tripplite.com.tj.	7200	IN	NS	ns2.activeby.net.
 tru.com.tj.	7200	IN	NS	ns1.netnames.net.
 tru.com.tj.	7200	IN	NS	ns2.netnames.net.
-tudor.com.tj.	7200	IN	NS	ns1.p09.dynect.net.
-tudor.com.tj.	7200	IN	NS	ns2.p09.dynect.net.
-tudorwatch.com.tj.	7200	IN	NS	ns1.p09.dynect.net.
-tudorwatch.com.tj.	7200	IN	NS	ns2.p09.dynect.net.
+tudor.com.tj.	7200	IN	NS	dns1.p02.nsone.net.
+tudor.com.tj.	7200	IN	NS	dns2.p02.nsone.net.
+tudorwatch.com.tj.	7200	IN	NS	dns1.p02.nsone.net.
+tudorwatch.com.tj.	7200	IN	NS	dns2.p02.nsone.net.
 tupperware.com.tj.	7200	IN	NS	ns1.tupperware.net.
 tupperware.com.tj.	7200	IN	NS	ns2.tupperware.net.
 twinkl.com.tj.	7200	IN	NS	ns1.101domain.com.
@@ -5282,6 +5284,8 @@ exppay.tj.	7200	IN	NS	ns.tojikiston.com.
 exppay.tj.	7200	IN	NS	ns1.tojikiston.com.
 express.tj.	7200	IN	NS	cbru.br.ns.els-gms.att.net.
 express.tj.	7200	IN	NS	dns1.utc.com.
+express-dostavka.tj.	7200	IN	NS	ns.tojikiston.com.
+express-dostavka.tj.	7200	IN	NS	ns1.tojikiston.com.
 express-pharm.tj.	7200	IN	NS	pins1.eastera.tj.
 express-pharm.tj.	7200	IN	NS	pins2.eastera.tj.
 express24.tj.	7200	IN	NS	ns1.timeweb.ru.
@@ -8847,6 +8851,8 @@ markaz.tj.	7200	IN	NS	ns2.linode.com.
 markaz.tj.	7200	IN	NS	ns3.linode.com.
 markazimarka.tj.	7200	IN	NS	ns1.rspd.tj.
 markazimarka.tj.	7200	IN	NS	ns2.rspd.tj.
+markazitekhniki.tj.	7200	IN	NS	ns.tojikiston.com.
+markazitekhniki.tj.	7200	IN	NS	ns1.tojikiston.com.
 market.tj.	7200	IN	NS	ns7.billur.net.
 market.tj.	7200	IN	NS	ns8.billur.net.
 marketing.tj.	7200	IN	NS	ns1.timeweb.ru.
@@ -8997,6 +9003,10 @@ mcf-imon.tj.	7200	IN	NS	ns3.timeweb.org.
 mcf-imon.tj.	7200	IN	NS	ns4.timeweb.org.
 mcq.tj.	7200	IN	NS	pins1.eastera.tj.
 mcq.tj.	7200	IN	NS	pins2.eastera.tj.
+mdg.tj.	7200	IN	NS	ns1.timeweb.ru.
+mdg.tj.	7200	IN	NS	ns2.timeweb.ru.
+mdg.tj.	7200	IN	NS	ns3.timeweb.org.
+mdg.tj.	7200	IN	NS	ns4.timeweb.org.
 mdmtkt.tj.	7200	IN	NS	ns.sugdien.com.
 mdmtkt.tj.	7200	IN	NS	ns2.tajnet.tj.
 mdnra.tj.	7200	IN	NS	ns1.rspd.tj.
@@ -11970,8 +11980,8 @@ rohrav.tj.	7200	IN	NS	demi.ns.cloudflare.com.
 rohrav.tj.	7200	IN	NS	peyton.ns.cloudflare.com.
 rol-forum.tj.	7200	IN	NS	ns1.gettj.net.
 rol-forum.tj.	7200	IN	NS	ns2.gettj.net.
-rolex.tj.	7200	IN	NS	ns1.p09.dynect.net.
-rolex.tj.	7200	IN	NS	ns2.p09.dynect.net.
+rolex.tj.	7200	IN	NS	dns1.p06.nsone.net.
+rolex.tj.	7200	IN	NS	dns2.p06.nsone.net.
 rollerplast.tj.	7200	IN	NS	ns9.ismtj.co.
 rollerplast.tj.	7200	IN	NS	ns10.ismtj.co.
 rolls-royce.tj.	7200	IN	NS	dns1.cscdns.net.
@@ -12485,8 +12495,8 @@ sedalite.tj.	7200	IN	NS	dns1.yandex.net.
 sedalite.tj.	7200	IN	NS	dns2.yandex.net.
 sediver.tj.	7200	IN	NS	ns1.bb-online.net.
 sediver.tj.	7200	IN	NS	ns2.bb-online.net.
-sedodaron.tj.	7200	IN	NS	ns1.reg.ru.
-sedodaron.tj.	7200	IN	NS	ns2.reg.ru.
+sedodaron.tj.	7200	IN	NS	ns1.beget.com.
+sedodaron.tj.	7200	IN	NS	ns2.beget.com.
 seeds.tj.	7200	IN	NS	ns1.101domain.com.
 seeds.tj.	7200	IN	NS	ns2.101domain.com.
 seep.tj.	7200	IN	NS	ns.tojikiston.com.
@@ -13273,6 +13283,12 @@ stleasing.tj.	7200	IN	NS	ns1.timeweb.ru.
 stleasing.tj.	7200	IN	NS	ns2.timeweb.ru.
 stleasing.tj.	7200	IN	NS	ns3.timeweb.org.
 stleasing.tj.	7200	IN	NS	ns4.timeweb.org.
+stlth.tj.	7200	IN	NS	ns01.trademarkarea.com.
+stlth.tj.	7200	IN	NS	ns02.trademarkarea.com.
+stlth.tj.	7200	IN	NS	ns03.trademarkarea.com.
+stlthvape.tj.	7200	IN	NS	ns01.trademarkarea.com.
+stlthvape.tj.	7200	IN	NS	ns02.trademarkarea.com.
+stlthvape.tj.	7200	IN	NS	ns03.trademarkarea.com.
 sto.tj.	7200	IN	NS	ns1.ixbtservers.com.
 sto.tj.	7200	IN	NS	ns3.ixbtservers.com.
 stoloto.tj.	7200	IN	NS	ns3-l2.nic.ru.
@@ -13536,8 +13552,8 @@ tahlil.tj.	7200	IN	NS	ns.tojikiston.com.
 tahlil.tj.	7200	IN	NS	ns1.tojikiston.com.
 tahsil.tj.	7200	IN	NS	ns1.tajnet.ru.
 tahsil.tj.	7200	IN	NS	ns2.tajnet.ru.
-tai.tj.	7200	IN	NS	artyom.ens.mail.ru.
-tai.tj.	7200	IN	NS	tyumen.ens.mail.ru.
+tai.tj.	7200	IN	NS	ns9.ismtj.co.
+tai.tj.	7200	IN	NS	ns10.ismtj.co.
 taj.tj.	7200	IN	NS	dns1.yandex.ru.
 taj.tj.	7200	IN	NS	dns2.yandex.ru.
 taj-stone.tj.	7200	IN	NS	ns1.hosting.reg.ru.
@@ -13867,8 +13883,8 @@ tashrif.tj.	7200	IN	NS	ns10.hoster.ru.
 tashrif.tj.	7200	IN	NS	ns11.hoster.ru.
 tatil.tj.	7200	IN	NS	ns1.rsnx.ru.
 tatil.tj.	7200	IN	NS	ns2.rsnx.ru.
-tato.tj.	7200	IN	NS	ns1.intercom.tj.
-tato.tj.	7200	IN	NS	ns2.intercom.tj.
+tato.tj.	7200	IN	NS	ns1.spaceweb.ru.
+tato.tj.	7200	IN	NS	ns3.spaceweb.pro.
 tatom.tj.	7200	IN	NS	ns1.beget.com.
 tatom.tj.	7200	IN	NS	ns1.beget.pro.
 tatom.tj.	7200	IN	NS	ns2.beget.com.
@@ -14630,10 +14646,10 @@ tu.tj.	7200	IN	NS	ns1.sedoparking.com.
 tu.tj.	7200	IN	NS	ns2.sedoparking.com.
 tuces.tj.	7200	IN	NS	ns.tarena-tj.org.
 tuces.tj.	7200	IN	NS	ns2.tarena.tj.
-tudor.tj.	7200	IN	NS	ns1.p09.dynect.net.
-tudor.tj.	7200	IN	NS	ns2.p09.dynect.net.
-tudorwatch.tj.	7200	IN	NS	ns1.p09.dynect.net.
-tudorwatch.tj.	7200	IN	NS	ns2.p09.dynect.net.
+tudor.tj.	7200	IN	NS	dns1.p02.nsone.net.
+tudor.tj.	7200	IN	NS	dns2.p02.nsone.net.
+tudorwatch.tj.	7200	IN	NS	dns1.p02.nsone.net.
+tudorwatch.tj.	7200	IN	NS	dns2.p02.nsone.net.
 tugral.tj.	7200	IN	NS	ns.tarena.tj.
 tugral.tj.	7200	IN	NS	ns2.tarena.tj.
 tuhfa.tj.	7200	IN	NS	ns1.beget.com.
@@ -14825,10 +14841,8 @@ uniexpress.tj.	7200	IN	NS	ns1.rspd.tj.
 uniexpress.tj.	7200	IN	NS	ns2.rspd.tj.
 unilever.tj.	7200	IN	NS	dns02.unilever.com.
 unilever.tj.	7200	IN	NS	dns04.unilever.com.
-unipower.tj.	7200	IN	NS	ns1.beget.com.
-unipower.tj.	7200	IN	NS	ns1.beget.pro.
-unipower.tj.	7200	IN	NS	ns2.beget.com.
-unipower.tj.	7200	IN	NS	ns2.beget.pro.
+unipower.tj.	7200	IN	NS	ns9.ismtj.co.
+unipower.tj.	7200	IN	NS	ns10.ismtj.co.
 unique.tj.	7200	IN	NS	ns1.akdomains.co.uk.
 unique.tj.	7200	IN	NS	ns2.akdomains.co.uk.
 unique-tech.tj.	7200	IN	NS	ns1.reg.ru.
@@ -15907,9 +15921,10 @@ zps-cat.tj.	7200	IN	NS	ns1.is-fun.net.
 zps-cat.tj.	7200	IN	NS	ns2.is-fun.net.
 zpscat.tj.	7200	IN	NS	ns1.is-fun.net.
 zpscat.tj.	7200	IN	NS	ns2.is-fun.net.
-ztda-tourism.tj.	7200	IN	NS	ns1.webhost1.com.
-ztda-tourism.tj.	7200	IN	NS	ns2.webhost1.com.
-ztda-tourism.tj.	7200	IN	NS	ns3.webhost1.org.
+ztda-tourism.tj.	7200	IN	NS	ns1.fornex.com.
+ztda-tourism.tj.	7200	IN	NS	ns2.fornex.com.
+ztda-tourism.tj.	7200	IN	NS	ns3.fornex.com.
+ztda-tourism.tj.	7200	IN	NS	ns4.fornex.com.
 zub.tj.	7200	IN	NS	ns.tojikiston.com.
 zub.tj.	7200	IN	NS	ns1.tojikiston.com.
 zud.tj.	7200	IN	NS	dns1.yandex.net.
