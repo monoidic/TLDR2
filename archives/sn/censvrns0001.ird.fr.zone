@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442074 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442087 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"1 RRs processed [11/05/2022 16H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [11/05/2022 18H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5681,6 +5681,8 @@ diem.sn.	43200	IN	NS	ns1.kheweul.net.
 diem.sn.	43200	IN	NS	ns2.kheweul.net.
 diem.sn.	43200	IN	NS	ns3.kheweul.net.
 diem.sn.	43200	IN	NS	ns4.kheweul.net.
+dienderagroeco.sn.	172800	IN	NS	ns1.o2switch.net.
+dienderagroeco.sn.	172800	IN	NS	ns2.o2switch.net.
 diese.sn.	172800	IN	NS	ns1.dns-parking.com.
 diese.sn.	172800	IN	NS	ns2.dns-parking.com.
 difonce.sn.	172800	IN	NS	ns200.anycast.me.
@@ -6378,6 +6380,8 @@ ecko-media.sn.	172800	IN	NS	dns112.ovh.net.
 ecko-media.sn.	172800	IN	DS	58375 8 2 915157cc82c78a0585ffb55197c5d0c29740ae4e82c20e9194b501ca4d974ef9
 ecmpene.sn.	43200	IN	NS	ns1.us110.siteground.us.
 ecmpene.sn.	43200	IN	NS	ns2.us110.siteground.us.
+ecoasis.sn.	172800	IN	NS	ns1.o2switch.net.
+ecoasis.sn.	172800	IN	NS	ns2.o2switch.net.
 ecodressing.sn.	43200	IN	NS	ns104.ovh.net.
 ecodressing.sn.	43200	IN	NS	dns104.ovh.net.
 ecofirma.sn.	172800	IN	NS	ns9.erudis.pt.
@@ -17246,7 +17250,6 @@ senecare.sn.	43200	IN	NS	ns105.ovh.net.
 senecare.sn.	43200	IN	NS	dns105.ovh.net.
 senecartours.sn.	172800	IN	NS	ns112.ovh.net.
 senecartours.sn.	172800	IN	NS	dns112.ovh.net.
-senecartours.sn.	43200	IN	DS	21712 8 2 41bc2292e0315ca95dda53913c56a86edb2b7b1688d2e1ec11f0e6686eb193fb
 seneclic.sn.	172800	IN	NS	ns.gouv.sn.
 seneclic.sn.	172800	IN	NS	ns2.gouv.sn.
 seneclic.sn.	172800	IN	NS	ns3.gouv.sn.
