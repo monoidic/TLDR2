@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022051101 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022051201 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -1984,6 +1984,10 @@ ns1.cv-fire.com.cv.	28800	IN	A	94.46.167.34
 ns2.cv-fire.com.cv.	28800	IN	A	94.46.167.34
 cvdirect.com.cv.	28800	IN	NS	ns1.gruposafety.pt.
 cvdirect.com.cv.	28800	IN	NS	ns2.gruposafety.pt.
+cvfire.com.cv.	28800	IN	NS	ns1.cvfire.com.cv.
+cvfire.com.cv.	28800	IN	NS	ns2.cvfire.com.cv.
+ns1.cvfire.com.cv.	28800	IN	A	94.46.167.34
+ns2.cvfire.com.cv.	28800	IN	A	94.46.167.34
 davidhopfferalmada.com.cv.	28800	IN	NS	ns7.securenet-server.net.
 davidhopfferalmada.com.cv.	28800	IN	NS	ns8.securenet-server.net.
 decameron.com.cv.	28800	IN	NS	ns3.decameron.com.
@@ -2929,6 +2933,10 @@ cveeu.cv.	28800	IN	NS	ns02.trademarkarea.com.
 cveeu.cv.	28800	IN	NS	ns03.trademarkarea.com.
 cvfastferry.cv.	28800	IN	NS	ns1.cloudsector.net.
 cvfastferry.cv.	28800	IN	NS	ns2.cloudsector.net.
+cvfire.cv.	28800	IN	NS	ns1.cvfire.cv.
+cvfire.cv.	28800	IN	NS	ns2.cvfire.cv.
+ns1.cvfire.cv.	28800	IN	A	94.46.167.34
+ns2.cvfire.cv.	28800	IN	A	94.46.167.34
 cvflamingo.cv.	28800	IN	NS	ns1.mydnspt.net.
 cvflamingo.cv.	28800	IN	NS	ns2.mydnspt.net.
 cvflamingo.cv.	28800	IN	NS	ns7.mydnspt.net.
@@ -3031,6 +3039,9 @@ cwv.cv.	28800	IN	NS	ns104.cloudns.net.
 cyprus.cv.	28800	IN	NS	ns01.trademarkarea.com.
 cyprus.cv.	28800	IN	NS	ns02.trademarkarea.com.
 cyprus.cv.	28800	IN	NS	ns03.trademarkarea.com.
+cysmos.cv.	28800	IN	NS	ns.inwx.de.
+cysmos.cv.	28800	IN	NS	ns2.inwx.de.
+cysmos.cv.	28800	IN	NS	ns3.inwx.eu.
 dacruz.cv.	28800	IN	NS	1.nshub.com.
 dacruz.cv.	28800	IN	NS	2.nshub.com.
 dalpckgoldboutique.cv.	28800	IN	NS	ns1.tmais.cv.
@@ -6908,6 +6919,8 @@ rafprojetos.cv.	28800	IN	NS	ns1.mydnspt.net.
 rafprojetos.cv.	28800	IN	NS	ns2.mydnspt.net.
 rafprojetos.cv.	28800	IN	NS	ns7.mydnspt.net.
 rafprojetos.cv.	28800	IN	NS	ns8.mydnspt.net.
+ral.cv.	28800	IN	NS	ns1.cabosys.cv.
+ral.cv.	28800	IN	NS	ns2.cabosys.cv.
 ram.cv.	28800	IN	NS	ns.inwx.de.
 ram.cv.	28800	IN	NS	ns2.inwx.de.
 ram.cv.	28800	IN	NS	ns3.inwx.eu.
@@ -7862,6 +7875,10 @@ sulada.cv.	28800	IN	NS	ns2.esoterica.com.
 mail.sulada.cv.	28800	IN	A	80.172.241.20
 sulcar.cv.	28800	IN	NS	ns1.salweb.net.
 sulcar.cv.	28800	IN	NS	ns2.salweb.net.
+summer.cv.	28800	IN	NS	ns1.cabosys.cv.
+summer.cv.	28800	IN	NS	ns2.cabosys.cv.
+summersoftware.cv.	28800	IN	NS	ns1.cabosys.cv.
+summersoftware.cv.	28800	IN	NS	ns2.cabosys.cv.
 supercantina.cv.	28800	IN	NS	ns1000.mochahost.com.
 supercantina.cv.	28800	IN	NS	ns2000.mochahost.com.
 superlimpo.cv.	28800	IN	NS	ns.viaoceanica.net.

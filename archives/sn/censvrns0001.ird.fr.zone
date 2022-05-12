@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442216 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442231 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [12/05/2022 12H20:02]"
+sn.	172800	IN	TXT	"6 RRs processed [12/05/2022 14H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6384,6 +6384,9 @@ ecmpene.sn.	43200	IN	NS	ns1.us110.siteground.us.
 ecmpene.sn.	43200	IN	NS	ns2.us110.siteground.us.
 ecoasis.sn.	172800	IN	NS	ns1.o2switch.net.
 ecoasis.sn.	172800	IN	NS	ns2.o2switch.net.
+ecobat.sn.	172800	IN	NS	ns1.contabo.net.
+ecobat.sn.	172800	IN	NS	ns2.contabo.net.
+ecobat.sn.	172800	IN	NS	ns3.contabo.net.
 ecodressing.sn.	43200	IN	NS	ns104.ovh.net.
 ecodressing.sn.	43200	IN	NS	dns104.ovh.net.
 ecofirma.sn.	172800	IN	NS	ns9.erudis.pt.
@@ -11287,6 +11290,8 @@ knightsbridge.sn.	172800	IN	NS	dns20.ovh.net.
 knightsbridge.sn.	172800	IN	DS	10336 8 2 1822733e16093bbf082c3436e7c49a68f6f843aff96d57776095156f7c854dac
 knit.sn.	172800	IN	NS	ns200.anycast.me.
 knit.sn.	172800	IN	NS	dns200.anycast.me.
+knl.sn.	172800	IN	NS	ns1.senhebergement.com.
+knl.sn.	172800	IN	NS	ns2.senhebergement.com.
 kodak.sn.	43200	IN	NS	ns.kodak.com.
 kodak.sn.	43200	IN	NS	ekns01.kodak.com.
 kodak.sn.	43200	IN	NS	ekns02.kodak.com.
@@ -11312,6 +11317,10 @@ komodus.sn.	43200	IN	NS	dns2.snhosting.com.br.
 komodus.sn.	43200	IN	NS	dns3.snhosting.com.br.
 konga.sn.	172800	IN	NS	ns1.101domain.com.
 konga.sn.	172800	IN	NS	ns2.101domain.com.
+kongkong.sn.	172800	IN	NS	ns3.wanekoohost.com.
+kongkong.sn.	172800	IN	NS	ns4.wanekoohost.com.
+kongkong.sn.	172800	IN	NS	ns5.wanekoohost.com.
+kongkong.sn.	172800	IN	NS	ns6.wanekoohost.com.
 konnectek.sn.	172800	IN	NS	ns14.ovh.net.
 konnectek.sn.	172800	IN	NS	dns14.ovh.net.
 konnectek.sn.	172800	IN	DS	51199 8 2 486e65100ed7b5469ab3d1102831caace07244b8a1ce90dd5af7a710b6338ae8
@@ -20141,6 +20150,10 @@ transco.sn.	43200	IN	NS	ns2.sonatel.sn.
 transcon.sn.	43200	IN	NS	ns1.regzone.cz.
 transcon.sn.	43200	IN	NS	ns1.regzone.de.
 transcon.sn.	43200	IN	NS	ns1.regzone.info.
+transcontinentaltransit.sn.	172800	IN	NS	ns3.wanekoohost.com.
+transcontinentaltransit.sn.	172800	IN	NS	ns4.wanekoohost.com.
+transcontinentaltransit.sn.	172800	IN	NS	ns5.wanekoohost.com.
+transcontinentaltransit.sn.	172800	IN	NS	ns6.wanekoohost.com.
 transelec.sn.	172800	IN	NS	ns10.ovh.ca.
 transelec.sn.	172800	IN	NS	dns10.ovh.ca.
 transelec.sn.	172800	IN	DS	45904 8 2 8181c9e29703348aa7626b8e98ffb40de23fb5063836243d9f958db698ead656
@@ -20294,9 +20307,9 @@ tshirt.sn.	43200	IN	NS	ns109.ovh.net.
 tshirt.sn.	43200	IN	NS	dns109.ovh.net.
 tsi.sn.	43200	IN	NS	ns.arc.sn.
 tsi.sn.	43200	IN	NS	ns3.arc.sn.
-tsi-senegal.sn.	43200	IN	NS	nsa.planethoster.net.
-tsi-senegal.sn.	43200	IN	NS	nsb.planethoster.net.
-tsi-senegal.sn.	43200	IN	NS	nsc.planethoster.net.
+tsi-senegal.sn.	172800	IN	NS	nsa.n0c.com.
+tsi-senegal.sn.	172800	IN	NS	nsb.n0c.com.
+tsi-senegal.sn.	172800	IN	NS	nsc.n0c.com.
 tsk.sn.	43200	IN	NS	ns1.webhostingpad.com.
 tsk.sn.	43200	IN	NS	ns2.webhostingpad.com.
 tsservices.sn.	172800	IN	NS	ns1.bluehost.com.
