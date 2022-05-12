@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442202 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442216 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [12/05/2022 10H20:01]"
+sn.	172800	IN	TXT	"3 RRs processed [12/05/2022 12H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4551,6 +4551,10 @@ commune-hlm.sn.	43200	IN	DS	59425 8 2 c1c5647cc2bf0155f3ba6de3620ca3e4c90cb78a7c
 commune-ngogom.sn.	172800	IN	NS	ns200.anycast.me.
 commune-ngogom.sn.	172800	IN	NS	dns200.anycast.me.
 commune-ngogom.sn.	172800	IN	DS	29125 8 2 581e480c9e484470f9b540a5e52db0aef58c6c753333585b2ac5f27ca1810de0
+communedebambey.sn.	172800	IN	NS	ns3.wanekoohost.com.
+communedebambey.sn.	172800	IN	NS	ns4.wanekoohost.com.
+communedebambey.sn.	172800	IN	NS	ns5.wanekoohost.com.
+communedebambey.sn.	172800	IN	NS	ns6.wanekoohost.com.
 communedekedougou.sn.	172800	IN	NS	ns101.ovh.net.
 communedekedougou.sn.	172800	IN	NS	dns101.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	ns18.ovh.net.
@@ -4748,6 +4752,10 @@ cosedi.sn.	43200	IN	NS	ns11.infomaniak.ch.
 cosedi.sn.	43200	IN	NS	ns12.infomaniak.ch.
 cosedipal.sn.	43200	IN	NS	ns31.infomaniak.com.
 cosedipal.sn.	43200	IN	NS	ns32.infomaniak.com.
+cosefor.sn.	172800	IN	NS	ns3.wanekoohost.com.
+cosefor.sn.	172800	IN	NS	ns4.wanekoohost.com.
+cosefor.sn.	172800	IN	NS	ns5.wanekoohost.com.
+cosefor.sn.	172800	IN	NS	ns6.wanekoohost.com.
 coselec.sn.	43200	IN	NS	ns.sonatel.sn.
 coselec.sn.	43200	IN	NS	ns2.sonatel.sn.
 coseloc.sn.	43200	IN	NS	ns6441.hostgator.com.
@@ -15010,6 +15018,9 @@ paroleauxjeunes.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 paroleauxjeunes.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 parpeba.sn.	43200	IN	NS	ns.sonatel.sn.
 parpeba.sn.	43200	IN	NS	ns2.sonatel.sn.
+parsiec.sn.	172800	IN	NS	ns11.ovh.net.
+parsiec.sn.	172800	IN	NS	dns11.ovh.net.
+parsiec.sn.	172800	IN	DS	19717 8 2 9a14d471605b988da7204aad870574531ec9c0917777aac4cb3c493526efab0c
 particonservateur.sn.	172800	IN	NS	ns106.ovh.net.
 particonservateur.sn.	172800	IN	NS	dns106.ovh.net.
 particonservateur.sn.	172800	IN	DS	64804 8 2 ea14aa0458095491f43a84bb0c2423d8146be5d1a56ae77e206673ea61bad884
@@ -15148,10 +15159,8 @@ penc.sn.	172800	IN	NS	ns3.ultahost.com.
 penc.sn.	172800	IN	NS	ns4.ultahost.com.
 pencmi.sn.	172800	IN	NS	ns103.ovh.net.
 pencmi.sn.	172800	IN	NS	dns103.ovh.net.
-pencumlebu.sn.	172800	IN	NS	ns3.wanekoohost.com.
-pencumlebu.sn.	172800	IN	NS	ns4.wanekoohost.com.
-pencumlebu.sn.	172800	IN	NS	ns5.wanekoohost.com.
-pencumlebu.sn.	172800	IN	NS	ns6.wanekoohost.com.
+pencumlebu.sn.	172800	IN	NS	ns9.lwsdns.com.
+pencumlebu.sn.	172800	IN	NS	ns10.lwsdns.com.
 pencumndakaru.sn.	43200	IN	NS	ns109.ovh.net.
 pencumndakaru.sn.	43200	IN	NS	dns109.ovh.net.
 people.sn.	43200	IN	NS	dns1.wmaker.net.
@@ -19789,6 +19798,8 @@ thieydakar.sn.	43200	IN	NS	ns1.kheweul.net.
 thieydakar.sn.	43200	IN	NS	ns2.kheweul.net.
 thieydakar.sn.	43200	IN	NS	ns3.kheweul.net.
 thieydakar.sn.	43200	IN	NS	ns4.kheweul.net.
+thinkinformatic.sn.	172800	IN	NS	eisdns1.expertis.sn.
+thinkinformatic.sn.	172800	IN	NS	eisdns2.expertis.sn.
 thinkplace.sn.	43200	IN	NS	ns1-03.azure-dns.com.
 thinkplace.sn.	43200	IN	NS	ns2-03.azure-dns.net.
 thinkplace.sn.	43200	IN	NS	ns3-03.azure-dns.org.
@@ -21150,6 +21161,7 @@ webstudent.sn.	43200	IN	NS	ns2.101domain.com.
 webstudent.sn.	43200	IN	NS	ns5.101domain.com.
 webtel.sn.	172800	IN	NS	ns1.francedns.com.
 webtel.sn.	172800	IN	NS	ns2.francedns.com.
+webtel.sn.	172800	IN	NS	ns3.francedns.com.
 webuycars.sn.	172800	IN	NS	ns1.101domain.com.
 webuycars.sn.	172800	IN	NS	ns2.101domain.com.
 wedeal.sn.	172800	IN	NS	ns15.ovh.net.
