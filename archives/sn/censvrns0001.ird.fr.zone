@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442259 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442274 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [12/05/2022 18H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [12/05/2022 20H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5783,6 +5783,8 @@ digit-all.sn.	43200	IN	NS	ns4.netim.net.
 digit-all.sn.	43200	IN	NS	ns5.netim.net.
 digital-campus.sn.	43200	IN	NS	ns1.justhost.com.
 digital-campus.sn.	43200	IN	NS	ns2.justhost.com.
+digital-eyes.sn.	172800	IN	NS	ns1.o2switch.net.
+digital-eyes.sn.	172800	IN	NS	ns2.o2switch.net.
 digital-us.sn.	43200	IN	NS	ns1.caurys.net.
 digital-us.sn.	43200	IN	NS	ns2.caurys.net.
 digitalbundle.sn.	172800	IN	NS	ns1045.ui-dns.de.
@@ -9228,6 +9230,10 @@ heliostowers.sn.	43200	IN	NS	ns02.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns03.trademarkarea.com.
 hellofood.sn.	43200	IN	NS	ivan.ns.cloudflare.com.
 hellofood.sn.	43200	IN	NS	jean.ns.cloudflare.com.
+hellogroup.sn.	172800	IN	NS	ns1.kheweul.net.
+hellogroup.sn.	172800	IN	NS	ns2.kheweul.net.
+hellogroup.sn.	172800	IN	NS	ns3.kheweul.net.
+hellogroup.sn.	172800	IN	NS	ns4.kheweul.net.
 hellonet.sn.	172800	IN	NS	ns2.hellonet.sn.
 ns2.hellonet.sn.	172800	IN	A	41.208.148.36
 helloprice.sn.	43200	IN	NS	ns1.o2switch.net.
@@ -21796,7 +21802,8 @@ zocdoc.sn.	43200	IN	NS	ns2.markmonitor.com.
 zoetis.sn.	43200	IN	NS	a1.verisigndns.com.
 zoetis.sn.	43200	IN	NS	a2.verisigndns.com.
 zoetis.sn.	43200	IN	NS	a3.verisigndns.com.
-zone01dakar.sn.	172800	IN	NS	hosting100.arc.sn.
+zone01dakar.sn.	172800	IN	NS	ns.arc.sn.
+zone01dakar.sn.	172800	IN	NS	ns3.arc.sn.
 zou0784.sn.	172800	IN	NS	ns3.wanekoohost.com.
 zou0784.sn.	172800	IN	NS	ns4.wanekoohost.com.
 zou0784.sn.	172800	IN	NS	ns5.wanekoohost.com.
