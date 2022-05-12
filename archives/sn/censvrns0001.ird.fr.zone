@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442187 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442202 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [12/05/2022 08H20:02]"
+sn.	172800	IN	TXT	"3 RRs processed [12/05/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -244,10 +244,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 911.sn.	172800	IN	NS	ns1.netim.net.
 911.sn.	172800	IN	NS	ns2.netim.net.
 911.sn.	172800	IN	NS	ns3.netim.net.
-999.sn.	172800	IN	NS	pns101.cloudns.net.
-999.sn.	172800	IN	NS	pns102.cloudns.net.
-999.sn.	172800	IN	NS	pns103.cloudns.net.
-999.sn.	172800	IN	NS	pns104.cloudns.net.
+999.sn.	172800	IN	NS	ns1.dns.com.
+999.sn.	172800	IN	NS	ns2.dns.com.
 9pp.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 9pp.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 a1global.sn.	43200	IN	NS	ns1.bumeranginteraktif2.com.
@@ -1031,9 +1029,8 @@ akika.sn.	43200	IN	NS	dns13.ovh.net.
 aklaaa.sn.	172800	IN	NS	ns1.francedns.com.
 aklaaa.sn.	172800	IN	NS	ns2.francedns.com.
 aklaaa.sn.	172800	IN	NS	ns3.francedns.com.
-akom-ic.sn.	172800	IN	NS	ns1.francedns.com.
-akom-ic.sn.	172800	IN	NS	ns2.francedns.com.
-akom-ic.sn.	172800	IN	NS	ns3.francedns.com.
+akom-ic.sn.	172800	IN	NS	ns9.lwsdns.com.
+akom-ic.sn.	172800	IN	NS	ns10.lwsdns.com.
 akoussa.sn.	43200	IN	NS	ns110.ovh.net.
 akoussa.sn.	43200	IN	NS	dns110.ovh.net.
 aktion.sn.	172800	IN	NS	ns1.o2switch.net.
@@ -2489,8 +2486,8 @@ bejosodisem.sn.	172800	IN	NS	ns2.sqr.domains.
 bejosodisem.sn.	172800	IN	NS	ns3.sqr.cloud.
 beko.sn.	43200	IN	NS	dizzy.mgmt.koc.net.
 beko.sn.	43200	IN	NS	coltrane.mgmt.koc.net.
-beldo.sn.	172800	IN	NS	ns1.txpro15.fcomet.com.
-beldo.sn.	172800	IN	NS	ns2.txpro15.fcomet.com.
+beldo.sn.	172800	IN	NS	ns1.siteground.net.
+beldo.sn.	172800	IN	NS	ns2.siteground.net.
 beldograndirenconfiance.sn.	172800	IN	NS	ns1.md-45.webhostbox.net.
 beldograndirenconfiance.sn.	172800	IN	NS	ns2.md-45.webhostbox.net.
 belel.sn.	172800	IN	NS	ns1.francedns.com.
@@ -9182,6 +9179,7 @@ heetch.sn.	43200	IN	NS	ns-228-a.gandi.net.
 heg.sn.	43200	IN	NS	hosting100.arc.sn.
 helin.sn.	172800	IN	NS	ns102.ovh.net.
 helin.sn.	172800	IN	NS	dns102.ovh.net.
+helin.sn.	172800	IN	DS	3046 8 2 277f87a88e9f25cb3b628f154b923813848b28a15dde7bebb8166cf865782709
 heliostowers.sn.	43200	IN	NS	ns01.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns02.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns03.trademarkarea.com.
@@ -21150,8 +21148,8 @@ websolver.sn.	43200	IN	NS	dns200.anycast.me.
 webstudent.sn.	43200	IN	NS	ns1.101domain.com.
 webstudent.sn.	43200	IN	NS	ns2.101domain.com.
 webstudent.sn.	43200	IN	NS	ns5.101domain.com.
-webtel.sn.	172800	IN	NS	ns1.cloud2.agilgo.com.
-webtel.sn.	172800	IN	NS	ns2.cloud2.agilgo.com.
+webtel.sn.	172800	IN	NS	ns1.francedns.com.
+webtel.sn.	172800	IN	NS	ns2.francedns.com.
 webuycars.sn.	172800	IN	NS	ns1.101domain.com.
 webuycars.sn.	172800	IN	NS	ns2.101domain.com.
 wedeal.sn.	172800	IN	NS	ns15.ovh.net.
