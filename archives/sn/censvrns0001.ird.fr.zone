@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442432 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442447 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"8 RRs processed [13/05/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [13/05/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3634,8 +3634,6 @@ casagri.sn.	172800	IN	NS	ns1.kheweul.net.
 casagri.sn.	172800	IN	NS	ns2.kheweul.net.
 casagri.sn.	172800	IN	NS	ns3.kheweul.net.
 casagri.sn.	172800	IN	NS	ns4.kheweul.net.
-casagro.sn.	43200	IN	NS	ns109.ovh.net.
-casagro.sn.	43200	IN	NS	dns109.ovh.net.
 casamancaise.sn.	43200	IN	NS	ns.sonatel.sn.
 casamancaise.sn.	43200	IN	NS	ns2.sonatel.sn.
 casamance.sn.	172800	IN	NS	ns.bnamed.eu.
@@ -4599,6 +4597,9 @@ commune-hlm.sn.	43200	IN	DS	59425 8 2 c1c5647cc2bf0155f3ba6de3620ca3e4c90cb78a7c
 commune-ngogom.sn.	172800	IN	NS	ns200.anycast.me.
 commune-ngogom.sn.	172800	IN	NS	dns200.anycast.me.
 commune-ngogom.sn.	172800	IN	DS	29125 8 2 581e480c9e484470f9b540a5e52db0aef58c6c753333585b2ac5f27ca1810de0
+commune-pattedoie.sn.	172800	IN	NS	ns200.anycast.me.
+commune-pattedoie.sn.	172800	IN	NS	dns200.anycast.me.
+commune-pattedoie.sn.	172800	IN	DS	22876 8 2 d47b4a32be232a2885e0b1a839e1588451508642ff7280dca8e1ef388ab7f8fa
 communedebambey.sn.	172800	IN	NS	ns3.wanekoohost.com.
 communedebambey.sn.	172800	IN	NS	ns4.wanekoohost.com.
 communedebambey.sn.	172800	IN	NS	ns5.wanekoohost.com.
@@ -14260,9 +14261,6 @@ ntech.sn.	172800	IN	NS	ns3.wanekoohost.com.
 ntech.sn.	172800	IN	NS	ns4.wanekoohost.com.
 ntech.sn.	172800	IN	NS	ns5.wanekoohost.com.
 ntech.sn.	172800	IN	NS	ns6.wanekoohost.com.
-nubium.sn.	172800	IN	NS	ns200.anycast.me.
-nubium.sn.	172800	IN	NS	dns200.anycast.me.
-nubium.sn.	172800	IN	DS	59986 8 2 8459dae2c6296a26f1cce2c7db460fba2372f7005d927c8013d8d47fb68d5f9c
 numerika.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 numerika.sn.	43200	IN	NS	pdns12.domaincontrol.com.
 numerikpartners.sn.	172800	IN	NS	ns20.ovh.net.
@@ -15781,9 +15779,6 @@ proddel.sn.	43200	IN	NS	ns101.webhostingbuzz.com.
 prodesign.sn.	172800	IN	NS	dns200.anycast.me.
 prodiamed-ucad2.sn.	43200	IN	NS	ns1.kheweul.net.
 prodiamed-ucad2.sn.	43200	IN	NS	ns2.kheweul.net.
-prodigital.sn.	172800	IN	NS	ns200.anycast.me.
-prodigital.sn.	172800	IN	NS	dns200.anycast.me.
-prodigital.sn.	172800	IN	DS	56461 8 2 bda97f5300e1ef4b6b39dc1139eb04bb34e29696b5ed85ca376da2aab0886378
 prodim.sn.	172800	IN	NS	ns102.ovh.net.
 prodim.sn.	172800	IN	NS	dns102.ovh.net.
 prodoid.sn.	43200	IN	NS	pdns11.domaincontrol.com.
@@ -20375,6 +20370,9 @@ truvisionco.sn.	43200	IN	NS	ns1.ascio.com.
 truvisionco.sn.	43200	IN	NS	ns2.ascio.com.
 truvisionco.sn.	43200	IN	NS	ns3.ascio.com.
 truvisionco.sn.	43200	IN	NS	ns4.ascio.com.
+tse-3p.sn.	172800	IN	NS	nsa.n0c.com.
+tse-3p.sn.	172800	IN	NS	nsb.n0c.com.
+tse-3p.sn.	172800	IN	NS	nsc.n0c.com.
 tsg-solutions.sn.	43200	IN	NS	ns1.caurys.net.
 tsg-solutions.sn.	43200	IN	NS	ns2.caurys.net.
 tshirt.sn.	43200	IN	NS	ns109.ovh.net.
