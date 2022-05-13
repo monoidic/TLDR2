@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022051201 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022051202 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -14344,6 +14344,8 @@ rw.	172800	IN	NS	ns3.ricta.org.rw.
 rw.	172800	IN	NS	pch.ricta.org.rw.
 rw.	172800	IN	NS	fork.sth.dnsnode.net.
 rw.	172800	IN	NS	ns-rw.afrinic.net.
+rw.	86400	IN	DS	39755 8 1 f5fe9c8f6290eed632676687f03d986f17f27799
+rw.	86400	IN	DS	39755 8 2 005f7a73f0609a69ca7736158490764e1a8dc0652ab1d0e327941af0fe673111
 ns1.ricta.org.rw.	172800	IN	A	196.49.7.188
 ns3.ricta.org.rw.	172800	IN	A	41.138.85.98
 pch.ricta.org.rw.	172800	IN	A	204.61.216.91
@@ -18543,6 +18545,7 @@ xn--4dbrk0ce.	172800	IN	NS	nsb.ns.il.
 xn--4dbrk0ce.	172800	IN	NS	nse.ns.il.
 xn--4dbrk0ce.	172800	IN	NS	ilns.ilan.net.il.
 xn--4dbrk0ce.	172800	IN	NS	lookup.iucc.ac.il.
+xn--4dbrk0ce.	86400	IN	DS	64411 13 2 09f874ff34c6c2d73ccaa566b12c8cfb7e5de692405f57195c4562c9e2ba4548
 xn--4gbrim.	172800	IN	NS	a.nic.xn--4gbrim.
 xn--4gbrim.	172800	IN	NS	b.nic.xn--4gbrim.
 xn--4gbrim.	172800	IN	NS	c.nic.xn--4gbrim.
