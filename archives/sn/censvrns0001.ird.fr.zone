@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442377 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442390 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [13/05/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [13/05/2022 12H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6208,6 +6208,9 @@ dslelec.sn.	172800	IN	NS	ns3.afriregister.com.
 dslelec.sn.	172800	IN	NS	ns01.afriregister.com.
 dsnotaires.sn.	172800	IN	NS	nsmpro1.nordnet.com.
 dsnotaires.sn.	172800	IN	NS	nsmpro2.nordnet.com.
+dsolutions.sn.	172800	IN	NS	nsa.n0c.com.
+dsolutions.sn.	172800	IN	NS	nsb.n0c.com.
+dsolutions.sn.	172800	IN	NS	nsc.n0c.com.
 dsrse.sn.	43200	IN	NS	dns1.hosteur.com.
 dsrse.sn.	43200	IN	NS	dns2.hosteur.com.
 dstvondemand.sn.	43200	IN	NS	dns01.naspers.com.
@@ -7251,9 +7254,8 @@ etpc.sn.	43200	IN	NS	ns1.kheweul.net.
 etpc.sn.	43200	IN	NS	ns2.kheweul.net.
 etpc.sn.	43200	IN	NS	ns3.kheweul.net.
 etpc.sn.	43200	IN	NS	ns4.kheweul.net.
-ets.sn.	172800	IN	NS	ns1.francedns.com.
-ets.sn.	172800	IN	NS	ns2.francedns.com.
-ets.sn.	172800	IN	NS	ns3.francedns.com.
+ets.sn.	172800	IN	NS	ns1.connectme.ma.
+ets.sn.	172800	IN	NS	ns2.connectme.ma.
 etshamethfall.sn.	43200	IN	NS	ns.sonatel.sn.
 etshamethfall.sn.	43200	IN	NS	ns2.sonatel.sn.
 etsmg.sn.	172800	IN	NS	ns5.afriregister.co.ke.
@@ -7475,6 +7477,8 @@ fadsr.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns6.wanekoohost.com.
+fagoul.sn.	172800	IN	NS	edward.ns.cloudflare.com.
+fagoul.sn.	172800	IN	NS	evangeline.ns.cloudflare.com.
 faise.sn.	43200	IN	NS	ns1.kheweul.net.
 faise.sn.	43200	IN	NS	ns2.kheweul.net.
 faise.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -12301,10 +12305,6 @@ lougactu.sn.	43200	IN	NS	ns4.kheweul.net.
 louisdreyfus.sn.	172800	IN	NS	ns1.dnsres.net.
 louisdreyfus.sn.	172800	IN	NS	ns2.dnsres.net.
 louisdreyfus.sn.	172800	IN	NS	ns3.dnsres.net.
-louma.sn.	172800	IN	NS	ns3.wanekoohost.com.
-louma.sn.	172800	IN	NS	ns4.wanekoohost.com.
-louma.sn.	172800	IN	NS	ns5.wanekoohost.com.
-louma.sn.	172800	IN	NS	ns6.wanekoohost.com.
 loumo.sn.	172800	IN	NS	ns.bnamed.eu.
 loumo.sn.	172800	IN	NS	ns.bnamed.uk.
 loumo.sn.	172800	IN	NS	ns.bnamed.us.
