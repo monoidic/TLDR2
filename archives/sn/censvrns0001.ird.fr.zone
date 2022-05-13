@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442420 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442432 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [13/05/2022 16H40:01]"
+sn.	172800	IN	TXT	"8 RRs processed [13/05/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6783,6 +6783,10 @@ embajadasenagalespana.sn.	43200	IN	NS	ns.gouv.sn.
 embajadasenagalespana.sn.	43200	IN	NS	ns.ucad.sn.
 embajadasenagalespana.sn.	43200	IN	NS	ns2.gouv.sn.
 embajadasenagalespana.sn.	43200	IN	NS	ns3.gouv.sn.
+embaleko.sn.	172800	IN	NS	ns1.ascio.com.
+embaleko.sn.	172800	IN	NS	ns2.ascio.com.
+embaleko.sn.	172800	IN	NS	ns3.ascio.com.
+embaleko.sn.	172800	IN	NS	ns4.ascio.com.
 emc.sn.	43200	IN	NS	dns1.cscdns.net.
 emc.sn.	43200	IN	NS	dns2.cscdns.net.
 emco.sn.	43200	IN	NS	ns3.zoneedit.com.
@@ -8370,6 +8374,9 @@ gbs-btp.sn.	172800	IN	NS	ns2.o2switch.net.
 gbx.sn.	172800	IN	NS	ns20.ovh.net.
 gbx.sn.	172800	IN	NS	dns20.ovh.net.
 gbx.sn.	172800	IN	DS	58714 8 2 15aa1b7fa9d314b314f42b3f780d643c0bfa8e9ad2ee1278e55a2b3f37d65fb3
+gc-apad.sn.	172800	IN	NS	nsa.n0c.com.
+gc-apad.sn.	172800	IN	NS	nsb.n0c.com.
+gc-apad.sn.	172800	IN	NS	nsc.n0c.com.
 gcm.sn.	172800	IN	NS	ns15.afriregister.com.
 gcm.sn.	172800	IN	NS	ns25.afriregister.com.
 gcsolutions.sn.	43200	IN	NS	ns200.anycast.me.
@@ -12548,6 +12555,10 @@ mairi.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 mairiedegoree.sn.	43200	IN	NS	ns18.ovh.net.
 mairiedegoree.sn.	43200	IN	NS	dns18.ovh.net.
 mairiedegoree.sn.	43200	IN	DS	58954 8 2 27ff4de0aac2f29bf69beca994e1c85c0e4be87cc45d34a7aa61cc8aa73bbce2
+mairiedeshlm.sn.	172800	IN	NS	ns1.ascio.com.
+mairiedeshlm.sn.	172800	IN	NS	ns2.ascio.com.
+mairiedeshlm.sn.	172800	IN	NS	ns3.ascio.com.
+mairiedeshlm.sn.	172800	IN	NS	ns4.ascio.com.
 mairiedeziguinchor.sn.	172800	IN	NS	ns110.ovh.net.
 mairiedeziguinchor.sn.	172800	IN	NS	dns110.ovh.net.
 mairieguinawrailsud.sn.	172800	IN	NS	ns12.ovh.net.
