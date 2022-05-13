@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442390 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442404 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [13/05/2022 12H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [13/05/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -44,10 +44,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 101domains.sn.	43200	IN	NS	ns1.101domain.com.
 101domains.sn.	43200	IN	NS	ns2.101domain.com.
 101domains.sn.	43200	IN	NS	ns5.101domain.com.
-111.sn.	172800	IN	NS	pns101.cloudns.net.
-111.sn.	172800	IN	NS	pns102.cloudns.net.
-111.sn.	172800	IN	NS	pns103.cloudns.net.
-111.sn.	172800	IN	NS	pns104.cloudns.net.
+111.sn.	172800	IN	NS	ns1.dns.com.
+111.sn.	172800	IN	NS	ns2.dns.com.
 123.sn.	172800	IN	NS	ns105.ovh.net.
 123.sn.	172800	IN	NS	dns105.ovh.net.
 123.sn.	172800	IN	DS	28282 8 2 c0b58429305bf544354ecdd312d0632ef70a0b976a300712734eb149d9f375e1
@@ -92,10 +90,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 221tv.sn.	172800	IN	NS	ns2.kheweul.net.
 221tv.sn.	172800	IN	NS	ns3.kheweul.net.
 221tv.sn.	172800	IN	NS	ns4.kheweul.net.
-222.sn.	172800	IN	NS	pns101.cloudns.net.
-222.sn.	172800	IN	NS	pns102.cloudns.net.
-222.sn.	172800	IN	NS	pns103.cloudns.net.
-222.sn.	172800	IN	NS	pns104.cloudns.net.
+222.sn.	172800	IN	NS	ns1.dns.com.
+222.sn.	172800	IN	NS	ns2.dns.com.
 226dets.sn.	43200	IN	NS	ns1.cp-ht-6.webhostbox.net.
 226dets.sn.	43200	IN	NS	ns2.cp-ht-6.webhostbox.net.
 22bet.sn.	43200	IN	NS	rosalyn.ns.cloudflare.com.
@@ -169,10 +165,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 313services.sn.	172800	IN	NS	ns2.o2switch.net.
 333.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 333.sn.	172800	IN	NS	ns6.afriregister.co.ke.
-3333.sn.	172800	IN	NS	pns101.cloudns.net.
-3333.sn.	172800	IN	NS	pns102.cloudns.net.
-3333.sn.	172800	IN	NS	pns103.cloudns.net.
-3333.sn.	172800	IN	NS	pns104.cloudns.net.
+3333.sn.	172800	IN	NS	ns1.dns.com.
+3333.sn.	172800	IN	NS	ns2.dns.com.
 360.sn.	43200	IN	NS	ns16.ovh.net.
 360.sn.	43200	IN	NS	dns16.ovh.net.
 360fitness.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -218,24 +212,18 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 511tactical.sn.	43200	IN	NS	ns5.markmonitor.com.
 520.sn.	43200	IN	NS	nia.ns.cloudflare.com.
 520.sn.	43200	IN	NS	arch.ns.cloudflare.com.
-555.sn.	172800	IN	NS	pns101.cloudns.net.
-555.sn.	172800	IN	NS	pns102.cloudns.net.
-555.sn.	172800	IN	NS	pns103.cloudns.net.
-555.sn.	172800	IN	NS	pns104.cloudns.net.
+555.sn.	172800	IN	NS	ns1.dns.com.
+555.sn.	172800	IN	NS	ns2.dns.com.
 666.sn.	43200	IN	NS	aria.ns.cloudflare.com.
 666.sn.	43200	IN	NS	john.ns.cloudflare.com.
-6666.sn.	172800	IN	NS	pns101.cloudns.net.
-6666.sn.	172800	IN	NS	pns102.cloudns.net.
-6666.sn.	172800	IN	NS	pns103.cloudns.net.
-6666.sn.	172800	IN	NS	pns104.cloudns.net.
+6666.sn.	172800	IN	NS	ns1.dns.com.
+6666.sn.	172800	IN	NS	ns2.dns.com.
 6point9.sn.	172800	IN	NS	ns1.kheweul.net.
 6point9.sn.	172800	IN	NS	ns2.kheweul.net.
 6point9.sn.	172800	IN	NS	ns3.kheweul.net.
 6point9.sn.	172800	IN	NS	ns4.kheweul.net.
-7777.sn.	172800	IN	NS	pns101.cloudns.net.
-7777.sn.	172800	IN	NS	pns102.cloudns.net.
-7777.sn.	172800	IN	NS	pns103.cloudns.net.
-7777.sn.	172800	IN	NS	pns104.cloudns.net.
+7777.sn.	172800	IN	NS	ns1.dns.com.
+7777.sn.	172800	IN	NS	ns2.dns.com.
 7a7pressing.sn.	43200	IN	NS	ns200.anycast.me.
 7a7pressing.sn.	43200	IN	NS	dns200.anycast.me.
 7a7pressing.sn.	43200	IN	DS	19594 8 2 8233cbbca78352815290a5f51330bbb66d9e0d10c9d1c2f81b7b09181ab26abe
@@ -253,10 +241,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 888.sn.	43200	IN	NS	dns1.idp365.net.
 888.sn.	43200	IN	NS	dns2.idp365.net.
 888.sn.	43200	IN	NS	dns3.idp365.net.
-8888.sn.	172800	IN	NS	pns101.cloudns.net.
-8888.sn.	172800	IN	NS	pns102.cloudns.net.
-8888.sn.	172800	IN	NS	pns103.cloudns.net.
-8888.sn.	172800	IN	NS	pns104.cloudns.net.
+8888.sn.	172800	IN	NS	ns1.dns.com.
+8888.sn.	172800	IN	NS	ns2.dns.com.
 888bet.sn.	172800	IN	NS	dns1.idp365.net.
 888bet.sn.	172800	IN	NS	dns2.idp365.net.
 888bet.sn.	172800	IN	NS	dns3.idp365.net.
@@ -274,10 +260,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 911.sn.	172800	IN	NS	ns3.netim.net.
 999.sn.	172800	IN	NS	ns1.dns.com.
 999.sn.	172800	IN	NS	ns2.dns.com.
-9999.sn.	172800	IN	NS	pns101.cloudns.net.
-9999.sn.	172800	IN	NS	pns102.cloudns.net.
-9999.sn.	172800	IN	NS	pns103.cloudns.net.
-9999.sn.	172800	IN	NS	pns104.cloudns.net.
+9999.sn.	172800	IN	NS	ns1.dns.com.
+9999.sn.	172800	IN	NS	ns2.dns.com.
 9pp.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 9pp.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 a1global.sn.	43200	IN	NS	ns1.bumeranginteraktif2.com.
@@ -9607,6 +9591,7 @@ mx.ics.sn.	43200	IN	A	41.82.220.62
 mx1.ics.sn.	43200	IN	A	213.154.70.102
 icsa.sn.	43200	IN	NS	ns200.anycast.me.
 icsa.sn.	43200	IN	NS	dns200.anycast.me.
+icsa.sn.	172800	IN	DS	36895 8 2 67080559fcff22ebd956b73ac0f71398176cead191ef1569d687421b9462d9cb
 idakar.sn.	172800	IN	NS	ns1.ascio.com.
 idakar.sn.	172800	IN	NS	ns2.ascio.com.
 idakar.sn.	172800	IN	NS	ns3.ascio.com.
@@ -15944,6 +15929,9 @@ pyramidgroup.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pyramidgroup.sn.	172800	IN	NS	ns6.jokko-hosting.com.
 qar.sn.	43200	IN	NS	ns16.ovh.net.
 qar.sn.	43200	IN	NS	dns16.ovh.net.
+qrcode.sn.	172800	IN	NS	ns19.ovh.net.
+qrcode.sn.	172800	IN	NS	dns19.ovh.net.
+qrcode.sn.	172800	IN	DS	31849 8 2 6f7b5d99e4fa844c190de633313e5025b5e00b1678235a9e748c8258cbe64c05
 quadra-ao.sn.	172800	IN	NS	ns1.netim.net.
 quadra-ao.sn.	172800	IN	NS	ns2.netim.net.
 quadra-ao.sn.	172800	IN	NS	ns3.netim.net.
