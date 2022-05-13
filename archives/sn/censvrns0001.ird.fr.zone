@@ -1,13 +1,21 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442404 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442420 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [13/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [13/05/2022 16H40:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
+000.sn.	172800	IN	NS	pns101.cloudns.net.
+000.sn.	172800	IN	NS	pns102.cloudns.net.
+000.sn.	172800	IN	NS	pns103.cloudns.net.
+000.sn.	172800	IN	NS	pns104.cloudns.net.
+0000.sn.	172800	IN	NS	pns101.cloudns.net.
+0000.sn.	172800	IN	NS	pns102.cloudns.net.
+0000.sn.	172800	IN	NS	pns103.cloudns.net.
+0000.sn.	172800	IN	NS	pns104.cloudns.net.
 002.sn.	43200	IN	NS	ns1.francedns.com.
 002.sn.	43200	IN	NS	ns2.francedns.com.
 002.sn.	43200	IN	NS	ns3.francedns.com.
@@ -46,6 +54,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 101domains.sn.	43200	IN	NS	ns5.101domain.com.
 111.sn.	172800	IN	NS	ns1.dns.com.
 111.sn.	172800	IN	NS	ns2.dns.com.
+1111.sn.	172800	IN	NS	pns101.cloudns.net.
+1111.sn.	172800	IN	NS	pns102.cloudns.net.
+1111.sn.	172800	IN	NS	pns103.cloudns.net.
+1111.sn.	172800	IN	NS	pns104.cloudns.net.
 123.sn.	172800	IN	NS	ns105.ovh.net.
 123.sn.	172800	IN	NS	dns105.ovh.net.
 123.sn.	172800	IN	DS	28282 8 2 c0b58429305bf544354ecdd312d0632ef70a0b976a300712734eb149d9f375e1
@@ -92,6 +104,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 221tv.sn.	172800	IN	NS	ns4.kheweul.net.
 222.sn.	172800	IN	NS	ns1.dns.com.
 222.sn.	172800	IN	NS	ns2.dns.com.
+2222.sn.	172800	IN	NS	pns101.cloudns.net.
+2222.sn.	172800	IN	NS	pns102.cloudns.net.
+2222.sn.	172800	IN	NS	pns103.cloudns.net.
+2222.sn.	172800	IN	NS	pns104.cloudns.net.
 226dets.sn.	43200	IN	NS	ns1.cp-ht-6.webhostbox.net.
 226dets.sn.	43200	IN	NS	ns2.cp-ht-6.webhostbox.net.
 22bet.sn.	43200	IN	NS	rosalyn.ns.cloudflare.com.
@@ -204,6 +220,14 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 3himmobilier.sn.	43200	IN	NS	dns110.ovh.net.
 3stech.sn.	172800	IN	NS	hank.ns.cloudflare.com.
 3stech.sn.	172800	IN	NS	meera.ns.cloudflare.com.
+444.sn.	172800	IN	NS	pns101.cloudns.net.
+444.sn.	172800	IN	NS	pns102.cloudns.net.
+444.sn.	172800	IN	NS	pns103.cloudns.net.
+444.sn.	172800	IN	NS	pns104.cloudns.net.
+4444.sn.	172800	IN	NS	pns101.cloudns.net.
+4444.sn.	172800	IN	NS	pns102.cloudns.net.
+4444.sn.	172800	IN	NS	pns103.cloudns.net.
+4444.sn.	172800	IN	NS	pns104.cloudns.net.
 4ingenierie.sn.	172800	IN	NS	ns11.ovh.net.
 4ingenierie.sn.	172800	IN	NS	dns11.ovh.net.
 4ingenierie.sn.	172800	IN	DS	57775 8 2 8b3d36dc12ffd4d581688a2ce21724fd7b8b672a218d2c652ec15b43d434fc7f
@@ -214,6 +238,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 520.sn.	43200	IN	NS	arch.ns.cloudflare.com.
 555.sn.	172800	IN	NS	ns1.dns.com.
 555.sn.	172800	IN	NS	ns2.dns.com.
+5555.sn.	172800	IN	NS	pns101.cloudns.net.
+5555.sn.	172800	IN	NS	pns102.cloudns.net.
+5555.sn.	172800	IN	NS	pns103.cloudns.net.
+5555.sn.	172800	IN	NS	pns104.cloudns.net.
 666.sn.	43200	IN	NS	aria.ns.cloudflare.com.
 666.sn.	43200	IN	NS	john.ns.cloudflare.com.
 6666.sn.	172800	IN	NS	ns1.dns.com.
@@ -222,6 +250,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 6point9.sn.	172800	IN	NS	ns2.kheweul.net.
 6point9.sn.	172800	IN	NS	ns3.kheweul.net.
 6point9.sn.	172800	IN	NS	ns4.kheweul.net.
+777.sn.	172800	IN	NS	pns101.cloudns.net.
+777.sn.	172800	IN	NS	pns102.cloudns.net.
+777.sn.	172800	IN	NS	pns103.cloudns.net.
+777.sn.	172800	IN	NS	pns104.cloudns.net.
 7777.sn.	172800	IN	NS	ns1.dns.com.
 7777.sn.	172800	IN	NS	ns2.dns.com.
 7a7pressing.sn.	43200	IN	NS	ns200.anycast.me.
@@ -9119,8 +9151,8 @@ h2s.sn.	172800	IN	NS	dns200.anycast.me.
 h2s.sn.	172800	IN	DS	13459 8 2 316f49918afd1f28a3a2593e2b3d075e580b66fb790512f431e6af30a151aa00
 haas.sn.	43200	IN	NS	ns.sonatel.sn.
 haas.sn.	43200	IN	NS	ns2.sonatel.sn.
-habitat.sn.	43200	IN	NS	ns5.jokko-hosting.com.
-habitat.sn.	43200	IN	NS	ns6.jokko-hosting.com.
+habitat.sn.	172800	IN	NS	ns5.jokko-hosting.com.
+habitat.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 habysow.sn.	43200	IN	NS	ns1.caurys.net.
 habysow.sn.	43200	IN	NS	ns2.caurys.net.
 hacapartners.sn.	172800	IN	NS	ns200.anycast.me.
@@ -9851,6 +9883,9 @@ imperyal.sn.	43200	IN	NS	ns1.kheweul.net.
 imperyal.sn.	43200	IN	NS	ns2.kheweul.net.
 imperyal.sn.	43200	IN	NS	ns3.kheweul.net.
 imperyal.sn.	43200	IN	NS	ns4.kheweul.net.
+import-frigorifique.sn.	172800	IN	NS	ns-123-b.gandi.net.
+import-frigorifique.sn.	172800	IN	NS	ns-185-a.gandi.net.
+import-frigorifique.sn.	172800	IN	NS	ns-245-c.gandi.net.
 importauto.sn.	172800	IN	NS	ns10.ovh.ca.
 importauto.sn.	172800	IN	NS	dns10.ovh.ca.
 importauto.sn.	172800	IN	NS	ns200.anycast.me.
@@ -12425,9 +12460,6 @@ macandmore.sn.	172800	IN	NS	ns3.kheweul.net.
 macandmore.sn.	172800	IN	NS	ns4.kheweul.net.
 machinesachetplastique.sn.	43200	IN	NS	ns1.101domain.com.
 machinesachetplastique.sn.	43200	IN	NS	ns2.101domain.com.
-mackysall.sn.	172800	IN	NS	ns11.ovh.net.
-mackysall.sn.	172800	IN	NS	dns11.ovh.net.
-mackysall.sn.	172800	IN	DS	52885 8 2 b94a08215361c0b1b5f4101cf94f52cd0bc00eefdd3efd66b16f283077e1d6d4
 maclasse.sn.	43200	IN	NS	ns1.snterra.com.
 maclasse.sn.	43200	IN	NS	ns2.snterra.com.
 macommune.sn.	43200	IN	NS	ns1.sh004.webhostbox.net.
@@ -16883,6 +16915,9 @@ saytou-pse.sn.	43200	IN	NS	ns1.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns2.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns3.kheweul.net.
 saytou-pse.sn.	43200	IN	NS	ns4.kheweul.net.
+saytu.sn.	172800	IN	NS	ns19.ovh.net.
+saytu.sn.	172800	IN	NS	dns19.ovh.net.
+saytu.sn.	172800	IN	DS	30619 8 2 ff9fde60359c195c2f5040b8184bd00a90360393a412de5f7dfdabf97968b070
 sbauto.sn.	172800	IN	NS	ns200.anycast.me.
 sbauto.sn.	172800	IN	NS	dns200.anycast.me.
 sbauto.sn.	172800	IN	DS	51529 8 2 3b26c372b8e5677d1316bf8e15e1956666124bb16f4ac0fe8077bf26f49a4f4b
@@ -17532,9 +17567,6 @@ senevents.sn.	43200	IN	NS	ns5.infomaniak.ch.
 senevents.sn.	43200	IN	NS	ns6.infomaniak.ch.
 senevet.sn.	43200	IN	NS	ns.sonatel.sn.
 senevet.sn.	43200	IN	NS	ns2.sonatel.sn.
-senevote.sn.	172800	IN	NS	ns15.ovh.net.
-senevote.sn.	172800	IN	NS	dns15.ovh.net.
-senevote.sn.	172800	IN	DS	15847 8 2 5a2fb559f619d654dac4507852c40a3e3336239f3ea3dd3534e05f0b4d7a5cfa
 seneweb.sn.	43200	IN	NS	ns10.ovh.ca.
 seneweb.sn.	43200	IN	NS	dns10.ovh.ca.
 seneweb.sn.	172800	IN	DS	62212 8 2 eeb523dac203e7e6afd8503a7b667c91fd5c1849f8254fd93cf626c350217629
