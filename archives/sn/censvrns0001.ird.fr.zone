@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442585 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442598 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/05/2022 16H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [14/05/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -179,10 +179,26 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 2xbet.sn.	172800	IN	NS	ns4.kheweul.net.
 313services.sn.	172800	IN	NS	ns1.o2switch.net.
 313services.sn.	172800	IN	NS	ns2.o2switch.net.
+330.sn.	172800	IN	NS	pns101.cloudns.net.
+330.sn.	172800	IN	NS	pns102.cloudns.net.
+330.sn.	172800	IN	NS	pns103.cloudns.net.
+330.sn.	172800	IN	NS	pns104.cloudns.net.
+332.sn.	172800	IN	NS	pns101.cloudns.net.
+332.sn.	172800	IN	NS	pns102.cloudns.net.
+332.sn.	172800	IN	NS	pns103.cloudns.net.
+332.sn.	172800	IN	NS	pns104.cloudns.net.
 333.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 333.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 3333.sn.	172800	IN	NS	ns1.dns.com.
 3333.sn.	172800	IN	NS	ns2.dns.com.
+338.sn.	172800	IN	NS	pns101.cloudns.net.
+338.sn.	172800	IN	NS	pns102.cloudns.net.
+338.sn.	172800	IN	NS	pns103.cloudns.net.
+338.sn.	172800	IN	NS	pns104.cloudns.net.
+339.sn.	172800	IN	NS	pns101.cloudns.net.
+339.sn.	172800	IN	NS	pns102.cloudns.net.
+339.sn.	172800	IN	NS	pns103.cloudns.net.
+339.sn.	172800	IN	NS	pns104.cloudns.net.
 360.sn.	43200	IN	NS	ns16.ovh.net.
 360.sn.	43200	IN	NS	dns16.ovh.net.
 360fitness.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -242,6 +258,18 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 5555.sn.	172800	IN	NS	pns102.cloudns.net.
 5555.sn.	172800	IN	NS	pns103.cloudns.net.
 5555.sn.	172800	IN	NS	pns104.cloudns.net.
+661.sn.	172800	IN	NS	pns101.cloudns.net.
+661.sn.	172800	IN	NS	pns102.cloudns.net.
+661.sn.	172800	IN	NS	pns103.cloudns.net.
+661.sn.	172800	IN	NS	pns104.cloudns.net.
+662.sn.	172800	IN	NS	pns101.cloudns.net.
+662.sn.	172800	IN	NS	pns102.cloudns.net.
+662.sn.	172800	IN	NS	pns103.cloudns.net.
+662.sn.	172800	IN	NS	pns104.cloudns.net.
+665.sn.	172800	IN	NS	pns101.cloudns.net.
+665.sn.	172800	IN	NS	pns102.cloudns.net.
+665.sn.	172800	IN	NS	pns103.cloudns.net.
+665.sn.	172800	IN	NS	pns104.cloudns.net.
 666.sn.	43200	IN	NS	aria.ns.cloudflare.com.
 666.sn.	43200	IN	NS	john.ns.cloudflare.com.
 6666.sn.	172800	IN	NS	ns1.dns.com.
@@ -270,6 +298,30 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 7tv.sn.	43200	IN	NS	ns2.kheweul.net.
 7tv.sn.	43200	IN	NS	ns3.kheweul.net.
 7tv.sn.	43200	IN	NS	ns4.kheweul.net.
+880.sn.	172800	IN	NS	pns101.cloudns.net.
+880.sn.	172800	IN	NS	pns102.cloudns.net.
+880.sn.	172800	IN	NS	pns103.cloudns.net.
+880.sn.	172800	IN	NS	pns104.cloudns.net.
+882.sn.	172800	IN	NS	pns101.cloudns.net.
+882.sn.	172800	IN	NS	pns102.cloudns.net.
+882.sn.	172800	IN	NS	pns103.cloudns.net.
+882.sn.	172800	IN	NS	pns104.cloudns.net.
+883.sn.	172800	IN	NS	pns101.cloudns.net.
+883.sn.	172800	IN	NS	pns102.cloudns.net.
+883.sn.	172800	IN	NS	pns103.cloudns.net.
+883.sn.	172800	IN	NS	pns104.cloudns.net.
+885.sn.	172800	IN	NS	pns101.cloudns.net.
+885.sn.	172800	IN	NS	pns102.cloudns.net.
+885.sn.	172800	IN	NS	pns103.cloudns.net.
+885.sn.	172800	IN	NS	pns104.cloudns.net.
+886.sn.	172800	IN	NS	pns101.cloudns.net.
+886.sn.	172800	IN	NS	pns102.cloudns.net.
+886.sn.	172800	IN	NS	pns103.cloudns.net.
+886.sn.	172800	IN	NS	pns104.cloudns.net.
+887.sn.	172800	IN	NS	pns101.cloudns.net.
+887.sn.	172800	IN	NS	pns102.cloudns.net.
+887.sn.	172800	IN	NS	pns103.cloudns.net.
+887.sn.	172800	IN	NS	pns104.cloudns.net.
 888.sn.	43200	IN	NS	dns1.idp365.net.
 888.sn.	43200	IN	NS	dns2.idp365.net.
 888.sn.	43200	IN	NS	dns3.idp365.net.
@@ -287,9 +339,29 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 888sport.sn.	172800	IN	NS	dns1.idp365.net.
 888sport.sn.	172800	IN	NS	dns2.idp365.net.
 888sport.sn.	172800	IN	NS	dns3.idp365.net.
+889.sn.	172800	IN	NS	pns101.cloudns.net.
+889.sn.	172800	IN	NS	pns102.cloudns.net.
+889.sn.	172800	IN	NS	pns103.cloudns.net.
+889.sn.	172800	IN	NS	pns104.cloudns.net.
 911.sn.	172800	IN	NS	ns1.netim.net.
 911.sn.	172800	IN	NS	ns2.netim.net.
 911.sn.	172800	IN	NS	ns3.netim.net.
+991.sn.	172800	IN	NS	pns101.cloudns.net.
+991.sn.	172800	IN	NS	pns102.cloudns.net.
+991.sn.	172800	IN	NS	pns103.cloudns.net.
+991.sn.	172800	IN	NS	pns104.cloudns.net.
+992.sn.	172800	IN	NS	pns101.cloudns.net.
+992.sn.	172800	IN	NS	pns102.cloudns.net.
+992.sn.	172800	IN	NS	pns103.cloudns.net.
+992.sn.	172800	IN	NS	pns104.cloudns.net.
+993.sn.	172800	IN	NS	pns101.cloudns.net.
+993.sn.	172800	IN	NS	pns102.cloudns.net.
+993.sn.	172800	IN	NS	pns103.cloudns.net.
+993.sn.	172800	IN	NS	pns104.cloudns.net.
+995.sn.	172800	IN	NS	pns101.cloudns.net.
+995.sn.	172800	IN	NS	pns102.cloudns.net.
+995.sn.	172800	IN	NS	pns103.cloudns.net.
+995.sn.	172800	IN	NS	pns104.cloudns.net.
 999.sn.	172800	IN	NS	ns1.dns.com.
 999.sn.	172800	IN	NS	ns2.dns.com.
 9999.sn.	172800	IN	NS	ns1.dns.com.
