@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442628 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442640 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [14/05/2022 22H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [15/05/2022 00H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5572,8 +5572,8 @@ deltainterim.sn.	172800	IN	NS	dns101.ovh.net.
 deltainterim.sn.	172800	IN	DS	6079 8 2 9fe4efeec35be90b23dcd85ae4f0bc9137d99cfdcf62da7fe2c5bd84a5fff16c
 deltamedical.sn.	43200	IN	NS	ns.sonatel.sn.
 deltamedical.sn.	43200	IN	NS	ns2.sonatel.sn.
-deltaprotect.sn.	172800	IN	NS	ns5.afriregister.com.
-deltaprotect.sn.	172800	IN	NS	ns6.afriregister.com.
+deltaprotect.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+deltaprotect.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 deltasa.sn.	43200	IN	NS	ns8.wixdns.net.
 deltasa.sn.	43200	IN	NS	ns9.wixdns.net.
 deltaschoolgroup.sn.	172800	IN	NS	ns1.kheweul.net.
@@ -12023,6 +12023,9 @@ lepelican.sn.	172800	IN	NS	ns5.afriregister.co.ke.
 lepelican.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 lepetitmarche.sn.	43200	IN	NS	ns16.ovh.net.
 lepetitmarche.sn.	43200	IN	NS	dns16.ovh.net.
+lepoliticien.sn.	172800	IN	NS	ns19.ovh.net.
+lepoliticien.sn.	172800	IN	NS	dns19.ovh.net.
+lepoliticien.sn.	172800	IN	DS	28345 8 2 eb8b4417e699fcc79a0ab6ef1a54f0663d5b5c9dec6600cf551a93189254ab3f
 lequotidien.sn.	43200	IN	NS	ns1.africatichost.com.
 lequotidien.sn.	43200	IN	NS	ns2.africatichost.com.
 lerelais.sn.	43200	IN	NS	ns102.ovh.net.
