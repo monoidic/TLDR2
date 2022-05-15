@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442640 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442654 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [15/05/2022 00H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [15/05/2022 02H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -16106,6 +16106,7 @@ qwins.sn.	43200	IN	NS	ns2.101domain.com.
 qwins.sn.	43200	IN	NS	ns5.101domain.com.
 r.sn.	172800	IN	NS	ns101.ovh.net.
 r.sn.	172800	IN	NS	dns101.ovh.net.
+r.sn.	172800	IN	DS	62569 8 2 00d96e7300acbb94b95778e0f7eaf159ad36ae9b7e96238d1e53e9a2aac0f381
 rabo.sn.	43200	IN	NS	a7-64.akam.net.
 rabo.sn.	43200	IN	NS	a1-191.akam.net.
 rabo.sn.	43200	IN	NS	a12-64.akam.net.
