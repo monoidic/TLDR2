@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442819 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442836 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [16/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [16/05/2022 16H30:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2809,6 +2809,8 @@ bio-oil.sn.	43200	IN	NS	ns6.markmonitor.com.
 bio-oil.sn.	43200	IN	NS	ns7.markmonitor.com.
 bio-senegal.sn.	172800	IN	NS	ns1.o2switch.net.
 bio-senegal.sn.	172800	IN	NS	ns2.o2switch.net.
+bioadn24.sn.	172800	IN	NS	ns1.caurys.net.
+bioadn24.sn.	172800	IN	NS	ns2.caurys.net.
 bioas.sn.	172800	IN	NS	ns1.wanekoohost.com.
 bioas.sn.	172800	IN	NS	ns2.wanekoohost.com.
 bioas.sn.	172800	IN	NS	ns4.wanekoohost.com.
@@ -7165,6 +7167,9 @@ esaenergie.sn.	172800	IN	NS	ns108.ovh.net.
 esaenergie.sn.	172800	IN	NS	dns108.ovh.net.
 esatech.sn.	172800	IN	NS	cpanel21.lws-hosting.com.
 esatech.sn.	172800	IN	NS	cpanel22.lws-hosting.com.
+escade.sn.	172800	IN	NS	ns1.francedns.com.
+escade.sn.	172800	IN	NS	ns2.francedns.com.
+escade.sn.	172800	IN	NS	ns3.francedns.com.
 escadrille.sn.	43200	IN	NS	ns1.sonatel.sn.
 escadrille.sn.	43200	IN	NS	ns2.sonatel.sn.
 escapadetours.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -8119,6 +8124,8 @@ forsides.sn.	43200	IN	NS	ns200.anycast.me.
 forsides.sn.	43200	IN	NS	dns200.anycast.me.
 fortunescapital.sn.	43200	IN	NS	dns1.alwaysdata.com.
 fortunescapital.sn.	43200	IN	NS	dns2.alwaysdata.com.
+forum-civil.sn.	172800	IN	NS	ns1.caurys.net.
+forum-civil.sn.	172800	IN	NS	ns2.caurys.net.
 forwardsolutions.sn.	172800	IN	NS	ns20.ovh.net.
 forwardsolutions.sn.	172800	IN	NS	dns20.ovh.net.
 fouganza.sn.	43200	IN	NS	a.dns.gandi.net.
@@ -10027,7 +10034,7 @@ indyshopusa.sn.	43200	IN	NS	ns31.infomaniak.com.
 indyshopusa.sn.	43200	IN	NS	ns32.infomaniak.com.
 ineni.sn.	43200	IN	NS	ns200.anycast.me.
 ineni.sn.	43200	IN	NS	dns200.anycast.me.
-ineni.sn.	43200	IN	DS	51526 8 2 3aabc12cc573b487c8a58ae4d29aa5af49e9f2a554f03075af31adc3ce1c4a6c
+ineni.sn.	172800	IN	DS	24562 8 2 b830b35e67cb65691f49178bb81650098e5b95d73c345eed632deda155ff7a71
 inesis.sn.	43200	IN	NS	a.dns.gandi.net.
 inesis.sn.	43200	IN	NS	b.dns.gandi.net.
 inesis.sn.	43200	IN	NS	c.dns.gandi.net.
@@ -13155,8 +13162,9 @@ mercyships.sn.	43200	IN	NS	ns2.101domain.com.
 mercyships.sn.	43200	IN	NS	ns5.101domain.com.
 merkezsenegal.sn.	43200	IN	NS	ns104.ovh.net.
 merkezsenegal.sn.	43200	IN	NS	dns104.ovh.net.
-mermoz-sacrecoeur.sn.	172800	IN	NS	ns125.namehero.net.
-mermoz-sacrecoeur.sn.	172800	IN	NS	ns126.namehero.net.
+mermoz-sacrecoeur.sn.	172800	IN	NS	ns101.ovh.net.
+mermoz-sacrecoeur.sn.	172800	IN	NS	dns101.ovh.net.
+mermoz-sacrecoeur.sn.	172800	IN	DS	53302 8 2 0d2b54c5dfe6bd12cd7f2de45bc0adf58e29c8f2c811abbc16b60ac36626707d
 mesa.sn.	43200	IN	NS	ns.sonatel.sn.
 mesa.sn.	43200	IN	NS	ns2.sonatel.sn.
 mescoursensolo.sn.	172800	IN	NS	ns16.ovh.net.
@@ -13730,6 +13738,10 @@ mustashop.sn.	172800	IN	NS	ns6.wanekoohost.com.
 mustela.sn.	172800	IN	NS	nsa.perf1.fr.
 mustela.sn.	172800	IN	NS	nsb.perf1.com.
 mustela.sn.	172800	IN	NS	nsc.perf1.com.
+mutsels.sn.	172800	IN	NS	ns1.kheweul.net.
+mutsels.sn.	172800	IN	NS	ns2.kheweul.net.
+mutsels.sn.	172800	IN	NS	ns3.kheweul.net.
+mutsels.sn.	172800	IN	NS	ns4.kheweul.net.
 mutualhelp.sn.	172800	IN	NS	eisdns1.expertis.sn.
 mutualhelp.sn.	172800	IN	NS	eisdns2.expertis.sn.
 mutuelle-msaes.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -13738,10 +13750,6 @@ mutuelle-msaes.sn.	43200	IN	NS	ns3.kheweul.net.
 mutuelle-msaes.sn.	43200	IN	NS	ns4.kheweul.net.
 mutuelledouanes.sn.	43200	IN	NS	ns111.ovh.net.
 mutuelledouanes.sn.	43200	IN	NS	dns111.ovh.net.
-mutuelletresor.sn.	43200	IN	NS	ns1.kheweul.net.
-mutuelletresor.sn.	43200	IN	NS	ns2.kheweul.net.
-mutuelletresor.sn.	43200	IN	NS	ns3.kheweul.net.
-mutuelletresor.sn.	43200	IN	NS	ns4.kheweul.net.
 mxml.sn.	172800	IN	NS	ns10.ovh.ca.
 mxml.sn.	172800	IN	NS	dns10.ovh.ca.
 mxml.sn.	172800	IN	DS	54484 8 2 88f8bb914c313783655f57a4f98b68ee77ce33cd6a0e5bc64f6692af59db879c
@@ -18132,9 +18140,6 @@ sicap2040.sn.	172800	IN	NS	ns2.francedns.com.
 sicap2040.sn.	172800	IN	NS	ns3.francedns.com.
 sicas.sn.	43200	IN	NS	ns.sonatel.sn.
 sicas.sn.	43200	IN	NS	ns2.sonatel.sn.
-sicomex.sn.	172800	IN	NS	ns11.ovh.net.
-sicomex.sn.	172800	IN	NS	dns11.ovh.net.
-sicomex.sn.	172800	IN	DS	4894 8 2 8eef9011d1d8ce1b003713691fd0a0fecf8627c8fc767c72926e8aa1c395a277
 sics.sn.	43200	IN	NS	ns.arc.sn.
 sics.sn.	43200	IN	NS	ns3.arc.sn.
 sicsa.sn.	43200	IN	NS	ns.gainde2000.sn.
