@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442836 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442850 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [16/05/2022 16H30:01]"
+sn.	172800	IN	TXT	"No RRs processed [16/05/2022 18H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3580,10 +3580,6 @@ cap.sn.	172800	IN	NS	ns1.kheweul.net.
 cap.sn.	172800	IN	NS	ns2.kheweul.net.
 cap.sn.	172800	IN	NS	ns3.kheweul.net.
 cap.sn.	172800	IN	NS	ns4.kheweul.net.
-capconsulting.sn.	43200	IN	NS	ns1.kheweul.net.
-capconsulting.sn.	43200	IN	NS	ns2.kheweul.net.
-capconsulting.sn.	43200	IN	NS	ns3.kheweul.net.
-capconsulting.sn.	43200	IN	NS	ns4.kheweul.net.
 caper.sn.	43200	IN	NS	ns.sonatel.sn.
 caper.sn.	43200	IN	NS	ns2.sonatel.sn.
 caperformance.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -3723,10 +3719,6 @@ casanova.sn.	43200	IN	NS	dns18.ovh.net.
 casanova.sn.	43200	IN	DS	50656 8 2 3f848390a5441f059c4165056fbcbb86144f755662e3f4a830c75e2f617b34b0
 casanovainteriores.sn.	43200	IN	NS	ns1.salweb.org.
 casanovainteriores.sn.	43200	IN	NS	ns2.salweb.org.
-casediaspora.sn.	43200	IN	NS	ns1.kheweul.net.
-casediaspora.sn.	43200	IN	NS	ns2.kheweul.net.
-casediaspora.sn.	43200	IN	NS	ns3.kheweul.net.
-casediaspora.sn.	43200	IN	NS	ns4.kheweul.net.
 caselogic.sn.	43200	IN	NS	nsgbr.comlaude.co.uk.
 caselogic.sn.	43200	IN	NS	nssui.comlaude.ch.
 caselogic.sn.	43200	IN	NS	nsusa.comlaude.net.
@@ -14497,10 +14489,6 @@ oilgas.sn.	172800	IN	NS	ns3.kheweul.net.
 oilgas.sn.	172800	IN	NS	ns4.kheweul.net.
 oilibya.sn.	43200	IN	NS	ns.oilibya.sn.
 ns.oilibya.sn.	43200	IN	A	41.208.150.194
-oilsenpetroleum.sn.	43200	IN	NS	ns1.kheweul.net.
-oilsenpetroleum.sn.	43200	IN	NS	ns2.kheweul.net.
-oilsenpetroleum.sn.	43200	IN	NS	ns3.kheweul.net.
-oilsenpetroleum.sn.	43200	IN	NS	ns4.kheweul.net.
 okoolgroup.sn.	172800	IN	NS	ns.bnamed.eu.
 okoolgroup.sn.	172800	IN	NS	ns.bnamed.uk.
 okoolgroup.sn.	172800	IN	NS	ns.bnamed.us.
@@ -15192,6 +15180,8 @@ passesante.sn.	172800	IN	NS	ns1.passesante.sn.
 passesante.sn.	172800	IN	NS	ns2.passesante.sn.
 ns1.passesante.sn.	172800	IN	A	34.69.242.43
 ns2.passesante.sn.	172800	IN	A	34.69.242.43
+passionauto.sn.	172800	IN	NS	ns9.jajeuf.com.
+passionauto.sn.	172800	IN	NS	ns10.jajeuf.com.
 passionnature.sn.	43200	IN	NS	ns109.ovh.net.
 passionnature.sn.	43200	IN	NS	dns109.ovh.net.
 passorange.sn.	43200	IN	NS	ns.sonatel.sn.
