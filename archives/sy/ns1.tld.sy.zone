@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051621 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051625 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1652695344"
+sy.	86400	IN	TXT	"Generation Time: 1652702533"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -5465,6 +5465,10 @@ pegasus.sy.	86400	IN	NS	suspend1.tld.sy.
 pegasus.sy.	86400	IN	NS	suspend2.tld.sy.
 perd.sy.	86400	IN	NS	ns3.tld.sy.
 perd.sy.	86400	IN	NS	ns4.tld.sy.
+perfict.sy.	86400	IN	NS	ns1.perfict.sy.
+perfict.sy.	86400	IN	NS	ns2.perfict.sy.
+ns1.perfict.sy.	86400	IN	A	124.53.44.124
+ns2.perfict.sy.	86400	IN	A	154.53.44.124
 persil.sy.	86400	IN	NS	udns1.cscdns.net.
 persil.sy.	86400	IN	NS	udns2.cscdns.uk.
 personal.sy.	86400	IN	NS	ns1.lazernet.sy.
@@ -6187,6 +6191,11 @@ sfs-edu.sy.	86400	IN	NS	ns1.waveshost.sy.
 sfs-edu.sy.	86400	IN	NS	ns2.waveshost.sy.
 sgb.sy.	86400	IN	NS	ns11.inet.sy.
 sgb.sy.	86400	IN	NS	ns12.inet.sy.
+sh.sy.	86400	IN	NS	ns1.ucg-core.com.
+sh.sy.	86400	IN	NS	ns4.ucg-core.com.
+sh.sy.	86400	IN	NS	ns11.ucg-core.com.
+sh.sy.	86400	IN	NS	ns51.uae-dc.com.
+sh.sy.	86400	IN	NS	ns54.uae-dc.com.
 shabablink.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 shabablink.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 shababplus.sy.	86400	IN	NS	dns1.freehostia.com.
