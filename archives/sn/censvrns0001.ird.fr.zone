@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443016 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443029 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"1 RRs processed [17/05/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [17/05/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1551,6 +1551,8 @@ anl-danzo.sn.	172800	IN	NS	dns103.ovh.net.
 anneelisabeth.sn.	172800	IN	NS	ns200.anycast.me.
 anneelisabeth.sn.	172800	IN	NS	dns200.anycast.me.
 anneelisabeth.sn.	172800	IN	DS	62494 8 2 696179ba3cd497ff778fb87216e8e422ce05003b626f6203739130901e1cef76
+annonces.sn.	172800	IN	NS	ns55.domaincontrol.com.
+annonces.sn.	172800	IN	NS	ns56.domaincontrol.com.
 annuaireenergie.sn.	172800	IN	NS	ns.gouv.sn.
 annuaireenergie.sn.	172800	IN	NS	ns2.gouv.sn.
 annuaireenergie.sn.	172800	IN	NS	ns3.gouv.sn.
@@ -4941,8 +4943,8 @@ covid19.sn.	43200	IN	NS	ns3.afrowebmaster.com.
 covid19.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 coxeur.sn.	172800	IN	NS	ns1.cp-43.webhostbox.net.
 coxeur.sn.	172800	IN	NS	ns2.cp-43.webhostbox.net.
-cpi.sn.	172800	IN	NS	ns200.anycast.me.
-cpi.sn.	172800	IN	NS	dns200.anycast.me.
+cpi.sn.	172800	IN	NS	ns1.vultr.com.
+cpi.sn.	172800	IN	NS	ns2.vultr.com.
 cpindustry.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 cpindustry.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 cpm.sn.	172800	IN	NS	ns1.caurys.net.
@@ -7229,6 +7231,7 @@ espaceprestige.sn.	172800	IN	NS	chi-ns1.greengeeks.com.
 espaceprestige.sn.	172800	IN	NS	chi-ns2.greengeeks.com.
 espacewaypoint.sn.	172800	IN	NS	ns19.ovh.net.
 espacewaypoint.sn.	172800	IN	NS	dns19.ovh.net.
+espacewaypoint.sn.	172800	IN	DS	37960 8 2 f34f0b729344b823696ead3fcfeb25676d77e2eeda2ceab0640d952acfda23f5
 espad.sn.	172800	IN	NS	ns105.ovh.net.
 espad.sn.	172800	IN	NS	dns105.ovh.net.
 espalumni.sn.	172800	IN	NS	ns200.anycast.me.
@@ -14095,6 +14098,10 @@ ngts.sn.	172800	IN	NS	dns200.anycast.me.
 ngts.sn.	172800	IN	DS	44962 8 2 a0c7bef45629a3033a6f35cd162cea2f9fec77c603594d49892cceb25d08803f
 nhood.sn.	172800	IN	NS	dns1.cscdns.net.
 nhood.sn.	172800	IN	NS	dns2.cscdns.net.
+niakane.sn.	172800	IN	NS	ns3.wanekoohost.com.
+niakane.sn.	172800	IN	NS	ns4.wanekoohost.com.
+niakane.sn.	172800	IN	NS	ns5.wanekoohost.com.
+niakane.sn.	172800	IN	NS	ns6.wanekoohost.com.
 niamartransit.sn.	172800	IN	NS	ns9.jajeuf.com.
 niamartransit.sn.	172800	IN	NS	ns10.jajeuf.com.
 niamnioro.sn.	43200	IN	NS	ns17.ovh.net.
