@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442887 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442902 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [17/05/2022 00H10:01]"
+sn.	172800	IN	TXT	"1 RRs processed [17/05/2022 02H10:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7869,6 +7869,9 @@ findhome.sn.	43200	IN	NS	ns1.101domain.com.
 findhome.sn.	43200	IN	NS	ns2.101domain.com.
 finkone.sn.	43200	IN	NS	ns.sonatel.sn.
 finkone.sn.	43200	IN	NS	ns2.sonatel.sn.
+fipa.sn.	172800	IN	NS	ns19.ovh.net.
+fipa.sn.	172800	IN	NS	dns19.ovh.net.
+fipa.sn.	172800	IN	DS	28585 8 2 fe64c860082fa1522f4f7ec53b0de41d4bdf40685c25605cc4b2f4938dd06736
 firamaconseils.sn.	43200	IN	NS	ns1.kheweul.net.
 firamaconseils.sn.	43200	IN	NS	ns2.kheweul.net.
 firamaconseils.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -12100,6 +12103,8 @@ lesquatrechemins.sn.	43200	IN	NS	ns200.anycast.me.
 lesquatrechemins.sn.	43200	IN	NS	dns200.anycast.me.
 lessentiel.sn.	43200	IN	NS	dns1.wmaker.net.
 lessentiel.sn.	43200	IN	NS	dns2.wmaker.net.
+lesserviteurs.sn.	172800	IN	NS	ns19.ovh.net.
+lesserviteurs.sn.	172800	IN	NS	dns19.ovh.net.
 lesupreme.sn.	172800	IN	NS	ns102.ovh.net.
 lesupreme.sn.	172800	IN	NS	dns102.ovh.net.
 lesupreme.sn.	172800	IN	DS	20545 8 2 93970242bef2e53bf217e5a8318590245d5ec3e9c4be97bb8d9a4383b197b841
@@ -16835,6 +16840,9 @@ sangalkam.sn.	172800	IN	DS	51520 8 2 f9b1fc09882f7223199cdcd3e22814b169631fc0730
 sangomar.sn.	172800	IN	NS	ns15.ovh.net.
 sangomar.sn.	172800	IN	NS	dns15.ovh.net.
 sangomar.sn.	172800	IN	DS	4531 8 2 aacffaf5fc70dba874053850c0d53a023bec57dcc0818f08d1d30fe14b084ebc
+sangomart.sn.	172800	IN	NS	ns200.anycast.me.
+sangomart.sn.	172800	IN	NS	dns200.anycast.me.
+sangomart.sn.	172800	IN	DS	62560 8 2 6705ea6624e9c14c6057392bea2264fe1612d75d535e07815cc191130a4ce7e6
 sangse.sn.	172800	IN	NS	ns100.ovh.net.
 sangse.sn.	172800	IN	NS	dns100.ovh.net.
 sangse.sn.	172800	IN	DS	34780 8 2 28d2211bc9f145f6e36598cf3423a4ae57b505663b0ee8a8752e106d515a3a63
