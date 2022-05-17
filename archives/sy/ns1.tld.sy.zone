@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051718 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022051722 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1652767332"
+sy.	86400	IN	TXT	"Generation Time: 1652774538"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -1369,6 +1369,8 @@ ar.sy.	86400	IN	NS	ns1.dan.com.
 ar.sy.	86400	IN	NS	ns2.dan.com.
 arab.sy.	86400	IN	NS	suspend1.tld.sy.
 arab.sy.	86400	IN	NS	suspend2.tld.sy.
+arab-ecomm.sy.	86400	IN	NS	ns1.waveshost.sy.
+arab-ecomm.sy.	86400	IN	NS	ns2.waveshost.sy.
 arabasm.sy.	86400	IN	NS	suspend1.tld.sy.
 arabasm.sy.	86400	IN	NS	suspend2.tld.sy.
 arabbank-syria.sy.	86400	IN	NS	ns1.shamcenter.com.
@@ -6023,6 +6025,8 @@ sawa-isp.sy.	86400	IN	NS	ns1.sawaisp.sy.
 sawa-isp.sy.	86400	IN	NS	ns2.sawaisp.sy.
 sawa-tv.sy.	86400	IN	NS	ns1.sawa-host.net.
 sawa-tv.sy.	86400	IN	NS	ns2.sawa-host.net.
+sawaapp.sy.	86400	IN	NS	ns3.tld.sy.
+sawaapp.sy.	86400	IN	NS	ns4.tld.sy.
 sawab-ltd.sy.	86400	IN	NS	ns1.hostdnsserver.com.
 sawab-ltd.sy.	86400	IN	NS	ns2.hostdnsserver.com.
 sawacel.sy.	86400	IN	NS	ns1.damashost.com.
@@ -6441,8 +6445,9 @@ smnsllc.sy.	86400	IN	NS	suspend1.tld.sy.
 smnsllc.sy.	86400	IN	NS	suspend2.tld.sy.
 smody-part.sy.	86400	IN	NS	suspend1.tld.sy.
 smody-part.sy.	86400	IN	NS	suspend2.tld.sy.
-smp.sy.	86400	IN	NS	suspend1.tld.sy.
-smp.sy.	86400	IN	NS	suspend2.tld.sy.
+smp.sy.	86400	IN	NS	ns1.smallvillages.com.
+smp.sy.	86400	IN	NS	ns2.smallvillages.com.
+smp.sy.	86400	IN	NS	ns3.smallvillages.com.
 sms.sy.	86400	IN	NS	ns1.damashost.com.
 sms.sy.	86400	IN	NS	ns2.damashost.com.
 sms-co.sy.	86400	IN	NS	suspend1.tld.sy.
