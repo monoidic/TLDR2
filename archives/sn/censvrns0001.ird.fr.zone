@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442990 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443003 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [17/05/2022 14H20:01]"
+sn.	172800	IN	TXT	"3 RRs processed [17/05/2022 16H30:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4127,6 +4127,10 @@ ches.sn.	43200	IN	NS	ns1.kheweul.net.
 ches.sn.	43200	IN	NS	ns2.kheweul.net.
 ches.sn.	43200	IN	NS	ns3.kheweul.net.
 ches.sn.	43200	IN	NS	ns4.kheweul.net.
+cheveuxnaturels.sn.	172800	IN	NS	ns3.wanekoohost.com.
+cheveuxnaturels.sn.	172800	IN	NS	ns4.wanekoohost.com.
+cheveuxnaturels.sn.	172800	IN	NS	ns5.wanekoohost.com.
+cheveuxnaturels.sn.	172800	IN	NS	ns6.wanekoohost.com.
 chevrolet.sn.	172800	IN	NS	ns200.anycast.me.
 chevrolet.sn.	172800	IN	NS	dns200.anycast.me.
 chevrolet.sn.	172800	IN	DS	45040 8 2 03af9cef027940a9833dacd121485da03e3b0ddf53f35dc2dae74ecef9c2ccdd
@@ -8436,6 +8440,7 @@ gbx.sn.	172800	IN	DS	58714 8 2 15aa1b7fa9d314b314f42b3f780d643c0bfa8e9ad2ee1278e
 gc-apad.sn.	172800	IN	NS	nsa.planethoster.net.
 gc-apad.sn.	172800	IN	NS	nsb.planethoster.net.
 gc-apad.sn.	172800	IN	NS	nsc.planethoster.net.
+gc-apad.sn.	172800	IN	DS	20945 13 1 4ea0e9ab98d02325a679386604b8bb4bc133e6bf
 gcm.sn.	172800	IN	NS	ns15.afriregister.com.
 gcm.sn.	172800	IN	NS	ns25.afriregister.com.
 gcsolutions.sn.	43200	IN	NS	ns200.anycast.me.
@@ -9823,6 +9828,8 @@ ikfini.sn.	43200	IN	NS	ns2.dns-parking.com.
 ikone.sn.	43200	IN	NS	ns1.francedns.com.
 ikone.sn.	43200	IN	NS	ns2.francedns.com.
 ikone.sn.	43200	IN	NS	ns3.francedns.com.
+iledegoree.sn.	172800	IN	NS	ns15.afriregister.com.
+iledegoree.sn.	172800	IN	NS	ns25.afriregister.com.
 ilfservices.sn.	43200	IN	NS	ns1.kheweul.net.
 ilfservices.sn.	43200	IN	NS	ns2.kheweul.net.
 ilfservices.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -12401,6 +12408,10 @@ lougactu.sn.	43200	IN	NS	ns4.kheweul.net.
 louisdreyfus.sn.	172800	IN	NS	ns1.dnsres.net.
 louisdreyfus.sn.	172800	IN	NS	ns2.dnsres.net.
 louisdreyfus.sn.	172800	IN	NS	ns3.dnsres.net.
+louma.sn.	172800	IN	NS	ns3.wanekoohost.com.
+louma.sn.	172800	IN	NS	ns4.wanekoohost.com.
+louma.sn.	172800	IN	NS	ns5.wanekoohost.com.
+louma.sn.	172800	IN	NS	ns6.wanekoohost.com.
 loumo.sn.	172800	IN	NS	ns.bnamed.eu.
 loumo.sn.	172800	IN	NS	ns.bnamed.uk.
 loumo.sn.	172800	IN	NS	ns.bnamed.us.
@@ -13599,10 +13610,8 @@ mossel.sn.	43200	IN	DS	16633 1 1 af36db9b2f99b3a45fcf32f60494d10d3407ef2a
 motards221.sn.	43200	IN	NS	ns1.site4now.net.
 motards221.sn.	43200	IN	NS	ns2.site4now.net.
 motards221.sn.	43200	IN	NS	ns3.site4now.net.
-motion.sn.	172800	IN	NS	ns3.wanekoohost.com.
-motion.sn.	172800	IN	NS	ns4.wanekoohost.com.
-motion.sn.	172800	IN	NS	ns5.wanekoohost.com.
-motion.sn.	172800	IN	NS	ns6.wanekoohost.com.
+motion.sn.	172800	IN	NS	alexis.ns.cloudflare.com.
+motion.sn.	172800	IN	NS	kristin.ns.cloudflare.com.
 motrio.sn.	43200	IN	NS	anna.renault.fr.
 motrio.sn.	43200	IN	NS	xenia.renault.fr.
 motul.sn.	43200	IN	NS	ns0.ordipat.fr.
@@ -17550,6 +17559,7 @@ senegalnumeriquesa.sn.	172800	IN	NS	ns3.gouv.sn.
 senegalpay.sn.	172800	IN	NS	ns.gouv.sn.
 senegalpay.sn.	172800	IN	NS	ns2.gouv.sn.
 senegalpay.sn.	172800	IN	NS	ns3.gouv.sn.
+senegalpay.sn.	172800	IN	DS	61407 13 2 7e14b7a5c1b163018181470af15e93d37ea1bc47f102ac19d7e46c2ff99d071b
 senegalphotography.sn.	43200	IN	NS	ns19.ovh.net.
 senegalphotography.sn.	43200	IN	NS	dns19.ovh.net.
 senegalpme.sn.	43200	IN	NS	ns14.ovh.net.
