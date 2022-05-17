@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442974 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442990 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [17/05/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [17/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8433,9 +8433,9 @@ gbs-btp.sn.	172800	IN	NS	ns2.o2switch.net.
 gbx.sn.	172800	IN	NS	ns20.ovh.net.
 gbx.sn.	172800	IN	NS	dns20.ovh.net.
 gbx.sn.	172800	IN	DS	58714 8 2 15aa1b7fa9d314b314f42b3f780d643c0bfa8e9ad2ee1278e55a2b3f37d65fb3
-gc-apad.sn.	172800	IN	NS	nsa.n0c.com.
-gc-apad.sn.	172800	IN	NS	nsb.n0c.com.
-gc-apad.sn.	172800	IN	NS	nsc.n0c.com.
+gc-apad.sn.	172800	IN	NS	nsa.planethoster.net.
+gc-apad.sn.	172800	IN	NS	nsb.planethoster.net.
+gc-apad.sn.	172800	IN	NS	nsc.planethoster.net.
 gcm.sn.	172800	IN	NS	ns15.afriregister.com.
 gcm.sn.	172800	IN	NS	ns25.afriregister.com.
 gcsolutions.sn.	43200	IN	NS	ns200.anycast.me.
@@ -11417,8 +11417,10 @@ knightsbridge.sn.	172800	IN	NS	dns20.ovh.net.
 knightsbridge.sn.	172800	IN	DS	10336 8 2 1822733e16093bbf082c3436e7c49a68f6f843aff96d57776095156f7c854dac
 knit.sn.	172800	IN	NS	ns200.anycast.me.
 knit.sn.	172800	IN	NS	dns200.anycast.me.
-knl.sn.	172800	IN	NS	ns1.senhebergement.com.
-knl.sn.	172800	IN	NS	ns2.senhebergement.com.
+knl.sn.	172800	IN	NS	ns1.ascio.com.
+knl.sn.	172800	IN	NS	ns2.ascio.com.
+knl.sn.	172800	IN	NS	ns3.ascio.com.
+knl.sn.	172800	IN	NS	ns4.ascio.com.
 kodak.sn.	43200	IN	NS	ns.kodak.com.
 kodak.sn.	43200	IN	NS	ekns01.kodak.com.
 kodak.sn.	43200	IN	NS	ekns02.kodak.com.
@@ -13597,6 +13599,10 @@ mossel.sn.	43200	IN	DS	16633 1 1 af36db9b2f99b3a45fcf32f60494d10d3407ef2a
 motards221.sn.	43200	IN	NS	ns1.site4now.net.
 motards221.sn.	43200	IN	NS	ns2.site4now.net.
 motards221.sn.	43200	IN	NS	ns3.site4now.net.
+motion.sn.	172800	IN	NS	ns3.wanekoohost.com.
+motion.sn.	172800	IN	NS	ns4.wanekoohost.com.
+motion.sn.	172800	IN	NS	ns5.wanekoohost.com.
+motion.sn.	172800	IN	NS	ns6.wanekoohost.com.
 motrio.sn.	43200	IN	NS	anna.renault.fr.
 motrio.sn.	43200	IN	NS	xenia.renault.fr.
 motul.sn.	43200	IN	NS	ns0.ordipat.fr.
@@ -17160,9 +17166,6 @@ secomar.sn.	43200	IN	NS	dns200.anycast.me.
 secopower.sn.	43200	IN	NS	dns1.softdom.com.
 secopower.sn.	43200	IN	NS	dns2.softdom.com.
 secopower.sn.	43200	IN	NS	dns3.softdom.com.
-sectronic.sn.	172800	IN	NS	ns11.ovh.net.
-sectronic.sn.	172800	IN	NS	dns11.ovh.net.
-sectronic.sn.	172800	IN	DS	30055 8 2 caf37ac0bd7df5a3eb0ab8f6b513edfb508225edb35112a631a373eb9e77c5c6
 secufoudre.sn.	43200	IN	NS	ns.sonatel.sn.
 secufoudre.sn.	43200	IN	NS	ns2.sonatel.sn.
 secumed.sn.	172800	IN	NS	usm11.noc41.com.
