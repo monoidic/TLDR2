@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442958 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222442974 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [17/05/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [17/05/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -12242,6 +12242,8 @@ lionrouge.sn.	172800	IN	DS	65317 8 2 6213b5a9bb76a3e340587cdf1e53fd7c25bc22e6732
 lionsgeneration2002.sn.	43200	IN	NS	ns1.francedns.com.
 lionsgeneration2002.sn.	43200	IN	NS	ns2.francedns.com.
 lionsgeneration2002.sn.	43200	IN	NS	ns3.francedns.com.
+lionsinvest.sn.	172800	IN	NS	ns1.caurys.net.
+lionsinvest.sn.	172800	IN	NS	ns2.caurys.net.
 lipidol.sn.	43200	IN	NS	ns1.markmonitor.com.
 lipidol.sn.	43200	IN	NS	ns2.markmonitor.com.
 lipidol.sn.	43200	IN	NS	ns3.markmonitor.com.
@@ -13645,6 +13647,8 @@ mrsize.sn.	43200	IN	NS	ns2.netim.net.
 mrsize.sn.	43200	IN	NS	ns3.netim.net.
 mrsize.sn.	43200	IN	NS	ns4.netim.net.
 mrsize.sn.	43200	IN	NS	ns5.netim.net.
+mrtop.sn.	172800	IN	NS	ns1.vercel-dns.com.
+mrtop.sn.	172800	IN	NS	ns2.vercel-dns.com.
 ms-trading.sn.	43200	IN	NS	ns1.cloudns.io.
 ms-trading.sn.	43200	IN	NS	ns2.cloudns.io.
 msad-thies.sn.	43200	IN	NS	ns15.ovh.net.
@@ -14283,6 +14287,9 @@ novartis.sn.	172800	IN	NS	a24-65.akam.net.
 novartis.sn.	172800	IN	NS	a28-67.akam.net.
 novelty.sn.	172800	IN	NS	ns1.gnldm1085.siteground.biz.
 novelty.sn.	172800	IN	NS	ns2.gnldm1085.siteground.biz.
+novitra.sn.	172800	IN	NS	ns1.netim.net.
+novitra.sn.	172800	IN	NS	ns2.netim.net.
+novitra.sn.	172800	IN	NS	ns3.netim.net.
 novoplanet.sn.	172800	IN	NS	ns.nscluster.eu.
 novoplanet.sn.	172800	IN	NS	ns.nscluster.hu.
 novoplanet.sn.	172800	IN	NS	ns.nscluster.it.
@@ -16512,8 +16519,9 @@ rsinterim.sn.	172800	IN	NS	dns100.ovh.net.
 rsinterim.sn.	172800	IN	DS	65344 8 2 dd0e60c0fec7e3ee8cbbf7e7b9cbfbf2d50c6a7bff320de3641983820963ab4f
 rtn.sn.	43200	IN	NS	ns10.ovh.net.
 rtn.sn.	43200	IN	NS	dns10.ovh.net.
-rts.sn.	43200	IN	NS	ns.rts.sn.
-ns.rts.sn.	43200	IN	A	213.154.77.218
+rts.sn.	172800	IN	NS	ns.rts.sn.
+rts.sn.	172800	IN	NS	ns.gouv.sn.
+ns.rts.sn.	172800	IN	A	213.154.77.218
 rubis.sn.	43200	IN	NS	ns2.wixdns.net.
 rubis.sn.	43200	IN	NS	ns3.wixdns.net.
 ruby.sn.	172800	IN	NS	ns16.ovh.net.
@@ -19459,10 +19467,8 @@ t2s.sn.	43200	IN	NS	pdns05.domaincontrol.com.
 t2s.sn.	43200	IN	NS	pdns06.domaincontrol.com.
 t3i.sn.	43200	IN	NS	ns107.ovh.net.
 t3i.sn.	43200	IN	NS	dns107.ovh.net.
-taar.sn.	172800	IN	NS	ns3.wanekoohost.com.
-taar.sn.	172800	IN	NS	ns4.wanekoohost.com.
-taar.sn.	172800	IN	NS	ns5.wanekoohost.com.
-taar.sn.	172800	IN	NS	ns6.wanekoohost.com.
+taar.sn.	172800	IN	NS	ns12.wixdns.net.
+taar.sn.	172800	IN	NS	ns13.wixdns.net.
 taaranga.sn.	43200	IN	NS	ns111.ovh.net.
 taaranga.sn.	43200	IN	NS	dns111.ovh.net.
 taaruyoff.sn.	172800	IN	NS	ns20.ovh.net.
