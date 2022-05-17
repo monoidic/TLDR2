@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443003 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443016 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"3 RRs processed [17/05/2022 16H30:01]"
+sn.	172800	IN	TXT	"1 RRs processed [17/05/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7227,6 +7227,8 @@ espaceinnov.sn.	43200	IN	NS	dns4.p01.nsone.net.
 espaceprestige.sn.	172800	IN	NS	ams-ns1.greengeeks.com.
 espaceprestige.sn.	172800	IN	NS	chi-ns1.greengeeks.com.
 espaceprestige.sn.	172800	IN	NS	chi-ns2.greengeeks.com.
+espacewaypoint.sn.	172800	IN	NS	ns19.ovh.net.
+espacewaypoint.sn.	172800	IN	NS	dns19.ovh.net.
 espad.sn.	172800	IN	NS	ns105.ovh.net.
 espad.sn.	172800	IN	NS	dns105.ovh.net.
 espalumni.sn.	172800	IN	NS	ns200.anycast.me.
@@ -8440,7 +8442,6 @@ gbx.sn.	172800	IN	DS	58714 8 2 15aa1b7fa9d314b314f42b3f780d643c0bfa8e9ad2ee1278e
 gc-apad.sn.	172800	IN	NS	nsa.planethoster.net.
 gc-apad.sn.	172800	IN	NS	nsb.planethoster.net.
 gc-apad.sn.	172800	IN	NS	nsc.planethoster.net.
-gc-apad.sn.	172800	IN	DS	20945 13 1 4ea0e9ab98d02325a679386604b8bb4bc133e6bf
 gcm.sn.	172800	IN	NS	ns15.afriregister.com.
 gcm.sn.	172800	IN	NS	ns25.afriregister.com.
 gcsolutions.sn.	43200	IN	NS	ns200.anycast.me.
@@ -21030,10 +21031,6 @@ visible.sn.	172800	IN	NS	ns1.kheweul.net.
 visible.sn.	172800	IN	NS	ns2.kheweul.net.
 visible.sn.	172800	IN	NS	ns3.kheweul.net.
 visible.sn.	172800	IN	NS	ns4.kheweul.net.
-visiocontact.sn.	43200	IN	NS	ns1.kheweul.net.
-visiocontact.sn.	43200	IN	NS	ns2.kheweul.net.
-visiocontact.sn.	43200	IN	NS	ns3.kheweul.net.
-visiocontact.sn.	43200	IN	NS	ns4.kheweul.net.
 visionduchrist.sn.	172800	IN	NS	ns1.wanekoohost.com.
 visionduchrist.sn.	172800	IN	NS	ns2.wanekoohost.com.
 visionduchrist.sn.	172800	IN	NS	ns3.wanekoohost.com.
