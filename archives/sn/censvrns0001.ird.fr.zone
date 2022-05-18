@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443184 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443197 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [18/05/2022 18H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [18/05/2022 20H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1464,6 +1464,10 @@ amateurfoot.sn.	172800	IN	NS	ns1045.ui-dns.com.
 amateurfoot.sn.	172800	IN	NS	ns1045.ui-dns.org.
 amaus.sn.	172800	IN	NS	nsany1.infomaniak.com.
 amaus.sn.	172800	IN	NS	nsany2.infomaniak.com.
+amauto.sn.	172800	IN	NS	ns3.wanekoohost.com.
+amauto.sn.	172800	IN	NS	ns4.wanekoohost.com.
+amauto.sn.	172800	IN	NS	ns5.wanekoohost.com.
+amauto.sn.	172800	IN	NS	ns6.wanekoohost.com.
 amazing.sn.	172800	IN	NS	ns1.dns-parking.com.
 amazing.sn.	172800	IN	NS	ns2.dns-parking.com.
 amazon.sn.	43200	IN	NS	ns1.p31.dynect.net.
@@ -11640,9 +11644,6 @@ kserv.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 kserv.sn.	172800	IN	NS	ns7.jokko-hosting.com.
 kservgroup.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 kservgroup.sn.	172800	IN	NS	ns10.jokko-hosting.com.
-ksk.sn.	172800	IN	NS	ns19.ovh.net.
-ksk.sn.	172800	IN	NS	dns19.ovh.net.
-ksk.sn.	172800	IN	DS	5551 8 2 b0aa65a867c293faaf8760049ed96618cc029a131108cacb257a4a729739f75c
 ktimmobilier.sn.	172800	IN	NS	ns9.jajeuf.com.
 ktimmobilier.sn.	172800	IN	NS	ns10.jajeuf.com.
 kts.sn.	172800	IN	NS	ns3.wanekoohost.com.
