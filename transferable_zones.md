@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -10,7 +9,6 @@
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `arpa` via `c.ns.arpa.`: [Click here to view zone data.](archives/arpa/c.ns.arpa.zone)
 * `arpa` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/d.ns.arpa.zone)
-* `arpa` via `e.ns.arpa.`: [Click here to view zone data.](archives/arpa/e.ns.arpa.zone)
 * `arpa` via `f.ns.arpa.`: [Click here to view zone data.](archives/arpa/f.ns.arpa.zone)
 * `arpa` via `g.ns.arpa.`: [Click here to view zone data.](archives/arpa/g.ns.arpa.zone)
 * `arpa` via `k.ns.arpa.`: [Click here to view zone data.](archives/arpa/k.ns.arpa.zone)
