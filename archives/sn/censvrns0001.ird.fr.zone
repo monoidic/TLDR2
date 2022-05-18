@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443171 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443184 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [18/05/2022 16H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [18/05/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -816,6 +816,8 @@ adnsenegal.sn.	172800	IN	NS	ns1.kheweul.net.
 adnsenegal.sn.	172800	IN	NS	ns2.kheweul.net.
 adnsenegal.sn.	172800	IN	NS	ns3.kheweul.net.
 adnsenegal.sn.	172800	IN	NS	ns4.kheweul.net.
+adprogarage.sn.	172800	IN	NS	eisdns1.expertis.sn.
+adprogarage.sn.	172800	IN	NS	eisdns2.expertis.sn.
 ads.sn.	43200	IN	NS	ns.gouv.sn.
 ads.sn.	43200	IN	NS	ns2.gouv.sn.
 ads.sn.	43200	IN	NS	ns3.gouv.sn.
@@ -2509,6 +2511,10 @@ baraka.sn.	43200	IN	NS	ns3.kheweul.net.
 baraka.sn.	43200	IN	NS	ns4.kheweul.net.
 baraka-services.sn.	43200	IN	NS	ns11.infomaniak.ch.
 baraka-services.sn.	43200	IN	NS	ns12.infomaniak.ch.
+barakaimmo.sn.	172800	IN	NS	ns3.wanekoohost.com.
+barakaimmo.sn.	172800	IN	NS	ns4.wanekoohost.com.
+barakaimmo.sn.	172800	IN	NS	ns5.wanekoohost.com.
+barakaimmo.sn.	172800	IN	NS	ns6.wanekoohost.com.
 barclays.sn.	43200	IN	NS	ns1.barclays.co.uk.
 barclays.sn.	43200	IN	NS	ns2.barclays.co.uk.
 barcodes.sn.	172800	IN	NS	ns110.ovh.net.
@@ -3722,8 +3728,6 @@ captrans.sn.	172800	IN	NS	dns200.anycast.me.
 captrans.sn.	172800	IN	DS	55834 8 2 f1263349e62153c082ff335b60f3b2ea1d3c1ddcf1840dc67ef80b3cfdd5dcf4
 capvertinfos.sn.	172800	IN	NS	dns1.wmaker.net.
 capvertinfos.sn.	172800	IN	NS	dns2.wmaker.net.
-carapaces.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-carapaces.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 carat.sn.	43200	IN	NS	ns1.netnames.net.
 carat.sn.	43200	IN	NS	ns2.netnames.net.
 carat.sn.	43200	IN	NS	ns5.netnames.net.
@@ -4223,8 +4227,6 @@ chequesvacances.sn.	172800	IN	NS	cpanel19.lws-hosting.com.
 chequesvacances.sn.	172800	IN	NS	cpanel20.lws-hosting.com.
 chereault.sn.	43200	IN	NS	ns.sonatel.sn.
 chereault.sn.	43200	IN	NS	ns2.sonatel.sn.
-chery.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-chery.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 ches.sn.	43200	IN	NS	ns1.kheweul.net.
 ches.sn.	43200	IN	NS	ns2.kheweul.net.
 ches.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -7642,6 +7644,8 @@ facebook.sn.	43200	IN	NS	ns1.lovellsnames.org.
 facebook.sn.	43200	IN	NS	ns2.lovellsnames.org.
 facebook.sn.	43200	IN	NS	ns3.lovellsnames.org.
 facebook.sn.	43200	IN	NS	ns4.lovellsnames.org.
+fadelagro.sn.	172800	IN	NS	eisdns1.expertis.sn.
+fadelagro.sn.	172800	IN	NS	eisdns2.expertis.sn.
 fadiou.sn.	172800	IN	NS	ns1.netim.net.
 fadiou.sn.	172800	IN	NS	ns2.netim.net.
 fadiou.sn.	172800	IN	NS	ns3.netim.net.
@@ -10235,6 +10239,9 @@ inosat.sn.	43200	IN	NS	zelda.ns.cloudflare.com.
 inovik.sn.	43200	IN	NS	a.dns.gandi.net.
 inovik.sn.	43200	IN	NS	b.dns.gandi.net.
 inovik.sn.	43200	IN	NS	c.dns.gandi.net.
+inovmeuble.sn.	172800	IN	NS	ns200.anycast.me.
+inovmeuble.sn.	172800	IN	NS	dns200.anycast.me.
+inovmeuble.sn.	172800	IN	DS	13780 8 2 cef23a6cadf60784b0e232c58c6710a98cf21c6e6eb307f60e8d7e7d42767666
 inoxpa.sn.	43200	IN	NS	ns7.nsprimario.com.
 inoxpa.sn.	43200	IN	NS	dns53.dns6tems.com.
 inpg.sn.	43200	IN	NS	nova.ns.cloudflare.com.
@@ -12192,8 +12199,6 @@ lesmanguiersdeguereo.sn.	43200	IN	NS	ns2.register.be.
 lesmanguiersdeguereo.sn.	43200	IN	NS	ns3.register.be.
 lesniayessarraut.sn.	43200	IN	NS	ns.sonatel.sn.
 lesniayessarraut.sn.	43200	IN	NS	ns2.sonatel.sn.
-lesoir.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-lesoir.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 lesoleil.sn.	43200	IN	NS	ns.sonatel.sn.
 lesoleil.sn.	43200	IN	NS	ns2.sonatel.sn.
 lespagesjaunes.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -15518,8 +15523,6 @@ pfnac.sn.	43200	IN	NS	ns3.kheweul.net.
 pfnac.sn.	43200	IN	NS	ns4.kheweul.net.
 pgisecnsa.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 pgisecnsa.sn.	172800	IN	NS	ns9.jokko-hosting.com.
-pgo.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-pgo.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 pharedesmamelles.sn.	43200	IN	NS	ns112.ovh.net.
 pharedesmamelles.sn.	43200	IN	NS	dns112.ovh.net.
 pharedesmamelles.sn.	172800	IN	DS	23599 8 2 f7acbd882ff290056b079f4383efffb996d1ab25ef69a02a5b490c448c558474
@@ -16922,8 +16925,6 @@ samaplace.sn.	172800	IN	NS	dns110.ovh.net.
 samaplace.sn.	172800	IN	DS	37726 8 2 a11fbfd440756a9fa19e9f05d3676560a1d0bba748bb82316428f34dc150e533
 samaposition.sn.	43200	IN	NS	eisdns1.expertis.sn.
 samaposition.sn.	43200	IN	NS	eisdns2.expertis.sn.
-samaprof.sn.	172800	IN	NS	ns5.afriregister.co.ke.
-samaprof.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 samasen.sn.	172800	IN	NS	ns1.kheweul.net.
 samasen.sn.	172800	IN	NS	ns2.kheweul.net.
 samasen.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -17051,6 +17052,8 @@ sarl-bat-elec.sn.	172800	IN	NS	dns200.anycast.me.
 sarl-bat-elec.sn.	172800	IN	DS	19249 8 2 fc516ac3cfb5439fdf789b51a8d9b55fae06c91e3872af498e31c31e1aa80401
 sarofa.sn.	43200	IN	NS	pdns11.domaincontrol.com.
 sarofa.sn.	43200	IN	NS	pdns12.domaincontrol.com.
+sarrecons.sn.	172800	IN	NS	ns19.ovh.net.
+sarrecons.sn.	172800	IN	NS	dns19.ovh.net.
 sartorisen.sn.	43200	IN	NS	ns200.anycast.me.
 sartorisen.sn.	43200	IN	NS	dns200.anycast.me.
 sasise.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -17401,6 +17404,9 @@ senacpeintures.sn.	43200	IN	NS	ns109.ovh.net.
 senacpeintures.sn.	43200	IN	NS	dns109.ovh.net.
 senaction.sn.	43200	IN	NS	ns1.kheweul.com.
 senaction.sn.	43200	IN	NS	ns2.kheweul.com.
+senaffaires.sn.	172800	IN	NS	ns19.ovh.net.
+senaffaires.sn.	172800	IN	NS	dns19.ovh.net.
+senaffaires.sn.	172800	IN	DS	12379 8 2 40e28e0f01bf9321eb483cbe9d38e483568dfeb332f68f73d3f773b1424d11c7
 senagora.sn.	43200	IN	NS	ns1.netim.net.
 senagora.sn.	43200	IN	NS	ns2.netim.net.
 senagora.sn.	43200	IN	NS	ns3.netim.net.
