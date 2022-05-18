@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443144 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443157 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [18/05/2022 12H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [18/05/2022 14H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -535,6 +535,8 @@ abdoulayewade.sn.	172800	IN	NS	ns3.francedns.com.
 abdoulayewade2024.sn.	172800	IN	NS	ns1.francedns.com.
 abdoulayewade2024.sn.	172800	IN	NS	ns2.francedns.com.
 abdoulayewade2024.sn.	172800	IN	NS	ns3.francedns.com.
+abeillepapillon.sn.	172800	IN	NS	ns19.ovh.net.
+abeillepapillon.sn.	172800	IN	NS	dns19.ovh.net.
 abimmobilier.sn.	172800	IN	NS	ns200.anycast.me.
 abimmobilier.sn.	172800	IN	NS	dns200.anycast.me.
 abimmobilier.sn.	172800	IN	DS	44221 8 2 fc686da9d093a5ee8129ddfc2cc2b109dc09db3c9cf3345c549fd23330b5c401
@@ -5041,8 +5043,8 @@ covid19.sn.	43200	IN	NS	ns3.afrowebmaster.com.
 covid19.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 coxeur.sn.	172800	IN	NS	ns1.cp-43.webhostbox.net.
 coxeur.sn.	172800	IN	NS	ns2.cp-43.webhostbox.net.
-cpi.sn.	172800	IN	NS	ns1.vultr.com.
-cpi.sn.	172800	IN	NS	ns2.vultr.com.
+cpi.sn.	172800	IN	NS	ns200.anycast.me.
+cpi.sn.	172800	IN	NS	dns200.anycast.me.
 cpindustry.sn.	172800	IN	NS	ns5.jokko-hosting.com.
 cpindustry.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 cpm.sn.	172800	IN	NS	ns1.caurys.net.
@@ -7655,8 +7657,6 @@ fadsr.sn.	172800	IN	NS	ns3.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns4.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns5.wanekoohost.com.
 fadsr.sn.	172800	IN	NS	ns6.wanekoohost.com.
-fagoul.sn.	172800	IN	NS	edward.ns.cloudflare.com.
-fagoul.sn.	172800	IN	NS	evangeline.ns.cloudflare.com.
 faise.sn.	43200	IN	NS	ns1.kheweul.net.
 faise.sn.	43200	IN	NS	ns2.kheweul.net.
 faise.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -21484,6 +21484,8 @@ westrock.sn.	43200	IN	NS	ns200.anycast.me.
 westrock.sn.	43200	IN	NS	dns200.anycast.me.
 wethio.sn.	172800	IN	NS	ns200.anycast.me.
 wethio.sn.	172800	IN	NS	dns200.anycast.me.
+wetti.sn.	172800	IN	NS	ns19.ovh.net.
+wetti.sn.	172800	IN	NS	dns19.ovh.net.
 wetuk.sn.	172800	IN	NS	ns111.ovh.net.
 wetuk.sn.	172800	IN	NS	dns111.ovh.net.
 wgs.sn.	172800	IN	NS	ns1.stackdns.com.
