@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443341 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443358 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [19/05/2022 16H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [19/05/2022 18H40:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4766,6 +4766,8 @@ consommonslocal.sn.	43200	IN	NS	ns2.a2hosting.com.
 consommonslocal.sn.	43200	IN	NS	ns3.a2hosting.com.
 consommonslocal.sn.	43200	IN	NS	ns4.a2hosting.com.
 consommonslocal.sn.	43200	IN	NS	teranga.tpsnet.org.
+constructions-coordination.sn.	172800	IN	NS	ns1.caurys.net.
+constructions-coordination.sn.	172800	IN	NS	ns2.caurys.net.
 contentsquare.sn.	172800	IN	NS	ns1.markmonitor.com.
 contentsquare.sn.	172800	IN	NS	ns2.markmonitor.com.
 contentsquare.sn.	172800	IN	NS	ns3.markmonitor.com.
@@ -7039,6 +7041,8 @@ eolsenegal.sn.	43200	IN	NS	ns1.snterra.com.
 eolsenegal.sn.	43200	IN	NS	ns2.snterra.com.
 eos.sn.	172800	IN	NS	ns3.afriregister.com.
 eos.sn.	172800	IN	NS	ns01.afriregister.com.
+epa.sn.	172800	IN	NS	ns19.ovh.net.
+epa.sn.	172800	IN	NS	dns19.ovh.net.
 epartners.sn.	43200	IN	NS	ns1.dreamhost.com.
 epartners.sn.	43200	IN	NS	ns2.dreamhost.com.
 epartners.sn.	43200	IN	NS	ns3.dreamhost.com.
@@ -12258,8 +12262,8 @@ lionrouge.sn.	172800	IN	NS	ns3.futurdigital.net.
 lionsgeneration2002.sn.	43200	IN	NS	ns1.francedns.com.
 lionsgeneration2002.sn.	43200	IN	NS	ns2.francedns.com.
 lionsgeneration2002.sn.	43200	IN	NS	ns3.francedns.com.
-lionsinvest.sn.	172800	IN	NS	ns1.caurys.net.
-lionsinvest.sn.	172800	IN	NS	ns2.caurys.net.
+lionstechinvest.sn.	172800	IN	NS	ns1.caurys.net.
+lionstechinvest.sn.	172800	IN	NS	ns2.caurys.net.
 lipidol.sn.	43200	IN	NS	ns1.markmonitor.com.
 lipidol.sn.	43200	IN	NS	ns2.markmonitor.com.
 lipidol.sn.	43200	IN	NS	ns3.markmonitor.com.
@@ -16272,6 +16276,8 @@ recotech.sn.	172800	IN	NS	ns1.ascio.com.
 recotech.sn.	172800	IN	NS	ns2.ascio.com.
 recotech.sn.	172800	IN	NS	ns3.ascio.com.
 recotech.sn.	172800	IN	NS	ns4.ascio.com.
+recrutement.sn.	172800	IN	NS	ns31.infomaniak.com.
+recrutement.sn.	172800	IN	NS	ns32.infomaniak.com.
 recuplast.sn.	172800	IN	NS	ns1.o2switch.net.
 recuplast.sn.	172800	IN	NS	ns2.o2switch.net.
 redaviasolar.sn.	172800	IN	NS	ns.inwx.de.
@@ -19541,6 +19547,9 @@ taggat.sn.	172800	IN	NS	ns2.francedns.com.
 taggat.sn.	172800	IN	NS	cloudf03.francedns.com.
 taiyo.sn.	172800	IN	NS	ns110.ovh.net.
 taiyo.sn.	172800	IN	NS	dns110.ovh.net.
+takebusiness.sn.	172800	IN	NS	ns11.ovh.net.
+takebusiness.sn.	172800	IN	NS	dns11.ovh.net.
+takebusiness.sn.	172800	IN	DS	17299 8 2 9abe364bb7c9082e69e3cd3a17436e87c6609297ef956bd45a95542aa33274e0
 takedelivery.sn.	172800	IN	NS	ns11.ovh.net.
 takedelivery.sn.	172800	IN	NS	dns11.ovh.net.
 takedelivery.sn.	172800	IN	DS	10180 8 2 7c7997c08b00b1417106004997c2daf742071b0baa9fab0f7d1a432526b3e689
@@ -20160,6 +20169,9 @@ topnews.sn.	43200	IN	NS	ns1.kheweul.net.
 topnews.sn.	43200	IN	NS	ns2.kheweul.net.
 topnews.sn.	43200	IN	NS	ns3.kheweul.net.
 topnews.sn.	43200	IN	NS	ns4.kheweul.net.
+toprestaurants.sn.	172800	IN	NS	ns19.ovh.net.
+toprestaurants.sn.	172800	IN	NS	dns19.ovh.net.
+toprestaurants.sn.	172800	IN	DS	41749 8 2 d053a188996c6b6eb736549ac5248b0d7c284e2b4130cd7b2d087ceb7b3b9665
 toprint.sn.	172800	IN	NS	ns19.ovh.net.
 toprint.sn.	172800	IN	NS	dns19.ovh.net.
 topsenegal.sn.	172800	IN	NS	ns1.kheweul.net.
