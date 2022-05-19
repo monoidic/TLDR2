@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443327 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443341 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [19/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [19/05/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -9101,6 +9101,10 @@ growacademy.sn.	172800	IN	NS	ns1.o2switch.net.
 growacademy.sn.	172800	IN	NS	ns2.o2switch.net.
 grown-ess.sn.	43200	IN	NS	ns.sonatel.sn.
 grown-ess.sn.	43200	IN	NS	ns2.sonatel.sn.
+gruesetmachines.sn.	172800	IN	NS	ns1.kheweul.net.
+gruesetmachines.sn.	172800	IN	NS	ns2.kheweul.net.
+gruesetmachines.sn.	172800	IN	NS	ns3.kheweul.net.
+gruesetmachines.sn.	172800	IN	NS	ns4.kheweul.net.
 grundfos.sn.	43200	IN	NS	ns1.netnames.net.
 grundfos.sn.	43200	IN	NS	ns2.netnames.net.
 grundfos.sn.	43200	IN	NS	ns3.netnames.net.
@@ -10281,6 +10285,10 @@ ipe.sn.	43200	IN	NS	ns1.kheweul.net.
 ipe.sn.	43200	IN	NS	ns2.kheweul.net.
 ipe.sn.	43200	IN	NS	ns3.kheweul.net.
 ipe.sn.	43200	IN	NS	ns4.kheweul.net.
+ipformed.sn.	172800	IN	NS	ns1.kheweul.net.
+ipformed.sn.	172800	IN	NS	ns2.kheweul.net.
+ipformed.sn.	172800	IN	NS	ns3.kheweul.net.
+ipformed.sn.	172800	IN	NS	ns4.kheweul.net.
 ipg.sn.	43200	IN	NS	ns1.cp-33.webhostbox.net.
 ipg.sn.	43200	IN	NS	ns2.cp-33.webhostbox.net.
 ipg-isti.sn.	43200	IN	NS	ns1.cp-1.webhostbox.net.
@@ -11213,8 +11221,8 @@ kaysagnse.sn.	43200	IN	DS	27880 8 2 f0fa9d9f352b315d761805c44f4860f3caa4cd2914c1
 kayzen.sn.	172800	IN	NS	ns200.anycast.me.
 kayzen.sn.	172800	IN	NS	dns200.anycast.me.
 kayzen.sn.	172800	IN	DS	22375 8 2 1b7eee620496b63a46ec1617e8f2e44aef550eff17bac997162c5c78f4ea868f
-kazi-group.sn.	43200	IN	NS	ns13.ovh.net.
-kazi-group.sn.	43200	IN	NS	dns13.ovh.net.
+kazi-group.sn.	172800	IN	NS	ns1.o2switch.net.
+kazi-group.sn.	172800	IN	NS	ns2.o2switch.net.
 kbgroup.sn.	172800	IN	NS	ns3.wanekoohost.com.
 kbgroup.sn.	172800	IN	NS	ns4.wanekoohost.com.
 kbgroup.sn.	172800	IN	NS	ns5.wanekoohost.com.
