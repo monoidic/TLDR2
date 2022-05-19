@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443358 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443369 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [19/05/2022 18H40:01]"
+sn.	172800	IN	TXT	"No RRs processed [19/05/2022 20H30:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -663,10 +663,6 @@ adconsulting.sn.	172800	IN	NS	dns105.ovh.net.
 adconsulting.sn.	172800	IN	DS	46390 8 2 fbe13157ae90c9b1e6712f5e15c7955166edd7c958dbda9296c35aec4fbd7a8a
 addar-group.sn.	43200	IN	NS	ns11.infomaniak.ch.
 addar-group.sn.	43200	IN	NS	ns12.infomaniak.ch.
-addax.sn.	43200	IN	NS	ns1.kheweul.net.
-addax.sn.	43200	IN	NS	ns2.kheweul.net.
-addax.sn.	43200	IN	NS	ns3.kheweul.net.
-addax.sn.	43200	IN	NS	ns4.kheweul.net.
 adensa.sn.	43200	IN	NS	ns1.kheweul.net.
 adensa.sn.	43200	IN	NS	ns2.kheweul.net.
 adensa.sn.	43200	IN	NS	ns3.kheweul.net.
@@ -1916,6 +1912,8 @@ asos.sn.	43200	IN	NS	dns1.cscdns.net.
 asos.sn.	43200	IN	NS	dns2.cscdns.net.
 aspire-ingenierie.sn.	172800	IN	NS	eisdns1.expertis.sn.
 aspire-ingenierie.sn.	172800	IN	NS	eisdns2.expertis.sn.
+aspric.sn.	172800	IN	NS	ns1.cp-45.webhostbox.net.
+aspric.sn.	172800	IN	NS	ns2.cp-45.webhostbox.net.
 asps.sn.	43200	IN	NS	ns1.cp-47.webhostbox.net.
 asps.sn.	43200	IN	NS	ns2.cp-47.webhostbox.net.
 aspt.sn.	43200	IN	NS	ns1.caurys.net.
@@ -10808,14 +10806,6 @@ jeudemots.sn.	172800	IN	NS	ns1.kheweul.net.
 jeudemots.sn.	172800	IN	NS	ns2.kheweul.net.
 jeudemots.sn.	172800	IN	NS	ns3.kheweul.net.
 jeudemots.sn.	172800	IN	NS	ns4.kheweul.net.
-jeunesse.sn.	43200	IN	NS	ns1.kheweul.net.
-jeunesse.sn.	43200	IN	NS	ns2.kheweul.net.
-jeunesse.sn.	43200	IN	NS	ns3.kheweul.net.
-jeunesse.sn.	43200	IN	NS	ns4.kheweul.net.
-jeunesse-gs.sn.	43200	IN	NS	ns1.kheweul.net.
-jeunesse-gs.sn.	43200	IN	NS	ns2.kheweul.net.
-jeunesse-gs.sn.	43200	IN	NS	ns3.kheweul.net.
-jeunesse-gs.sn.	43200	IN	NS	ns4.kheweul.net.
 jiatel.sn.	43200	IN	NS	dns31.servidoresdns.net.
 jiatel.sn.	43200	IN	NS	dns32.servidoresdns.net.
 jifaa.sn.	172800	IN	NS	ns1.wanekoohost.com.
@@ -17407,8 +17397,6 @@ sencom.sn.	43200	IN	NS	ns2.francedns.com.
 sencom.sn.	43200	IN	NS	ns3.francedns.com.
 sencommerce.sn.	43200	IN	NS	ns1.caurys.net.
 sencommerce.sn.	43200	IN	NS	ns2.caurys.net.
-sencommune.sn.	43200	IN	NS	ns1.cp-ht-7.webhostbox.net.
-sencommune.sn.	43200	IN	NS	ns2.cp-ht-7.webhostbox.net.
 sencompte.sn.	172800	IN	NS	dns16.ovh.net.
 sencompte.sn.	172800	IN	NS	ns200.anycast.me.
 sencompte.sn.	172800	IN	NS	dns200.anycast.me.
@@ -17653,8 +17641,6 @@ senemusic.sn.	43200	IN	NS	dns14.ovh.net.
 senenews.sn.	172800	IN	NS	ns107.ovh.net.
 senenews.sn.	172800	IN	NS	dns107.ovh.net.
 senenews.sn.	172800	IN	DS	9799 8 2 f7d219e6a4eca902812a09b114b17ebad5aa51612bc50f96cf8fdc30e49381c2
-senenow.sn.	43200	IN	NS	ns921.websitewelcome.com.
-senenow.sn.	43200	IN	NS	ns922.websitewelcome.com.
 senenum.sn.	172800	IN	NS	ns.gouv.sn.
 senenum.sn.	172800	IN	NS	ns2.gouv.sn.
 senenum.sn.	172800	IN	NS	ns3.gouv.sn.
