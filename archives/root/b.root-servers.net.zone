@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022052001 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022052002 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -667,6 +667,7 @@ ns3.dns.nic.amica.	172800	IN	AAAA	2610:a1:1073::b
 amsterdam.	172800	IN	NS	ns1.nic.amsterdam.
 amsterdam.	172800	IN	NS	ns2.nic.amsterdam.
 amsterdam.	172800	IN	NS	ns3.nic.amsterdam.
+amsterdam.	172800	IN	NS	ns4.nic.amsterdam.
 amsterdam.	86400	IN	DS	56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
 ns1.nic.amsterdam.	172800	IN	A	194.0.28.4
 ns1.nic.amsterdam.	172800	IN	AAAA	2001:678:2c:0:194:0:28:4
@@ -674,6 +675,8 @@ ns2.nic.amsterdam.	172800	IN	A	194.146.106.134
 ns2.nic.amsterdam.	172800	IN	AAAA	2001:67c:1010:34::53
 ns3.nic.amsterdam.	172800	IN	A	194.0.25.26
 ns3.nic.amsterdam.	172800	IN	AAAA	2001:678:20::26
+ns4.nic.amsterdam.	172800	IN	A	185.159.199.202
+ns4.nic.amsterdam.	172800	IN	AAAA	2620:10a:80ac::202
 analytics.	172800	IN	NS	a.nic.analytics.
 analytics.	172800	IN	NS	b.nic.analytics.
 analytics.	172800	IN	NS	c.nic.analytics.
@@ -12014,6 +12017,7 @@ nissay.	86400	IN	DS	62124 8 2 b59d6bda2c131f954a260174aae128a43ba29580997fc822e4
 nl.	172800	IN	NS	ns1.dns.nl.
 nl.	172800	IN	NS	ns2.dns.nl.
 nl.	172800	IN	NS	ns3.dns.nl.
+nl.	172800	IN	NS	ns4.dns.nl.
 nl.	86400	IN	DS	34112 8 2 3c5b5f9b3557455c50751a9be9ebe9238c88e19f5f07f930976917b51b95cd22
 ns1.dns.nl.	172800	IN	A	194.0.28.53
 ns1.dns.nl.	172800	IN	AAAA	2001:678:2c:0:194:0:28:53
@@ -12021,6 +12025,8 @@ ns2.dns.nl.	172800	IN	A	194.146.106.42
 ns2.dns.nl.	172800	IN	AAAA	2001:67c:1010:10::53
 ns3.dns.nl.	172800	IN	A	194.0.25.24
 ns3.dns.nl.	172800	IN	AAAA	2001:678:20::24
+ns4.dns.nl.	172800	IN	A	185.159.199.200
+ns4.dns.nl.	172800	IN	AAAA	2620:10a:80ac::200
 no.	172800	IN	NS	i.nic.no.
 no.	172800	IN	NS	x.nic.no.
 no.	172800	IN	NS	y.nic.no.
@@ -13224,6 +13230,7 @@ c0.nic.poker.	172800	IN	AAAA	2a01:8840:18::33
 politie.	172800	IN	NS	ns1.nic.politie.
 politie.	172800	IN	NS	ns2.nic.politie.
 politie.	172800	IN	NS	ns3.nic.politie.
+politie.	172800	IN	NS	ns4.nic.politie.
 politie.	86400	IN	DS	63485 8 2 98f1793434c640fcb733f3a17c6bbe63d32666debe54bb4d264bc22f273a4e15
 ns1.nic.politie.	172800	IN	A	194.0.28.5
 ns1.nic.politie.	172800	IN	AAAA	2001:678:2c:0:194:0:28:5
@@ -13231,6 +13238,8 @@ ns2.nic.politie.	172800	IN	A	194.146.106.42
 ns2.nic.politie.	172800	IN	AAAA	2001:67c:1010:10::53
 ns3.nic.politie.	172800	IN	A	194.0.25.27
 ns3.nic.politie.	172800	IN	AAAA	2001:678:20::27
+ns4.nic.politie.	172800	IN	A	185.159.199.203
+ns4.nic.politie.	172800	IN	AAAA	2620:10a:80ac::203
 porn.	172800	IN	NS	a.nic.porn.
 porn.	172800	IN	NS	b.nic.porn.
 porn.	172800	IN	NS	c.nic.porn.

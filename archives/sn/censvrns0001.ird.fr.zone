@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443548 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443564 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [20/05/2022 22H00:01]"
+sn.	172800	IN	TXT	"No RRs processed [21/05/2022 00H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -379,8 +379,10 @@ aad.sn.	43200	IN	NS	ns3.kheweul.net.
 aad.sn.	43200	IN	NS	ns4.kheweul.net.
 aars.sn.	43200	IN	NS	pdns09.domaincontrol.com.
 aars.sn.	43200	IN	NS	pdns10.domaincontrol.com.
-aarsenegal.sn.	172800	IN	NS	ns1.siteground.net.
-aarsenegal.sn.	172800	IN	NS	ns2.siteground.net.
+aarsenegal.sn.	172800	IN	NS	ns1.kheweul.net.
+aarsenegal.sn.	172800	IN	NS	ns2.kheweul.net.
+aarsenegal.sn.	172800	IN	NS	ns3.kheweul.net.
+aarsenegal.sn.	172800	IN	NS	ns4.kheweul.net.
 aas.sn.	43200	IN	NS	ns1.aas.sn.
 aas.sn.	43200	IN	NS	ns2.aas.sn.
 ns1.aas.sn.	43200	IN	A	31.207.33.106
@@ -13718,8 +13720,8 @@ msu.sn.	172800	IN	NS	ns32.infomaniak.com.
 mtarget.sn.	43200	IN	NS	ns-160-c.gandi.net.
 mtarget.sn.	43200	IN	NS	ns-175-b.gandi.net.
 mtarget.sn.	43200	IN	NS	ns-197-a.gandi.net.
-mtdassocies.sn.	172800	IN	NS	ns3.afriregister.com.
-mtdassocies.sn.	172800	IN	NS	ns01.afriregister.com.
+mtdassocies.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+mtdassocies.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 mtick.sn.	172800	IN	NS	ns1.francedns.com.
 mtick.sn.	172800	IN	NS	ns2.francedns.com.
 mtick.sn.	172800	IN	NS	ns3.francedns.com.
