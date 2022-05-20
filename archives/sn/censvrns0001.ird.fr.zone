@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443511 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443524 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [20/05/2022 16H20:01]"
+sn.	172800	IN	TXT	"7 RRs processed [20/05/2022 18H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -379,8 +379,8 @@ aad.sn.	43200	IN	NS	ns3.kheweul.net.
 aad.sn.	43200	IN	NS	ns4.kheweul.net.
 aars.sn.	43200	IN	NS	pdns09.domaincontrol.com.
 aars.sn.	43200	IN	NS	pdns10.domaincontrol.com.
-aarsenegal.sn.	172800	IN	NS	ns1.kheweul.net.
-aarsenegal.sn.	172800	IN	NS	ns2.kheweul.net.
+aarsenegal.sn.	172800	IN	NS	ns1.siteground.net.
+aarsenegal.sn.	172800	IN	NS	ns2.siteground.net.
 aas.sn.	43200	IN	NS	ns1.aas.sn.
 aas.sn.	43200	IN	NS	ns2.aas.sn.
 ns1.aas.sn.	43200	IN	A	31.207.33.106
@@ -5951,6 +5951,10 @@ dino-tech.sn.	172800	IN	NS	dns200.anycast.me.
 dino-tech.sn.	172800	IN	DS	16714 8 2 89691e2cbf3be59a903d4c3ea46edbf016ec5bcdb0196e9bb9b60a59a4ce60d9
 diocesezig.sn.	43200	IN	NS	eisdns1.expertis.sn.
 diocesezig.sn.	43200	IN	NS	eisdns2.expertis.sn.
+diongoma.sn.	172800	IN	NS	ns3.wanekoohost.com.
+diongoma.sn.	172800	IN	NS	ns4.wanekoohost.com.
+diongoma.sn.	172800	IN	NS	ns5.wanekoohost.com.
+diongoma.sn.	172800	IN	NS	ns6.wanekoohost.com.
 diotali.sn.	172800	IN	NS	eisdns1.expertis.sn.
 diotali.sn.	172800	IN	NS	eisdns2.expertis.sn.
 dioula.sn.	43200	IN	NS	ns200.anycast.me.
@@ -6879,6 +6883,8 @@ emessdigital.sn.	172800	IN	NS	ns5.wanekoohost.com.
 emessdigital.sn.	172800	IN	NS	ns6.wanekoohost.com.
 emguniversalauto.sn.	43200	IN	NS	ns1.ipower.com.
 emguniversalauto.sn.	43200	IN	NS	ns2.ipower.com.
+emia.sn.	172800	IN	NS	cp3.dnshostservices.com.
+emia.sn.	172800	IN	NS	cp4.dnshostservices.com.
 emirates.sn.	43200	IN	NS	ns3.emirates.com.
 emirates.sn.	43200	IN	NS	pdns124.ultradns.biz.
 emirates.sn.	43200	IN	NS	pdns124.ultradns.com.
@@ -18033,6 +18039,8 @@ seventruth.sn.	172800	IN	NS	ns10.jajeuf.com.
 seventystudio.sn.	43200	IN	NS	ns107.ovh.net.
 seventystudio.sn.	43200	IN	NS	dns107.ovh.net.
 seventystudio.sn.	43200	IN	DS	27994 8 2 a2fc2e590079773a6480a511ec0052b3a43bc0f2900a225259049c14e2b997d7
+sevsy.sn.	172800	IN	NS	cp3.dnshostservices.com.
+sevsy.sn.	172800	IN	NS	cp4.dnshostservices.com.
 seytoo.sn.	43200	IN	NS	ns10.ovh.ca.
 seytoo.sn.	43200	IN	NS	dns10.ovh.ca.
 seytoo.sn.	172800	IN	DS	63514 8 2 b1286f9b625fd12d5d7750cfed82dcc60f6bda030f87a890f9592b5d40ee4ff5
@@ -21151,8 +21159,6 @@ vosbesoinsservices.sn.	172800	IN	NS	ns1.kheweul.net.
 vosbesoinsservices.sn.	172800	IN	NS	ns2.kheweul.net.
 vosbesoinsservices.sn.	172800	IN	NS	ns3.kheweul.net.
 vosbesoinsservices.sn.	172800	IN	NS	ns4.kheweul.net.
-voxpop.sn.	43200	IN	NS	ns11.infomaniak.ch.
-voxpop.sn.	43200	IN	NS	ns12.infomaniak.ch.
 vpn.sn.	43200	IN	NS	jo.ns.cloudflare.com.
 vpn.sn.	43200	IN	NS	lee.ns.cloudflare.com.
 vrgames.sn.	43200	IN	NS	ns1.eco-dns.co.uk.
@@ -21323,6 +21329,13 @@ wazabi.sn.	43200	IN	NS	ns1045.ui-dns.org.
 wb.sn.	172800	IN	NS	ns1.prncpm.com.
 wb.sn.	172800	IN	NS	ns2.prncpm.com.
 wb.sn.	172800	IN	NS	ns3.prncpm.com.
+wdf.sn.	172800	IN	NS	ns1.markmonitor.com.
+wdf.sn.	172800	IN	NS	ns2.markmonitor.com.
+wdf.sn.	172800	IN	NS	ns3.markmonitor.com.
+wdf.sn.	172800	IN	NS	ns4.markmonitor.com.
+wdf.sn.	172800	IN	NS	ns5.markmonitor.com.
+wdf.sn.	172800	IN	NS	ns6.markmonitor.com.
+wdf.sn.	172800	IN	NS	ns7.markmonitor.com.
 wdm2roues.sn.	43200	IN	NS	ns.sonatel.sn.
 wdm2roues.sn.	43200	IN	NS	ns2.sonatel.sn.
 web.sn.	43200	IN	NS	ns16.ovh.net.
