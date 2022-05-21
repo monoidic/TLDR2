@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443634 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443652 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [21/05/2022 10H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [21/05/2022 12H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14662,9 +14662,8 @@ opendesign.sn.	172800	IN	NS	ns2.o2switch.net.
 opengeode.sn.	172800	IN	NS	ns1.netim.net.
 opengeode.sn.	172800	IN	NS	ns2.netim.net.
 opengeode.sn.	172800	IN	NS	ns3.netim.net.
-openjob.sn.	172800	IN	NS	ns1.francedns.com.
-openjob.sn.	172800	IN	NS	ns2.francedns.com.
-openjob.sn.	172800	IN	NS	ns3.francedns.com.
+openjob.sn.	172800	IN	NS	ns19.ovh.net.
+openjob.sn.	172800	IN	NS	dns19.ovh.net.
 opensoft.sn.	43200	IN	NS	ns-257.awsdns-32.com.
 opensoft.sn.	43200	IN	NS	ns-990.awsdns-59.net.
 opensoft.sn.	43200	IN	NS	ns-1226.awsdns-25.org.
@@ -14884,9 +14883,6 @@ osmose.sn.	43200	IN	NS	ns1.kheweul.net.
 osmose.sn.	43200	IN	NS	ns2.kheweul.net.
 osmose.sn.	43200	IN	NS	ns3.kheweul.net.
 osmose.sn.	43200	IN	NS	ns4.kheweul.net.
-osmoz.sn.	172800	IN	NS	ns11.ovh.net.
-osmoz.sn.	172800	IN	NS	dns11.ovh.net.
-osmoz.sn.	172800	IN	DS	57127 8 2 e5575163b7eef325a7cb44b49a5738335e6f682b7e4853177036528545e6b8bd
 osonsladeco.sn.	172800	IN	NS	ns1.a2hosting.com.
 osonsladeco.sn.	172800	IN	NS	ns2.a2hosting.com.
 osonsladeco.sn.	172800	IN	NS	ns3.a2hosting.com.
@@ -19060,9 +19056,9 @@ ssbet.sn.	172800	IN	NS	ns1-02.azure-dns.com.
 ssbet.sn.	172800	IN	NS	ns2-02.azure-dns.net.
 ssbet.sn.	172800	IN	NS	ns3-02.azure-dns.org.
 ssbet.sn.	172800	IN	NS	ns4-02.azure-dns.info.
-ssc.sn.	172800	IN	NS	ns1.francedns.com.
-ssc.sn.	172800	IN	NS	ns2.francedns.com.
-ssc.sn.	172800	IN	NS	ns3.francedns.com.
+ssc.sn.	172800	IN	NS	ns19.ovh.net.
+ssc.sn.	172800	IN	NS	dns19.ovh.net.
+ssc.sn.	172800	IN	DS	2929 8 2 479f710f50304ffe1b870875963cef3e3b8a662feb7fbbac144dfdae253be1fc
 sscm.sn.	43200	IN	NS	ns101.ovh.net.
 sscm.sn.	43200	IN	NS	dns101.ovh.net.
 ssi.sn.	43200	IN	NS	ns.sonatel.sn.
