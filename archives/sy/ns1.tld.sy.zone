@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052217 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052221 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1653206543"
+sy.	86400	IN	TXT	"Generation Time: 1653213735"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -3643,14 +3643,10 @@ ns1.hvac.sy.	86400	IN	A	185.216.132.119
 ns2.hvac.sy.	86400	IN	A	185.216.132.119
 hyfy.sy.	86400	IN	NS	suspend1.tld.sy.
 hyfy.sy.	86400	IN	NS	suspend2.tld.sy.
-hypernet.sy.	86400	IN	NS	dns1.hypernet.sy.
-hypernet.sy.	86400	IN	NS	dns2.hypernet.sy.
-dns1.hypernet.sy.	86400	IN	A	185.151.151.151
-dns2.hypernet.sy.	86400	IN	A	185.151.151.152
-hypertech.sy.	86400	IN	NS	dns1.hypertech.sy.
-hypertech.sy.	86400	IN	NS	dns2.hypertech.sy.
-dns1.hypertech.sy.	86400	IN	A	185.151.151.151
-dns2.hypertech.sy.	86400	IN	A	185.151.151.152
+hypernet.sy.	86400	IN	NS	suspend1.tld.sy.
+hypernet.sy.	86400	IN	NS	suspend2.tld.sy.
+hypertech.sy.	86400	IN	NS	suspend1.tld.sy.
+hypertech.sy.	86400	IN	NS	suspend2.tld.sy.
 hyundai.sy.	86400	IN	NS	ns1.pronet.sy.
 hyundai.sy.	86400	IN	NS	ns2.pronet.sy.
 iamthechef.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
@@ -7674,8 +7670,6 @@ your1site.sy.	86400	IN	NS	ns1.your1site.space.
 your1site.sy.	86400	IN	NS	ns2.your1site.space.
 youth.sy.	86400	IN	NS	dns1.namecheaphosting.com.
 youth.sy.	86400	IN	NS	dns2.namecheaphosting.com.
-ys.sy.	86400	IN	NS	suspend1.tld.sy.
-ys.sy.	86400	IN	NS	suspend2.tld.sy.
 yu.sy.	86400	IN	NS	suspend1.tld.sy.
 yu.sy.	86400	IN	NS	suspend2.tld.sy.
 yw.sy.	86400	IN	NS	ed.ns.cloudflare.com.
