@@ -1,4 +1,4 @@
-bf.	3600	IN	SOA	a.registre.bf. hostmaster.registre.bf. 2022052315 3600 1800 3600000 900
+bf.	3600	IN	SOA	a.registre.bf. hostmaster.registre.bf. 2022052317 3600 1800 3600000 900
 bf.	3600	IN	NS	a.registre.bf.
 bf.	3600	IN	NS	pch.ns.registre.bf.
 bf.	3600	IN	NS	ns-bf.nic.fr.
@@ -390,7 +390,7 @@ armp.bf.	3600	IN	NS	webgate1.dadhsoft.com.
 armp.bf.	3600	IN	NS	webgate2.dadhsoft.com.
 arse.bf.	3600	IN	NS	ns.kimsufi.com.
 arse.bf.	3600	IN	NS	ns3128347.ip-178-32-216.eu.
-art.bf.	3600	IN	TXT	"Generation Time: 1653318073"
+art.bf.	3600	IN	TXT	"Generation Time: 1653325267"
 dns-test.art.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.art.bf.	3600	IN	NS	ns2.dns-test.bf.
 artel.bf.	3600	IN	NS	nahouri.onatel.bf.
@@ -1068,7 +1068,7 @@ collegedelasalle.bf.	3600	IN	NS	ns.kimsufi.com.
 collegedelasalle.bf.	3600	IN	NS	ks311368.kimsufi.com.
 colycee.bf.	3600	IN	NS	ns1.lwsdns.com.
 colycee.bf.	3600	IN	NS	ns2.lwsdns.com.
-com.bf.	3600	IN	TXT	"Generation Time: 1653318073"
+com.bf.	3600	IN	TXT	"Generation Time: 1653325267"
 dns-test.com.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.com.bf.	3600	IN	NS	ns2.dns-test.bf.
 comincom.bf.	3600	IN	NS	nahouri.onatel.bf.
@@ -1365,7 +1365,7 @@ edimedia.bf.	3600	IN	NS	nsa.planethoster.net.
 edimedia.bf.	3600	IN	NS	nsb.planethoster.net.
 edst-univ-ouaga.bf.	3600	IN	NS	nahouri.onatel.bf.
 edst-univ-ouaga.bf.	3600	IN	NS	nahouri2.onatel.bf.
-edu.bf.	3600	IN	TXT	"Generation Time: 1653318073"
+edu.bf.	3600	IN	TXT	"Generation Time: 1653325268"
 dns-test.edu.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.edu.bf.	3600	IN	NS	ns2.dns-test.bf.
 educanet.bf.	3600	IN	NS	oubri.gov.bf.
@@ -2761,6 +2761,10 @@ ns1.orange.bf.	3600	IN	A	197.239.64.81
 ns2.orange.bf.	3600	IN	A	197.239.64.96
 orangebank.bf.	3600	IN	NS	dns1.cscdns.net.
 orangebank.bf.	3600	IN	NS	dns2.cscdns.net.
+orangebusiness.bf.	3600	IN	NS	mx1.orangebusiness.bf.
+orangebusiness.bf.	3600	IN	NS	mx2.orangebusiness.bf.
+mx1.orangebusiness.bf.	3600	IN	A	197.239.78.121
+mx2.orangebusiness.bf.	3600	IN	A	197.239.78.122
 orangeenergie.bf.	3600	IN	NS	dns1.cscdns.net.
 orangeenergie.bf.	3600	IN	NS	dns2.cscdns.net.
 orangeenergy.bf.	3600	IN	NS	dns1.cscdns.net.
@@ -2773,7 +2777,7 @@ ordremedecinsburkina.bf.	3600	IN	NS	ntoo.gov.bf.
 ordremedecinsburkina.bf.	3600	IN	NS	oubri.gov.bf.
 ordrepharmacien.bf.	3600	IN	NS	ns.kimsufi.com.
 ordrepharmacien.bf.	3600	IN	NS	ns331926.ip-178-32-223.eu.
-org.bf.	3600	IN	TXT	"Generation Time: 1653318073"
+org.bf.	3600	IN	TXT	"Generation Time: 1653325268"
 dns-test.org.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.org.bf.	3600	IN	NS	ns2.dns-test.bf.
 organeb.bf.	3600	IN	NS	ns1617.websitewelcome.com.
@@ -2909,7 +2913,7 @@ perfectorimmobilier.bf.	3600	IN	NS	ns3.a2hosting.com.
 perfectorimmobilier.bf.	3600	IN	NS	ns4.a2hosting.com.
 performancepartner.bf.	3600	IN	NS	ns1.o2switch.net.
 performancepartner.bf.	3600	IN	NS	ns2.o2switch.net.
-perso.bf.	3600	IN	TXT	"Generation Time: 1653318074"
+perso.bf.	3600	IN	TXT	"Generation Time: 1653325268"
 dns-test.perso.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.perso.bf.	3600	IN	NS	ns2.dns-test.bf.
 perspective.bf.	3600	IN	NS	cpanel7.lws-hosting.com.
@@ -3760,7 +3764,7 @@ unicom.bf.	3600	IN	NS	nahouri.onatel.bf.
 unicom.bf.	3600	IN	NS	nahouri2.onatel.bf.
 unisys.bf.	3600	IN	NS	ns1.lws-hosting.biz.
 unisys.bf.	3600	IN	NS	ns2.lws-hosting.biz.
-univ.bf.	3600	IN	TXT	"Generation Time: 1653318074"
+univ.bf.	3600	IN	TXT	"Generation Time: 1653325268"
 dns-test.univ.bf.	3600	IN	NS	ns1.dns-test.bf.
 dns-test.univ.bf.	3600	IN	NS	ns2.dns-test.bf.
 univ-bobo.bf.	3600	IN	NS	ns.univ-bobo.bf.
