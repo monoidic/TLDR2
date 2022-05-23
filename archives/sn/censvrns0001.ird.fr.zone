@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443969 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443981 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/05/2022 08H20:02]"
+sn.	172800	IN	TXT	"No RRs processed [23/05/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -302,6 +302,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 7xibar.sn.	172800	IN	NS	ns4.wanekoohost.com.
 7xibar.sn.	172800	IN	NS	ns5.wanekoohost.com.
 7xibar.sn.	172800	IN	NS	ns6.wanekoohost.com.
+8393.sn.	172800	IN	NS	pns101.cloudns.net.
+8393.sn.	172800	IN	NS	pns102.cloudns.net.
+8393.sn.	172800	IN	NS	pns103.cloudns.net.
+8393.sn.	172800	IN	NS	pns104.cloudns.net.
 880.sn.	172800	IN	NS	vip7.alidns.com.
 880.sn.	172800	IN	NS	vip8.alidns.com.
 881.sn.	172800	IN	NS	vip7.alidns.com.
@@ -3841,8 +3845,8 @@ cccs.sn.	43200	IN	NS	ns200.anycast.me.
 cccs.sn.	43200	IN	NS	dns200.anycast.me.
 cccs-finexco.sn.	43200	IN	NS	ns200.anycast.me.
 cccs-finexco.sn.	43200	IN	NS	dns200.anycast.me.
-ccd.sn.	43200	IN	NS	ns200.anycast.me.
-ccd.sn.	43200	IN	NS	dns200.anycast.me.
+ccd.sn.	172800	IN	NS	ns19.ovh.net.
+ccd.sn.	172800	IN	NS	dns19.ovh.net.
 ccdoc.sn.	43200	IN	NS	ns109.ovh.net.
 ccdoc.sn.	43200	IN	NS	dns109.ovh.net.
 ccf.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -14662,6 +14666,9 @@ onyx.sn.	43200	IN	DS	40804 8 2 696faad0b788af5ff7c6100cf1aee763aac04b7fa5c2920b9
 oo2.sn.	43200	IN	NS	ns103.ovh.net.
 oo2.sn.	43200	IN	NS	dns103.ovh.net.
 oo2.sn.	172800	IN	DS	62209 8 2 18172226856230d633404d9394786818e30dc71936b884f5deaabcf757e0bf0b
+oolusolar.sn.	172800	IN	NS	ns1.francedns.com.
+oolusolar.sn.	172800	IN	NS	ns2.francedns.com.
+oolusolar.sn.	172800	IN	NS	ns3.francedns.com.
 oovhcloud.sn.	43200	IN	NS	ns104.ovh.net.
 oovhcloud.sn.	43200	IN	NS	dns104.ovh.net.
 opale.sn.	43200	IN	NS	ns1.infomaniak.ch.
@@ -20914,6 +20921,8 @@ vbet.sn.	43200	IN	NS	ns2.101domain.com.
 vbet.sn.	43200	IN	NS	ns5.101domain.com.
 vecosenegal.sn.	43200	IN	NS	ns.sonatel.sn.
 vecosenegal.sn.	43200	IN	NS	ns2.sonatel.sn.
+vectra.sn.	172800	IN	NS	ns1.dns-parking.com.
+vectra.sn.	172800	IN	NS	ns2.dns-parking.com.
 vemet.sn.	43200	IN	NS	ns1.francedns.com.
 vemet.sn.	43200	IN	NS	ns2.francedns.com.
 vemet.sn.	43200	IN	NS	ns3.francedns.com.
