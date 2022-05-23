@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443995 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444009 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/05/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [23/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2244,6 +2244,9 @@ axes-cibles-com.sn.	172800	IN	NS	ns9.jokko-hosting.com.
 axiombarom.sn.	43200	IN	NS	ns01.trademarkarea.com.
 axiombarom.sn.	43200	IN	NS	ns02.trademarkarea.com.
 axiombarom.sn.	43200	IN	NS	ns03.trademarkarea.com.
+axis.sn.	172800	IN	NS	ns200.anycast.me.
+axis.sn.	172800	IN	NS	dns200.anycast.me.
+axis.sn.	172800	IN	DS	35284 8 2 0af05b6f14de324ce2ffa794cbd0d783d1b3c62ce1b19ee7169a847423fbd5ba
 axis-assurances.sn.	43200	IN	NS	ns104.ovh.net.
 axis-assurances.sn.	43200	IN	NS	dns104.ovh.net.
 axloutoth.sn.	43200	IN	NS	ns1.afrowebmaster.com.
@@ -6658,8 +6661,8 @@ edoxia.sn.	172800	IN	NS	dns101.ovh.net.
 edoxia.sn.	172800	IN	DS	4435 8 2 90bc1a82aec526ea118aa0db1eb06a57534b57f2e0f23dae352b2a83f4bc97ed
 edreams.sn.	43200	IN	NS	ns1.edreams.com.
 edreams.sn.	43200	IN	NS	ns2.edreams.com.
-eds.sn.	43200	IN	NS	ns.ddslweb.com.
-eds.sn.	43200	IN	NS	ns3075487.ip-147-135-221.eu.
+eds.sn.	172800	IN	NS	ns19.ovh.net.
+eds.sn.	172800	IN	NS	dns19.ovh.net.
 edu.sn.	43200	IN	NS	ns.nic.sn.
 edu.sn.	43200	IN	NS	ns.ucad.sn.
 edu.sn.	43200	IN	NS	ns3.cctld.sn.
@@ -8454,9 +8457,9 @@ gbs-btp.sn.	172800	IN	NS	ns2.o2switch.net.
 gbx.sn.	172800	IN	NS	ns20.ovh.net.
 gbx.sn.	172800	IN	NS	dns20.ovh.net.
 gbx.sn.	172800	IN	DS	58714 8 2 15aa1b7fa9d314b314f42b3f780d643c0bfa8e9ad2ee1278e55a2b3f37d65fb3
-gc-apad.sn.	172800	IN	NS	nsa.planethoster.net.
-gc-apad.sn.	172800	IN	NS	nsb.planethoster.net.
-gc-apad.sn.	172800	IN	NS	nsc.planethoster.net.
+gc-apad.sn.	172800	IN	NS	nsa.n0c.com.
+gc-apad.sn.	172800	IN	NS	nsb.n0c.com.
+gc-apad.sn.	172800	IN	NS	nsc.n0c.com.
 gcm.sn.	172800	IN	NS	ns15.afriregister.com.
 gcm.sn.	172800	IN	NS	ns25.afriregister.com.
 gcsolutions.sn.	43200	IN	NS	ns200.anycast.me.
