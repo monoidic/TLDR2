@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444009 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444028 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/05/2022 14H20:01]"
+sn.	172800	IN	TXT	"3 RRs processed [23/05/2022 16H30:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13817,9 +13817,8 @@ mycrone.sn.	172800	IN	NS	dns15.ovh.net.
 mycrone.sn.	172800	IN	DS	51874 8 2 63c7782a7b174e5110f09ebda11ca9c147a3abf54f38559e011416a2e8808e94
 ns3.myecole.sn.	172800	IN	A	160.153.246.32
 ns4.myecole.sn.	172800	IN	A	160.153.246.32
-myfeedback.sn.	172800	IN	NS	ns1.digitalocean.com.
-myfeedback.sn.	172800	IN	NS	ns2.digitalocean.com.
-myfeedback.sn.	172800	IN	NS	ns3.digitalocean.com.
+myfeedback.sn.	172800	IN	NS	ns1.caurys.net.
+myfeedback.sn.	172800	IN	NS	ns2.caurys.net.
 mygfmplus.sn.	172800	IN	NS	chan.ns.cloudflare.com.
 mygfmplus.sn.	172800	IN	NS	watson.ns.cloudflare.com.
 mygift.sn.	43200	IN	NS	ns1.wanekoohost.com.
@@ -20399,10 +20398,9 @@ translogistique.sn.	172800	IN	NS	ns3.kheweul.net.
 translogistique.sn.	172800	IN	NS	ns4.kheweul.net.
 transmersenegal.sn.	172800	IN	NS	ns15.afriregister.com.
 transmersenegal.sn.	172800	IN	NS	ns25.afriregister.com.
-transnumerik.sn.	43200	IN	NS	ns1-02.azure-dns.com.
-transnumerik.sn.	43200	IN	NS	ns2-02.azure-dns.net.
-transnumerik.sn.	43200	IN	NS	ns3-02.azure-dns.org.
-transnumerik.sn.	43200	IN	NS	ns4-02.azure-dns.info.
+transnumerik.sn.	172800	IN	NS	ns1.francedns.com.
+transnumerik.sn.	172800	IN	NS	ns2.francedns.com.
+transnumerik.sn.	172800	IN	NS	ns3.francedns.com.
 transpay.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 transpay.sn.	43200	IN	NS	nsmpro2.nordnet.com.
 transportsady.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -21477,6 +21475,10 @@ wifiexpresso.sn.	43200	IN	NS	ns4.kheweul.net.
 wigo.sn.	172800	IN	NS	ns200.anycast.me.
 wigo.sn.	172800	IN	NS	dns200.anycast.me.
 wigo.sn.	172800	IN	DS	59107 8 2 227baafa5efb036312a0292d973b51b1a511db30996291d901d53e4f87d07332
+wijkteamsvlaardingen.sn.	172800	IN	NS	dns3.cloudns.net.
+wijkteamsvlaardingen.sn.	172800	IN	NS	dns4.cloudns.net.
+wijkteamsvlaardingen.sn.	172800	IN	NS	dns7.cloudns.net.
+wijkteamsvlaardingen.sn.	172800	IN	NS	dns8.cloudns.net.
 wiko.sn.	43200	IN	NS	a.dns.gandi.net.
 wiko.sn.	43200	IN	NS	b.dns.gandi.net.
 wiko.sn.	43200	IN	NS	c.dns.gandi.net.
