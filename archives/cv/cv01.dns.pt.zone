@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022052001 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022052301 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -1583,6 +1583,9 @@ clarisbb.cv.	28800	IN	NS	ns1.clarisbb.cv.
 clarisbb.cv.	28800	IN	NS	ns2.clarisbb.cv.
 ns1.clarisbb.cv.	28800	IN	A	162.241.183.58
 ns2.clarisbb.cv.	28800	IN	A	162.241.78.129
+classificados.cv.	28800	IN	NS	ns1.digitalocean.com.
+classificados.cv.	28800	IN	NS	ns2.digitalocean.com.
+classificados.cv.	28800	IN	NS	ns3.digitalocean.com.
 claudiaramos.cv.	28800	IN	NS	ns1.webhs.org.
 claudiaramos.cv.	28800	IN	NS	ns2.webhs.org.
 claudiaramos.cv.	28800	IN	NS	ns3.webhs.org.
@@ -3942,8 +3945,16 @@ fctenis.cv.	28800	IN	NS	ns.viaoceanica.net.
 fctenis.cv.	28800	IN	NS	ns2.viaoceanica.net.
 fdcv.cv.	28800	IN	NS	ns1.gnldm1051.siteground.biz.
 fdcv.cv.	28800	IN	NS	ns2.gnldm1051.siteground.biz.
-fdi.cv.	28800	IN	NS	ns1000.mochahost.com.
-fdi.cv.	28800	IN	NS	ns2000.mochahost.com.
+fdi.cv.	28800	IN	NS	ns1.linode.com.
+fdi.cv.	28800	IN	NS	ns2.linode.com.
+fdi.cv.	28800	IN	NS	ns3.linode.com.
+fdi.cv.	28800	IN	NS	ns4.linode.com.
+fdi.cv.	28800	IN	NS	ns5.linode.com.
+fdi.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1819
+fdi.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1827
+fdi.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1981
+fdi.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1a63
+fdi.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:1b48
 fdp.cv.	86400	IN	NS	ns1.webs24h.com.
 fdp.cv.	86400	IN	NS	ns2.webs24h.com.
 fecad.cv.	28800	IN	NS	ns25.worldnic.com.
@@ -5621,8 +5632,8 @@ micotecnica.cv.	28800	IN	NS	ns7.mydnspt.net.
 micotecnica.cv.	28800	IN	NS	ns8.mydnspt.net.
 micromat.cv.	28800	IN	NS	ns1.alojamentos2.com.
 micromat.cv.	28800	IN	NS	ns2.alojamentos2.com.
-microtecnica.cv.	28800	IN	NS	ns1.webs24h.com.
-microtecnica.cv.	28800	IN	NS	ns2.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns1.webs24h.com.
+microtecnica.cv.	86400	IN	NS	ns2.webs24h.com.
 midi.cv.	28800	IN	NS	ns1.hyp.net.
 midi.cv.	28800	IN	NS	ns2.hyp.net.
 midi.cv.	28800	IN	NS	ns3.hyp.net.
@@ -6125,6 +6136,9 @@ oficomercial.cv.	28800	IN	NS	ns2.wtservers.com.
 oficomercial.cv.	28800	IN	NS	ns3.wtservers.com.
 oia.cv.	28800	IN	NS	ns1000.mochahost.com.
 oia.cv.	28800	IN	NS	ns2000.mochahost.com.
+oifood.cv.	28800	IN	NS	ns1.digitalocean.com.
+oifood.cv.	28800	IN	NS	ns2.digitalocean.com.
+oifood.cv.	28800	IN	NS	ns3.digitalocean.com.
 olamarhotel.cv.	28800	IN	NS	dns1.prime.cv.
 olamarhotel.cv.	28800	IN	NS	dns2.prime.cv.
 olicar.cv.	28800	IN	NS	ns1.world-name-server.com.
@@ -7850,8 +7864,9 @@ stem.cv.	28800	IN	NS	ns1.dnscpanel.com.
 stem.cv.	28800	IN	NS	ns2.dnscpanel.com.
 stet.cv.	28800	IN	NS	ns3.gismediarsl.com.
 stet.cv.	28800	IN	NS	ns4.gismediarsl.com.
-steve.cv.	28800	IN	NS	dns1.namecheaphosting.com.
-steve.cv.	28800	IN	NS	dns2.namecheaphosting.com.
+steve.cv.	28800	IN	NS	ns01.trademarkarea.com.
+steve.cv.	28800	IN	NS	ns02.trademarkarea.com.
+steve.cv.	28800	IN	NS	ns03.trademarkarea.com.
 stif.cv.	28800	IN	NS	ns1000.mochahost.com.
 stif.cv.	28800	IN	NS	ns2000.mochahost.com.
 stj.cv.	28800	IN	NS	ns1.gov.cv.
