@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443981 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222443995 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [23/05/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [23/05/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -17477,7 +17477,7 @@ senecare.sn.	43200	IN	NS	ns105.ovh.net.
 senecare.sn.	43200	IN	NS	dns105.ovh.net.
 senecartours.sn.	172800	IN	NS	ns112.ovh.net.
 senecartours.sn.	172800	IN	NS	dns112.ovh.net.
-senecartours.sn.	172800	IN	NS	ns3157322.ip-51-91-130.eu.
+senecartours.sn.	172800	IN	DS	21712 8 2 41bc2292e0315ca95dda53913c56a86edb2b7b1688d2e1ec11f0e6686eb193fb
 seneclic.sn.	172800	IN	NS	ns.gouv.sn.
 seneclic.sn.	172800	IN	NS	ns2.gouv.sn.
 seneclic.sn.	172800	IN	NS	ns3.gouv.sn.
@@ -20298,6 +20298,10 @@ tourisme-senegal.sn.	43200	IN	NS	dns111.ovh.net.
 tous.sn.	43200	IN	NS	nsgbr.comlaude.co.uk.
 tous.sn.	43200	IN	NS	nssui.comlaude.ch.
 tous.sn.	43200	IN	NS	nsusa.comlaude.net.
+touta.sn.	172800	IN	NS	ns3.wanekoohost.com.
+touta.sn.	172800	IN	NS	ns4.wanekoohost.com.
+touta.sn.	172800	IN	NS	ns5.wanekoohost.com.
+touta.sn.	172800	IN	NS	ns6.wanekoohost.com.
 toutaffaire.sn.	172800	IN	NS	ns1.kheweul.net.
 toutaffaire.sn.	172800	IN	NS	ns2.kheweul.net.
 toutaffaire.sn.	172800	IN	NS	ns3.kheweul.net.
