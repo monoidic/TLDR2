@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444205 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444218 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [24/05/2022 16H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [24/05/2022 18H20:02]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4363,6 +4363,10 @@ clinicaltrials.sn.	43200	IN	NS	demeter.is.co.za.
 clinicaltrials.sn.	43200	IN	NS	jupiter.is.co.za.
 clinicauto.sn.	43200	IN	NS	ns19.ovh.net.
 clinicauto.sn.	43200	IN	NS	dns19.ovh.net.
+clinique-du-soleil.sn.	172800	IN	NS	ns1.kheweul.net.
+clinique-du-soleil.sn.	172800	IN	NS	ns2.kheweul.net.
+clinique-du-soleil.sn.	172800	IN	NS	ns3.kheweul.net.
+clinique-du-soleil.sn.	172800	IN	NS	ns4.kheweul.net.
 cliniqueamitie.sn.	43200	IN	NS	ns.sonatel.sn.
 cliniqueamitie.sn.	43200	IN	NS	ns2.sonatel.sn.
 cliniquebellevue.sn.	43200	IN	NS	ns13.ovh.net.
@@ -11945,6 +11949,9 @@ leadershipacademy.sn.	43200	IN	NS	ns102.ovh.net.
 leadershipacademy.sn.	43200	IN	NS	dns102.ovh.net.
 leadersway.sn.	43200	IN	NS	eisdns1.expertis.sn.
 leadersway.sn.	43200	IN	NS	eisdns2.expertis.sn.
+leave.sn.	172800	IN	NS	ns200.anycast.me.
+leave.sn.	172800	IN	NS	dns200.anycast.me.
+leave.sn.	172800	IN	DS	5719 8 2 fc7ca0503626b2e98de31f83b086dcf89e17bcb2f838779e2a1be75c2b0ba958
 lebalma.sn.	43200	IN	NS	ns0.wixdns.net.
 lebalma.sn.	43200	IN	NS	ns1.wixdns.net.
 lebien.sn.	172800	IN	NS	ns1.youcan.shop.
@@ -15951,6 +15958,10 @@ promobile.sn.	43200	IN	NS	ns3.kheweul.net.
 promobile.sn.	43200	IN	NS	ns4.kheweul.net.
 promodont.sn.	43200	IN	NS	ns1.kheweul.net.
 promodont.sn.	43200	IN	NS	ns2.kheweul.net.
+promoged.sn.	172800	IN	NS	ns1.kheweul.net.
+promoged.sn.	172800	IN	NS	ns2.kheweul.net.
+promoged.sn.	172800	IN	NS	ns3.kheweul.net.
+promoged.sn.	172800	IN	NS	ns4.kheweul.net.
 promogem.sn.	172800	IN	NS	ns.gouv.sn.
 promogem.sn.	172800	IN	NS	ns2.gouv.sn.
 promogem.sn.	172800	IN	NS	ns3.gouv.sn.
