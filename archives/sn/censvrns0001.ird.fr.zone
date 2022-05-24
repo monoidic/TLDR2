@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444175 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444190 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [24/05/2022 12H20:01]"
+sn.	172800	IN	TXT	"5 RRs processed [24/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5475,10 +5475,6 @@ dci-sn.sn.	43200	IN	NS	ns1.servconfig.com.
 dci-sn.sn.	43200	IN	NS	ns2.servconfig.com.
 dcsc.sn.	172800	IN	NS	ns15.afriregister.com.
 dcsc.sn.	172800	IN	NS	ns25.afriregister.com.
-dds.sn.	43200	IN	NS	ns1.afrowebmaster.com.
-dds.sn.	43200	IN	NS	ns2.afrowebmaster.com.
-dds.sn.	43200	IN	NS	ns3.afrowebmaster.com.
-dds.sn.	43200	IN	NS	ns4.afrowebmaster.com.
 ddsm.sn.	172800	IN	NS	ns1.kheweul.net.
 ddsm.sn.	172800	IN	NS	ns2.kheweul.net.
 ddsm.sn.	172800	IN	NS	ns3.kheweul.net.
@@ -7209,6 +7205,10 @@ escrowpro.sn.	172800	IN	NS	ns2.francedns.com.
 escrowpro.sn.	172800	IN	NS	ns3.francedns.com.
 esebat.sn.	43200	IN	NS	ns1.kheweul.net.
 esebat.sn.	43200	IN	NS	ns2.kheweul.net.
+esemco.sn.	172800	IN	NS	ns3.wanekoohost.com.
+esemco.sn.	172800	IN	NS	ns4.wanekoohost.com.
+esemco.sn.	172800	IN	NS	ns5.wanekoohost.com.
+esemco.sn.	172800	IN	NS	ns6.wanekoohost.com.
 esge.sn.	43200	IN	NS	ns1.sh003.webhostbox.net.
 esge.sn.	43200	IN	NS	ns2.sh003.webhostbox.net.
 esiex.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -9339,6 +9339,10 @@ heg.sn.	43200	IN	NS	hosting100.arc.sn.
 helin.sn.	172800	IN	NS	ns102.ovh.net.
 helin.sn.	172800	IN	NS	dns102.ovh.net.
 helin.sn.	172800	IN	DS	3046 8 2 277f87a88e9f25cb3b628f154b923813848b28a15dde7bebb8166cf865782709
+heliocorp.sn.	172800	IN	NS	ns3.wanekoohost.com.
+heliocorp.sn.	172800	IN	NS	ns4.wanekoohost.com.
+heliocorp.sn.	172800	IN	NS	ns5.wanekoohost.com.
+heliocorp.sn.	172800	IN	NS	ns6.wanekoohost.com.
 heliostowers.sn.	43200	IN	NS	ns01.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns02.trademarkarea.com.
 heliostowers.sn.	43200	IN	NS	ns03.trademarkarea.com.
@@ -12498,9 +12502,6 @@ lundbeck.sn.	43200	IN	NS	nssui.comlaude.ch.
 lundbeck.sn.	43200	IN	NS	nsusa.comlaude.net.
 lunebleue.sn.	43200	IN	NS	ns112.ovh.net.
 lunebleue.sn.	43200	IN	NS	dns112.ovh.net.
-luuma-africa.sn.	172800	IN	NS	ns11.ovh.net.
-luuma-africa.sn.	172800	IN	NS	dns11.ovh.net.
-luuma-africa.sn.	172800	IN	DS	10732 8 2 6ec4028bba82df05f4acb2e1abe365453b88c7f99768de310d17f7d1a7a8cd9c
 luxclean.sn.	172800	IN	NS	ns200.anycast.me.
 luxclean.sn.	172800	IN	NS	dns200.anycast.me.
 luxclean.sn.	172800	IN	DS	25846 8 2 69ffaf850be3f2c21e208bdf7363e93355f9bf0aec2004189409d4470f911291
@@ -14294,7 +14295,6 @@ notairesdakar3.sn.	172800	IN	NS	ns1.contabo.net.
 notairesdakar3.sn.	172800	IN	NS	ns2.contabo.net.
 notairesen.sn.	172800	IN	NS	ns16.ovh.net.
 notairesen.sn.	172800	IN	NS	dns16.ovh.net.
-notairesen.sn.	172800	IN	DS	29914 8 2 f976ac83b41666388a2ba9b09b3f1801612f479cfaa6424aa82aa1f2741e8321
 notairesenegal.sn.	43200	IN	NS	cpanel9.lws-hosting.com.
 notairesenegal.sn.	43200	IN	NS	cpanel10.lws-hosting.com.
 notaireska.sn.	43200	IN	NS	nsmpro1.nordnet.com.
@@ -15457,6 +15457,9 @@ pharedesmamelles.sn.	43200	IN	NS	dns112.ovh.net.
 pharedesmamelles.sn.	172800	IN	DS	23599 8 2 f7acbd882ff290056b079f4383efffb996d1ab25ef69a02a5b490c448c558474
 pharesetbalises.sn.	43200	IN	NS	ns.sonatel.sn.
 pharesetbalises.sn.	43200	IN	NS	ns2.sonatel.sn.
+pharmacie-bamba.sn.	172800	IN	NS	ns19.ovh.net.
+pharmacie-bamba.sn.	172800	IN	NS	dns19.ovh.net.
+pharmacie-bamba.sn.	172800	IN	DS	30031 8 2 a0b448b5d60fdfd6aa640a9468eb50b1a9fa8144747a55c9af4352d1106bb3d2
 pharmacieconseil.sn.	172800	IN	NS	ns20.ovh.net.
 pharmacieconseil.sn.	172800	IN	NS	dns20.ovh.net.
 pharmacieconseil.sn.	172800	IN	DS	27595 8 2 637163cfb91f44a360fe6739ccbd4ea4272026f0a822724f1ea52d180eefe30f
@@ -21697,9 +21700,8 @@ xpress.sn.	43200	IN	NS	ns1.kheweul.net.
 xpress.sn.	43200	IN	NS	ns2.kheweul.net.
 xpress.sn.	43200	IN	NS	ns3.kheweul.net.
 xpress.sn.	43200	IN	NS	ns4.kheweul.net.
-xpressing.sn.	172800	IN	NS	ns1.wanekoohost.com.
-xpressing.sn.	172800	IN	NS	ns2.wanekoohost.com.
 xpressing.sn.	172800	IN	NS	ns3.wanekoohost.com.
+xpressing.sn.	172800	IN	NS	ns4.wanekoohost.com.
 xpressing.sn.	172800	IN	NS	ns5.wanekoohost.com.
 xpressing.sn.	172800	IN	NS	ns6.wanekoohost.com.
 xpresssales.sn.	43200	IN	NS	ns1.site4now.net.
