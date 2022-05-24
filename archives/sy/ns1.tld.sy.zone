@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052418 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052422 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1653379341"
+sy.	86400	IN	TXT	"Generation Time: 1653386535"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -2631,8 +2631,8 @@ e-mall.sy.	86400	IN	NS	auth1.syriatelisp.com.sy.
 e-mall.sy.	86400	IN	NS	auth2.syriatelisp.com.sy.
 e-sdra.sy.	86400	IN	NS	dns7.aya.sy.
 e-sdra.sy.	86400	IN	NS	dns8.aya.sy.
-e-soaq.sy.	86400	IN	NS	ns1.aldrtech.sy.
-e-soaq.sy.	86400	IN	NS	ns2.aldrtech.sy.
+e-soaq.sy.	86400	IN	NS	suspend1.tld.sy.
+e-soaq.sy.	86400	IN	NS	suspend2.tld.sy.
 e-souq.sy.	86400	IN	NS	suspend1.tld.sy.
 e-souq.sy.	86400	IN	NS	suspend2.tld.sy.
 e-syria.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -2858,8 +2858,8 @@ ns1.eshhanli.sy.	86400	IN	A	185.216.132.73
 ns2.eshhanli.sy.	86400	IN	A	185.216.132.73
 eshop.sy.	86400	IN	NS	ns1.topservers.biz.
 eshop.sy.	86400	IN	NS	ns2.topservers.biz.
-esoaq.sy.	86400	IN	NS	ns1.aldrtech.sy.
-esoaq.sy.	86400	IN	NS	ns2.aldrtech.sy.
+esoaq.sy.	86400	IN	NS	suspend1.tld.sy.
+esoaq.sy.	86400	IN	NS	suspend2.tld.sy.
 esoaqk.sy.	86400	IN	NS	ns1.aldrtech.sy.
 esoaqk.sy.	86400	IN	NS	ns2.aldrtech.sy.
 esouq.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -5759,10 +5759,8 @@ red.sy.	86400	IN	NS	suspend1.tld.sy.
 red.sy.	86400	IN	NS	suspend2.tld.sy.
 redacenter.sy.	86400	IN	NS	suspend1.tld.sy.
 redacenter.sy.	86400	IN	NS	suspend2.tld.sy.
-redbull.sy.	86400	IN	NS	pdns91.ultradns.biz.
-redbull.sy.	86400	IN	NS	pdns91.ultradns.com.
-redbull.sy.	86400	IN	NS	pdns91.ultradns.net.
-redbull.sy.	86400	IN	NS	pdns91.ultradns.org.
+redbull.sy.	86400	IN	NS	suspend1.tld.sy.
+redbull.sy.	86400	IN	NS	suspend2.tld.sy.
 redline.sy.	86400	IN	NS	ns3.tld.sy.
 redline.sy.	86400	IN	NS	ns4.tld.sy.
 reefdamas.sy.	86400	IN	NS	ns3.tld.sy.
