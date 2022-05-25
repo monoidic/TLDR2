@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444426 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444439 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/05/2022 22H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [26/05/2022 00H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1556,7 +1556,6 @@ angel.sn.	43200	IN	NS	ns1.kheweul.net.
 angel.sn.	43200	IN	NS	ns2.kheweul.net.
 angel.sn.	43200	IN	NS	ns3.kheweul.net.
 angel.sn.	43200	IN	NS	ns4.kheweul.net.
-anida.sn.	172800	IN	NS	ns16.lwsdns.com.
 anida.sn.	172800	IN	NS	ns17.lwsdns.com.
 anida.sn.	172800	IN	NS	ns18.lwsdns.com.
 anida.sn.	172800	IN	NS	ns113.ovh.net.
@@ -12942,8 +12941,8 @@ matontine.sn.	43200	IN	NS	ns1.name.com.
 matontine.sn.	43200	IN	NS	ns2.name.com.
 matookai.sn.	43200	IN	NS	ns.sonatel.sn.
 matookai.sn.	43200	IN	NS	ns2.sonatel.sn.
-matpro.sn.	43200	IN	NS	ns5.afriregister.com.
-matpro.sn.	43200	IN	NS	ns6.afriregister.com.
+matpro.sn.	172800	IN	NS	ns5.afriregister.co.ke.
+matpro.sn.	172800	IN	NS	ns6.afriregister.co.ke.
 matrice.sn.	172800	IN	NS	kay.ns.cloudflare.com.
 matrice.sn.	172800	IN	NS	justin.ns.cloudflare.com.
 matsi.sn.	43200	IN	NS	ns1.kheweul.net.

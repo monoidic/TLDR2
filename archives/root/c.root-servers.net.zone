@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022052501 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022052502 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -1889,6 +1889,7 @@ biz.	172800	IN	NS	c.gtld.biz.
 biz.	172800	IN	NS	w.gtld.biz.
 biz.	172800	IN	NS	x.gtld.biz.
 biz.	172800	IN	NS	y.gtld.biz.
+biz.	86400	IN	DS	13075 8 2 5114c10474c1467017a378da75e6845511f78fea480a4469a3bafc54b2738e11
 biz.	86400	IN	DS	24415 8 1 c4c132ab72b9aa33c24c563f2f31f0bb0fa716fa
 biz.	86400	IN	DS	24415 8 2 fff5283786c2f37ba32f931210c57203907b993c8ceb5371a42f37f4600b05e4
 ns1.asnic.biz.	172800	IN	A	213.248.219.254
@@ -3542,6 +3543,7 @@ club.	172800	IN	NS	c.nic.club.
 club.	172800	IN	NS	ns1.dns.nic.club.
 club.	172800	IN	NS	ns2.dns.nic.club.
 club.	172800	IN	NS	ns3.dns.nic.club.
+club.	86400	IN	DS	20392 8 2 1f1ebacd947952ce4df8a80045ec37d088a49b72618feb92b91229de4d31b7b4
 club.	86400	IN	DS	29815 8 2 3b67f899b57454e924dd1efae729b8741d61ba9bc8d76cd888919e5c0950ca23
 a.nic.club.	172800	IN	A	37.209.192.10
 a.nic.club.	172800	IN	AAAA	2001:dcd:1::10
@@ -3905,6 +3907,7 @@ compare.	172800	IN	NS	a.nic.compare.
 compare.	172800	IN	NS	b.nic.compare.
 compare.	172800	IN	NS	c.nic.compare.
 compare.	172800	IN	NS	d.nic.compare.
+compare.	86400	IN	DS	12634 8 2 40c8dbba65ac7385a2dd35e299ee6010d850197dd7a438dccac7d13c2d32d953
 compare.	86400	IN	DS	27247 8 1 9632b83062d105d5127adaaf48a903ea59412b7c
 compare.	86400	IN	DS	27247 8 2 9c040b1abf9e9ba4163df955d707caad1c16ff61536325442a53a17a5e62fb9d
 a.nic.compare.	172800	IN	A	37.209.192.9
@@ -4141,6 +4144,7 @@ courses.	172800	IN	NS	c.nic.courses.
 courses.	172800	IN	NS	d.nic.courses.
 courses.	86400	IN	DS	24019 8 1 21d98e9f78b45406f909e6cf3ef2fe04ac663b0f
 courses.	86400	IN	DS	24019 8 2 8ebde93dc2260c5bcc11feb6d32816d499b62ecc2ad87352e7ca56c736ec7835
+courses.	86400	IN	DS	34960 8 2 dc3b228b7e6f2eea82fad1adeb93171d4d3ca3892a3e0e94035cd89d258df087
 a.nic.courses.	172800	IN	A	37.209.192.9
 a.nic.courses.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.courses.	172800	IN	A	37.209.194.9
@@ -10632,6 +10636,7 @@ melbourne.	172800	IN	NS	a.nic.melbourne.
 melbourne.	172800	IN	NS	b.nic.melbourne.
 melbourne.	172800	IN	NS	c.nic.melbourne.
 melbourne.	172800	IN	NS	d.nic.melbourne.
+melbourne.	86400	IN	DS	3487 8 2 a1b0b1ca0f068e57760b7a4183de3620eb0be059006f36d07fed827424f89589
 melbourne.	86400	IN	DS	13069 8 1 2772ab2cda84afad2ea615df3672be03cd8cda4a
 melbourne.	86400	IN	DS	13069 8 2 21a0f9a377a102caa47b4ab6e7e10278c50f1e57702bd20c6e6a1c1a02e2e314
 a.nic.melbourne.	172800	IN	A	37.209.192.10
@@ -11833,6 +11838,7 @@ neustar.	172800	IN	NS	ns5.dns.nic.neustar.
 neustar.	172800	IN	NS	ns6.dns.nic.neustar.
 neustar.	86400	IN	DS	14011 8 1 f26e7f67ab6fdf6a43f2588b55ce27af0bb1b53c
 neustar.	86400	IN	DS	14011 8 2 bf5885d589304956db40023a973f37cb1378075403409c215d6d458803eec804
+neustar.	86400	IN	DS	32962 8 2 9bc1d8d086284962e03fa43ae37ac80f2d784218cea1ef02b322220f5e15cafe
 a.nic.neustar.	172800	IN	A	37.209.192.9
 a.nic.neustar.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.neustar.	172800	IN	A	37.209.194.9
@@ -12207,6 +12213,7 @@ nyc.	172800	IN	NS	ns1.dns.nic.nyc.
 nyc.	172800	IN	NS	ns2.dns.nic.nyc.
 nyc.	172800	IN	NS	ns3.dns.nic.nyc.
 nyc.	86400	IN	DS	3301 8 2 f2ad13a31174fdec87007ea1bcbadfb94e3ede6bd69f10eab0165f6518bd010f
+nyc.	86400	IN	DS	12811 8 2 a5f2ec128186e5ba7f44ae789ed94f96e32811a68407d40e7073e2a58e8a1341
 a.nic.nyc.	172800	IN	A	37.209.192.10
 a.nic.nyc.	172800	IN	AAAA	2001:dcd:1::10
 b.nic.nyc.	172800	IN	A	37.209.194.10
@@ -14911,6 +14918,7 @@ select.	172800	IN	NS	c.nic.select.
 select.	172800	IN	NS	d.nic.select.
 select.	86400	IN	DS	29959 8 1 fafc55e79b3cbd46d36cffbb8f662dafaa25c1c0
 select.	86400	IN	DS	29959 8 2 e0ab27e345702401c6c3a5780c94663a07f64b728bfeb2186d76b720679f5911
+select.	86400	IN	DS	63907 8 2 67ffd642d56c519c3a3f78f2396dcc30d237a0cd5f5a32ddff33834128698472
 a.nic.select.	172800	IN	A	37.209.192.9
 a.nic.select.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.select.	172800	IN	A	37.209.194.9
@@ -15845,6 +15853,7 @@ study.	172800	IN	NS	a.nic.study.
 study.	172800	IN	NS	b.nic.study.
 study.	172800	IN	NS	c.nic.study.
 study.	172800	IN	NS	d.nic.study.
+study.	86400	IN	DS	52297 8 2 d306e55ce201ddd1ea5fd896b2fa4389a25f3b9d71e2f91076b65552d421acff
 study.	86400	IN	DS	53764 8 1 3e8a88b859e3ef06c80f5a15bf39ed62ff7b3539
 study.	86400	IN	DS	53764 8 2 f84d7b589e865ff226e20ce8155a61a94f8aac72e3c0dd781527f6666b63c487
 a.nic.study.	172800	IN	A	37.209.192.10
@@ -16033,6 +16042,7 @@ sydney.	172800	IN	NS	a.nic.sydney.
 sydney.	172800	IN	NS	b.nic.sydney.
 sydney.	172800	IN	NS	c.nic.sydney.
 sydney.	172800	IN	NS	d.nic.sydney.
+sydney.	86400	IN	DS	38014 8 2 a5cd19204ca09e64b3a91aa6bf40955e4b7553cf8f288b15d4ce93b4a0b428be
 sydney.	86400	IN	DS	55807 8 1 ac954040a2f5f44232a82be3fbaa328e9912e99a
 sydney.	86400	IN	DS	55807 8 2 8feecd2ca0af01aac8d261b48e9c4f1afe8a143ed47f3783443c11bd9a1ed38c
 a.nic.sydney.	172800	IN	A	37.209.192.10
@@ -17310,6 +17320,7 @@ us.	172800	IN	NS	x.cctld.us.
 us.	172800	IN	NS	y.cctld.us.
 us.	86400	IN	DS	21364 8 1 260d0461242bcf8f05473a08b05ed01e6fa59b9c
 us.	86400	IN	DS	21364 8 2 b499cfa7b54d25fde1e6fe93076fb013daa664da1f26585324740a1e6ebdab26
+us.	86400	IN	DS	46144 8 2 0c67e6017124bf19d50be565cc486ff3cfe2a278fe2e5983ff97b2a453386419
 ns5.asnic.us.	172800	IN	A	194.146.106.86
 ns5.asnic.us.	172800	IN	AAAA	2001:67c:1010:22::53
 b.cctld.us.	172800	IN	A	156.154.125.70
@@ -19458,6 +19469,7 @@ xn--ngbc5azd.	172800	IN	NS	c.nic.xn--ngbc5azd.
 xn--ngbc5azd.	172800	IN	NS	d.nic.xn--ngbc5azd.
 xn--ngbc5azd.	86400	IN	DS	46762 8 1 67dc52fa808ce60fb67d8683316ba514839948ac
 xn--ngbc5azd.	86400	IN	DS	46762 8 2 809e729e2dc01c83d02e580d26949bd77f8b2d4adfae98b685c95242ff13c4aa
+xn--ngbc5azd.	86400	IN	DS	57991 8 2 2cd63a89a2bd11a0d1f2a5aeaf04d5b07fb24f6ce9227fb2b5fc4c9d39c0ae20
 a.nic.xn--ngbc5azd.	172800	IN	A	37.209.192.3
 a.nic.xn--ngbc5azd.	172800	IN	AAAA	2001:dcd:1::3
 b.nic.xn--ngbc5azd.	172800	IN	A	37.209.194.3
