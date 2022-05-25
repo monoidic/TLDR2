@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444373 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444388 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [25/05/2022 14H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [25/05/2022 16H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5567,6 +5567,9 @@ deloitte.sn.	43200	IN	NS	dns1.deloitte.sn.
 dns1.deloitte.sn.	43200	IN	A	193.221.117.200
 delphinus.sn.	43200	IN	NS	ns.sonatel.sn.
 delphinus.sn.	43200	IN	NS	ns2.sonatel.sn.
+delta-senegal.sn.	172800	IN	NS	ns200.anycast.me.
+delta-senegal.sn.	172800	IN	NS	dns200.anycast.me.
+delta-senegal.sn.	172800	IN	DS	27862 8 2 8a166be10fd35105b7b638f4d49a16266dd4b68a92987c77b2d8949d6d05d3db
 deltainterim.sn.	172800	IN	NS	ns101.ovh.net.
 deltainterim.sn.	172800	IN	NS	dns101.ovh.net.
 deltainterim.sn.	172800	IN	DS	6079 8 2 9fe4efeec35be90b23dcd85ae4f0bc9137d99cfdcf62da7fe2c5bd84a5fff16c
@@ -7474,6 +7477,8 @@ examen.sn.	43200	IN	NS	ns1.bluehost.com.
 examen.sn.	43200	IN	NS	ns2.bluehost.com.
 excellec.sn.	43200	IN	NS	nsmpro1.nordnet.com.
 excellec.sn.	43200	IN	NS	nsmpro2.nordnet.com.
+excellencecouture.sn.	172800	IN	NS	beth.ns.cloudflare.com.
+excellencecouture.sn.	172800	IN	NS	nile.ns.cloudflare.com.
 excellium-services.sn.	43200	IN	NS	ns1.eurodns.com.
 excellium-services.sn.	43200	IN	NS	ns2.eurodns.com.
 excellium-services.sn.	43200	IN	NS	ns3.eurodns.com.
@@ -12034,6 +12039,10 @@ lekgroup.sn.	172800	IN	NS	ns2.dns-parking.com.
 lekk.sn.	172800	IN	NS	ns100.ovh.net.
 lekk.sn.	172800	IN	NS	dns100.ovh.net.
 lekk.sn.	172800	IN	DS	60889 8 2 7408a8c0eda4c55b120967147c6167e7f6baee5825d96b1903a01fc9f0ada266
+lekkufi.sn.	172800	IN	NS	ns1.kheweul.net.
+lekkufi.sn.	172800	IN	NS	ns2.kheweul.net.
+lekkufi.sn.	172800	IN	NS	ns3.kheweul.net.
+lekkufi.sn.	172800	IN	NS	ns4.kheweul.net.
 leluxe.sn.	172800	IN	NS	ns0.thundercloud.uk.
 leluxe.sn.	172800	IN	NS	ns1.thundercloud.uk.
 lemandat.sn.	172800	IN	NS	ns1.o2switch.net.
@@ -18739,6 +18748,8 @@ softgal.sn.	43200	IN	NS	ns1.kheweul.net.
 softgal.sn.	43200	IN	NS	ns2.kheweul.net.
 softpro.sn.	43200	IN	NS	ns1.kheweul.net.
 softpro.sn.	43200	IN	NS	ns2.kheweul.net.
+softsolution.sn.	172800	IN	NS	ns3.afriregister.com.
+softsolution.sn.	172800	IN	NS	ns9.afriregister.co.ke.
 sogas.sn.	43200	IN	NS	ns200.anycast.me.
 sogas.sn.	43200	IN	NS	dns200.anycast.me.
 sogec-btp.sn.	43200	IN	NS	nsmpro1.nordnet.com.
