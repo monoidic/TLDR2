@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444524 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444537 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"4 RRs processed [26/05/2022 12H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [26/05/2022 14H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4312,6 +4312,8 @@ citroen-origins.sn.	43200	IN	NS	c.dns.gandi.net.
 citroenorigins.sn.	172800	IN	NS	ns-30-a.gandi.net.
 citroenorigins.sn.	172800	IN	NS	ns-59-b.gandi.net.
 citroenorigins.sn.	172800	IN	NS	ns-204-c.gandi.net.
+citypub.sn.	172800	IN	NS	ns13.ovh.net.
+citypub.sn.	172800	IN	NS	dns13.ovh.net.
 citysen.sn.	43200	IN	NS	ns11.ovh.net.
 citysen.sn.	43200	IN	NS	dns11.ovh.net.
 citytech.sn.	43200	IN	NS	ns1.kheweul.net.
@@ -8213,7 +8215,7 @@ franservices.sn.	172800	IN	DS	65362 8 2 8e0baee44f1d5395c1a75095be399d701b41a72d
 free.sn.	43200	IN	NS	ns1.free.sn.
 free.sn.	43200	IN	NS	ns2.free.sn.
 ns1.free.sn.	43200	IN	A	154.65.34.29
-ns2.free.sn.	43200	IN	A	41.208.148.36
+ns2.free.sn.	172800	IN	A	102.164.141.29
 free-partenaires.sn.	172800	IN	NS	ns1.free.sn.
 free-partenaires.sn.	172800	IN	NS	ns2.free.sn.
 free-senegal.sn.	43200	IN	NS	ns1.servconfig.com.
@@ -21611,9 +21613,6 @@ worldremit.sn.	43200	IN	NS	ns1.markmonitor.com.
 worldremit.sn.	43200	IN	NS	ns2.markmonitor.com.
 worldremit.sn.	43200	IN	NS	ns3.markmonitor.com.
 worldremit.sn.	43200	IN	NS	ns4.markmonitor.com.
-worldsport.sn.	172800	IN	NS	ns200.anycast.me.
-worldsport.sn.	172800	IN	NS	dns200.anycast.me.
-worldsport.sn.	172800	IN	DS	28801 8 2 f55698ec915c7cb6b517af645f54ea9af84d7418607cef3e08ff73b48e1dd7f2
 worldwaterforum.sn.	172800	IN	NS	ns1.linode.com.
 worldwaterforum9.sn.	43200	IN	NS	ns1.bdm.microsoftonline.com.
 worldwaterforum9.sn.	43200	IN	NS	ns2.bdm.microsoftonline.com.
