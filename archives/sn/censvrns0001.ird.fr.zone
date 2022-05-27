@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444675 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444690 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [27/05/2022 08H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [27/05/2022 10H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4606,8 +4606,8 @@ cognebusiness.sn.	172800	IN	NS	ns2.md-45.webhostbox.net.
 cohin-environnement.sn.	172800	IN	NS	ns200.anycast.me.
 cohin-environnement.sn.	172800	IN	NS	dns200.anycast.me.
 cohin-environnement.sn.	172800	IN	DS	61969 8 2 1ef0cb9c7941441044615296235f2e3e8958c38dd9e2220a3129c1972b44c1bf
-coin.sn.	172800	IN	NS	ns1.sedoparking.com.
-coin.sn.	172800	IN	NS	ns2.sedoparking.com.
+coin.sn.	172800	IN	NS	ian.ns.cloudflare.com.
+coin.sn.	172800	IN	NS	miki.ns.cloudflare.com.
 coinafrique.sn.	43200	IN	NS	ns1.francedns.com.
 coinafrique.sn.	43200	IN	NS	ns2.francedns.com.
 coinafrique.sn.	43200	IN	NS	ns3.francedns.com.
@@ -4689,8 +4689,6 @@ communedekedougou.sn.	172800	IN	NS	ns101.ovh.net.
 communedekedougou.sn.	172800	IN	NS	dns101.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	ns18.ovh.net.
 communedekeursambakane.sn.	43200	IN	NS	dns18.ovh.net.
-communedekoul.sn.	43200	IN	NS	dns1.namecheaphosting.com.
-communedekoul.sn.	43200	IN	NS	dns2.namecheaphosting.com.
 communedesangalkam.sn.	172800	IN	NS	ns200.anycast.me.
 communedesangalkam.sn.	172800	IN	NS	dns200.anycast.me.
 communedesangalkam.sn.	172800	IN	DS	36082 8 2 bc5afaff339f6644b9ea38a369f2ffc8df05d7f09bf48cbbefb20d87ab352764
@@ -13558,8 +13556,6 @@ monauto.sn.	43200	IN	NS	ns2.francedns.com.
 monauto.sn.	43200	IN	NS	ns3.francedns.com.
 moncallcenter.sn.	43200	IN	NS	ns104.ovh.net.
 moncallcenter.sn.	43200	IN	NS	dns104.ovh.net.
-monchezmoi.sn.	43200	IN	NS	ns5.jajeuf.com.
-monchezmoi.sn.	43200	IN	NS	ns6.jajeuf.com.
 mondialannonce.sn.	172800	IN	NS	ns1.inmotionhosting.com.
 mondialannonce.sn.	172800	IN	NS	ns2.inmotionhosting.com.
 mondialbusiness.sn.	43200	IN	NS	ns.sonatel.sn.
@@ -14122,8 +14118,8 @@ nexusgroup.sn.	172800	IN	NS	ns1.ascio.com.
 nexusgroup.sn.	172800	IN	NS	ns2.ascio.com.
 nexusgroup.sn.	172800	IN	NS	ns3.ascio.com.
 nexusgroup.sn.	172800	IN	NS	ns4.ascio.com.
-nft.sn.	172800	IN	NS	ns1.sedoparking.com.
-nft.sn.	172800	IN	NS	ns2.sedoparking.com.
+nft.sn.	172800	IN	NS	maxine.ns.cloudflare.com.
+nft.sn.	172800	IN	NS	kianchau.ns.cloudflare.com.
 nfts.sn.	172800	IN	NS	ns1.francedns.com.
 nfts.sn.	172800	IN	NS	ns2.francedns.com.
 nfts.sn.	172800	IN	NS	ns3.francedns.com.
@@ -20187,8 +20183,8 @@ tok.sn.	172800	IN	NS	ns2.gransy.com.
 tok.sn.	172800	IN	NS	ns3.gransy.com.
 tok.sn.	172800	IN	NS	ns4.gransy.com.
 tok.sn.	172800	IN	NS	ns5.gransy.com.
-token.sn.	172800	IN	NS	ns1.sedoparking.com.
-token.sn.	172800	IN	NS	ns2.sedoparking.com.
+token.sn.	172800	IN	NS	maxine.ns.cloudflare.com.
+token.sn.	172800	IN	NS	kianchau.ns.cloudflare.com.
 tokoroma.sn.	43200	IN	NS	ns1.kheweul.net.
 tokoroma.sn.	43200	IN	NS	ns2.kheweul.net.
 tokoroma.sn.	43200	IN	NS	ns3.kheweul.net.
