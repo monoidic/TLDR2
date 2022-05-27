@@ -1,4 +1,4 @@
-cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022052501 86400 7200 2592000 300
+cv.	28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022052701 86400 7200 2592000 300
 cv.	28800	IN	NS	c.dns.pt.
 cv.	28800	IN	NS	ns.dns.cv.
 cv.	28800	IN	NS	cv01.dns.pt.
@@ -4747,6 +4747,10 @@ imenu.cv.	28800	IN	NS	ns1.wtservers.com.
 imenu.cv.	28800	IN	NS	ns2.wtservers.com.
 imenu.cv.	28800	IN	NS	ns3.wtservers.com.
 imenu.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
+imobiliariaglobal.cv.	28800	IN	NS	ns1.mysecurecloudhost.com.
+imobiliariaglobal.cv.	28800	IN	NS	ns2.mysecurecloudhost.com.
+imobiliariaglobal.cv.	28800	IN	NS	ns3.mysecurecloudhost.com.
+imobiliariaglobal.cv.	28800	IN	NS	ns4.mysecurecloudhost.com.
 imobiliariaporta-aberta.cv.	28800	IN	NS	ned.ns.cloudflare.com.
 imobiliariaporta-aberta.cv.	28800	IN	NS	bonnie.ns.cloudflare.com.
 mail.imobiliariaporta-aberta.cv.	28800	IN	A	151.236.56.134
@@ -5453,10 +5457,10 @@ mansainstitute.cv.	28800	IN	NS	ns1.mydnspt.net.
 mansainstitute.cv.	28800	IN	NS	ns2.mydnspt.net.
 mansainstitute.cv.	28800	IN	NS	ns7.mydnspt.net.
 mansainstitute.cv.	28800	IN	NS	ns8.mydnspt.net.
-mantadivingcenter.cv.	28800	IN	NS	dns1.rede1024.com.
-mantadivingcenter.cv.	28800	IN	NS	dns2.rede1024.com.
-mantadivingcenter.cv.	28800	IN	NS	dns3.rede1024.com.
-mantadivingcenter.cv.	28800	IN	NS	dns4.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns1.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns2.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns3.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns4.rede1024.com.
 mantec.cv.	28800	IN	NS	ns1.hostkriolo.biz.
 mantec.cv.	28800	IN	NS	ns2.hostkriolo.biz.
 mantec.cv.	28800	IN	NS	ns3.hostkriolo.biz.
@@ -5542,6 +5546,9 @@ mccr.cv.	28800	IN	NS	ns1079.ifastnet.com.
 mccr.cv.	28800	IN	NS	ns2079.ifastnet.com.
 mck.cv.	28800	IN	NS	ns1.inmotionhosting.com.
 mck.cv.	28800	IN	NS	ns2.inmotionhosting.com.
+mcsolucoes.cv.	28800	IN	NS	ns1.dnscpanel.com.
+mcsolucoes.cv.	28800	IN	NS	ns2.dnscpanel.com.
+mcsolucoes.cv.	28800	IN	NS	ns3.dnscpanel.com.
 mediacabo.cv.	28800	IN	NS	ns.mediacabo.cv.
 ns.mediacabo.cv.	28800	IN	A	62.193.213.69
 mediasit.cv.	28800	IN	NS	ns11.bravehost.com.
@@ -5612,9 +5619,12 @@ metalluz.cv.	28800	IN	NS	ns1.fastdomain.com.
 metalluz.cv.	28800	IN	NS	ns2.fastdomain.com.
 metalo.cv.	28800	IN	NS	ns1.dnsurano.com.
 metalo.cv.	28800	IN	NS	ns2.dnsurano.com.
-metaverse.cv.	28800	IN	NS	ns.inwx.de.
-metaverse.cv.	28800	IN	NS	ns2.inwx.de.
-metaverse.cv.	28800	IN	NS	ns3.inwx.eu.
+metaverse.cv.	28800	IN	A	3.120.163.96
+metaverse.cv.	28800	IN	A	3.126.142.17
+metaverse.cv.	28800	IN	NS	ns1.dan.com.
+metaverse.cv.	28800	IN	NS	ns2.dan.com.
+metaverse.cv.	28800	IN	NS	verification-ucaxeb17.ns3.dan.hosting.
+metaverse.cv.	28800	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
 meteo.cv.	28800	IN	NS	ns1.gov.cv.
 meteo.cv.	28800	IN	NS	ns2.gov.cv.
 mettaclinic.cv.	28800	IN	NS	ns.inventadomains.com.
