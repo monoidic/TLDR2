@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444690 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444704 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [27/05/2022 10H20:01]"
+sn.	172800	IN	TXT	"No RRs processed [27/05/2022 12H20:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5517,9 +5517,9 @@ decpc.sn.	43200	IN	NS	ns1.ascio.com.
 decpc.sn.	43200	IN	NS	ns2.ascio.com.
 decpc.sn.	43200	IN	NS	ns3.ascio.com.
 decpc.sn.	43200	IN	NS	ns4.ascio.com.
-dectic.sn.	172800	IN	NS	cp5.dnshostservices.com.
-dectic.sn.	172800	IN	NS	cp6.dnshostservices.com.
-dectic.sn.	172800	IN	NS	ns19.lwsdns.com.
+dectic.sn.	172800	IN	NS	nsa.n0c.com.
+dectic.sn.	172800	IN	NS	nsb.n0c.com.
+dectic.sn.	172800	IN	NS	nsc.n0c.com.
 dectic.sn.	172800	IN	NS	ns20.lwsdns.com.
 dedegroupe.sn.	172800	IN	NS	ns16.ovh.net.
 dedegroupe.sn.	172800	IN	NS	dns16.ovh.net.
@@ -9264,8 +9264,8 @@ habysow.sn.	43200	IN	NS	ns2.caurys.net.
 hacapartners.sn.	172800	IN	NS	ns200.anycast.me.
 hacapartners.sn.	172800	IN	NS	dns200.anycast.me.
 hacapartners.sn.	172800	IN	DS	48331 8 2 c84398fc0183706f233e0630d05423ac411c00ff63d25c85e07d2897f2e7b4f5
-hackathon.sn.	172800	IN	NS	ns200.anycast.me.
-hackathon.sn.	172800	IN	NS	dns200.anycast.me.
+hackathon.sn.	172800	IN	NS	ns15.ovh.net.
+hackathon.sn.	172800	IN	NS	dns15.ovh.net.
 hackathon.sn.	172800	IN	DS	47284 8 2 7a0794f3616200cf0e5d5f931a07026f55150804b05f61c64f261d6cc19cb020
 hackerone.sn.	43200	IN	NS	a.ns.hackerone.com.
 hackerone.sn.	43200	IN	NS	b.ns.hackerone.com.
@@ -16598,6 +16598,8 @@ roqya.sn.	172800	IN	NS	ns3.kheweul.net.
 roqya.sn.	172800	IN	NS	ns4.kheweul.net.
 rosalux.sn.	43200	IN	NS	ns20.kelihost.com.
 rosalux.sn.	43200	IN	NS	ns22.kelihost.com.
+roukucrypto.sn.	172800	IN	NS	ns19.ovh.net.
+roukucrypto.sn.	172800	IN	NS	dns19.ovh.net.
 royalceramic.sn.	43200	IN	NS	ns112.ovh.net.
 royalceramic.sn.	43200	IN	NS	dns112.ovh.net.
 royalkids.sn.	43200	IN	NS	ns200.anycast.me.
@@ -20074,9 +20076,6 @@ thinkplace.sn.	43200	IN	NS	ns1-03.azure-dns.com.
 thinkplace.sn.	43200	IN	NS	ns2-03.azure-dns.net.
 thinkplace.sn.	43200	IN	NS	ns3-03.azure-dns.org.
 thinkplace.sn.	43200	IN	NS	ns4-03.azure-dns.info.
-thiofe.sn.	172800	IN	NS	ns15.ovh.net.
-thiofe.sn.	172800	IN	NS	dns15.ovh.net.
-thiofe.sn.	172800	IN	DS	55186 8 2 4b0b34d54f8f6f03aeebb524347361e01979348f998ec247e9fedb7362ee0c5f
 thiofel.sn.	172800	IN	NS	ns15.ovh.net.
 thiofel.sn.	172800	IN	NS	dns15.ovh.net.
 thiofel.sn.	172800	IN	DS	59044 8 2 985c905443aa8d1c9360cd495d40c6840ffc2a1ae4d73d8bdaf1c5fa55f26b1b
