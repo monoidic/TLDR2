@@ -1,4 +1,4 @@
-.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022052700 1800 900 604800 86400
+.	86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022052702 1800 900 604800 86400
 .	518400	IN	NS	a.root-servers.net.
 .	518400	IN	NS	b.root-servers.net.
 .	518400	IN	NS	c.root-servers.net.
@@ -352,6 +352,7 @@ afl.	172800	IN	NS	a.nic.afl.
 afl.	172800	IN	NS	b.nic.afl.
 afl.	172800	IN	NS	c.nic.afl.
 afl.	172800	IN	NS	d.nic.afl.
+afl.	86400	IN	DS	10006 8 2 de6443d2666e4f9e6066e1b7f1c42e3ce849246f4e1ea06ec86951a002a2efa6
 afl.	86400	IN	DS	11824 8 1 f0a5cb9b1c8b1e444a54255d0fc4d7de092b7495
 afl.	86400	IN	DS	11824 8 2 6d9c4eb8b0982e626b54d872a3aa7985052bcdc51f8b36331efc643607a8a6c5
 a.nic.afl.	172800	IN	A	37.209.192.9
@@ -721,6 +722,7 @@ anz.	172800	IN	NS	a.nic.anz.
 anz.	172800	IN	NS	b.nic.anz.
 anz.	172800	IN	NS	c.nic.anz.
 anz.	172800	IN	NS	d.nic.anz.
+anz.	86400	IN	DS	25084 8 2 6a107b65405bfe98c0cc040fbd91a29d9fc927fea447ca0ae4f5538ecf9fcba5
 anz.	86400	IN	DS	31474 8 1 4d5b3ee1e4b72f036b4d07b4f0a1e1cf983683d7
 anz.	86400	IN	DS	31474 8 2 b9404eac9d71e7bacf521d21d3b42e1e26d193326b2e301d262991838873b840
 a.nic.anz.	172800	IN	A	37.209.192.9
@@ -1141,6 +1143,7 @@ auspost.	172800	IN	NS	c.nic.auspost.
 auspost.	172800	IN	NS	d.nic.auspost.
 auspost.	86400	IN	DS	22195 8 1 cf3b35e745afde2b48063511f613461de99002c5
 auspost.	86400	IN	DS	22195 8 2 240aaf5f804b5bc6e982f5cb5b56109988ce3ce17f06ee9cb46533a9444df7e2
+auspost.	86400	IN	DS	23341 8 2 cdce581a5b4b9280a865fc7bd798572016629e0b4c56cac1a3fccefb0d4329a2
 a.nic.auspost.	172800	IN	A	37.209.192.9
 a.nic.auspost.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.auspost.	172800	IN	A	37.209.194.9
@@ -1420,6 +1423,7 @@ barclaycard.	172800	IN	NS	a.nic.barclaycard.
 barclaycard.	172800	IN	NS	b.nic.barclaycard.
 barclaycard.	172800	IN	NS	c.nic.barclaycard.
 barclaycard.	172800	IN	NS	d.nic.barclaycard.
+barclaycard.	86400	IN	DS	15487 8 2 f3f929e2a6d96201b95a077cecbd5233bf2e5c7e1f85ead8f68e7971d1c9590d
 barclaycard.	86400	IN	DS	28894 8 1 dcdaa8c8c256134ac4eec49149bc55d62d358144
 barclaycard.	86400	IN	DS	28894 8 2 3a8f6a7733425d561d3c93b3459dd41de9523ab48c2e63902141de3c53160847
 a.nic.barclaycard.	172800	IN	A	37.209.192.9
@@ -1436,6 +1440,7 @@ barclays.	172800	IN	NS	c.nic.barclays.
 barclays.	172800	IN	NS	d.nic.barclays.
 barclays.	86400	IN	DS	42991 8 1 d47f4296dbff9b5edb41f80bd370648e1e7f6951
 barclays.	86400	IN	DS	42991 8 2 42ff60dbbd4508ddf636154dfadcfec173bd3a58381624682ab19828db7812ec
+barclays.	86400	IN	DS	49234 8 2 ff3019bb346929fd7c7c18d11695b7d167027455605a9a3f0c9a0d34dc658e44
 a.nic.barclays.	172800	IN	A	37.209.192.9
 a.nic.barclays.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.barclays.	172800	IN	A	37.209.194.9
@@ -2688,6 +2693,7 @@ cancerresearch.	172800	IN	NS	a.nic.cancerresearch.
 cancerresearch.	172800	IN	NS	b.nic.cancerresearch.
 cancerresearch.	172800	IN	NS	c.nic.cancerresearch.
 cancerresearch.	172800	IN	NS	d.nic.cancerresearch.
+cancerresearch.	86400	IN	DS	33052 8 2 141a6f66ee2fef2c83ad1d2620ec21b25034c99ddd47f874d62bb8875fd23e40
 cancerresearch.	86400	IN	DS	33370 8 1 41f28c273569758f7b630765714574a0f6edb485
 cancerresearch.	86400	IN	DS	33370 8 2 b58b5a0eb455fa4f871229d089325c842f5c1ce82d13165d9b369945c976c224
 a.nic.cancerresearch.	172800	IN	A	37.209.192.9
@@ -2960,6 +2966,7 @@ catholic.	172800	IN	NS	a.nic.catholic.
 catholic.	172800	IN	NS	b.nic.catholic.
 catholic.	172800	IN	NS	c.nic.catholic.
 catholic.	172800	IN	NS	d.nic.catholic.
+catholic.	86400	IN	DS	20539 8 2 433482ce6522917b6f0c77c23765cdd4bdac8c05ff5012ffea892cc9dcdb07f8
 catholic.	86400	IN	DS	53692 8 1 f5a228b10cbd3d67eca6a39ba403ce5fe8658cd8
 catholic.	86400	IN	DS	53692 8 2 b83e78f24da985af7a32ba0ca2f50a0c2987afbe61554e59943d9742de5eddc8
 a.nic.catholic.	172800	IN	A	37.209.192.9
@@ -2976,6 +2983,7 @@ cba.	172800	IN	NS	c.nic.cba.
 cba.	172800	IN	NS	d.nic.cba.
 cba.	86400	IN	DS	38029 8 1 2db02e7f621ffd72689f35a5628c69f3cc79d154
 cba.	86400	IN	DS	38029 8 2 bb0fec5135843c727e016c4a6f048f63519a8cf3f2770fa5f96399052d3959df
+cba.	86400	IN	DS	44287 8 2 8ca6adaea243428a99943519846fd6f6bd355ec4990533d0569ee0e6075eb863
 a.nic.cba.	172800	IN	A	37.209.192.9
 a.nic.cba.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.cba.	172800	IN	A	37.209.194.9
@@ -3557,6 +3565,7 @@ cloud.	172800	IN	NS	a.nic.cloud.
 cloud.	172800	IN	NS	b.nic.cloud.
 cloud.	172800	IN	NS	c.nic.cloud.
 cloud.	172800	IN	NS	d.nic.cloud.
+cloud.	86400	IN	DS	23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
 cloud.	86400	IN	DS	49804 8 1 04b537d00c915e782432584948550bbb39ff88a0
 cloud.	86400	IN	DS	49804 8 2 7781c5d4ecf4bd0845b49d29b2e79bd1da1865725096faeb2d0393b78fd1049c
 a.nic.cloud.	172800	IN	A	37.209.192.10
@@ -3661,6 +3670,7 @@ co.	172800	IN	NS	ns4.cctld.co.
 co.	172800	IN	NS	ns5.cctld.co.
 co.	172800	IN	NS	ns6.cctld.co.
 co.	86400	IN	DS	43834 8 2 a68602ec30c4e5f5d33a624d35549a7f6a2c93939d4b210ba8fa484f3b0e084e
+co.	86400	IN	DS	61744 8 2 b9adca87453c1f69a9a524681f4179a88374c546a45892acc10e2653519accbd
 ns1.cctld.co.	172800	IN	A	37.209.192.14
 ns1.cctld.co.	172800	IN	AAAA	2001:dcd:1::14
 ns2.cctld.co.	172800	IN	A	37.209.194.14
@@ -3885,6 +3895,7 @@ commbank.	172800	IN	NS	a.nic.commbank.
 commbank.	172800	IN	NS	b.nic.commbank.
 commbank.	172800	IN	NS	c.nic.commbank.
 commbank.	172800	IN	NS	d.nic.commbank.
+commbank.	86400	IN	DS	25681 8 2 ccb3f1bcfd33d277ece719b8aad64a84b6722c4a46235605f3df06d435f59b6d
 commbank.	86400	IN	DS	58072 8 1 53a04a7bd180de205511b5c9f06a457cd77568a0
 commbank.	86400	IN	DS	58072 8 2 67feca98e70d1e0d4617131493e4f2482a84bfc7c2010191e3ad95828802166e
 a.nic.commbank.	172800	IN	A	37.209.192.9
@@ -4188,6 +4199,7 @@ cpa.	172800	IN	NS	a.nic.cpa.
 cpa.	172800	IN	NS	b.nic.cpa.
 cpa.	172800	IN	NS	c.nic.cpa.
 cpa.	172800	IN	NS	d.nic.cpa.
+cpa.	86400	IN	DS	25351 8 2 a5062c23ef5598a091792978fd4f5ba6729a9a30bfcf880fc1cc7d0708a3313d
 cpa.	86400	IN	DS	54610 8 1 657413d3a19c7a093e274bc92362860be1a295df
 cpa.	86400	IN	DS	54610 8 2 4f83272c58141be5b0b896885bf278913d4fed80c97a987af419eeae0e12b4ab
 a.nic.cpa.	172800	IN	A	37.209.192.9
@@ -4338,6 +4350,7 @@ cuisinella.	172800	IN	NS	a.nic.cuisinella.
 cuisinella.	172800	IN	NS	b.nic.cuisinella.
 cuisinella.	172800	IN	NS	c.nic.cuisinella.
 cuisinella.	172800	IN	NS	d.nic.cuisinella.
+cuisinella.	86400	IN	DS	7819 8 2 34ad4e3123591f60ca6f54ef8225c5b9ea2cf0325ca3af1c73da9be243c1fbbb
 cuisinella.	86400	IN	DS	32884 8 1 541534011376dfb30c5561cc0384368ad3734912
 cuisinella.	86400	IN	DS	32884 8 2 aa0cd861cf69ff2ad9de19afee1959cd90e99705655e92066c60300e7071235f
 a.nic.cuisinella.	172800	IN	A	37.209.192.9
@@ -6015,6 +6028,7 @@ film.	172800	IN	NS	c.nic.film.
 film.	172800	IN	NS	d.nic.film.
 film.	86400	IN	DS	27529 8 1 b833405f96ccfb29d081b92439c6ce52c2c8ebb0
 film.	86400	IN	DS	27529 8 2 440987eb442b23e5d43b8a909e7fb7d4b83af74ddf8524cc7705627eb246c7a5
+film.	86400	IN	DS	37210 8 2 713e96c6a83bf8e26d80db818d4061793b4c10405c13e7d9cf7d471ceefb6009
 a.nic.film.	172800	IN	A	37.209.192.10
 a.nic.film.	172800	IN	AAAA	2001:dcd:1::10
 b.nic.film.	172800	IN	A	37.209.194.10
@@ -6993,6 +7007,7 @@ giving.	172800	IN	NS	c.nic.giving.
 giving.	172800	IN	NS	d.nic.giving.
 giving.	86400	IN	DS	1765 8 1 1463d1513d5b0296f33785535432d39ecc5828df
 giving.	86400	IN	DS	1765 8 2 1618df5c2a76cce748aac4e7ec13769279985630d1025a03ba6b1827307e3f72
+giving.	86400	IN	DS	26905 8 2 0b1ca3761fdb84c32a89c19c795d99723c7c945dfba49b7d79323b6e515fd34c
 a.nic.giving.	172800	IN	A	37.209.192.9
 a.nic.giving.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.giving.	172800	IN	A	37.209.194.9
@@ -8140,6 +8155,7 @@ ibm.	172800	IN	NS	a.nic.ibm.
 ibm.	172800	IN	NS	b.nic.ibm.
 ibm.	172800	IN	NS	c.nic.ibm.
 ibm.	172800	IN	NS	d.nic.ibm.
+ibm.	86400	IN	DS	31492 8 2 5e5ccd88746b4cdf018723a143ec14d9fb139f0009545ad21ca6aab2e1e914e2
 ibm.	86400	IN	DS	58342 8 1 53a589d9bc85fe7b44fa9246f40f0a92ba296abf
 ibm.	86400	IN	DS	58342 8 2 bb327a18092431b06b9dabc26fc8c8aa14cd78aa9ebcbf747dbdd4a8f0470891
 a.nic.ibm.	172800	IN	A	37.209.192.9
@@ -9404,6 +9420,7 @@ krd.	172800	IN	NS	a.nic.krd.
 krd.	172800	IN	NS	b.nic.krd.
 krd.	172800	IN	NS	c.nic.krd.
 krd.	172800	IN	NS	d.nic.krd.
+krd.	86400	IN	DS	16384 8 2 c87c87e976d19afd0cb934b7aac7f85bb0e327d4d63931604f7ff495d0bb1e61
 krd.	86400	IN	DS	28207 8 1 ba9680c9d177e2d9336abb4e11bfe9656532438c
 krd.	86400	IN	DS	28207 8 2 6c10431cba25a8a35474a3ec8ef8736b82dbeb045ff01b146b7867261db1adf3
 a.nic.krd.	172800	IN	A	37.209.192.10
@@ -9617,6 +9634,7 @@ latrobe.	172800	IN	NS	c.nic.latrobe.
 latrobe.	172800	IN	NS	d.nic.latrobe.
 latrobe.	86400	IN	DS	1216 8 1 a32b85992a8bb0705f2373b56120f74dabf7ea68
 latrobe.	86400	IN	DS	1216 8 2 50fb3d6f77823ec0d5c4646cae48f6bf6d94353c5a0b51f393ce39a9c2e3a19e
+latrobe.	86400	IN	DS	18520 8 2 80ad6c51aceb853c834a7170b91f67c61a23751918e2ff96dafa047f7fb7d57b
 a.nic.latrobe.	172800	IN	A	37.209.192.9
 a.nic.latrobe.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.latrobe.	172800	IN	A	37.209.194.9
@@ -10768,6 +10786,7 @@ menu.	172800	IN	NS	c.nic.menu.
 menu.	172800	IN	NS	d.nic.menu.
 menu.	86400	IN	DS	12709 8 1 60e2efc44d0aea4ea1184a173a32bccaf4ad3ecd
 menu.	86400	IN	DS	12709 8 2 25bb11d71f6e0bfd1b158e8595d2fb6cf6f899733cfd19890604f8bc2d4c0df3
+menu.	86400	IN	DS	31309 8 2 dea786e2b9c069e2595d79b03f3a920b0342bfbc017ec606a0184340e9c9c88d
 a.nic.menu.	172800	IN	A	37.209.192.10
 a.nic.menu.	172800	IN	AAAA	2001:dcd:1::10
 b.nic.menu.	172800	IN	A	37.209.194.10
@@ -11075,6 +11094,7 @@ monash.	172800	IN	NS	c.nic.monash.
 monash.	172800	IN	NS	d.nic.monash.
 monash.	86400	IN	DS	5434 8 1 35c6fa4a15f0cdbdc7601f5f289cabd3660919d8
 monash.	86400	IN	DS	5434 8 2 62ea79cc91697bff821138d91aa9e914a98a26782e81d591ea95e06d066e99f4
+monash.	86400	IN	DS	59965 8 2 d344b67791659d1f21f6181494a347040694c757c57a8d76cbccfd00caa1348f
 a.nic.monash.	172800	IN	A	37.209.192.9
 a.nic.monash.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.monash.	172800	IN	A	37.209.194.9
@@ -11865,6 +11885,7 @@ netbank.	172800	IN	NS	c.nic.netbank.
 netbank.	172800	IN	NS	d.nic.netbank.
 netbank.	86400	IN	DS	35902 8 1 89b17043d0d3ce7af0eb8a31c85a73deaa0cf97d
 netbank.	86400	IN	DS	35902 8 2 57b153566eafa87641e479a573411d17200c41f7657a6942c2e4a031cf336c70
+netbank.	86400	IN	DS	61447 8 2 2e300d5e09bdd071679488d325666af89182213d8af2bd2d026c57f3fab5895e
 a.nic.netbank.	172800	IN	A	37.209.192.9
 a.nic.netbank.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.netbank.	172800	IN	A	37.209.194.9
@@ -12394,6 +12415,7 @@ olayan.	172800	IN	NS	c.nic.olayan.
 olayan.	172800	IN	NS	d.nic.olayan.
 olayan.	86400	IN	DS	2446 8 1 5b24bc35b6935f02902b8feef812a9c3d5ca4bd4
 olayan.	86400	IN	DS	2446 8 2 4445d21d27b2de5e541dd6d25d78a0ca3fc4d3d043a394504a20425bf6354aef
+olayan.	86400	IN	DS	60061 8 2 930e37d43f6f58965863b8906adadfdf0091edee90b6c8c0dd3a88ed5112d2c8
 a.nic.olayan.	172800	IN	A	37.209.192.9
 a.nic.olayan.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.olayan.	172800	IN	A	37.209.194.9
@@ -12408,6 +12430,7 @@ olayangroup.	172800	IN	NS	c.nic.olayangroup.
 olayangroup.	172800	IN	NS	d.nic.olayangroup.
 olayangroup.	86400	IN	DS	8167 8 1 d692cf5fc2e485af3bcbc25943966980cbbf2166
 olayangroup.	86400	IN	DS	8167 8 2 29eed078a8ee78ad555a12ebbab5703f59536a39087294b932475e15f7d96f9b
+olayangroup.	86400	IN	DS	12544 8 2 b8a9fb54eaa15ad63b37ca39a06e8ec0052d61d51a8d26d5a825f81c2e1850d7
 a.nic.olayangroup.	172800	IN	A	37.209.192.9
 a.nic.olayangroup.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.olayangroup.	172800	IN	A	37.209.194.9
@@ -12470,6 +12493,7 @@ one.	172800	IN	NS	c.nic.one.
 one.	172800	IN	NS	d.nic.one.
 one.	86400	IN	DS	14131 8 1 8c04b443ee763b8b67cdf0db0bbc832e24f560ee
 one.	86400	IN	DS	14131 8 2 8d11ff81a0e9bcc2719695cbe4d585b47aa3bde6cd28c5ac6e02bd919ca9b9e0
+one.	86400	IN	DS	56899 8 2 c28cde2f5e88289c26584a4e6871b41e0f0c2d5f7f2df2906e8fbb275ac4aa68
 a.nic.one.	172800	IN	A	37.209.192.9
 a.nic.one.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.one.	172800	IN	A	37.209.194.9
@@ -12950,6 +12974,7 @@ philips.	172800	IN	NS	a.nic.philips.
 philips.	172800	IN	NS	b.nic.philips.
 philips.	172800	IN	NS	c.nic.philips.
 philips.	172800	IN	NS	d.nic.philips.
+philips.	86400	IN	DS	3100 8 2 fa65d969b695c8e73ddc89724cae9d83e352b23b57cf5571fd711e2627026638
 philips.	86400	IN	DS	7399 8 1 6cb1ce9d4e5f1b9c1c18a06a46e386fd9348914c
 philips.	86400	IN	DS	7399 8 2 2aa0712d2789c62b0ce54241d07d96fe886bc1ebd70c034f95f7aa916755c1d2
 a.nic.philips.	172800	IN	A	37.209.192.9
@@ -13027,6 +13052,7 @@ physio.	172800	IN	NS	c.nic.physio.
 physio.	172800	IN	NS	d.nic.physio.
 physio.	86400	IN	DS	30721 8 1 9d12b11c8ef0551bd2cf0fb7300263c94d04bb67
 physio.	86400	IN	DS	30721 8 2 c956af6830b876cc14811f4b4d0abc694116f96cc422b62a868e9176d52e43c0
+physio.	86400	IN	DS	49021 8 2 ae268396dd64c1fcce4fd3ea3a3f6c427e4daad035aa4de961b6b8380a800153
 a.nic.physio.	172800	IN	A	37.209.192.10
 a.nic.physio.	172800	IN	AAAA	2001:dcd:1::10
 b.nic.physio.	172800	IN	A	37.209.194.10
@@ -14619,6 +14645,7 @@ sandvik.	172800	IN	NS	a.nic.sandvik.
 sandvik.	172800	IN	NS	b.nic.sandvik.
 sandvik.	172800	IN	NS	c.nic.sandvik.
 sandvik.	172800	IN	NS	d.nic.sandvik.
+sandvik.	86400	IN	DS	23647 8 2 01ed10d00e4fdf8bb9bf3338bfe2ef3ad80bab54270ce9a42941b6e3dd87781d
 sandvik.	86400	IN	DS	53107 8 1 39cc976893dc9e326c52f3fe6eef0eb94484a1a0
 sandvik.	86400	IN	DS	53107 8 2 2eabad222d74e8bc8a4d5b3515eb347822308ce8f0530bde333b849ef8df11eb
 a.nic.sandvik.	172800	IN	A	37.209.192.9
@@ -14633,6 +14660,7 @@ sandvikcoromant.	172800	IN	NS	a.nic.sandvikcoromant.
 sandvikcoromant.	172800	IN	NS	b.nic.sandvikcoromant.
 sandvikcoromant.	172800	IN	NS	c.nic.sandvikcoromant.
 sandvikcoromant.	172800	IN	NS	d.nic.sandvikcoromant.
+sandvikcoromant.	86400	IN	DS	19999 8 2 ac19fb9aa365946aa64f8872782e80af68f6bf988f9de2e31901434849fa8d5e
 sandvikcoromant.	86400	IN	DS	60577 8 1 d99c8be1677c78feabd9985edae331d41b6a9c4e
 sandvikcoromant.	86400	IN	DS	60577 8 2 a78bac4d2605436c3b6e72010148e9f242fcd3b2380c9c4b3f3ed31c701c574a
 a.nic.sandvikcoromant.	172800	IN	A	37.209.192.9
@@ -14723,6 +14751,7 @@ saxo.	172800	IN	NS	c.nic.saxo.
 saxo.	172800	IN	NS	d.nic.saxo.
 saxo.	86400	IN	DS	15682 8 1 0a95a55f5ce57c265dabea4817b46c2a6401b2ab
 saxo.	86400	IN	DS	15682 8 2 24a6792ed3cd9292d9c4d4578133a44693a6e3a9812ce9d9b9fd776e149d60ec
+saxo.	86400	IN	DS	33499 8 2 3daca03d08ef7cfdea7e7f42231f411f3b56b9c8ca2cbb2d6d6a70b63652fa79
 a.nic.saxo.	172800	IN	A	37.209.192.9
 a.nic.saxo.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.saxo.	172800	IN	A	37.209.194.9
@@ -14807,6 +14836,7 @@ schmidt.	172800	IN	NS	c.nic.schmidt.
 schmidt.	172800	IN	NS	d.nic.schmidt.
 schmidt.	86400	IN	DS	28984 8 1 90f1f19dcc8da1c7f02e55312a56f97441afbcec
 schmidt.	86400	IN	DS	28984 8 2 9f31551190e5d70444a48063bec7af1ffcb87d21751aaae0a4d97b012fe53e15
+schmidt.	86400	IN	DS	44854 8 2 d1351c74070e9e2b0dce546b4814df0adff4e289b1f5f3c6fddddd6a8ca1e33b
 a.nic.schmidt.	172800	IN	A	37.209.192.9
 a.nic.schmidt.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.schmidt.	172800	IN	A	37.209.194.9
@@ -15008,6 +15038,7 @@ seek.	172800	IN	NS	c.nic.seek.
 seek.	172800	IN	NS	d.nic.seek.
 seek.	86400	IN	DS	56266 8 1 3eea899bbf17ff6f07d206a75ee097770875226b
 seek.	86400	IN	DS	56266 8 2 a29aca43a76ee9a455652fecef960160c58cec62e318a8a4b69a8542207a33fe
+seek.	86400	IN	DS	63859 8 2 e3c3a590cdfcc251b77cd4adf685fe3cce8706a0aaecd5421294b9ff2ddf8b48
 a.nic.seek.	172800	IN	A	37.209.192.9
 a.nic.seek.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.seek.	172800	IN	A	37.209.194.9
@@ -15066,6 +15097,7 @@ seven.	172800	IN	NS	c.nic.seven.
 seven.	172800	IN	NS	d.nic.seven.
 seven.	86400	IN	DS	13537 8 1 ebb6c46d896c12579d072f362e7c03a6e08a5e46
 seven.	86400	IN	DS	13537 8 2 8340828602996906b864f2b4778266eeadcfcd81fee029eb658128ca31cb8c75
+seven.	86400	IN	DS	65404 8 2 4c4105485919cc132cea83e201b0678f71cc7db260e8be86de560a8a1864951d
 a.nic.seven.	172800	IN	A	37.209.192.9
 a.nic.seven.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.seven.	172800	IN	A	37.209.194.9
@@ -16004,6 +16036,7 @@ sucks.	172800	IN	NS	c.nic.sucks.
 sucks.	172800	IN	NS	d.nic.sucks.
 sucks.	86400	IN	DS	24706 8 1 6ff95fda359dd456294fb1e52317df50504e7639
 sucks.	86400	IN	DS	24706 8 2 6df4d51f19c50831d26386f0f714ba179081afb6a250074267069b18f43d6c38
+sucks.	86400	IN	DS	33844 8 2 3bc39b543789de80c38841624e4195136cc4cf04f47ab5a09d052998e9f374ec
 a.nic.sucks.	172800	IN	A	37.209.192.10
 a.nic.sucks.	172800	IN	AAAA	2001:dcd:1::10
 b.nic.sucks.	172800	IN	A	37.209.194.10
@@ -16464,6 +16497,7 @@ tel.	172800	IN	NS	ns7.dns.nic.tel.
 tel.	172800	IN	NS	ns8.dns.nic.tel.
 tel.	86400	IN	DS	22675 8 1 60375746b0b24b281303c6199c6818f3e29f3026
 tel.	86400	IN	DS	22675 8 2 0d3feebbc2516ce04ba0e21a8e62deb347fe9adad65f7e24a6414ead728f331b
+tel.	86400	IN	DS	46924 8 2 3f708af9fc2d9fa7e09ac99fa19bd6d1b4b0f3f5d95dd06ba2dc95b0aa2e53f8
 ns1.dns.nic.tel.	172800	IN	A	156.154.169.10
 ns1.dns.nic.tel.	172800	IN	AAAA	2610:a1:1071::1:a
 ns2.dns.nic.tel.	172800	IN	A	156.154.170.10
@@ -17971,6 +18005,7 @@ vu.	172800	IN	NS	ns1.tldns.vu.
 vu.	172800	IN	NS	ns2.tldns.vu.
 vu.	172800	IN	NS	ns3.tldns.vu.
 vu.	172800	IN	NS	ns4.tldns.vu.
+vu.	86400	IN	DS	50412 10 2 49257111e03ad5f8c450f8330f101b87b84f82251fa54ce67c832b7eefa45232
 vu.	86400	IN	DS	56121 10 1 0a1901b122dbb2e5f5807aaa8e39702e2d193628
 vu.	86400	IN	DS	56121 10 2 339738eb082d604f2fc2255dfcda3325c0a87d36eb26f546fdb49ae8a4f990b5
 ns1.tldns.vu.	172800	IN	A	37.209.192.6
@@ -18035,6 +18070,7 @@ walter.	172800	IN	NS	a.nic.walter.
 walter.	172800	IN	NS	b.nic.walter.
 walter.	172800	IN	NS	c.nic.walter.
 walter.	172800	IN	NS	d.nic.walter.
+walter.	86400	IN	DS	53764 8 2 1cb0d022fc25c7247a551e0a02b46025d83dfd7185cc1f016c93494c471f0e91
 walter.	86400	IN	DS	64729 8 1 bc163cd660ca3ccaeb1ce1131d554626d4b0ffdd
 walter.	86400	IN	DS	64729 8 2 e9d4fe1b0185894a4762c01e39acb4e434928b41c933c562c5be3173679f1841
 a.nic.walter.	172800	IN	A	37.209.192.9
@@ -18378,6 +18414,7 @@ woodside.	172800	IN	NS	c.nic.woodside.
 woodside.	172800	IN	NS	d.nic.woodside.
 woodside.	86400	IN	DS	33931 8 1 e3795ef38fb707af751bdef9ad80d86efca322ad
 woodside.	86400	IN	DS	33931 8 2 6b8487d5193a0b9c714c5058e3d9180f918484e8b5298fa3036cc0fc0f292eb9
+woodside.	86400	IN	DS	38707 8 2 e4254780378e282920ae5d44e210da28bf5d7fadb0afca33e400b74c5086ddc0
 a.nic.woodside.	172800	IN	A	37.209.192.9
 a.nic.woodside.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.woodside.	172800	IN	A	37.209.194.9
@@ -18484,6 +18521,7 @@ wtc.	172800	IN	NS	c.nic.wtc.
 wtc.	172800	IN	NS	d.nic.wtc.
 wtc.	86400	IN	DS	39352 8 1 7113f8e547e30d6c9782dcb38c6a98f167c51e90
 wtc.	86400	IN	DS	39352 8 2 5356f0da4a2a15c05912111022403cc2746a8b75b1cd3e5adc84640b3686bab9
+wtc.	86400	IN	DS	44554 8 2 b9a169f58e754770e8e23d48da8591a92f602f3d94862b33344c996c0590a6c4
 a.nic.wtc.	172800	IN	A	37.209.192.9
 a.nic.wtc.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.wtc.	172800	IN	A	37.209.194.9
@@ -18773,6 +18811,7 @@ xn--80aqecdr1a.	172800	IN	NS	a.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	172800	IN	NS	b.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	172800	IN	NS	c.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	172800	IN	NS	d.nic.xn--80aqecdr1a.
+xn--80aqecdr1a.	86400	IN	DS	16210 8 2 3ec3f92a011e4087d2c0fdf107a5ae34ca52ffa467bd73677128a91da3f552ef
 xn--80aqecdr1a.	86400	IN	DS	51535 8 1 fb93f8c970a0a6c616de8bf0b13bc0f2f3592860
 xn--80aqecdr1a.	86400	IN	DS	51535 8 2 13e088351e6cd74fc2972101bd9a9f390e7a935ca8451b95aabc2da481c043f9
 a.nic.xn--80aqecdr1a.	172800	IN	A	37.209.192.9
@@ -19357,6 +19396,7 @@ xn--kcrx77d1x4a.	172800	IN	NS	a.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	172800	IN	NS	b.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	172800	IN	NS	c.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	172800	IN	NS	d.nic.xn--kcrx77d1x4a.
+xn--kcrx77d1x4a.	86400	IN	DS	25186 8 2 484679fbe2d01f386ac34d3e523f48e0a691c90df9eae97b80494f6afb645a05
 xn--kcrx77d1x4a.	86400	IN	DS	36151 8 1 c9eac29a1322410e4fdfcfaef957058713312407
 xn--kcrx77d1x4a.	86400	IN	DS	36151 8 2 8557ee8d19b7f2394983fb290e6b94fa209a8051023daec6ab9d7a85f97ff3f4
 a.nic.xn--kcrx77d1x4a.	172800	IN	A	37.209.192.9
@@ -19434,6 +19474,7 @@ xn--mgba7c0bbn0a.	172800	IN	NS	a.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	172800	IN	NS	b.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	172800	IN	NS	c.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	172800	IN	NS	d.nic.xn--mgba7c0bbn0a.
+xn--mgba7c0bbn0a.	86400	IN	DS	2662 8 2 a083e4e9e6f8037d89de242fffe38e301bf73b7e3f132835b239b6d68258ea9f
 xn--mgba7c0bbn0a.	86400	IN	DS	59674 8 1 919b4b32031cae03cf27f1632285110ba325d731
 xn--mgba7c0bbn0a.	86400	IN	DS	59674 8 2 af9f72be9da663e19314a8d07071b77ac805b5513fdb3aad3f6245b95a252327
 a.nic.xn--mgba7c0bbn0a.	172800	IN	A	37.209.192.9
@@ -19546,6 +19587,7 @@ xn--mgbi4ecexp.	172800	IN	NS	c.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	172800	IN	NS	d.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	86400	IN	DS	32746 8 1 c150afdea6aad17caaf64769c91d3d56eb409da9
 xn--mgbi4ecexp.	86400	IN	DS	32746 8 2 7a0890eb4cd5f3d7a74367455ca3f1ab18e4a8503b42bc39b18d5d4a196f7875
+xn--mgbi4ecexp.	86400	IN	DS	34576 8 2 3d199736303984637fb5a1af60f2e5cf6d276f89d464039dba62c60f363f68c8
 a.nic.xn--mgbi4ecexp.	172800	IN	A	37.209.192.9
 a.nic.xn--mgbi4ecexp.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.xn--mgbi4ecexp.	172800	IN	A	37.209.194.9
@@ -19819,6 +19861,7 @@ xn--tiq49xqyj.	172800	IN	NS	a.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	172800	IN	NS	b.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	172800	IN	NS	c.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	172800	IN	NS	d.nic.xn--tiq49xqyj.
+xn--tiq49xqyj.	86400	IN	DS	2386 8 2 ef5bb5c8dbc6edfbb51f26333f779dabb955fdbeb68f276027494846ec8ed9df
 xn--tiq49xqyj.	86400	IN	DS	23401 8 1 89192f8e835b6060a9532bc3fd8a60fac85d6d85
 xn--tiq49xqyj.	86400	IN	DS	23401 8 2 3311487590f0984f7b7bc77342fe96cddc57682efc1aad4dc9d10cae1a5c4ee9
 a.nic.xn--tiq49xqyj.	172800	IN	A	37.209.192.9
