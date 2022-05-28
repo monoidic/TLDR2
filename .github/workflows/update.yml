@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: sudo apt install ldnsutils
-      - run: pip install --user -r requirements.txt
+      - run: sudo apt install ldnsutils golang-go sqlite3
+      - run: go install github.com/monoidic/dns-tools@latest
+      - run: ./scan.sh
       - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
-      - run: ./scan.py
       - run: git add transferable_zones.md archives/ && git commit -m 'Updating zone information' && git push
