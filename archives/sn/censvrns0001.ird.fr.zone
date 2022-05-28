@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444877 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444889 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/05/2022 12H10:01]"
+sn.	172800	IN	TXT	"No RRs processed [28/05/2022 14H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1016,8 +1016,8 @@ agrocean.sn.	172800	IN	NS	ns5.wanekoohost.com.
 agrocean.sn.	172800	IN	NS	ns6.wanekoohost.com.
 agroline.sn.	43200	IN	NS	ns.arc.sn.
 agroline.sn.	43200	IN	NS	ns3.arc.sn.
-agronora.sn.	172800	IN	NS	ns200.anycast.me.
-agronora.sn.	172800	IN	NS	dns200.anycast.me.
+agronora.sn.	172800	IN	NS	ns15.ovh.net.
+agronora.sn.	172800	IN	NS	dns15.ovh.net.
 agronora.sn.	172800	IN	DS	10279 8 2 6dabb401da25152f9d6c186b9491ebe466b377da8177a69f38cc91a82300bab8
 agropole.sn.	172800	IN	NS	ns1.ascio.com.
 agropole.sn.	172800	IN	NS	ns2.ascio.com.
@@ -21288,8 +21288,6 @@ vusen.sn.	172800	IN	NS	ns6.wanekoohost.com.
 vw.sn.	43200	IN	NS	ns1.volkswagen.de.
 vw.sn.	43200	IN	NS	ns2.volkswagen.de.
 vw.sn.	43200	IN	NS	ns5.xc-ns.de.
-waaw.sn.	172800	IN	NS	chan.ns.cloudflare.com.
-waaw.sn.	172800	IN	NS	evan.ns.cloudflare.com.
 waca.sn.	43200	IN	NS	ns16207.caurys.net.
 wadic.sn.	172800	IN	NS	sdns2.ovh.net.
 wadic.sn.	172800	IN	NS	ns367064.ip-188-165-235.eu.
