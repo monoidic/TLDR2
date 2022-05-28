@@ -2,7 +2,7 @@
 
 bin="~/go/bin/dns-tools"
 db="tldr.sqlite3"
-
+GITHUB_MAX_SIZE=99614720
 scan() {
 	eval "$bin" -db "$db" $*
 }
@@ -22,7 +22,6 @@ main() {
 	scan -direct_conns -v6 -axfr
 
 	for zone in $(sqlite3 "$db" 'SELECT DISTINCT zone.name FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id'); do
-		# echo "zone=${zone}"
 		if [[ $zone = '.' ]]; then
 			path_name='root'
 		else
@@ -35,6 +34,11 @@ main() {
 		sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" > ${filepath}.tmp
 		ldns-read-zone -zs ${filepath}.tmp > ${filepath}
 		rm ${filepath}.tmp
+
+		filesize=$(wc -c ${filepath})
+		if [[ $filesize > $GITHUB_MAX_SIZE ]]; then
+			gzip ${filepath}
+		fi
 	done
 
 	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
@@ -48,8 +52,6 @@ main() {
 		else
 			path_name="${zone%.}"
 		fi
-
-		# echo "line=${line} zone=${zone} ns=${ns} path_name=${path_name}"
 
 		printf '* `%s` via `%s`: [Click here to view zone data.](archives/%s/%s.zone)\n' "$zone" "$ns" "$path_name" "$path_name" >> transferable_zones.md
 	done
