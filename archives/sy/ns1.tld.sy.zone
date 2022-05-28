@@ -1,8 +1,8 @@
-sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052831 3600 3600 2592000 3600
+sy.	86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022052834 3600 3600 2592000 3600
 sy.	86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	86400	IN	NS	ns1.tld.sy.
 sy.	86400	IN	NS	pch.anycast.tld.sy.
-sy.	86400	IN	TXT	"Generation Time: 1653746536"
+sy.	86400	IN	TXT	"Generation Time: 1653753741"
 00.sy.	86400	IN	NS	coco.ns.cloudflare.com.
 00.sy.	86400	IN	NS	denver.ns.cloudflare.com.
 01.sy.	86400	IN	NS	sydns1.nobalaa.com.
@@ -6132,6 +6132,8 @@ ns1.scs-net.sy.	86400	IN	A	213.178.225.10
 ns2.scs-net.sy.	86400	IN	A	213.178.225.11
 sct.sy.	86400	IN	NS	suspend1.tld.sy.
 sct.sy.	86400	IN	NS	suspend2.tld.sy.
+scv.sy.	86400	IN	NS	ns1.damashost.com.
+scv.sy.	86400	IN	NS	ns2.damashost.com.
 sd.sy.	86400	IN	NS	suspend1.tld.sy.
 sd.sy.	86400	IN	NS	suspend2.tld.sy.
 sd-media.sy.	86400	IN	NS	suspend1.tld.sy.
@@ -6844,8 +6846,10 @@ syrianewscenter.sy.	86400	IN	NS	suspend1.tld.sy.
 syrianewscenter.sy.	86400	IN	NS	suspend2.tld.sy.
 syriangenerations.sy.	86400	IN	NS	suspend1.tld.sy.
 syriangenerations.sy.	86400	IN	NS	suspend2.tld.sy.
-syrianhost.sy.	86400	IN	NS	suspend1.tld.sy.
-syrianhost.sy.	86400	IN	NS	suspend2.tld.sy.
+syrianhost.sy.	86400	IN	NS	ns1.syrianhost.sy.
+syrianhost.sy.	86400	IN	NS	ns2.syrianhost.sy.
+ns1.syrianhost.sy.	86400	IN	A	212.11.196.153
+ns2.syrianhost.sy.	86400	IN	A	212.11.196.153
 syrianhousebook.sy.	86400	IN	NS	suspend1.tld.sy.
 syrianhousebook.sy.	86400	IN	NS	suspend2.tld.sy.
 syrianlaptops.sy.	86400	IN	NS	ns16.samamax.com.
