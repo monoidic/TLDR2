@@ -8,7 +8,7 @@ on:
 jobs:
   update:
     name: Update
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
       - run: sudo apt install ldnsutils golang-go sqlite3
