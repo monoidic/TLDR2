@@ -1,10 +1,10 @@
-sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444789 3600 1800 3600000 5400
+sn.	43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222444803 3600 1800 3600000 5400
 sn.	43200	IN	NS	ns.ucad.sn.
 sn.	43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	43200	IN	NS	ns1.sonatel.sn.
 sn.	43200	IN	NS	ns-sn.nic.fr.
 sn.	43200	IN	NS	censvrns0001.ird.fr.
-sn.	172800	IN	TXT	"No RRs processed [28/05/2022 00H10:02]"
+sn.	172800	IN	TXT	"No RRs processed [28/05/2022 02H10:01]"
 sn.	43200	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14976,6 +14976,9 @@ oubii.sn.	172800	IN	NS	dns106.ovh.net.
 oubii.sn.	172800	IN	DS	50782 8 2 481286f19bfd734f7023e1887fb82f0950bfbce8b0d0b6717a4e695ac278e451
 ouest-senegal.sn.	172800	IN	NS	ns14.ovh.net.
 ouest-senegal.sn.	172800	IN	NS	dns14.ovh.net.
+oui.sn.	172800	IN	NS	ns19.ovh.net.
+oui.sn.	172800	IN	NS	dns19.ovh.net.
+oui.sn.	172800	IN	DS	11122 8 2 d08ddb9916b1d0e450b44d644cfd10e219f29661995d83356186d2e1f8f9ac63
 ouidocteur.sn.	172800	IN	NS	ns1.francedns.com.
 ouidocteur.sn.	172800	IN	NS	ns2.francedns.com.
 ouidocteur.sn.	172800	IN	NS	ns3.francedns.com.
@@ -21327,8 +21330,8 @@ walo.sn.	172800	IN	NS	ns6.wanekoohost.com.
 wandja.sn.	172800	IN	NS	ns1.francedns.com.
 wandja.sn.	172800	IN	NS	ns2.francedns.com.
 wandja.sn.	172800	IN	NS	ns3.francedns.com.
-wanekoo.sn.	172800	IN	NS	anuj.ns.cloudflare.com.
-wanekoo.sn.	172800	IN	NS	brianna.ns.cloudflare.com.
+wanekoo.sn.	172800	IN	NS	ns1.wanekoo.net.
+wanekoo.sn.	172800	IN	NS	ns2.wanekoo.net.
 wanekooformation.sn.	172800	IN	NS	ns1.wanekoohost.com.
 wanekooformation.sn.	172800	IN	NS	ns2.wanekoohost.com.
 wanekooformation.sn.	172800	IN	NS	ns3.wanekoohost.com.
