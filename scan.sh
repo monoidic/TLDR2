@@ -43,7 +43,7 @@ main() {
 
 	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
 
-	for line in $(sqlite3 tldr.sqlite3 'SELECT zone.name, ns.name FROM axfrable_ns INNER JOIN name AS zone ON axfrable_ns.zone_id=zone.id INNER JOIN name_ip ON name_ip.ip_id=axfrable_ns.ip_id INNER JOIN zone_ns ON zone_ns.zone_id=zone.id INNER JOIN name AS ns ON zone_ns.ns_id=ns.id WHERE name_ip.name_id=ns.id ORDER BY zone.name, ns.name'); do
+	for line in $(sqlite3 tldr.sqlite3 'SELECT DISTINCT zone.name, ns.name FROM axfrable_ns INNER JOIN name AS zone ON axfrable_ns.zone_id=zone.id INNER JOIN name_ip ON name_ip.ip_id=axfrable_ns.ip_id INNER JOIN zone_ns ON zone_ns.zone_id=zone.id INNER JOIN name AS ns ON zone_ns.ns_id=ns.id WHERE name_ip.name_id=ns.id ORDER BY zone.name, ns.name'); do
 		zone=$(echo "$line" | cut -d'|' -f1)
 		ns=$(echo "$line" | cut -d'|' -f2)
 
