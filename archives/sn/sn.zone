@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445288 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445302 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [30/05/2022 16H10:01]"
+sn.	0	IN	TXT	"No RRs processed [30/05/2022 18H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -693,6 +693,10 @@ adines.sn.	0	IN	NS	ns13.ovh.net.
 adines.sn.	0	IN	NS	dns13.ovh.net.
 adjamoney.sn.	0	IN	NS	ns111.ovh.net.
 adjamoney.sn.	0	IN	NS	dns111.ovh.net.
+adjanationale.sn.	0	IN	NS	ns1.ascio.com.
+adjanationale.sn.	0	IN	NS	ns2.ascio.com.
+adjanationale.sn.	0	IN	NS	ns3.ascio.com.
+adjanationale.sn.	0	IN	NS	ns4.ascio.com.
 adjimakka.sn.	0	IN	NS	ns108.ovh.net.
 adjimakka.sn.	0	IN	NS	dns108.ovh.net.
 adjimakka.sn.	0	IN	DS	32116 8 2 cc5d4d08aef7655c8c7188a30266c8f855b4ebbdaabf61ae71de0d6c1bb27d6c
@@ -9141,8 +9145,10 @@ gscom.sn.	0	IN	NS	gabe.ns.cloudflare.com.
 gscom.sn.	0	IN	NS	violet.ns.cloudflare.com.
 gse.sn.	0	IN	NS	ns107.ovh.net.
 gse.sn.	0	IN	NS	dns107.ovh.net.
-gsh.sn.	0	IN	NS	ns1.wanekoohost.com.
+gsh.sn.	0	IN	NS	ns3.wanekoohost.com.
+gsh.sn.	0	IN	NS	ns4.wanekoohost.com.
 gsh.sn.	0	IN	NS	ns5.wanekoohost.com.
+gsh.sn.	0	IN	NS	ns6.wanekoohost.com.
 gsholding.sn.	0	IN	NS	ns1.wanekoohost.com.
 gsholding.sn.	0	IN	NS	ns2.wanekoohost.com.
 gsholding.sn.	0	IN	NS	ns4.wanekoohost.com.
@@ -9626,8 +9632,6 @@ i2de.sn.	0	IN	NS	ns2.caurys.net.
 i2n.sn.	0	IN	NS	ns1.it-num.com.
 i2n.sn.	0	IN	NS	ns2.it-num.com.
 i2n.sn.	0	IN	NS	ns3.it-num.com.
-i3t.sn.	0	IN	NS	ns1.cp-27.webhostbox.net.
-i3t.sn.	0	IN	NS	ns2.cp-27.webhostbox.net.
 iaa.sn.	0	IN	NS	ns1.jokkonet.com.
 iaa.sn.	0	IN	NS	ns2.jokkonet.com.
 iaa.sn.	0	IN	NS	ns5.jokkonet.com.
