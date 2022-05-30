@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445272 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445288 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [30/05/2022 14H00:01]"
+sn.	0	IN	TXT	"No RRs processed [30/05/2022 16H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7474,8 +7474,10 @@ examen.sn.	0	IN	NS	ns1.bluehost.com.
 examen.sn.	0	IN	NS	ns2.bluehost.com.
 excellec.sn.	0	IN	NS	nsmpro1.nordnet.com.
 excellec.sn.	0	IN	NS	nsmpro2.nordnet.com.
-excellencecouture.sn.	0	IN	NS	beth.ns.cloudflare.com.
-excellencecouture.sn.	0	IN	NS	nile.ns.cloudflare.com.
+excellencecouture.sn.	0	IN	NS	dns1.p05.nsone.net.
+excellencecouture.sn.	0	IN	NS	dns2.p05.nsone.net.
+excellencecouture.sn.	0	IN	NS	dns3.p05.nsone.net.
+excellencecouture.sn.	0	IN	NS	dns4.p05.nsone.net.
 excellium-services.sn.	0	IN	NS	ns1.eurodns.com.
 excellium-services.sn.	0	IN	NS	ns2.eurodns.com.
 excellium-services.sn.	0	IN	NS	ns3.eurodns.com.
@@ -8035,14 +8037,8 @@ fodem.sn.	0	IN	NS	ns3.kheweul.net.
 fodem.sn.	0	IN	NS	ns4.kheweul.net.
 foherb.sn.	0	IN	NS	ns1.icp100.net.
 foherb.sn.	0	IN	NS	ns2.icp100.net.
-fohowsenegaldakar.sn.	0	IN	NS	ns.bnamed.eu.
-fohowsenegaldakar.sn.	0	IN	NS	ns.bnamed.us.
-fohowsenegaldakar.sn.	0	IN	NS	ns.nscluster.dk.
-fohowsenegaldakar.sn.	0	IN	NS	ns.nscluster.lv.
-fohowsenegaldakar.sn.	0	IN	NS	ns-cloud-d1.googledomains.com.
-fohowsenegaldakar.sn.	0	IN	NS	ns-cloud-d2.googledomains.com.
-fohowsenegaldakar.sn.	0	IN	NS	ns-cloud-d3.googledomains.com.
-fohowsenegaldakar.sn.	0	IN	NS	ns-cloud-d4.googledomains.com.
+fohowsenegaldakar.sn.	0	IN	NS	tmp.nscluster.eu.
+fohowsenegaldakar.sn.	0	IN	NS	tmp.nscluster.us.
 fonamif.sn.	0	IN	NS	ns1.md-13.webhostbox.net.
 fonamif.sn.	0	IN	NS	ns2.md-13.webhostbox.net.
 fonbet.sn.	0	IN	NS	ns1.101domain.com.
@@ -9025,6 +9021,10 @@ grey.sn.	0	IN	NS	ns1.101domain.com.
 grey.sn.	0	IN	NS	ns2.101domain.com.
 grhservices.sn.	0	IN	NS	ns107.ovh.net.
 grhservices.sn.	0	IN	NS	dns107.ovh.net.
+gro.sn.	0	IN	NS	ns15.ovh.net.
+gro.sn.	0	IN	NS	dns15.ovh.net.
+gro.sn.	0	IN	NS	ns200.anycast.me.
+gro.sn.	0	IN	NS	dns200.anycast.me.
 groel.sn.	0	IN	NS	ns19.domaincontrol.com.
 groel.sn.	0	IN	NS	ns20.domaincontrol.com.
 groundnut.sn.	0	IN	NS	ns.sonatel.sn.
@@ -12371,8 +12371,10 @@ livrezmoi.sn.	0	IN	NS	dns200.anycast.me.
 lmdg.sn.	0	IN	NS	ns1.register.be.
 lmdg.sn.	0	IN	NS	ns2.register.be.
 lmdg.sn.	0	IN	NS	ns3.register.be.
-lmtt.sn.	0	IN	NS	ns1.wanekoohost.com.
-lmtt.sn.	0	IN	NS	ns2.wanekoohost.com.
+lmtt.sn.	0	IN	NS	ns3.wanekoohost.com.
+lmtt.sn.	0	IN	NS	ns4.wanekoohost.com.
+lmtt.sn.	0	IN	NS	ns5.wanekoohost.com.
+lmtt.sn.	0	IN	NS	ns6.wanekoohost.com.
 lnerv.sn.	0	IN	NS	ns1.kheweul.net.
 lnerv.sn.	0	IN	NS	ns2.kheweul.net.
 lnerv.sn.	0	IN	NS	ns3.kheweul.net.
@@ -14893,6 +14895,8 @@ ordredeshuissiers.sn.	0	IN	NS	ns1.ascio.com.
 ordredeshuissiers.sn.	0	IN	NS	ns2.ascio.com.
 ordredeshuissiers.sn.	0	IN	NS	ns3.ascio.com.
 ordredeshuissiers.sn.	0	IN	NS	ns4.ascio.com.
+ordredespharmaciens.sn.	0	IN	NS	ns14.ovh.net.
+ordredespharmaciens.sn.	0	IN	NS	dns14.ovh.net.
 ordremedecins.sn.	0	IN	NS	ns1.bluehost.com.
 ordremedecins.sn.	0	IN	NS	ns2.bluehost.com.
 org.sn.	0	IN	NS	ns.nic.sn.
@@ -15520,6 +15524,7 @@ philips.sn.	0	IN	NS	ns2.ext.philips.com.
 philips.sn.	0	IN	NS	ns3.ext.philips.com.
 phoneacademy.sn.	0	IN	NS	ns19.ovh.net.
 phoneacademy.sn.	0	IN	NS	dns19.ovh.net.
+phoneacademy.sn.	0	IN	DS	18319 8 2 62f4fb679f7b51a82c9f46296e5be56ae63c75711d076d1c20d1ed9a60829375
 phs-santedom.sn.	0	IN	NS	ns5.jokko-hosting.com.
 phs-santedom.sn.	0	IN	NS	ns9.jokko-hosting.com.
 physalis.sn.	0	IN	NS	dns1.alwaysdata.com.
@@ -17370,6 +17375,10 @@ semebat.sn.	0	IN	NS	ns4.kheweul.net.
 semetrans.sn.	0	IN	NS	ns1.wanekoohost.com.
 semetrans.sn.	0	IN	NS	ns2.wanekoohost.com.
 semetrans.sn.	0	IN	NS	ns4.wanekoohost.com.
+semig.sn.	0	IN	NS	ns1.kheweul.net.
+semig.sn.	0	IN	NS	ns2.kheweul.net.
+semig.sn.	0	IN	NS	ns3.kheweul.net.
+semig.sn.	0	IN	NS	ns4.kheweul.net.
 semin.sn.	0	IN	NS	ns-119-b.gandi.net.
 semin.sn.	0	IN	NS	ns-123-a.gandi.net.
 semin.sn.	0	IN	NS	ns-170-c.gandi.net.
