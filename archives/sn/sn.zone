@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445463 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445483 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [31/05/2022 14H00:01]"
+sn.	0	IN	TXT	"3 RRs processed [31/05/2022 16H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -964,6 +964,9 @@ aftech.sn.	0	IN	NS	ns1.ascio.com.
 aftech.sn.	0	IN	NS	ns2.ascio.com.
 aftech.sn.	0	IN	NS	ns3.ascio.com.
 aftech.sn.	0	IN	NS	ns4.ascio.com.
+afya.sn.	0	IN	NS	ns200.anycast.me.
+afya.sn.	0	IN	NS	dns200.anycast.me.
+afya.sn.	0	IN	DS	22507 8 2 52a43d64195c4984ab138ae2f5cf9986958646a08f85af502ea6aeaaf3e2f946
 agedor.sn.	0	IN	NS	ns1.wanekoohost.com.
 agedor.sn.	0	IN	NS	ns2.wanekoohost.com.
 agedor.sn.	0	IN	NS	ns5.wanekoohost.com.
@@ -3860,6 +3863,8 @@ cccs.sn.	0	IN	NS	ns200.anycast.me.
 cccs.sn.	0	IN	NS	dns200.anycast.me.
 cccs-finexco.sn.	0	IN	NS	ns200.anycast.me.
 cccs-finexco.sn.	0	IN	NS	dns200.anycast.me.
+ccd.sn.	0	IN	NS	ns19.ovh.net.
+ccd.sn.	0	IN	NS	dns19.ovh.net.
 ccdoc.sn.	0	IN	NS	ns109.ovh.net.
 ccdoc.sn.	0	IN	NS	dns109.ovh.net.
 ccf.sn.	0	IN	NS	ns.sonatel.sn.
@@ -6514,6 +6519,10 @@ ecko.sn.	0	IN	NS	dns101.ovh.net.
 ecko-media.sn.	0	IN	NS	ns112.ovh.net.
 ecko-media.sn.	0	IN	NS	dns112.ovh.net.
 ecko-media.sn.	0	IN	DS	58375 8 2 915157cc82c78a0585ffb55197c5d0c29740ae4e82c20e9194b501ca4d974ef9
+ecmo.sn.	0	IN	NS	ns3.ibraciliinks.ml.
+ecmo.sn.	0	IN	NS	ns4.ibraciliinks.ml.
+ecmo.sn.	0	IN	NS	ns5.ibraciliinks.ml.
+ecmo.sn.	0	IN	NS	ns6.ibraciliinks.ml.
 ecmpene.sn.	0	IN	NS	ns1.us110.siteground.us.
 ecmpene.sn.	0	IN	NS	ns2.us110.siteground.us.
 ecoasis.sn.	0	IN	NS	ns1.o2switch.net.
@@ -16792,8 +16801,8 @@ saiyansconsulting.sn.	0	IN	DS	27124 8 2 557f19a5c68ceb3d37a2e8abe86313b9a9bcc712
 saiyansgroup.sn.	0	IN	NS	ns11.ovh.net.
 saiyansgroup.sn.	0	IN	NS	dns11.ovh.net.
 saiyansgroup.sn.	0	IN	DS	23497 8 2 04fd45f30dd0cbd3a382adf7b26fc89749bb2f0d091f1d5a8ab96ab7958cb0ed
-sakanal.sn.	0	IN	NS	ns106.ovh.net.
-sakanal.sn.	0	IN	NS	dns106.ovh.net.
+sakanal.sn.	0	IN	NS	matt.ns.cloudflare.com.
+sakanal.sn.	0	IN	NS	meilani.ns.cloudflare.com.
 sakanalboutique.sn.	0	IN	NS	ns14.ovh.net.
 sakanalboutique.sn.	0	IN	NS	dns14.ovh.net.
 sakanalmagasin.sn.	0	IN	NS	ns14.ovh.net.
@@ -18108,8 +18117,8 @@ setelcom.sn.	0	IN	NS	ns1.setelcom.sn.
 setelcom.sn.	0	IN	NS	ns2.setelcom.sn.
 ns1.setelcom.sn.	0	IN	A	165.22.182.189
 ns2.setelcom.sn.	0	IN	A	165.22.182.189
-seter.sn.	0	IN	NS	nsmpro1.nordnet.com.
-seter.sn.	0	IN	NS	nsmpro2.nordnet.com.
+seter.sn.	0	IN	NS	kip.ns.cloudflare.com.
+seter.sn.	0	IN	NS	candy.ns.cloudflare.com.
 seter-arter.sn.	0	IN	NS	ns100.ovh.net.
 seter-arter.sn.	0	IN	NS	dns100.ovh.net.
 seter-arter.sn.	0	IN	DS	21559 8 2 63ed07f0c38cef62a1579c80992d43a763268cca43da734f7b48534f21ea7ee9
@@ -18585,10 +18594,8 @@ snedai.sn.	0	IN	NS	ns1.parkingcrew.net.
 snedai.sn.	0	IN	NS	ns2.parkingcrew.net.
 sneg.sn.	0	IN	NS	ns110.ovh.net.
 sneg.sn.	0	IN	NS	dns110.ovh.net.
-sneips.sn.	0	IN	NS	ns1.kheweul.net.
-sneips.sn.	0	IN	NS	ns2.kheweul.net.
-sneips.sn.	0	IN	NS	ns3.kheweul.net.
-sneips.sn.	0	IN	NS	ns4.kheweul.net.
+sneips.sn.	0	IN	NS	cpanel11.lws-hosting.com.
+sneips.sn.	0	IN	NS	cpanel12.lws-hosting.com.
 snepac.sn.	0	IN	NS	ns5.jokko-hosting.com.
 snepac.sn.	0	IN	NS	ns9.jokko-hosting.com.
 snhlm.sn.	0	IN	NS	keurgui.snhlm.sn.
