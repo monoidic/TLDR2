@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445530 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445548 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [31/05/2022 22H00:01]"
+sn.	0	IN	TXT	"2 RRs processed [01/06/2022 00H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1681,6 +1681,9 @@ apple.sn.	0	IN	NS	a.ns.apple.com.
 apple.sn.	0	IN	NS	b.ns.apple.com.
 apple.sn.	0	IN	NS	c.ns.apple.com.
 apple.sn.	0	IN	NS	d.ns.apple.com.
+appleshop.sn.	0	IN	NS	ns200.anycast.me.
+appleshop.sn.	0	IN	NS	dns200.anycast.me.
+appleshop.sn.	0	IN	DS	20791 8 2 fbe34fcbc845dbbffe5ac9eec5aa1b63929b4c6e6d966ee228ec042daefb8652
 applestore.sn.	0	IN	NS	a.ns.apple.com.
 applestore.sn.	0	IN	NS	b.ns.apple.com.
 applestore.sn.	0	IN	NS	c.ns.apple.com.
@@ -6832,6 +6835,8 @@ electrostore.sn.	0	IN	NS	ns3.kheweul.net.
 electrostore.sn.	0	IN	NS	ns4.kheweul.net.
 electrotop.sn.	0	IN	NS	ns6431.hostgator.com.
 electrotop.sn.	0	IN	NS	ns6432.hostgator.com.
+elektra.sn.	0	IN	NS	ns.arc.sn.
+elektra.sn.	0	IN	NS	hosting100.arc.sn.
 elephone.sn.	0	IN	NS	ns01.trademarkarea.com.
 elephone.sn.	0	IN	NS	ns02.trademarkarea.com.
 elephone.sn.	0	IN	NS	ns03.trademarkarea.com.
