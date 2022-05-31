@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445483 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445496 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"3 RRs processed [31/05/2022 16H10:01]"
+sn.	0	IN	TXT	"No RRs processed [31/05/2022 18H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1172,6 +1172,9 @@ al-rahma.sn.	0	IN	NS	dns200.anycast.me.
 ala.sn.	0	IN	NS	ns1.netim.net.
 ala.sn.	0	IN	NS	ns2.netim.net.
 ala.sn.	0	IN	NS	ns3.netim.net.
+aladinn.sn.	0	IN	NS	ns19.ovh.net.
+aladinn.sn.	0	IN	NS	dns19.ovh.net.
+aladinn.sn.	0	IN	DS	12769 8 2 6060f1605196ece16f86fc0ad638ba25a8635f134086512e17989dceb8601e5d
 alala.sn.	0	IN	NS	ns1.kheweul.net.
 alala.sn.	0	IN	NS	ns2.kheweul.net.
 alala.sn.	0	IN	NS	ns3.kheweul.net.
@@ -5476,6 +5479,10 @@ dbaloc.sn.	0	IN	NS	ns1.ascio.com.
 dbaloc.sn.	0	IN	NS	ns2.ascio.com.
 dbaloc.sn.	0	IN	NS	ns3.ascio.com.
 dbaloc.sn.	0	IN	NS	ns4.ascio.com.
+dbsfocus.sn.	0	IN	NS	ns1.kheweul.net.
+dbsfocus.sn.	0	IN	NS	ns2.kheweul.net.
+dbsfocus.sn.	0	IN	NS	ns3.kheweul.net.
+dbsfocus.sn.	0	IN	NS	ns4.kheweul.net.
 dca.sn.	0	IN	NS	ns200.anycast.me.
 dca.sn.	0	IN	NS	dns200.anycast.me.
 dca.sn.	0	IN	DS	43786 8 2 a77ce708be21ab21091a5c7ff2dca3780955e4e98938e769eea84917f8be033a
@@ -16359,8 +16366,8 @@ recotech.sn.	0	IN	NS	ns1.ascio.com.
 recotech.sn.	0	IN	NS	ns2.ascio.com.
 recotech.sn.	0	IN	NS	ns3.ascio.com.
 recotech.sn.	0	IN	NS	ns4.ascio.com.
-recrutement.sn.	0	IN	NS	ns31.infomaniak.com.
-recrutement.sn.	0	IN	NS	ns32.infomaniak.com.
+recrutement.sn.	0	IN	NS	ns20.kelihost.com.
+recrutement.sn.	0	IN	NS	ns22.kelihost.com.
 recuplast.sn.	0	IN	NS	ns1.o2switch.net.
 recuplast.sn.	0	IN	NS	ns2.o2switch.net.
 redaviasolar.sn.	0	IN	NS	ns.inwx.de.
