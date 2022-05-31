@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445433 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445449 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [31/05/2022 10H00:02]"
+sn.	0	IN	TXT	"No RRs processed [31/05/2022 12H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1020,6 +1020,9 @@ agrocean.sn.	0	IN	NS	ns5.wanekoohost.com.
 agrocean.sn.	0	IN	NS	ns6.wanekoohost.com.
 agroline.sn.	0	IN	NS	ns.arc.sn.
 agroline.sn.	0	IN	NS	ns3.arc.sn.
+agronora.sn.	0	IN	NS	ns15.ovh.net.
+agronora.sn.	0	IN	NS	dns15.ovh.net.
+agronora.sn.	0	IN	DS	10279 8 2 6dabb401da25152f9d6c186b9491ebe466b377da8177a69f38cc91a82300bab8
 agropole.sn.	0	IN	NS	ns1.ascio.com.
 agropole.sn.	0	IN	NS	ns2.ascio.com.
 agropole.sn.	0	IN	NS	ns3.ascio.com.
@@ -18518,8 +18521,8 @@ smedia.sn.	0	IN	NS	ns1.kheweul.net.
 smedia.sn.	0	IN	NS	ns2.kheweul.net.
 smedia.sn.	0	IN	NS	ns3.kheweul.net.
 smedia.sn.	0	IN	NS	ns4.kheweul.net.
-smeg.sn.	0	IN	NS	ns1.register.it.
-smeg.sn.	0	IN	NS	ns2.register.it.
+smeg.sn.	0	IN	NS	shubhi.ns.cloudflare.com.
+smeg.sn.	0	IN	NS	mitchell.ns.cloudflare.com.
 smg.sn.	0	IN	NS	ns3.wanekoohost.com.
 smg.sn.	0	IN	NS	ns4.wanekoohost.com.
 smg.sn.	0	IN	NS	ns5.wanekoohost.com.
@@ -20147,6 +20150,8 @@ time.sn.	0	IN	NS	ns-1502.awsdns-59.org.
 time.sn.	0	IN	NS	ns-1746.awsdns-26.co.uk.
 timusassurances.sn.	0	IN	NS	ns.sonatel.sn.
 timusassurances.sn.	0	IN	NS	ns2.sonatel.sn.
+tin.sn.	0	IN	NS	trace.ns.cloudflare.com.
+tin.sn.	0	IN	NS	liberty.ns.cloudflare.com.
 tind.sn.	0	IN	NS	eisdns1.expertis.sn.
 tind.sn.	0	IN	NS	eisdns2.expertis.sn.
 tinder.sn.	0	IN	NS	ns1.francedns.com.
