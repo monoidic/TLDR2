@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445548 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445561 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [01/06/2022 00H00:01]"
+sn.	0	IN	TXT	"No RRs processed [01/06/2022 02H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13132,6 +13132,9 @@ meddo.sn.	0	IN	NS	dns200.anycast.me.
 meddo.sn.	0	IN	DS	6571 8 2 7692135209a6df15aaccecb84f7673f4724786425771f6de43f6a958761bacb5
 medecinsdusahel.sn.	0	IN	NS	eisdns1.expertis.sn.
 medecinsdusahel.sn.	0	IN	NS	eisdns2.expertis.sn.
+media7.sn.	0	IN	NS	ns200.anycast.me.
+media7.sn.	0	IN	NS	dns200.anycast.me.
+media7.sn.	0	IN	DS	54835 8 2 181a4b2a9c9c6bdc8c1111966af45a8482b6adb0ce24ef4888e1a1e5e1553a7c
 mediabuzz.sn.	0	IN	NS	cpanel7.lws-hosting.com.
 mediabuzz.sn.	0	IN	NS	cpanel8.lws-hosting.com.
 mediacom-regie.sn.	0	IN	NS	ns1.wanekoohost.com.
