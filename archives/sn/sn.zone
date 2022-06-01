@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445684 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445697 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [01/06/2022 18H10:01]"
+sn.	0	IN	TXT	"1 RRs processed [01/06/2022 20H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6151,6 +6151,9 @@ doceva.sn.	0	IN	NS	dns104.ovh.net.
 docteurafrica.sn.	0	IN	NS	ns1.cetsi.fr.
 docteurafrica.sn.	0	IN	NS	ns2.cetsi.eu.
 docteurafrica.sn.	0	IN	NS	ns3.cetsi.info.
+doctibel.sn.	0	IN	NS	ns200.anycast.me.
+doctibel.sn.	0	IN	NS	dns200.anycast.me.
+doctibel.sn.	0	IN	DS	43465 8 2 599583fa66c76757a52c93ad3a5071943e648b9226525973365f62c3298a55f6
 doctorplus.sn.	0	IN	NS	ns100.ovh.net.
 doctorplus.sn.	0	IN	NS	dns100.ovh.net.
 docu.sn.	0	IN	NS	ns1.markmonitor.com.
@@ -8764,6 +8767,7 @@ globalnews.sn.	0	IN	NS	ns1.snterra.com.
 globalnews.sn.	0	IN	NS	ns2.snterra.com.
 globalpharma.sn.	0	IN	NS	ns104.ovh.net.
 globalpharma.sn.	0	IN	NS	dns104.ovh.net.
+globalpharma.sn.	0	IN	DS	11845 8 2 11d94705c896d06406ebaede62919aff35486baf17418d653cdd995450fa5614
 globalprod.sn.	0	IN	NS	ns1.kheweul.net.
 globalprod.sn.	0	IN	NS	ns2.kheweul.net.
 globalprod.sn.	0	IN	NS	ns3.kheweul.net.
@@ -9532,8 +9536,9 @@ hopetrade-senegal.sn.	0	IN	NS	ns6.wanekoohost.com.
 hopitalprincipal.sn.	0	IN	NS	ns.adie.sn.
 hopitalsaintjeandedieudethies.sn.	0	IN	NS	ns.sonatel.sn.
 hopitalsaintjeandedieudethies.sn.	0	IN	NS	ns2.sonatel.sn.
-hoppen.sn.	0	IN	NS	ns111.ovh.net.
-hoppen.sn.	0	IN	NS	dns111.ovh.net.
+hoppen.sn.	0	IN	NS	ns200.anycast.me.
+hoppen.sn.	0	IN	NS	dns200.anycast.me.
+hoppen.sn.	0	IN	DS	45214 8 2 e0c2fdafc33a0e6b203a30737ce91e97abc12fbefe38f0e09741283083d9e5fa
 horizon7.sn.	0	IN	NS	ns1.o2switch.net.
 horizon7.sn.	0	IN	NS	ns2.o2switch.net.
 horizons-bleus.sn.	0	IN	NS	hybrid862.fr.ns.planethoster.net.
@@ -10599,10 +10604,6 @@ ita.sn.	0	IN	NS	ns2.sonatel.sn.
 italianmarket.sn.	0	IN	NS	ns13.ovh.net.
 italianmarket.sn.	0	IN	NS	dns13.ovh.net.
 italianmarket.sn.	0	IN	DS	41671 8 2 93008114c58995d3bdab8361d27c6f52cfec83193df612b2b22ad9acff54f8f4
-itamax.sn.	0	IN	NS	ns3.wanekoohost.com.
-itamax.sn.	0	IN	NS	ns4.wanekoohost.com.
-itamax.sn.	0	IN	NS	ns5.wanekoohost.com.
-itamax.sn.	0	IN	NS	ns6.wanekoohost.com.
 itancia.sn.	0	IN	NS	ns19.ovh.net.
 itancia.sn.	0	IN	NS	dns19.ovh.net.
 itandcloud.sn.	0	IN	NS	ns200.anycast.me.
@@ -11229,10 +11230,6 @@ karimwade.sn.	0	IN	NS	ns3.francedns.com.
 karimwade2024.sn.	0	IN	NS	ns1.francedns.com.
 karimwade2024.sn.	0	IN	NS	ns2.francedns.com.
 karimwade2024.sn.	0	IN	NS	ns3.francedns.com.
-karyart.sn.	0	IN	NS	ns1.wanekoohost.com.
-karyart.sn.	0	IN	NS	ns2.wanekoohost.com.
-karyart.sn.	0	IN	NS	ns4.wanekoohost.com.
-karyart.sn.	0	IN	NS	ns5.wanekoohost.com.
 kashkash.sn.	0	IN	NS	ns1.wtservers.com.
 kashkash.sn.	0	IN	NS	ns2.wtservers.com.
 kashkash.sn.	0	IN	NS	ns3.wtservers.com.
@@ -15158,8 +15155,8 @@ palm.sn.	0	IN	NS	dns2.cscdns.net.
 palmasen-forza.sn.	0	IN	NS	ns107.ovh.net.
 palmasen-forza.sn.	0	IN	NS	dns107.ovh.net.
 palmasen-forza.sn.	0	IN	DS	56104 8 2 cc44ae6e2f2a9a5e098ec494d64f64eef522b5ff46748d0dff8d7fa5dcf60f5d
-palmbeach.sn.	0	IN	NS	ns.sonatel.sn.
-palmbeach.sn.	0	IN	NS	ns2.sonatel.sn.
+palmbeach.sn.	0	IN	NS	nsmpro1.nordnet.com.
+palmbeach.sn.	0	IN	NS	nsmpro2.nordnet.com.
 palmeraiediamniadio.sn.	0	IN	NS	ns1045.ui-dns.de.
 palmeraiediamniadio.sn.	0	IN	NS	ns1045.ui-dns.biz.
 palmeraiediamniadio.sn.	0	IN	NS	ns1045.ui-dns.com.
@@ -21329,6 +21326,8 @@ vusen.sn.	0	IN	NS	ns6.wanekoohost.com.
 vw.sn.	0	IN	NS	ns1.volkswagen.de.
 vw.sn.	0	IN	NS	ns2.volkswagen.de.
 vw.sn.	0	IN	NS	ns5.xc-ns.de.
+waaw.sn.	0	IN	NS	chan.ns.cloudflare.com.
+waaw.sn.	0	IN	NS	evan.ns.cloudflare.com.
 waca.sn.	0	IN	NS	ns16207.caurys.net.
 wadic.sn.	0	IN	NS	sdns2.ovh.net.
 wadic.sn.	0	IN	NS	ns367064.ip-188-165-235.eu.
