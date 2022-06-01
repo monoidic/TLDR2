@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1654077602 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1654084802 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -385,14 +385,15 @@ aa.kg.	0	IN	NS	dns1.cscdns.net.
 aa.kg.	0	IN	NS	dns2.cscdns.net.
 aaa.kg.	0	IN	NS	ns2.mailart.com.
 aaa.kg.	0	IN	NS	ns3.mailart.com.
-aaa-stroy.kg.	0	IN	NS	ns1.cloud.kg.
-aaa-stroy.kg.	0	IN	NS	ns2.cloud.kg.
 aaagroup.kg.	0	IN	NS	ns1.sprinthost.ru.
 aaagroup.kg.	0	IN	NS	ns2.sprinthost.ru.
 aalam.kg.	0	IN	NS	ns1.sprinthost.ru.
 aalam.kg.	0	IN	NS	ns2.sprinthost.ru.
 aalamstroy.kg.	0	IN	NS	ns5.hoster.kg.
 aalamstroy.kg.	0	IN	NS	ns6.hoster.kg.
+aalamtor.kg.	0	IN	NS	ns1.aalamtor.kg.
+aalamtor.kg.	0	IN	NS	ns2.aalamtor.kg.
+ns1.aalamtor.kg.	0	IN	A	178.217.173.178
 aalaw.kg.	0	IN	NS	ns1.ps.kz.
 aalaw.kg.	0	IN	NS	ns2.ps.kz.
 aalaw.kg.	0	IN	NS	ns3.ps.kz.
@@ -2896,8 +2897,6 @@ aviatravel.kg.	0	IN	NS	ns2.beget.com.
 aviatravel.kg.	0	IN	NS	ns2.beget.pro.
 avicenna.kg.	0	IN	NS	dns1.yandex.net.
 avicenna.kg.	0	IN	NS	dns2.yandex.net.
-avicenna-edu.kg.	0	IN	NS	ns5.hoster.kg.
-avicenna-edu.kg.	0	IN	NS	ns6.hoster.kg.
 avigeya.kg.	0	IN	NS	dns1.yandex.net.
 avigeya.kg.	0	IN	NS	dns2.yandex.net.
 avisa.kg.	0	IN	NS	dns1.yandex.net.
@@ -13793,8 +13792,6 @@ lekalo.kg.	0	IN	NS	ns6.hoster.kg.
 lekar.kg.	0	IN	NS	dns1.yandex.net.
 lekar.kg.	0	IN	NS	dns2.yandex.net.
 lemax.kg.	0	IN	NS	ns.kg.
-lemonbeach.kg.	0	IN	NS	ns1.hosting.reg.ru.
-lemonbeach.kg.	0	IN	NS	ns2.hosting.reg.ru.
 lemur.kg.	0	IN	NS	ns1.timeweb.ru.
 lemur.kg.	0	IN	NS	ns2.timeweb.ru.
 lemur.kg.	0	IN	NS	ns3.timeweb.org.
@@ -15427,6 +15424,8 @@ minfln.kg.	0	IN	NS	ns9.hoster.kg.
 minfln.kg.	0	IN	NS	ns10.hoster.kg.
 mini.kg.	0	IN	NS	dns1.cscdns.net.
 mini.kg.	0	IN	NS	dns2.cscdns.net.
+mininggroup.kg.	0	IN	NS	ns5.fozzy.com.
+mininggroup.kg.	0	IN	NS	ns6.fozzy.com.
 miningshop.kg.	0	IN	NS	ns1.platformalp.ru.
 miningshop.kg.	0	IN	NS	ns2.platformalp.ru.
 minjust.kg.	0	IN	NS	ns1.hosting.reg.ru.
@@ -16973,8 +16972,6 @@ okey.kg.	0	IN	NS	ns10.hoster.kg.
 oki.kg.	0	IN	NS	dns.oki.co.jp.
 oki.kg.	0	IN	NS	dns2.oki.co.jp.
 oki.kg.	0	IN	NS	dns-dr.oki.co.jp.
-okiniiri.kg.	0	IN	NS	ns5.hoster.kg.
-okiniiri.kg.	0	IN	NS	ns6.hoster.kg.
 okmot.kg.	0	IN	NS	ns.okmot.kg.
 okmot.kg.	0	IN	NS	ns1.okmot.kg.
 ns.okmot.kg.	0	IN	A	212.42.122.114
@@ -17430,6 +17427,8 @@ ormk.kg.	0	IN	NS	ns1.truedomain.me.
 ormk.kg.	0	IN	NS	ns2.truedomain.me.
 ormonhan.kg.	0	IN	NS	ns7.hoster.kg.
 ormonhan.kg.	0	IN	NS	ns8.hoster.kg.
+orocaffe.kg.	0	IN	NS	ns1.utc.kiev.ua.
+orocaffe.kg.	0	IN	NS	ns2.utc.kiev.ua.
 oropay.kg.	0	IN	NS	nsgbr.comlaude.co.uk.
 oropay.kg.	0	IN	NS	nssui.comlaude.ch.
 oropay.kg.	0	IN	NS	nsusa.comlaude.net.
@@ -20146,6 +20145,7 @@ samsungb2b.kg.	0	IN	NS	ns6.hoster.kg.
 samsungbusiness.kg.	0	IN	NS	ns5.hoster.kg.
 samsungbusiness.kg.	0	IN	NS	ns6.hoster.kg.
 samsunghealthcare.kg.	0	IN	NS	ns.kg.
+samsunghome.kg.	0	IN	NS	ns.kg.
 samsungkg.kg.	0	IN	NS	ns5.hoster.kg.
 samsungkg.kg.	0	IN	NS	ns6.hoster.kg.
 samsunglifestyle.kg.	0	IN	NS	ns01.samsunglifestyle.kg.
@@ -21573,8 +21573,6 @@ stada.kg.	0	IN	NS	ns2.stada.ru.
 staffaugmentation.kg.	0	IN	NS	ns1.netim.net.
 staffaugmentation.kg.	0	IN	NS	ns2.netim.net.
 staffaugmentation.kg.	0	IN	NS	ns3.netim.net.
-stal.kg.	0	IN	NS	ns5.hoster.kg.
-stal.kg.	0	IN	NS	ns6.hoster.kg.
 stalker.kg.	0	IN	NS	ns5.hoster.kg.
 stalker.kg.	0	IN	NS	ns6.hoster.kg.
 stalkerdc.kg.	0	IN	NS	ns5.hoster.kg.
@@ -21853,8 +21851,6 @@ stroyteks.kg.	0	IN	NS	ns1.beget.com.
 stroyteks.kg.	0	IN	NS	ns1.beget.pro.
 stroyteks.kg.	0	IN	NS	ns2.beget.com.
 stroyteks.kg.	0	IN	NS	ns2.beget.pro.
-stroytorg.kg.	0	IN	NS	ns5.hoster.kg.
-stroytorg.kg.	0	IN	NS	ns6.hoster.kg.
 stswb.kg.	0	IN	NS	ns1.truedomain.biz.
 stswb.kg.	0	IN	NS	ns2.truedomain.biz.
 student.kg.	0	IN	NS	ns35.domaincontrol.com.
@@ -23654,6 +23650,9 @@ ubimet.kg.	0	IN	NS	ns1.markmonitor.com.
 ubimet.kg.	0	IN	NS	ns2.markmonitor.com.
 ubimet.kg.	0	IN	NS	ns3.markmonitor.com.
 ubimet.kg.	0	IN	NS	ns4.markmonitor.com.
+uborka.kg.	0	IN	NS	ns1.ps.kz.
+uborka.kg.	0	IN	NS	ns2.ps.kz.
+uborka.kg.	0	IN	NS	ns3.ps.kz.
 uborka1.kg.	0	IN	NS	ns1.beget.com.
 uborka1.kg.	0	IN	NS	ns1.beget.pro.
 uborka1.kg.	0	IN	NS	ns2.beget.com.
@@ -24719,8 +24718,6 @@ vyberi.kg.	0	IN	NS	ns9.hoster.kg.
 vyberi.kg.	0	IN	NS	ns10.hoster.kg.
 vykup.kg.	0	IN	NS	ns5.hoster.kg.
 vykup.kg.	0	IN	NS	ns6.hoster.kg.
-vympelsecurity.kg.	0	IN	NS	ns0.thundercloud.uk.
-vympelsecurity.kg.	0	IN	NS	ns1.thundercloud.uk.
 vysota.kg.	0	IN	NS	ns1.beget.com.
 vysota.kg.	0	IN	NS	ns1.beget.pro.
 vysota.kg.	0	IN	NS	ns2.beget.com.
