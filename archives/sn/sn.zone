@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445820 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445847 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [02/06/2022 12H10:01]"
+sn.	0	IN	TXT	"4 RRs processed [02/06/2022 15H40:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -814,9 +814,6 @@ afitech.sn.	0	IN	NS	ns3.kheweul.net.
 afitech.sn.	0	IN	NS	ns4.kheweul.net.
 aflegal.sn.	0	IN	NS	ns1.mmbaye.com.
 aflegal.sn.	0	IN	NS	ns2.mmbaye.com.
-afotech.sn.	0	IN	NS	ns200.anycast.me.
-afotech.sn.	0	IN	NS	dns200.anycast.me.
-afotech.sn.	0	IN	DS	45070 8 2 21d970b1b2e02829a43f5fe445b73b61a7ab2bdcbcc4e3b755ef7686c4d00625
 afp.sn.	0	IN	NS	ns10.ovh.ca.
 afp.sn.	0	IN	NS	dns10.ovh.ca.
 afp.sn.	0	IN	DS	15289 8 2 392d5b1aadedb9b1ed1f52a01960fcb40ece9623d31ba1b6fd7044b5297543f0
@@ -12359,6 +12356,8 @@ listnbuy.sn.	0	IN	NS	ns1.101domain.com.
 listnbuy.sn.	0	IN	NS	ns2.101domain.com.
 liteyca.sn.	0	IN	NS	ns111.ovh.net.
 liteyca.sn.	0	IN	NS	dns111.ovh.net.
+litllebird.sn.	0	IN	NS	ns1.caurys.net.
+litllebird.sn.	0	IN	NS	ns2.caurys.net.
 liv.sn.	0	IN	NS	ns1.kheweul.net.
 liv.sn.	0	IN	NS	ns2.kheweul.net.
 liv.sn.	0	IN	NS	ns3.kheweul.net.
@@ -13422,10 +13421,6 @@ minapro.sn.	0	IN	NS	ns1.kheweul.net.
 minapro.sn.	0	IN	NS	ns2.kheweul.net.
 minapro.sn.	0	IN	NS	ns3.kheweul.net.
 minapro.sn.	0	IN	NS	ns4.kheweul.net.
-mind7.sn.	0	IN	NS	ns3.wanekoohost.com.
-mind7.sn.	0	IN	NS	ns4.wanekoohost.com.
-mind7.sn.	0	IN	NS	ns5.wanekoohost.com.
-mind7.sn.	0	IN	NS	ns6.wanekoohost.com.
 mineex.sn.	0	IN	NS	ns13.ovh.net.
 mineex.sn.	0	IN	NS	dns13.ovh.net.
 minekabaches.sn.	0	IN	NS	eisdns1.expertis.sn.
@@ -13724,6 +13719,10 @@ mowali.sn.	0	IN	NS	dns1.cscdns.net.
 mowali.sn.	0	IN	NS	dns2.cscdns.net.
 mozdahir.sn.	0	IN	NS	etta.ns.cloudflare.com.
 mozdahir.sn.	0	IN	NS	glen.ns.cloudflare.com.
+mp4.sn.	0	IN	NS	ns1.kheweul.net.
+mp4.sn.	0	IN	NS	ns2.kheweul.net.
+mp4.sn.	0	IN	NS	ns3.kheweul.net.
+mp4.sn.	0	IN	NS	ns4.kheweul.net.
 mpe.sn.	0	IN	NS	ns113.ovh.net.
 mpe.sn.	0	IN	NS	dns113.ovh.net.
 mpediatre.sn.	0	IN	NS	ns1.digitalocean.com.
@@ -17892,6 +17891,10 @@ senlabo.sn.	0	IN	NS	pdns14.domaincontrol.com.
 senlaptop.sn.	0	IN	NS	ns110.ovh.net.
 senlaptop.sn.	0	IN	NS	dns110.ovh.net.
 senlaptop.sn.	0	IN	DS	36637 8 2 5f2b23f81a71d00f9b4deb9bfde35fb409be071e38d638990f04e10507f1f54d
+senloc.sn.	0	IN	NS	ns1.kheweul.net.
+senloc.sn.	0	IN	NS	ns2.kheweul.net.
+senloc.sn.	0	IN	NS	ns3.kheweul.net.
+senloc.sn.	0	IN	NS	ns4.kheweul.net.
 senlocation.sn.	0	IN	NS	ns110.ovh.net.
 senlocation.sn.	0	IN	NS	dns110.ovh.net.
 senlocation.sn.	0	IN	DS	10924 8 2 e7a933d5f73694986fb21966b7037f1b95d8dcbc1b346a159ab23100d57ef33d
@@ -21516,6 +21519,8 @@ wefund.sn.	0	IN	NS	ns1.kheweul.net.
 wefund.sn.	0	IN	NS	ns2.kheweul.net.
 wefund.sn.	0	IN	NS	ns3.kheweul.net.
 wefund.sn.	0	IN	NS	ns4.kheweul.net.
+wekonnect.sn.	0	IN	NS	eisdns1.expertis.sn.
+wekonnect.sn.	0	IN	NS	eisdns2.expertis.sn.
 welfin.sn.	0	IN	NS	ns200.anycast.me.
 welfin.sn.	0	IN	NS	dns200.anycast.me.
 welfin.sn.	0	IN	DS	64696 8 2 6a687cf3de53b3563f8e725dc75c35c32c8f3de7c88b89e2780417e7ad895d54
