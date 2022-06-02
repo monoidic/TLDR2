@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445865 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445875 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [02/06/2022 18H10:01]"
+sn.	0	IN	TXT	"2 RRs processed [02/06/2022 19H20:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8916,6 +8916,8 @@ gosurvey.sn.	0	IN	NS	ns3.netim.net.
 gotech.sn.	0	IN	NS	nsa.n0c.com.
 gotech.sn.	0	IN	NS	nsb.n0c.com.
 gotech.sn.	0	IN	NS	nsc.n0c.com.
+gotickets.sn.	0	IN	NS	ns111.ovh.net.
+gotickets.sn.	0	IN	NS	dns111.ovh.net.
 gourmea.sn.	0	IN	NS	ns103.ovh.net.
 gourmea.sn.	0	IN	NS	dns103.ovh.net.
 gourmea.sn.	0	IN	DS	47335 8 2 57a7412fe499399f2e1ce5c5be07d85206a49f1b3dfe5e8822071fa23f631f7e
@@ -12132,6 +12134,8 @@ lesbaobabs.sn.	0	IN	NS	sdns2.ovh.net.
 lesbaobabs.sn.	0	IN	NS	ns386118.ovh.net.
 lesbarbus.sn.	0	IN	NS	ns101.ovh.net.
 lesbarbus.sn.	0	IN	NS	dns101.ovh.net.
+lesbatisseurs.sn.	0	IN	NS	ns110.ovh.net.
+lesbatisseurs.sn.	0	IN	NS	dns110.ovh.net.
 lesbouquetscanalplus.sn.	0	IN	NS	ns2.observatoiredesmarques.fr.
 lesbouquetscanalplus.sn.	0	IN	NS	ns3.nameshield.net.
 lesbouquetscanalplus.sn.	0	IN	NS	obs.ns1.fr.
@@ -20512,6 +20516,10 @@ transnumerik.sn.	0	IN	NS	ns2.francedns.com.
 transnumerik.sn.	0	IN	NS	ns3.francedns.com.
 transpay.sn.	0	IN	NS	nsmpro1.nordnet.com.
 transpay.sn.	0	IN	NS	nsmpro2.nordnet.com.
+transport2d.sn.	0	IN	NS	ns1.kheweul.net.
+transport2d.sn.	0	IN	NS	ns2.kheweul.net.
+transport2d.sn.	0	IN	NS	ns3.kheweul.net.
+transport2d.sn.	0	IN	NS	ns4.kheweul.net.
 transportsady.sn.	0	IN	NS	ns1.kheweul.net.
 transportsady.sn.	0	IN	NS	ns2.kheweul.net.
 transportsady.sn.	0	IN	NS	ns3.kheweul.net.
