@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445904 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445912 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [02/06/2022 23H00:02]"
+sn.	0	IN	TXT	"No RRs processed [03/06/2022 00H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2217,6 +2217,8 @@ avisen.sn.	0	IN	NS	ns2.sonatel.sn.
 avisjournaux.sn.	0	IN	NS	ns200.anycast.me.
 avisjournaux.sn.	0	IN	NS	dns200.anycast.me.
 avisjournaux.sn.	0	IN	DS	20854 8 2 cdc34122e51bc000973b4e4f60d3329fd3964d9124e0fcd81d3d9c6cd9a37109
+avitech.sn.	0	IN	NS	ns111.ovh.net.
+avitech.sn.	0	IN	NS	dns111.ovh.net.
 avocats.sn.	0	IN	NS	ns112.ovh.net.
 avocats.sn.	0	IN	NS	dns112.ovh.net.
 avocats.sn.	0	IN	DS	31105 8 2 140084f80ec9a47ca0f187cd0e71b0cb517fb6c63c09f3a34ebdefbaaabfa1e6
@@ -9493,6 +9495,8 @@ hogip.sn.	0	IN	NS	ns2.servconfig.com.
 holcim.sn.	0	IN	NS	ns01ch.holcim.com.
 holcim.sn.	0	IN	NS	ns01us.holcim.com.
 holcim.sn.	0	IN	NS	ns02ch.holcim.com.
+holi.sn.	0	IN	NS	ns111.ovh.net.
+holi.sn.	0	IN	NS	dns111.ovh.net.
 holidaylettings.sn.	0	IN	NS	dns1.cscdns.net.
 holidaylettings.sn.	0	IN	NS	dns2.cscdns.net.
 holidayskids.sn.	0	IN	NS	ns1.kheweul.net.
