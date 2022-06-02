@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060102 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060103 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -125,6 +125,7 @@ abogado.	0	IN	NS	b.nic.abogado.
 abogado.	0	IN	NS	c.nic.abogado.
 abogado.	0	IN	NS	d.nic.abogado.
 abogado.	0	IN	DS	5362 8 2 c93113e4462f578dd4d344078197bdc03d169bdaf471d033e5dbd3b4faeb85f2
+abogado.	0	IN	DS	31012 8 2 fcfc05f3629da70f709fb54e7d17214483216d641f8a6cca90ad02be852e5a8c
 abogado.	0	IN	DS	55367 8 2 a3065c94f7700d7cab948bbd4a39845e3881f70e61ffb1d9e71de1af566919c6
 a.nic.abogado.	0	IN	A	37.209.192.10
 a.nic.abogado.	0	IN	AAAA	2001:dcd:1::10
@@ -283,6 +284,7 @@ adult.	0	IN	DS	6880 7 2 199ee7b7a3b702c969f220dc2622f26426a35be66bb9a13b4fc65c47
 adult.	0	IN	DS	12384 7 1 221e46550901838781e9e611b472c90568a920ef
 adult.	0	IN	DS	12384 7 2 6864a9d04cdfbd70e07a3144e73d08cbe1c4485c549d8f966ebbaf7cfbc40f89
 adult.	0	IN	DS	38725 8 2 a5cc4d93a614cc1c09ee0ae4bb461df059baea7bc1081f73c78393016a853d91
+adult.	0	IN	DS	64321 8 2 ca734aa86339cb101665a65c4f33f4e86b37cf2512fd4c1655c00026d6f70915
 a.nic.adult.	0	IN	A	37.209.192.10
 a.nic.adult.	0	IN	AAAA	2001:dcd:1::10
 b.nic.adult.	0	IN	A	37.209.194.10
@@ -1498,6 +1500,7 @@ basketball.	0	IN	NS	b.nic.basketball.
 basketball.	0	IN	NS	c.nic.basketball.
 basketball.	0	IN	NS	d.nic.basketball.
 basketball.	0	IN	DS	43195 8 2 3ff79d0d21848f03bd9d98ed5f3d340ab4ca6fe01a62dab26b2bb8e6ecc41c9a
+basketball.	0	IN	DS	46201 8 2 ca5c951d022f3965ab936d403cfbb48f2d753d7b32dde3ac146b419693dfbf30
 basketball.	0	IN	DS	54631 8 2 9fcab708697ce66405ee91e563c6000b982529ff899deba6567cc1b97169e2ca
 a.nic.basketball.	0	IN	A	37.209.192.10
 a.nic.basketball.	0	IN	AAAA	2001:dcd:1::10
@@ -1674,6 +1677,7 @@ beer.	0	IN	NS	b.nic.beer.
 beer.	0	IN	NS	c.nic.beer.
 beer.	0	IN	NS	d.nic.beer.
 beer.	0	IN	DS	56125 8 2 c674b8966cb78a79e67a2ed674917cf39f96ed6c7e5460425c61eafbad7e2a87
+beer.	0	IN	DS	61849 8 2 11485cf30d665a82c06691c37983fd4eca2068add702ace7374ec00e800f788f
 beer.	0	IN	DS	65269 8 2 9e3582a5fd799d09e622c1aa948a2a2ae2e4e08ead48063a7c7a470bba3909cc
 a.nic.beer.	0	IN	A	37.209.192.10
 a.nic.beer.	0	IN	AAAA	2001:dcd:1::10
@@ -2183,6 +2187,7 @@ boston.	0	IN	NS	a.nic.boston.
 boston.	0	IN	NS	b.nic.boston.
 boston.	0	IN	NS	c.nic.boston.
 boston.	0	IN	NS	d.nic.boston.
+boston.	0	IN	DS	1189 8 2 32da17d1e9cd92eebd7214b36b30fa8c8956abba7435f46b3a55d1455d8e01a2
 boston.	0	IN	DS	8071 8 2 3ed356c24dd4e71dd8fe85afa15196ffd702bc63e27ec629ef56a0b29d889ba2
 boston.	0	IN	DS	27680 8 2 c78971d9731512d23053441e6ee438571199dcce831332d155b12530f92e2e8f
 a.nic.boston.	0	IN	A	37.209.192.10
@@ -2868,6 +2873,7 @@ casa.	0	IN	NS	a.nic.casa.
 casa.	0	IN	NS	b.nic.casa.
 casa.	0	IN	NS	c.nic.casa.
 casa.	0	IN	NS	d.nic.casa.
+casa.	0	IN	DS	12820 8 2 dfd8771512e3e5d525fcbef9bc186fda12797d20977a41cb663dcd18d8e38cea
 casa.	0	IN	DS	13315 8 2 dd7e29958450abedf3862fafee3a925e34dfa87c91c7b20bb8b9d2c2e01b35d6
 casa.	0	IN	DS	52312 8 2 45b4fde676e265b2f45e2f9f96bda805e5b6524d86cbcfd071cf1d565cf983ed
 a.nic.casa.	0	IN	A	37.209.192.10
@@ -4082,6 +4088,7 @@ cooking.	0	IN	NS	a.nic.cooking.
 cooking.	0	IN	NS	b.nic.cooking.
 cooking.	0	IN	NS	c.nic.cooking.
 cooking.	0	IN	NS	d.nic.cooking.
+cooking.	0	IN	DS	28069 8 2 ce234a5239cc651d9613917e4d5d4795ea8a0c7a63db0c3ae69bb5fa6caba352
 cooking.	0	IN	DS	35491 8 2 5656b806e887c665f5eb9696fa36ac77d60df08a4939bb9147cbbff8593f5ac8
 cooking.	0	IN	DS	38020 8 2 76c110f1d94cbd33d6217f454ad0c198386789536138b865be7f91e2e7d2af34
 a.nic.cooking.	0	IN	A	37.209.192.10
@@ -4573,6 +4580,7 @@ dds.	0	IN	NS	b.nic.dds.
 dds.	0	IN	NS	c.nic.dds.
 dds.	0	IN	NS	d.nic.dds.
 dds.	0	IN	DS	1369 8 2 436524787b6e24484d40e8d5acd393106bbc2529c82f9f3e59cfab1e842d61a3
+dds.	0	IN	DS	51931 8 2 13ef8fe3e8e2afae0a24b7453d086e2eb0df7828b03a8af18fcae43bec07fd38
 dds.	0	IN	DS	62671 8 2 5b7a8a0066322585c371470ad22abffd8320959cfec2e402f94eeaad62b6eedc
 a.nic.dds.	0	IN	A	37.209.192.10
 a.nic.dds.	0	IN	AAAA	2001:dcd:1::10
@@ -4825,6 +4833,7 @@ design.	0	IN	NS	c.nic.design.
 design.	0	IN	NS	d.nic.design.
 design.	0	IN	DS	17966 8 2 7eb4b30dd9fa4a97fb4ea4a280ad06871728e7be5f38788449040e094b6c1b74
 design.	0	IN	DS	29521 8 2 e851dbdefe6756beb415c04da1188ce466c66e78f3b4815456070bc8d8af889e
+design.	0	IN	DS	50422 8 2 400c06349da05ff7c9b9d8c11857e8e9c3ce947ea05cc4c7c6de878bf2a496ee
 a.nic.design.	0	IN	A	37.209.192.10
 a.nic.design.	0	IN	AAAA	2001:dcd:1::10
 b.nic.design.	0	IN	A	37.209.194.10
@@ -5864,6 +5873,7 @@ fashion.	0	IN	NS	c.nic.fashion.
 fashion.	0	IN	NS	d.nic.fashion.
 fashion.	0	IN	DS	7961 8 2 428a5995be0ad827f2171bd7f5489614e912c8a78483bfcd046b915823757d93
 fashion.	0	IN	DS	35569 8 2 86a697538b00b211ec1603a8d8fc3baaff12f76382f9794d266c3b13d2557f90
+fashion.	0	IN	DS	50059 8 2 99bbddd068ec695d622dc3a186fd015d9d47d2b26056cdab45ab8e45fc99dd87
 a.nic.fashion.	0	IN	A	37.209.192.10
 a.nic.fashion.	0	IN	AAAA	2001:dcd:1::10
 b.nic.fashion.	0	IN	A	37.209.194.10
@@ -6143,6 +6153,7 @@ fishing.	0	IN	NS	b.nic.fishing.
 fishing.	0	IN	NS	c.nic.fishing.
 fishing.	0	IN	NS	d.nic.fishing.
 fishing.	0	IN	DS	5317 8 2 9a49e7dcbc87673c0f7082ccd7dcd863f0af13a209591857ef9841da5fd7f5ce
+fishing.	0	IN	DS	24019 8 2 51a5cc521f83d8bea6afe905d7f24a758c72d9341b550fc4e7ac0f272aceeca5
 fishing.	0	IN	DS	62501 8 2 23b06d89f164f1743c5efd761a77efc552f19869369b96c5f1a1b37ae096ab37
 a.nic.fishing.	0	IN	A	37.209.192.10
 a.nic.fishing.	0	IN	AAAA	2001:dcd:1::10
@@ -6157,6 +6168,7 @@ fit.	0	IN	NS	b.nic.fit.
 fit.	0	IN	NS	c.nic.fit.
 fit.	0	IN	NS	d.nic.fit.
 fit.	0	IN	DS	679 8 2 3b21c3e70afe017708be1deefd2e7481fbbd04b336e45eef93f8562784bb7a65
+fit.	0	IN	DS	52846 8 2 67ac0d6b4abdb3e427baa988fce6dbb8f5420027ab25d219fec06e2ff8babf09
 fit.	0	IN	DS	58264 8 2 c839d6633bc45329f4b7ab36d78bf5d7a2df6d69afe32d40557d66c229ab9bb9
 a.nic.fit.	0	IN	A	37.209.192.10
 a.nic.fit.	0	IN	AAAA	2001:dcd:1::10
@@ -6829,6 +6841,7 @@ garden.	0	IN	NS	c.nic.garden.
 garden.	0	IN	NS	d.nic.garden.
 garden.	0	IN	DS	10669 8 2 bef307f6fdb4589359fd64104e7f67667d762d52e11d58cc15c9cae75dcc4a7a
 garden.	0	IN	DS	49411 8 2 794ad2db36fd39dece1c4e95687d864128f4b87c27da93f525e34834cdf8d132
+garden.	0	IN	DS	51400 8 2 a3f1a44a1d481d01241486e74820fc3634cb119c4772812ddf44e6d1cc5d2ebc
 a.nic.garden.	0	IN	A	37.209.192.10
 a.nic.garden.	0	IN	AAAA	2001:dcd:1::10
 b.nic.garden.	0	IN	A	37.209.194.10
@@ -6842,6 +6855,7 @@ gay.	0	IN	NS	b.nic.gay.
 gay.	0	IN	NS	c.nic.gay.
 gay.	0	IN	NS	d.nic.gay.
 gay.	0	IN	DS	25142 8 2 91ab29861d9a4c854adf3de6315526e3345cb4c42cf870358aa498207fc45d6f
+gay.	0	IN	DS	32074 8 2 c725b3cbd9d404307d49d0969b57b8885fd69663aca51662b05716c9abd1361e
 gay.	0	IN	DS	57751 8 2 bb97ad2d22abc031391de7cd1b2bb44fe2af9b8babc8f42a90cc81b1752bd235
 a.nic.gay.	0	IN	A	37.209.192.10
 a.nic.gay.	0	IN	AAAA	2001:dcd:1::10
@@ -7910,6 +7924,7 @@ horse.	0	IN	NS	c.nic.horse.
 horse.	0	IN	NS	d.nic.horse.
 horse.	0	IN	DS	1771 8 2 e51b3058c2c94b496ac56dbcc25de9eeee577a408bc6f469e00505b5d56ed186
 horse.	0	IN	DS	38221 8 2 8c95148dff9b22d4ed425ca5e49a5f67ed04f4e3a5fd69b08609722371c4c433
+horse.	0	IN	DS	49330 8 2 6566edc407480e5f0f3d1f31e436bb5321d557e5805704868fca3a59e6042d38
 a.nic.horse.	0	IN	A	37.209.192.10
 a.nic.horse.	0	IN	AAAA	2001:dcd:1::10
 b.nic.horse.	0	IN	A	37.209.194.10
@@ -8514,6 +8529,7 @@ ink.	0	IN	NS	a.nic.ink.
 ink.	0	IN	NS	b.nic.ink.
 ink.	0	IN	NS	c.nic.ink.
 ink.	0	IN	NS	d.nic.ink.
+ink.	0	IN	DS	44809 8 2 f3328d3a8a78e742e5d1e84c641f399e944d62a290651d21dffee632ab6ad01e
 ink.	0	IN	DS	45674 8 2 459c2a6319421c6ffce3a7862de5612875dab5db1a5ae8145569a45cfcd164d3
 ink.	0	IN	DS	53884 8 2 10b678a3bbcba2fd6fc78aa19ceda9360bf496baf846474b3c1d0d6668d5851c
 a.nic.ink.	0	IN	A	37.209.192.10
@@ -10333,6 +10349,7 @@ luxe.	0	IN	NS	c.nic.luxe.
 luxe.	0	IN	NS	d.nic.luxe.
 luxe.	0	IN	DS	1681 8 2 759531175bcdd5d0d33500925b45a546f5d5aa7c644b10d2c29d44dbd8897772
 luxe.	0	IN	DS	10642 8 2 d9bb242c61678e18098a6ca7f95c0ca5614ae46b5b7928808b4375e054a0ecf1
+luxe.	0	IN	DS	36439 8 2 5795a4998940987917475ae83f6f49b1fea576cac1203c449e9c8a3ede316785
 a.nic.luxe.	0	IN	A	37.209.192.10
 a.nic.luxe.	0	IN	AAAA	2001:dcd:1::10
 b.nic.luxe.	0	IN	A	37.209.194.10
@@ -10815,6 +10832,7 @@ miami.	0	IN	NS	a.nic.miami.
 miami.	0	IN	NS	b.nic.miami.
 miami.	0	IN	NS	c.nic.miami.
 miami.	0	IN	NS	d.nic.miami.
+miami.	0	IN	DS	19654 8 2 8f63985ad288d934e94263f9cea1f58734eda5b75b35bcb9ca39b3038bfc03aa
 miami.	0	IN	DS	47539 8 2 453c25a8643cd004f889167848f73da1bf5e35897e01dad9c7c7f665fd0850c5
 miami.	0	IN	DS	55621 8 2 f864b8e40a5d5e290c95571f70f9fb591fc0d96fb35edf83e00150fe6f1773d1
 a.nic.miami.	0	IN	A	37.209.192.10
@@ -12342,6 +12360,7 @@ nz.	0	IN	NS	ns6.dns.net.nz.
 nz.	0	IN	NS	ns7.dns.net.nz.
 nz.	0	IN	DS	30241 8 2 cada34f2b54a6a7a3aeed773c4b562c5958cfd6bcec286b2dbebc29dfec1011f
 nz.	0	IN	DS	37574 8 2 765f264ea82365ae255126b31cda3205eaa3f5618a4e73e10b21f6be01c54f6f
+nz.	0	IN	DS	49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
 circa.mcs.vuw.ac.nz.	0	IN	A	130.195.5.12
 downstage.mcs.vuw.ac.nz.	0	IN	A	130.195.6.10
 ns1.dns.net.nz.	0	IN	A	202.46.190.130
@@ -13371,6 +13390,7 @@ porn.	0	IN	NS	a.nic.porn.
 porn.	0	IN	NS	b.nic.porn.
 porn.	0	IN	NS	c.nic.porn.
 porn.	0	IN	NS	d.nic.porn.
+porn.	0	IN	DS	3196 8 2 6b2d8feea5a23845e6934f5639d4055639d7b8d1fac4b5c19c7e5cd45745344d
 porn.	0	IN	DS	26964 7 1 4df87bf971aee6ece3bdb18b479cd8c706d0940a
 porn.	0	IN	DS	26964 7 2 65d5b46a3c6fb2714e0777892902a0b9f92d75a5f5a52db2ca0de0960d06d06d
 porn.	0	IN	DS	40125 7 1 17a4c622ea3f7ce1b491efab5c0245439f558c87
@@ -14360,6 +14380,7 @@ rodeo.	0	IN	NS	a.nic.rodeo.
 rodeo.	0	IN	NS	b.nic.rodeo.
 rodeo.	0	IN	NS	c.nic.rodeo.
 rodeo.	0	IN	NS	d.nic.rodeo.
+rodeo.	0	IN	DS	28669 8 2 beefb4208acee98d66cf5bf93dd9841ac55efa98b003cfe13ff4201e3f8ec300
 rodeo.	0	IN	DS	36964 8 2 7f27622166a3a48a7a02cadbf80b11ebc3aad95b529284f64e12b703f36bd8cc
 rodeo.	0	IN	DS	60932 8 2 a2b0de34d189ec512449b234452e2d196937b6348eb2da406d59f73ffde339ce
 a.nic.rodeo.	0	IN	A	37.209.192.10
@@ -14445,6 +14466,7 @@ rugby.	0	IN	NS	b.nic.rugby.
 rugby.	0	IN	NS	c.nic.rugby.
 rugby.	0	IN	NS	d.nic.rugby.
 rugby.	0	IN	DS	30467 8 2 d23f3e8a3eded657ac88b27e95b1eb94cba49f056e3fa1fc970e743dc3225817
+rugby.	0	IN	DS	62356 8 2 df8506247c16ff7ee32eb239208b60960639af729379a13c135c52d606e8520d
 rugby.	0	IN	DS	63277 8 2 1183fca31b96229383bdd1240e4a1a383c6a4459a6cea0b13cbf995f9df85e68
 a.nic.rugby.	0	IN	A	37.209.192.10
 a.nic.rugby.	0	IN	AAAA	2001:dcd:1::10
@@ -15126,6 +15148,7 @@ sex.	0	IN	NS	d.nic.sex.
 sex.	0	IN	DS	17466 7 1 d21e931f5ffd26dc73aea12f5b2811b058ee53bf
 sex.	0	IN	DS	17466 7 2 4da5cb3c50f083650a323f6abbb8aa9a0673451d9daa4826253f5592084af478
 sex.	0	IN	DS	42052 8 2 5030ebea9a2766213a5f371c4f14fa96ed9c3befb9e64e6afa3a479d75f956bb
+sex.	0	IN	DS	53905 8 2 1bc21cfa8ce05af75007ae4e83667dc97eb6939b9253cbaa0d124c18d49f09d6
 sex.	0	IN	DS	63876 7 1 ac14ea15b91bc5f5ce2a7e5875a118dc870a0c49
 sex.	0	IN	DS	63876 7 2 93dd77ef2a29e805e1392773fbd7c26ed5090bed34a4a051289f4535f3b065b0
 a.nic.sex.	0	IN	A	37.209.192.10
@@ -16107,6 +16130,7 @@ surf.	0	IN	NS	b.nic.surf.
 surf.	0	IN	NS	c.nic.surf.
 surf.	0	IN	NS	d.nic.surf.
 surf.	0	IN	DS	10654 8 2 69bc7db1022301eeab7af327bd4940623c6cec3cb09c0ed3f583814cee19e00c
+surf.	0	IN	DS	42349 8 2 f4d78e449d9bf4c11668df78a7a3f5747797ef8dc5304270ef0574716c0c803c
 surf.	0	IN	DS	50807 8 2 92dbec0cff4127171b2dbeb60ce4a787b1a8a42eb80a0bbf666d84a60ad12979
 a.nic.surf.	0	IN	A	37.209.192.10
 a.nic.surf.	0	IN	AAAA	2001:dcd:1::10
@@ -16870,7 +16894,7 @@ to.	0	IN	NS	newyork.tonic.to.
 to.	0	IN	NS	helsinki.tonic.to.
 to.	0	IN	NS	frankfurt.tonic.to.
 to.	0	IN	NS	singapore.tonic.to.
-tonic.to.	0	IN	A	144.202.111.210
+tonic.to.	0	IN	A	149.28.204.240
 colo.tonic.to.	0	IN	A	216.74.32.101
 frankfurt.tonic.to.	0	IN	A	46.101.233.168
 helsinki.tonic.to.	0	IN	A	95.216.159.42
@@ -17775,6 +17799,7 @@ vip.	0	IN	NS	b.nic.vip.
 vip.	0	IN	NS	c.nic.vip.
 vip.	0	IN	NS	d.nic.vip.
 vip.	0	IN	DS	10546 8 2 a04c8731d9bd0b8228c41e4f01934708397b7ef4ad5252e59660b9a042aab5ff
+vip.	0	IN	DS	40669 8 2 eb70a1f31a3c3b26e464dd98a97970001fc220021dea2b4a5dda68de2c1dbf00
 vip.	0	IN	DS	47342 8 2 21ae57cb4768f455421c8f155fc656b135b364a40bd82a7b92c0849fd138804e
 a.nic.vip.	0	IN	A	37.209.192.10
 a.nic.vip.	0	IN	AAAA	2001:dcd:1::10
@@ -17914,6 +17939,7 @@ vodka.	0	IN	NS	a.nic.vodka.
 vodka.	0	IN	NS	b.nic.vodka.
 vodka.	0	IN	NS	c.nic.vodka.
 vodka.	0	IN	NS	d.nic.vodka.
+vodka.	0	IN	DS	9085 8 2 4a2f917b298b97a57bf484931c74134a82b3ef0ce16da123093c509eb9ea153e
 vodka.	0	IN	DS	10127 8 2 b55e02f868d25a02a67344a805fd2a375f65012d8e39d597a8872db9b555cc0b
 vodka.	0	IN	DS	54040 8 2 4f0c2be1d7b846f5de0b04c6c56b3fbea0f5b0a621ffc3130a747792d190c26b
 a.nic.vodka.	0	IN	A	37.209.192.10
@@ -18242,6 +18268,7 @@ wedding.	0	IN	NS	b.nic.wedding.
 wedding.	0	IN	NS	c.nic.wedding.
 wedding.	0	IN	NS	d.nic.wedding.
 wedding.	0	IN	DS	6406 8 2 0dbaa915fc439f5644083df9e2b9a49f10b3bbb0cc4863c5089b99f7c35be118
+wedding.	0	IN	DS	7942 8 2 6bcbb57873bad3ef4bfc74da093b04a5232bbc92c68579dd6776f326467510fd
 wedding.	0	IN	DS	35737 8 2 52ad7f8e8997c0df6451d998877608c5e1d06e66599435cebfd7750d30831e58
 a.nic.wedding.	0	IN	A	37.209.192.10
 a.nic.wedding.	0	IN	AAAA	2001:dcd:1::10
@@ -18288,6 +18315,7 @@ wiki.	0	IN	NS	b.nic.wiki.
 wiki.	0	IN	NS	c.nic.wiki.
 wiki.	0	IN	NS	d.nic.wiki.
 wiki.	0	IN	DS	4724 8 2 e907372d79e6e67d3be4703456bae27f824a7678964808134fabd6106a7897d8
+wiki.	0	IN	DS	10870 8 2 3c2ca6a68be31fd1222eb66aaa693c6c4991e6f8737ca62b1427b3c9e3e67539
 wiki.	0	IN	DS	47245 8 2 4973074b16a53ace97e4b2c2580e0ba60dca5c5948bccdbe21eabb753941af1b
 a.nic.wiki.	0	IN	A	37.209.192.10
 a.nic.wiki.	0	IN	AAAA	2001:dcd:1::10
@@ -18429,6 +18457,7 @@ work.	0	IN	NS	c.nic.work.
 work.	0	IN	NS	d.nic.work.
 work.	0	IN	DS	7331 8 2 f6ebbe59bd6cf2d7d8f6ad1a31f38e84be3c4613432e59703c4d90bc8d47e1c1
 work.	0	IN	DS	30061 8 2 23c0f584deca03b3ee1cc64c0474b37a8a15413abe3624a507a989eb5b94b392
+work.	0	IN	DS	41389 8 2 d1ae5019cb2d29dab235359fe6250cddd84c83214deae65e7a1ab385d2050bf2
 a.nic.work.	0	IN	A	37.209.192.10
 a.nic.work.	0	IN	AAAA	2001:dcd:1::10
 b.nic.work.	0	IN	A	37.209.194.10
@@ -20014,6 +20043,7 @@ xxx.	0	IN	NS	a.nic.xxx.
 xxx.	0	IN	NS	b.nic.xxx.
 xxx.	0	IN	NS	c.nic.xxx.
 xxx.	0	IN	NS	d.nic.xxx.
+xxx.	0	IN	DS	4654 8 2 0a2255017ab65ca9d9a3d1a1d74da6f19e9c4dad8b7b452e547d2420f9e74c39
 xxx.	0	IN	DS	28246 7 1 31172701f24f34fb4aedccd311ca0707a32cef28
 xxx.	0	IN	DS	28246 7 2 79470475aae20bf9ceab59e7cb3ee166cefc35a1b38702c6df08d7518cd8562a
 xxx.	0	IN	DS	38310 7 1 5f0706ced612a3b0cd8a98fb88b90f5311435fa0
@@ -20115,6 +20145,7 @@ yoga.	0	IN	NS	b.nic.yoga.
 yoga.	0	IN	NS	c.nic.yoga.
 yoga.	0	IN	NS	d.nic.yoga.
 yoga.	0	IN	DS	16444 8 2 5bbb4be10f21c02d518c73b32cdb4471e3cb9a512d0f288b8f1609775c9baa08
+yoga.	0	IN	DS	19357 8 2 fb9b29f651414b178b56b756e96a6a8660d67616ecacc53b6124bebe13b0d3ae
 yoga.	0	IN	DS	40156 8 2 eb292a36e3cf68f7cb7a4e52009924685cffac9cd9ce3e1c36b6e52a00fcb3df
 a.nic.yoga.	0	IN	A	37.209.192.10
 a.nic.yoga.	0	IN	AAAA	2001:dcd:1::10
