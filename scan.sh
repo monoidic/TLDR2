@@ -7,7 +7,7 @@ scan() {
 	eval "$bin" -db "$db" $*
 }
 
-main() {
+prework() {
 	# create dummy db
 	scan -rr_ip
 	# add root zone
@@ -18,11 +18,14 @@ main() {
 	scan -direct_conns -v6 -axfr
 	# get TLD nameserver info
 	scan -{rr,net}_{ns,ip}
+}
+
+axfr() {
 	# axfr TLD nameservers
 	scan -direct_conns -v6 -axfr
+}
 
-	echo "done with axfr"
-
+zonefiles() {
 	for zone in $(sqlite3 "$db" 'SELECT DISTINCT zone.name FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id'); do
 		echo "dumping zone ${zone}"
 		if [[ $zone = '.' ]]; then
@@ -43,7 +46,9 @@ main() {
 			gzip ${filepath}
 		fi
 	done
+}
 
+md() {
 	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
 
 	for line in $(sqlite3 tldr.sqlite3 'SELECT DISTINCT zone.name, ns.name FROM axfrable_ns INNER JOIN name AS zone ON axfrable_ns.zone_id=zone.id INNER JOIN name_ip ON name_ip.ip_id=axfrable_ns.ip_id INNER JOIN zone_ns ON zone_ns.zone_id=zone.id INNER JOIN name AS ns ON zone_ns.ns_id=ns.id WHERE name_ip.name_id=ns.id ORDER BY zone.name, ns.name'); do
@@ -60,4 +65,4 @@ main() {
 	done
 }
 
-main
+$1
