@@ -31,7 +31,7 @@ main() {
 		dir="archives/${path_name}/"
 		filepath="${dir}/${path_name}.zone"
 		mkdir -p "$dir"
-		sqlite3 "$db" "SELECT DISTINCT rr_value.value FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" > ${filepath}.tmp
+		sqlite3 "$db" "SELECT rr_value.value FROM rr_value INNER JOIN ( SELECT DISTINCT rr_value.id AS id FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone2rr.zone_id=(SELECT id FROM name WHERE name.name='${zone}') ) AS rrv ON rr_value.id=rrv.id" > ${filepath}.tmp
 		ldns-read-zone -zs ${filepath}.tmp > ${filepath}
 		rm ${filepath}.tmp
 
