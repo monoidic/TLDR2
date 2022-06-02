@@ -21,7 +21,10 @@ main() {
 	# axfr TLD nameservers
 	scan -direct_conns -v6 -axfr
 
+	echo "done with axfr"
+
 	for zone in $(sqlite3 "$db" 'SELECT DISTINCT zone.name FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id'); do
+		echo "dumping zone ${zone}"
 		if [[ $zone = '.' ]]; then
 			path_name='root'
 		else
