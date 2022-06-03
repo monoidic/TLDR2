@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445980 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222445986 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"1 RRs processed [03/06/2022 09H00:01]"
+sn.	0	IN	TXT	"No RRs processed [03/06/2022 10H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -16929,6 +16929,8 @@ samaindustries.sn.	0	IN	NS	ns2.sonatel.sn.
 samairways.sn.	0	IN	NS	ns10.ovh.net.
 samairways.sn.	0	IN	NS	dns10.ovh.net.
 samairways.sn.	0	IN	DS	1342 8 2 c194e028e5e9a38e333fb4eea1175ab2f01b42b6fb7b4c564bec38c9084d4760
+samak.sn.	0	IN	NS	ns.arc.sn.
+samak.sn.	0	IN	NS	hosting100.arc.sn.
 samakdo.sn.	0	IN	NS	dns1.p04.nsone.net.
 samakdo.sn.	0	IN	NS	dns2.p04.nsone.net.
 samakdo.sn.	0	IN	NS	dns3.p04.nsone.net.
