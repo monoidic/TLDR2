@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446015 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446024 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [03/06/2022 14H00:01]"
+sn.	0	IN	TXT	"No RRs processed [03/06/2022 15H30:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14069,6 +14069,8 @@ nenebydiaw.sn.	0	IN	NS	dns103.ovh.net.
 nenebydiaw.sn.	0	IN	DS	63034 8 2 2d90d1822c6d28fb9363d2a30920604c0bef750821225a64821d5e46f276db46
 neofarm.sn.	0	IN	NS	nsmpro1.nordnet.com.
 neofarm.sn.	0	IN	NS	nsmpro2.nordnet.com.
+neolia.sn.	0	IN	NS	eisdns1.expertis.sn.
+neolia.sn.	0	IN	NS	eisdns2.expertis.sn.
 neosen.sn.	0	IN	NS	ns101.ovh.net.
 neosen.sn.	0	IN	NS	dns101.ovh.net.
 neosen.sn.	0	IN	DS	61774 8 2 5cd797b55188bfe57ba2bd3446ef7924634750b113dc6cae44b4dd004201b77a
@@ -19889,9 +19891,6 @@ tedo.sn.	0	IN	NS	dns200.anycast.me.
 tedo.sn.	0	IN	DS	2980 8 2 4036234770491b03db038065bcb785e5e257220603fc6a2e8d283fd5c0aad7a4
 tegalma.sn.	0	IN	NS	dns1.namecheaphosting.com.
 tegalma.sn.	0	IN	NS	dns2.namecheaphosting.com.
-tek.sn.	0	IN	NS	ns104.ovh.net.
-tek.sn.	0	IN	NS	dns104.ovh.net.
-tek.sn.	0	IN	DS	15019 8 2 54862a723e7c9ec043f86b8fbd0e925eebae2f5c091109c8cd15ed9712a28c42
 tekfi.sn.	0	IN	NS	eisdns1.expertis.sn.
 tekfi.sn.	0	IN	NS	eisdns2.expertis.sn.
 tekki.sn.	0	IN	NS	ns1.efedus.com.
@@ -21997,6 +21996,9 @@ youscribe.sn.	0	IN	NS	ns02.trademarkarea.com.
 youscribe.sn.	0	IN	NS	ns03.trademarkarea.com.
 youse.sn.	0	IN	NS	dns1.cscdns.net.
 youse.sn.	0	IN	NS	dns2.cscdns.net.
+youssoundour.sn.	0	IN	NS	ns11.ovh.net.
+youssoundour.sn.	0	IN	NS	dns11.ovh.net.
+youssoundour.sn.	0	IN	DS	37705 8 2 9c5801a11ffcf41f239df894cbfe4472a6ad81c75d6645341d467cd5bc0dc61e
 youssouphben.sn.	0	IN	NS	ns1.servconfig.com.
 youssouphben.sn.	0	IN	NS	ns2.servconfig.com.
 youthconnekt.sn.	0	IN	NS	ns3020.mochahost.com.
