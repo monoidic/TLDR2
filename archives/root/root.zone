@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060302 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060303 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -221,7 +221,6 @@ aco.	0	IN	NS	a.dns.nic.aco.
 aco.	0	IN	NS	m.dns.nic.aco.
 aco.	0	IN	NS	n.dns.nic.aco.
 aco.	0	IN	DS	23013 7 2 4a0753d4d0caa1cdf49f1167705b27b02456990547b119c3a7e15c37abd75b51
-aco.	0	IN	DS	37419 7 2 fb6894a0ac51d59fdae1f639d3617f974509d5b37a10279695517d7a960104f4
 a.dns.nic.aco.	0	IN	A	194.0.25.32
 a.dns.nic.aco.	0	IN	AAAA	2001:678:20::32
 m.dns.nic.aco.	0	IN	A	194.0.26.12
@@ -6909,7 +6908,7 @@ ns2.nic.ge.	0	IN	A	185.19.98.98
 gea.	0	IN	NS	a.dns.nic.gea.
 gea.	0	IN	NS	m.dns.nic.gea.
 gea.	0	IN	NS	n.dns.nic.gea.
-gea.	0	IN	DS	1696 7 2 961bcdc4141b8d37ebce830773fadb2994f929b32041a588ae6892104c4020cb
+gea.	0	IN	DS	3445 7 2 d36bbe7ac9af0a4839c2c432822f626b26610d4cdbb1aefb841eba8dbe1f721f
 a.dns.nic.gea.	0	IN	A	194.0.25.33
 a.dns.nic.gea.	0	IN	AAAA	2001:678:20::33
 m.dns.nic.gea.	0	IN	A	194.0.26.13
