@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446000 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446007 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [03/06/2022 12H00:01]"
+sn.	0	IN	TXT	"No RRs processed [03/06/2022 13H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -774,8 +774,8 @@ aeroports-senegal.sn.	0	IN	NS	dns200.anycast.me.
 aeroportsdusenegal.sn.	0	IN	NS	ns.gouv.sn.
 aeroportsdusenegal.sn.	0	IN	NS	ns2.gouv.sn.
 aeroportsdusenegal.sn.	0	IN	NS	ns3.gouv.sn.
-aeroservices.sn.	0	IN	NS	ns1.kheweul.net.
-aeroservices.sn.	0	IN	NS	ns2.kheweul.net.
+aeroservices.sn.	0	IN	NS	ns1.caurys.net.
+aeroservices.sn.	0	IN	NS	ns2.caurys.net.
 aes.sn.	0	IN	NS	ns11.infomaniak.ch.
 aes.sn.	0	IN	NS	ns12.infomaniak.ch.
 afbs.sn.	0	IN	NS	ns1.eurodns.com.
@@ -868,8 +868,8 @@ africapaper.sn.	0	IN	NS	ns.arc.sn.
 africapaper.sn.	0	IN	NS	ns3.arc.sn.
 africapay.sn.	0	IN	NS	nscloud105.caphosting.com.
 africapay.sn.	0	IN	NS	nscloud106.caphosting.com.
-africargo.sn.	0	IN	NS	ns1.kheweul.net.
-africargo.sn.	0	IN	NS	ns2.kheweul.net.
+africargo.sn.	0	IN	NS	ns1.caurys.net.
+africargo.sn.	0	IN	NS	ns2.caurys.net.
 africaseptic.sn.	0	IN	NS	ns1.francedns.com.
 africaseptic.sn.	0	IN	NS	ns2.francedns.com.
 africaseptic.sn.	0	IN	NS	ns3.francedns.com.
@@ -13802,6 +13802,9 @@ msproperties.sn.	0	IN	NS	ns1.kheweul.net.
 msproperties.sn.	0	IN	NS	ns2.kheweul.net.
 msproperties.sn.	0	IN	NS	ns3.kheweul.net.
 msproperties.sn.	0	IN	NS	ns4.kheweul.net.
+mstal.sn.	0	IN	NS	ns111.ovh.net.
+mstal.sn.	0	IN	NS	dns111.ovh.net.
+mstal.sn.	0	IN	DS	34276 8 2 b1960873463e7c7a67abf85aa02dfe8620361a746b892b12a4e3cccc617dd28a
 mstrading.sn.	0	IN	NS	hosting100.arc.sn.
 msu.sn.	0	IN	NS	ns31.infomaniak.com.
 msu.sn.	0	IN	NS	ns32.infomaniak.com.
