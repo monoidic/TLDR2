@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446024 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446028 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [03/06/2022 15H30:01]"
+sn.	0	IN	TXT	"No RRs processed [03/06/2022 16H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1955,6 +1955,9 @@ assemblee-nationale.sn.	0	IN	NS	ns.assemblee-nationale.sn.
 assemblee-nationale.sn.	0	IN	NS	ns2.assemblee-nationale.sn.
 ns.assemblee-nationale.sn.	0	IN	A	213.154.78.196
 ns2.assemblee-nationale.sn.	0	IN	A	213.154.78.195
+assemblee-populaire.sn.	0	IN	NS	ns1.netim.net.
+assemblee-populaire.sn.	0	IN	NS	ns2.netim.net.
+assemblee-populaire.sn.	0	IN	NS	ns3.netim.net.
 assg.sn.	0	IN	NS	ns1.servconfig.com.
 assg.sn.	0	IN	NS	ns2.servconfig.com.
 assi-interim.sn.	0	IN	NS	ns1.cloudns.io.
@@ -19412,6 +19415,9 @@ sunuevents.sn.	0	IN	NS	ns17.ovh.net.
 sunuevents.sn.	0	IN	NS	dns17.ovh.net.
 sunugal.sn.	0	IN	NS	nsmpro1.nordnet.com.
 sunugal.sn.	0	IN	NS	nsmpro2.nordnet.com.
+sunugalbubess.sn.	0	IN	NS	ns1.netim.net.
+sunugalbubess.sn.	0	IN	NS	ns2.netim.net.
+sunugalbubess.sn.	0	IN	NS	ns3.netim.net.
 sunugaz.sn.	0	IN	NS	ns1.kheweul.net.
 sunugaz.sn.	0	IN	NS	ns2.kheweul.net.
 sunugaz.sn.	0	IN	NS	ns3.kheweul.net.
