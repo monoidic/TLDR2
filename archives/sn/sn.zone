@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446168 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446177 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [04/06/2022 10H00:01]"
+sn.	0	IN	TXT	"No RRs processed [04/06/2022 11H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -818,7 +818,7 @@ aflegal.sn.	0	IN	NS	ns1.mmbaye.com.
 aflegal.sn.	0	IN	NS	ns2.mmbaye.com.
 afp.sn.	0	IN	NS	ns10.ovh.ca.
 afp.sn.	0	IN	NS	dns10.ovh.ca.
-afp.sn.	0	IN	DS	15289 8 2 392d5b1aadedb9b1ed1f52a01960fcb40ece9623d31ba1b6fd7044b5297543f0
+afp.sn.	0	IN	DS	29314 8 2 c88ddbd51c44de0b68e2f466204ee0fd3aad816dfae0f8209cc1f25f6c1a7762
 afrex.sn.	0	IN	NS	ns5.jokko-hosting.com.
 afrex.sn.	0	IN	NS	ns9.jokko-hosting.com.
 afribaba.sn.	0	IN	NS	ns1.cloud-04e47b.managed-vps.net.
@@ -4996,8 +4996,6 @@ cpm.sn.	0	IN	NS	ns1.caurys.net.
 cpm.sn.	0	IN	NS	ns2.caurys.net.
 cpossible.sn.	0	IN	NS	ns1.dns-parking.com.
 cpossible.sn.	0	IN	NS	ns2.dns-parking.com.
-crades.sn.	0	IN	NS	dns1.registrar-servers.com.
-crades.sn.	0	IN	NS	dns2.registrar-servers.com.
 crc.sn.	0	IN	NS	ns11.infomaniak.ch.
 crc.sn.	0	IN	NS	ns12.infomaniak.ch.
 crcf.sn.	0	IN	NS	ns102.ovh.net.
@@ -8287,9 +8285,6 @@ frefacebook.sn.	0	IN	NS	a.ns.facebook.com.
 frefacebook.sn.	0	IN	NS	b.ns.facebook.com.
 frefacebook.sn.	0	IN	NS	c.ns.facebook.com.
 frefacebook.sn.	0	IN	NS	d.ns.facebook.com.
-freie-sachsen.sn.	0	IN	NS	ns1.netim.net.
-freie-sachsen.sn.	0	IN	NS	ns2.netim.net.
-freie-sachsen.sn.	0	IN	NS	ns3.netim.net.
 freseniusmedicalcare.sn.	0	IN	NS	ns1.markmonitor.com.
 freseniusmedicalcare.sn.	0	IN	NS	ns2.markmonitor.com.
 freseniusmedicalcare.sn.	0	IN	NS	ns3.markmonitor.com.
@@ -9532,8 +9527,6 @@ honda.sn.	0	IN	NS	rns2.rightsdns.com.
 honestfoods.sn.	0	IN	NS	ns18.ovh.net.
 honestfoods.sn.	0	IN	NS	dns18.ovh.net.
 honestfoods.sn.	0	IN	DS	46597 8 2 9b82051bba7e32283d78e20d17fea9d26c61e3042bd345bf5136a6ad35e46589
-honor.sn.	0	IN	NS	ns1.netim.net.
-honor.sn.	0	IN	NS	ns2.netim.net.
 hoop.sn.	0	IN	NS	ns17.ovh.net.
 hoop.sn.	0	IN	NS	dns17.ovh.net.
 hoovers.sn.	0	IN	NS	dns1.safenames.com.
@@ -14711,8 +14704,6 @@ oneeas.sn.	0	IN	NS	ns.sonatel.sn.
 oneeas.sn.	0	IN	NS	ns2.sonatel.sn.
 onema.sn.	0	IN	NS	ns1.caurys.net.
 onema.sn.	0	IN	NS	ns2.caurys.net.
-oneplus.sn.	0	IN	NS	ns1.netim.net.
-oneplus.sn.	0	IN	NS	ns2.netim.net.
 onesource.sn.	0	IN	NS	ns6.wixdns.net.
 onesource.sn.	0	IN	NS	ns7.wixdns.net.
 onestop.sn.	0	IN	NS	ns1.101domain.com.
@@ -21808,11 +21799,6 @@ xewel.sn.	0	IN	NS	ns1.validname.com.
 xewel.sn.	0	IN	NS	ns2.validname.com.
 xeweul.sn.	0	IN	NS	cpanel21.lws-hosting.com.
 xeweul.sn.	0	IN	NS	cpanel22.lws-hosting.com.
-xiaomi.sn.	0	IN	NS	ns1.netim.net.
-xiaomi.sn.	0	IN	NS	ns2.netim.net.
-xiaomi.sn.	0	IN	NS	ns3.netim.net.
-xiaomi.sn.	0	IN	NS	ns4.netim.net.
-xiaomi.sn.	0	IN	NS	ns5.netim.net.
 xibaaru.sn.	0	IN	NS	ns1.kheweul.net.
 xibaaru.sn.	0	IN	NS	ns2.kheweul.net.
 xibaaru.sn.	0	IN	NS	ns3.kheweul.net.
