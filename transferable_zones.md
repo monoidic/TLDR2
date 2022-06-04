@@ -27,7 +27,6 @@
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `ng.` via `nsa.nic.net.ng.`: [Click here to view zone data.](archives/ng/ng.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
-* `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `sn.` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/sn/sn.zone)
 * `sy.` via `ns1.tld.sy.`: [Click here to view zone data.](archives/sy/sy.zone)
 * `tj.` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/tj.zone)
