@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446383 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446393 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [05/06/2022 14H00:01]"
+sn.	0	IN	TXT	"No RRs processed [05/06/2022 15H20:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2260,6 +2260,9 @@ axes-cibles-com.sn.	0	IN	NS	ns9.jokko-hosting.com.
 axiombarom.sn.	0	IN	NS	ns01.trademarkarea.com.
 axiombarom.sn.	0	IN	NS	ns02.trademarkarea.com.
 axiombarom.sn.	0	IN	NS	ns03.trademarkarea.com.
+axiome.sn.	0	IN	NS	ns111.ovh.net.
+axiome.sn.	0	IN	NS	dns111.ovh.net.
+axiome.sn.	0	IN	DS	47284 8 2 6f018d8960b45167c9b3539a005966e08a618851d2674148829abe08663bcf84
 axis.sn.	0	IN	NS	ns200.anycast.me.
 axis.sn.	0	IN	NS	dns200.anycast.me.
 axis.sn.	0	IN	DS	35284 8 2 0af05b6f14de324ce2ffa794cbd0d783d1b3c62ce1b19ee7169a847423fbd5ba
@@ -18062,6 +18065,10 @@ senumsa.sn.	0	IN	NS	ns2.gouv.sn.
 senumsa.sn.	0	IN	NS	ns3.gouv.sn.
 senveto.sn.	0	IN	NS	ns102.ovh.net.
 senveto.sn.	0	IN	NS	dns102.ovh.net.
+senvision.sn.	0	IN	NS	ns3.wanekoohost.com.
+senvision.sn.	0	IN	NS	ns4.wanekoohost.com.
+senvision.sn.	0	IN	NS	ns5.wanekoohost.com.
+senvision.sn.	0	IN	NS	ns6.wanekoohost.com.
 senvitalesh.sn.	0	IN	NS	ns1.senvitalesh.sn.
 senvitalesh.sn.	0	IN	NS	ns2.senvitalesh.sn.
 ns1.senvitalesh.sn.	0	IN	A	34.69.242.43
