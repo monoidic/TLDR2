@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060520 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022060522 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1654421543"
+sy.	0	IN	TXT	"Generation Time: 1654425130"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -2671,10 +2671,10 @@ ebm-papst.sy.	0	IN	NS	ns.do-ex.org.
 ebmpapst.sy.	0	IN	NS	ns.do-ex.com.
 ebmpapst.sy.	0	IN	NS	ns.do-ex.net.
 ebmpapst.sy.	0	IN	NS	ns.do-ex.org.
-ecash.sy.	0	IN	NS	suspend1.tld.sy.
-ecash.sy.	0	IN	NS	suspend2.tld.sy.
-ecash-pay.sy.	0	IN	NS	suspend1.tld.sy.
-ecash-pay.sy.	0	IN	NS	suspend2.tld.sy.
+ecash.sy.	0	IN	NS	ns1.monster.sy.
+ecash.sy.	0	IN	NS	ns2.monster.sy.
+ecash-pay.sy.	0	IN	NS	ns1.monster.sy.
+ecash-pay.sy.	0	IN	NS	ns2.monster.sy.
 ecc.sy.	0	IN	NS	ns3.tld.sy.
 ecc.sy.	0	IN	NS	ns4.tld.sy.
 eccs.sy.	0	IN	NS	suspend1.tld.sy.
@@ -6367,8 +6367,8 @@ shukfa-trade.sy.	0	IN	NS	suspend1.tld.sy.
 shukfa-trade.sy.	0	IN	NS	suspend2.tld.sy.
 shukra.sy.	0	IN	NS	ns1.mowared.sy.
 shukra.sy.	0	IN	NS	ns2.mowared.sy.
-siamco.sy.	0	IN	NS	suspend1.tld.sy.
-siamco.sy.	0	IN	NS	suspend2.tld.sy.
+siamco.sy.	0	IN	NS	ns3.bocme.net.
+siamco.sy.	0	IN	NS	ns4.bocme.net.
 sibahi.sy.	0	IN	NS	suspend1.tld.sy.
 sibahi.sy.	0	IN	NS	suspend2.tld.sy.
 sibon.sy.	0	IN	NS	suspend1.tld.sy.
