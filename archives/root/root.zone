@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060601 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060602 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -17921,6 +17921,7 @@ vn.	0	IN	NS	d.dns-servers.vn.
 vn.	0	IN	NS	e.dns-servers.vn.
 vn.	0	IN	NS	f.dns-servers.vn.
 vn.	0	IN	NS	g.dns-servers.vn.
+vn.	0	IN	NS	h.dns-servers.vn.
 vn.	0	IN	DS	3260 8 1 913c652b4006deac045b945f4ffcbc1065645421
 vn.	0	IN	DS	3260 8 2 5a58c19af266077ffe16c2668812796fa8193661af569dbceb177f911b5e6167
 a.dns-servers.vn.	0	IN	A	194.0.1.18
@@ -17937,6 +17938,8 @@ f.dns-servers.vn.	0	IN	A	203.119.68.105
 f.dns-servers.vn.	0	IN	AAAA	2001:dc8:d000:2::105
 g.dns-servers.vn.	0	IN	A	204.61.216.115
 g.dns-servers.vn.	0	IN	AAAA	2001:500:14:6115:ad::1
+h.dns-servers.vn.	0	IN	A	202.47.142.105
+h.dns-servers.vn.	0	IN	AAAA	2001:dc8:6000::105
 vodka.	0	IN	NS	a.nic.vodka.
 vodka.	0	IN	NS	b.nic.vodka.
 vodka.	0	IN	NS	c.nic.vodka.
