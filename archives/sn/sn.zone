@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446640 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446648 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [07/06/2022 00H00:01]"
+sn.	0	IN	TXT	"3 RRs processed [07/06/2022 00H50:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14698,6 +14698,9 @@ omexome.sn.	0	IN	NS	dns19.ovh.net.
 omexome.sn.	0	IN	DS	58225 8 2 8b04fc2346bdb87260b52faab99e68c40a47e4978e3c376ed6ca547ea3d0ac7c
 omnia.sn.	0	IN	NS	ns2.francedns.com.
 omnia.sn.	0	IN	NS	cloudf03.francedns.com.
+omnipay.sn.	0	IN	NS	ns1.contabo.net.
+omnipay.sn.	0	IN	NS	ns2.contabo.net.
+omnipay.sn.	0	IN	NS	ns3.contabo.net.
 omvg.sn.	0	IN	NS	ns.sonatel.sn.
 omvg.sn.	0	IN	NS	ns2.sonatel.sn.
 on-track.sn.	0	IN	NS	ns103.ovh.net.
