@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446469 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446534 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [06/06/2022 01H30:01]"
+sn.	0	IN	TXT	"No RRs processed [06/06/2022 10H20:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -536,6 +536,8 @@ accor-invest.sn.	0	IN	NS	dns1.cscdns.net.
 accor-invest.sn.	0	IN	NS	dns2.cscdns.net.
 accorinvest.sn.	0	IN	NS	dns1.cscdns.net.
 accorinvest.sn.	0	IN	NS	dns2.cscdns.net.
+accounts.sn.	0	IN	NS	170.ns1.above.com.
+accounts.sn.	0	IN	NS	170.ns2.above.com.
 acd.sn.	0	IN	NS	ns112.ovh.net.
 acd.sn.	0	IN	NS	dns112.ovh.net.
 acd.sn.	0	IN	DS	41290 8 2 23f51dba229c54658b81d2c7ad1392aa827515c8c818591c6698cad87fc468fa
@@ -8875,9 +8877,6 @@ goldenafrica.sn.	0	IN	NS	ns-189-c.gandi.net.
 goldentrans.sn.	0	IN	NS	ns1.francedns.com.
 goldentrans.sn.	0	IN	NS	ns2.francedns.com.
 goldentrans.sn.	0	IN	NS	ns3.francedns.com.
-goldentree.sn.	0	IN	NS	ns200.anycast.me.
-goldentree.sn.	0	IN	NS	dns200.anycast.me.
-goldentree.sn.	0	IN	DS	10366 8 2 3fa6981a9cae2b67b14c888be5bb4948c1fb31008328bede6c7c4ed0a8643f07
 goldentulip.sn.	0	IN	NS	dns1.cscdns.net.
 goldentulip.sn.	0	IN	NS	dns2.cscdns.net.
 goldfx.sn.	0	IN	NS	ns01.trademarkarea.com.
@@ -12824,9 +12823,6 @@ mango.sn.	0	IN	NS	ns-1925.awsdns-48.co.uk.
 mango-media.sn.	0	IN	NS	ns.second-ns.com.
 mango-media.sn.	0	IN	NS	ns1.your-server.de.
 mango-media.sn.	0	IN	NS	ns3.second-ns.de.
-mangoo.sn.	0	IN	NS	ns15.ovh.net.
-mangoo.sn.	0	IN	NS	dns15.ovh.net.
-mangoo.sn.	0	IN	DS	32899 8 2 592849de70fe4ca1aa141faee6c44f4a141d1cf2947eef2c55c39232575afe0a
 manhattancybersecurity.sn.	0	IN	NS	ns-122-b.gandi.net.
 manhattancybersecurity.sn.	0	IN	NS	ns-178-c.gandi.net.
 manhattancybersecurity.sn.	0	IN	NS	ns-195-a.gandi.net.
@@ -21878,8 +21874,6 @@ yamatele.sn.	0	IN	NS	ns19.ovh.net.
 yamatele.sn.	0	IN	NS	dns19.ovh.net.
 yankhobadiatara.sn.	0	IN	NS	ns1.dns-parking.com.
 yankhobadiatara.sn.	0	IN	NS	ns2.dns-parking.com.
-yap.sn.	0	IN	NS	ns1.bluehost.com.
-yap.sn.	0	IN	NS	ns2.bluehost.com.
 yara.sn.	0	IN	NS	dns1.cscdns.net.
 yara.sn.	0	IN	NS	dns2.cscdns.net.
 yassir.sn.	0	IN	NS	ns-cloud-e1.googledomains.com.

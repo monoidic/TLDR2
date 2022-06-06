@@ -1,4 +1,4 @@
-tj.	0	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022060304 7200 3600 2678400 7200
+tj.	0	IN	SOA	ns1.nic.tj. domain.tojnet.tj. 2022060605 7200 3600 2678400 7200
 tj.	0	IN	NS	tj.cctld.authdns.ripe.net.
 tj.	0	IN	NS	ns1.nic.tj.
 tj.	0	IN	NS	ns2.tojikiston.com.
@@ -1826,8 +1826,8 @@ bcdtravel.tj.	0	IN	NS	ns2.domainnetwork.se.
 bcdushanbe.tj.	0	IN	NS	ns.tojikiston.com.
 bcdushanbe.tj.	0	IN	NS	ns1.tojikiston.com.
 bd.tj.	0	IN	NS	ns1.sedoparking.com.
-bdo.tj.	0	IN	NS	dns1.cscdns.net.
-bdo.tj.	0	IN	NS	dns2.cscdns.net.
+bdo.tj.	0	IN	NS	udns1.cscdns.net.
+bdo.tj.	0	IN	NS	udns2.cscdns.uk.
 bdoacademy.tj.	0	IN	NS	ns.tojikiston.com.
 bdoacademy.tj.	0	IN	NS	ns1.tojikiston.com.
 be.tj.	0	IN	NS	ns1.sedoparking.com.
@@ -3074,8 +3074,8 @@ coded.tj.	0	IN	NS	ns1.majordomo.ru.
 coded.tj.	0	IN	NS	ns2.majordomo.ru.
 coexsyrup.tj.	0	IN	NS	ns27.domaincontrol.com.
 coexsyrup.tj.	0	IN	NS	ns28.domaincontrol.com.
-coffeebreak.tj.	0	IN	NS	ns1.rsnx.ru.
-coffeebreak.tj.	0	IN	NS	ns2.rsnx.ru.
+coffeebreak.tj.	0	IN	NS	ns9.ismtj.co.
+coffeebreak.tj.	0	IN	NS	ns10.ismtj.co.
 coffeemoose.tj.	0	IN	NS	ns1.ehost.tj.
 coffeemoose.tj.	0	IN	NS	ns2.ehost.tj.
 coinbase.tj.	0	IN	NS	ns1.rspd.tj.
@@ -4819,10 +4819,6 @@ dushanbetravel.tj.	0	IN	NS	ns.tojikiston.com.
 dushanbetravel.tj.	0	IN	NS	ns1.tojikiston.com.
 dushanbetv.tj.	0	IN	NS	ns.tojikiston.com.
 dushanbetv.tj.	0	IN	NS	ns1.tojikiston.com.
-dushgaz.tj.	0	IN	NS	ns1.timeweb.ru.
-dushgaz.tj.	0	IN	NS	ns2.timeweb.ru.
-dushgaz.tj.	0	IN	NS	ns3.timeweb.org.
-dushgaz.tj.	0	IN	NS	ns4.timeweb.org.
 dusti.tj.	0	IN	NS	ns1.abstragan.com.
 dusti.tj.	0	IN	NS	ns2.abstragan.com.
 dusti-alisher.tj.	0	IN	NS	ns1.ihc.ru.
@@ -10787,6 +10783,8 @@ oriflame.tj.	0	IN	NS	ns1-08.azure-dns.com.
 oriflame.tj.	0	IN	NS	ns2-08.azure-dns.net.
 origami.tj.	0	IN	NS	pins1.eastera.tj.
 origami.tj.	0	IN	NS	pins2.eastera.tj.
+orio.tj.	0	IN	NS	pins1.eastera.tj.
+orio.tj.	0	IN	NS	pins2.eastera.tj.
 orion.tj.	0	IN	NS	ns.tarena.tj.
 orion.tj.	0	IN	NS	ns2.tarena.tj.
 orion-hotel.tj.	0	IN	NS	ns.sugdien.com.
@@ -11242,6 +11240,8 @@ pipingrock.tj.	0	IN	NS	ns1.101domain.com.
 pipingrock.tj.	0	IN	NS	ns2.101domain.com.
 pista.tj.	0	IN	NS	ns1.tajnet.ru.
 pista.tj.	0	IN	NS	ns2.tajnet.ru.
+pistacha.tj.	0	IN	NS	ns05.domaincontrol.com.
+pistacha.tj.	0	IN	NS	ns06.domaincontrol.com.
 pistachos.tj.	0	IN	NS	ns-1317.awsdns-36.org.
 pistachos.tj.	0	IN	NS	ns-1638.awsdns-12.co.uk.
 pitfi.tj.	0	IN	NS	ns5.gettj.net.
@@ -12702,6 +12702,8 @@ shiny.tj.	0	IN	NS	dns.voerde.globvill.de.
 shiny.tj.	0	IN	NS	dns.globvill.de.
 shire.tj.	0	IN	NS	ns-396.awsdns-49.com.
 shire.tj.	0	IN	NS	ns-1583.awsdns-05.co.uk.
+shiridanghara.tj.	0	IN	NS	ns5.gettj.net.
+shiridanghara.tj.	0	IN	NS	ns6.gettj.net.
 shiridushanbe.tj.	0	IN	NS	ns1.hosting.reg.ru.
 shiridushanbe.tj.	0	IN	NS	ns2.hosting.reg.ru.
 shirin.tj.	0	IN	NS	ns1.timeweb.ru.
@@ -12978,8 +12980,6 @@ smarts.tj.	0	IN	NS	ns1.sa-net.tj.
 smarts.tj.	0	IN	NS	ns2.sa-net.tj.
 smartservice.tj.	0	IN	NS	ns.tojikiston.com.
 smartservice.tj.	0	IN	NS	ns1.tojikiston.com.
-smartshop.tj.	0	IN	NS	pins1.eastera.tj.
-smartshop.tj.	0	IN	NS	pins2.eastera.tj.
 smartstart.tj.	0	IN	NS	ns.tojikiston.com.
 smartstart.tj.	0	IN	NS	ns1.tojikiston.com.
 smeg.tj.	0	IN	NS	shubhi.ns.cloudflare.com.
@@ -13188,6 +13188,10 @@ sports.tj.	0	IN	NS	ns1.intercom.tj.
 sports.tj.	0	IN	NS	ns2.intercom.tj.
 sportsbetting.tj.	0	IN	NS	dns1.idp365.net.
 sportsbetting.tj.	0	IN	NS	dns2.idp365.net.
+sportscomplex.tj.	0	IN	NS	ns1.timeweb.ru.
+sportscomplex.tj.	0	IN	NS	ns2.timeweb.ru.
+sportscomplex.tj.	0	IN	NS	ns3.timeweb.org.
+sportscomplex.tj.	0	IN	NS	ns4.timeweb.org.
 sportsdirect.tj.	0	IN	NS	ns1.netnames.net.
 sportsdirect.tj.	0	IN	NS	ns2.netnames.net.
 sportshowroom.tj.	0	IN	NS	ns01.trademarkarea.com.
