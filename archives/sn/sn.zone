@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446746 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446758 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [07/06/2022 12H50:01]"
+sn.	0	IN	TXT	"No RRs processed [07/06/2022 14H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4594,6 +4594,8 @@ cocofi.sn.	0	IN	NS	ns2.digitalocean.com.
 cocofi.sn.	0	IN	NS	ns3.digitalocean.com.
 cocofi.sn.	0	IN	NS	ns4.digitalocean.com.
 cocofi.sn.	0	IN	NS	ns5.digitalocean.com.
+codcom.sn.	0	IN	NS	ns1.macaisse.sn.
+codcom.sn.	0	IN	NS	ns2.macaisse.sn.
 codepromo.sn.	0	IN	NS	ns1.101domain.com.
 codepromo.sn.	0	IN	NS	ns2.101domain.com.
 codes-gls.sn.	0	IN	NS	ns1.accountsupport.com.
@@ -5873,8 +5875,8 @@ digalconsulting.sn.	0	IN	DS	65374 8 2 5fdcdc38d49bd660eaad6ad39be83c9a823fe83604
 diges.sn.	0	IN	NS	ns200.anycast.me.
 diges.sn.	0	IN	NS	dns200.anycast.me.
 diges.sn.	0	IN	DS	39352 8 2 c34a53e97042093a2ff5443b07f363e64fb44f08406617543eae089882568914
-digibank.sn.	0	IN	NS	ns3.afriregister.com.
-digibank.sn.	0	IN	NS	ns9.afriregister.co.ke.
+digibank.sn.	0	IN	NS	ns1.netfirms.com.
+digibank.sn.	0	IN	NS	ns2.netfirms.com.
 digicash.sn.	0	IN	NS	nsa.planethoster.net.
 digicash.sn.	0	IN	NS	nsb.planethoster.net.
 digicash.sn.	0	IN	NS	nsc.planethoster.net.
@@ -12257,8 +12259,8 @@ lexmark.sn.	0	IN	NS	dns3.p06.nsone.net.
 lexmark.sn.	0	IN	NS	dns4.p06.nsone.net.
 lexus.sn.	0	IN	NS	idns1.netsol.com.
 lexus.sn.	0	IN	NS	idns2.netsol.com.
-lfc.sn.	0	IN	NS	ns3.afriregister.com.
-lfc.sn.	0	IN	NS	ns9.afriregister.co.ke.
+lfc.sn.	0	IN	NS	ns1.netfirms.com.
+lfc.sn.	0	IN	NS	ns2.netfirms.com.
 lgalifts.sn.	0	IN	NS	ns1.kheweul.net.
 lgalifts.sn.	0	IN	NS	ns2.kheweul.net.
 lgalifts.sn.	0	IN	NS	ns3.kheweul.net.
@@ -12379,8 +12381,8 @@ listnbuy.sn.	0	IN	NS	ns1.101domain.com.
 listnbuy.sn.	0	IN	NS	ns2.101domain.com.
 liteyca.sn.	0	IN	NS	ns111.ovh.net.
 liteyca.sn.	0	IN	NS	dns111.ovh.net.
-litllebird.sn.	0	IN	NS	ns1.caurys.net.
-litllebird.sn.	0	IN	NS	ns2.caurys.net.
+littlebird.sn.	0	IN	NS	ns1.caurys.net.
+littlebird.sn.	0	IN	NS	ns2.caurys.net.
 liv.sn.	0	IN	NS	ns1.kheweul.net.
 liv.sn.	0	IN	NS	ns2.kheweul.net.
 liv.sn.	0	IN	NS	ns3.kheweul.net.
@@ -17326,6 +17328,9 @@ secomar.sn.	0	IN	NS	dns200.anycast.me.
 secopower.sn.	0	IN	NS	dns1.softdom.com.
 secopower.sn.	0	IN	NS	dns2.softdom.com.
 secopower.sn.	0	IN	NS	dns3.softdom.com.
+secudesign.sn.	0	IN	NS	ns200.anycast.me.
+secudesign.sn.	0	IN	NS	dns200.anycast.me.
+secudesign.sn.	0	IN	DS	6712 8 2 fb6256a4d4dfb39b746947f56f599c265930b0da4ca2546bc8d32b4589de24f2
 secufoudre.sn.	0	IN	NS	ns.sonatel.sn.
 secufoudre.sn.	0	IN	NS	ns2.sonatel.sn.
 secumed.sn.	0	IN	NS	usm11.noc41.com.
