@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446775 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222446781 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [07/06/2022 16H10:01]"
+sn.	0	IN	TXT	"No RRs processed [07/06/2022 17H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -579,10 +579,8 @@ acmarsh.sn.	0	IN	NS	dns.ovh.net.
 acoma.sn.	0	IN	NS	ns103.ovh.net.
 acoma.sn.	0	IN	NS	dns103.ovh.net.
 acoma.sn.	0	IN	DS	32776 8 2 cb545abd113ffcb14a396298cf304ba468cb932b4addd933160268f9e3d6e5cb
-acor.sn.	0	IN	NS	ns3.wanekoohost.com.
-acor.sn.	0	IN	NS	ns4.wanekoohost.com.
-acor.sn.	0	IN	NS	ns5.wanekoohost.com.
-acor.sn.	0	IN	NS	ns6.wanekoohost.com.
+acor.sn.	0	IN	NS	ns1.wanekoo.net.
+acor.sn.	0	IN	NS	ns2.wanekoo.net.
 acquadiparma.sn.	0	IN	NS	a.ns.domainoo.fr.
 acquadiparma.sn.	0	IN	NS	b.ns.domainoo.fr.
 acquadiparma.sn.	0	IN	NS	c.ns.domainoo.fr.
@@ -3559,10 +3557,6 @@ campusen.sn.	0	IN	NS	ns1.campusen.sn.
 campusen.sn.	0	IN	NS	serveurseysoo.campusen.sn.
 ns1.campusen.sn.	0	IN	A	37.187.169.69
 serveurseysoo.campusen.sn.	0	IN	A	92.243.31.88
-campushop.sn.	0	IN	NS	ns3.wanekoohost.com.
-campushop.sn.	0	IN	NS	ns4.wanekoohost.com.
-campushop.sn.	0	IN	NS	ns5.wanekoohost.com.
-campushop.sn.	0	IN	NS	ns6.wanekoohost.com.
 campusmag.sn.	0	IN	NS	ns1.kheweul.net.
 campusmag.sn.	0	IN	NS	ns2.kheweul.net.
 campusmag.sn.	0	IN	NS	ns3.kheweul.net.
@@ -4192,6 +4186,8 @@ chezmoi.sn.	0	IN	NS	ns5.wanekoohost.com.
 chic.sn.	0	IN	NS	ns1.kheweul.net.
 chic.sn.	0	IN	NS	ns2.kheweul.net.
 chic.sn.	0	IN	NS	ns3.kheweul.net.
+chifa.sn.	0	IN	NS	ns1.cloud-ns22.net.
+chifa.sn.	0	IN	NS	ns2.cloud-ns22.net.
 chloecollection.sn.	0	IN	NS	ns103.ovh.net.
 chloecollection.sn.	0	IN	NS	dns103.ovh.net.
 chloecollection.sn.	0	IN	DS	59581 8 2 4b831a1282181540a018c65d9f2889d13a0a824c959245e5c8b397145ab8befa
@@ -13316,6 +13312,8 @@ metalco.sn.	0	IN	NS	dns10.ovh.net.
 metalockengineering.sn.	0	IN	NS	ns01.trademarkarea.com.
 metalockengineering.sn.	0	IN	NS	ns02.trademarkarea.com.
 metalockengineering.sn.	0	IN	NS	ns03.trademarkarea.com.
+metalution.sn.	0	IN	NS	ns15.afriregister.com.
+metalution.sn.	0	IN	NS	ns25.afriregister.com.
 metamessenger.sn.	0	IN	NS	a.ns.facebook.com.
 metamessenger.sn.	0	IN	NS	b.ns.facebook.com.
 metamessenger.sn.	0	IN	NS	c.ns.facebook.com.
