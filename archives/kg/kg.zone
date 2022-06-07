@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1654621202 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1654624802 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -8606,8 +8606,6 @@ ns1.flagman.kg.	0	IN	A	46.101.136.129
 ns1.flagman.kg.	0	IN	A	213.145.140.254
 flagman-print.kg.	0	IN	NS	ns5.hoster.kg.
 flagman-print.kg.	0	IN	NS	ns6.hoster.kg.
-flagmanhotel.kg.	0	IN	NS	ns.prohost.kg.
-flagmanhotel.kg.	0	IN	NS	ns3.prohost.kg.
 flamp.kg.	0	IN	NS	ns.2gis.com.
 flamp.kg.	0	IN	NS	ns2.2gis.com.
 flashka.kg.	0	IN	NS	ns9.hoster.kg.
@@ -14736,8 +14734,9 @@ maxsoft.kg.	0	IN	NS	ns5.hoster.kg.
 maxsoft.kg.	0	IN	NS	ns6.hoster.kg.
 mayak.kg.	0	IN	NS	ns1.truedomain.biz.
 mayak.kg.	0	IN	NS	ns2.truedomain.biz.
-mayak-rebcentre.kg.	0	IN	NS	ns9.hoster.kg.
-mayak-rebcentre.kg.	0	IN	NS	ns10.hoster.kg.
+mayak-rebcentre.kg.	0	IN	NS	ns1.mayak-rebcentre.kg.
+mayak-rebcentre.kg.	0	IN	NS	ns2.mayak-rebcentre.kg.
+ns1.mayak-rebcentre.kg.	0	IN	A	75.119.157.215
 maybelline.kg.	0	IN	NS	ns2.observatoiredesmarques.fr.
 maybelline.kg.	0	IN	NS	ns3.nameshield.net.
 maybelline.kg.	0	IN	NS	obs.ns1.fr.
