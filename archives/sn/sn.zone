@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447004 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447013 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [08/06/2022 22H00:02]"
+sn.	0	IN	TXT	"No RRs processed [08/06/2022 23H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8382,6 +8382,9 @@ futuraservices.sn.	0	IN	NS	ns4.netim.net.
 futuraservices.sn.	0	IN	NS	ns5.netim.net.
 futurefood.sn.	0	IN	NS	ns200.anycast.me.
 futurefood.sn.	0	IN	NS	dns200.anycast.me.
+futurestore.sn.	0	IN	NS	ns200.anycast.me.
+futurestore.sn.	0	IN	NS	dns200.anycast.me.
+futurestore.sn.	0	IN	DS	24574 8 2 5b532d38e04a34a61be9c4425be745c552ab3224ca80448ea3cf195c4811df41
 futuris.sn.	0	IN	NS	ns1.panelboxmanager.com.
 futuris.sn.	0	IN	NS	ns2.panelboxmanager.com.
 futursmedias.sn.	0	IN	NS	ns18.ovh.net.
