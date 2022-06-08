@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060801 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060802 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -5038,8 +5038,12 @@ p.nic.dk.	0	IN	AAAA	2001:678:78:42:ad::53
 s.nic.dk.	0	IN	A	193.176.144.15
 s.nic.dk.	0	IN	AAAA	2a00:d78:0:102:193:176:144:15
 dm.	0	IN	NS	ns.blacknightsolutions.com.
+dm.	0	IN	NS	ns1.uniregistry.net.
 dm.	0	IN	NS	ns2.nic.dm.
+dm.	0	IN	NS	ns2.uniregistry.info.
 dm.	0	IN	NS	ns2.blacknightsolutions.com.
+dm.	0	IN	NS	ns3.uniregistry.net.
+dm.	0	IN	NS	ns4.uniregistry.info.
 dm.	0	IN	NS	ns34.cdns.net.
 dm.	0	IN	DS	24310 8 2 8d0f3f99db468099ee9edb28d77c319505c2db74f0515c5b05d10d09b7ab0d71
 ns2.nic.dm.	0	IN	A	199.127.196.35
@@ -15196,6 +15200,7 @@ sg.	0	IN	NS	dsany.sgnic.sg.
 sg.	0	IN	NS	dsany2.sgnic.sg.
 sg.	0	IN	NS	dsany3.sgnic.sg.
 sg.	0	IN	DS	12164 8 2 6f6d69e69c30f89c42821439a424b3155a1ac573b5cd902b0be20dc7c82059a0
+sg.	0	IN	DS	46664 8 2 b9e9522b9e345fd54e73e8ebf3d3cfff9a09189fed03f5106d8ee3e345fb80b5
 dsany.sgnic.sg.	0	IN	A	120.29.253.11
 dsany.sgnic.sg.	0	IN	AAAA	2001:dcd:7::11
 dsany2.sgnic.sg.	0	IN	A	185.159.197.170
@@ -18761,6 +18766,7 @@ xn--45q11c.	0	IN	NS	i.zdnscloud.com.
 xn--45q11c.	0	IN	NS	j.zdnscloud.com.
 xn--45q11c.	0	IN	DS	46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
 xn--4dbrk0ce.	0	IN	NS	ns1.ns.il.
+xn--4dbrk0ce.	0	IN	NS	ns3.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ns4.ns.il.
 xn--4dbrk0ce.	0	IN	NS	nsa.ns.il.
 xn--4dbrk0ce.	0	IN	NS	nsb.ns.il.
@@ -19032,6 +19038,7 @@ xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany2.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany3.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	DS	39581 8 2 b0d5c02493df56dbd95608e23ca16ebf54fd7057c227083075c5865a6acaff8e
+xn--clchc0ea0b2g2a9gcd.	0	IN	DS	48176 8 2 c1c692e8bb1ecab17a80c5829445d6301787a275b6091a95754c4ac9681fb50e
 xn--czr694b.	0	IN	NS	a.zdnscloud.com.
 xn--czr694b.	0	IN	NS	b.zdnscloud.com.
 xn--czr694b.	0	IN	NS	c.zdnscloud.com.
@@ -20038,6 +20045,7 @@ xn--yfro4i67o.	0	IN	NS	dsany.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany2.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany3.sgnic.sg.
 xn--yfro4i67o.	0	IN	DS	41084 8 2 30e799a3afca3d9082c422241e9cdfa9b31f3914ebb0b26dd7c6efc0f82057e8
+xn--yfro4i67o.	0	IN	DS	52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	dns1.gov.ps.
