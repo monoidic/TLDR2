@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060800 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022060801 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1223,6 +1223,7 @@ c0.nic.avianca.	0	IN	AAAA	2a01:8840:50::17
 aw.	0	IN	NS	ns1.dns.aw.
 aw.	0	IN	NS	ns2.dns.aw.
 aw.	0	IN	NS	ns3.dns.aw.
+aw.	0	IN	NS	ns4.dns.aw.
 aw.	0	IN	NS	aw01.setarnet.aw.
 aw.	0	IN	NS	aw02.setarnet.aw.
 aw.	0	IN	DS	38854 8 2 23fa5636c1d793336a1eb15bbd26aa902cf12fb88200c64512f065ae355a4d9b
@@ -1232,6 +1233,8 @@ ns2.dns.aw.	0	IN	A	194.146.106.42
 ns2.dns.aw.	0	IN	AAAA	2001:67c:1010:10::53
 ns3.dns.aw.	0	IN	A	194.0.25.25
 ns3.dns.aw.	0	IN	AAAA	2001:678:20::25
+ns4.dns.aw.	0	IN	A	185.159.199.201
+ns4.dns.aw.	0	IN	AAAA	2620:10a:80ac::201
 aw01.setarnet.aw.	0	IN	A	201.229.0.26
 aw02.setarnet.aw.	0	IN	A	201.229.0.27
 aws.	0	IN	NS	dns1.nic.aws.
@@ -19227,6 +19230,7 @@ xn--g2xx48c.	0	IN	NS	ns1.dns.nic.xn--g2xx48c.
 xn--g2xx48c.	0	IN	NS	ns2.dns.nic.xn--g2xx48c.
 xn--g2xx48c.	0	IN	NS	ns3.dns.nic.xn--g2xx48c.
 xn--g2xx48c.	0	IN	DS	14602 8 2 89c8dd3c91b9e3bbbb7363254b75a36fc0091582bfffcbbb3db007a233b4efad
+xn--g2xx48c.	0	IN	DS	50719 8 2 66adce3f11bc5ed44969987cf67a110272341cda053a5e1a03e92a24ac880902
 a.nic.xn--g2xx48c.	0	IN	A	37.209.192.10
 a.nic.xn--g2xx48c.	0	IN	AAAA	2001:dcd:1::10
 b.nic.xn--g2xx48c.	0	IN	A	37.209.194.10
