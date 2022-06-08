@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022060601 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022060801 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	cv01.dns.pt.
@@ -2900,8 +2900,10 @@ cuzcuzera.cv.	0	IN	NS	ns3.hostinger.com.br.
 cuzcuzera.cv.	0	IN	NS	ns4.hostinger.com.br.
 cv-capital.cv.	0	IN	NS	ns5.dnstrigno.com.
 cv-capital.cv.	0	IN	NS	ns6.dnstrigno.com.
-cv-direct.cv.	0	IN	NS	ns1.gruposafety.pt.
-cv-direct.cv.	0	IN	NS	ns2.gruposafety.pt.
+cv-direct.cv.	0	IN	NS	ns1.cv-direct.cv.
+cv-direct.cv.	0	IN	NS	ns2.cv-direct.cv.
+ns1.cv-direct.cv.	0	IN	A	94.46.167.34
+ns2.cv-direct.cv.	0	IN	A	94.46.167.34
 cv-fire.cv.	0	IN	NS	ns1.cv-fire.cv.
 cv-fire.cv.	0	IN	NS	ns2.cv-fire.cv.
 ns1.cv-fire.cv.	0	IN	A	94.46.167.34
@@ -4640,6 +4642,8 @@ ie.cv.	0	IN	NS	ns1.gov.cv.
 ie.cv.	0	IN	NS	ns2.gov.cv.
 iefp.cv.	0	IN	NS	ns1.gov.cv.
 iefp.cv.	0	IN	NS	ns2.gov.cv.
+ies.cv.	0	IN	NS	ns1.siteground.net.
+ies.cv.	0	IN	NS	ns2.siteground.net.
 ifatura.cv.	0	IN	NS	ns1.rhostjh.com.
 ifatura.cv.	0	IN	NS	ns2.rhostjh.com.
 ifh.cv.	0	IN	NS	ns1.nosiwebhosting.com.
@@ -7144,8 +7148,10 @@ rmais.cv.	0	IN	NS	ns2.limoncv.com.
 rni.cv.	0	IN	NS	ns1.nosiwebhosting.com.
 rni.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 rni.cv.	0	IN	NS	ns3.nosiwebhosting.com.
-rni.cv.	0	IN	AAAA	2600:2000:1000::7
-rni.cv.	0	IN	AAAA	2600:2000:1001::7
+rniapps.cv.	0	IN	NS	ns1.byethost33.org.
+rniapps.cv.	0	IN	NS	ns2.byethost33.org.
+rniapps.cv.	0	IN	AAAA	2600:2000:1000::7
+rniapps.cv.	0	IN	AAAA	2600:2000:1001::7
 robinson.cv.	0	IN	NS	ns01.brandshelter.com.
 robinson.cv.	0	IN	NS	ns02.brandshelter.net.
 robinson.cv.	0	IN	AAAA	2600:2000:1000::7
