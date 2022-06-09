@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447127 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447133 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [09/06/2022 11H10:02]"
+sn.	0	IN	TXT	"5 RRs processed [09/06/2022 12H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -969,6 +969,8 @@ agedor.sn.	0	IN	NS	ns1.wanekoohost.com.
 agedor.sn.	0	IN	NS	ns2.wanekoohost.com.
 agedor.sn.	0	IN	NS	ns5.wanekoohost.com.
 agedor.sn.	0	IN	NS	ns6.wanekoohost.com.
+agence-marketing-digital.sn.	0	IN	NS	ns200.anycast.me.
+agence-marketing-digital.sn.	0	IN	NS	dns200.anycast.me.
 agence-voyage.sn.	0	IN	NS	ns19.domaincontrol.com.
 agence-voyage.sn.	0	IN	NS	ns20.domaincontrol.com.
 agence911.sn.	0	IN	NS	ns15.ovh.net.
@@ -13036,9 +13038,6 @@ mauvilac.sn.	0	IN	NS	ns.hostin.mu.
 mauvilac.sn.	0	IN	NS	ns.hostin.re.
 maveg.sn.	0	IN	NS	dns1.linudata.de.
 maveg.sn.	0	IN	NS	dns2.1024bit.de.
-mavoiture.sn.	0	IN	NS	ns15.ovh.net.
-mavoiture.sn.	0	IN	NS	dns15.ovh.net.
-mavoiture.sn.	0	IN	DS	11665 8 2 8976a1e7946a4424230c63a99a32236365ff9dd6307849ab240c13859e55cbcb
 mawa.sn.	0	IN	NS	ns17.ovh.net.
 mawa.sn.	0	IN	NS	dns17.ovh.net.
 mawa.sn.	0	IN	DS	48367 8 2 00409828b67ebc3af5648aa6a96b1173285c0ca0f831684638c89a0318d8d8fb
