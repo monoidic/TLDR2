@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447163 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447166 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [09/06/2022 15H40:01]"
+sn.	0	IN	TXT	"3 RRs processed [09/06/2022 16H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3772,6 +3772,8 @@ casanova.sn.	0	IN	NS	dns18.ovh.net.
 casanova.sn.	0	IN	DS	50656 8 2 3f848390a5441f059c4165056fbcbb86144f755662e3f4a830c75e2f617b34b0
 casanovainteriores.sn.	0	IN	NS	ns1.salweb.org.
 casanovainteriores.sn.	0	IN	NS	ns2.salweb.org.
+case-sarl.sn.	0	IN	NS	ns41.infomaniak.com.
+case-sarl.sn.	0	IN	NS	ns42.infomaniak.com.
 caselogic.sn.	0	IN	NS	nsgbr.comlaude.co.uk.
 caselogic.sn.	0	IN	NS	nssui.comlaude.ch.
 caselogic.sn.	0	IN	NS	nsusa.comlaude.net.
