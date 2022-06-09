@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447171 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447178 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [09/06/2022 17H00:02]"
+sn.	0	IN	TXT	"No RRs processed [09/06/2022 18H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6889,7 +6889,6 @@ elitic.sn.	0	IN	NS	dns103.ovh.net.
 elitic.sn.	0	IN	DS	27547 8 2 b3d07529c4d1bb125978c16af3970e71bd2b98049799d76a8c72ef56937f3f90
 elixirbeauty.sn.	0	IN	NS	ns111.ovh.net.
 elixirbeauty.sn.	0	IN	NS	dns111.ovh.net.
-elixirbeauty.sn.	0	IN	DS	62767 8 2 7e9c5bc284e986a8fa7dfcd0834f7d62ab5466b4628d2e1c4f2a9301ef7e7f7d
 elleg.sn.	0	IN	NS	ns1.register.be.
 elleg.sn.	0	IN	NS	ns2.register.be.
 elleg.sn.	0	IN	NS	ns3.register.be.
@@ -6916,6 +6915,10 @@ ema.sn.	0	IN	NS	ns1.caurys.net.
 ema.sn.	0	IN	NS	ns2.caurys.net.
 emad.sn.	0	IN	NS	ns.sonatel.sn.
 emad.sn.	0	IN	NS	ns2.sonatel.sn.
+eman.sn.	0	IN	NS	ns1.kheweul.net.
+eman.sn.	0	IN	NS	ns2.kheweul.net.
+eman.sn.	0	IN	NS	ns3.kheweul.net.
+eman.sn.	0	IN	NS	ns4.kheweul.net.
 embajadasenagalespana.sn.	0	IN	NS	ns.gouv.sn.
 embajadasenagalespana.sn.	0	IN	NS	ns.ucad.sn.
 embajadasenagalespana.sn.	0	IN	NS	ns2.gouv.sn.
