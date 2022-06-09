@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447032 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447040 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [09/06/2022 00H50:01]"
+sn.	0	IN	TXT	"No RRs processed [09/06/2022 02H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -20906,10 +20906,9 @@ unisenegal.sn.	0	IN	NS	dns103.ovh.net.
 unisenegal.sn.	0	IN	DS	50944 8 2 baa11c74af5cb29e5664ebe69fb9811cb8282143eaec5c83ebcc65afd54caa7f
 unitechmotors.sn.	0	IN	NS	ns.sonatel.sn.
 unitechmotors.sn.	0	IN	NS	ns2.sonatel.sn.
-unitrade.sn.	0	IN	NS	ns1.kheweul.net.
-unitrade.sn.	0	IN	NS	ns2.kheweul.net.
-unitrade.sn.	0	IN	NS	ns3.kheweul.net.
-unitrade.sn.	0	IN	NS	ns4.kheweul.net.
+unitrade.sn.	0	IN	NS	ns200.anycast.me.
+unitrade.sn.	0	IN	NS	dns200.anycast.me.
+unitrade.sn.	0	IN	DS	50545 8 2 d2e56ae8ba422e57793de298a3366940aa41e53009a32ca590d3f021378b92d8
 unitrans.sn.	0	IN	NS	ns103.ovh.net.
 unitrans.sn.	0	IN	NS	dns103.ovh.net.
 unitrans.sn.	0	IN	DS	50914 8 2 9ad6f26ee8aa4a0285e28bcb7a784352121db1a20d6ab8e1faa4ca6e581b81b3
