@@ -1,10 +1,10 @@
-mg.	0	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060904 600 3600 604800 86400
+mg.	0	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022060905 600 3600 604800 86400
 mg.	0	IN	NS	ns.dts.mg.
 mg.	0	IN	NS	ns.nic.mg.
 mg.	0	IN	NS	pch.nic.mg.
 mg.	0	IN	NS	ns-mg.malagasy.com.
 mg.	0	IN	NS	censvrns0001.ird.fr.
-mg.	0	IN	TXT	"Generation Time: 1654747304"
+mg.	0	IN	TXT	"Generation Time: 1654750896"
 00.mg.	0	IN	NS	gns1.cloudns.net.
 00.mg.	0	IN	NS	gns2.cloudns.net.
 00.mg.	0	IN	NS	gns3.cloudns.net.
@@ -148,6 +148,18 @@ mg.	0	IN	TXT	"Generation Time: 1654747304"
 41.mg.	0	IN	NS	fish.ns.cloudflare.com.
 42.mg.	0	IN	NS	ns200.anycast.me.
 42.mg.	0	IN	NS	dns200.anycast.me.
+42-antananarivo.mg.	0	IN	NS	ns.dts.mg.
+42-antananarivo.mg.	0	IN	NS	ns1.dts.mg.
+42-madagascar.mg.	0	IN	NS	ns.dts.mg.
+42-madagascar.mg.	0	IN	NS	ns1.dts.mg.
+42-school.mg.	0	IN	NS	ns.dts.mg.
+42-school.mg.	0	IN	NS	ns1.dts.mg.
+42antananarivo.mg.	0	IN	NS	ns.dts.mg.
+42antananarivo.mg.	0	IN	NS	ns1.dts.mg.
+42madagascar.mg.	0	IN	NS	ns.dts.mg.
+42madagascar.mg.	0	IN	NS	ns1.dts.mg.
+42school.mg.	0	IN	NS	ns.dts.mg.
+42school.mg.	0	IN	NS	ns1.dts.mg.
 43.mg.	0	IN	NS	norm.ns.cloudflare.com.
 43.mg.	0	IN	NS	rihana.ns.cloudflare.com.
 437.mg.	0	IN	NS	ns1.dns.com.
@@ -3306,10 +3318,14 @@ ecobazar.mg.	0	IN	NS	ns1045.ui-dns.org.
 ecoclean.mg.	0	IN	NS	ns1.servermada.com.
 ecoclean.mg.	0	IN	NS	ns2.servermada.com.
 ecoclean.mg.	0	IN	NS	ns3.servermada.com.
+ecole-42.mg.	0	IN	NS	ns.dts.mg.
+ecole-42.mg.	0	IN	NS	ns1.dts.mg.
 ecole-bird.mg.	0	IN	NS	ns1.ntmada-webhosting.com.
 ecole-bird.mg.	0	IN	NS	ns2.ntmada-webhosting.com.
 ecole-ifr.mg.	0	IN	NS	dns1.supremepanel.com.
 ecole-ifr.mg.	0	IN	NS	dns2.supremepanel.com.
+ecole42.mg.	0	IN	NS	ns.dts.mg.
+ecole42.mg.	0	IN	NS	ns1.dts.mg.
 ecolejacquesprevert.mg.	0	IN	NS	ns1.contabo.net.
 ecolejacquesprevert.mg.	0	IN	NS	ns2.contabo.net.
 ecolejacquesprevert.mg.	0	IN	NS	ns3.contabo.net.
@@ -9288,6 +9304,10 @@ schneider-electric.mg.	0	IN	NS	obs.ns1.fr.
 schneiderelectric.mg.	0	IN	NS	ns2.observatoiredesmarques.fr.
 schneiderelectric.mg.	0	IN	NS	ns3.nameshield.net.
 schneiderelectric.mg.	0	IN	NS	obs.ns1.fr.
+school-42.mg.	0	IN	NS	ns.dts.mg.
+school-42.mg.	0	IN	NS	ns1.dts.mg.
+school42.mg.	0	IN	NS	ns.dts.mg.
+school42.mg.	0	IN	NS	ns1.dts.mg.
 schooly.mg.	0	IN	NS	ns1.da.cloudns.io.
 schooly.mg.	0	IN	NS	ns2.da.cloudns.io.
 schuco.mg.	0	IN	NS	ns1-eu.123ns.eu.
