@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060914 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022060915 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -1316,8 +1316,11 @@ desirade.gp.	0	IN	NS	ns103.ovh.net.
 desirade.gp.	0	IN	NS	dns103.ovh.net.
 despegar.gp.	0	IN	NS	ns1.despegar.net.
 despegar.gp.	0	IN	NS	ns2.despegar.net.
-developpement-durable.gp.	0	IN	NS	ns0.equipement.gouv.fr.
-developpement-durable.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
+developpement-durable.gp.	0	IN	NS	a.ns.developpement-durable.gouv.fr.
+developpement-durable.gp.	0	IN	NS	b.ns.developpement-durable.gouv.fr.
+developpement-durable.gp.	0	IN	NS	nsa.perf1.fr.
+developpement-durable.gp.	0	IN	NS	nsb.perf1.com.
+developpement-durable.gp.	0	IN	NS	nsc.perf1.com.
 devexpert.gp.	0	IN	NS	ns1.ikoula.fr.
 devexpert.gp.	0	IN	NS	ns2.ikoula.fr.
 dg.gp.	0	IN	NS	ns1.register.it.
