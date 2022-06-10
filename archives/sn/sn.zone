@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447311 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447319 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"19 RRs processed [10/06/2022 10H50:01]"
+sn.	0	IN	TXT	"1 RRs processed [10/06/2022 12H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1720,9 +1720,9 @@ apsfdsenegal.sn.	0	IN	NS	dns102.ovh.net.
 apsfdsenegal.sn.	0	IN	NS	dns200.anycast.me.
 aptis.sn.	0	IN	NS	udns1.cscdns.net.
 aptis.sn.	0	IN	NS	udns2.cscdns.uk.
-aptonia.sn.	0	IN	NS	a.dns.gandi.net.
-aptonia.sn.	0	IN	NS	b.dns.gandi.net.
-aptonia.sn.	0	IN	NS	c.dns.gandi.net.
+aptonia.sn.	0	IN	NS	ns-6-a.gandi.net.
+aptonia.sn.	0	IN	NS	ns-39-c.gandi.net.
+aptonia.sn.	0	IN	NS	ns-186-b.gandi.net.
 aqua.sn.	0	IN	NS	ns1.host7x24.com.
 aqua.sn.	0	IN	NS	ns2.host7x24.com.
 aquarev.sn.	0	IN	NS	nsa.n0c.com.
@@ -1824,9 +1824,9 @@ armee.sn.	0	IN	NS	ns.sonatel.sn.
 ns.armee.sn.	0	IN	A	213.154.81.187
 armp.sn.	0	IN	NS	ns1.host7x24.com.
 armp.sn.	0	IN	NS	ns2.host7x24.com.
-arpenaz.sn.	0	IN	NS	a.dns.gandi.net.
-arpenaz.sn.	0	IN	NS	b.dns.gandi.net.
-arpenaz.sn.	0	IN	NS	c.dns.gandi.net.
+arpenaz.sn.	0	IN	NS	ns-45-a.gandi.net.
+arpenaz.sn.	0	IN	NS	ns-64-b.gandi.net.
+arpenaz.sn.	0	IN	NS	ns-82-c.gandi.net.
 arsn.sn.	0	IN	NS	ns1.kheweul.net.
 arsn.sn.	0	IN	NS	ns2.kheweul.net.
 art.sn.	0	IN	NS	ns.nic.sn.
@@ -3293,9 +3293,9 @@ btc.sn.	0	IN	NS	ns2.undeveloped.com.
 bts.sn.	0	IN	NS	ns105.ovh.net.
 bts.sn.	0	IN	NS	dns105.ovh.net.
 bts.sn.	0	IN	DS	28894 8 2 3a6e85c6db0639753f6031a19cf8038028b33421e2be81e70417f7c2b33156ab
-btwin.sn.	0	IN	NS	a.dns.gandi.net.
-btwin.sn.	0	IN	NS	b.dns.gandi.net.
-btwin.sn.	0	IN	NS	c.dns.gandi.net.
+btwin.sn.	0	IN	NS	ns-0-a.gandi.net.
+btwin.sn.	0	IN	NS	ns-174-c.gandi.net.
+btwin.sn.	0	IN	NS	ns-241-b.gandi.net.
 budget.sn.	0	IN	NS	ns.arc.sn.
 budget.sn.	0	IN	NS	ns3.arc.sn.
 build-ovh.sn.	0	IN	NS	ns113.ovh.net.
@@ -3614,9 +3614,9 @@ canalsat.sn.	0	IN	NS	obs.ns1.fr.
 canalsat-afrique.sn.	0	IN	NS	ns2.observatoiredesmarques.fr.
 canalsat-afrique.sn.	0	IN	NS	ns3.nameshield.net.
 canalsat-afrique.sn.	0	IN	NS	obs.ns1.fr.
-canaveral.sn.	0	IN	NS	a.dns.gandi.net.
-canaveral.sn.	0	IN	NS	b.dns.gandi.net.
-canaveral.sn.	0	IN	NS	c.dns.gandi.net.
+canaveral.sn.	0	IN	NS	ns-36-a.gandi.net.
+canaveral.sn.	0	IN	NS	ns-37-b.gandi.net.
+canaveral.sn.	0	IN	NS	ns-220-c.gandi.net.
 canbat.sn.	0	IN	NS	ns1.101domain.com.
 canbat.sn.	0	IN	NS	ns2.101domain.com.
 canbat.sn.	0	IN	NS	ns5.101domain.com.
@@ -6471,9 +6471,9 @@ eastwestnetworks.sn.	0	IN	DS	16552 8 2 bd8ebcfd7245775165cd0b48c61daeecd76d84453
 easy-tv.sn.	0	IN	NS	ns2.observatoiredesmarques.fr.
 easy-tv.sn.	0	IN	NS	ns3.nameshield.net.
 easy-tv.sn.	0	IN	NS	obs.ns1.fr.
-easybreath.sn.	0	IN	NS	a.dns.gandi.net.
-easybreath.sn.	0	IN	NS	b.dns.gandi.net.
-easybreath.sn.	0	IN	NS	c.dns.gandi.net.
+easybreath.sn.	0	IN	NS	ns-9-c.gandi.net.
+easybreath.sn.	0	IN	NS	ns-81-a.gandi.net.
+easybreath.sn.	0	IN	NS	ns-178-b.gandi.net.
 easycloud.sn.	0	IN	NS	a.ns.mailclub.fr.
 easycloud.sn.	0	IN	NS	b.ns.mailclub.eu.
 easycloud.sn.	0	IN	NS	c.ns.mailclub.com.
@@ -8612,9 +8612,9 @@ geolock.sn.	0	IN	NS	ns1.afrowebmaster.com.
 geolock.sn.	0	IN	NS	ns2.afrowebmaster.com.
 geolock.sn.	0	IN	NS	ns3.afrowebmaster.com.
 geolock.sn.	0	IN	NS	ns4.afrowebmaster.com.
-geologic.sn.	0	IN	NS	a.dns.gandi.net.
-geologic.sn.	0	IN	NS	b.dns.gandi.net.
-geologic.sn.	0	IN	NS	c.dns.gandi.net.
+geologic.sn.	0	IN	NS	ns-9-a.gandi.net.
+geologic.sn.	0	IN	NS	ns-124-b.gandi.net.
+geologic.sn.	0	IN	NS	ns-204-c.gandi.net.
 geomax.sn.	0	IN	NS	ns1.ascio.com.
 geomax.sn.	0	IN	NS	ns2.ascio.com.
 geomax.sn.	0	IN	NS	ns3.ascio.com.
@@ -12591,9 +12591,9 @@ ltapsl.sn.	0	IN	NS	ns103.ovh.net.
 ltapsl.sn.	0	IN	NS	dns103.ovh.net.
 lti-ucad.sn.	0	IN	NS	ns.ucad.sn.
 lti-ucad.sn.	0	IN	NS	dns.ucad.sn.
-lugik.sn.	0	IN	NS	a.dns.gandi.net.
-lugik.sn.	0	IN	NS	b.dns.gandi.net.
-lugik.sn.	0	IN	NS	c.dns.gandi.net.
+lugik.sn.	0	IN	NS	ns-154-a.gandi.net.
+lugik.sn.	0	IN	NS	ns-186-c.gandi.net.
+lugik.sn.	0	IN	NS	ns-198-b.gandi.net.
 lulu.sn.	0	IN	NS	ns1.register.be.
 lulu.sn.	0	IN	NS	ns2.register.be.
 lulu.sn.	0	IN	NS	ns3.register.be.
@@ -14029,9 +14029,9 @@ natangue.sn.	0	IN	NS	ns6.jokko-hosting.com.
 nathiebi.sn.	0	IN	NS	ns1.francedns.com.
 nathiebi.sn.	0	IN	NS	ns2.francedns.com.
 nathiebi.sn.	0	IN	NS	ns3.francedns.com.
-natimeo.sn.	0	IN	NS	a.dns.gandi.net.
-natimeo.sn.	0	IN	NS	b.dns.gandi.net.
-natimeo.sn.	0	IN	NS	c.dns.gandi.net.
+natimeo.sn.	0	IN	NS	ns-40-c.gandi.net.
+natimeo.sn.	0	IN	NS	ns-196-b.gandi.net.
+natimeo.sn.	0	IN	NS	ns-234-a.gandi.net.
 nationofstreet.sn.	0	IN	NS	ns200.anycast.me.
 nationofstreet.sn.	0	IN	NS	dns200.anycast.me.
 nationofstreet.sn.	0	IN	DS	64591 8 2 1980c9a0df22229fefde1573a740e57a22179a499e10663cef026325c86cd45a
@@ -14677,9 +14677,9 @@ olac.sn.	0	IN	NS	ns4.jokko-hosting.com.
 olac.sn.	0	IN	NS	ns7.jokko-hosting.com.
 olaenergy.sn.	0	IN	NS	ns.olaenergy.sn.
 ns.olaenergy.sn.	0	IN	A	41.208.150.194
-olaian.sn.	0	IN	NS	a.dns.gandi.net.
-olaian.sn.	0	IN	NS	b.dns.gandi.net.
-olaian.sn.	0	IN	NS	c.dns.gandi.net.
+olaian.sn.	0	IN	NS	ns-3-c.gandi.net.
+olaian.sn.	0	IN	NS	ns-36-b.gandi.net.
+olaian.sn.	0	IN	NS	ns-90-a.gandi.net.
 olan.sn.	0	IN	NS	ns1.kheweul.net.
 olan.sn.	0	IN	NS	ns2.kheweul.net.
 olan.sn.	0	IN	NS	ns3.kheweul.net.
@@ -14937,9 +14937,9 @@ orangestartupstudio.sn.	0	IN	NS	ns.sonatel.sn.
 orangestartupstudio.sn.	0	IN	NS	ns2.sonatel.sn.
 orangestore.sn.	0	IN	NS	ns.sonatel.sn.
 orangestore.sn.	0	IN	NS	ns2.sonatel.sn.
-orao.sn.	0	IN	NS	a.dns.gandi.net.
-orao.sn.	0	IN	NS	b.dns.gandi.net.
-orao.sn.	0	IN	NS	c.dns.gandi.net.
+orao.sn.	0	IN	NS	ns-94-a.gandi.net.
+orao.sn.	0	IN	NS	ns-112-b.gandi.net.
+orao.sn.	0	IN	NS	ns-169-c.gandi.net.
 orbit.sn.	0	IN	NS	ns1.kheweul.net.
 orbit.sn.	0	IN	NS	ns2.kheweul.net.
 orbit.sn.	0	IN	NS	ns3.kheweul.net.
@@ -16646,9 +16646,9 @@ ritchielist.sn.	0	IN	NS	ns1.101domain.com.
 ritchielist.sn.	0	IN	NS	ns2.101domain.com.
 ritzyliving.sn.	0	IN	NS	darou.imantouch.net.
 ritzyliving.sn.	0	IN	NS	nssec.online.net.
-riverside.sn.	0	IN	NS	a.dns.gandi.net.
-riverside.sn.	0	IN	NS	b.dns.gandi.net.
-riverside.sn.	0	IN	NS	c.dns.gandi.net.
+riverside.sn.	0	IN	NS	ns-92-c.gandi.net.
+riverside.sn.	0	IN	NS	ns-102-a.gandi.net.
+riverside.sn.	0	IN	NS	ns-216-b.gandi.net.
 rivonia.sn.	0	IN	NS	ns.sonatel.sn.
 rivonia.sn.	0	IN	NS	ns2.sonatel.sn.
 rmb.sn.	0	IN	NS	ns1.lexsynergy.net.
@@ -16683,9 +16683,9 @@ rocconstruction.sn.	0	IN	NS	ns3.wanekoohost.com.
 rocconstruction.sn.	0	IN	NS	ns4.wanekoohost.com.
 rocconstruction.sn.	0	IN	NS	ns5.wanekoohost.com.
 rocconstruction.sn.	0	IN	NS	ns6.wanekoohost.com.
-rockrider.sn.	0	IN	NS	a.dns.gandi.net.
-rockrider.sn.	0	IN	NS	b.dns.gandi.net.
-rockrider.sn.	0	IN	NS	c.dns.gandi.net.
+rockrider.sn.	0	IN	NS	ns-46-a.gandi.net.
+rockrider.sn.	0	IN	NS	ns-93-c.gandi.net.
+rockrider.sn.	0	IN	NS	ns-223-b.gandi.net.
 rokhayadiatta.sn.	0	IN	NS	dns.ucad.sn.
 rolex.sn.	0	IN	NS	dns1.p06.nsone.net.
 rolex.sn.	0	IN	NS	dns2.p06.nsone.net.
@@ -16784,8 +16784,6 @@ sacap.sn.	0	IN	NS	ns1.caurys.net.
 sacap.sn.	0	IN	NS	ns2.caurys.net.
 sacep.sn.	0	IN	NS	ns.sonatel.sn.
 sacep.sn.	0	IN	NS	ns2.sonatel.sn.
-saconect.sn.	0	IN	NS	ns109.ovh.net.
-saconect.sn.	0	IN	NS	dns109.ovh.net.
 sada.sn.	0	IN	NS	ns200.anycast.me.
 sada.sn.	0	IN	NS	dns200.anycast.me.
 sada.sn.	0	IN	DS	16732 8 2 05f1ba19aeb321c3e7c1476ea52cf6565fab3e08dd8acb97d989e6cfb0c04198
@@ -20626,9 +20624,9 @@ tresorpublic.sn.	0	IN	NS	ns.sonatel.sn.
 tresorpublic.sn.	0	IN	NS	ns2.sonatel.sn.
 tri.sn.	0	IN	NS	ns1.101domain.com.
 tri.sn.	0	IN	NS	ns2.101domain.com.
-triban.sn.	0	IN	NS	a.dns.gandi.net.
-triban.sn.	0	IN	NS	b.dns.gandi.net.
-triban.sn.	0	IN	NS	c.dns.gandi.net.
+triban.sn.	0	IN	NS	ns-33-a.gandi.net.
+triban.sn.	0	IN	NS	ns-83-b.gandi.net.
+triban.sn.	0	IN	NS	ns-112-c.gandi.net.
 tribord.sn.	0	IN	NS	a.dns.gandi.net.
 tribord.sn.	0	IN	NS	b.dns.gandi.net.
 tribord.sn.	0	IN	NS	c.dns.gandi.net.
@@ -21071,9 +21069,9 @@ valoris.sn.	0	IN	NS	dns20.ovh.net.
 vanhessen.sn.	0	IN	NS	ns.be.hostbasket.com.
 vanhessen.sn.	0	IN	NS	ns.fr.hostbasket.com.
 vanhessen.sn.	0	IN	NS	ns.nl.hostbasket.com.
-vanrysel.sn.	0	IN	NS	a.dns.gandi.net.
-vanrysel.sn.	0	IN	NS	b.dns.gandi.net.
-vanrysel.sn.	0	IN	NS	c.dns.gandi.net.
+vanrysel.sn.	0	IN	NS	ns-41-a.gandi.net.
+vanrysel.sn.	0	IN	NS	ns-183-c.gandi.net.
+vanrysel.sn.	0	IN	NS	ns-246-b.gandi.net.
 vaponet.sn.	0	IN	NS	ns100.ovh.net.
 vaponet.sn.	0	IN	NS	dns100.ovh.net.
 vaponet.sn.	0	IN	DS	4645 8 2 7fe1453056a884fe08121773b26c25516922bf2e5980bc82eb64a179b03034f4
@@ -21560,9 +21558,9 @@ webtel.sn.	0	IN	NS	ns2.francedns.com.
 webtel.sn.	0	IN	NS	ns3.francedns.com.
 webuycars.sn.	0	IN	NS	ns1.101domain.com.
 webuycars.sn.	0	IN	NS	ns2.101domain.com.
-wedze.sn.	0	IN	NS	a.dns.gandi.net.
-wedze.sn.	0	IN	NS	b.dns.gandi.net.
-wedze.sn.	0	IN	NS	c.dns.gandi.net.
+wedze.sn.	0	IN	NS	ns-116-b.gandi.net.
+wedze.sn.	0	IN	NS	ns-129-a.gandi.net.
+wedze.sn.	0	IN	NS	ns-195-c.gandi.net.
 weekend.sn.	0	IN	NS	ns1.africatichost.com.
 weekend.sn.	0	IN	NS	ns2.africatichost.com.
 weethio.sn.	0	IN	NS	ns14.ovh.net.
