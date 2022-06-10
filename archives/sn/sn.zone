@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447303 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447311 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [10/06/2022 09H50:02]"
+sn.	0	IN	TXT	"19 RRs processed [10/06/2022 10H50:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3642,9 +3642,9 @@ caper.sn.	0	IN	NS	ns.sonatel.sn.
 caper.sn.	0	IN	NS	ns2.sonatel.sn.
 caperformance.sn.	0	IN	NS	ns.sonatel.sn.
 caperformance.sn.	0	IN	NS	ns2.sonatel.sn.
-caperlan.sn.	0	IN	NS	a.dns.gandi.net.
-caperlan.sn.	0	IN	NS	b.dns.gandi.net.
-caperlan.sn.	0	IN	NS	c.dns.gandi.net.
+caperlan.sn.	0	IN	NS	ns-70-a.gandi.net.
+caperlan.sn.	0	IN	NS	ns-121-c.gandi.net.
+caperlan.sn.	0	IN	NS	ns-137-b.gandi.net.
 capinfo.sn.	0	IN	NS	dns1.wmaker.net.
 capinfo.sn.	0	IN	NS	dns2.wmaker.net.
 capitalimmo.sn.	0	IN	NS	eisdns1.expertis.sn.
@@ -6246,9 +6246,9 @@ domourewmi.sn.	0	IN	NS	nsc.n0c.com.
 dompetroff.sn.	0	IN	NS	a.ns.mailclub.fr.
 dompetroff.sn.	0	IN	NS	b.ns.mailclub.eu.
 dompetroff.sn.	0	IN	NS	c.ns.mailclub.com.
-domyos.sn.	0	IN	NS	a.dns.gandi.net.
-domyos.sn.	0	IN	NS	b.dns.gandi.net.
-domyos.sn.	0	IN	NS	c.dns.gandi.net.
+domyos.sn.	0	IN	NS	ns-12-b.gandi.net.
+domyos.sn.	0	IN	NS	ns-32-c.gandi.net.
+domyos.sn.	0	IN	NS	ns-125-a.gandi.net.
 don.sn.	0	IN	NS	ns1.vercel-dns.com.
 don.sn.	0	IN	NS	ns2.vercel-dns.com.
 doni.sn.	0	IN	NS	ns1.hostmonster.com.
@@ -8218,9 +8218,9 @@ forum-civil.sn.	0	IN	NS	ns1.caurys.net.
 forum-civil.sn.	0	IN	NS	ns2.caurys.net.
 forwardsolutions.sn.	0	IN	NS	ns20.ovh.net.
 forwardsolutions.sn.	0	IN	NS	dns20.ovh.net.
-fouganza.sn.	0	IN	NS	a.dns.gandi.net.
-fouganza.sn.	0	IN	NS	b.dns.gandi.net.
-fouganza.sn.	0	IN	NS	c.dns.gandi.net.
+fouganza.sn.	0	IN	NS	ns-35-c.gandi.net.
+fouganza.sn.	0	IN	NS	ns-67-b.gandi.net.
+fouganza.sn.	0	IN	NS	ns-97-a.gandi.net.
 fouladoubookshop.sn.	0	IN	NS	ns1.caurys.net.
 fouladoubookshop.sn.	0	IN	NS	ns2.caurys.net.
 fournitureingenierie.sn.	0	IN	NS	ns1.ipower.com.
@@ -12977,9 +12977,9 @@ marystore.sn.	0	IN	NS	ns3.wanekoohost.com.
 marystore.sn.	0	IN	NS	ns4.wanekoohost.com.
 marystore.sn.	0	IN	NS	ns5.wanekoohost.com.
 marystore.sn.	0	IN	NS	ns6.wanekoohost.com.
-maskoon.sn.	0	IN	NS	a.dns.gandi.net.
-maskoon.sn.	0	IN	NS	b.dns.gandi.net.
-maskoon.sn.	0	IN	NS	c.dns.gandi.net.
+maskoon.sn.	0	IN	NS	ns-0-a.gandi.net.
+maskoon.sn.	0	IN	NS	ns-24-c.gandi.net.
+maskoon.sn.	0	IN	NS	ns-221-b.gandi.net.
 massaly.sn.	0	IN	NS	eisdns1.expertis.sn.
 massaly.sn.	0	IN	NS	eisdns2.expertis.sn.
 mastercard.sn.	0	IN	NS	dns1.mastercard.com.
@@ -15008,9 +15008,9 @@ orisen.sn.	0	IN	NS	ns1.caurys.net.
 orisen.sn.	0	IN	NS	ns2.caurys.net.
 orkila.sn.	0	IN	NS	ns1.orkila.com.
 orkila.sn.	0	IN	NS	ns2.orkila.com.
-oroks.sn.	0	IN	NS	a.dns.gandi.net.
-oroks.sn.	0	IN	NS	b.dns.gandi.net.
-oroks.sn.	0	IN	NS	c.dns.gandi.net.
+oroks.sn.	0	IN	NS	ns-181-a.gandi.net.
+oroks.sn.	0	IN	NS	ns-211-c.gandi.net.
+oroks.sn.	0	IN	NS	ns-242-b.gandi.net.
 oroyal.sn.	0	IN	NS	ns5.jokko-hosting.com.
 oroyal.sn.	0	IN	NS	ns8.jokko-hosting.com.
 orsre.sn.	0	IN	NS	ns1.kheweul.net.
@@ -15090,9 +15090,9 @@ ousmanestudio.sn.	0	IN	NS	ns5.wanekoohost.com.
 ousmanestudio.sn.	0	IN	NS	ns6.wanekoohost.com.
 ousseynoudiagne.sn.	0	IN	NS	ns101.ovh.net.
 ousseynoudiagne.sn.	0	IN	NS	dns101.ovh.net.
-outshock.sn.	0	IN	NS	a.dns.gandi.net.
-outshock.sn.	0	IN	NS	b.dns.gandi.net.
-outshock.sn.	0	IN	NS	c.dns.gandi.net.
+outshock.sn.	0	IN	NS	ns-79-c.gandi.net.
+outshock.sn.	0	IN	NS	ns-220-b.gandi.net.
+outshock.sn.	0	IN	NS	ns-223-a.gandi.net.
 outstanding.sn.	0	IN	NS	ns1.kheweul.net.
 outstanding.sn.	0	IN	NS	ns2.kheweul.net.
 outstanding.sn.	0	IN	NS	ns3.kheweul.net.
@@ -15130,9 +15130,9 @@ oway.sn.	0	IN	NS	ns1.register.it.
 oway.sn.	0	IN	NS	ns2.register.it.
 oxahost.sn.	0	IN	NS	ns1.tn.oxa.host.
 oxahost.sn.	0	IN	NS	ns2.tn.oxa.host.
-oxelo.sn.	0	IN	NS	a.dns.gandi.net.
-oxelo.sn.	0	IN	NS	b.dns.gandi.net.
-oxelo.sn.	0	IN	NS	c.dns.gandi.net.
+oxelo.sn.	0	IN	NS	ns-29-b.gandi.net.
+oxelo.sn.	0	IN	NS	ns-52-a.gandi.net.
+oxelo.sn.	0	IN	NS	ns-108-c.gandi.net.
 oxio.sn.	0	IN	NS	ns1.kheweul.net.
 oxio.sn.	0	IN	NS	ns2.kheweul.net.
 oxio.sn.	0	IN	NS	ns3.kheweul.net.
@@ -16315,9 +16315,9 @@ radarinfo.sn.	0	IN	NS	ns1.kheweul.net.
 radarinfo.sn.	0	IN	NS	ns2.kheweul.net.
 radarinfo.sn.	0	IN	NS	ns3.kheweul.net.
 radarinfo.sn.	0	IN	NS	ns4.kheweul.net.
-radbug.sn.	0	IN	NS	a.dns.gandi.net.
-radbug.sn.	0	IN	NS	b.dns.gandi.net.
-radbug.sn.	0	IN	NS	c.dns.gandi.net.
+radbug.sn.	0	IN	NS	ns-58-c.gandi.net.
+radbug.sn.	0	IN	NS	ns-107-b.gandi.net.
+radbug.sn.	0	IN	NS	ns-226-a.gandi.net.
 radio.sn.	0	IN	NS	olga.ns.cloudflare.com.
 radio.sn.	0	IN	NS	nitin.ns.cloudflare.com.
 radioesperance.sn.	0	IN	NS	ns1.validname.com.
@@ -16990,9 +16990,8 @@ samakeur.sn.	0	IN	NS	ns1.afriregister.com.
 samakeur.sn.	0	IN	NS	ns3.afriregister.com.
 samalife.sn.	0	IN	NS	ns1.efedus.com.
 samalife.sn.	0	IN	NS	ns2.efedus.com.
-samalocation.sn.	0	IN	NS	ns1.netim.net.
-samalocation.sn.	0	IN	NS	ns2.netim.net.
-samalocation.sn.	0	IN	NS	ns3.netim.net.
+samalocation.sn.	0	IN	NS	ns1.hosting-server-1022.com.
+samalocation.sn.	0	IN	NS	ns2.hosting-server-1022.com.
 samalook.sn.	0	IN	NS	ns101.ovh.net.
 samalook.sn.	0	IN	NS	dns101.ovh.net.
 samanaffa.sn.	0	IN	NS	ns200.anycast.me.
@@ -18437,9 +18436,9 @@ simes-logistic.sn.	0	IN	NS	ns104.ovh.net.
 simes-logistic.sn.	0	IN	NS	dns104.ovh.net.
 simkoolswiss.sn.	0	IN	NS	ns31.infomaniak.ch.
 simkoolswiss.sn.	0	IN	NS	ns32.infomaniak.ch.
-simond.sn.	0	IN	NS	a.dns.gandi.net.
-simond.sn.	0	IN	NS	b.dns.gandi.net.
-simond.sn.	0	IN	NS	c.dns.gandi.net.
+simond.sn.	0	IN	NS	ns-67-b.gandi.net.
+simond.sn.	0	IN	NS	ns-144-c.gandi.net.
+simond.sn.	0	IN	NS	ns-242-a.gandi.net.
 simpa.sn.	0	IN	NS	ns.arc.sn.
 simpa.sn.	0	IN	NS	ns3.arc.sn.
 simplon.sn.	0	IN	NS	ns20.ovh.net.
