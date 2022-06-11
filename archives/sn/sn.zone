@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447582 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447589 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [11/06/2022 19H10:01]"
+sn.	0	IN	TXT	"1 RRs processed [11/06/2022 20H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8754,9 +8754,6 @@ glencore.sn.	0	IN	NS	ns3.rrpproxy.net.
 global-rh.sn.	0	IN	NS	ns200.anycast.me.
 global-rh.sn.	0	IN	NS	dns200.anycast.me.
 global-rh.sn.	0	IN	DS	12490 8 2 a6a200bdefbc5e2e983fe553f9301680fdbfb001c51735c360ce54e64d02eee7
-global-solutions.sn.	0	IN	NS	ns15.ovh.net.
-global-solutions.sn.	0	IN	NS	dns15.ovh.net.
-global-solutions.sn.	0	IN	DS	43864 8 2 6bfa4348c8a62bea88aa9ba85fb0b7c6b5a3f1ed7fe1bf855728a9ff0b6fedd5
 globalaction.sn.	0	IN	NS	ns1.kheweul.net.
 globalaction.sn.	0	IN	NS	ns2.kheweul.net.
 globalaction.sn.	0	IN	NS	ns3.kheweul.net.
@@ -10791,8 +10788,6 @@ jambaar.sn.	0	IN	NS	dns102.ovh.net.
 jambaardelaroute.sn.	0	IN	NS	ns1.whc.ca.
 jambaardelaroute.sn.	0	IN	NS	ns2.whc.ca.
 jambaardelaroute.sn.	0	IN	NS	ns3.whc.ca.
-jambarchallenge.sn.	0	IN	NS	ns1.o2switch.net.
-jambarchallenge.sn.	0	IN	NS	ns2.o2switch.net.
 jame.sn.	0	IN	NS	ns-329.awsdns-41.com.
 jame.sn.	0	IN	NS	ns-872.awsdns-45.net.
 jame.sn.	0	IN	NS	ns-1047.awsdns-02.org.
