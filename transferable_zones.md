@@ -30,7 +30,6 @@
 * `sn.` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/sn/sn.zone)
 * `ss.` via `b.ns.tznic.or.tz.`: [Click here to view zone data.](archives/ss/ss.zone)
 * `sy.` via `ns1.tld.sy.`: [Click here to view zone data.](archives/sy/sy.zone)
-* `tj.` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/tj.zone)
 * `xn--mgbai9azgqp6j.` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/xn--mgbai9azgqp6j.zone)
 * `xn--mgbai9azgqp6j.` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/xn--mgbai9azgqp6j.zone)
 * `xn--ogbpf8fl.` via `ns1.tld.sy.`: [Click here to view zone data.](archives/xn--ogbpf8fl/xn--ogbpf8fl.zone)
