@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022061100 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022061102 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -14971,11 +14971,13 @@ sd.	0	IN	NS	sd.cctld.authdns.ripe.net.
 sd.	0	IN	NS	pch.sis.sd.
 sd.	0	IN	NS	ans1.sis.sd.
 sd.	0	IN	NS	ans1.canar.sd.
+sd.	0	IN	NS	ans2.sis.sd.
 sd.	0	IN	NS	ans2.canar.sd.
 sd.	0	IN	NS	ns-sd.afrinic.net.
 ans1.canar.sd.	0	IN	A	196.29.180.14
 ans2.canar.sd.	0	IN	A	196.29.164.14
 ans1.sis.sd.	0	IN	A	196.29.166.134
+ans2.sis.sd.	0	IN	A	102.130.251.10
 pch.sis.sd.	0	IN	A	204.61.216.97
 pch.sis.sd.	0	IN	AAAA	2001:500:14:6097:ad::1
 se.	0	IN	NS	a.ns.se.
