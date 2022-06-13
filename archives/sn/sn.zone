@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447921 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447929 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [13/06/2022 17H00:01]"
+sn.	0	IN	TXT	"6 RRs processed [13/06/2022 18H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6102,6 +6102,8 @@ divorce.sn.	0	IN	NS	ns2.francedns.com.
 divorce.sn.	0	IN	NS	ns3.francedns.com.
 diwane.sn.	0	IN	NS	ns104.ovh.net.
 diwane.sn.	0	IN	NS	dns104.ovh.net.
+diwanedecor.sn.	0	IN	NS	ns111.ovh.net.
+diwanedecor.sn.	0	IN	NS	dns111.ovh.net.
 diwanemarket.sn.	0	IN	NS	ns20.ovh.net.
 diwanemarket.sn.	0	IN	NS	dns20.ovh.net.
 diwanemarket.sn.	0	IN	DS	26056 8 2 24f26440b45f313ccc05b34e34d84d56b5ca8d7d97b86e9cf6daaf18d220ee41
@@ -9573,6 +9575,10 @@ hopitalsaintjeandedieudethies.sn.	0	IN	NS	ns2.sonatel.sn.
 hoppen.sn.	0	IN	NS	ns200.anycast.me.
 hoppen.sn.	0	IN	NS	dns200.anycast.me.
 hoppen.sn.	0	IN	DS	45214 8 2 e0c2fdafc33a0e6b203a30737ce91e97abc12fbefe38f0e09741283083d9e5fa
+horizon-plus.sn.	0	IN	NS	ns1.kheweul.net.
+horizon-plus.sn.	0	IN	NS	ns2.kheweul.net.
+horizon-plus.sn.	0	IN	NS	ns3.kheweul.net.
+horizon-plus.sn.	0	IN	NS	ns4.kheweul.net.
 horizon7.sn.	0	IN	NS	ns1.o2switch.net.
 horizon7.sn.	0	IN	NS	ns2.o2switch.net.
 horizons-bleus.sn.	0	IN	NS	hybrid862.fr.ns.planethoster.net.
@@ -17621,6 +17627,8 @@ sendom.sn.	0	IN	NS	ns2.caurys.net.
 sendra.sn.	0	IN	NS	ns1.francedns.com.
 sendra.sn.	0	IN	NS	ns2.francedns.com.
 sendra.sn.	0	IN	NS	ns3.francedns.com.
+sendtext.sn.	0	IN	NS	ns11.ovh.net.
+sendtext.sn.	0	IN	NS	dns11.ovh.net.
 sene-num.sn.	0	IN	NS	ns.gouv.sn.
 sene-num.sn.	0	IN	NS	ns2.gouv.sn.
 sene-num.sn.	0	IN	NS	ns3.gouv.sn.
