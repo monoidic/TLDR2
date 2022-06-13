@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022061001 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022061301 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	cv01.dns.pt.
@@ -980,8 +980,10 @@ bmpgroup.cv.	0	IN	NS	dns2.prime.cv.
 bmt.cv.	0	IN	NS	ns1.nosiwebhosting.com.
 bmt.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 bmt.cv.	0	IN	NS	ns3.nosiwebhosting.com.
-bmw.cv.	0	IN	NS	ns41.ptwebsite.com.
-bmw.cv.	0	IN	NS	ns42.ptwebsite.com.
+bmw.cv.	0	IN	NS	ns1.iptwins.net.
+bmw.cv.	0	IN	NS	ns2.iptwins.net.
+bmw.cv.	0	IN	NS	ns3.iptwins.com.
+bmw.cv.	0	IN	NS	ns4.iptwins.com.
 bn.cv.	0	IN	NS	ns1.bn.cv.
 bn.cv.	0	IN	NS	ns2.bn.cv.
 ns1.bn.cv.	0	IN	A	162.240.41.196
@@ -1666,8 +1668,8 @@ cmp.cv.	0	IN	NS	ns-cloud-c1.googledomains.com.
 cmp.cv.	0	IN	NS	ns-cloud-c2.googledomains.com.
 cmp.cv.	0	IN	NS	ns-cloud-c3.googledomains.com.
 cmp.cv.	0	IN	NS	ns-cloud-c4.googledomains.com.
-cmpaul.cv.	0	IN	NS	ns1.myhostdns.com.
-cmpaul.cv.	0	IN	NS	ns2.myhostdns.com.
+cmpaul.cv.	0	IN	NS	ns1.dns-parking.com.
+cmpaul.cv.	0	IN	NS	ns2.dns-parking.com.
 cmpn.cv.	0	IN	NS	ns51.ptwebsite.com.
 cmpn.cv.	0	IN	NS	ns52.ptwebsite.com.
 cmportonovo.cv.	0	IN	NS	ns1.amenworld.com.
@@ -1727,8 +1729,11 @@ cnis.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 cnis.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 cnpd.cv.	0	IN	NS	ns.cnpd.cv.
 ns.cnpd.cv.	0	IN	A	41.221.194.17
-cnps.cv.	0	IN	NS	ns1.isone.cv.
-cnps.cv.	0	IN	NS	ns2.isone.cv.
+cnps.cv.	0	IN	A	45.154.66.253
+cnps.cv.	0	IN	NS	ns1.wtservers.com.
+cnps.cv.	0	IN	NS	ns2.wtservers.com.
+cnps.cv.	0	IN	NS	ns3.wtservers.com.
+cnps.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 cnt.cv.	0	IN	NS	ns1.sitechcv.com.
 cnt.cv.	0	IN	NS	ns2.sitechcv.com.
 cnt.cv.	0	IN	NS	ns3.sitechcv.com.
@@ -4751,6 +4756,9 @@ imenu.cv.	0	IN	NS	ns1.wtservers.com.
 imenu.cv.	0	IN	NS	ns2.wtservers.com.
 imenu.cv.	0	IN	NS	ns3.wtservers.com.
 imenu.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
+img.cv.	0	IN	NS	ns01.trademarkarea.com.
+img.cv.	0	IN	NS	ns02.trademarkarea.com.
+img.cv.	0	IN	NS	ns03.trademarkarea.com.
 imobiliariaglobal.cv.	0	IN	NS	ns1.mysecurecloudhost.com.
 imobiliariaglobal.cv.	0	IN	NS	ns2.mysecurecloudhost.com.
 imobiliariaglobal.cv.	0	IN	NS	ns3.mysecurecloudhost.com.
@@ -5303,6 +5311,10 @@ ligoc.cv.	0	IN	NS	ns2.webhs.org.
 ligoc.cv.	0	IN	NS	ns3.webhs.org.
 limage.cv.	0	IN	NS	ns293.websitewelcome.com.
 limage.cv.	0	IN	NS	ns294.websitewelcome.com.
+limarchitect.cv.	0	IN	NS	ns1.mydnspt.net.
+limarchitect.cv.	0	IN	NS	ns2.mydnspt.net.
+limarchitect.cv.	0	IN	NS	ns7.mydnspt.net.
+limarchitect.cv.	0	IN	NS	ns8.mydnspt.net.
 lince.cv.	0	IN	NS	dns1.prime.cv.
 lince.cv.	0	IN	NS	dns2.prime.cv.
 lineflex.cv.	0	IN	NS	ns7.securenet-server.net.
@@ -5520,6 +5532,9 @@ marmitakent.cv.	0	IN	NS	r5b.gigilist.com.
 marmitakent.cv.	0	IN	AAAA	2002:321f:9383::321f:9383
 marquesrent.cv.	0	IN	NS	cns7.my-hosting-panel.com.
 marquesrent.cv.	0	IN	NS	cns8.my-hosting-panel.com.
+martijn.cv.	0	IN	NS	ns01.trademarkarea.com.
+martijn.cv.	0	IN	NS	ns02.trademarkarea.com.
+martijn.cv.	0	IN	NS	ns03.trademarkarea.com.
 martin.cv.	0	IN	NS	ns01.trademarkarea.com.
 martin.cv.	0	IN	NS	ns02.trademarkarea.com.
 martin.cv.	0	IN	NS	ns03.trademarkarea.com.
