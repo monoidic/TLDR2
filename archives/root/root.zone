@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022061301 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022061302 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -7133,18 +7133,21 @@ gn.	0	IN	NS	rip.psg.com.
 gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
 gn.	0	IN	DS	38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
-godaddy.	0	IN	NS	a0.nic.godaddy.
+godaddy.	0	IN	NS	a.nic.godaddy.
+godaddy.	0	IN	NS	b.nic.godaddy.
+godaddy.	0	IN	NS	c.nic.godaddy.
 godaddy.	0	IN	NS	a2.nic.godaddy.
-godaddy.	0	IN	NS	b0.nic.godaddy.
 godaddy.	0	IN	NS	c0.nic.godaddy.
 godaddy.	0	IN	DS	6040 8 2 9aaf85a8b827bb0e45862ea29fa0ab0c1f7b2a7ca8ac6e14966f4f267324a98c
 godaddy.	0	IN	DS	29332 8 2 2c52023cffccd5fb2d7c4567840e0a06e2360b2a5090bc0ddd9e7b30cb4803b5
-a0.nic.godaddy.	0	IN	A	65.22.20.25
-a0.nic.godaddy.	0	IN	AAAA	2a01:8840:16::25
+a.nic.godaddy.	0	IN	A	37.209.192.9
+a.nic.godaddy.	0	IN	AAAA	2001:dcd:1::9
 a2.nic.godaddy.	0	IN	A	65.22.23.25
 a2.nic.godaddy.	0	IN	AAAA	2a01:8840:19::25
-b0.nic.godaddy.	0	IN	A	65.22.21.25
-b0.nic.godaddy.	0	IN	AAAA	2a01:8840:17::25
+b.nic.godaddy.	0	IN	A	37.209.194.9
+b.nic.godaddy.	0	IN	AAAA	2001:dcd:2::9
+c.nic.godaddy.	0	IN	A	37.209.196.9
+c.nic.godaddy.	0	IN	AAAA	2001:dcd:3::9
 c0.nic.godaddy.	0	IN	A	65.22.22.25
 c0.nic.godaddy.	0	IN	AAAA	2a01:8840:18::25
 gold.	0	IN	NS	v0n0.nic.gold.
