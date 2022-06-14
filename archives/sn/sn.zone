@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448053 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448061 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [14/06/2022 10H00:02]"
+sn.	0	IN	TXT	"4 RRs processed [14/06/2022 11H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5712,9 +5712,8 @@ dethiefall-prp.sn.	0	IN	NS	ns6.wanekoohost.com.
 deukeundo.sn.	0	IN	NS	ns3.wanekoohost.com.
 deukeundo.sn.	0	IN	NS	ns4.wanekoohost.com.
 deukeundo.sn.	0	IN	NS	ns6.wanekoohost.com.
-deutschcolor.sn.	0	IN	NS	ns1.netim.net.
-deutschcolor.sn.	0	IN	NS	ns2.netim.net.
-deutschcolor.sn.	0	IN	NS	ns3.netim.net.
+deutschcolor.sn.	0	IN	NS	max.ns.cloudflare.com.
+deutschcolor.sn.	0	IN	NS	iris.ns.cloudflare.com.
 deuzicronapine.sn.	0	IN	NS	nsgbr.comlaude.co.uk.
 deuzicronapine.sn.	0	IN	NS	nssui.comlaude.ch.
 deuzicronapine.sn.	0	IN	NS	nsusa.comlaude.net.
@@ -12069,8 +12068,6 @@ leboncoin.sn.	0	IN	NS	ns1.o2switch.net.
 leboncoin.sn.	0	IN	NS	ns2.o2switch.net.
 lebonplan.sn.	0	IN	NS	ns1.o2switch.net.
 lebonplan.sn.	0	IN	NS	ns2.o2switch.net.
-lebougui.sn.	0	IN	NS	ns104.ovh.net.
-lebougui.sn.	0	IN	NS	dns104.ovh.net.
 lecampus.sn.	0	IN	NS	ns41.infomaniak.com.
 lecampus.sn.	0	IN	NS	ns42.infomaniak.com.
 lecampus.sn.	0	IN	DS	36421 8 2 f9c86a9f8b7fc1687b0a3b32b5ec9c4a750b52293b863ee04769860b4bf5842c
