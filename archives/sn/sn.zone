@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447978 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222447989 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [14/06/2022 01H00:01]"
+sn.	0	IN	TXT	"1 RRs processed [14/06/2022 02H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -18394,6 +18394,9 @@ siegemsa.sn.	0	IN	NS	ns42.infomaniak.com.
 siemens.sn.	0	IN	NS	dns1.cscdns.net.
 siemens.sn.	0	IN	NS	dns2.cscdns.net.
 siena.sn.	0	IN	NS	ns.cse.sn.
+siepa.sn.	0	IN	NS	ns200.anycast.me.
+siepa.sn.	0	IN	NS	dns200.anycast.me.
+siepa.sn.	0	IN	DS	15589 8 2 b17244b544e16ca270b527cafb86f536b8a77bc0e44b93be762bf239ac3a5648
 sifagroup.sn.	0	IN	NS	ns200.anycast.me.
 sifagroup.sn.	0	IN	NS	dns200.anycast.me.
 sifagroup.sn.	0	IN	DS	31237 8 2 eedcbcd81a44c5a4672d7bc24c0b829855326affdbd8f52ad3bff6b6b628f9d0
