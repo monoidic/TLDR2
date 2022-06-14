@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061422 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061423 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1655202739"
+sy.	0	IN	TXT	"Generation Time: 1655206341"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -3339,6 +3339,8 @@ gz.sy.	0	IN	NS	suspend1.tld.sy.
 gz.sy.	0	IN	NS	suspend2.tld.sy.
 h-a-s-group.sy.	0	IN	NS	suspend1.tld.sy.
 h-a-s-group.sy.	0	IN	NS	suspend2.tld.sy.
+h-care.sy.	0	IN	NS	ns1.lazernet.sy.
+h-care.sy.	0	IN	NS	ns2.lazernet.sy.
 h-m.sy.	0	IN	NS	a5-65.akam.net.
 h-m.sy.	0	IN	NS	a8-66.akam.net.
 h-m.sy.	0	IN	NS	a1-139.akam.net.
@@ -4539,6 +4541,8 @@ makki-3laa.sy.	0	IN	NS	suspend1.tld.sy.
 makki-3laa.sy.	0	IN	NS	suspend2.tld.sy.
 makol.sy.	0	IN	NS	ns3.tld.sy.
 makol.sy.	0	IN	NS	ns4.tld.sy.
+makook.sy.	0	IN	NS	ns1.lazernet.sy.
+makook.sy.	0	IN	NS	ns2.lazernet.sy.
 maktabalsistani.sy.	0	IN	NS	eric.ns.cloudflare.com.
 maktabalsistani.sy.	0	IN	NS	nadia.ns.cloudflare.com.
 maktabati.sy.	0	IN	NS	auth1.syriatelisp.com.sy.
