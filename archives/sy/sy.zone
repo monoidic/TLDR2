@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061423 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061426 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1655206341"
+sy.	0	IN	TXT	"Generation Time: 1655211745"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -4572,8 +4572,10 @@ managementdc.sy.	0	IN	NS	ns1.damashost.com.
 managementdc.sy.	0	IN	NS	ns2.damashost.com.
 mandoob.sy.	0	IN	NS	sydns1.nobalaa.com.
 mandoob.sy.	0	IN	NS	sydns2.nobalaa.com.
-mandoubi.sy.	0	IN	NS	ns1.mowared.sy.
-mandoubi.sy.	0	IN	NS	ns2.mowared.sy.
+mandoubi.sy.	0	IN	NS	ns1.mandoubi.sy.
+mandoubi.sy.	0	IN	NS	ns2.mandoubi.sy.
+ns1.mandoubi.sy.	0	IN	A	212.11.196.203
+ns2.mandoubi.sy.	0	IN	A	212.11.196.203
 mandowb.sy.	0	IN	NS	sydns1.nobalaa.com.
 mandowb.sy.	0	IN	NS	sydns2.nobalaa.com.
 mango.sy.	0	IN	NS	ns-310.awsdns-38.com.
@@ -4965,10 +4967,8 @@ moustafakharbutly.sy.	0	IN	NS	suspend1.tld.sy.
 moustafakharbutly.sy.	0	IN	NS	suspend2.tld.sy.
 moveit.sy.	0	IN	NS	ns1.lazernet.sy.
 moveit.sy.	0	IN	NS	ns2.lazernet.sy.
-mowared.sy.	0	IN	NS	ns1.mowared.sy.
-mowared.sy.	0	IN	NS	ns2.mowared.sy.
-ns1.mowared.sy.	0	IN	A	212.11.196.203
-ns2.mowared.sy.	0	IN	A	212.11.196.203
+mowared.sy.	0	IN	NS	ns1.mandoubi.sy.
+mowared.sy.	0	IN	NS	ns2.mandoubi.sy.
 mp.sy.	0	IN	NS	ns1.shamcenter.com.
 mp.sy.	0	IN	NS	ns2.shamcenter.com.
 mpay.sy.	0	IN	NS	ns1.pronet.sy.
