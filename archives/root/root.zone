@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022061502 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022061503 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -6914,7 +6914,7 @@ ns2.nic.ge.	0	IN	A	185.19.98.98
 gea.	0	IN	NS	a.dns.nic.gea.
 gea.	0	IN	NS	m.dns.nic.gea.
 gea.	0	IN	NS	n.dns.nic.gea.
-gea.	0	IN	DS	3445 7 2 d36bbe7ac9af0a4839c2c432822f626b26610d4cdbb1aefb841eba8dbe1f721f
+gea.	0	IN	DS	60191 8 2 62049b91e513b7230f960b356c6e70634af960efbfe5ddd4f33741a26b2583f0
 a.dns.nic.gea.	0	IN	A	194.0.25.33
 a.dns.nic.gea.	0	IN	AAAA	2001:678:20::33
 m.dns.nic.gea.	0	IN	A	194.0.26.13
@@ -15203,7 +15203,6 @@ sg.	0	IN	NS	pch.sgzones.sg.
 sg.	0	IN	NS	dsany.sgnic.sg.
 sg.	0	IN	NS	dsany2.sgnic.sg.
 sg.	0	IN	NS	dsany3.sgnic.sg.
-sg.	0	IN	DS	12164 8 2 6f6d69e69c30f89c42821439a424b3155a1ac573b5cd902b0be20dc7c82059a0
 sg.	0	IN	DS	46664 8 2 b9e9522b9e345fd54e73e8ebf3d3cfff9a09189fed03f5106d8ee3e345fb80b5
 dsany.sgnic.sg.	0	IN	A	120.29.253.11
 dsany.sgnic.sg.	0	IN	AAAA	2001:dcd:7::11
@@ -19038,7 +19037,6 @@ xn--clchc0ea0b2g2a9gcd.	0	IN	NS	pch.sgzones.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany2.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany3.sgnic.sg.
-xn--clchc0ea0b2g2a9gcd.	0	IN	DS	39581 8 2 b0d5c02493df56dbd95608e23ca16ebf54fd7057c227083075c5865a6acaff8e
 xn--clchc0ea0b2g2a9gcd.	0	IN	DS	48176 8 2 c1c692e8bb1ecab17a80c5829445d6301787a275b6091a95754c4ac9681fb50e
 xn--czr694b.	0	IN	NS	a.zdnscloud.com.
 xn--czr694b.	0	IN	NS	b.zdnscloud.com.
@@ -20045,7 +20043,6 @@ xn--yfro4i67o.	0	IN	NS	pch.sgzones.sg.
 xn--yfro4i67o.	0	IN	NS	dsany.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany2.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany3.sgnic.sg.
-xn--yfro4i67o.	0	IN	DS	41084 8 2 30e799a3afca3d9082c422241e9cdfa9b31f3914ebb0b26dd7c6efc0f82057e8
 xn--yfro4i67o.	0	IN	DS	52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
