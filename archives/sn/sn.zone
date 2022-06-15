@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448254 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448266 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [15/06/2022 14H00:01]"
+sn.	0	IN	TXT	"No RRs processed [15/06/2022 15H30:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1325,6 +1325,12 @@ alrahma.sn.	0	IN	NS	ns200.anycast.me.
 alrahma.sn.	0	IN	NS	dns200.anycast.me.
 als.sn.	0	IN	NS	ns6337.hostgator.com.
 als.sn.	0	IN	NS	ns6338.hostgator.com.
+alsenofarm.sn.	0	IN	NS	ns200.anycast.me.
+alsenofarm.sn.	0	IN	NS	dns200.anycast.me.
+alsenofarm.sn.	0	IN	DS	2644 8 2 c44ad61f934f5e541f9a7c5c92a241e51ae9bdff1a343a949ebe772088812e96
+alsenotech.sn.	0	IN	NS	ns200.anycast.me.
+alsenotech.sn.	0	IN	NS	dns200.anycast.me.
+alsenotech.sn.	0	IN	DS	46507 8 2 35946b7f9ff37f77903df665cc0a863d8dc35c23d00153f1c80b503789fec8b2
 alstom.sn.	0	IN	NS	ns2.observatoiredesmarques.fr.
 alstom.sn.	0	IN	NS	ns3.nameshield.net.
 alstom.sn.	0	IN	NS	obs.ns1.fr.
@@ -18576,6 +18582,12 @@ skillandyou.sn.	0	IN	NS	ns5.netim.net.
 skoda.sn.	0	IN	NS	isp2.viapraga.cz.
 skoda.sn.	0	IN	NS	skoda2.skoda-auto.cz.
 skoda.sn.	0	IN	NS	skoda3.skoda-auto.cz.
+skoda-auto.sn.	0	IN	NS	isp2.viapraga.cz.
+skoda-auto.sn.	0	IN	NS	skoda2.skoda-auto.cz.
+skoda-auto.sn.	0	IN	NS	skoda3.skoda-auto.cz.
+skodaauto.sn.	0	IN	NS	isp2.viapraga.cz.
+skodaauto.sn.	0	IN	NS	skoda2.skoda-auto.cz.
+skodaauto.sn.	0	IN	NS	skoda3.skoda-auto.cz.
 sky-vision.sn.	0	IN	NS	ns1.sky-vision.net.
 sky-vision.sn.	0	IN	NS	ns2.sky-vision.net.
 skycargo.sn.	0	IN	NS	ns3.emirates.com.
