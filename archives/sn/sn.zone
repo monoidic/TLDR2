@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448240 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448247 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [15/06/2022 11H50:01]"
+sn.	0	IN	TXT	"No RRs processed [15/06/2022 13H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -455,8 +455,6 @@ abitare.sn.	0	IN	NS	zac.ns.cloudflare.com.
 abitare.sn.	0	IN	NS	aleena.ns.cloudflare.com.
 abn.sn.	0	IN	NS	ns1.validname.com.
 abn.sn.	0	IN	NS	ns2.validname.com.
-abp.sn.	0	IN	NS	ns1.md-44.webhostbox.net.
-abp.sn.	0	IN	NS	ns2.md-44.webhostbox.net.
 abrilada.sn.	0	IN	NS	ns1.p15.dynect.net.
 abrilada.sn.	0	IN	NS	ns2.p15.dynect.net.
 abrilada.sn.	0	IN	NS	ns3.p15.dynect.net.
@@ -6771,8 +6769,6 @@ edulab-imt.sn.	0	IN	NS	c.ns.mailclub.com.
 edulabimt.sn.	0	IN	NS	a.ns.mailclub.fr.
 edulabimt.sn.	0	IN	NS	b.ns.mailclub.eu.
 edulabimt.sn.	0	IN	NS	c.ns.mailclub.com.
-edulogos.sn.	0	IN	NS	ns1.macaisse.sn.
-edulogos.sn.	0	IN	NS	ns2.macaisse.sn.
 edume.sn.	0	IN	NS	indom10.indomco.com.
 edume.sn.	0	IN	NS	indom20.indomco.net.
 edume.sn.	0	IN	NS	indom30.indomco.fr.
@@ -11526,8 +11522,6 @@ kitchenaid.sn.	0	IN	NS	ns2.whirlpool.com.
 kitchenpro.sn.	0	IN	NS	ns11.ovh.net.
 kitchenpro.sn.	0	IN	NS	dns11.ovh.net.
 kitchenpro.sn.	0	IN	DS	27094 8 2 38762e36599c31c153ed3a22376e073893150af6f7b0899c15767927cb4ecc53
-kittab.sn.	0	IN	NS	ns1.dns-parking.com.
-kittab.sn.	0	IN	NS	ns2.dns-parking.com.
 kiwi.sn.	0	IN	NS	ns200.anycast.me.
 kiwi.sn.	0	IN	NS	dns200.anycast.me.
 kiwi.sn.	0	IN	DS	26314 8 2 79af5d0fc764558fc233075cfb2654145de7988cb6d4df3fe7c0eeb25635e349
@@ -11862,6 +11856,10 @@ lalinguere.sn.	0	IN	NS	ns3.francedns.com.
 lalumiere.sn.	0	IN	NS	ns200.anycast.me.
 lalumiere.sn.	0	IN	NS	dns200.anycast.me.
 lalumiere.sn.	0	IN	DS	60949 8 2 7674790d8efff65fc8af502dd519134e28735a7567efbf15719abcafc921d581
+lamacom.sn.	0	IN	NS	ns11.ovh.net.
+lamacom.sn.	0	IN	NS	dns11.ovh.net.
+lamacom.sn.	0	IN	NS	ns200.anycast.me.
+lamacom.sn.	0	IN	NS	dns200.anycast.me.
 lamad.sn.	0	IN	NS	ns1.o2switch.net.
 lamad.sn.	0	IN	NS	ns2.o2switch.net.
 lamaisondubonheur.sn.	0	IN	NS	dns.medialook.net.
@@ -19272,8 +19270,6 @@ sportsdirect.sn.	0	IN	NS	ns5.netnames.net.
 sportsdirect.sn.	0	IN	NS	ns6.netnames.net.
 sportshowroom.sn.	0	IN	NS	hera.ns.cloudflare.com.
 sportshowroom.sn.	0	IN	NS	scott.ns.cloudflare.com.
-sporturbain.sn.	0	IN	NS	ns1.macaisse.sn.
-sporturbain.sn.	0	IN	NS	ns2.macaisse.sn.
 spotify.sn.	0	IN	NS	a.portsdns.se.
 spotify.sn.	0	IN	NS	b.portsdns.net.
 spps.sn.	0	IN	NS	ns1.o2switch.net.
@@ -21792,8 +21788,6 @@ wtsfaceafrica.sn.	0	IN	NS	ns1.kheweul.net.
 wtsfaceafrica.sn.	0	IN	NS	ns2.kheweul.net.
 wtsfaceafrica.sn.	0	IN	NS	ns3.kheweul.net.
 wtsfaceafrica.sn.	0	IN	NS	ns4.kheweul.net.
-wuroma.sn.	0	IN	NS	ns1.macaisse.sn.
-wuroma.sn.	0	IN	NS	ns2.macaisse.sn.
 wurus.sn.	0	IN	NS	ns1.francedns.com.
 wurus.sn.	0	IN	NS	ns2.francedns.com.
 wurus.sn.	0	IN	NS	ns3.francedns.com.
@@ -22020,7 +22014,6 @@ ymsta.sn.	0	IN	NS	dns110.ovh.net.
 ymsta.sn.	0	IN	DS	65089 8 2 3921b94f5bac977601fa15718fe8895c0ce9f0ba86684f6528d3246670a6775a
 ynho.sn.	0	IN	NS	ns17.ovh.net.
 ynho.sn.	0	IN	NS	dns17.ovh.net.
-yntechnologies.sn.	0	IN	NS	ns1.md-54.webhostbox.net.
 yobale.sn.	0	IN	NS	ns1.netim.net.
 yobale.sn.	0	IN	NS	ns2.netim.net.
 yobale.sn.	0	IN	NS	ns3.netim.net.
