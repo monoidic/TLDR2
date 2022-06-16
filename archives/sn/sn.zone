@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448380 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448385 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [16/06/2022 07H20:01]"
+sn.	0	IN	TXT	"No RRs processed [16/06/2022 08H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2900,9 +2900,6 @@ bioderma.sn.	0	IN	NS	ns2.perf1.fr.
 bioderma.sn.	0	IN	NS	ns3.perf1.eu.
 bioderma.sn.	0	IN	NS	ns4.perf1.de.
 bioderma.sn.	0	IN	NS	ns5.perf1.asia.
-bioetvrac.sn.	0	IN	NS	ns15.ovh.net.
-bioetvrac.sn.	0	IN	NS	dns15.ovh.net.
-bioetvrac.sn.	0	IN	DS	880 8 2 505ac68d0e4f133646ecfc8ad41c5f598ab8a9ef5f8dc90f7f1adcd108815b8b
 bioforce.sn.	0	IN	NS	ns.phpnet.org.
 bioforce.sn.	0	IN	NS	ns2.phpnet.org.
 biologique-recherche.sn.	0	IN	NS	ns5.afriregister.co.ke.
@@ -5513,8 +5510,8 @@ daroulhabibbi.sn.	0	IN	NS	ns2.contabo.net.
 daroulhabibbi.sn.	0	IN	NS	ns3.contabo.net.
 das.sn.	0	IN	NS	ns10.ovh.net.
 das.sn.	0	IN	NS	dns10.ovh.net.
-dash.sn.	0	IN	NS	ns200.anycast.me.
-dash.sn.	0	IN	NS	dns200.anycast.me.
+dash.sn.	0	IN	NS	ns15.ovh.net.
+dash.sn.	0	IN	NS	dns15.ovh.net.
 dash.sn.	0	IN	DS	39550 8 2 88b9048442d037a1edc94f151761cf5c14161660be5f90e747c5d6811d805990
 databeez.sn.	0	IN	NS	ns1.francedns.com.
 databeez.sn.	0	IN	NS	ns2.francedns.com.
