@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448400 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448406 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [16/06/2022 10H10:02]"
+sn.	0	IN	TXT	"2 RRs processed [16/06/2022 11H10:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2944,9 +2944,6 @@ biosen.sn.	0	IN	NS	dns200.anycast.me.
 biotek-agriculture.sn.	0	IN	NS	ns19.ovh.net.
 biotek-agriculture.sn.	0	IN	NS	dns19.ovh.net.
 biotek-agriculture.sn.	0	IN	DS	28645 8 2 7bf7db9c6559e9b003da0903de113e7a2d5616bfa61968fcabf252d239374778
-biovrac.sn.	0	IN	NS	ns15.ovh.net.
-biovrac.sn.	0	IN	NS	dns15.ovh.net.
-biovrac.sn.	0	IN	DS	22417 8 2 cf4208b74cc0420afcbd748793a381ea40b3387efb5f5fd1aca7ce697000ed65
 bipa.sn.	0	IN	NS	lee.ns.cloudflare.com.
 bipa.sn.	0	IN	NS	zita.ns.cloudflare.com.
 bipro.sn.	0	IN	NS	ns200.anycast.me.
@@ -5285,6 +5282,9 @@ daara.sn.	0	IN	DS	6115 8 2 bc996e7812936860f61ab94a9e2fc480f423fe5e5cf9b42e08898
 daaratech.sn.	0	IN	NS	ns200.anycast.me.
 daaratech.sn.	0	IN	NS	dns200.anycast.me.
 daaratech.sn.	0	IN	DS	33976 8 2 ac8299e744f01e85dae0942b746b1464adc0163d29687d5ff34adffc7d323cf4
+dabadoc.sn.	0	IN	NS	ns1.netim.net.
+dabadoc.sn.	0	IN	NS	ns2.netim.net.
+dabadoc.sn.	0	IN	NS	ns3.netim.net.
 dabakhvaisselles.sn.	0	IN	NS	ns1.kheweul.net.
 dabakhvaisselles.sn.	0	IN	NS	ns2.kheweul.net.
 dabakhvaisselles.sn.	0	IN	NS	ns3.kheweul.net.
@@ -10837,10 +10837,10 @@ jardindeden.sn.	0	IN	NS	dns2.namecheaphosting.com.
 jaxaay.sn.	0	IN	NS	ns1.contabo.net.
 jaxaay.sn.	0	IN	NS	ns2.contabo.net.
 jaxaay.sn.	0	IN	NS	ns3.contabo.net.
-jayal.sn.	0	IN	NS	ns1.wanekoohost.com.
-jayal.sn.	0	IN	NS	ns2.wanekoohost.com.
+jayal.sn.	0	IN	NS	ns3.wanekoohost.com.
 jayal.sn.	0	IN	NS	ns4.wanekoohost.com.
 jayal.sn.	0	IN	NS	ns5.wanekoohost.com.
+jayal.sn.	0	IN	NS	ns6.wanekoohost.com.
 jayale.sn.	0	IN	NS	ns1.wanekoohost.com.
 jayale.sn.	0	IN	NS	ns2.wanekoohost.com.
 jayale.sn.	0	IN	NS	ns4.wanekoohost.com.
@@ -14964,6 +14964,12 @@ orangefst.sn.	0	IN	NS	ns3.wanekoohost.com.
 orangefst.sn.	0	IN	NS	ns4.wanekoohost.com.
 orangefst.sn.	0	IN	NS	ns5.wanekoohost.com.
 orangefst.sn.	0	IN	NS	ns6.wanekoohost.com.
+orangehealth.sn.	0	IN	NS	ns1.netim.net.
+orangehealth.sn.	0	IN	NS	ns2.netim.net.
+orangehealth.sn.	0	IN	NS	ns3.netim.net.
+orangehealthcare.sn.	0	IN	NS	ns1.netim.net.
+orangehealthcare.sn.	0	IN	NS	ns2.netim.net.
+orangehealthcare.sn.	0	IN	NS	ns3.netim.net.
 orangemailpro.sn.	0	IN	NS	ns.sonatel.sn.
 orangemailpro.sn.	0	IN	NS	ns2.sonatel.sn.
 orangemoney.sn.	0	IN	NS	dns1.cscdns.net.
@@ -14972,6 +14978,9 @@ orangendamli.sn.	0	IN	NS	ns.sonatel.sn.
 orangendamli.sn.	0	IN	NS	ns2.sonatel.sn.
 orangeoffice.sn.	0	IN	NS	ns1.sonatel.sn.
 orangeoffice.sn.	0	IN	NS	ns2.sonatel.sn.
+orangesante.sn.	0	IN	NS	ns1.netim.net.
+orangesante.sn.	0	IN	NS	ns2.netim.net.
+orangesante.sn.	0	IN	NS	ns3.netim.net.
 orangesargal.sn.	0	IN	NS	ns.sonatel.sn.
 orangesargal.sn.	0	IN	NS	ns2.sonatel.sn.
 orangesengage.sn.	0	IN	NS	ns1.caurys.net.
@@ -19053,10 +19062,10 @@ sonacos.sn.	0	IN	NS	ns.sonatel.sn.
 sonacos.sn.	0	IN	NS	ns2.sonatel.sn.
 sonaged.sn.	0	IN	NS	ns1.caurys.net.
 sonaged.sn.	0	IN	NS	ns2.caurys.net.
-sonagroup.sn.	0	IN	NS	ns1.wanekoohost.com.
-sonagroup.sn.	0	IN	NS	ns2.wanekoohost.com.
+sonagroup.sn.	0	IN	NS	ns3.wanekoohost.com.
 sonagroup.sn.	0	IN	NS	ns4.wanekoohost.com.
 sonagroup.sn.	0	IN	NS	ns5.wanekoohost.com.
+sonagroup.sn.	0	IN	NS	ns6.wanekoohost.com.
 sonam.sn.	0	IN	NS	ns16.ovh.net.
 sonam.sn.	0	IN	NS	dns16.ovh.net.
 sonamassurances.sn.	0	IN	NS	ns.kimsufi.com.
@@ -19404,9 +19413,6 @@ stcc-ssi.sn.	0	IN	NS	ns2.sonatel.sn.
 stellantis.sn.	0	IN	NS	ns1.gandi.net.
 stellantis.sn.	0	IN	NS	ns2.gandi.net.
 stellantis.sn.	0	IN	NS	ns3.gandi.net.
-step.sn.	0	IN	NS	ns15.ovh.net.
-step.sn.	0	IN	NS	dns15.ovh.net.
-step.sn.	0	IN	DS	40810 8 2 c063deffc4026fc0748adbb8f84501b0c90d303c4d27f23e81a83aa9645c8084
 sti.sn.	0	IN	NS	ns1.cp-ht-11.webhostbox.net.
 sti.sn.	0	IN	NS	ns2.cp-ht-11.webhostbox.net.
 stodal.sn.	0	IN	NS	dns1.cscdns.net.
