@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448385 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448395 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [16/06/2022 08H00:01]"
+sn.	0	IN	TXT	"No RRs processed [16/06/2022 09H30:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7987,6 +7987,9 @@ finama.sn.	0	IN	NS	ns01.afriregister.com.
 finama.sn.	0	IN	DS	63880 8 2 8d3d0dae4c67cab26d2a8338258912c7a6cde13851272afac0f11e12feafb679
 finamark.sn.	0	IN	NS	ns105.ovh.net.
 finamark.sn.	0	IN	NS	dns105.ovh.net.
+financementfodem.sn.	0	IN	NS	ns1.francedns.com.
+financementfodem.sn.	0	IN	NS	ns2.francedns.com.
+financementfodem.sn.	0	IN	NS	ns3.francedns.com.
 financium.sn.	0	IN	NS	ns20.ovh.net.
 financium.sn.	0	IN	NS	dns20.ovh.net.
 financium.sn.	0	IN	DS	54679 8 2 cb6039f137c41a381b62800a49db9374cd99ae078f1f6521d1500781f1963ab8
@@ -8530,9 +8533,6 @@ gazpro.sn.	0	IN	NS	ns1.kheweul.net.
 gazpro.sn.	0	IN	NS	ns2.kheweul.net.
 gazpro.sn.	0	IN	NS	ns3.kheweul.net.
 gazpro.sn.	0	IN	NS	ns4.kheweul.net.
-gbc.sn.	0	IN	NS	ns15.ovh.net.
-gbc.sn.	0	IN	NS	dns15.ovh.net.
-gbc.sn.	0	IN	DS	45766 8 2 fe71b51c5b9f5cc8f6f1e710e62953e517931c7899e3934752e380bd64fc01c3
 gbht.sn.	0	IN	NS	ns200.anycast.me.
 gbht.sn.	0	IN	NS	dns200.anycast.me.
 gbht.sn.	0	IN	DS	20161 8 2 012f8f5298b9b5c0f19620c9d4962ff48488eba97b28f9755c519543ad045805
