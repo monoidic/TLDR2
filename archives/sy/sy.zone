@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061618 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061621 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1655368333"
+sy.	0	IN	TXT	"Generation Time: 1655377344"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -933,6 +933,11 @@ almasarrah.sy.	0	IN	NS	suspend1.tld.sy.
 almasarrah.sy.	0	IN	NS	suspend2.tld.sy.
 almashhad-souq.sy.	0	IN	NS	suspend1.tld.sy.
 almashhad-souq.sy.	0	IN	NS	suspend2.tld.sy.
+almashhadani-trading.sy.	0	IN	NS	ns1.ucg-core.com.
+almashhadani-trading.sy.	0	IN	NS	ns4.ucg-core.com.
+almashhadani-trading.sy.	0	IN	NS	ns11.ucg-core.com.
+almashhadani-trading.sy.	0	IN	NS	ns51.uae-dc.com.
+almashhadani-trading.sy.	0	IN	NS	ns54.uae-dc.com.
 almashreq-edu.sy.	0	IN	NS	suspend1.tld.sy.
 almashreq-edu.sy.	0	IN	NS	suspend2.tld.sy.
 almasri.sy.	0	IN	NS	suspend1.tld.sy.
@@ -2799,8 +2804,10 @@ emarindustries.sy.	0	IN	NS	suspend1.tld.sy.
 emarindustries.sy.	0	IN	NS	suspend2.tld.sy.
 embas.sy.	0	IN	NS	suspend1.tld.sy.
 embas.sy.	0	IN	NS	suspend2.tld.sy.
-emec-syria.sy.	0	IN	NS	suspend1.tld.sy.
-emec-syria.sy.	0	IN	NS	suspend2.tld.sy.
+emec-syria.sy.	0	IN	NS	ns1.scs-net.sy.
+emec-syria.sy.	0	IN	NS	ns1.scs-net.org.
+emec-syria.sy.	0	IN	NS	ns2.scs-net.sy.
+emec-syria.sy.	0	IN	NS	ns2.scs-net.org.
 emeg.sy.	0	IN	NS	ns1.alanqaa.com.
 emeg.sy.	0	IN	NS	ns2.alanqaa.com.
 emessalabs.sy.	0	IN	NS	suspend1.tld.sy.
@@ -3978,11 +3985,8 @@ jobly.sy.	0	IN	NS	suspend1.tld.sy.
 jobly.sy.	0	IN	NS	suspend2.tld.sy.
 jobs.sy.	0	IN	NS	suspend1.tld.sy.
 jobs.sy.	0	IN	NS	suspend2.tld.sy.
-john.sy.	0	IN	NS	ns1.ucg-core.com.
-john.sy.	0	IN	NS	ns4.ucg-core.com.
-john.sy.	0	IN	NS	ns11.ucg-core.com.
-john.sy.	0	IN	NS	ns51.uae-dc.com.
-john.sy.	0	IN	NS	ns54.uae-dc.com.
+john.sy.	0	IN	NS	suspend1.tld.sy.
+john.sy.	0	IN	NS	suspend2.tld.sy.
 jomwasap.sy.	0	IN	NS	suspend1.tld.sy.
 jomwasap.sy.	0	IN	NS	suspend2.tld.sy.
 jonaid-co.sy.	0	IN	NS	suspend1.tld.sy.
@@ -6143,10 +6147,8 @@ scit.sy.	0	IN	NS	ns3.tld.sy.
 scit.sy.	0	IN	NS	ns4.tld.sy.
 scitcoo.sy.	0	IN	NS	suspend1.tld.sy.
 scitcoo.sy.	0	IN	NS	suspend2.tld.sy.
-scltd.sy.	0	IN	NS	ns1.scltd.sy.
-scltd.sy.	0	IN	NS	ns2.scltd.sy.
-ns1.scltd.sy.	0	IN	A	82.137.234.91
-ns2.scltd.sy.	0	IN	A	82.137.234.92
+scltd.sy.	0	IN	NS	suspend1.tld.sy.
+scltd.sy.	0	IN	NS	suspend2.tld.sy.
 sco-me.sy.	0	IN	NS	ns1.scs-net.sy.
 sco-me.sy.	0	IN	NS	ns1.scs-net.org.
 sco-me.sy.	0	IN	NS	ns2.scs-net.sy.
@@ -7050,6 +7052,11 @@ talabati.sy.	0	IN	NS	suspend1.tld.sy.
 talabati.sy.	0	IN	NS	suspend2.tld.sy.
 talabatuna.sy.	0	IN	NS	suspend1.tld.sy.
 talabatuna.sy.	0	IN	NS	suspend2.tld.sy.
+talaj-trading.sy.	0	IN	NS	ns1.ucg-core.com.
+talaj-trading.sy.	0	IN	NS	ns4.ucg-core.com.
+talaj-trading.sy.	0	IN	NS	ns11.ucg-core.com.
+talaj-trading.sy.	0	IN	NS	ns51.uae-dc.com.
+talaj-trading.sy.	0	IN	NS	ns54.uae-dc.com.
 talalco.sy.	0	IN	NS	ns1.waveshost.sy.
 talalco.sy.	0	IN	NS	ns2.waveshost.sy.
 tale3aa-pr.sy.	0	IN	NS	suspend1.tld.sy.
@@ -7658,6 +7665,8 @@ xfbiranclh.sy.	0	IN	NS	julio.ns.cloudflare.com.
 xfbiranclh.sy.	0	IN	NS	tricia.ns.cloudflare.com.
 xj.sy.	0	IN	NS	dom.ns.cloudflare.com.
 xj.sy.	0	IN	NS	harleigh.ns.cloudflare.com.
+xkd.sy.	0	IN	NS	erin.ns.cloudflare.com.
+xkd.sy.	0	IN	NS	cartman.ns.cloudflare.com.
 xr.sy.	0	IN	NS	ns1.dan.com.
 xr.sy.	0	IN	NS	ns2.dan.com.
 xs.sy.	0	IN	NS	suspend1.tld.sy.

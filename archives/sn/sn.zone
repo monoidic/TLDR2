@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448413 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448422 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [16/06/2022 12H00:01]"
+sn.	0	IN	TXT	"2 RRs processed [16/06/2022 13H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1667,8 +1667,6 @@ api.sn.	0	IN	NS	ns3.kheweul.net.
 api.sn.	0	IN	NS	ns4.kheweul.net.
 apiafrique.sn.	0	IN	NS	ns16.ovh.net.
 apiafrique.sn.	0	IN	NS	dns16.ovh.net.
-apil.sn.	0	IN	NS	ns109.ovh.net.
-apil.sn.	0	IN	NS	dns109.ovh.net.
 apis2m.sn.	0	IN	NS	ns.sonatel.sn.
 apis2m.sn.	0	IN	NS	ns2.sonatel.sn.
 apix.sn.	0	IN	NS	ns.apix.sn.
@@ -4189,18 +4187,10 @@ cheveuxnaturels.sn.	0	IN	NS	ns6.wanekoohost.com.
 chevrolet.sn.	0	IN	NS	ns200.anycast.me.
 chevrolet.sn.	0	IN	NS	dns200.anycast.me.
 chevrolet.sn.	0	IN	DS	45040 8 2 03af9cef027940a9833dacd121485da03e3b0ddf53f35dc2dae74ecef9c2ccdd
-chez-moi.sn.	0	IN	NS	ns3.wanekoohost.com.
-chez-moi.sn.	0	IN	NS	ns4.wanekoohost.com.
-chez-moi.sn.	0	IN	NS	ns5.wanekoohost.com.
-chez-moi.sn.	0	IN	NS	ns6.wanekoohost.com.
 chezfamasa.sn.	0	IN	NS	ns1.ascio.com.
 chezfamasa.sn.	0	IN	NS	ns2.ascio.com.
 chezfamasa.sn.	0	IN	NS	ns3.ascio.com.
 chezfamasa.sn.	0	IN	NS	ns4.ascio.com.
-chezmoi.sn.	0	IN	NS	ns1.wanekoohost.com.
-chezmoi.sn.	0	IN	NS	ns2.wanekoohost.com.
-chezmoi.sn.	0	IN	NS	ns4.wanekoohost.com.
-chezmoi.sn.	0	IN	NS	ns5.wanekoohost.com.
 chic.sn.	0	IN	NS	ns1.kheweul.net.
 chic.sn.	0	IN	NS	ns2.kheweul.net.
 chic.sn.	0	IN	NS	ns3.kheweul.net.
@@ -6508,10 +6498,10 @@ easydoct.sn.	0	IN	NS	ns4.ascio.com.
 easyinsurance.sn.	0	IN	NS	ns3.netim.net.
 easyinsurance.sn.	0	IN	NS	mrozia.mtds.com.
 easyinsurance.sn.	0	IN	NS	rfissa.mtds.com.
-easymoney.sn.	0	IN	NS	ns1.wanekoohost.com.
-easymoney.sn.	0	IN	NS	ns2.wanekoohost.com.
+easymoney.sn.	0	IN	NS	ns3.wanekoohost.com.
 easymoney.sn.	0	IN	NS	ns4.wanekoohost.com.
 easymoney.sn.	0	IN	NS	ns5.wanekoohost.com.
+easymoney.sn.	0	IN	NS	ns6.wanekoohost.com.
 easypm.sn.	0	IN	NS	ns1.o2switch.net.
 easypm.sn.	0	IN	NS	ns2.o2switch.net.
 easypouss.sn.	0	IN	NS	ns16.ovh.net.
@@ -10923,10 +10913,10 @@ jeudemots.sn.	0	IN	NS	ns3.kheweul.net.
 jeudemots.sn.	0	IN	NS	ns4.kheweul.net.
 jiatel.sn.	0	IN	NS	dns31.servidoresdns.net.
 jiatel.sn.	0	IN	NS	dns32.servidoresdns.net.
-jifaa.sn.	0	IN	NS	ns1.wanekoohost.com.
-jifaa.sn.	0	IN	NS	ns2.wanekoohost.com.
+jifaa.sn.	0	IN	NS	ns3.wanekoohost.com.
 jifaa.sn.	0	IN	NS	ns4.wanekoohost.com.
 jifaa.sn.	0	IN	NS	ns5.wanekoohost.com.
+jifaa.sn.	0	IN	NS	ns6.wanekoohost.com.
 jiji.sn.	0	IN	NS	ara.ns.cloudflare.com.
 jiji.sn.	0	IN	NS	tom.ns.cloudflare.com.
 jimproductions.sn.	0	IN	NS	ns1.kheweul.net.
@@ -16695,10 +16685,6 @@ rimsenegal.sn.	0	IN	NS	ns.arc.sn.
 rimsenegal.sn.	0	IN	NS	ns3.arc.sn.
 ringier.sn.	0	IN	NS	cleo.ns.cloudflare.com.
 ringier.sn.	0	IN	NS	imani.ns.cloudflare.com.
-ris-alwahda.sn.	0	IN	NS	ns1.afrowebmaster.com.
-ris-alwahda.sn.	0	IN	NS	ns2.afrowebmaster.com.
-ris-alwahda.sn.	0	IN	NS	ns3.afrowebmaster.com.
-ris-alwahda.sn.	0	IN	NS	ns4.afrowebmaster.com.
 riso.sn.	0	IN	NS	rns1.rightsdns.com.
 riso.sn.	0	IN	NS	rns2.rightsdns.com.
 ritchielist.sn.	0	IN	NS	ns1.101domain.com.
@@ -17432,8 +17418,6 @@ secufoudre.sn.	0	IN	NS	ns.sonatel.sn.
 secufoudre.sn.	0	IN	NS	ns2.sonatel.sn.
 secumed.sn.	0	IN	NS	usm11.noc41.com.
 secumed.sn.	0	IN	NS	usm12.noc41.com.
-securimex.sn.	0	IN	NS	ns1.o2switch.net.
-securimex.sn.	0	IN	NS	ns2.o2switch.net.
 securisk.sn.	0	IN	NS	ns1.cloudns.io.
 securisk.sn.	0	IN	NS	ns2.cloudns.io.
 securite-asc.sn.	0	IN	NS	ns14.ovh.net.
@@ -19509,10 +19493,6 @@ sunubudget.sn.	0	IN	NS	ns1.kheweul.net.
 sunubudget.sn.	0	IN	NS	ns2.kheweul.net.
 sunubudget.sn.	0	IN	NS	ns3.kheweul.net.
 sunubudget.sn.	0	IN	NS	ns4.kheweul.net.
-sunucity.sn.	0	IN	NS	ns1.afrowebmaster.com.
-sunucity.sn.	0	IN	NS	ns2.afrowebmaster.com.
-sunucity.sn.	0	IN	NS	ns3.afrowebmaster.com.
-sunucity.sn.	0	IN	NS	ns4.afrowebmaster.com.
 sunucmu.sn.	0	IN	NS	ns11.infomaniak.ch.
 sunucmu.sn.	0	IN	NS	ns12.infomaniak.ch.
 sunucommerce.sn.	0	IN	NS	ns1.psej.net.
@@ -20153,10 +20133,6 @@ tersea.sn.	0	IN	NS	dns107.ovh.net.
 tersea.sn.	0	IN	DS	22234 8 2 920397d285f2459e1da184f04c5016bfc09870975e508c571506d2df21590b78
 tes.sn.	0	IN	NS	ns1.cloudns.io.
 tes.sn.	0	IN	NS	ns2.cloudns.io.
-test.sn.	0	IN	NS	ns1.afrowebmaster.com.
-test.sn.	0	IN	NS	ns2.afrowebmaster.com.
-test.sn.	0	IN	NS	ns3.afrowebmaster.com.
-test.sn.	0	IN	NS	ns4.afrowebmaster.com.
 test15052018.sn.	0	IN	NS	ns3.nic.fr.
 testingsolutions.sn.	0	IN	NS	ns113.ovh.net.
 testingsolutions.sn.	0	IN	NS	dns113.ovh.net.
