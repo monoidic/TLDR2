@@ -1,10 +1,10 @@
-mg.	0	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061709 600 3600 604800 86400
+mg.	0	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022061710 600 3600 604800 86400
 mg.	0	IN	NS	ns.dts.mg.
 mg.	0	IN	NS	ns.nic.mg.
 mg.	0	IN	NS	pch.nic.mg.
 mg.	0	IN	NS	ns-mg.malagasy.com.
 mg.	0	IN	NS	censvrns0001.ird.fr.
-mg.	0	IN	TXT	"Generation Time: 1655456426"
+mg.	0	IN	TXT	"Generation Time: 1655460035"
 00.mg.	0	IN	NS	gns1.cloudns.net.
 00.mg.	0	IN	NS	gns2.cloudns.net.
 00.mg.	0	IN	NS	gns3.cloudns.net.
@@ -6156,8 +6156,10 @@ litchiico.mg.	0	IN	NS	ns.tgn.mg.
 litchiico.mg.	0	IN	NS	ns1.tgn.mg.
 litetech-info.mg.	0	IN	NS	dns1.indritech.biz.
 litetech-info.mg.	0	IN	NS	dns2.indritech.biz.
-lits.mg.	0	IN	NS	ns1.gasyweb.com.
-lits.mg.	0	IN	NS	ns2.gasyweb.com.
+lits.mg.	0	IN	NS	ns1.lits.mg.
+lits.mg.	0	IN	NS	ns2.lits.mg.
+ns1.lits.mg.	0	IN	A	135.181.197.181
+ns2.lits.mg.	0	IN	A	135.181.197.181
 liugong.mg.	0	IN	NS	ns1.icp100.net.
 liugong.mg.	0	IN	NS	ns2.icp100.net.
 livewithconfidence.mg.	0	IN	NS	ns1.lexsynergy.net.
