@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448595 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448601 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [17/06/2022 13H00:01]"
+sn.	0	IN	TXT	"4 RRs processed [17/06/2022 14H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7659,6 +7659,10 @@ facebook.sn.	0	IN	NS	ns1.lovellsnames.org.
 facebook.sn.	0	IN	NS	ns2.lovellsnames.org.
 facebook.sn.	0	IN	NS	ns3.lovellsnames.org.
 facebook.sn.	0	IN	NS	ns4.lovellsnames.org.
+facilitas.sn.	0	IN	NS	ns1.kheweul.net.
+facilitas.sn.	0	IN	NS	ns2.kheweul.net.
+facilitas.sn.	0	IN	NS	ns3.kheweul.net.
+facilitas.sn.	0	IN	NS	ns4.kheweul.net.
 fadelagro.sn.	0	IN	NS	eisdns1.expertis.sn.
 fadelagro.sn.	0	IN	NS	eisdns2.expertis.sn.
 fadiou.sn.	0	IN	NS	ns1.netim.net.
@@ -14014,6 +14018,8 @@ myoffice.sn.	0	IN	NS	ns1.ascio.com.
 myoffice.sn.	0	IN	NS	ns2.ascio.com.
 myoffice.sn.	0	IN	NS	ns3.ascio.com.
 myoffice.sn.	0	IN	NS	ns4.ascio.com.
+mypolykrome.sn.	0	IN	NS	ns200.anycast.me.
+mypolykrome.sn.	0	IN	NS	dns200.anycast.me.
 myscool.sn.	0	IN	NS	ns8.jajeuf.com.
 myscool.sn.	0	IN	NS	ns9.jajeuf.com.
 myscool.sn.	0	IN	DS	13652 1 1 47151914bc2c4afcaa317abc0abff9f26f2d69e6
@@ -22139,9 +22145,6 @@ yup.sn.	0	IN	NS	tigdns01.socgen.com.
 yup.sn.	0	IN	NS	tigdns02.socgen.com.
 yup.sn.	0	IN	NS	tigdns05.socgen.com.
 yup.sn.	0	IN	NS	tigdns06.socgen.com.
-yusew.sn.	0	IN	NS	ns106.ovh.net.
-yusew.sn.	0	IN	NS	dns106.ovh.net.
-yusew.sn.	0	IN	DS	54784 8 2 96167377880e95e75f92afeb3a7bab86a36d839650285303e67a17172c220a09
 yusuke.sn.	0	IN	NS	ns-23-a.gandi.net.
 yusuke.sn.	0	IN	NS	ns-37-c.gandi.net.
 yusuke.sn.	0	IN	NS	ns-251-b.gandi.net.
