@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448601 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448612 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"4 RRs processed [17/06/2022 14H00:02]"
+sn.	0	IN	TXT	"No RRs processed [17/06/2022 15H20:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14020,6 +14020,7 @@ myoffice.sn.	0	IN	NS	ns3.ascio.com.
 myoffice.sn.	0	IN	NS	ns4.ascio.com.
 mypolykrome.sn.	0	IN	NS	ns200.anycast.me.
 mypolykrome.sn.	0	IN	NS	dns200.anycast.me.
+mypolykrome.sn.	0	IN	DS	30661 8 2 c534d0d7b98658479dc13b0fc5c1b3605b0b612bcd38b82fc15300a45b363bb0
 myscool.sn.	0	IN	NS	ns8.jajeuf.com.
 myscool.sn.	0	IN	NS	ns9.jajeuf.com.
 myscool.sn.	0	IN	DS	13652 1 1 47151914bc2c4afcaa317abc0abff9f26f2d69e6
