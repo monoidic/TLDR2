@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448630 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448639 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [17/06/2022 18H00:02]"
+sn.	0	IN	TXT	"No RRs processed [17/06/2022 19H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3916,8 +3916,9 @@ ccist.sn.	0	IN	NS	ns1.kheweul.net.
 ccist.sn.	0	IN	NS	ns2.kheweul.net.
 ccist.sn.	0	IN	NS	ns3.kheweul.net.
 ccist.sn.	0	IN	NS	ns4.kheweul.net.
-ccjas.sn.	0	IN	NS	ns111.ovh.net.
-ccjas.sn.	0	IN	NS	dns111.ovh.net.
+ccjas.sn.	0	IN	NS	ns200.anycast.me.
+ccjas.sn.	0	IN	NS	dns200.anycast.me.
+ccjas.sn.	0	IN	DS	35971 8 2 70b8a7df1465e2ce102630d68171c13b2ffc032c8e0c9ae3fb0001981264d727
 cco.sn.	0	IN	NS	ns10.ovh.net.
 cco.sn.	0	IN	NS	dns10.ovh.net.
 cco.sn.	0	IN	DS	58774 8 2 5379ae01eab065a5b1ae1f3e3351ba299567a7c11a185639a393ab4acb254910
@@ -14106,7 +14107,7 @@ navetane.sn.	0	IN	NS	dns105.ovh.net.
 navetane.sn.	0	IN	DS	52207 8 2 8afc52760baba8281ad2350839c6ae46f0f57631cb66c60f9c39a98aec570ebd
 navitec.sn.	0	IN	NS	ns16.ovh.net.
 navitec.sn.	0	IN	NS	dns16.ovh.net.
-navitec.sn.	0	IN	DS	27835 8 2 ff30531e25eb895dd793dd5b4ba1a8c89c0e494cf9ac373102730f12b32694e4
+navitec.sn.	0	IN	DS	5947 8 2 87d2eb0e952f0ad867ad1b1fbb256eda2ef2b94107b7bb8567994dd1c23f88b7
 nayo.sn.	0	IN	NS	ns1.caurys.net.
 nayo.sn.	0	IN	NS	ns2.caurys.net.
 nbaacademy.sn.	0	IN	NS	ns40.nba.com.
@@ -17823,7 +17824,7 @@ senegalphotography.sn.	0	IN	NS	ns19.ovh.net.
 senegalphotography.sn.	0	IN	NS	dns19.ovh.net.
 senegalpme.sn.	0	IN	NS	ns14.ovh.net.
 senegalpme.sn.	0	IN	NS	dns14.ovh.net.
-senegalpme.sn.	0	IN	DS	10639 8 2 3015dd804ecc738ee4fa62ce8839a4aea9c63419337ce37e6c0a5e983586a92c
+senegalpme.sn.	0	IN	DS	28369 8 2 b5bfba7592808fb281e5e6c8e6fbf9063ba7d53c595215895e4e9e267fb74140
 senegalraidevasion.sn.	0	IN	NS	ns1.kheweul.net.
 senegalraidevasion.sn.	0	IN	NS	ns2.kheweul.net.
 senegalraidevasion.sn.	0	IN	NS	ns3.kheweul.net.
