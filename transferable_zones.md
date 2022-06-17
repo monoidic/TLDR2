@@ -24,6 +24,7 @@
 * `kg.` via `ns2.kg.`: [Click here to view zone data.](archives/kg/kg.zone)
 * `mg.` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/mg.zone)
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
+* `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `sn.` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/sn/sn.zone)
@@ -33,3 +34,4 @@
 * `xn--mgbai9azgqp6j.` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/xn--mgbai9azgqp6j.zone)
 * `xn--ogbpf8fl.` via `ns1.tld.sy.`: [Click here to view zone data.](archives/xn--ogbpf8fl/xn--ogbpf8fl.zone)
 * `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
+* `xn--ygbi2ammx.` via `ns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
