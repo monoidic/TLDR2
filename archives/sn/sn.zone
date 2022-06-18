@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448813 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222448820 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [18/06/2022 19H10:02]"
+sn.	0	IN	TXT	"2 RRs processed [18/06/2022 20H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5501,9 +5501,6 @@ daroulhabibbi.sn.	0	IN	NS	ns2.contabo.net.
 daroulhabibbi.sn.	0	IN	NS	ns3.contabo.net.
 das.sn.	0	IN	NS	ns10.ovh.net.
 das.sn.	0	IN	NS	dns10.ovh.net.
-dash.sn.	0	IN	NS	ns15.ovh.net.
-dash.sn.	0	IN	NS	dns15.ovh.net.
-dash.sn.	0	IN	DS	39550 8 2 88b9048442d037a1edc94f151761cf5c14161660be5f90e747c5d6811d805990
 databeez.sn.	0	IN	NS	ns1.francedns.com.
 databeez.sn.	0	IN	NS	ns2.francedns.com.
 databeez.sn.	0	IN	NS	ns3.francedns.com.
@@ -5782,6 +5779,8 @@ di.sn.	0	IN	NS	orns01.dig.com.
 di.sn.	0	IN	NS	orns02.dig.com.
 di.sn.	0	IN	NS	sens01.dig.com.
 di.sn.	0	IN	NS	sens02.dig.com.
+diaary.sn.	0	IN	NS	ns9.jajeuf.com.
+diaary.sn.	0	IN	NS	ns10.jajeuf.com.
 diaba.sn.	0	IN	NS	ns1.cloudns.io.
 diaba.sn.	0	IN	NS	ns2.cloudns.io.
 diabos.sn.	0	IN	NS	ns108.ovh.net.
