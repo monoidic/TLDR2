@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061912 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022061915 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1655614937"
+sy.	0	IN	TXT	"Generation Time: 1655622141"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -1743,8 +1743,8 @@ bcloud.sy.	0	IN	NS	ns1.veesp.com.
 bcloud.sy.	0	IN	NS	ns2.veesp.com.
 bec.sy.	0	IN	NS	suspend1.tld.sy.
 bec.sy.	0	IN	NS	suspend2.tld.sy.
-beeorder.sy.	0	IN	NS	ns3.tld.sy.
-beeorder.sy.	0	IN	NS	ns4.tld.sy.
+beeorder.sy.	0	IN	NS	mira.ns.cloudflare.com.
+beeorder.sy.	0	IN	NS	piers.ns.cloudflare.com.
 behady-co.sy.	0	IN	NS	suspend1.tld.sy.
 behady-co.sy.	0	IN	NS	suspend2.tld.sy.
 bel.sy.	0	IN	NS	ns1.damashost.com.
@@ -6142,8 +6142,10 @@ scit.sy.	0	IN	NS	ns3.tld.sy.
 scit.sy.	0	IN	NS	ns4.tld.sy.
 scitcoo.sy.	0	IN	NS	suspend1.tld.sy.
 scitcoo.sy.	0	IN	NS	suspend2.tld.sy.
-scltd.sy.	0	IN	NS	suspend1.tld.sy.
-scltd.sy.	0	IN	NS	suspend2.tld.sy.
+scltd.sy.	0	IN	NS	ns1.scltd.sy.
+scltd.sy.	0	IN	NS	ns2.scltd.sy.
+ns1.scltd.sy.	0	IN	A	82.137.234.91
+ns2.scltd.sy.	0	IN	A	82.137.234.92
 sco-me.sy.	0	IN	NS	ns1.scs-net.sy.
 sco-me.sy.	0	IN	NS	ns1.scs-net.org.
 sco-me.sy.	0	IN	NS	ns2.scs-net.sy.
