@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449139 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449147 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"3 RRs processed [20/06/2022 17H00:01]"
+sn.	0	IN	TXT	"No RRs processed [20/06/2022 18H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8459,9 +8459,8 @@ gaite.sn.	0	IN	NS	dns88.unilever.com.
 gaite.sn.	0	IN	NS	dns91.unilever.com.
 gaitsimmo.sn.	0	IN	NS	ns1.servconfig.com.
 gaitsimmo.sn.	0	IN	NS	ns2.servconfig.com.
-galaxyarena.sn.	0	IN	NS	ns1.wanekoohost.com.
-galaxyarena.sn.	0	IN	NS	ns2.wanekoohost.com.
 galaxyarena.sn.	0	IN	NS	ns3.wanekoohost.com.
+galaxyarena.sn.	0	IN	NS	ns4.wanekoohost.com.
 galaxyarena.sn.	0	IN	NS	ns5.wanekoohost.com.
 galaxyarena.sn.	0	IN	NS	ns6.wanekoohost.com.
 galaxyarenas.sn.	0	IN	NS	ns1.francedns.com.
@@ -13609,6 +13608,9 @@ mobilitedurable.sn.	0	IN	NS	ns2.efedus.com.
 mobility.sn.	0	IN	NS	ns15.ovh.net.
 mobility.sn.	0	IN	NS	dns15.ovh.net.
 mobility.sn.	0	IN	DS	64987 8 2 f7bef4304a50b52a7721bd6225b2cc4c269c7ec824611c224fb96661e7680c12
+mobility-africa.sn.	0	IN	NS	ns200.anycast.me.
+mobility-africa.sn.	0	IN	NS	dns200.anycast.me.
+mobility-africa.sn.	0	IN	DS	46267 8 2 c43773c86b448474b096b4f8aae4918c3411a7950dcbbf9eb5b7ab7de1513472
 moc-ong3d.sn.	0	IN	NS	ns200.anycast.me.
 moc-ong3d.sn.	0	IN	NS	dns200.anycast.me.
 moc-ong3d.sn.	0	IN	DS	43255 8 2 3bb4c35e78a5f61d7cd51a6f8b9375e836efcf2c0bccadd89d53a274d3ead8e1
