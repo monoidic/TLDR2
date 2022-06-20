@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449190 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449196 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [21/06/2022 00H00:02]"
+sn.	0	IN	TXT	"No RRs processed [21/06/2022 01H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4639,6 +4639,9 @@ coinhub.sn.	0	IN	NS	ns1.icp100.net.
 coinhub.sn.	0	IN	NS	ns2.icp100.net.
 coinme.sn.	0	IN	NS	ns1.101domain.com.
 coinme.sn.	0	IN	NS	ns2.101domain.com.
+coinmedical.sn.	0	IN	NS	ns111.ovh.net.
+coinmedical.sn.	0	IN	NS	dns111.ovh.net.
+coinmedical.sn.	0	IN	DS	21514 8 2 03aea71dc33b7f0e712265df488a17416333933dbfa545813f4e3ccfdfd720a9
 coinrule.sn.	0	IN	NS	ns1.101domain.com.
 coinrule.sn.	0	IN	NS	ns2.101domain.com.
 cola.sn.	0	IN	NS	ursula.ns.cloudflare.com.
@@ -16382,6 +16385,9 @@ radiofutursmedias.sn.	0	IN	NS	dns20.ovh.net.
 radiofutursmedias.sn.	0	IN	DS	56995 8 2 fea71bf384cc48813897d45bf116fc026c17a6dd0c67139e9e7b44f67b5408f9
 radiologuesassocies.sn.	0	IN	NS	ns2.wixdns.net.
 radiologuesassocies.sn.	0	IN	NS	ns3.wixdns.net.
+radiomusik.sn.	0	IN	NS	ns200.anycast.me.
+radiomusik.sn.	0	IN	NS	dns200.anycast.me.
+radiomusik.sn.	0	IN	DS	59194 8 2 037d674454e4e569eaa163cddac0b9b226d794095c95298eab30cc4123b88faa
 radisson.sn.	0	IN	NS	ns1.markmonitor.com.
 radisson.sn.	0	IN	NS	ns3.markmonitor.com.
 radisson.sn.	0	IN	NS	ns4.markmonitor.com.
