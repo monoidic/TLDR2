@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449294 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449305 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [21/06/2022 13H50:01]"
+sn.	0	IN	TXT	"No RRs processed [21/06/2022 15H30:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1496,6 +1496,8 @@ amsmusic.sn.	0	IN	NS	ns3.kheweul.net.
 amsmusic.sn.	0	IN	NS	ns4.kheweul.net.
 amstechnologies.sn.	0	IN	NS	ns.sonatel.sn.
 amstechnologies.sn.	0	IN	NS	ns2.sonatel.sn.
+amsu.sn.	0	IN	NS	ns1.caurys.net.
+amsu.sn.	0	IN	NS	ns2.caurys.net.
 amyfashion.sn.	0	IN	NS	ns1.caurys.net.
 amyfashion.sn.	0	IN	NS	ns2.caurys.net.
 amyrel.sn.	0	IN	NS	ns100.ovh.net.
@@ -1514,10 +1516,10 @@ anais.sn.	0	IN	NS	ns1.caurys.net.
 anais.sn.	0	IN	NS	ns2.caurys.net.
 anam.sn.	0	IN	NS	ns1.o2switch.net.
 anam.sn.	0	IN	NS	ns2.o2switch.net.
-anamo.sn.	0	IN	NS	ns112.ovh.net.
-anamo.sn.	0	IN	NS	sdns2.ovh.net.
-anamo.sn.	0	IN	NS	dns112.ovh.net.
-anamo.sn.	0	IN	NS	ns386118.ovh.net.
+anamo.sn.	0	IN	NS	ns1.kheweul.net.
+anamo.sn.	0	IN	NS	ns2.kheweul.net.
+anamo.sn.	0	IN	NS	ns3.kheweul.net.
+anamo.sn.	0	IN	NS	ns4.kheweul.net.
 anansi.sn.	0	IN	NS	ns1.cp-10.webhostbox.net.
 anansi.sn.	0	IN	NS	ns2.cp-10.webhostbox.net.
 anapa.sn.	0	IN	NS	eisdns1.expertis.sn.
@@ -16494,6 +16496,10 @@ recapconsulting.sn.	0	IN	NS	nsa.n0c.com.
 recapconsulting.sn.	0	IN	NS	nsb.n0c.com.
 recapconsulting.sn.	0	IN	NS	nsc.n0c.com.
 recensement.sn.	0	IN	NS	ns.ansd.sn.
+recensementdiaspora.sn.	0	IN	NS	ns1.kheweul.net.
+recensementdiaspora.sn.	0	IN	NS	ns2.kheweul.net.
+recensementdiaspora.sn.	0	IN	NS	ns3.kheweul.net.
+recensementdiaspora.sn.	0	IN	NS	ns4.kheweul.net.
 rechargexeweul.sn.	0	IN	NS	ns103.ovh.net.
 rechargexeweul.sn.	0	IN	NS	dns103.ovh.net.
 rechargexeweul.sn.	0	IN	DS	36505 8 2 fefcadf2b2540ebbdcff8b15eeb05b6de5b9f24167f0d8c20b83d28f9be6995d
@@ -17701,6 +17707,8 @@ senecare.sn.	0	IN	NS	dns105.ovh.net.
 senecartours.sn.	0	IN	NS	ns112.ovh.net.
 senecartours.sn.	0	IN	NS	dns112.ovh.net.
 senecartours.sn.	0	IN	DS	21712 8 2 41bc2292e0315ca95dda53913c56a86edb2b7b1688d2e1ec11f0e6686eb193fb
+senecera.sn.	0	IN	NS	ns111.ovh.net.
+senecera.sn.	0	IN	NS	dns111.ovh.net.
 seneclic.sn.	0	IN	NS	ns.gouv.sn.
 seneclic.sn.	0	IN	NS	ns2.gouv.sn.
 seneclic.sn.	0	IN	NS	ns3.gouv.sn.

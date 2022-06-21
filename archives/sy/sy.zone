@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062116 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062119 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1655807531"
+sy.	0	IN	TXT	"Generation Time: 1655818338"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -1357,8 +1357,10 @@ aph.sy.	0	IN	NS	ns1.sahratna.com.
 aph.sy.	0	IN	NS	ns2.sahratna.com.
 api.sy.	0	IN	NS	suspend1.tld.sy.
 api.sy.	0	IN	NS	suspend2.tld.sy.
-apollodoor.sy.	0	IN	NS	suspend1.tld.sy.
-apollodoor.sy.	0	IN	NS	suspend2.tld.sy.
+apollodoor.sy.	0	IN	NS	ns1.scs-net.sy.
+apollodoor.sy.	0	IN	NS	ns1.scs-net.org.
+apollodoor.sy.	0	IN	NS	ns2.scs-net.sy.
+apollodoor.sy.	0	IN	NS	ns2.scs-net.org.
 app.sy.	0	IN	NS	sydns1.nobalaa.com.
 app.sy.	0	IN	NS	sydns2.nobalaa.com.
 appd3.sy.	0	IN	NS	suspend1.tld.sy.
@@ -1462,8 +1464,8 @@ asacontracting.sy.	0	IN	NS	ns4.ucg-core.com.
 asacontracting.sy.	0	IN	NS	ns11.ucg-core.com.
 asacontracting.sy.	0	IN	NS	ns51.uae-dc.com.
 asacontracting.sy.	0	IN	NS	ns54.uae-dc.com.
-asas.sy.	0	IN	NS	ns3.bocme.net.
-asas.sy.	0	IN	NS	ns4.bocme.net.
+asas.sy.	0	IN	NS	ns5.gaia-group.co.
+asas.sy.	0	IN	NS	ns6.gaia-group.co.
 asas-iron.sy.	0	IN	NS	ns1.lazernet.sy.
 asas-iron.sy.	0	IN	NS	ns2.lazernet.sy.
 asca.sy.	0	IN	NS	ns237.ucg.ltd.
@@ -6412,8 +6414,8 @@ shukfa-trade.sy.	0	IN	NS	suspend1.tld.sy.
 shukfa-trade.sy.	0	IN	NS	suspend2.tld.sy.
 shukra.sy.	0	IN	NS	ns1.mandoubi.sy.
 shukra.sy.	0	IN	NS	ns2.mandoubi.sy.
-siamco.sy.	0	IN	NS	ns3.bocme.net.
-siamco.sy.	0	IN	NS	ns4.bocme.net.
+siamco.sy.	0	IN	NS	ns5.gaia-group.co.
+siamco.sy.	0	IN	NS	ns6.gaia-group.co.
 sibahi.sy.	0	IN	NS	suspend1.tld.sy.
 sibahi.sy.	0	IN	NS	suspend2.tld.sy.
 sibon.sy.	0	IN	NS	suspend1.tld.sy.
