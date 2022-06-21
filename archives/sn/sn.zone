@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449273 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449279 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [21/06/2022 11H10:01]"
+sn.	0	IN	TXT	"No RRs processed [21/06/2022 12H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2873,8 +2873,7 @@ bio-senegal.sn.	0	IN	NS	ns1.o2switch.net.
 bio-senegal.sn.	0	IN	NS	ns2.o2switch.net.
 bioadn24.sn.	0	IN	NS	ns1.caurys.net.
 bioadn24.sn.	0	IN	NS	ns2.caurys.net.
-bioas.sn.	0	IN	NS	ns1.wanekoohost.com.
-bioas.sn.	0	IN	NS	ns2.wanekoohost.com.
+bioas.sn.	0	IN	NS	ns3.wanekoohost.com.
 bioas.sn.	0	IN	NS	ns4.wanekoohost.com.
 bioas.sn.	0	IN	NS	ns5.wanekoohost.com.
 bioas.sn.	0	IN	NS	ns6.wanekoohost.com.
@@ -12067,8 +12066,8 @@ leboncoin.sn.	0	IN	NS	ns1.o2switch.net.
 leboncoin.sn.	0	IN	NS	ns2.o2switch.net.
 lebonplan.sn.	0	IN	NS	ns1.o2switch.net.
 lebonplan.sn.	0	IN	NS	ns2.o2switch.net.
-lecalife.sn.	0	IN	NS	dns1.hosteur.com.
-lecalife.sn.	0	IN	NS	dns2.hosteur.com.
+lecalife.sn.	0	IN	NS	ns1.o2switch.net.
+lecalife.sn.	0	IN	NS	ns2.o2switch.net.
 lecampus.sn.	0	IN	NS	ns41.infomaniak.com.
 lecampus.sn.	0	IN	NS	ns42.infomaniak.com.
 lecampus.sn.	0	IN	DS	36421 8 2 f9c86a9f8b7fc1687b0a3b32b5ec9c4a750b52293b863ee04769860b4bf5842c
@@ -13489,6 +13488,9 @@ mieldumonde.sn.	0	IN	NS	ns13.ovh.net.
 mieldumonde.sn.	0	IN	NS	dns13.ovh.net.
 miferso.sn.	0	IN	NS	ns1.cloudns.io.
 miferso.sn.	0	IN	NS	ns2.cloudns.io.
+miftahsenegal.sn.	0	IN	NS	nsa.n0c.com.
+miftahsenegal.sn.	0	IN	NS	nsb.n0c.com.
+miftahsenegal.sn.	0	IN	NS	nsc.n0c.com.
 mikaitaly.sn.	0	IN	NS	ns200.anycast.me.
 mikaitaly.sn.	0	IN	NS	dns200.anycast.me.
 mikaitaly.sn.	0	IN	DS	17077 8 2 4b09fb596ba5a970779576947a444366b3250d3782095d2ef29741eaa6cbac7b
@@ -16644,6 +16646,9 @@ residenceamitie.sn.	0	IN	NS	ns1.kheweul.net.
 residenceamitie.sn.	0	IN	NS	ns2.kheweul.net.
 residenceamitie.sn.	0	IN	NS	ns3.kheweul.net.
 residenceamitie.sn.	0	IN	NS	ns4.kheweul.net.
+residencekepar.sn.	0	IN	NS	nsa.n0c.com.
+residencekepar.sn.	0	IN	NS	nsb.n0c.com.
+residencekepar.sn.	0	IN	NS	nsc.n0c.com.
 residencelatdior.sn.	0	IN	NS	ns1.sonatel.sn.
 residencelatdior.sn.	0	IN	NS	ns2.sonatel.sn.
 restaurants.sn.	0	IN	NS	cp5.dnshostservices.com.
