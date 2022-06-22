@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449502 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449515 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [22/06/2022 18H00:01]"
+sn.	0	IN	TXT	"No RRs processed [22/06/2022 19H20:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -12043,10 +12043,8 @@ lbs.sn.	0	IN	NS	ns1.kheweul.net.
 lbs.sn.	0	IN	NS	ns2.kheweul.net.
 lbs.sn.	0	IN	NS	ns3.kheweul.net.
 lbs.sn.	0	IN	NS	ns4.kheweul.net.
-lcm.sn.	0	IN	NS	ns3.wanekoohost.com.
-lcm.sn.	0	IN	NS	ns4.wanekoohost.com.
-lcm.sn.	0	IN	NS	ns5.wanekoohost.com.
-lcm.sn.	0	IN	NS	ns6.wanekoohost.com.
+lcm.sn.	0	IN	NS	ns101.wanekoohost.com.
+lcm.sn.	0	IN	NS	ns102.wanekoohost.com.
 lcs.sn.	0	IN	NS	ns.arc.sn.
 lcs.sn.	0	IN	NS	ns.ucad.sn.
 lcwaikiki.sn.	0	IN	NS	eu.atakdomain.com.
@@ -14001,8 +13999,10 @@ myfeedback.sn.	0	IN	NS	ns1.digitalocean.com.
 myfeedback.sn.	0	IN	NS	ns2.digitalocean.com.
 mygfmplus.sn.	0	IN	NS	chan.ns.cloudflare.com.
 mygfmplus.sn.	0	IN	NS	watson.ns.cloudflare.com.
-mygift.sn.	0	IN	NS	ns1.wanekoohost.com.
-mygift.sn.	0	IN	NS	ns2.wanekoohost.com.
+mygift.sn.	0	IN	NS	ns3.wanekoohost.com.
+mygift.sn.	0	IN	NS	ns4.wanekoohost.com.
+mygift.sn.	0	IN	NS	ns5.wanekoohost.com.
+mygift.sn.	0	IN	NS	ns6.wanekoohost.com.
 mygiftmarket.sn.	0	IN	NS	ns3.wanekoohost.com.
 mygiftmarket.sn.	0	IN	NS	ns4.wanekoohost.com.
 mygiftmarket.sn.	0	IN	NS	ns5.wanekoohost.com.
@@ -21477,9 +21477,8 @@ vuba.sn.	0	IN	NS	ns3.francedns.com.
 vusadoc.sn.	0	IN	NS	ns107.ovh.net.
 vusadoc.sn.	0	IN	NS	dns107.ovh.net.
 vusadoc.sn.	0	IN	DS	43711 8 2 c27136eb0757f852da37e9c82a15a8914c6421a36b4f540e7331767e342795f4
-vusen.sn.	0	IN	NS	ns1.wanekoohost.com.
-vusen.sn.	0	IN	NS	ns2.wanekoohost.com.
 vusen.sn.	0	IN	NS	ns3.wanekoohost.com.
+vusen.sn.	0	IN	NS	ns4.wanekoohost.com.
 vusen.sn.	0	IN	NS	ns5.wanekoohost.com.
 vusen.sn.	0	IN	NS	ns6.wanekoohost.com.
 vw.sn.	0	IN	NS	ns1.volkswagen.de.
