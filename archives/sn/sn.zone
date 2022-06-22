@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449495 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449502 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [22/06/2022 17H00:02]"
+sn.	0	IN	TXT	"No RRs processed [22/06/2022 18H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1489,6 +1489,9 @@ ampee.sn.	0	IN	NS	ns3.gouv.sn.
 ams.sn.	0	IN	NS	ns1.whc.ca.
 ams.sn.	0	IN	NS	ns2.whc.ca.
 ams.sn.	0	IN	NS	ns3.whc.ca.
+ams-industries.sn.	0	IN	NS	ns106.ovh.net.
+ams-industries.sn.	0	IN	NS	dns106.ovh.net.
+ams-industries.sn.	0	IN	DS	46672 8 2 6ef2348cfc93816c24060614b5116e101255c12725a56513bc7f04585fc260e8
 amsis.sn.	0	IN	NS	ns1.kheweul.net.
 amsis.sn.	0	IN	NS	ns2.kheweul.net.
 amsis.sn.	0	IN	NS	ns3.kheweul.net.
@@ -18704,6 +18707,10 @@ smartmedia.sn.	0	IN	NS	ns5.byet.org.
 smartmile.sn.	0	IN	NS	ns1.netim.net.
 smartmile.sn.	0	IN	NS	ns2.netim.net.
 smartmile.sn.	0	IN	NS	ns3.netim.net.
+smartorders.sn.	0	IN	NS	ns1.ascio.com.
+smartorders.sn.	0	IN	NS	ns2.ascio.com.
+smartorders.sn.	0	IN	NS	ns3.ascio.com.
+smartorders.sn.	0	IN	NS	ns4.ascio.com.
 smartsenegal.sn.	0	IN	NS	ns1.caurys.net.
 smartsenegal.sn.	0	IN	NS	ns2.caurys.net.
 smarturf.sn.	0	IN	NS	ns200.anycast.me.
