@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449636 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449643 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [23/06/2022 12H00:01]"
+sn.	0	IN	TXT	"7 RRs processed [23/06/2022 12H50:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5385,9 +5385,8 @@ dakarnews.sn.	0	IN	NS	ns1.ascio.com.
 dakarnews.sn.	0	IN	NS	ns2.ascio.com.
 dakarnews.sn.	0	IN	NS	ns3.ascio.com.
 dakarnews.sn.	0	IN	NS	ns4.ascio.com.
-dakarplus.sn.	0	IN	NS	ns1.wanekoohost.com.
-dakarplus.sn.	0	IN	NS	ns2.wanekoohost.com.
 dakarplus.sn.	0	IN	NS	ns3.wanekoohost.com.
+dakarplus.sn.	0	IN	NS	ns4.wanekoohost.com.
 dakarplus.sn.	0	IN	NS	ns5.wanekoohost.com.
 dakarplus.sn.	0	IN	NS	ns6.wanekoohost.com.
 dakarpourtous.sn.	0	IN	NS	ns1.kheweul.net.
@@ -5709,8 +5708,8 @@ detectivedakar.sn.	0	IN	NS	ns1.kheweul.net.
 detectivedakar.sn.	0	IN	NS	ns2.kheweul.net.
 detectivedakar.sn.	0	IN	NS	ns3.kheweul.net.
 detectivedakar.sn.	0	IN	NS	ns4.kheweul.net.
-dethiefall-prp.sn.	0	IN	NS	ns1.wanekoohost.com.
-dethiefall-prp.sn.	0	IN	NS	ns2.wanekoohost.com.
+dethiefall-prp.sn.	0	IN	NS	ns3.wanekoohost.com.
+dethiefall-prp.sn.	0	IN	NS	ns4.wanekoohost.com.
 dethiefall-prp.sn.	0	IN	NS	ns5.wanekoohost.com.
 dethiefall-prp.sn.	0	IN	NS	ns6.wanekoohost.com.
 deukeundo.sn.	0	IN	NS	ns3.wanekoohost.com.
@@ -7639,6 +7638,10 @@ ezlife.sn.	0	IN	NS	ns2.101domain.com.
 ezlife.sn.	0	IN	NS	ns5.101domain.com.
 fabiwa.sn.	0	IN	NS	ns103.ovh.net.
 fabiwa.sn.	0	IN	NS	dns103.ovh.net.
+fabkofi.sn.	0	IN	NS	ns3.wanekoohost.com.
+fabkofi.sn.	0	IN	NS	ns4.wanekoohost.com.
+fabkofi.sn.	0	IN	NS	ns5.wanekoohost.com.
+fabkofi.sn.	0	IN	NS	ns6.wanekoohost.com.
 fabrimetal.sn.	0	IN	NS	pdns05.domaincontrol.com.
 fabrimetal.sn.	0	IN	NS	pdns06.domaincontrol.com.
 fabriquesimplon.sn.	0	IN	NS	ns14.ovh.net.
@@ -10788,7 +10791,6 @@ jaba.sn.	0	IN	NS	ns3.eco-dns.co.uk.
 jaba.sn.	0	IN	NS	ns4.eco-dns.co.uk.
 jabah.sn.	0	IN	NS	ns15.ovh.net.
 jabah.sn.	0	IN	NS	dns15.ovh.net.
-jabah.sn.	0	IN	NS	giancarlo.ns.cloudflare.com.
 jabha.sn.	0	IN	NS	ns1.kheweul.net.
 jabha.sn.	0	IN	NS	ns2.kheweul.net.
 jabha.sn.	0	IN	NS	ns3.kheweul.net.
@@ -15944,9 +15946,6 @@ postini.sn.	0	IN	NS	ns3.google.com.
 postini.sn.	0	IN	NS	ns4.google.com.
 poulet-lya.sn.	0	IN	NS	ns1.caurys.net.
 poulet-lya.sn.	0	IN	NS	ns2.caurys.net.
-poulp-fiction.sn.	0	IN	NS	ns106.ovh.net.
-poulp-fiction.sn.	0	IN	NS	dns106.ovh.net.
-poulp-fiction.sn.	0	IN	DS	16789 8 2 594c3aa240603dc838838e35b3271affdaadd2e2149e3539e69e35c1c0666771
 poultrade.sn.	0	IN	NS	nsmpro1.nordnet.com.
 poultrade.sn.	0	IN	NS	nsmpro2.nordnet.com.
 powerfull.sn.	0	IN	NS	ns1.ascio.com.
@@ -19047,9 +19046,8 @@ solidariteetcivisme.sn.	0	IN	NS	ns1.kheweul.net.
 solidariteetcivisme.sn.	0	IN	NS	ns2.kheweul.net.
 solidariteetcivisme.sn.	0	IN	NS	ns3.kheweul.net.
 solidariteetcivisme.sn.	0	IN	NS	ns4.kheweul.net.
-solitech.sn.	0	IN	NS	ns1.wanekoohost.com.
-solitech.sn.	0	IN	NS	ns2.wanekoohost.com.
 solitech.sn.	0	IN	NS	ns3.wanekoohost.com.
+solitech.sn.	0	IN	NS	ns4.wanekoohost.com.
 solitech.sn.	0	IN	NS	ns5.wanekoohost.com.
 solitech.sn.	0	IN	NS	ns6.wanekoohost.com.
 soloesport.sn.	0	IN	NS	ns17.ovh.net.
