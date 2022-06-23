@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449664 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449667 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"1 RRs processed [23/06/2022 15H40:01]"
+sn.	0	IN	TXT	"No RRs processed [23/06/2022 16H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -12181,6 +12181,9 @@ lendiambour.sn.	0	IN	NS	ns.sonatel.sn.
 lendiambour.sn.	0	IN	NS	ns2.sonatel.sn.
 lep.sn.	0	IN	NS	ns1.justhost.com.
 lep.sn.	0	IN	NS	ns2.justhost.com.
+lepanelcitoyen.sn.	0	IN	NS	ns111.ovh.net.
+lepanelcitoyen.sn.	0	IN	NS	dns111.ovh.net.
+lepanelcitoyen.sn.	0	IN	DS	35164 8 2 127a0da7c32d08286e7e9a6ea625721c2909297592cab825f174802114c0d46a
 lepape.sn.	0	IN	NS	a.dns.gandi.net.
 lepape.sn.	0	IN	NS	b.dns.gandi.net.
 lepape.sn.	0	IN	NS	c.dns.gandi.net.
@@ -17606,6 +17609,8 @@ senagora.sn.	0	IN	NS	ns2.netim.net.
 senagora.sn.	0	IN	NS	ns3.netim.net.
 senagora.sn.	0	IN	NS	ns4.netim.net.
 senagora.sn.	0	IN	NS	ns5.netim.net.
+senagricom.sn.	0	IN	NS	ns111.ovh.net.
+senagricom.sn.	0	IN	NS	dns111.ovh.net.
 senairlift.sn.	0	IN	NS	ns10.ovh.net.
 senairlift.sn.	0	IN	NS	dns10.ovh.net.
 sename.sn.	0	IN	NS	ns1.dreamhost.com.
