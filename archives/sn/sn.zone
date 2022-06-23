@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449643 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449651 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"7 RRs processed [23/06/2022 12H50:02]"
+sn.	0	IN	TXT	"3 RRs processed [23/06/2022 14H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7125,6 +7125,8 @@ entreprendreautrement.sn.	0	IN	NS	dns16.ovh.net.
 entreprendreautrement.sn.	0	IN	DS	41677 8 2 7b516102ffa9f8edb296cbec12628e0944b04716d62831a2b29f6c402bc4daed
 entrepreneuriat.sn.	0	IN	NS	ns17.lwsdns.com.
 entrepreneuriat.sn.	0	IN	NS	ns18.lwsdns.com.
+entreprise-industrielle.sn.	0	IN	NS	nsmpro1.nordnet.com.
+entreprise-industrielle.sn.	0	IN	NS	nsmpro2.nordnet.com.
 entss.sn.	0	IN	NS	ns1.ascio.com.
 entss.sn.	0	IN	NS	ns2.ascio.com.
 entss.sn.	0	IN	NS	ns3.ascio.com.
@@ -7854,6 +7856,8 @@ femfm.sn.	0	IN	NS	ns3.kheweul.net.
 femfm.sn.	0	IN	NS	ns4.kheweul.net.
 femininetv.sn.	0	IN	NS	ns1.caurys.net.
 femininetv.sn.	0	IN	NS	ns2.caurys.net.
+femmesdevouees.sn.	0	IN	NS	ns200.anycast.me.
+femmesdevouees.sn.	0	IN	NS	dns200.anycast.me.
 femmeshandicapees.sn.	0	IN	NS	ns1.kheweul.net.
 femmeshandicapees.sn.	0	IN	NS	ns2.kheweul.net.
 femmeshandicapees.sn.	0	IN	NS	ns3.kheweul.net.
@@ -16667,6 +16671,9 @@ residenceamitie.sn.	0	IN	NS	ns3.kheweul.net.
 residenceamitie.sn.	0	IN	NS	ns4.kheweul.net.
 residencelatdior.sn.	0	IN	NS	ns1.sonatel.sn.
 residencelatdior.sn.	0	IN	NS	ns2.sonatel.sn.
+residencesduparc.sn.	0	IN	NS	ns111.ovh.net.
+residencesduparc.sn.	0	IN	NS	dns111.ovh.net.
+residencesduparc.sn.	0	IN	DS	49789 8 2 08fd1e46fc28105129a0449b35c1a69ed0408e53f40bfb0ea2adcc1d349e1185
 restaurants.sn.	0	IN	NS	cp5.dnshostservices.com.
 restaurants.sn.	0	IN	NS	cp6.dnshostservices.com.
 resto.sn.	0	IN	NS	ns200.anycast.me.
@@ -17960,8 +17967,6 @@ sengalerie.sn.	0	IN	NS	ns.sonatel.sn.
 sengalerie.sn.	0	IN	NS	ns2.sonatel.sn.
 sengames.sn.	0	IN	NS	ns2.francedns.com.
 sengames.sn.	0	IN	NS	cloudf03.francedns.com.
-sengaz.sn.	0	IN	NS	tmp.nscluster.eu.
-sengaz.sn.	0	IN	NS	tmp.nscluster.us.
 sengold.sn.	0	IN	NS	ns1.kheweul.net.
 sengold.sn.	0	IN	NS	ns2.kheweul.net.
 sengold.sn.	0	IN	NS	ns3.kheweul.net.
