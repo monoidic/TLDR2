@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062332 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062333 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1656003738"
+sy.	0	IN	TXT	"Generation Time: 1656005539"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -2667,6 +2667,8 @@ ns1.e-lcom.sy.	0	IN	A	185.4.87.37
 ns2.e-lcom.sy.	0	IN	A	185.4.87.40
 e-lotto.sy.	0	IN	NS	suspend1.tld.sy.
 e-lotto.sy.	0	IN	NS	suspend2.tld.sy.
+e-mail.sy.	0	IN	NS	ns1.nameself.com.
+e-mail.sy.	0	IN	NS	ns2.nameself.com.
 e-mall.sy.	0	IN	NS	auth1.syriatelisp.com.sy.
 e-mall.sy.	0	IN	NS	auth2.syriatelisp.com.sy.
 e-sdra.sy.	0	IN	NS	suspend1.tld.sy.
