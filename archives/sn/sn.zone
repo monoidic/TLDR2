@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449651 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449664 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"3 RRs processed [23/06/2022 14H00:02]"
+sn.	0	IN	TXT	"1 RRs processed [23/06/2022 15H40:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1994,8 +1994,10 @@ assidqiwasadiqin.sn.	0	IN	NS	ns10.ovh.net.
 assidqiwasadiqin.sn.	0	IN	NS	dns10.ovh.net.
 assirou.sn.	0	IN	NS	ns1.cp-35.webhostbox.net.
 assirou.sn.	0	IN	NS	ns2.cp-35.webhostbox.net.
-assistancevisa.sn.	0	IN	NS	ns1.wanekoohost.com.
-assistancevisa.sn.	0	IN	NS	ns2.wanekoohost.com.
+assistancevisa.sn.	0	IN	NS	ns3.wanekoohost.com.
+assistancevisa.sn.	0	IN	NS	ns4.wanekoohost.com.
+assistancevisa.sn.	0	IN	NS	ns5.wanekoohost.com.
+assistancevisa.sn.	0	IN	NS	ns6.wanekoohost.com.
 associatesgroup.sn.	0	IN	NS	zod.ns.cloudflare.com.
 associatesgroup.sn.	0	IN	NS	isabel.ns.cloudflare.com.
 assosenegal.sn.	0	IN	NS	ns3.wanekoohost.com.
@@ -4371,9 +4373,10 @@ clariant.sn.	0	IN	NS	dns1.cscdns.net.
 clariant.sn.	0	IN	NS	dns2.cscdns.net.
 classicburger.sn.	0	IN	NS	ns102.ovh.net.
 classicburger.sn.	0	IN	NS	dns102.ovh.net.
-classicdeco.sn.	0	IN	NS	ns1.wanekoohost.com.
+classicdeco.sn.	0	IN	NS	ns3.wanekoohost.com.
 classicdeco.sn.	0	IN	NS	ns4.wanekoohost.com.
 classicdeco.sn.	0	IN	NS	ns5.wanekoohost.com.
+classicdeco.sn.	0	IN	NS	ns6.wanekoohost.com.
 clconstruction.sn.	0	IN	NS	ns1.clconstruction.sn.
 ns1.clconstruction.sn.	0	IN	A	31.207.35.43
 clean-land.sn.	0	IN	NS	ns1.kheweul.net.
@@ -4830,6 +4833,9 @@ consommonslocal.sn.	0	IN	NS	ns4.a2hosting.com.
 consommonslocal.sn.	0	IN	NS	teranga.tpsnet.org.
 constructions-coordination.sn.	0	IN	NS	ns1.caurys.net.
 constructions-coordination.sn.	0	IN	NS	ns2.caurys.net.
+contechs.sn.	0	IN	NS	ns111.ovh.net.
+contechs.sn.	0	IN	NS	dns111.ovh.net.
+contechs.sn.	0	IN	DS	27211 8 2 f462dbd3ef24e6aff5492d67896b06a90511fe8749ff18601a081af3b1085783
 contentsquare.sn.	0	IN	NS	ns1.markmonitor.com.
 contentsquare.sn.	0	IN	NS	ns2.markmonitor.com.
 contentsquare.sn.	0	IN	NS	ns3.markmonitor.com.
@@ -7858,6 +7864,7 @@ femininetv.sn.	0	IN	NS	ns1.caurys.net.
 femininetv.sn.	0	IN	NS	ns2.caurys.net.
 femmesdevouees.sn.	0	IN	NS	ns200.anycast.me.
 femmesdevouees.sn.	0	IN	NS	dns200.anycast.me.
+femmesdevouees.sn.	0	IN	DS	52846 8 2 b6b9248ad196acf79116576eb6d52af39f53dc5d6bb2b78e224e55482c232efc
 femmeshandicapees.sn.	0	IN	NS	ns1.kheweul.net.
 femmeshandicapees.sn.	0	IN	NS	ns2.kheweul.net.
 femmeshandicapees.sn.	0	IN	NS	ns3.kheweul.net.
@@ -8593,6 +8600,10 @@ gemaber.sn.	0	IN	NS	ns2.sonatel.sn.
 gemo.sn.	0	IN	NS	a.ns.mailclub.fr.
 gemo.sn.	0	IN	NS	b.ns.mailclub.eu.
 gemo.sn.	0	IN	NS	c.ns.mailclub.com.
+genco.sn.	0	IN	NS	ns1.kheweul.net.
+genco.sn.	0	IN	NS	ns2.kheweul.net.
+genco.sn.	0	IN	NS	ns3.kheweul.net.
+genco.sn.	0	IN	NS	ns4.kheweul.net.
 gendarmerie.sn.	0	IN	NS	ns.nic.sn.
 gendarmerie.sn.	0	IN	NS	ns.gendarmerie.sn.
 gendarmerie.sn.	0	IN	NS	ns3.cctld.sn.
@@ -9185,9 +9196,8 @@ groupepuzzle.sn.	0	IN	NS	ns1.kheweul.com.
 groupepuzzle.sn.	0	IN	NS	ns2.kheweul.com.
 grouperahal.sn.	0	IN	NS	sdns2.ovh.net.
 grouperahal.sn.	0	IN	NS	ns3164441.ip-51-89-233.eu.
-groupesamientreprises.sn.	0	IN	NS	ns1.wanekoohost.com.
-groupesamientreprises.sn.	0	IN	NS	ns2.wanekoohost.com.
 groupesamientreprises.sn.	0	IN	NS	ns3.wanekoohost.com.
+groupesamientreprises.sn.	0	IN	NS	ns4.wanekoohost.com.
 groupesamientreprises.sn.	0	IN	NS	ns5.wanekoohost.com.
 groupesamientreprises.sn.	0	IN	NS	ns6.wanekoohost.com.
 groupetawhid.sn.	0	IN	NS	ns1.kheweul.net.
@@ -10078,8 +10088,10 @@ impactservices.sn.	0	IN	NS	ns3.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns4.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns5.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns6.wanekoohost.com.
-impactsolution.sn.	0	IN	NS	ns1.txpro15.fcomet.com.
-impactsolution.sn.	0	IN	NS	ns2.txpro15.fcomet.com.
+impactsolution.sn.	0	IN	NS	ns5.lwsdns.com.
+impactsolution.sn.	0	IN	NS	ns6.lwsdns.com.
+impactsolution.sn.	0	IN	NS	ns7.lwsdns.com.
+impactsolution.sn.	0	IN	NS	ns8.lwsdns.com.
 imperial.sn.	0	IN	NS	ns.sonatel.sn.
 imperial.sn.	0	IN	NS	ns2.sonatel.sn.
 imperyal.sn.	0	IN	NS	ns1.kheweul.net.
@@ -12996,10 +13008,6 @@ marinabay.sn.	0	IN	NS	ns2.wixdns.net.
 marinabay.sn.	0	IN	NS	ns3.wixdns.net.
 marine.sn.	0	IN	NS	ns1.kheweul.net.
 marine.sn.	0	IN	NS	ns2.kheweul.net.
-marineinternational.sn.	0	IN	NS	ns1.kheweul.net.
-marineinternational.sn.	0	IN	NS	ns2.kheweul.net.
-marineinternational.sn.	0	IN	NS	ns3.kheweul.net.
-marineinternational.sn.	0	IN	NS	ns4.kheweul.net.
 marinenationale.sn.	0	IN	NS	ns.gouv.sn.
 marinenationale.sn.	0	IN	NS	ns2.gouv.sn.
 marinenationale.sn.	0	IN	NS	ns3.gouv.sn.
@@ -14888,8 +14896,8 @@ opendesign.sn.	0	IN	NS	ns2.o2switch.net.
 opengeode.sn.	0	IN	NS	ns1.netim.net.
 opengeode.sn.	0	IN	NS	ns2.netim.net.
 opengeode.sn.	0	IN	NS	ns3.netim.net.
-openjob.sn.	0	IN	NS	ns19.ovh.net.
-openjob.sn.	0	IN	NS	dns19.ovh.net.
+openjob.sn.	0	IN	NS	dns1.namecheaphosting.com.
+openjob.sn.	0	IN	NS	dns2.namecheaphosting.com.
 opensoft.sn.	0	IN	NS	ns-257.awsdns-32.com.
 opensoft.sn.	0	IN	NS	ns-990.awsdns-59.net.
 opensoft.sn.	0	IN	NS	ns-1226.awsdns-25.org.
@@ -19370,8 +19378,8 @@ ssbet.sn.	0	IN	NS	ns1-02.azure-dns.com.
 ssbet.sn.	0	IN	NS	ns2-02.azure-dns.net.
 ssbet.sn.	0	IN	NS	ns3-02.azure-dns.org.
 ssbet.sn.	0	IN	NS	ns4-02.azure-dns.info.
-ssc.sn.	0	IN	NS	ns19.ovh.net.
-ssc.sn.	0	IN	NS	dns19.ovh.net.
+ssc.sn.	0	IN	NS	dns1.namecheaphosting.com.
+ssc.sn.	0	IN	NS	dns2.namecheaphosting.com.
 sscm.sn.	0	IN	NS	ns101.ovh.net.
 sscm.sn.	0	IN	NS	dns101.ovh.net.
 ssi.sn.	0	IN	NS	ns.sonatel.sn.
@@ -20502,8 +20510,8 @@ totalenergies.sn.	0	IN	NS	ns1.totalenergies.net.
 totalenergies.sn.	0	IN	NS	ns2.totalenergies.org.
 totalenergies.sn.	0	IN	NS	ns3.totalenergies.biz.
 totalenergies.sn.	0	IN	NS	ns4.totalenergies.info.
-totalinfo.sn.	0	IN	NS	ns2.wanekoohost.com.
 totalinfo.sn.	0	IN	NS	ns3.wanekoohost.com.
+totalinfo.sn.	0	IN	NS	ns4.wanekoohost.com.
 totalinfo.sn.	0	IN	NS	ns5.wanekoohost.com.
 totalinfo.sn.	0	IN	NS	ns6.wanekoohost.com.
 touax.sn.	0	IN	NS	ns2.observatoiredesmarques.fr.

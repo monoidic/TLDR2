@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062321 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062325 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1655983938"
+sy.	0	IN	TXT	"Generation Time: 1655991144"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -33,6 +33,8 @@ sy.	0	IN	TXT	"Generation Time: 1655983938"
 123.sy.	0	IN	NS	suspend2.tld.sy.
 138.sy.	0	IN	NS	ns1.dns.com.
 138.sy.	0	IN	NS	ns2.dns.com.
+1382.sy.	0	IN	NS	ns1.dns.com.
+1382.sy.	0	IN	NS	ns2.dns.com.
 15.sy.	0	IN	NS	buck.ns.cloudflare.com.
 15.sy.	0	IN	NS	carla.ns.cloudflare.com.
 166.sy.	0	IN	NS	diva.ns.cloudflare.com.
@@ -6096,6 +6098,11 @@ savs.sy.	0	IN	NS	dns5.aya.sy.
 savs.sy.	0	IN	NS	dns6.aya.sy.
 sawa.sy.	0	IN	NS	auth1.syriatelisp.com.sy.
 sawa.sy.	0	IN	NS	auth2.syriatelisp.com.sy.
+sawa-adv.sy.	0	IN	NS	ns1.scs-net.sy.
+sawa-adv.sy.	0	IN	NS	ns1.scs-net.org.
+sawa-adv.sy.	0	IN	NS	ns2.scs-net.sy.
+sawa-adv.sy.	0	IN	NS	ns2.scs-net.org.
+sawa-adv.sy.	0	IN	NS	ns6.scs-net.sy.
 sawa-isp.sy.	0	IN	NS	ns1.sawaisp.sy.
 sawa-isp.sy.	0	IN	NS	ns2.sawaisp.sy.
 sawa-tv.sy.	0	IN	NS	ns1.sawa-host.net.
