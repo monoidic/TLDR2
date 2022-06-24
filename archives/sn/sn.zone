@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449798 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449807 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [24/06/2022 10H00:01]"
+sn.	0	IN	TXT	"2 RRs processed [24/06/2022 11H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6698,9 +6698,6 @@ ecsen.sn.	0	IN	NS	ns4.kheweul.net.
 edcom.sn.	0	IN	NS	ns14.ovh.net.
 edcom.sn.	0	IN	NS	dns14.ovh.net.
 edcom.sn.	0	IN	DS	5215 8 2 23aef6cfb68880297f303e6dff0f3f9d8ab5e9a091f24624d93ea55af84e8a2e
-eddys.sn.	0	IN	NS	ns106.ovh.net.
-eddys.sn.	0	IN	NS	dns106.ovh.net.
-eddys.sn.	0	IN	DS	47374 8 2 345c09497c9359a5cb2336b98e38d7d18011ebbe34e88fbce9a1cf24da62b0e6
 eden.sn.	0	IN	NS	ns1.caurys.net.
 eden.sn.	0	IN	NS	ns2.caurys.net.
 edenfarm.sn.	0	IN	NS	ns1.kheweul.net.
