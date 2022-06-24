@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022062301 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022062401 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	cv01.dns.pt.
@@ -1514,6 +1514,9 @@ cfa.cv.	0	IN	AAAA	2a03:6420:cafe::bee
 cfatlantico.cv.	0	IN	NS	ns.cfatlantico.cv.
 cfatlantico.cv.	0	IN	NS	ns1.plesk-web10.webhostbox.net.
 cfatlantico.cv.	0	IN	NS	ns2.plesk-web10.webhostbox.net.
+cfc.cv.	0	IN	NS	ns1.nosiwebhosting.com.
+cfc.cv.	0	IN	NS	ns2.nosiwebhosting.com.
+cfc.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 cfgc.cv.	0	IN	NS	ns43.hocnet.pt.
 cfgc.cv.	0	IN	NS	ns44.hocnet.pt.
 cfs.cv.	0	IN	NS	ns293.websitewelcome.com.
@@ -2890,6 +2893,9 @@ ctcv.cv.	0	IN	NS	cns9.webhostbox.net.
 ctcv.cv.	0	IN	NS	cns10.webhostbox.net.
 cthealthcare.cv.	0	IN	NS	ns1.cthealthcare.cv.
 ns1.cthealthcare.cv.	0	IN	A	207.180.194.125
+ctrl.cv.	0	IN	NS	ns01.trademarkarea.com.
+ctrl.cv.	0	IN	NS	ns02.trademarkarea.com.
+ctrl.cv.	0	IN	NS	ns03.trademarkarea.com.
 cultura.cv.	0	IN	NS	ns1.dreamhost.com.
 cultura.cv.	0	IN	NS	ns2.dreamhost.com.
 cultura.cv.	0	IN	NS	ns3.dreamhost.com.
@@ -2916,6 +2922,9 @@ cv-fire.cv.	0	IN	NS	ns1.cv-fire.cv.
 cv-fire.cv.	0	IN	NS	ns2.cv-fire.cv.
 ns1.cv-fire.cv.	0	IN	A	94.46.167.34
 ns2.cv-fire.cv.	0	IN	A	94.46.167.34
+cv-reservas.cv.	0	IN	NS	ns1.nosiwebhosting.com.
+cv-reservas.cv.	0	IN	NS	ns2.nosiwebhosting.com.
+cv-reservas.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 cv360.cv.	0	IN	NS	ns1.inmotionhosting.com.
 cv360.cv.	0	IN	NS	ns2.inmotionhosting.com.
 cva.cv.	0	IN	NS	ns1.amenworld.com.
@@ -3888,16 +3897,12 @@ expotur.cv.	0	IN	NS	ns1.expotur.cv.
 expotur.cv.	0	IN	NS	ns2.expotur.cv.
 ns1.expotur.cv.	0	IN	A	80.172.233.23
 ns2.expotur.cv.	0	IN	A	80.172.233.24
-expressodasilhas.cv.	0	IN	NS	ns1.linode.com.
-expressodasilhas.cv.	0	IN	NS	ns2.linode.com.
-expressodasilhas.cv.	0	IN	NS	ns3.linode.com.
-expressodasilhas.cv.	0	IN	NS	ns4.linode.com.
-expressodasilhas.cv.	0	IN	NS	ns5.linode.com.
-expressodasilhas.cv.	0	IN	AAAA	2400:cb00:2049:1::a29f:1819
-expressodasilhas.cv.	0	IN	AAAA	2400:cb00:2049:1::a29f:1827
-expressodasilhas.cv.	0	IN	AAAA	2400:cb00:2049:1::a29f:1981
-expressodasilhas.cv.	0	IN	AAAA	2400:cb00:2049:1::a29f:1a63
-expressodasilhas.cv.	0	IN	AAAA	2400:cb00:2049:1::a29f:1b48
+expressodasilhas.cv.	0	IN	A	5.189.191.29
+expressodasilhas.cv.	0	IN	A	79.143.182.242
+expressodasilhas.cv.	0	IN	NS	ns1.contabo.net.
+expressodasilhas.cv.	0	IN	NS	ns2.contabo.net.
+expressodasilhas.cv.	0	IN	NS	ns3.contabo.net.
+expressodasilhas.cv.	0	IN	AAAA	2a02:c205:0:891::1
 extintores.cv.	0	IN	NS	ns1.extintores.cv.
 extintores.cv.	0	IN	NS	ns2.extintores.cv.
 ns1.extintores.cv.	0	IN	A	94.46.167.34
