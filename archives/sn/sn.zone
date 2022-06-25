@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449985 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222449991 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [25/06/2022 11H00:01]"
+sn.	0	IN	TXT	"3 RRs processed [25/06/2022 11H50:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -104,9 +104,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 20bet.sn.	0	IN	NS	ns01.trademarkarea.com.
 20bet.sn.	0	IN	NS	ns02.trademarkarea.com.
 20bet.sn.	0	IN	NS	ns03.trademarkarea.com.
-2138.sn.	0	IN	NS	nsa.n0c.com.
-2138.sn.	0	IN	NS	nsb.n0c.com.
-2138.sn.	0	IN	NS	nsc.n0c.com.
+2138.sn.	0	IN	NS	ns1.dns.com.
+2138.sn.	0	IN	NS	ns2.dns.com.
 221.sn.	0	IN	NS	ns1.boxsecured.com.
 221.sn.	0	IN	NS	ns2.boxsecured.com.
 221tv.sn.	0	IN	NS	ns1.kheweul.net.
@@ -19496,8 +19495,6 @@ storido.sn.	0	IN	NS	pdns07.domaincontrol.com.
 storido.sn.	0	IN	NS	pdns08.domaincontrol.com.
 stp.sn.	0	IN	NS	ns7.jajeuf.com.
 stp.sn.	0	IN	NS	ns8.jajeuf.com.
-strass.sn.	0	IN	NS	ns104.ovh.net.
-strass.sn.	0	IN	NS	dns104.ovh.net.
 sts.sn.	0	IN	NS	ns.sonatel.sn.
 sts.sn.	0	IN	NS	ns2.sonatel.sn.
 stt.sn.	0	IN	NS	ns.arc.sn.
