@@ -24,7 +24,6 @@
 * `kg.` via `ns2.kg.`: [Click here to view zone data.](archives/kg/kg.zone)
 * `mg.` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/mg/mg.zone)
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
-* `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `sn.` via `censvrns0001.ird.fr.`: [Click here to view zone data.](archives/sn/sn.zone)
 * `ss.` via `b.ns.tznic.or.tz.`: [Click here to view zone data.](archives/ss/ss.zone)
