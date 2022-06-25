@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450019 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450025 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [25/06/2022 16H00:01]"
+sn.	0	IN	TXT	"2 RRs processed [25/06/2022 17H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5162,6 +5162,8 @@ csigroup.sn.	0	IN	NS	cpanel5.lws-hosting.com.
 csigroup.sn.	0	IN	NS	cpanel6.lws-hosting.com.
 csip.sn.	0	IN	NS	ns101.ovh.net.
 csip.sn.	0	IN	NS	dns101.ovh.net.
+csirt-universitaire.sn.	0	IN	NS	cpanel11.lws-hosting.com.
+csirt-universitaire.sn.	0	IN	NS	cpanel12.lws-hosting.com.
 csl.sn.	0	IN	NS	ns1.totalenergies.net.
 csl.sn.	0	IN	NS	ns2.totalenergies.org.
 csl.sn.	0	IN	NS	ns3.totalenergies.biz.
