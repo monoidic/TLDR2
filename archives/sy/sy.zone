@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062717 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022062719 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1656320539"
+sy.	0	IN	TXT	"Generation Time: 1656327743"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -1910,8 +1910,8 @@ bluesky.sy.	0	IN	NS	ns1.bluesky.sy.
 bluesky.sy.	0	IN	NS	ns2.bluesky.sy.
 ns1.bluesky.sy.	0	IN	A	185.61.153.71
 ns2.bluesky.sy.	0	IN	A	185.61.153.73
-bluvgn.sy.	0	IN	NS	julio.ns.cloudflare.com.
-bluvgn.sy.	0	IN	NS	tricia.ns.cloudflare.com.
+bluvgn.sy.	0	IN	NS	suspend1.tld.sy.
+bluvgn.sy.	0	IN	NS	suspend2.tld.sy.
 bob.sy.	0	IN	NS	suspend1.tld.sy.
 bob.sy.	0	IN	NS	suspend2.tld.sy.
 bohour.sy.	0	IN	NS	ns1.ucg-core.com.
@@ -2202,8 +2202,11 @@ codersdc.sy.	0	IN	NS	ns2.syrianmonster.com.sy.
 com.sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 com.sy.	0	IN	NS	ns1.tld.sy.
 com.sy.	0	IN	NS	pch.anycast.tld.sy.
-com-au.sy.	0	IN	NS	julio.ns.cloudflare.com.
-com-au.sy.	0	IN	NS	tricia.ns.cloudflare.com.
+com-au.sy.	0	IN	NS	ns1.ucg-core.com.
+com-au.sy.	0	IN	NS	ns4.ucg-core.com.
+com-au.sy.	0	IN	NS	ns11.ucg-core.com.
+com-au.sy.	0	IN	NS	ns51.uae-dc.com.
+com-au.sy.	0	IN	NS	ns54.uae-dc.com.
 commercial.sy.	0	IN	NS	ns1.syrianhost.com.
 commercial.sy.	0	IN	NS	ns2.syrianhost.com.
 commercialbusinessgroup.sy.	0	IN	NS	suspend1.tld.sy.
@@ -6833,8 +6836,8 @@ syriaair.sy.	0	IN	NS	ns4.dnsserver8.com.
 syriaair.sy.	0	IN	NS	ns5.dnsserver8.com.
 syriaalyom.sy.	0	IN	NS	suspend1.tld.sy.
 syriaalyom.sy.	0	IN	NS	suspend2.tld.sy.
-syriacare.sy.	0	IN	NS	ns1.dns-parking.com.
-syriacare.sy.	0	IN	NS	ns2.dns-parking.com.
+syriacare.sy.	0	IN	NS	ns1.scs-net.sy.
+syriacare.sy.	0	IN	NS	ns2.scs-net.sy.
 syriacash.sy.	0	IN	NS	auth1.syriatelisp.com.sy.
 syriacash.sy.	0	IN	NS	auth2.syriatelisp.com.sy.
 syriacomm.sy.	0	IN	NS	suspend1.tld.sy.
