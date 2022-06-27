@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450344 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450354 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [27/06/2022 14H00:01]"
+sn.	0	IN	TXT	"No RRs processed [27/06/2022 15H40:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1208,6 +1208,10 @@ alchimie.sn.	0	IN	NS	ns3.kheweul.net.
 alchimie.sn.	0	IN	NS	ns4.kheweul.net.
 alcrosoft.sn.	0	IN	NS	tara.ns.cloudflare.com.
 alcrosoft.sn.	0	IN	NS	michael.ns.cloudflare.com.
+alerte.sn.	0	IN	NS	ns1.kheweul.net.
+alerte.sn.	0	IN	NS	ns2.kheweul.net.
+alerte.sn.	0	IN	NS	ns3.kheweul.net.
+alerte.sn.	0	IN	NS	ns4.kheweul.net.
 alfa-laval.sn.	0	IN	NS	unit.nmugroup.com.
 alfa-laval.sn.	0	IN	NS	origo.nmugroup.com.
 alfa-laval.sn.	0	IN	NS	vertex.nmugroup.se.
@@ -6047,8 +6051,6 @@ diplomatie.sn.	0	IN	NS	dns1.namecheaphosting.com.
 diplomatie.sn.	0	IN	NS	dns2.namecheaphosting.com.
 diprom.sn.	0	IN	NS	sdns2.ovh.net.
 diprom.sn.	0	IN	NS	ns367064.ip-188-165-235.eu.
-diprotec.sn.	0	IN	NS	ns105.ovh.net.
-diprotec.sn.	0	IN	NS	dns105.ovh.net.
 dircom.sn.	0	IN	NS	ns200.anycast.me.
 dircom.sn.	0	IN	NS	dns200.anycast.me.
 dircom.sn.	0	IN	DS	18319 8 2 3a0c47d75918f61b8b4ffeee99f89a81b4b676f9a66f442f03153a2b01f31333
@@ -13639,9 +13641,6 @@ mmterre.sn.	0	IN	NS	ns3.a2hosting.com.
 mmterre.sn.	0	IN	NS	ns4.a2hosting.com.
 mnagroupe.sn.	0	IN	NS	ns19.ovh.net.
 mnagroupe.sn.	0	IN	NS	dns19.ovh.net.
-mnlogistics.sn.	0	IN	NS	ns106.ovh.net.
-mnlogistics.sn.	0	IN	NS	dns106.ovh.net.
-mnlogistics.sn.	0	IN	DS	40021 8 2 d22005ccbdfd6d4a38547024343b4875344b2431031410a17f5aca5e65d181cf
 mntrading.sn.	0	IN	NS	ns106.ovh.net.
 mntrading.sn.	0	IN	NS	dns106.ovh.net.
 mntrading.sn.	0	IN	DS	6139 8 2 751e6afef345af67cd1594f39d815d25fed609d0336a401b28ccda7aea185aae
@@ -14997,6 +14996,8 @@ orangebanque.sn.	0	IN	NS	ns5.wanekoohost.com.
 orangebanque.sn.	0	IN	NS	ns6.wanekoohost.com.
 orangebusiness.sn.	0	IN	NS	ns.sonatel.sn.
 orangebusiness.sn.	0	IN	NS	ns2.sonatel.sn.
+orangedigitalcenter.sn.	0	IN	NS	cpanel54a.lws-hosting.com.
+orangedigitalcenter.sn.	0	IN	NS	cpanel54b.lws-hosting.com.
 orangeenergie.sn.	0	IN	NS	dns1.cscdns.net.
 orangeenergie.sn.	0	IN	NS	dns2.cscdns.net.
 orangeenergy.sn.	0	IN	NS	dns1.cscdns.net.
