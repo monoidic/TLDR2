@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1656320402 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1656324002 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -19,6 +19,8 @@ kg.	0	IN	DNSKEY	257 3 5 AwEAAeaExCq4ADTB68hLo+qZkKXkS1w0oV5ZFlzg/2rSSujAhW/cvFHD
 01edu.kg.	0	IN	NS	ns1.digitalocean.com.
 01edu.kg.	0	IN	NS	ns2.digitalocean.com.
 01edu.kg.	0	IN	NS	ns3.digitalocean.com.
+089.kg.	0	IN	NS	ns1.dns.com.
+089.kg.	0	IN	NS	ns2.dns.com.
 1.kg.	0	IN	NS	ns1.linode.com.
 1.kg.	0	IN	NS	ns2.linode.com.
 10.kg.	0	IN	NS	ns1.dan.com.
@@ -286,6 +288,8 @@ ns1.333.kg.	0	IN	A	217.29.21.76
 6.kg.	0	IN	NS	ns2.linode.com.
 60.kg.	0	IN	NS	ns1.parkingcrew.net.
 60.kg.	0	IN	NS	ns2.parkingcrew.net.
+6277.kg.	0	IN	NS	ns1.dns.com.
+6277.kg.	0	IN	NS	ns2.dns.com.
 65krsuu.kg.	0	IN	NS	ns9.hoster.kg.
 65krsuu.kg.	0	IN	NS	ns10.hoster.kg.
 66.kg.	0	IN	NS	ns2.mailart.com.
@@ -5929,8 +5933,10 @@ curling.kg.	0	IN	NS	ns5.hoster.kg.
 curling.kg.	0	IN	NS	ns6.hoster.kg.
 customer.kg.	0	IN	NS	ns1.101domain.com.
 customer.kg.	0	IN	NS	ns2.101domain.com.
-customs.kg.	0	IN	NS	ns1.cloud.kg.
-customs.kg.	0	IN	NS	ns2.cloud.kg.
+customs.kg.	0	IN	NS	ns1.customs.kg.
+customs.kg.	0	IN	NS	ns2.customs.kg.
+ns1.customs.kg.	0	IN	A	85.113.28.150
+ns2.customs.kg.	0	IN	A	212.42.104.101
 cutimed.kg.	0	IN	NS	melkor.ngninfra.net.
 cutimed.kg.	0	IN	NS	tilion.ngninfra.net.
 cvetkoff.kg.	0	IN	NS	ns1.a5.ru.
@@ -6932,8 +6938,6 @@ dveri.kg.	0	IN	NS	ns3-l2.nic.ru.
 dveri.kg.	0	IN	NS	ns4-l2.nic.ru.
 dveri.kg.	0	IN	NS	ns8-l2.nic.ru.
 dveri.kg.	0	IN	NS	ns4-cloud.nic.ru.
-dvpered.kg.	0	IN	NS	ns5.hoster.kg.
-dvpered.kg.	0	IN	NS	ns6.hoster.kg.
 dvv-international.kg.	0	IN	NS	ns1.bdm.microsoftonline.com.
 dvv-international.kg.	0	IN	NS	ns2.bdm.microsoftonline.com.
 dvv-international.kg.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -12193,8 +12197,8 @@ kantoil.kg.	0	IN	NS	ns3-l2.nic.ru.
 kantoil.kg.	0	IN	NS	ns4-l2.nic.ru.
 kantoil.kg.	0	IN	NS	ns8-l2.nic.ru.
 kantoil.kg.	0	IN	NS	ns4-cloud.nic.ru.
-kantslate.kg.	0	IN	NS	ns9.hoster.kg.
-kantslate.kg.	0	IN	NS	ns10.hoster.kg.
+kantslate.kg.	0	IN	NS	as.asiainfo.kg.
+kantslate.kg.	0	IN	NS	ns.kg.
 kantsut.kg.	0	IN	NS	ns5.hoster.kg.
 kantsut.kg.	0	IN	NS	ns6.hoster.kg.
 kanzler.kg.	0	IN	NS	ns5.hoster.kg.
@@ -21720,10 +21724,6 @@ stonex.kg.	0	IN	NS	ns2.beget.com.
 stonex.kg.	0	IN	NS	ns2.beget.pro.
 stopcorruption.kg.	0	IN	NS	ns1.dnsservice.info.
 stopcorruption.kg.	0	IN	NS	ns2.dnsservice.info.
-stopgepatit.kg.	0	IN	NS	ns1.mchost.ru.
-stopgepatit.kg.	0	IN	NS	ns2.mchost.ru.
-stopgepatit.kg.	0	IN	NS	ns3.mchost.ru.
-stopgepatit.kg.	0	IN	NS	ns4.mchost.ru.
 stopkadr.kg.	0	IN	NS	ns1.hostim.kg.
 stopkadr.kg.	0	IN	NS	ns2.hostim.kg.
 storck.kg.	0	IN	NS	ns01.brandshelter.com.
@@ -24059,8 +24059,6 @@ uzsk.kg.	0	IN	NS	ns1.netangels.ru.
 uzsk.kg.	0	IN	NS	ns2.netangels.ru.
 uzsk.kg.	0	IN	NS	ns3.netangels.ru.
 uzsk.kg.	0	IN	NS	ns4.netangels.ru.
-uzun-kyr.kg.	0	IN	NS	ns5.hoster.kg.
-uzun-kyr.kg.	0	IN	NS	ns6.hoster.kg.
 v.kg.	0	IN	NS	ns1.linode.com.
 v.kg.	0	IN	NS	ns2.linode.com.
 va.kg.	0	IN	NS	murom.ens.mail.ru.
@@ -24323,7 +24321,8 @@ viaplay.kg.	0	IN	NS	dns1.zaccodigitaltrustlabs.com.
 viaplay.kg.	0	IN	NS	dns2.zaccodigitaltrustlabs.net.
 viaplay.kg.	0	IN	NS	dns3.zaccodigitaltrustlabs.se.
 viaplay.kg.	0	IN	NS	dns4.zaccodigitaltrustlabs.se.
-vibe.kg.	0	IN	NS	ns.kg.
+vibe.kg.	0	IN	NS	ns1.digitalocean.com.
+vibe.kg.	0	IN	NS	ns2.digitalocean.com.
 vicat.kg.	0	IN	NS	ns1.perf1.com.
 vicat.kg.	0	IN	NS	ns2.perf1.fr.
 vicat.kg.	0	IN	NS	ns3.perf1.eu.
