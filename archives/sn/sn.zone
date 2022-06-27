@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450354 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450357 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [27/06/2022 15H40:01]"
+sn.	0	IN	TXT	"No RRs processed [27/06/2022 16H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -5780,7 +5780,7 @@ dgppe.sn.	0	IN	NS	nsmpro1.nordnet.com.
 dgppe.sn.	0	IN	NS	nsmpro2.nordnet.com.
 dgpsn.sn.	0	IN	NS	ns200.anycast.me.
 dgpsn.sn.	0	IN	NS	dns200.anycast.me.
-dgpsn.sn.	0	IN	DS	18022 8 2 88ae3894cc6750c12f12ddc0e73b1e07dc4d2baa9a873027e7b6da2d1bb6f299
+dgpsn.sn.	0	IN	DS	44650 8 2 f9a78cfe537db48d4b561c7c11de339b56489312659abe13adf9453bfdad3eda
 dgpssn.sn.	0	IN	NS	ns.gouv.sn.
 dgpssn.sn.	0	IN	NS	ns2.gouv.sn.
 dgpssn.sn.	0	IN	NS	ns3.gouv.sn.
@@ -16086,12 +16086,10 @@ primature.sn.	0	IN	NS	ns2.gouv.sn.
 primature.sn.	0	IN	NS	ns3.gouv.sn.
 primeale.sn.	0	IN	NS	dns1.cscdns.net.
 primeale.sn.	0	IN	NS	dns2.cscdns.net.
-primealesenegal.sn.	0	IN	NS	ns1.hostnet.nl.
-primealesenegal.sn.	0	IN	NS	ns2.hostnetbv.com.
-primealesenegal.sn.	0	IN	NS	ns3.hostnetbv.nl.
-primealeunited.sn.	0	IN	NS	ns1.hostnet.nl.
-primealeunited.sn.	0	IN	NS	ns2.hostnetbv.com.
-primealeunited.sn.	0	IN	NS	ns3.hostnetbv.nl.
+primealesenegal.sn.	0	IN	NS	ns01.hostnet.nl.
+primealesenegal.sn.	0	IN	NS	ns02.hostnet.nl.
+primealeunited.sn.	0	IN	NS	ns01.hostnet.nl.
+primealeunited.sn.	0	IN	NS	ns02.hostnet.nl.
 primetimes.sn.	0	IN	NS	ns200.anycast.me.
 primetimes.sn.	0	IN	NS	dns200.anycast.me.
 primetimes.sn.	0	IN	DS	54352 8 2 19cadad1a6feac0fb4656d33c93b3051737f97b7b81ba8a1ba3816bbc466595f
