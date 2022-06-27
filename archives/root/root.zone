@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022062701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022062702 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -14543,6 +14543,7 @@ sa.	0	IN	NS	n1.dns.sa.
 sa.	0	IN	NS	p1.dns.sa.
 sa.	0	IN	NS	s1.dns.sa.
 sa.	0	IN	NS	s2.dns.sa.
+sa.	0	IN	NS	sh1.dns.sa.
 sa.	0	IN	DS	51091 8 2 884f556d23ca7c53d5546b3fe49e2c5aa147b0f6d65c91c096b13c085b3f9a64
 c1.dns.sa.	0	IN	A	86.111.192.9
 c1.dns.sa.	0	IN	AAAA	2001:67c:130:410::9
@@ -14558,6 +14559,8 @@ s1.dns.sa.	0	IN	A	37.107.223.170
 s1.dns.sa.	0	IN	AAAA	2001:16a0:1:3002::2
 s2.dns.sa.	0	IN	A	37.107.255.170
 s2.dns.sa.	0	IN	AAAA	2001:16a0:2:3002::2
+sh1.dns.sa.	0	IN	A	213.236.36.92
+sh1.dns.sa.	0	IN	AAAA	2a02:d70:64:68::2
 saarland.	0	IN	NS	a.nic.saarland.
 saarland.	0	IN	NS	b.nic.saarland.
 saarland.	0	IN	NS	c.nic.saarland.
@@ -17333,7 +17336,6 @@ tz.	0	IN	NS	rip.psg.com.
 tz.	0	IN	NS	fork.sth.dnsnode.net.
 tz.	0	IN	NS	ns-tz.afrinic.net.
 tz.	0	IN	DS	30234 13 2 3d83825b9f7d66f9b28b5566ba5371798e8d3b88ef079bb88f52617811c1b9a0
-tz.	0	IN	DS	63382 10 2 b1e836eaef0a4e2428fb04d8ad443c15abb3281ed7466408c1882f9122ef5d52
 ns.anycast.co.tz.	0	IN	A	204.61.216.15
 ns.anycast.co.tz.	0	IN	AAAA	2001:500:14:6015:ad::1
 b.ns.tznic.or.tz.	0	IN	A	196.216.162.70
@@ -19621,6 +19623,7 @@ xn--mgberp4a5d4ar.	0	IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s2.dns.sa.
+xn--mgberp4a5d4ar.	0	IN	NS	sh1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	DS	35065 8 2 349fbddb7899686446d9e2b534cc5ffe33b5a73a84b93555d0e905710e284eb0
 xn--mgbgu82a.	0	IN	NS	ns1.registry.in.
 xn--mgbgu82a.	0	IN	NS	ns2.registry.in.
