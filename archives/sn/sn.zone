@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450514 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450524 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [28/06/2022 14H00:01]"
+sn.	0	IN	TXT	"No RRs processed [28/06/2022 15H40:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -14340,7 +14340,7 @@ ngsengineering.sn.	0	IN	NS	dns16.ovh.net.
 ngsengineering.sn.	0	IN	DS	65176 8 2 6afbfdd327d7ed2eeeeb5267c1c49eb0c5f7f72b37497ab6e7d766e79b65395b
 ngsys.sn.	0	IN	NS	ns10.ovh.ca.
 ngsys.sn.	0	IN	NS	dns10.ovh.ca.
-ngsys.sn.	0	IN	DS	24304 8 2 d983cf6e9ae28af366b6facc64d82c5379ccf7ed6b7f45d3c7817d5c020d348b
+ngsys.sn.	0	IN	DS	46234 8 2 7f5f54d912a09a39e9ecca9ca4d3cd48d3bad8632bcab99a48ad48648cfd5792
 ngts.sn.	0	IN	NS	ns200.anycast.me.
 ngts.sn.	0	IN	NS	dns200.anycast.me.
 ngts.sn.	0	IN	DS	44962 8 2 a0c7bef45629a3033a6f35cd162cea2f9fec77c603594d49892cceb25d08803f
@@ -21291,6 +21291,10 @@ vh1.sn.	0	IN	NS	pdns3.ultradns.org.
 vh1.sn.	0	IN	NS	pdns4.ultradns.org.
 vh1.sn.	0	IN	NS	pdns5.ultradns.info.
 vh1.sn.	0	IN	NS	pdns6.ultradns.co.uk.
+via.sn.	0	IN	NS	ns1.kheweul.net.
+via.sn.	0	IN	NS	ns2.kheweul.net.
+via.sn.	0	IN	NS	ns3.kheweul.net.
+via.sn.	0	IN	NS	ns4.kheweul.net.
 viap.sn.	0	IN	NS	rns1.rightsdns.com.
 viap.sn.	0	IN	NS	rns2.rightsdns.com.
 viaplay.sn.	0	IN	NS	ns1.zaccodns.com.
