@@ -1,10 +1,10 @@
-mg.	0	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062809 600 3600 604800 86400
+mg.	0	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2022062810 600 3600 604800 86400
 mg.	0	IN	NS	ns.dts.mg.
 mg.	0	IN	NS	ns.nic.mg.
 mg.	0	IN	NS	pch.nic.mg.
 mg.	0	IN	NS	ns-mg.malagasy.com.
 mg.	0	IN	NS	censvrns0001.ird.fr.
-mg.	0	IN	TXT	"Generation Time: 1656406892"
+mg.	0	IN	TXT	"Generation Time: 1656410503"
 00.mg.	0	IN	NS	gns1.cloudns.net.
 00.mg.	0	IN	NS	gns2.cloudns.net.
 00.mg.	0	IN	NS	gns3.cloudns.net.
@@ -2932,6 +2932,8 @@ dev-tech.mg.	0	IN	NS	adam.ns.cloudflare.com.
 dev-tech.mg.	0	IN	NS	sloan.ns.cloudflare.com.
 devschool.mg.	0	IN	NS	ns1.da.cloudns.io.
 devschool.mg.	0	IN	NS	ns2.da.cloudns.io.
+devtech-mada.mg.	0	IN	NS	ns1.madanetinfo.mg.
+devtech-mada.mg.	0	IN	NS	ns2.madanetinfo.mg.
 dexios.mg.	0	IN	NS	ns102.ovh.net.
 dexios.mg.	0	IN	NS	dns102.ovh.net.
 dgcf.mg.	0	IN	NS	ns.tgn.mg.
@@ -4775,10 +4777,8 @@ hitako-api.mg.	0	IN	NS	ns2.indritech.mg.
 hitako-api.mg.	0	IN	NS	ns3.indritech.mg.
 hk-jurifisc-mada.mg.	0	IN	NS	ns1.servermada.com.
 hk-jurifisc-mada.mg.	0	IN	NS	ns2.servermada.com.
-hmrrcabinet-avocats.mg.	0	IN	NS	ns1.p201.dns.oraclecloud.net.
-hmrrcabinet-avocats.mg.	0	IN	NS	ns2.p201.dns.oraclecloud.net.
-hmrrcabinet-avocats.mg.	0	IN	NS	ns3.p201.dns.oraclecloud.net.
-hmrrcabinet-avocats.mg.	0	IN	NS	ns4.p201.dns.oraclecloud.net.
+hmrrcabinet-avocats.mg.	0	IN	NS	kip.ns.cloudflare.com.
+hmrrcabinet-avocats.mg.	0	IN	NS	chelsea.ns.cloudflare.com.
 hms1.mg.	0	IN	NS	ns1.servermada.com.
 hms1.mg.	0	IN	NS	ns2.servermada.com.
 hnjm.mg.	0	IN	NS	dns1.indritech.biz.
