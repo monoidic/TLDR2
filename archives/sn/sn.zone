@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450540 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450551 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [28/06/2022 17H50:01]"
+sn.	0	IN	TXT	"No RRs processed [28/06/2022 19H20:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -7627,6 +7627,10 @@ exponentielle.sn.	0	IN	NS	ns105.ovh.net.
 exponentielle.sn.	0	IN	NS	dns105.ovh.net.
 expressautogg.sn.	0	IN	NS	ns2.francedns.com.
 expressautogg.sn.	0	IN	NS	cloudf03.francedns.com.
+expressbuilding.sn.	0	IN	NS	ns1.afrowebmaster.com.
+expressbuilding.sn.	0	IN	NS	ns2.afrowebmaster.com.
+expressbuilding.sn.	0	IN	NS	ns3.afrowebmaster.com.
+expressbuilding.sn.	0	IN	NS	ns4.afrowebmaster.com.
 expresso.sn.	0	IN	NS	ns1.expresso.sn.
 expresso.sn.	0	IN	NS	vpn.expresso.sn.
 expresso.sn.	0	IN	NS	wap.expresso.sn.
@@ -19339,7 +19343,6 @@ spdi.sn.	0	IN	NS	dns1.tizoo.com.
 spdi.sn.	0	IN	NS	dns2.tizoo.com.
 spebts.sn.	0	IN	NS	ns111.ovh.net.
 spebts.sn.	0	IN	NS	dns111.ovh.net.
-spebts.sn.	0	IN	DS	17650 8 2 3918ee0539cb9e8bf417f6077665e11f1f5705f1cf1433e55a349c8dc47090d6
 specialdelivery.sn.	0	IN	NS	ns2.francedns.com.
 specialdelivery.sn.	0	IN	NS	cloudf03.francedns.com.
 specialolympics.sn.	0	IN	NS	ns100.ovh.net.
