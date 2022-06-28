@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450499 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450506 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [28/06/2022 12H00:01]"
+sn.	0	IN	TXT	"2 RRs processed [28/06/2022 13H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6170,6 +6170,10 @@ dlm.sn.	0	IN	NS	ns104.ovh.net.
 dlm.sn.	0	IN	NS	dns104.ovh.net.
 dlpartners.sn.	0	IN	NS	ns5.jokko-hosting.com.
 dlpartners.sn.	0	IN	NS	ns9.jokko-hosting.com.
+dmanager.sn.	0	IN	NS	ns1.afrowebmaster.com.
+dmanager.sn.	0	IN	NS	ns2.afrowebmaster.com.
+dmanager.sn.	0	IN	NS	ns3.afrowebmaster.com.
+dmanager.sn.	0	IN	NS	ns4.afrowebmaster.com.
 dmc.sn.	0	IN	NS	ns1.vultr.com.
 dmc.sn.	0	IN	NS	ns2.vultr.com.
 dmcomputer.sn.	0	IN	NS	ns41.infomaniak.com.
@@ -13586,7 +13590,6 @@ mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.com.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.org.
 mirador-securite-senegal.sn.	0	IN	NS	ns200.anycast.me.
 mirador-securite-senegal.sn.	0	IN	NS	dns200.anycast.me.
-mirador-securite-senegal.sn.	0	IN	DS	50815 8 2 20d86cb7b26d6c591c7e2d6c78c20fcdc344757d4b094226f19c361042986052
 miraletransit.sn.	0	IN	NS	ckxerjm.cluster031.hosting.ovh.net.
 miraletransit.sn.	0	IN	NS	supp667576.mars.orderbox-dns.com.
 miraletransit.sn.	0	IN	NS	supp667576.earth.orderbox-dns.com.
@@ -13727,6 +13730,8 @@ monauto.sn.	0	IN	NS	ns2.francedns.com.
 monauto.sn.	0	IN	NS	ns3.francedns.com.
 moncallcenter.sn.	0	IN	NS	ns104.ovh.net.
 moncallcenter.sn.	0	IN	NS	dns104.ovh.net.
+monchezmoi.sn.	0	IN	NS	ns5.jajeuf.com.
+monchezmoi.sn.	0	IN	NS	ns6.jajeuf.com.
 mondialannonce.sn.	0	IN	NS	ns1.inmotionhosting.com.
 mondialannonce.sn.	0	IN	NS	ns2.inmotionhosting.com.
 mondialbusiness.sn.	0	IN	NS	ns.sonatel.sn.
@@ -17813,9 +17818,6 @@ senegal2022.sn.	0	IN	NS	nssui.comlaude.ch.
 senegal2022.sn.	0	IN	NS	nsusa.comlaude.net.
 senegal2035.sn.	0	IN	NS	ns5.jokko-hosting.com.
 senegal2035.sn.	0	IN	NS	ns6.jokko-hosting.com.
-senegal24.sn.	0	IN	NS	ns106.ovh.net.
-senegal24.sn.	0	IN	NS	dns106.ovh.net.
-senegal24.sn.	0	IN	DS	16747 8 2 d1dff75699f11303e33601b7b3485dec1e2f7b359fc31fe594d778896a5f96d1
 senegalacademy.sn.	0	IN	NS	ns200.anycast.me.
 senegalacademy.sn.	0	IN	NS	dns200.anycast.me.
 senegalacademy.sn.	0	IN	DS	8935 8 2 3889f381061fef6e0a0cebc9019579221956daa60616e2e019f7357dec6fd3bb
