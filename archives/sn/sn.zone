@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450424 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450432 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [28/06/2022 01H00:01]"
+sn.	0	IN	TXT	"No RRs processed [28/06/2022 02H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13582,8 +13582,9 @@ mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.de.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.biz.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.com.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.org.
-mirador-securite-senegal.sn.	0	IN	NS	ns111.ovh.net.
-mirador-securite-senegal.sn.	0	IN	NS	dns111.ovh.net.
+mirador-securite-senegal.sn.	0	IN	NS	ns200.anycast.me.
+mirador-securite-senegal.sn.	0	IN	NS	dns200.anycast.me.
+mirador-securite-senegal.sn.	0	IN	DS	50815 8 2 20d86cb7b26d6c591c7e2d6c78c20fcdc344757d4b094226f19c361042986052
 miraletransit.sn.	0	IN	NS	ckxerjm.cluster031.hosting.ovh.net.
 miraletransit.sn.	0	IN	NS	supp667576.mars.orderbox-dns.com.
 miraletransit.sn.	0	IN	NS	supp667576.earth.orderbox-dns.com.
@@ -20948,10 +20949,8 @@ ufertilizers.sn.	0	IN	NS	ns4-l2.nic.ru.
 ufertilizers.sn.	0	IN	NS	ns8-l2.nic.ru.
 ufrsi-thies.sn.	0	IN	NS	ns1.powweb.com.
 ufrsi-thies.sn.	0	IN	NS	ns2.powweb.com.
-ufxc.sn.	0	IN	NS	ns-365.awsdns-45.com.
-ufxc.sn.	0	IN	NS	ns-700.awsdns-23.net.
-ufxc.sn.	0	IN	NS	ns-1449.awsdns-53.org.
-ufxc.sn.	0	IN	NS	ns-1961.awsdns-53.co.uk.
+ufxc.sn.	0	IN	NS	ns5.afriregister.co.ke.
+ufxc.sn.	0	IN	NS	ns6.afriregister.co.ke.
 ugb.sn.	0	IN	NS	ns.ugb.sn.
 ugb.sn.	0	IN	NS	ns.ucad.sn.
 ugb.sn.	0	IN	NS	ns3.cctld.sn.
