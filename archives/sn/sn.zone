@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450675 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450687 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [29/06/2022 14H00:02]"
+sn.	0	IN	TXT	"No RRs processed [29/06/2022 15H30:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -262,6 +262,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 5555.sn.	0	IN	NS	vip8.alidns.com.
 6277.sn.	0	IN	NS	ns1.dns.com.
 6277.sn.	0	IN	NS	ns2.dns.com.
+6547.sn.	0	IN	NS	ns1.dns.com.
+6547.sn.	0	IN	NS	ns2.dns.com.
 661.sn.	0	IN	NS	vip7.alidns.com.
 661.sn.	0	IN	NS	vip8.alidns.com.
 662.sn.	0	IN	NS	vip7.alidns.com.
@@ -4592,9 +4594,10 @@ cnrabambey.sn.	0	IN	NS	ns2.kheweul.net.
 cnrabambey.sn.	0	IN	NS	ns3.kheweul.net.
 cnrabambey.sn.	0	IN	NS	ns4.kheweul.net.
 cnrf.sn.	0	IN	NS	ns.gouv.sn.
-cnscl.sn.	0	IN	NS	ns.gouv.sn.
-cnscl.sn.	0	IN	NS	ns2.gouv.sn.
-cnscl.sn.	0	IN	NS	ns3.gouv.sn.
+cnscl.sn.	0	IN	NS	ns1.kheweul.net.
+cnscl.sn.	0	IN	NS	ns2.kheweul.net.
+cnscl.sn.	0	IN	NS	ns3.kheweul.net.
+cnscl.sn.	0	IN	NS	ns4.kheweul.net.
 cnt-riz.sn.	0	IN	NS	ns102.ovh.net.
 cnt-riz.sn.	0	IN	NS	dns102.ovh.net.
 cnt-riz.sn.	0	IN	DS	17125 8 2 4369abd55bbc350ef4e3ff7dc816309ca3d6e580256777d688f682a7c9300f5d
@@ -10109,10 +10112,8 @@ impactservices.sn.	0	IN	NS	ns3.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns4.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns5.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns6.wanekoohost.com.
-impactsolution.sn.	0	IN	NS	ns5.lwsdns.com.
-impactsolution.sn.	0	IN	NS	ns6.lwsdns.com.
-impactsolution.sn.	0	IN	NS	ns7.lwsdns.com.
-impactsolution.sn.	0	IN	NS	ns8.lwsdns.com.
+impactsolution.sn.	0	IN	NS	dns1.namecheaphosting.com.
+impactsolution.sn.	0	IN	NS	dns2.namecheaphosting.com.
 imperial.sn.	0	IN	NS	ns.sonatel.sn.
 imperial.sn.	0	IN	NS	ns2.sonatel.sn.
 imperyal.sn.	0	IN	NS	ns1.kheweul.net.
@@ -12351,6 +12352,7 @@ letremplindestalentsausenegal.sn.	0	IN	NS	dns200.anycast.me.
 letremplindestalentsausenegal.sn.	0	IN	DS	53845 8 2 4d33c772b3b3a86fcd874368f4b3279af760ff6fa6b4653bb8824cba630ceaae
 letrio.sn.	0	IN	NS	ns111.ovh.net.
 letrio.sn.	0	IN	NS	dns111.ovh.net.
+letrio.sn.	0	IN	DS	8680 8 2 cdb60001458c4ff8d31963575d8abf572435e3ec7b745c0c9e7cd7f0dfa3d72f
 letsgosortir.sn.	0	IN	NS	ns11.ovh.net.
 letsgosortir.sn.	0	IN	NS	dns11.ovh.net.
 letsgosortir.sn.	0	IN	DS	19981 8 2 e5e87769eefe45ba717578024e8e62c7f9f6caea1a7737b7ea77658c6bba0dc4
