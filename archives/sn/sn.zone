@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450740 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450746 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [29/06/2022 23H00:01]"
+sn.	0	IN	TXT	"No RRs processed [30/06/2022 00H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -6988,6 +6988,9 @@ emco.sn.	0	IN	NS	ns3.zoneedit.com.
 emco.sn.	0	IN	NS	ns8.zoneedit.com.
 emcsenegal.sn.	0	IN	NS	ns1.snterra.com.
 emcsenegal.sn.	0	IN	NS	ns2.snterra.com.
+emd.sn.	0	IN	NS	ns111.ovh.net.
+emd.sn.	0	IN	NS	dns111.ovh.net.
+emd.sn.	0	IN	DS	54259 8 2 48719eceab886c13861e1060cc618341bb8a6d61add2ab6470fc095cfb47cbcc
 emdidi.sn.	0	IN	NS	ns101.ovh.net.
 emdidi.sn.	0	IN	NS	dns101.ovh.net.
 emdidi.sn.	0	IN	DS	53842 8 2 17cfe286be88674fa9d382a55068077210c78b143e4eb19a230e50eeb4a3d3b1
