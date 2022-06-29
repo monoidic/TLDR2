@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450661 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450668 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"2 RRs processed [29/06/2022 12H00:02]"
+sn.	0	IN	TXT	"4 RRs processed [29/06/2022 13H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -13600,8 +13600,10 @@ mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.de.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.biz.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.com.
 mirador-securite.sn.	0	IN	NS	ns1045.ui-dns.org.
-mirador-securite-senegal.sn.	0	IN	NS	ns200.anycast.me.
-mirador-securite-senegal.sn.	0	IN	NS	dns200.anycast.me.
+mirador-securite-senegal.sn.	0	IN	NS	ns1045.ui-dns.de.
+mirador-securite-senegal.sn.	0	IN	NS	ns1045.ui-dns.biz.
+mirador-securite-senegal.sn.	0	IN	NS	ns1045.ui-dns.com.
+mirador-securite-senegal.sn.	0	IN	NS	ns1045.ui-dns.org.
 miraletransit.sn.	0	IN	NS	ckxerjm.cluster031.hosting.ovh.net.
 miraletransit.sn.	0	IN	NS	supp667576.mars.orderbox-dns.com.
 miraletransit.sn.	0	IN	NS	supp667576.earth.orderbox-dns.com.
@@ -21579,6 +21581,10 @@ wallu.sn.	0	IN	NS	ns104.ovh.net.
 wallu.sn.	0	IN	NS	dns104.ovh.net.
 wally.sn.	0	IN	NS	ns15.ovh.net.
 wally.sn.	0	IN	NS	dns15.ovh.net.
+walo.sn.	0	IN	NS	ns3.wanekoohost.com.
+walo.sn.	0	IN	NS	ns4.wanekoohost.com.
+walo.sn.	0	IN	NS	ns5.wanekoohost.com.
+walo.sn.	0	IN	NS	ns6.wanekoohost.com.
 wandja.sn.	0	IN	NS	ns1.francedns.com.
 wandja.sn.	0	IN	NS	ns2.francedns.com.
 wandja.sn.	0	IN	NS	ns3.francedns.com.
