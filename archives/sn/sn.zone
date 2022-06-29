@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450668 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450675 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"4 RRs processed [29/06/2022 13H00:01]"
+sn.	0	IN	TXT	"No RRs processed [29/06/2022 14H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -4675,6 +4675,11 @@ coldstonecreamery.sn.	0	IN	NS	ns02.trademarkarea.com.
 coldstonecreamery.sn.	0	IN	NS	ns03.trademarkarea.com.
 colier.sn.	0	IN	NS	ns1.kheweul.net.
 colier.sn.	0	IN	NS	ns2.kheweul.net.
+colisprive.sn.	0	IN	NS	ns.bnamed.eu.
+colisprive.sn.	0	IN	NS	ns.bnamed.uk.
+colisprive.sn.	0	IN	NS	ns.bnamed.us.
+colisprive.sn.	0	IN	NS	ns.nscluster.fi.
+colisprive.sn.	0	IN	NS	ns.nscluster.hu.
 collect.sn.	0	IN	NS	ns105.ovh.net.
 collect.sn.	0	IN	NS	dns105.ovh.net.
 collect.sn.	0	IN	DS	60994 8 2 6b8bccb8516949c3c0c8769e3cfc92d8badaf6bd65822bd8d72c41ed8c4c5b74
@@ -11658,6 +11663,7 @@ koreamotors.sn.	0	IN	NS	ns5.wanekoohost.com.
 koreamotors.sn.	0	IN	NS	ns6.wanekoohost.com.
 korelmatel.sn.	0	IN	NS	ns111.ovh.net.
 korelmatel.sn.	0	IN	NS	dns111.ovh.net.
+korelmatel.sn.	0	IN	DS	35464 8 2 426da03db674e1f3f42344b30aac7ce553da1279ee64b7b6fbda4d9535435d6b
 korok.sn.	0	IN	NS	ns-109-b.gandi.net.
 korok.sn.	0	IN	NS	ns-132-c.gandi.net.
 korok.sn.	0	IN	NS	ns-212-a.gandi.net.
