@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450648 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450656 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [29/06/2022 10H00:01]"
+sn.	0	IN	TXT	"2 RRs processed [29/06/2022 11H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -3892,8 +3892,6 @@ ccak.sn.	0	IN	NS	ns1.kheweul.net.
 ccak.sn.	0	IN	NS	ns2.kheweul.net.
 ccak.sn.	0	IN	NS	ns3.kheweul.net.
 ccak.sn.	0	IN	NS	ns4.kheweul.net.
-ccas.sn.	0	IN	NS	ns1.sh002.webhostbox.net.
-ccas.sn.	0	IN	NS	ns2.sh002.webhostbox.net.
 ccba.sn.	0	IN	NS	ns3.wanekoohost.com.
 ccba.sn.	0	IN	NS	ns4.wanekoohost.com.
 ccba.sn.	0	IN	NS	ns5.wanekoohost.com.
@@ -13663,9 +13661,6 @@ mmterre.sn.	0	IN	NS	ns3.a2hosting.com.
 mmterre.sn.	0	IN	NS	ns4.a2hosting.com.
 mnagroupe.sn.	0	IN	NS	ns19.ovh.net.
 mnagroupe.sn.	0	IN	NS	dns19.ovh.net.
-mntrading.sn.	0	IN	NS	ns106.ovh.net.
-mntrading.sn.	0	IN	NS	dns106.ovh.net.
-mntrading.sn.	0	IN	DS	6139 8 2 751e6afef345af67cd1594f39d815d25fed609d0336a401b28ccda7aea185aae
 mobicom.sn.	0	IN	NS	ns112.ovh.net.
 mobicom.sn.	0	IN	NS	dns112.ovh.net.
 mobilea.sn.	0	IN	NS	ns7.jajeuf.com.
