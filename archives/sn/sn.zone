@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450824 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450830 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"6 RRs processed [30/06/2022 11H10:02]"
+sn.	0	IN	TXT	"No RRs processed [30/06/2022 12H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -307,6 +307,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 7xibar.sn.	0	IN	NS	ns6.wanekoohost.com.
 8393.sn.	0	IN	NS	ns7.alidns.com.
 8393.sn.	0	IN	NS	ns8.alidns.com.
+860.sn.	0	IN	NS	ns7.alidns.com.
+860.sn.	0	IN	NS	ns8.alidns.com.
 861.sn.	0	IN	NS	ns7.alidns.com.
 861.sn.	0	IN	NS	ns8.alidns.com.
 862.sn.	0	IN	NS	ns7.alidns.com.
@@ -335,8 +337,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 875.sn.	0	IN	NS	ns2.dns.com.
 876.sn.	0	IN	NS	ns1.dns.com.
 876.sn.	0	IN	NS	ns2.dns.com.
-877.sn.	0	IN	NS	ns1.dns.com.
-877.sn.	0	IN	NS	ns2.dns.com.
+877.sn.	0	IN	NS	ns7.alidns.com.
+877.sn.	0	IN	NS	ns8.alidns.com.
 878.sn.	0	IN	NS	ns1.dns.com.
 878.sn.	0	IN	NS	ns2.dns.com.
 879.sn.	0	IN	NS	ns1.dns.com.
@@ -379,14 +381,14 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 889.sn.	0	IN	NS	vip8.alidns.com.
 890.sn.	0	IN	NS	ns1.dns.com.
 890.sn.	0	IN	NS	ns2.dns.com.
-891.sn.	0	IN	NS	ns1.dns.com.
-891.sn.	0	IN	NS	ns2.dns.com.
-892.sn.	0	IN	NS	ns1.dns.com.
-892.sn.	0	IN	NS	ns2.dns.com.
+891.sn.	0	IN	NS	ns7.alidns.com.
+891.sn.	0	IN	NS	ns8.alidns.com.
+892.sn.	0	IN	NS	ns7.alidns.com.
+892.sn.	0	IN	NS	ns8.alidns.com.
 893.sn.	0	IN	NS	ns1.dns.com.
 893.sn.	0	IN	NS	ns2.dns.com.
-895.sn.	0	IN	NS	ns1.dns.com.
-895.sn.	0	IN	NS	ns2.dns.com.
+895.sn.	0	IN	NS	ns7.alidns.com.
+895.sn.	0	IN	NS	ns8.alidns.com.
 896.sn.	0	IN	NS	ns1.dns.com.
 896.sn.	0	IN	NS	ns2.dns.com.
 897.sn.	0	IN	NS	ns1.dns.com.
@@ -8463,7 +8465,7 @@ fsns.sn.	0	IN	NS	ns107.dnsprive.com.
 fsociety.sn.	0	IN	NS	ns3.wanekoohost.com.
 fsociety.sn.	0	IN	NS	ns4.wanekoohost.com.
 fsociety.sn.	0	IN	NS	ns5.wanekoohost.com.
-fsociety.sn.	0	IN	NS	ns6.wanekoohost.com.
+fsociety.sn.	0	IN	NS	ns7.wanekoohost.com.
 fsp-co.sn.	0	IN	NS	hosting100.arc.sn.
 fspe.sn.	0	IN	NS	ns1.kheweul.net.
 fspe.sn.	0	IN	NS	ns2.kheweul.net.
@@ -9644,10 +9646,10 @@ homeoplasmine.sn.	0	IN	NS	dns1.cscdns.net.
 homeoplasmine.sn.	0	IN	NS	dns2.cscdns.net.
 homeovox.sn.	0	IN	NS	dns1.cscdns.net.
 homeovox.sn.	0	IN	NS	dns2.cscdns.net.
-homeview.sn.	0	IN	NS	ns1.webgoku.com.
-homeview.sn.	0	IN	NS	ns2.webgoku.com.
-homeviewsenegal.sn.	0	IN	NS	ns1.webgoku.com.
-homeviewsenegal.sn.	0	IN	NS	ns2.webgoku.com.
+homeview.sn.	0	IN	NS	cash.ns.cloudflare.com.
+homeview.sn.	0	IN	NS	tina.ns.cloudflare.com.
+homeviewsenegal.sn.	0	IN	NS	cash.ns.cloudflare.com.
+homeviewsenegal.sn.	0	IN	NS	tina.ns.cloudflare.com.
 honda.sn.	0	IN	NS	rns1.rightsdns.com.
 honda.sn.	0	IN	NS	rns2.rightsdns.com.
 honestfoods.sn.	0	IN	NS	ns18.ovh.net.
@@ -9764,8 +9766,8 @@ huobi.sn.	0	IN	NS	ns-1407.awsdns-47.org.
 huobi.sn.	0	IN	NS	ns-1982.awsdns-55.co.uk.
 huobiz.sn.	0	IN	NS	ns1.icp100.net.
 huobiz.sn.	0	IN	NS	ns2.icp100.net.
-hvs.sn.	0	IN	NS	ns1.webgoku.com.
-hvs.sn.	0	IN	NS	ns2.webgoku.com.
+hvs.sn.	0	IN	NS	cash.ns.cloudflare.com.
+hvs.sn.	0	IN	NS	tina.ns.cloudflare.com.
 hyatt.sn.	0	IN	NS	ns1.brandsight-dns.com.
 hyatt.sn.	0	IN	NS	ns1.brandsight-dns.net.
 hyatt.sn.	0	IN	NS	ns2.brandsight-dns.com.
