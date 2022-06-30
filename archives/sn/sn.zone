@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450837 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450843 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [30/06/2022 13H00:02]"
+sn.	0	IN	TXT	"No RRs processed [30/06/2022 14H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -2166,6 +2166,8 @@ atos.sn.	0	IN	NS	dns1.cscdns.net.
 atos.sn.	0	IN	NS	dns2.cscdns.net.
 atps.sn.	0	IN	NS	ns1.md-15.webhostbox.net.
 atps.sn.	0	IN	NS	ns2.md-15.webhostbox.net.
+atr.sn.	0	IN	NS	ns1.caurys.net.
+atr.sn.	0	IN	NS	ns2.caurys.net.
 atrium.sn.	0	IN	NS	ns1.x10premium.com.
 atrium.sn.	0	IN	NS	ns2.x10premium.com.
 ats.sn.	0	IN	NS	dns2031a.trouble-free.net.
@@ -5603,8 +5605,9 @@ dbsfocus.sn.	0	IN	NS	ns1.kheweul.net.
 dbsfocus.sn.	0	IN	NS	ns2.kheweul.net.
 dbsfocus.sn.	0	IN	NS	ns3.kheweul.net.
 dbsfocus.sn.	0	IN	NS	ns4.kheweul.net.
-dc-industries.sn.	0	IN	NS	max.ns.cloudflare.com.
-dc-industries.sn.	0	IN	NS	iris.ns.cloudflare.com.
+dc-industries.sn.	0	IN	NS	ns1.netim.net.
+dc-industries.sn.	0	IN	NS	ns2.netim.net.
+dc-industries.sn.	0	IN	NS	ns3.netim.net.
 dca.sn.	0	IN	NS	ns200.anycast.me.
 dca.sn.	0	IN	NS	dns200.anycast.me.
 dca.sn.	0	IN	DS	43786 8 2 a77ce708be21ab21091a5c7ff2dca3780955e4e98938e769eea84917f8be033a
@@ -11828,7 +11831,7 @@ lab.sn.	0	IN	NS	ns2.dan.com.
 lab-metics.sn.	0	IN	NS	ns3.wanekoohost.com.
 lab-metics.sn.	0	IN	NS	ns4.wanekoohost.com.
 lab-metics.sn.	0	IN	NS	ns5.wanekoohost.com.
-lab-metics.sn.	0	IN	NS	ns6.wanekoohost.com.
+lab-metics.sn.	0	IN	NS	ns7.wanekoohost.com.
 lab-science.sn.	0	IN	NS	ns112.ovh.net.
 lab-science.sn.	0	IN	NS	dns112.ovh.net.
 lab-science.sn.	0	IN	DS	35869 8 2 638cb15b35e277bc0268ad9ad8fdde679c1e633e38f15933ecab7f2a13ca2396
@@ -15770,7 +15773,8 @@ ns1.pharmacie-bamba.sn.	0	IN	A	135.125.160.59
 ns2.pharmacie-bamba.sn.	0	IN	A	135.125.160.59
 pharmacieciteasecna.sn.	0	IN	NS	ns111.ovh.net.
 pharmacieciteasecna.sn.	0	IN	NS	dns111.ovh.net.
-pharmacieciteasecna.sn.	0	IN	DS	1201 8 2 b8bc96c5faafa9414749178bd847d83795e828b4ce70535385cb62dec9813a1f
+ns1.pharmacieciteasecna.sn.	0	IN	A	135.125.160.59
+ns2.pharmacieciteasecna.sn.	0	IN	A	135.125.160.59
 pharmacieconseil.sn.	0	IN	NS	ns20.ovh.net.
 pharmacieconseil.sn.	0	IN	NS	dns20.ovh.net.
 pharmacieconseil.sn.	0	IN	DS	27595 8 2 637163cfb91f44a360fe6739ccbd4ea4272026f0a822724f1ea52d180eefe30f
