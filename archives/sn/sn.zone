@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450843 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450859 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [30/06/2022 14H00:01]"
+sn.	0	IN	TXT	"30 RRs processed [30/06/2022 15H40:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -331,18 +331,18 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 871.sn.	0	IN	NS	ns8.alidns.com.
 872.sn.	0	IN	NS	ns7.alidns.com.
 872.sn.	0	IN	NS	ns8.alidns.com.
-873.sn.	0	IN	NS	ns1.dns.com.
-873.sn.	0	IN	NS	ns2.dns.com.
-875.sn.	0	IN	NS	ns1.dns.com.
-875.sn.	0	IN	NS	ns2.dns.com.
-876.sn.	0	IN	NS	ns1.dns.com.
-876.sn.	0	IN	NS	ns2.dns.com.
+873.sn.	0	IN	NS	ns7.alidns.com.
+873.sn.	0	IN	NS	ns8.alidns.com.
+875.sn.	0	IN	NS	ns7.alidns.com.
+875.sn.	0	IN	NS	ns8.alidns.com.
+876.sn.	0	IN	NS	ns7.alidns.com.
+876.sn.	0	IN	NS	ns8.alidns.com.
 877.sn.	0	IN	NS	ns7.alidns.com.
 877.sn.	0	IN	NS	ns8.alidns.com.
-878.sn.	0	IN	NS	ns1.dns.com.
-878.sn.	0	IN	NS	ns2.dns.com.
-879.sn.	0	IN	NS	ns1.dns.com.
-879.sn.	0	IN	NS	ns2.dns.com.
+878.sn.	0	IN	NS	ns7.alidns.com.
+878.sn.	0	IN	NS	ns8.alidns.com.
+879.sn.	0	IN	NS	ns7.alidns.com.
+879.sn.	0	IN	NS	ns8.alidns.com.
 880.sn.	0	IN	NS	vip7.alidns.com.
 880.sn.	0	IN	NS	vip8.alidns.com.
 881.sn.	0	IN	NS	vip7.alidns.com.
@@ -379,22 +379,22 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 888sport.sn.	0	IN	NS	dns3.idp365.net.
 889.sn.	0	IN	NS	vip7.alidns.com.
 889.sn.	0	IN	NS	vip8.alidns.com.
-890.sn.	0	IN	NS	ns1.dns.com.
-890.sn.	0	IN	NS	ns2.dns.com.
+890.sn.	0	IN	NS	ns7.alidns.com.
+890.sn.	0	IN	NS	ns8.alidns.com.
 891.sn.	0	IN	NS	ns7.alidns.com.
 891.sn.	0	IN	NS	ns8.alidns.com.
 892.sn.	0	IN	NS	ns7.alidns.com.
 892.sn.	0	IN	NS	ns8.alidns.com.
-893.sn.	0	IN	NS	ns1.dns.com.
-893.sn.	0	IN	NS	ns2.dns.com.
+893.sn.	0	IN	NS	ns7.alidns.com.
+893.sn.	0	IN	NS	ns8.alidns.com.
 895.sn.	0	IN	NS	ns7.alidns.com.
 895.sn.	0	IN	NS	ns8.alidns.com.
-896.sn.	0	IN	NS	ns1.dns.com.
-896.sn.	0	IN	NS	ns2.dns.com.
-897.sn.	0	IN	NS	ns1.dns.com.
-897.sn.	0	IN	NS	ns2.dns.com.
-898.sn.	0	IN	NS	ns1.dns.com.
-898.sn.	0	IN	NS	ns2.dns.com.
+896.sn.	0	IN	NS	ns7.alidns.com.
+896.sn.	0	IN	NS	ns8.alidns.com.
+897.sn.	0	IN	NS	ns7.alidns.com.
+897.sn.	0	IN	NS	ns8.alidns.com.
+898.sn.	0	IN	NS	ns7.alidns.com.
+898.sn.	0	IN	NS	ns8.alidns.com.
 899.sn.	0	IN	NS	ns7.alidns.com.
 899.sn.	0	IN	NS	ns8.alidns.com.
 911.sn.	0	IN	NS	ns1.netim.net.
@@ -2519,11 +2519,11 @@ banqueatlantique.sn.	0	IN	NS	ns1v.datapipe.net.
 banqueatlantique.sn.	0	IN	NS	ns2v.datapipe.net.
 banqueoutarde.sn.	0	IN	NS	ns20.ovh.net.
 banqueoutarde.sn.	0	IN	NS	dns20.ovh.net.
-banquepostale.sn.	0	IN	NS	ns.bnamed.eu.
-banquepostale.sn.	0	IN	NS	ns.bnamed.uk.
-banquepostale.sn.	0	IN	NS	ns.bnamed.us.
+banquepostale.sn.	0	IN	NS	ns.nscluster.eu.
 banquepostale.sn.	0	IN	NS	ns.nscluster.it.
 banquepostale.sn.	0	IN	NS	ns.nscluster.ru.
+banquepostale.sn.	0	IN	NS	ns.nscluster.uk.
+banquepostale.sn.	0	IN	NS	ns.nscluster.us.
 bao.sn.	0	IN	NS	ns10.ovh.ca.
 bao.sn.	0	IN	NS	dns10.ovh.ca.
 bao.sn.	0	IN	NS	ns200.anycast.me.
@@ -6468,8 +6468,6 @@ dsrse.sn.	0	IN	NS	dns1.hosteur.com.
 dsrse.sn.	0	IN	NS	dns2.hosteur.com.
 dstvondemand.sn.	0	IN	NS	dns01.naspers.com.
 dstvondemand.sn.	0	IN	NS	dns02.naspers.com.
-dsworks.sn.	0	IN	NS	ns104.ovh.net.
-dsworks.sn.	0	IN	NS	dns104.ovh.net.
 dtc.sn.	0	IN	NS	ns1.lexsynergy.net.
 dtc.sn.	0	IN	NS	ns2.lexsynergy.us.
 dtc.sn.	0	IN	NS	ns3.lexsynergy.info.
@@ -6692,6 +6690,7 @@ ecoleaimecesaire.sn.	0	IN	NS	pdns13.domaincontrol.com.
 ecoleaimecesaire.sn.	0	IN	NS	pdns14.domaincontrol.com.
 ecolebabylou.sn.	0	IN	NS	ns101.ovh.net.
 ecolebabylou.sn.	0	IN	NS	dns101.ovh.net.
+ecolebabylou.sn.	0	IN	DS	31786 8 2 97aff45b230ecec9e28932ffebfc4b0d3a34846d936fda080278e12c57a16c5d
 ecolebi.sn.	0	IN	NS	ns1.melakhtech.com.
 ecolebi.sn.	0	IN	NS	ns2.melakhtech.com.
 ecolechristroi.sn.	0	IN	NS	ns1.kheweul.net.
@@ -10165,7 +10164,7 @@ impactfitness.sn.	0	IN	NS	ns3.netim.net.
 impactservices.sn.	0	IN	NS	ns3.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns4.wanekoohost.com.
 impactservices.sn.	0	IN	NS	ns5.wanekoohost.com.
-impactservices.sn.	0	IN	NS	ns6.wanekoohost.com.
+impactservices.sn.	0	IN	NS	ns7.wanekoohost.com.
 impactsolution.sn.	0	IN	NS	dns1.namecheaphosting.com.
 impactsolution.sn.	0	IN	NS	dns2.namecheaphosting.com.
 imperial.sn.	0	IN	NS	ns.sonatel.sn.
@@ -11843,11 +11842,11 @@ labanqueagricole.sn.	0	IN	NS	ns.sonatel.sn.
 labanqueagricole.sn.	0	IN	NS	ns2.sonatel.sn.
 labanqueoutarde.sn.	0	IN	NS	ns20.ovh.net.
 labanqueoutarde.sn.	0	IN	NS	dns20.ovh.net.
-labanquepostale.sn.	0	IN	NS	ns.bnamed.eu.
-labanquepostale.sn.	0	IN	NS	ns.bnamed.uk.
-labanquepostale.sn.	0	IN	NS	ns.bnamed.us.
+labanquepostale.sn.	0	IN	NS	ns.nscluster.eu.
 labanquepostale.sn.	0	IN	NS	ns.nscluster.it.
 labanquepostale.sn.	0	IN	NS	ns.nscluster.ru.
+labanquepostale.sn.	0	IN	NS	ns.nscluster.uk.
+labanquepostale.sn.	0	IN	NS	ns.nscluster.us.
 labbaykasymalick.sn.	0	IN	NS	ns1.caurys.net.
 labbaykasymalick.sn.	0	IN	NS	ns2.caurys.net.
 labdev.sn.	0	IN	NS	ns1.kheweul.net.
@@ -14419,7 +14418,7 @@ nhood.sn.	0	IN	NS	dns2.cscdns.net.
 niakane.sn.	0	IN	NS	ns3.wanekoohost.com.
 niakane.sn.	0	IN	NS	ns4.wanekoohost.com.
 niakane.sn.	0	IN	NS	ns5.wanekoohost.com.
-niakane.sn.	0	IN	NS	ns6.wanekoohost.com.
+niakane.sn.	0	IN	NS	ns7.wanekoohost.com.
 niamartransit.sn.	0	IN	NS	ns9.jajeuf.com.
 niamartransit.sn.	0	IN	NS	ns10.jajeuf.com.
 niamnioro.sn.	0	IN	NS	ns17.ovh.net.
@@ -14871,9 +14870,6 @@ oliverosn.sn.	0	IN	NS	ns3.kheweul.net.
 oliverosn.sn.	0	IN	NS	ns4.kheweul.net.
 olxsenegal.sn.	0	IN	NS	dns01.naspers.com.
 olxsenegal.sn.	0	IN	NS	dns02.naspers.com.
-omana.sn.	0	IN	NS	ns106.ovh.net.
-omana.sn.	0	IN	NS	dns106.ovh.net.
-omana.sn.	0	IN	DS	20800 8 2 dcedcb240ab2cd30fdee4f2644ea019d29e20674f4e3304ca6651506a266bd98
 omarche.sn.	0	IN	NS	ns200.anycast.me.
 omarche.sn.	0	IN	NS	dns200.anycast.me.
 omarche.sn.	0	IN	DS	62632 8 2 e6d1238caa5ba4282ce34d884f876849cd5d3dc92079b1155c5f56f7a69c0426
@@ -19734,6 +19730,10 @@ sunutaax.sn.	0	IN	NS	ns2.sh004.webhostbox.net.
 sunutalents.sn.	0	IN	NS	ns13.ovh.net.
 sunutalents.sn.	0	IN	NS	dns13.ovh.net.
 sunutalents.sn.	0	IN	DS	57880 8 2 695ed30b18553f88fe11fcb07fd3fbbb0527a1d38443c13d4a2d6b0c149f0a2e
+sunutaniere.sn.	0	IN	NS	ns3.wanekoohost.com.
+sunutaniere.sn.	0	IN	NS	ns4.wanekoohost.com.
+sunutaniere.sn.	0	IN	NS	ns5.wanekoohost.com.
+sunutaniere.sn.	0	IN	NS	ns7.wanekoohost.com.
 sunutech.sn.	0	IN	NS	ns1.francedns.com.
 sunutech.sn.	0	IN	NS	ns2.francedns.com.
 sunutech.sn.	0	IN	NS	ns3.francedns.com.
