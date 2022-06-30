@@ -1,8 +1,7 @@
-pg.	0	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022060201 14400 7200 1728000 14400
+pg.	0	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2022070100 14400 7200 1728000 14400
 pg.	0	IN	NS	ns.uu.net.
 pg.	0	IN	NS	ns1.tiare.net.pg.
 pg.	0	IN	NS	ns1.unitech.ac.pg.
-pg.	0	IN	NS	ns2.tiare.net.pg.
 pg.	0	IN	NS	munnari.oz.au.
 adventist.ac.pg.	0	IN	NS	may.ns.cloudflare.com.
 adventist.ac.pg.	0	IN	NS	craig.ns.cloudflare.com.
@@ -55,6 +54,8 @@ dbgabutu.ac.pg.	0	IN	NS	ns1.dwu.ac.pg.
 dbgabutu.ac.pg.	0	IN	NS	dns1.pngarnet.ac.pg.
 dbti.ac.pg.	0	IN	NS	beth.ns.cloudflare.com.
 dbti.ac.pg.	0	IN	NS	will.ns.cloudflare.com.
+dftcol.ac.pg.	0	IN	NS	ns1.bluehost.com.
+dftcol.ac.pg.	0	IN	NS	ns2.bluehost.com.
 dis.ac.pg.	0	IN	NS	ns1.dwu.ac.pg.
 dis.ac.pg.	0	IN	NS	dns1.pngarnet.ac.pg.
 dwu.ac.pg.	0	IN	NS	vin.ns.cloudflare.com.
@@ -668,6 +669,9 @@ bpamoco.com.pg.	0	IN	NS	ns2.global.net.pg.
 bradshaw.com.pg.	0	IN	NS	ns1.qnetau.com.
 bradshaw.com.pg.	0	IN	NS	ns2.qnetau.com.
 bradshaw.com.pg.	0	IN	NS	ns3.qnetau.com.
+brandedclothing.com.pg.	0	IN	NS	ns1.telinet.com.pg.
+brandedclothing.com.pg.	0	IN	NS	ns2.telinet.com.pg.
+brandedclothing.com.pg.	0	IN	NS	ns3.telinet.com.pg.
 brandforce.com.pg.	0	IN	NS	ns1.telinet.com.pg.
 brandforce.com.pg.	0	IN	NS	ns2.telinet.com.pg.
 branis.com.pg.	0	IN	NS	ns1.datec.net.pg.
@@ -675,6 +679,8 @@ branis.com.pg.	0	IN	NS	ns2.datec.net.pg.
 branis.com.pg.	0	IN	NS	ns3.datec.net.pg.
 brianbell.com.pg.	0	IN	NS	cloe.ns.cloudflare.com.
 brianbell.com.pg.	0	IN	NS	damien.ns.cloudflare.com.
+brl.com.pg.	0	IN	NS	ns33.domaincontrol.com.
+brl.com.pg.	0	IN	NS	ns34.domaincontrol.com.
 brunel.com.pg.	0	IN	NS	ns1.brandshelter.com.
 brunel.com.pg.	0	IN	NS	ns2.brandshelter.net.
 brunel.com.pg.	0	IN	NS	ns4.brandshelter.de.
@@ -771,9 +777,9 @@ centel.com.pg.	0	IN	NS	ns1.agentpoint.com.au.
 centel.com.pg.	0	IN	NS	ns2.agentpoint.com.au.
 centralmart.com.pg.	0	IN	NS	ns1.bluehost.com.
 centralmart.com.pg.	0	IN	NS	ns2.bluehost.com.
-century21.com.pg.	0	IN	NS	ns3.quadrahosting.com.
-century21.com.pg.	0	IN	NS	ns4.quadrahosting.com.
-century21.com.pg.	0	IN	NS	ns5.quadrahosting.com.
+century21.com.pg.	0	IN	NS	ns3.quadarhosting.com.
+century21.com.pg.	0	IN	NS	ns4.quadarhosting.com.
+century21.com.pg.	0	IN	NS	ns5.quadarhosting.com.
 cge.com.pg.	0	IN	NS	ns1.telinet.com.pg.
 cge.com.pg.	0	IN	NS	ns2.telinet.com.pg.
 chatswood.com.pg.	0	IN	NS	server0.apcs.com.au.
@@ -1375,6 +1381,9 @@ frgclothingltd.com.pg.	0	IN	NS	ns2.qnetau.com.
 frgclothingltd.com.pg.	0	IN	NS	ns3.qnetau.com.
 frontierequities.com.pg.	0	IN	NS	ns1.telinet.com.pg.
 frontierequities.com.pg.	0	IN	NS	ns2.telinet.com.pg.
+fti.com.pg.	0	IN	NS	ns1.panthur.com.
+fti.com.pg.	0	IN	NS	ns2.panthur.com.
+fti.com.pg.	0	IN	NS	ns3.panthur.com.
 ftmconstruction.com.pg.	0	IN	NS	ns1.panthur.com.
 ftmconstruction.com.pg.	0	IN	NS	ns2.panthur.com.
 ftmconstruction.com.pg.	0	IN	NS	ns3.panthur.com.
@@ -2571,6 +2580,9 @@ mmtc.com.pg.	0	IN	NS	ns3.dreamhost.com.
 mnl.com.pg.	0	IN	NS	ns1.datec.net.pg.
 mnl.com.pg.	0	IN	NS	ns2.datec.net.pg.
 mnl.com.pg.	0	IN	NS	ns3.datec.net.pg.
+mobiledoctors.com.pg.	0	IN	NS	ns1.supercp.com.
+mobiledoctors.com.pg.	0	IN	NS	ns2.supercp.com.
+mobiledoctors.com.pg.	0	IN	NS	ns3.supercp.com.
 mobilemoni.com.pg.	0	IN	NS	ns25.domaincontrol.com.
 mobilemoni.com.pg.	0	IN	NS	ns26.domaincontrol.com.
 mobileworks.com.pg.	0	IN	NS	ns1.host-care.com.
@@ -2765,6 +2777,8 @@ nayal.com.pg.	0	IN	NS	ns2.qnetau.com.
 nayal.com.pg.	0	IN	NS	ns3.qnetau.com.
 nbc.com.pg.	0	IN	NS	ns1.pngconnect.com.
 nbc.com.pg.	0	IN	NS	ns2.pngconnect.com.
+nbcpng.com.pg.	0	IN	NS	ns1.hostgator.com.
+nbcpng.com.pg.	0	IN	NS	ns2.hostgator.com.
 nbpol.com.pg.	0	IN	NS	ns1.online.net.pg.
 nbpol.com.pg.	0	IN	NS	ns2.online.net.pg.
 nca.com.pg.	0	IN	NS	ns1.online.net.pg.
@@ -2795,6 +2809,8 @@ ndbinvestments.com.pg.	0	IN	NS	ns2.digiteccloud.com.
 nelsonlawyers.com.pg.	0	IN	NS	ns1.datec.net.pg.
 nelsonlawyers.com.pg.	0	IN	NS	ns2.datec.net.pg.
 nelsonlawyers.com.pg.	0	IN	NS	ns3.datec.net.pg.
+nenogroup.com.pg.	0	IN	NS	ns1.dns-parking.com.
+nenogroup.com.pg.	0	IN	NS	ns2.dns-parking.com.
 nesafoam.com.pg.	0	IN	NS	ns1.sitelutions.com.
 nesafoam.com.pg.	0	IN	NS	ns2.sitelutions.com.
 nesafoam.com.pg.	0	IN	NS	ns3.sitelutions.com.
@@ -2835,8 +2851,6 @@ ngf.com.pg.	0	IN	NS	ns3.qnetau.com.
 ngityres.com.pg.	0	IN	NS	ns1.qnetau.com.
 ngityres.com.pg.	0	IN	NS	ns2.qnetau.com.
 ngityres.com.pg.	0	IN	NS	ns3.qnetau.com.
-nhc.com.pg.	0	IN	NS	ns1.datec.net.pg.
-nhc.com.pg.	0	IN	NS	ns2.datec.net.pg.
 nhel.com.pg.	0	IN	NS	ns1.telinet.com.pg.
 nhel.com.pg.	0	IN	NS	ns2.telinet.com.pg.
 nhr.com.pg.	0	IN	NS	ns1.telinet.com.pg.
@@ -3715,6 +3729,9 @@ rnsons.com.pg.	0	IN	NS	ns1.pngits.com.
 rnsons.com.pg.	0	IN	NS	ns2.pngits.com.
 rodcliffe.com.pg.	0	IN	NS	ns1.global.net.pg.
 rodcliffe.com.pg.	0	IN	NS	ns2.global.net.pg.
+rossogroupltd.com.pg.	0	IN	NS	ns1.panthur.com.
+rossogroupltd.com.pg.	0	IN	NS	ns2.panthur.com.
+rossogroupltd.com.pg.	0	IN	NS	ns3.panthur.com.
 rpyc.com.pg.	0	IN	NS	ns1.datec.net.pg.
 rpyc.com.pg.	0	IN	NS	ns2.datec.net.pg.
 rpyc.com.pg.	0	IN	NS	ns3.datec.net.pg.
@@ -3754,6 +3771,8 @@ saunnatravels.com.pg.	0	IN	NS	ns3.qnetau.com.
 savannahheights.com.pg.	0	IN	NS	ns1.datec.net.pg.
 savannahheights.com.pg.	0	IN	NS	ns2.datec.net.pg.
 savannahheights.com.pg.	0	IN	NS	ns3.datec.net.pg.
+savcorart.com.pg.	0	IN	NS	ns1.reefit.cloud.
+savcorart.com.pg.	0	IN	NS	ns2.reefit.cloud.
 savimeds.com.pg.	0	IN	NS	ns6291.hostgator.com.
 savimeds.com.pg.	0	IN	NS	ns6292.hostgator.com.
 savitec.com.pg.	0	IN	NS	ns1.telinet.com.pg.
@@ -3845,6 +3864,8 @@ simpearlshipping.com.pg.	0	IN	NS	ns2.domain.com.
 simpson.com.pg.	0	IN	NS	ns1.qnetau.com.
 simpson.com.pg.	0	IN	NS	ns2.qnetau.com.
 simpson.com.pg.	0	IN	NS	ns3.qnetau.com.
+simvale.com.pg.	0	IN	NS	ns15.domaincontrol.com.
+simvale.com.pg.	0	IN	NS	ns16.domaincontrol.com.
 sintonspence.com.pg.	0	IN	NS	ns21.cloudns.net.
 sintonspence.com.pg.	0	IN	NS	ns22.cloudns.net.
 siraelawyers.com.pg.	0	IN	NS	ns1.qnetau.com.
@@ -4715,6 +4736,10 @@ dfcdr.gov.pg.	0	IN	NS	ns2.telinet.com.pg.
 dherst.gov.pg.	0	IN	NS	ns1.pngarnet.net.
 dherst.gov.pg.	0	IN	NS	ns1.gsgpm1006.siteground.biz.
 dherst.gov.pg.	0	IN	NS	ns2.gsgpm1006.siteground.biz.
+digital.gov.pg.	0	IN	NS	ns-254.awsdns-31.com.
+digital.gov.pg.	0	IN	NS	ns-839.awsdns-40.net.
+digital.gov.pg.	0	IN	NS	ns-1310.awsdns-35.org.
+digital.gov.pg.	0	IN	NS	ns-1850.awsdns-39.co.uk.
 dird.gov.pg.	0	IN	NS	ns1.datec.net.pg.
 dird.gov.pg.	0	IN	NS	ns2.datec.net.pg.
 dird.gov.pg.	0	IN	NS	ns3.datec.net.pg.
@@ -4841,8 +4866,10 @@ imbonggu.gov.pg.	0	IN	NS	ns3.qnetau.com.
 immigration.gov.pg.	0	IN	NS	ns1.datec.net.pg.
 immigration.gov.pg.	0	IN	NS	ns2.datec.net.pg.
 immigration.gov.pg.	0	IN	NS	ns3.datec.net.pg.
-info.gov.pg.	0	IN	NS	ns1.telinet.com.pg.
-info.gov.pg.	0	IN	NS	ns2.telinet.com.pg.
+info.gov.pg.	0	IN	NS	ns-168.awsdns-21.com.
+info.gov.pg.	0	IN	NS	ns-540.awsdns-03.net.
+info.gov.pg.	0	IN	NS	ns-1140.awsdns-14.org.
+info.gov.pg.	0	IN	NS	ns-1803.awsdns-33.co.uk.
 ipa.gov.pg.	0	IN	NS	ns1.datec.net.pg.
 ipa.gov.pg.	0	IN	NS	ns2.datec.net.pg.
 ipa.gov.pg.	0	IN	NS	ns3.datec.net.pg.
@@ -5002,6 +5029,9 @@ ngbvs.gov.pg.	0	IN	NS	ns-1160.awsdns-17.org.
 ngbvs.gov.pg.	0	IN	NS	ns-1645.awsdns-13.co.uk.
 ngcb.gov.pg.	0	IN	NS	cp.apcs.com.au.
 ngcb.gov.pg.	0	IN	NS	host.apcs.com.au.
+nhc.gov.pg.	0	IN	NS	ns1.telinet.com.pg.
+nhc.gov.pg.	0	IN	NS	ns2.telinet.com.pg.
+nhc.gov.pg.	0	IN	NS	ns3.telinet.com.pg.
 nicta.gov.pg.	0	IN	NS	ns1.telinet.com.pg.
 nicta.gov.pg.	0	IN	NS	ns2.telinet.com.pg.
 nicta.gov.pg.	0	IN	NS	hunts.ns.cloudflare.com.
@@ -5200,6 +5230,10 @@ sinivitllg.gov.pg.	0	IN	NS	ns1.domain.com.
 sinivitllg.gov.pg.	0	IN	NS	ns2.domain.com.
 sipha.gov.pg.	0	IN	NS	ns1.agentpoint.com.au.
 sipha.gov.pg.	0	IN	NS	ns2.agentpoint.com.au.
+slos.gov.pg.	0	IN	NS	ns-41.awsdns-05.com.
+slos.gov.pg.	0	IN	NS	ns-699.awsdns-23.net.
+slos.gov.pg.	0	IN	NS	ns-1492.awsdns-58.org.
+slos.gov.pg.	0	IN	NS	ns-1677.awsdns-17.co.uk.
 smecorp.gov.pg.	0	IN	NS	ns6421.hostgator.com.
 smecorp.gov.pg.	0	IN	NS	ns6422.hostgator.com.
 spcpsr.gov.pg.	0	IN	NS	ns101.cloudns.net.
@@ -5758,8 +5792,8 @@ pngcs.org.pg.	0	IN	NS	ns3.hostingpng.com.
 pngdata4development.org.pg.	0	IN	NS	ns1.datec.net.pg.
 pngdata4development.org.pg.	0	IN	NS	ns2.datec.net.pg.
 pngdata4development.org.pg.	0	IN	NS	ns3.datec.net.pg.
-pngeiti.org.pg.	0	IN	NS	ns1.sgp22.siteground.asia.
-pngeiti.org.pg.	0	IN	NS	ns2.sgp22.siteground.asia.
+pngeiti.org.pg.	0	IN	NS	ns1.dns-parking.com.
+pngeiti.org.pg.	0	IN	NS	ns2.dns-parking.com.
 pngeubc.org.pg.	0	IN	NS	ns1.qnetau.com.
 pngeubc.org.pg.	0	IN	NS	ns2.qnetau.com.
 pngeubc.org.pg.	0	IN	NS	ns3.qnetau.com.
