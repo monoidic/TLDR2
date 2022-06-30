@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450892 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450898 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [30/06/2022 20H10:01]"
+sn.	0	IN	TXT	"No RRs processed [30/06/2022 21H10:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -129,6 +129,10 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 22betsenegal.sn.	0	IN	NS	zelda.ns.cloudflare.com.
 24heures.sn.	0	IN	NS	ns9.jajeuf.com.
 24heures.sn.	0	IN	NS	ns10.jajeuf.com.
+24info.sn.	0	IN	NS	ns3.wanekoohost.com.
+24info.sn.	0	IN	NS	ns4.wanekoohost.com.
+24info.sn.	0	IN	NS	ns5.wanekoohost.com.
+24info.sn.	0	IN	NS	ns7.wanekoohost.com.
 2ai.sn.	0	IN	NS	ns200.anycast.me.
 2ai.sn.	0	IN	NS	dns200.anycast.me.
 2ai.sn.	0	IN	DS	9421 8 2 25d7e7e4906718e4231d25944fb34e87f27be3117fc7b303d303923799f3ea0d
@@ -17932,8 +17936,8 @@ senegalinfo.sn.	0	IN	NS	ns1.o2switch.net.
 senegalinfo.sn.	0	IN	NS	ns2.o2switch.net.
 senegalinvestland.sn.	0	IN	NS	dns1.interdominios.com.
 senegalinvestland.sn.	0	IN	NS	dns2.interdominios.com.
-senegalis.sn.	0	IN	NS	ns111.ovh.net.
-senegalis.sn.	0	IN	NS	dns111.ovh.net.
+senegalis.sn.	0	IN	NS	ns1.siteground.net.
+senegalis.sn.	0	IN	NS	ns2.siteground.net.
 senegaljob.sn.	0	IN	NS	nsa.n0c.com.
 senegaljob.sn.	0	IN	NS	nsb.n0c.com.
 senegaljob.sn.	0	IN	NS	nsc.n0c.com.
