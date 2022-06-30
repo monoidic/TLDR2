@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450870 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450877 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"3 RRs processed [30/06/2022 17H00:01]"
+sn.	0	IN	TXT	"3 RRs processed [30/06/2022 18H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -8436,6 +8436,9 @@ fresh2you.sn.	0	IN	NS	ns2.beedns.eu.
 fresh2you.sn.	0	IN	NS	ns3.beedns.co.
 fri.sn.	0	IN	NS	ns13.ovh.net.
 fri.sn.	0	IN	NS	dns13.ovh.net.
+friperie.sn.	0	IN	NS	ns111.ovh.net.
+friperie.sn.	0	IN	NS	dns111.ovh.net.
+friperie.sn.	0	IN	DS	17299 8 2 e94e1bceca4b68b05aafe8b356cfd509d435afa89a88a51a57be39954caaf44b
 frm.sn.	0	IN	NS	april.ns.cloudflare.com.
 frm.sn.	0	IN	NS	ernest.ns.cloudflare.com.
 from.sn.	0	IN	NS	ns1.vercel-dns.com.
@@ -17700,6 +17703,8 @@ senacpeintures.sn.	0	IN	NS	ns109.ovh.net.
 senacpeintures.sn.	0	IN	NS	dns109.ovh.net.
 senaction.sn.	0	IN	NS	ns1.kheweul.com.
 senaction.sn.	0	IN	NS	ns2.kheweul.com.
+senactu.sn.	0	IN	NS	ns1.dns-parking.com.
+senactu.sn.	0	IN	NS	ns2.dns-parking.com.
 senaffaires.sn.	0	IN	NS	ns19.ovh.net.
 senaffaires.sn.	0	IN	NS	dns19.ovh.net.
 senaffaires.sn.	0	IN	DS	12379 8 2 40e28e0f01bf9321eb483cbe9d38e483568dfeb332f68f73d3f773b1424d11c7
@@ -18299,7 +18304,7 @@ senveto.sn.	0	IN	NS	dns102.ovh.net.
 senvision.sn.	0	IN	NS	ns3.wanekoohost.com.
 senvision.sn.	0	IN	NS	ns4.wanekoohost.com.
 senvision.sn.	0	IN	NS	ns5.wanekoohost.com.
-senvision.sn.	0	IN	NS	ns6.wanekoohost.com.
+senvision.sn.	0	IN	NS	ns7.wanekoohost.com.
 senvitalesh.sn.	0	IN	NS	ns1.senvitalesh.sn.
 senvitalesh.sn.	0	IN	NS	ns2.senvitalesh.sn.
 ns1.senvitalesh.sn.	0	IN	A	34.69.242.43
@@ -20943,10 +20948,8 @@ tumi.sn.	0	IN	NS	ns.bnamed.uk.
 tumi.sn.	0	IN	NS	ns.bnamed.us.
 tumi.sn.	0	IN	NS	ns.nscluster.re.
 tumi.sn.	0	IN	NS	ns.nscluster.tf.
-tunde.sn.	0	IN	NS	ns1.kheweul.net.
-tunde.sn.	0	IN	NS	ns2.kheweul.net.
-tunde.sn.	0	IN	NS	ns3.kheweul.net.
-tunde.sn.	0	IN	NS	ns4.kheweul.net.
+tunde.sn.	0	IN	NS	ns1.md-54.webhostbox.net.
+tunde.sn.	0	IN	NS	ns2.md-54.webhostbox.net.
 turco-meubles.sn.	0	IN	NS	ns1.ascio.com.
 turco-meubles.sn.	0	IN	NS	ns2.ascio.com.
 turco-meubles.sn.	0	IN	NS	ns3.ascio.com.
@@ -21333,10 +21336,8 @@ venoa.sn.	0	IN	NS	ns2.netim.net.
 venoa.sn.	0	IN	NS	ns3.netim.net.
 venoa.sn.	0	IN	NS	ns4.netim.net.
 venoa.sn.	0	IN	NS	ns5.netim.net.
-venteenligne.sn.	0	IN	NS	ns1.kheweul.net.
-venteenligne.sn.	0	IN	NS	ns2.kheweul.net.
-venteenligne.sn.	0	IN	NS	ns3.kheweul.net.
-venteenligne.sn.	0	IN	NS	ns4.kheweul.net.
+venteenligne.sn.	0	IN	NS	ns1.cp-ht-11.webhostbox.net.
+venteenligne.sn.	0	IN	NS	ns2.cp-ht-11.webhostbox.net.
 venus.sn.	0	IN	NS	tani.ns.cloudflare.com.
 venus.sn.	0	IN	NS	quincy.ns.cloudflare.com.
 venusuarl.sn.	0	IN	NS	ns.sonatel.sn.
