@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450811 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450816 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [30/06/2022 09H10:01]"
+sn.	0	IN	TXT	"No RRs processed [30/06/2022 10H00:02]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -351,8 +351,8 @@ sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6
 892.sn.	0	IN	NS	ns2.dns.com.
 895.sn.	0	IN	NS	ns1.dns.com.
 895.sn.	0	IN	NS	ns2.dns.com.
-899.sn.	0	IN	NS	ns1.dns.com.
-899.sn.	0	IN	NS	ns2.dns.com.
+899.sn.	0	IN	NS	ns7.alidns.com.
+899.sn.	0	IN	NS	ns8.alidns.com.
 911.sn.	0	IN	NS	ns1.netim.net.
 911.sn.	0	IN	NS	ns2.netim.net.
 911.sn.	0	IN	NS	ns3.netim.net.
@@ -5559,6 +5559,8 @@ dbsfocus.sn.	0	IN	NS	ns1.kheweul.net.
 dbsfocus.sn.	0	IN	NS	ns2.kheweul.net.
 dbsfocus.sn.	0	IN	NS	ns3.kheweul.net.
 dbsfocus.sn.	0	IN	NS	ns4.kheweul.net.
+dc-industries.sn.	0	IN	NS	max.ns.cloudflare.com.
+dc-industries.sn.	0	IN	NS	iris.ns.cloudflare.com.
 dca.sn.	0	IN	NS	ns200.anycast.me.
 dca.sn.	0	IN	NS	dns200.anycast.me.
 dca.sn.	0	IN	DS	43786 8 2 a77ce708be21ab21091a5c7ff2dca3780955e4e98938e769eea84917f8be033a
@@ -12708,9 +12710,6 @@ lugik.sn.	0	IN	NS	ns-198-b.gandi.net.
 lulu.sn.	0	IN	NS	ns1.register.be.
 lulu.sn.	0	IN	NS	ns2.register.be.
 lulu.sn.	0	IN	NS	ns3.register.be.
-luma.sn.	0	IN	NS	ns1.francedns.com.
-luma.sn.	0	IN	NS	ns2.francedns.com.
-luma.sn.	0	IN	NS	ns3.francedns.com.
 lundbeck.sn.	0	IN	NS	nsgbr.comlaude.co.uk.
 lundbeck.sn.	0	IN	NS	nssui.comlaude.ch.
 lundbeck.sn.	0	IN	NS	nsusa.comlaude.net.
@@ -19933,6 +19932,9 @@ taliboudabo.sn.	0	IN	NS	ns1.cp-47.webhostbox.net.
 taliboudabo.sn.	0	IN	NS	ns2.cp-47.webhostbox.net.
 tam.sn.	0	IN	NS	elle.ns.cloudflare.com.
 tam.sn.	0	IN	NS	rajeev.ns.cloudflare.com.
+tam-autorent.sn.	0	IN	NS	ns1.francedns.com.
+tam-autorent.sn.	0	IN	NS	ns2.francedns.com.
+tam-autorent.sn.	0	IN	NS	ns3.francedns.com.
 tamahoo.sn.	0	IN	NS	ns-42-a.gandi.net.
 tamahoo.sn.	0	IN	NS	ns-161-b.gandi.net.
 tamahoo.sn.	0	IN	NS	ns-228-c.gandi.net.
