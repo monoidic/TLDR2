@@ -1,10 +1,10 @@
-sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222450997 3600 1800 3600000 5400
+sn.	0	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222451005 3600 1800 3600000 5400
 sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
-sn.	0	IN	TXT	"No RRs processed [01/07/2022 12H50:01]"
+sn.	0	IN	TXT	"No RRs processed [01/07/2022 14H00:01]"
 sn.	0	IN	DNSKEY	256 3 13 6oCqxxC6qJp2/XRLyD1e68K5hVslCBTlY6KdeDDS7y34wgyphrQ3ULRO3XzZeDQHA8ESqGXTthJvSpufECqLkw== ;{id = 17389 (zsk), size = 256b}
 sn.	0	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKniEZEIs22YcHl3BkpWl9JheL50vKa6A== ;{id = 37490 (ksk), size = 256b}
 sn.	0	IN	NSEC3PARAM	1 0 1 8b9a19e6 
@@ -1320,6 +1320,7 @@ alliance-ac.sn.	0	IN	NS	ns1.site5.com.
 alliance-ac.sn.	0	IN	NS	ns2.site5.com.
 alliancedesbatisseurs.sn.	0	IN	NS	ns111.ovh.net.
 alliancedesbatisseurs.sn.	0	IN	NS	dns111.ovh.net.
+alliancedesbatisseurs.sn.	0	IN	DS	62797 8 2 41a5b1a3f561ecc629b34ff2bac8be645b8999cf44114f19bf537e8dc83fb415
 alliancemed-pharma.sn.	0	IN	NS	ns5.jokko-hosting.com.
 alliancemed-pharma.sn.	0	IN	NS	ns9.jokko-hosting.com.
 allianz.sn.	0	IN	NS	ns1.allianz.com.
@@ -4542,6 +4543,8 @@ cmbac.sn.	0	IN	NS	ns1.kheweul.net.
 cmbac.sn.	0	IN	NS	ns2.kheweul.net.
 cmbac.sn.	0	IN	NS	ns3.kheweul.net.
 cmbac.sn.	0	IN	NS	ns4.kheweul.net.
+cmcaudit.sn.	0	IN	NS	eisdns1.expertis.sn.
+cmcaudit.sn.	0	IN	NS	eisdns2.expertis.sn.
 cmcst.sn.	0	IN	NS	dns101.comcast.net.
 cmcst.sn.	0	IN	NS	dns102.comcast.net.
 cmcst.sn.	0	IN	NS	dns103.comcast.net.
@@ -7152,8 +7155,8 @@ enersen.sn.	0	IN	DS	61156 8 2 1a8d29addb2ea2729bff865736449ae64a276f2d70741b6582
 enerson.sn.	0	IN	NS	ns2.observatoiredesmarques.fr.
 enerson.sn.	0	IN	NS	ns3.nameshield.net.
 enerson.sn.	0	IN	NS	obs.ns1.fr.
-enfht.sn.	0	IN	NS	ns5.afriregister.co.ke.
-enfht.sn.	0	IN	NS	ns6.afriregister.co.ke.
+enfht.sn.	0	IN	NS	ns3.afriregister.com.
+enfht.sn.	0	IN	NS	ns01.afriregister.com.
 engie.sn.	0	IN	NS	ns-104.awsdns-13.com.
 engie.sn.	0	IN	NS	ns-667.awsdns-19.net.
 engie.sn.	0	IN	NS	ns-1417.awsdns-49.org.
@@ -15375,6 +15378,10 @@ pactilis.sn.	0	IN	NS	dns2.namebay.com.
 padaer2.sn.	0	IN	NS	ns105.ovh.net.
 padaer2.sn.	0	IN	NS	dns105.ovh.net.
 padaer2.sn.	0	IN	DS	57772 8 2 cd64719b69773fad79b38cf87197660a58d589160d9802281b6bf753234dbacc
+padef-ej.sn.	0	IN	NS	ns1.kheweul.net.
+padef-ej.sn.	0	IN	NS	ns2.kheweul.net.
+padef-ej.sn.	0	IN	NS	ns3.kheweul.net.
+padef-ej.sn.	0	IN	NS	ns4.kheweul.net.
 pagesjaunes.sn.	0	IN	NS	ns10.ovh.ca.
 pagesjaunes.sn.	0	IN	NS	dns10.ovh.ca.
 pagesjaunes.sn.	0	IN	DS	65347 8 2 102da7462dd2556459ab7c7c88fc56a325ca89fd9a9e44520dcadb5bd9640fdf
