@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022063033 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070138 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -2440,7 +2440,8 @@ golfe.tg.	0	IN	NS	ns4.netmaster.tg.
 golfe.tg.	0	IN	NS	ns5.netmaster.tg.
 golive.tg.	0	IN	NS	dns1.hosteur.com.
 golive.tg.	0	IN	NS	dns2.hosteur.com.
-goodtrip.tg.	0	IN	NS	oti.ids.tg.
+goodtrip.tg.	0	IN	NS	ns1.o2switch.net.
+goodtrip.tg.	0	IN	NS	ns2.o2switch.net.
 google.tg.	0	IN	NS	ns1.google.com.
 google.tg.	0	IN	NS	ns2.google.com.
 googleads.tg.	0	IN	NS	ns1.googledomains.com.
@@ -4148,6 +4149,7 @@ pgatogo.tg.	0	IN	NS	www.pgatogo.tg.
 ns.pgatogo.tg.	0	IN	A	41.207.172.94
 www.pgatogo.tg.	0	IN	A	41.207.172.93
 pharmaciens.tg.	0	IN	NS	ns1.cafe.tg.
+pharmaciens.tg.	0	IN	NS	ns1.contabo.net.
 pharmaciens.tg.	0	IN	NS	ns2.cafe.tg.
 pharmaciens.tg.	0	IN	NS	ns5.netmaster.tg.
 phenixtech.tg.	0	IN	NS	ns1.cafe.tg.
