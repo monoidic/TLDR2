@@ -1,14 +1,14 @@
-fj.	0	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022070117 3600 3600 3600 3600
+fj.	0	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2022070120 3600 3600 3600 3600
 fj.	0	IN	NS	ns1.fj.
 fj.	0	IN	NS	ns2.fj.
 fj.	0	IN	NS	ns3.fj.
 fj.	0	IN	NS	ns4.fj.
 fj.	0	IN	NS	ns5.fj.
-fj.	0	IN	TXT	"Generation Time: 1656640872"
+fj.	0	IN	TXT	"Generation Time: 1656648074"
 fj.	0	IN	DNSKEY	256 3 8 AwEAAdpT6o6ustm4WxYhP8Xa6P1+1dvYExn1LyOC9qUXdbt3BWPok+obi69yRywGD740Aj6AO7To2HXDlLF3YF5cR1mO5mo6iSTHqNAg4rjE49/BVxjV3KgmEOGFdtiMbAi+4d6KMPkl+HULwmJkdcu8gkG9cYjBkJ2OUpfvsjaZ47/azk+d8ffEd0oN/0dC9lhcaeYOvhJehdGHFemKY3Mk5O1FZrww9OF3SOBSrW+C6LPk04/mTji7j6OeIDfFIMvuu0oNOAqxTlwUuoTeIiHmJZ0jNlKgBgmsTmlRETAEjcDqcGhawiENI65uRYbx2eRv5k2U5If0ydhMxBLYAcqFEHE= ;{id = 24459 (zsk), size = 2048b}
 fj.	0	IN	DNSKEY	257 3 8 AwEAAchm/6TsZVKXuzGe+5Kx/7PW2j1jMkctAL+FaWn+LW28Kzr4KI9XQz2bd1byWdsljsKkW1zMiiLBlxHcmUiKvv8hIPLwdxwEdutCve9arJNfDyDhCf5SCHenzQwaR3pQzQ+QzaTVPQKz9VIfV6u06wGqq4iTo014N2ITs2EtYU0TbydZ/cOuy2+N5xE1Xi6JrJuwPKSQfi3M3Ojb3SA4EK6fBaiGM2Ri1DN6OD+5A8Z9R4EihqAtPtkjJI8mqAbmXu+dkrMJVljtaCMlt2tejaqzqfwd4FJQEdFRiEdMwB3sYjsH+cMn3QJlvlSXm/w174e5Wzvk563TvuPOrLzefQU= ;{id = 12931 (ksk), size = 2048b}
 fj.	0	IN	NSEC3PARAM	1 0 5 76c4f303f016b631 
-ac.fj.	0	IN	TXT	"Generation Time: 1656640872"
+ac.fj.	0	IN	TXT	"Generation Time: 1656648074"
 adventist.ac.fj.	0	IN	NS	lucy.ns.cloudflare.com.
 adventist.ac.fj.	0	IN	NS	carlos.ns.cloudflare.com.
 bges.ac.fj.	0	IN	NS	jay.ns.cloudflare.com.
@@ -65,8 +65,8 @@ navneet.ac.fj.	0	IN	NS	ns1.fj.
 navneet.ac.fj.	0	IN	NS	ns2.fj.
 pacificenglish.ac.fj.	0	IN	NS	ns31.infomaniak.com.
 pacificenglish.ac.fj.	0	IN	NS	ns32.infomaniak.com.
-pacificeyeinstitute.ac.fj.	0	IN	NS	ns1.easy4uhost.com.
-pacificeyeinstitute.ac.fj.	0	IN	NS	ns2.easy4uhost.com.
+pacificeyeinstitute.ac.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.ac.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pacifictafe.ac.fj.	0	IN	NS	ns1.sgp57.siteground.asia.
 pacifictafe.ac.fj.	0	IN	NS	ns2.sgp57.siteground.asia.
 papastutoring.ac.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -133,7 +133,7 @@ wordlanguageinstitute.ac.fj.	0	IN	NS	manu.usp.ac.fj.
 wordlanguageinstitute.ac.fj.	0	IN	NS	teri.usp.ac.fj.
 yogafiji.ac.fj.	0	IN	NS	ns1.fj.
 yogafiji.ac.fj.	0	IN	NS	ns2.fj.
-biz.fj.	0	IN	TXT	"Generation Time: 1656640872"
+biz.fj.	0	IN	TXT	"Generation Time: 1656648074"
 ajynk.biz.fj.	0	IN	NS	ns1.onlydomains.com.
 ajynk.biz.fj.	0	IN	NS	ns2.onlydomains.com.
 altria.biz.fj.	0	IN	NS	dns1.cscdns.net.
@@ -163,8 +163,8 @@ natixis.biz.fj.	0	IN	NS	dns1.cscdns.net.
 natixis.biz.fj.	0	IN	NS	dns2.cscdns.net.
 navneet.biz.fj.	0	IN	NS	ns1.fj.
 navneet.biz.fj.	0	IN	NS	ns2.fj.
-pacificeyeinstitute.biz.fj.	0	IN	NS	ns1.easy4uhost.com.
-pacificeyeinstitute.biz.fj.	0	IN	NS	ns2.easy4uhost.com.
+pacificeyeinstitute.biz.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.biz.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 paypal.biz.fj.	0	IN	NS	ns1.eurodns.com.
 paypal.biz.fj.	0	IN	NS	ns2.eurodns.com.
 pricewaterhousecoopers.biz.fj.	0	IN	NS	dns1.cscdns.net.
@@ -187,7 +187,7 @@ vodafone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
-com.fj.	0	IN	TXT	"Generation Time: 1656640873"
+com.fj.	0	IN	TXT	"Generation Time: 1656648075"
 101domain.com.fj.	0	IN	NS	ns1.101domain.com.
 101domain.com.fj.	0	IN	NS	ns5.101domain.com.
 101domains.com.fj.	0	IN	NS	ns1.101domain.com.
@@ -5752,8 +5752,8 @@ pacificdialogue.com.fj.	0	IN	NS	ns1.kidanet.com.fj.
 pacificdialogue.com.fj.	0	IN	NS	ns2.kidanet.com.fj.
 pacificelements.com.fj.	0	IN	NS	ns37.domaincontrol.com.
 pacificelements.com.fj.	0	IN	NS	ns38.domaincontrol.com.
-pacificeyeinstitute.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.com.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.com.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.com.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pacificfeeds.com.fj.	0	IN	NS	cns317.hostgator.com.
 pacificfeeds.com.fj.	0	IN	NS	cns318.hostgator.com.
 pacificfitness.com.fj.	0	IN	NS	ns335.hostgator.com.
@@ -8493,7 +8493,7 @@ govt.fj.	0	IN	NS	dnssecondary.auth-servers.net.
 gransy-anycast1.fj.	0	IN	A	185.28.194.194
 gransy-anycast1.fj.	0	IN	AAAA	2a00:fea0:dead::beef
 gransy-anycast2.fj.	0	IN	A	185.38.108.108
-info.fj.	0	IN	TXT	"Generation Time: 1656640873"
+info.fj.	0	IN	TXT	"Generation Time: 1656648075"
 altria.info.fj.	0	IN	NS	dns1.cscdns.net.
 altria.info.fj.	0	IN	NS	dns2.cscdns.net.
 brother.info.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -8516,8 +8516,8 @@ natixis.info.fj.	0	IN	NS	dns1.cscdns.net.
 natixis.info.fj.	0	IN	NS	dns2.cscdns.net.
 navneet.info.fj.	0	IN	NS	ns1.fj.
 navneet.info.fj.	0	IN	NS	ns2.fj.
-pacificeyeinstitute.info.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.info.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.info.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.info.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pricewaterhousecoopers.info.fj.	0	IN	NS	dns1.cscdns.net.
 pricewaterhousecoopers.info.fj.	0	IN	NS	dns2.cscdns.net.
 pwc.info.fj.	0	IN	NS	dns1.cscdns.net.
@@ -8539,13 +8539,13 @@ vodaphone.info.fj.	0	IN	NS	ns2.vodafone.net.fj.
 master.fj.	0	IN	A	144.120.141.11
 _e2521623b72ccec17d755e027b0feb6d.master.fj.	0	IN	CNAME	68e23b12aed826cb6dd518ced98ac737.d18771cdc0331df3c32048e2af4f8884.n5v4wkb1xm5op55y5ni5.comodoca.com.
 www.master.fj.	0	IN	A	144.120.141.11
-mil.fj.	0	IN	TXT	"Generation Time: 1656640873"
+mil.fj.	0	IN	TXT	"Generation Time: 1656648075"
 isatap.mil.fj.	0	IN	NS	manu.usp.ac.fj.
 isatap.mil.fj.	0	IN	NS	teri.usp.ac.fj.
 navneet.mil.fj.	0	IN	NS	ns1.usp.ac.fj.
 navneet.mil.fj.	0	IN	NS	ns2.usp.ac.fj.
-pacificeyeinstitute.mil.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.mil.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.mil.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.mil.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 rfmf.mil.fj.	0	IN	NS	ns4011.hostgator.com.
 rfmf.mil.fj.	0	IN	NS	ns4012.hostgator.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns10.dnsmadeeasy.com.
@@ -8553,7 +8553,7 @@ rfmfdefense.mil.fj.	0	IN	NS	ns11.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns12.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns13.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	0	IN	NS	ns14.dnsmadeeasy.com.
-name.fj.	0	IN	TXT	"Generation Time: 1656640873"
+name.fj.	0	IN	TXT	"Generation Time: 1656648075"
 altria.name.fj.	0	IN	NS	dns1.cscdns.net.
 altria.name.fj.	0	IN	NS	dns2.cscdns.net.
 brother.name.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -8572,8 +8572,8 @@ natixis.name.fj.	0	IN	NS	dns1.cscdns.net.
 natixis.name.fj.	0	IN	NS	dns2.cscdns.net.
 navneet.name.fj.	0	IN	NS	ns1.fj.
 navneet.name.fj.	0	IN	NS	ns2.fj.
-pacificeyeinstitute.name.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.name.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.name.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.name.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pricewaterhousecoopers.name.fj.	0	IN	NS	dns1.cscdns.net.
 pricewaterhousecoopers.name.fj.	0	IN	NS	dns2.cscdns.net.
 pwc.name.fj.	0	IN	NS	dns1.cscdns.net.
@@ -8590,7 +8590,7 @@ vodafone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
-net.fj.	0	IN	TXT	"Generation Time: 1656640873"
+net.fj.	0	IN	TXT	"Generation Time: 1656648075"
 3m.net.fj.	0	IN	NS	ns.3m.com.
 3m.net.fj.	0	IN	NS	pigseye.mmm.com.
 3mcompany.net.fj.	0	IN	NS	ns.3m.com.
@@ -8718,8 +8718,8 @@ oceanic.net.fj.	0	IN	NS	dns1.stabletransit.com.
 oceanic.net.fj.	0	IN	NS	dns2.stabletransit.com.
 oculusrift.net.fj.	0	IN	NS	ns1.lovellsnames.org.
 oculusrift.net.fj.	0	IN	NS	ns2.lovellsnames.org.
-pacificeyeinstitute.net.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.net.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.net.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.net.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pricewaterhousecoopers.net.fj.	0	IN	NS	dns1.cscdns.net.
 pricewaterhousecoopers.net.fj.	0	IN	NS	dns2.cscdns.net.
 pwc.net.fj.	0	IN	NS	dns1.cscdns.net.
@@ -8780,7 +8780,7 @@ ns2.fj.	0	IN	AAAA	2402:2940:100:100d::1
 ns3.fj.	0	IN	A	185.38.108.108
 ns4.fj.	0	IN	A	185.28.194.194
 ns5.fj.	0	IN	A	204.61.216.138
-org.fj.	0	IN	TXT	"Generation Time: 1656640873"
+org.fj.	0	IN	TXT	"Generation Time: 1656648075"
 3m.org.fj.	0	IN	NS	ns.3m.com.
 3m.org.fj.	0	IN	NS	pigseye.mmm.com.
 3mcompany.org.fj.	0	IN	NS	ns.3m.com.
@@ -9170,8 +9170,8 @@ pacdar.org.fj.	0	IN	NS	manu.usp.ac.fj.
 pacdar.org.fj.	0	IN	NS	teri.usp.ac.fj.
 paceyes.org.fj.	0	IN	NS	ns1.vodafone.net.fj.
 paceyes.org.fj.	0	IN	NS	ns2.vodafone.net.fj.
-pacificeyeinstitute.org.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.org.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.org.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.org.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pacifichealthdialog.org.fj.	0	IN	NS	ns1.us177.siteground.us.
 pacifichealthdialog.org.fj.	0	IN	NS	ns2.us177.siteground.us.
 pacificwomen.org.fj.	0	IN	NS	ns1.p18.dynect.net.
@@ -9326,7 +9326,7 @@ yatsenfiji.org.fj.	0	IN	NS	manu.usp.ac.fj.
 yatsenfiji.org.fj.	0	IN	NS	teri.usp.ac.fj.
 youthcamp.org.fj.	0	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	0	IN	NS	ns2.justhost.com.
-pro.fj.	0	IN	TXT	"Generation Time: 1656640873"
+pro.fj.	0	IN	TXT	"Generation Time: 1656648075"
 altria.pro.fj.	0	IN	NS	dns1.cscdns.net.
 altria.pro.fj.	0	IN	NS	dns2.cscdns.net.
 brother.pro.fj.	0	IN	NS	ns1.ipmirror.com.
@@ -9349,8 +9349,8 @@ names.pro.fj.	0	IN	NS	manu.usp.ac.fj.
 names.pro.fj.	0	IN	NS	teri.usp.ac.fj.
 natixis.pro.fj.	0	IN	NS	dns1.cscdns.net.
 natixis.pro.fj.	0	IN	NS	dns2.cscdns.net.
-pacificeyeinstitute.pro.fj.	0	IN	NS	caching01.usp.ac.fj.
-pacificeyeinstitute.pro.fj.	0	IN	NS	caching02.usp.ac.fj.
+pacificeyeinstitute.pro.fj.	0	IN	NS	ns3.simpleserversolutions.com.
+pacificeyeinstitute.pro.fj.	0	IN	NS	ns4.simpleserversolutions.com.
 pricewaterhousecoopers.pro.fj.	0	IN	NS	dns1.cscdns.net.
 pricewaterhousecoopers.pro.fj.	0	IN	NS	dns2.cscdns.net.
 pwc.pro.fj.	0	IN	NS	dns1.cscdns.net.
