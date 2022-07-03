@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070167 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070364 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -539,6 +539,9 @@ aralile.tg.	0	IN	NS	cpanel22.lws-hosting.com.
 aramex.tg.	0	IN	NS	ns.wishosting.net.
 aramex.tg.	0	IN	NS	ns1.wishosting.net.
 aramex.tg.	0	IN	NS	ns3.wishosting.net.
+arbon.tg.	0	IN	NS	ns1.hosttech.ch.
+arbon.tg.	0	IN	NS	ns2.hosttech.ch.
+arbon.tg.	0	IN	NS	ns3.hosttech.ch.
 arcep.tg.	0	IN	NS	dns01.arcep.tg.
 arcep.tg.	0	IN	NS	dns02.arcep.tg.
 arcep.tg.	0	IN	NS	dns03.arcep.tg.
@@ -572,6 +575,9 @@ artp.tg.	0	IN	NS	regulons.artp.tg.
 dns01.artp.tg.	0	IN	A	41.207.168.209
 dns02.artp.tg.	0	IN	A	41.207.168.210
 regulons.artp.tg.	0	IN	A	41.207.190.74
+arvea.tg.	0	IN	NS	ns1.francedns.com.
+arvea.tg.	0	IN	NS	ns2.francedns.com.
+arvea.tg.	0	IN	NS	ns3.francedns.com.
 asaige.tg.	0	IN	NS	ns15.ovh.net.
 asaige.tg.	0	IN	NS	dns15.ovh.net.
 ascoma.tg.	0	IN	NS	dns1.namebay.com.
@@ -952,8 +958,8 @@ blum.tg.	0	IN	NS	ns9.managed-ip.com.
 blum.tg.	0	IN	NS	ns10.managed-ip.com.
 blum.tg.	0	IN	NS	ns11.managed-ip.info.
 blum.tg.	0	IN	NS	ns12.managed-ip.info.
-bmco.tg.	0	IN	NS	nns531.dnsserverboot.com.
-bmco.tg.	0	IN	NS	nns532.dnsserverboot.com.
+bmco.tg.	0	IN	NS	ns531.dnsserverboot.com.
+bmco.tg.	0	IN	NS	ns532.dnsserverboot.com.
 boehi.tg.	0	IN	NS	ns.hostpoint.ch.
 boehi.tg.	0	IN	NS	ns2.hostpoint.ch.
 boehi.tg.	0	IN	NS	ns3.hostpoint.ch.
@@ -2216,8 +2222,8 @@ flyingblue.tg.	0	IN	NS	nss.klm.nl.
 fnafpp.tg.	0	IN	NS	ns1.cafe.tg.
 fnafpp.tg.	0	IN	NS	ns2.cafe.tg.
 fnafpp.tg.	0	IN	NS	ns5.netmaster.tg.
-fnfi.tg.	0	IN	NS	sdns2.ovh.net.
-fnfi.tg.	0	IN	NS	ns3054019.ip-46-105-116.eu.
+fnfi.tg.	0	IN	NS	ns1.o2switch.net.
+fnfi.tg.	0	IN	NS	ns2.o2switch.net.
 fngpccoopca.tg.	0	IN	NS	ns1.host-care.com.
 fngpccoopca.tg.	0	IN	NS	ns2.host-care.com.
 fobak.tg.	0	IN	NS	oti.ids.tg.
@@ -2443,6 +2449,8 @@ golfe.tg.	0	IN	NS	ns4.netmaster.tg.
 golfe.tg.	0	IN	NS	ns5.netmaster.tg.
 golive.tg.	0	IN	NS	dns1.hosteur.com.
 golive.tg.	0	IN	NS	dns2.hosteur.com.
+goodis.tg.	0	IN	NS	dns1.hosteur.com.
+goodis.tg.	0	IN	NS	dns2.hosteur.com.
 goodtrip.tg.	0	IN	NS	ns1.o2switch.net.
 goodtrip.tg.	0	IN	NS	ns2.o2switch.net.
 google.tg.	0	IN	NS	ns1.google.com.
@@ -2906,9 +2914,8 @@ istqb.tg.	0	IN	NS	ns1.cafe.tg.
 istqb.tg.	0	IN	NS	ns2.cafe.tg.
 istqb.tg.	0	IN	NS	ns4.netmaster.tg.
 istqb.tg.	0	IN	NS	ns5.netmaster.tg.
-it-admin.tg.	0	IN	NS	ns1.cafe.tg.
-it-admin.tg.	0	IN	NS	ns2.cafe.tg.
-it-admin.tg.	0	IN	NS	ns5.netmaster.tg.
+it-admin.tg.	0	IN	NS	skip.ns.cloudflare.com.
+it-admin.tg.	0	IN	NS	liberty.ns.cloudflare.com.
 it-land.tg.	0	IN	NS	ns1.whc.ca.
 it-land.tg.	0	IN	NS	ns2.whc.ca.
 it-land.tg.	0	IN	NS	ns3.whc.ca.
@@ -4151,8 +4158,8 @@ pgatogo.tg.	0	IN	NS	ns.pgatogo.tg.
 pgatogo.tg.	0	IN	NS	www.pgatogo.tg.
 ns.pgatogo.tg.	0	IN	A	41.207.172.94
 www.pgatogo.tg.	0	IN	A	41.207.172.93
+pharmaciens.tg.	0	IN	NS	38.242.133.195.
 pharmaciens.tg.	0	IN	NS	ns1.cafe.tg.
-pharmaciens.tg.	0	IN	NS	ns1.contabo.net.
 pharmaciens.tg.	0	IN	NS	ns2.cafe.tg.
 pharmaciens.tg.	0	IN	NS	ns5.netmaster.tg.
 phenixtech.tg.	0	IN	NS	ns1.cafe.tg.
