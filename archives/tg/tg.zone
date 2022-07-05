@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070548 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070571 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -2911,8 +2911,9 @@ istqb.tg.	0	IN	NS	ns1.cafe.tg.
 istqb.tg.	0	IN	NS	ns2.cafe.tg.
 istqb.tg.	0	IN	NS	ns4.netmaster.tg.
 istqb.tg.	0	IN	NS	ns5.netmaster.tg.
-it-admin.tg.	0	IN	NS	skip.ns.cloudflare.com.
-it-admin.tg.	0	IN	NS	liberty.ns.cloudflare.com.
+it-admin.tg.	0	IN	NS	ns1.cafe.tg.
+it-admin.tg.	0	IN	NS	ns2.cafe.tg.
+it-admin.tg.	0	IN	NS	ns5.netmaster.tg.
 it-land.tg.	0	IN	NS	ns1.whc.ca.
 it-land.tg.	0	IN	NS	ns2.whc.ca.
 it-land.tg.	0	IN	NS	ns3.whc.ca.
@@ -4791,6 +4792,9 @@ smartpub.tg.	0	IN	NS	oti.ids.tg.
 smartpub.tg.	0	IN	NS	mono.ids.tg.
 smastogo.tg.	0	IN	NS	ns17.lwsdns.com.
 smastogo.tg.	0	IN	NS	ns18.lwsdns.com.
+smatogo.tg.	0	IN	NS	ns1.cafe.tg.
+smatogo.tg.	0	IN	NS	ns2.cafe.tg.
+smatogo.tg.	0	IN	NS	ns5.netmaster.tg.
 sms.tg.	0	IN	NS	dns1.hosteur.com.
 sms.tg.	0	IN	NS	dns2.hosteur.com.
 smspro.tg.	0	IN	NS	nsa.planethoster.net.
