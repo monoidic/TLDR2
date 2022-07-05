@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070517 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022070520 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1657006341"
+sy.	0	IN	TXT	"Generation Time: 1657011730"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -571,10 +571,8 @@ alaqeelah.sy.	0	IN	NS	ns1.aldrtech.sy.
 alaqeelah.sy.	0	IN	NS	ns2.aldrtech.sy.
 alarabia.sy.	0	IN	NS	suspend1.tld.sy.
 alarabia.sy.	0	IN	NS	suspend2.tld.sy.
-alarm.sy.	0	IN	NS	ns1.scs-net.sy.
-alarm.sy.	0	IN	NS	ns1.scs-net.org.
-alarm.sy.	0	IN	NS	ns2.scs-net.sy.
-alarm.sy.	0	IN	NS	ns2.scs-net.org.
+alarm.sy.	0	IN	NS	suspend1.tld.sy.
+alarm.sy.	0	IN	NS	suspend2.tld.sy.
 alasali.sy.	0	IN	NS	suspend1.tld.sy.
 alasali.sy.	0	IN	NS	suspend2.tld.sy.
 alasfary-trading.sy.	0	IN	NS	suspend1.tld.sy.
@@ -2260,11 +2258,8 @@ ns1.creators.sy.	0	IN	A	185.216.132.119
 ns2.creators.sy.	0	IN	A	185.216.132.119
 cronus.sy.	0	IN	NS	dns3.aya.sy.
 cronus.sy.	0	IN	NS	dns4.aya.sy.
-crypto.sy.	0	IN	NS	ns1.ucg-core.com.
-crypto.sy.	0	IN	NS	ns4.ucg-core.com.
-crypto.sy.	0	IN	NS	ns11.ucg-core.com.
-crypto.sy.	0	IN	NS	ns51.uae-dc.com.
-crypto.sy.	0	IN	NS	ns54.uae-dc.com.
+crypto.sy.	0	IN	NS	suspend1.tld.sy.
+crypto.sy.	0	IN	NS	suspend2.tld.sy.
 cs.sy.	0	IN	NS	ns3.tld.sy.
 cs.sy.	0	IN	NS	ns4.tld.sy.
 csc.sy.	0	IN	NS	beth.ns.cloudflare.com.
@@ -4355,7 +4350,8 @@ lefant.sy.	0	IN	NS	ns4.ucg-core.com.
 lefant.sy.	0	IN	NS	ns11.ucg-core.com.
 lefant.sy.	0	IN	NS	ns51.uae-dc.com.
 lefant.sy.	0	IN	NS	ns54.uae-dc.com.
-legalcontent.sy.	0	IN	NS	ingress-erytho.easywp.com.
+legalcontent.sy.	0	IN	NS	suspend1.tld.sy.
+legalcontent.sy.	0	IN	NS	suspend2.tld.sy.
 legrand.sy.	0	IN	NS	ns.grpleg.net.
 legrand.sy.	0	IN	NS	lim.legrand.tm.fr.
 legrand.sy.	0	IN	NS	var.bticino.it.
@@ -7206,10 +7202,8 @@ tc.sy.	0	IN	NS	erin.ns.cloudflare.com.
 tc.sy.	0	IN	NS	cartman.ns.cloudflare.com.
 tchmedic.sy.	0	IN	NS	suspend1.tld.sy.
 tchmedic.sy.	0	IN	NS	suspend2.tld.sy.
-tcs.sy.	0	IN	NS	ns1.scs-net.sy.
-tcs.sy.	0	IN	NS	ns1.scs-net.org.
-tcs.sy.	0	IN	NS	ns2.scs-net.sy.
-tcs.sy.	0	IN	NS	ns2.scs-net.org.
+tcs.sy.	0	IN	NS	suspend1.tld.sy.
+tcs.sy.	0	IN	NS	suspend2.tld.sy.
 tea.sy.	0	IN	NS	ns.inwx.de.
 tea.sy.	0	IN	NS	ns2.inwx.de.
 tea.sy.	0	IN	NS	ns3.inwx.eu.
