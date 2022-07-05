@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070461 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070541 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -2437,8 +2437,8 @@ gnd.tg.	0	IN	NS	ns1.cafe.tg.
 gnd.tg.	0	IN	NS	ns1.netmaster.tg.
 goannonce.tg.	0	IN	NS	rns43.webhostbox.net.
 goannonce.tg.	0	IN	NS	rns44.webhostbox.net.
-god.tg.	0	IN	NS	dns1.hosteur.com.
-god.tg.	0	IN	NS	dns2.hosteur.com.
+god.tg.	0	IN	NS	ns1.sedoparking.com.
+god.tg.	0	IN	NS	ns2.sedoparking.com.
 godaddy.tg.	0	IN	NS	cns1.secureserver.net.
 godaddy.tg.	0	IN	NS	cns2.secureserver.net.
 goldeneye.tg.	0	IN	NS	cpanel5.lws-hosting.com.
@@ -3859,7 +3859,6 @@ nhood.tg.	0	IN	NS	dns1.cscdns.net.
 nhood.tg.	0	IN	NS	dns2.cscdns.net.
 nic.tg.	0	IN	NS	ns1.nic.tg.
 nic.tg.	0	IN	NS	ns2.nic.tg.
-nic.tg.	0	IN	NS	ns5.netmaster.tg.
 ns1.nic.tg.	0	IN	A	41.207.188.36
 ns2.nic.tg.	0	IN	A	80.248.68.12
 ns4.nic.tg.	0	IN	A	194.60.201.189
@@ -4151,11 +4150,8 @@ pgatogo.tg.	0	IN	NS	ns.pgatogo.tg.
 pgatogo.tg.	0	IN	NS	www.pgatogo.tg.
 ns.pgatogo.tg.	0	IN	A	41.207.172.94
 www.pgatogo.tg.	0	IN	A	41.207.172.93
-pharmaciens.tg.	0	IN	NS	ns1.cafe.tg.
 pharmaciens.tg.	0	IN	NS	ns1.contabo.net.
-pharmaciens.tg.	0	IN	NS	ns2.cafe.tg.
 pharmaciens.tg.	0	IN	NS	ns2.contabo.net.
-pharmaciens.tg.	0	IN	NS	ns5.netmaster.tg.
 phenixtech.tg.	0	IN	NS	ns1.cafe.tg.
 phenixtech.tg.	0	IN	NS	ns2.cafe.tg.
 phenixtech.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -4702,6 +4698,8 @@ siegenthaler.tg.	0	IN	NS	ns3.netim.net.
 sig-etfptogo.tg.	0	IN	NS	ns1.cafe.tg.
 sig-etfptogo.tg.	0	IN	NS	ns2.cafe.tg.
 sig-etfptogo.tg.	0	IN	NS	ns5.netmaster.tg.
+sigem.tg.	0	IN	NS	ns531.dnsserverboot.com.
+sigem.tg.	0	IN	NS	ns532.dnsserverboot.com.
 sigm.tg.	0	IN	NS	ns1.cafe.tg.
 sigm.tg.	0	IN	NS	ns2.cafe.tg.
 sigm.tg.	0	IN	NS	ns4.netmaster.tg.
@@ -5106,9 +5104,9 @@ tap.tg.	0	IN	NS	ns6.netmaster.tg.
 tata.tg.	0	IN	NS	ns1.francedns.com.
 tata.tg.	0	IN	NS	ns2.francedns.com.
 tata.tg.	0	IN	NS	ns3.francedns.com.
-taxes.tg.	0	IN	NS	ns1.cafe.tg.
-taxes.tg.	0	IN	NS	ns2.cafe.tg.
-taxes.tg.	0	IN	NS	ns5.netmaster.tg.
+taxes.tg.	0	IN	NS	ns1.digitalocean.com.
+taxes.tg.	0	IN	NS	ns2.digitalocean.com.
+taxes.tg.	0	IN	NS	ns3.digitalocean.com.
 taylorgang.tg.	0	IN	NS	ns1.servage.net.
 taylorgang.tg.	0	IN	NS	ns2.servage.net.
 taylorgang.tg.	0	IN	NS	ns3.servage.net.
@@ -5857,6 +5855,8 @@ yassir.tg.	0	IN	NS	ns-cloud-d1.googledomains.com.
 yassir.tg.	0	IN	NS	ns-cloud-d2.googledomains.com.
 yassir.tg.	0	IN	NS	ns-cloud-d3.googledomains.com.
 yassir.tg.	0	IN	NS	ns-cloud-d4.googledomains.com.
+yatoo.tg.	0	IN	NS	dns1.hosteur.com.
+yatoo.tg.	0	IN	NS	dns2.hosteur.com.
 yellowpages.tg.	0	IN	NS	ns1.dns24.net.
 yellowpages.tg.	0	IN	NS	ns2.dns24.net.
 yellowpages.tg.	0	IN	NS	ns3.dns24.net.
