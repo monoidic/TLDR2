@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022070500 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022070501 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -12373,8 +12373,6 @@ nz.	0	IN	NS	ns5.dns.net.nz.
 nz.	0	IN	NS	ns6.dns.net.nz.
 nz.	0	IN	NS	ns7.dns.net.nz.
 nz.	0	IN	DS	13646 8 2 569b1bae369fd18f03d088fba91bd58a830e4e21d2c96155ced267544cac14b1
-nz.	0	IN	DS	30241 8 2 cada34f2b54a6a7a3aeed773c4b562c5958cfd6bcec286b2dbebc29dfec1011f
-nz.	0	IN	DS	37574 8 2 765f264ea82365ae255126b31cda3205eaa3f5618a4e73e10b21f6be01c54f6f
 nz.	0	IN	DS	49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
 circa.mcs.vuw.ac.nz.	0	IN	A	130.195.5.12
 downstage.mcs.vuw.ac.nz.	0	IN	A	130.195.6.10
@@ -15364,7 +15362,6 @@ c0.nic.showtime.	0	IN	A	65.22.70.1
 c0.nic.showtime.	0	IN	AAAA	2a01:8840:44::1
 si.	0	IN	NS	b.dns.si.
 si.	0	IN	NS	f.dns.si.
-si.	0	IN	NS	g.dns.si.
 si.	0	IN	NS	h.dns.si.
 si.	0	IN	NS	i.dns.si.
 si.	0	IN	NS	k.dns.si.
@@ -15376,8 +15373,6 @@ b.dns.si.	0	IN	A	194.249.4.44
 b.dns.si.	0	IN	AAAA	2001:1470:8000:53::44
 f.dns.si.	0	IN	A	194.146.106.62
 f.dns.si.	0	IN	AAAA	2001:67c:1010:15::53
-g.dns.si.	0	IN	A	194.0.1.20
-g.dns.si.	0	IN	AAAA	2001:678:4::14
 h.dns.si.	0	IN	A	204.61.216.54
 h.dns.si.	0	IN	AAAA	2001:500:14:6054:ad::1
 i.dns.si.	0	IN	A	194.0.25.22
