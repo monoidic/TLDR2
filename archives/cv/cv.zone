@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070101 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022070601 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	cv01.dns.pt.
@@ -3846,6 +3846,9 @@ ete-logistica.cv.	0	IN	NS	ns-b1.vodafone.pt.
 ete-logistica.cv.	0	IN	NS	ns-b2.vodafone.pt.
 etenergia.cv.	0	IN	NS	ns1.wix.com.
 etenergia.cv.	0	IN	NS	ns2.wix.com.
+eth.cv.	0	IN	NS	ns01.trademarkarea.com.
+eth.cv.	0	IN	NS	ns02.trademarkarea.com.
+eth.cv.	0	IN	NS	ns03.trademarkarea.com.
 eticadata.cv.	0	IN	NS	ns1-04.azure-dns.com.
 eticadata.cv.	0	IN	NS	ns2-04.azure-dns.net.
 eticadata.cv.	0	IN	NS	ns3-04.azure-dns.org.
@@ -8172,10 +8175,8 @@ ticave.cv.	0	IN	NS	ns1.ticave.cv.
 ticave.cv.	0	IN	NS	ns2.ticave.cv.
 ns1.ticave.cv.	0	IN	A	94.130.120.17
 ns2.ticave.cv.	0	IN	A	94.130.120.17
-ticket.cv.	0	IN	NS	ns1.mydnspt.net.
-ticket.cv.	0	IN	NS	ns2.mydnspt.net.
-ticket.cv.	0	IN	NS	ns7.mydnspt.net.
-ticket.cv.	0	IN	NS	ns8.mydnspt.net.
+ticket.cv.	0	IN	NS	ns67.mydnspt.net.
+ticket.cv.	0	IN	NS	ns68.mydnspt.net.
 ticv.cv.	0	IN	NS	ns1.mydnspt.net.
 ticv.cv.	0	IN	NS	ns2.mydnspt.net.
 ticv.cv.	0	IN	NS	ns7.mydnspt.net.
