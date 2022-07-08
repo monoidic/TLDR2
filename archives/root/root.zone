@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022070801 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022070802 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -3274,16 +3274,26 @@ ns2.dns.nic.chintai.	0	IN	A	156.154.145.40
 ns2.dns.nic.chintai.	0	IN	AAAA	2610:a1:1072::28
 ns3.dns.nic.chintai.	0	IN	A	156.154.159.40
 ns3.dns.nic.chintai.	0	IN	AAAA	2610:a1:1073::28
+christmas.	0	IN	NS	a.nic.christmas.
+christmas.	0	IN	NS	b.nic.christmas.
+christmas.	0	IN	NS	c.nic.christmas.
+christmas.	0	IN	NS	d.nic.christmas.
 christmas.	0	IN	NS	ns1.uniregistry.net.
 christmas.	0	IN	NS	ns2.uniregistry.info.
 christmas.	0	IN	NS	ns3.uniregistry.net.
 christmas.	0	IN	NS	ns4.uniregistry.info.
 christmas.	0	IN	DS	2827 5 1 45a7ab7ffc9aed55e130deebc6a12a007052c326
 christmas.	0	IN	DS	2827 5 2 b359c6393c81c5c19e651290ce278f6d9e6b73b625e2809ea4fa7cee67df4a3e
-christmas.	0	IN	DS	20642 5 1 361a66199f41f24cd073a238992d7a3f281ae8eb
-christmas.	0	IN	DS	20642 5 2 358dc846f2a706039dc1644e97bd17c0864fe7258b4dbbea813761326e1107c5
 christmas.	0	IN	DS	51184 5 1 b14c7aa2999b35f27382961870cb8e480a1f5f0b
 christmas.	0	IN	DS	51184 5 2 1a80057885de5c3e07689cd77e954733a4b21658c65bee06f69b8f8e5f47170d
+a.nic.christmas.	0	IN	A	194.169.218.153
+a.nic.christmas.	0	IN	AAAA	2001:67c:13cc::1:153
+b.nic.christmas.	0	IN	A	185.24.64.153
+b.nic.christmas.	0	IN	AAAA	2a04:2b00:13cc::1:153
+c.nic.christmas.	0	IN	A	212.18.248.153
+c.nic.christmas.	0	IN	AAAA	2a04:2b00:13ee::153
+d.nic.christmas.	0	IN	A	212.18.249.153
+d.nic.christmas.	0	IN	AAAA	2a04:2b00:13ff::153
 chrome.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 chrome.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 chrome.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -7507,6 +7517,10 @@ v2n0.nic.guide.	0	IN	A	65.22.31.12
 v2n0.nic.guide.	0	IN	AAAA	2a01:8840:21::12
 v2n1.nic.guide.	0	IN	A	161.232.15.12
 v2n1.nic.guide.	0	IN	AAAA	2a01:8840:f9::12
+guitars.	0	IN	NS	a.nic.guitars.
+guitars.	0	IN	NS	b.nic.guitars.
+guitars.	0	IN	NS	c.nic.guitars.
+guitars.	0	IN	NS	d.nic.guitars.
 guitars.	0	IN	NS	ns1.uniregistry.net.
 guitars.	0	IN	NS	ns2.uniregistry.info.
 guitars.	0	IN	NS	ns3.uniregistry.net.
@@ -7515,8 +7529,14 @@ guitars.	0	IN	DS	892 5 1 e421d29a8d62e53665069dd9b99e04a86f4fe8e3
 guitars.	0	IN	DS	892 5 2 aa980f135eb29c27887f8dfcdd0bab90dccf0740ef3f11fb3256b8a6a8c7fbf2
 guitars.	0	IN	DS	39502 5 1 6186e2c33fb4719080be060e131e9339bf9cfa39
 guitars.	0	IN	DS	39502 5 2 742844ec01d87eceec0d34b7de1d39e376c697c73d36d90c9d5fad65625b624f
-guitars.	0	IN	DS	62849 5 1 7afb61d09960e51ef0b0337834b17ba533e26d3f
-guitars.	0	IN	DS	62849 5 2 84b9ecf472cd56ff8efde4fbfeb45c2933369870062a0453e2d7f3a2286f9a5e
+a.nic.guitars.	0	IN	A	194.169.218.149
+a.nic.guitars.	0	IN	AAAA	2001:67c:13cc::1:149
+b.nic.guitars.	0	IN	A	185.24.64.149
+b.nic.guitars.	0	IN	AAAA	2a04:2b00:13cc::1:149
+c.nic.guitars.	0	IN	A	212.18.248.149
+c.nic.guitars.	0	IN	AAAA	2a04:2b00:13ee::149
+d.nic.guitars.	0	IN	A	212.18.249.149
+d.nic.guitars.	0	IN	AAAA	2a04:2b00:13ff::149
 guru.	0	IN	NS	v0n0.nic.guru.
 guru.	0	IN	NS	v0n1.nic.guru.
 guru.	0	IN	NS	v0n2.nic.guru.
@@ -7979,16 +7999,26 @@ e.nic.host.	0	IN	A	212.18.248.53
 e.nic.host.	0	IN	AAAA	2a04:2b00:13ee::53
 f.nic.host.	0	IN	A	212.18.249.53
 f.nic.host.	0	IN	AAAA	2a04:2b00:13ff::53
+hosting.	0	IN	NS	a.nic.hosting.
+hosting.	0	IN	NS	b.nic.hosting.
+hosting.	0	IN	NS	c.nic.hosting.
+hosting.	0	IN	NS	d.nic.hosting.
 hosting.	0	IN	NS	ns1.uniregistry.net.
 hosting.	0	IN	NS	ns2.uniregistry.info.
 hosting.	0	IN	NS	ns3.uniregistry.net.
 hosting.	0	IN	NS	ns4.uniregistry.info.
-hosting.	0	IN	DS	16222 5 1 be468c4752e9cd01bb8f0cfdab12b878f29f722c
-hosting.	0	IN	DS	16222 5 2 58e6c42cfdaccf62cd0cefcaac20b87928a7da7fdd2950c274d5740023cf3e6e
 hosting.	0	IN	DS	27751 5 1 9a72cab4a4cd51469dfc9e1dac8b1476d4b5c66c
 hosting.	0	IN	DS	27751 5 2 cf9f7fa35f5dce998a5757081f6e790df501f8b8fb58d0f9d8c4c645761a39db
 hosting.	0	IN	DS	51544 5 1 eb0e1f6128e4b7ed6c0c0560f9a3ebc8e5100c33
 hosting.	0	IN	DS	51544 5 2 8fe6bf96895d8504f0989c4dbc3741df17b7672d5aa64107bd624089b5d3d403
+a.nic.hosting.	0	IN	A	194.169.218.152
+a.nic.hosting.	0	IN	AAAA	2001:67c:13cc::1:152
+b.nic.hosting.	0	IN	A	185.24.64.152
+b.nic.hosting.	0	IN	AAAA	2a04:2b00:13cc::1:152
+c.nic.hosting.	0	IN	A	212.18.248.152
+c.nic.hosting.	0	IN	AAAA	2a04:2b00:13ee::152
+d.nic.hosting.	0	IN	A	212.18.249.152
+d.nic.hosting.	0	IN	AAAA	2a04:2b00:13ff::152
 hot.	0	IN	NS	dns1.nic.hot.
 hot.	0	IN	NS	dns2.nic.hot.
 hot.	0	IN	NS	dns3.nic.hot.
@@ -10192,6 +10222,10 @@ ns5.dns.nic.loft.	0	IN	A	156.154.157.107
 ns5.dns.nic.loft.	0	IN	AAAA	2610:a1:1075::6b
 ns6.dns.nic.loft.	0	IN	A	156.154.158.107
 ns6.dns.nic.loft.	0	IN	AAAA	2610:a1:1076::6b
+lol.	0	IN	NS	a.nic.lol.
+lol.	0	IN	NS	b.nic.lol.
+lol.	0	IN	NS	c.nic.lol.
+lol.	0	IN	NS	d.nic.lol.
 lol.	0	IN	NS	ns1.uniregistry.net.
 lol.	0	IN	NS	ns2.uniregistry.info.
 lol.	0	IN	NS	ns3.uniregistry.net.
@@ -10200,8 +10234,14 @@ lol.	0	IN	DS	14131 5 1 a80aa63c99464101bad5a82079d748f602a4a79f
 lol.	0	IN	DS	14131 5 2 4564b365617a6bcf1c53c04dd101339729f556c2837ad8ab095cff78cff1f97a
 lol.	0	IN	DS	15019 5 1 4f3c98c4c13b1657cfa5d90d945ef26008fdff32
 lol.	0	IN	DS	15019 5 2 24cea2aa8a26053d2da0301850748f74e217a52a1b1941e86963a32c5991e9bb
-lol.	0	IN	DS	15269 5 1 d1bdd192113bf00accf0be669e116fce6e652037
-lol.	0	IN	DS	15269 5 2 c6f7d3e0e35d528e855bf823bec4040542235c247d5568a4cafefa051342810d
+a.nic.lol.	0	IN	A	194.169.218.146
+a.nic.lol.	0	IN	AAAA	2001:67c:13cc::1:146
+b.nic.lol.	0	IN	A	185.24.64.146
+b.nic.lol.	0	IN	AAAA	2a04:2b00:13cc::1:146
+c.nic.lol.	0	IN	A	212.18.248.146
+c.nic.lol.	0	IN	AAAA	2a04:2b00:13ee::146
+d.nic.lol.	0	IN	A	212.18.249.146
+d.nic.lol.	0	IN	AAAA	2a04:2b00:13ff::146
 london.	0	IN	NS	a.nic.london.
 london.	0	IN	NS	b.nic.london.
 london.	0	IN	NS	c.nic.london.
