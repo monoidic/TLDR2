@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070759 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070833 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -1187,10 +1187,8 @@ cda.tg.	0	IN	NS	ns2.gouv.tg.
 cda.tg.	0	IN	NS	tld.cafe.tg.
 cdiscount.tg.	0	IN	NS	dns1.cscdns.net.
 cdiscount.tg.	0	IN	NS	dns2.cscdns.net.
-cdn.tg.	0	IN	NS	ns1.huaweicloud-dns.cn.
-cdn.tg.	0	IN	NS	ns1.huaweicloud-dns.com.
-cdn.tg.	0	IN	NS	ns1.huaweicloud-dns.net.
-cdn.tg.	0	IN	NS	ns1.huaweicloud-dns.org.
+cdn.tg.	0	IN	NS	mizar.dnspod.net.
+cdn.tg.	0	IN	NS	shell.dnspod.net.
 cebmexpert.tg.	0	IN	NS	ns1.cafe.tg.
 cebmexpert.tg.	0	IN	NS	ns2.cafe.tg.
 cebmexpert.tg.	0	IN	NS	ns5.netmaster.tg.
