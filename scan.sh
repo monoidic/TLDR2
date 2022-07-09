@@ -46,10 +46,14 @@ zonefiles() {
 	done
 }
 
-md() {
+walkable() {
+	scan -nsec_map
+}
+
+md_axfr() {
 	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
 
-	for line in $(sqlite3 tldr.sqlite3 'SELECT DISTINCT zone.name, ns.name FROM axfrable_ns INNER JOIN name AS zone ON axfrable_ns.zone_id=zone.id INNER JOIN name_ip ON name_ip.ip_id=axfrable_ns.ip_id INNER JOIN zone_ns ON zone_ns.zone_id=zone.id INNER JOIN name AS ns ON zone_ns.ns_id=ns.id WHERE name_ip.name_id=ns.id ORDER BY zone.name, ns.name'); do
+	for line in $(sqlite3 $db 'SELECT DISTINCT zone.name, ns.name FROM axfrable_ns INNER JOIN name AS zone ON axfrable_ns.zone_id=zone.id INNER JOIN name_ip ON name_ip.ip_id=axfrable_ns.ip_id INNER JOIN zone_ns ON zone_ns.zone_id=zone.id INNER JOIN name AS ns ON zone_ns.ns_id=ns.id WHERE name_ip.name_id=ns.id ORDER BY zone.name, ns.name'); do
 		zone=$(echo "$line" | cut -d'|' -f1)
 		ns=$(echo "$line" | cut -d'|' -f2)
 
@@ -60,6 +64,14 @@ md() {
 		fi
 
 		printf '* `%s` via `%s`: [Click here to view zone data.](archives/%s/%s.zone)\n' "$zone" "$ns" "$path_name" "$path_name" >> transferable_zones.md
+	done
+}
+
+md_walkable() {
+	printf '# List of TLDs & Roots With Walkable NSEC Records\n\n' > walkable_zones.md
+
+	for zone in $(sqlite3 $db "SELECT zone.name FROM zone_nsec_state INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id WHERE nsec_state.name='plain_nsec' ORDER BY zone.name"); do
+		printf '* `%s`\n' "$zone" >> walkable_zones.md
 	done
 }
 

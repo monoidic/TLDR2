@@ -7,6 +7,9 @@ This repository is updated approximately every hour with the results from [DNS z
 # View List of TLDs & Roots With Zone Transfers Enabled
 [Click here to view the list of nameservers with zone transfers enabled.](https://github.com/monoidic/TLDR2/blob/master/transferable_zones.md)
 
+# View List of TLDs & Roots With Walkable NSEC Records
+[Click here to view the list of nameservers with weak NSEC enabled.](https://github.com/monoidic/TLDR2/blob/master/walkable_zones.md)
+
 # Zone Transfers for Roots and TLDs
 Allowing global zone transfers is sometimes considered a security vulnerability due to this functionality giving attackers the ability to easily enumerate all DNS zone data for a specific domain. This is often seen as an issue for system administrators who want to make enumeration of sub-domains and other DNS data hard for malicious actors.
 
