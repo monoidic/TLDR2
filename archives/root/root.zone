@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022070901 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071000 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1130,16 +1130,26 @@ dnsc.nic.audible.	0	IN	A	156.154.102.3
 dnsc.nic.audible.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.audible.	0	IN	A	156.154.103.3
 dnsd.nic.audible.	0	IN	AAAA	2610:a1:1010::3
+audio.	0	IN	NS	a.nic.audio.
+audio.	0	IN	NS	b.nic.audio.
+audio.	0	IN	NS	c.nic.audio.
+audio.	0	IN	NS	d.nic.audio.
 audio.	0	IN	NS	ns1.uniregistry.net.
 audio.	0	IN	NS	ns2.uniregistry.info.
 audio.	0	IN	NS	ns3.uniregistry.net.
 audio.	0	IN	NS	ns4.uniregistry.info.
-audio.	0	IN	DS	14626 5 1 ce8e169ae8cac1749dbd193e9b7c618ae1be0787
-audio.	0	IN	DS	14626 5 2 473b7ebbdf1a8c8e09d34b7dd71ba8f405aa9238d0236c3e2b5413bd1ecdaa36
 audio.	0	IN	DS	20191 5 1 bb72622c591c9f739af49c13eedb7f2796cbc8fb
 audio.	0	IN	DS	20191 5 2 775c07f584233b85606ac3874441c97ad1af7f144d3e9f0fd779f1e064e49316
 audio.	0	IN	DS	49027 5 1 f2611084038a67137a2a8ef584402bad64ee365d
 audio.	0	IN	DS	49027 5 2 5679b4abdcc3a065fe7fdddcf8ad1d7ebe22323d758abc315ab4d4d8b49cf684
+a.nic.audio.	0	IN	A	194.169.218.150
+a.nic.audio.	0	IN	AAAA	2001:67c:13cc::1:150
+b.nic.audio.	0	IN	A	185.24.64.150
+b.nic.audio.	0	IN	AAAA	2a04:2b00:13cc::1:150
+c.nic.audio.	0	IN	A	212.18.248.150
+c.nic.audio.	0	IN	AAAA	2a04:2b00:13ee::150
+d.nic.audio.	0	IN	A	212.18.249.150
+d.nic.audio.	0	IN	AAAA	2a04:2b00:13ff::150
 auspost.	0	IN	NS	a.nic.auspost.
 auspost.	0	IN	NS	b.nic.auspost.
 auspost.	0	IN	NS	c.nic.auspost.
@@ -4896,6 +4906,10 @@ v2n0.nic.diamonds.	0	IN	A	65.22.27.60
 v2n0.nic.diamonds.	0	IN	AAAA	2a01:8840:1d::60
 v2n1.nic.diamonds.	0	IN	A	161.232.13.60
 v2n1.nic.diamonds.	0	IN	AAAA	2a01:8840:f7::60
+diet.	0	IN	NS	a.nic.diet.
+diet.	0	IN	NS	b.nic.diet.
+diet.	0	IN	NS	c.nic.diet.
+diet.	0	IN	NS	d.nic.diet.
 diet.	0	IN	NS	ns1.uniregistry.net.
 diet.	0	IN	NS	ns2.uniregistry.info.
 diet.	0	IN	NS	ns3.uniregistry.net.
@@ -4904,8 +4918,14 @@ diet.	0	IN	DS	2464 5 1 58ab5506cd049ddd784c487957d5d87c44e238b0
 diet.	0	IN	DS	2464 5 2 a2624874743790cb52066e9b50b06ebf915dc80355e2f9c10094295de2addfb7
 diet.	0	IN	DS	11962 5 1 5d42445c9c0aa2c65f6b9e23f90b3d5c30c4a256
 diet.	0	IN	DS	11962 5 2 a3d113a8af70bc8b9d35fc555a0ec7474482383fc4f73ca605f0ec498288fdc9
-diet.	0	IN	DS	65092 5 1 cbb0ea9b71630f0ad22b4c2d688dc42709a2c5a8
-diet.	0	IN	DS	65092 5 2 d73bbc64d90c3078b5019d4ca616c0b9849f52a1a20474dd95d11cba68bbfd60
+a.nic.diet.	0	IN	A	194.169.218.145
+a.nic.diet.	0	IN	AAAA	2001:67c:13cc::1:145
+b.nic.diet.	0	IN	A	185.24.64.145
+b.nic.diet.	0	IN	AAAA	2a04:2b00:13cc::1:145
+c.nic.diet.	0	IN	A	212.18.248.145
+c.nic.diet.	0	IN	AAAA	2a04:2b00:13ee::145
+d.nic.diet.	0	IN	A	212.18.249.145
+d.nic.diet.	0	IN	AAAA	2a04:2b00:13ff::145
 digital.	0	IN	NS	v0n0.nic.digital.
 digital.	0	IN	NS	v0n1.nic.digital.
 digital.	0	IN	NS	v0n2.nic.digital.
@@ -6311,6 +6331,10 @@ v2n0.nic.florist.	0	IN	A	65.22.35.30
 v2n0.nic.florist.	0	IN	AAAA	2a01:8840:25::30
 v2n1.nic.florist.	0	IN	A	161.232.17.30
 v2n1.nic.florist.	0	IN	AAAA	2a01:8840:fb::30
+flowers.	0	IN	NS	a.nic.flowers.
+flowers.	0	IN	NS	b.nic.flowers.
+flowers.	0	IN	NS	c.nic.flowers.
+flowers.	0	IN	NS	d.nic.flowers.
 flowers.	0	IN	NS	ns1.uniregistry.net.
 flowers.	0	IN	NS	ns2.uniregistry.info.
 flowers.	0	IN	NS	ns3.uniregistry.net.
@@ -6319,8 +6343,14 @@ flowers.	0	IN	DS	44614 5 1 16e65148cd02d28c72be03ec2ad4f0b7b8ea156d
 flowers.	0	IN	DS	44614 5 2 e504240ff007eaa0829d9cf47f27fdd2b8c4c03e113c9d163fa0766d6716609d
 flowers.	0	IN	DS	53083 5 1 ff6d6ba7638e7d8010867c4334d20eed0d8f0d0d
 flowers.	0	IN	DS	53083 5 2 9f8bf09b0d588d739d4f88d9e2ab870c3ee1368ec69089ea744353ca27b49c21
-flowers.	0	IN	DS	58987 5 1 8137481080acc7007ada62a232f6583006b13cd4
-flowers.	0	IN	DS	58987 5 2 09b09c4f8a0bc8650035e4c10df28af3195cad5997d3e722a7c620004ea6dd08
+a.nic.flowers.	0	IN	A	194.169.218.154
+a.nic.flowers.	0	IN	AAAA	2001:67c:13cc::1:154
+b.nic.flowers.	0	IN	A	185.24.64.154
+b.nic.flowers.	0	IN	AAAA	2a04:2b00:13cc::1:154
+c.nic.flowers.	0	IN	A	212.18.248.154
+c.nic.flowers.	0	IN	AAAA	2a04:2b00:13ee::154
+d.nic.flowers.	0	IN	A	212.18.249.154
+d.nic.flowers.	0	IN	AAAA	2a04:2b00:13ff::154
 fly.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 fly.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 fly.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -11150,16 +11180,26 @@ dnsc.nic.moi.	0	IN	A	156.154.102.3
 dnsc.nic.moi.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.moi.	0	IN	A	156.154.103.3
 dnsd.nic.moi.	0	IN	AAAA	2610:a1:1010::3
+mom.	0	IN	NS	a.nic.mom.
+mom.	0	IN	NS	b.nic.mom.
+mom.	0	IN	NS	c.nic.mom.
+mom.	0	IN	NS	d.nic.mom.
 mom.	0	IN	NS	ns1.uniregistry.net.
 mom.	0	IN	NS	ns2.uniregistry.info.
 mom.	0	IN	NS	ns3.uniregistry.net.
 mom.	0	IN	NS	ns4.uniregistry.info.
 mom.	0	IN	DS	28162 5 1 2ab25d06f73e977ee5ced0fcf5ea4ed6ee50d269
 mom.	0	IN	DS	28162 5 2 4b2b701367d0b74f52c9684e9b8921659045039452d135a55d128687c729fbf5
-mom.	0	IN	DS	32996 5 1 dccd6c805f9d383eaae7cf4d0083630885b1d704
-mom.	0	IN	DS	32996 5 2 9799bb694e98ba59b1c29e6d1a3ca3581b7d0aebcd72c51536f1e5629d2979a4
 mom.	0	IN	DS	41626 5 1 2744d01ec89a56e70f5b6c3171c39739e46afb3c
 mom.	0	IN	DS	41626 5 2 7e3fd3d91571d30ceb82a33021657552e235f436d998a605611a0712b21aa1dc
+a.nic.mom.	0	IN	A	194.169.218.148
+a.nic.mom.	0	IN	AAAA	2001:67c:13cc::1:148
+b.nic.mom.	0	IN	A	185.24.64.148
+b.nic.mom.	0	IN	AAAA	2a04:2b00:13cc::1:148
+c.nic.mom.	0	IN	A	212.18.248.148
+c.nic.mom.	0	IN	AAAA	2a04:2b00:13ee::148
+d.nic.mom.	0	IN	A	212.18.249.148
+d.nic.mom.	0	IN	AAAA	2a04:2b00:13ff::148
 monash.	0	IN	NS	a.nic.monash.
 monash.	0	IN	NS	b.nic.monash.
 monash.	0	IN	NS	c.nic.monash.
@@ -13133,16 +13173,26 @@ c.nic.physio.	0	IN	A	37.209.196.10
 c.nic.physio.	0	IN	AAAA	2001:dcd:3::10
 d.nic.physio.	0	IN	A	37.209.198.10
 d.nic.physio.	0	IN	AAAA	2001:dcd:4::10
+pics.	0	IN	NS	a.nic.pics.
+pics.	0	IN	NS	b.nic.pics.
+pics.	0	IN	NS	c.nic.pics.
+pics.	0	IN	NS	d.nic.pics.
 pics.	0	IN	NS	ns1.uniregistry.net.
 pics.	0	IN	NS	ns2.uniregistry.info.
 pics.	0	IN	NS	ns3.uniregistry.net.
 pics.	0	IN	NS	ns4.uniregistry.info.
 pics.	0	IN	DS	7408 5 1 79f063399b4c13ca29ea8f68ff98d9d4eff59b59
 pics.	0	IN	DS	7408 5 2 02f6c4ff7037230837665a072a51779019771c19626e233465a9cab5eb69cee1
-pics.	0	IN	DS	22037 5 1 128e4d7b181f80fbef51811b5396ffe83e6517bd
-pics.	0	IN	DS	22037 5 2 faa0d15e50168840e97aaa27e7d6f010ece0c3bdcfd7f26827da1b062aad9291
 pics.	0	IN	DS	46651 5 1 5a09c2c9b674b46ae6a49255de9fecb7d999467b
 pics.	0	IN	DS	46651 5 2 5ddc0142062a06775e6df86a868a0262c740a484ff29fc22aec48116d6fd5860
+a.nic.pics.	0	IN	A	194.169.218.151
+a.nic.pics.	0	IN	AAAA	2001:67c:13cc::1:151
+b.nic.pics.	0	IN	A	185.24.64.151
+b.nic.pics.	0	IN	AAAA	2a04:2b00:13cc::1:151
+c.nic.pics.	0	IN	A	212.18.248.151
+c.nic.pics.	0	IN	AAAA	2a04:2b00:13ee::151
+d.nic.pics.	0	IN	A	212.18.249.151
+d.nic.pics.	0	IN	AAAA	2a04:2b00:13ff::151
 pictet.	0	IN	NS	ac1.nstld.com.
 pictet.	0	IN	NS	ac2.nstld.com.
 pictet.	0	IN	NS	ac3.nstld.com.
