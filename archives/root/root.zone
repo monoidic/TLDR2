@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071101 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071102 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -4451,10 +4451,8 @@ cyou.	0	IN	NS	a.nic.cyou.
 cyou.	0	IN	NS	b.nic.cyou.
 cyou.	0	IN	NS	c.nic.cyou.
 cyou.	0	IN	NS	d.nic.cyou.
-cyou.	0	IN	DS	26224 7 1 cf7780dc4e67ffd559828422b6747ce2dc7649dd
+cyou.	0	IN	DS	19927 13 2 2079b2824eee39ec9ab51f32b199a6bcc68162ca56bd12c2740b8c800fc611c4
 cyou.	0	IN	DS	26224 7 2 b19fafbc97d17eb0fb2c1d86170d4aeba7896b36c66bbb9d22796595056c986b
-cyou.	0	IN	DS	42985 7 1 f1be1321796afb34b2bec02ed9412966291b2c21
-cyou.	0	IN	DS	42985 7 2 6c0507565b162ff6a377b4e7e5e33a126987de3c7fdbc1644e247fb60e1094e3
 a.nic.cyou.	0	IN	A	194.169.218.120
 a.nic.cyou.	0	IN	AAAA	2001:67c:13cc::1:120
 b.nic.cyou.	0	IN	A	185.24.64.120
@@ -5631,7 +5629,9 @@ eu.	0	IN	DS	59479 8 2 5dbaa81bc0befe921886d8da28498d9fd441b457fb0e3642a0b2f9811c
 be.dns.eu.	0	IN	A	149.38.1.26
 be.dns.eu.	0	IN	AAAA	2001:978:2:1::93:2
 si.dns.eu.	0	IN	A	193.2.221.60
+si.dns.eu.	0	IN	A	193.2.221.62
 si.dns.eu.	0	IN	AAAA	2001:1470:8000:100::1
+si.dns.eu.	0	IN	AAAA	2001:1470:8000:100::62
 w.dns.eu.	0	IN	A	194.0.25.28
 w.dns.eu.	0	IN	AAAA	2001:678:20::28
 x.dns.eu.	0	IN	A	185.151.141.1
@@ -6832,16 +6832,26 @@ b0.nic.gallup.	0	IN	A	65.22.169.17
 b0.nic.gallup.	0	IN	AAAA	2a01:8840:a3::17
 c0.nic.gallup.	0	IN	A	65.22.170.17
 c0.nic.gallup.	0	IN	AAAA	2a01:8840:a4::17
+game.	0	IN	NS	a.nic.game.
+game.	0	IN	NS	b.nic.game.
+game.	0	IN	NS	c.nic.game.
+game.	0	IN	NS	d.nic.game.
 game.	0	IN	NS	ns1.uniregistry.net.
 game.	0	IN	NS	ns2.uniregistry.info.
 game.	0	IN	NS	ns3.uniregistry.net.
 game.	0	IN	NS	ns4.uniregistry.info.
 game.	0	IN	DS	4126 5 1 0bfd20235875e18ee7d8b0fad0a9f566d296cb09
 game.	0	IN	DS	4126 5 2 f69be762d422754930ee00176f377ab6a7ff074a48b2076a6f0cee711d97001d
-game.	0	IN	DS	13193 5 1 136133127b403bb2607b30cdf320976dd71ad179
-game.	0	IN	DS	13193 5 2 26da606404e52fac52305226892b013963d73ee61b062545eab36d2bc13b8544
 game.	0	IN	DS	39133 5 1 fb1f7e5d4d62aa9f930b77a9494bb3b04d84340a
 game.	0	IN	DS	39133 5 2 eca12999e650c648feabab0aa1870d10d6e9f6316fa609b126c98477f964c6a4
+a.nic.game.	0	IN	A	194.169.218.147
+a.nic.game.	0	IN	AAAA	2001:67c:13cc::1:147
+b.nic.game.	0	IN	A	185.24.64.147
+b.nic.game.	0	IN	AAAA	2a04:2b00:13cc::1:147
+c.nic.game.	0	IN	A	212.18.248.147
+c.nic.game.	0	IN	AAAA	2a04:2b00:13ee::147
+d.nic.game.	0	IN	A	212.18.249.147
+d.nic.game.	0	IN	AAAA	2a04:2b00:13ff::147
 games.	0	IN	NS	v0n0.nic.games.
 games.	0	IN	NS	v0n1.nic.games.
 games.	0	IN	NS	v0n2.nic.games.
