@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022070873 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071135 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -22,6 +22,8 @@ tg.	0	IN	NS	tld.cafe.tg.
 101domains.tg.	0	IN	NS	ns5.101domain.com.
 123.tg.	0	IN	NS	ns100.hostwhitelabel.com.
 123.tg.	0	IN	NS	ns200.hostwhitelabel.com.
+138.tg.	0	IN	NS	ns1.dns.com.
+138.tg.	0	IN	NS	ns2.dns.com.
 1382.tg.	0	IN	NS	ns1.dns.com.
 1382.tg.	0	IN	NS	ns2.dns.com.
 144.tg.	0	IN	NS	mia.ns.cloudflare.com.
@@ -3648,9 +3650,11 @@ mobilelabo.tg.	0	IN	NS	dns2.namecheaphosting.com.
 ns1.mobiphone.tg.	0	IN	A	209.88.242.164
 mode.tg.	0	IN	NS	cpanel11.lws-hosting.com.
 mode.tg.	0	IN	NS	cpanel12.lws-hosting.com.
-modernatx.tg.	0	IN	NS	ns01.trademarkarea.com.
-modernatx.tg.	0	IN	NS	ns02.trademarkarea.com.
-modernatx.tg.	0	IN	NS	ns03.trademarkarea.com.
+modernatx.tg.	0	IN	NS	ns1.markmonitor.com.
+modernatx.tg.	0	IN	NS	ns2.markmonitor.com.
+modernatx.tg.	0	IN	NS	ns3.markmonitor.com.
+modernatx.tg.	0	IN	NS	ns4.markmonitor.com.
+modernatx.tg.	0	IN	NS	ns5.markmonitor.com.
 modificationsn.tg.	0	IN	NS	ns1.netmaster.tg.
 modilac.tg.	0	IN	NS	a.ns.domainoo.fr.
 modilac.tg.	0	IN	NS	b.ns.domainoo.fr.
@@ -4935,9 +4939,11 @@ speedycard.tg.	0	IN	NS	ns1.cafe.tg.
 speedycard.tg.	0	IN	NS	ns2.cafe.tg.
 spgc.tg.	0	IN	NS	dns1.hosteur.com.
 spgc.tg.	0	IN	NS	dns2.hosteur.com.
-spikevax.tg.	0	IN	NS	ns01.trademarkarea.com.
-spikevax.tg.	0	IN	NS	ns02.trademarkarea.com.
-spikevax.tg.	0	IN	NS	ns03.trademarkarea.com.
+spikevax.tg.	0	IN	NS	ns1.markmonitor.com.
+spikevax.tg.	0	IN	NS	ns2.markmonitor.com.
+spikevax.tg.	0	IN	NS	ns3.markmonitor.com.
+spikevax.tg.	0	IN	NS	ns4.markmonitor.com.
+spikevax.tg.	0	IN	NS	ns5.markmonitor.com.
 spoly.tg.	0	IN	NS	ns1.netim.net.
 spoly.tg.	0	IN	NS	ns2.netim.net.
 spoly.tg.	0	IN	NS	ns3.netim.net.
@@ -5326,9 +5332,9 @@ togodigital.tg.	0	IN	NS	ns1.gouv.tg.
 togodigital.tg.	0	IN	NS	ns2.gouv.tg.
 togodigitalawards.tg.	0	IN	NS	cpanel15.lws-hosting.com.
 togodigitalawards.tg.	0	IN	NS	cpanel16.lws-hosting.com.
-togoevent.tg.	0	IN	NS	ns1.cafe.tg.
-togoevent.tg.	0	IN	NS	ns2.cafe.tg.
-togoevent.tg.	0	IN	NS	ns5.netmaster.tg.
+togoevent.tg.	0	IN	NS	ns1.togoevent.tg.
+togoevent.tg.	0	IN	NS	ns2.togoevent.tg.
+togoevent.tg.	0	IN	NS	ns3176354.ip-37-59-35.eu.
 togoevents.tg.	0	IN	NS	ns1.togoevents.tg.
 togoevents.tg.	0	IN	NS	ns2.togoevents.tg.
 togoevents.tg.	0	IN	NS	ns3176354.ip-37-59-35.eu.
@@ -5945,6 +5951,9 @@ zisch.tg.	0	IN	NS	ns01.hostfactory.ch.
 zisch.tg.	0	IN	NS	ns02.hostfactory.ch.
 zoho.tg.	0	IN	NS	ns1.101domain.com.
 zoho.tg.	0	IN	NS	ns2.101domain.com.
+zozopapa.tg.	0	IN	NS	ns1.cafe.tg.
+zozopapa.tg.	0	IN	NS	ns2.cafe.tg.
+zozopapa.tg.	0	IN	NS	ns5.netmaster.tg.
 zurich.tg.	0	IN	NS	dns1.cscdns.net.
 zurich.tg.	0	IN	NS	dns2.cscdns.net.
 zzz.tg.	0	IN	NS	doug.ns.cloudflare.com.
