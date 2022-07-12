@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071201 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071202 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1133,10 +1133,8 @@ audio.	0	IN	NS	a.nic.audio.
 audio.	0	IN	NS	b.nic.audio.
 audio.	0	IN	NS	c.nic.audio.
 audio.	0	IN	NS	d.nic.audio.
-audio.	0	IN	NS	ns1.uniregistry.net.
-audio.	0	IN	NS	ns2.uniregistry.info.
-audio.	0	IN	NS	ns3.uniregistry.net.
-audio.	0	IN	NS	ns4.uniregistry.info.
+audio.	0	IN	DS	10807 5 1 a8743f3c50bf77807ef5713d614f4cf1c0567f95
+audio.	0	IN	DS	10807 5 2 859c5604b1a595b5e139d2904314e6e5eee152ace825a74eca32a3e1290f178c
 audio.	0	IN	DS	20191 5 1 bb72622c591c9f739af49c13eedb7f2796cbc8fb
 audio.	0	IN	DS	20191 5 2 775c07f584233b85606ac3874441c97ad1af7f144d3e9f0fd779f1e064e49316
 audio.	0	IN	DS	49027 5 1 f2611084038a67137a2a8ef584402bad64ee365d
@@ -3287,12 +3285,10 @@ christmas.	0	IN	NS	a.nic.christmas.
 christmas.	0	IN	NS	b.nic.christmas.
 christmas.	0	IN	NS	c.nic.christmas.
 christmas.	0	IN	NS	d.nic.christmas.
-christmas.	0	IN	NS	ns1.uniregistry.net.
-christmas.	0	IN	NS	ns2.uniregistry.info.
-christmas.	0	IN	NS	ns3.uniregistry.net.
-christmas.	0	IN	NS	ns4.uniregistry.info.
 christmas.	0	IN	DS	2827 5 1 45a7ab7ffc9aed55e130deebc6a12a007052c326
 christmas.	0	IN	DS	2827 5 2 b359c6393c81c5c19e651290ce278f6d9e6b73b625e2809ea4fa7cee67df4a3e
+christmas.	0	IN	DS	23941 5 1 bc0c1ccffabd83a031323c84e60b6b755356a8be
+christmas.	0	IN	DS	23941 5 2 31b3839a387cf1c59f5a9fd953e54c7d5852606c0b20e86281148b6d4aaac042
 christmas.	0	IN	DS	51184 5 1 b14c7aa2999b35f27382961870cb8e480a1f5f0b
 christmas.	0	IN	DS	51184 5 2 1a80057885de5c3e07689cd77e954733a4b21658c65bee06f69b8f8e5f47170d
 a.nic.christmas.	0	IN	A	194.169.218.153
@@ -4907,14 +4903,12 @@ diet.	0	IN	NS	a.nic.diet.
 diet.	0	IN	NS	b.nic.diet.
 diet.	0	IN	NS	c.nic.diet.
 diet.	0	IN	NS	d.nic.diet.
-diet.	0	IN	NS	ns1.uniregistry.net.
-diet.	0	IN	NS	ns2.uniregistry.info.
-diet.	0	IN	NS	ns3.uniregistry.net.
-diet.	0	IN	NS	ns4.uniregistry.info.
 diet.	0	IN	DS	2464 5 1 58ab5506cd049ddd784c487957d5d87c44e238b0
 diet.	0	IN	DS	2464 5 2 a2624874743790cb52066e9b50b06ebf915dc80355e2f9c10094295de2addfb7
 diet.	0	IN	DS	11962 5 1 5d42445c9c0aa2c65f6b9e23f90b3d5c30c4a256
 diet.	0	IN	DS	11962 5 2 a3d113a8af70bc8b9d35fc555a0ec7474482383fc4f73ca605f0ec498288fdc9
+diet.	0	IN	DS	35167 5 1 91aadeac68b9579fc6602ca5fcc770bcfb7536b5
+diet.	0	IN	DS	35167 5 2 64ece39f08b2542cfd13d6c484e25f29b2bb29fba98e082dd5294f9011f73020
 a.nic.diet.	0	IN	A	194.169.218.145
 a.nic.diet.	0	IN	AAAA	2001:67c:13cc::1:145
 b.nic.diet.	0	IN	A	185.24.64.145
@@ -6334,10 +6328,8 @@ flowers.	0	IN	NS	a.nic.flowers.
 flowers.	0	IN	NS	b.nic.flowers.
 flowers.	0	IN	NS	c.nic.flowers.
 flowers.	0	IN	NS	d.nic.flowers.
-flowers.	0	IN	NS	ns1.uniregistry.net.
-flowers.	0	IN	NS	ns2.uniregistry.info.
-flowers.	0	IN	NS	ns3.uniregistry.net.
-flowers.	0	IN	NS	ns4.uniregistry.info.
+flowers.	0	IN	DS	11746 5 1 48bdcf4cddc2a930612a0d41e3dcbdfdefd6b433
+flowers.	0	IN	DS	11746 5 2 d3d6c0d4a9e2e40e92da8203b7ee72a80ce3b9220fb51b212c6cb25a1b886d5e
 flowers.	0	IN	DS	44614 5 1 16e65148cd02d28c72be03ec2ad4f0b7b8ea156d
 flowers.	0	IN	DS	44614 5 2 e504240ff007eaa0829d9cf47f27fdd2b8c4c03e113c9d163fa0766d6716609d
 flowers.	0	IN	DS	53083 5 1 ff6d6ba7638e7d8010867c4334d20eed0d8f0d0d
@@ -6836,12 +6828,10 @@ game.	0	IN	NS	a.nic.game.
 game.	0	IN	NS	b.nic.game.
 game.	0	IN	NS	c.nic.game.
 game.	0	IN	NS	d.nic.game.
-game.	0	IN	NS	ns1.uniregistry.net.
-game.	0	IN	NS	ns2.uniregistry.info.
-game.	0	IN	NS	ns3.uniregistry.net.
-game.	0	IN	NS	ns4.uniregistry.info.
 game.	0	IN	DS	4126 5 1 0bfd20235875e18ee7d8b0fad0a9f566d296cb09
 game.	0	IN	DS	4126 5 2 f69be762d422754930ee00176f377ab6a7ff074a48b2076a6f0cee711d97001d
+game.	0	IN	DS	32929 5 1 ac35dd8c5c6e00427fce4432f9f817d54c5dbb9f
+game.	0	IN	DS	32929 5 2 c7602f661849ef5422cb5e5d7ccc91e7ea8344c7fd20f0e43a198cc699ec895c
 game.	0	IN	DS	39133 5 1 fb1f7e5d4d62aa9f930b77a9494bb3b04d84340a
 game.	0	IN	DS	39133 5 2 eca12999e650c648feabab0aa1870d10d6e9f6316fa609b126c98477f964c6a4
 a.nic.game.	0	IN	A	194.169.218.147
@@ -6975,8 +6965,7 @@ gent.	0	IN	NS	a.nic.gent.
 gent.	0	IN	NS	b.nic.gent.
 gent.	0	IN	NS	c.nic.gent.
 gent.	0	IN	NS	d.nic.gent.
-gent.	0	IN	DS	19200 7 2 11f029ad7e87d944abd918b837c1e5d75e400598dcd66630b37e48d8d149f97e
-gent.	0	IN	DS	62361 7 1 ead2ac343f82ef1baf3889d76332590ef7d049e5
+gent.	0	IN	DS	2640 13 2 e97c1f6f53e1284399d6daaf670d8fcbddb5618710ade52c1219757c14c77d88
 gent.	0	IN	DS	62361 7 2 66aae887ebb56145ad256557894bb78115efac0f9d3b1bdbc8b32ef87b7d9bed
 a.nic.gent.	0	IN	A	194.169.218.89
 a.nic.gent.	0	IN	AAAA	2001:67c:13cc::1:89
@@ -7560,12 +7549,10 @@ guitars.	0	IN	NS	a.nic.guitars.
 guitars.	0	IN	NS	b.nic.guitars.
 guitars.	0	IN	NS	c.nic.guitars.
 guitars.	0	IN	NS	d.nic.guitars.
-guitars.	0	IN	NS	ns1.uniregistry.net.
-guitars.	0	IN	NS	ns2.uniregistry.info.
-guitars.	0	IN	NS	ns3.uniregistry.net.
-guitars.	0	IN	NS	ns4.uniregistry.info.
 guitars.	0	IN	DS	892 5 1 e421d29a8d62e53665069dd9b99e04a86f4fe8e3
 guitars.	0	IN	DS	892 5 2 aa980f135eb29c27887f8dfcdd0bab90dccf0740ef3f11fb3256b8a6a8c7fbf2
+guitars.	0	IN	DS	17278 5 1 c127e898212738f4a0723a1d4feb33b59b7ea719
+guitars.	0	IN	DS	17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
 guitars.	0	IN	DS	39502 5 1 6186e2c33fb4719080be060e131e9339bf9cfa39
 guitars.	0	IN	DS	39502 5 2 742844ec01d87eceec0d34b7de1d39e376c697c73d36d90c9d5fad65625b624f
 a.nic.guitars.	0	IN	A	194.169.218.149
@@ -8042,12 +8029,10 @@ hosting.	0	IN	NS	a.nic.hosting.
 hosting.	0	IN	NS	b.nic.hosting.
 hosting.	0	IN	NS	c.nic.hosting.
 hosting.	0	IN	NS	d.nic.hosting.
-hosting.	0	IN	NS	ns1.uniregistry.net.
-hosting.	0	IN	NS	ns2.uniregistry.info.
-hosting.	0	IN	NS	ns3.uniregistry.net.
-hosting.	0	IN	NS	ns4.uniregistry.info.
 hosting.	0	IN	DS	27751 5 1 9a72cab4a4cd51469dfc9e1dac8b1476d4b5c66c
 hosting.	0	IN	DS	27751 5 2 cf9f7fa35f5dce998a5757081f6e790df501f8b8fb58d0f9d8c4c645761a39db
+hosting.	0	IN	DS	46927 5 1 017305d89ee86615e38b0ed31f5eed0a797e8156
+hosting.	0	IN	DS	46927 5 2 74803c2bbeebc8d188832c4054b3fd230f31f593e3f5432f7fbcd860e3cb7ed5
 hosting.	0	IN	DS	51544 5 1 eb0e1f6128e4b7ed6c0c0560f9a3ebc8e5100c33
 hosting.	0	IN	DS	51544 5 2 8fe6bf96895d8504f0989c4dbc3741df17b7672d5aa64107bd624089b5d3d403
 a.nic.hosting.	0	IN	A	194.169.218.152
@@ -10265,14 +10250,12 @@ lol.	0	IN	NS	a.nic.lol.
 lol.	0	IN	NS	b.nic.lol.
 lol.	0	IN	NS	c.nic.lol.
 lol.	0	IN	NS	d.nic.lol.
-lol.	0	IN	NS	ns1.uniregistry.net.
-lol.	0	IN	NS	ns2.uniregistry.info.
-lol.	0	IN	NS	ns3.uniregistry.net.
-lol.	0	IN	NS	ns4.uniregistry.info.
 lol.	0	IN	DS	14131 5 1 a80aa63c99464101bad5a82079d748f602a4a79f
 lol.	0	IN	DS	14131 5 2 4564b365617a6bcf1c53c04dd101339729f556c2837ad8ab095cff78cff1f97a
 lol.	0	IN	DS	15019 5 1 4f3c98c4c13b1657cfa5d90d945ef26008fdff32
 lol.	0	IN	DS	15019 5 2 24cea2aa8a26053d2da0301850748f74e217a52a1b1941e86963a32c5991e9bb
+lol.	0	IN	DS	54097 5 1 d96bd9ffffdf0e0f85a1e2fd01306042d63b3919
+lol.	0	IN	DS	54097 5 2 efc57a65d9c270370a1dc1f6a3de157c6f09032864e976ac5bbb1710c6bc6779
 a.nic.lol.	0	IN	A	194.169.218.146
 a.nic.lol.	0	IN	AAAA	2001:67c:13cc::1:146
 b.nic.lol.	0	IN	A	185.24.64.146
@@ -11193,10 +11176,8 @@ mom.	0	IN	NS	a.nic.mom.
 mom.	0	IN	NS	b.nic.mom.
 mom.	0	IN	NS	c.nic.mom.
 mom.	0	IN	NS	d.nic.mom.
-mom.	0	IN	NS	ns1.uniregistry.net.
-mom.	0	IN	NS	ns2.uniregistry.info.
-mom.	0	IN	NS	ns3.uniregistry.net.
-mom.	0	IN	NS	ns4.uniregistry.info.
+mom.	0	IN	DS	11348 5 1 6a1b7a558a82d6bbcdef5dea82af070b832bc7e1
+mom.	0	IN	DS	11348 5 2 97ffc26796c7b2a683048b7cf0bcecf3c54d00b0de377b54d7c7eeedeb2ea8b5
 mom.	0	IN	DS	28162 5 1 2ab25d06f73e977ee5ced0fcf5ea4ed6ee50d269
 mom.	0	IN	DS	28162 5 2 4b2b701367d0b74f52c9684e9b8921659045039452d135a55d128687c729fbf5
 mom.	0	IN	DS	41626 5 1 2744d01ec89a56e70f5b6c3171c39739e46afb3c
@@ -13186,10 +13167,8 @@ pics.	0	IN	NS	a.nic.pics.
 pics.	0	IN	NS	b.nic.pics.
 pics.	0	IN	NS	c.nic.pics.
 pics.	0	IN	NS	d.nic.pics.
-pics.	0	IN	NS	ns1.uniregistry.net.
-pics.	0	IN	NS	ns2.uniregistry.info.
-pics.	0	IN	NS	ns3.uniregistry.net.
-pics.	0	IN	NS	ns4.uniregistry.info.
+pics.	0	IN	DS	3458 5 1 356a302c72add225e8dbf542fd8851bfa458b1ae
+pics.	0	IN	DS	3458 5 2 a32c380766b5205f998872b8187a99ac5027872da54b0ddec2edfbefc6279b89
 pics.	0	IN	DS	7408 5 1 79f063399b4c13ca29ea8f68ff98d9d4eff59b59
 pics.	0	IN	DS	7408 5 2 02f6c4ff7037230837665a072a51779019771c19626e233465a9cab5eb69cee1
 pics.	0	IN	DS	46651 5 1 5a09c2c9b674b46ae6a49255de9fecb7d999467b
@@ -13305,6 +13284,7 @@ pioneer.	0	IN	NS	b.gmoregistry.net.
 pioneer.	0	IN	NS	k.gmoregistry.net.
 pioneer.	0	IN	NS	l.gmoregistry.net.
 pioneer.	0	IN	DS	7342 8 2 3ec0f6a04f0365ab5311410a9074be1c8025df8120817b92d96bf8fae973e27d
+pioneer.	0	IN	DS	52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
 pizza.	0	IN	NS	v0n0.nic.pizza.
 pizza.	0	IN	NS	v0n1.nic.pizza.
 pizza.	0	IN	NS	v0n2.nic.pizza.
