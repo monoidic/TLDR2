@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022071101 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022071301 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -1218,10 +1218,10 @@ cadique.cv.	0	IN	NS	ns3.a2hosting.com.
 cadique.cv.	0	IN	NS	ns4.a2hosting.com.
 cadprojetos.cv.	0	IN	NS	ns6397.hostgator.com.
 cadprojetos.cv.	0	IN	NS	ns6398.hostgator.com.
-caetano.cv.	0	IN	NS	pns31.cloudns.net.
-caetano.cv.	0	IN	NS	pns32.cloudns.net.
-caetano.cv.	0	IN	NS	pns33.cloudns.net.
-caetano.cv.	0	IN	NS	pns34.cloudns.net.
+caetano.cv.	0	IN	NS	dns3.cloudns.net.
+caetano.cv.	0	IN	NS	dns4.cloudns.net.
+caetano.cv.	0	IN	NS	dns7.cloudns.net.
+caetano.cv.	0	IN	NS	dns8.cloudns.net.
 caetanoauto.cv.	0	IN	NS	ns1.rigorcg.pt.
 caetanoauto.cv.	0	IN	NS	ns2.rigorcg.pt.
 caetanocaboverde.cv.	0	IN	NS	ns1.rigorcg.pt.
@@ -3850,9 +3850,10 @@ ete-logistica.cv.	0	IN	NS	ns-b1.vodafone.pt.
 ete-logistica.cv.	0	IN	NS	ns-b2.vodafone.pt.
 etenergia.cv.	0	IN	NS	ns1.wix.com.
 etenergia.cv.	0	IN	NS	ns2.wix.com.
-eth.cv.	0	IN	NS	ns01.trademarkarea.com.
-eth.cv.	0	IN	NS	ns02.trademarkarea.com.
-eth.cv.	0	IN	NS	ns03.trademarkarea.com.
+eth.cv.	0	IN	A	3.120.163.96
+eth.cv.	0	IN	NS	ns1.dan.com.
+eth.cv.	0	IN	NS	ns2.dan.com.
+eth.cv.	0	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
 eticadata.cv.	0	IN	NS	ns1-04.azure-dns.com.
 eticadata.cv.	0	IN	NS	ns2-04.azure-dns.net.
 eticadata.cv.	0	IN	NS	ns3-04.azure-dns.org.
@@ -4443,8 +4444,8 @@ habimobil.cv.	0	IN	NS	ns1000.mochahost.com.
 habimobil.cv.	0	IN	NS	ns2000.mochahost.com.
 habipo.cv.	0	IN	NS	ns1.host-care.com.
 habipo.cv.	0	IN	NS	ns2.host-care.com.
-habquimica.cv.	0	IN	NS	ns1000.mochahost.com.
-habquimica.cv.	0	IN	NS	ns2000.mochahost.com.
+habquimica.cv.	0	IN	NS	ns1.gofox.pt.
+habquimica.cv.	0	IN	NS	ns2.gofox.pt.
 haia.cv.	0	IN	NS	ns1.hostinger.com.
 haia.cv.	0	IN	NS	ns2.hostinger.com.
 haia.cv.	0	IN	NS	ns3.hostinger.com.
