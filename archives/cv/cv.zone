@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022071301 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022071401 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -328,6 +328,10 @@ almadainn.cv.	0	IN	NS	dns1.prime.cv.
 almadainn.cv.	0	IN	NS	dns2.prime.cv.
 almeidalandim.cv.	0	IN	NS	ns1.servconfig.com.
 almeidalandim.cv.	0	IN	NS	ns2.servconfig.com.
+alou.cv.	0	IN	NS	ns.alou.cv.
+alou.cv.	0	IN	NS	ns2.alou.cv.
+ns.alou.cv.	0	IN	A	41.221.193.2
+ns2.alou.cv.	0	IN	A	41.221.193.35
 alphaservice.cv.	0	IN	NS	ns01.trademarkarea.com.
 alphaservice.cv.	0	IN	NS	ns02.trademarkarea.com.
 alphaservice.cv.	0	IN	NS	ns03.trademarkarea.com.
@@ -2558,10 +2562,10 @@ riu.com.cv.	0	IN	NS	ns-uk.joopbox.com.
 robinhood.com.cv.	0	IN	NS	ns01.trademarkarea.com.
 robinhood.com.cv.	0	IN	NS	ns02.trademarkarea.com.
 robinhood.com.cv.	0	IN	NS	ns03.trademarkarea.com.
-rolex.com.cv.	0	IN	NS	ns1.p09.dynect.net.
-rolex.com.cv.	0	IN	NS	ns2.p09.dynect.net.
-rolex.com.cv.	0	IN	NS	ns3.p09.dynect.net.
-rolex.com.cv.	0	IN	NS	ns4.p09.dynect.net.
+rolex.com.cv.	0	IN	NS	dns1.p06.nsone.net.
+rolex.com.cv.	0	IN	NS	dns2.p06.nsone.net.
+rolex.com.cv.	0	IN	NS	dns3.p06.nsone.net.
+rolex.com.cv.	0	IN	NS	dns4.p06.nsone.net.
 rpcv.com.cv.	0	IN	NS	ns1.locaweb.com.br.
 rpcv.com.cv.	0	IN	NS	ns2.locaweb.com.br.
 rpcv.com.cv.	0	IN	NS	ns3.locaweb.com.br.
@@ -2650,10 +2654,10 @@ tudor.com.cv.	0	IN	NS	dns1.p02.nsone.net.
 tudor.com.cv.	0	IN	NS	dns2.p02.nsone.net.
 tudor.com.cv.	0	IN	NS	dns3.p02.nsone.net.
 tudor.com.cv.	0	IN	NS	dns4.p02.nsone.net.
-tudorwatch.com.cv.	0	IN	NS	ns1.p09.dynect.net.
-tudorwatch.com.cv.	0	IN	NS	ns2.p09.dynect.net.
-tudorwatch.com.cv.	0	IN	NS	ns3.p09.dynect.net.
-tudorwatch.com.cv.	0	IN	NS	ns4.p09.dynect.net.
+tudorwatch.com.cv.	0	IN	NS	dns1.p02.nsone.net.
+tudorwatch.com.cv.	0	IN	NS	dns2.p02.nsone.net.
+tudorwatch.com.cv.	0	IN	NS	dns3.p02.nsone.net.
+tudorwatch.com.cv.	0	IN	NS	dns4.p02.nsone.net.
 turkcell.com.cv.	0	IN	NS	ns1.101domain.com.
 turkcell.com.cv.	0	IN	NS	ns2.101domain.com.
 turkcell.com.cv.	0	IN	NS	ns5.101domain.com.
@@ -7866,9 +7870,17 @@ spiga.cv.	0	IN	NS	ans250.securenet-server.net.
 spikevax.cv.	0	IN	NS	ns01.trademarkarea.com.
 spikevax.cv.	0	IN	NS	ns02.trademarkarea.com.
 spikevax.cv.	0	IN	NS	ns03.trademarkarea.com.
+sportsmidia.cv.	0	IN	A	45.63.42.179
+sportsmidia.cv.	0	IN	A	94.237.33.102
 sportsmidia.cv.	0	IN	NS	ns1.webhs.org.
 sportsmidia.cv.	0	IN	NS	ns2.webhs.org.
 sportsmidia.cv.	0	IN	NS	ns3.webhs.org.
+sportsmidia.cv.	0	IN	AAAA	2a00:801:fb:253::4
+sportsmidia.cv.	0	IN	AAAA	2a03:f80:ed15:158:255:211:116:1
+spotify.cv.	0	IN	NS	dns01.dipcon.com.
+spotify.cv.	0	IN	NS	dns02.ports.se.
+spotify.cv.	0	IN	NS	dns03.ports.se.
+spotify.cv.	0	IN	NS	dns04.ports.net.
 spotnet.cv.	0	IN	NS	ns01.spotnet.cv.
 spotnet.cv.	0	IN	NS	ns02.spotnet.cv.
 ns01.spotnet.cv.	0	IN	A	94.46.170.121
@@ -7944,17 +7956,13 @@ stif.cv.	0	IN	NS	ns1000.mochahost.com.
 stif.cv.	0	IN	NS	ns2000.mochahost.com.
 stj.cv.	0	IN	NS	ns1.gov.cv.
 stj.cv.	0	IN	NS	ns2.gov.cv.
-storebenfica.cv.	0	IN	A	91.184.1.10
-storebenfica.cv.	0	IN	A	91.184.8.20
-storebenfica.cv.	0	IN	A	95.211.179.15
 storebenfica.cv.	0	IN	NS	ns1.webhs.org.
 storebenfica.cv.	0	IN	NS	ns2.webhs.org.
 storebenfica.cv.	0	IN	NS	ns3.webhs.org.
 storm.cv.	0	IN	A	5.189.191.29
 storm.cv.	0	IN	A	79.143.182.242
-storm.cv.	0	IN	NS	ns1.hostnet.nl.
-storm.cv.	0	IN	NS	ns2.hostnetbv.com.
-storm.cv.	0	IN	NS	ns3.hostnetbv.nl.
+storm.cv.	0	IN	NS	ns01.hostnet.nl.
+storm.cv.	0	IN	NS	ns02.hostnet.nl.
 storm.cv.	0	IN	AAAA	2a02:c205:0:891::1
 sttech.cv.	0	IN	NS	ns1.contabo.net.
 sttech.cv.	0	IN	NS	ns2.contabo.net.
