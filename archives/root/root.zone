@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071501 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022071502 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -5634,9 +5634,7 @@ eu.	0	IN	NS	si.dns.eu.
 eu.	0	IN	DS	59479 8 2 5dbaa81bc0befe921886d8da28498d9fd441b457fb0e3642a0b2f9811c8e15e0
 be.dns.eu.	0	IN	A	149.38.1.26
 be.dns.eu.	0	IN	AAAA	2001:978:2:1::93:2
-si.dns.eu.	0	IN	A	193.2.221.60
 si.dns.eu.	0	IN	A	193.2.221.62
-si.dns.eu.	0	IN	AAAA	2001:1470:8000:100::1
 si.dns.eu.	0	IN	AAAA	2001:1470:8000:100::62
 w.dns.eu.	0	IN	A	194.0.25.28
 w.dns.eu.	0	IN	AAAA	2001:678:20::28
@@ -13845,6 +13843,8 @@ py.	0	IN	NS	c.dns.py.
 py.	0	IN	NS	l.dns.py.
 py.	0	IN	NS	p.dns.py.
 py.	0	IN	NS	u.dns.py.
+py.	0	IN	DS	61306 13 2 5fba6a98277300d23512184ae3fc238c367f731d519f6ec9a63af9d4fbc9a435
+py.	0	IN	DS	61306 13 4 609aa5b81513378f093ff57bb91296e85366d815e24680d1894e490cdafae188d7214db1b0e453bce2d5340dd921b1ba
 b.dns.py.	0	IN	A	200.160.0.5
 b.dns.py.	0	IN	AAAA	2001:12ff:0:a20::5
 c.dns.py.	0	IN	A	130.59.31.30
