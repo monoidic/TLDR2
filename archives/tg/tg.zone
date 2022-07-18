@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071673 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022071836 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -2098,6 +2098,8 @@ etoro.tg.	0	IN	NS	ns2.dtnt.info.
 etoro.tg.	0	IN	NS	ns3.dtnt.info.
 ets.tg.	0	IN	NS	oti.ids.tg.
 ets.tg.	0	IN	NS	mono.ids.tg.
+ets-laparole.tg.	0	IN	NS	dns1.hosteur.com.
+ets-laparole.tg.	0	IN	NS	dns2.hosteur.com.
 etsheros.tg.	0	IN	NS	ns4.netmaster.tg.
 etsheros.tg.	0	IN	NS	ns5.netmaster.tg.
 etudiant.tg.	0	IN	NS	dns1.hosteur.com.
@@ -5872,9 +5874,9 @@ worldgift.tg.	0	IN	NS	ns03.trademarkarea.com.
 worldinfo.tg.	0	IN	NS	ns1.netmaster.tg.
 worldwarriors.tg.	0	IN	NS	oti.ids.tg.
 worldwarriors.tg.	0	IN	NS	mono.ids.tg.
-wowweb.tg.	0	IN	NS	ns1.cafe.tg.
-wowweb.tg.	0	IN	NS	ns2.cafe.tg.
-wowweb.tg.	0	IN	NS	ns5.netmaster.tg.
+wowweb.tg.	0	IN	NS	.
+wowweb.tg.	0	IN	NS	cp5.dnshotservices.com.
+wowweb.tg.	0	IN	NS	cp6.dnshotservices.com.
 ns1.wrk.tg.	0	IN	A	209.15.208.69
 ns2.wrk.tg.	0	IN	A	209.15.208.70
 wuri.tg.	0	IN	NS	ns1.cafe.tg.
