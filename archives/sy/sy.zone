@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071822 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022071824 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1658131341"
+sy.	0	IN	TXT	"Generation Time: 1658134943"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -3899,6 +3899,8 @@ isawi.sy.	0	IN	NS	suspend1.tld.sy.
 isawi.sy.	0	IN	NS	suspend2.tld.sy.
 isc.sy.	0	IN	NS	suspend1.tld.sy.
 isc.sy.	0	IN	NS	suspend2.tld.sy.
+isceit.sy.	0	IN	NS	ns1.tld.sy.
+isceit.sy.	0	IN	NS	ns2.tld.sy.
 isdin.sy.	0	IN	NS	ns1.linode.com.
 isdin.sy.	0	IN	NS	ns2.linode.com.
 isdin.sy.	0	IN	NS	ns3.linode.com.
@@ -7519,8 +7521,8 @@ unlimited.sy.	0	IN	NS	ns1.shamcenter.com.
 unlimited.sy.	0	IN	NS	ns2.shamcenter.com.
 uok.sy.	0	IN	NS	ns3.tld.sy.
 uok.sy.	0	IN	NS	ns4.tld.sy.
-upay.sy.	0	IN	NS	suspend1.tld.sy.
-upay.sy.	0	IN	NS	suspend2.tld.sy.
+upay.sy.	0	IN	NS	ns1.scltd.sy.
+upay.sy.	0	IN	NS	ns2.scltd.sy.
 upco.sy.	0	IN	NS	suspend1.tld.sy.
 upco.sy.	0	IN	NS	suspend2.tld.sy.
 upwork.sy.	0	IN	NS	sydns1.nobalaa.com.
