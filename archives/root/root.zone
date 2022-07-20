@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022072001 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022072002 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -2544,6 +2544,7 @@ bz.	0	IN	DS	22882 8 2 088ad52a5e8e9adf54345cb21753a54f71bfb8e2674f08b02b64ab53f4
 bzh.	0	IN	NS	d.nic.fr.
 bzh.	0	IN	NS	f.ext.nic.fr.
 bzh.	0	IN	NS	g.ext.nic.fr.
+bzh.	0	IN	DS	21101 13 2 1142355e16da610e0872122f8e5f542ee0d3668abb727f3a031e2c14757b2445
 bzh.	0	IN	DS	36173 13 2 1e10afc5b999f9b2d6298584b181e11cf9fa94ad04f4ecfd62ee96496570f872
 ca.	0	IN	NS	c.ca-servers.ca.
 ca.	0	IN	NS	j.ca-servers.ca.
@@ -6941,7 +6942,6 @@ gent.	0	IN	NS	b.nic.gent.
 gent.	0	IN	NS	c.nic.gent.
 gent.	0	IN	NS	d.nic.gent.
 gent.	0	IN	DS	2640 13 2 e97c1f6f53e1284399d6daaf670d8fcbddb5618710ade52c1219757c14c77d88
-gent.	0	IN	DS	62361 7 2 66aae887ebb56145ad256557894bb78115efac0f9d3b1bdbc8b32ef87b7d9bed
 a.nic.gent.	0	IN	A	194.169.218.89
 a.nic.gent.	0	IN	AAAA	2001:67c:13cc::1:89
 b.nic.gent.	0	IN	A	185.24.64.89
@@ -11327,6 +11327,7 @@ ns1.nic.mr.	0	IN	A	193.146.150.193
 ns2.nic.mr.	0	IN	A	82.151.64.2
 ns3.nic.mr.	0	IN	A	204.61.216.135
 ns3.nic.mr.	0	IN	AAAA	2001:500:14:6135:ad::1
+ms.	0	IN	NS	a.lactld.org.
 ms.	0	IN	NS	ns1.anycastdns.cz.
 ms.	0	IN	NS	ns2.anycastdns.cz.
 ms.	0	IN	NS	ms-ns.anycast.pch.net.
@@ -12802,6 +12803,7 @@ ovh.	0	IN	NS	d.nic.fr.
 ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
 ovh.	0	IN	DS	4719 13 2 50f56a97e03dd0977e263e1b02e9c0d2cfb1c4d09fd3c96657668923e120407a
+ovh.	0	IN	DS	24939 13 2 02a3f789b7d6c726513eebadf7f64741fed1acd57405339d9d50191c620cd914
 pa.	0	IN	NS	ns.pa.
 pa.	0	IN	NS	ns.dns.br.
 pa.	0	IN	NS	ns.nic.pa.
@@ -12826,6 +12828,7 @@ paris.	0	IN	NS	d.nic.fr.
 paris.	0	IN	NS	f.ext.nic.fr.
 paris.	0	IN	NS	g.ext.nic.fr.
 paris.	0	IN	NS	h.ext.nic.fr.
+paris.	0	IN	DS	36157 13 2 e9aa567b3ffad9aa9f2c6a0bc0b7fed6d338c5150bd5627812a5f9957969c37d
 paris.	0	IN	DS	53702 13 2 6c5260b4abb0a1ea2b55d3e9e281f72a64ce9265220734b808a9f550feba3722
 pars.	0	IN	NS	a.ns.nic.pars.
 pars.	0	IN	NS	b.ns.nic.pars.
