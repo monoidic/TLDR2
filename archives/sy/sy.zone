@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072121 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022072123 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1658397742"
+sy.	0	IN	TXT	"Generation Time: 1658401345"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -7132,6 +7132,8 @@ tarassul.sy.	0	IN	NS	ns3.tarassul.sy.
 ns1.tarassul.sy.	0	IN	A	82.137.200.18
 ns2.tarassul.sy.	0	IN	A	82.137.200.19
 ns3.tarassul.sy.	0	IN	A	82.137.200.20
+tareeq.sy.	0	IN	NS	ns3.tld.sy.
+tareeq.sy.	0	IN	NS	ns4.tld.sy.
 tarif-akhras.sy.	0	IN	NS	suspend1.tld.sy.
 tarif-akhras.sy.	0	IN	NS	suspend2.tld.sy.
 taroulsi.sy.	0	IN	NS	suspend1.tld.sy.
@@ -7245,8 +7247,8 @@ telecom.sy.	0	IN	NS	ns3.tld.sy.
 telecom.sy.	0	IN	NS	ns4.tld.sy.
 telekor.sy.	0	IN	NS	ns1.alanqaa.com.
 telekor.sy.	0	IN	NS	ns2.alanqaa.com.
-telescopesyria.sy.	0	IN	NS	suspend1.tld.sy.
-telescopesyria.sy.	0	IN	NS	suspend2.tld.sy.
+telescopesyria.sy.	0	IN	NS	ns1.syriaserv.com.
+telescopesyria.sy.	0	IN	NS	ns2.syriaserv.com.
 tello-llc.sy.	0	IN	NS	suspend1.tld.sy.
 tello-llc.sy.	0	IN	NS	suspend2.tld.sy.
 telsa-mat.sy.	0	IN	NS	ns1.waveshost.sy.
