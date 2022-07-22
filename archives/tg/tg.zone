@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072144 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072242 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -155,8 +155,8 @@ abayoco.tg.	0	IN	NS	ns1.1xpax.com.
 abayoco.tg.	0	IN	NS	ns2.1xpax.com.
 abbe.tg.	0	IN	NS	ns1.above.com.
 abbe.tg.	0	IN	NS	ns2.above.com.
-abc.tg.	0	IN	NS	chloe.ns.cloudflare.com.
-abc.tg.	0	IN	NS	albert.ns.cloudflare.com.
+abc.tg.	0	IN	NS	jamie.ns.cloudflare.com.
+abc.tg.	0	IN	NS	moura.ns.cloudflare.com.
 abcredit.tg.	0	IN	NS	ns1.francedns.com.
 abcredit.tg.	0	IN	NS	ns2.francedns.com.
 abcredit.tg.	0	IN	NS	ns3.francedns.com.
@@ -721,8 +721,9 @@ autodiscover.tg.	0	IN	NS	ns4-32.azure-dns.info.
 autofast.tg.	0	IN	NS	ns1.cetsi.fr.
 autofast.tg.	0	IN	NS	ns2.cetsi.fr.
 autofast.tg.	0	IN	NS	ns3.cetsi.fr.
-autogo.tg.	0	IN	NS	ulla.ns.cloudflare.com.
-autogo.tg.	0	IN	NS	thaddeus.ns.cloudflare.com.
+autogo.tg.	0	IN	NS	nsa.n0c.com.
+autogo.tg.	0	IN	NS	nsb.n0c.com.
+autogo.tg.	0	IN	NS	nsc.n0c.com.
 autolaperformance.tg.	0	IN	NS	dns1.hosteur.com.
 autolaperformance.tg.	0	IN	NS	dns2.hosteur.com.
 avako.tg.	0	IN	NS	ns1.francedns.com.
@@ -1190,7 +1191,7 @@ cbd.tg.	0	IN	NS	ns2.dan.com.
 ccit.tg.	0	IN	NS	mail.ccit.tg.
 crm.ccit.tg.	0	IN	A	92.222.121.232
 loccit.ccit.tg.	0	IN	A	41.207.186.114
-mail.ccit.tg.	0	IN	A	92.222.121.233
+mail.ccit.tg.	0	IN	A	92.222.121.234
 cda.tg.	0	IN	NS	ns1.nic.tg.
 cda.tg.	0	IN	NS	ns1.gouv.tg.
 cda.tg.	0	IN	NS	ns2.gouv.tg.
@@ -2404,9 +2405,8 @@ gef2020.tg.	0	IN	NS	dns12.ovh.net.
 geier.tg.	0	IN	NS	ns1.francedns.com.
 geier.tg.	0	IN	NS	ns3.francedns.com.
 generationchiller.tg.	0	IN	NS	oti.ids.tg.
-geniexperts.tg.	0	IN	NS	ns1.francedns.com.
 geniexperts.tg.	0	IN	NS	ns2.francedns.com.
-geniexperts.tg.	0	IN	NS	ns3.francedns.com.
+geniexperts.tg.	0	IN	NS	cloudf03.francedns.com.
 geno.tg.	0	IN	NS	ns1.bluehost.com.
 geno.tg.	0	IN	NS	ns2.bluehost.com.
 geo.tg.	0	IN	NS	ns100.hostwhitelabel.com.
@@ -2946,9 +2946,8 @@ istqb.tg.	0	IN	NS	ns1.cafe.tg.
 istqb.tg.	0	IN	NS	ns2.cafe.tg.
 istqb.tg.	0	IN	NS	ns4.netmaster.tg.
 istqb.tg.	0	IN	NS	ns5.netmaster.tg.
-it-admin.tg.	0	IN	NS	ns1.cafe.tg.
-it-admin.tg.	0	IN	NS	ns2.cafe.tg.
-it-admin.tg.	0	IN	NS	ns5.netmaster.tg.
+it-admin.tg.	0	IN	NS	ns.2atspace.me.
+it-admin.tg.	0	IN	NS	ns1.atspace.me.
 it-land.tg.	0	IN	NS	ns1.whc.ca.
 it-land.tg.	0	IN	NS	ns2.whc.ca.
 it-land.tg.	0	IN	NS	ns3.whc.ca.
@@ -3532,6 +3531,9 @@ marketplace.tg.	0	IN	NS	sdns2.ovh.net.
 marketplace.tg.	0	IN	NS	ns3176354.ip-37-59-35.eu.
 markmonitor.tg.	0	IN	NS	dns-ns1.wistee.fr.
 markmonitor.tg.	0	IN	NS	dns-ns11.wistee.fr.
+martin.tg.	0	IN	NS	ns.hostpoint.ch.
+martin.tg.	0	IN	NS	ns2.hostpoint.ch.
+martin.tg.	0	IN	NS	ns3.hostpoint.ch.
 masfloyshop.tg.	0	IN	NS	ns1.cafe.tg.
 masfloyshop.tg.	0	IN	NS	ns2.cafe.tg.
 masfloyshop.tg.	0	IN	NS	ns4.netmaster.tg.
