@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022072501 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022072502 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1917,11 +1917,6 @@ bj.	0	IN	NS	ns2.nic.bj.
 bj.	0	IN	NS	pch.nic.bj.
 bj.	0	IN	NS	ns-bj.nic.fr.
 bj.	0	IN	NS	ns-bj.afrinic.net.
-bj.	0	IN	NS	anycastdns1.nic.bj.
-bj.	0	IN	NS	anycastdns2.nic.bj.
-anycastdns1.nic.bj.	0	IN	A	185.38.108.108
-anycastdns1.nic.bj.	0	IN	AAAA	2a00:fea0:dead::beef
-anycastdns2.nic.bj.	0	IN	A	185.28.194.194
 ns1.nic.bj.	0	IN	A	154.65.28.218
 ns2.nic.bj.	0	IN	A	41.85.191.2
 pch.nic.bj.	0	IN	A	204.61.216.125
@@ -15444,7 +15439,6 @@ sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
 sn.	0	IN	DS	36827 13 2 992ed3a8cd111420e26fd9a8b8885c3beafa13507eb0606449aea1dadc21b25f
-sn.	0	IN	DS	37490 13 2 6ce29e69e92e5f8de3bf219fdcc917c859592f0cb40060e4f0488963b6f15d5a
 ns1.sonatel.sn.	0	IN	A	213.154.64.11
 ns.ucad.sn.	0	IN	A	196.1.95.1
 sncf.	0	IN	NS	d.nic.fr.
