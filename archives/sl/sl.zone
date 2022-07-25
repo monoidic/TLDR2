@@ -1,7 +1,7 @@
-sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915025102 600 900 7200 3600
+sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915025108 600 900 7200 3600
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sl.	0	IN	TXT	"Generation Time: 1658739609"
+sl.	0	IN	TXT	"Generation Time: 1658743214"
 sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvuehEkD2q048nkEqAHEiL+r8ggxV+t+SIyTwWKU3OkkQdHzCUpEEK5nVE2CIyjidqMxC99aAA5fSJH+oQexm6/gh9gSvd6Xmudu2mNbHH72Gvg6iJ88ODrlu184vYzg95xtNN7Mw1Vljq/1voHFzdy0SrB6HP7H+PrnO773Lc8u7bt/FgWd0h4/BWxdoK2iyeG2sqO6CoLmAikSBrXeCN59PixOsJgLo9Wyp8UC6LXIS8veSZ6/AgtyR9F+r3I5VexjQzdjr8DcyOpym/cfSq0UudakoLIsrAy9Ji1M= ;{id = 14507 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
@@ -98,10 +98,6 @@ aboutyou.sl.	0	IN	NS	ns3.inwx.eu.
 aboutyou.sl.	0	IN	NS	ns4.inwx.com.
 acabase.sl.	0	IN	NS	dns2048a.trouble-free.net.
 acabase.sl.	0	IN	NS	dns2048b.trouble-free.net.
-accloud.sl.	0	IN	NS	ns-cloud-a1.googledomains.com.
-accloud.sl.	0	IN	NS	ns-cloud-a2.googledomains.com.
-accloud.sl.	0	IN	NS	ns-cloud-a3.googledomains.com.
-accloud.sl.	0	IN	NS	ns-cloud-a4.googledomains.com.
 accordlogistics.sl.	0	IN	NS	ns1.afcom.sl.
 accordlogistics.sl.	0	IN	NS	ns2.afcom.sl.
 acesolutions.sl.	0	IN	NS	ns1.afcom.sl.
@@ -690,17 +686,10 @@ bookingsuite.sl.	0	IN	NS	ns2.bkngs.com.
 bookingsuite.sl.	0	IN	NS	ns3.bkngs.com.
 bookyah.sl.	0	IN	NS	ns1.dns-parking.com.
 bookyah.sl.	0	IN	NS	ns2.dns-parking.com.
-borderlesstravel.sl.	0	IN	NS	ns1.onlydomains.com.
-borderlesstravel.sl.	0	IN	NS	ns2.onlydomains.com.
-borderlesstravel.sl.	0	IN	NS	ns3.onlydomains.com.
 bosch.sl.	0	IN	NS	gwa.fe.bosch.de.
 bosch.sl.	0	IN	NS	gwa2.fe.bosch.de.
 boxoffice.sl.	0	IN	NS	ns1.mweb.co.za.
 boxoffice.sl.	0	IN	NS	ns2.mweb.co.za.
-bplan.sl.	0	IN	NS	ns1045.ui-dns.de.
-bplan.sl.	0	IN	NS	ns1045.ui-dns.biz.
-bplan.sl.	0	IN	NS	ns1045.ui-dns.com.
-bplan.sl.	0	IN	NS	ns1045.ui-dns.org.
 brainproperties.sl.	0	IN	NS	alexis.ns.cloudflare.com.
 brainproperties.sl.	0	IN	NS	oaklyn.ns.cloudflare.com.
 brandprotection.sl.	0	IN	NS	ns1.register.it.
@@ -732,8 +721,6 @@ budbee.sl.	0	IN	NS	ns1.otmoredns.com.
 budbee.sl.	0	IN	NS	ns2.otmoredns.com.
 budbeebox.sl.	0	IN	NS	ns1.otmoredns.com.
 budbeebox.sl.	0	IN	NS	ns2.otmoredns.com.
-budbeepay.sl.	0	IN	NS	ns1.otmoredns.com.
-budbeepay.sl.	0	IN	NS	ns2.otmoredns.com.
 budbeeshop.sl.	0	IN	NS	ns1.otmoredns.com.
 budbeeshop.sl.	0	IN	NS	ns2.otmoredns.com.
 built.sl.	0	IN	NS	lucy.ns.cloudflare.com.
@@ -1237,8 +1224,6 @@ diem.sl.	0	IN	NS	ns-cloud-d3.googledomains.com.
 diem.sl.	0	IN	NS	ns-cloud-d4.googledomains.com.
 diginet.sl.	0	IN	NS	alexis.ns.cloudflare.com.
 diginet.sl.	0	IN	NS	oaklyn.ns.cloudflare.com.
-digitalubuntu.sl.	0	IN	NS	ns1.dns-parking.com.
-digitalubuntu.sl.	0	IN	NS	ns2.dns-parking.com.
 dijs.sl.	0	IN	NS	ns1.dijssel.com.
 dijs.sl.	0	IN	NS	ns2.dijssel.com.
 diligentinsight.sl.	0	IN	NS	ns8319.hostgator.com.
@@ -2264,8 +2249,6 @@ investco.sl.	0	IN	NS	ns140.slinkdns.net.
 investco.sl.	0	IN	NS	ns141.slinkdns.net.
 investinsierraleone.sl.	0	IN	NS	ns1.idtlabs.xyz.
 investinsierraleone.sl.	0	IN	NS	ns2.idtlabs.xyz.
-investor.sl.	0	IN	NS	ns1.nic.sl.
-investor.sl.	0	IN	NS	ns2.nic.sl.
 investsalone.sl.	0	IN	NS	ns1.livedns.co.uk.
 investsalone.sl.	0	IN	NS	ns2.livedns.co.uk.
 investsierraleone.sl.	0	IN	NS	ns2.idtlabs.xyz.
@@ -2878,10 +2861,6 @@ minutemaid.sl.	0	IN	NS	ns1-09.azure-dns.com.
 minutemaid.sl.	0	IN	NS	ns2-09.azure-dns.net.
 minutemaid.sl.	0	IN	NS	ns3-09.azure-dns.org.
 minutemaid.sl.	0	IN	NS	ns4-09.azure-dns.info.
-mistress.sl.	0	IN	NS	ns.wedos.cz.
-mistress.sl.	0	IN	NS	ns.wedos.eu.
-mistress.sl.	0	IN	NS	ns.wedos.com.
-mistress.sl.	0	IN	NS	ns.wedos.net.
 mmmotors.sl.	0	IN	NS	ns1.afcom.sl.
 mmmotors.sl.	0	IN	NS	ns2.afcom.sl.
 mobicom.sl.	0	IN	NS	ns1.uk08.tmd.cloud.
@@ -3220,10 +3199,6 @@ omega.sl.	0	IN	NS	ns1.swatchgroup.com.
 omega.sl.	0	IN	NS	ns2.swatchgroup.com.
 omega.sl.	0	IN	NS	ns3.swatchgroup.com.
 omega.sl.	0	IN	NS	ns4.swatchgroup.com.
-omegavision.sl.	0	IN	NS	ns1.afraid.org.
-omegavision.sl.	0	IN	NS	ns2.afraid.org.
-omegavision.sl.	0	IN	NS	ns3.afraid.org.
-omegavision.sl.	0	IN	NS	ns4.afraid.org.
 omegawatches.sl.	0	IN	NS	ns1.swatchgroup.com.
 omegawatches.sl.	0	IN	NS	ns2.swatchgroup.com.
 omegawatches.sl.	0	IN	NS	ns3.swatchgroup.com.
@@ -4294,8 +4269,6 @@ stn.sl.	0	IN	NS	ns-cloud-b1.googledomains.com.
 stn.sl.	0	IN	NS	ns-cloud-b2.googledomains.com.
 stn.sl.	0	IN	NS	ns-cloud-b3.googledomains.com.
 stn.sl.	0	IN	NS	ns-cloud-b4.googledomains.com.
-stockmarket.sl.	0	IN	NS	ns1.nic.sl.
-stockmarket.sl.	0	IN	NS	ns2.nic.sl.
 streamlineconsultancy.sl.	0	IN	NS	ns0.ukfast.net.
 streamlineconsultancy.sl.	0	IN	NS	ns1.ukfast.net.
 stry.sl.	0	IN	NS	ns-55.awsdns-06.com.
@@ -4361,9 +4334,6 @@ tabs.sl.	0	IN	NS	ns2.nic.sl.
 tacugama.sl.	0	IN	NS	ns1.dreamhost.com.
 tacugama.sl.	0	IN	NS	ns2.dreamhost.com.
 tacugama.sl.	0	IN	NS	ns3.dreamhost.com.
-taprevu.sl.	0	IN	NS	ns01.trademarkarea.com.
-taprevu.sl.	0	IN	NS	ns02.trademarkarea.com.
-taprevu.sl.	0	IN	NS	ns03.trademarkarea.com.
 taptap.sl.	0	IN	NS	ns1.uk08.tmd.cloud.
 taptap.sl.	0	IN	NS	ns2.uk08.tmd.cloud.
 taxi.sl.	0	IN	NS	ns8487.hostgator.com.
@@ -4624,8 +4594,6 @@ unhcr.sl.	0	IN	NS	ns1.brandshelter.com.
 unhcr.sl.	0	IN	NS	ns2.brandshelter.de.
 unieuro.sl.	0	IN	NS	ns1.register.it.
 unieuro.sl.	0	IN	NS	ns2.register.it.
-unilabs.sl.	0	IN	NS	oltato01.tech06.net.in.
-unilabs.sl.	0	IN	NS	oltato02.tech06.net.in.
 unimak.sl.	0	IN	NS	cns323.hostgator.com.
 unimak.sl.	0	IN	NS	cns324.hostgator.com.
 uniontelecoms.sl.	0	IN	NS	ns3.alemobet.com.
