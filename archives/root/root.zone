@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022072701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022072702 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -554,7 +554,6 @@ alsace.	0	IN	NS	d.nic.fr.
 alsace.	0	IN	NS	f.ext.nic.fr.
 alsace.	0	IN	NS	g.ext.nic.fr.
 alsace.	0	IN	DS	7047 13 2 40ac4eda437f376b0a772ac6f570055a6aa58d635ac07946a778abebb8e5c024
-alsace.	0	IN	DS	14966 13 2 9d28e88bc1eaf9df2a6bcadcc35e5c037020b675964407e02b2a9a1ed3828bfb
 alstom.	0	IN	NS	anycast9.irondns.net.
 alstom.	0	IN	NS	anycast10.irondns.net.
 alstom.	0	IN	NS	anycast23.irondns.net.
@@ -2482,8 +2481,6 @@ bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
-bw.	0	IN	DS	50194 8 1 8f58227330b166429a9907f64db5023b8d016543
-bw.	0	IN	DS	50194 8 2 0bc3be6c5db099ead74a14c037b2fff273fbdc460603eb756913ad7856848908
 master.btc.net.bw.	0	IN	A	168.167.168.37
 master.btc.net.bw.	0	IN	AAAA	2c0f:ff00:0:6::3
 master.btc.net.bw.	0	IN	AAAA	2c0f:ff00:0:6::5
@@ -9666,6 +9663,7 @@ leclerc.	0	IN	NS	d.nic.fr.
 leclerc.	0	IN	NS	f.ext.nic.fr.
 leclerc.	0	IN	NS	g.ext.nic.fr.
 leclerc.	0	IN	DS	40150 13 2 b74f3a0513c13041a01febc4c51db133c4977b69f4a5088325b368e6aa81444f
+leclerc.	0	IN	DS	60287 13 2 d64818b1cd557c6040e2f188d15748afb29ac5fac90e8403bd391776d34a9696
 lefrak.	0	IN	NS	ac1.nstld.com.
 lefrak.	0	IN	NS	ac2.nstld.com.
 lefrak.	0	IN	NS	ac3.nstld.com.
@@ -11252,6 +11250,7 @@ udns2.tld.mu.	0	IN	AAAA	2001:67c:e0::98
 museum.	0	IN	NS	d.nic.fr.
 museum.	0	IN	NS	f.ext.nic.fr.
 museum.	0	IN	NS	g.ext.nic.fr.
+museum.	0	IN	DS	21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f259cc03c5
 museum.	0	IN	DS	34255 13 2 ab6006dc5304a478302d70cd0454d57022dede074dc55983eae47c1dc9c08b8a
 music.	0	IN	NS	a.nic.music.
 music.	0	IN	NS	b.nic.music.
