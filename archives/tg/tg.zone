@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072659 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072751 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -1074,6 +1074,9 @@ buzz.tg.	0	IN	NS	oti.ids.tg.
 bvglr.tg.	0	IN	NS	ns1.netim.net.
 bvglr.tg.	0	IN	NS	ns2.netim.net.
 bvglr.tg.	0	IN	NS	ns3.netim.net.
+bysaf.tg.	0	IN	NS	ns1.cafe.tg.
+bysaf.tg.	0	IN	NS	ns2.cafe.tg.
+bysaf.tg.	0	IN	NS	ns5.netmaster.tg.
 c2ie.tg.	0	IN	NS	ns1.cafe.tg.
 c2ie.tg.	0	IN	NS	ns2.cafe.tg.
 c2ie.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -2958,7 +2961,8 @@ istqb.tg.	0	IN	NS	ns1.cafe.tg.
 istqb.tg.	0	IN	NS	ns2.cafe.tg.
 istqb.tg.	0	IN	NS	ns4.netmaster.tg.
 istqb.tg.	0	IN	NS	ns5.netmaster.tg.
-it-admin.tg.	0	IN	NS	ns1.atspace.me.
+it-admin.tg.	0	IN	NS	ns1.ifastnet11.org.
+it-admin.tg.	0	IN	NS	ns2.ifastnet11.org.
 it-land.tg.	0	IN	NS	ns1.whc.ca.
 it-land.tg.	0	IN	NS	ns2.whc.ca.
 it-land.tg.	0	IN	NS	ns3.whc.ca.
@@ -4418,8 +4422,8 @@ radio-foret-sacree.tg.	0	IN	NS	ns2.cafe.tg.
 radio-foret-sacree.tg.	0	IN	NS	ns5.netmaster.tg.
 radiochretiennearmagnac.tg.	0	IN	NS	ns8.mywaas.host.
 radiochretiennearmagnac.tg.	0	IN	NS	ns9.mywaas.host.
-radioforetsacree.tg.	0	IN	NS	ns531.dnsserverboot.com.
-radioforetsacree.tg.	0	IN	NS	ns532.dnsserverboot.com.
+radioforetsacree.tg.	0	IN	NS	mimi.ns.cloudflare.com.
+radioforetsacree.tg.	0	IN	NS	dexter.ns.cloudflare.com.
 radiogameli.tg.	0	IN	NS	ns1.cafe.tg.
 radiogameli.tg.	0	IN	NS	ns2.cafe.tg.
 radiogameli.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -4634,8 +4638,8 @@ sarakawahotel.tg.	0	IN	NS	ns2.francedns.com.
 sarakawahotel.tg.	0	IN	NS	ns3.francedns.com.
 saser.tg.	0	IN	NS	ns1.netmaster.tg.
 satelco.tg.	0	IN	NS	ns1.netmaster.tg.
-savanesinfo.tg.	0	IN	NS	ns531.dnsserverboot.com.
-savanesinfo.tg.	0	IN	NS	ns532.dnsserverboot.com.
+savanesinfo.tg.	0	IN	NS	mimi.ns.cloudflare.com.
+savanesinfo.tg.	0	IN	NS	dexter.ns.cloudflare.com.
 saveursdumonde.tg.	0	IN	NS	oti.ids.tg.
 saveursdumonde.tg.	0	IN	NS	mono.ids.tg.
 savoirnews.tg.	0	IN	NS	ns1.netmaster.tg.
@@ -5315,6 +5319,9 @@ timbu.tg.	0	IN	NS	oxygen.ns.hetzner.com.
 timbu.tg.	0	IN	NS	hydrogen.ns.hetzner.com.
 time.tg.	0	IN	NS	ns1.sedoparking.com.
 time.tg.	0	IN	NS	ns2.sedoparking.com.
+tinga.tg.	0	IN	NS	ns1.cafe.tg.
+tinga.tg.	0	IN	NS	ns2.cafe.tg.
+tinga.tg.	0	IN	NS	ns5.netmaster.tg.
 tititi.tg.	0	IN	NS	dns1.namecheaphosting.com.
 tititi.tg.	0	IN	NS	dns2.namecheaphosting.com.
 tlitoulab.tg.	0	IN	NS	ns1.cafe.tg.
