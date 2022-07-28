@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072835 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072861 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -71,6 +71,8 @@ tg.	0	IN	NS	tld.cafe.tg.
 22bet.tg.	0	IN	NS	ns01.trademarkarea.com.
 22bet.tg.	0	IN	NS	ns02.trademarkarea.com.
 22bet.tg.	0	IN	NS	ns03.trademarkarea.com.
+258.tg.	0	IN	NS	dns1.hosteur.com.
+258.tg.	0	IN	NS	dns2.hosteur.com.
 2afoot.tg.	0	IN	NS	dns1.hosteur.com.
 2afoot.tg.	0	IN	NS	dns2.hosteur.com.
 2asconseil.tg.	0	IN	NS	oti.ids.tg.
@@ -1198,13 +1200,14 @@ catalog.tg.	0	IN	NS	brad.ns.cloudflare.com.
 catalog.tg.	0	IN	NS	elle.ns.cloudflare.com.
 cbd.tg.	0	IN	NS	ns1.dan.com.
 cbd.tg.	0	IN	NS	ns2.dan.com.
+ccit.tg.	0	IN	A	92.222.121.235
 ccit.tg.	0	IN	NS	crm.ccit.tg.
 ccit.tg.	0	IN	NS	ccit.tg.
 ccit.tg.	0	IN	NS	mail.ccit.tg.
 ccit.tg.	0	IN	NS	togocham.ccit.tg.
 crm.ccit.tg.	0	IN	A	92.222.121.232
-loccit.ccit.tg.	0	IN	A	41.207.186.114
-mail.ccit.tg.	0	IN	A	92.222.121.234
+mail.ccit.tg.	0	IN	A	92.222.121.233
+togocham.ccit.tg.	0	IN	A	92.222.121.236
 cda.tg.	0	IN	NS	ns1.nic.tg.
 cda.tg.	0	IN	NS	ns1.gouv.tg.
 cda.tg.	0	IN	NS	ns2.gouv.tg.
@@ -1507,8 +1510,8 @@ ns1.cparti.tg.	0	IN	A	78.46.185.137
 cpla.tg.	0	IN	NS	ns1.cafe.tg.
 cpla.tg.	0	IN	NS	ns2.cafe.tg.
 cpla.tg.	0	IN	NS	ns5.netmaster.tg.
-cr.tg.	0	IN	NS	ns1.laposte.tg.
 cr.tg.	0	IN	NS	ns2.laposte.tg.
+loccit.cr.tg.	0	IN	NS	ns1.laposte.tg.
 cread.tg.	0	IN	NS	dns1.plusproche.org.
 cread.tg.	0	IN	NS	dns2.plusproche.org.
 cread.tg.	0	IN	NS	dns3.supremepanel.com.
@@ -4083,9 +4086,8 @@ ong-togo.tg.	0	IN	NS	mono.ids.tg.
 ongcongaticb.tg.	0	IN	NS	ns1.cafe.tg.
 ongcongaticb.tg.	0	IN	NS	ns2.cafe.tg.
 ongcongaticb.tg.	0	IN	NS	ns5.netmaster.tg.
-onion.tg.	0	IN	NS	ns1.regery.net.
-onion.tg.	0	IN	NS	ns2.regery.net.
-onion.tg.	0	IN	NS	ns3.regery.net.
+onion.tg.	0	IN	NS	kara.ns.cloudflare.com.
+onion.tg.	0	IN	NS	memphis.ns.cloudflare.com.
 onit.tg.	0	IN	NS	cpanel19.lws-hosting.com.
 onit.tg.	0	IN	NS	cpanel20.lws-hosting.com.
 onitsukatiger.tg.	0	IN	NS	rns1.rightsdns.com.
@@ -4301,6 +4303,9 @@ poly.tg.	0	IN	NS	dns2.cscdns.net.
 polywork.tg.	0	IN	NS	ns01.trademarkarea.com.
 polywork.tg.	0	IN	NS	ns02.trademarkarea.com.
 polywork.tg.	0	IN	NS	ns03.trademarkarea.com.
+pooltpv.tg.	0	IN	NS	ns1.cafe.tg.
+pooltpv.tg.	0	IN	NS	ns2.cafe.tg.
+pooltpv.tg.	0	IN	NS	ns5.netmaster.tg.
 pop.tg.	0	IN	NS	aldo.ns.cloudflare.com.
 pop.tg.	0	IN	NS	olivia.ns.cloudflare.com.
 porn.tg.	0	IN	NS	julio.ns.cloudflare.com.
