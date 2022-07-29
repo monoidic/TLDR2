@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072861 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022072936 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -1077,6 +1077,8 @@ bvglr.tg.	0	IN	NS	ns1.netim.net.
 bvglr.tg.	0	IN	NS	ns2.netim.net.
 bvglr.tg.	0	IN	NS	ns3.netim.net.
 bysaf.tg.	0	IN	NS	ns1.cafe.tg.
+bysaf.tg.	0	IN	NS	ns1.bysaf.tg.
+bysaf.tg.	0	IN	NS	ns1.lateliercoworking.tg.
 bysaf.tg.	0	IN	NS	ns2.cafe.tg.
 bysaf.tg.	0	IN	NS	ns5.netmaster.tg.
 c2ie.tg.	0	IN	NS	ns1.cafe.tg.
@@ -4180,6 +4182,9 @@ pactilis.tg.	0	IN	NS	dns1.namebay.com.
 pactilis.tg.	0	IN	NS	dns2.namebay.com.
 padre.tg.	0	IN	NS	ns1.o2switch.net.
 padre.tg.	0	IN	NS	ns2.o2switch.net.
+paeij-sp.tg.	0	IN	NS	ns1.cafe.tg.
+paeij-sp.tg.	0	IN	NS	ns2.cafe.tg.
+paeij-sp.tg.	0	IN	NS	ns5.netmaster.tg.
 page.tg.	0	IN	NS	ns1.cafe.tg.
 page.tg.	0	IN	NS	ns5.netmaster.tg.
 page.tg.	0	IN	NS	nsa.planethoster.net.
@@ -5329,9 +5334,8 @@ timbu.tg.	0	IN	NS	oxygen.ns.hetzner.com.
 timbu.tg.	0	IN	NS	hydrogen.ns.hetzner.com.
 time.tg.	0	IN	NS	ns1.sedoparking.com.
 time.tg.	0	IN	NS	ns2.sedoparking.com.
-tinga.tg.	0	IN	NS	ns1.cafe.tg.
-tinga.tg.	0	IN	NS	ns2.cafe.tg.
-tinga.tg.	0	IN	NS	ns5.netmaster.tg.
+tinga.tg.	0	IN	NS	scott.ns.cloudflare.com.
+tinga.tg.	0	IN	NS	jocelyn.ns.cloudflare.com.
 tititi.tg.	0	IN	NS	dns1.namecheaphosting.com.
 tititi.tg.	0	IN	NS	dns2.namecheaphosting.com.
 tlitoulab.tg.	0	IN	NS	ns1.cafe.tg.
