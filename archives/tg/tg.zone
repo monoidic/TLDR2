@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080147 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080167 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -1204,10 +1204,8 @@ catalog.tg.	0	IN	NS	elle.ns.cloudflare.com.
 cbd.tg.	0	IN	NS	ns1.dan.com.
 cbd.tg.	0	IN	NS	ns2.dan.com.
 ccit.tg.	0	IN	A	92.222.121.235
-ccit.tg.	0	IN	NS	crm.ccit.tg.
-ccit.tg.	0	IN	NS	ccit.tg.
-ccit.tg.	0	IN	NS	mail.ccit.tg.
-ccit.tg.	0	IN	NS	togocham.ccit.tg.
+ccit.tg.	0	IN	NS	ns1.cafe.tg.
+ccit.tg.	0	IN	NS	ns5.netmaster.tg.
 crm.ccit.tg.	0	IN	A	92.222.121.232
 mail.ccit.tg.	0	IN	A	92.222.121.233
 togocham.ccit.tg.	0	IN	A	92.222.121.236
@@ -3385,6 +3383,9 @@ lgseeds.tg.	0	IN	NS	mail.w3line.fr.
 lgseeds.tg.	0	IN	NS	ext01.w3line.fr.
 libertytelecom.tg.	0	IN	NS	dns1.e-c.com.
 libertytelecom.tg.	0	IN	NS	dns2.e-c.com.
+librairieviedimpact.tg.	0	IN	NS	ns1.francedns.com.
+librairieviedimpact.tg.	0	IN	NS	ns2.francedns.com.
+librairieviedimpact.tg.	0	IN	NS	ns3.francedns.com.
 ligneverte.tg.	0	IN	NS	ns1.cafe.tg.
 ligneverte.tg.	0	IN	NS	ns2.cafe.tg.
 ligneverte.tg.	0	IN	NS	ns5.netmaster.tg.
