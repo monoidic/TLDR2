@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022080201 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022080202 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -771,6 +771,7 @@ ns1.anycast.dns.aq.	0	IN	AAAA	2001:500:14:6132:ad::1
 aquarelle.	0	IN	NS	d.nic.fr.
 aquarelle.	0	IN	NS	f.ext.nic.fr.
 aquarelle.	0	IN	NS	g.ext.nic.fr.
+aquarelle.	0	IN	DS	22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
 aquarelle.	0	IN	DS	64237 13 2 58c27b4e474ed6d14f69030c8caba5e56d3dc06ebb43ad30d5512320f3ac790a
 ar.	0	IN	NS	a.dns.ar.
 ar.	0	IN	NS	b.dns.ar.
