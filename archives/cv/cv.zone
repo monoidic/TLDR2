@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022080301 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022080401 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -7829,6 +7829,10 @@ solatlantico.cv.	0	IN	NS	ns1.mydnspt.net.
 solatlantico.cv.	0	IN	NS	ns2.mydnspt.net.
 solatlantico.cv.	0	IN	NS	ns7.mydnspt.net.
 solatlantico.cv.	0	IN	NS	ns8.mydnspt.net.
+soldout.cv.	0	IN	NS	ns1.soldout.cv.
+soldout.cv.	0	IN	NS	ns2.soldout.cv.
+ns1.soldout.cv.	0	IN	A	162.240.218.28
+ns2.soldout.cv.	0	IN	A	162.240.218.28
 soleio.cv.	0	IN	NS	ns01.trademarkarea.com.
 soleio.cv.	0	IN	NS	ns02.trademarkarea.com.
 soleio.cv.	0	IN	NS	ns03.trademarkarea.com.
@@ -8091,7 +8095,8 @@ tca.cv.	0	IN	NS	ns2000.mochahost.com.
 tcorauto.cv.	0	IN	NS	ns1.nosiwebhosting.com.
 tcorauto.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 tcorauto.cv.	0	IN	NS	ns3.nosiwebhosting.com.
-tcsm.cv.	0	IN	NS	ns31.cloudns.net.
+tcsm.cv.	0	IN	NS	alberto.ns.cloudflare.com.
+tcsm.cv.	0	IN	NS	ariadne.ns.cloudflare.com.
 tcv.cv.	0	IN	NS	ns-438.awsdns-54.com.
 tcv.cv.	0	IN	NS	ns-689.awsdns-22.net.
 tcv.cv.	0	IN	NS	ns-1328.awsdns-38.org.
