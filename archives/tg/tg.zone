@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080368 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022080449 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -1966,6 +1966,9 @@ el-elyon-network.tg.	0	IN	NS	dns1.namecheaphosting.com.
 el-elyon-network.tg.	0	IN	NS	dns2.namecheaphosting.com.
 elangroup.tg.	0	IN	NS	ns1.1xpax.com.
 elangroup.tg.	0	IN	NS	ns2.1xpax.com.
+elda-cg.tg.	0	IN	NS	ns1.cafe.tg.
+elda-cg.tg.	0	IN	NS	ns2.cafe.tg.
+elda-cg.tg.	0	IN	NS	ns5.netmaster.tg.
 elephone.tg.	0	IN	NS	ns01.trademarkarea.com.
 elephone.tg.	0	IN	NS	ns02.trademarkarea.com.
 elephone.tg.	0	IN	NS	ns03.trademarkarea.com.
@@ -2182,6 +2185,8 @@ exxonmobil.tg.	0	IN	NS	a18-64.akam.net.
 f2s.tg.	0	IN	NS	ns1.cafe.tg.
 f2s.tg.	0	IN	NS	ns2.cafe.tg.
 f2s.tg.	0	IN	NS	ns5.netmaster.tg.
+f36h.tg.	0	IN	NS	sneh.ns.cloudflare.com.
+f36h.tg.	0	IN	NS	porter.ns.cloudflare.com.
 ns1.fa2f.tg.	0	IN	A	206.48.17.53
 fabricantsdejoie.tg.	0	IN	NS	dns1.hosteur.com.
 fabricantsdejoie.tg.	0	IN	NS	dns2.hosteur.com.
@@ -2581,6 +2586,10 @@ h-cem.tg.	0	IN	NS	ns5.netmaster.tg.
 h-ecem.tg.	0	IN	NS	ns1.cafe.tg.
 h-ecem.tg.	0	IN	NS	ns2.cafe.tg.
 h-ecem.tg.	0	IN	NS	ns5.netmaster.tg.
+h-materials.tg.	0	IN	NS	udns1.cscdns.net.
+h-materials.tg.	0	IN	NS	udns2.cscdns.uk.
+h54e.tg.	0	IN	NS	irena.ns.cloudflare.com.
+h54e.tg.	0	IN	NS	renan.ns.cloudflare.com.
 haactogo.tg.	0	IN	NS	ns1.cafe.tg.
 haactogo.tg.	0	IN	NS	ns2.cafe.tg.
 haactogo.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -3794,8 +3803,6 @@ mtechsa.tg.	0	IN	NS	ns5.netmaster.tg.
 mtg.tg.	0	IN	NS	ns1.mtg.tg.
 mtg.tg.	0	IN	NS	ns2.mtg.tg.
 mtg.tg.	0	IN	NS	ns3176354.ip-37-59-35.eu.
-multiview.tg.	0	IN	NS	ns1.mweb.co.za.
-multiview.tg.	0	IN	NS	ns2.mweb.co.za.
 mun.tg.	0	IN	NS	ns1.francedns.com.
 mun.tg.	0	IN	NS	ns2.francedns.com.
 mun.tg.	0	IN	NS	ns3.francedns.com.
@@ -4455,9 +4462,8 @@ radiolome.tg.	0	IN	NS	ns1.1xpax.com.
 radiolome.tg.	0	IN	NS	ns2.1xpax.com.
 radiomaria.tg.	0	IN	NS	ns4.netmaster.tg.
 radiomaria.tg.	0	IN	NS	ns5.netmaster.tg.
-radiomishaelle.tg.	0	IN	NS	ns1.cafe.tg.
-radiomishaelle.tg.	0	IN	NS	ns2.cafe.tg.
-radiomishaelle.tg.	0	IN	NS	ns5.netmaster.tg.
+radiomishaelle.tg.	0	IN	NS	dns1.namecheaphosting.com.
+radiomishaelle.tg.	0	IN	NS	dns2.namecheaphosting.com.
 radiomokpokpo.tg.	0	IN	NS	ns1.netmaster.tg.
 radiosportfm.tg.	0	IN	NS	ns1.netmaster.tg.
 radiosportfm.tg.	0	IN	NS	ns4.netmaster.tg.
