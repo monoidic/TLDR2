@@ -26,6 +26,7 @@
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
+* `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `ss.` via `b.ns.tznic.or.tz.`: [Click here to view zone data.](archives/ss/ss.zone)
 * `sy.` via `ns1.tld.sy.`: [Click here to view zone data.](archives/sy/sy.zone)
 * `tg.` via `ns4.nic.tg.`: [Click here to view zone data.](archives/tg/tg.zone)
