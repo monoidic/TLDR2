@@ -1,8 +1,8 @@
-sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080721 3600 3600 2592000 3600
+sy.	0	IN	SOA	ns1.tld.sy. dns.tld.sy. 2022080723 3600 3600 2592000 3600
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
-sy.	0	IN	TXT	"Generation Time: 1659868342"
+sy.	0	IN	TXT	"Generation Time: 1659873731"
 00.sy.	0	IN	NS	coco.ns.cloudflare.com.
 00.sy.	0	IN	NS	denver.ns.cloudflare.com.
 01.sy.	0	IN	NS	sydns1.nobalaa.com.
@@ -4385,6 +4385,8 @@ lema.sy.	0	IN	NS	ns1.lema.sy.
 lema.sy.	0	IN	NS	ns2.lema.sy.
 ns1.lema.sy.	0	IN	A	185.84.236.7
 ns2.lema.sy.	0	IN	A	185.84.236.8
+lets.sy.	0	IN	NS	ns1.beth.ns.cloudflare.com.
+lets.sy.	0	IN	NS	ns2.major.ns.cloudflare.com.
 levant.sy.	0	IN	NS	ns1.dns-parking.com.
 levant.sy.	0	IN	NS	ns2.dns-parking.com.
 levant-h.sy.	0	IN	NS	suspend1.tld.sy.
@@ -6666,6 +6668,8 @@ specialolympics-sy.sy.	0	IN	NS	dns3.aya.sy.
 specialolympics-sy.sy.	0	IN	NS	dns4.aya.sy.
 speed.sy.	0	IN	NS	suspend1.tld.sy.
 speed.sy.	0	IN	NS	suspend2.tld.sy.
+spon.sy.	0	IN	NS	ns1.beth.ns.cloudflare.com.
+spon.sy.	0	IN	NS	ns2.major.ns.cloudflare.com.
 sport.sy.	0	IN	NS	auth1.syriatelisp.com.sy.
 sport.sy.	0	IN	NS	auth2.syriatelisp.com.sy.
 sportdirect.sy.	0	IN	NS	nsgbr.comlaude.co.uk.
