@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022080801 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022080901 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -581,6 +581,10 @@ asmcv.cv.	0	IN	NS	mns1.alterhosting.net.
 asmcv.cv.	0	IN	NS	mns2.alterhosting.net.
 asparts.cv.	0	IN	NS	ns.cvtelecom.cv.
 asparts.cv.	0	IN	NS	ns2.cvtelecom.cv.
+assinatura.cv.	0	IN	NS	ns1.assinatura.cv.
+assinatura.cv.	0	IN	NS	ns2.assinatura.cv.
+ns1.assinatura.cv.	0	IN	A	66.29.129.240
+ns2.assinatura.cv.	0	IN	A	66.29.144.19
 assistec.cv.	0	IN	NS	ns1.ipage.com.
 assistec.cv.	0	IN	NS	ns2.ipage.com.
 mx.assistec.cv.	0	IN	A	66.96.140.136
@@ -783,8 +787,8 @@ bcv.cv.	0	IN	NS	ns.bca.cv.
 bcv.cv.	0	IN	NS	ns.cvtelecom.cv.
 bcv.cv.	0	IN	NS	bcvmns01.bcv.cv.
 bcvmns01.bcv.cv.	0	IN	A	41.221.198.210
-bdo.cv.	0	IN	NS	ns1.am1.siteground.biz.
-bdo.cv.	0	IN	NS	ns2.am1.siteground.biz.
+bdo.cv.	0	IN	NS	udns1.cscdns.net.
+bdo.cv.	0	IN	NS	udns2.cscdns.uk.
 be3d.cv.	0	IN	A	35.182.190.110
 be3d.cv.	0	IN	A	52.215.11.135
 be3d.cv.	0	IN	A	199.73.55.49
@@ -3860,10 +3864,8 @@ ete-logistica.cv.	0	IN	NS	ns-b1.vodafone.pt.
 ete-logistica.cv.	0	IN	NS	ns-b2.vodafone.pt.
 etenergia.cv.	0	IN	NS	ns1.wix.com.
 etenergia.cv.	0	IN	NS	ns2.wix.com.
-eth.cv.	0	IN	A	3.120.163.96
-eth.cv.	0	IN	NS	ns1.dan.com.
-eth.cv.	0	IN	NS	ns2.dan.com.
-eth.cv.	0	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
+eth.cv.	0	IN	NS	ns1.parkingcrew.net.
+eth.cv.	0	IN	NS	ns2.parkingcrew.net.
 eticadata.cv.	0	IN	NS	ns1-04.azure-dns.com.
 eticadata.cv.	0	IN	NS	ns2-04.azure-dns.net.
 eticadata.cv.	0	IN	NS	ns3-04.azure-dns.org.
