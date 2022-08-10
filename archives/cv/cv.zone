@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022080901 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081001 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -3858,6 +3858,14 @@ estrategos.cv.	0	IN	NS	ns1.estrategos.cv.
 estrategos.cv.	0	IN	NS	ns2.estrategos.cv.
 ns1.estrategos.cv.	0	IN	A	80.172.233.23
 ns2.estrategos.cv.	0	IN	A	80.172.233.24
+ete.cv.	0	IN	NS	ns-a1.ete.cv.
+ete.cv.	0	IN	NS	ns-a2.ete.cv.
+ete.cv.	0	IN	NS	ns-b1.ete.cv.
+ete.cv.	0	IN	NS	ns-b2.ete.cv.
+ns-a1.ete.cv.	0	IN	A	87.103.113.152
+ns-a2.ete.cv.	0	IN	A	87.103.113.153
+ns-b1.ete.cv.	0	IN	A	87.103.113.184
+ns-b2.ete.cv.	0	IN	A	87.103.113.185
 ete-logistica.cv.	0	IN	NS	ns-a1.vodafone.pt.
 ete-logistica.cv.	0	IN	NS	ns-a2.vodafone.pt.
 ete-logistica.cv.	0	IN	NS	ns-b1.vodafone.pt.
