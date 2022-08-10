@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022081001 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022081002 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -6950,6 +6950,7 @@ giving.	0	IN	NS	b.nic.giving.
 giving.	0	IN	NS	c.nic.giving.
 giving.	0	IN	NS	d.nic.giving.
 giving.	0	IN	DS	26905 8 2 0b1ca3761fdb84c32a89c19c795d99723c7c945dfba49b7d79323b6e515fd34c
+giving.	0	IN	DS	42049 8 2 51655c1edba06b3c2329578ade539d446169f70f06adfd536c0ef7b315506a1f
 a.nic.giving.	0	IN	A	37.209.192.9
 a.nic.giving.	0	IN	AAAA	2001:dcd:1::9
 b.nic.giving.	0	IN	A	37.209.194.9
@@ -7655,9 +7656,7 @@ hiphop.	0	IN	NS	ns1.uniregistry.net.
 hiphop.	0	IN	NS	ns2.uniregistry.info.
 hiphop.	0	IN	NS	ns3.uniregistry.net.
 hiphop.	0	IN	NS	ns4.uniregistry.info.
-hiphop.	0	IN	DS	4318 5 2 84b5fae6c70901ac831720cef3388e2b169b9521799df03e9b762c812fe1cb04
 hiphop.	0	IN	DS	7668 13 2 de0bde4365798b5080d31d7a5a8e7182d4924938761bfd506af371ea5cb36ab0
-hiphop.	0	IN	DS	42352 5 2 5943d3bc7da8882971bd32b19abcb563cc7bff51f60702daa43257c84a7d78da
 hisamitsu.	0	IN	NS	a.gmoregistry.net.
 hisamitsu.	0	IN	NS	b.gmoregistry.net.
 hisamitsu.	0	IN	NS	k.gmoregistry.net.
@@ -16190,9 +16189,7 @@ tattoo.	0	IN	NS	ns1.uniregistry.net.
 tattoo.	0	IN	NS	ns2.uniregistry.info.
 tattoo.	0	IN	NS	ns3.uniregistry.net.
 tattoo.	0	IN	NS	ns4.uniregistry.info.
-tattoo.	0	IN	DS	757 5 2 686ba075d23a5d1eeb55ec0ae80926c3bbb0c14c511801702e9c28df6a7e2e79
 tattoo.	0	IN	DS	23225 13 2 bd1e542c994f3e0d03467d60d852ac6da47c825d16d64612006ac2afe1fe2da9
-tattoo.	0	IN	DS	59236 5 2 db06369f0539502d011a91903fa52e8666b3d453045f01badf91dedd3067a591
 tax.	0	IN	NS	v0n0.nic.tax.
 tax.	0	IN	NS	v0n1.nic.tax.
 tax.	0	IN	NS	v0n2.nic.tax.
