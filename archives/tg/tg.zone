@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081058 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081140 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -437,8 +437,8 @@ ambase.tg.	0	IN	NS	ns1.cafe.tg.
 amenope.tg.	0	IN	NS	ns1.francedns.com.
 amenope.tg.	0	IN	NS	ns2.francedns.com.
 amenope.tg.	0	IN	NS	ns3.francedns.com.
-amesoeur.tg.	0	IN	NS	cpanel5.lws-hosting.com.
-amesoeur.tg.	0	IN	NS	cpanel6.lws-hosting.com.
+amesoeur.tg.	0	IN	NS	ns1.cafe.tg.
+amesoeur.tg.	0	IN	NS	ns2.cafe.tg.
 amifa.tg.	0	IN	NS	ns1.wibcloud.com.
 amifa.tg.	0	IN	NS	ns2.wibcloud.com.
 amiterre.tg.	0	IN	NS	ns.helim.tg.
@@ -1087,6 +1087,11 @@ buzz.tg.	0	IN	NS	oti.ids.tg.
 bvglr.tg.	0	IN	NS	ns1.netim.net.
 bvglr.tg.	0	IN	NS	ns2.netim.net.
 bvglr.tg.	0	IN	NS	ns3.netim.net.
+bwin.tg.	0	IN	NS	dns1.itsfogo.com.
+bwin.tg.	0	IN	NS	dns2.itsfogo.com.
+bwin.tg.	0	IN	NS	dns3.itsfogo.com.
+bwin.tg.	0	IN	NS	dns4.itsfogo.com.
+bwin.tg.	0	IN	NS	dns5.itsfogo.com.
 bysaf.tg.	0	IN	NS	ns1.bysaf.tg.
 ns1.bysaf.tg.	0	IN	A	178.238.225.197
 c2ie.tg.	0	IN	NS	ns1.cafe.tg.
@@ -1957,6 +1962,9 @@ efogerc.tg.	0	IN	NS	cpanel22.lws-hosting.com.
 egect.tg.	0	IN	NS	nsa.planethoster.net.
 egect.tg.	0	IN	NS	nsb.planethoster.net.
 egect.tg.	0	IN	NS	nsc.planethoster.net.
+egliseapostolique.tg.	0	IN	NS	ns1.francedns.com.
+egliseapostolique.tg.	0	IN	NS	ns2.francedns.com.
+egliseapostolique.tg.	0	IN	NS	ns3.francedns.com.
 eichholtz.tg.	0	IN	NS	ns1.netim.net.
 eichholtz.tg.	0	IN	NS	ns2.netim.net.
 eichholtz.tg.	0	IN	NS	ns3.netim.net.
@@ -5552,9 +5560,8 @@ token.tg.	0	IN	NS	ns1.sedoparking.com.
 token.tg.	0	IN	NS	ns2.sedoparking.com.
 tom.tg.	0	IN	NS	ns100.hostwhitelabel.com.
 tom.tg.	0	IN	NS	ns200.hostwhitelabel.com.
-tominvest.tg.	0	IN	NS	ns1.cafe.tg.
-tominvest.tg.	0	IN	NS	ns2.cafe.tg.
-tominvest.tg.	0	IN	NS	ns5.netmaster.tg.
+tominvest.tg.	0	IN	NS	ns17.ovh.net.
+tominvest.tg.	0	IN	NS	dns17.ovh.net.
 ton.tg.	0	IN	NS	ns4.netmaster.tg.
 tone.tg.	0	IN	NS	ns1.netmaster.tg.
 tone.tg.	0	IN	NS	ns4.netmaster.tg.
