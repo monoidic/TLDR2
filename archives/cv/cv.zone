@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081101 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081201 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -1191,9 +1191,11 @@ caboverde-mailing.cv.	0	IN	NS	ns1.dnscpanel.com.
 caboverde-mailing.cv.	0	IN	NS	ns2.dnscpanel.com.
 caboverde24.cv.	0	IN	NS	ns1.webs24h.com.
 caboverde24.cv.	0	IN	NS	ns2.webs24h.com.
-caboverdecoaching.cv.	0	IN	NS	ns1.rhostjh.com.
-caboverdecoaching.cv.	0	IN	NS	ns2.rhostjh.com.
-mail.caboverdecoaching.cv.	0	IN	A	50.87.111.194
+caboverdecoaching.cv.	0	IN	A	45.154.66.253
+caboverdecoaching.cv.	0	IN	NS	ns1.wtservers.com.
+caboverdecoaching.cv.	0	IN	NS	ns2.wtservers.com.
+caboverdecoaching.cv.	0	IN	NS	ns3.wtservers.com.
+caboverdecoaching.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 caboverdedigital.cv.	0	IN	NS	ns1.gov.cv.
 caboverdedigital.cv.	0	IN	NS	ns2.gov.cv.
 caboverdeinvestmentforum.cv.	0	IN	NS	ns1.cabosys.cv.
@@ -5868,6 +5870,9 @@ monnier.cv.	0	IN	NS	ns01.spotnet.cv.
 monnier.cv.	0	IN	NS	ns02.spotnet.cv.
 monstho.cv.	0	IN	NS	ns1-fortnam.webserversystems.com.
 monstho.cv.	0	IN	NS	ns2-fortnam.webserversystems.com.
+montalvo.cv.	0	IN	NS	ns1.dreamhost.com.
+montalvo.cv.	0	IN	NS	ns2.dreamhost.com.
+montalvo.cv.	0	IN	NS	ns3.dreamhost.com.
 montanhes.cv.	0	IN	NS	ns1.dnsjanus.com.
 montanhes.cv.	0	IN	NS	ns2.dnsjanus.com.
 morabeza.cv.	0	IN	NS	ns1.weblx-0.net.
@@ -7314,6 +7319,8 @@ rotaventura.cv.	0	IN	NS	ns3.dnstarvos.com.
 rotaventura.cv.	0	IN	NS	ns4.dnstarvos.com.
 rotex.cv.	0	IN	NS	ns1.inforsalweb.com.
 rotex.cv.	0	IN	NS	ns2.inforsalweb.com.
+rouge.cv.	0	IN	NS	ns1.dns-parking.com.
+rouge.cv.	0	IN	NS	ns2.dns-parking.com.
 royal-t.cv.	0	IN	NS	ns25.domaincontrol.com.
 royal-t.cv.	0	IN	NS	ns26.domaincontrol.com.
 royalhideawayjasmin.cv.	0	IN	NS	ns-452.awsdns-56.com.
