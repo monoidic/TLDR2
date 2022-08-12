@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081167 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081241 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -93,6 +93,9 @@ tg.	0	IN	NS	tld.cafe.tg.
 36d.tg.	0	IN	NS	ollie.ns.cloudflare.com.
 3977.tg.	0	IN	NS	kim.ns.cloudflare.com.
 3977.tg.	0	IN	NS	malcolm.ns.cloudflare.com.
+3jsoft.tg.	0	IN	NS	ns1.cafe.tg.
+3jsoft.tg.	0	IN	NS	ns2.cafe.tg.
+3jsoft.tg.	0	IN	NS	ns5.netmaster.tg.
 42-lome.tg.	0	IN	NS	ns1.cafe.tg.
 42-lome.tg.	0	IN	NS	ns2.cafe.tg.
 42-lome.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -1559,8 +1562,9 @@ crypto.tg.	0	IN	NS	ns2.dan.com.
 crypto.tg.	0	IN	NS	verification-3u0f3omo.ns3.dan.hosting.
 csirt.tg.	0	IN	NS	lars.ns.cloudflare.com.
 csirt.tg.	0	IN	NS	holly.ns.cloudflare.com.
-csportsinfos.tg.	0	IN	NS	ns1.o2switch.net.
-csportsinfos.tg.	0	IN	NS	ns2.o2switch.net.
+csportsinfos.tg.	0	IN	NS	nsa.n0c.com.
+csportsinfos.tg.	0	IN	NS	nsb.n0c.com.
+csportsinfos.tg.	0	IN	NS	nsc.n0c.com.
 csreginacaeli.tg.	0	IN	NS	ns1.cafe.tg.
 csreginacaeli.tg.	0	IN	NS	ns2.cafe.tg.
 csreginacaeli.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -5560,8 +5564,8 @@ token.tg.	0	IN	NS	ns1.sedoparking.com.
 token.tg.	0	IN	NS	ns2.sedoparking.com.
 tom.tg.	0	IN	NS	ns100.hostwhitelabel.com.
 tom.tg.	0	IN	NS	ns200.hostwhitelabel.com.
-tominvest.tg.	0	IN	NS	ns17.ovh.net.
-tominvest.tg.	0	IN	NS	dns17.ovh.net.
+tominvest.tg.	0	IN	NS	ns10.ovh.net.
+tominvest.tg.	0	IN	NS	dns10.ovh.net.
 ton.tg.	0	IN	NS	ns4.netmaster.tg.
 tone.tg.	0	IN	NS	ns1.netmaster.tg.
 tone.tg.	0	IN	NS	ns4.netmaster.tg.
