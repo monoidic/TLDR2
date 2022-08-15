@@ -45,7 +45,6 @@
 * `tattoo.`
 * `tn.`
 * `trust.`
-* `tz.`
 * `ve.`
 * `wed.`
 * `xn--fzc2c9e2c.`
