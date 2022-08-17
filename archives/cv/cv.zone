@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081601 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081701 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -2758,6 +2758,9 @@ compramososeucarro.cv.	0	IN	NS	dns7.cloudns.net.
 compramososeucarro.cv.	0	IN	NS	dns8.cloudns.net.
 compraspublicas.cv.	0	IN	NS	ns1.gov.cv.
 compraspublicas.cv.	0	IN	NS	ns2.gov.cv.
+compravenda.cv.	0	IN	NS	ns01.trademarkarea.com.
+compravenda.cv.	0	IN	NS	ns02.trademarkarea.com.
+compravenda.cv.	0	IN	NS	ns03.trademarkarea.com.
 compta.cv.	0	IN	NS	ns1.pipedns.com.
 compta.cv.	0	IN	NS	ns2.pipedns.com.
 compta.cv.	0	IN	NS	ns3.pipedns.com.
@@ -7854,14 +7857,12 @@ softbox.cv.	0	IN	NS	ns3.webhs.org.
 softexpert.cv.	0	IN	NS	ns01.trademarkarea.com.
 softexpert.cv.	0	IN	NS	ns02.trademarkarea.com.
 softexpert.cv.	0	IN	NS	ns03.trademarkarea.com.
-softfer.cv.	0	IN	A	5.189.191.29
-softfer.cv.	0	IN	A	79.143.182.242
 softfer.cv.	0	IN	NS	ns1.gov.cv.
 softfer.cv.	0	IN	NS	ns2.gov.cv.
-softfer.cv.	0	IN	AAAA	2a02:c205:0:891::1
-sogei.cv.	0	IN	NS	ns1.contabo.net.
-sogei.cv.	0	IN	NS	ns2.contabo.net.
-sogei.cv.	0	IN	NS	ns3.contabo.net.
+sogei.cv.	0	IN	NS	ns1.mysecurecloudhost.com.
+sogei.cv.	0	IN	NS	ns2.mysecurecloudhost.com.
+sogei.cv.	0	IN	NS	ns3.mysecurecloudhost.com.
+sogei.cv.	0	IN	NS	ns4.mysecurecloudhost.com.
 sol.cv.	0	IN	NS	ns1.webhs.org.
 sol.cv.	0	IN	NS	ns2.webhs.org.
 sol.cv.	0	IN	NS	ns3.webhs.org.
@@ -8261,8 +8262,10 @@ ticave.cv.	0	IN	NS	ns1.ticave.cv.
 ticave.cv.	0	IN	NS	ns2.ticave.cv.
 ns1.ticave.cv.	0	IN	A	94.130.120.17
 ns2.ticave.cv.	0	IN	A	94.130.120.17
-ticket.cv.	0	IN	NS	ns67.mydnspt.net.
-ticket.cv.	0	IN	NS	ns68.mydnspt.net.
+ticket.cv.	0	IN	NS	ns1.mydnspt.net.
+ticket.cv.	0	IN	NS	ns2.mydnspt.net.
+ticket.cv.	0	IN	NS	ns7.mydnspt.net.
+ticket.cv.	0	IN	NS	ns8.mydnspt.net.
 ticv.cv.	0	IN	NS	ns1.mydnspt.net.
 ticv.cv.	0	IN	NS	ns2.mydnspt.net.
 ticv.cv.	0	IN	NS	ns7.mydnspt.net.
