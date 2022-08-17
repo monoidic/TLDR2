@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022081701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022081702 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -6943,20 +6943,26 @@ v2n0.nic.gives.	0	IN	A	65.22.35.61
 v2n0.nic.gives.	0	IN	AAAA	2a01:8840:25::61
 v2n1.nic.gives.	0	IN	A	161.232.17.61
 v2n1.nic.gives.	0	IN	AAAA	2a01:8840:fb::61
-giving.	0	IN	NS	a.nic.giving.
-giving.	0	IN	NS	b.nic.giving.
-giving.	0	IN	NS	c.nic.giving.
-giving.	0	IN	NS	d.nic.giving.
+giving.	0	IN	NS	a0.nic.giving.
+giving.	0	IN	NS	a2.nic.giving.
+giving.	0	IN	NS	b0.nic.giving.
+giving.	0	IN	NS	b2.nic.giving.
+giving.	0	IN	NS	c0.nic.giving.
+giving.	0	IN	NS	d0.nic.giving.
 giving.	0	IN	DS	26905 8 2 0b1ca3761fdb84c32a89c19c795d99723c7c945dfba49b7d79323b6e515fd34c
 giving.	0	IN	DS	42049 8 2 51655c1edba06b3c2329578ade539d446169f70f06adfd536c0ef7b315506a1f
-a.nic.giving.	0	IN	A	37.209.192.9
-a.nic.giving.	0	IN	AAAA	2001:dcd:1::9
-b.nic.giving.	0	IN	A	37.209.194.9
-b.nic.giving.	0	IN	AAAA	2001:dcd:2::9
-c.nic.giving.	0	IN	A	37.209.196.9
-c.nic.giving.	0	IN	AAAA	2001:dcd:3::9
-d.nic.giving.	0	IN	A	37.209.198.9
-d.nic.giving.	0	IN	AAAA	2001:dcd:4::9
+a0.nic.giving.	0	IN	A	199.19.56.1
+a0.nic.giving.	0	IN	AAAA	2001:500:e::1
+a2.nic.giving.	0	IN	A	199.249.112.1
+a2.nic.giving.	0	IN	AAAA	2001:500:40::1
+b0.nic.giving.	0	IN	A	199.19.54.1
+b0.nic.giving.	0	IN	AAAA	2001:500:c::1
+b2.nic.giving.	0	IN	A	199.249.120.1
+b2.nic.giving.	0	IN	AAAA	2001:500:48::1
+c0.nic.giving.	0	IN	A	199.19.53.1
+c0.nic.giving.	0	IN	AAAA	2001:500:b::1
+d0.nic.giving.	0	IN	A	199.19.57.1
+d0.nic.giving.	0	IN	AAAA	2001:500:f::1
 gl.	0	IN	NS	a.nuuk.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
 gl.	0	IN	NS	ns1.anycastdns.cz.
