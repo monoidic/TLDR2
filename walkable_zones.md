@@ -25,6 +25,7 @@
 * `hosting.`
 * `id.`
 * `juegos.`
+* `kg.`
 * `ky.`
 * `lb.`
 * `link.`
