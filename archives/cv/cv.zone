@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081701 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022081801 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -55,6 +55,9 @@ aaujp.cv.	0	IN	NS	ns1.contabo.net.
 aaujp.cv.	0	IN	NS	ns2.contabo.net.
 aaujp.cv.	0	IN	NS	ns3.contabo.net.
 mail.aaujp.cv.	0	IN	A	193.164.133.7
+abac.cv.	0	IN	NS	ns1.nosiwebhosting.com.
+abac.cv.	0	IN	NS	ns2.nosiwebhosting.com.
+abac.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 abc.cv.	0	IN	NS	ns1.dreamhost.com.
 abc.cv.	0	IN	NS	ns2.dreamhost.com.
 abc.cv.	0	IN	NS	ns3.dreamhost.com.
@@ -2758,9 +2761,10 @@ compramososeucarro.cv.	0	IN	NS	dns7.cloudns.net.
 compramososeucarro.cv.	0	IN	NS	dns8.cloudns.net.
 compraspublicas.cv.	0	IN	NS	ns1.gov.cv.
 compraspublicas.cv.	0	IN	NS	ns2.gov.cv.
-compravenda.cv.	0	IN	NS	ns01.trademarkarea.com.
-compravenda.cv.	0	IN	NS	ns02.trademarkarea.com.
-compravenda.cv.	0	IN	NS	ns03.trademarkarea.com.
+compravenda.cv.	0	IN	NS	ns1.bdm.microsoftonline.com.
+compravenda.cv.	0	IN	NS	ns2.bdm.microsoftonline.com.
+compravenda.cv.	0	IN	NS	ns3.bdm.microsoftonline.com.
+compravenda.cv.	0	IN	NS	ns4.bdm.microsoftonline.com.
 compta.cv.	0	IN	NS	ns1.pipedns.com.
 compta.cv.	0	IN	NS	ns2.pipedns.com.
 compta.cv.	0	IN	NS	ns3.pipedns.com.
@@ -5122,6 +5126,8 @@ jcb.cv.	0	IN	NS	dns2.idp365.net.
 jcb.cv.	0	IN	NS	dns3.idp365.net.
 jdcanalizacao.cv.	0	IN	NS	dns1.freehostia.com.
 jdcanalizacao.cv.	0	IN	NS	dns2.freehostia.com.
+jdk.cv.	0	IN	NS	ns1.bluehost.com.
+jdk.cv.	0	IN	NS	ns2.bluehost.com.
 jemarcha.cv.	0	IN	NS	ns.cvtelecom.cv.
 jemarcha.cv.	0	IN	NS	ns2.cvtelecom.cv.
 jeromeaerts.cv.	0	IN	NS	ns01.trademarkarea.com.
