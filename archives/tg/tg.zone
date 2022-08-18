@@ -1,4 +1,4 @@
-tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081768 21600 3600 604800 86400
+tg.	0	IN	SOA	ns1.nic.tg. hostmaster.nic.tg. 2022081867 21600 3600 604800 86400
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns2.nic.tg.
 tg.	0	IN	NS	ns3.admin.net.
@@ -1211,8 +1211,9 @@ casino.tg.	0	IN	NS	ns1.alidns.com.
 casino.tg.	0	IN	NS	ns2.alidns.com.
 casinocity.tg.	0	IN	NS	tegan.ns.cloudflare.com.
 casinocity.tg.	0	IN	NS	dilbert.ns.cloudflare.com.
-casparcas.tg.	0	IN	NS	cpanel5.lws-hosting.com.
-casparcas.tg.	0	IN	NS	cpanel6.lws-hosting.com.
+casparcas.tg.	0	IN	NS	ns1.cafe.tg.
+casparcas.tg.	0	IN	NS	ns2.cafe.tg.
+casparcas.tg.	0	IN	NS	ns5.netmaster.tg.
 castel.tg.	0	IN	NS	ns01.trademarkarea.com.
 castel.tg.	0	IN	NS	ns02.trademarkarea.com.
 castel.tg.	0	IN	NS	ns03.trademarkarea.com.
@@ -1531,9 +1532,8 @@ cpla.tg.	0	IN	NS	ns2.cafe.tg.
 cpla.tg.	0	IN	NS	ns5.netmaster.tg.
 cr.tg.	0	IN	NS	ns2.laposte.tg.
 loccit.cr.tg.	0	IN	NS	ns1.laposte.tg.
-cracken.tg.	0	IN	NS	ns1.netim.net.
-cracken.tg.	0	IN	NS	ns2.netim.net.
-cracken.tg.	0	IN	NS	ns3.netim.net.
+cracken.tg.	0	IN	NS	dana.ns.cloudflare.com.
+cracken.tg.	0	IN	NS	michael.ns.cloudflare.com.
 cread.tg.	0	IN	NS	dns1.plusproche.org.
 cread.tg.	0	IN	NS	dns2.plusproche.org.
 cread.tg.	0	IN	NS	dns3.supremepanel.com.
@@ -3611,8 +3611,6 @@ marketplace.tg.	0	IN	NS	sdns2.ovh.net.
 marketplace.tg.	0	IN	NS	ns3176354.ip-37-59-35.eu.
 markmonitor.tg.	0	IN	NS	dns-ns1.wistee.fr.
 markmonitor.tg.	0	IN	NS	dns-ns11.wistee.fr.
-marmolux.tg.	0	IN	NS	dns1.namecheaphosting.com.
-marmolux.tg.	0	IN	NS	dns2.namecheaphosting.com.
 martin.tg.	0	IN	NS	ns.hostpoint.ch.
 martin.tg.	0	IN	NS	ns2.hostpoint.ch.
 martin.tg.	0	IN	NS	ns3.hostpoint.ch.
@@ -3862,6 +3860,8 @@ musix.tg.	0	IN	NS	ns5.netim.net.
 mustela.tg.	0	IN	NS	nsa.perf1.fr.
 mustela.tg.	0	IN	NS	nsb.perf1.com.
 mustela.tg.	0	IN	NS	nsc.perf1.com.
+mutuelleakwaba.tg.	0	IN	NS	oti.ids.tg.
+mutuelleakwaba.tg.	0	IN	NS	mono.ids.tg.
 muzikplus.tg.	0	IN	NS	ns1.netmaster.tg.
 muzikplus.tg.	0	IN	NS	ns4.netmaster.tg.
 muzikplus.tg.	0	IN	NS	ns5.netmaster.tg.
@@ -4807,6 +4807,9 @@ servier.tg.	0	IN	NS	ns1.markmonitor.com.
 servier.tg.	0	IN	NS	ns2.markmonitor.com.
 servier.tg.	0	IN	NS	ns3.markmonitor.com.
 servier.tg.	0	IN	NS	ns4.markmonitor.com.
+sesame.tg.	0	IN	NS	ns1.francedns.com.
+sesame.tg.	0	IN	NS	ns2.francedns.com.
+sesame.tg.	0	IN	NS	ns3.francedns.com.
 seva.tg.	0	IN	NS	ns1.hostinger.lt.
 seva.tg.	0	IN	NS	ns2.hostinger.lt.
 seva.tg.	0	IN	NS	ns3.hostinger.lt.
