@@ -31,6 +31,7 @@
 * `link.`
 * `lk.`
 * `lol.`
+* `lr.`
 * `mom.`
 * `na.`
 * `nu.`
@@ -40,7 +41,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
