@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022082300 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022082301 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -4980,6 +4980,7 @@ dm.	0	IN	NS	ns3.uniregistry.net.
 dm.	0	IN	NS	ns4.uniregistry.info.
 dm.	0	IN	NS	ns34.cdns.net.
 dm.	0	IN	DS	24310 8 2 8d0f3f99db468099ee9edb28d77c319505c2db74f0515c5b05d10d09b7ab0d71
+dm.	0	IN	DS	55698 13 2 ad4401344bef3bd1f86737a2e2d008d5f5d138e101f4396a0461ff93a313c50e
 ns2.nic.dm.	0	IN	A	199.127.196.35
 dnp.	0	IN	NS	a.gmoregistry.net.
 dnp.	0	IN	NS	b.gmoregistry.net.
@@ -9154,8 +9155,7 @@ d.nic.kfh.	0	IN	AAAA	2a04:2b00:13ff::43
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
-kg.	0	IN	DS	49954 5 1 285c47ca00e9416e0c6bd6f7317bf57b0ee1cc7d
-kg.	0	IN	DS	49954 5 2 9166ca43b29f27bc7cc8b758f7027724ea2b860dbe49cf08a2763ea0e95e8754
+kg.	0	IN	DS	45982 8 2 d642af8c9bb761e035ce77a48750bbaa64b41cfa0799d8d94498cfa335fa1380
 ns.kg.	0	IN	A	195.38.160.36
 ns.kg.	0	IN	AAAA	2a11:a380::195:38:160:36
 ns2.kg.	0	IN	A	195.38.160.38
@@ -13077,10 +13077,14 @@ b2.nic.pink.	0	IN	A	65.22.31.21
 b2.nic.pink.	0	IN	AAAA	2a01:8840:21::21
 c0.nic.pink.	0	IN	A	65.22.30.17
 c0.nic.pink.	0	IN	AAAA	2a01:8840:20::17
-pioneer.	0	IN	NS	a.gmoregistry.net.
-pioneer.	0	IN	NS	b.gmoregistry.net.
-pioneer.	0	IN	NS	k.gmoregistry.net.
-pioneer.	0	IN	NS	l.gmoregistry.net.
+pioneer.	0	IN	NS	ns1.nominetdns.uk.
+pioneer.	0	IN	NS	ns2.nominetdns.uk.
+pioneer.	0	IN	NS	ns3.nominetdns.uk.
+pioneer.	0	IN	NS	ns4.nominetdns.uk.
+pioneer.	0	IN	NS	nsa.nominetdns.uk.
+pioneer.	0	IN	NS	nsb.nominetdns.uk.
+pioneer.	0	IN	NS	nsc.nominetdns.uk.
+pioneer.	0	IN	NS	nsd.nominetdns.uk.
 pioneer.	0	IN	DS	7342 8 2 3ec0f6a04f0365ab5311410a9074be1c8025df8120817b92d96bf8fae973e27d
 pioneer.	0	IN	DS	52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
 pizza.	0	IN	NS	v0n0.nic.pizza.
@@ -17246,6 +17250,22 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
+ns1.nominetdns.uk.	0	IN	A	213.248.219.126
+ns1.nominetdns.uk.	0	IN	AAAA	2a01:618:403::126
+ns2.nominetdns.uk.	0	IN	A	103.49.83.126
+ns2.nominetdns.uk.	0	IN	AAAA	2401:fd80:403::126
+ns3.nominetdns.uk.	0	IN	A	213.248.223.126
+ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::126
+ns4.nominetdns.uk.	0	IN	A	43.230.51.126
+ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::126
+nsa.nominetdns.uk.	0	IN	A	156.154.100.3
+nsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
+nsb.nominetdns.uk.	0	IN	A	156.154.101.3
+nsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
+nsc.nominetdns.uk.	0	IN	A	156.154.102.3
+nsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
+nsd.nominetdns.uk.	0	IN	A	156.154.103.3
+nsd.nominetdns.uk.	0	IN	AAAA	2610:a1:1010::3
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
@@ -17419,7 +17439,6 @@ ve.	0	IN	NS	ns5.nic.ve.
 ve.	0	IN	NS	ns6.nic.ve.
 ve.	0	IN	NS	ssdns-tld.nic.cl.
 ve.	0	IN	DS	14092 8 2 08c74712d9ee7ab88bad9ea011379e2ac419102e209b83cb9c4ee6cfb5ca7e65
-ve.	0	IN	DS	18052 8 2 a2e1545d2bb19b54cdef1de1fce3022fccf04d2c76896691c8d268f66c3a744c
 ns3.nic.ve.	0	IN	A	190.9.129.56
 ns4.nic.ve.	0	IN	A	190.202.128.43
 ns5.nic.ve.	0	IN	A	45.175.22.88
