@@ -25,7 +25,6 @@
 * `hosting.`
 * `id.`
 * `juegos.`
-* `kg.`
 * `ky.`
 * `lb.`
 * `link.`
@@ -41,7 +40,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
