@@ -14,10 +14,13 @@ prework() {
 	sqlite3 "$db" "INSERT OR IGNORE INTO name (name, is_zone) VALUES ('.', TRUE)"
 	# get root nameservers
 	scan -net_{ns,ip}
+	# parse records
+	scan -rr_{ns,ip}
 	# axfr root nameservers
 	scan -direct_conns -v6 -axfr
 	# get TLD nameserver info
 	scan -{rr,net}_{ns,ip}
+	scan -rr_{ns,ip}
 }
 
 axfr() {
