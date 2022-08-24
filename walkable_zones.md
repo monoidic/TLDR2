@@ -18,6 +18,7 @@
 * `flowers.`
 * `game.`
 * `gift.`
+* `gn.`
 * `guitars.`
 * `help.`
 * `hiphop.`
@@ -40,7 +41,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
