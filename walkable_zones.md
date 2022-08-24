@@ -18,13 +18,13 @@
 * `flowers.`
 * `game.`
 * `gift.`
-* `gn.`
 * `guitars.`
 * `help.`
 * `hiphop.`
 * `hosting.`
 * `id.`
 * `juegos.`
+* `kg.`
 * `ky.`
 * `lb.`
 * `link.`

@@ -1,9 +1,9 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1661311802 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1661317202 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
-kg.	0	IN	DNSKEY	256 3 5 AwEAAcSK2d/6w7v21X6BBZwV91h33873M17DeYueCbcqOXtP+Dfzsce3wW9BUoJbOchPGfweXUikYk10RwQOU//S+6ax2bQmrag/pmlFfQaoejEXggB2WhDWp+qLsGVodzv5OzuV7teplRRBhAAltoQkjXn1ce6rh0GyEG+7SxpXSK3B ;{id = 49950 (zsk), size = 1024b}
-kg.	0	IN	DNSKEY	257 3 5 AwEAAeaExCq4ADTB68hLo+qZkKXkS1w0oV5ZFlzg/2rSSujAhW/cvFHD0DDSQtNpjuNZ3vtuFSiJIRq4ftMQFxTVd1jGtxvbthDBo8KoU3gecf0rIksjiQF8EgceSJocZH7lwqxRSzHG7jq0TEcsHITDHRgNVjo1C52CNqYZ7keAwVev ;{id = 49954 (ksk), size = 1024b}
+kg.	0	IN	DNSKEY	256 3 8 AwEAAZUDpMl27G13MvOzhdArl23nz5pXHYVxVf0V6p+DhGu57KF2BWjOj3ea71lPbwJjsNRZ049bgV3kizwm06i/JIHgBUJf2m4BUN/OB3/7H2YQyoa5nOmqH0uDDe4ZBEocKDSwhy80tBdAyd9fDyQW8iBMYEw6YruC51laxL15wSUEpuVy/grLRXEETqE3pk/C/W2gbJqyGptuCCFGu0WQDbcHnbWHT2ljCX3KM7DzXUEisWB1WfPf2/CozyZ4Z0a0pnC+fz5WKuZAz3GTxWyxpPJsnpu5ECiZEktN7w8W96+bYHX3cF1RiX4bMGpuvJQU5KpqEfKGINsejb8Y2KMC/aM= ;{id = 3529 (zsk), size = 2048b}
+kg.	0	IN	DNSKEY	257 3 8 AwEAAebLPAhyONUrCidoxPKNSIilh4YcvqDuP+JJHsMikVAiIlRMhIJWnuZ/l/BUKtW9G8JNZKAIBoDA9EhJRfFwx8bGfjn4RYd/tSgtQcelaj/HVbf/eK+f1gSMtzxc5so+Mx5lCx2auEPV3uDEn0k7rnApJ/fstlxcXenW6aA1uY///W1Bv3PMvbui7y4pdF1cJY1W/rOgNpO4rnxu75xH5Yvnh11WWOiLj+NoZELNFW6QIWT28IWRaNquDAjyqLKiGf7YIPFpZQ+q+PZDQwI+jf5njD/km1YeaLlGn7YaBR5wTu6WMvuZKkrWTZPjxvH/5Bx0Jy6YljCW/HA9xWKqBz0= ;{id = 45982 (ksk), size = 2048b}
 -.kg.	0	IN	NS	ns1.dash.cis.kg.
 -.kg.	0	IN	NS	ns2.dash.cis.kg.
 0.kg.	0	IN	NS	ns1.linode.com.
@@ -2553,6 +2553,7 @@ atasunoptik.kg.	0	IN	NS	ns2.101domain.com.
 atasunoptik.kg.	0	IN	NS	ns5.101domain.com.
 atcom.kg.	0	IN	NS	ns1.cloud.kg.
 atcom.kg.	0	IN	NS	ns2.cloud.kg.
+atech.kg.	0	IN	NS	ns.kg.
 atehsys.kg.	0	IN	NS	ns.hostland.ru.
 atehsys.kg.	0	IN	NS	ns3.hostland.ru.
 atelier.kg.	0	IN	NS	ns3.combell.net.
@@ -3738,8 +3739,6 @@ berall.kg.	0	IN	NS	ns1.reg.ru.
 berall.kg.	0	IN	NS	ns2.reg.ru.
 bereg.kg.	0	IN	NS	ufa.ens.mail.ru.
 bereg.kg.	0	IN	NS	vologda.ens.mail.ru.
-bereke.kg.	0	IN	NS	ns9.hoster.kg.
-bereke.kg.	0	IN	NS	ns10.hoster.kg.
 bereke-building.kg.	0	IN	NS	ns1.hosting.reg.ru.
 bereke-building.kg.	0	IN	NS	ns2.hosting.reg.ru.
 bereke-credit.kg.	0	IN	NS	ns5.hoster.kg.
@@ -3903,8 +3902,6 @@ biast.kg.	0	IN	NS	ns1.beget.com.
 biast.kg.	0	IN	NS	ns1.beget.pro.
 biast.kg.	0	IN	NS	ns2.beget.com.
 biast.kg.	0	IN	NS	ns2.beget.pro.
-bibigon.kg.	0	IN	NS	ns5.hoster.kg.
-bibigon.kg.	0	IN	NS	ns6.hoster.kg.
 bible.kg.	0	IN	NS	ns5.hoster.kg.
 bible.kg.	0	IN	NS	ns6.hoster.kg.
 biblioteka.kg.	0	IN	NS	ns2.eit.kg.
@@ -4403,8 +4400,6 @@ bonustaxi.kg.	0	IN	NS	ns2.beget.com.
 bonustaxi.kg.	0	IN	NS	ns2.beget.pro.
 book.kg.	0	IN	NS	ns9.hoster.kg.
 book.kg.	0	IN	NS	ns10.hoster.kg.
-booker.kg.	0	IN	NS	ns9.hoster.kg.
-booker.kg.	0	IN	NS	ns10.hoster.kg.
 bookhouse.kg.	0	IN	NS	ns5.hoster.kg.
 bookhouse.kg.	0	IN	NS	ns6.hoster.kg.
 booking.kg.	0	IN	NS	ns0.bkngs.com.
@@ -4976,6 +4971,7 @@ cardio.kg.	0	IN	NS	ns1.hosting.reg.ru.
 cardio.kg.	0	IN	NS	ns2.hosting.reg.ru.
 cardiology.kg.	0	IN	NS	ns5.hoster.kg.
 cardiology.kg.	0	IN	NS	ns6.hoster.kg.
+cardiosurgery.kg.	0	IN	NS	ns.kg.
 cardplus.kg.	0	IN	NS	ns1.demirbank.kg.
 cardplus.kg.	0	IN	NS	ns2.demirbank.kg.
 cardtrade.kg.	0	IN	NS	ns9.hoster.kg.
@@ -11338,8 +11334,6 @@ inter-car.kg.	0	IN	NS	ns.prohost.kg.
 inter-car.kg.	0	IN	NS	ns3.prohost.kg.
 intera.kg.	0	IN	NS	ns9.hoster.kg.
 intera.kg.	0	IN	NS	ns10.hoster.kg.
-interasiatrade.kg.	0	IN	NS	ns1.vercel-dns.com.
-interasiatrade.kg.	0	IN	NS	ns2.vercel-dns.com.
 interbilimosh.kg.	0	IN	NS	ns1.webhost.kg.
 interbilimosh.kg.	0	IN	NS	ns2.webhost.kg.
 intercert.kg.	0	IN	NS	ns1.timeweb.ru.
@@ -11951,6 +11945,7 @@ japan.kg.	0	IN	NS	ns2.reg.ru.
 japanstart.kg.	0	IN	NS	ns1.flexbe.ru.
 japanstart.kg.	0	IN	NS	ns2.flexbe.ru.
 japanstart.kg.	0	IN	NS	ns3.flexbe.com.
+jaran.kg.	0	IN	NS	ns.kg.
 jaria.kg.	0	IN	NS	ns1.jino.ru.
 jaria.kg.	0	IN	NS	ns2.jino.ru.
 jaria.kg.	0	IN	NS	ns3.jino.ru.
@@ -12245,8 +12240,6 @@ kadatohum.kg.	0	IN	NS	ns3.hoster.kg.
 kadatohum.kg.	0	IN	NS	ns4.hoster.kg.
 kadet.kg.	0	IN	NS	ns5.hoster.kg.
 kadet.kg.	0	IN	NS	ns6.hoster.kg.
-kadk.kg.	0	IN	NS	ns5.hoster.kg.
-kadk.kg.	0	IN	NS	ns6.hoster.kg.
 kae.kg.	0	IN	NS	ns1.cloud.kg.
 kae.kg.	0	IN	NS	ns2.cloud.kg.
 kaea.kg.	0	IN	NS	ns5.hoster.kg.
@@ -14713,6 +14706,8 @@ mapincidents.kg.	0	IN	NS	ligia.ns.cloudflare.com.
 mapincidents.kg.	0	IN	NS	agustin.ns.cloudflare.com.
 marafon.kg.	0	IN	NS	ns1.truedomain.info.
 marafon.kg.	0	IN	NS	ns2.truedomain.info.
+maralfm.kg.	0	IN	NS	dns1.yandex.net.
+maralfm.kg.	0	IN	NS	dns2.yandex.net.
 marathonbet.kg.	0	IN	NS	nsgbr.comlaude.co.uk.
 marathonbet.kg.	0	IN	NS	nssui.comlaude.ch.
 marathonbet.kg.	0	IN	NS	nsusa.comlaude.net.
@@ -21904,6 +21899,8 @@ stroytehnika.kg.	0	IN	NS	ns5.hoster.kg.
 stroytehnika.kg.	0	IN	NS	ns6.hoster.kg.
 stswb.kg.	0	IN	NS	ns1.truedomain.biz.
 stswb.kg.	0	IN	NS	ns2.truedomain.biz.
+student.kg.	0	IN	NS	cp11.aktasweb.com.
+student.kg.	0	IN	NS	cp12.aktasweb.com.
 studex.kg.	0	IN	NS	ns1.101domain.com.
 studex.kg.	0	IN	NS	ns2.101domain.com.
 studex.kg.	0	IN	NS	ns5.101domain.com.
@@ -24213,6 +24210,8 @@ valguspro.kg.	0	IN	NS	ns1.webhost.kg.
 valguspro.kg.	0	IN	NS	ns2.webhost.kg.
 valtec.kg.	0	IN	NS	ns5.hoster.kg.
 valtec.kg.	0	IN	NS	ns6.hoster.kg.
+valuta.kg.	0	IN	NS	ns41.cloudns.net.
+valuta.kg.	0	IN	NS	ns42.cloudns.net.
 valuta.kg.	0	IN	NS	miles.ns.cloudflare.com.
 valuta.kg.	0	IN	NS	dorthy.ns.cloudflare.com.
 vanguard.kg.	0	IN	NS	ns5.hoster.kg.
