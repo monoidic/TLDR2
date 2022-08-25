@@ -21,7 +21,6 @@
 * `gn.`
 * `guitars.`
 * `help.`
-* `hiphop.`
 * `hosting.`
 * `id.`
 * `juegos.`
