@@ -27,7 +27,6 @@
 * `kg.`
 * `ky.`
 * `lb.`
-* `link.`
 * `lk.`
 * `lol.`
 * `lr.`
@@ -40,7 +39,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
