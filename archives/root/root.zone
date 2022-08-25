@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022082501 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022082502 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1938,12 +1938,9 @@ blackfriday.	0	IN	NS	ns1.uniregistry.net.
 blackfriday.	0	IN	NS	ns2.uniregistry.info.
 blackfriday.	0	IN	NS	ns3.uniregistry.net.
 blackfriday.	0	IN	NS	ns4.uniregistry.info.
-blackfriday.	0	IN	DS	27304 5 1 159c2ed13b308d26511429be90fe81d4a045e73c
 blackfriday.	0	IN	DS	27304 5 2 7dfb43f9bce4ac4f7512d0c4b6f2b6e1102845801dc6115267f2001180f7e0c5
-blackfriday.	0	IN	DS	37939 5 1 9fb25f79d4bcd0b5b418ffb52bcee1725bbc5a4d
+blackfriday.	0	IN	DS	29900 13 2 fde16db12fdbc44766c6f83f62e029570becd685cd245da8b9889ee75e89a75c
 blackfriday.	0	IN	DS	37939 5 2 9c45e33b0715fe2feae8a1e4faf73559d773770980ddfbb01c8307b48adc0588
-blackfriday.	0	IN	DS	59063 5 1 9dcf1a9f05312ed04529f4a8ac5266028cba6b0d
-blackfriday.	0	IN	DS	59063 5 2 5515a03e97c2546af3675e1f3c309ba809b7ccc5fa558f2d1ea4a73bfcddcabd
 blockbuster.	0	IN	NS	a0.nic.blockbuster.
 blockbuster.	0	IN	NS	a2.nic.blockbuster.
 blockbuster.	0	IN	NS	b0.nic.blockbuster.
@@ -4402,6 +4399,8 @@ c.ns.nic.cz.	0	IN	A	194.0.14.1
 c.ns.nic.cz.	0	IN	AAAA	2001:678:11::1
 d.ns.nic.cz.	0	IN	A	193.29.206.1
 d.ns.nic.cz.	0	IN	AAAA	2001:678:1::1
+tz-e.ns.nic.cz.	0	IN	A	185.43.134.11
+tz-e.ns.nic.cz.	0	IN	AAAA	2001:148f:fffd::11
 dabur.	0	IN	NS	a0.nic.dabur.
 dabur.	0	IN	NS	a2.nic.dabur.
 dabur.	0	IN	NS	b0.nic.dabur.
@@ -12899,12 +12898,9 @@ photo.	0	IN	NS	ns1.uniregistry.net.
 photo.	0	IN	NS	ns2.uniregistry.info.
 photo.	0	IN	NS	ns3.uniregistry.net.
 photo.	0	IN	NS	ns4.uniregistry.info.
-photo.	0	IN	DS	11884 5 1 5452469c278fb3ef65b9d47b709dbdda025fd6da
-photo.	0	IN	DS	11884 5 2 80adec219929825ce490e0b9caac5cad806fc8ad4c4e0d48017f62f5408d6ff5
-photo.	0	IN	DS	25561 5 1 58408e4ada0f34c4e9e5a594a1d1d1d0c263a1ca
 photo.	0	IN	DS	25561 5 2 7c024f0832997289b954f9fe59d7d66c7a14f91f1e7cad603184d7e109af7a54
-photo.	0	IN	DS	37609 5 1 1e37e1d3978b148eaf23c10358c94bd6ce3eab4a
 photo.	0	IN	DS	37609 5 2 4af9273545cf29c084824b693dc59c2863b70f0a948d2e443efbbb38aac30c3a
+photo.	0	IN	DS	56016 13 2 a9c731e215bc6ba13a585782939de293da96e91dec2a3ed9cd27d34868719371
 photography.	0	IN	NS	v0n0.nic.photography.
 photography.	0	IN	NS	v0n1.nic.photography.
 photography.	0	IN	NS	v0n2.nic.photography.
@@ -17131,11 +17127,11 @@ g.dns.tw.	0	IN	A	220.229.225.195
 g.dns.tw.	0	IN	AAAA	2001:cd8:400::195
 h.dns.tw.	0	IN	A	204.61.216.119
 h.dns.tw.	0	IN	AAAA	2001:500:14:6119:ad::1
-tz.	0	IN	NS	d.ext.nic.cz.
 tz.	0	IN	NS	ns.anycast.co.tz.
 tz.	0	IN	NS	ns2.tznic.or.tz.
 tz.	0	IN	NS	rip.psg.com.
 tz.	0	IN	NS	fork.sth.dnsnode.net.
+tz.	0	IN	NS	tz-e.ns.nic.cz.
 tz.	0	IN	NS	ns-tz.afrinic.net.
 tz.	0	IN	DS	30234 13 2 3d83825b9f7d66f9b28b5566ba5371798e8d3b88ef079bb88f52617811c1b9a0
 ns.anycast.co.tz.	0	IN	A	204.61.216.15
