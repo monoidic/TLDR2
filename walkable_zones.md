@@ -17,6 +17,7 @@
 * `ee.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gift.`
 * `gn.`
 * `guitars.`
@@ -39,6 +40,7 @@
 * `property.`
 * `se.`
 * `sexy.`
+* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
