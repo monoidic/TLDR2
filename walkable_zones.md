@@ -19,6 +19,7 @@
 * `game.`
 * `gdn.`
 * `gift.`
+* `gn.`
 * `guitars.`
 * `help.`
 * `hosting.`
@@ -39,7 +40,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
