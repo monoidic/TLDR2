@@ -19,7 +19,6 @@
 * `game.`
 * `gdn.`
 * `gift.`
-* `gn.`
 * `guitars.`
 * `help.`
 * `hosting.`
