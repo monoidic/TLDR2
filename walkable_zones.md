@@ -5,12 +5,12 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `blackfriday.`
 * `br.`
 * `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
+* `ci.`
 * `click.`
 * `diet.`
 * `dz.`
@@ -30,11 +30,9 @@
 * `lb.`
 * `lk.`
 * `lol.`
-* `lr.`
 * `mom.`
 * `na.`
 * `nu.`
-* `photo.`
 * `pics.`
 * `pr.`
 * `property.`
