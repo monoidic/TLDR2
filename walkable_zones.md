@@ -10,7 +10,6 @@
 * `car.`
 * `cars.`
 * `christmas.`
-* `ci.`
 * `click.`
 * `diet.`
 * `dz.`
@@ -30,6 +29,7 @@
 * `lb.`
 * `lk.`
 * `lol.`
+* `lr.`
 * `mom.`
 * `na.`
 * `nu.`
