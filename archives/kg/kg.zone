@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1661844602 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1661846402 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -10,6 +10,8 @@ kg.	0	IN	DNSKEY	257 3 8 AwEAAebLPAhyONUrCidoxPKNSIilh4YcvqDuP+JJHsMikVAiIlRMhIJW
 0.kg.	0	IN	NS	ns2.linode.com.
 00.kg.	0	IN	NS	ns1.sedoparking.com.
 00.kg.	0	IN	NS	ns2.sedoparking.com.
+001.kg.	0	IN	NS	dns1.yandex.net.
+001.kg.	0	IN	NS	dns2.yandex.net.
 007.kg.	0	IN	NS	ns9.hoster.kg.
 007.kg.	0	IN	NS	ns10.hoster.kg.
 01.kg.	0	IN	NS	dale.ns.cloudflare.com.
@@ -3790,8 +3792,10 @@ best-asia.kg.	0	IN	NS	ns9.hoster.kg.
 best-asia.kg.	0	IN	NS	ns10.hoster.kg.
 bestchoice.kg.	0	IN	NS	ns5.hoster.kg.
 bestchoice.kg.	0	IN	NS	ns6.hoster.kg.
-besterek.kg.	0	IN	NS	pskov.ens.mail.ru.
-besterek.kg.	0	IN	NS	moscow.ens.mail.ru.
+besterek.kg.	0	IN	NS	ns.abcp.ru.
+besterek.kg.	0	IN	NS	ns.nodacdn.net.
+besterek.kg.	0	IN	NS	ns3.abcp.ru.
+besterek.kg.	0	IN	NS	ns3.nodacdn.net.
 besthome.kg.	0	IN	NS	ns01.trademarkarea.com.
 besthome.kg.	0	IN	NS	ns02.trademarkarea.com.
 besthome.kg.	0	IN	NS	ns03.trademarkarea.com.
