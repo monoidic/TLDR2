@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022083016 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022083017 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3522,6 +3522,11 @@ nb.gp.	0	IN	NS	ns1.sedoparking.com.
 nb.gp.	0	IN	NS	ns2.sedoparking.com.
 ndi.gp.	0	IN	NS	ns15.ovh.net.
 ndi.gp.	0	IN	NS	dns15.ovh.net.
+neovegas.gp.	0	IN	NS	pdns1.ultradns.net.
+neovegas.gp.	0	IN	NS	pdns2.ultradns.net.
+neovegas.gp.	0	IN	NS	pdns3.ultradns.org.
+neovegas.gp.	0	IN	NS	pdns4.ultradns.org.
+neovegas.gp.	0	IN	NS	pdns5.ultradns.info.
 nespresso.gp.	0	IN	NS	amsdns1.nestle.com.
 nespresso.gp.	0	IN	NS	aoadns1.nestle.com.
 nespresso.gp.	0	IN	NS	ctrdns1.nestle.com.
@@ -4957,10 +4962,14 @@ tst.gp.	0	IN	NS	dns1.cloudns.net.
 tst.gp.	0	IN	NS	dns2.cloudns.net.
 tt.gp.	0	IN	NS	ns1.bodis.com.
 tt.gp.	0	IN	NS	ns2.bodis.com.
-tudor.gp.	0	IN	NS	ns1.gva.ch.colt.net.
-tudor.gp.	0	IN	NS	ns1.zrh1.ch.colt.net.
-tudorwatch.gp.	0	IN	NS	ns1.gva.ch.colt.net.
-tudorwatch.gp.	0	IN	NS	ns1.zrh1.ch.colt.net.
+tudor.gp.	0	IN	NS	dns1.p02.nsone.net.
+tudor.gp.	0	IN	NS	dns2.p02.nsone.net.
+tudor.gp.	0	IN	NS	dns3.p02.nsone.net.
+tudor.gp.	0	IN	NS	dns4.p02.nsone.net.
+tudorwatch.gp.	0	IN	NS	dns1.p02.nsone.net.
+tudorwatch.gp.	0	IN	NS	dns2.p02.nsone.net.
+tudorwatch.gp.	0	IN	NS	dns3.p02.nsone.net.
+tudorwatch.gp.	0	IN	NS	dns4.p02.nsone.net.
 tv-caraibes.gp.	0	IN	NS	ns2.observatoiredesmarques.fr.
 tv-caraibes.gp.	0	IN	NS	ns3.nameshield.net.
 tv-caraibes.gp.	0	IN	NS	obs.ns1.fr.
