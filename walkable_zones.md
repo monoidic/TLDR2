@@ -10,7 +10,6 @@
 * `car.`
 * `cars.`
 * `christmas.`
-* `ci.`
 * `click.`
 * `diet.`
 * `dz.`
@@ -39,7 +38,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
