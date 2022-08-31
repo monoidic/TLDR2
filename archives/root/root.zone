@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022083101 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022083103 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -3462,12 +3462,9 @@ click.	0	IN	NS	ns1.uniregistry.net.
 click.	0	IN	NS	ns2.uniregistry.info.
 click.	0	IN	NS	ns3.uniregistry.net.
 click.	0	IN	NS	ns4.uniregistry.info.
-click.	0	IN	DS	15793 5 1 171ad6beedb150aa0258b17101b317b9858f405c
-click.	0	IN	DS	15793 5 2 3a5785619714eac2c06cc0c232125d5d20b6ac051991860600f679145caed153
-click.	0	IN	DS	48691 5 1 07694698ccca4614d3a4525328cd87db8f472876
 click.	0	IN	DS	48691 5 2 ef8a4181c8a59804c863e88f4a036f829e84271156f498cf652caceb2d9d338a
-click.	0	IN	DS	56869 5 1 9b42bf19b4483d6ec25fca370546313067e015fd
 click.	0	IN	DS	56869 5 2 6f386c18096edf298b38fd453e54c8277adaa85127cbb011e33ec71ac797c0cc
+click.	0	IN	DS	65517 13 2 d09a2c14c4382634edccf9634fb32e91511e1e642f3c38468ba2407f1d1bad24
 clinic.	0	IN	NS	v0n0.nic.clinic.
 clinic.	0	IN	NS	v0n1.nic.clinic.
 clinic.	0	IN	NS	v0n2.nic.clinic.
@@ -4972,7 +4969,6 @@ dm.	0	IN	NS	ns2.blacknightsolutions.com.
 dm.	0	IN	NS	ns3.uniregistry.net.
 dm.	0	IN	NS	ns4.uniregistry.info.
 dm.	0	IN	NS	ns34.cdns.net.
-dm.	0	IN	DS	24310 8 2 8d0f3f99db468099ee9edb28d77c319505c2db74f0515c5b05d10d09b7ab0d71
 dm.	0	IN	DS	55698 13 2 ad4401344bef3bd1f86737a2e2d008d5f5d138e101f4396a0461ff93a313c50e
 ns2.nic.dm.	0	IN	A	199.127.196.35
 dnp.	0	IN	NS	a.gmoregistry.net.
@@ -7667,11 +7663,8 @@ hiv.	0	IN	NS	ns1.uniregistry.net.
 hiv.	0	IN	NS	ns2.uniregistry.info.
 hiv.	0	IN	NS	ns3.uniregistry.net.
 hiv.	0	IN	NS	ns4.uniregistry.info.
-hiv.	0	IN	DS	27525 7 1 56f19bae9988a63b0f5adc5a84810b59d99debc4
 hiv.	0	IN	DS	27525 7 2 7b9fedf325d12e7e8a469ce589b7c16a0dcbf50f00dcba9867fca04a3fcce6db
-hiv.	0	IN	DS	43515 7 1 04f332a08624803a8c07bded35beb8091005a67f
-hiv.	0	IN	DS	43515 7 2 deebb9290635f6dfc67ab526063a2b00192713e4bb9de8c2ab741c2c0a41bdb3
-hiv.	0	IN	DS	51708 7 1 6e523215708ed1251d472150594b7b0b5f778f7b
+hiv.	0	IN	DS	50937 13 2 139053a1dd36c05b171d5adb695cedcd3db6eea7b7a2b0700aadc4c8712b1344
 hiv.	0	IN	DS	51708 7 2 a775c0aba7b1bb211c11c08ef328c574cbba7f8b1990d8235f8cdb285ac21d82
 hk.	0	IN	NS	c.hkirc.net.hk.
 hk.	0	IN	NS	d.hkirc.net.hk.
@@ -13452,12 +13445,9 @@ property.	0	IN	NS	ns1.uniregistry.net.
 property.	0	IN	NS	ns2.uniregistry.info.
 property.	0	IN	NS	ns3.uniregistry.net.
 property.	0	IN	NS	ns4.uniregistry.info.
-property.	0	IN	DS	10693 5 1 2f6be68ce8f84c3bac32409f7bf0391716c0bd19
 property.	0	IN	DS	10693 5 2 d6fb00f2b20cec1fc4be95d56435164b8c071e748faf2c1189fed730b2020631
-property.	0	IN	DS	18823 5 1 5ff19a5dc78c8e80118b5d40b813ea0cb669edec
 property.	0	IN	DS	18823 5 2 c110fdb8bd7f15f016ab9ea662e5982a1cf974be8cebb473e4f875763982bc36
-property.	0	IN	DS	28787 5 1 66a623d925e925b6d778e0d8702e969577aeb9c9
-property.	0	IN	DS	28787 5 2 4775842d9e1c05505edaf7612f6cf9099485c911707a94da927bd7441291d84d
+property.	0	IN	DS	33049 13 2 6dff521d658293fd458e615debb6ca0c76341775f72f340bcd3960851b4c536f
 protection.	0	IN	NS	a.nic.protection.
 protection.	0	IN	NS	b.nic.protection.
 protection.	0	IN	NS	e.nic.protection.
@@ -15005,12 +14995,9 @@ sexy.	0	IN	NS	ns1.uniregistry.net.
 sexy.	0	IN	NS	ns2.uniregistry.info.
 sexy.	0	IN	NS	ns3.uniregistry.net.
 sexy.	0	IN	NS	ns4.uniregistry.info.
-sexy.	0	IN	DS	3097 5 1 e237119fa574704694c0228bf83f7275f2bc045b
 sexy.	0	IN	DS	3097 5 2 b4e8db053b1a84feaf5a0db4f8626d3bd764a080340bb39c4ba68d80e35fe5f0
-sexy.	0	IN	DS	40039 5 1 308965bb0a872eaa226e656d0cbc877f38da0aa8
 sexy.	0	IN	DS	40039 5 2 96b989de091d7af97790184c91261723586b1c42745a95d26fa751f836209909
-sexy.	0	IN	DS	60556 5 1 4ff0d3a66811e7db90cd072f2a042ea0c5f03730
-sexy.	0	IN	DS	60556 5 2 fd746b08b105315b2fe64fb8863be05dac75aeb0dffa84567d1cfd2a621657a4
+sexy.	0	IN	DS	42010 13 2 a0e135ac7e6ffb2cad1574c08c837bb5d5a4e34c60356498389e69b55943d58c
 sfr.	0	IN	NS	a.nic.sfr.
 sfr.	0	IN	NS	b.nic.sfr.
 sfr.	0	IN	NS	c.nic.sfr.
@@ -16963,9 +16950,8 @@ trust.	0	IN	NS	ns1.uniregistry.net.
 trust.	0	IN	NS	ns2.uniregistry.info.
 trust.	0	IN	NS	ns3.uniregistry.net.
 trust.	0	IN	NS	ns4.uniregistry.info.
-trust.	0	IN	DS	39295 8 1 b30b3b225650f153214471b5f824354d5d2920e9
+trust.	0	IN	DS	33872 13 2 d324a81281464251e04686f4e75d2978b119496fe596012a89647ff6af0eefc3
 trust.	0	IN	DS	39295 8 2 b874a22c7ebd631978d59ace3b634d4b1dec3ef0c8fbc7a4051ac0ae15661753
-trust.	0	IN	DS	65044 8 1 5d9de840ab80b8fc0269eeeb33d97c8beb9b81a5
 trust.	0	IN	DS	65044 8 2 e3999245a03c4331fb3961d350ad85744ebf2002738cbb433ad0b863fbdaef1c
 trv.	0	IN	NS	a0.nic.trv.
 trv.	0	IN	NS	a2.nic.trv.
