@@ -39,7 +39,6 @@
 * `property.`
 * `se.`
 * `sexy.`
-* `sl.`
 * `tattoo.`
 * `tn.`
 * `trust.`
