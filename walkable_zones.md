@@ -34,9 +34,8 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `property.`
 * `se.`
-* `sexy.`
+* `sl.`
 * `tn.`
 * `trust.`
 * `tz.`
