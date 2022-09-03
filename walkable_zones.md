@@ -10,6 +10,7 @@
 * `car.`
 * `cars.`
 * `christmas.`
+* `ci.`
 * `diet.`
 * `dz.`
 * `ee.`
