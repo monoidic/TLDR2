@@ -10,6 +10,7 @@
 * `car.`
 * `cars.`
 * `christmas.`
+* `ci.`
 * `diet.`
 * `dz.`
 * `ee.`
@@ -35,6 +36,7 @@
 * `pics.`
 * `pr.`
 * `se.`
+* `sl.`
 * `tn.`
 * `trust.`
 * `tz.`
