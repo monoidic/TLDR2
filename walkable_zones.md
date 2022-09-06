@@ -36,6 +36,7 @@
 * `pics.`
 * `pr.`
 * `se.`
+* `sl.`
 * `tn.`
 * `trust.`
 * `tz.`
