@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022090501 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022090601 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -1660,6 +1660,8 @@ clinicasmontecara.cv.	0	IN	NS	ns1.dnsaegir.com.
 clinicasmontecara.cv.	0	IN	NS	ns2.dnsaegir.com.
 clinicasodente.cv.	0	IN	NS	ns7.securenet-server.net.
 clinicasodente.cv.	0	IN	NS	ns8.securenet-server.net.
+clinitur.cv.	0	IN	NS	ns1.bluehost.com.
+clinitur.cv.	0	IN	NS	ns2.bluehost.com.
 clipcc.cv.	0	IN	NS	ns1.lxsistemas.com.
 clipcc.cv.	0	IN	NS	ns2.lxsistemas.com.
 cloud.cv.	0	IN	NS	ns1.webhs.org.
@@ -1747,7 +1749,7 @@ cmssm.cv.	0	IN	NS	ns2.gov.cv.
 cmsv.cv.	0	IN	NS	ns1.cmsv.cv.
 cmsv.cv.	0	IN	NS	ns2.cmsv.cv.
 ns1.cmsv.cv.	0	IN	A	66.29.129.109
-ns2.cmsv.cv.	0	IN	A	66.29.144.120
+ns2.cmsv.cv.	0	IN	A	66.29.129.109
 cmt.cv.	0	IN	NS	ns1.gov.cv.
 cmt.cv.	0	IN	NS	ns2.gov.cv.
 cmtsn.cv.	0	IN	NS	ns1.webhs.org.
@@ -3910,8 +3912,10 @@ ete-logistica.cv.	0	IN	NS	ns-b1.vodafone.pt.
 ete-logistica.cv.	0	IN	NS	ns-b2.vodafone.pt.
 etenergia.cv.	0	IN	NS	ns1.wix.com.
 etenergia.cv.	0	IN	NS	ns2.wix.com.
-eth.cv.	0	IN	NS	ns1.parkingcrew.net.
-eth.cv.	0	IN	NS	ns2.parkingcrew.net.
+eth.cv.	0	IN	A	3.120.163.96
+eth.cv.	0	IN	NS	ns1.dan.com.
+eth.cv.	0	IN	NS	ns2.dan.com.
+eth.cv.	0	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
 eticadata.cv.	0	IN	NS	ns1-04.azure-dns.com.
 eticadata.cv.	0	IN	NS	ns2-04.azure-dns.net.
 eticadata.cv.	0	IN	NS	ns3-04.azure-dns.org.
@@ -4550,6 +4554,9 @@ heliobatalha.cv.	0	IN	NS	ns14.wixdns.net.
 heliobatalha.cv.	0	IN	NS	ns15.wixdns.net.
 helios.cv.	0	IN	NS	r3.gigilist.com.
 helios.cv.	0	IN	NS	r4.gigilist.com.
+helliumenergia.cv.	0	IN	NS	ns1.nosiwebhosting.com.
+helliumenergia.cv.	0	IN	NS	ns2.nosiwebhosting.com.
+helliumenergia.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 help.cv.	0	IN	NS	ns01.trademarkarea.com.
 help.cv.	0	IN	NS	ns02.trademarkarea.com.
 help.cv.	0	IN	NS	ns03.trademarkarea.com.
