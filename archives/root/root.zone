@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022090701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022090702 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -10833,6 +10833,7 @@ ns3.dns.nic.mlb.	0	IN	A	156.154.159.113
 ns3.dns.nic.mlb.	0	IN	AAAA	2610:a1:1073::71
 mls.	0	IN	NS	a.ns.nic.mls.
 mls.	0	IN	NS	b.ns.nic.mls.
+mls.	0	IN	DS	32866 8 2 ea3c1c5994bb36364acb0a9b8c09cd84477d6707c9317259bcbc8149992a485c
 mls.	0	IN	DS	41767 8 2 948a8e9f3ebf80658da80a233e8c0320b1ea4af1fa3cb7f53636453e59148f87
 a.ns.nic.mls.	0	IN	A	185.159.197.8
 a.ns.nic.mls.	0	IN	AAAA	2620:10a:80aa::8
@@ -14313,11 +14314,20 @@ c.nic.rugby.	0	IN	A	37.209.196.10
 c.nic.rugby.	0	IN	AAAA	2001:dcd:3::10
 d.nic.rugby.	0	IN	A	37.209.198.10
 d.nic.rugby.	0	IN	AAAA	2001:dcd:4::10
-ruhr.	0	IN	NS	anycast9.irondns.net.
-ruhr.	0	IN	NS	anycast10.irondns.net.
-ruhr.	0	IN	NS	anycast23.irondns.net.
-ruhr.	0	IN	NS	anycast24.irondns.net.
+ruhr.	0	IN	NS	a.nic.ruhr.
+ruhr.	0	IN	NS	b.nic.ruhr.
+ruhr.	0	IN	NS	c.nic.ruhr.
+ruhr.	0	IN	NS	d.nic.ruhr.
 ruhr.	0	IN	DS	25131 10 2 ec453960c396742efa2ef815fa9c9dba146e838f86f11643704c1630424f4e78
+ruhr.	0	IN	DS	40422 10 2 74fb0b871adf46aab5d49a1eb3b8b0b7dda42c023dd045ec0282b6187b3b4cf7
+a.nic.ruhr.	0	IN	A	194.169.218.155
+a.nic.ruhr.	0	IN	AAAA	2001:67c:13cc::1:155
+b.nic.ruhr.	0	IN	A	185.24.64.155
+b.nic.ruhr.	0	IN	AAAA	2a04:2b00:13cc::1:155
+c.nic.ruhr.	0	IN	A	212.18.248.155
+c.nic.ruhr.	0	IN	AAAA	2a04:2b00:13ee::155
+d.nic.ruhr.	0	IN	A	212.18.249.155
+d.nic.ruhr.	0	IN	AAAA	2a04:2b00:13ff::155
 run.	0	IN	NS	v0n0.nic.run.
 run.	0	IN	NS	v0n1.nic.run.
 run.	0	IN	NS	v0n2.nic.run.
