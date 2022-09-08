@@ -17,7 +17,6 @@
 * `flowers.`
 * `game.`
 * `gdn.`
-* `gift.`
 * `gn.`
 * `guitars.`
 * `help.`
@@ -36,6 +35,7 @@
 * `pics.`
 * `pr.`
 * `se.`
+* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
