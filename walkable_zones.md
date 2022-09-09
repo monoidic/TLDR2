@@ -19,10 +19,8 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `help.`
 * `hosting.`
 * `id.`
-* `juegos.`
 * `kg.`
 * `ky.`
 * `lb.`
