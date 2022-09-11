@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2022091113 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2022091114 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1662902091"
+cd.	0	IN	TXT	"Generation Time: 1662905753"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -412,7 +412,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1662902092"
+ac.cd.	0	IN	TXT	"Generation Time: 1662905754"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -2700,8 +2700,8 @@ cachet-express.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 cachet-express.cd.	0	IN	NS	arch.ns.cloudflare.com.
 cad.cd.	0	IN	NS	ns10.ovh.net.
 cad.cd.	0	IN	NS	dns10.ovh.net.
-cadastre.cd.	0	IN	NS	ns3.european-server.com.
-cadastre.cd.	0	IN	NS	ns4.european-server.com.
+cadastre.cd.	0	IN	NS	ns1.dns.cd.
+cadastre.cd.	0	IN	NS	ns2.dns.cd.
 cadeco.cd.	0	IN	NS	ns3.gontcho.net.
 cadeco.cd.	0	IN	NS	ns4.gontcho.net.
 cadelu.cd.	0	IN	NS	ns1.mongwd.com.
@@ -3378,12 +3378,8 @@ cliniquesdesanges.cd.	0	IN	NS	dns2.lws-hosting.com.
 cliniquesdesanges.cd.	0	IN	NS	vps66588.serveur-vps.net.
 clone.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 clone.cd.	0	IN	NS	arch.ns.cloudflare.com.
-cloud.cd.	0	IN	NS	dns1.iidns.com.
-cloud.cd.	0	IN	NS	dns2.iidns.com.
-cloud.cd.	0	IN	NS	dns3.iidns.com.
-cloud.cd.	0	IN	NS	dns4.iidns.com.
-cloud.cd.	0	IN	NS	dns5.iidns.com.
-cloud.cd.	0	IN	NS	dns6.iidns.com.
+cloud.cd.	0	IN	NS	ns1.dns.cd.
+cloud.cd.	0	IN	NS	ns2.dns.cd.
 cloudcomputing.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 cloudcomputing.cd.	0	IN	NS	arch.ns.cloudflare.com.
 cloudcover.cd.	0	IN	NS	ns01.trademarkarea.com.
@@ -3546,7 +3542,7 @@ colruyt-export.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	0	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
-com.cd.	0	IN	TXT	"Generation Time: 1662902093"
+com.cd.	0	IN	TXT	"Generation Time: 1662905755"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -4208,10 +4204,18 @@ cvrdinternational.cd.	0	IN	NS	ironbird.cvrd.com.br.
 cvrdinternational.cd.	0	IN	NS	ironside.cvrd.com.br.
 cvrdinternational.cd.	0	IN	NS	ironbirdsbc.cvrd.com.br.
 cvrdinternational.cd.	0	IN	NS	ironsidesbc.cvrd.com.br.
+cyber-protection.cd.	0	IN	NS	ns1.dns.cd.
+cyber-protection.cd.	0	IN	NS	ns2.dns.cd.
+cyber-securite.cd.	0	IN	NS	ns1.dns.cd.
+cyber-securite.cd.	0	IN	NS	ns2.dns.cd.
+cyber-security.cd.	0	IN	NS	ns1.dns.cd.
+cyber-security.cd.	0	IN	NS	ns2.dns.cd.
 cybernet.cd.	0	IN	NS	ns1.webnetafrica.net.
 cybernet.cd.	0	IN	NS	ns2.webnetafrica.net.
 cybernet.cd.	0	IN	NS	ns11.infomaniak.ch.
 cybernet.cd.	0	IN	NS	ns12.infomaniak.ch.
+cyberprotection.cd.	0	IN	NS	ns1.dns.cd.
+cyberprotection.cd.	0	IN	NS	ns2.dns.cd.
 cybersecurite.cd.	0	IN	NS	ns1.servershost.net.
 cybersecurite.cd.	0	IN	NS	ns2.servershost.net.
 cybersecurity.cd.	0	IN	NS	val.ns.cloudflare.com.
@@ -4790,8 +4794,10 @@ drmartens.cd.	0	IN	NS	ns.domainnetwork.se.
 drmartens.cd.	0	IN	NS	ns2.domainnetwork.se.
 drolyilunga.cd.	0	IN	NS	ns1.ipcare.be.
 drolyilunga.cd.	0	IN	NS	ns2.ipcare.be.
-drone.cd.	0	IN	NS	ajay.ns.cloudflare.com.
-drone.cd.	0	IN	NS	arch.ns.cloudflare.com.
+drone.cd.	0	IN	NS	ns1.dns.cd.
+drone.cd.	0	IN	NS	ns2.dns.cd.
+drones.cd.	0	IN	NS	ns1.dns.cd.
+drones.cd.	0	IN	NS	ns2.dns.cd.
 dropbox.cd.	0	IN	NS	ns1.markmonitor.com.
 dropbox.cd.	0	IN	NS	ns2.markmonitor.com.
 dropbox.cd.	0	IN	NS	ns3.markmonitor.com.
@@ -5084,7 +5090,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1662902093"
+edu.cd.	0	IN	TXT	"Generation Time: 1662905755"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 egov.edu.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -6679,7 +6685,7 @@ gothere.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 gothere.cd.	0	IN	NS	arch.ns.cloudflare.com.
 gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
-gouv.cd.	0	IN	TXT	"Generation Time: 1662902095"
+gouv.cd.	0	IN	TXT	"Generation Time: 1662905757"
 acorep.gouv.cd.	0	IN	NS	ns1.acorep.gouv.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.acorep.gouv.cd.
 ns1.acorep.gouv.cd.	0	IN	A	75.119.139.203
@@ -6782,8 +6788,6 @@ finances.gouv.cd.	0	IN	NS	ns1.scpt-network.cd.
 finances.gouv.cd.	0	IN	NS	ns2.scpt-network.cd.
 fonafen.gouv.cd.	0	IN	NS	ns1.lewebmax.com.
 fonafen.gouv.cd.	0	IN	NS	ns2.lewebmax.com.
-foncier.gouv.cd.	0	IN	NS	ns1.ipsolutions.cd.
-foncier.gouv.cd.	0	IN	NS	ns2.ipsolutions.cd.
 fonctionpublique.gouv.cd.	0	IN	NS	ns1.webnetafrica.net.
 fonctionpublique.gouv.cd.	0	IN	NS	ns2.webnetafrica.net.
 formation.gouv.cd.	0	IN	NS	ns1.ipsolutions.cd.
@@ -6992,7 +6996,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1662902093"
+gov.cd.	0	IN	TXT	"Generation Time: 1662905755"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -11291,7 +11295,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1662902093"
+net.cd.	0	IN	TXT	"Generation Time: 1662905755"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -11992,7 +11996,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1662902093"
+org.cd.	0	IN	TXT	"Generation Time: 1662905755"
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
 csc.org.cd.	0	IN	NS	ns2.4levels.net.
 egov.org.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -12889,6 +12893,8 @@ protechsarl.cd.	0	IN	NS	ns3.gontcho.net.
 protechsarl.cd.	0	IN	NS	ns4.gontcho.net.
 protectedvillage.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 protectedvillage.cd.	0	IN	NS	arch.ns.cloudflare.com.
+protection.cd.	0	IN	NS	ns1.dns.cd.
+protection.cd.	0	IN	NS	ns2.dns.cd.
 protel.cd.	0	IN	NS	dns1.namecheaphosting.com.
 protel.cd.	0	IN	NS	dns2.namecheaphosting.com.
 protogaz.cd.	0	IN	NS	ns1.bluehost.com.
@@ -13244,8 +13250,8 @@ redtube.cd.	0	IN	NS	sdns3.ultradns.biz.
 redtube.cd.	0	IN	NS	sdns3.ultradns.com.
 redtube.cd.	0	IN	NS	sdns3.ultradns.net.
 redtube.cd.	0	IN	NS	sdns3.ultradns.org.
-reforme-fonciere.cd.	0	IN	NS	ns1.skylink243.net.
-reforme-fonciere.cd.	0	IN	NS	ns2.skylink243.net.
+reforme-fonciere.cd.	0	IN	NS	ns1.scpt-network.cd.
+reforme-fonciere.cd.	0	IN	NS	ns2.scpt-network.cd.
 regalcongo.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 regalcongo.cd.	0	IN	NS	arch.ns.cloudflare.com.
 regardinfos.cd.	0	IN	NS	ns1.monrespro.com.
@@ -13459,6 +13465,8 @@ roadmap.cd.	0	IN	NS	arch.ns.cloudflare.com.
 roadstar.cd.	0	IN	NS	ns1.dreamhost.com.
 roadstar.cd.	0	IN	NS	ns2.dreamhost.com.
 roadstar.cd.	0	IN	NS	ns3.dreamhost.com.
+robot.cd.	0	IN	NS	ns1.dns.cd.
+robot.cd.	0	IN	NS	ns2.dns.cd.
 robots.cd.	0	IN	NS	ns1.dns.cd.
 robots.cd.	0	IN	NS	ns2.dns.cd.
 robotshop.cd.	0	IN	NS	ns1.instradns.com.
@@ -13845,6 +13853,10 @@ securinet.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 securinet.cd.	0	IN	NS	arch.ns.cloudflare.com.
 securis.cd.	0	IN	NS	ns1.fklm.net.
 securis.cd.	0	IN	NS	ns2.fklm.net.
+securite.cd.	0	IN	NS	ns1.dns.cd.
+securite.cd.	0	IN	NS	ns2.dns.cd.
+security.cd.	0	IN	NS	ns1.dns.cd.
+security.cd.	0	IN	NS	ns2.dns.cd.
 seecrypt.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 seecrypt.cd.	0	IN	NS	arch.ns.cloudflare.com.
 seed.cd.	0	IN	NS	ajay.ns.cloudflare.com.
