@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1663077602 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1663081202 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -1639,6 +1639,8 @@ alumil.kg.	0	IN	NS	ns5.hoster.kg.
 alumil.kg.	0	IN	NS	ns6.hoster.kg.
 aluplast.kg.	0	IN	NS	ns1.is-fun.net.
 aluplast.kg.	0	IN	NS	ns2.is-fun.net.
+aluprof.kg.	0	IN	NS	slave3.cpanel.ihc.ru.
+aluprof.kg.	0	IN	NS	master3.cpanel.ihc.ru.
 alur-avto.kg.	0	IN	NS	ns1.cloud.kg.
 alur-avto.kg.	0	IN	NS	ns2.cloud.kg.
 alustar.kg.	0	IN	NS	ns1.truedomain.biz.
@@ -3633,8 +3635,6 @@ bdo.kg.	0	IN	NS	ns1.cloud.kg.
 bdo.kg.	0	IN	NS	ns2.cloud.kg.
 bearbeer.kg.	0	IN	NS	ns1.hostinger.kg.
 bearbeer.kg.	0	IN	NS	ns2.hostinger.kg.
-bearing.kg.	0	IN	NS	ns.prohost.kg.
-bearing.kg.	0	IN	NS	ns3.prohost.kg.
 bearingpoint.kg.	0	IN	NS	dns1.bearingpoint.com.
 bearingpoint.kg.	0	IN	NS	dns2.bearingpoint.com.
 bearingpoint.kg.	0	IN	NS	dns3.bearingpoint.com.
@@ -8791,6 +8791,9 @@ fix.kg.	0	IN	NS	ns1.timeweb.ru.
 fix.kg.	0	IN	NS	ns2.timeweb.ru.
 fix.kg.	0	IN	NS	ns3.timeweb.org.
 fix.kg.	0	IN	NS	ns4.timeweb.org.
+fix-master.kg.	0	IN	NS	ns.fix-master.kg.
+fix-master.kg.	0	IN	NS	ns2.fix-master.kg.
+ns.fix-master.kg.	0	IN	A	185.215.4.57
 fix-price.kg.	0	IN	NS	ns2-fwl2.nic.ru.
 fix-price.kg.	0	IN	NS	ns3-fwl2.nic.ru.
 fix-price.kg.	0	IN	NS	ns8-fwl2.nic.ru.
@@ -20668,6 +20671,8 @@ schweppes.kg.	0	IN	NS	ns3-09.azure-dns.org.
 schweppes.kg.	0	IN	NS	ns4-09.azure-dns.info.
 science-journal.kg.	0	IN	NS	as.asiainfo.kg.
 science-journal.kg.	0	IN	NS	ns.kg.
+scoring.kg.	0	IN	NS	ns1.truedomain.biz.
+scoring.kg.	0	IN	NS	ns2.truedomain.biz.
 scorista.kg.	0	IN	NS	ns1.scorista.ru.
 scorista.kg.	0	IN	NS	ns2.scorista.ru.
 screen.kg.	0	IN	NS	ns31.cloudns.net.
