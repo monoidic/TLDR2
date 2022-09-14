@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022091401 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022091402 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -15991,6 +15991,7 @@ u.nic.swiss.	0	IN	A	195.253.65.9
 u.nic.swiss.	0	IN	AAAA	2a01:5b0:5::9
 sx.	0	IN	NS	ns1.ns.sx.
 sx.	0	IN	NS	ns2.ns.sx.
+sx.	0	IN	DS	18379 8 2 4347640217ef8340c38cf28327de8bf0c8b3db7d30e5d62f04c29af24738f83f
 sx.	0	IN	DS	33922 8 2 9cc244663b10769f7a486d7ce8ad0928e0afd2b933947b626c69765b58dcefbe
 ns1.ns.sx.	0	IN	A	185.159.197.10
 ns1.ns.sx.	0	IN	AAAA	2620:10a:80aa::10
