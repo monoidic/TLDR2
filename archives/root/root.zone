@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022091501 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022091502 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -9080,8 +9080,6 @@ ke.	0	IN	NS	kenic.anycastdns.cz.
 ke.	0	IN	NS	mzizi.kenic.or.ke.
 ke.	0	IN	NS	ns-ke.afrinic.net.
 ke.	0	IN	NS	ns2ke.dns.business.
-ke.	0	IN	DS	41201 8 1 b058c8efcb0e064bff7fceaa28ecdfd6c09678db
-ke.	0	IN	DS	41201 8 2 e841ac6daf0f028b35f2f23ef025f0b2a11fe6953a87b36df354412cd218125e
 ns.anycast.kenic.or.ke.	0	IN	A	204.61.216.7
 ns.anycast.kenic.or.ke.	0	IN	AAAA	2001:500:14:6007:ad::1
 mzizi.kenic.or.ke.	0	IN	A	196.1.4.3
@@ -9377,11 +9375,8 @@ ky.	0	IN	NS	ns1.uniregistry.net.
 ky.	0	IN	NS	ns2.uniregistry.info.
 ky.	0	IN	NS	ns3.uniregistry.net.
 ky.	0	IN	NS	ns4.uniregistry.info.
-ky.	0	IN	DS	27566 5 1 4010bc344088a61a41a2654eb5197c2b62ea6f47
-ky.	0	IN	DS	27566 5 2 7e3c406a1ff89436fcc8899a0a86f8798d3eaab33018502f58f8328125b371f1
-ky.	0	IN	DS	34129 5 1 3d290f560a3ea7f4a6b77197654a974d3552156b
 ky.	0	IN	DS	34129 5 2 f486ada5c0d9d116be0ea60581f7dde048cb2e37d228801bc72f1b697972865e
-ky.	0	IN	DS	58174 5 1 907b467602b4dfc50c3243b7ce1d3e773a1882e2
+ky.	0	IN	DS	38821 13 2 7fc55d2cabba85a2ca6831aca0565a64d7ad91e4861b114f317392b680dc6cbc
 ky.	0	IN	DS	58174 5 2 627aa8ea8da2d3e569bed1e5b81349ca9a04c571990a764e1a5823db6f5db509
 kyoto.	0	IN	NS	a.gmoregistry.net.
 kyoto.	0	IN	NS	b.gmoregistry.net.
@@ -19854,8 +19849,6 @@ yandex.	0	IN	NS	ns1.uniregistry.net.
 yandex.	0	IN	NS	ns2.uniregistry.info.
 yandex.	0	IN	NS	ns3.uniregistry.net.
 yandex.	0	IN	NS	ns4.uniregistry.info.
-yandex.	0	IN	DS	37312 8 2 dbfce8ceb762071a15a946b22b2818965432ef6ca25fa3cfeb7e5715625774c0
-yandex.	0	IN	DS	43915 8 2 14567e2ea9a252e0a0bd301830edb16880568a8e6f2ba4ed076f128c8b554da1
 yandex.	0	IN	DS	50324 13 2 3f25b6eaf2b08861672673779cb294ce5154337b250da78fb9ed949a997c38df
 ye.	0	IN	NS	ns1.yemen.net.ye.
 ye.	0	IN	NS	ns2.yemen.net.ye.
