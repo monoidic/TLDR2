@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1663304402 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1663309802 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -7326,7 +7326,9 @@ ecsie.kg.	0	IN	NS	ns1.spaceweb.ru.
 ecsie.kg.	0	IN	NS	ns2.spaceweb.ru.
 ecv.kg.	0	IN	NS	ns5.hosting.reg.ru.
 ecv.kg.	0	IN	NS	ns6.hosting.reg.ru.
-ecycle.kg.	0	IN	NS	ns.kg.
+ecycle.kg.	0	IN	NS	gw.ecycle.kg.
+ecycle.kg.	0	IN	NS	www.ecycle.kg.
+gw.ecycle.kg.	0	IN	A	16.163.138.237
 ed.kg.	0	IN	NS	ns1.xserver.jp.
 ed.kg.	0	IN	NS	ns2.xserver.jp.
 ed.kg.	0	IN	NS	ns3.xserver.jp.
@@ -8823,9 +8825,8 @@ fix.kg.	0	IN	NS	ns1.timeweb.ru.
 fix.kg.	0	IN	NS	ns2.timeweb.ru.
 fix.kg.	0	IN	NS	ns3.timeweb.org.
 fix.kg.	0	IN	NS	ns4.timeweb.org.
-fix-master.kg.	0	IN	NS	ns.fix-master.kg.
-fix-master.kg.	0	IN	NS	ns2.fix-master.kg.
-ns.fix-master.kg.	0	IN	A	185.215.4.57
+fix-master.kg.	0	IN	NS	ns1.tildadns.com.
+fix-master.kg.	0	IN	NS	ns2.tildadns.com.
 fix-price.kg.	0	IN	NS	ns2-fwl2.nic.ru.
 fix-price.kg.	0	IN	NS	ns3-fwl2.nic.ru.
 fix-price.kg.	0	IN	NS	ns8-fwl2.nic.ru.
@@ -14799,6 +14800,7 @@ maimai.kg.	0	IN	NS	ns1.fozzy.com.
 maimai.kg.	0	IN	NS	ns2.fozzy.com.
 majorlingua.kg.	0	IN	NS	ns5.hoster.kg.
 majorlingua.kg.	0	IN	NS	ns6.hoster.kg.
+mak.kg.	0	IN	NS	ns.kg.
 makao.kg.	0	IN	NS	ns1.netim.net.
 makao.kg.	0	IN	NS	ns2.netim.net.
 makao.kg.	0	IN	NS	ns3.netim.net.
