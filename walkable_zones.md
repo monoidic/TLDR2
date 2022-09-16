@@ -22,7 +22,6 @@
 * `hosting.`
 * `id.`
 * `kg.`
-* `ky.`
 * `lb.`
 * `lk.`
 * `lol.`
