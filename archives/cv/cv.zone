@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022091501 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022091901 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -3754,8 +3754,10 @@ elo.cv.	0	IN	NS	dns2013a.trouble-free.net.
 elo.cv.	0	IN	NS	dns2013b.trouble-free.net.
 eltur.cv.	0	IN	NS	ns7.securenet-server.net.
 eltur.cv.	0	IN	NS	ns8.securenet-server.net.
-elv.cv.	0	IN	NS	ns1.vercel-dns.com.
-elv.cv.	0	IN	NS	ns2.vercel-dns.com.
+elv.cv.	0	IN	NS	ns1-38.azure-dns.com.
+elv.cv.	0	IN	NS	ns2-38.azure-dns.net.
+elv.cv.	0	IN	NS	ns3-38.azure-dns.org.
+elv.cv.	0	IN	NS	ns4-38.azure-dns.info.
 ema.cv.	0	IN	NS	r5a.gigilist.com.
 ema.cv.	0	IN	NS	r5b.gigilist.com.
 emais.cv.	0	IN	NS	ns37.domaincontrol.com.
