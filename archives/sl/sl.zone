@@ -1,7 +1,7 @@
-sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915035304 600 900 7200 3600
+sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915035312 600 900 7200 3600
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sl.	0	IN	TXT	"Generation Time: 1663561807"
+sl.	0	IN	TXT	"Generation Time: 1663568114"
 sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvuehEkD2q048nkEqAHEiL+r8ggxV+t+SIyTwWKU3OkkQdHzCUpEEK5nVE2CIyjidqMxC99aAA5fSJH+oQexm6/gh9gSvd6Xmudu2mNbHH72Gvg6iJ88ODrlu184vYzg95xtNN7Mw1Vljq/1voHFzdy0SrB6HP7H+PrnO773Lc8u7bt/FgWd0h4/BWxdoK2iyeG2sqO6CoLmAikSBrXeCN59PixOsJgLo9Wyp8UC6LXIS8veSZ6/AgtyR9F+r3I5VexjQzdjr8DcyOpym/cfSq0UudakoLIsrAy9Ji1M= ;{id = 14507 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
@@ -1872,6 +1872,10 @@ gisl.sl.	0	IN	NS	ns2.nic.sl.
 glaxosmithkline.sl.	0	IN	NS	dns1.safenames.com.
 glaxosmithkline.sl.	0	IN	NS	dns2.safenames.net.
 glaxosmithkline.sl.	0	IN	NS	dns3.safenames.org.
+glfm.sl.	0	IN	NS	ns1.web4africa.com.
+glfm.sl.	0	IN	NS	ns2.web4africa.com.
+glfm.sl.	0	IN	NS	ns3.web4africa.com.
+glfm.sl.	0	IN	NS	ns4.web4africa.com.
 globallcp.sl.	0	IN	NS	ns31.domaincontrol.com.
 globallcp.sl.	0	IN	NS	ns32.domaincontrol.com.
 globalsouthinvestment.sl.	0	IN	NS	ns1.afcom.sl.
@@ -2239,6 +2243,9 @@ insight.sl.	0	IN	NS	ns8.wixdns.net.
 insight.sl.	0	IN	NS	ns9.wixdns.net.
 insight-technologies.sl.	0	IN	NS	cns423.hostgator.com.
 insight-technologies.sl.	0	IN	NS	cns424.hostgator.com.
+instabee.sl.	0	IN	NS	ns1.netim.net.
+instabee.sl.	0	IN	NS	ns2.netim.net.
+instabee.sl.	0	IN	NS	ns3.netim.net.
 instagram.sl.	0	IN	NS	a.ns.facebook.com.
 instagram.sl.	0	IN	NS	b.ns.facebook.com.
 instagram.sl.	0	IN	NS	c.ns.facebook.com.
@@ -2277,6 +2284,8 @@ iptel.sl.	0	IN	NS	ns03.domaincontrol.com.
 iptel.sl.	0	IN	NS	ns04.domaincontrol.com.
 iqoo.sl.	0	IN	NS	ns1.brandcloudns.com.
 iqoo.sl.	0	IN	NS	ns2.brandcloudns.com.
+iqrabit.sl.	0	IN	NS	ns1.nic.sl.
+iqrabit.sl.	0	IN	NS	ns2.nic.sl.
 ircbp.sl.	0	IN	NS	ns1.blyden.com.
 ircbp.sl.	0	IN	NS	ns2.blyden.com.
 ircbp.sl.	0	IN	NS	ns17.ixwebhosting.com.
@@ -4188,6 +4197,8 @@ spclcn.sl.	0	IN	NS	ns2.101domain.com.
 spclcn.sl.	0	IN	NS	ns5.101domain.com.
 specialenvoy.sl.	0	IN	NS	ns27.domaincontrol.com.
 specialenvoy.sl.	0	IN	NS	ns28.domaincontrol.com.
+spectrumbundle.sl.	0	IN	NS	170.ns1.above.com.
+spectrumbundle.sl.	0	IN	NS	170.ns2.above.com.
 speti.sl.	0	IN	NS	ns1.bluehost.com.
 speti.sl.	0	IN	NS	ns2.bluehost.com.
 spikevax.sl.	0	IN	NS	ns1.markmonitor.com.
@@ -4636,8 +4647,9 @@ underberg.sl.	0	IN	NS	dns.globvill.de.
 underberg.sl.	0	IN	NS	dns.globvill.ruhr.
 unesco.sl.	0	IN	NS	ns3.infinitehorizon.biz.
 unesco.sl.	0	IN	NS	ns4.infinitehorizon.biz.
-unhcr.sl.	0	IN	NS	ns1.brandshelter.com.
-unhcr.sl.	0	IN	NS	ns2.brandshelter.de.
+unhcr.sl.	0	IN	NS	ns3.brandshelter.info.
+unhcr.sl.	0	IN	NS	ns4.brandshelter.net.
+unhcr.sl.	0	IN	NS	ns5.brandshelter.us.
 unieuro.sl.	0	IN	NS	ns1.register.it.
 unieuro.sl.	0	IN	NS	ns2.register.it.
 unimak.sl.	0	IN	NS	cns323.hostgator.com.
