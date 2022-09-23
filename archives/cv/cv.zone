@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022092201 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022092301 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -6505,7 +6505,11 @@ ciiclaa.org.cv.	0	IN	NS	ns1.webhostingpad.com.
 ciiclaa.org.cv.	0	IN	NS	ns2.webhostingpad.com.
 cndhc.org.cv.	0	IN	NS	ns7.securenet-server.net.
 cndhc.org.cv.	0	IN	NS	ns8.securenet-server.net.
-colmeiaapa.org.cv.	0	IN	NS	ns1.servconfig.com.
+colmeiaapa.org.cv.	0	IN	A	45.154.66.253
+colmeiaapa.org.cv.	0	IN	NS	ns1.wtservers.com.
+colmeiaapa.org.cv.	0	IN	NS	ns2.wtservers.com.
+colmeiaapa.org.cv.	0	IN	NS	ns3.wtservers.com.
+colmeiaapa.org.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 condominioatlantico2.org.cv.	0	IN	NS	ns1000.mochahost.com.
 condominioatlantico2.org.cv.	0	IN	NS	ns2000.mochahost.com.
 cruzvermelha.org.cv.	0	IN	NS	ns1.a2hosting.com.
