@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022092600 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022092601 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -3268,6 +3268,7 @@ ci.	0	IN	NS	ns.nic.ci.
 ci.	0	IN	NS	any.nic.ci.
 ci.	0	IN	NS	ns-ci.afrinic.net.
 ci.	0	IN	NS	phloem.uoregon.edu.
+ci.	0	IN	DS	60224 8 2 0fb751f1b2230b9ef643ddce8c30acd1e7cc20fa7d52346ca074a32b8f01c686
 any.nic.ci.	0	IN	A	204.61.216.120
 any.nic.ci.	0	IN	AAAA	2001:500:14:6120:ad::1
 ns.nic.ci.	0	IN	A	196.49.0.84
