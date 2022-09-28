@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022092802 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022092803 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -247,6 +247,7 @@ ad.	0	IN	NS	ad.cctld.authdns.ripe.net.
 ad.	0	IN	NS	ns3.nic.fr.
 ad.	0	IN	NS	dnsc.ad.
 ad.	0	IN	NS	dnsm.ad.
+ad.	0	IN	DS	10624 8 2 732ac3921e40eac6c01b0c467beda420f42bf38b7c462e86d01d1d2c4eb9da37
 ad.	0	IN	DS	53911 8 2 9631077f41ae2be107b3f4f132c603f1d1d3217dd2c3f95380f3bad850618717
 dnsc.ad.	0	IN	A	194.158.74.10
 dnsc.ad.	0	IN	AAAA	2a02:8060:32fa::b
@@ -13030,15 +13031,23 @@ b2.nic.pink.	0	IN	A	65.22.31.21
 b2.nic.pink.	0	IN	AAAA	2a01:8840:21::21
 c0.nic.pink.	0	IN	A	65.22.30.17
 c0.nic.pink.	0	IN	AAAA	2a01:8840:20::17
-pioneer.	0	IN	NS	ns1.nominetdns.uk.
-pioneer.	0	IN	NS	ns2.nominetdns.uk.
 pioneer.	0	IN	NS	ns3.nominetdns.uk.
 pioneer.	0	IN	NS	ns4.nominetdns.uk.
-pioneer.	0	IN	NS	nsa.nominetdns.uk.
-pioneer.	0	IN	NS	nsb.nominetdns.uk.
 pioneer.	0	IN	NS	nsc.nominetdns.uk.
 pioneer.	0	IN	NS	nsd.nominetdns.uk.
+pioneer.	0	IN	NS	dns1.nic.pioneer.
+pioneer.	0	IN	NS	dns2.nic.pioneer.
+pioneer.	0	IN	NS	dnsa.nic.pioneer.
+pioneer.	0	IN	NS	dnsb.nic.pioneer.
 pioneer.	0	IN	DS	52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
+dns1.nic.pioneer.	0	IN	A	213.248.219.126
+dns1.nic.pioneer.	0	IN	AAAA	2a01:618:403::126
+dns2.nic.pioneer.	0	IN	A	103.49.83.126
+dns2.nic.pioneer.	0	IN	AAAA	2401:fd80:403::126
+dnsa.nic.pioneer.	0	IN	A	156.154.100.3
+dnsa.nic.pioneer.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.pioneer.	0	IN	A	156.154.101.3
+dnsb.nic.pioneer.	0	IN	AAAA	2001:502:2eda::3
 pizza.	0	IN	NS	v0n0.nic.pizza.
 pizza.	0	IN	NS	v0n1.nic.pizza.
 pizza.	0	IN	NS	v0n2.nic.pizza.
@@ -17197,18 +17206,10 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
-ns1.nominetdns.uk.	0	IN	A	213.248.219.126
-ns1.nominetdns.uk.	0	IN	AAAA	2a01:618:403::126
-ns2.nominetdns.uk.	0	IN	A	103.49.83.126
-ns2.nominetdns.uk.	0	IN	AAAA	2401:fd80:403::126
 ns3.nominetdns.uk.	0	IN	A	213.248.223.126
 ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::126
 ns4.nominetdns.uk.	0	IN	A	43.230.51.126
 ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::126
-nsa.nominetdns.uk.	0	IN	A	156.154.100.3
-nsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
-nsb.nominetdns.uk.	0	IN	A	156.154.101.3
-nsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
 nsc.nominetdns.uk.	0	IN	A	156.154.102.3
 nsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
 nsd.nominetdns.uk.	0	IN	A	156.154.103.3
