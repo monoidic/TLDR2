@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022092901 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022092902 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -9036,7 +9036,7 @@ jprs.	0	IN	NS	tld2.nic.jprs.
 jprs.	0	IN	NS	tld3.nic.jprs.
 jprs.	0	IN	NS	tld4.nic.jprs.
 jprs.	0	IN	NS	tld5.nic.jprs.
-jprs.	0	IN	DS	25369 8 2 654ca436572d76955336c114c2d9ddc997fd9ba77f7c31969ba86f6b10e45a35
+jprs.	0	IN	DS	37444 8 2 77aa8b5ceda1af87b2b11b4549263b915d1a8b571838047eba7cbb9dca51f4ac
 tld1.nic.jprs.	0	IN	A	103.47.2.1
 tld1.nic.jprs.	0	IN	AAAA	2001:dda::1
 tld2.nic.jprs.	0	IN	A	117.104.133.16
@@ -14376,9 +14376,8 @@ sa.	0	IN	NS	s2.dns.sa.
 sa.	0	IN	NS	sh1.dns.sa.
 sa.	0	IN	DS	51091 8 2 884f556d23ca7c53d5546b3fe49e2c5aa147b0f6d65c91c096b13c085b3f9a64
 c1.dns.sa.	0	IN	A	86.111.192.9
-c1.dns.sa.	0	IN	AAAA	2001:67c:130:410::9
+c1.dns.sa.	0	IN	AAAA	2001:67c:18c8:c0::c1
 c2.dns.sa.	0	IN	A	86.111.196.9
-c2.dns.sa.	0	IN	AAAA	2001:67c:130:10::9
 i1.dns.sa.	0	IN	A	212.138.118.118
 i1.dns.sa.	0	IN	AAAA	2001:1490:0:800::118
 n1.dns.sa.	0	IN	A	194.146.106.102
