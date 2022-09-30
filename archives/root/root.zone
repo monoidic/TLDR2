@@ -9238,6 +9238,7 @@ v2n1.nic.kitchen.	0	IN	AAAA	2a01:8840:fb::17
 kiwi.	0	IN	NS	a.ns.nic.kiwi.
 kiwi.	0	IN	NS	b.ns.nic.kiwi.
 kiwi.	0	IN	DS	12991 8 2 71a292f6e0a98bc31a0cfe683f33d49ca6d7ff7a7740b2aa0d4bb54059367e48
+kiwi.	0	IN	DS	30184 8 2 72600ee2c5f82b9d0637cc4724b654d459051ca9b761380c126d926cb70a5002
 a.ns.nic.kiwi.	0	IN	A	185.159.197.1
 a.ns.nic.kiwi.	0	IN	AAAA	2620:10a:80aa::1
 b.ns.nic.kiwi.	0	IN	A	185.159.198.1
@@ -13037,17 +13038,29 @@ pioneer.	0	IN	NS	nsc.nominetdns.uk.
 pioneer.	0	IN	NS	nsd.nominetdns.uk.
 pioneer.	0	IN	NS	dns1.nic.pioneer.
 pioneer.	0	IN	NS	dns2.nic.pioneer.
+pioneer.	0	IN	NS	dns3.nic.pioneer.
+pioneer.	0	IN	NS	dns4.nic.pioneer.
 pioneer.	0	IN	NS	dnsa.nic.pioneer.
 pioneer.	0	IN	NS	dnsb.nic.pioneer.
+pioneer.	0	IN	NS	dnsc.nic.pioneer.
+pioneer.	0	IN	NS	dnsd.nic.pioneer.
 pioneer.	0	IN	DS	52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
 dns1.nic.pioneer.	0	IN	A	213.248.219.126
 dns1.nic.pioneer.	0	IN	AAAA	2a01:618:403::126
 dns2.nic.pioneer.	0	IN	A	103.49.83.126
 dns2.nic.pioneer.	0	IN	AAAA	2401:fd80:403::126
+dns3.nic.pioneer.	0	IN	A	213.248.223.126
+dns3.nic.pioneer.	0	IN	AAAA	2a01:618:407::126
+dns4.nic.pioneer.	0	IN	A	43.230.51.126
+dns4.nic.pioneer.	0	IN	AAAA	2401:fd80:407::126
 dnsa.nic.pioneer.	0	IN	A	156.154.100.3
 dnsa.nic.pioneer.	0	IN	AAAA	2001:502:ad09::3
 dnsb.nic.pioneer.	0	IN	A	156.154.101.3
 dnsb.nic.pioneer.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nic.pioneer.	0	IN	A	156.154.102.3
+dnsc.nic.pioneer.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.pioneer.	0	IN	A	156.154.103.3
+dnsd.nic.pioneer.	0	IN	AAAA	2610:a1:1010::3
 pizza.	0	IN	NS	v0n0.nic.pizza.
 pizza.	0	IN	NS	v0n1.nic.pizza.
 pizza.	0	IN	NS	v0n2.nic.pizza.
