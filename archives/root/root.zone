@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100301 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100302 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -14378,6 +14378,8 @@ ryukyu.	0	IN	DS	52505 8 2 a19f9645f1832c3a1550f695dba8f68e26daa32be47967f71b29a4
 sa.	0	IN	NS	c1.dns.sa.
 sa.	0	IN	NS	c2.dns.sa.
 sa.	0	IN	NS	i1.dns.sa.
+sa.	0	IN	NS	m1.dns.sa.
+sa.	0	IN	NS	m2.dns.sa.
 sa.	0	IN	NS	n1.dns.sa.
 sa.	0	IN	NS	p1.dns.sa.
 sa.	0	IN	NS	s1.dns.sa.
@@ -14389,6 +14391,10 @@ c1.dns.sa.	0	IN	AAAA	2001:67c:18c8:c0::c1
 c2.dns.sa.	0	IN	A	86.111.196.9
 i1.dns.sa.	0	IN	A	212.138.118.118
 i1.dns.sa.	0	IN	AAAA	2001:1490:0:800::118
+m1.dns.sa.	0	IN	A	86.51.77.213
+m1.dns.sa.	0	IN	AAAA	2a02:ce0:1:30::5
+m2.dns.sa.	0	IN	A	86.51.28.37
+m2.dns.sa.	0	IN	AAAA	2a02:ce0:1:91::5
 n1.dns.sa.	0	IN	A	194.146.106.102
 n1.dns.sa.	0	IN	AAAA	2001:67c:1010:26::53
 p1.dns.sa.	0	IN	A	204.61.216.41
