@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100401 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100402 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1420,6 +1420,7 @@ barclaycard.	0	IN	NS	a.nic.barclaycard.
 barclaycard.	0	IN	NS	b.nic.barclaycard.
 barclaycard.	0	IN	NS	c.nic.barclaycard.
 barclaycard.	0	IN	NS	d.nic.barclaycard.
+barclaycard.	0	IN	DS	8476 8 2 5ff69331a1fe54d3d3ea6f4b746444c19c1e61813ac3902e099cb25c369a39c4
 barclaycard.	0	IN	DS	15487 8 2 f3f929e2a6d96201b95a077cecbd5233bf2e5c7e1f85ead8f68e7971d1c9590d
 a.nic.barclaycard.	0	IN	A	37.209.192.9
 a.nic.barclaycard.	0	IN	AAAA	2001:dcd:1::9
@@ -1434,6 +1435,7 @@ barclays.	0	IN	NS	b.nic.barclays.
 barclays.	0	IN	NS	c.nic.barclays.
 barclays.	0	IN	NS	d.nic.barclays.
 barclays.	0	IN	DS	49234 8 2 ff3019bb346929fd7c7c18d11695b7d167027455605a9a3f0c9a0d34dc658e44
+barclays.	0	IN	DS	52234 8 2 616f95c6929bd5fbf6a06a38445f48ca787b2c32ca5ed7220065df54e71e9ef8
 a.nic.barclays.	0	IN	A	37.209.192.9
 a.nic.barclays.	0	IN	AAAA	2001:dcd:1::9
 b.nic.barclays.	0	IN	A	37.209.194.9
@@ -11305,7 +11307,6 @@ na.	0	IN	NS	na.anycastdns.cz.
 na.	0	IN	NS	anyc2.irondns.net.
 na.	0	IN	NS	na-ns.anycast.pch.net.
 na.	0	IN	NS	etld-1.anycast.net.
-na.	0	IN	DS	25076 5 1 e3273b3172968f416bceadf4620a18c85abb6dc5
 na.	0	IN	DS	25079 8 1 d5c3a25b87b2df366abc88e63fb5832b171ee8dc
 na.	0	IN	DS	25079 8 2 eae8c2767c1c52c78b844247a31b0ef44988782cb5517d502983ba75de98a627
 nab.	0	IN	NS	ac1.nstld.com.
