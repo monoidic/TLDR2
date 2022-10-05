@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100500 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100501 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -2661,19 +2661,6 @@ v2n0.nic.camp.	0	IN	A	65.22.31.51
 v2n0.nic.camp.	0	IN	AAAA	2a01:8840:21::51
 v2n1.nic.camp.	0	IN	A	161.232.15.51
 v2n1.nic.camp.	0	IN	AAAA	2a01:8840:f9::51
-cancerresearch.	0	IN	NS	a.nic.cancerresearch.
-cancerresearch.	0	IN	NS	b.nic.cancerresearch.
-cancerresearch.	0	IN	NS	c.nic.cancerresearch.
-cancerresearch.	0	IN	NS	d.nic.cancerresearch.
-cancerresearch.	0	IN	DS	33052 8 2 141a6f66ee2fef2c83ad1d2620ec21b25034c99ddd47f874d62bb8875fd23e40
-a.nic.cancerresearch.	0	IN	A	37.209.192.9
-a.nic.cancerresearch.	0	IN	AAAA	2001:dcd:1::9
-b.nic.cancerresearch.	0	IN	A	37.209.194.9
-b.nic.cancerresearch.	0	IN	AAAA	2001:dcd:2::9
-c.nic.cancerresearch.	0	IN	A	37.209.196.9
-c.nic.cancerresearch.	0	IN	AAAA	2001:dcd:3::9
-d.nic.cancerresearch.	0	IN	A	37.209.198.9
-d.nic.cancerresearch.	0	IN	AAAA	2001:dcd:4::9
 canon.	0	IN	NS	a.gmoregistry.net.
 canon.	0	IN	NS	b.gmoregistry.net.
 canon.	0	IN	NS	k.gmoregistry.net.
@@ -9240,7 +9227,6 @@ v2n1.nic.kitchen.	0	IN	A	161.232.17.17
 v2n1.nic.kitchen.	0	IN	AAAA	2a01:8840:fb::17
 kiwi.	0	IN	NS	a.ns.nic.kiwi.
 kiwi.	0	IN	NS	b.ns.nic.kiwi.
-kiwi.	0	IN	DS	12991 8 2 71a292f6e0a98bc31a0cfe683f33d49ca6d7ff7a7740b2aa0d4bb54059367e48
 kiwi.	0	IN	DS	30184 8 2 72600ee2c5f82b9d0637cc4724b654d459051ca9b761380c126d926cb70a5002
 a.ns.nic.kiwi.	0	IN	A	185.159.197.1
 a.ns.nic.kiwi.	0	IN	AAAA	2620:10a:80aa::1
