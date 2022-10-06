@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100601 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022100602 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -8025,8 +8025,8 @@ hu.	0	IN	NS	e.hu.
 hu.	0	IN	NS	ns2.nic.fr.
 hu.	0	IN	NS	ns-com.nic.hu.
 hu.	0	IN	DS	2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e551105ebac5
-a.hu.	0	IN	A	193.239.148.1
-a.hu.	0	IN	AAAA	2a00:e6a0:3:1402::1
+a.hu.	0	IN	A	5.28.0.97
+a.hu.	0	IN	AAAA	2a00:e6a0:3:1014::97
 b.hu.	0	IN	A	193.239.149.161
 b.hu.	0	IN	AAAA	2001:738:4:4000::3
 c.hu.	0	IN	A	195.111.1.92
@@ -19340,6 +19340,8 @@ d.nic.xn--mgbcpq6gpa1a.	0	IN	AAAA	2a04:2b00:13ff::115
 xn--mgberp4a5d4ar.	0	IN	NS	c1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	c2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	i1.dns.sa.
+xn--mgberp4a5d4ar.	0	IN	NS	m1.dns.sa.
+xn--mgberp4a5d4ar.	0	IN	NS	m2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s1.dns.sa.
