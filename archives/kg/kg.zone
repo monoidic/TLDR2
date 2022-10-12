@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1665554402 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1665558002 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -209,6 +209,8 @@ ns1.20.kg.	0	IN	A	116.202.115.112
 3.kg.	0	IN	NS	ns2.linode.com.
 312.kg.	0	IN	NS	ns1.firstvds.ru.
 312.kg.	0	IN	NS	ns2.firstvds.ru.
+312-security.kg.	0	IN	NS	ns5.hoster.kg.
+312-security.kg.	0	IN	NS	ns6.hoster.kg.
 312tv.kg.	0	IN	NS	dns1.yandex.net.
 312tv.kg.	0	IN	NS	dns2.yandex.net.
 313.kg.	0	IN	NS	ns1.cloud.kg.
@@ -17808,10 +17810,10 @@ optom.kg.	0	IN	NS	ns2.beget.com.
 optom.kg.	0	IN	NS	ns2.beget.pro.
 optompro.kg.	0	IN	NS	ns1.sprinthost.ru.
 optompro.kg.	0	IN	NS	ns2.sprinthost.ru.
-optovik.kg.	0	IN	NS	ns1.timeweb.ru.
-optovik.kg.	0	IN	NS	ns2.timeweb.ru.
-optovik.kg.	0	IN	NS	ns3.timeweb.org.
-optovik.kg.	0	IN	NS	ns4.timeweb.org.
+optovik.kg.	0	IN	NS	ns1.beget.com.
+optovik.kg.	0	IN	NS	ns1.beget.pro.
+optovik.kg.	0	IN	NS	ns2.beget.com.
+optovik.kg.	0	IN	NS	ns2.beget.pro.
 or.kg.	0	IN	NS	ns1.xserver.jp.
 or.kg.	0	IN	NS	ns2.xserver.jp.
 or.kg.	0	IN	NS	ns3.xserver.jp.
