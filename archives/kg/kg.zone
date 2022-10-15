@@ -1,4 +1,4 @@
-kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1665819003 1800 600 604800 86400
+kg.	0	IN	SOA	ns.kg. adm.infotel.kg. 1665824402 1800 600 604800 86400
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -56,8 +56,8 @@ kg.	0	IN	DNSKEY	257 3 8 AwEAAebLPAhyONUrCidoxPKNSIilh4YcvqDuP+JJHsMikVAiIlRMhIJW
 1111.kg.	0	IN	NS	dns2.fastdns24.org.
 1111.kg.	0	IN	NS	dns3.fastdns24.eu.
 1111.kg.	0	IN	NS	dns4.fastdns24.link.
-12.kg.	0	IN	NS	mia.ns.cloudflare.com.
-12.kg.	0	IN	NS	yichun.ns.cloudflare.com.
+12.kg.	0	IN	NS	ns1.gcorelabs.net.
+12.kg.	0	IN	NS	ns2.gcdn.services.
 1200-yandextaxi.kg.	0	IN	NS	ns1.sprinthost.ru.
 1200-yandextaxi.kg.	0	IN	NS	ns2.sprinthost.ru.
 1200-yandextaxi.kg.	0	IN	NS	ns3.sprinthost.net.
@@ -2577,6 +2577,8 @@ astrahim.kg.	0	IN	NS	ns1.nsalt.net.
 astrahim.kg.	0	IN	NS	ns2.nsalt.net.
 astrakom.kg.	0	IN	NS	ns1.astrakom.kg.
 astrakom.kg.	0	IN	NS	ns2.astrakom.kg.
+ns1.astrakom.kg.	0	IN	A	176.126.164.32
+ns2.astrakom.kg.	0	IN	A	176.126.164.36
 astralpool.kg.	0	IN	NS	ns1.aquaengineering.kz.
 astralpool.kg.	0	IN	NS	ns2.aquaengineering.kz.
 astudio.kg.	0	IN	NS	ns1.timeweb.ru.
@@ -4311,8 +4313,6 @@ bitso.kg.	0	IN	NS	ns3.markmonitor.com.
 bitso.kg.	0	IN	NS	ns4.markmonitor.com.
 bitubi.kg.	0	IN	NS	ns2.yandex.net.
 bitubi.kg.	0	IN	NS	dns1.yandex.net.
-bitum.kg.	0	IN	NS	ns1.ps.kz.
-bitum.kg.	0	IN	NS	ns2.ps.kz.
 bitzer.kg.	0	IN	NS	dns1.lf.net.
 bitzer.kg.	0	IN	NS	dns2.lf.net.
 bitzer.kg.	0	IN	NS	dns3.lf.net.
