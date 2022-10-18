@@ -10,6 +10,7 @@
 * `arpa.` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `c.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
+* `arpa.` via `e.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `f.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `g.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `k.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
