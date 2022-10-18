@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022101801 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022101802 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -12212,6 +12212,7 @@ obi.	0	IN	NS	ac1.nstld.com.
 obi.	0	IN	NS	ac2.nstld.com.
 obi.	0	IN	NS	ac3.nstld.com.
 obi.	0	IN	NS	ac4.nstld.com.
+obi.	0	IN	DS	26464 8 2 540d7e7cb6f111d9ea048e3801806a4814b6c1dd229f3a2414aae8facce3cb13
 obi.	0	IN	DS	58578 8 2 8832df186f8c865bcb5d09023842e84a3e6ba037524d727d4b3770268bdf545d
 observer.	0	IN	NS	v0n0.nic.observer.
 observer.	0	IN	NS	v0n1.nic.observer.
@@ -19180,7 +19181,6 @@ xn--kput3i.	0	IN	NS	ns2.teleinfoo.com.
 xn--kput3i.	0	IN	NS	ns3.teleinfo.cn.
 xn--kput3i.	0	IN	NS	ns4.teleinfoo.com.
 xn--kput3i.	0	IN	DS	27565 8 2 a00d06ba7171102d9575f47af108b70ff9e24ce0d2ed3ad8f8923f14bb58f217
-xn--kput3i.	0	IN	DS	52711 8 2 5f79e365d1534c004a0b4ca879766111accb9350241c0de57cdff36ab8cf87f1
 xn--l1acc.	0	IN	NS	ns1.idn.mn.
 xn--l1acc.	0	IN	NS	ns2.idn.mn.
 xn--l1acc.	0	IN	NS	ns3.idn.mn.
