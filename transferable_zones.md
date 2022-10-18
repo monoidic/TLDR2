@@ -22,7 +22,6 @@
 * `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
-* `kg.` via `ns2.kg.`: [Click here to view zone data.](archives/kg/kg.zone)
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
