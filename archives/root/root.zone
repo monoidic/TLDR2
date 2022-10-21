@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022102101 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022102102 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -9484,13 +9484,18 @@ b0.nic.lasalle.	0	IN	A	65.22.149.1
 b0.nic.lasalle.	0	IN	AAAA	2a01:8840:93::1
 c0.nic.lasalle.	0	IN	A	65.22.150.1
 c0.nic.lasalle.	0	IN	AAAA	2a01:8840:94::1
-lat.	0	IN	NS	c.mx-ns.mx.
+lat.	0	IN	NS	a.nic.lat.
+lat.	0	IN	NS	b.nic.lat.
 lat.	0	IN	NS	e.mx-ns.mx.
 lat.	0	IN	NS	i.mx-ns.mx.
 lat.	0	IN	NS	m.mx-ns.mx.
 lat.	0	IN	NS	o.mx-ns.mx.
-lat.	0	IN	NS	x.mx-ns.mx.
 lat.	0	IN	DS	961 8 2 d87e3ee5babaa5dbf51c4af462d2670be2b702a2972903ae27bee9ba64413973
+lat.	0	IN	DS	42520 8 2 fae20127b971e74d949e113cd4d738f82d6d53c5091b76cda93a5877554df1f4
+a.nic.lat.	0	IN	A	194.169.218.156
+a.nic.lat.	0	IN	AAAA	2001:67c:13cc::1:156
+b.nic.lat.	0	IN	A	185.24.64.156
+b.nic.lat.	0	IN	AAAA	2a04:2b00:13cc::1:156
 latino.	0	IN	NS	a0.nic.latino.
 latino.	0	IN	NS	a2.nic.latino.
 latino.	0	IN	NS	b0.nic.latino.
@@ -12208,12 +12213,20 @@ ns7.dns.net.nz.	0	IN	A	194.146.106.54
 ns7.dns.net.nz.	0	IN	AAAA	2001:67c:1010:13::53
 ns99.dns.net.nz.	0	IN	A	202.46.190.131
 ns99.dns.net.nz.	0	IN	AAAA	2001:dce:2000:2::131
-obi.	0	IN	NS	ac1.nstld.com.
-obi.	0	IN	NS	ac2.nstld.com.
-obi.	0	IN	NS	ac3.nstld.com.
-obi.	0	IN	NS	ac4.nstld.com.
+obi.	0	IN	NS	a0.nic.obi.
+obi.	0	IN	NS	a2.nic.obi.
+obi.	0	IN	NS	b0.nic.obi.
+obi.	0	IN	NS	c0.nic.obi.
 obi.	0	IN	DS	26464 8 2 540d7e7cb6f111d9ea048e3801806a4814b6c1dd229f3a2414aae8facce3cb13
 obi.	0	IN	DS	58578 8 2 8832df186f8c865bcb5d09023842e84a3e6ba037524d727d4b3770268bdf545d
+a0.nic.obi.	0	IN	A	65.22.112.17
+a0.nic.obi.	0	IN	AAAA	2a01:8840:6e::17
+a2.nic.obi.	0	IN	A	65.22.115.17
+a2.nic.obi.	0	IN	AAAA	2a01:8840:71::17
+b0.nic.obi.	0	IN	A	65.22.113.17
+b0.nic.obi.	0	IN	AAAA	2a01:8840:6f::17
+c0.nic.obi.	0	IN	A	65.22.114.17
+c0.nic.obi.	0	IN	AAAA	2a01:8840:70::17
 observer.	0	IN	NS	v0n0.nic.observer.
 observer.	0	IN	NS	v0n1.nic.observer.
 observer.	0	IN	NS	v0n2.nic.observer.
