@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022102601 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022102602 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -7675,6 +7675,8 @@ ns1.registry.hm.	0	IN	A	208.70.79.25
 ns2.registry.hm.	0	IN	A	208.70.79.24
 ns3.registry.hm.	0	IN	A	128.199.180.188
 hn.	0	IN	NS	a.lactld.org.
+hn.	0	IN	NS	ns1.anycastdns.cz.
+hn.	0	IN	NS	ns2.anycastdns.cz.
 hn.	0	IN	NS	pch-anycast.rds.org.hn.
 hn.	0	IN	DS	20599 8 2 b7ca2a70dea7188cb7319a8049164ef9d0e3496d8fe4e3c135cba8452544ba72
 pch-anycast.rds.org.hn.	0	IN	A	204.61.216.64
