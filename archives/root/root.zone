@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022102800 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022102801 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -4210,11 +4210,20 @@ crown.	0	IN	NS	ac2.nstld.com.
 crown.	0	IN	NS	ac3.nstld.com.
 crown.	0	IN	NS	ac4.nstld.com.
 crown.	0	IN	DS	27918 8 2 8842332bde0ba9771ae17ddadd5018c37a16287e1384967c331c615b23d85d56
-crs.	0	IN	NS	ac1.nstld.com.
-crs.	0	IN	NS	ac2.nstld.com.
-crs.	0	IN	NS	ac3.nstld.com.
-crs.	0	IN	NS	ac4.nstld.com.
+crs.	0	IN	NS	a0.nic.crs.
+crs.	0	IN	NS	a2.nic.crs.
+crs.	0	IN	NS	b0.nic.crs.
+crs.	0	IN	NS	c0.nic.crs.
 crs.	0	IN	DS	58626 8 2 5fbcef1eaafadbecaea20e6547caa2b3d5b2e40fb5c23ec978ce79f1bdfe48cb
+crs.	0	IN	DS	63622 8 2 d1647f1f8b7a8508b81f1d822c27581b628f7351ee8d99b8dc32a2bd802e0c37
+a0.nic.crs.	0	IN	A	65.22.112.25
+a0.nic.crs.	0	IN	AAAA	2a01:8840:6e::25
+a2.nic.crs.	0	IN	A	65.22.115.25
+a2.nic.crs.	0	IN	AAAA	2a01:8840:71::25
+b0.nic.crs.	0	IN	A	65.22.113.25
+b0.nic.crs.	0	IN	AAAA	2a01:8840:6f::25
+c0.nic.crs.	0	IN	A	65.22.114.25
+c0.nic.crs.	0	IN	AAAA	2a01:8840:70::25
 cruise.	0	IN	NS	a0.nic.cruise.
 cruise.	0	IN	NS	a2.nic.cruise.
 cruise.	0	IN	NS	b0.nic.cruise.
@@ -18826,7 +18835,6 @@ xn--e1a4c.	0	IN	NS	x.dns.eu.
 xn--e1a4c.	0	IN	NS	y.dns.eu.
 xn--e1a4c.	0	IN	NS	be.dns.eu.
 xn--e1a4c.	0	IN	NS	si.dns.eu.
-xn--e1a4c.	0	IN	DS	274 8 2 36e1e0d1bec89138564a3e2906764bb2dadae21274fec1f9ceace4b7ac42df9b
 xn--e1a4c.	0	IN	DS	8731 8 2 90045c6e0579687c19d9318132095adbc9532831f3d175004d8e4a05fb05d268
 xn--eckvdtc9d.	0	IN	NS	a.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	b.nic.xn--eckvdtc9d.
