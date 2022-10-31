@@ -1,8 +1,8 @@
-cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2022103110 3600 600 1209600 3600
+cd.	0	IN	SOA	pch.nic.cd. noc.nic.cd. 2022103111 3600 600 1209600 3600
 cd.	0	IN	NS	pch.nic.cd.
 cd.	0	IN	NS	gransy-anycast1.nic.cd.
 cd.	0	IN	NS	gransy-anycast2.nic.cd.
-cd.	0	IN	TXT	"Generation Time: 1667211113"
+cd.	0	IN	TXT	"Generation Time: 1667214760"
 0.cd.	0	IN	NS	ns-29.awsdns-03.com.
 0.cd.	0	IN	NS	ns-918.awsdns-50.net.
 0.cd.	0	IN	NS	ns-1419.awsdns-49.org.
@@ -412,7 +412,7 @@ abnamro.cd.	0	IN	NS	g4.nstld.com.
 abnamro.cd.	0	IN	NS	l4.nstld.com.
 absolut.cd.	0	IN	NS	dns1.cscdns.net.
 absolut.cd.	0	IN	NS	dns2.cscdns.net.
-ac.cd.	0	IN	TXT	"Generation Time: 1667211114"
+ac.cd.	0	IN	TXT	"Generation Time: 1667214762"
 abil.ac.cd.	0	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.	0	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	0	IN	NS	cpanel11.lws-hosting.com.
@@ -3583,7 +3583,7 @@ colruyt-export.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	0	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	0	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	0	IN	NS	ns2.mypandos.com.
-com.cd.	0	IN	TXT	"Generation Time: 1667211114"
+com.cd.	0	IN	TXT	"Generation Time: 1667214762"
 14trees.com.cd.	0	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.	0	IN	NS	ns01us.holcim.com.
 14trees.com.cd.	0	IN	NS	ns02ch.holcim.com.
@@ -5167,7 +5167,7 @@ edtech-243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.	0	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.	0	IN	NS	cp2.dnshostservices.com.
-edu.cd.	0	IN	TXT	"Generation Time: 1667211115"
+edu.cd.	0	IN	TXT	"Generation Time: 1667214762"
 bnn.edu.cd.	0	IN	NS	ns110.ovh.net.
 bnn.edu.cd.	0	IN	NS	dns110.ovh.net.
 egov.edu.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -6795,7 +6795,7 @@ gothere.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 gothere.cd.	0	IN	NS	arch.ns.cloudflare.com.
 gourmandine.cd.	0	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.	0	IN	NS	ns2.uniteddns.net.
-gouv.cd.	0	IN	TXT	"Generation Time: 1667211117"
+gouv.cd.	0	IN	TXT	"Generation Time: 1667214764"
 acorep.gouv.cd.	0	IN	NS	ns1.acorep.gouv.cd.
 acorep.gouv.cd.	0	IN	NS	ns2.acorep.gouv.cd.
 ns1.acorep.gouv.cd.	0	IN	A	75.119.139.203
@@ -7118,7 +7118,7 @@ gouvtanganyika.cd.	0	IN	NS	dns44.cloudns.net.
 gov.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.	0	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.	0	IN	TXT	"Generation Time: 1667211115"
+gov.cd.	0	IN	TXT	"Generation Time: 1667214762"
 egov.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.	0	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -8276,10 +8276,16 @@ isocool.cd.	0	IN	NS	dns1.namecheaphosting.com.
 isocool.cd.	0	IN	NS	dns2.namecheaphosting.com.
 isp-mbandaka.cd.	0	IN	NS	ns1.nitrowebhost.co.uk.
 isp-mbandaka.cd.	0	IN	NS	ns2.nitrowebhost.co.uk.
-ispa.cd.	0	IN	NS	ajay.ns.cloudflare.com.
-ispa.cd.	0	IN	NS	arch.ns.cloudflare.com.
+ispa.cd.	0	IN	NS	ns1.inx.net.za.
+ispa.cd.	0	IN	NS	ns1.ispa-drc.cd.
+ispa.cd.	0	IN	NS	ns2.inx.net.za.
+ispa.cd.	0	IN	NS	ns2.ispa-drc.cd.
+ispa.cd.	0	IN	NS	ns3.inx.net.za.
+ispa-drc.cd.	0	IN	NS	ns1.inx.net.za.
 ispa-drc.cd.	0	IN	NS	ns1.ispa-drc.cd.
+ispa-drc.cd.	0	IN	NS	ns2.inx.net.za.
 ispa-drc.cd.	0	IN	NS	ns2.ispa-drc.cd.
+ispa-drc.cd.	0	IN	NS	ns3.inx.net.za.
 ns1.ispa-drc.cd.	0	IN	A	196.216.216.12
 ns2.ispa-drc.cd.	0	IN	A	196.216.216.13
 ispbkv.cd.	0	IN	NS	ajay.ns.cloudflare.com.
@@ -11467,7 +11473,7 @@ nesys.cd.	0	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.	0	IN	NS	ns2.m77.siteground.biz.
 net.cd.	0	IN	NS	ns-root-21.scpt-network.net.
 net.cd.	0	IN	NS	ns-root-22.scpt-network.net.
-net.cd.	0	IN	TXT	"Generation Time: 1667211115"
+net.cd.	0	IN	TXT	"Generation Time: 1667214762"
 egov.net.cd.	0	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.	0	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.	0	IN	NS	ns1.afraid.org.
@@ -12170,7 +12176,7 @@ ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	0	IN	NS	ns1045.ui-dns.org.
 orellig.cd.	0	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.	0	IN	NS	dns2.namecheaphosting.com.
-org.cd.	0	IN	TXT	"Generation Time: 1667211115"
+org.cd.	0	IN	TXT	"Generation Time: 1667214762"
 csc.org.cd.	0	IN	NS	ns1.4levels.net.
 csc.org.cd.	0	IN	NS	ns2.4levels.net.
 egov.org.cd.	0	IN	NS	ns1.scpt-network.cd.
@@ -13350,8 +13356,11 @@ rdcmining.cd.	0	IN	NS	ns2.net.cd.
 rdcmining.cd.	0	IN	NS	dnsmail.crgm.cd.
 rdcnews.cd.	0	IN	NS	ns111.ovh.net.
 rdcnews.cd.	0	IN	NS	dns111.ovh.net.
-rdcnog.cd.	0	IN	NS	ajay.ns.cloudflare.com.
-rdcnog.cd.	0	IN	NS	arch.ns.cloudflare.com.
+rdcnog.cd.	0	IN	NS	ns1.inx.net.za.
+rdcnog.cd.	0	IN	NS	ns1.ispa-drc.cd.
+rdcnog.cd.	0	IN	NS	ns2.inx.net.za.
+rdcnog.cd.	0	IN	NS	ns2.ispa-drc.cd.
+rdcnog.cd.	0	IN	NS	ns3.inx.net.za.
 rdcongo.cd.	0	IN	NS	ns1.ipsolutions.cd.
 rdcongo.cd.	0	IN	NS	ns2.ipsolutions.cd.
 rdcongo-tourisme.cd.	0	IN	NS	ajay.ns.cloudflare.com.
