@@ -22,6 +22,8 @@
 * `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
+* `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
+* `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--mgbai9azgqp6j.` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/xn--mgbai9azgqp6j.zone)
