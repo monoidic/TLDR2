@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022110302 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022110303 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -1917,6 +1917,7 @@ bj.	0	IN	NS	ns2.nic.bj.
 bj.	0	IN	NS	pch.nic.bj.
 bj.	0	IN	NS	ns-bj.nic.fr.
 bj.	0	IN	NS	ns-bj.afrinic.net.
+bj.	0	IN	DS	26617 8 2 f408c0b3c28d87a76175348b27f6d26ca47231fc29071ab6b5f849777c6548b5
 ns1.nic.bj.	0	IN	A	154.65.28.218
 ns2.nic.bj.	0	IN	A	41.85.191.2
 pch.nic.bj.	0	IN	A	204.61.216.125
