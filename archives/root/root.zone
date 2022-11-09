@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022110901 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022110902 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -8024,7 +8024,8 @@ b.hu.	0	IN	A	193.239.149.161
 b.hu.	0	IN	AAAA	2001:738:4:4000::3
 c.hu.	0	IN	A	195.111.1.92
 c.hu.	0	IN	AAAA	2001:738:2:2::53
-d.hu.	0	IN	A	195.70.35.250
+d.hu.	0	IN	A	5.28.0.99
+d.hu.	0	IN	AAAA	2a00:e6a0:3:1014::53:99
 e.hu.	0	IN	A	194.0.25.11
 e.hu.	0	IN	AAAA	2001:678:20::11
 ns-com.nic.hu.	0	IN	A	194.0.1.12
@@ -17092,7 +17093,7 @@ tw.	0	IN	NS	g.dns.tw.
 tw.	0	IN	NS	h.dns.tw.
 tw.	0	IN	NS	ns.twnic.net.
 tw.	0	IN	NS	anytld.apnic.net.
-tw.	0	IN	DS	40792 8 2 a05db4b0deb971031361bb621e8bb1b8d7346665a3d1b06ec1431adb7d015ee9
+tw.	0	IN	DS	51277 8 2 462da9af501d2b1eef6725522db5972f8cd2490b51d92088ff1e3d2de0ec7bcd
 a.dns.tw.	0	IN	A	203.73.24.25
 a.dns.tw.	0	IN	AAAA	2001:45b1:0:5::25
 b.dns.tw.	0	IN	A	210.201.138.58
