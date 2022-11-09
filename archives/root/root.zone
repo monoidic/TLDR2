@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022110900 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022110901 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -2492,7 +2492,6 @@ ca.	0	IN	NS	j.ca-servers.ca.
 ca.	0	IN	NS	x.ca-servers.ca.
 ca.	0	IN	NS	any.ca-servers.ca.
 ca.	0	IN	DS	43787 8 2 2af70b49c542b7dacec2d4754651598b740ef1d79e7a839b32bc7f7e96039a2c
-ca.	0	IN	DS	48662 8 2 b88605073ae242e4917a795ada1eac2580c0fa9d622b228926fecb408b41c3f9
 any.ca-servers.ca.	0	IN	A	199.4.144.2
 any.ca-servers.ca.	0	IN	AAAA	2001:500:a7::2
 c.ca-servers.ca.	0	IN	A	185.159.196.2
@@ -8980,7 +8979,7 @@ jp.	0	IN	NS	e.dns.jp.
 jp.	0	IN	NS	f.dns.jp.
 jp.	0	IN	NS	g.dns.jp.
 jp.	0	IN	NS	h.dns.jp.
-jp.	0	IN	DS	18100 8 2 c5242231ab0b249800926b3d700349cc76374b7505dd4101fef8c54bbb464c6b
+jp.	0	IN	DS	39916 8 2 b36b524989bf0625efd9b0877e74e77f052248fde965b6e3c327d9c06af1d080
 a.dns.jp.	0	IN	A	203.119.1.1
 a.dns.jp.	0	IN	AAAA	2001:dc4::1
 b.dns.jp.	0	IN	A	202.12.30.131
