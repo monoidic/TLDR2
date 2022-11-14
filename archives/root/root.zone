@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022111401 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022111402 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -8131,6 +8131,7 @@ e.dns.id.	0	IN	AAAA	2001:df5:4000:4::4
 ie.	0	IN	NS	b.ns.ie.
 ie.	0	IN	NS	c.ns.ie.
 ie.	0	IN	NS	d.ns.ie.
+ie.	0	IN	NS	e.ns.ie.
 ie.	0	IN	NS	g.ns.ie.
 ie.	0	IN	NS	h.ns.ie.
 ie.	0	IN	NS	i.ns.ie.
@@ -8141,6 +8142,8 @@ c.ns.ie.	0	IN	A	194.146.106.98
 c.ns.ie.	0	IN	AAAA	2001:67c:1010:25::53
 d.ns.ie.	0	IN	A	77.72.229.245
 d.ns.ie.	0	IN	AAAA	2a01:3f0:0:309::53
+e.ns.ie.	0	IN	A	185.159.199.210
+e.ns.ie.	0	IN	AAAA	2620:10a:80ac::210
 g.ns.ie.	0	IN	A	192.111.39.100
 g.ns.ie.	0	IN	AAAA	2001:7c8:2:a::64
 h.ns.ie.	0	IN	A	192.93.0.4
@@ -15647,11 +15650,13 @@ ss.	0	IN	DS	43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa338
 pch.nic.ss.	0	IN	A	204.61.216.130
 pch.nic.ss.	0	IN	AAAA	2001:500:14:6130:ad::1
 st.	0	IN	NS	ns1.bahnhof.net.
-st.	0	IN	NS	dns-au.st.
 st.	0	IN	NS	dns-st.bahnhof.net.
-st.	0	IN	NS	dns-us.st.
-dns-au.st.	0	IN	A	119.252.188.97
-dns-us.st.	0	IN	A	198.105.223.67
+st.	0	IN	NS	west-2.dns-us.st.
+st.	0	IN	NS	southeast-2.dns-au.st.
+southeast-2.dns-au.st.	0	IN	A	52.63.82.137
+southeast-2.dns-au.st.	0	IN	AAAA	2406:da1c:306:4700:d0cf:a4f8:f1c7:249e
+west-2.dns-us.st.	0	IN	A	34.218.33.231
+west-2.dns-us.st.	0	IN	AAAA	2600:1f14:15:cb00:c08f:baeb:bf79:c730
 stada.	0	IN	NS	a0.nic.stada.
 stada.	0	IN	NS	a2.nic.stada.
 stada.	0	IN	NS	b0.nic.stada.
@@ -19203,14 +19208,14 @@ xn--kprw13d.	0	IN	NS	f.dns.tw.
 xn--kprw13d.	0	IN	NS	g.dns.tw.
 xn--kprw13d.	0	IN	NS	h.dns.tw.
 xn--kprw13d.	0	IN	NS	anytld.apnic.net.
-xn--kprw13d.	0	IN	DS	47134 8 2 49eb20fedd1c6d402967ca5f0c79aae56e20f912483e9f7067ad7e8a2a791abd
+xn--kprw13d.	0	IN	DS	3667 8 2 8ac78818cca7d2cd3a323bead03ccf68025ca932219014748692f12ed7a4b2ca
 xn--kpry57d.	0	IN	NS	d.dns.tw.
 xn--kpry57d.	0	IN	NS	e.dns.tw.
 xn--kpry57d.	0	IN	NS	f.dns.tw.
 xn--kpry57d.	0	IN	NS	g.dns.tw.
 xn--kpry57d.	0	IN	NS	h.dns.tw.
 xn--kpry57d.	0	IN	NS	anytld.apnic.net.
-xn--kpry57d.	0	IN	DS	48136 8 2 cb67b0a6dabd9dec11940fd42789457e52256f13cd33b7ec08347514d3549263
+xn--kpry57d.	0	IN	DS	15901 8 2 119f2b2637aeb13da5c5d5b605ddcb9389a811a27d52102d9df28ee507c02da4
 xn--kput3i.	0	IN	NS	ns1.teleinfo.cn.
 xn--kput3i.	0	IN	NS	ns2.teleinfoo.com.
 xn--kput3i.	0	IN	NS	ns3.teleinfo.cn.
