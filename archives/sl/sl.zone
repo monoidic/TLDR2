@@ -1,7 +1,7 @@
-sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915045232 600 900 7200 3600
+sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915045237 600 900 7200 3600
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sl.	0	IN	TXT	"Generation Time: 1668408300"
+sl.	0	IN	TXT	"Generation Time: 1668412805"
 sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvuehEkD2q048nkEqAHEiL+r8ggxV+t+SIyTwWKU3OkkQdHzCUpEEK5nVE2CIyjidqMxC99aAA5fSJH+oQexm6/gh9gSvd6Xmudu2mNbHH72Gvg6iJ88ODrlu184vYzg95xtNN7Mw1Vljq/1voHFzdy0SrB6HP7H+PrnO773Lc8u7bt/FgWd0h4/BWxdoK2iyeG2sqO6CoLmAikSBrXeCN59PixOsJgLo9Wyp8UC6LXIS8veSZ6/AgtyR9F+r3I5VexjQzdjr8DcyOpym/cfSq0UudakoLIsrAy9Ji1M= ;{id = 14507 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
@@ -1184,8 +1184,6 @@ datacell.sl.	0	IN	NS	ns2.fink.org.
 datacell.sl.	0	IN	NS	ns3.fink.org.
 datapool.sl.	0	IN	NS	ns1.afcom.sl.
 datapool.sl.	0	IN	NS	ns2.afcom.sl.
-datart.sl.	0	IN	NS	170.ns1.above.com.
-datart.sl.	0	IN	NS	170.ns2.above.com.
 datawise.sl.	0	IN	NS	ns1.nic.sl.
 datawise.sl.	0	IN	NS	ns2.nic.sl.
 dating.sl.	0	IN	NS	ns0.fink.org.
@@ -1265,8 +1263,6 @@ directferries.sl.	0	IN	NS	ns-222.awsdns-27.com.
 directferries.sl.	0	IN	NS	ns-964.awsdns-56.net.
 directferries.sl.	0	IN	NS	ns-1408.awsdns-48.org.
 directferries.sl.	0	IN	NS	ns-2041.awsdns-63.co.uk.
-discord.sl.	0	IN	NS	john.ns.cloudflare.com.
-discord.sl.	0	IN	NS	ingrid.ns.cloudflare.com.
 discoverfreetown.sl.	0	IN	NS	ns1.dns-parking.com.
 discoverfreetown.sl.	0	IN	NS	ns2.dns-parking.com.
 disneyjr.sl.	0	IN	NS	orns01.dig.com.
@@ -2275,6 +2271,10 @@ interpol.sl.	0	IN	NS	ns1.eurodns.com.
 interpol.sl.	0	IN	NS	ns2.eurodns.com.
 interpol.sl.	0	IN	NS	ns3.eurodns.com.
 interpol.sl.	0	IN	NS	ns4.eurodns.com.
+intothewyld.sl.	0	IN	NS	ns01.login-center.eu.
+intothewyld.sl.	0	IN	NS	ns02.login-center.eu.
+intothewyld.sl.	0	IN	NS	ns03.login-center.eu.
+intothewyld.sl.	0	IN	NS	ns04.login-center.eu.
 intrapex.sl.	0	IN	NS	ns1.bluehost.com.
 intrapex.sl.	0	IN	NS	ns2.bluehost.com.
 invertico.sl.	0	IN	NS	ns1.netim.net.
@@ -3426,8 +3426,10 @@ petrolleone.sl.	0	IN	NS	ns4.brandshelter.net.
 petrolleone.sl.	0	IN	NS	ns5.brandshelter.us.
 pfg.sl.	0	IN	NS	dns1.cscdns.net.
 pfg.sl.	0	IN	NS	dns2.cscdns.net.
-pfsl.sl.	0	IN	NS	ns1.alemobet.net.
-pfsl.sl.	0	IN	NS	ns2.alemobet.net.
+pfsl.sl.	0	IN	NS	ns1.mysecurecloudhost.com.
+pfsl.sl.	0	IN	NS	ns2.mysecurecloudhost.com.
+pfsl.sl.	0	IN	NS	ns3.mysecurecloudhost.com.
+pfsl.sl.	0	IN	NS	ns4.mysecurecloudhost.com.
 phadijahgroup.sl.	0	IN	NS	ns1.byet.org.
 phadijahgroup.sl.	0	IN	NS	ns2.byet.org.
 phadijahgroup.sl.	0	IN	NS	ns3.byet.org.
@@ -3601,6 +3603,8 @@ qisystems.sl.	0	IN	NS	ns59.domaincontrol.com.
 qisystems.sl.	0	IN	NS	ns60.domaincontrol.com.
 qmoney.sl.	0	IN	NS	ns1.qanet.gm.
 qmoney.sl.	0	IN	NS	ns2.qanet.gm.
+qsky.sl.	0	IN	NS	ns1.nic.sl.
+qsky.sl.	0	IN	NS	ns2.nic.sl.
 queenslyconsultancyservices.sl.	0	IN	NS	ns1.uk08.tmd.cloud.
 queenslyconsultancyservices.sl.	0	IN	NS	ns2.uk08.tmd.cloud.
 quickfoods.sl.	0	IN	NS	ns140.slinkdns.net.
@@ -3640,6 +3644,9 @@ rapids.sl.	0	IN	NS	a4.nstld.com.
 rapids.sl.	0	IN	NS	f4.nstld.com.
 rapids.sl.	0	IN	NS	g4.nstld.com.
 rapids.sl.	0	IN	NS	l4.nstld.com.
+rasi.sl.	0	IN	NS	ns1.onlydomains.com.
+rasi.sl.	0	IN	NS	ns2.onlydomains.com.
+rasi.sl.	0	IN	NS	ns3.onlydomains.com.
 rattatan.sl.	0	IN	NS	dawn.ns.cloudflare.com.
 rattatan.sl.	0	IN	NS	eric.ns.cloudflare.com.
 rattatanshop.sl.	0	IN	NS	dawn.ns.cloudflare.com.
