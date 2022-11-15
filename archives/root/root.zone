@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022111502 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022111503 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -4375,6 +4375,8 @@ c.ns.nic.cz.	0	IN	A	194.0.14.1
 c.ns.nic.cz.	0	IN	AAAA	2001:678:11::1
 d.ns.nic.cz.	0	IN	A	193.29.206.1
 d.ns.nic.cz.	0	IN	AAAA	2001:678:1::1
+mw-e.ns.nic.cz.	0	IN	A	185.43.134.10
+mw-e.ns.nic.cz.	0	IN	AAAA	2001:148f:fffd::10
 tz-e.ns.nic.cz.	0	IN	A	185.43.134.11
 tz-e.ns.nic.cz.	0	IN	AAAA	2001:148f:fffd::11
 dabur.	0	IN	NS	a0.nic.dabur.
@@ -11242,10 +11244,10 @@ mv.	0	IN	NS	ns2.dhivehinet.net.mv.
 mv.	0	IN	NS	mv-ns.anycast.pch.net.
 ns.dhivehinet.net.mv.	0	IN	A	202.1.192.196
 ns2.dhivehinet.net.mv.	0	IN	A	202.1.201.201
-mw.	0	IN	NS	d.ext.nic.cz.
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
+mw.	0	IN	NS	mw-e.ns.nic.cz.
 mw.	0	IN	NS	pch1.nic.mw.
 mw.	0	IN	NS	domwe.sdn.mw.
 mw.	0	IN	NS	chambo.sdnp.org.mw.
