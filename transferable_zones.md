@@ -19,8 +19,6 @@
 * `cv.` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv.zone)
 * `er.` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/er.zone)
 * `er.` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/er.zone)
-* `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
-* `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
