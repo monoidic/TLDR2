@@ -1,4 +1,4 @@
-gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022111820 86400 7200 2592000 345600
+gp.	0	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022112214 86400 7200 2592000 345600
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -3124,8 +3124,12 @@ madame-v.gp.	0	IN	NS	ns2.cloudns.net.
 maersk.gp.	0	IN	NS	ns1.netnames.net.
 maersk.gp.	0	IN	NS	ns2.netnames.net.
 maersk.gp.	0	IN	NS	ns5.netnames.net.
-maersk-line.gp.	0	IN	NS	dns1.cscdns.net.
-maersk-line.gp.	0	IN	NS	dns2.cscdns.net.
+maersk-line.gp.	0	IN	NS	a1-4.akam.net.
+maersk-line.gp.	0	IN	NS	a3-66.akam.net.
+maersk-line.gp.	0	IN	NS	a8-67.akam.net.
+maersk-line.gp.	0	IN	NS	a13-67.akam.net.
+maersk-line.gp.	0	IN	NS	a18-64.akam.net.
+maersk-line.gp.	0	IN	NS	a22-65.akam.net.
 maerskline.gp.	0	IN	NS	dns1.cscdns.net.
 maerskline.gp.	0	IN	NS	dns2.cscdns.net.
 magasinbio.gp.	0	IN	NS	ns1.francedns.com.
