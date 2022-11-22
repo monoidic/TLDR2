@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112201 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112202 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -4036,20 +4036,12 @@ v2n0.nic.cool.	0	IN	A	65.22.27.38
 v2n0.nic.cool.	0	IN	AAAA	2a01:8840:1d::38
 v2n1.nic.cool.	0	IN	A	161.232.13.38
 v2n1.nic.cool.	0	IN	AAAA	2a01:8840:f7::38
-coop.	0	IN	NS	a.nic.coop.
-coop.	0	IN	NS	b.nic.coop.
-coop.	0	IN	NS	c.nic.coop.
-coop.	0	IN	NS	d.nic.coop.
-coop.	0	IN	DS	9961 8 1 f9370faeaf0b8464b7c8802136a03fc96d8ff200
+coop.	0	IN	NS	ns1.uniregistry.net.
+coop.	0	IN	NS	ns2.uniregistry.info.
+coop.	0	IN	NS	ns3.uniregistry.net.
+coop.	0	IN	NS	ns4.uniregistry.info.
 coop.	0	IN	DS	9961 8 2 7464849b6c08384030d135d156559691db98804ce1dab9891447ca45b594ef36
-a.nic.coop.	0	IN	A	194.169.218.64
-a.nic.coop.	0	IN	AAAA	2001:67c:13cc::1:64
-b.nic.coop.	0	IN	A	185.24.64.64
-b.nic.coop.	0	IN	AAAA	2a04:2b00:13cc::1:64
-c.nic.coop.	0	IN	A	212.18.248.64
-c.nic.coop.	0	IN	AAAA	2a04:2b00:13ee::64
-d.nic.coop.	0	IN	A	212.18.249.64
-d.nic.coop.	0	IN	AAAA	2a04:2b00:13ff::64
+coop.	0	IN	DS	50471 8 2 54e0ce5ca1d960fced356150b250f66c775601d91825090bad0690cb382e715d
 corsica.	0	IN	NS	d.nic.fr.
 corsica.	0	IN	NS	f.ext.nic.fr.
 corsica.	0	IN	NS	g.ext.nic.fr.
@@ -5505,7 +5497,6 @@ eu.	0	IN	NS	y.dns.eu.
 eu.	0	IN	NS	be.dns.eu.
 eu.	0	IN	NS	si.dns.eu.
 eu.	0	IN	DS	35926 8 2 89b9ef0445904e7c6074b5bece823c3e264fbd91c103d10bde603412343ce70c
-eu.	0	IN	DS	59479 8 2 5dbaa81bc0befe921886d8da28498d9fd441b457fb0e3642a0b2f9811c8e15e0
 be.dns.eu.	0	IN	A	149.38.1.26
 be.dns.eu.	0	IN	AAAA	2001:978:2:1::93:2
 si.dns.eu.	0	IN	A	193.2.221.62
