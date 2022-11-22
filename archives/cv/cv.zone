@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022111701 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022112201 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -799,6 +799,8 @@ bcn.cv.	0	IN	NS	ns1.bcn.cv.
 bcn.cv.	0	IN	NS	ns2.bcn.cv.
 ns1.bcn.cv.	0	IN	A	169.239.14.34
 ns2.bcn.cv.	0	IN	A	169.239.14.35
+bcsports.cv.	0	IN	NS	ns1.dns-parking.com.
+bcsports.cv.	0	IN	NS	ns2.dns-parking.com.
 bcv.cv.	0	IN	NS	ns.bca.cv.
 bcv.cv.	0	IN	NS	ns.cvtelecom.cv.
 bcv.cv.	0	IN	NS	bcvmns01.bcv.cv.
@@ -6386,10 +6388,8 @@ olim.cv.	0	IN	NS	ns908.hostgator.com.br.
 olim.cv.	0	IN	NS	ns909.hostgator.com.br.
 omcredito.cv.	0	IN	NS	ns1.servconfig.com.
 omcredito.cv.	0	IN	NS	ns2.servconfig.com.
-omnifonte.cv.	0	IN	NS	ns1.mydnspt.net.
-omnifonte.cv.	0	IN	NS	ns2.mydnspt.net.
-omnifonte.cv.	0	IN	NS	ns7.mydnspt.net.
-omnifonte.cv.	0	IN	NS	ns8.mydnspt.net.
+omnifonte.cv.	0	IN	NS	ns1.dns-parking.com.
+omnifonte.cv.	0	IN	NS	ns2.dns-parking.com.
 omv.cv.	0	IN	NS	ns1099.ifastnet.com.
 omv.cv.	0	IN	NS	ns2099.ifastnet.com.
 onave.cv.	0	IN	NS	ns1.webs24h.com.
@@ -8533,6 +8533,10 @@ tropictour.cv.	0	IN	NS	ns4.dnstarvos.com.
 true.cv.	0	IN	NS	ns01.trademarkarea.com.
 true.cv.	0	IN	NS	ns02.trademarkarea.com.
 true.cv.	0	IN	NS	ns03.trademarkarea.com.
+tryon.cv.	0	IN	NS	ns1-32.azure-dns.com.
+tryon.cv.	0	IN	NS	ns2-32.azure-dns.net.
+tryon.cv.	0	IN	NS	ns3-32.azure-dns.org.
+tryon.cv.	0	IN	NS	ns4-32.azure-dns.info.
 tssports.cv.	0	IN	NS	ns1008.hostgator.com.br.
 tssports.cv.	0	IN	NS	ns1009.hostgator.com.br.
 ttns.cv.	0	IN	NS	ns2.tuxdns.net.
