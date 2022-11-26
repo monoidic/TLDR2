@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112501 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112600 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -252,19 +252,6 @@ dnsc.ad.	0	IN	A	194.158.74.10
 dnsc.ad.	0	IN	AAAA	2a02:8060:32fa::b
 dnsm.ad.	0	IN	A	194.158.74.9
 dnsm.ad.	0	IN	AAAA	2a02:8060:32fa::a
-adac.	0	IN	NS	a.nic.adac.
-adac.	0	IN	NS	b.nic.adac.
-adac.	0	IN	NS	c.nic.adac.
-adac.	0	IN	NS	d.nic.adac.
-adac.	0	IN	DS	16410 7 2 f4a30ad82717154b532b185003e45a8a3e4b4ef99914f7c842c9fb7f8c5ed628
-a.nic.adac.	0	IN	A	194.169.218.74
-a.nic.adac.	0	IN	AAAA	2001:67c:13cc::1:74
-b.nic.adac.	0	IN	A	185.24.64.74
-b.nic.adac.	0	IN	AAAA	2a04:2b00:13cc::1:74
-c.nic.adac.	0	IN	A	212.18.248.74
-c.nic.adac.	0	IN	AAAA	2a04:2b00:13ee::74
-d.nic.adac.	0	IN	A	212.18.249.74
-d.nic.adac.	0	IN	AAAA	2a04:2b00:13ff::74
 ads.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 ads.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 ads.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -6925,14 +6912,12 @@ c0.nic.giving.	0	IN	A	199.19.53.1
 c0.nic.giving.	0	IN	AAAA	2001:500:b::1
 d0.nic.giving.	0	IN	A	199.19.57.1
 d0.nic.giving.	0	IN	AAAA	2001:500:f::1
-gl.	0	IN	NS	a.nuuk.nic.gl.
 gl.	0	IN	NS	d.nic.gl.
 gl.	0	IN	NS	ns1.anycastdns.cz.
 gl.	0	IN	NS	ns2.anycastdns.cz.
 gl.	0	IN	DS	11560 8 2 3d44df84c78a82e0e9824440f3e82b402551341dbff3bce72cd786435d15f1aa
 d.nic.gl.	0	IN	A	204.61.216.49
 d.nic.gl.	0	IN	AAAA	2001:500:14:6049:ad::1
-a.nuuk.nic.gl.	0	IN	A	194.177.224.13
 glass.	0	IN	NS	v0n0.nic.glass.
 glass.	0	IN	NS	v0n1.nic.glass.
 glass.	0	IN	NS	v0n2.nic.glass.
@@ -17321,7 +17306,6 @@ uy.	0	IN	NS	d.nic.uy.
 uy.	0	IN	NS	ns.dns.br.
 uy.	0	IN	NS	ns1.anteldata.com.uy.
 uy.	0	IN	NS	ns2.anteldata.com.uy.
-uy.	0	IN	NS	ns3.nic.mx.
 uy.	0	IN	DS	19730 8 2 e85a089d69f869cf923df395f279f1c92bd136a33b60988748b0186e12f7b88e
 ns1.anteldata.com.uy.	0	IN	A	200.40.30.254
 ns1.anteldata.com.uy.	0	IN	AAAA	2800:a0:53:1001::1
