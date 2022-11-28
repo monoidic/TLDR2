@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022112501 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022112801 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -2826,6 +2826,8 @@ conchave.cv.	0	IN	NS	ns2.ipage.com.
 mx.conchave.cv.	0	IN	A	66.96.142.50
 mx.conchave.cv.	0	IN	A	66.96.142.51
 mx.conchave.cv.	0	IN	A	66.96.142.52
+concorrencia.cv.	0	IN	NS	ns1.gov.cv.
+concorrencia.cv.	0	IN	NS	ns2.gov.cv.
 confidence.cv.	0	IN	NS	ns1.mundogest.com.
 confidence.cv.	0	IN	NS	ns2.mundogest.com.
 conforto.cv.	0	IN	NS	ns1.mydnspt.net.
