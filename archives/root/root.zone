@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112901 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112902 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -3504,7 +3504,9 @@ v2n1.nic.clothing.	0	IN	AAAA	2a01:8840:f7::13
 cloud.	0	IN	NS	a.nic.cloud.
 cloud.	0	IN	NS	b.nic.cloud.
 cloud.	0	IN	NS	c.nic.cloud.
-cloud.	0	IN	NS	d.nic.cloud.
+cloud.	0	IN	NS	x.nic.cloud.
+cloud.	0	IN	NS	y.nic.cloud.
+cloud.	0	IN	NS	z.nic.cloud.
 cloud.	0	IN	DS	23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
 a.nic.cloud.	0	IN	A	37.209.192.10
 a.nic.cloud.	0	IN	AAAA	2001:dcd:1::10
@@ -3512,8 +3514,12 @@ b.nic.cloud.	0	IN	A	37.209.194.10
 b.nic.cloud.	0	IN	AAAA	2001:dcd:2::10
 c.nic.cloud.	0	IN	A	37.209.196.10
 c.nic.cloud.	0	IN	AAAA	2001:dcd:3::10
-d.nic.cloud.	0	IN	A	37.209.198.10
-d.nic.cloud.	0	IN	AAAA	2001:dcd:4::10
+x.nic.cloud.	0	IN	A	156.154.172.82
+x.nic.cloud.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.cloud.	0	IN	A	156.154.173.82
+y.nic.cloud.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.cloud.	0	IN	A	156.154.174.82
+z.nic.cloud.	0	IN	AAAA	2610:a1:1076::1:82
 club.	0	IN	NS	a.nic.club.
 club.	0	IN	NS	b.nic.club.
 club.	0	IN	NS	c.nic.club.
@@ -4276,7 +4282,9 @@ ns2.ceniai.net.cu.	0	IN	A	169.158.128.88
 cuisinella.	0	IN	NS	a.nic.cuisinella.
 cuisinella.	0	IN	NS	b.nic.cuisinella.
 cuisinella.	0	IN	NS	c.nic.cuisinella.
-cuisinella.	0	IN	NS	d.nic.cuisinella.
+cuisinella.	0	IN	NS	x.nic.cuisinella.
+cuisinella.	0	IN	NS	y.nic.cuisinella.
+cuisinella.	0	IN	NS	z.nic.cuisinella.
 cuisinella.	0	IN	DS	7819 8 2 34ad4e3123591f60ca6f54ef8225c5b9ea2cf0325ca3af1c73da9be243c1fbbb
 a.nic.cuisinella.	0	IN	A	37.209.192.9
 a.nic.cuisinella.	0	IN	AAAA	2001:dcd:1::9
@@ -4284,8 +4292,12 @@ b.nic.cuisinella.	0	IN	A	37.209.194.9
 b.nic.cuisinella.	0	IN	AAAA	2001:dcd:2::9
 c.nic.cuisinella.	0	IN	A	37.209.196.9
 c.nic.cuisinella.	0	IN	AAAA	2001:dcd:3::9
-d.nic.cuisinella.	0	IN	A	37.209.198.9
-d.nic.cuisinella.	0	IN	AAAA	2001:dcd:4::9
+x.nic.cuisinella.	0	IN	A	156.154.172.82
+x.nic.cuisinella.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.cuisinella.	0	IN	A	156.154.173.82
+y.nic.cuisinella.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.cuisinella.	0	IN	A	156.154.174.82
+z.nic.cuisinella.	0	IN	AAAA	2610:a1:1076::1:82
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -9329,7 +9341,9 @@ g.dns.kr.	0	IN	AAAA	2001:dc5:a::1
 krd.	0	IN	NS	a.nic.krd.
 krd.	0	IN	NS	b.nic.krd.
 krd.	0	IN	NS	c.nic.krd.
-krd.	0	IN	NS	d.nic.krd.
+krd.	0	IN	NS	x.nic.krd.
+krd.	0	IN	NS	y.nic.krd.
+krd.	0	IN	NS	z.nic.krd.
 krd.	0	IN	DS	16384 8 2 c87c87e976d19afd0cb934b7aac7f85bb0e327d4d63931604f7ff495d0bb1e61
 a.nic.krd.	0	IN	A	37.209.192.10
 a.nic.krd.	0	IN	AAAA	2001:dcd:1::10
@@ -9337,8 +9351,12 @@ b.nic.krd.	0	IN	A	37.209.194.10
 b.nic.krd.	0	IN	AAAA	2001:dcd:2::10
 c.nic.krd.	0	IN	A	37.209.196.10
 c.nic.krd.	0	IN	AAAA	2001:dcd:3::10
-d.nic.krd.	0	IN	A	37.209.198.10
-d.nic.krd.	0	IN	AAAA	2001:dcd:4::10
+x.nic.krd.	0	IN	A	156.154.172.82
+x.nic.krd.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.krd.	0	IN	A	156.154.173.82
+y.nic.krd.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.krd.	0	IN	A	156.154.174.82
+z.nic.krd.	0	IN	AAAA	2610:a1:1076::1:82
 kred.	0	IN	NS	a.nic.kred.
 kred.	0	IN	NS	b.nic.kred.
 kred.	0	IN	NS	c.nic.kred.
@@ -9540,7 +9558,9 @@ c0.nic.latino.	0	IN	AAAA	2a01:8840:5c::17
 latrobe.	0	IN	NS	a.nic.latrobe.
 latrobe.	0	IN	NS	b.nic.latrobe.
 latrobe.	0	IN	NS	c.nic.latrobe.
-latrobe.	0	IN	NS	d.nic.latrobe.
+latrobe.	0	IN	NS	x.nic.latrobe.
+latrobe.	0	IN	NS	y.nic.latrobe.
+latrobe.	0	IN	NS	z.nic.latrobe.
 latrobe.	0	IN	DS	18520 8 2 80ad6c51aceb853c834a7170b91f67c61a23751918e2ff96dafa047f7fb7d57b
 a.nic.latrobe.	0	IN	A	37.209.192.9
 a.nic.latrobe.	0	IN	AAAA	2001:dcd:1::9
@@ -9548,8 +9568,12 @@ b.nic.latrobe.	0	IN	A	37.209.194.9
 b.nic.latrobe.	0	IN	AAAA	2001:dcd:2::9
 c.nic.latrobe.	0	IN	A	37.209.196.9
 c.nic.latrobe.	0	IN	AAAA	2001:dcd:3::9
-d.nic.latrobe.	0	IN	A	37.209.198.9
-d.nic.latrobe.	0	IN	AAAA	2001:dcd:4::9
+x.nic.latrobe.	0	IN	A	156.154.172.82
+x.nic.latrobe.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.latrobe.	0	IN	A	156.154.173.82
+y.nic.latrobe.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.latrobe.	0	IN	A	156.154.174.82
+z.nic.latrobe.	0	IN	AAAA	2610:a1:1076::1:82
 law.	0	IN	NS	a.nic.law.
 law.	0	IN	NS	b.nic.law.
 law.	0	IN	NS	c.nic.law.
@@ -12301,7 +12325,9 @@ okinawa.	0	IN	DS	33736 8 2 ed3cf17ef5286ee0af90213fd802871a672213fece32038557dd2
 olayan.	0	IN	NS	a.nic.olayan.
 olayan.	0	IN	NS	b.nic.olayan.
 olayan.	0	IN	NS	c.nic.olayan.
-olayan.	0	IN	NS	d.nic.olayan.
+olayan.	0	IN	NS	x.nic.olayan.
+olayan.	0	IN	NS	y.nic.olayan.
+olayan.	0	IN	NS	z.nic.olayan.
 olayan.	0	IN	DS	60061 8 2 930e37d43f6f58965863b8906adadfdf0091edee90b6c8c0dd3a88ed5112d2c8
 a.nic.olayan.	0	IN	A	37.209.192.9
 a.nic.olayan.	0	IN	AAAA	2001:dcd:1::9
@@ -12309,12 +12335,18 @@ b.nic.olayan.	0	IN	A	37.209.194.9
 b.nic.olayan.	0	IN	AAAA	2001:dcd:2::9
 c.nic.olayan.	0	IN	A	37.209.196.9
 c.nic.olayan.	0	IN	AAAA	2001:dcd:3::9
-d.nic.olayan.	0	IN	A	37.209.198.9
-d.nic.olayan.	0	IN	AAAA	2001:dcd:4::9
+x.nic.olayan.	0	IN	A	156.154.172.82
+x.nic.olayan.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.olayan.	0	IN	A	156.154.173.82
+y.nic.olayan.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.olayan.	0	IN	A	156.154.174.82
+z.nic.olayan.	0	IN	AAAA	2610:a1:1076::1:82
 olayangroup.	0	IN	NS	a.nic.olayangroup.
 olayangroup.	0	IN	NS	b.nic.olayangroup.
 olayangroup.	0	IN	NS	c.nic.olayangroup.
-olayangroup.	0	IN	NS	d.nic.olayangroup.
+olayangroup.	0	IN	NS	x.nic.olayangroup.
+olayangroup.	0	IN	NS	y.nic.olayangroup.
+olayangroup.	0	IN	NS	z.nic.olayangroup.
 olayangroup.	0	IN	DS	12544 8 2 b8a9fb54eaa15ad63b37ca39a06e8ec0052d61d51a8d26d5a825f81c2e1850d7
 a.nic.olayangroup.	0	IN	A	37.209.192.9
 a.nic.olayangroup.	0	IN	AAAA	2001:dcd:1::9
@@ -12322,8 +12354,12 @@ b.nic.olayangroup.	0	IN	A	37.209.194.9
 b.nic.olayangroup.	0	IN	AAAA	2001:dcd:2::9
 c.nic.olayangroup.	0	IN	A	37.209.196.9
 c.nic.olayangroup.	0	IN	AAAA	2001:dcd:3::9
-d.nic.olayangroup.	0	IN	A	37.209.198.9
-d.nic.olayangroup.	0	IN	AAAA	2001:dcd:4::9
+x.nic.olayangroup.	0	IN	A	156.154.172.82
+x.nic.olayangroup.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.olayangroup.	0	IN	A	156.154.173.82
+y.nic.olayangroup.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.olayangroup.	0	IN	A	156.154.174.82
+z.nic.olayangroup.	0	IN	AAAA	2610:a1:1076::1:82
 oldnavy.	0	IN	NS	a.nic.oldnavy.
 oldnavy.	0	IN	NS	b.nic.oldnavy.
 oldnavy.	0	IN	NS	c.nic.oldnavy.
@@ -13111,6 +13147,7 @@ pl.	0	IN	NS	g-dns.pl.
 pl.	0	IN	NS	h-dns.pl.
 pl.	0	IN	NS	i-dns.pl.
 pl.	0	IN	DS	38491 8 2 e6edf662199a44be077bd69be6ce26902f8d22e5875c9f2305866e05560549f2
+pl.	0	IN	DS	59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
 a-dns.pl.	0	IN	A	194.181.87.156
 a-dns.pl.	0	IN	AAAA	2001:a10:121:1::156
 b-dns.pl.	0	IN	A	192.195.72.53
@@ -14539,7 +14576,9 @@ samsung.	0	IN	DS	19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc3664843
 sandvik.	0	IN	NS	a.nic.sandvik.
 sandvik.	0	IN	NS	b.nic.sandvik.
 sandvik.	0	IN	NS	c.nic.sandvik.
-sandvik.	0	IN	NS	d.nic.sandvik.
+sandvik.	0	IN	NS	x.nic.sandvik.
+sandvik.	0	IN	NS	y.nic.sandvik.
+sandvik.	0	IN	NS	z.nic.sandvik.
 sandvik.	0	IN	DS	23647 8 2 01ed10d00e4fdf8bb9bf3338bfe2ef3ad80bab54270ce9a42941b6e3dd87781d
 a.nic.sandvik.	0	IN	A	37.209.192.9
 a.nic.sandvik.	0	IN	AAAA	2001:dcd:1::9
@@ -14547,12 +14586,18 @@ b.nic.sandvik.	0	IN	A	37.209.194.9
 b.nic.sandvik.	0	IN	AAAA	2001:dcd:2::9
 c.nic.sandvik.	0	IN	A	37.209.196.9
 c.nic.sandvik.	0	IN	AAAA	2001:dcd:3::9
-d.nic.sandvik.	0	IN	A	37.209.198.9
-d.nic.sandvik.	0	IN	AAAA	2001:dcd:4::9
+x.nic.sandvik.	0	IN	A	156.154.172.82
+x.nic.sandvik.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.sandvik.	0	IN	A	156.154.173.82
+y.nic.sandvik.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.sandvik.	0	IN	A	156.154.174.82
+z.nic.sandvik.	0	IN	AAAA	2610:a1:1076::1:82
 sandvikcoromant.	0	IN	NS	a.nic.sandvikcoromant.
 sandvikcoromant.	0	IN	NS	b.nic.sandvikcoromant.
 sandvikcoromant.	0	IN	NS	c.nic.sandvikcoromant.
-sandvikcoromant.	0	IN	NS	d.nic.sandvikcoromant.
+sandvikcoromant.	0	IN	NS	x.nic.sandvikcoromant.
+sandvikcoromant.	0	IN	NS	y.nic.sandvikcoromant.
+sandvikcoromant.	0	IN	NS	z.nic.sandvikcoromant.
 sandvikcoromant.	0	IN	DS	19999 8 2 ac19fb9aa365946aa64f8872782e80af68f6bf988f9de2e31901434849fa8d5e
 a.nic.sandvikcoromant.	0	IN	A	37.209.192.9
 a.nic.sandvikcoromant.	0	IN	AAAA	2001:dcd:1::9
@@ -14560,8 +14605,12 @@ b.nic.sandvikcoromant.	0	IN	A	37.209.194.9
 b.nic.sandvikcoromant.	0	IN	AAAA	2001:dcd:2::9
 c.nic.sandvikcoromant.	0	IN	A	37.209.196.9
 c.nic.sandvikcoromant.	0	IN	AAAA	2001:dcd:3::9
-d.nic.sandvikcoromant.	0	IN	A	37.209.198.9
-d.nic.sandvikcoromant.	0	IN	AAAA	2001:dcd:4::9
+x.nic.sandvikcoromant.	0	IN	A	156.154.172.82
+x.nic.sandvikcoromant.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.sandvikcoromant.	0	IN	A	156.154.173.82
+y.nic.sandvikcoromant.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.sandvikcoromant.	0	IN	A	156.154.174.82
+z.nic.sandvikcoromant.	0	IN	AAAA	2610:a1:1076::1:82
 sanofi.	0	IN	NS	ac1.nstld.com.
 sanofi.	0	IN	NS	ac2.nstld.com.
 sanofi.	0	IN	NS	ac3.nstld.com.
@@ -14638,7 +14687,9 @@ dnsd.nic.save.	0	IN	AAAA	2610:a1:1010::3
 saxo.	0	IN	NS	a.nic.saxo.
 saxo.	0	IN	NS	b.nic.saxo.
 saxo.	0	IN	NS	c.nic.saxo.
-saxo.	0	IN	NS	d.nic.saxo.
+saxo.	0	IN	NS	x.nic.saxo.
+saxo.	0	IN	NS	y.nic.saxo.
+saxo.	0	IN	NS	z.nic.saxo.
 saxo.	0	IN	DS	33499 8 2 3daca03d08ef7cfdea7e7f42231f411f3b56b9c8ca2cbb2d6d6a70b63652fa79
 a.nic.saxo.	0	IN	A	37.209.192.9
 a.nic.saxo.	0	IN	AAAA	2001:dcd:1::9
@@ -14646,8 +14697,12 @@ b.nic.saxo.	0	IN	A	37.209.194.9
 b.nic.saxo.	0	IN	AAAA	2001:dcd:2::9
 c.nic.saxo.	0	IN	A	37.209.196.9
 c.nic.saxo.	0	IN	AAAA	2001:dcd:3::9
-d.nic.saxo.	0	IN	A	37.209.198.9
-d.nic.saxo.	0	IN	AAAA	2001:dcd:4::9
+x.nic.saxo.	0	IN	A	156.154.172.82
+x.nic.saxo.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.saxo.	0	IN	A	156.154.173.82
+y.nic.saxo.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.saxo.	0	IN	A	156.154.174.82
+z.nic.saxo.	0	IN	AAAA	2610:a1:1076::1:82
 sb.	0	IN	NS	ns1.anycastdns.cz.
 sb.	0	IN	NS	ns2.anycastdns.cz.
 sb.	0	IN	NS	pch.nic.sb.
@@ -14721,7 +14776,9 @@ n.dns.nic.schaeffler.	0	IN	AAAA	2001:678:24::14
 schmidt.	0	IN	NS	a.nic.schmidt.
 schmidt.	0	IN	NS	b.nic.schmidt.
 schmidt.	0	IN	NS	c.nic.schmidt.
-schmidt.	0	IN	NS	d.nic.schmidt.
+schmidt.	0	IN	NS	x.nic.schmidt.
+schmidt.	0	IN	NS	y.nic.schmidt.
+schmidt.	0	IN	NS	z.nic.schmidt.
 schmidt.	0	IN	DS	44854 8 2 d1351c74070e9e2b0dce546b4814df0adff4e289b1f5f3c6fddddd6a8ca1e33b
 a.nic.schmidt.	0	IN	A	37.209.192.9
 a.nic.schmidt.	0	IN	AAAA	2001:dcd:1::9
@@ -14729,8 +14786,12 @@ b.nic.schmidt.	0	IN	A	37.209.194.9
 b.nic.schmidt.	0	IN	AAAA	2001:dcd:2::9
 c.nic.schmidt.	0	IN	A	37.209.196.9
 c.nic.schmidt.	0	IN	AAAA	2001:dcd:3::9
-d.nic.schmidt.	0	IN	A	37.209.198.9
-d.nic.schmidt.	0	IN	AAAA	2001:dcd:4::9
+x.nic.schmidt.	0	IN	A	156.154.172.82
+x.nic.schmidt.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.schmidt.	0	IN	A	156.154.173.82
+y.nic.schmidt.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.schmidt.	0	IN	A	156.154.174.82
+z.nic.schmidt.	0	IN	AAAA	2610:a1:1076::1:82
 scholarships.	0	IN	NS	a0.nic.scholarships.
 scholarships.	0	IN	NS	a2.nic.scholarships.
 scholarships.	0	IN	NS	b0.nic.scholarships.
@@ -14922,7 +14983,9 @@ f.nic.security.	0	IN	AAAA	2a04:2b00:13ff::68
 seek.	0	IN	NS	a.nic.seek.
 seek.	0	IN	NS	b.nic.seek.
 seek.	0	IN	NS	c.nic.seek.
-seek.	0	IN	NS	d.nic.seek.
+seek.	0	IN	NS	x.nic.seek.
+seek.	0	IN	NS	y.nic.seek.
+seek.	0	IN	NS	z.nic.seek.
 seek.	0	IN	DS	63859 8 2 e3c3a590cdfcc251b77cd4adf685fe3cce8706a0aaecd5421294b9ff2ddf8b48
 a.nic.seek.	0	IN	A	37.209.192.9
 a.nic.seek.	0	IN	AAAA	2001:dcd:1::9
@@ -14930,8 +14993,12 @@ b.nic.seek.	0	IN	A	37.209.194.9
 b.nic.seek.	0	IN	AAAA	2001:dcd:2::9
 c.nic.seek.	0	IN	A	37.209.196.9
 c.nic.seek.	0	IN	AAAA	2001:dcd:3::9
-d.nic.seek.	0	IN	A	37.209.198.9
-d.nic.seek.	0	IN	AAAA	2001:dcd:4::9
+x.nic.seek.	0	IN	A	156.154.172.82
+x.nic.seek.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.seek.	0	IN	A	156.154.173.82
+y.nic.seek.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.seek.	0	IN	A	156.154.174.82
+z.nic.seek.	0	IN	AAAA	2610:a1:1076::1:82
 select.	0	IN	NS	a.nic.select.
 select.	0	IN	NS	b.nic.select.
 select.	0	IN	NS	c.nic.select.
@@ -14977,7 +15044,9 @@ ses.	0	IN	DS	30648 8 2 f453e51f54a0acb251cda491812437db86b49c3a2861c46635588c330
 seven.	0	IN	NS	a.nic.seven.
 seven.	0	IN	NS	b.nic.seven.
 seven.	0	IN	NS	c.nic.seven.
-seven.	0	IN	NS	d.nic.seven.
+seven.	0	IN	NS	x.nic.seven.
+seven.	0	IN	NS	y.nic.seven.
+seven.	0	IN	NS	z.nic.seven.
 seven.	0	IN	DS	65404 8 2 4c4105485919cc132cea83e201b0678f71cc7db260e8be86de560a8a1864951d
 a.nic.seven.	0	IN	A	37.209.192.9
 a.nic.seven.	0	IN	AAAA	2001:dcd:1::9
@@ -14985,8 +15054,12 @@ b.nic.seven.	0	IN	A	37.209.194.9
 b.nic.seven.	0	IN	AAAA	2001:dcd:2::9
 c.nic.seven.	0	IN	A	37.209.196.9
 c.nic.seven.	0	IN	AAAA	2001:dcd:3::9
-d.nic.seven.	0	IN	A	37.209.198.9
-d.nic.seven.	0	IN	AAAA	2001:dcd:4::9
+x.nic.seven.	0	IN	A	156.154.172.82
+x.nic.seven.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.seven.	0	IN	A	156.154.173.82
+y.nic.seven.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.seven.	0	IN	A	156.154.174.82
+z.nic.seven.	0	IN	AAAA	2610:a1:1076::1:82
 sew.	0	IN	NS	a0.nic.sew.
 sew.	0	IN	NS	a2.nic.sew.
 sew.	0	IN	NS	b0.nic.sew.
@@ -16077,7 +16150,9 @@ ns1.sispa.org.sz.	0	IN	A	41.77.232.4
 tab.	0	IN	NS	a.nic.tab.
 tab.	0	IN	NS	b.nic.tab.
 tab.	0	IN	NS	c.nic.tab.
-tab.	0	IN	NS	d.nic.tab.
+tab.	0	IN	NS	x.nic.tab.
+tab.	0	IN	NS	y.nic.tab.
+tab.	0	IN	NS	z.nic.tab.
 tab.	0	IN	DS	12205 8 2 bf58e40ea4764e2e24254dcb7a365d90aca26773209827ee0a41be128ca1f977
 a.nic.tab.	0	IN	A	37.209.192.9
 a.nic.tab.	0	IN	AAAA	2001:dcd:1::9
@@ -16085,8 +16160,12 @@ b.nic.tab.	0	IN	A	37.209.194.9
 b.nic.tab.	0	IN	AAAA	2001:dcd:2::9
 c.nic.tab.	0	IN	A	37.209.196.9
 c.nic.tab.	0	IN	AAAA	2001:dcd:3::9
-d.nic.tab.	0	IN	A	37.209.198.9
-d.nic.tab.	0	IN	AAAA	2001:dcd:4::9
+x.nic.tab.	0	IN	A	156.154.172.82
+x.nic.tab.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.tab.	0	IN	A	156.154.173.82
+y.nic.tab.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.tab.	0	IN	A	156.154.174.82
+z.nic.tab.	0	IN	AAAA	2610:a1:1076::1:82
 taipei.	0	IN	NS	a.nic.taipei.
 taipei.	0	IN	NS	b.nic.taipei.
 taipei.	0	IN	NS	c.nic.taipei.
@@ -17904,7 +17983,9 @@ walmart.	0	IN	DS	42084 8 2 114198bd39750b2e840c302b523e065c55be0152955ddd7d5408a
 walter.	0	IN	NS	a.nic.walter.
 walter.	0	IN	NS	b.nic.walter.
 walter.	0	IN	NS	c.nic.walter.
-walter.	0	IN	NS	d.nic.walter.
+walter.	0	IN	NS	x.nic.walter.
+walter.	0	IN	NS	y.nic.walter.
+walter.	0	IN	NS	z.nic.walter.
 walter.	0	IN	DS	53764 8 2 1cb0d022fc25c7247a551e0a02b46025d83dfd7185cc1f016c93494c471f0e91
 a.nic.walter.	0	IN	A	37.209.192.9
 a.nic.walter.	0	IN	AAAA	2001:dcd:1::9
@@ -17912,8 +17993,12 @@ b.nic.walter.	0	IN	A	37.209.194.9
 b.nic.walter.	0	IN	AAAA	2001:dcd:2::9
 c.nic.walter.	0	IN	A	37.209.196.9
 c.nic.walter.	0	IN	AAAA	2001:dcd:3::9
-d.nic.walter.	0	IN	A	37.209.198.9
-d.nic.walter.	0	IN	AAAA	2001:dcd:4::9
+x.nic.walter.	0	IN	A	156.154.172.82
+x.nic.walter.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.walter.	0	IN	A	156.154.173.82
+y.nic.walter.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.walter.	0	IN	A	156.154.174.82
+z.nic.walter.	0	IN	AAAA	2610:a1:1076::1:82
 wang.	0	IN	NS	a.zdnscloud.com.
 wang.	0	IN	NS	b.zdnscloud.com.
 wang.	0	IN	NS	c.zdnscloud.com.
@@ -18234,7 +18319,9 @@ c0.nic.wolterskluwer.	0	IN	AAAA	2a01:8840:c8::25
 woodside.	0	IN	NS	a.nic.woodside.
 woodside.	0	IN	NS	b.nic.woodside.
 woodside.	0	IN	NS	c.nic.woodside.
-woodside.	0	IN	NS	d.nic.woodside.
+woodside.	0	IN	NS	x.nic.woodside.
+woodside.	0	IN	NS	y.nic.woodside.
+woodside.	0	IN	NS	z.nic.woodside.
 woodside.	0	IN	DS	38707 8 2 e4254780378e282920ae5d44e210da28bf5d7fadb0afca33e400b74c5086ddc0
 a.nic.woodside.	0	IN	A	37.209.192.9
 a.nic.woodside.	0	IN	AAAA	2001:dcd:1::9
@@ -18242,8 +18329,12 @@ b.nic.woodside.	0	IN	A	37.209.194.9
 b.nic.woodside.	0	IN	AAAA	2001:dcd:2::9
 c.nic.woodside.	0	IN	A	37.209.196.9
 c.nic.woodside.	0	IN	AAAA	2001:dcd:3::9
-d.nic.woodside.	0	IN	A	37.209.198.9
-d.nic.woodside.	0	IN	AAAA	2001:dcd:4::9
+x.nic.woodside.	0	IN	A	156.154.172.82
+x.nic.woodside.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.woodside.	0	IN	A	156.154.173.82
+y.nic.woodside.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.woodside.	0	IN	A	156.154.174.82
+z.nic.woodside.	0	IN	AAAA	2610:a1:1076::1:82
 work.	0	IN	NS	a.nic.work.
 work.	0	IN	NS	b.nic.work.
 work.	0	IN	NS	c.nic.work.
