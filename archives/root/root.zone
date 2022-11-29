@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112900 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022112901 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -330,7 +330,9 @@ ns.anycast.nic.af.	0	IN	AAAA	2001:500:14:6013:ad::1
 afl.	0	IN	NS	a.nic.afl.
 afl.	0	IN	NS	b.nic.afl.
 afl.	0	IN	NS	c.nic.afl.
-afl.	0	IN	NS	d.nic.afl.
+afl.	0	IN	NS	x.nic.afl.
+afl.	0	IN	NS	y.nic.afl.
+afl.	0	IN	NS	z.nic.afl.
 afl.	0	IN	DS	10006 8 2 de6443d2666e4f9e6066e1b7f1c42e3ce849246f4e1ea06ec86951a002a2efa6
 a.nic.afl.	0	IN	A	37.209.192.9
 a.nic.afl.	0	IN	AAAA	2001:dcd:1::9
@@ -338,8 +340,12 @@ b.nic.afl.	0	IN	A	37.209.194.9
 b.nic.afl.	0	IN	AAAA	2001:dcd:2::9
 c.nic.afl.	0	IN	A	37.209.196.9
 c.nic.afl.	0	IN	AAAA	2001:dcd:3::9
-d.nic.afl.	0	IN	A	37.209.198.9
-d.nic.afl.	0	IN	AAAA	2001:dcd:4::9
+x.nic.afl.	0	IN	A	156.154.172.82
+x.nic.afl.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.afl.	0	IN	A	156.154.173.82
+y.nic.afl.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.afl.	0	IN	A	156.154.174.82
+z.nic.afl.	0	IN	AAAA	2610:a1:1076::1:82
 africa.	0	IN	NS	nsp.netnod.se.
 africa.	0	IN	NS	coza1.dnsnode.net.
 africa.	0	IN	DS	44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
@@ -692,7 +698,9 @@ anquan.	0	IN	DS	27565 8 2 f8bcdc5d341ec24ca492b2a1fade90c2535844cb0f086a6ab77e00
 anz.	0	IN	NS	a.nic.anz.
 anz.	0	IN	NS	b.nic.anz.
 anz.	0	IN	NS	c.nic.anz.
-anz.	0	IN	NS	d.nic.anz.
+anz.	0	IN	NS	x.nic.anz.
+anz.	0	IN	NS	y.nic.anz.
+anz.	0	IN	NS	z.nic.anz.
 anz.	0	IN	DS	25084 8 2 6a107b65405bfe98c0cc040fbd91a29d9fc927fea447ca0ae4f5538ecf9fcba5
 a.nic.anz.	0	IN	A	37.209.192.9
 a.nic.anz.	0	IN	AAAA	2001:dcd:1::9
@@ -700,8 +708,12 @@ b.nic.anz.	0	IN	A	37.209.194.9
 b.nic.anz.	0	IN	AAAA	2001:dcd:2::9
 c.nic.anz.	0	IN	A	37.209.196.9
 c.nic.anz.	0	IN	AAAA	2001:dcd:3::9
-d.nic.anz.	0	IN	A	37.209.198.9
-d.nic.anz.	0	IN	AAAA	2001:dcd:4::9
+x.nic.anz.	0	IN	A	156.154.172.82
+x.nic.anz.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.anz.	0	IN	A	156.154.173.82
+y.nic.anz.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.anz.	0	IN	A	156.154.174.82
+z.nic.anz.	0	IN	AAAA	2610:a1:1076::1:82
 ao.	0	IN	NS	h.dns.pt.
 ao.	0	IN	NS	ao01.dns.pt.
 ao.	0	IN	NS	ao03.dns.pt.
@@ -1125,7 +1137,9 @@ d.nic.audio.	0	IN	AAAA	2a04:2b00:13ff::150
 auspost.	0	IN	NS	a.nic.auspost.
 auspost.	0	IN	NS	b.nic.auspost.
 auspost.	0	IN	NS	c.nic.auspost.
-auspost.	0	IN	NS	d.nic.auspost.
+auspost.	0	IN	NS	x.nic.auspost.
+auspost.	0	IN	NS	y.nic.auspost.
+auspost.	0	IN	NS	z.nic.auspost.
 auspost.	0	IN	DS	23341 8 2 cdce581a5b4b9280a865fc7bd798572016629e0b4c56cac1a3fccefb0d4329a2
 a.nic.auspost.	0	IN	A	37.209.192.9
 a.nic.auspost.	0	IN	AAAA	2001:dcd:1::9
@@ -1133,8 +1147,12 @@ b.nic.auspost.	0	IN	A	37.209.194.9
 b.nic.auspost.	0	IN	AAAA	2001:dcd:2::9
 c.nic.auspost.	0	IN	A	37.209.196.9
 c.nic.auspost.	0	IN	AAAA	2001:dcd:3::9
-d.nic.auspost.	0	IN	A	37.209.198.9
-d.nic.auspost.	0	IN	AAAA	2001:dcd:4::9
+x.nic.auspost.	0	IN	A	156.154.172.82
+x.nic.auspost.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.auspost.	0	IN	A	156.154.173.82
+y.nic.auspost.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.auspost.	0	IN	A	156.154.174.82
+z.nic.auspost.	0	IN	AAAA	2610:a1:1076::1:82
 author.	0	IN	NS	dns1.nic.author.
 author.	0	IN	NS	dns2.nic.author.
 author.	0	IN	NS	dns3.nic.author.
@@ -2891,7 +2909,9 @@ v2n1.nic.catering.	0	IN	AAAA	2a01:8840:fb::24
 catholic.	0	IN	NS	a.nic.catholic.
 catholic.	0	IN	NS	b.nic.catholic.
 catholic.	0	IN	NS	c.nic.catholic.
-catholic.	0	IN	NS	d.nic.catholic.
+catholic.	0	IN	NS	x.nic.catholic.
+catholic.	0	IN	NS	y.nic.catholic.
+catholic.	0	IN	NS	z.nic.catholic.
 catholic.	0	IN	DS	20539 8 2 433482ce6522917b6f0c77c23765cdd4bdac8c05ff5012ffea892cc9dcdb07f8
 a.nic.catholic.	0	IN	A	37.209.192.9
 a.nic.catholic.	0	IN	AAAA	2001:dcd:1::9
@@ -2899,8 +2919,12 @@ b.nic.catholic.	0	IN	A	37.209.194.9
 b.nic.catholic.	0	IN	AAAA	2001:dcd:2::9
 c.nic.catholic.	0	IN	A	37.209.196.9
 c.nic.catholic.	0	IN	AAAA	2001:dcd:3::9
-d.nic.catholic.	0	IN	A	37.209.198.9
-d.nic.catholic.	0	IN	AAAA	2001:dcd:4::9
+x.nic.catholic.	0	IN	A	156.154.172.82
+x.nic.catholic.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.catholic.	0	IN	A	156.154.173.82
+y.nic.catholic.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.catholic.	0	IN	A	156.154.174.82
+z.nic.catholic.	0	IN	AAAA	2610:a1:1076::1:82
 cba.	0	IN	NS	a.nic.cba.
 cba.	0	IN	NS	b.nic.cba.
 cba.	0	IN	NS	c.nic.cba.
@@ -4092,7 +4116,9 @@ d.nic.courses.	0	IN	AAAA	2001:dcd:4::9
 cpa.	0	IN	NS	a.nic.cpa.
 cpa.	0	IN	NS	b.nic.cpa.
 cpa.	0	IN	NS	c.nic.cpa.
-cpa.	0	IN	NS	d.nic.cpa.
+cpa.	0	IN	NS	x.nic.cpa.
+cpa.	0	IN	NS	y.nic.cpa.
+cpa.	0	IN	NS	z.nic.cpa.
 cpa.	0	IN	DS	25351 8 2 a5062c23ef5598a091792978fd4f5ba6729a9a30bfcf880fc1cc7d0708a3313d
 a.nic.cpa.	0	IN	A	37.209.192.9
 a.nic.cpa.	0	IN	AAAA	2001:dcd:1::9
@@ -4100,8 +4126,12 @@ b.nic.cpa.	0	IN	A	37.209.194.9
 b.nic.cpa.	0	IN	AAAA	2001:dcd:2::9
 c.nic.cpa.	0	IN	A	37.209.196.9
 c.nic.cpa.	0	IN	AAAA	2001:dcd:3::9
-d.nic.cpa.	0	IN	A	37.209.198.9
-d.nic.cpa.	0	IN	AAAA	2001:dcd:4::9
+x.nic.cpa.	0	IN	A	156.154.172.82
+x.nic.cpa.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.cpa.	0	IN	A	156.154.173.82
+y.nic.cpa.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.cpa.	0	IN	A	156.154.174.82
+z.nic.cpa.	0	IN	AAAA	2610:a1:1076::1:82
 cr.	0	IN	NS	a.lactld.org.
 cr.	0	IN	NS	p.nic.cr.
 cr.	0	IN	NS	de.nic.cr.
@@ -12137,7 +12167,7 @@ ntt.	0	IN	NS	tld1.nic.ntt.
 ntt.	0	IN	NS	tld2.nic.ntt.
 ntt.	0	IN	NS	tld3.nic.ntt.
 ntt.	0	IN	NS	tld5.nic.ntt.
-ntt.	0	IN	DS	4480 8 2 c4d7fb4e22011e0a93b009b6bfde05523ddc0cc8a32f65d55b80d3b4ab93e5e6
+ntt.	0	IN	DS	42481 8 2 d21df93a73f35f8c3428a42db60da7ccebfc2a64a42b6f5e5024f358d5e18d44
 tld1.nic.ntt.	0	IN	A	103.47.2.2
 tld1.nic.ntt.	0	IN	AAAA	2001:dda::2
 tld2.nic.ntt.	0	IN	A	117.104.133.17
@@ -14449,7 +14479,7 @@ sakura.	0	IN	NS	tld1.nic.sakura.
 sakura.	0	IN	NS	tld2.nic.sakura.
 sakura.	0	IN	NS	tld3.nic.sakura.
 sakura.	0	IN	NS	tld5.nic.sakura.
-sakura.	0	IN	DS	47122 8 2 4206a96ecde9fc5e34b5ada321e00ad072e07daa294783aae6b6e2198073c9a7
+sakura.	0	IN	DS	52222 8 2 fb0b3a130e7587e2aab1f675f289d87ad4105a64a14e346e9d18f359e3b0f741
 tld1.nic.sakura.	0	IN	A	103.47.2.3
 tld1.nic.sakura.	0	IN	AAAA	2001:dda::3
 tld2.nic.sakura.	0	IN	A	117.104.133.18
@@ -18597,7 +18627,9 @@ xn--80ao21a.	0	IN	NS	ns1.nic.kz.
 xn--80aqecdr1a.	0	IN	NS	a.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	b.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	c.nic.xn--80aqecdr1a.
-xn--80aqecdr1a.	0	IN	NS	d.nic.xn--80aqecdr1a.
+xn--80aqecdr1a.	0	IN	NS	x.nic.xn--80aqecdr1a.
+xn--80aqecdr1a.	0	IN	NS	y.nic.xn--80aqecdr1a.
+xn--80aqecdr1a.	0	IN	NS	z.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	DS	16210 8 2 3ec3f92a011e4087d2c0fdf107a5ae34ca52ffa467bd73677128a91da3f552ef
 a.nic.xn--80aqecdr1a.	0	IN	A	37.209.192.9
 a.nic.xn--80aqecdr1a.	0	IN	AAAA	2001:dcd:1::9
@@ -18605,8 +18637,12 @@ b.nic.xn--80aqecdr1a.	0	IN	A	37.209.194.9
 b.nic.xn--80aqecdr1a.	0	IN	AAAA	2001:dcd:2::9
 c.nic.xn--80aqecdr1a.	0	IN	A	37.209.196.9
 c.nic.xn--80aqecdr1a.	0	IN	AAAA	2001:dcd:3::9
-d.nic.xn--80aqecdr1a.	0	IN	A	37.209.198.9
-d.nic.xn--80aqecdr1a.	0	IN	AAAA	2001:dcd:4::9
+x.nic.xn--80aqecdr1a.	0	IN	A	156.154.172.82
+x.nic.xn--80aqecdr1a.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.xn--80aqecdr1a.	0	IN	A	156.154.173.82
+y.nic.xn--80aqecdr1a.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.xn--80aqecdr1a.	0	IN	A	156.154.174.82
+z.nic.xn--80aqecdr1a.	0	IN	AAAA	2610:a1:1076::1:82
 xn--80asehdb.	0	IN	NS	anycast9.irondns.net.
 xn--80asehdb.	0	IN	NS	anycast10.irondns.net.
 xn--80asehdb.	0	IN	NS	anycast23.irondns.net.
@@ -19239,7 +19275,9 @@ xn--mgba3a4f16a.	0	IN	NS	ns.irnic.ir.
 xn--mgba7c0bbn0a.	0	IN	NS	a.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	NS	b.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	NS	c.nic.xn--mgba7c0bbn0a.
-xn--mgba7c0bbn0a.	0	IN	NS	d.nic.xn--mgba7c0bbn0a.
+xn--mgba7c0bbn0a.	0	IN	NS	x.nic.xn--mgba7c0bbn0a.
+xn--mgba7c0bbn0a.	0	IN	NS	y.nic.xn--mgba7c0bbn0a.
+xn--mgba7c0bbn0a.	0	IN	NS	z.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	DS	2662 8 2 a083e4e9e6f8037d89de242fffe38e301bf73b7e3f132835b239b6d68258ea9f
 a.nic.xn--mgba7c0bbn0a.	0	IN	A	37.209.192.9
 a.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2001:dcd:1::9
@@ -19247,8 +19285,12 @@ b.nic.xn--mgba7c0bbn0a.	0	IN	A	37.209.194.9
 b.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2001:dcd:2::9
 c.nic.xn--mgba7c0bbn0a.	0	IN	A	37.209.196.9
 c.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2001:dcd:3::9
-d.nic.xn--mgba7c0bbn0a.	0	IN	A	37.209.198.9
-d.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2001:dcd:4::9
+x.nic.xn--mgba7c0bbn0a.	0	IN	A	156.154.172.82
+x.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.xn--mgba7c0bbn0a.	0	IN	A	156.154.173.82
+y.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.xn--mgba7c0bbn0a.	0	IN	A	156.154.174.82
+z.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2610:a1:1076::1:82
 xn--mgbaakc7dvf.	0	IN	NS	a.nic.xn--mgbaakc7dvf.
 xn--mgbaakc7dvf.	0	IN	NS	b.nic.xn--mgbaakc7dvf.
 xn--mgbaakc7dvf.	0	IN	NS	c.nic.xn--mgbaakc7dvf.
@@ -19351,7 +19393,9 @@ xn--mgbgu82a.	0	IN	DS	38605 8 2 7af2fffbd9aac1253b83673ad42ddb438d7dd35ff37da60f
 xn--mgbi4ecexp.	0	IN	NS	a.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	b.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	c.nic.xn--mgbi4ecexp.
-xn--mgbi4ecexp.	0	IN	NS	d.nic.xn--mgbi4ecexp.
+xn--mgbi4ecexp.	0	IN	NS	x.nic.xn--mgbi4ecexp.
+xn--mgbi4ecexp.	0	IN	NS	y.nic.xn--mgbi4ecexp.
+xn--mgbi4ecexp.	0	IN	NS	z.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	DS	34576 8 2 3d199736303984637fb5a1af60f2e5cf6d276f89d464039dba62c60f363f68c8
 a.nic.xn--mgbi4ecexp.	0	IN	A	37.209.192.9
 a.nic.xn--mgbi4ecexp.	0	IN	AAAA	2001:dcd:1::9
@@ -19359,8 +19403,12 @@ b.nic.xn--mgbi4ecexp.	0	IN	A	37.209.194.9
 b.nic.xn--mgbi4ecexp.	0	IN	AAAA	2001:dcd:2::9
 c.nic.xn--mgbi4ecexp.	0	IN	A	37.209.196.9
 c.nic.xn--mgbi4ecexp.	0	IN	AAAA	2001:dcd:3::9
-d.nic.xn--mgbi4ecexp.	0	IN	A	37.209.198.9
-d.nic.xn--mgbi4ecexp.	0	IN	AAAA	2001:dcd:4::9
+x.nic.xn--mgbi4ecexp.	0	IN	A	156.154.172.82
+x.nic.xn--mgbi4ecexp.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.xn--mgbi4ecexp.	0	IN	A	156.154.173.82
+y.nic.xn--mgbi4ecexp.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.xn--mgbi4ecexp.	0	IN	A	156.154.174.82
+z.nic.xn--mgbi4ecexp.	0	IN	AAAA	2610:a1:1076::1:82
 xn--mgbpl2fh.	0	IN	NS	pch.sis.sd.
 xn--mgbpl2fh.	0	IN	NS	ans1.sis.sd.
 xn--mgbt3dhd.	0	IN	NS	a.ns.nic.xn--mgbt3dhd.
@@ -19622,7 +19670,9 @@ xn--tckwe.	0	IN	DS	35520 8 2 131328bff91843a53643bf73535a6acb5ef32a916a23e0a7ab5
 xn--tiq49xqyj.	0	IN	NS	a.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	b.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	c.nic.xn--tiq49xqyj.
-xn--tiq49xqyj.	0	IN	NS	d.nic.xn--tiq49xqyj.
+xn--tiq49xqyj.	0	IN	NS	x.nic.xn--tiq49xqyj.
+xn--tiq49xqyj.	0	IN	NS	y.nic.xn--tiq49xqyj.
+xn--tiq49xqyj.	0	IN	NS	z.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	DS	2386 8 2 ef5bb5c8dbc6edfbb51f26333f779dabb955fdbeb68f276027494846ec8ed9df
 a.nic.xn--tiq49xqyj.	0	IN	A	37.209.192.9
 a.nic.xn--tiq49xqyj.	0	IN	AAAA	2001:dcd:1::9
@@ -19630,8 +19680,12 @@ b.nic.xn--tiq49xqyj.	0	IN	A	37.209.194.9
 b.nic.xn--tiq49xqyj.	0	IN	AAAA	2001:dcd:2::9
 c.nic.xn--tiq49xqyj.	0	IN	A	37.209.196.9
 c.nic.xn--tiq49xqyj.	0	IN	AAAA	2001:dcd:3::9
-d.nic.xn--tiq49xqyj.	0	IN	A	37.209.198.9
-d.nic.xn--tiq49xqyj.	0	IN	AAAA	2001:dcd:4::9
+x.nic.xn--tiq49xqyj.	0	IN	A	156.154.172.82
+x.nic.xn--tiq49xqyj.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.xn--tiq49xqyj.	0	IN	A	156.154.173.82
+y.nic.xn--tiq49xqyj.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.xn--tiq49xqyj.	0	IN	A	156.154.174.82
+z.nic.xn--tiq49xqyj.	0	IN	AAAA	2610:a1:1076::1:82
 xn--unup4y.	0	IN	NS	v0n0.nic.xn--unup4y.
 xn--unup4y.	0	IN	NS	v0n1.nic.xn--unup4y.
 xn--unup4y.	0	IN	NS	v0n2.nic.xn--unup4y.
