@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022113001 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022113002 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -8094,7 +8094,9 @@ hyundai.	0	IN	DS	48091 8 2 d4178e0bd6ef00a383544da7d1856cb37034c64a64cf70d1e08d6
 ibm.	0	IN	NS	a.nic.ibm.
 ibm.	0	IN	NS	b.nic.ibm.
 ibm.	0	IN	NS	c.nic.ibm.
-ibm.	0	IN	NS	d.nic.ibm.
+ibm.	0	IN	NS	x.nic.ibm.
+ibm.	0	IN	NS	y.nic.ibm.
+ibm.	0	IN	NS	z.nic.ibm.
 ibm.	0	IN	DS	31492 8 2 5e5ccd88746b4cdf018723a143ec14d9fb139f0009545ad21ca6aab2e1e914e2
 a.nic.ibm.	0	IN	A	37.209.192.9
 a.nic.ibm.	0	IN	AAAA	2001:dcd:1::9
@@ -8102,8 +8104,12 @@ b.nic.ibm.	0	IN	A	37.209.194.9
 b.nic.ibm.	0	IN	AAAA	2001:dcd:2::9
 c.nic.ibm.	0	IN	A	37.209.196.9
 c.nic.ibm.	0	IN	AAAA	2001:dcd:3::9
-d.nic.ibm.	0	IN	A	37.209.198.9
-d.nic.ibm.	0	IN	AAAA	2001:dcd:4::9
+x.nic.ibm.	0	IN	A	156.154.172.82
+x.nic.ibm.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.ibm.	0	IN	A	156.154.173.82
+y.nic.ibm.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.ibm.	0	IN	A	156.154.174.82
+z.nic.ibm.	0	IN	AAAA	2610:a1:1076::1:82
 icbc.	0	IN	NS	a0.nic.icbc.
 icbc.	0	IN	NS	a2.nic.icbc.
 icbc.	0	IN	NS	b0.nic.icbc.
@@ -17223,7 +17229,7 @@ b.ns.tznic.or.tz.	0	IN	AAAA	2001:43f8:e0:1::70
 ns2.tznic.or.tz.	0	IN	A	196.216.162.67
 ns2.tznic.or.tz.	0	IN	AAAA	2001:43f8:e0:1::67
 ua.	0	IN	NS	bg.ns.ua.
-ua.	0	IN	NS	cd1.ns.ua.
+ua.	0	IN	NS	nn.ns.ua.
 ua.	0	IN	NS	ho1.ns.ua.
 ua.	0	IN	NS	in1.ns.ua.
 ua.	0	IN	NS	pch.ns.ua.
@@ -17239,12 +17245,12 @@ bg.ns.ua.	0	IN	A	185.136.96.185
 bg.ns.ua.	0	IN	A	185.136.97.185
 bg.ns.ua.	0	IN	AAAA	2a06:fb00:1::2:185
 bg.ns.ua.	0	IN	AAAA	2a06:fb00:1::4:185
-cd1.ns.ua.	0	IN	A	194.0.1.9
-cd1.ns.ua.	0	IN	AAAA	2001:678:4::9
 ho1.ns.ua.	0	IN	A	195.47.253.1
 ho1.ns.ua.	0	IN	AAAA	2001:67c:258::1
 in1.ns.ua.	0	IN	A	74.123.224.40
 in1.ns.ua.	0	IN	AAAA	2604:ee00:0:101::40
+nn.ns.ua.	0	IN	A	194.58.197.4
+nn.ns.ua.	0	IN	AAAA	2a01:3f1:c001::53
 pch.ns.ua.	0	IN	A	204.61.216.12
 pch.ns.ua.	0	IN	AAAA	2001:500:14:6012:ad::1
 rcz.ns.ua.	0	IN	A	193.46.128.10
