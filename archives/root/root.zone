@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120201 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120202 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -546,7 +546,9 @@ c0.nic.allstate.	0	IN	AAAA	2a01:8840:30::9
 ally.	0	IN	NS	a.nic.ally.
 ally.	0	IN	NS	b.nic.ally.
 ally.	0	IN	NS	c.nic.ally.
-ally.	0	IN	NS	d.nic.ally.
+ally.	0	IN	NS	x.nic.ally.
+ally.	0	IN	NS	y.nic.ally.
+ally.	0	IN	NS	z.nic.ally.
 ally.	0	IN	DS	40354 8 2 46bfea1ca30072b089d2e566821640c144511b308df1f0271402d569c7332783
 a.nic.ally.	0	IN	A	37.209.192.9
 a.nic.ally.	0	IN	AAAA	2001:dcd:1::9
@@ -554,8 +556,12 @@ b.nic.ally.	0	IN	A	37.209.194.9
 b.nic.ally.	0	IN	AAAA	2001:dcd:2::9
 c.nic.ally.	0	IN	A	37.209.196.9
 c.nic.ally.	0	IN	AAAA	2001:dcd:3::9
-d.nic.ally.	0	IN	A	37.209.198.9
-d.nic.ally.	0	IN	AAAA	2001:dcd:4::9
+x.nic.ally.	0	IN	A	156.154.172.82
+x.nic.ally.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.ally.	0	IN	A	156.154.173.82
+y.nic.ally.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.ally.	0	IN	A	156.154.174.82
+z.nic.ally.	0	IN	AAAA	2610:a1:1076::1:82
 alsace.	0	IN	NS	d.nic.fr.
 alsace.	0	IN	NS	f.ext.nic.fr.
 alsace.	0	IN	NS	g.ext.nic.fr.
@@ -1029,8 +1035,6 @@ v2n1.nic.attorney.	0	IN	A	161.232.11.20
 v2n1.nic.attorney.	0	IN	AAAA	2a01:8840:f5::20
 au.	0	IN	NS	c.au.
 au.	0	IN	NS	d.au.
-au.	0	IN	NS	m.au.
-au.	0	IN	NS	n.au.
 au.	0	IN	NS	q.au.
 au.	0	IN	NS	r.au.
 au.	0	IN	NS	s.au.
@@ -1040,10 +1044,6 @@ c.au.	0	IN	A	162.159.24.179
 c.au.	0	IN	AAAA	2400:cb00:2049:1::a29f:18b3
 d.au.	0	IN	A	162.159.25.38
 d.au.	0	IN	AAAA	2400:cb00:2049:1::a29f:1926
-m.au.	0	IN	A	37.209.192.5
-m.au.	0	IN	AAAA	2001:dcd:1::5
-n.au.	0	IN	A	37.209.194.5
-n.au.	0	IN	AAAA	2001:dcd:2::5
 cctld.alpha.aridns.net.au.	0	IN	A	37.209.192.6
 cctld.alpha.aridns.net.au.	0	IN	AAAA	2001:dcd:1::6
 gtld.alpha.aridns.net.au.	0	IN	A	37.209.192.10
@@ -1503,7 +1503,9 @@ ns3.dns.nic.baseball.	0	IN	AAAA	2610:a1:1073::c8
 basketball.	0	IN	NS	a.nic.basketball.
 basketball.	0	IN	NS	b.nic.basketball.
 basketball.	0	IN	NS	c.nic.basketball.
-basketball.	0	IN	NS	d.nic.basketball.
+basketball.	0	IN	NS	x.nic.basketball.
+basketball.	0	IN	NS	y.nic.basketball.
+basketball.	0	IN	NS	z.nic.basketball.
 basketball.	0	IN	DS	46201 8 2 ca5c951d022f3965ab936d403cfbb48f2d753d7b32dde3ac146b419693dfbf30
 a.nic.basketball.	0	IN	A	37.209.192.10
 a.nic.basketball.	0	IN	AAAA	2001:dcd:1::10
@@ -1511,8 +1513,12 @@ b.nic.basketball.	0	IN	A	37.209.194.10
 b.nic.basketball.	0	IN	AAAA	2001:dcd:2::10
 c.nic.basketball.	0	IN	A	37.209.196.10
 c.nic.basketball.	0	IN	AAAA	2001:dcd:3::10
-d.nic.basketball.	0	IN	A	37.209.198.10
-d.nic.basketball.	0	IN	AAAA	2001:dcd:4::10
+x.nic.basketball.	0	IN	A	156.154.172.82
+x.nic.basketball.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.basketball.	0	IN	A	156.154.173.82
+y.nic.basketball.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.basketball.	0	IN	A	156.154.174.82
+z.nic.basketball.	0	IN	AAAA	2610:a1:1076::1:82
 bauhaus.	0	IN	NS	anycast9.irondns.net.
 bauhaus.	0	IN	NS	anycast10.irondns.net.
 bauhaus.	0	IN	NS	anycast23.irondns.net.
@@ -6873,7 +6879,9 @@ z.nic.garden.	0	IN	AAAA	2610:a1:1076::1:82
 gay.	0	IN	NS	a.nic.gay.
 gay.	0	IN	NS	b.nic.gay.
 gay.	0	IN	NS	c.nic.gay.
-gay.	0	IN	NS	d.nic.gay.
+gay.	0	IN	NS	x.nic.gay.
+gay.	0	IN	NS	y.nic.gay.
+gay.	0	IN	NS	z.nic.gay.
 gay.	0	IN	DS	32074 8 2 c725b3cbd9d404307d49d0969b57b8885fd69663aca51662b05716c9abd1361e
 a.nic.gay.	0	IN	A	37.209.192.10
 a.nic.gay.	0	IN	AAAA	2001:dcd:1::10
@@ -6881,8 +6889,12 @@ b.nic.gay.	0	IN	A	37.209.194.10
 b.nic.gay.	0	IN	AAAA	2001:dcd:2::10
 c.nic.gay.	0	IN	A	37.209.196.10
 c.nic.gay.	0	IN	AAAA	2001:dcd:3::10
-d.nic.gay.	0	IN	A	37.209.198.10
-d.nic.gay.	0	IN	AAAA	2001:dcd:4::10
+x.nic.gay.	0	IN	A	156.154.172.82
+x.nic.gay.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.gay.	0	IN	A	156.154.173.82
+y.nic.gay.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.gay.	0	IN	A	156.154.174.82
+z.nic.gay.	0	IN	AAAA	2610:a1:1076::1:82
 gb.	0	IN	NS	ns.uu.net.
 gb.	0	IN	NS	ns0.ja.net.
 gb.	0	IN	NS	ns4.ja.net.
@@ -8557,7 +8569,9 @@ ing.	0	IN	DS	27256 8 2 f7b48a11530565ead3cc6ccdcce9841b6a65a707ea8cc20a4d81f9aeb
 ink.	0	IN	NS	a.nic.ink.
 ink.	0	IN	NS	b.nic.ink.
 ink.	0	IN	NS	c.nic.ink.
-ink.	0	IN	NS	d.nic.ink.
+ink.	0	IN	NS	x.nic.ink.
+ink.	0	IN	NS	y.nic.ink.
+ink.	0	IN	NS	z.nic.ink.
 ink.	0	IN	DS	44809 8 2 f3328d3a8a78e742e5d1e84c641f399e944d62a290651d21dffee632ab6ad01e
 a.nic.ink.	0	IN	A	37.209.192.10
 a.nic.ink.	0	IN	AAAA	2001:dcd:1::10
@@ -8565,8 +8579,12 @@ b.nic.ink.	0	IN	A	37.209.194.10
 b.nic.ink.	0	IN	AAAA	2001:dcd:2::10
 c.nic.ink.	0	IN	A	37.209.196.10
 c.nic.ink.	0	IN	AAAA	2001:dcd:3::10
-d.nic.ink.	0	IN	A	37.209.198.10
-d.nic.ink.	0	IN	AAAA	2001:dcd:4::10
+x.nic.ink.	0	IN	A	156.154.172.82
+x.nic.ink.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.ink.	0	IN	A	156.154.173.82
+y.nic.ink.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.ink.	0	IN	A	156.154.174.82
+z.nic.ink.	0	IN	AAAA	2610:a1:1076::1:82
 institute.	0	IN	NS	v0n0.nic.institute.
 institute.	0	IN	NS	v0n1.nic.institute.
 institute.	0	IN	NS	v0n2.nic.institute.
@@ -10809,7 +10827,9 @@ v2n1.nic.memorial.	0	IN	AAAA	2a01:8840:fb::64
 men.	0	IN	NS	a.nic.men.
 men.	0	IN	NS	b.nic.men.
 men.	0	IN	NS	c.nic.men.
-men.	0	IN	NS	d.nic.men.
+men.	0	IN	NS	x.nic.men.
+men.	0	IN	NS	y.nic.men.
+men.	0	IN	NS	z.nic.men.
 men.	0	IN	DS	21250 8 2 6c3f496f5f6ada95799145c17fb84c995554114a8e2a77d27c58d7f383c9407f
 a.nic.men.	0	IN	A	37.209.192.10
 a.nic.men.	0	IN	AAAA	2001:dcd:1::10
@@ -10817,8 +10837,12 @@ b.nic.men.	0	IN	A	37.209.194.10
 b.nic.men.	0	IN	AAAA	2001:dcd:2::10
 c.nic.men.	0	IN	A	37.209.196.10
 c.nic.men.	0	IN	AAAA	2001:dcd:3::10
-d.nic.men.	0	IN	A	37.209.198.10
-d.nic.men.	0	IN	AAAA	2001:dcd:4::10
+x.nic.men.	0	IN	A	156.154.172.82
+x.nic.men.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.men.	0	IN	A	156.154.173.82
+y.nic.men.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.men.	0	IN	A	156.154.174.82
+z.nic.men.	0	IN	AAAA	2610:a1:1076::1:82
 menu.	0	IN	NS	a.nic.menu.
 menu.	0	IN	NS	b.nic.menu.
 menu.	0	IN	NS	c.nic.menu.
@@ -14499,7 +14523,9 @@ a.dns.flexireg.ru.	0	IN	AAAA	2a02:2090:6800::1
 rugby.	0	IN	NS	a.nic.rugby.
 rugby.	0	IN	NS	b.nic.rugby.
 rugby.	0	IN	NS	c.nic.rugby.
-rugby.	0	IN	NS	d.nic.rugby.
+rugby.	0	IN	NS	x.nic.rugby.
+rugby.	0	IN	NS	y.nic.rugby.
+rugby.	0	IN	NS	z.nic.rugby.
 rugby.	0	IN	DS	62356 8 2 df8506247c16ff7ee32eb239208b60960639af729379a13c135c52d606e8520d
 a.nic.rugby.	0	IN	A	37.209.192.10
 a.nic.rugby.	0	IN	AAAA	2001:dcd:1::10
@@ -14507,8 +14533,12 @@ b.nic.rugby.	0	IN	A	37.209.194.10
 b.nic.rugby.	0	IN	AAAA	2001:dcd:2::10
 c.nic.rugby.	0	IN	A	37.209.196.10
 c.nic.rugby.	0	IN	AAAA	2001:dcd:3::10
-d.nic.rugby.	0	IN	A	37.209.198.10
-d.nic.rugby.	0	IN	AAAA	2001:dcd:4::10
+x.nic.rugby.	0	IN	A	156.154.172.82
+x.nic.rugby.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.rugby.	0	IN	A	156.154.173.82
+y.nic.rugby.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.rugby.	0	IN	A	156.154.174.82
+z.nic.rugby.	0	IN	AAAA	2610:a1:1076::1:82
 ruhr.	0	IN	NS	a.nic.ruhr.
 ruhr.	0	IN	NS	b.nic.ruhr.
 ruhr.	0	IN	NS	c.nic.ruhr.
@@ -18057,7 +18087,9 @@ c0.nic.vote.	0	IN	AAAA	2a01:8840:a4::9
 voting.	0	IN	NS	a.nic.voting.
 voting.	0	IN	NS	b.nic.voting.
 voting.	0	IN	NS	c.nic.voting.
-voting.	0	IN	NS	d.nic.voting.
+voting.	0	IN	NS	x.nic.voting.
+voting.	0	IN	NS	y.nic.voting.
+voting.	0	IN	NS	z.nic.voting.
 voting.	0	IN	DS	9277 8 2 721cd786aa7f964ef0b943a67beaa4333756f65771475f91678c536616e2037f
 a.nic.voting.	0	IN	A	37.209.192.10
 a.nic.voting.	0	IN	AAAA	2001:dcd:1::10
@@ -18065,8 +18097,12 @@ b.nic.voting.	0	IN	A	37.209.194.10
 b.nic.voting.	0	IN	AAAA	2001:dcd:2::10
 c.nic.voting.	0	IN	A	37.209.196.10
 c.nic.voting.	0	IN	AAAA	2001:dcd:3::10
-d.nic.voting.	0	IN	A	37.209.198.10
-d.nic.voting.	0	IN	AAAA	2001:dcd:4::10
+x.nic.voting.	0	IN	A	156.154.172.82
+x.nic.voting.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.voting.	0	IN	A	156.154.173.82
+y.nic.voting.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.voting.	0	IN	A	156.154.174.82
+z.nic.voting.	0	IN	AAAA	2610:a1:1076::1:82
 voto.	0	IN	NS	a0.nic.voto.
 voto.	0	IN	NS	a2.nic.voto.
 voto.	0	IN	NS	b0.nic.voto.
@@ -18385,7 +18421,9 @@ wien.	0	IN	DS	57889 8 2 e2aa9ba196c7d4f10a8320a710fc24ad4bc86ce362239c307af3b875
 wiki.	0	IN	NS	a.nic.wiki.
 wiki.	0	IN	NS	b.nic.wiki.
 wiki.	0	IN	NS	c.nic.wiki.
-wiki.	0	IN	NS	d.nic.wiki.
+wiki.	0	IN	NS	x.nic.wiki.
+wiki.	0	IN	NS	y.nic.wiki.
+wiki.	0	IN	NS	z.nic.wiki.
 wiki.	0	IN	DS	10870 8 2 3c2ca6a68be31fd1222eb66aaa693c6c4991e6f8737ca62b1427b3c9e3e67539
 a.nic.wiki.	0	IN	A	37.209.192.10
 a.nic.wiki.	0	IN	AAAA	2001:dcd:1::10
@@ -18393,8 +18431,12 @@ b.nic.wiki.	0	IN	A	37.209.194.10
 b.nic.wiki.	0	IN	AAAA	2001:dcd:2::10
 c.nic.wiki.	0	IN	A	37.209.196.10
 c.nic.wiki.	0	IN	AAAA	2001:dcd:3::10
-d.nic.wiki.	0	IN	A	37.209.198.10
-d.nic.wiki.	0	IN	AAAA	2001:dcd:4::10
+x.nic.wiki.	0	IN	A	156.154.172.82
+x.nic.wiki.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.wiki.	0	IN	A	156.154.173.82
+y.nic.wiki.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.wiki.	0	IN	A	156.154.174.82
+z.nic.wiki.	0	IN	AAAA	2610:a1:1076::1:82
 williamhill.	0	IN	NS	a.nic.williamhill.
 williamhill.	0	IN	NS	b.nic.williamhill.
 williamhill.	0	IN	NS	c.nic.williamhill.
@@ -18659,7 +18701,9 @@ xbox.	0	IN	DS	48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a245770
 xerox.	0	IN	NS	a.nic.xerox.
 xerox.	0	IN	NS	b.nic.xerox.
 xerox.	0	IN	NS	c.nic.xerox.
-xerox.	0	IN	NS	d.nic.xerox.
+xerox.	0	IN	NS	x.nic.xerox.
+xerox.	0	IN	NS	y.nic.xerox.
+xerox.	0	IN	NS	z.nic.xerox.
 xerox.	0	IN	DS	26830 8 2 7b5c562e138431a73348593e3a2d18c66deba2294f849c3b5ba62c7fb92443d3
 a.nic.xerox.	0	IN	A	37.209.192.9
 a.nic.xerox.	0	IN	AAAA	2001:dcd:1::9
@@ -18667,8 +18711,12 @@ b.nic.xerox.	0	IN	A	37.209.194.9
 b.nic.xerox.	0	IN	AAAA	2001:dcd:2::9
 c.nic.xerox.	0	IN	A	37.209.196.9
 c.nic.xerox.	0	IN	AAAA	2001:dcd:3::9
-d.nic.xerox.	0	IN	A	37.209.198.9
-d.nic.xerox.	0	IN	AAAA	2001:dcd:4::9
+x.nic.xerox.	0	IN	A	156.154.172.82
+x.nic.xerox.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.xerox.	0	IN	A	156.154.173.82
+y.nic.xerox.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.xerox.	0	IN	A	156.154.174.82
+z.nic.xerox.	0	IN	AAAA	2610:a1:1076::1:82
 xfinity.	0	IN	NS	dns1.nic.xfinity.
 xfinity.	0	IN	NS	dns2.nic.xfinity.
 xfinity.	0	IN	NS	dns3.nic.xfinity.
