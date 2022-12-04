@@ -3,6 +3,7 @@
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `g.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
 * `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/root.zone)
@@ -25,4 +26,5 @@
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
+* `xn--mgba3a4f16a.` via `a.nic.ir.`: [Click here to view zone data.](archives/xn--mgba3a4f16a/xn--mgba3a4f16a.zone)
 * `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
