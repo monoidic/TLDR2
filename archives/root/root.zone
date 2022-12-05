@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120501 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120502 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -3122,7 +3122,7 @@ ch.	0	IN	NS	b.nic.ch.
 ch.	0	IN	NS	d.nic.ch.
 ch.	0	IN	NS	e.nic.ch.
 ch.	0	IN	NS	f.nic.ch.
-ch.	0	IN	DS	11648 13 2 761408e4182706f4daed906f81b5b1677fe1752c2b0794ff3f262fa1ef760519
+ch.	0	IN	DS	10 13 2 0e175543a74d9083ea977bab2bee98a771995f80982fb796b2b0b9cc6413d1a6
 ns.itu.ch.	0	IN	A	156.106.192.121
 ns.itu.ch.	0	IN	AAAA	2a00:7580:60:2141::10
 a.nic.ch.	0	IN	A	130.59.31.41
@@ -7770,7 +7770,7 @@ hk.	0	IN	NS	v.hkirc.net.hk.
 hk.	0	IN	NS	x.hkirc.net.hk.
 hk.	0	IN	NS	y.hkirc.net.hk.
 hk.	0	IN	NS	z.hkirc.net.hk.
-hk.	0	IN	DS	28487 8 2 b41ea828b063d4d5c188a23177fd1723e28c083a1a52768cf9f80e09798ecf6f
+hk.	0	IN	DS	859 8 2 47dc78a2f99d4702fca38efafbf8ade187b5cfda762494d59c9d8c55c533c8fe
 ns2.cuhk.edu.hk.	0	IN	A	137.189.6.21
 ns2.cuhk.edu.hk.	0	IN	AAAA	2405:3000:3:6::15
 c.hkirc.net.hk.	0	IN	A	203.119.2.218
@@ -9839,7 +9839,7 @@ li.	0	IN	NS	b.nic.li.
 li.	0	IN	NS	d.nic.li.
 li.	0	IN	NS	e.nic.li.
 li.	0	IN	NS	f.nic.li.
-li.	0	IN	DS	30836 13 2 ead8752161d95d2cb1cf6dfafc9f3af55e9cacfaad56857c240af2c2c0347094
+li.	0	IN	DS	43984 13 2 844e2b8c231f43692d319a33657a9a83c9f22baf53f276ef23f8405e20a0f1fa
 a.nic.li.	0	IN	A	130.59.31.42
 a.nic.li.	0	IN	AAAA	2001:620:0:ff::57
 b.nic.li.	0	IN	A	130.59.31.44
@@ -19480,7 +19480,7 @@ xn--j6w193g.	0	IN	NS	v.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	x.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	y.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	z.hkirc.net.hk.
-xn--j6w193g.	0	IN	DS	65534 8 2 4960dfcdd50a18a4d899f63ea48a48bf02e21efdda84ddbf2f04f2b68b1b0610
+xn--j6w193g.	0	IN	DS	51901 8 2 e6ca0901b162f725e226e514ec0fab47f90426a2effa779337efbb4965e56c34
 xn--jlq480n2rg.	0	IN	NS	dns1.nic.xn--jlq480n2rg.
 xn--jlq480n2rg.	0	IN	NS	dns2.nic.xn--jlq480n2rg.
 xn--jlq480n2rg.	0	IN	NS	dns3.nic.xn--jlq480n2rg.
