@@ -1,7 +1,7 @@
-sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915049022 600 900 7200 3600
+sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915049027 600 900 7200 3600
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sl.	0	IN	TXT	"Generation Time: 1670222713"
+sl.	0	IN	TXT	"Generation Time: 1670226302"
 sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvuehEkD2q048nkEqAHEiL+r8ggxV+t+SIyTwWKU3OkkQdHzCUpEEK5nVE2CIyjidqMxC99aAA5fSJH+oQexm6/gh9gSvd6Xmudu2mNbHH72Gvg6iJ88ODrlu184vYzg95xtNN7Mw1Vljq/1voHFzdy0SrB6HP7H+PrnO773Lc8u7bt/FgWd0h4/BWxdoK2iyeG2sqO6CoLmAikSBrXeCN59PixOsJgLo9Wyp8UC6LXIS8veSZ6/AgtyR9F+r3I5VexjQzdjr8DcyOpym/cfSq0UudakoLIsrAy9Ji1M= ;{id = 14507 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
@@ -218,8 +218,10 @@ ahold.sl.	0	IN	NS	ns140.slinkdns.net.
 ahold.sl.	0	IN	NS	ns141.slinkdns.net.
 aiac.sl.	0	IN	NS	ns11.domaincontrol.com.
 aiac.sl.	0	IN	NS	ns12.domaincontrol.com.
-ainetworks.sl.	0	IN	NS	ns1.alemobet.net.
-ainetworks.sl.	0	IN	NS	ns2.alemobet.net.
+ainetworks.sl.	0	IN	NS	ns1.mysecurecloudhost.com.
+ainetworks.sl.	0	IN	NS	ns2.mysecurecloudhost.com.
+ainetworks.sl.	0	IN	NS	ns3.mysecurecloudhost.com.
+ainetworks.sl.	0	IN	NS	ns4.mysecurecloudhost.com.
 air-up.sl.	0	IN	NS	a.ns14.net.
 air-up.sl.	0	IN	NS	b.ns14.net.
 air-up.sl.	0	IN	NS	c.ns14.net.
@@ -582,6 +584,8 @@ beta.sl.	0	IN	NS	ns1.p21.dynect.net.
 beta.sl.	0	IN	NS	ns2.p21.dynect.net.
 beta.sl.	0	IN	NS	ns3.p21.dynect.net.
 beta.sl.	0	IN	NS	ns4.p21.dynect.net.
+betaservices.sl.	0	IN	NS	ns1.nic.sl.
+betaservices.sl.	0	IN	NS	ns2.nic.sl.
 betcris.sl.	0	IN	NS	ns01.trademarkarea.com.
 betcris.sl.	0	IN	NS	ns02.trademarkarea.com.
 betcris.sl.	0	IN	NS	ns03.trademarkarea.com.
@@ -3487,6 +3491,10 @@ piservices.sl.	0	IN	NS	ns1.namecity.com.
 piservices.sl.	0	IN	NS	ns2.namecity.com.
 pkf.sl.	0	IN	NS	ns1.csolutions.org.uk.
 pkf.sl.	0	IN	NS	ns2.csolutions.org.uk.
+place.sl.	0	IN	NS	ns-398.awsdns-49.com.
+place.sl.	0	IN	NS	ns-848.awsdns-42.net.
+place.sl.	0	IN	NS	ns-1494.awsdns-58.org.
+place.sl.	0	IN	NS	ns-1677.awsdns-17.co.uk.
 playgroundfoundation.sl.	0	IN	NS	ns1.c20146.sgvps.net.
 playgroundfoundation.sl.	0	IN	NS	ns2.c20146.sgvps.net.
 plus232.sl.	0	IN	NS	ns1.stoppress141.com.
@@ -4533,6 +4541,10 @@ thescore.sl.	0	IN	NS	ns2.101domain.com.
 thescore.sl.	0	IN	NS	ns5.101domain.com.
 thespectatornewspaper.sl.	0	IN	NS	ns1.sbtshosting.com.
 thespectatornewspaper.sl.	0	IN	NS	ns2.sbtshosting.com.
+thing.sl.	0	IN	NS	ns-398.awsdns-49.com.
+thing.sl.	0	IN	NS	ns-848.awsdns-42.net.
+thing.sl.	0	IN	NS	ns-1494.awsdns-58.org.
+thing.sl.	0	IN	NS	ns-1677.awsdns-17.co.uk.
 thunderball.sl.	0	IN	NS	ns1133.hostgator.com.
 thunderball.sl.	0	IN	NS	ns1134.hostgator.com.
 thunderkick.sl.	0	IN	NS	ns1.otmoredns.com.
@@ -4694,6 +4706,8 @@ unhcr.sl.	0	IN	NS	ns4.brandshelter.net.
 unhcr.sl.	0	IN	NS	ns5.brandshelter.us.
 unieuro.sl.	0	IN	NS	ns1.register.it.
 unieuro.sl.	0	IN	NS	ns2.register.it.
+unifiers.sl.	0	IN	NS	ns14.wixdns.net.
+unifiers.sl.	0	IN	NS	ns15.wixdns.net.
 unimak.sl.	0	IN	NS	cns323.hostgator.com.
 unimak.sl.	0	IN	NS	cns324.hostgator.com.
 uniontelecoms.sl.	0	IN	NS	ns3.alemobet.com.
