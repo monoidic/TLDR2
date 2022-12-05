@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022120201 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022120501 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -1642,6 +1642,9 @@ citybook.cv.	0	IN	NS	ns1.webhs.org.
 citybook.cv.	0	IN	NS	ns2.webhs.org.
 citybook.cv.	0	IN	NS	ns3.webhs.org.
 citybook.cv.	0	IN	NS	ns4.webhs.org.
+clan.cv.	0	IN	NS	ns01.trademarkarea.com.
+clan.cv.	0	IN	NS	ns02.trademarkarea.com.
+clan.cv.	0	IN	NS	ns03.trademarkarea.com.
 clarisbb.cv.	0	IN	NS	ns1.clarisbb.cv.
 clarisbb.cv.	0	IN	NS	ns2.clarisbb.cv.
 ns1.clarisbb.cv.	0	IN	A	162.241.183.58
@@ -5001,9 +5004,8 @@ imtengenharia.cv.	0	IN	NS	ns3.hostkriolo.biz.
 imtengenharia.cv.	0	IN	NS	ns4.hostkriolo.biz.
 incentea.cv.	0	IN	NS	dns1.incentea.com.
 incentea.cv.	0	IN	NS	dns2.incentea.com.
-incv.cv.	0	IN	NS	ns1.nosiwebhosting.com.
-incv.cv.	0	IN	NS	ns2.nosiwebhosting.com.
-incv.cv.	0	IN	NS	ns3.nosiwebhosting.com.
+incv.cv.	0	IN	NS	dns1.prime.cv.
+incv.cv.	0	IN	NS	dns2.prime.cv.
 indp.cv.	0	IN	NS	ns1.webs24h.com.
 indp.cv.	0	IN	NS	ns2.webs24h.com.
 industriasnilo.cv.	0	IN	NS	ns1.dnscpanel.com.
@@ -5650,6 +5652,11 @@ mainservice.cv.	0	IN	NS	ns2.mainservice.pt.
 mainvest.cv.	0	IN	NS	ns1.nosiwebhosting.com.
 mainvest.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 mainvest.cv.	0	IN	NS	ns3.nosiwebhosting.com.
+maissaude.cv.	0	IN	A	45.154.66.253
+maissaude.cv.	0	IN	NS	ns1.wtservers.com.
+maissaude.cv.	0	IN	NS	ns2.wtservers.com.
+maissaude.cv.	0	IN	NS	ns3.wtservers.com.
+maissaude.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 maistech.cv.	0	IN	NS	ns1.vercel-dns.com.
 maistech.cv.	0	IN	NS	ns2.vercel-dns.com.
 maj.cv.	0	IN	NS	b186ns1.hocnet.pt.
