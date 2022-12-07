@@ -1,7 +1,7 @@
-sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915049437 600 900 7200 3600
+sl.	0	IN	SOA	ns1.neoip.com.sl. adam.neoip.com. 2915049442 600 900 7200 3600
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sl.	0	IN	TXT	"Generation Time: 1670438711"
+sl.	0	IN	TXT	"Generation Time: 1670442315"
 sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvuehEkD2q048nkEqAHEiL+r8ggxV+t+SIyTwWKU3OkkQdHzCUpEEK5nVE2CIyjidqMxC99aAA5fSJH+oQexm6/gh9gSvd6Xmudu2mNbHH72Gvg6iJ88ODrlu184vYzg95xtNN7Mw1Vljq/1voHFzdy0SrB6HP7H+PrnO773Lc8u7bt/FgWd0h4/BWxdoK2iyeG2sqO6CoLmAikSBrXeCN59PixOsJgLo9Wyp8UC6LXIS8veSZ6/AgtyR9F+r3I5VexjQzdjr8DcyOpym/cfSq0UudakoLIsrAy9Ji1M= ;{id = 14507 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
@@ -378,6 +378,10 @@ apexxnar.sl.	0	IN	NS	ns1.p15.dynect.net.
 apexxnar.sl.	0	IN	NS	ns2.p15.dynect.net.
 apexxnar.sl.	0	IN	NS	ns3.p15.dynect.net.
 apexxnar.sl.	0	IN	NS	ns4.p15.dynect.net.
+apis.sl.	0	IN	NS	pns11.cloudns.net.
+apis.sl.	0	IN	NS	pns12.cloudns.net.
+apis.sl.	0	IN	NS	pns13.cloudns.net.
+apis.sl.	0	IN	NS	pns14.cloudns.net.
 apixaban.sl.	0	IN	NS	ns1.bms.com.
 apixaban.sl.	0	IN	NS	ns2.bms.com.
 apixaban.sl.	0	IN	NS	ns3.bms.com.
@@ -825,6 +829,10 @@ call.sl.	0	IN	NS	ns4.p21.dynect.net.
 call.sl.	0	IN	NS	dns-live.starleaf.com.
 calldirect365.sl.	0	IN	NS	ns1.afcom.sl.
 calldirect365.sl.	0	IN	NS	ns2.afcom.sl.
+calls.sl.	0	IN	NS	pns11.cloudns.net.
+calls.sl.	0	IN	NS	pns12.cloudns.net.
+calls.sl.	0	IN	NS	pns13.cloudns.net.
+calls.sl.	0	IN	NS	pns14.cloudns.net.
 caltex.sl.	0	IN	NS	nswfc.chevron.com.
 caltex.sl.	0	IN	NS	nssghq.chevron.com.
 caltex.sl.	0	IN	NS	nschvpk.chevron.com.
@@ -956,6 +964,10 @@ change.sl.	0	IN	NS	ns1.nic.sl.
 change.sl.	0	IN	NS	ns2.nic.sl.
 chasl.sl.	0	IN	NS	ns3.alemobet.com.
 chasl.sl.	0	IN	NS	ns4.alemobet.com.
+chat.sl.	0	IN	NS	pns11.cloudns.net.
+chat.sl.	0	IN	NS	pns12.cloudns.net.
+chat.sl.	0	IN	NS	pns13.cloudns.net.
+chat.sl.	0	IN	NS	pns14.cloudns.net.
 chaytor.sl.	0	IN	NS	ns47.domaincontrol.com.
 chaytor.sl.	0	IN	NS	ns48.domaincontrol.com.
 chess.sl.	0	IN	NS	ns1.technosysies.com.
@@ -1538,6 +1550,10 @@ esc.sl.	0	IN	NS	ns2.digitalocean.com.
 esc.sl.	0	IN	NS	ns3.digitalocean.com.
 eservices.sl.	0	IN	NS	cns99.hostgator.com.
 eservices.sl.	0	IN	NS	cns100.hostgator.com.
+esim.sl.	0	IN	NS	pns11.cloudns.net.
+esim.sl.	0	IN	NS	pns12.cloudns.net.
+esim.sl.	0	IN	NS	pns13.cloudns.net.
+esim.sl.	0	IN	NS	pns14.cloudns.net.
 eskafinance.sl.	0	IN	NS	ns41.cloudns.net.
 eskafinance.sl.	0	IN	NS	ns42.cloudns.net.
 eskafinance.sl.	0	IN	NS	ns43.cloudns.net.
@@ -1590,6 +1606,10 @@ exacttarget.sl.	0	IN	NS	ns1.exacttarget.com.
 exacttarget.sl.	0	IN	NS	ns2.exacttarget.com.
 exagrid.sl.	0	IN	NS	ns1.instradns.com.
 exagrid.sl.	0	IN	NS	ns2.instradns.com.
+explore.sl.	0	IN	NS	pns11.cloudns.net.
+explore.sl.	0	IN	NS	pns12.cloudns.net.
+explore.sl.	0	IN	NS	pns13.cloudns.net.
+explore.sl.	0	IN	NS	pns14.cloudns.net.
 exploresierraleone.sl.	0	IN	NS	ns1.us199.siteground.us.
 exploresierraleone.sl.	0	IN	NS	ns2.us199.siteground.us.
 expresscart.sl.	0	IN	NS	ns1.nic.sl.
@@ -2481,6 +2501,9 @@ khamu.sl.	0	IN	NS	ns1.idtlabs.xyz.
 khamu.sl.	0	IN	NS	ns2.idtlabs.xyz.
 khub.sl.	0	IN	NS	ns1.txpro2.fcomet.com.
 khub.sl.	0	IN	NS	ns2.txpro2.fcomet.com.
+kickbet.sl.	0	IN	NS	ns01.trademarkarea.com.
+kickbet.sl.	0	IN	NS	ns02.trademarkarea.com.
+kickbet.sl.	0	IN	NS	ns03.trademarkarea.com.
 kidso.sl.	0	IN	NS	chan.ns.cloudflare.com.
 kidso.sl.	0	IN	NS	austin.ns.cloudflare.com.
 kingmakers.sl.	0	IN	NS	dns1.safenames.com.
@@ -2857,6 +2880,10 @@ message.sl.	0	IN	NS	ns0.fink.org.
 message.sl.	0	IN	NS	ns1.fink.org.
 message.sl.	0	IN	NS	ns2.fink.org.
 message.sl.	0	IN	NS	ns3.fink.org.
+messages.sl.	0	IN	NS	pns11.cloudns.net.
+messages.sl.	0	IN	NS	pns12.cloudns.net.
+messages.sl.	0	IN	NS	pns13.cloudns.net.
+messages.sl.	0	IN	NS	pns14.cloudns.net.
 meta.sl.	0	IN	NS	ns1.101domain.com.
 meta.sl.	0	IN	NS	ns2.101domain.com.
 metafacebook.sl.	0	IN	NS	ns1.101domain.com.
@@ -3472,6 +3499,10 @@ phneoc.sl.	0	IN	NS	ns-1097.awsdns-09.org.
 phneoc.sl.	0	IN	NS	ns-1753.awsdns-27.co.uk.
 phoenix.sl.	0	IN	NS	ns140.slinkdns.net.
 phoenix.sl.	0	IN	NS	ns141.slinkdns.net.
+phones.sl.	0	IN	NS	pns11.cloudns.net.
+phones.sl.	0	IN	NS	pns12.cloudns.net.
+phones.sl.	0	IN	NS	pns13.cloudns.net.
+phones.sl.	0	IN	NS	pns14.cloudns.net.
 pigroup.sl.	0	IN	NS	ns1.mysecurecloudhost.com.
 pigroup.sl.	0	IN	NS	ns2.mysecurecloudhost.com.
 pigroup.sl.	0	IN	NS	ns3.mysecurecloudhost.com.
@@ -3584,6 +3615,10 @@ probe.sl.	0	IN	NS	ns-cloud-e1.googledomains.com.
 probe.sl.	0	IN	NS	ns-cloud-e2.googledomains.com.
 probe.sl.	0	IN	NS	ns-cloud-e3.googledomains.com.
 probe.sl.	0	IN	NS	ns-cloud-e4.googledomains.com.
+process.sl.	0	IN	NS	pns11.cloudns.net.
+process.sl.	0	IN	NS	pns12.cloudns.net.
+process.sl.	0	IN	NS	pns13.cloudns.net.
+process.sl.	0	IN	NS	pns14.cloudns.net.
 procure.sl.	0	IN	NS	ns1.c20146.sgvps.net.
 procure.sl.	0	IN	NS	ns2.c20146.sgvps.net.
 prodigi.sl.	0	IN	NS	sb4.aplisoft.net.
@@ -4043,6 +4078,10 @@ sierrawifi.sl.	0	IN	NS	ns1.alemobet.com.
 sierrawifi.sl.	0	IN	NS	ns2.alemobet.com.
 siesta.sl.	0	IN	NS	pdns11.domaincontrol.com.
 siesta.sl.	0	IN	NS	pdns12.domaincontrol.com.
+signal.sl.	0	IN	NS	pns11.cloudns.net.
+signal.sl.	0	IN	NS	pns12.cloudns.net.
+signal.sl.	0	IN	NS	pns13.cloudns.net.
+signal.sl.	0	IN	NS	pns14.cloudns.net.
 signatureconnect.sl.	0	IN	NS	ns8495.hostgator.com.
 signatureconnect.sl.	0	IN	NS	ns8496.hostgator.com.
 silvaortus.sl.	0	IN	NS	ns1.rcuk.net.
@@ -4058,6 +4097,10 @@ simmons.sl.	0	IN	NS	ns3.ipmanagerinc.net.
 simmons.sl.	0	IN	NS	ns4.ipmanagerinc.net.
 simply.sl.	0	IN	NS	ns1.register.it.
 simply.sl.	0	IN	NS	ns2.register.it.
+sims.sl.	0	IN	NS	pns11.cloudns.net.
+sims.sl.	0	IN	NS	pns12.cloudns.net.
+sims.sl.	0	IN	NS	pns13.cloudns.net.
+sims.sl.	0	IN	NS	pns14.cloudns.net.
 singsong.sl.	0	IN	NS	ns1.siteground.net.
 singsong.sl.	0	IN	NS	ns2.siteground.net.
 siniat.sl.	0	IN	NS	ns1.markmonitor.com.
