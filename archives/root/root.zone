@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120702 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -671,14 +671,11 @@ ns2.dns.nic.amica.	0	IN	AAAA	2610:a1:1072::b
 ns3.dns.nic.amica.	0	IN	A	156.154.159.11
 ns3.dns.nic.amica.	0	IN	AAAA	2610:a1:1073::b
 amsterdam.	0	IN	NS	ns1.nic.amsterdam.
-amsterdam.	0	IN	NS	ns2.nic.amsterdam.
 amsterdam.	0	IN	NS	ns3.nic.amsterdam.
 amsterdam.	0	IN	NS	ns4.nic.amsterdam.
 amsterdam.	0	IN	DS	56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
 ns1.nic.amsterdam.	0	IN	A	194.0.28.4
 ns1.nic.amsterdam.	0	IN	AAAA	2001:678:2c:0:194:0:28:4
-ns2.nic.amsterdam.	0	IN	A	194.146.106.134
-ns2.nic.amsterdam.	0	IN	AAAA	2001:67c:1010:34::53
 ns3.nic.amsterdam.	0	IN	A	194.0.25.26
 ns3.nic.amsterdam.	0	IN	AAAA	2001:678:20::26
 ns4.nic.amsterdam.	0	IN	A	185.159.199.202
@@ -11457,7 +11454,6 @@ m.mx-ns.mx.	0	IN	A	200.94.176.1
 m.mx-ns.mx.	0	IN	AAAA	2001:13c7:7000::1
 o.mx-ns.mx.	0	IN	A	200.23.1.1
 x.mx-ns.mx.	0	IN	A	201.131.252.1
-ns3.nic.mx.	0	IN	A	200.33.111.1
 my.	0	IN	NS	a.nic.my.
 my.	0	IN	NS	a.mynic.centralnic-dns.com.
 my.	0	IN	NS	b.mynic.centralnic-dns.com.
@@ -12185,14 +12181,11 @@ nissay.	0	IN	NS	ac3.nstld.com.
 nissay.	0	IN	NS	ac4.nstld.com.
 nissay.	0	IN	DS	62124 8 2 b59d6bda2c131f954a260174aae128a43ba29580997fc822e4006148960acfd4
 nl.	0	IN	NS	ns1.dns.nl.
-nl.	0	IN	NS	ns2.dns.nl.
 nl.	0	IN	NS	ns3.dns.nl.
 nl.	0	IN	NS	ns4.dns.nl.
 nl.	0	IN	DS	34112 8 2 3c5b5f9b3557455c50751a9be9ebe9238c88e19f5f07f930976917b51b95cd22
 ns1.dns.nl.	0	IN	A	194.0.28.53
 ns1.dns.nl.	0	IN	AAAA	2001:678:2c:0:194:0:28:53
-ns2.dns.nl.	0	IN	A	194.146.106.42
-ns2.dns.nl.	0	IN	AAAA	2001:67c:1010:10::53
 ns3.dns.nl.	0	IN	A	194.0.25.24
 ns3.dns.nl.	0	IN	AAAA	2001:678:20::24
 ns4.dns.nl.	0	IN	A	185.159.199.200
@@ -12561,7 +12554,9 @@ omega.	0	IN	DS	4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df3
 one.	0	IN	NS	a.nic.one.
 one.	0	IN	NS	b.nic.one.
 one.	0	IN	NS	c.nic.one.
-one.	0	IN	NS	d.nic.one.
+one.	0	IN	NS	x.nic.one.
+one.	0	IN	NS	y.nic.one.
+one.	0	IN	NS	z.nic.one.
 one.	0	IN	DS	56899 8 2 c28cde2f5e88289c26584a4e6871b41e0f0c2d5f7f2df2906e8fbb275ac4aa68
 a.nic.one.	0	IN	A	37.209.192.9
 a.nic.one.	0	IN	AAAA	2001:dcd:1::9
@@ -12569,8 +12564,12 @@ b.nic.one.	0	IN	A	37.209.194.9
 b.nic.one.	0	IN	AAAA	2001:dcd:2::9
 c.nic.one.	0	IN	A	37.209.196.9
 c.nic.one.	0	IN	AAAA	2001:dcd:3::9
-d.nic.one.	0	IN	A	37.209.198.9
-d.nic.one.	0	IN	AAAA	2001:dcd:4::9
+x.nic.one.	0	IN	A	156.154.172.82
+x.nic.one.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.one.	0	IN	A	156.154.173.82
+y.nic.one.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.one.	0	IN	A	156.154.174.82
+z.nic.one.	0	IN	AAAA	2610:a1:1076::1:82
 ong.	0	IN	NS	a0.nic.ong.
 ong.	0	IN	NS	a2.nic.ong.
 ong.	0	IN	NS	b0.nic.ong.
@@ -13444,14 +13443,11 @@ b0.nic.poker.	0	IN	AAAA	2a01:8840:17::33
 c0.nic.poker.	0	IN	A	65.22.22.33
 c0.nic.poker.	0	IN	AAAA	2a01:8840:18::33
 politie.	0	IN	NS	ns1.nic.politie.
-politie.	0	IN	NS	ns2.nic.politie.
 politie.	0	IN	NS	ns3.nic.politie.
 politie.	0	IN	NS	ns4.nic.politie.
 politie.	0	IN	DS	63485 8 2 98f1793434c640fcb733f3a17c6bbe63d32666debe54bb4d264bc22f273a4e15
 ns1.nic.politie.	0	IN	A	194.0.28.5
 ns1.nic.politie.	0	IN	AAAA	2001:678:2c:0:194:0:28:5
-ns2.nic.politie.	0	IN	A	194.146.106.42
-ns2.nic.politie.	0	IN	AAAA	2001:67c:1010:10::53
 ns3.nic.politie.	0	IN	A	194.0.25.27
 ns3.nic.politie.	0	IN	AAAA	2001:678:20::27
 ns4.nic.politie.	0	IN	A	185.159.199.203
@@ -17278,7 +17274,6 @@ b0.nic.trv.	0	IN	AAAA	2a01:8840:c3::25
 c0.nic.trv.	0	IN	A	65.22.202.25
 c0.nic.trv.	0	IN	AAAA	2a01:8840:c4::25
 tt.	0	IN	NS	a.lactld.org.
-tt.	0	IN	NS	ns3.nic.mx.
 tt.	0	IN	NS	pch.nic.tt.
 tt.	0	IN	NS	ripe.nic.tt.
 tt.	0	IN	DS	2539 8 2 b06dfa79674df3ea8190e7616164414b01e9199b7c94ec1540378a395daa401f
