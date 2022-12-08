@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120800 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022120801 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -8215,20 +8215,16 @@ y.nic.ibm.	0	IN	A	156.154.173.82
 y.nic.ibm.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.ibm.	0	IN	A	156.154.174.82
 z.nic.ibm.	0	IN	AAAA	2610:a1:1076::1:82
-icbc.	0	IN	NS	a0.nic.icbc.
-icbc.	0	IN	NS	a2.nic.icbc.
-icbc.	0	IN	NS	b0.nic.icbc.
-icbc.	0	IN	NS	c0.nic.icbc.
+icbc.	0	IN	NS	a.zdnscloud.com.
+icbc.	0	IN	NS	b.zdnscloud.com.
+icbc.	0	IN	NS	c.zdnscloud.com.
+icbc.	0	IN	NS	d.zdnscloud.com.
+icbc.	0	IN	NS	f.zdnscloud.com.
+icbc.	0	IN	NS	g.zdnscloud.com.
+icbc.	0	IN	NS	i.zdnscloud.com.
+icbc.	0	IN	NS	j.zdnscloud.com.
 icbc.	0	IN	DS	40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
 icbc.	0	IN	DS	52120 8 2 36fd8acb79ed5963abd523bb73b5c9fa39f8d206ed2488436d1795b1228766ee
-a0.nic.icbc.	0	IN	A	65.22.128.33
-a0.nic.icbc.	0	IN	AAAA	2a01:8840:7e::33
-a2.nic.icbc.	0	IN	A	65.22.131.33
-a2.nic.icbc.	0	IN	AAAA	2a01:8840:81::33
-b0.nic.icbc.	0	IN	A	65.22.129.33
-b0.nic.icbc.	0	IN	AAAA	2a01:8840:7f::33
-c0.nic.icbc.	0	IN	A	65.22.130.33
-c0.nic.icbc.	0	IN	AAAA	2a01:8840:80::33
 ice.	0	IN	NS	ac1.nstld.com.
 ice.	0	IN	NS	ac2.nstld.com.
 ice.	0	IN	NS	ac3.nstld.com.
@@ -13036,7 +13032,9 @@ phd.	0	IN	DS	38734 8 2 de93541823cd232c5934ac0a420c0d90949c04020b6211d4c94d588cd
 philips.	0	IN	NS	a.nic.philips.
 philips.	0	IN	NS	b.nic.philips.
 philips.	0	IN	NS	c.nic.philips.
-philips.	0	IN	NS	d.nic.philips.
+philips.	0	IN	NS	x.nic.philips.
+philips.	0	IN	NS	y.nic.philips.
+philips.	0	IN	NS	z.nic.philips.
 philips.	0	IN	DS	3100 8 2 fa65d969b695c8e73ddc89724cae9d83e352b23b57cf5571fd711e2627026638
 a.nic.philips.	0	IN	A	37.209.192.9
 a.nic.philips.	0	IN	AAAA	2001:dcd:1::9
@@ -13044,8 +13042,12 @@ b.nic.philips.	0	IN	A	37.209.194.9
 b.nic.philips.	0	IN	AAAA	2001:dcd:2::9
 c.nic.philips.	0	IN	A	37.209.196.9
 c.nic.philips.	0	IN	AAAA	2001:dcd:3::9
-d.nic.philips.	0	IN	A	37.209.198.9
-d.nic.philips.	0	IN	AAAA	2001:dcd:4::9
+x.nic.philips.	0	IN	A	156.154.172.82
+x.nic.philips.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.philips.	0	IN	A	156.154.173.82
+y.nic.philips.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.philips.	0	IN	A	156.154.174.82
+z.nic.philips.	0	IN	AAAA	2610:a1:1076::1:82
 phone.	0	IN	NS	a0.nic.phone.
 phone.	0	IN	NS	a2.nic.phone.
 phone.	0	IN	NS	b0.nic.phone.
@@ -16417,26 +16419,20 @@ dnsc.nic.talk.	0	IN	A	156.154.102.3
 dnsc.nic.talk.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.talk.	0	IN	A	156.154.103.3
 dnsd.nic.talk.	0	IN	AAAA	2610:a1:1010::3
-taobao.	0	IN	NS	a.nic.taobao.
-taobao.	0	IN	NS	b.nic.taobao.
-taobao.	0	IN	NS	c.nic.taobao.
-taobao.	0	IN	NS	ns1.dns.nic.taobao.
-taobao.	0	IN	NS	ns2.dns.nic.taobao.
-taobao.	0	IN	NS	ns3.dns.nic.taobao.
+taobao.	0	IN	NS	a0.nic.taobao.
+taobao.	0	IN	NS	a2.nic.taobao.
+taobao.	0	IN	NS	b0.nic.taobao.
+taobao.	0	IN	NS	c0.nic.taobao.
 taobao.	0	IN	DS	24832 8 2 c47f5f58bd93065d880f55461845eb6bc3678800951e8c787c96eab93ef04d8f
 taobao.	0	IN	DS	62422 8 2 9f3d7ceb441cd4dac22efcccf5e79d238163e139ab368abddaa1029302a77bcb
-a.nic.taobao.	0	IN	A	37.209.192.9
-a.nic.taobao.	0	IN	AAAA	2001:dcd:1::9
-b.nic.taobao.	0	IN	A	37.209.194.9
-b.nic.taobao.	0	IN	AAAA	2001:dcd:2::9
-c.nic.taobao.	0	IN	A	37.209.196.9
-c.nic.taobao.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.taobao.	0	IN	A	156.154.144.157
-ns1.dns.nic.taobao.	0	IN	AAAA	2610:a1:1071::9d
-ns2.dns.nic.taobao.	0	IN	A	156.154.145.157
-ns2.dns.nic.taobao.	0	IN	AAAA	2610:a1:1072::9d
-ns3.dns.nic.taobao.	0	IN	A	156.154.159.157
-ns3.dns.nic.taobao.	0	IN	AAAA	2610:a1:1073::9d
+a0.nic.taobao.	0	IN	A	65.22.52.17
+a0.nic.taobao.	0	IN	AAAA	2a01:8840:32::17
+a2.nic.taobao.	0	IN	A	65.22.55.17
+a2.nic.taobao.	0	IN	AAAA	2a01:8840:35::17
+b0.nic.taobao.	0	IN	A	65.22.53.17
+b0.nic.taobao.	0	IN	AAAA	2a01:8840:33::17
+c0.nic.taobao.	0	IN	A	65.22.54.17
+c0.nic.taobao.	0	IN	AAAA	2a01:8840:34::17
 target.	0	IN	NS	a.nic.target.
 target.	0	IN	NS	b.nic.target.
 target.	0	IN	NS	c.nic.target.
@@ -16956,26 +16952,20 @@ ns-l1.tm.	0	IN	A	80.249.100.44
 ns-l1.tm.	0	IN	AAAA	2001:470:1f1d:244::44
 ns-y1.tm.	0	IN	A	91.208.95.22
 ns-y1.tm.	0	IN	AAAA	2001:470:1f07:d0b::22
-tmall.	0	IN	NS	a.nic.tmall.
-tmall.	0	IN	NS	b.nic.tmall.
-tmall.	0	IN	NS	c.nic.tmall.
-tmall.	0	IN	NS	ns1.dns.nic.tmall.
-tmall.	0	IN	NS	ns2.dns.nic.tmall.
-tmall.	0	IN	NS	ns3.dns.nic.tmall.
+tmall.	0	IN	NS	a0.nic.tmall.
+tmall.	0	IN	NS	a2.nic.tmall.
+tmall.	0	IN	NS	b0.nic.tmall.
+tmall.	0	IN	NS	c0.nic.tmall.
 tmall.	0	IN	DS	41011 8 2 347fec623e6338ed0939e1a942d4151cb73565603acd203319eb547222fe9cdb
 tmall.	0	IN	DS	58525 8 2 74cceeb96ef2237b854b057ab38a9384865f16c48eeb467364d09458b75355ef
-a.nic.tmall.	0	IN	A	37.209.192.9
-a.nic.tmall.	0	IN	AAAA	2001:dcd:1::9
-b.nic.tmall.	0	IN	A	37.209.194.9
-b.nic.tmall.	0	IN	AAAA	2001:dcd:2::9
-c.nic.tmall.	0	IN	A	37.209.196.9
-c.nic.tmall.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.tmall.	0	IN	A	156.154.144.164
-ns1.dns.nic.tmall.	0	IN	AAAA	2610:a1:1071::a4
-ns2.dns.nic.tmall.	0	IN	A	156.154.145.164
-ns2.dns.nic.tmall.	0	IN	AAAA	2610:a1:1072::a4
-ns3.dns.nic.tmall.	0	IN	A	156.154.159.164
-ns3.dns.nic.tmall.	0	IN	AAAA	2610:a1:1073::a4
+a0.nic.tmall.	0	IN	A	65.22.52.9
+a0.nic.tmall.	0	IN	AAAA	2a01:8840:32::9
+a2.nic.tmall.	0	IN	A	65.22.55.9
+a2.nic.tmall.	0	IN	AAAA	2a01:8840:35::9
+b0.nic.tmall.	0	IN	A	65.22.53.9
+b0.nic.tmall.	0	IN	AAAA	2a01:8840:33::9
+c0.nic.tmall.	0	IN	A	65.22.54.9
+c0.nic.tmall.	0	IN	AAAA	2a01:8840:34::9
 tn.	0	IN	NS	ns1.ati.tn.
 tn.	0	IN	NS	ns2.ati.tn.
 tn.	0	IN	NS	ns2.nic.fr.
@@ -19537,7 +19527,9 @@ ns3.dns.nic.xn--jvr189m.	0	IN	AAAA	2610:a1:1073::1:48
 xn--kcrx77d1x4a.	0	IN	NS	a.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	0	IN	NS	b.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	0	IN	NS	c.nic.xn--kcrx77d1x4a.
-xn--kcrx77d1x4a.	0	IN	NS	d.nic.xn--kcrx77d1x4a.
+xn--kcrx77d1x4a.	0	IN	NS	x.nic.xn--kcrx77d1x4a.
+xn--kcrx77d1x4a.	0	IN	NS	y.nic.xn--kcrx77d1x4a.
+xn--kcrx77d1x4a.	0	IN	NS	z.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	0	IN	DS	25186 8 2 484679fbe2d01f386ac34d3e523f48e0a691c90df9eae97b80494f6afb645a05
 a.nic.xn--kcrx77d1x4a.	0	IN	A	37.209.192.9
 a.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2001:dcd:1::9
@@ -19545,8 +19537,12 @@ b.nic.xn--kcrx77d1x4a.	0	IN	A	37.209.194.9
 b.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2001:dcd:2::9
 c.nic.xn--kcrx77d1x4a.	0	IN	A	37.209.196.9
 c.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2001:dcd:3::9
-d.nic.xn--kcrx77d1x4a.	0	IN	A	37.209.198.9
-d.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2001:dcd:4::9
+x.nic.xn--kcrx77d1x4a.	0	IN	A	156.154.172.82
+x.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.xn--kcrx77d1x4a.	0	IN	A	156.154.173.82
+y.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.xn--kcrx77d1x4a.	0	IN	A	156.154.174.82
+z.nic.xn--kcrx77d1x4a.	0	IN	AAAA	2610:a1:1076::1:82
 xn--kprw13d.	0	IN	NS	d.dns.tw.
 xn--kprw13d.	0	IN	NS	e.dns.tw.
 xn--kprw13d.	0	IN	NS	f.dns.tw.
