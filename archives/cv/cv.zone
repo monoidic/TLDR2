@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022121301 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022121401 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -302,14 +302,8 @@ aled.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 alex.cv.	0	IN	NS	ns.inwx.de.
 alex.cv.	0	IN	NS	ns2.inwx.de.
 alex.cv.	0	IN	NS	ns3.inwx.eu.
-alexander.cv.	0	IN	A	45.144.244.54
-alexander.cv.	0	IN	A	87.98.178.183
-alexander.cv.	0	IN	A	89.39.104.243
-alexander.cv.	0	IN	NS	ns1.interna.me.
-alexander.cv.	0	IN	NS	ns2.interna.me.
-alexander.cv.	0	IN	NS	ns3.interna.me.
-alexander.cv.	0	IN	NS	ns4.interna.me.
-alexander.cv.	0	IN	AAAA	2a01:4f8:c01f:66::100
+alexander.cv.	0	IN	NS	ara.ns.cloudflare.com.
+alexander.cv.	0	IN	NS	oswald.ns.cloudflare.com.
 alfa.cv.	0	IN	NS	ns1.bluehost.com.
 alfa.cv.	0	IN	NS	ns2.bluehost.com.
 alfadriving.cv.	0	IN	NS	ns1.digitalocean.com.
@@ -741,6 +735,8 @@ bairro.cv.	0	IN	NS	ns1.desital.com.
 bairro.cv.	0	IN	NS	ns2.desital.com.
 balai.cv.	0	IN	NS	ns1.siteground.net.
 balai.cv.	0	IN	NS	ns2.siteground.net.
+balayur.cv.	0	IN	NS	ns01.brandshelter.com.
+balayur.cv.	0	IN	NS	ns02.brandshelter.net.
 balcao-unico.cv.	0	IN	NS	ns1.prezent.nl.
 balcao-unico.cv.	0	IN	NS	ns2.prezent.de.
 balcao-unico.cv.	0	IN	NS	ns3.prezent-internet.com.
@@ -3127,8 +3123,10 @@ cvit.cv.	0	IN	NS	ns2.whostbr.com.
 cvixp.cv.	0	IN	NS	ns1.tmais.cv.
 cvl.cv.	0	IN	NS	ns106.hocnet.pt.
 cvl.cv.	0	IN	NS	ns107.hocnet.pt.
-cvlda.cv.	0	IN	NS	ns1.webs24h.com.
-cvlda.cv.	0	IN	NS	ns2.webs24h.com.
+cvlda.cv.	0	IN	NS	ns41.cloudns.net.
+cvlda.cv.	0	IN	NS	ns42.cloudns.net.
+cvlda.cv.	0	IN	NS	ns43.cloudns.net.
+cvlda.cv.	0	IN	NS	ns44.cloudns.net.
 cvma.cv.	0	IN	NS	ns1.rhostjh.com.
 cvma.cv.	0	IN	NS	ns2.rhostjh.com.
 mail.cvma.cv.	0	IN	A	50.87.111.194
@@ -4013,10 +4011,8 @@ eurolines.cv.	0	IN	NS	dns1.prime.cv.
 mail.eurolines.cv.	0	IN	A	80.172.233.23
 europcar.cv.	0	IN	NS	ns23.websitewelcome.com.
 europcar.cv.	0	IN	NS	ns24.websitewelcome.com.
-evanalexander.cv.	0	IN	NS	ns1.interna.me.
-evanalexander.cv.	0	IN	NS	ns2.interna.me.
-evanalexander.cv.	0	IN	NS	ns3.interna.me.
-evanalexander.cv.	0	IN	NS	ns4.interna.me.
+evanalexander.cv.	0	IN	NS	ara.ns.cloudflare.com.
+evanalexander.cv.	0	IN	NS	oswald.ns.cloudflare.com.
 events.cv.	0	IN	A	45.154.66.253
 events.cv.	0	IN	NS	ns1.wtservers.com.
 events.cv.	0	IN	NS	ns2.wtservers.com.
