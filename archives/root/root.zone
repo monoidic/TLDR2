@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022121600 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022121601 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -10437,7 +10437,7 @@ ma.	0	IN	NS	e.tld.ma.
 ma.	0	IN	NS	f.tld.ma.
 ma.	0	IN	NS	dns.inria.fr.
 ma.	0	IN	NS	ns-ma.nic.fr.
-ma.	0	IN	DS	46261 8 2 caa9a73c53c77391cb1c3c6962379f184ba4de89695ff8212ab368efac30fbf6
+ma.	0	IN	DS	44392 8 2 0a29c6e91c00830d9a19996e4b4038c8316e62dfb69306c69155a4509dd88c79
 a.tld.ma.	0	IN	A	81.192.171.83
 a.tld.ma.	0	IN	A	81.192.171.131
 a.tld.ma.	0	IN	AAAA	2001:4288:1800:186::3
@@ -15215,11 +15215,6 @@ v2n0.nic.services.	0	IN	A	65.22.23.37
 v2n0.nic.services.	0	IN	AAAA	2a01:8840:19::37
 v2n1.nic.services.	0	IN	A	161.232.11.37
 v2n1.nic.services.	0	IN	AAAA	2a01:8840:f5::37
-ses.	0	IN	NS	ac1.nstld.com.
-ses.	0	IN	NS	ac2.nstld.com.
-ses.	0	IN	NS	ac3.nstld.com.
-ses.	0	IN	NS	ac4.nstld.com.
-ses.	0	IN	DS	30648 8 2 f453e51f54a0acb251cda491812437db86b49c3a2861c46635588c330c65f9a7
 seven.	0	IN	NS	a.nic.seven.
 seven.	0	IN	NS	b.nic.seven.
 seven.	0	IN	NS	c.nic.seven.
