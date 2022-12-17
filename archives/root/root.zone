@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022121601 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2022121700 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -10182,25 +10182,6 @@ dnsc.nic.locus.	0	IN	A	156.154.102.3
 dnsc.nic.locus.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.locus.	0	IN	A	156.154.103.3
 dnsd.nic.locus.	0	IN	AAAA	2610:a1:1010::3
-loft.	0	IN	NS	ns1.dns.nic.loft.
-loft.	0	IN	NS	ns2.dns.nic.loft.
-loft.	0	IN	NS	ns3.dns.nic.loft.
-loft.	0	IN	NS	ns4.dns.nic.loft.
-loft.	0	IN	NS	ns5.dns.nic.loft.
-loft.	0	IN	NS	ns6.dns.nic.loft.
-loft.	0	IN	DS	47617 8 2 5d701701684dacd58001d0c3b84fa33ce1e9869fb448be97a96fbe89d8c358b2
-ns1.dns.nic.loft.	0	IN	A	156.154.144.107
-ns1.dns.nic.loft.	0	IN	AAAA	2610:a1:1071::6b
-ns2.dns.nic.loft.	0	IN	A	156.154.145.107
-ns2.dns.nic.loft.	0	IN	AAAA	2610:a1:1072::6b
-ns3.dns.nic.loft.	0	IN	A	156.154.159.107
-ns3.dns.nic.loft.	0	IN	AAAA	2610:a1:1073::6b
-ns4.dns.nic.loft.	0	IN	A	156.154.156.107
-ns4.dns.nic.loft.	0	IN	AAAA	2610:a1:1074::6b
-ns5.dns.nic.loft.	0	IN	A	156.154.157.107
-ns5.dns.nic.loft.	0	IN	AAAA	2610:a1:1075::6b
-ns6.dns.nic.loft.	0	IN	A	156.154.158.107
-ns6.dns.nic.loft.	0	IN	AAAA	2610:a1:1076::6b
 lol.	0	IN	NS	a.nic.lol.
 lol.	0	IN	NS	b.nic.lol.
 lol.	0	IN	NS	c.nic.lol.
@@ -10839,7 +10820,9 @@ z.nic.men.	0	IN	AAAA	2610:a1:1076::1:82
 menu.	0	IN	NS	a.nic.menu.
 menu.	0	IN	NS	b.nic.menu.
 menu.	0	IN	NS	c.nic.menu.
-menu.	0	IN	NS	d.nic.menu.
+menu.	0	IN	NS	x.nic.menu.
+menu.	0	IN	NS	y.nic.menu.
+menu.	0	IN	NS	z.nic.menu.
 menu.	0	IN	DS	31309 8 2 dea786e2b9c069e2595d79b03f3a920b0342bfbc017ec606a0184340e9c9c88d
 a.nic.menu.	0	IN	A	37.209.192.10
 a.nic.menu.	0	IN	AAAA	2001:dcd:1::10
@@ -10847,8 +10830,12 @@ b.nic.menu.	0	IN	A	37.209.194.10
 b.nic.menu.	0	IN	AAAA	2001:dcd:2::10
 c.nic.menu.	0	IN	A	37.209.196.10
 c.nic.menu.	0	IN	AAAA	2001:dcd:3::10
-d.nic.menu.	0	IN	A	37.209.198.10
-d.nic.menu.	0	IN	AAAA	2001:dcd:4::10
+x.nic.menu.	0	IN	A	156.154.172.82
+x.nic.menu.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.menu.	0	IN	A	156.154.173.82
+y.nic.menu.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.menu.	0	IN	A	156.154.174.82
+z.nic.menu.	0	IN	AAAA	2610:a1:1076::1:82
 merckmsd.	0	IN	NS	ac1.nstld.com.
 merckmsd.	0	IN	NS	ac2.nstld.com.
 merckmsd.	0	IN	NS	ac3.nstld.com.
