@@ -10,7 +10,6 @@
 * `arpa.` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `c.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
-* `arpa.` via `e.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `f.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `g.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
 * `arpa.` via `k.ns.arpa.`: [Click here to view zone data.](archives/arpa/arpa.zone)
@@ -25,5 +24,4 @@
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
-* `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
