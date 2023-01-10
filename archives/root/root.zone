@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011001 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011002 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -14561,6 +14561,7 @@ v2n0.nic.run.	0	IN	AAAA	2a01:8840:25::40
 v2n1.nic.run.	0	IN	A	161.232.17.40
 v2n1.nic.run.	0	IN	AAAA	2a01:8840:fb::40
 rw.	0	IN	NS	ns1.ricta.org.rw.
+rw.	0	IN	NS	ns2.ricta.org.rw.
 rw.	0	IN	NS	ns3.ricta.org.rw.
 rw.	0	IN	NS	pch.ricta.org.rw.
 rw.	0	IN	NS	fork.sth.dnsnode.net.
@@ -14568,6 +14569,7 @@ rw.	0	IN	NS	ns-rw.afrinic.net.
 rw.	0	IN	DS	39755 8 1 f5fe9c8f6290eed632676687f03d986f17f27799
 rw.	0	IN	DS	39755 8 2 005f7a73f0609a69ca7736158490764e1a8dc0652ab1d0e327941af0fe673111
 ns1.ricta.org.rw.	0	IN	A	196.49.7.188
+ns2.ricta.org.rw.	0	IN	A	196.49.7.186
 ns3.ricta.org.rw.	0	IN	A	41.138.85.98
 pch.ricta.org.rw.	0	IN	A	204.61.216.91
 pch.ricta.org.rw.	0	IN	AAAA	2001:500:14:6091:ad::1
