@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011101 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011102 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -9517,6 +9517,7 @@ kyoto.	0	IN	NS	l.gmoregistry.net.
 kyoto.	0	IN	DS	36767 8 2 e5237b981fa00a1f097e791e68f746f2596b7b111f07a2f824c265f98ae5d861
 kz.	0	IN	NS	ns.nic.kz.
 kz.	0	IN	NS	ns1.nic.kz.
+kz.	0	IN	DS	10656 13 2 5cdf9266fd5b325975a21bf7ab865c3fb0b2a6a835196fb47b4f80035e8b094f
 ns.nic.kz.	0	IN	A	194.0.21.5
 ns.nic.kz.	0	IN	AAAA	2001:678:98:1::5
 ns1.nic.kz.	0	IN	A	185.79.212.7
@@ -13287,7 +13288,7 @@ pl.	0	IN	NS	e-dns.pl.
 pl.	0	IN	NS	f-dns.pl.
 pl.	0	IN	NS	g-dns.pl.
 pl.	0	IN	NS	h-dns.pl.
-pl.	0	IN	NS	i-dns.pl.
+pl.	0	IN	NS	j-dns.pl.
 pl.	0	IN	DS	59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
 a-dns.pl.	0	IN	A	194.181.87.156
 a-dns.pl.	0	IN	AAAA	2001:a10:121:1::156
@@ -13304,8 +13305,8 @@ g-dns.pl.	0	IN	A	149.156.1.252
 g-dns.pl.	0	IN	AAAA	2001:6d8:1001:1::252
 h-dns.pl.	0	IN	A	185.159.198.48
 h-dns.pl.	0	IN	AAAA	2620:10a:80ab::48
-i-dns.pl.	0	IN	A	156.154.100.15
-i-dns.pl.	0	IN	AAAA	2001:502:2eda::15
+j-dns.pl.	0	IN	A	204.61.217.4
+j-dns.pl.	0	IN	AAAA	2001:500:14:7004:ad::1
 place.	0	IN	NS	v0n0.nic.place.
 place.	0	IN	NS	v0n1.nic.place.
 place.	0	IN	NS	v0n2.nic.place.
@@ -18935,6 +18936,7 @@ xn--80adxhks.	0	IN	NS	d.dns.flexireg.domains.
 xn--80adxhks.	0	IN	DS	33904 8 2 7af8634483e30e963abfbf03f2efe17732ba3c4d2f5020777a415420048f5fcf
 xn--80ao21a.	0	IN	NS	ns.nic.kz.
 xn--80ao21a.	0	IN	NS	ns1.nic.kz.
+xn--80ao21a.	0	IN	DS	12941 13 2 1e67e661e644f9c2cc122cf6307ce2ba434a1d3aebec08769bf5a28ec697f8db
 xn--80aqecdr1a.	0	IN	NS	a.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	b.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	c.nic.xn--80aqecdr1a.
