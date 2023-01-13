@@ -7,23 +7,27 @@ scan() {
 	eval "$bin" -db "$db" $*
 }
 
+multi_scan() {
+	for flag in $*; do
+		scan $flag
+	done
+}
+
+get_ns_ips() {
+	multi_scan -{net,rr}_ns -{net,rr}_ip
+}
+
 prework() {
 	# create dummy db
 	scan -rr_ip
 	# add root zone
 	sqlite3 "$db" "INSERT OR IGNORE INTO name (name, is_zone) VALUES ('.', TRUE)"
 	# fetch and parse root nameserver records
-	scan -net_ns
-	scan -rr_ns
-	scan -net_ip
-	scan -rr_ip
+	get_ns_ips
 	# axfr root nameservers
 	scan -direct_conns -v6 -axfr
 	# get TLD nameserver info
-	scan -net_ns
-	scan -rr_ns
-	scan -net_ip
-	scan -rr_ip
+	get_ns_ips
 }
 
 axfr() {
