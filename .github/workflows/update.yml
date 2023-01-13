@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
-      - run: sudo apt install ldnsutils golang-go sqlite3
+      - run: sudo sh -c 'apt update && apt install ldnsutils golang-go sqlite3'
       - run: go install github.com/monoidic/dns-tools@latest
       - run: ./scan.sh prework
       - run: ./scan.sh axfr
