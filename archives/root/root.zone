@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011201 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011300 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -10102,6 +10102,7 @@ llp.	0	IN	NS	ns1.uniregistry.net.
 llp.	0	IN	NS	ns2.uniregistry.info.
 llp.	0	IN	NS	ns3.uniregistry.net.
 llp.	0	IN	NS	ns4.uniregistry.info.
+llp.	0	IN	DS	16200 7 2 0d84d15bf51c1a1c7eac512663c58bffddb5cb5e3aa960399d551754a471870e
 llp.	0	IN	DS	27216 7 1 5de35ece1ae46bba06281c8da6ffda34b167ac2e
 llp.	0	IN	DS	27216 7 2 b95649568bd88f57c7500a9e21d1d181065170cadbb881e299fd82e3a9909c23
 loan.	0	IN	NS	a.nic.loan.
@@ -16404,7 +16405,6 @@ taobao.	0	IN	NS	a0.nic.taobao.
 taobao.	0	IN	NS	a2.nic.taobao.
 taobao.	0	IN	NS	b0.nic.taobao.
 taobao.	0	IN	NS	c0.nic.taobao.
-taobao.	0	IN	DS	24832 8 2 c47f5f58bd93065d880f55461845eb6bc3678800951e8c787c96eab93ef04d8f
 taobao.	0	IN	DS	62422 8 2 9f3d7ceb441cd4dac22efcccf5e79d238163e139ab368abddaa1029302a77bcb
 a0.nic.taobao.	0	IN	A	65.22.52.17
 a0.nic.taobao.	0	IN	AAAA	2a01:8840:32::17
@@ -16937,7 +16937,6 @@ tmall.	0	IN	NS	a0.nic.tmall.
 tmall.	0	IN	NS	a2.nic.tmall.
 tmall.	0	IN	NS	b0.nic.tmall.
 tmall.	0	IN	NS	c0.nic.tmall.
-tmall.	0	IN	DS	41011 8 2 347fec623e6338ed0939e1a942d4151cb73565603acd203319eb547222fe9cdb
 tmall.	0	IN	DS	58525 8 2 74cceeb96ef2237b854b057ab38a9384865f16c48eeb467364d09458b75355ef
 a0.nic.tmall.	0	IN	A	65.22.52.9
 a0.nic.tmall.	0	IN	AAAA	2a01:8840:32::9
