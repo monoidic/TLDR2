@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011701 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023011702 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -2536,7 +2536,6 @@ cl1-tld.d-zone.ca.	0	IN	A	185.159.197.56
 cl1-tld.d-zone.ca.	0	IN	AAAA	2620:10a:80aa::56
 cl2-tld.d-zone.ca.	0	IN	A	185.159.198.56
 cl2-tld.d-zone.ca.	0	IN	AAAA	2620:10a:80ab::56
-ns1.polymtl.ca.	0	IN	A	132.207.6.11
 cab.	0	IN	NS	v0n0.nic.cab.
 cab.	0	IN	NS	v0n1.nic.cab.
 cab.	0	IN	NS	v0n2.nic.cab.
@@ -8129,11 +8128,8 @@ ns2.dns.nic.hsbc.	0	IN	A	156.154.145.76
 ns2.dns.nic.hsbc.	0	IN	AAAA	2610:a1:1072::4c
 ns3.dns.nic.hsbc.	0	IN	A	156.154.159.76
 ns3.dns.nic.hsbc.	0	IN	AAAA	2610:a1:1073::4c
-ht.	0	IN	NS	ns1.nic.ht.
-ht.	0	IN	NS	ns1.polymtl.ca.
 ht.	0	IN	NS	ns3.nic.fr.
 ht.	0	IN	NS	pch.nic.ht.
-ns1.nic.ht.	0	IN	A	200.115.182.11
 pch.nic.ht.	0	IN	A	204.61.216.38
 pch.nic.ht.	0	IN	AAAA	2001:500:14:6038:ad::1
 hu.	0	IN	NS	a.hu.
@@ -12778,6 +12774,7 @@ ovh.	0	IN	NS	d.nic.fr.
 ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
 ovh.	0	IN	DS	24939 13 2 02a3f789b7d6c726513eebadf7f64741fed1acd57405339d9d50191c620cd914
+pa.	0	IN	NS	a.lactld.org.
 pa.	0	IN	NS	ns.pa.
 pa.	0	IN	NS	ns.dns.br.
 pa.	0	IN	NS	ns.nic.pa.
