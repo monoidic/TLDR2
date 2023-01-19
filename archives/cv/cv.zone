@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023011801 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023011901 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -135,8 +135,11 @@ adrensport.cv.	0	IN	NS	ns21.boxsecured.com.
 adrensport.cv.	0	IN	NS	ns22.boxsecured.com.
 adrfb.cv.	0	IN	NS	ns8643.hostgator.com.
 adrfb.cv.	0	IN	NS	ns8644.hostgator.com.
-ads.cv.	0	IN	NS	ns1.rhostjh.com.
-ads.cv.	0	IN	NS	ns2.rhostjh.com.
+ads.cv.	0	IN	A	45.154.66.253
+ads.cv.	0	IN	NS	ns1.wtservers.com.
+ads.cv.	0	IN	NS	ns2.wtservers.com.
+ads.cv.	0	IN	NS	ns3.wtservers.com.
+ads.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 adscaboverde.cv.	0	IN	NS	r5a.gigilist.com.
 adscaboverde.cv.	0	IN	NS	r5b.gigilist.com.
 adsense.cv.	0	IN	NS	ns1.google.com.
@@ -818,6 +821,9 @@ be3d.cv.	0	IN	A	199.73.55.49
 be3d.cv.	0	IN	NS	ns1.101domain.com.
 be3d.cv.	0	IN	NS	ns2.101domain.com.
 be3d.cv.	0	IN	NS	ns5.101domain.com.
+beautiful.cv.	0	IN	NS	ns01.nominus.com.
+beautiful.cv.	0	IN	NS	ns02.nominus.com.
+beautiful.cv.	0	IN	NS	ns03.nominus.com.
 beelite.cv.	0	IN	NS	ns4007.hostgator.com.
 beelite.cv.	0	IN	NS	ns4008.hostgator.com.
 belagua.cv.	0	IN	NS	ns12.wixdns.net.
@@ -5205,6 +5211,9 @@ itec.cv.	0	IN	NS	a.ns.tuxdns.net.
 itec.cv.	0	IN	NS	b.ns.tuxdns.net.
 itech.cv.	0	IN	NS	ns1.isone.cv.
 itech.cv.	0	IN	NS	ns2.isone.cv.
+itgest.cv.	0	IN	NS	ns01.trademarkarea.com.
+itgest.cv.	0	IN	NS	ns02.trademarkarea.com.
+itgest.cv.	0	IN	NS	ns03.trademarkarea.com.
 itic.cv.	0	IN	NS	ns1.ams3.siteground.eu.
 itic.cv.	0	IN	NS	ns2.ams3.siteground.eu.
 itmd.cv.	0	IN	NS	dns1.freehostia.com.
@@ -8046,10 +8055,10 @@ sociave.cv.	0	IN	NS	ns7.mydnspt.net.
 sociave.cv.	0	IN	NS	ns8.mydnspt.net.
 socid.cv.	0	IN	NS	ns1.servconfig.com.
 socid.cv.	0	IN	NS	ns2.servconfig.com.
-sociex.cv.	0	IN	NS	ns101.cloudns.net.
-sociex.cv.	0	IN	NS	ns102.cloudns.net.
-sociex.cv.	0	IN	NS	ns103.cloudns.net.
-sociex.cv.	0	IN	NS	ns104.cloudns.net.
+sociex.cv.	0	IN	NS	ns1.webhs.org.
+sociex.cv.	0	IN	NS	ns2.webhs.org.
+sociex.cv.	0	IN	NS	ns3.webhs.org.
+sociex.cv.	0	IN	NS	ns4.webhs.org.
 socol.cv.	0	IN	NS	ns1.salweb.org.
 socol.cv.	0	IN	NS	ns2.salweb.org.
 socol.cv.	0	IN	NS	ns3.salweb.org.
