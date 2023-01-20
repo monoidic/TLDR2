@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023012001 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023012002 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -670,10 +670,19 @@ ns2.dns.nic.amica.	0	IN	A	156.154.145.11
 ns2.dns.nic.amica.	0	IN	AAAA	2610:a1:1072::b
 ns3.dns.nic.amica.	0	IN	A	156.154.159.11
 ns3.dns.nic.amica.	0	IN	AAAA	2610:a1:1073::b
+amsterdam.	0	IN	NS	ns1.dns.amsterdam.
 amsterdam.	0	IN	NS	ns1.nic.amsterdam.
+amsterdam.	0	IN	NS	ns3.dns.amsterdam.
 amsterdam.	0	IN	NS	ns3.nic.amsterdam.
+amsterdam.	0	IN	NS	ns4.dns.amsterdam.
 amsterdam.	0	IN	NS	ns4.nic.amsterdam.
 amsterdam.	0	IN	DS	56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
+ns1.dns.amsterdam.	0	IN	A	194.0.28.4
+ns1.dns.amsterdam.	0	IN	AAAA	2001:678:2c:0:194:0:28:4
+ns3.dns.amsterdam.	0	IN	A	194.0.25.26
+ns3.dns.amsterdam.	0	IN	AAAA	2001:678:20::26
+ns4.dns.amsterdam.	0	IN	A	185.159.199.202
+ns4.dns.amsterdam.	0	IN	AAAA	2620:10a:80ac::202
 ns1.nic.amsterdam.	0	IN	A	194.0.28.4
 ns1.nic.amsterdam.	0	IN	AAAA	2001:678:2c:0:194:0:28:4
 ns3.nic.amsterdam.	0	IN	A	194.0.25.26
@@ -8821,9 +8830,9 @@ b0.nic.istanbul.	0	IN	AAAA	2a01:8840:8f::9
 c0.nic.istanbul.	0	IN	A	65.22.146.9
 c0.nic.istanbul.	0	IN	AAAA	2a01:8840:90::9
 it.	0	IN	NS	a.dns.it.
+it.	0	IN	NS	d.dns.it.
 it.	0	IN	NS	m.dns.it.
 it.	0	IN	NS	r.dns.it.
-it.	0	IN	NS	s.dns.it.
 it.	0	IN	NS	dns.nic.it.
 it.	0	IN	NS	nameserver.cnr.it.
 it.	0	IN	DS	41901 10 2 47f7f7ba21e48591f6172eed13e35b66b93ad9f2880fc9bada64f68ce28ebb90
@@ -8831,12 +8840,12 @@ nameserver.cnr.it.	0	IN	A	194.119.192.34
 nameserver.cnr.it.	0	IN	AAAA	2a00:1620:c0:220:194:119:192:34
 a.dns.it.	0	IN	A	194.0.16.215
 a.dns.it.	0	IN	AAAA	2001:678:12:0:194:0:16:215
+d.dns.it.	0	IN	A	45.142.220.39
+d.dns.it.	0	IN	AAAA	2a0e:dbc0::39
 m.dns.it.	0	IN	A	217.29.76.4
 m.dns.it.	0	IN	AAAA	2001:1ac0:0:200:0:a5d1:6004:2
 r.dns.it.	0	IN	A	193.206.141.46
 r.dns.it.	0	IN	AAAA	2001:760:ffff:ffff::ca
-s.dns.it.	0	IN	A	194.146.106.30
-s.dns.it.	0	IN	AAAA	2001:67c:1010:7::53
 osiris.namex.it.	0	IN	A	193.201.40.6
 osiris.namex.it.	0	IN	AAAA	2001:7f8:10:f00a::6
 seth.namex.it.	0	IN	A	193.201.40.7
@@ -13434,10 +13443,19 @@ b0.nic.poker.	0	IN	A	65.22.21.33
 b0.nic.poker.	0	IN	AAAA	2a01:8840:17::33
 c0.nic.poker.	0	IN	A	65.22.22.33
 c0.nic.poker.	0	IN	AAAA	2a01:8840:18::33
+politie.	0	IN	NS	ns1.dns.politie.
 politie.	0	IN	NS	ns1.nic.politie.
+politie.	0	IN	NS	ns3.dns.politie.
 politie.	0	IN	NS	ns3.nic.politie.
+politie.	0	IN	NS	ns4.dns.politie.
 politie.	0	IN	NS	ns4.nic.politie.
 politie.	0	IN	DS	63485 8 2 98f1793434c640fcb733f3a17c6bbe63d32666debe54bb4d264bc22f273a4e15
+ns1.dns.politie.	0	IN	A	194.0.28.5
+ns1.dns.politie.	0	IN	AAAA	2001:678:2c:0:194:0:28:5
+ns3.dns.politie.	0	IN	A	194.0.25.27
+ns3.dns.politie.	0	IN	AAAA	2001:678:20::27
+ns4.dns.politie.	0	IN	A	185.159.199.203
+ns4.dns.politie.	0	IN	AAAA	2620:10a:80ac::203
 ns1.nic.politie.	0	IN	A	194.0.28.5
 ns1.nic.politie.	0	IN	AAAA	2001:678:2c:0:194:0:28:5
 ns3.nic.politie.	0	IN	A	194.0.25.27
