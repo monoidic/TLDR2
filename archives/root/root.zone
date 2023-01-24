@@ -1,4 +1,4 @@
-.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023012401 1800 900 604800 86400
+.	0	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2023012402 1800 900 604800 86400
 .	0	IN	NS	a.root-servers.net.
 .	0	IN	NS	b.root-servers.net.
 .	0	IN	NS	c.root-servers.net.
@@ -9522,11 +9522,14 @@ kyoto.	0	IN	NS	l.gmoregistry.net.
 kyoto.	0	IN	DS	36767 8 2 e5237b981fa00a1f097e791e68f746f2596b7b111f07a2f824c265f98ae5d861
 kz.	0	IN	NS	ns.nic.kz.
 kz.	0	IN	NS	ns1.nic.kz.
+kz.	0	IN	NS	ns2.nic.kz.
 kz.	0	IN	DS	10656 13 2 5cdf9266fd5b325975a21bf7ab865c3fb0b2a6a835196fb47b4f80035e8b094f
 ns.nic.kz.	0	IN	A	194.0.21.5
 ns.nic.kz.	0	IN	AAAA	2001:678:98:1::5
 ns1.nic.kz.	0	IN	A	185.79.212.7
 ns1.nic.kz.	0	IN	AAAA	2a01:7640:9000::7
+ns2.nic.kz.	0	IN	A	204.61.216.143
+ns2.nic.kz.	0	IN	AAAA	2001:500:14:6143:ad::1
 la.	0	IN	NS	ns1.nic.la.
 la.	0	IN	NS	ns2.nic.la.
 la.	0	IN	NS	ns3.nic.la.
@@ -18958,6 +18961,7 @@ xn--80adxhks.	0	IN	NS	d.dns.flexireg.domains.
 xn--80adxhks.	0	IN	DS	33904 8 2 7af8634483e30e963abfbf03f2efe17732ba3c4d2f5020777a415420048f5fcf
 xn--80ao21a.	0	IN	NS	ns.nic.kz.
 xn--80ao21a.	0	IN	NS	ns1.nic.kz.
+xn--80ao21a.	0	IN	NS	ns2.nic.kz.
 xn--80ao21a.	0	IN	DS	12941 13 2 1e67e661e644f9c2cc122cf6307ce2ba434a1d3aebec08769bf5a28ec697f8db
 xn--80aqecdr1a.	0	IN	NS	a.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	b.nic.xn--80aqecdr1a.
