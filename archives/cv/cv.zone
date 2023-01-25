@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023012401 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023012501 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -1621,8 +1621,8 @@ cic.cv.	0	IN	NS	ns3.bdm.microsoftonline.com.
 cic.cv.	0	IN	NS	ns4.bdm.microsoftonline.com.
 cidadaoativo.cv.	0	IN	NS	ns1000.mochahost.com.
 cidadaoativo.cv.	0	IN	NS	ns2000.mochahost.com.
-cidadefm.cv.	0	IN	NS	ns1.minharadioonline.net.
-cidadefm.cv.	0	IN	NS	ns2.minharadioonline.net.
+cidadefm.cv.	0	IN	NS	ns25.kshost.com.br.
+cidadefm.cv.	0	IN	NS	ns26.kshost.com.br.
 cidadessaudaveis.cv.	0	IN	NS	cns29.webhostbox.net.
 cidadessaudaveis.cv.	0	IN	NS	cns30.webhostbox.net.
 cidadevelha-pm.cv.	0	IN	NS	ns1.nameresolve.com.
@@ -3761,9 +3761,8 @@ efao.cv.	0	IN	NS	ns1.gn5.hocnet.pt.
 efao.cv.	0	IN	NS	ns2.gn5.hocnet.pt.
 efao.cv.	0	IN	AAAA	2a01:4f8:0:a101::a:1
 efao.cv.	0	IN	AAAA	2a01:4f8:d0a:2004::2
-efapel.cv.	0	IN	NS	ns01.trademarkarea.com.
-efapel.cv.	0	IN	NS	ns02.trademarkarea.com.
-efapel.cv.	0	IN	NS	ns03.trademarkarea.com.
+efapel.cv.	0	IN	NS	ns1.efapel.pt.
+efapel.cv.	0	IN	NS	ns2.efapel.pt.
 efat.cv.	0	IN	NS	ns1.dnscpanel.com.
 efat.cv.	0	IN	NS	ns2.dnscpanel.com.
 efatura.cv.	0	IN	NS	ns1.efatura.cv.
@@ -5199,8 +5198,11 @@ islandhomes.cv.	0	IN	NS	ns1.expertmedia.pt.
 islandhomes.cv.	0	IN	NS	ns2.expertmedia.pt.
 islandresorts.cv.	0	IN	NS	ns.intranetics.co.uk.
 islandresorts.cv.	0	IN	NS	ns5.intranetics.co.uk.
-isone.cv.	0	IN	NS	ns1.rhostjh.com.
-isone.cv.	0	IN	NS	ns2.rhostjh.com.
+isone.cv.	0	IN	A	45.154.66.253
+isone.cv.	0	IN	NS	ns1.wtservers.com.
+isone.cv.	0	IN	NS	ns2.wtservers.com.
+isone.cv.	0	IN	NS	ns3.wtservers.com.
+isone.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 issm.cv.	0	IN	NS	ns3002.mochahost.com.
 issm.cv.	0	IN	NS	ns4002.mochahost.com.
 itac.cv.	0	IN	NS	phil.ns.cloudflare.com.
@@ -6573,8 +6575,11 @@ ajoc.org.cv.	0	IN	NS	ns1.desital.com.
 ajoc.org.cv.	0	IN	NS	ns2.desital.com.
 ajs.org.cv.	0	IN	NS	ns7.securenet-server.net.
 ajs.org.cv.	0	IN	NS	ns8.securenet-server.net.
-ames.org.cv.	0	IN	NS	ns1.isone.cv.
-ames.org.cv.	0	IN	NS	ns2.isone.cv.
+ames.org.cv.	0	IN	A	45.154.66.253
+ames.org.cv.	0	IN	NS	ns1.wtservers.com.
+ames.org.cv.	0	IN	NS	ns2.wtservers.com.
+ames.org.cv.	0	IN	NS	ns3.wtservers.com.
+ames.org.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 amibandeira.org.cv.	0	IN	NS	ns.cvtelecom.cv.
 amibandeira.org.cv.	0	IN	NS	ns2.cvtelecom.cv.
 amigosdanatureza.org.cv.	0	IN	NS	ns1.weblx-2.net.
@@ -7724,9 +7729,6 @@ scp.cv.	0	IN	NS	ns2.dreamhost.com.
 scp.cv.	0	IN	NS	ns3.dreamhost.com.
 scryptus1.cv.	0	IN	NS	ns1.efeito.net.
 scryptus1.cv.	0	IN	NS	ns2.efeito.net.
-scsantamaria.cv.	0	IN	NS	ns1.site4now.net.
-scsantamaria.cv.	0	IN	NS	ns2.site4now.net.
-scsantamaria.cv.	0	IN	NS	ns3.site4now.net.
 sct.cv.	0	IN	NS	ns1.webs24h.com.
 sct.cv.	0	IN	NS	ns2.webs24h.com.
 sdconsultoriafinanceira.cv.	0	IN	NS	r3.gigilist.com.
@@ -8325,6 +8327,8 @@ suporteris.cv.	0	IN	NS	ns2.dns-parking.com.
 sustentar.cv.	0	IN	NS	ns1.nosiwebhosting.com.
 sustentar.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 sustentar.cv.	0	IN	NS	ns3.nosiwebhosting.com.
+svidal.cv.	0	IN	NS	ns1.wibrido.com.
+svidal.cv.	0	IN	NS	ns2.wibrido.com.
 swhouse-um.cv.	0	IN	NS	ns-88.awsdns-11.com.
 swhouse-um.cv.	0	IN	NS	ns-591.awsdns-09.net.
 swhouse-um.cv.	0	IN	NS	ns-1342.awsdns-39.org.
