@@ -1,4 +1,4 @@
-cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023020301 86400 7200 2592000 300
+cv.	0	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023020701 86400 7200 2592000 300
 cv.	0	IN	NS	c.dns.pt.
 cv.	0	IN	NS	ns.dns.cv.
 cv.	0	IN	NS	anyc.dnsnode.net.
@@ -2918,8 +2918,11 @@ constur.cv.	0	IN	NS	ns1.inforsalweb.com.
 constur.cv.	0	IN	NS	ns2.inforsalweb.com.
 consuladopt.cv.	0	IN	NS	ns1.softventure.pt.
 consuladopt.cv.	0	IN	NS	ns2.softventure.pt.
-consultores.cv.	0	IN	NS	ns338.hostgator.com.br.
-consultores.cv.	0	IN	NS	ns339.hostgator.com.br.
+consultores.cv.	0	IN	A	45.154.66.253
+consultores.cv.	0	IN	NS	ns1.wtservers.com.
+consultores.cv.	0	IN	NS	ns2.wtservers.com.
+consultores.cv.	0	IN	NS	ns3.wtservers.com.
+consultores.cv.	0	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 contabil.cv.	0	IN	NS	ns1.mydnspt.net.
 contabil.cv.	0	IN	NS	ns2.mydnspt.net.
 contabil.cv.	0	IN	NS	ns7.mydnspt.net.
@@ -5309,6 +5312,9 @@ jajac.cv.	0	IN	NS	ns2.nosiwebhosting.com.
 jajac.cv.	0	IN	NS	ns3.nosiwebhosting.com.
 jam.cv.	0	IN	NS	ns1.dnstarvos.com.
 jam.cv.	0	IN	NS	ns2.dnstarvos.com.
+james.cv.	0	IN	NS	ns01.trademarkarea.com.
+james.cv.	0	IN	NS	ns02.trademarkarea.com.
+james.cv.	0	IN	NS	ns03.trademarkarea.com.
 janota.cv.	0	IN	NS	ns1.dns-parking.com.
 janota.cv.	0	IN	NS	ns2.dns-parking.com.
 japo.cv.	0	IN	NS	ns1.mysecurecloudhost.com.
@@ -8606,6 +8612,9 @@ ticv.cv.	0	IN	NS	ns8.mydnspt.net.
 ticv.cv.	0	IN	AAAA	2a01:1c8:1001:2:be30:5bff:fedf:67ee
 timecloud.cv.	0	IN	NS	ns1.entornodns.com.
 timecloud.cv.	0	IN	NS	ns2.entornodns.com.
+timelapse.cv.	0	IN	NS	ns01.trademarkarea.com.
+timelapse.cv.	0	IN	NS	ns02.trademarkarea.com.
+timelapse.cv.	0	IN	NS	ns03.trademarkarea.com.
 tinmarket.cv.	0	IN	NS	ns1.privatedns.com.br.
 tinmarket.cv.	0	IN	NS	ns2.privatedns.com.br.
 tinmarket.cv.	0	IN	NS	ns3.privatedns.com.br.
@@ -9083,6 +9092,9 @@ vivominimercado.cv.	0	IN	NS	ns2.bh-74.webhostbox.net.
 vmconsultoria.cv.	0	IN	NS	ns1.dreamhost.com.
 vmconsultoria.cv.	0	IN	NS	ns2.dreamhost.com.
 vmconsultoria.cv.	0	IN	NS	ns3.dreamhost.com.
+voltaic.cv.	0	IN	NS	ns01.trademarkarea.com.
+voltaic.cv.	0	IN	NS	ns02.trademarkarea.com.
+voltaic.cv.	0	IN	NS	ns03.trademarkarea.com.
 voluntarioscovid19.cv.	0	IN	NS	ns-238.awsdns-29.com.
 voluntarioscovid19.cv.	0	IN	NS	ns-741.awsdns-28.net.
 voluntarioscovid19.cv.	0	IN	NS	ns-1478.awsdns-56.org.
