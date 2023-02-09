@@ -10,7 +10,7 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: sudo sh -c 'apt update && apt install ldnsutils golang-go sqlite3'
       - run: go install github.com/monoidic/dns-tools@latest
       - run: ./scan.sh prework
@@ -20,4 +20,4 @@ jobs:
       - run: ./scan.sh md_axfr
       - run: ./scan.sh md_walkable
       - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
-      - run: git add transferable_zones.md walkable_zones.md archives/ && git commit -m 'Updating zone information' && git push
+      - run: git add transferable_zones.md walkable_zones.md archives/; git commit -m 'Updating zone information'; git push
