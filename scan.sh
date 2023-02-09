@@ -47,7 +47,7 @@ zonefiles() {
 		dir="archives/${path_name}/"
 		filepath="${dir}/${path_name}.zone"
 		mkdir -p "$dir"
-		sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zs > ${filepath}
+		sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT > ${filepath}
 
 		filesize=$(wc -c ${filepath})
 		if [[ $filesize > $GITHUB_MAX_SIZE ]]; then
