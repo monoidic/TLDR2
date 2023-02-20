@@ -67,11 +67,12 @@ md_axfr() {
 		zone=$(echo "$line" | cut -d'|' -f1)
 		ns=$(echo "$line" | cut -d'|' -f2)
 
-		if [[ $zone = '.' ]]; then
-			path_name='root'
-		else
-			path_name="${zone%.}"
+		# "uninteresting" zones that produce too much flux
+		if [[ $zone = . || $zone = arpa. ]]; then
+			continue
 		fi
+
+		path_name="${zone%.}"
 
 		printf '* `%s` via `%s`: [Click here to view zone data.](archives/%s/%s.zone)\n' "$zone" "$ns" "$path_name" "$path_name" >> transferable_zones.md
 	done
