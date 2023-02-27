@@ -1453,12 +1453,20 @@ b0.nic.barclays.	0	IN	A	65.22.121.1
 b0.nic.barclays.	0	IN	AAAA	2a01:8840:77::1
 c0.nic.barclays.	0	IN	A	65.22.122.1
 c0.nic.barclays.	0	IN	AAAA	2a01:8840:78::1
-barefoot.	0	IN	NS	ac1.nstld.com.
-barefoot.	0	IN	NS	ac2.nstld.com.
-barefoot.	0	IN	NS	ac3.nstld.com.
-barefoot.	0	IN	NS	ac4.nstld.com.
+barefoot.	0	IN	NS	a0.nic.barefoot.
+barefoot.	0	IN	NS	a2.nic.barefoot.
+barefoot.	0	IN	NS	b0.nic.barefoot.
+barefoot.	0	IN	NS	c0.nic.barefoot.
 barefoot.	0	IN	DS	35550 8 2 2a380080b296e5bf1c8212618288fddbc665f7689a31dfdc7eeccfaefe17203d
 barefoot.	0	IN	DS	39166 8 2 138e51b866fd0185f6aa90cbf125cd40356c00a14efab23344f702f267e45eea
+a0.nic.barefoot.	0	IN	A	65.22.56.17
+a0.nic.barefoot.	0	IN	AAAA	2a01:8840:36::17
+a2.nic.barefoot.	0	IN	A	65.22.59.17
+a2.nic.barefoot.	0	IN	AAAA	2a01:8840:39::17
+b0.nic.barefoot.	0	IN	A	65.22.57.17
+b0.nic.barefoot.	0	IN	AAAA	2a01:8840:37::17
+c0.nic.barefoot.	0	IN	A	65.22.58.17
+c0.nic.barefoot.	0	IN	AAAA	2a01:8840:38::17
 bargains.	0	IN	NS	v0n0.nic.bargains.
 bargains.	0	IN	NS	v0n1.nic.bargains.
 bargains.	0	IN	NS	v0n2.nic.bargains.
@@ -5510,12 +5518,20 @@ er.	0	IN	NS	sawanew.noc.net.er.
 er.	0	IN	NS	zaranew.noc.net.er.
 sawanew.noc.net.er.	0	IN	A	196.200.96.1
 zaranew.noc.net.er.	0	IN	A	196.200.96.2
-ericsson.	0	IN	NS	ac1.nstld.com.
-ericsson.	0	IN	NS	ac2.nstld.com.
-ericsson.	0	IN	NS	ac3.nstld.com.
-ericsson.	0	IN	NS	ac4.nstld.com.
+ericsson.	0	IN	NS	a0.nic.ericsson.
+ericsson.	0	IN	NS	a2.nic.ericsson.
+ericsson.	0	IN	NS	b0.nic.ericsson.
+ericsson.	0	IN	NS	c0.nic.ericsson.
 ericsson.	0	IN	DS	47419 8 2 936161632ea5611634bad358155fa6b976a34bc812178605e9700890412eda71
 ericsson.	0	IN	DS	60888 8 2 1b2fcf0c2219910e8bcc22b8b982b9adea8074c3c20540d58312646469c1f0ef
+a0.nic.ericsson.	0	IN	A	65.22.56.33
+a0.nic.ericsson.	0	IN	AAAA	2a01:8840:36::33
+a2.nic.ericsson.	0	IN	A	65.22.59.33
+a2.nic.ericsson.	0	IN	AAAA	2a01:8840:39::33
+b0.nic.ericsson.	0	IN	A	65.22.57.33
+b0.nic.ericsson.	0	IN	AAAA	2a01:8840:37::33
+c0.nic.ericsson.	0	IN	A	65.22.58.33
+c0.nic.ericsson.	0	IN	AAAA	2a01:8840:38::33
 erni.	0	IN	NS	anycast9.irondns.net.
 erni.	0	IN	NS	anycast10.irondns.net.
 erni.	0	IN	NS	anycast23.irondns.net.
@@ -6773,12 +6789,20 @@ v2n0.nic.gallery.	0	IN	A	65.22.27.8
 v2n0.nic.gallery.	0	IN	AAAA	2a01:8840:1d::8
 v2n1.nic.gallery.	0	IN	A	161.232.13.8
 v2n1.nic.gallery.	0	IN	AAAA	2a01:8840:f7::8
-gallo.	0	IN	NS	ac1.nstld.com.
-gallo.	0	IN	NS	ac2.nstld.com.
-gallo.	0	IN	NS	ac3.nstld.com.
-gallo.	0	IN	NS	ac4.nstld.com.
+gallo.	0	IN	NS	a0.nic.gallo.
+gallo.	0	IN	NS	a2.nic.gallo.
+gallo.	0	IN	NS	b0.nic.gallo.
+gallo.	0	IN	NS	c0.nic.gallo.
 gallo.	0	IN	DS	29001 8 2 4c475ad8273c49cced3d8fbf45f02ba8e1a2759f816bf2020a544b49b9b04cf6
 gallo.	0	IN	DS	49567 8 2 5b769db94fcfcdd0acd004b90dc7ba248df09b3b7d7f29b40732b388a1ebf9c7
+a0.nic.gallo.	0	IN	A	65.22.56.1
+a0.nic.gallo.	0	IN	AAAA	2a01:8840:36::1
+a2.nic.gallo.	0	IN	A	65.22.59.1
+a2.nic.gallo.	0	IN	AAAA	2a01:8840:39::1
+b0.nic.gallo.	0	IN	A	65.22.57.1
+b0.nic.gallo.	0	IN	AAAA	2a01:8840:37::1
+c0.nic.gallo.	0	IN	A	65.22.58.1
+c0.nic.gallo.	0	IN	AAAA	2a01:8840:38::1
 gallup.	0	IN	NS	a0.nic.gallup.
 gallup.	0	IN	NS	a2.nic.gallup.
 gallup.	0	IN	NS	b0.nic.gallup.
@@ -8877,12 +8901,20 @@ jaguar.	0	IN	NS	ac2.nstld.com.
 jaguar.	0	IN	NS	ac3.nstld.com.
 jaguar.	0	IN	NS	ac4.nstld.com.
 jaguar.	0	IN	DS	44589 8 2 c10a4ae860ef080a1ea03cd4d2115a151a8aecb3b03c942626b5d6cfee336fa1
-java.	0	IN	NS	ac1.nstld.com.
-java.	0	IN	NS	ac2.nstld.com.
-java.	0	IN	NS	ac3.nstld.com.
-java.	0	IN	NS	ac4.nstld.com.
+java.	0	IN	NS	a0.nic.java.
+java.	0	IN	NS	a2.nic.java.
+java.	0	IN	NS	b0.nic.java.
+java.	0	IN	NS	c0.nic.java.
 java.	0	IN	DS	35845 8 2 fe3ec07c5c98197923923416c9af01b70379c0a8431064c8e74bf9b443877fd4
 java.	0	IN	DS	45615 8 2 7f20b5e00c2324d253f209b3f386f7033dae09ca9587524b3561f4cb4b3cd60d
+a0.nic.java.	0	IN	A	65.22.84.33
+a0.nic.java.	0	IN	AAAA	2a01:8840:52::33
+a2.nic.java.	0	IN	A	65.22.87.33
+a2.nic.java.	0	IN	AAAA	2a01:8840:55::33
+b0.nic.java.	0	IN	A	65.22.85.33
+b0.nic.java.	0	IN	AAAA	2a01:8840:53::33
+c0.nic.java.	0	IN	A	65.22.86.33
+c0.nic.java.	0	IN	AAAA	2a01:8840:54::33
 jcb.	0	IN	NS	a.gmoregistry.net.
 jcb.	0	IN	NS	b.gmoregistry.net.
 jcb.	0	IN	NS	k.gmoregistry.net.
@@ -12634,12 +12666,20 @@ ns2.dns.nic.open.	0	IN	A	156.154.145.128
 ns2.dns.nic.open.	0	IN	AAAA	2610:a1:1072::80
 ns3.dns.nic.open.	0	IN	A	156.154.159.128
 ns3.dns.nic.open.	0	IN	AAAA	2610:a1:1073::80
-oracle.	0	IN	NS	ac1.nstld.com.
-oracle.	0	IN	NS	ac2.nstld.com.
-oracle.	0	IN	NS	ac3.nstld.com.
-oracle.	0	IN	NS	ac4.nstld.com.
+oracle.	0	IN	NS	a0.nic.oracle.
+oracle.	0	IN	NS	a2.nic.oracle.
+oracle.	0	IN	NS	b0.nic.oracle.
+oracle.	0	IN	NS	c0.nic.oracle.
 oracle.	0	IN	DS	6291 8 2 9f74eccb6080a089661309a8ae8f82146d0ee4cc7ca96f01f62ae47f76368f2a
 oracle.	0	IN	DS	51169 8 2 43a2fd7b6df137824c6ee5b145ad5fa8664600165ef0c9772b1d286bcda63873
+a0.nic.oracle.	0	IN	A	65.22.84.25
+a0.nic.oracle.	0	IN	AAAA	2a01:8840:52::25
+a2.nic.oracle.	0	IN	A	65.22.87.25
+a2.nic.oracle.	0	IN	AAAA	2a01:8840:55::25
+b0.nic.oracle.	0	IN	A	65.22.85.25
+b0.nic.oracle.	0	IN	AAAA	2a01:8840:53::25
+c0.nic.oracle.	0	IN	A	65.22.86.25
+c0.nic.oracle.	0	IN	AAAA	2a01:8840:54::25
 orange.	0	IN	NS	ac1.nstld.com.
 orange.	0	IN	NS	ac2.nstld.com.
 orange.	0	IN	NS	ac3.nstld.com.
