@@ -6519,6 +6519,7 @@ ns.cocca.fr.	0	IN	A	185.17.236.93
 ns.cocca.fr.	0	IN	AAAA	2a03:dd40:3::93
 dns.inria.fr.	0	IN	A	193.51.208.13
 censvrns0001.ird.fr.	0	IN	A	91.203.32.147
+dns-tld.ird.fr.	0	IN	A	13.39.116.127
 d.nic.fr.	0	IN	A	194.0.9.1
 d.nic.fr.	0	IN	AAAA	2001:678:c::1
 e.ext.nic.fr.	0	IN	A	193.176.144.22
@@ -15710,6 +15711,7 @@ sn.	0	IN	NS	ns.ucad.sn.
 sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
+sn.	0	IN	NS	dns-tld.ird.fr.
 sn.	0	IN	NS	censvrns0001.ird.fr.
 sn.	0	IN	DS	36827 13 2 992ed3a8cd111420e26fd9a8b8885c3beafa13507eb0606449aea1dadc21b25f
 ns1.sonatel.sn.	0	IN	A	213.154.64.11
