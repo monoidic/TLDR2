@@ -6538,6 +6538,8 @@ ns-bj.nic.fr.	0	IN	A	194.0.9.1
 ns-bj.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-gp.nic.fr.	0	IN	A	194.0.9.1
 ns-gp.nic.fr.	0	IN	AAAA	2001:678:c::1
+ns-ht.nic.fr.	0	IN	A	194.0.9.1
+ns-ht.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-ma.nic.fr.	0	IN	A	194.0.9.1
 ns-ma.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-mr.nic.fr.	0	IN	A	194.0.9.1
@@ -8149,8 +8151,8 @@ ns2.dns.nic.hsbc.	0	IN	A	156.154.145.76
 ns2.dns.nic.hsbc.	0	IN	AAAA	2610:a1:1072::4c
 ns3.dns.nic.hsbc.	0	IN	A	156.154.159.76
 ns3.dns.nic.hsbc.	0	IN	AAAA	2610:a1:1073::4c
-ht.	0	IN	NS	ns3.nic.fr.
 ht.	0	IN	NS	pch.nic.ht.
+ht.	0	IN	NS	ns-ht.nic.fr.
 pch.nic.ht.	0	IN	A	204.61.216.38
 pch.nic.ht.	0	IN	AAAA	2001:500:14:6038:ad::1
 hu.	0	IN	NS	a.hu.
@@ -10466,11 +10468,6 @@ d.tld.ma.	0	IN	A	81.192.171.140
 d.tld.ma.	0	IN	AAAA	2001:4288:1800:386::4
 e.tld.ma.	0	IN	A	105.73.80.236
 f.tld.ma.	0	IN	A	41.214.240.4
-macys.	0	IN	NS	ac1.nstld.com.
-macys.	0	IN	NS	ac2.nstld.com.
-macys.	0	IN	NS	ac3.nstld.com.
-macys.	0	IN	NS	ac4.nstld.com.
-macys.	0	IN	DS	7791 8 2 7a63238cbc185a9dceb294cdd9b9fea1cea62261e7db1f5c8a83756d8f6aa11b
 madrid.	0	IN	NS	anycast9.irondns.net.
 madrid.	0	IN	NS	anycast10.irondns.net.
 madrid.	0	IN	NS	anycast23.irondns.net.
