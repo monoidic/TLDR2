@@ -4201,6 +4201,8 @@ cr.	0	IN	NS	ca1.nic.cr.
 cr.	0	IN	NS	ca2.nic.cr.
 cr.	0	IN	NS	dns.nic.cr.
 cr.	0	IN	DS	3708 13 2 d6c9af023cc12d1d86f5b3dfad932908153d8e12b71f77330f23fb08ba15d0a2
+cr.	0	IN	DS	10517 13 2 268fb03099e07547620f19a62f101daea146dcee6faaa18263e0b3da4e997d6c
+cr.	0	IN	DS	10517 13 4 11d20d7c408a1f289f6ece30f241ca4beb6abe9d6376e8c6be2fee6400038989ee5c447340a5f2e7676454bbbeabfc95
 ca1.nic.cr.	0	IN	A	185.159.197.100
 ca1.nic.cr.	0	IN	AAAA	2620:10a:80aa::100
 ca2.nic.cr.	0	IN	A	185.159.198.100
@@ -7716,11 +7718,24 @@ v2n0.nic.healthcare.	0	IN	A	65.22.31.15
 v2n0.nic.healthcare.	0	IN	AAAA	2a01:8840:21::15
 v2n1.nic.healthcare.	0	IN	A	161.232.15.15
 v2n1.nic.healthcare.	0	IN	AAAA	2a01:8840:f9::15
+help.	0	IN	NS	a.nic.help.
+help.	0	IN	NS	b.nic.help.
+help.	0	IN	NS	c.nic.help.
+help.	0	IN	NS	d.nic.help.
 help.	0	IN	NS	ns1.uniregistry.net.
 help.	0	IN	NS	ns2.uniregistry.info.
 help.	0	IN	NS	ns3.uniregistry.net.
 help.	0	IN	NS	ns4.uniregistry.info.
 help.	0	IN	DS	58220 13 2 631c51b43ba218603248e67a2c076c73acd16ad6eb0e4df9b3abd77d92643a9a
+help.	0	IN	DS	58472 13 2 9313a5ff28806d26514b86f9a83a67b79692ab1ff3a4401ce49fc0488b607bea
+a.nic.help.	0	IN	A	194.169.218.158
+a.nic.help.	0	IN	AAAA	2001:67c:13cc::1:158
+b.nic.help.	0	IN	A	185.24.64.158
+b.nic.help.	0	IN	AAAA	2a04:2b00:13cc::1:158
+c.nic.help.	0	IN	A	212.18.248.158
+c.nic.help.	0	IN	AAAA	2a04:2b00:13ee::158
+d.nic.help.	0	IN	A	212.18.249.158
+d.nic.help.	0	IN	AAAA	2a04:2b00:13ff::158
 helsinki.	0	IN	NS	a0.nic.helsinki.
 helsinki.	0	IN	NS	a2.nic.helsinki.
 helsinki.	0	IN	NS	b0.nic.helsinki.
@@ -12094,9 +12109,14 @@ ns5.dns.nic.nfl.	0	IN	AAAA	2610:a1:1075::7a
 ns6.dns.nic.nfl.	0	IN	A	156.154.158.122
 ns6.dns.nic.nfl.	0	IN	AAAA	2610:a1:1076::7a
 ng.	0	IN	NS	ns2.nic.net.ng.
+ng.	0	IN	NS	ns3.nic.net.ng.
+ng.	0	IN	NS	ns4.nic.net.ng.
 ng.	0	IN	NS	ns5.nic.net.ng.
 ng.	0	IN	NS	nsa.nic.net.ng.
 ns2.nic.net.ng.	0	IN	A	204.61.216.40
+ns3.nic.net.ng.	0	IN	A	185.38.108.108
+ns3.nic.net.ng.	0	IN	AAAA	2a00:fea0:dead::beef
+ns4.nic.net.ng.	0	IN	A	185.28.194.194
 ns5.nic.net.ng.	0	IN	A	196.216.168.41
 ns5.nic.net.ng.	0	IN	AAAA	2001:43f8:120::41
 nsa.nic.net.ng.	0	IN	A	41.222.79.3
