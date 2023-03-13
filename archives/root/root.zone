@@ -9255,6 +9255,7 @@ ns.anycast.kenic.or.ke.	0	IN	A	204.61.216.7
 ns.anycast.kenic.or.ke.	0	IN	AAAA	2001:500:14:6007:ad::1
 mzizi.kenic.or.ke.	0	IN	A	196.1.4.3
 mzizi.kenic.or.ke.	0	IN	A	196.1.4.130
+mzizi.kenic.or.ke.	0	IN	A	196.13.202.53
 mzizi.kenic.or.ke.	0	IN	A	198.32.67.9
 mzizi.kenic.or.ke.	0	IN	AAAA	2001:43f8:10:0:50c0:a8ff:feee:30
 kerryhotels.	0	IN	NS	ac1.nstld.com.
@@ -9775,6 +9776,7 @@ lb.	0	IN	NS	ns3.seacomnet.com.
 lb.	0	IN	NS	ns4.seacomnet.com.
 lb.	0	IN	NS	rip.psg.com.
 lb.	0	IN	NS	fork.sth.dnsnode.net.
+lb.	0	IN	NS	nabil.beirutix.net.
 lb.	0	IN	NS	ns-jp.lbdr.org.lb.
 lb.	0	IN	DS	3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 ns-jp.lbdr.org.lb.	0	IN	A	203.178.141.64
@@ -11039,11 +11041,13 @@ mm.	0	IN	NS	a.nic.net.mm.
 mm.	0	IN	NS	b.nic.net.mm.
 mm.	0	IN	NS	c.nic.net.mm.
 mm.	0	IN	NS	d.nic.net.mm.
+mm.	0	IN	NS	ptd.net.mm.
 mm.	0	IN	DS	18589 8 2 0a66403da2ceb4c3960750739074d5ca799334b45c85e3fedd7838e01a2435d8
 a.nic.net.mm.	0	IN	A	37.209.192.4
 b.nic.net.mm.	0	IN	A	37.209.194.4
 c.nic.net.mm.	0	IN	A	37.209.196.4
 d.nic.net.mm.	0	IN	A	37.209.198.4
+ptd.net.mm.	0	IN	A	103.103.173.9
 mma.	0	IN	NS	d.nic.fr.
 mma.	0	IN	NS	f.ext.nic.fr.
 mma.	0	IN	NS	g.ext.nic.fr.
@@ -11675,6 +11679,8 @@ dns-st.bahnhof.net.	0	IN	A	79.136.119.20
 dns-st.bahnhof.net.	0	IN	AAAA	2001:9b0:1:601:250:56ff:feb7:46
 ns1.bahnhof.net.	0	IN	A	195.178.160.2
 ns1.bahnhof.net.	0	IN	AAAA	2001:9b0:1:104:250:56ff:feb7:5c51
+nabil.beirutix.net.	0	IN	A	185.91.97.18
+nabil.beirutix.net.	0	IN	AAAA	2a05:e380:2:4::2
 ns17.cdns.net.	0	IN	A	194.0.1.17
 ns17.cdns.net.	0	IN	AAAA	2001:678:4::11
 ns34.cdns.net.	0	IN	A	194.0.1.34
@@ -12115,6 +12121,7 @@ ng.	0	IN	NS	ns4.nic.net.ng.
 ng.	0	IN	NS	ns5.nic.net.ng.
 ng.	0	IN	NS	nsa.nic.net.ng.
 ns2.nic.net.ng.	0	IN	A	204.61.216.40
+ns2.nic.net.ng.	0	IN	AAAA	2001:500:14:6040:ad::1
 ns3.nic.net.ng.	0	IN	A	185.38.108.108
 ns3.nic.net.ng.	0	IN	AAAA	2a00:fea0:dead::beef
 ns4.nic.net.ng.	0	IN	A	185.28.194.194
