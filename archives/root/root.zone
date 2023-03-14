@@ -5986,6 +5986,7 @@ fi.	0	IN	NS	g.fi.
 fi.	0	IN	NS	h.fi.
 fi.	0	IN	NS	i.fi.
 fi.	0	IN	NS	j.fi.
+fi.	0	IN	NS	k.fi.
 fi.	0	IN	DS	54049 8 2 924e552f60cbc5aa2517d0f59d658b119f211113e9a98f34402396ec8a96a2d1
 a.fi.	0	IN	A	193.166.4.1
 a.fi.	0	IN	AAAA	2001:708:10:53::53
@@ -6009,6 +6010,8 @@ i.fi.	0	IN	A	194.0.25.30
 i.fi.	0	IN	AAAA	2001:678:20::30
 j.fi.	0	IN	A	185.159.199.190
 j.fi.	0	IN	AAAA	2620:10a:80ac::190
+k.fi.	0	IN	A	213.186.229.226
+k.fi.	0	IN	AAAA	2001:14b8:188d::53
 fiat.	0	IN	NS	a0.nic.fiat.
 fiat.	0	IN	NS	a2.nic.fiat.
 fiat.	0	IN	NS	b0.nic.fiat.
@@ -7722,10 +7725,6 @@ help.	0	IN	NS	a.nic.help.
 help.	0	IN	NS	b.nic.help.
 help.	0	IN	NS	c.nic.help.
 help.	0	IN	NS	d.nic.help.
-help.	0	IN	NS	ns1.uniregistry.net.
-help.	0	IN	NS	ns2.uniregistry.info.
-help.	0	IN	NS	ns3.uniregistry.net.
-help.	0	IN	NS	ns4.uniregistry.info.
 help.	0	IN	DS	58220 13 2 631c51b43ba218603248e67a2c076c73acd16ad6eb0e4df9b3abd77d92643a9a
 help.	0	IN	DS	58472 13 2 9313a5ff28806d26514b86f9a83a67b79692ab1ff3a4401ce49fc0488b607bea
 a.nic.help.	0	IN	A	194.169.218.158
@@ -14661,7 +14660,7 @@ sa.	0	IN	NS	p1.dns.sa.
 sa.	0	IN	NS	s1.dns.sa.
 sa.	0	IN	NS	s2.dns.sa.
 sa.	0	IN	NS	sh1.dns.sa.
-sa.	0	IN	DS	51091 8 2 884f556d23ca7c53d5546b3fe49e2c5aa147b0f6d65c91c096b13c085b3f9a64
+sa.	0	IN	DS	65380 8 2 0c3e281d035fd68a9bd2bbfe46348b7e000237385cd3a31c58a88cd652dc8785
 c1.dns.sa.	0	IN	A	86.111.192.9
 c1.dns.sa.	0	IN	AAAA	2001:67c:18c8:c0::c1
 c2.dns.sa.	0	IN	A	86.111.196.9
@@ -15736,7 +15735,6 @@ sn.	0	IN	NS	sn.cctld.authdns.ripe.net.
 sn.	0	IN	NS	ns1.sonatel.sn.
 sn.	0	IN	NS	ns-sn.nic.fr.
 sn.	0	IN	NS	dns-tld.ird.fr.
-sn.	0	IN	NS	censvrns0001.ird.fr.
 sn.	0	IN	DS	36827 13 2 992ed3a8cd111420e26fd9a8b8885c3beafa13507eb0606449aea1dadc21b25f
 ns1.sonatel.sn.	0	IN	A	213.154.64.11
 ns.ucad.sn.	0	IN	A	196.1.95.1
