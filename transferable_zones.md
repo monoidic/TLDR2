@@ -12,5 +12,4 @@
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `pg.` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/pg.zone)
-* `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
