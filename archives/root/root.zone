@@ -586,6 +586,7 @@ amazon.	0	IN	NS	dnsb.nic.amazon.
 amazon.	0	IN	NS	dnsc.nic.amazon.
 amazon.	0	IN	NS	dnsd.nic.amazon.
 amazon.	0	IN	DS	14854 8 2 4f9f1805f5689bf4af48f0fa04bef8727b83eac65a669e8bf1a5eafa83350d39
+amazon.	0	IN	DS	14854 8 66 4f9f1805f5689bf4af48f0fa04bef8727b83eac65a669e8bf1a5eafa83350d39
 dns1.nic.amazon.	0	IN	A	213.248.218.90
 dns1.nic.amazon.	0	IN	AAAA	2a01:618:402::90
 dns2.nic.amazon.	0	IN	A	103.49.82.90
@@ -751,6 +752,7 @@ v0n2.nic.apartments.	0	IN	A	65.22.30.56
 v0n2.nic.apartments.	0	IN	AAAA	2a01:8840:20::56
 v0n3.nic.apartments.	0	IN	A	161.232.14.56
 v0n3.nic.apartments.	0	IN	AAAA	2a01:8840:f8::56
+v0n3.nic.apartments.	0	IN	AAAA	2a01:8840:f8:0:4000::56
 v2n0.nic.apartments.	0	IN	A	65.22.31.56
 v2n0.nic.apartments.	0	IN	AAAA	2a01:8840:21::56
 v2n1.nic.apartments.	0	IN	A	161.232.15.56
@@ -949,6 +951,7 @@ associates.	0	IN	NS	v0n3.nic.associates.
 associates.	0	IN	NS	v2n0.nic.associates.
 associates.	0	IN	NS	v2n1.nic.associates.
 associates.	0	IN	DS	51694 8 2 b92f8f575097b95ab00af8de35f962205ddd4bc0662b1dd212b5d062d679d338
+associates.	0	CLASS65	NS	v0n2.nic.associates.
 v0n0.nic.associates.	0	IN	A	65.22.28.27
 v0n0.nic.associates.	0	IN	AAAA	2a01:8840:1e::27
 v0n1.nic.associates.	0	IN	A	65.22.29.27
@@ -1017,6 +1020,7 @@ attorney.	0	IN	NS	v0n3.nic.attorney.
 attorney.	0	IN	NS	v2n0.nic.attorney.
 attorney.	0	IN	NS	v2n1.nic.attorney.
 attorney.	0	IN	DS	37909 8 2 c4a297804ce08f6ec8bdb6ebdc8c0907da680a9feb90555ac0b6bb8f38026ce4
+attorney.	0	CLASS65	NS	v0n2.nic.attorney.
 v0n0.nic.attorney.	0	IN	A	65.22.20.20
 v0n0.nic.attorney.	0	IN	AAAA	2a01:8840:16::20
 v0n1.nic.attorney.	0	IN	A	65.22.21.20
@@ -1184,6 +1188,7 @@ dnsb.nic.author.	0	IN	A	156.154.101.3
 dnsb.nic.author.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.author.	0	IN	A	156.154.102.3
 dnsc.nic.author.	0	IN	AAAA	2610:a1:1009::3
+dnsc.nic.author.	0	IN	AAAA	2610:a1:1009:0:4000::3
 dnsd.nic.author.	0	IN	A	156.154.103.3
 dnsd.nic.author.	0	IN	AAAA	2610:a1:1010::3
 auto.	0	IN	NS	a.nic.auto.
@@ -1192,6 +1197,7 @@ auto.	0	IN	NS	c.nic.auto.
 auto.	0	IN	NS	d.nic.auto.
 auto.	0	IN	DS	41492 5 1 4ef1eddd59daee765cd1ed0205081d46d25bbe7c
 auto.	0	IN	DS	41492 5 2 01b3b92918b955d84a70f1bc254513d6fd90a33e8ababc0aafcf8830ac259c2c
+auto.	0	IN	DS	41492 5 66 01b3b92918b955d84a70f1bc254513d6fd90a33e8ababc0aafcf8830ac259c2c
 a.nic.auto.	0	IN	A	194.169.218.131
 a.nic.auto.	0	IN	AAAA	2001:67c:13cc::1:131
 b.nic.auto.	0	IN	A	185.24.64.131
@@ -1414,6 +1420,7 @@ bar.	0	IN	NS	c.nic.bar.
 bar.	0	IN	NS	d.nic.bar.
 bar.	0	IN	DS	55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
 bar.	0	IN	DS	55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
+bar.	0	CLASS65	NS	b.nic.bar.
 a.nic.bar.	0	IN	A	194.169.218.56
 a.nic.bar.	0	IN	AAAA	2001:67c:13cc::1:56
 b.nic.bar.	0	IN	A	185.24.64.56
@@ -1572,6 +1579,7 @@ dnsb.nic.bbc.	0	IN	A	156.154.101.3
 dnsb.nic.bbc.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.bbc.	0	IN	A	156.154.102.3
 dnsc.nic.bbc.	0	IN	AAAA	2610:a1:1009::3
+dnsc.nic.bbc.	0	IN	AAAA	2610:a1:1009:0:4000::3
 dnsd.nic.bbc.	0	IN	A	156.154.103.3
 dnsd.nic.bbc.	0	IN	AAAA	2610:a1:1010::3
 bbt.	0	IN	NS	ac1.nstld.com.
@@ -1664,6 +1672,7 @@ beats.	0	IN	DS	3234 7 1 d046927a7b31b59e7aaa612d56e1f8da77cc9e91
 beats.	0	IN	DS	3234 7 2 3bad4fe26537c9b141eba6cb27f3e5640f302028b78c767d1780f1d85fb659d1
 beats.	0	IN	DS	4606 7 1 5016cfafb58908893b6288c1150b6debb1c0436f
 beats.	0	IN	DS	4606 7 2 a5f26c1dd2b6f050bf9c1439e0c53295e502769be20991866084aaef6ba2ed7d
+beats.	0	IN	DS	4606 7 2 a5f26c1dd2b6f050bf9c1439e0c53295e50276dbe20991866084aaef6ba2ed7d
 a0.nic.beats.	0	IN	A	65.22.60.9
 a0.nic.beats.	0	IN	AAAA	2a01:8840:3a::9
 a2.nic.beats.	0	IN	A	65.22.63.9
@@ -1842,6 +1851,7 @@ bible.	0	IN	NS	ns3.dns.nic.bible.
 bible.	0	IN	DS	634 8 2 c09ed93543e2a43516c5379a9ebd54364d4226015112cdfb24199a7f91936ddc
 a.nic.bible.	0	IN	A	37.209.192.10
 a.nic.bible.	0	IN	AAAA	2001:dcd:1::10
+a.nic.bible.	0	IN	AAAA	2001:dcd:1:0:4000::10
 b.nic.bible.	0	IN	A	37.209.194.10
 b.nic.bible.	0	IN	AAAA	2001:dcd:2::10
 c.nic.bible.	0	IN	A	37.209.196.10
@@ -2040,6 +2050,7 @@ bmw.	0	IN	NS	b.nic.bmw.
 bmw.	0	IN	NS	c.nic.bmw.
 bmw.	0	IN	NS	d.nic.bmw.
 bmw.	0	IN	DS	41084 8 2 6c86d7e525248df05c8dd7720648d4cb629daae2dcd163bfc74d28312fd5311a
+bmw.	0	IN	DS	41084 8 2 6c86d7e525248df05c8dd7720648d4cb62ddaae2dcd163bfc74d28312fd5311a
 bmw.	0	IN	DS	43579 8 2 b543b5adba44e6e32d11c93bb4e729d80fa1197f59b2ae505a1e292605234793
 a.nic.bmw.	0	IN	A	194.169.218.76
 a.nic.bmw.	0	IN	AAAA	2001:67c:13cc::1:76
@@ -2053,6 +2064,7 @@ bn.	0	IN	NS	ns1.bnnic.bn.
 bn.	0	IN	NS	ns2.bnnic.bn.
 bn.	0	IN	NS	ns4.apnic.net.
 bn.	0	IN	NS	bn-ns.anycast.pch.net.
+bn.	0	IN	NS	bnmns.anycast.pch.net.
 bn.	0	IN	DS	42604 8 2 6819a97fb70420cf6b528cbf909312a834180660a098e2a2650a5ed58849e1da
 ns1.bnnic.bn.	0	IN	A	194.0.1.33
 ns2.bnnic.bn.	0	IN	A	202.93.214.163
