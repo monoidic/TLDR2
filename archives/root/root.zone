@@ -1784,7 +1784,7 @@ c0.nic.bet.	0	IN	AAAA	2a01:8840:28::17
 bf.	0	IN	NS	a.registre.bf.
 bf.	0	IN	NS	pch.ns.registre.bf.
 bf.	0	IN	NS	ns-bf.nic.fr.
-bf.	0	IN	NS	censvrns0001.ird.fr.
+bf.	0	IN	NS	dns-tld.ird.fr.
 a.registre.bf.	0	IN	A	212.52.146.50
 pch.ns.registre.bf.	0	IN	A	204.61.216.141
 pch.ns.registre.bf.	0	IN	AAAA	2001:500:14:6141:ad::1
@@ -6234,6 +6234,7 @@ ns2.fj.	0	IN	AAAA	2402:2940:100:100d::1
 ns3.fj.	0	IN	A	185.38.108.108
 ns4.fj.	0	IN	A	185.28.194.194
 ns5.fj.	0	IN	A	204.61.216.138
+ns5.fj.	0	IN	AAAA	2001:500:14:6138:ad::1
 fk.	0	IN	NS	ns1.horizon.net.fk.
 fk.	0	IN	NS	ns2.horizon.net.fk.
 fk.	0	IN	NS	ns3.horizon.net.fk.
@@ -6524,7 +6525,6 @@ fr.	0	IN	DS	51508 13 2 1b3386864d30ccc8f4541b985bf2ca320e4f52c57c53353f6d29c9ad5
 ns.cocca.fr.	0	IN	A	185.17.236.93
 ns.cocca.fr.	0	IN	AAAA	2a03:dd40:3::93
 dns.inria.fr.	0	IN	A	193.51.208.13
-censvrns0001.ird.fr.	0	IN	A	91.203.32.147
 dns-tld.ird.fr.	0	IN	A	13.39.116.127
 d.nic.fr.	0	IN	A	194.0.9.1
 d.nic.fr.	0	IN	AAAA	2001:678:c::1
