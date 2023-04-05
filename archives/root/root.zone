@@ -1229,7 +1229,6 @@ b0.nic.avianca.	0	IN	AAAA	2a01:8840:4f::17
 c0.nic.avianca.	0	IN	A	65.22.82.17
 c0.nic.avianca.	0	IN	AAAA	2a01:8840:50::17
 aw.	0	IN	NS	ns1.dns.aw.
-aw.	0	IN	NS	ns2.dns.aw.
 aw.	0	IN	NS	ns3.dns.aw.
 aw.	0	IN	NS	ns4.dns.aw.
 aw.	0	IN	NS	aw01.setarnet.aw.
@@ -1237,8 +1236,6 @@ aw.	0	IN	NS	aw02.setarnet.aw.
 aw.	0	IN	DS	38854 8 2 23fa5636c1d793336a1eb15bbd26aa902cf12fb88200c64512f065ae355a4d9b
 ns1.dns.aw.	0	IN	A	194.0.28.2
 ns1.dns.aw.	0	IN	AAAA	2001:678:2c:0:194:0:28:2
-ns2.dns.aw.	0	IN	A	194.146.106.42
-ns2.dns.aw.	0	IN	AAAA	2001:67c:1010:10::53
 ns3.dns.aw.	0	IN	A	194.0.25.25
 ns3.dns.aw.	0	IN	AAAA	2001:678:20::25
 ns4.dns.aw.	0	IN	A	185.159.199.201
