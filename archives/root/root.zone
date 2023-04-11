@@ -1623,6 +1623,8 @@ bd.	0	IN	NS	dns.bd.
 bd.	0	IN	NS	bd-ns.anycast.pch.net.
 bd.	0	IN	NS	surma.btcl.net.bd.
 bd.	0	IN	NS	jamuna.btcl.net.bd.
+bd.	0	IN	DS	26044 8 1 2dad1b7f8ca778464f536fddd15efd24cccb62ef
+bd.	0	IN	DS	26044 8 2 bd01c4b4345d21fc38aa88129f7bc00fdd7b422799cc6703736e3b381f37dd5b
 dns.bd.	0	IN	A	123.49.12.112
 dns.bd.	0	IN	AAAA	2407:5000:88:5::3
 bayanno.btcl.net.bd.	0	IN	A	180.211.212.213
