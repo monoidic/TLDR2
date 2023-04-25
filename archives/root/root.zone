@@ -969,8 +969,8 @@ at.	0	IN	NS	u.ns.at.
 at.	0	IN	NS	ns1.univie.ac.at.
 at.	0	IN	NS	ns2.univie.ac.at.
 at.	0	IN	NS	ns9.univie.ac.at.
-at.	0	IN	DS	19294 8 2 8f9d0acd78ff2f88f5641c339f05862220aef51a6df480039c8d4da4f1f8a0e0
-at.	0	IN	DS	51046 8 2 55f25d5c8c31edf1c8cd5a954f39aa90a094f49398fcd7695e2d9cd72e9e6d0f
+at.	0	IN	DS	1253 13 2 ba17c1bacb3fb49f7760ad1f7e71e17ab39ee0df3e9d3bf23fd3d70d6cf1719e
+at.	0	IN	DS	18942 13 2 ae5f0bd73c8f48f3d55cdc4070f9407873176c364de4bc92bf96887685e6e55f
 dns-mk.univie.ac.at.	0	IN	A	78.104.145.4
 dns-mk.univie.ac.at.	0	IN	AAAA	2001:628:453:bb::4
 ns1.univie.ac.at.	0	IN	A	78.104.144.2
@@ -15641,10 +15641,12 @@ c.nic.skin.	0	IN	A	212.18.248.118
 c.nic.skin.	0	IN	AAAA	2a04:2b00:13ee::118
 d.nic.skin.	0	IN	A	212.18.249.118
 d.nic.skin.	0	IN	AAAA	2a04:2b00:13ff::118
-sky.	0	IN	NS	ac1.nstld.com.
-sky.	0	IN	NS	ac2.nstld.com.
 sky.	0	IN	NS	ac3.nstld.com.
 sky.	0	IN	NS	ac4.nstld.com.
+sky.	0	IN	NS	ns1.nominetdns.uk.
+sky.	0	IN	NS	ns2.nominetdns.uk.
+sky.	0	IN	NS	ns3.nominetdns.uk.
+sky.	0	IN	NS	ns4.nominetdns.uk.
 sky.	0	IN	DS	10101 8 2 f09afb6032ad0269337a282d137041e961e6284bd581ea5cf27c300dab97b629
 sky.	0	IN	DS	27464 8 2 2c593b75decd94e47a5dbc8e20400dafa9f6adc46f5ee033de4f07bfd9a83904
 skype.	0	IN	NS	a.nic.skype.
@@ -17562,6 +17564,14 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
+ns1.nominetdns.uk.	0	IN	A	213.248.219.126
+ns1.nominetdns.uk.	0	IN	AAAA	2a01:618:403::126
+ns2.nominetdns.uk.	0	IN	A	103.49.83.126
+ns2.nominetdns.uk.	0	IN	AAAA	2401:fd80:403::126
+ns3.nominetdns.uk.	0	IN	A	213.248.223.126
+ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::126
+ns4.nominetdns.uk.	0	IN	A	43.230.51.126
+ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::126
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
