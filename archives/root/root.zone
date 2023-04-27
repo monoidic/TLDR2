@@ -54,6 +54,7 @@ abb.	0	IN	NS	ac1.nstld.com.
 abb.	0	IN	NS	ac2.nstld.com.
 abb.	0	IN	NS	ac3.nstld.com.
 abb.	0	IN	NS	ac4.nstld.com.
+abb.	0	IN	DS	16216 8 2 6dc3161e488f546a3baa11018bf0123c789c56241c9c03dcb74ce07a5accb18f
 abb.	0	IN	DS	62559 8 2 2dd7bf24ac488d85bc3f9d3f817d37de9f608e79403fa29e26a55679254f6f28
 abbott.	0	IN	NS	a0.nic.abbott.
 abbott.	0	IN	NS	a2.nic.abbott.
@@ -2182,6 +2183,7 @@ bosch.	0	IN	NS	ac2.nstld.com.
 bosch.	0	IN	NS	ac3.nstld.com.
 bosch.	0	IN	NS	ac4.nstld.com.
 bosch.	0	IN	DS	34683 8 2 17bf6449d9224ca2d30c4b3b941066b9fe7e5e0ee4e6de60dc14ba83c0eb4fce
+bosch.	0	IN	DS	60941 8 2 1dfbed7ca1eed1f0fc7c79bfac760f2d796d423b13cff9334a00745afc7ae286
 bostik.	0	IN	NS	d.nic.fr.
 bostik.	0	IN	NS	f.ext.nic.fr.
 bostik.	0	IN	NS	g.ext.nic.fr.
@@ -10074,6 +10076,7 @@ lipsy.	0	IN	NS	ac1.nstld.com.
 lipsy.	0	IN	NS	ac2.nstld.com.
 lipsy.	0	IN	NS	ac3.nstld.com.
 lipsy.	0	IN	NS	ac4.nstld.com.
+lipsy.	0	IN	DS	14890 8 2 af1fcd22dc45f40ee44921a2cdb562f28f3412b8e9fd8648dd393282c29dd449
 lipsy.	0	IN	DS	29655 8 2 492b3408ed68c62db07f2abfe15c2b2de6ff28da1d6b4cfeb9ef26845e132b44
 live.	0	IN	NS	v0n0.nic.live.
 live.	0	IN	NS	v0n1.nic.live.
@@ -10399,6 +10402,7 @@ lundbeck.	0	IN	NS	ac1.nstld.com.
 lundbeck.	0	IN	NS	ac2.nstld.com.
 lundbeck.	0	IN	NS	ac3.nstld.com.
 lundbeck.	0	IN	NS	ac4.nstld.com.
+lundbeck.	0	IN	DS	10564 8 2 38580c9480c824da9cb65a5ffaccdf2f6aedc660b98c6166e0a843ff13fab368
 lundbeck.	0	IN	DS	24258 8 2 d632277d10695936ba14a7430fbc342c7a09423d6256311ba792363a1097a20c
 luxe.	0	IN	NS	a.nic.luxe.
 luxe.	0	IN	NS	b.nic.luxe.
@@ -14356,6 +14360,7 @@ rexroth.	0	IN	NS	ac1.nstld.com.
 rexroth.	0	IN	NS	ac2.nstld.com.
 rexroth.	0	IN	NS	ac3.nstld.com.
 rexroth.	0	IN	NS	ac4.nstld.com.
+rexroth.	0	IN	DS	13240 8 2 3fdb1d716cc4d502c89094eb8b0f44056e6bdebefdfdba79632c5dc606238e70
 rexroth.	0	IN	DS	53088 8 2 9f6072a8631cdd4582c80d2372be54f59ae189b5749d5007add985b4f82a6500
 rich.	0	IN	NS	a0.nic.rich.
 rich.	0	IN	NS	a2.nic.rich.
@@ -14838,6 +14843,7 @@ sanofi.	0	IN	NS	ac2.nstld.com.
 sanofi.	0	IN	NS	ac3.nstld.com.
 sanofi.	0	IN	NS	ac4.nstld.com.
 sanofi.	0	IN	DS	2961 8 2 d523e97b164182385d06c3abdd620f12de54a40e9705490a25681affe384affe
+sanofi.	0	IN	DS	41599 8 2 02843ff5975a697552b6331207523eed81a6fbe7a7f6aa90f9a2513bb3648092
 sap.	0	IN	NS	anycast9.irondns.net.
 sap.	0	IN	NS	anycast10.irondns.net.
 sap.	0	IN	NS	anycast23.irondns.net.
@@ -15638,12 +15644,14 @@ c.nic.skin.	0	IN	A	212.18.248.118
 c.nic.skin.	0	IN	AAAA	2a04:2b00:13ee::118
 d.nic.skin.	0	IN	A	212.18.249.118
 d.nic.skin.	0	IN	AAAA	2a04:2b00:13ff::118
-sky.	0	IN	NS	ac3.nstld.com.
-sky.	0	IN	NS	ac4.nstld.com.
 sky.	0	IN	NS	ns1.nominetdns.uk.
 sky.	0	IN	NS	ns2.nominetdns.uk.
 sky.	0	IN	NS	ns3.nominetdns.uk.
 sky.	0	IN	NS	ns4.nominetdns.uk.
+sky.	0	IN	NS	nsa.nominetdns.uk.
+sky.	0	IN	NS	nsb.nominetdns.uk.
+sky.	0	IN	NS	nsc.nominetdns.uk.
+sky.	0	IN	NS	nsd.nominetdns.uk.
 sky.	0	IN	DS	10101 8 2 f09afb6032ad0269337a282d137041e961e6284bd581ea5cf27c300dab97b629
 sky.	0	IN	DS	27464 8 2 2c593b75decd94e47a5dbc8e20400dafa9f6adc46f5ee033de4f07bfd9a83904
 skype.	0	IN	NS	a.nic.skype.
@@ -17569,6 +17577,14 @@ ns3.nominetdns.uk.	0	IN	A	213.248.223.126
 ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::126
 ns4.nominetdns.uk.	0	IN	A	43.230.51.126
 ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::126
+nsa.nominetdns.uk.	0	IN	A	156.154.100.3
+nsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
+nsb.nominetdns.uk.	0	IN	A	156.154.101.3
+nsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
+nsc.nominetdns.uk.	0	IN	A	156.154.102.3
+nsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
+nsd.nominetdns.uk.	0	IN	A	156.154.103.3
+nsd.nominetdns.uk.	0	IN	AAAA	2610:a1:1010::3
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
@@ -17728,6 +17744,7 @@ vanguard.	0	IN	NS	ac1.nstld.com.
 vanguard.	0	IN	NS	ac2.nstld.com.
 vanguard.	0	IN	NS	ac3.nstld.com.
 vanguard.	0	IN	NS	ac4.nstld.com.
+vanguard.	0	IN	DS	28675 8 2 de83f2879537f8479c81335da97c8d0b923767b78b5fb56544889d3a7006efb2
 vanguard.	0	IN	DS	55911 8 2 b218841ec23f35d6a8cb53c6bc78c73cf507460f03bf19ffe513a427afe0473a
 vc.	0	IN	NS	a0.cctld.afilias-nst.info.
 vc.	0	IN	NS	a2.cctld.afilias-nst.info.
@@ -18453,6 +18470,7 @@ weir.	0	IN	NS	ac1.nstld.com.
 weir.	0	IN	NS	ac2.nstld.com.
 weir.	0	IN	NS	ac3.nstld.com.
 weir.	0	IN	NS	ac4.nstld.com.
+weir.	0	IN	DS	7762 8 2 bfffb5b824d7cc802beb433840269cd57749aa46593c40b9967bfba4c376fc6f
 weir.	0	IN	DS	43134 8 2 1f9e4441191642a39a48cec8dedbda9120d85d460cbaf2bf037f3ae3a8e8c7ee
 wf.	0	IN	NS	d.nic.fr.
 wf.	0	IN	NS	e.ext.nic.fr.
