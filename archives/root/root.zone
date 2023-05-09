@@ -50,12 +50,20 @@ b0.nic.abarth.	0	IN	A	65.22.25.17
 b0.nic.abarth.	0	IN	AAAA	2a01:8840:1b::17
 c0.nic.abarth.	0	IN	A	65.22.26.17
 c0.nic.abarth.	0	IN	AAAA	2a01:8840:1c::17
-abb.	0	IN	NS	ac1.nstld.com.
-abb.	0	IN	NS	ac2.nstld.com.
-abb.	0	IN	NS	ac3.nstld.com.
-abb.	0	IN	NS	ac4.nstld.com.
+abb.	0	IN	NS	a0.nic.abb.
+abb.	0	IN	NS	a2.nic.abb.
+abb.	0	IN	NS	b0.nic.abb.
+abb.	0	IN	NS	c0.nic.abb.
 abb.	0	IN	DS	16216 8 2 6dc3161e488f546a3baa11018bf0123c789c56241c9c03dcb74ce07a5accb18f
 abb.	0	IN	DS	62559 8 2 2dd7bf24ac488d85bc3f9d3f817d37de9f608e79403fa29e26a55679254f6f28
+a0.nic.abb.	0	IN	A	65.22.112.41
+a0.nic.abb.	0	IN	AAAA	2a01:8840:6e::41
+a2.nic.abb.	0	IN	A	65.22.115.41
+a2.nic.abb.	0	IN	AAAA	2a01:8840:71::41
+b0.nic.abb.	0	IN	A	65.22.113.41
+b0.nic.abb.	0	IN	AAAA	2a01:8840:6f::41
+c0.nic.abb.	0	IN	A	65.22.114.41
+c0.nic.abb.	0	IN	AAAA	2a01:8840:70::41
 abbott.	0	IN	NS	a0.nic.abbott.
 abbott.	0	IN	NS	a2.nic.abbott.
 abbott.	0	IN	NS	b0.nic.abbott.
@@ -3817,6 +3825,7 @@ pebbles.iom.com.	0	IN	A	83.218.14.53
 ns-mg.malagasy.com.	0	IN	A	51.178.182.212
 ns1.neoip.com.	0	IN	A	51.195.14.249
 ns2.neoip.com.	0	IN	A	45.83.41.38
+ns1.nic-ge.com.	0	IN	A	3.66.58.155
 ac1.nstld.com.	0	IN	A	192.42.173.30
 ac1.nstld.com.	0	IN	AAAA	2001:500:120::30
 ac2.nstld.com.	0	IN	A	192.42.174.30
@@ -6938,7 +6947,7 @@ d.nic.gd.	0	IN	AAAA	2a04:2b00:13ff::88
 gdn.	0	IN	NS	ns1.nic.gdn.
 gdn.	0	IN	NS	ns3.nic.gdn.
 gdn.	0	IN	NS	ns4.nic.gdn.
-gdn.	0	IN	DS	25276 8 1 f04fcf71cc66f4662e234316f3b47e74e03aea1a
+gdn.	0	IN	DS	28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
 gdn.	0	IN	DS	30307 8 1 7a16bf5938b9fe7cf2ac5be9c472e81443944686
 ns1.nic.gdn.	0	IN	A	194.0.25.18
 ns1.nic.gdn.	0	IN	AAAA	2001:678:20::18
@@ -6946,10 +6955,8 @@ ns3.nic.gdn.	0	IN	A	194.0.26.11
 ns3.nic.gdn.	0	IN	AAAA	2001:67c:10e0::11
 ns4.nic.gdn.	0	IN	A	194.0.24.11
 ns4.nic.gdn.	0	IN	AAAA	2001:678:24::11
-ge.	0	IN	NS	ge.hostmaster.ua.
-ge.	0	IN	NS	ns.uu.net.
 ge.	0	IN	NS	ns.nic.ge.
-ge.	0	IN	NS	ns2.nic.fr.
+ge.	0	IN	NS	ns1.nic-ge.com.
 ge.	0	IN	NS	ns2.nic.ge.
 ns.nic.ge.	0	IN	A	212.72.130.11
 ns2.nic.ge.	0	IN	A	185.19.98.98
@@ -10398,12 +10405,20 @@ ns1.dns.lu.	0	IN	A	158.64.229.18
 ns1.dns.lu.	0	IN	AAAA	2001:a18:4:1::18
 p.dns.lu.	0	IN	A	194.0.42.42
 p.dns.lu.	0	IN	AAAA	2001:678:60::42:42
-lundbeck.	0	IN	NS	ac1.nstld.com.
-lundbeck.	0	IN	NS	ac2.nstld.com.
-lundbeck.	0	IN	NS	ac3.nstld.com.
-lundbeck.	0	IN	NS	ac4.nstld.com.
+lundbeck.	0	IN	NS	a0.nic.lundbeck.
+lundbeck.	0	IN	NS	a2.nic.lundbeck.
+lundbeck.	0	IN	NS	b0.nic.lundbeck.
+lundbeck.	0	IN	NS	c0.nic.lundbeck.
 lundbeck.	0	IN	DS	10564 8 2 38580c9480c824da9cb65a5ffaccdf2f6aedc660b98c6166e0a843ff13fab368
 lundbeck.	0	IN	DS	24258 8 2 d632277d10695936ba14a7430fbc342c7a09423d6256311ba792363a1097a20c
+a0.nic.lundbeck.	0	IN	A	65.22.112.60
+a0.nic.lundbeck.	0	IN	AAAA	2a01:8840:6e::60
+a2.nic.lundbeck.	0	IN	A	65.22.115.60
+a2.nic.lundbeck.	0	IN	AAAA	2a01:8840:71::60
+b0.nic.lundbeck.	0	IN	A	65.22.113.60
+b0.nic.lundbeck.	0	IN	AAAA	2a01:8840:6f::60
+c0.nic.lundbeck.	0	IN	A	65.22.114.60
+c0.nic.lundbeck.	0	IN	AAAA	2a01:8840:70::60
 luxe.	0	IN	NS	a.nic.luxe.
 luxe.	0	IN	NS	b.nic.luxe.
 luxe.	0	IN	NS	c.nic.luxe.
@@ -14356,12 +14371,20 @@ v2n0.nic.reviews.	0	IN	A	65.22.35.12
 v2n0.nic.reviews.	0	IN	AAAA	2a01:8840:25::12
 v2n1.nic.reviews.	0	IN	A	161.232.17.12
 v2n1.nic.reviews.	0	IN	AAAA	2a01:8840:fb::12
-rexroth.	0	IN	NS	ac1.nstld.com.
-rexroth.	0	IN	NS	ac2.nstld.com.
-rexroth.	0	IN	NS	ac3.nstld.com.
-rexroth.	0	IN	NS	ac4.nstld.com.
+rexroth.	0	IN	NS	a0.nic.rexroth.
+rexroth.	0	IN	NS	a2.nic.rexroth.
+rexroth.	0	IN	NS	b0.nic.rexroth.
+rexroth.	0	IN	NS	c0.nic.rexroth.
 rexroth.	0	IN	DS	13240 8 2 3fdb1d716cc4d502c89094eb8b0f44056e6bdebefdfdba79632c5dc606238e70
 rexroth.	0	IN	DS	53088 8 2 9f6072a8631cdd4582c80d2372be54f59ae189b5749d5007add985b4f82a6500
+a0.nic.rexroth.	0	IN	A	65.22.112.65
+a0.nic.rexroth.	0	IN	AAAA	2a01:8840:6e::65
+a2.nic.rexroth.	0	IN	A	65.22.115.65
+a2.nic.rexroth.	0	IN	AAAA	2a01:8840:71::65
+b0.nic.rexroth.	0	IN	A	65.22.113.65
+b0.nic.rexroth.	0	IN	AAAA	2a01:8840:6f::65
+c0.nic.rexroth.	0	IN	A	65.22.114.65
+c0.nic.rexroth.	0	IN	AAAA	2a01:8840:70::65
 rich.	0	IN	NS	a0.nic.rich.
 rich.	0	IN	NS	a2.nic.rich.
 rich.	0	IN	NS	b0.nic.rich.
@@ -14838,12 +14861,20 @@ y.nic.sandvikcoromant.	0	IN	A	156.154.173.82
 y.nic.sandvikcoromant.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.sandvikcoromant.	0	IN	A	156.154.174.82
 z.nic.sandvikcoromant.	0	IN	AAAA	2610:a1:1076::1:82
-sanofi.	0	IN	NS	ac1.nstld.com.
-sanofi.	0	IN	NS	ac2.nstld.com.
-sanofi.	0	IN	NS	ac3.nstld.com.
-sanofi.	0	IN	NS	ac4.nstld.com.
+sanofi.	0	IN	NS	a0.nic.sanofi.
+sanofi.	0	IN	NS	a2.nic.sanofi.
+sanofi.	0	IN	NS	b0.nic.sanofi.
+sanofi.	0	IN	NS	c0.nic.sanofi.
 sanofi.	0	IN	DS	2961 8 2 d523e97b164182385d06c3abdd620f12de54a40e9705490a25681affe384affe
 sanofi.	0	IN	DS	41599 8 2 02843ff5975a697552b6331207523eed81a6fbe7a7f6aa90f9a2513bb3648092
+a0.nic.sanofi.	0	IN	A	65.22.112.67
+a0.nic.sanofi.	0	IN	AAAA	2a01:8840:6e::67
+a2.nic.sanofi.	0	IN	A	65.22.115.67
+a2.nic.sanofi.	0	IN	AAAA	2a01:8840:71::67
+b0.nic.sanofi.	0	IN	A	65.22.113.67
+b0.nic.sanofi.	0	IN	AAAA	2a01:8840:6f::67
+c0.nic.sanofi.	0	IN	A	65.22.114.67
+c0.nic.sanofi.	0	IN	AAAA	2a01:8840:70::67
 sap.	0	IN	NS	anycast9.irondns.net.
 sap.	0	IN	NS	anycast10.irondns.net.
 sap.	0	IN	NS	anycast23.irondns.net.
@@ -17478,8 +17509,6 @@ ua.	0	IN	NS	rcz.ns.ua.
 ua.	0	IN	DS	48349 13 2 d8456df0eab0db7d2422b4110722f5772d7b2f1fd41d487e956a54f1039d53c8
 az.hostmaster.ua.	0	IN	A	195.47.253.13
 az.hostmaster.ua.	0	IN	AAAA	2001:67c:258::13
-ge.hostmaster.ua.	0	IN	A	195.47.253.18
-ge.hostmaster.ua.	0	IN	AAAA	2001:67c:258::18
 tier1.num.net.ua.	0	IN	A	149.202.5.226
 dns.tci.net.ua.	0	IN	A	91.231.86.238
 bg.ns.ua.	0	IN	A	185.136.96.185
@@ -17740,12 +17769,20 @@ vana.	0	IN	NS	ac2.nstld.com.
 vana.	0	IN	NS	ac3.nstld.com.
 vana.	0	IN	NS	ac4.nstld.com.
 vana.	0	IN	DS	51813 8 2 93baec1bc806c42034f1ba91345d8aa439242ea114157951bf6b7e9f79fc9e0c
-vanguard.	0	IN	NS	ac1.nstld.com.
-vanguard.	0	IN	NS	ac2.nstld.com.
-vanguard.	0	IN	NS	ac3.nstld.com.
-vanguard.	0	IN	NS	ac4.nstld.com.
+vanguard.	0	IN	NS	a0.nic.vanguard.
+vanguard.	0	IN	NS	a2.nic.vanguard.
+vanguard.	0	IN	NS	b0.nic.vanguard.
+vanguard.	0	IN	NS	c0.nic.vanguard.
 vanguard.	0	IN	DS	28675 8 2 de83f2879537f8479c81335da97c8d0b923767b78b5fb56544889d3a7006efb2
 vanguard.	0	IN	DS	55911 8 2 b218841ec23f35d6a8cb53c6bc78c73cf507460f03bf19ffe513a427afe0473a
+a0.nic.vanguard.	0	IN	A	65.22.112.72
+a0.nic.vanguard.	0	IN	AAAA	2a01:8840:6e::72
+a2.nic.vanguard.	0	IN	A	65.22.115.72
+a2.nic.vanguard.	0	IN	AAAA	2a01:8840:71::72
+b0.nic.vanguard.	0	IN	A	65.22.113.72
+b0.nic.vanguard.	0	IN	AAAA	2a01:8840:6f::72
+c0.nic.vanguard.	0	IN	A	65.22.114.72
+c0.nic.vanguard.	0	IN	AAAA	2a01:8840:70::72
 vc.	0	IN	NS	a0.cctld.afilias-nst.info.
 vc.	0	IN	NS	a2.cctld.afilias-nst.info.
 vc.	0	IN	NS	b0.cctld.afilias-nst.org.
@@ -18466,12 +18503,20 @@ b0.nic.weibo.	0	IN	A	65.22.57.41
 b0.nic.weibo.	0	IN	AAAA	2a01:8840:37::41
 c0.nic.weibo.	0	IN	A	65.22.58.41
 c0.nic.weibo.	0	IN	AAAA	2a01:8840:38::41
-weir.	0	IN	NS	ac1.nstld.com.
-weir.	0	IN	NS	ac2.nstld.com.
-weir.	0	IN	NS	ac3.nstld.com.
-weir.	0	IN	NS	ac4.nstld.com.
+weir.	0	IN	NS	a0.nic.weir.
+weir.	0	IN	NS	a2.nic.weir.
+weir.	0	IN	NS	b0.nic.weir.
+weir.	0	IN	NS	c0.nic.weir.
 weir.	0	IN	DS	7762 8 2 bfffb5b824d7cc802beb433840269cd57749aa46593c40b9967bfba4c376fc6f
 weir.	0	IN	DS	43134 8 2 1f9e4441191642a39a48cec8dedbda9120d85d460cbaf2bf037f3ae3a8e8c7ee
+a0.nic.weir.	0	IN	A	65.22.112.75
+a0.nic.weir.	0	IN	AAAA	2a01:8840:6e::75
+a2.nic.weir.	0	IN	A	65.22.115.75
+a2.nic.weir.	0	IN	AAAA	2a01:8840:71::75
+b0.nic.weir.	0	IN	A	65.22.113.75
+b0.nic.weir.	0	IN	AAAA	2a01:8840:6f::75
+c0.nic.weir.	0	IN	A	65.22.114.75
+c0.nic.weir.	0	IN	AAAA	2a01:8840:70::75
 wf.	0	IN	NS	d.nic.fr.
 wf.	0	IN	NS	e.ext.nic.fr.
 wf.	0	IN	NS	f.ext.nic.fr.
