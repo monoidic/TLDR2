@@ -2186,12 +2186,20 @@ ns2.dns.nic.booking.	0	IN	A	156.154.145.27
 ns2.dns.nic.booking.	0	IN	AAAA	2610:a1:1072::1b
 ns3.dns.nic.booking.	0	IN	A	156.154.159.27
 ns3.dns.nic.booking.	0	IN	AAAA	2610:a1:1073::1b
-bosch.	0	IN	NS	ac1.nstld.com.
-bosch.	0	IN	NS	ac2.nstld.com.
-bosch.	0	IN	NS	ac3.nstld.com.
-bosch.	0	IN	NS	ac4.nstld.com.
+bosch.	0	IN	NS	a0.nic.bosch.
+bosch.	0	IN	NS	a2.nic.bosch.
+bosch.	0	IN	NS	b0.nic.bosch.
+bosch.	0	IN	NS	c0.nic.bosch.
 bosch.	0	IN	DS	34683 8 2 17bf6449d9224ca2d30c4b3b941066b9fe7e5e0ee4e6de60dc14ba83c0eb4fce
 bosch.	0	IN	DS	60941 8 2 1dfbed7ca1eed1f0fc7c79bfac760f2d796d423b13cff9334a00745afc7ae286
+a0.nic.bosch.	0	IN	A	65.22.112.46
+a0.nic.bosch.	0	IN	AAAA	2a01:8840:6e::46
+a2.nic.bosch.	0	IN	A	65.22.115.46
+a2.nic.bosch.	0	IN	AAAA	2a01:8840:71::46
+b0.nic.bosch.	0	IN	A	65.22.113.46
+b0.nic.bosch.	0	IN	AAAA	2a01:8840:6f::46
+c0.nic.bosch.	0	IN	A	65.22.114.46
+c0.nic.bosch.	0	IN	AAAA	2a01:8840:70::46
 bostik.	0	IN	NS	d.nic.fr.
 bostik.	0	IN	NS	f.ext.nic.fr.
 bostik.	0	IN	NS	g.ext.nic.fr.
@@ -10087,12 +10095,20 @@ link.	0	IN	NS	ns2.uniregistry.info.
 link.	0	IN	NS	ns3.uniregistry.net.
 link.	0	IN	NS	ns4.uniregistry.info.
 link.	0	IN	DS	16766 13 2 40f1045035d7ba48d27a66442b2c71ca159d219756d3ad4d35cf1e80419228b5
-lipsy.	0	IN	NS	ac1.nstld.com.
-lipsy.	0	IN	NS	ac2.nstld.com.
-lipsy.	0	IN	NS	ac3.nstld.com.
-lipsy.	0	IN	NS	ac4.nstld.com.
+lipsy.	0	IN	NS	a0.nic.lipsy.
+lipsy.	0	IN	NS	a2.nic.lipsy.
+lipsy.	0	IN	NS	b0.nic.lipsy.
+lipsy.	0	IN	NS	c0.nic.lipsy.
 lipsy.	0	IN	DS	14890 8 2 af1fcd22dc45f40ee44921a2cdb562f28f3412b8e9fd8648dd393282c29dd449
 lipsy.	0	IN	DS	29655 8 2 492b3408ed68c62db07f2abfe15c2b2de6ff28da1d6b4cfeb9ef26845e132b44
+a0.nic.lipsy.	0	IN	A	65.22.112.59
+a0.nic.lipsy.	0	IN	AAAA	2a01:8840:6e::59
+a2.nic.lipsy.	0	IN	A	65.22.115.59
+a2.nic.lipsy.	0	IN	AAAA	2a01:8840:71::59
+b0.nic.lipsy.	0	IN	A	65.22.113.59
+b0.nic.lipsy.	0	IN	AAAA	2a01:8840:6f::59
+c0.nic.lipsy.	0	IN	A	65.22.114.59
+c0.nic.lipsy.	0	IN	AAAA	2a01:8840:70::59
 live.	0	IN	NS	v0n0.nic.live.
 live.	0	IN	NS	v0n1.nic.live.
 live.	0	IN	NS	v0n2.nic.live.
