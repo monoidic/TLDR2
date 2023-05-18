@@ -3834,6 +3834,7 @@ ns-mg.malagasy.com.	0	IN	A	51.178.182.212
 ns1.neoip.com.	0	IN	A	51.195.14.249
 ns2.neoip.com.	0	IN	A	45.83.41.38
 ns1.nic-ge.com.	0	IN	A	3.66.58.155
+ns2.nic-ge.com.	0	IN	A	35.153.81.228
 ac1.nstld.com.	0	IN	A	192.42.173.30
 ac1.nstld.com.	0	IN	AAAA	2001:500:120::30
 ac2.nstld.com.	0	IN	A	192.42.174.30
@@ -4299,6 +4300,7 @@ crown.	0	IN	NS	ac2.nstld.com.
 crown.	0	IN	NS	ac3.nstld.com.
 crown.	0	IN	NS	ac4.nstld.com.
 crown.	0	IN	DS	27918 8 2 8842332bde0ba9771ae17ddadd5018c37a16287e1384967c331c615b23d85d56
+crown.	0	IN	DS	41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
 crs.	0	IN	NS	a0.nic.crs.
 crs.	0	IN	NS	a2.nic.crs.
 crs.	0	IN	NS	b0.nic.crs.
@@ -6966,6 +6968,7 @@ ns4.nic.gdn.	0	IN	AAAA	2001:678:24::11
 ge.	0	IN	NS	ns.nic.ge.
 ge.	0	IN	NS	ns1.nic-ge.com.
 ge.	0	IN	NS	ns2.nic.ge.
+ge.	0	IN	NS	ns2.nic-ge.com.
 ns.nic.ge.	0	IN	A	212.72.130.11
 ns2.nic.ge.	0	IN	A	185.19.98.98
 gea.	0	IN	NS	a.dns.nic.gea.
@@ -19017,7 +19020,6 @@ xn--4dbrk0ce.	0	IN	NS	nse.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ilns.ilan.net.il.
 xn--4dbrk0ce.	0	IN	NS	lookup.iucc.ac.il.
 xn--4dbrk0ce.	0	IN	DS	48814 13 2 0255186b246dca8e53de92159f38ef7b209cca2a1be875cb1a1dad2d592a9c9e
-xn--4dbrk0ce.	0	IN	DS	64411 13 2 09f874ff34c6c2d73ccaa566b12c8cfb7e5de692405f57195c4562c9e2ba4548
 xn--4gbrim.	0	IN	NS	a.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	b.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	c.nic.xn--4gbrim.
