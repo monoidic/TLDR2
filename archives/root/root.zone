@@ -55,7 +55,6 @@ abb.	0	IN	NS	a2.nic.abb.
 abb.	0	IN	NS	b0.nic.abb.
 abb.	0	IN	NS	c0.nic.abb.
 abb.	0	IN	DS	16216 8 2 6dc3161e488f546a3baa11018bf0123c789c56241c9c03dcb74ce07a5accb18f
-abb.	0	IN	DS	62559 8 2 2dd7bf24ac488d85bc3f9d3f817d37de9f608e79403fa29e26a55679254f6f28
 a0.nic.abb.	0	IN	A	65.22.112.41
 a0.nic.abb.	0	IN	AAAA	2a01:8840:6e::41
 a2.nic.abb.	0	IN	A	65.22.115.41
@@ -2193,7 +2192,6 @@ bosch.	0	IN	NS	a0.nic.bosch.
 bosch.	0	IN	NS	a2.nic.bosch.
 bosch.	0	IN	NS	b0.nic.bosch.
 bosch.	0	IN	NS	c0.nic.bosch.
-bosch.	0	IN	DS	34683 8 2 17bf6449d9224ca2d30c4b3b941066b9fe7e5e0ee4e6de60dc14ba83c0eb4fce
 bosch.	0	IN	DS	60941 8 2 1dfbed7ca1eed1f0fc7c79bfac760f2d796d423b13cff9334a00745afc7ae286
 a0.nic.bosch.	0	IN	A	65.22.112.46
 a0.nic.bosch.	0	IN	AAAA	2a01:8840:6e::46
@@ -4299,12 +4297,14 @@ ns2.dns.nic.cricket.	0	IN	A	156.154.145.220
 ns2.dns.nic.cricket.	0	IN	AAAA	2610:a1:1072::dc
 ns3.dns.nic.cricket.	0	IN	A	156.154.159.220
 ns3.dns.nic.cricket.	0	IN	AAAA	2610:a1:1073::dc
-crown.	0	IN	NS	ac1.nstld.com.
-crown.	0	IN	NS	ac2.nstld.com.
-crown.	0	IN	NS	ac3.nstld.com.
-crown.	0	IN	NS	ac4.nstld.com.
+crown.	0	IN	NS	a.ns.nic.crown.
+crown.	0	IN	NS	b.ns.nic.crown.
 crown.	0	IN	DS	27918 8 2 8842332bde0ba9771ae17ddadd5018c37a16287e1384967c331c615b23d85d56
 crown.	0	IN	DS	41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
+a.ns.nic.crown.	0	IN	A	185.159.197.5
+a.ns.nic.crown.	0	IN	AAAA	2620:10a:80aa::5
+b.ns.nic.crown.	0	IN	A	185.159.198.5
+b.ns.nic.crown.	0	IN	AAAA	2620:10a:80ab::5
 crs.	0	IN	NS	a0.nic.crs.
 crs.	0	IN	NS	a2.nic.crs.
 crs.	0	IN	NS	b0.nic.crs.
@@ -10116,7 +10116,6 @@ lipsy.	0	IN	NS	a2.nic.lipsy.
 lipsy.	0	IN	NS	b0.nic.lipsy.
 lipsy.	0	IN	NS	c0.nic.lipsy.
 lipsy.	0	IN	DS	14890 8 2 af1fcd22dc45f40ee44921a2cdb562f28f3412b8e9fd8648dd393282c29dd449
-lipsy.	0	IN	DS	29655 8 2 492b3408ed68c62db07f2abfe15c2b2de6ff28da1d6b4cfeb9ef26845e132b44
 a0.nic.lipsy.	0	IN	A	65.22.112.59
 a0.nic.lipsy.	0	IN	AAAA	2a01:8840:6e::59
 a2.nic.lipsy.	0	IN	A	65.22.115.59
@@ -10450,7 +10449,6 @@ lundbeck.	0	IN	NS	a2.nic.lundbeck.
 lundbeck.	0	IN	NS	b0.nic.lundbeck.
 lundbeck.	0	IN	NS	c0.nic.lundbeck.
 lundbeck.	0	IN	DS	10564 8 2 38580c9480c824da9cb65a5ffaccdf2f6aedc660b98c6166e0a843ff13fab368
-lundbeck.	0	IN	DS	24258 8 2 d632277d10695936ba14a7430fbc342c7a09423d6256311ba792363a1097a20c
 a0.nic.lundbeck.	0	IN	A	65.22.112.60
 a0.nic.lundbeck.	0	IN	AAAA	2a01:8840:6e::60
 a2.nic.lundbeck.	0	IN	A	65.22.115.60
@@ -14420,7 +14418,6 @@ rexroth.	0	IN	NS	a2.nic.rexroth.
 rexroth.	0	IN	NS	b0.nic.rexroth.
 rexroth.	0	IN	NS	c0.nic.rexroth.
 rexroth.	0	IN	DS	13240 8 2 3fdb1d716cc4d502c89094eb8b0f44056e6bdebefdfdba79632c5dc606238e70
-rexroth.	0	IN	DS	53088 8 2 9f6072a8631cdd4582c80d2372be54f59ae189b5749d5007add985b4f82a6500
 a0.nic.rexroth.	0	IN	A	65.22.112.65
 a0.nic.rexroth.	0	IN	AAAA	2a01:8840:6e::65
 a2.nic.rexroth.	0	IN	A	65.22.115.65
@@ -14909,7 +14906,6 @@ sanofi.	0	IN	NS	a0.nic.sanofi.
 sanofi.	0	IN	NS	a2.nic.sanofi.
 sanofi.	0	IN	NS	b0.nic.sanofi.
 sanofi.	0	IN	NS	c0.nic.sanofi.
-sanofi.	0	IN	DS	2961 8 2 d523e97b164182385d06c3abdd620f12de54a40e9705490a25681affe384affe
 sanofi.	0	IN	DS	41599 8 2 02843ff5975a697552b6331207523eed81a6fbe7a7f6aa90f9a2513bb3648092
 a0.nic.sanofi.	0	IN	A	65.22.112.67
 a0.nic.sanofi.	0	IN	AAAA	2a01:8840:6e::67
@@ -17819,7 +17815,6 @@ vanguard.	0	IN	NS	a2.nic.vanguard.
 vanguard.	0	IN	NS	b0.nic.vanguard.
 vanguard.	0	IN	NS	c0.nic.vanguard.
 vanguard.	0	IN	DS	28675 8 2 de83f2879537f8479c81335da97c8d0b923767b78b5fb56544889d3a7006efb2
-vanguard.	0	IN	DS	55911 8 2 b218841ec23f35d6a8cb53c6bc78c73cf507460f03bf19ffe513a427afe0473a
 a0.nic.vanguard.	0	IN	A	65.22.112.72
 a0.nic.vanguard.	0	IN	AAAA	2a01:8840:6e::72
 a2.nic.vanguard.	0	IN	A	65.22.115.72
@@ -18554,7 +18549,6 @@ weir.	0	IN	NS	a2.nic.weir.
 weir.	0	IN	NS	b0.nic.weir.
 weir.	0	IN	NS	c0.nic.weir.
 weir.	0	IN	DS	7762 8 2 bfffb5b824d7cc802beb433840269cd57749aa46593c40b9967bfba4c376fc6f
-weir.	0	IN	DS	43134 8 2 1f9e4441191642a39a48cec8dedbda9120d85d460cbaf2bf037f3ae3a8e8c7ee
 a0.nic.weir.	0	IN	A	65.22.112.75
 a0.nic.weir.	0	IN	AAAA	2a01:8840:6e::75
 a2.nic.weir.	0	IN	A	65.22.115.75
