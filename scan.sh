@@ -72,7 +72,7 @@ walk() {
 	scan -net_{ns,ip}
 	scan -rr_{ns,ip}
 	scan -parent_map
-	sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN name AS parent ON zone.parent_id=parent.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE parent.name='${1}'" > "walks/${1}zone"
+	sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN name AS parent ON zone.parent_id=parent.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE parent.name='${1}'" | sort -u | ldns-read-zone -zsne TXT > "walks/${1}zone"
 }
 
 md_axfr() {

@@ -44,8 +44,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-go@v4
-      - run: sudo sh -c 'apt update && apt install sqlite3'
-      # ldnsutils
+      - run: sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
       - run: go install github.com/monoidic/dns-tools@latest
       - uses: actions/download-artifact@v3.0.2
         with:
