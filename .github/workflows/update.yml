@@ -55,6 +55,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           path: ${{matrix.tld}}patch
+          name: ${{matrix.tld}}patch
           retention-days: 1
 
   walked:
@@ -64,7 +65,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/download-artifact@v3.0.2
-      - run: for file in *.patch; do patch -p1 < $file; done
+        with:
+          path: artifacts
+      - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
       - run: git add walks
       - run: git commit -m 'Updating walks' || true
       - run: git push
