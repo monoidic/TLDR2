@@ -51,7 +51,7 @@ jobs:
             name: db
       - run: ./scan.sh walk ${{matrix.tld}}
       - run: git add walks
-      - run: git diff > ${{matrix.tld}}patch
+      - run: git diff --cached > ${{matrix.tld}}patch
       - uses: actions/upload-artifact@v3
         with:
           path: ${{matrix.tld}}patch
