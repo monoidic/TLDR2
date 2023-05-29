@@ -101,4 +101,4 @@ md_walkable() {
 	done
 }
 
-$1
+$*
