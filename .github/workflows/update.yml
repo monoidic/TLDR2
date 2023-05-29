@@ -69,5 +69,6 @@ jobs:
           path: artifacts
       - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
       - run: git add walks
+      - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
       - run: git commit -m 'Updating walks' || true
       - run: git push
