@@ -60,6 +60,21 @@ walkable() {
 	scan -nsec_map
 }
 
+get_walkable() {
+	sqlite3 "$db" "SELECT zone.name FROM zone_nsec_state INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id WHERE nsec_state.name='plain_nsec' ORDER BY zone.name"
+}
+
+walk() {
+	sqlite3 "$db" "UPDATE name SET nsec_walked=TRUE"
+	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
+	scan -zone_walk{,_results}
+	scan -rr_{ns,ip}
+	scan -net_{ns,ip}
+	scan -rr_{ns,ip}
+	scan -parent_map
+	sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN name AS parent ON zone.parent_id=parent.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE parent.name='${1}'" > "walks/${1}zone"
+}
+
 md_axfr() {
 	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
 
@@ -81,7 +96,7 @@ md_axfr() {
 md_walkable() {
 	printf '# List of TLDs & Roots With Walkable NSEC Records\n\n' > walkable_zones.md
 
-	for zone in $(sqlite3 $db "SELECT zone.name FROM zone_nsec_state INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id WHERE nsec_state.name='plain_nsec' ORDER BY zone.name"); do
+	for zone in $(get_walkable); do
 		printf '* `%s`\n' "$zone" >> walkable_zones.md
 	done
 }

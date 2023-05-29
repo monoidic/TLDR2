@@ -6,20 +6,66 @@ on:
   - cron: "40 * * * *"
 
 jobs:
-  update:
-    name: Update
+  prework:
+    name: Prework
     runs-on: ubuntu-latest
+    outputs:
+        walkable: ${{steps.walkable.outputs.walkable}}
     steps:
       - uses: actions/checkout@v3
-      - run: sudo sh -c 'apt update && apt install ldnsutils golang-go sqlite3'
+      - uses: actions/setup-go@v4
+      - run: sudo sh -c 'apt update && apt install ldnsutils sqlite3 jq'
       - run: go install github.com/monoidic/dns-tools@latest
       - run: ./scan.sh prework
+      - run: ./scan.sh walkable
+      - id: walkable
+        run: printf 'walkable=%s\n' $(./scan.sh get_walkable | grep -vf filters.txt | jq -Rsc 'split("\n") | .[:-1]') | tee -a "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v3
+        with:
+            name: db
+            path: tldr.sqlite3
+            retention-days: 1
       - run: ./scan.sh axfr
       - run: ./scan.sh zonefiles
-      - run: ./scan.sh walkable
       - run: ./scan.sh md_axfr
       - run: ./scan.sh md_walkable
       - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
       - run: git add transferable_zones.md walkable_zones.md archives/
       - run: git commit -m 'Updating zone information' || true
+      - run: git push
+
+  zone_walk:
+    name: Zone walks
+    runs-on: ubuntu-latest
+    needs: prework
+    strategy:
+        matrix:
+            tld: ${{ fromJson(needs.prework.outputs.walkable) }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v4
+      - run: sudo sh -c 'apt update && apt install sqlite3'
+      # ldnsutils
+      - run: go install github.com/monoidic/dns-tools@latest
+      - uses: actions/download-artifact@v3.0.2
+        with:
+            name: tldr.sqlite
+      - run: ./scan.sh walk ${{matrix.tld}}
+      - run: git add walks
+      - run: git diff > ${{matrix.tld}}patch
+      - uses: actions/upload-artifact@v3
+        with:
+          path: ${{matrix.tld}}patch
+          retention-days: 1
+
+  walked:
+    name: Collect zone walking
+    runs-on: ubuntu-latest
+    needs: zone_walk
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3.0.2
+      - run: for file in *.patch; do patch -p1 < $file; done
+      - run: git add walks
+      - run: git commit -m 'Updating walks' || true
       - run: git push
