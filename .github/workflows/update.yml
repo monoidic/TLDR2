@@ -48,7 +48,7 @@ jobs:
       - run: go install github.com/monoidic/dns-tools@latest
       - uses: actions/download-artifact@v3.0.2
         with:
-            name: tldr.sqlite
+            name: db
       - run: ./scan.sh walk ${{matrix.tld}}
       - run: git add walks
       - run: git diff > ${{matrix.tld}}patch
