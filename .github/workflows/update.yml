@@ -34,6 +34,7 @@ jobs:
       - run: ./scan.sh md_axfr
       - run: ./scan.sh md_walkable
       - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
+      - run: git pull
       - run: git add transferable_zones.md walkable_zones.md archives/
       - run: git commit -m 'Updating zone information' || true
       - run: git push
