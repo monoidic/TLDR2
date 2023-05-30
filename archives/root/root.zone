@@ -1579,12 +1579,20 @@ dnsc.nic.bbc.	0	IN	A	156.154.102.3
 dnsc.nic.bbc.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.bbc.	0	IN	A	156.154.103.3
 dnsd.nic.bbc.	0	IN	AAAA	2610:a1:1010::3
-bbt.	0	IN	NS	ac1.nstld.com.
-bbt.	0	IN	NS	ac2.nstld.com.
-bbt.	0	IN	NS	ac3.nstld.com.
-bbt.	0	IN	NS	ac4.nstld.com.
+bbt.	0	IN	NS	a0.nic.bbt.
+bbt.	0	IN	NS	a2.nic.bbt.
+bbt.	0	IN	NS	b0.nic.bbt.
+bbt.	0	IN	NS	c0.nic.bbt.
 bbt.	0	IN	DS	15390 8 2 e7872a1449946ba400b2472a61f369fe8ecf57ebada1fae28bf0bac242aac4f7
 bbt.	0	IN	DS	41827 8 2 06a56f660dff926af3c13ea685e7322ebcae343d10a15aa9815f27e959b24ee5
+a0.nic.bbt.	0	IN	A	65.22.112.44
+a0.nic.bbt.	0	IN	AAAA	2a01:8840:6e::44
+a2.nic.bbt.	0	IN	A	65.22.115.44
+a2.nic.bbt.	0	IN	AAAA	2a01:8840:71::44
+b0.nic.bbt.	0	IN	A	65.22.113.44
+b0.nic.bbt.	0	IN	AAAA	2a01:8840:6f::44
+c0.nic.bbt.	0	IN	A	65.22.114.44
+c0.nic.bbt.	0	IN	AAAA	2a01:8840:70::44
 bbva.	0	IN	NS	dns1.nic.bbva.
 bbva.	0	IN	NS	dns2.nic.bbva.
 bbva.	0	IN	NS	dns3.nic.bbva.
@@ -2038,12 +2046,20 @@ bm.	0	IN	NS	b2.bm.afilias-nst.org.
 bm.	0	IN	NS	c0.bm.afilias-nst.info.
 bm.	0	IN	NS	d0.bm.afilias-nst.org.
 bm.	0	IN	DS	37810 8 2 e3e102b0b9334884c32ba5ee04c628e94d9d66b9026287109066ebeeecfebc20
-bms.	0	IN	NS	ac1.nstld.com.
-bms.	0	IN	NS	ac2.nstld.com.
-bms.	0	IN	NS	ac3.nstld.com.
-bms.	0	IN	NS	ac4.nstld.com.
+bms.	0	IN	NS	a0.nic.bms.
+bms.	0	IN	NS	a2.nic.bms.
+bms.	0	IN	NS	b0.nic.bms.
+bms.	0	IN	NS	c0.nic.bms.
 bms.	0	IN	DS	6109 8 2 cf017a68f34ccc1a4f72fb998385a5e9eeb60cfd9ff8043ab6e6b4f9495a4a6f
 bms.	0	IN	DS	22689 8 2 0ee826ffe41ead6fc120d8d76539643da18a56d0b19bb23e8a92ef083fcb09fb
+a0.nic.bms.	0	IN	A	65.22.112.45
+a0.nic.bms.	0	IN	AAAA	2a01:8840:6e::45
+a2.nic.bms.	0	IN	A	65.22.115.45
+a2.nic.bms.	0	IN	AAAA	2a01:8840:71::45
+b0.nic.bms.	0	IN	A	65.22.113.45
+b0.nic.bms.	0	IN	AAAA	2a01:8840:6f::45
+c0.nic.bms.	0	IN	A	65.22.114.45
+c0.nic.bms.	0	IN	AAAA	2a01:8840:70::45
 bmw.	0	IN	NS	a.nic.bmw.
 bmw.	0	IN	NS	b.nic.bmw.
 bmw.	0	IN	NS	c.nic.bmw.
@@ -3157,12 +3173,20 @@ e.nic.ch.	0	IN	A	194.0.17.1
 e.nic.ch.	0	IN	AAAA	2001:678:3::1
 f.nic.ch.	0	IN	A	194.146.106.10
 f.nic.ch.	0	IN	AAAA	2001:67c:1010:2::53
-chanel.	0	IN	NS	ac1.nstld.com.
-chanel.	0	IN	NS	ac2.nstld.com.
-chanel.	0	IN	NS	ac3.nstld.com.
-chanel.	0	IN	NS	ac4.nstld.com.
+chanel.	0	IN	NS	a0.nic.chanel.
+chanel.	0	IN	NS	a2.nic.chanel.
+chanel.	0	IN	NS	b0.nic.chanel.
+chanel.	0	IN	NS	c0.nic.chanel.
 chanel.	0	IN	DS	3135 8 2 5e960dd214fb4cafd6929b8a5577b1571258065d148731ef8c1959510aefd59d
 chanel.	0	IN	DS	23974 8 2 de196611e08d7b8a34a9248763c03ef9aecc8c617fef0b60662964711cd5e24b
+a0.nic.chanel.	0	IN	A	65.22.112.47
+a0.nic.chanel.	0	IN	AAAA	2a01:8840:6e::47
+a2.nic.chanel.	0	IN	A	65.22.115.47
+a2.nic.chanel.	0	IN	AAAA	2a01:8840:71::47
+b0.nic.chanel.	0	IN	A	65.22.113.47
+b0.nic.chanel.	0	IN	AAAA	2a01:8840:6f::47
+c0.nic.chanel.	0	IN	A	65.22.114.47
+c0.nic.chanel.	0	IN	AAAA	2a01:8840:70::47
 channel.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 channel.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 channel.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -6045,12 +6069,20 @@ b0.nic.fiat.	0	IN	A	65.22.125.1
 b0.nic.fiat.	0	IN	AAAA	2a01:8840:7b::1
 c0.nic.fiat.	0	IN	A	65.22.126.1
 c0.nic.fiat.	0	IN	AAAA	2a01:8840:7c::1
-fidelity.	0	IN	NS	ac1.nstld.com.
-fidelity.	0	IN	NS	ac2.nstld.com.
-fidelity.	0	IN	NS	ac3.nstld.com.
-fidelity.	0	IN	NS	ac4.nstld.com.
+fidelity.	0	IN	NS	a0.nic.fidelity.
+fidelity.	0	IN	NS	a2.nic.fidelity.
+fidelity.	0	IN	NS	b0.nic.fidelity.
+fidelity.	0	IN	NS	c0.nic.fidelity.
 fidelity.	0	IN	DS	1792 8 2 8a77aca7da9cb3000d7da7abdf46182cad3e20bd9b0ff7d685f70bc6dcf1d6f1
 fidelity.	0	IN	DS	51006 8 2 829693f43d184738be9900816509d6ed1e7a4475690d32e60544219cbea4bb36
+a0.nic.fidelity.	0	IN	A	65.22.112.48
+a0.nic.fidelity.	0	IN	AAAA	2a01:8840:6e::48
+a2.nic.fidelity.	0	IN	A	65.22.115.48
+a2.nic.fidelity.	0	IN	AAAA	2a01:8840:71::48
+b0.nic.fidelity.	0	IN	A	65.22.113.48
+b0.nic.fidelity.	0	IN	AAAA	2a01:8840:6f::48
+c0.nic.fidelity.	0	IN	A	65.22.114.48
+c0.nic.fidelity.	0	IN	AAAA	2a01:8840:70::48
 fido.	0	IN	NS	a0.nic.fido.
 fido.	0	IN	NS	a2.nic.fido.
 fido.	0	IN	NS	b0.nic.fido.
@@ -8283,7 +8315,6 @@ ice.	0	IN	NS	a0.nic.ice.
 ice.	0	IN	NS	a2.nic.ice.
 ice.	0	IN	NS	b0.nic.ice.
 ice.	0	IN	NS	c0.nic.ice.
-ice.	0	IN	DS	18534 8 2 78bb0d88d5f5d8d59c60bf7d062c87d5030d337c08ac0087071fe5cd709ed9ab
 ice.	0	IN	DS	18844 8 2 75d7adc8fa12d9c26466924ccc80c4b3c4eb15cc616c8255c4f759eed437177d
 a0.nic.ice.	0	IN	A	65.22.112.9
 a0.nic.ice.	0	IN	AAAA	2a01:8840:6e::9
@@ -9292,24 +9323,48 @@ mzizi.kenic.or.ke.	0	IN	A	196.1.4.130
 mzizi.kenic.or.ke.	0	IN	A	196.13.202.53
 mzizi.kenic.or.ke.	0	IN	A	198.32.67.9
 mzizi.kenic.or.ke.	0	IN	AAAA	2001:43f8:10:0:50c0:a8ff:feee:30
-kerryhotels.	0	IN	NS	ac1.nstld.com.
-kerryhotels.	0	IN	NS	ac2.nstld.com.
-kerryhotels.	0	IN	NS	ac3.nstld.com.
-kerryhotels.	0	IN	NS	ac4.nstld.com.
+kerryhotels.	0	IN	NS	a0.nic.kerryhotels.
+kerryhotels.	0	IN	NS	a2.nic.kerryhotels.
+kerryhotels.	0	IN	NS	b0.nic.kerryhotels.
+kerryhotels.	0	IN	NS	c0.nic.kerryhotels.
 kerryhotels.	0	IN	DS	14526 8 2 6abf403b894d278ecbea2bb05a6d5f93cceff3c690f12e00050e877500797208
 kerryhotels.	0	IN	DS	59119 8 2 cabc1873ec8bc994e11443766b2eb1e6aaaa0f01ca1472b7ff03c4c7b818838a
-kerrylogistics.	0	IN	NS	ac1.nstld.com.
-kerrylogistics.	0	IN	NS	ac2.nstld.com.
-kerrylogistics.	0	IN	NS	ac3.nstld.com.
-kerrylogistics.	0	IN	NS	ac4.nstld.com.
+a0.nic.kerryhotels.	0	IN	A	65.22.112.53
+a0.nic.kerryhotels.	0	IN	AAAA	2a01:8840:6e::53
+a2.nic.kerryhotels.	0	IN	A	65.22.115.53
+a2.nic.kerryhotels.	0	IN	AAAA	2a01:8840:71::53
+b0.nic.kerryhotels.	0	IN	A	65.22.113.53
+b0.nic.kerryhotels.	0	IN	AAAA	2a01:8840:6f::53
+c0.nic.kerryhotels.	0	IN	A	65.22.114.53
+c0.nic.kerryhotels.	0	IN	AAAA	2a01:8840:70::53
+kerrylogistics.	0	IN	NS	a0.nic.kerrylogistics.
+kerrylogistics.	0	IN	NS	a2.nic.kerrylogistics.
+kerrylogistics.	0	IN	NS	b0.nic.kerrylogistics.
+kerrylogistics.	0	IN	NS	c0.nic.kerrylogistics.
 kerrylogistics.	0	IN	DS	3604 8 2 2ae824f545e34c607a660d6eedbd7d2938ee47bcbcc39cf3d269370c533bba51
 kerrylogistics.	0	IN	DS	50301 8 2 ef5f40becf3144b47429a1033e28b5140cfb0b65077fc25b251791eb6fa9bfa0
-kerryproperties.	0	IN	NS	ac1.nstld.com.
-kerryproperties.	0	IN	NS	ac2.nstld.com.
-kerryproperties.	0	IN	NS	ac3.nstld.com.
-kerryproperties.	0	IN	NS	ac4.nstld.com.
+a0.nic.kerrylogistics.	0	IN	A	65.22.112.54
+a0.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:6e::54
+a2.nic.kerrylogistics.	0	IN	A	65.22.115.54
+a2.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:71::54
+b0.nic.kerrylogistics.	0	IN	A	65.22.113.54
+b0.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:6f::54
+c0.nic.kerrylogistics.	0	IN	A	65.22.114.54
+c0.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:70::54
+kerryproperties.	0	IN	NS	a0.nic.kerryproperties.
+kerryproperties.	0	IN	NS	a2.nic.kerryproperties.
+kerryproperties.	0	IN	NS	b0.nic.kerryproperties.
+kerryproperties.	0	IN	NS	c0.nic.kerryproperties.
 kerryproperties.	0	IN	DS	3063 8 2 8dd03bb4024d3556271625130bf9c705c16fa0d91e5ec8233ea8c4dd48fc6b3f
 kerryproperties.	0	IN	DS	48565 8 2 98e8c6905df7915e05a6af4cf38ad9e4bad214dfec3f14d2a62aca1a1a8c53b2
+a0.nic.kerryproperties.	0	IN	A	65.22.112.55
+a0.nic.kerryproperties.	0	IN	AAAA	2a01:8840:6e::55
+a2.nic.kerryproperties.	0	IN	A	65.22.115.55
+a2.nic.kerryproperties.	0	IN	AAAA	2a01:8840:71::55
+b0.nic.kerryproperties.	0	IN	A	65.22.113.55
+b0.nic.kerryproperties.	0	IN	AAAA	2a01:8840:6f::55
+c0.nic.kerryproperties.	0	IN	A	65.22.114.55
+c0.nic.kerryproperties.	0	IN	AAAA	2a01:8840:70::55
 kfh.	0	IN	NS	a.nic.kfh.
 kfh.	0	IN	NS	b.nic.kfh.
 kfh.	0	IN	NS	c.nic.kfh.
@@ -9567,12 +9622,20 @@ c.nic.kred.	0	IN	A	212.18.248.79
 c.nic.kred.	0	IN	AAAA	2a04:2b00:13ee::79
 d.nic.kred.	0	IN	A	212.18.249.79
 d.nic.kred.	0	IN	AAAA	2a04:2b00:13ff::79
-kuokgroup.	0	IN	NS	ac1.nstld.com.
-kuokgroup.	0	IN	NS	ac2.nstld.com.
-kuokgroup.	0	IN	NS	ac3.nstld.com.
-kuokgroup.	0	IN	NS	ac4.nstld.com.
+kuokgroup.	0	IN	NS	a0.nic.kuokgroup.
+kuokgroup.	0	IN	NS	a2.nic.kuokgroup.
+kuokgroup.	0	IN	NS	b0.nic.kuokgroup.
+kuokgroup.	0	IN	NS	c0.nic.kuokgroup.
 kuokgroup.	0	IN	DS	25254 8 2 ec38a05dde997f30bc85fa827bb716173599e89286ef5b2a8c03e23e3258f028
 kuokgroup.	0	IN	DS	28711 8 2 19c2733eeb5ab3b49ce9d819206870d68b3bb15dd07f69f99175e27a984ed8d1
+a0.nic.kuokgroup.	0	IN	A	65.22.112.56
+a0.nic.kuokgroup.	0	IN	AAAA	2a01:8840:6e::56
+a2.nic.kuokgroup.	0	IN	A	65.22.115.56
+a2.nic.kuokgroup.	0	IN	AAAA	2a01:8840:71::56
+b0.nic.kuokgroup.	0	IN	A	65.22.113.56
+b0.nic.kuokgroup.	0	IN	AAAA	2a01:8840:6f::56
+c0.nic.kuokgroup.	0	IN	A	65.22.114.56
+c0.nic.kuokgroup.	0	IN	AAAA	2a01:8840:70::56
 kw.	0	IN	NS	a.nic.kw.
 kw.	0	IN	NS	b.nic.kw.
 kw.	0	IN	NS	c.nic.kw.
