@@ -1127,10 +1127,6 @@ cloud-service.hosting.	0	IN	NS	ns1.stackdns.com.
 cloud-service.hosting.	0	IN	NS	ns2.stackdns.com.
 cloud-service.hosting.	0	IN	NS	ns3.stackdns.com.
 cloud-service.hosting.	0	IN	NS	ns4.stackdns.com.
-cloud1.hosting.	0	IN	NS	dns.dns1.de.
-cloud1.hosting.	0	IN	NS	dns.dns2.de.
-cloud1.hosting.	0	IN	NS	dns.dns3.de.
-cloud1.hosting.	0	IN	NS	dns.dns4.de.
 cloudapp.hosting.	0	IN	NS	ns1-08.azure-dns.com.
 cloudapp.hosting.	0	IN	NS	ns2-08.azure-dns.net.
 cloudapp.hosting.	0	IN	NS	ns3-08.azure-dns.org.
@@ -1208,6 +1204,10 @@ cmk.hosting.	0	IN	NS	ns2.cmkhosting.net.
 cmk.hosting.	0	IN	NS	ns3.cmkhosting.net.
 cmk.hosting.	0	IN	NS	ns4.cmkhosting.eu.
 cmk.hosting.	0	IN	NS	ns5.cmkhosting.net.
+cmo.hosting.	0	IN	NS	dns.dns1.de.
+cmo.hosting.	0	IN	NS	dns.dns2.de.
+cmo.hosting.	0	IN	NS	dns.dns3.de.
+cmo.hosting.	0	IN	NS	dns.dns4.de.
 cmyk.hosting.	0	IN	NS	ns1.cmykraid1.com.
 cmyk.hosting.	0	IN	NS	ns2.cmykraid1.com.
 co-co.hosting.	0	IN	NS	ns0.co-co.nl.
@@ -1683,7 +1683,7 @@ domainreg.hosting.	0	IN	NS	ns1.sedoparking.com.
 domainreg.hosting.	0	IN	NS	ns2.sedoparking.com.
 domainregistration.hosting.	0	IN	NS	ns1.sedoparking.com.
 domainregistration.hosting.	0	IN	NS	ns2.sedoparking.com.
-domainreseller.hosting.	0	IN	NS	ns2.registrant-verification.ispapi.net.
+domainreseller.hosting.	0	IN	NS	ns1.registrant-verification.ispapi.net.
 domaintechnik.hosting.	0	IN	NS	ns1.domaintechnik.at.
 domaintechnik.hosting.	0	IN	NS	ns2.domaintechnik.at.
 domaintechnik.hosting.	0	IN	NS	ns3.domaintechnik.at.
@@ -1723,7 +1723,7 @@ dragon.hosting.	0	IN	NS	dawn.ns.cloudflare.com.
 dragon.hosting.	0	IN	NS	mark.ns.cloudflare.com.
 dragonfly.hosting.	0	IN	NS	ns11.domaincontrol.com.
 dragonfly.hosting.	0	IN	NS	ns12.domaincontrol.com.
-dreambuilder.hosting.	0	IN	NS	ns3.registrant-verification.ispapi.net.
+dreambuilder.hosting.	0	IN	NS	ns1.registrant-verification.ispapi.net.
 dreamfrog.hosting.	0	IN	NS	ns1.registrant-verification.ispapi.net.
 dreamhost.hosting.	0	IN	NS	ns1.dreamhost.com.
 dreamhost.hosting.	0	IN	NS	ns2.dreamhost.com.
@@ -1768,9 +1768,6 @@ dummy.hosting.	0	IN	NS	ns09.domaincontrol.com.
 dummy.hosting.	0	IN	NS	ns10.domaincontrol.com.
 duplico.hosting.	0	IN	NS	ns1.mydataknox.com.
 duplico.hosting.	0	IN	NS	ns2.mydataknox.com.
-dutchmanaged.hosting.	0	IN	NS	ns0.transip.net.
-dutchmanaged.hosting.	0	IN	NS	ns1.transip.nl.
-dutchmanaged.hosting.	0	IN	NS	ns2.transip.eu.
 dwm.hosting.	0	IN	NS	ns1kpv.name.com.
 dwm.hosting.	0	IN	NS	ns2gtx.name.com.
 dwm.hosting.	0	IN	NS	ns3jnr.name.com.
@@ -2397,8 +2394,8 @@ git.hosting.	0	IN	NS	ns-1185.awsdns-20.org.
 git.hosting.	0	IN	NS	ns-1793.awsdns-32.co.uk.
 glider.hosting.	0	IN	NS	dns1.registrar-servers.com.
 glider.hosting.	0	IN	NS	dns2.registrar-servers.com.
-global.hosting.	0	IN	NS	ns1.namefind.com.
-global.hosting.	0	IN	NS	ns2.namefind.com.
+global.hosting.	0	IN	NS	ns1.uniregistrymarket.link.
+global.hosting.	0	IN	NS	ns2.uniregistrymarket.link.
 globalhardwaresolutions.hosting.	0	IN	NS	dns0.domeinbalie.nl.
 globalhardwaresolutions.hosting.	0	IN	NS	dns1.domeinbalie.nl.
 globalhardwaresolutions.hosting.	0	IN	NS	dns2.domeinbalie.org.
@@ -2845,8 +2842,6 @@ ilove.hosting.	0	IN	NS	ns1.namefind.com.
 ilove.hosting.	0	IN	NS	ns2.namefind.com.
 image.hosting.	0	IN	NS	cheryl.ns.cloudflare.com.
 image.hosting.	0	IN	NS	rustam.ns.cloudflare.com.
-imagine.hosting.	0	IN	NS	ns45.worldnic.com.
-imagine.hosting.	0	IN	NS	ns46.worldnic.com.
 imap.hosting.	0	IN	NS	b.ns.uniregistry.net.
 imap.hosting.	0	IN	NS	c.ns.uniregistry.info.
 imo-online.hosting.	0	IN	NS	ns1.instradns.com.
@@ -3182,10 +3177,6 @@ keedra.hosting.	0	IN	NS	ns1.keedra.com.
 keedra.hosting.	0	IN	NS	ns2.keedra.com.
 keepitreal.hosting.	0	IN	NS	ns1.kwr.one.
 keepitreal.hosting.	0	IN	NS	ns2.kwr.one.
-keepitreal.hosting.	0	IN	NS	ns1hnx.name.com.
-keepitreal.hosting.	0	IN	NS	ns2dky.name.com.
-keepitreal.hosting.	0	IN	NS	ns3jnr.name.com.
-keepitreal.hosting.	0	IN	NS	ns4cpw.name.com.
 kegler-it.hosting.	0	IN	NS	ns5.kasserver.com.
 kegler-it.hosting.	0	IN	NS	ns6.kasserver.com.
 keliweb.hosting.	0	IN	NS	ns1.keliweb.it.
@@ -3500,7 +3491,7 @@ managedservices.hosting.	0	IN	NS	nsa4.schlundtech.de.
 managedservices.hosting.	0	IN	NS	nsb4.schlundtech.de.
 managedservices.hosting.	0	IN	NS	nsc4.schlundtech.de.
 managedservices.hosting.	0	IN	NS	nsd4.schlundtech.de.
-managedvps.hosting.	0	IN	NS	ns2.emailverification.info.
+managedvps.hosting.	0	IN	NS	ns1.emailverification.info.
 managedweb.hosting.	0	IN	NS	dns1.name-services.com.
 managedweb.hosting.	0	IN	NS	dns2.name-services.com.
 managedweb.hosting.	0	IN	NS	dns3.name-services.com.
@@ -4750,10 +4741,10 @@ quillo.hosting.	0	IN	NS	ns2.quillo.hosting.
 qweb.hosting.	0	IN	NS	ns1.qweb.net.
 qweb.hosting.	0	IN	NS	ns2.qweb.nu.
 qweb.hosting.	0	IN	NS	ns3.qweb.co.
-qwords.hosting.	0	IN	NS	dns1.qwords.id.
-qwords.hosting.	0	IN	NS	dns2.qwords.id.
-qwords.hosting.	0	IN	NS	dnsiix1.qwords.net.
-qwords.hosting.	0	IN	NS	dnsiix2.qwords.net.
+qwords.hosting.	0	IN	NS	dns3.qwords.net.
+qwords.hosting.	0	IN	NS	dns4.qwords.net.
+qwords.hosting.	0	IN	NS	dns5.qwords.net.
+qwords.hosting.	0	IN	NS	dns6.qwords.net.
 r-n-c.hosting.	0	IN	NS	ns1.manet.de.
 r-n-c.hosting.	0	IN	NS	ns2.manet.de.
 rabbit.hosting.	0	IN	NS	ns1.rabbit.hosting.
@@ -5560,7 +5551,7 @@ superheroes.hosting.	0	IN	NS	dns2.name-services.com.
 superheroes.hosting.	0	IN	NS	dns3.name-services.com.
 superheroes.hosting.	0	IN	NS	dns4.name-services.com.
 superheroes.hosting.	0	IN	NS	dns5.name-services.com.
-supernap.hosting.	0	IN	NS	ns3.registrant-verification.ispapi.net.
+supernap.hosting.	0	IN	NS	ns1.registrant-verification.ispapi.net.
 supernova.hosting.	0	IN	NS	tom.ns.cloudflare.com.
 supernova.hosting.	0	IN	NS	molly.ns.cloudflare.com.
 supportdesk.hosting.	0	IN	NS	ns0.transip.net.
