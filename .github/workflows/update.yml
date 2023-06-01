@@ -75,6 +75,7 @@ jobs:
       - uses: actions/download-artifact@v3.0.2
         with:
             name: db
+      - run: git pull
       - run: ./scan.sh walk ${{matrix.tld}}
       - run: git add walks
       - run: git diff --cached > ${{matrix.tld}}patch
