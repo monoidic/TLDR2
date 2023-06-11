@@ -111,6 +111,8 @@ pltraffic35.com.	0	IN	NS	ns2.parklogic.com.
 291casino.game.	0	IN	NS	dns2.registrar-servers.com.
 291jili.game.	0	IN	NS	dns1.registrar-servers.com.
 291jili.game.	0	IN	NS	dns2.registrar-servers.com.
+291live.game.	0	IN	NS	dns1.registrar-servers.com.
+291live.game.	0	IN	NS	dns2.registrar-servers.com.
 291online.game.	0	IN	NS	dns1.registrar-servers.com.
 291online.game.	0	IN	NS	dns2.registrar-servers.com.
 291ph.game.	0	IN	NS	dns1.registrar-servers.com.
@@ -1171,6 +1173,10 @@ blacktail.game.	0	IN	NS	ns15.ovh.net.
 blacktail.game.	0	IN	NS	dns15.ovh.net.
 blade.game.	0	IN	NS	tara.ns.cloudflare.com.
 blade.game.	0	IN	NS	lochlan.ns.cloudflare.com.
+bladeandsoul.game.	0	IN	NS	ns.ncsoft.net.
+bladeandsoul.game.	0	IN	NS	ns2.ncsoft.net.
+bladeandsoulartofwar.game.	0	IN	NS	ns.ncsoft.net.
+bladeandsoulartofwar.game.	0	IN	NS	ns2.ncsoft.net.
 bladerunner.game.	0	IN	NS	pdns1.registrar-servers.com.
 bladerunner.game.	0	IN	NS	pdns2.registrar-servers.com.
 blame.game.	0	IN	NS	ns1.dan.com.
@@ -1723,6 +1729,7 @@ charge.game.	0	IN	NS	dns2.onamae.com.
 chatgpt.game.	0	IN	NS	ns1.dnsowl.com.
 chatgpt.game.	0	IN	NS	ns2.dnsowl.com.
 chatgpt.game.	0	IN	NS	ns3.dnsowl.com.
+chatto.game.	0	IN	NS	ns1-coming-soon.sav.com.
 chaturbate.game.	0	IN	NS	cody.ns.cloudflare.com.
 chaturbate.game.	0	IN	NS	nina.ns.cloudflare.com.
 checkmate.game.	0	IN	NS	ns1.crazydomains.com.
@@ -1934,8 +1941,8 @@ coolmath.game.	0	IN	NS	ns3.iptwins.com.
 coolmath.game.	0	IN	NS	ns4.iptwins.com.
 copperleaf.game.	0	IN	NS	dns1.namecheaphosting.com.
 copperleaf.game.	0	IN	NS	dns2.namecheaphosting.com.
-cops.game.	0	IN	NS	ns1.koaladns.com.
-cops.game.	0	IN	NS	ns2.koaladns.com.
+cops.game.	0	IN	NS	ns1.emu-dns.com.
+cops.game.	0	IN	NS	ns2.emu-dns.com.
 core.game.	0	IN	NS	ns1crv.name.com.
 core.game.	0	IN	NS	ns2glx.name.com.
 core.game.	0	IN	NS	ns3gmv.name.com.
@@ -1981,8 +1988,6 @@ crazybaby.game.	0	IN	NS	ns7.alidns.com.
 crazybaby.game.	0	IN	NS	ns8.alidns.com.
 crimenations.game.	0	IN	NS	ns1391.webempresa.eu.
 crimenations.game.	0	IN	NS	ns1392.webempresa.eu.
-criminalempire.game.	0	IN	NS	ns.ncsoft.net.
-criminalempire.game.	0	IN	NS	ns2.ncsoft.net.
 criminaljustice.game.	0	IN	NS	ns1bqx.name.com.
 criminaljustice.game.	0	IN	NS	ns2jrt.name.com.
 criminaljustice.game.	0	IN	NS	ns3cfp.name.com.
@@ -2041,8 +2046,8 @@ cryptobet.game.	0	IN	NS	cameron.ns.cloudflare.com.
 cryptobet.game.	0	IN	NS	angelina.ns.cloudflare.com.
 cryptobots.game.	0	IN	NS	lily.ns.cloudflare.com.
 cryptobots.game.	0	IN	NS	skip.ns.cloudflare.com.
-cryptobox.game.	0	IN	NS	ns1.koaladns.com.
-cryptobox.game.	0	IN	NS	ns2.koaladns.com.
+cryptobox.game.	0	IN	NS	ns1.emu-dns.com.
+cryptobox.game.	0	IN	NS	ns2.emu-dns.com.
 cryptocasino.game.	0	IN	NS	ns1kpv.name.com.
 cryptocasino.game.	0	IN	NS	ns2kry.name.com.
 cryptocasino.game.	0	IN	NS	ns3cjl.name.com.
@@ -2995,8 +3000,6 @@ finalfantasy.game.	0	IN	NS	ns6.markmonitor.com.
 finalfantasy.game.	0	IN	NS	ns7.markmonitor.com.
 finalform.game.	0	IN	NS	ns112.ovh.net.
 finalform.game.	0	IN	NS	dns112.ovh.net.
-finallegion.game.	0	IN	NS	ns.ncsoft.net.
-finallegion.game.	0	IN	NS	ns2.ncsoft.net.
 finals.game.	0	IN	NS	ns-3-c.gandi.net.
 finals.game.	0	IN	NS	ns-164-a.gandi.net.
 finals.game.	0	IN	NS	ns-224-b.gandi.net.
@@ -3290,9 +3293,6 @@ gamesys.game.	0	IN	NS	pdns128.ultradns.biz.
 gamesys.game.	0	IN	NS	pdns128.ultradns.com.
 gamesys.game.	0	IN	NS	pdns128.ultradns.net.
 gamesys.game.	0	IN	NS	pdns128.ultradns.org.
-gamevil.game.	0	IN	NS	ns.gabia.co.kr.
-gamevil.game.	0	IN	NS	ns.gabia.net.
-gamevil.game.	0	IN	NS	ns1.gabia.co.kr.
 gamex.game.	0	IN	NS	ns1.naver.com.
 gamex.game.	0	IN	NS	ns2.naver.com.
 gamifi.game.	0	IN	NS	trey.ns.cloudflare.com.
@@ -3385,12 +3385,6 @@ gentleverse.game.	0	IN	NS	ns1.gabia.co.kr.
 geologic.game.	0	IN	NS	ns-65-a.gandi.net.
 geologic.game.	0	IN	NS	ns-113-b.gandi.net.
 geologic.game.	0	IN	NS	ns-230-c.gandi.net.
-get.game.	0	IN	NS	ns10.dnsmadeeasy.com.
-get.game.	0	IN	NS	ns11.dnsmadeeasy.com.
-get.game.	0	IN	NS	ns12.dnsmadeeasy.com.
-get.game.	0	IN	NS	ns13.dnsmadeeasy.com.
-get.game.	0	IN	NS	ns14.dnsmadeeasy.com.
-get.game.	0	IN	NS	ns15.dnsmadeeasy.com.
 ggdrop.game.	0	IN	NS	max.ns.cloudflare.com.
 ggdrop.game.	0	IN	NS	nelly.ns.cloudflare.com.
 ggg.game.	0	IN	NS	angela.ns.cloudflare.com.
@@ -4638,6 +4632,8 @@ lilith.game.	0	IN	NS	f1g1ns1.dnspod.net.
 lilith.game.	0	IN	NS	f1g1ns2.dnspod.net.
 limitbreak.game.	0	IN	NS	dion.ns.cloudflare.com.
 limitbreak.game.	0	IN	NS	lucy.ns.cloudflare.com.
+lineage2.game.	0	IN	NS	ns.ncsoft.net.
+lineage2.game.	0	IN	NS	ns2.ncsoft.net.
 lineage2darklegacy.game.	0	IN	NS	ns-115.awsdns-14.com.
 lineage2darklegacy.game.	0	IN	NS	ns-552.awsdns-05.net.
 lineage2darklegacy.game.	0	IN	NS	ns-1418.awsdns-49.org.
@@ -5408,6 +5404,8 @@ money88.game.	0	IN	NS	dns3.p01.nsone.net.
 money88.game.	0	IN	NS	dns4.p01.nsone.net.
 monkeyleague.game.	0	IN	NS	dns1.registrar-servers.com.
 monkeyleague.game.	0	IN	NS	dns2.registrar-servers.com.
+monkeypunch.game.	0	IN	NS	ns1.monkeypunch.game.
+monkeypunch.game.	0	IN	NS	ns2.monkeypunch.game.
 monsterlegends.game.	0	IN	NS	dns1.idp365.net.
 monsterlegends.game.	0	IN	NS	dns2.idp365.net.
 monsterlegends.game.	0	IN	NS	dns3.idp365.net.
@@ -5668,8 +5666,6 @@ nbabattlegrounds.game.	0	IN	NS	ns1.dyna-ns.net.
 nbabattlegrounds.game.	0	IN	NS	ns2.dyna-ns.net.
 nbin.game.	0	IN	NS	ns1.dyna-ns.net.
 nbin.game.	0	IN	NS	ns2.dyna-ns.net.
-ncsoft.game.	0	IN	NS	ns.ncsoft.net.
-ncsoft.game.	0	IN	NS	ns2.ncsoft.net.
 neko-neko.game.	0	IN	NS	dns1.registrar-servers.com.
 neko-neko.game.	0	IN	NS	dns2.registrar-servers.com.
 neko123.game.	0	IN	NS	dns1.registrar-servers.com.
@@ -6103,8 +6099,6 @@ osrs.game.	0	IN	NS	ns-1694.awsdns-19.co.uk.
 otc.game.	0	IN	NS	ns1.101domain.com.
 otc.game.	0	IN	NS	ns2.101domain.com.
 otc.game.	0	IN	NS	ns5.101domain.com.
-other.game.	0	IN	NS	ns1.dyna-ns.net.
-other.game.	0	IN	NS	ns2.dyna-ns.net.
 otherside.game.	0	IN	NS	phdns1.focusip.com.
 otherside.game.	0	IN	NS	phdns2.focusip.com.
 othersideavatar.game.	0	IN	NS	phdns1.focusip.com.
@@ -6442,8 +6436,8 @@ pix.game.	0	IN	NS	maleah.ns.cloudflare.com.
 pixel.game.	0	IN	NS	cc.ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc.cc.
 pixfun.game.	0	IN	NS	ns108.ovh.net.
 pixfun.game.	0	IN	NS	dns108.ovh.net.
-pizza.game.	0	IN	NS	ns1.magpiedns.com.
-pizza.game.	0	IN	NS	ns2.magpiedns.com.
+pizza.game.	0	IN	NS	ns1.koaladns.com.
+pizza.game.	0	IN	NS	ns2.koaladns.com.
 plaion.game.	0	IN	NS	ns.udag.de.
 plaion.game.	0	IN	NS	ns.udag.net.
 plaion.game.	0	IN	NS	ns.udag.org.
@@ -6551,6 +6545,8 @@ playmerkur.game.	0	IN	NS	service1.beit.de.
 playmerkur.game.	0	IN	NS	service2.beit.de.
 playmeta.game.	0	IN	NS	arya.ns.cloudflare.com.
 playmeta.game.	0	IN	NS	beau.ns.cloudflare.com.
+plaync.game.	0	IN	NS	ns.ncsoft.net.
+plaync.game.	0	IN	NS	ns2.ncsoft.net.
 playonline.game.	0	IN	NS	ns1.markmonitor.com.
 playonline.game.	0	IN	NS	ns2.markmonitor.com.
 playonline.game.	0	IN	NS	ns3.markmonitor.com.
@@ -6569,8 +6565,8 @@ playtc.game.	0	IN	NS	dns1.registrar-servers.com.
 playtc.game.	0	IN	NS	dns2.registrar-servers.com.
 playthis.game.	0	IN	NS	amit.ns.cloudflare.com.
 playthis.game.	0	IN	NS	lily.ns.cloudflare.com.
-playtoearn.game.	0	IN	NS	ns1.kirklanddc.com.
-playtoearn.game.	0	IN	NS	ns2.kirklanddc.com.
+playtoearn.game.	0	IN	NS	ns1.koaladns.com.
+playtoearn.game.	0	IN	NS	ns2.koaladns.com.
 playvalorant.game.	0	IN	NS	ns1.markmonitor.com.
 playvalorant.game.	0	IN	NS	ns2.markmonitor.com.
 playvalorant.game.	0	IN	NS	ns3.markmonitor.com.
@@ -7685,8 +7681,6 @@ spread.game.	0	IN	NS	ns-1048.awsdns-03.org.
 spread.game.	0	IN	NS	ns-1835.awsdns-37.co.uk.
 spring.game.	0	IN	NS	ns200.anycast.me.
 spring.game.	0	IN	NS	dns200.anycast.me.
-spzhspzh.game.	0	IN	NS	dns1.registrar-servers.com.
-spzhspzh.game.	0	IN	NS	dns2.registrar-servers.com.
 sqd456.game.	0	IN	NS	ns1.fornex.com.
 sqd456.game.	0	IN	NS	ns2.fornex.com.
 sqd456.game.	0	IN	NS	ns3.fornex.com.
@@ -8344,7 +8338,7 @@ topstory.game.	0	IN	NS	dns1.registrar-servers.com.
 topstory.game.	0	IN	NS	dns2.registrar-servers.com.
 torchlight.game.	0	IN	NS	ns29.domaincontrol.com.
 torchlight.game.	0	IN	NS	ns30.domaincontrol.com.
-torchlight2.game.	0	IN	NS	ns1.registrant-verification.ispapi.net.
+torchlight2.game.	0	IN	NS	ns2.registrant-verification.ispapi.net.
 toss.game.	0	IN	NS	ns1.dnsowl.com.
 toss.game.	0	IN	NS	ns2.dnsowl.com.
 toss.game.	0	IN	NS	ns3.dnsowl.com.
