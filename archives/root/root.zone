@@ -11783,8 +11783,6 @@ ns.cernet.net.	0	IN	A	202.112.0.44
 e.ci-servers.net.	0	IN	A	204.61.216.74
 e.ci-servers.net.	0	IN	AAAA	2001:500:14:6074:ad::1
 lk.communitydns.net.	0	IN	A	194.0.1.27
-ph.communitydns.net.	0	IN	A	194.0.1.23
-ph.communitydns.net.	0	IN	AAAA	2001:678:4::17
 l.de.net.	0	IN	A	77.67.63.105
 l.de.net.	0	IN	AAAA	2001:668:1f:11::105
 n.de.net.	0	IN	A	194.146.107.6
@@ -13164,7 +13162,6 @@ ns1.unitech.ac.pg.	0	IN	A	202.1.32.49
 ns1.tiare.net.pg.	0	IN	A	202.165.192.23
 ns2.tiare.net.pg.	0	IN	A	202.165.192.24
 ph.	0	IN	NS	1.ns.ph.
-ph.	0	IN	NS	ph.communitydns.net.
 ph.	0	IN	NS	ns2.cuhk.edu.hk.
 ph.	0	IN	NS	ns4.apnic.net.
 1.ns.ph.	0	IN	A	206.51.255.1
@@ -17661,12 +17658,20 @@ rcz.ns.ua.	0	IN	A	193.46.128.10
 rcz.ns.ua.	0	IN	AAAA	2a02:850:ffe0::10
 ukr.ns.ua.	0	IN	A	194.58.197.4
 ukr.ns.ua.	0	IN	AAAA	2a01:3f1:c001::53
-ubank.	0	IN	NS	ac1.nstld.com.
-ubank.	0	IN	NS	ac2.nstld.com.
-ubank.	0	IN	NS	ac3.nstld.com.
-ubank.	0	IN	NS	ac4.nstld.com.
+ubank.	0	IN	NS	a0.nic.ubank.
+ubank.	0	IN	NS	a2.nic.ubank.
+ubank.	0	IN	NS	b0.nic.ubank.
+ubank.	0	IN	NS	c0.nic.ubank.
 ubank.	0	IN	DS	41610 8 2 cfdb4a18bf58ce90787c1f961badff9ef843d95dab9057629f2a0f037fb931a4
 ubank.	0	IN	DS	54160 8 2 7ec37b9eec2fd88753a21503f50e7a96f59e706ef760d8143773b0d6b1b16e4c
+a0.nic.ubank.	0	IN	A	65.22.112.70
+a0.nic.ubank.	0	IN	AAAA	2a01:8840:6e::70
+a2.nic.ubank.	0	IN	A	65.22.115.70
+a2.nic.ubank.	0	IN	AAAA	2a01:8840:71::70
+b0.nic.ubank.	0	IN	A	65.22.113.70
+b0.nic.ubank.	0	IN	AAAA	2a01:8840:6f::70
+c0.nic.ubank.	0	IN	A	65.22.114.70
+c0.nic.ubank.	0	IN	AAAA	2a01:8840:70::70
 ubs.	0	IN	NS	a0.nic.ubs.
 ubs.	0	IN	NS	a2.nic.ubs.
 ubs.	0	IN	NS	b0.nic.ubs.
