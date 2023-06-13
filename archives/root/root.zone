@@ -1516,11 +1516,14 @@ bauhaus.	0	IN	NS	anycast10.irondns.net.
 bauhaus.	0	IN	NS	anycast23.irondns.net.
 bauhaus.	0	IN	NS	anycast24.irondns.net.
 bauhaus.	0	IN	DS	3408 10 2 8e5c6c53e04001f14305794f1b28eb612b8d297cc190f8662b53e3710ce82456
+bayern.	0	IN	NS	ari.beta.tldns.godaddy.
+bayern.	0	IN	NS	ari.alpha.tldns.godaddy.
+bayern.	0	IN	NS	ari.delta.tldns.godaddy.
+bayern.	0	IN	NS	ari.gamma.tldns.godaddy.
 bayern.	0	IN	NS	anycast9.irondns.net.
 bayern.	0	IN	NS	anycast10.irondns.net.
 bayern.	0	IN	NS	anycast23.irondns.net.
 bayern.	0	IN	NS	anycast24.irondns.net.
-bayern.	0	IN	DS	5450 8 2 0be5b2cd561159ec40895cc8a8d79d74b3437a4ca4d4d48fe1863315c092ca98
 bayern.	0	IN	DS	27095 8 2 c8d5a25263ef9eaab175f1ca68623488aa7919e16814f516cc369e09f237623a
 bb.	0	IN	NS	ns1.nic.bb.
 bb.	0	IN	NS	ns2.nic.bb.
@@ -7203,6 +7206,14 @@ y.nic.godaddy.	0	IN	A	156.154.173.82
 y.nic.godaddy.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.godaddy.	0	IN	A	156.154.174.82
 z.nic.godaddy.	0	IN	AAAA	2610:a1:1076::1:82
+ari.alpha.tldns.godaddy.	0	IN	A	37.209.192.2
+ari.alpha.tldns.godaddy.	0	IN	AAAA	2001:dcd:1::2
+ari.beta.tldns.godaddy.	0	IN	A	37.209.194.2
+ari.beta.tldns.godaddy.	0	IN	AAAA	2001:dcd:2::2
+ari.delta.tldns.godaddy.	0	IN	A	37.209.198.2
+ari.delta.tldns.godaddy.	0	IN	AAAA	2001:dcd:4::2
+ari.gamma.tldns.godaddy.	0	IN	A	37.209.196.2
+ari.gamma.tldns.godaddy.	0	IN	AAAA	2001:dcd:3::2
 gold.	0	IN	NS	v0n0.nic.gold.
 gold.	0	IN	NS	v0n1.nic.gold.
 gold.	0	IN	NS	v0n2.nic.gold.
@@ -12483,6 +12494,10 @@ b0.nic.nra.	0	IN	A	65.22.241.25
 b0.nic.nra.	0	IN	AAAA	2a01:8840:eb::25
 c0.nic.nra.	0	IN	A	65.22.242.25
 c0.nic.nra.	0	IN	AAAA	2a01:8840:ec::25
+nrw.	0	IN	NS	ari.beta.tldns.godaddy.
+nrw.	0	IN	NS	ari.alpha.tldns.godaddy.
+nrw.	0	IN	NS	ari.delta.tldns.godaddy.
+nrw.	0	IN	NS	ari.gamma.tldns.godaddy.
 nrw.	0	IN	NS	anycast9.irondns.net.
 nrw.	0	IN	NS	anycast10.irondns.net.
 nrw.	0	IN	NS	anycast23.irondns.net.
