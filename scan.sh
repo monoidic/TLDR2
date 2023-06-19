@@ -28,6 +28,11 @@ prework() {
 	scan -direct_conns -v6 -axfr
 	# get TLD nameserver info
 	get_ns_ips
+
+	# idk
+	scan -rr_{ns,ip}
+	scan -net_{ns,ip}
+	scan -rr_{ns,ip}
 }
 
 axfr() {
