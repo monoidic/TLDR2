@@ -72,7 +72,8 @@ get_walkable() {
 walk() {
 	sqlite3 "$db" "UPDATE name SET nsec_walked=TRUE"
 	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
-	scan -zone_walk{,_results}
+	scan -zone_walk -num_procs 8
+	scan -zone_walk_results
 	scan -rr_{ns,ip}
 	scan -net_{ns,ip}
 	scan -rr_{ns,ip}
