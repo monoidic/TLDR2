@@ -5038,7 +5038,7 @@ dk.	0	IN	NS	c.nic.dk.
 dk.	0	IN	NS	d.nic.dk.
 dk.	0	IN	NS	l.nic.dk.
 dk.	0	IN	NS	s.nic.dk.
-dk.	0	IN	DS	29434 13 2 a8f5458366dffebc8411ff0d1105c2eeddc3cf934966266651f207a09ee9ad3e
+dk.	0	IN	DS	21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
 a.nic.dk.	0	IN	A	212.88.78.122
 a.nic.dk.	0	IN	AAAA	2001:1580:0:180d::122
 b.nic.dk.	0	IN	A	193.163.102.222
@@ -10553,7 +10553,7 @@ ma.	0	IN	NS	e.tld.ma.
 ma.	0	IN	NS	f.tld.ma.
 ma.	0	IN	NS	dns.inria.fr.
 ma.	0	IN	NS	ns-ma.nic.fr.
-ma.	0	IN	DS	44392 8 2 0a29c6e91c00830d9a19996e4b4038c8316e62dfb69306c69155a4509dd88c79
+ma.	0	IN	DS	41102 8 2 ec91608875e8628e96fb65403d828e0782103ee815fd7e0b67ecccab4b44ef56
 a.tld.ma.	0	IN	A	81.192.171.83
 a.tld.ma.	0	IN	A	81.192.171.131
 a.tld.ma.	0	IN	AAAA	2001:4288:1800:186::3
@@ -10568,6 +10568,7 @@ d.tld.ma.	0	IN	A	81.192.171.140
 d.tld.ma.	0	IN	AAAA	2001:4288:1800:386::4
 e.tld.ma.	0	IN	A	105.73.80.236
 f.tld.ma.	0	IN	A	41.214.240.4
+f.tld.ma.	0	IN	AAAA	2c0f:fb20:100:fc::33
 madrid.	0	IN	NS	anycast9.irondns.net.
 madrid.	0	IN	NS	anycast10.irondns.net.
 madrid.	0	IN	NS	anycast23.irondns.net.
@@ -10802,7 +10803,8 @@ nsc.dns.md.	0	IN	A	144.217.93.2
 nsc.dns.md.	0	IN	AAAA	2607:5300:201:3100::2f69
 nsf.dns.md.	0	IN	A	92.222.76.179
 nsf.dns.md.	0	IN	AAAA	2001:41d0:401:3100::7162
-nsr.dns.md.	0	IN	A	213.159.210.127
+nsr.dns.md.	0	IN	A	89.32.236.165
+nsr.dns.md.	0	IN	AAAA	2a00:c5a0:0:aaaa:89:32:236:165
 nsa.tld.md.	0	IN	A	185.108.181.191
 nsb.tld.md.	0	IN	A	185.108.181.192
 me.	0	IN	NS	a0.nic.me.
