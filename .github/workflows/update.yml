@@ -23,7 +23,7 @@ jobs:
       - run: ./scan.sh prework
       - run: ./scan.sh walkable
       - id: walkable
-        run: printf 'walkable=%s\n' $(./scan.sh get_walkable | grep -vf filters.txt | jq -Rsc 'split("\n") | .[:-1]') | tee -a "$GITHUB_OUTPUT"
+        run: printf 'walkable=%s\n' $(./scan.sh get_walkable | grep -vf <(grep -v '^#' filters.txt) | jq -Rsc 'split("\n") | .[:-1]') | tee -a "$GITHUB_OUTPUT"
       - uses: actions/upload-artifact@v3
         with:
             name: db
