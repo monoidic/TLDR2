@@ -42,7 +42,6 @@ axfr() {
 
 zonefiles() {
 	for zone in $(sqlite3 "$db" 'SELECT DISTINCT zone.name FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id'); do
-		echo "dumping zone ${zone}"
 		if [[ $zone = '.' ]]; then
 			path_name='root'
 		else
@@ -57,7 +56,11 @@ zonefiles() {
 		filesize=$(wc -c ${filepath})
 		if [[ $filesize > $GITHUB_MAX_SIZE ]]; then
 			gzip ${filepath}
+		elif [[ $filesize == 0 ]]; then
+			rm ${filepath}
+			continue
 		fi
+		echo "dumping zone ${zone}"
 	done
 }
 
