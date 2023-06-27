@@ -3,7 +3,7 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-  - cron: "40 */2 * * *"
+  - cron: "40 * * * *"
 
 jobs:
   prework:
@@ -12,49 +12,49 @@ jobs:
     outputs:
         walkable: ${{steps.walkable.outputs.walkable}}
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true
-      - uses: actions/setup-go@v4
-        with:
-          cache-dependency-path: dns-tools/go.sum
-      - run: sudo sh -c 'apt update && apt install sqlite3 jq'
-      - run: go install github.com/monoidic/dns-tools@latest
-      - run: ./scan.sh prework
-      - run: ./scan.sh walkable
-      - id: walkable
-        run: printf 'walkable=%s\n' $(./scan.sh get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | jq -Rsc 'split("\n") | .[:-1]') | tee -a "$GITHUB_OUTPUT"
-      - uses: actions/upload-artifact@v3
-        with:
-            name: db
-            path: tldr.sqlite3
-            retention-days: 1
+    - uses: actions/checkout@v3
+      with:
+        submodules: true
+    - uses: actions/setup-go@v4
+      with:
+        cache-dependency-path: dns-tools/go.sum
+    - run: sudo sh -c 'apt update && apt install sqlite3 jq'
+    - run: go install github.com/monoidic/dns-tools@latest
+    - run: ./scan.sh prework
+    - run: ./scan.sh walkable
+    - id: walkable
+      run: printf 'walkable=%s\n' $(./scan.sh get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | jq -Rsc 'split("\n") | .[:-1]') | tee -a "$GITHUB_OUTPUT"
+    - uses: actions/upload-artifact@v3
+      with:
+          name: db
+          path: tldr.sqlite3
+          retention-days: 1
 
   axfr:
     name: Zone transfer
     runs-on: ubuntu-latest
     needs: prework
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true
-      - uses: actions/setup-go@v4
-        with:
-          cache-dependency-path: dns-tools/go.sum
-      - run: sudo sh -c 'apt update && apt install ldnsutils sqlite3'
-      - run: go install github.com/monoidic/dns-tools@latest
-      - uses: actions/download-artifact@v3.0.2
-        with:
-          name: db
-      - run: ./scan.sh axfr
-      - run: ./scan.sh zonefiles
-      - run: ./scan.sh md_axfr
-      - run: ./scan.sh md_walkable
-      - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
-      - run: git pull
-      - run: git add transferable_zones.md walkable_zones.md archives/
-      - run: git commit -m 'Updating zone information' || true
-      - run: git push
+    - uses: actions/checkout@v3
+      with:
+        submodules: true
+    - uses: actions/setup-go@v4
+      with:
+        cache-dependency-path: dns-tools/go.sum
+    - run: sudo sh -c 'apt update && apt install ldnsutils sqlite3'
+    - run: go install github.com/monoidic/dns-tools@latest
+    - uses: actions/download-artifact@v3.0.2
+      with:
+        name: db
+    - run: ./scan.sh axfr
+    - run: ./scan.sh zonefiles
+    - run: ./scan.sh md_axfr
+    - run: ./scan.sh md_walkable
+    - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
+    - run: git pull
+    - run: git add transferable_zones.md walkable_zones.md archives/
+    - run: git commit -m 'Updating zone information' || true
+    - run: git push
 
   zone_walk:
     name: Zone walks
@@ -64,39 +64,39 @@ jobs:
         matrix:
             tld: ${{ fromJson(needs.prework.outputs.walkable) }}
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true
-      - uses: actions/setup-go@v4
-        with:
-          cache-dependency-path: dns-tools/go.sum
-      - run: sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
-      - run: go install github.com/monoidic/dns-tools@latest
-      - uses: actions/download-artifact@v3.0.2
-        with:
-            name: db
-      - run: git pull
-      - run: ./scan.sh walk ${{matrix.tld}}
-      - run: git add walks
-      - run: git diff --cached > ${{matrix.tld}}patch
-      - uses: actions/upload-artifact@v3
-        with:
-          path: ${{matrix.tld}}patch
-          name: ${{matrix.tld}}patch
-          retention-days: 1
+    - uses: actions/checkout@v3
+      with:
+        submodules: true
+    - uses: actions/setup-go@v4
+      with:
+        cache-dependency-path: dns-tools/go.sum
+    - run: sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
+    - run: go install github.com/monoidic/dns-tools@latest
+    - uses: actions/download-artifact@v3.0.2
+      with:
+          name: db
+    - run: git pull
+    - run: ./scan.sh walk ${{matrix.tld}}
+    - run: git add walks
+    - run: git diff --cached > ${{matrix.tld}}patch
+    - uses: actions/upload-artifact@v3
+      with:
+        path: ${{matrix.tld}}patch
+        name: ${{matrix.tld}}patch
+        retention-days: 1
 
   walked:
     name: Collect zone walking
     runs-on: ubuntu-latest
     needs: zone_walk
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3.0.2
-        with:
-          path: artifacts
-      - run: git pull
-      - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
-      - run: git add walks
-      - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
-      - run: git commit -m 'Updating walks' || true
-      - run: git push
+    - uses: actions/checkout@v3
+    - uses: actions/download-artifact@v3.0.2
+      with:
+        path: artifacts
+    - run: git pull
+    - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
+    - run: git add walks
+    - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
+    - run: git commit -m 'Updating walks' || true
+    - run: git push
