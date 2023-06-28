@@ -5378,12 +5378,12 @@ v2n1.nic.education.	0	IN	A	161.232.15.38
 v2n1.nic.education.	0	IN	AAAA	2a01:8840:f9::38
 ee.	0	IN	NS	b.tld.ee.
 ee.	0	IN	NS	e.tld.ee.
-ee.	0	IN	NS	ee.aso.ee.
+ee.	0	IN	NS	ee.cert.ee.
 ee.	0	IN	NS	ee.eenet.ee.
 ee.	0	IN	NS	ns.tld.ee.
 ee.	0	IN	DS	34382 8 2 000a3d89dc6cd4ba00ea8affee3967d3a26de7a545fbefe16ba07518fc8d54f6
-ee.aso.ee.	0	IN	A	213.184.51.122
-ee.aso.ee.	0	IN	AAAA	2a02:88:0:21::2
+ee.cert.ee.	0	IN	A	46.226.142.147
+ee.cert.ee.	0	IN	AAAA	2a00:6a00:ad1:814::147
 ee.eenet.ee.	0	IN	A	193.40.132.5
 ee.eenet.ee.	0	IN	AAAA	2001:bb8:4001::53
 b.tld.ee.	0	IN	A	194.146.106.110
@@ -20487,6 +20487,8 @@ ye.	0	IN	NS	ns1.yemen.net.ye.
 ye.	0	IN	NS	ns2.yemen.net.ye.
 ye.	0	IN	NS	sah1.ye.
 ye.	0	IN	NS	sah2.ye.
+ye.	0	IN	NS	tld1.ye.
+ye.	0	IN	NS	tld2.ye.
 ns1.yemen.net.ye.	0	IN	A	65.162.184.33
 ns1.yemen.net.ye.	0	IN	AAAA	2a02:2718:4::33
 ns2.yemen.net.ye.	0	IN	A	65.162.184.34
@@ -20495,6 +20497,10 @@ sah1.ye.	0	IN	A	195.94.0.34
 sah1.ye.	0	IN	AAAA	2a02:e280:8:d000::34
 sah2.ye.	0	IN	A	195.94.0.35
 sah2.ye.	0	IN	AAAA	2a02:e280:8:d000::35
+tld1.ye.	0	IN	A	195.94.10.22
+tld1.ye.	0	IN	AAAA	2a02:e280:8:1000::1
+tld2.ye.	0	IN	A	195.94.13.22
+tld2.ye.	0	IN	AAAA	2a02:e280:8:2000::1
 yodobashi.	0	IN	NS	a.gmoregistry.net.
 yodobashi.	0	IN	NS	b.gmoregistry.net.
 yodobashi.	0	IN	NS	k.gmoregistry.net.
