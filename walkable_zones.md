@@ -13,7 +13,6 @@
 * `christmas.`
 * `ci.`
 * `cy.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `flowers.`
@@ -21,7 +20,6 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `hosting.`
 * `id.`
 * `kg.`
 * `kz.`
@@ -30,10 +28,8 @@
 * `lol.`
 * `lr.`
 * `mom.`
-* `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
