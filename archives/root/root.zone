@@ -8304,6 +8304,7 @@ d.dns.id.	0	IN	A	45.126.57.57
 d.dns.id.	0	IN	AAAA	2402:ee80:d::d
 e.dns.id.	0	IN	A	103.19.177.177
 e.dns.id.	0	IN	AAAA	2001:df5:4000:4::4
+ie.	0	IN	NS	a.ns.ie.
 ie.	0	IN	NS	b.ns.ie.
 ie.	0	IN	NS	c.ns.ie.
 ie.	0	IN	NS	d.ns.ie.
@@ -8312,6 +8313,8 @@ ie.	0	IN	NS	g.ns.ie.
 ie.	0	IN	NS	h.ns.ie.
 ie.	0	IN	NS	i.ns.ie.
 ie.	0	IN	DS	15040 13 2 966ec13e38ad71eb585fb1982308930d96cf88873a065188ac11c469435abd39
+a.ns.ie.	0	IN	A	77.72.72.40
+a.ns.ie.	0	IN	AAAA	2a01:4b0::40
 b.ns.ie.	0	IN	A	77.72.72.34
 b.ns.ie.	0	IN	AAAA	2a01:4b0::2
 c.ns.ie.	0	IN	A	194.146.106.98
@@ -10777,9 +10780,11 @@ v2n1.nic.mba.	0	IN	AAAA	2a01:8840:f7::59
 mc.	0	IN	NS	mc.cctld.authdns.ripe.net.
 mc.	0	IN	NS	ns1.nic.mc.
 mc.	0	IN	NS	ns2.nic.mc.
+mc.	0	IN	NS	ns3.nic.mc.
 mc.	0	IN	DS	20677 8 2 81e94624ea1edd7ac7a412f0e5311b7d4d9500ffdb005e98b2fc610239331a9b
 ns1.nic.mc.	0	IN	A	88.209.82.210
 ns2.nic.mc.	0	IN	A	149.5.230.10
+ns3.nic.mc.	0	IN	A	15.237.153.29
 mckinsey.	0	IN	NS	a0.nic.mckinsey.
 mckinsey.	0	IN	NS	a2.nic.mckinsey.
 mckinsey.	0	IN	NS	b0.nic.mckinsey.
@@ -11775,6 +11780,8 @@ ns.cernet.net.	0	IN	A	202.112.0.44
 e.ci-servers.net.	0	IN	A	204.61.216.74
 e.ci-servers.net.	0	IN	AAAA	2001:500:14:6074:ad::1
 lk.communitydns.net.	0	IN	A	194.0.1.27
+ph.communitydns.net.	0	IN	A	194.0.1.23
+ph.communitydns.net.	0	IN	AAAA	2001:678:4::17
 l.de.net.	0	IN	A	77.67.63.105
 l.de.net.	0	IN	AAAA	2001:668:1f:11::105
 n.de.net.	0	IN	A	194.146.107.6
@@ -13158,6 +13165,7 @@ ns1.unitech.ac.pg.	0	IN	A	202.1.32.49
 ns1.tiare.net.pg.	0	IN	A	202.165.192.23
 ns2.tiare.net.pg.	0	IN	A	202.165.192.24
 ph.	0	IN	NS	1.ns.ph.
+ph.	0	IN	NS	ph.communitydns.net.
 ph.	0	IN	NS	ns2.cuhk.edu.hk.
 ph.	0	IN	NS	ns4.apnic.net.
 1.ns.ph.	0	IN	A	206.51.255.1
@@ -13559,7 +13567,13 @@ pm.	0	IN	DS	17970 13 2 7d82ccd8dd0674ca01ccf836c21240a504c85597eed5e511131c3e17c
 pn.	0	IN	NS	ns0.pitcairn.net.pn.
 pn.	0	IN	NS	ns1.pitcairn.net.pn.
 pn.	0	IN	NS	dns1.nominetdns.uk.
+pn.	0	IN	NS	dns2.nominetdns.uk.
+pn.	0	IN	NS	dns3.nominetdns.uk.
 pn.	0	IN	NS	dns4.nominetdns.uk.
+pn.	0	IN	NS	dnsa.nominetdns.uk.
+pn.	0	IN	NS	dnsb.nominetdns.uk.
+pn.	0	IN	NS	dnsc.nominetdns.uk.
+pn.	0	IN	NS	dnsd.nominetdns.uk.
 pn.	0	IN	NS	fork.sth.dnsnode.net.
 ns0.pitcairn.net.pn.	0	IN	A	173.230.153.180
 ns1.pitcairn.net.pn.	0	IN	A	204.61.216.136
@@ -17738,6 +17752,14 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
+dnsa.nominetdns.uk.	0	IN	A	156.154.100.3
+dnsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nominetdns.uk.	0	IN	A	156.154.101.3
+dnsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nominetdns.uk.	0	IN	A	156.154.102.3
+dnsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nominetdns.uk.	0	IN	A	156.154.103.3
+dnsd.nominetdns.uk.	0	IN	AAAA	2610:a1:1010::3
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
