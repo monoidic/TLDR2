@@ -18,7 +18,7 @@ jobs:
     - uses: actions/setup-go@v4
       with:
         cache-dependency-path: dns-tools/go.sum
-    - run: sudo sh -c 'apt update && apt install sqlite3 jq'
+    - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 jq'
     - run: go install github.com/monoidic/dns-tools@latest
     - run: ./scan.sh prework
     - run: ./scan.sh walkable
@@ -41,7 +41,7 @@ jobs:
     - uses: actions/setup-go@v4
       with:
         cache-dependency-path: dns-tools/go.sum
-    - run: sudo sh -c 'apt update && apt install ldnsutils sqlite3'
+    - run: timeout 120 sudo sh -c 'apt update && apt install ldnsutils sqlite3'
     - run: go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v3.0.2
       with:
@@ -70,7 +70,7 @@ jobs:
     - uses: actions/setup-go@v4
       with:
         cache-dependency-path: dns-tools/go.sum
-    - run: sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
+    - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
     - run: go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v3.0.2
       with:
