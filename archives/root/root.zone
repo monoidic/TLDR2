@@ -8305,7 +8305,6 @@ d.dns.id.	0	IN	AAAA	2402:ee80:d::d
 e.dns.id.	0	IN	A	103.19.177.177
 e.dns.id.	0	IN	AAAA	2001:df5:4000:4::4
 ie.	0	IN	NS	a.ns.ie.
-ie.	0	IN	NS	b.ns.ie.
 ie.	0	IN	NS	c.ns.ie.
 ie.	0	IN	NS	d.ns.ie.
 ie.	0	IN	NS	e.ns.ie.
@@ -8315,8 +8314,6 @@ ie.	0	IN	NS	i.ns.ie.
 ie.	0	IN	DS	15040 13 2 966ec13e38ad71eb585fb1982308930d96cf88873a065188ac11c469435abd39
 a.ns.ie.	0	IN	A	77.72.72.40
 a.ns.ie.	0	IN	AAAA	2a01:4b0::40
-b.ns.ie.	0	IN	A	77.72.72.34
-b.ns.ie.	0	IN	AAAA	2a01:4b0::2
 c.ns.ie.	0	IN	A	194.146.106.98
 c.ns.ie.	0	IN	AAAA	2001:67c:1010:25::53
 d.ns.ie.	0	IN	A	77.72.229.245
@@ -10784,8 +10781,8 @@ mc.	0	IN	NS	ns1.nic.mc.
 mc.	0	IN	NS	ns2.nic.mc.
 mc.	0	IN	NS	ns3.nic.mc.
 mc.	0	IN	DS	20677 8 2 81e94624ea1edd7ac7a412f0e5311b7d4d9500ffdb005e98b2fc610239331a9b
-ns1.nic.mc.	0	IN	A	88.209.82.210
-ns2.nic.mc.	0	IN	A	149.5.230.10
+ns1.nic.mc.	0	IN	A	185.243.3.205
+ns2.nic.mc.	0	IN	A	13.36.89.111
 ns3.nic.mc.	0	IN	A	15.237.153.29
 mckinsey.	0	IN	NS	a0.nic.mckinsey.
 mckinsey.	0	IN	NS	a2.nic.mckinsey.
