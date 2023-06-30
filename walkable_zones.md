@@ -10,11 +10,14 @@
 * `bt.`
 * `car.`
 * `cars.`
+* `christmas.`
+* `ci.`
 * `cy.`
 * `diet.`
 * `dz.`
 * `ee.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
@@ -26,7 +29,6 @@
 * `lk.`
 * `lol.`
 * `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`

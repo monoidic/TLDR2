@@ -8,7 +8,6 @@
 * `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
-* `mp.` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
