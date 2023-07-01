@@ -3,9 +3,7 @@
 * `.`
 * `arpa.`
 * `audio.`
-* `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -24,8 +22,6 @@
 * `hosting.`
 * `id.`
 * `kg.`
-* `kz.`
-* `lb.`
 * `lk.`
 * `lol.`
 * `lr.`
