@@ -13,6 +13,7 @@
 * `mp.` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
+* `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `ni.` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
 * `ni.` via `ns3.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
