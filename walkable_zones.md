@@ -8,8 +8,11 @@
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
 * `cars.`
+* `christmas.`
 * `ci.`
+* `cy.`
 * `diet.`
 * `dz.`
 * `ee.`
@@ -18,9 +21,11 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `lk.`
 * `lol.`
 * `lr.`
