@@ -8070,25 +8070,6 @@ dnsc.nic.hot.	0	IN	A	156.154.102.3
 dnsc.nic.hot.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.hot.	0	IN	A	156.154.103.3
 dnsd.nic.hot.	0	IN	AAAA	2610:a1:1010::3
-hoteles.	0	IN	NS	a.nic.hoteles.
-hoteles.	0	IN	NS	b.nic.hoteles.
-hoteles.	0	IN	NS	c.nic.hoteles.
-hoteles.	0	IN	NS	ns1.dns.nic.hoteles.
-hoteles.	0	IN	NS	ns2.dns.nic.hoteles.
-hoteles.	0	IN	NS	ns3.dns.nic.hoteles.
-hoteles.	0	IN	DS	28114 8 2 52a8400f66795f719794ef3426ac9ab0f53090c79ba13e695c13538a8d2192b1
-a.nic.hoteles.	0	IN	A	37.209.192.10
-a.nic.hoteles.	0	IN	AAAA	2001:dcd:1::10
-b.nic.hoteles.	0	IN	A	37.209.194.10
-b.nic.hoteles.	0	IN	AAAA	2001:dcd:2::10
-c.nic.hoteles.	0	IN	A	37.209.196.10
-c.nic.hoteles.	0	IN	AAAA	2001:dcd:3::10
-ns1.dns.nic.hoteles.	0	IN	A	156.154.169.2
-ns1.dns.nic.hoteles.	0	IN	AAAA	2610:a1:1071::1:2
-ns2.dns.nic.hoteles.	0	IN	A	156.154.170.2
-ns2.dns.nic.hoteles.	0	IN	AAAA	2610:a1:1072::1:2
-ns3.dns.nic.hoteles.	0	IN	A	156.154.171.2
-ns3.dns.nic.hoteles.	0	IN	AAAA	2610:a1:1073::1:2
 hotels.	0	IN	NS	a.nic.hotels.
 hotels.	0	IN	NS	b.nic.hotels.
 hotels.	0	IN	NS	c.nic.hotels.
@@ -11557,6 +11538,7 @@ mx.	0	IN	NS	i.mx-ns.mx.
 mx.	0	IN	NS	m.mx-ns.mx.
 mx.	0	IN	NS	o.mx-ns.mx.
 mx.	0	IN	NS	x.mx-ns.mx.
+mx.	0	IN	DS	5714 8 2 f98c2f8fd23ee07ae29137fa6b2ac6bd44be32d684fd06bb894ee307c56700e5
 mx.	0	IN	DS	61885 8 2 bd34dc7ad75d94125810337700c6d0f9ee5dbfd4d52d13c2d88ac5e70deb8f79
 c.mx-ns.mx.	0	IN	A	192.100.224.1
 c.mx-ns.mx.	0	IN	AAAA	2001:1258::1
@@ -13055,25 +13037,6 @@ ns2.dns.nic.party.	0	IN	A	156.154.170.24
 ns2.dns.nic.party.	0	IN	AAAA	2610:a1:1072::1:18
 ns3.dns.nic.party.	0	IN	A	156.154.171.24
 ns3.dns.nic.party.	0	IN	AAAA	2610:a1:1073::1:18
-passagens.	0	IN	NS	a.nic.passagens.
-passagens.	0	IN	NS	b.nic.passagens.
-passagens.	0	IN	NS	c.nic.passagens.
-passagens.	0	IN	NS	ns1.dns.nic.passagens.
-passagens.	0	IN	NS	ns2.dns.nic.passagens.
-passagens.	0	IN	NS	ns3.dns.nic.passagens.
-passagens.	0	IN	DS	47932 8 2 9dc55f59a55acede40f9e8a3df51d7781a4a8ca4d477ecf985f5b969599e05c8
-a.nic.passagens.	0	IN	A	37.209.192.9
-a.nic.passagens.	0	IN	AAAA	2001:dcd:1::9
-b.nic.passagens.	0	IN	A	37.209.194.9
-b.nic.passagens.	0	IN	AAAA	2001:dcd:2::9
-c.nic.passagens.	0	IN	A	37.209.196.9
-c.nic.passagens.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.passagens.	0	IN	A	156.154.144.133
-ns1.dns.nic.passagens.	0	IN	AAAA	2610:a1:1071::85
-ns2.dns.nic.passagens.	0	IN	A	156.154.145.133
-ns2.dns.nic.passagens.	0	IN	AAAA	2610:a1:1072::85
-ns3.dns.nic.passagens.	0	IN	A	156.154.159.133
-ns3.dns.nic.passagens.	0	IN	AAAA	2610:a1:1073::85
 pay.	0	IN	NS	dns1.nic.pay.
 pay.	0	IN	NS	dns2.nic.pay.
 pay.	0	IN	NS	dns3.nic.pay.
@@ -18403,25 +18366,6 @@ ns3.tldns.vu.	0	IN	A	37.209.196.6
 ns3.tldns.vu.	0	IN	AAAA	2001:dcd:3::6
 ns4.tldns.vu.	0	IN	A	37.209.198.6
 ns4.tldns.vu.	0	IN	AAAA	2001:dcd:4::6
-vuelos.	0	IN	NS	a.nic.vuelos.
-vuelos.	0	IN	NS	b.nic.vuelos.
-vuelos.	0	IN	NS	c.nic.vuelos.
-vuelos.	0	IN	NS	ns1.dns.nic.vuelos.
-vuelos.	0	IN	NS	ns2.dns.nic.vuelos.
-vuelos.	0	IN	NS	ns3.dns.nic.vuelos.
-vuelos.	0	IN	DS	59884 8 2 866e3e1bff48e70b4ae4a4c05cf7e2c552fdb5cfaf26a951bf0aee8445091a01
-a.nic.vuelos.	0	IN	A	37.209.192.10
-a.nic.vuelos.	0	IN	AAAA	2001:dcd:1::10
-b.nic.vuelos.	0	IN	A	37.209.194.10
-b.nic.vuelos.	0	IN	AAAA	2001:dcd:2::10
-c.nic.vuelos.	0	IN	A	37.209.196.10
-c.nic.vuelos.	0	IN	AAAA	2001:dcd:3::10
-ns1.dns.nic.vuelos.	0	IN	A	156.154.144.175
-ns1.dns.nic.vuelos.	0	IN	AAAA	2610:a1:1071::af
-ns2.dns.nic.vuelos.	0	IN	A	156.154.145.175
-ns2.dns.nic.vuelos.	0	IN	AAAA	2610:a1:1072::af
-ns3.dns.nic.vuelos.	0	IN	A	156.154.159.175
-ns3.dns.nic.vuelos.	0	IN	AAAA	2610:a1:1073::af
 wales.	0	IN	NS	dns1.nic.wales.
 wales.	0	IN	NS	dns2.nic.wales.
 wales.	0	IN	NS	dns3.nic.wales.
