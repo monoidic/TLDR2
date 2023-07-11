@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `ba.` via `ns.ba.`: [Click here to view zone data.](archives/ba/ba.zone)
 * `cd.` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `cd.` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `cv.` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv.zone)
@@ -18,3 +19,4 @@
 * `ni.` via `ns3.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
+* `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
