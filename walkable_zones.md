@@ -7,11 +7,10 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
+* `christmas.`
 * `ci.`
-* `cy.`
 * `diet.`
 * `dz.`
 * `ee.`
@@ -19,11 +18,11 @@
 * `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `kg.`
 * `kz.`
-* `lb.`
 * `lk.`
 * `lol.`
 * `mc.`
@@ -31,8 +30,8 @@
 * `nu.`
 * `pics.`
 * `pr.`
+* `ruhr.`
 * `se.`
-* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
