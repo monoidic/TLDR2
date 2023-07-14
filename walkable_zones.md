@@ -2,21 +2,21 @@
 
 * `.`
 * `arpa.`
+* `audio.`
 * `auto.`
-* `ax.`
 * `bd.`
-* `br.`
 * `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
 * `cy.`
-* `ee.`
+* `diet.`
+* `dz.`
 * `flowers.`
 * `game.`
-* `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `kg.`
@@ -30,6 +30,8 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
