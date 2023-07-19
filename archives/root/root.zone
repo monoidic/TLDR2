@@ -11058,18 +11058,12 @@ mk.	0	IN	NS	ns2.arnes.si.
 mk.	0	IN	NS	tld1.marnet.mk.
 mk.	0	IN	NS	dns-mk.univie.ac.at.
 tld1.marnet.mk.	0	IN	A	194.149.137.168
-ml.	0	IN	NS	a.ns.ml.
-ml.	0	IN	NS	b.ns.ml.
-ml.	0	IN	NS	c.ns.ml.
-ml.	0	IN	NS	d.ns.ml.
-a.ns.ml.	0	IN	A	185.21.168.1
-a.ns.ml.	0	IN	AAAA	2a04:1b00::1
-b.ns.ml.	0	IN	A	185.21.169.1
-b.ns.ml.	0	IN	AAAA	2a04:1b00:1::1
-c.ns.ml.	0	IN	A	185.21.170.1
-c.ns.ml.	0	IN	AAAA	2a04:1b00:2::1
-d.ns.ml.	0	IN	A	185.21.171.1
-d.ns.ml.	0	IN	AAAA	2a04:1b00:3::1
+ml.	0	IN	NS	ns2.gouv.ml.
+ml.	0	IN	NS	ns3.gouv.ml.
+ml.	0	IN	NS	ns4.gouv.ml.
+ns2.gouv.ml.	0	IN	A	196.10.217.138
+ns3.gouv.ml.	0	IN	A	196.10.220.136
+ns4.gouv.ml.	0	IN	A	165.90.218.166
 mlb.	0	IN	NS	a.nic.mlb.
 mlb.	0	IN	NS	b.nic.mlb.
 mlb.	0	IN	NS	c.nic.mlb.
@@ -18218,8 +18212,6 @@ vn.	0	IN	NS	e.dns-servers.vn.
 vn.	0	IN	NS	f.dns-servers.vn.
 vn.	0	IN	NS	g.dns-servers.vn.
 vn.	0	IN	NS	h.dns-servers.vn.
-vn.	0	IN	DS	3260 8 1 913c652b4006deac045b945f4ffcbc1065645421
-vn.	0	IN	DS	3260 8 2 5a58c19af266077ffe16c2668812796fa8193661af569dbceb177f911b5e6167
 vn.	0	IN	DS	16196 8 2 cb68c5384104b31e1d9cbc1c45f861a92cda9d8121afe76f9a8978527983fd99
 vn.	0	IN	DS	16196 8 4 276643f5ef43a0610277c06cc5261056728450b1584b34f6d19f4c5bd9dd1deff2d5d3cb805b86718b1e0778682afe91
 a.dns-servers.vn.	0	IN	A	194.0.1.18
