@@ -51,14 +51,16 @@ zonefiles() {
 		dir="archives/${path_name}/"
 		filepath="${dir}/${path_name}.zone"
 		mkdir -p "$dir"
-		sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT > ${filepath}
+		sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT > ${filepath}.tmp
 
-		filesize=$(wc -c ${filepath} | cut -d' ' -f1)
+		filesize=$(wc -c ${filepath}.tmp | cut -d' ' -f1)
+		if [[ $filesize == 0 ]]; then
+			rm ${filepath}.tmp
+			continue
+		fi
+		mv ${filepath}{.tmp,}
 		if [[ $filesize > $GITHUB_MAX_SIZE ]]; then
 			gzip ${filepath}
-		elif [[ $filesize == 0 ]]; then
-			rm ${filepath}
-			continue
 		fi
 		echo "dumping zone ${zone}"
 	done
