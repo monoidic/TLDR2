@@ -22,6 +22,7 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `kg.`
 * `kz.`
 * `lb.`
