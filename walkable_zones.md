@@ -12,11 +12,15 @@
 * `cars.`
 * `christmas.`
 * `ci.`
+* `cy.`
+* `diet.`
 * `dz.`
 * `ee.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `kg.`
@@ -33,6 +37,7 @@
 * `ruhr.`
 * `se.`
 * `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
