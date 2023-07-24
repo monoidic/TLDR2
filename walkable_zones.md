@@ -10,13 +10,9 @@
 * `bt.`
 * `car.`
 * `cars.`
-* `christmas.`
-* `ci.`
-* `cy.`
 * `diet.`
 * `dz.`
 * `ee.`
-* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
@@ -24,7 +20,6 @@
 * `hosting.`
 * `id.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
@@ -36,12 +31,10 @@
 * `pr.`
 * `ruhr.`
 * `se.`
-* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
-* `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
