@@ -10432,6 +10432,7 @@ lu.	0	IN	NS	i.dns.lu.
 lu.	0	IN	NS	j.dns.lu.
 lu.	0	IN	NS	k.dns.lu.
 lu.	0	IN	NS	p.dns.lu.
+lu.	0	IN	NS	ns1.dns.lu.
 lu.	0	IN	DS	20752 8 2 2bbe0b0c438f336ca96f655dccb9a72d7359064225d9e38a0a09804f9be20415
 g.dns.lu.	0	IN	A	194.0.23.5
 g.dns.lu.	0	IN	AAAA	2001:678:1b:5::5
@@ -10441,6 +10442,8 @@ j.dns.lu.	0	IN	A	77.72.229.247
 j.dns.lu.	0	IN	AAAA	2a01:3f0:0:307::53
 k.dns.lu.	0	IN	A	194.0.1.13
 k.dns.lu.	0	IN	AAAA	2001:678:4::d
+ns1.dns.lu.	0	IN	A	158.64.229.18
+ns1.dns.lu.	0	IN	AAAA	2001:a18:4:1::18
 p.dns.lu.	0	IN	A	194.0.42.42
 p.dns.lu.	0	IN	AAAA	2001:678:60::42:42
 lundbeck.	0	IN	NS	a0.nic.lundbeck.
@@ -16420,11 +16423,9 @@ sv.	0	IN	NS	a.lactld.org.
 sv.	0	IN	NS	ns.uu.net.
 sv.	0	IN	NS	ns.dns.br.
 sv.	0	IN	NS	sv.cctld.authdns.ripe.net.
-sv.	0	IN	NS	cir.red.sv.
 sv.	0	IN	NS	sir.red.sv.
 sv.	0	IN	NS	auth02.ns.uu.net.
 sv.	0	IN	NS	dns-ext.nic.cr.
-cir.red.sv.	0	IN	A	168.243.254.1
 sir.red.sv.	0	IN	A	131.100.140.162
 swatch.	0	IN	NS	ac1.nstld.com.
 swatch.	0	IN	NS	ac2.nstld.com.
