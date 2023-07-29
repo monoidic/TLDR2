@@ -5,18 +5,14 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
-* `cy.`
-* `diet.`
 * `dz.`
 * `ee.`
-* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
@@ -30,7 +26,6 @@
 * `lol.`
 * `lr.`
 * `mc.`
-* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
