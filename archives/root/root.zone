@@ -3676,6 +3676,7 @@ co.	0	IN	NS	ns4.cctld.co.
 co.	0	IN	NS	ns5.cctld.co.
 co.	0	IN	NS	ns6.cctld.co.
 co.	0	IN	DS	61744 8 2 b9adca87453c1f69a9a524681f4179a88374c546a45892acc10e2653519accbd
+co.	0	IN	DS	62110 8 2 4857ee1a85e661c92156ad09b40139dae7d5be37d117a1223289f0e20cf9d654
 ns1.cctld.co.	0	IN	A	37.209.192.14
 ns1.cctld.co.	0	IN	AAAA	2001:dcd:1::14
 ns2.cctld.co.	0	IN	A	37.209.194.14
@@ -11489,25 +11490,6 @@ c.nic.music.	0	IN	A	212.18.248.142
 c.nic.music.	0	IN	AAAA	2a04:2b00:13ee::142
 d.nic.music.	0	IN	A	212.18.249.142
 d.nic.music.	0	IN	AAAA	2a04:2b00:13ff::142
-mutual.	0	IN	NS	a.nic.mutual.
-mutual.	0	IN	NS	b.nic.mutual.
-mutual.	0	IN	NS	c.nic.mutual.
-mutual.	0	IN	NS	ns1.dns.nic.mutual.
-mutual.	0	IN	NS	ns2.dns.nic.mutual.
-mutual.	0	IN	NS	ns3.dns.nic.mutual.
-mutual.	0	IN	DS	22762 8 2 7b979cc950139d75a2c3fcef3cd9282ad6e8677483e4646cc9d3c2523278e191
-a.nic.mutual.	0	IN	A	37.209.192.9
-a.nic.mutual.	0	IN	AAAA	2001:dcd:1::9
-b.nic.mutual.	0	IN	A	37.209.194.9
-b.nic.mutual.	0	IN	AAAA	2001:dcd:2::9
-c.nic.mutual.	0	IN	A	37.209.196.9
-c.nic.mutual.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.mutual.	0	IN	A	156.154.144.118
-ns1.dns.nic.mutual.	0	IN	AAAA	2610:a1:1071::76
-ns2.dns.nic.mutual.	0	IN	A	156.154.145.118
-ns2.dns.nic.mutual.	0	IN	AAAA	2610:a1:1072::76
-ns3.dns.nic.mutual.	0	IN	A	156.154.159.118
-ns3.dns.nic.mutual.	0	IN	AAAA	2610:a1:1073::76
 mv.	0	IN	NS	ns.dhivehinet.net.mv.
 mv.	0	IN	NS	ns2.dhivehinet.net.mv.
 mv.	0	IN	NS	mv-ns.anycast.pch.net.
