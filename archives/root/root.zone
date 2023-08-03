@@ -3578,22 +3578,17 @@ v2n0.nic.clothing.	0	IN	A	65.22.27.13
 v2n0.nic.clothing.	0	IN	AAAA	2a01:8840:1d::13
 v2n1.nic.clothing.	0	IN	A	161.232.13.13
 v2n1.nic.clothing.	0	IN	AAAA	2a01:8840:f7::13
-cloud.	0	IN	NS	a.nic.cloud.
-cloud.	0	IN	NS	b.nic.cloud.
 cloud.	0	IN	NS	c.nic.cloud.
-cloud.	0	IN	NS	x.nic.cloud.
 cloud.	0	IN	NS	y.nic.cloud.
 cloud.	0	IN	NS	z.nic.cloud.
+cloud.	0	IN	NS	ns1.uniregistry.net.
+cloud.	0	IN	NS	ns2.uniregistry.info.
+cloud.	0	IN	NS	ns3.uniregistry.net.
+cloud.	0	IN	NS	ns4.uniregistry.info.
 cloud.	0	IN	DS	23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
 cloud.	0	IN	DS	48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
-a.nic.cloud.	0	IN	A	37.209.192.10
-a.nic.cloud.	0	IN	AAAA	2001:dcd:1::10
-b.nic.cloud.	0	IN	A	37.209.194.10
-b.nic.cloud.	0	IN	AAAA	2001:dcd:2::10
 c.nic.cloud.	0	IN	A	37.209.196.10
 c.nic.cloud.	0	IN	AAAA	2001:dcd:3::10
-x.nic.cloud.	0	IN	A	156.154.172.82
-x.nic.cloud.	0	IN	AAAA	2610:a1:1074::1:82
 y.nic.cloud.	0	IN	A	156.154.173.82
 y.nic.cloud.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.cloud.	0	IN	A	156.154.174.82
