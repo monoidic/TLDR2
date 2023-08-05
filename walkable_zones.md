@@ -24,14 +24,11 @@
 * `hosting.`
 * `id.`
 * `kg.`
-* `kz.`
 * `lb.`
-* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
-* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
@@ -41,7 +38,6 @@
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
-* `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
