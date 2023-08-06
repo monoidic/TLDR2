@@ -4,6 +4,7 @@
 * `arpa.`
 * `audio.`
 * `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -14,6 +15,7 @@
 * `cy.`
 * `diet.`
 * `dz.`
+* `ee.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -23,8 +25,10 @@
 * `id.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `lk.`
 * `lol.`
+* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
@@ -33,6 +37,7 @@
 * `ruhr.`
 * `se.`
 * `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
