@@ -8,9 +8,14 @@
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
+* `cy.`
+* `diet.`
+* `dz.`
+* `ee.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -23,6 +28,7 @@
 * `lb.`
 * `lk.`
 * `lol.`
+* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
