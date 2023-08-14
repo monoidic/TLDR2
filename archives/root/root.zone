@@ -20,6 +20,7 @@ aaa.	0	IN	NS	ns1.dns.nic.aaa.
 aaa.	0	IN	NS	ns2.dns.nic.aaa.
 aaa.	0	IN	NS	ns3.dns.nic.aaa.
 aaa.	0	IN	DS	23185 8 2 b18d0ec8791d98e167ca4d9745a0c27a6377e099d8f6a16a09567492ab16b7de
+aaa.	0	IN	DS	31852 8 2 89f7670afc091b199b47900e4ce4135b9463b7f74d3d19a1c732e78c345d4de6
 a.nic.aaa.	0	IN	A	37.209.192.9
 a.nic.aaa.	0	IN	AAAA	2001:dcd:1::9
 b.nic.aaa.	0	IN	A	37.209.194.9
@@ -100,6 +101,7 @@ able.	0	IN	NS	ns1.dns.nic.able.
 able.	0	IN	NS	ns2.dns.nic.able.
 able.	0	IN	NS	ns3.dns.nic.able.
 able.	0	IN	DS	45202 8 2 c7832f26b62fdf91da819ac5fa524eae2eebe0651caf074b59dc0176d49fd836
+able.	0	IN	DS	48877 8 2 6effec2f6db34b2d1086a3b4cedd6e4109135877e533d6d1bf0f7ca760eb018f
 a.nic.able.	0	IN	A	37.209.192.10
 a.nic.able.	0	IN	AAAA	2001:dcd:1::10
 b.nic.able.	0	IN	A	37.209.194.10
@@ -119,6 +121,7 @@ abogado.	0	IN	NS	x.nic.abogado.
 abogado.	0	IN	NS	y.nic.abogado.
 abogado.	0	IN	NS	z.nic.abogado.
 abogado.	0	IN	DS	31012 8 2 fcfc05f3629da70f709fb54e7d17214483216d641f8a6cca90ad02be852e5a8c
+abogado.	0	IN	DS	37480 8 2 5589c84ddbf5b50db5c8a9d5cea939409c24ce6369f7013f683a0bca912ac8f3
 a.nic.abogado.	0	IN	A	37.209.192.10
 a.nic.abogado.	0	IN	AAAA	2001:dcd:1::10
 b.nic.abogado.	0	IN	A	37.209.194.10
@@ -181,6 +184,7 @@ accountant.	0	IN	NS	ns1.dns.nic.accountant.
 accountant.	0	IN	NS	ns2.dns.nic.accountant.
 accountant.	0	IN	NS	ns3.dns.nic.accountant.
 accountant.	0	IN	DS	44389 8 2 6beec4c8bcc3a1e6b88c46e8348e3e7cf900524bbc2c92e42a202229ba7cd7f8
+accountant.	0	IN	DS	59392 8 2 d07b6b81becef22a22bf731c3eb8932cb97414e494675ef8c7771d4b768ab6f5
 a.nic.accountant.	0	IN	A	37.209.192.10
 a.nic.accountant.	0	IN	AAAA	2001:dcd:1::10
 b.nic.accountant.	0	IN	A	37.209.194.10
@@ -263,6 +267,7 @@ adult.	0	IN	NS	c.nic.adult.
 adult.	0	IN	NS	x.nic.adult.
 adult.	0	IN	NS	y.nic.adult.
 adult.	0	IN	NS	z.nic.adult.
+adult.	0	IN	DS	39064 8 2 8d2ccad69f8eba3c73214b4877386921586ca56f105b44fc91ceef1b4ab59b80
 adult.	0	IN	DS	64321 8 2 ca734aa86339cb101665a65c4f33f4e86b37cf2512fd4c1655c00026d6f70915
 a.nic.adult.	0	IN	A	37.209.192.10
 a.nic.adult.	0	IN	AAAA	2001:dcd:1::10
@@ -313,6 +318,7 @@ aetna.	0	IN	NS	c.nic.aetna.
 aetna.	0	IN	NS	ns1.dns.nic.aetna.
 aetna.	0	IN	NS	ns2.dns.nic.aetna.
 aetna.	0	IN	NS	ns3.dns.nic.aetna.
+aetna.	0	IN	DS	40324 8 2 6a4c3c1cd8d865ce88fc01c009d393d12ab8b585a68a196c4b2651239f531b85
 aetna.	0	IN	DS	49819 8 2 2f8cd71c2ca149b4da0f60092c775fecdff60b52d0a61064f458e0a99f378012
 a.nic.aetna.	0	IN	A	37.209.192.9
 a.nic.aetna.	0	IN	AAAA	2001:dcd:1::9
@@ -409,6 +415,7 @@ aig.	0	IN	NS	c.nic.aig.
 aig.	0	IN	NS	ns1.dns.nic.aig.
 aig.	0	IN	NS	ns2.dns.nic.aig.
 aig.	0	IN	NS	ns3.dns.nic.aig.
+aig.	0	IN	DS	15685 8 2 572786514068659a43816cef2d3774db47dec4783a3133f6bd7d63d0a37dcca1
 aig.	0	IN	DS	18592 8 2 5561856a59f0b23749c885d4dd398a52b087ed06216daee0aeb88b965c4f6994
 a.nic.aig.	0	IN	A	37.209.192.9
 a.nic.aig.	0	IN	AAAA	2001:dcd:1::9
@@ -530,6 +537,7 @@ ally.	0	IN	NS	c.nic.ally.
 ally.	0	IN	NS	x.nic.ally.
 ally.	0	IN	NS	y.nic.ally.
 ally.	0	IN	NS	z.nic.ally.
+ally.	0	IN	DS	22405 8 2 774c1930a734067dc62e7ae54bcdeadaa2281a57155b8f0af3683bfcbf7fe46c
 ally.	0	IN	DS	40354 8 2 46bfea1ca30072b089d2e566821640c144511b308df1f0271402d569c7332783
 a.nic.ally.	0	IN	A	37.209.192.9
 a.nic.ally.	0	IN	AAAA	2001:dcd:1::9
@@ -591,6 +599,7 @@ americanexpress.	0	IN	NS	ns1.dns.nic.americanexpress.
 americanexpress.	0	IN	NS	ns2.dns.nic.americanexpress.
 americanexpress.	0	IN	NS	ns3.dns.nic.americanexpress.
 americanexpress.	0	IN	DS	31510 8 2 87098c48f0e74920da2d916e8aea9fc1e92919ee033ee569569942a5dcb02c02
+americanexpress.	0	IN	DS	34516 8 2 1586cd9180548b70d0d4978f816744c95202f6d63e8685866025116314e629a7
 a.nic.americanexpress.	0	IN	A	37.209.192.9
 a.nic.americanexpress.	0	IN	AAAA	2001:dcd:1::9
 b.nic.americanexpress.	0	IN	A	37.209.194.9
@@ -615,6 +624,7 @@ amex.	0	IN	NS	ns1.dns.nic.amex.
 amex.	0	IN	NS	ns2.dns.nic.amex.
 amex.	0	IN	NS	ns3.dns.nic.amex.
 amex.	0	IN	DS	22897 8 2 e17027e1218ba28cd5cc6847f0b7606066ee92eea6b9901d4e8e41b3e9930b6e
+amex.	0	IN	DS	33586 8 2 7deb639c1b7c68838cb13ac4063cef638bd32b47a399f6fe712e893a9a8cec19
 a.nic.amex.	0	IN	A	37.209.192.9
 a.nic.amex.	0	IN	AAAA	2001:dcd:1::9
 b.nic.amex.	0	IN	A	37.209.194.9
