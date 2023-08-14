@@ -8,8 +8,6 @@
 * `bd.`
 * `br.`
 * `bt.`
-* `car.`
-* `cars.`
 * `christmas.`
 * `ci.`
 * `cy.`
@@ -24,12 +22,9 @@
 * `hosting.`
 * `id.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
-* `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
