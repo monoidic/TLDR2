@@ -649,6 +649,7 @@ amica.	0	IN	NS	ns1.dns.nic.amica.
 amica.	0	IN	NS	ns2.dns.nic.amica.
 amica.	0	IN	NS	ns3.dns.nic.amica.
 amica.	0	IN	DS	14902 8 2 a464df4fd3a7b27eb3177a1813bc95d25d3f50e5ae5192619a272dce8587cea8
+amica.	0	IN	DS	37714 8 2 d2d98dd38d76b5819cd3079b1772ea5370f5cd0843cd53af0569985c6d92599f
 a.nic.amica.	0	IN	A	37.209.192.9
 a.nic.amica.	0	IN	AAAA	2001:dcd:1::9
 b.nic.amica.	0	IN	A	37.209.194.9
@@ -677,6 +678,7 @@ analytics.	0	IN	NS	c.nic.analytics.
 analytics.	0	IN	NS	ns1.dns.nic.analytics.
 analytics.	0	IN	NS	ns2.dns.nic.analytics.
 analytics.	0	IN	NS	ns3.dns.nic.analytics.
+analytics.	0	IN	DS	31084 8 2 c08755f7be6273af24944d2fc49c0d1590ddd440aaa7440a08ffc67e2288c5a1
 analytics.	0	IN	DS	52096 8 2 55dfdf9c576ca2ad13deec42a7d0eb36df9ff56500c5cb33fa0c0879c6f1d8d6
 a.nic.analytics.	0	IN	A	37.209.192.10
 a.nic.analytics.	0	IN	AAAA	2001:dcd:1::10
@@ -819,6 +821,7 @@ aramco.	0	IN	NS	ns3.dns.nic.aramco.
 aramco.	0	IN	NS	ns4.dns.nic.aramco.
 aramco.	0	IN	NS	ns5.dns.nic.aramco.
 aramco.	0	IN	NS	ns6.dns.nic.aramco.
+aramco.	0	IN	DS	6265 8 2 aeb0cbb0275b05900f98a2f97cb6a47accf5d2f559439ddc79afc695341a9dee
 aramco.	0	IN	DS	22207 8 2 2af8a3fc1aab39c9117f19956a83f0353fb0c206b33f253331080c91343781b3
 ns1.dns.nic.aramco.	0	IN	A	156.154.144.14
 ns1.dns.nic.aramco.	0	IN	AAAA	2610:a1:1071::e
@@ -999,6 +1002,7 @@ athleta.	0	IN	NS	c.nic.athleta.
 athleta.	0	IN	NS	ns1.dns.nic.athleta.
 athleta.	0	IN	NS	ns2.dns.nic.athleta.
 athleta.	0	IN	NS	ns3.dns.nic.athleta.
+athleta.	0	IN	DS	14776 8 2 cc5ce98fe2c8ebb8da9b7cef6efae743b1b92a8b60d276c42510fd7c55177632
 athleta.	0	IN	DS	24775 8 2 27e604906e1205089032c4cf28bc8e12c35d6dd3c1d5fe612ef5fae0aa5ac6ba
 a.nic.athleta.	0	IN	A	37.209.192.9
 a.nic.athleta.	0	IN	AAAA	2001:dcd:1::9
@@ -1339,6 +1343,7 @@ banamex.	0	IN	NS	c.nic.banamex.
 banamex.	0	IN	NS	ns1.dns.nic.banamex.
 banamex.	0	IN	NS	ns2.dns.nic.banamex.
 banamex.	0	IN	NS	ns3.dns.nic.banamex.
+banamex.	0	IN	DS	38095 8 2 eb04c740fb681ab87a2376cfb9e5ce3a865f930da98246836670d0bb29478229
 banamex.	0	IN	DS	48619 8 2 0ec0cea382d19ea64e24c4c8b5dcd64217a362f580401ddf31b3ef3d78e35a9b
 a.nic.banamex.	0	IN	A	37.209.192.9
 a.nic.banamex.	0	IN	AAAA	2001:dcd:1::9
@@ -1359,6 +1364,7 @@ bananarepublic.	0	IN	NS	ns1.dns.nic.bananarepublic.
 bananarepublic.	0	IN	NS	ns2.dns.nic.bananarepublic.
 bananarepublic.	0	IN	NS	ns3.dns.nic.bananarepublic.
 bananarepublic.	0	IN	DS	36871 8 2 4a4b1a43d4525be366f7cc568365d7d619dace7f6895e3c31390a079a7a03589
+bananarepublic.	0	IN	DS	42796 8 2 28bb727ee05f747a4eb0fc5e0d807542fa005a2a571c039fd34be55f3378bb5b
 a.nic.bananarepublic.	0	IN	A	37.209.192.9
 a.nic.bananarepublic.	0	IN	AAAA	2001:dcd:1::9
 b.nic.bananarepublic.	0	IN	A	37.209.194.9
@@ -1397,6 +1403,7 @@ bank.	0	IN	NS	w.nic.bank.
 bank.	0	IN	NS	x.nic.bank.
 bank.	0	IN	NS	y.nic.bank.
 bank.	0	IN	DS	15994 8 2 659d10863a42e4957ad8f9ad97a56f8de227aa74fc9e3aa4c0e8afac0458071a
+bank.	0	IN	DS	21997 8 2 07edd24219ee1fa88d97695ea28c3722a29b566813cbfdcc4dbf498892b8ff0c
 d.nic.bank.	0	IN	A	156.154.103.27
 d.nic.bank.	0	IN	AAAA	2610:a1:1010::27
 e.nic.bank.	0	IN	A	156.154.104.27
@@ -1493,6 +1500,7 @@ baseball.	0	IN	NS	c.nic.baseball.
 baseball.	0	IN	NS	ns1.dns.nic.baseball.
 baseball.	0	IN	NS	ns2.dns.nic.baseball.
 baseball.	0	IN	NS	ns3.dns.nic.baseball.
+baseball.	0	IN	DS	11122 8 2 440e52af38c50a3e6eddd224aa4c2ddb50a3b6313ebd36baaace8ff520d03a07
 baseball.	0	IN	DS	28711 8 2 349e8b6a2e0890837ff4b69f7efb0f44e3c32dc976fa74962dd8f812d7712f66
 a.nic.baseball.	0	IN	A	37.209.192.10
 a.nic.baseball.	0	IN	AAAA	2001:dcd:1::10
@@ -1513,6 +1521,7 @@ basketball.	0	IN	NS	x.nic.basketball.
 basketball.	0	IN	NS	y.nic.basketball.
 basketball.	0	IN	NS	z.nic.basketball.
 basketball.	0	IN	DS	46201 8 2 ca5c951d022f3965ab936d403cfbb48f2d753d7b32dde3ac146b419693dfbf30
+basketball.	0	IN	DS	48130 8 2 02653b2567731ff23c16036c9f0d51a3596fb8c93b6bd0801b74e7267af995af
 a.nic.basketball.	0	IN	A	37.209.192.10
 a.nic.basketball.	0	IN	AAAA	2001:dcd:1::10
 b.nic.basketball.	0	IN	A	37.209.194.10
@@ -1706,6 +1715,7 @@ beer.	0	IN	NS	c.nic.beer.
 beer.	0	IN	NS	x.nic.beer.
 beer.	0	IN	NS	y.nic.beer.
 beer.	0	IN	NS	z.nic.beer.
+beer.	0	IN	DS	39367 8 2 32940ab06d3524457f9ddead6c3c0c76729eec27c5cc02244cea24e9fd9e47f4
 beer.	0	IN	DS	61849 8 2 11485cf30d665a82c06691c37983fd4eca2068add702ace7374ec00e800f788f
 a.nic.beer.	0	IN	A	37.209.192.10
 a.nic.beer.	0	IN	AAAA	2001:dcd:1::10
@@ -1854,6 +1864,7 @@ bible.	0	IN	NS	ns1.dns.nic.bible.
 bible.	0	IN	NS	ns2.dns.nic.bible.
 bible.	0	IN	NS	ns3.dns.nic.bible.
 bible.	0	IN	DS	634 8 2 c09ed93543e2a43516c5379a9ebd54364d4226015112cdfb24199a7f91936ddc
+bible.	0	IN	DS	8386 8 2 0e7835e59ca10b1e14b9f6ab4eed2b9f27b5ba318c66b4de22166c4a6686b9c3
 a.nic.bible.	0	IN	A	37.209.192.10
 a.nic.bible.	0	IN	AAAA	2001:dcd:1::10
 b.nic.bible.	0	IN	A	37.209.194.10
@@ -1873,6 +1884,7 @@ bid.	0	IN	NS	ns1.dns.nic.bid.
 bid.	0	IN	NS	ns2.dns.nic.bid.
 bid.	0	IN	NS	ns3.dns.nic.bid.
 bid.	0	IN	DS	20119 8 2 eb851ab057822a4c0092b8a500066227424c6bce0e50b45d40b21476b18056b8
+bid.	0	IN	DS	64954 8 2 72f2c783cc339208a8dfe0411272ce3a327c4610b3fd6dd67b6e4c5b27b868bb
 a.nic.bid.	0	IN	A	37.209.192.10
 a.nic.bid.	0	IN	AAAA	2001:dcd:1::10
 b.nic.bid.	0	IN	A	37.209.194.10
@@ -1947,6 +1959,7 @@ biz.	0	IN	NS	c.gtld.biz.
 biz.	0	IN	NS	w.gtld.biz.
 biz.	0	IN	NS	x.gtld.biz.
 biz.	0	IN	NS	y.gtld.biz.
+biz.	0	IN	DS	11044 8 2 e41af415e6cd0727c2924d6e60b896fb9c6d81831ac90c9dca4c22497701ab1a
 biz.	0	IN	DS	13075 8 2 5114c10474c1467017a378da75e6845511f78fea480a4469a3bafc54b2738e11
 ns1.asnic.biz.	0	IN	A	213.248.219.254
 ns1.asnic.biz.	0	IN	AAAA	2a01:618:403::254
@@ -2198,6 +2211,7 @@ booking.	0	IN	NS	ns1.dns.nic.booking.
 booking.	0	IN	NS	ns2.dns.nic.booking.
 booking.	0	IN	NS	ns3.dns.nic.booking.
 booking.	0	IN	DS	5470 8 2 0e779c706c569b36a19a7d788c043979b9ab862ef84e913b51920a9c4106c9ab
+booking.	0	IN	DS	29245 8 2 35e34127bc68cc91698d0b5ec4562002aa8293da7c6ce0bc1c75cff3e6529ec4
 a.nic.booking.	0	IN	A	37.209.192.9
 a.nic.booking.	0	IN	AAAA	2001:dcd:1::9
 b.nic.booking.	0	IN	A	37.209.194.9
@@ -2234,6 +2248,7 @@ boston.	0	IN	NS	x.nic.boston.
 boston.	0	IN	NS	y.nic.boston.
 boston.	0	IN	NS	z.nic.boston.
 boston.	0	IN	DS	1189 8 2 32da17d1e9cd92eebd7214b36b30fa8c8956abba7435f46b3a55d1455d8e01a2
+boston.	0	IN	DS	42907 8 2 253f8a2aa4bf2067b9b72ba983849f63a1b8482a1cf613879196482d1ffa2038
 a.nic.boston.	0	IN	A	37.209.192.10
 a.nic.boston.	0	IN	AAAA	2001:dcd:1::10
 b.nic.boston.	0	IN	A	37.209.194.10
@@ -2520,6 +2535,7 @@ buzz.	0	IN	NS	ns1.dns.nic.buzz.
 buzz.	0	IN	NS	ns2.dns.nic.buzz.
 buzz.	0	IN	NS	ns3.dns.nic.buzz.
 buzz.	0	IN	DS	21817 8 2 eea009d624a40b9afaa8f0fa040a3d0fc900ab565e27aa90cebb67b481c9816c
+buzz.	0	IN	DS	60340 8 2 fba59e35952704ae0656bc122aec20528c8d49600e314e8bdf0ae00ce8c336b7
 a.nic.buzz.	0	IN	A	37.209.192.10
 a.nic.buzz.	0	IN	AAAA	2001:dcd:1::10
 b.nic.buzz.	0	IN	A	37.209.194.10
@@ -2660,6 +2676,7 @@ calvinklein.	0	IN	NS	ns1.dns.nic.calvinklein.
 calvinklein.	0	IN	NS	ns2.dns.nic.calvinklein.
 calvinklein.	0	IN	NS	ns3.dns.nic.calvinklein.
 calvinklein.	0	IN	DS	4525 8 2 af8c19b09ce15428675bd900e02276bfd651f263c822c7393ee3ab06791eeaf9
+calvinklein.	0	IN	DS	46744 8 2 bb8a91f6ed57b17da3d9f3f91b7ece068799ba0f09c5310bcbc80150bf1555a3
 a.nic.calvinklein.	0	IN	A	37.209.192.9
 a.nic.calvinklein.	0	IN	AAAA	2001:dcd:1::9
 b.nic.calvinklein.	0	IN	A	37.209.194.9
@@ -2775,6 +2792,7 @@ caravan.	0	IN	NS	c.nic.caravan.
 caravan.	0	IN	NS	ns1.dns.nic.caravan.
 caravan.	0	IN	NS	ns2.dns.nic.caravan.
 caravan.	0	IN	NS	ns3.dns.nic.caravan.
+caravan.	0	IN	DS	3526 8 2 370991b8e6e9f532e4b6ddf051fae510353e27e0b99a3f9b7b359c48620c507e
 caravan.	0	IN	DS	28732 8 2 e06fed6fa549445050d4745f1bb53d854ab42abc74f0e7fde4e93a887e362e64
 a.nic.caravan.	0	IN	A	37.209.192.9
 a.nic.caravan.	0	IN	AAAA	2001:dcd:1::9
@@ -2890,6 +2908,7 @@ casa.	0	IN	NS	x.nic.casa.
 casa.	0	IN	NS	y.nic.casa.
 casa.	0	IN	NS	z.nic.casa.
 casa.	0	IN	DS	12820 8 2 dfd8771512e3e5d525fcbef9bc186fda12797d20977a41cb663dcd18d8e38cea
+casa.	0	IN	DS	39931 8 2 9870940f409b2a9d22ab87e5239f8a18b1c44a9b6528ecd318dd78d23eac761b
 a.nic.casa.	0	IN	A	37.209.192.10
 a.nic.casa.	0	IN	AAAA	2001:dcd:1::10
 b.nic.casa.	0	IN	A	37.209.194.10
@@ -3025,6 +3044,7 @@ cbn.	0	IN	NS	c.nic.cbn.
 cbn.	0	IN	NS	ns1.dns.nic.cbn.
 cbn.	0	IN	NS	ns2.dns.nic.cbn.
 cbn.	0	IN	NS	ns3.dns.nic.cbn.
+cbn.	0	IN	DS	38299 8 2 1907c6c2996fc1df2198492f294525824c6321ae8a891284b0bc74efc2083538
 cbn.	0	IN	DS	53419 8 2 030de643aaaf4c8f1d7d61a6d3e89eb48ed654916c60c670b72a083f43c48312
 a.nic.cbn.	0	IN	A	37.209.192.9
 a.nic.cbn.	0	IN	AAAA	2001:dcd:1::9
@@ -3044,6 +3064,7 @@ cbre.	0	IN	NS	c.nic.cbre.
 cbre.	0	IN	NS	ns1.dns.nic.cbre.
 cbre.	0	IN	NS	ns2.dns.nic.cbre.
 cbre.	0	IN	NS	ns3.dns.nic.cbre.
+cbre.	0	IN	DS	29824 8 2 1e62d3ea2ec98f8360413e0291ee4a9f51870c43a37cc027317fba746fde3fe2
 cbre.	0	IN	DS	46225 8 2 f737a4fd2c347f5f1d4e4df8f4977ba169f28829557fbc8c477051c041268fcc
 a.nic.cbre.	0	IN	A	37.209.192.9
 a.nic.cbre.	0	IN	AAAA	2001:dcd:1::9
@@ -3225,6 +3246,7 @@ chase.	0	IN	NS	ns4.dns.nic.chase.
 chase.	0	IN	NS	ns5.dns.nic.chase.
 chase.	0	IN	NS	ns6.dns.nic.chase.
 chase.	0	IN	DS	35866 8 2 618f99e685339cf7c8afac24ec3c9a7eaa56b41f622d34f23af944b83be839af
+chase.	0	IN	DS	38962 8 2 7e231dfe930caa42c760d3298c2f9b4b4f22aadc5a0fe6c7784e4e2177a0e317
 ns1.dns.nic.chase.	0	IN	A	156.154.144.39
 ns1.dns.nic.chase.	0	IN	AAAA	2610:a1:1071::27
 ns2.dns.nic.chase.	0	IN	A	156.154.145.39
@@ -3282,6 +3304,7 @@ chintai.	0	IN	NS	ns1.dns.nic.chintai.
 chintai.	0	IN	NS	ns2.dns.nic.chintai.
 chintai.	0	IN	NS	ns3.dns.nic.chintai.
 chintai.	0	IN	DS	58834 8 2 71dc6c01f954da83b6cdc9e95beabcf8a72fcf478b56f7b4e1214e965bcbfe7c
+chintai.	0	IN	DS	63010 8 2 1ca7febcc15fb6098755eb40502c9ecddc2e9e0053f6c686a06a11c94fcc220f
 a.nic.chintai.	0	IN	A	37.209.192.9
 a.nic.chintai.	0	IN	AAAA	2001:dcd:1::9
 b.nic.chintai.	0	IN	A	37.209.194.9
@@ -3390,6 +3413,7 @@ cisco.	0	IN	NS	c.nic.cisco.
 cisco.	0	IN	NS	ns1.dns.nic.cisco.
 cisco.	0	IN	NS	ns2.dns.nic.cisco.
 cisco.	0	IN	NS	ns3.dns.nic.cisco.
+cisco.	0	IN	DS	51292 8 2 2985226f8c44213f8c73e65288eb6f0138383e2ba2cc627a8fd8d7f836b62c48
 cisco.	0	IN	DS	63049 8 2 42d0c12c3b954c6297a8810386e8d5d80f38a383f7c911630a5c1f3c81af890b
 a.nic.cisco.	0	IN	A	37.209.192.9
 a.nic.cisco.	0	IN	AAAA	2001:dcd:1::9
@@ -3428,6 +3452,7 @@ citi.	0	IN	NS	c.nic.citi.
 citi.	0	IN	NS	ns1.dns.nic.citi.
 citi.	0	IN	NS	ns2.dns.nic.citi.
 citi.	0	IN	NS	ns3.dns.nic.citi.
+citi.	0	IN	DS	44680 8 2 d1435f2313ea1d9b9a4ad59fc626db5dc1bca1dff3ea52060c1aaba786128fcb
 citi.	0	IN	DS	49387 8 2 9e8f9d0b17e64be572031238573f83d2a6fc1ee6c925ddb5062b1698a91d7a2a
 a.nic.citi.	0	IN	A	37.209.192.9
 a.nic.citi.	0	IN	AAAA	2001:dcd:1::9
@@ -3612,6 +3637,7 @@ club.	0	IN	NS	ns1.dns.nic.club.
 club.	0	IN	NS	ns2.dns.nic.club.
 club.	0	IN	NS	ns3.dns.nic.club.
 club.	0	IN	DS	20392 8 2 1f1ebacd947952ce4df8a80045ec37d088a49b72618feb92b91229de4d31b7b4
+club.	0	IN	DS	54682 8 2 4fc0dbb4f04be413ba1c0b1e92f4c5f0ccebf7856370e20671af6417499db258
 a.nic.club.	0	IN	A	37.209.192.10
 a.nic.club.	0	IN	AAAA	2001:dcd:1::10
 b.nic.club.	0	IN	A	37.209.194.10
@@ -3972,6 +3998,7 @@ compare.	0	IN	NS	x.nic.compare.
 compare.	0	IN	NS	y.nic.compare.
 compare.	0	IN	NS	z.nic.compare.
 compare.	0	IN	DS	12634 8 2 40c8dbba65ac7385a2dd35e299ee6010d850197dd7a438dccac7d13c2d32d953
+compare.	0	IN	DS	27319 8 2 3b57ac3d5396b250896e78b988f741beacf93733daf02048f86763aea3272445
 a.nic.compare.	0	IN	A	37.209.192.9
 a.nic.compare.	0	IN	AAAA	2001:dcd:1::9
 b.nic.compare.	0	IN	A	37.209.194.9
@@ -4109,6 +4136,7 @@ cooking.	0	IN	NS	c.nic.cooking.
 cooking.	0	IN	NS	x.nic.cooking.
 cooking.	0	IN	NS	y.nic.cooking.
 cooking.	0	IN	NS	z.nic.cooking.
+cooking.	0	IN	DS	19084 8 2 1ebfd6587779a23692abf0af38f79ab41282e544ab54f04a6c07168523234587
 cooking.	0	IN	DS	28069 8 2 ce234a5239cc651d9613917e4d5d4795ea8a0c7a63db0c3ae69bb5fa6caba352
 a.nic.cooking.	0	IN	A	37.209.192.10
 a.nic.cooking.	0	IN	AAAA	2001:dcd:1::10
@@ -4161,6 +4189,7 @@ coupon.	0	IN	NS	c.nic.coupon.
 coupon.	0	IN	NS	ns1.dns.nic.coupon.
 coupon.	0	IN	NS	ns2.dns.nic.coupon.
 coupon.	0	IN	NS	ns3.dns.nic.coupon.
+coupon.	0	IN	DS	10297 8 2 215a8514706a344478d609f1f92e86c0934ba02ae9b7d965aac116e68df1afea
 coupon.	0	IN	DS	24754 8 2 28ac37a1524040f644439b351bb5929f2ee66b8b6d6ea40d499a0db7455ef0c3
 a.nic.coupon.	0	IN	A	37.209.192.10
 a.nic.coupon.	0	IN	AAAA	2001:dcd:1::10
@@ -4199,6 +4228,7 @@ courses.	0	IN	NS	c.nic.courses.
 courses.	0	IN	NS	x.nic.courses.
 courses.	0	IN	NS	y.nic.courses.
 courses.	0	IN	NS	z.nic.courses.
+courses.	0	IN	DS	15277 8 2 0f2ac6152763313a36b063646929b4b8b35b5e4c0eaf12d54ec3982a78157d2d
 courses.	0	IN	DS	34960 8 2 dc3b228b7e6f2eea82fad1adeb93171d4d3ca3892a3e0e94035cd89d258df087
 a.nic.courses.	0	IN	A	37.209.192.9
 a.nic.courses.	0	IN	AAAA	2001:dcd:1::9
@@ -4301,6 +4331,7 @@ cricket.	0	IN	NS	c.nic.cricket.
 cricket.	0	IN	NS	ns1.dns.nic.cricket.
 cricket.	0	IN	NS	ns2.dns.nic.cricket.
 cricket.	0	IN	NS	ns3.dns.nic.cricket.
+cricket.	0	IN	DS	31300 8 2 f17f7981f1f544769763f21f8c1222d7cbe9393b89a84ea84d4abf9a72950751
 cricket.	0	IN	DS	41779 8 2 300973057d1eeaeaa9a7a558359564f48e7654b88cd3c81d23e48f700701afce
 a.nic.cricket.	0	IN	A	37.209.192.10
 a.nic.cricket.	0	IN	AAAA	2001:dcd:1::10
@@ -4553,6 +4584,7 @@ date.	0	IN	NS	c.nic.date.
 date.	0	IN	NS	ns1.dns.nic.date.
 date.	0	IN	NS	ns2.dns.nic.date.
 date.	0	IN	NS	ns3.dns.nic.date.
+date.	0	IN	DS	17974 8 2 89f996cd425d64fbd8deba987615d4c3d8de899f626643b4bfc6fa7bf8f996e5
 date.	0	IN	DS	30325 8 2 b0a4309d9ad85d8050259a80a8261b1003251cb1d2f3c74aa30e09335aaf2501
 a.nic.date.	0	IN	A	37.209.192.10
 a.nic.date.	0	IN	AAAA	2001:dcd:1::10
@@ -4608,6 +4640,7 @@ dds.	0	IN	NS	c.nic.dds.
 dds.	0	IN	NS	x.nic.dds.
 dds.	0	IN	NS	y.nic.dds.
 dds.	0	IN	NS	z.nic.dds.
+dds.	0	IN	DS	4084 8 2 653ac51723253e888c2887191e1f89c34c4ecef2f18e4eeb247f1faae3afc6b2
 dds.	0	IN	DS	51931 8 2 13ef8fe3e8e2afae0a24b7453d086e2eb0df7828b03a8af18fcae43bec07fd38
 a.nic.dds.	0	IN	A	37.209.192.10
 a.nic.dds.	0	IN	AAAA	2001:dcd:1::10
@@ -4743,6 +4776,7 @@ dell.	0	IN	NS	c.nic.dell.
 dell.	0	IN	NS	ns1.dns.nic.dell.
 dell.	0	IN	NS	ns2.dns.nic.dell.
 dell.	0	IN	NS	ns3.dns.nic.dell.
+dell.	0	IN	DS	3580 8 2 44c5f896b1f96a4b5f85385dda8648e5f050d94cf53b244d243caa0877a5a3c0
 dell.	0	IN	DS	22471 8 2 3b9deef2f217ee45d415525de6979d780f2afa1a1c95b8f2f437bd636cfd2095
 a.nic.dell.	0	IN	A	37.209.192.9
 a.nic.dell.	0	IN	AAAA	2001:dcd:1::9
@@ -4861,6 +4895,7 @@ design.	0	IN	NS	c.nic.design.
 design.	0	IN	NS	x.nic.design.
 design.	0	IN	NS	y.nic.design.
 design.	0	IN	NS	z.nic.design.
+design.	0	IN	DS	27199 8 2 eaec6e1b661b0264846ff8f70858cc63711f0627781386b9024360656679ecf5
 design.	0	IN	DS	50422 8 2 400c06349da05ff7c9b9d8c11857e8e9c3ce947ea05cc4c7c6de878bf2a496ee
 a.nic.design.	0	IN	A	37.209.192.10
 a.nic.design.	0	IN	AAAA	2001:dcd:1::10
@@ -5015,6 +5050,7 @@ discover.	0	IN	NS	c.nic.discover.
 discover.	0	IN	NS	ns1.dns.nic.discover.
 discover.	0	IN	NS	ns2.dns.nic.discover.
 discover.	0	IN	NS	ns3.dns.nic.discover.
+discover.	0	IN	DS	4225 8 2 d90804dc84c5e0542f8da2011babd12624318d1992483525ec125125cd576553
 discover.	0	IN	DS	39040 8 2 324144794f4fc2951d3ef2f1a6d2b335cdd0bd059caa3ac2eba809250c47a694
 a.nic.discover.	0	IN	A	37.209.192.9
 a.nic.discover.	0	IN	AAAA	2001:dcd:1::9
@@ -5186,6 +5222,7 @@ download.	0	IN	NS	c.nic.download.
 download.	0	IN	NS	ns1.dns.nic.download.
 download.	0	IN	NS	ns2.dns.nic.download.
 download.	0	IN	NS	ns3.dns.nic.download.
+download.	0	IN	DS	39961 8 2 7c47e4d56aff8c707935139f703c219e376eabda0461f1b224949610b0203ce8
 download.	0	IN	DS	62131 8 2 0d4cda13aeaeb337aab9c14691e912c1c363068e308792ca8109590a4e2fb502
 a.nic.download.	0	IN	A	37.209.192.10
 a.nic.download.	0	IN	AAAA	2001:dcd:1::10
@@ -5244,6 +5281,7 @@ dupont.	0	IN	NS	ns4.dns.nic.dupont.
 dupont.	0	IN	NS	ns5.dns.nic.dupont.
 dupont.	0	IN	NS	ns6.dns.nic.dupont.
 dupont.	0	IN	DS	13507 8 2 2a1bbc71245a57110165649e9c31bb6cf87dbfcfc3cc3f45ec4c7845f5dedbba
+dupont.	0	IN	DS	44914 8 2 f94ef24de9794acaf4920bfe73388a466179c339bd33ddea11b1decd2a45611b
 ns1.dns.nic.dupont.	0	IN	A	156.154.144.52
 ns1.dns.nic.dupont.	0	IN	AAAA	2610:a1:1071::34
 ns2.dns.nic.dupont.	0	IN	A	156.154.145.52
@@ -5309,6 +5347,7 @@ earth.	0	IN	NS	c.nic.earth.
 earth.	0	IN	NS	ns1.dns.nic.earth.
 earth.	0	IN	NS	ns2.dns.nic.earth.
 earth.	0	IN	NS	ns3.dns.nic.earth.
+earth.	0	IN	DS	26449 8 2 f5ced94f4f7cd8bd7278cabd2d2e7be2db0ff7c89037b9066212d42883a525cf
 earth.	0	IN	DS	38176 8 2 6bb59812c4fdd633997053989f89ee0e3b466b694c11b739c8f79995176b3920
 a.nic.earth.	0	IN	A	37.209.192.10
 a.nic.earth.	0	IN	AAAA	2001:dcd:1::10
@@ -5811,6 +5850,7 @@ faith.	0	IN	NS	ns1.dns.nic.faith.
 faith.	0	IN	NS	ns2.dns.nic.faith.
 faith.	0	IN	NS	ns3.dns.nic.faith.
 faith.	0	IN	DS	24400 8 2 272e92a109875aebba7ca98ac8b593c6a27059f58ea75d4b741a3452a63c97f4
+faith.	0	IN	DS	54856 8 2 4018987b2e2691d14bd31c3bd7f9e286326452d485efa1fe6330c64f35a32005
 a.nic.faith.	0	IN	A	37.209.192.10
 a.nic.faith.	0	IN	AAAA	2001:dcd:1::10
 b.nic.faith.	0	IN	A	37.209.194.10
@@ -5900,6 +5940,7 @@ farmers.	0	IN	NS	ns1.dns.nic.farmers.
 farmers.	0	IN	NS	ns2.dns.nic.farmers.
 farmers.	0	IN	NS	ns3.dns.nic.farmers.
 farmers.	0	IN	DS	11494 8 2 cd092da4b2e46bab4b5fea2310c7c8007e8b5732f5bb3cb6e0a01a4cef212c70
+farmers.	0	IN	DS	22045 8 2 6bf128234cca6c4fb7ba28f87c84c2488333439e8877bab9e94ba8f65ba28123
 a.nic.farmers.	0	IN	A	37.209.192.9
 a.nic.farmers.	0	IN	AAAA	2001:dcd:1::9
 b.nic.farmers.	0	IN	A	37.209.194.9
@@ -5918,6 +5959,7 @@ fashion.	0	IN	NS	c.nic.fashion.
 fashion.	0	IN	NS	x.nic.fashion.
 fashion.	0	IN	NS	y.nic.fashion.
 fashion.	0	IN	NS	z.nic.fashion.
+fashion.	0	IN	DS	36220 8 2 317f7be09221a412b8dbe4d8ab6c620083d9a3baac4064ee4a7c2a1f5eca6c7e
 fashion.	0	IN	DS	50059 8 2 99bbddd068ec695d622dc3a186fd015d9d47d2b26056cdab45ab8e45fc99dd87
 a.nic.fashion.	0	IN	A	37.209.192.10
 a.nic.fashion.	0	IN	AAAA	2001:dcd:1::10
@@ -6001,6 +6043,7 @@ ferrero.	0	IN	NS	c.nic.ferrero.
 ferrero.	0	IN	NS	ns1.dns.nic.ferrero.
 ferrero.	0	IN	NS	ns2.dns.nic.ferrero.
 ferrero.	0	IN	NS	ns3.dns.nic.ferrero.
+ferrero.	0	IN	DS	37165 8 2 eafc5fbd259481214624a636038ba784e8cd56869a1adbfd1024b3358c59b114
 ferrero.	0	IN	DS	45604 8 2 89bd8dec1256f0cae5edc8f2618fb6ad4149ea9028afd909632727eaca092b3c
 a.nic.ferrero.	0	IN	A	37.209.192.9
 a.nic.ferrero.	0	IN	AAAA	2001:dcd:1::9
@@ -6203,6 +6246,7 @@ fishing.	0	IN	NS	x.nic.fishing.
 fishing.	0	IN	NS	y.nic.fishing.
 fishing.	0	IN	NS	z.nic.fishing.
 fishing.	0	IN	DS	24019 8 2 51a5cc521f83d8bea6afe905d7f24a758c72d9341b550fc4e7ac0f272aceeca5
+fishing.	0	IN	DS	63775 8 2 8137bf33700cfb755c53efa2eb3b80ac9630b05befb7e8af34dd079e131d2c01
 a.nic.fishing.	0	IN	A	37.209.192.10
 a.nic.fishing.	0	IN	AAAA	2001:dcd:1::10
 b.nic.fishing.	0	IN	A	37.209.194.10
@@ -6222,6 +6266,7 @@ fit.	0	IN	NS	x.nic.fit.
 fit.	0	IN	NS	y.nic.fit.
 fit.	0	IN	NS	z.nic.fit.
 fit.	0	IN	DS	52846 8 2 67ac0d6b4abdb3e427baa988fce6dbb8f5420027ab25d219fec06e2ff8babf09
+fit.	0	IN	DS	61939 8 2 964cf669d1ec486a61cd6be09167b36d5fda20b21ff3950f4e1a2373beea3e66
 a.nic.fit.	0	IN	A	37.209.192.10
 a.nic.fit.	0	IN	AAAA	2001:dcd:1::10
 b.nic.fit.	0	IN	A	37.209.194.10
@@ -6279,6 +6324,7 @@ flickr.	0	IN	NS	c.nic.flickr.
 flickr.	0	IN	NS	ns1.dns.nic.flickr.
 flickr.	0	IN	NS	ns2.dns.nic.flickr.
 flickr.	0	IN	NS	ns3.dns.nic.flickr.
+flickr.	0	IN	DS	5335 8 2 16642c254c1ce6557c42465ff0e2053f92952a38280642401dae04a51db01030
 flickr.	0	IN	DS	54904 8 2 a0c9b5d4a5705ba6563443e9a93be7202551583fd55054e2ffa1b210b17f3903
 a.nic.flickr.	0	IN	A	37.209.192.9
 a.nic.flickr.	0	IN	AAAA	2001:dcd:1::9
@@ -6317,6 +6363,7 @@ flir.	0	IN	NS	c.nic.flir.
 flir.	0	IN	NS	ns1.dns.nic.flir.
 flir.	0	IN	NS	ns2.dns.nic.flir.
 flir.	0	IN	NS	ns3.dns.nic.flir.
+flir.	0	IN	DS	7306 8 2 5d9f70de986fdd8f93a84ad0e5d458a99c8b04545a49f60a348b6a05c4540f4c
 flir.	0	IN	DS	24484 8 2 3dd6835d42b1d12266d8fcb2fc29b0aecd5783ceda9792a213f32fb67889c64d
 a.nic.flir.	0	IN	A	37.209.192.9
 a.nic.flir.	0	IN	AAAA	2001:dcd:1::9
@@ -6443,6 +6490,7 @@ ford.	0	IN	NS	ns1.dns.nic.ford.
 ford.	0	IN	NS	ns2.dns.nic.ford.
 ford.	0	IN	NS	ns3.dns.nic.ford.
 ford.	0	IN	DS	31459 8 2 13dfd0c4ac2b97b1294ada48fb4a36e5732739afc11818b4c46fcd17e3fc13df
+ford.	0	IN	DS	64471 8 2 200e32097c2e1d54428766bb9e5489316aefec25672d34b24778f71a50e947fb
 a.nic.ford.	0	IN	A	37.209.192.9
 a.nic.ford.	0	IN	AAAA	2001:dcd:1::9
 b.nic.ford.	0	IN	A	37.209.194.9
@@ -6532,6 +6580,7 @@ fox.	0	IN	NS	ns1.dns.nic.fox.
 fox.	0	IN	NS	ns2.dns.nic.fox.
 fox.	0	IN	NS	ns3.dns.nic.fox.
 fox.	0	IN	DS	17635 8 2 ce046fbc1b2de0479ba9624f6344e0d6a22da6bb2c776a4782ba144f36d05d33
+fox.	0	IN	DS	31102 8 2 675c7b085143739b2c32f301858c5ee3751b58e3a9776ee2a6dddc2c9c7a9e13
 a.nic.fox.	0	IN	A	37.209.192.9
 a.nic.fox.	0	IN	AAAA	2001:dcd:1::9
 b.nic.fox.	0	IN	A	37.209.194.9
@@ -6660,6 +6709,7 @@ frontier.	0	IN	NS	c.nic.frontier.
 frontier.	0	IN	NS	ns1.dns.nic.frontier.
 frontier.	0	IN	NS	ns2.dns.nic.frontier.
 frontier.	0	IN	NS	ns3.dns.nic.frontier.
+frontier.	0	IN	DS	32674 8 2 43abf7b723073b5adb567bc9095eafc64367d702c7818dfd97b7c293eab0b4b1
 frontier.	0	IN	DS	50689 8 2 b81514d86b0ae37d16a0676680b70b9c714036de9993afb8d38fdbc6879a0062
 a.nic.frontier.	0	IN	A	37.209.192.9
 a.nic.frontier.	0	IN	AAAA	2001:dcd:1::9
@@ -6679,6 +6729,7 @@ ftr.	0	IN	NS	c.nic.ftr.
 ftr.	0	IN	NS	ns1.dns.nic.ftr.
 ftr.	0	IN	NS	ns2.dns.nic.ftr.
 ftr.	0	IN	NS	ns3.dns.nic.ftr.
+ftr.	0	IN	DS	26692 8 2 bea8f6f61998570b7dc8d85b43487908e8cf2fa560e7255953e7fcbe29a80209
 ftr.	0	IN	DS	44104 8 2 42ecbfdd47bc85333fb13850757d18493116ecabdc33eb40ca70d7cb952d9d52
 a.nic.ftr.	0	IN	A	37.209.192.9
 a.nic.ftr.	0	IN	AAAA	2001:dcd:1::9
@@ -6885,6 +6936,7 @@ gap.	0	IN	NS	ns1.dns.nic.gap.
 gap.	0	IN	NS	ns2.dns.nic.gap.
 gap.	0	IN	NS	ns3.dns.nic.gap.
 gap.	0	IN	DS	4462 8 2 59be1d87d0d5d5fd371368fa00c3e73b9e3215ed06cbec2459b8a25c49248b07
+gap.	0	IN	DS	34711 8 2 e6b688299e2dfc3b96259647e8a564475401d4504729bf8b523a08b4359b4c9f
 a.nic.gap.	0	IN	A	37.209.192.9
 a.nic.gap.	0	IN	AAAA	2001:dcd:1::9
 b.nic.gap.	0	IN	A	37.209.194.9
@@ -6903,6 +6955,7 @@ garden.	0	IN	NS	c.nic.garden.
 garden.	0	IN	NS	x.nic.garden.
 garden.	0	IN	NS	y.nic.garden.
 garden.	0	IN	NS	z.nic.garden.
+garden.	0	IN	DS	27637 8 2 2d10a23a8dfeb7b80721476d3dcc5a5d31a61be1d7d3b5bf6f15f4a2747b347b
 garden.	0	IN	DS	51400 8 2 a3f1a44a1d481d01241486e74820fc3634cb119c4772812ddf44e6d1cc5d2ebc
 a.nic.garden.	0	IN	A	37.209.192.10
 a.nic.garden.	0	IN	AAAA	2001:dcd:1::10
@@ -6922,6 +6975,7 @@ gay.	0	IN	NS	c.nic.gay.
 gay.	0	IN	NS	x.nic.gay.
 gay.	0	IN	NS	y.nic.gay.
 gay.	0	IN	NS	z.nic.gay.
+gay.	0	IN	DS	4816 8 2 960f543d3ead5c2e0fd6d1e792265f7c795170d793acd073f84c52a2f72eea85
 gay.	0	IN	DS	32074 8 2 c725b3cbd9d404307d49d0969b57b8885fd69663aca51662b05716c9abd1361e
 a.nic.gay.	0	IN	A	37.209.192.10
 a.nic.gay.	0	IN	AAAA	2001:dcd:1::10
@@ -7199,6 +7253,7 @@ godaddy.	0	IN	NS	x.nic.godaddy.
 godaddy.	0	IN	NS	y.nic.godaddy.
 godaddy.	0	IN	NS	z.nic.godaddy.
 godaddy.	0	IN	DS	29332 8 2 2c52023cffccd5fb2d7c4567840e0a06e2360b2a5090bc0ddd9e7b30cb4803b5
+godaddy.	0	IN	DS	31312 8 2 b9bffdcd6a38a5a0e6c73ca45ae8f0b66799ae35a1b2cea3c237f7f1910c9967
 a.nic.godaddy.	0	IN	A	37.209.192.9
 a.nic.godaddy.	0	IN	AAAA	2001:dcd:1::9
 b.nic.godaddy.	0	IN	A	37.209.194.9
@@ -7389,6 +7444,7 @@ grainger.	0	IN	NS	c.nic.grainger.
 grainger.	0	IN	NS	ns1.dns.nic.grainger.
 grainger.	0	IN	NS	ns2.dns.nic.grainger.
 grainger.	0	IN	NS	ns3.dns.nic.grainger.
+grainger.	0	IN	DS	19057 8 2 21adfc98b30b8a046a117c926c36ce7d890ed1c98a7168049332af0afe19c08b
 grainger.	0	IN	DS	63544 8 2 9d220e1effe75aebee784d7066bd378773a55462c2da902458de3f80a8bd069e
 a.nic.grainger.	0	IN	A	37.209.192.9
 a.nic.grainger.	0	IN	AAAA	2001:dcd:1::9
@@ -7673,6 +7729,7 @@ hbo.	0	IN	NS	ns1.dns.nic.hbo.
 hbo.	0	IN	NS	ns2.dns.nic.hbo.
 hbo.	0	IN	NS	ns3.dns.nic.hbo.
 hbo.	0	IN	DS	22906 8 2 5989d419f8a7d34910c197b7d3701b97ba5505b53f505e885ec1e33c006fe8c2
+hbo.	0	IN	DS	32689 8 2 1ef470b15bc605463552d25b4bef46ae67a79df01c3fc3eefd9ef2eb296fd034
 a.nic.hbo.	0	IN	A	37.209.192.9
 a.nic.hbo.	0	IN	AAAA	2001:dcd:1::9
 b.nic.hbo.	0	IN	A	37.209.194.9
@@ -7718,6 +7775,7 @@ health.	0	IN	NS	ns1.dns.nic.health.
 health.	0	IN	NS	ns2.dns.nic.health.
 health.	0	IN	NS	ns3.dns.nic.health.
 health.	0	IN	DS	6277 8 2 4a5ecb53ae18b611b3345c9549e55e35944fee84f50bc150d8667cf1449dfd06
+health.	0	IN	DS	47641 8 2 b1f415477ad6386eceb54957a181ec70d0b3ccdbc09c5df6dcdd063f69bf0631
 a.nic.health.	0	IN	A	37.209.192.10
 a.nic.health.	0	IN	AAAA	2001:dcd:1::10
 b.nic.health.	0	IN	A	37.209.194.10
@@ -7945,6 +8003,7 @@ homegoods.	0	IN	NS	ns1.dns.nic.homegoods.
 homegoods.	0	IN	NS	ns2.dns.nic.homegoods.
 homegoods.	0	IN	NS	ns3.dns.nic.homegoods.
 homegoods.	0	IN	DS	8509 8 2 ff29069ba0204e904c1ba9407d98664383c7c9d65f4d33008a13042b497c93dd
+homegoods.	0	IN	DS	15460 8 2 f6bbd1fafc2a7ac4b287fb2ec8be0907d52b7a812aa437f4672efe4088454cfb
 a.nic.homegoods.	0	IN	A	37.209.192.9
 a.nic.homegoods.	0	IN	AAAA	2001:dcd:1::9
 b.nic.homegoods.	0	IN	A	37.209.194.9
@@ -7977,6 +8036,7 @@ homesense.	0	IN	NS	c.nic.homesense.
 homesense.	0	IN	NS	ns1.dns.nic.homesense.
 homesense.	0	IN	NS	ns2.dns.nic.homesense.
 homesense.	0	IN	NS	ns3.dns.nic.homesense.
+homesense.	0	IN	DS	4507 8 2 c5400c84ffde26fd2a4ed6374057d876cc46c0b933484f74a352bb1ef953b9a7
 homesense.	0	IN	DS	15379 8 2 78ddb12e13aa6279d368770b09fcacb19f09c88e369372e5b77a294cee3b21e0
 a.nic.homesense.	0	IN	A	37.209.192.9
 a.nic.homesense.	0	IN	AAAA	2001:dcd:1::9
@@ -8001,6 +8061,7 @@ horse.	0	IN	NS	c.nic.horse.
 horse.	0	IN	NS	x.nic.horse.
 horse.	0	IN	NS	y.nic.horse.
 horse.	0	IN	NS	z.nic.horse.
+horse.	0	IN	DS	25741 8 2 04c915e78c75dcb656aef6ce2423935d826c60319a9eae29ac71f9e745c38975
 horse.	0	IN	DS	49330 8 2 6566edc407480e5f0f3d1f31e436bb5321d557e5805704868fca3a59e6042d38
 a.nic.horse.	0	IN	A	37.209.192.10
 a.nic.horse.	0	IN	AAAA	2001:dcd:1::10
@@ -8097,6 +8158,7 @@ hotels.	0	IN	NS	ns1.dns.nic.hotels.
 hotels.	0	IN	NS	ns2.dns.nic.hotels.
 hotels.	0	IN	NS	ns3.dns.nic.hotels.
 hotels.	0	IN	DS	27175 8 2 400f3db76ff23fbe5fbd8faca3695871c6fc5ffa6cf116dea6fccc9e4711ea65
+hotels.	0	IN	DS	51700 8 2 844a568caab77e76130c1551ac820b3a41a3c39f6419ba2411f9e3d3a581765e
 a.nic.hotels.	0	IN	A	37.209.192.10
 a.nic.hotels.	0	IN	AAAA	2001:dcd:1::10
 b.nic.hotels.	0	IN	A	37.209.194.10
@@ -8156,6 +8218,7 @@ hsbc.	0	IN	NS	c.nic.hsbc.
 hsbc.	0	IN	NS	ns1.dns.nic.hsbc.
 hsbc.	0	IN	NS	ns2.dns.nic.hsbc.
 hsbc.	0	IN	NS	ns3.dns.nic.hsbc.
+hsbc.	0	IN	DS	16129 8 2 1e993a683fd63ba6fa436d235eddbb949901975649b11c628dfef8105264ae9d
 hsbc.	0	IN	DS	44836 8 2 89f4241090c6c95e72420b8525e2f2472c6198937cac4d5ed6d1c6d2f4f6de27
 a.nic.hsbc.	0	IN	A	37.209.192.9
 a.nic.hsbc.	0	IN	AAAA	2001:dcd:1::9
@@ -8216,6 +8279,7 @@ hyatt.	0	IN	NS	c.nic.hyatt.
 hyatt.	0	IN	NS	ns1.dns.nic.hyatt.
 hyatt.	0	IN	NS	ns2.dns.nic.hyatt.
 hyatt.	0	IN	NS	ns3.dns.nic.hyatt.
+hyatt.	0	IN	DS	30616 8 2 dbb2cd74e3fd102da5e467f6b4eda7e3d1d110ec2329053f087ea8532c84b897
 hyatt.	0	IN	DS	34852 8 2 b21957ebb857e894b0fc407ac189cbab466804f560ad5815e9d1af829a566424
 a.nic.hyatt.	0	IN	A	37.209.192.9
 a.nic.hyatt.	0	IN	AAAA	2001:dcd:1::9
@@ -8614,6 +8678,7 @@ ink.	0	IN	NS	x.nic.ink.
 ink.	0	IN	NS	y.nic.ink.
 ink.	0	IN	NS	z.nic.ink.
 ink.	0	IN	DS	44809 8 2 f3328d3a8a78e742e5d1e84c641f399e944d62a290651d21dffee632ab6ad01e
+ink.	0	IN	DS	48370 8 2 9ae237cac9d9160455e023b1097161f066c986f9821247dd279b1c84f5163716
 a.nic.ink.	0	IN	A	37.209.192.10
 a.nic.ink.	0	IN	AAAA	2001:dcd:1::10
 b.nic.ink.	0	IN	A	37.209.194.10
@@ -8652,6 +8717,7 @@ insurance.	0	IN	NS	w.nic.insurance.
 insurance.	0	IN	NS	x.nic.insurance.
 insurance.	0	IN	NS	y.nic.insurance.
 insurance.	0	IN	DS	13792 8 2 ea492e4cf1888e2861f9fffaa38a66509c854db6aa41c4db1dfa611ae358b23f
+insurance.	0	IN	DS	17830 8 2 b2969b333e64714f8ea3b5d1d691fe476194ff8c5b67ac78345ece07b77fa20c
 d.nic.insurance.	0	IN	A	156.154.103.22
 d.nic.insurance.	0	IN	AAAA	2610:a1:1010::22
 e.nic.insurance.	0	IN	A	156.154.104.22
@@ -8716,6 +8782,7 @@ intuit.	0	IN	NS	ns4.dns.nic.intuit.
 intuit.	0	IN	NS	ns5.dns.nic.intuit.
 intuit.	0	IN	NS	ns6.dns.nic.intuit.
 intuit.	0	IN	DS	8869 8 2 1a86450877bf7cdcab1715f9b5206a668fd7e21c9d10119f3ce7e6d004287a5d
+intuit.	0	IN	DS	9856 8 2 d826e3abf318055e6e502772d495af5fe336d811e8b841f780114d28479d6f3b
 ns1.dns.nic.intuit.	0	IN	A	156.154.144.82
 ns1.dns.nic.intuit.	0	IN	AAAA	2610:a1:1071::52
 ns2.dns.nic.intuit.	0	IN	A	156.154.145.82
@@ -8766,6 +8833,7 @@ ipiranga.	0	IN	NS	ns3.dns.nic.ipiranga.
 ipiranga.	0	IN	NS	ns4.dns.nic.ipiranga.
 ipiranga.	0	IN	NS	ns5.dns.nic.ipiranga.
 ipiranga.	0	IN	NS	ns6.dns.nic.ipiranga.
+ipiranga.	0	IN	DS	15469 8 2 07072c5f3d4a042e6e13050ca502dbbb6cfdfc20ec03c2407562bcc5e23faa32
 ipiranga.	0	IN	DS	64375 8 2 acf8a18748a01a0dfeea2a9078c2ca53721c508831b9c151db77ae4342065538
 ns1.dns.nic.ipiranga.	0	IN	A	156.154.144.83
 ns1.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1071::53
@@ -8903,6 +8971,7 @@ itau.	0	IN	NS	ns3.dns.nic.itau.
 itau.	0	IN	NS	ns4.dns.nic.itau.
 itau.	0	IN	NS	ns5.dns.nic.itau.
 itau.	0	IN	NS	ns6.dns.nic.itau.
+itau.	0	IN	DS	20974 8 2 255e44d9c42d417ae07b1b92f8bbd5c856f1347b87948b58dc245dcd58fd59b4
 itau.	0	IN	DS	32626 8 2 4abe223f5ad4bdbd1c42de183c76722afeda52267f4166f23483204ad0ce4afb
 ns1.dns.nic.itau.	0	IN	A	156.154.144.84
 ns1.dns.nic.itau.	0	IN	AAAA	2610:a1:1071::54
@@ -9059,6 +9128,7 @@ jmp.	0	IN	NS	c.nic.jmp.
 jmp.	0	IN	NS	ns1.dns.nic.jmp.
 jmp.	0	IN	NS	ns2.dns.nic.jmp.
 jmp.	0	IN	NS	ns3.dns.nic.jmp.
+jmp.	0	IN	DS	8866 8 2 30edbd31093e1a261862822c85d745e0e803d7ba503aa4fbb79d4bb828fc5422
 jmp.	0	IN	DS	30112 8 2 47fcd5889323f70e3346b144d204ba05f601d6b6c56c8c52ac7606f7d14af60c
 a.nic.jmp.	0	IN	A	37.209.192.9
 a.nic.jmp.	0	IN	AAAA	2001:dcd:1::9
@@ -9078,6 +9148,7 @@ jnj.	0	IN	NS	c.nic.jnj.
 jnj.	0	IN	NS	ns1.dns.nic.jnj.
 jnj.	0	IN	NS	ns2.dns.nic.jnj.
 jnj.	0	IN	NS	ns3.dns.nic.jnj.
+jnj.	0	IN	DS	8032 8 2 5cf2a2dfa2b3a5b5c8b3f42bd42290fe5632dc8720b48286573c4aca21fd8c82
 jnj.	0	IN	DS	16897 8 2 8e9740b903122d7dfed99cf66764bbb9b24eabe8b5a3c37bd0d876f47d69956f
 a.nic.jnj.	0	IN	A	37.209.192.9
 a.nic.jnj.	0	IN	AAAA	2001:dcd:1::9
@@ -9207,6 +9278,7 @@ jpmorgan.	0	IN	NS	ns3.dns.nic.jpmorgan.
 jpmorgan.	0	IN	NS	ns4.dns.nic.jpmorgan.
 jpmorgan.	0	IN	NS	ns5.dns.nic.jpmorgan.
 jpmorgan.	0	IN	NS	ns6.dns.nic.jpmorgan.
+jpmorgan.	0	IN	DS	1816 8 2 e41c95d6a3c09199493bc8a48d9d348b0bbb1d4cc33e9333092a510806a35e88
 jpmorgan.	0	IN	DS	3652 8 2 ee3004dfa6162785f6c80c697e79d43f8fe436189a5cd880c971d4cc2870b139
 ns1.dns.nic.jpmorgan.	0	IN	A	156.154.144.92
 ns1.dns.nic.jpmorgan.	0	IN	AAAA	2610:a1:1071::5c
@@ -9401,6 +9473,7 @@ kinder.	0	IN	NS	c.nic.kinder.
 kinder.	0	IN	NS	ns1.dns.nic.kinder.
 kinder.	0	IN	NS	ns2.dns.nic.kinder.
 kinder.	0	IN	NS	ns3.dns.nic.kinder.
+kinder.	0	IN	DS	14149 8 2 e687cb08b8c3f8d5cc5240e873efaefb3efee7e8062604c506c91ae6a0144935
 kinder.	0	IN	DS	41830 8 2 d96f47fb6719215e954c07fa19ea3fa27b698f3cbfdfa8e55a05fd7d9a1cdb19
 a.nic.kinder.	0	IN	A	37.209.192.9
 a.nic.kinder.	0	IN	AAAA	2001:dcd:1::9
@@ -9508,6 +9581,7 @@ kpmg.	0	IN	NS	ns1.dns.nic.kpmg.
 kpmg.	0	IN	NS	ns2.dns.nic.kpmg.
 kpmg.	0	IN	NS	ns3.dns.nic.kpmg.
 kpmg.	0	IN	DS	35407 8 2 9faa34c98dc55567cdb910e3d068d6e6adc6646ae8e1085678d41498c0df9d42
+kpmg.	0	IN	DS	48439 8 2 eba8341ef02c15f59e27e356e637d8dc8c50a0989f015809ad057410663a02d8
 a.nic.kpmg.	0	IN	A	37.209.192.9
 a.nic.kpmg.	0	IN	AAAA	2001:dcd:1::9
 b.nic.kpmg.	0	IN	A	37.209.194.9
@@ -9723,6 +9797,7 @@ lanxess.	0	IN	NS	ns1.dns.nic.lanxess.
 lanxess.	0	IN	NS	ns2.dns.nic.lanxess.
 lanxess.	0	IN	NS	ns3.dns.nic.lanxess.
 lanxess.	0	IN	DS	27220 8 2 e7715a76b9ec7c6f1f6553100bc86f7c705078b27a8aeef20a3cee83a939069f
+lanxess.	0	IN	DS	42049 8 2 8f36c334345a3308d0e6c36974effeb13b3b5c0297a0a76443311a5bf98e01c8
 a.nic.lanxess.	0	IN	A	37.209.192.9
 a.nic.lanxess.	0	IN	AAAA	2001:dcd:1::9
 b.nic.lanxess.	0	IN	A	37.209.194.9
@@ -9802,6 +9877,7 @@ law.	0	IN	NS	x.nic.law.
 law.	0	IN	NS	y.nic.law.
 law.	0	IN	NS	z.nic.law.
 law.	0	IN	DS	16534 8 2 ae36939d5f3629784f63c7cc2e5f7643efd9ef7533a5049420bd067f4eeab51c
+law.	0	IN	DS	42496 8 2 f6daab5f4fc2a7d48c9e97623c3f0d478586fa882732ba0f86c31b291ad2f3f6
 a.nic.law.	0	IN	A	37.209.192.10
 a.nic.law.	0	IN	AAAA	2001:dcd:1::10
 b.nic.law.	0	IN	A	37.209.194.10
@@ -9999,6 +10075,7 @@ lifeinsurance.	0	IN	NS	ns1.dns.nic.lifeinsurance.
 lifeinsurance.	0	IN	NS	ns2.dns.nic.lifeinsurance.
 lifeinsurance.	0	IN	NS	ns3.dns.nic.lifeinsurance.
 lifeinsurance.	0	IN	DS	38941 8 2 e0fb583d29dfe85b4d42ca9b0fc5eb8dacba63a801af5b8515921702d2c3fa29
+lifeinsurance.	0	IN	DS	62002 8 2 478b46d62eb30d95009e07212b7110c1dc20483afeef1754831dc17a72112810
 a.nic.lifeinsurance.	0	IN	A	37.209.192.9
 a.nic.lifeinsurance.	0	IN	AAAA	2001:dcd:1::9
 b.nic.lifeinsurance.	0	IN	A	37.209.194.9
@@ -10066,6 +10143,7 @@ lilly.	0	IN	NS	c.nic.lilly.
 lilly.	0	IN	NS	ns1.dns.nic.lilly.
 lilly.	0	IN	NS	ns2.dns.nic.lilly.
 lilly.	0	IN	NS	ns3.dns.nic.lilly.
+lilly.	0	IN	DS	8122 8 2 5dc5f4586f67fc78f4ecec1e95a5e1a89423dee30a27e5bb43c31ad6a874a556
 lilly.	0	IN	DS	60970 8 2 967d4df30e91fd6e0497c228c18db4fe6c3ef1479ce5428338fe0e746bc412e0
 a.nic.lilly.	0	IN	A	37.209.192.9
 a.nic.lilly.	0	IN	AAAA	2001:dcd:1::9
@@ -10124,6 +10202,7 @@ lincoln.	0	IN	NS	ns1.dns.nic.lincoln.
 lincoln.	0	IN	NS	ns2.dns.nic.lincoln.
 lincoln.	0	IN	NS	ns3.dns.nic.lincoln.
 lincoln.	0	IN	DS	3661 8 2 d29f19155fe9e20ae5a9fa1e1dea7dc1bada5d04f1ff458e8c14fcdf088acab1
+lincoln.	0	IN	DS	10597 8 2 54eeb8f5a01779190a418a0baa75372c8b84fc313188b03db43e2fae379f133f
 a.nic.lincoln.	0	IN	A	37.209.192.9
 a.nic.lincoln.	0	IN	AAAA	2001:dcd:1::9
 b.nic.lincoln.	0	IN	A	37.209.194.9
@@ -10239,6 +10318,7 @@ loan.	0	IN	NS	ns1.dns.nic.loan.
 loan.	0	IN	NS	ns2.dns.nic.loan.
 loan.	0	IN	NS	ns3.dns.nic.loan.
 loan.	0	IN	DS	32044 8 2 4263def7bad2257b9020e8887811109cb097fe253bdb6cdcfa2c1f95ee136979
+loan.	0	IN	DS	61084 8 2 88742b97e99cee43c1c901233a2a21779dc101ec43cf28c287cdd6509b3d7401
 a.nic.loan.	0	IN	A	37.209.192.10
 a.nic.loan.	0	IN	AAAA	2001:dcd:1::10
 b.nic.loan.	0	IN	A	37.209.194.10
@@ -10494,6 +10574,7 @@ luxe.	0	IN	NS	x.nic.luxe.
 luxe.	0	IN	NS	y.nic.luxe.
 luxe.	0	IN	NS	z.nic.luxe.
 luxe.	0	IN	DS	36439 8 2 5795a4998940987917475ae83f6f49b1fea576cac1203c449e9c8a3ede316785
+luxe.	0	IN	DS	39844 8 2 195b8fcf70c5028b4c75368ee18a455caeb9330c8bb85141c4f071fb94833a40
 a.nic.luxe.	0	IN	A	37.209.192.10
 a.nic.luxe.	0	IN	AAAA	2001:dcd:1::10
 b.nic.luxe.	0	IN	A	37.209.194.10
@@ -10723,6 +10804,7 @@ marshalls.	0	IN	NS	ns1.dns.nic.marshalls.
 marshalls.	0	IN	NS	ns2.dns.nic.marshalls.
 marshalls.	0	IN	NS	ns3.dns.nic.marshalls.
 marshalls.	0	IN	DS	33055 8 2 5202ea0f1adf8fa9a0fdb1ebd7b3da0ad6274731623eb7e6ed2012f47678e413
+marshalls.	0	IN	DS	53986 8 2 c616816a6077bd3e6e38bc929c17e557dede9db0e541cdf3a196d699eaae729a
 a.nic.marshalls.	0	IN	A	37.209.192.9
 a.nic.marshalls.	0	IN	AAAA	2001:dcd:1::9
 b.nic.marshalls.	0	IN	A	37.209.194.9
@@ -10742,6 +10824,7 @@ mattel.	0	IN	NS	ns1.dns.nic.mattel.
 mattel.	0	IN	NS	ns2.dns.nic.mattel.
 mattel.	0	IN	NS	ns3.dns.nic.mattel.
 mattel.	0	IN	DS	59044 8 2 66f510d9469e77ae174bea4f42e1215afd837c2a27c9f0095bbbc3a3e2ba4ca4
+mattel.	0	IN	DS	64621 8 2 340d9cbb6a30cc146d7cda72f89d3ae7b4f634eca0fcf53d84586d13be35fc14
 a.nic.mattel.	0	IN	A	37.209.192.9
 a.nic.mattel.	0	IN	AAAA	2001:dcd:1::9
 b.nic.mattel.	0	IN	A	37.209.194.9
@@ -10881,6 +10964,7 @@ melbourne.	0	IN	NS	x.nic.melbourne.
 melbourne.	0	IN	NS	y.nic.melbourne.
 melbourne.	0	IN	NS	z.nic.melbourne.
 melbourne.	0	IN	DS	3487 8 2 a1b0b1ca0f068e57760b7a4183de3620eb0be059006f36d07fed827424f89589
+melbourne.	0	IN	DS	17374 8 2 6d9aaf608c610bea2a8ce99b8870e02e7ec8cd2a8c1a76d363cd813a682f5513
 a.nic.melbourne.	0	IN	A	37.209.192.10
 a.nic.melbourne.	0	IN	AAAA	2001:dcd:1::10
 b.nic.melbourne.	0	IN	A	37.209.194.10
@@ -10925,6 +11009,7 @@ men.	0	IN	NS	x.nic.men.
 men.	0	IN	NS	y.nic.men.
 men.	0	IN	NS	z.nic.men.
 men.	0	IN	DS	21250 8 2 6c3f496f5f6ada95799145c17fb84c995554114a8e2a77d27c58d7f383c9407f
+men.	0	IN	DS	43840 8 2 f2ab9162a3125ee62726c0782da179d9a6ea14d948ccf416c2c6cb2e7122a70f
 a.nic.men.	0	IN	A	37.209.192.10
 a.nic.men.	0	IN	AAAA	2001:dcd:1::10
 b.nic.men.	0	IN	A	37.209.194.10
@@ -10980,6 +11065,7 @@ miami.	0	IN	NS	c.nic.miami.
 miami.	0	IN	NS	x.nic.miami.
 miami.	0	IN	NS	y.nic.miami.
 miami.	0	IN	NS	z.nic.miami.
+miami.	0	IN	DS	12679 8 2 4b9f71133648b60be8d6d6742a698e1e6cc62b84ec278f643824690735549056
 miami.	0	IN	DS	19654 8 2 8f63985ad288d934e94263f9cea1f58734eda5b75b35bcb9ca39b3038bfc03aa
 a.nic.miami.	0	IN	A	37.209.192.10
 a.nic.miami.	0	IN	AAAA	2001:dcd:1::10
@@ -11037,6 +11123,7 @@ mint.	0	IN	NS	ns3.dns.nic.mint.
 mint.	0	IN	NS	ns4.dns.nic.mint.
 mint.	0	IN	NS	ns5.dns.nic.mint.
 mint.	0	IN	NS	ns6.dns.nic.mint.
+mint.	0	IN	DS	20665 8 2 61e6470c8593c69e908195db6d54f96e47bbfd80e61fa706e4263afc6ac810a6
 mint.	0	IN	DS	24670 8 2 872536426335ac76542dd46851ae59fdbc13e1f33e8a5c49193ff5a70bda6fdc
 ns1.dns.nic.mint.	0	IN	A	156.154.144.112
 ns1.dns.nic.mint.	0	IN	AAAA	2610:a1:1071::70
@@ -11091,6 +11178,7 @@ mlb.	0	IN	NS	ns1.dns.nic.mlb.
 mlb.	0	IN	NS	ns2.dns.nic.mlb.
 mlb.	0	IN	NS	ns3.dns.nic.mlb.
 mlb.	0	IN	DS	4324 8 2 88b16b31916a70182f0809393aa481af43c61350734e0d1e8107ea8cf2348b83
+mlb.	0	IN	DS	8650 8 2 218d67dc41c6696c577288447524e3588673894ac178ab6ec2d0f3c1fda09a9e
 a.nic.mlb.	0	IN	A	37.209.192.9
 a.nic.mlb.	0	IN	AAAA	2001:dcd:1::9
 b.nic.mlb.	0	IN	A	37.209.194.9
@@ -11206,6 +11294,7 @@ moe.	0	IN	NS	ns1.dns.nic.moe.
 moe.	0	IN	NS	ns2.dns.nic.moe.
 moe.	0	IN	NS	ns3.dns.nic.moe.
 moe.	0	IN	DS	8980 8 2 0107dd039f8bd0049a6803271a15d71793a5234eef881013701e481774a8ba19
+moe.	0	IN	DS	32761 8 2 ea6de3f9a962ab77bb96daf62bec88d0f580fc31799ec36ff7da697de8535af6
 a.nic.moe.	0	IN	A	37.209.192.10
 a.nic.moe.	0	IN	AAAA	2001:dcd:1::10
 b.nic.moe.	0	IN	A	37.209.194.10
@@ -11352,6 +11441,7 @@ moto.	0	IN	NS	ns3.dns.nic.moto.
 moto.	0	IN	NS	ns4.dns.nic.moto.
 moto.	0	IN	NS	ns5.dns.nic.moto.
 moto.	0	IN	NS	ns6.dns.nic.moto.
+moto.	0	IN	DS	5671 8 2 6c1c11faaa1afb7c6198f3cd2bad469e9c0e5d1d714189a4992699093440d97c
 moto.	0	IN	DS	10705 8 2 a039b06852099a6b4e7eafe4f4187f6d3b5747953413ce454ead9a4576301c5f
 ns1.dns.nic.moto.	0	IN	A	156.154.169.81
 ns1.dns.nic.moto.	0	IN	AAAA	2610:a1:1071::1:51
@@ -11622,6 +11712,7 @@ nba.	0	IN	NS	c.nic.nba.
 nba.	0	IN	NS	ns1.dns.nic.nba.
 nba.	0	IN	NS	ns2.dns.nic.nba.
 nba.	0	IN	NS	ns3.dns.nic.nba.
+nba.	0	IN	DS	4090 8 2 3d0d5884f22c76c902bee260c65c47057bbbf5544d83ce01681a756b3c220955
 nba.	0	IN	DS	59911 8 2 734021820d7b1fdeb0567389bcb05a0f47df5f2a0f156d6e9177a9edcb6a8716
 a.nic.nba.	0	IN	A	37.209.192.9
 a.nic.nba.	0	IN	AAAA	2001:dcd:1::9
@@ -12060,6 +12151,7 @@ netflix.	0	IN	NS	ns4.dns.nic.netflix.
 netflix.	0	IN	NS	ns5.dns.nic.netflix.
 netflix.	0	IN	NS	ns6.dns.nic.netflix.
 netflix.	0	IN	DS	27637 8 2 7aba17bd5b87aa5d31cb611e0dfd4c67d926b6cfc68b8aeca58c468b104cc2e6
+netflix.	0	IN	DS	35611 8 2 37bd4f2e02f06306f0c4eb146ebd289cf83b91824b1320a6332aab7b14f33462
 ns1.dns.nic.netflix.	0	IN	A	156.154.144.121
 ns1.dns.nic.netflix.	0	IN	AAAA	2610:a1:1071::79
 ns2.dns.nic.netflix.	0	IN	A	156.154.145.121
@@ -12098,6 +12190,7 @@ neustar.	0	IN	NS	ns4.dns.nic.neustar.
 neustar.	0	IN	NS	ns5.dns.nic.neustar.
 neustar.	0	IN	NS	ns6.dns.nic.neustar.
 neustar.	0	IN	DS	32962 8 2 9bc1d8d086284962e03fa43ae37ac80f2d784218cea1ef02b322220f5e15cafe
+neustar.	0	IN	DS	65215 8 2 ae5583bdfcf0307df227ff8c2916527da34d91c92d69835a87302b41d8284c7d
 a.nic.neustar.	0	IN	A	37.209.192.9
 a.nic.neustar.	0	IN	AAAA	2001:dcd:1::9
 b.nic.neustar.	0	IN	A	37.209.194.9
@@ -12179,6 +12272,7 @@ nfl.	0	IN	NS	ns3.dns.nic.nfl.
 nfl.	0	IN	NS	ns4.dns.nic.nfl.
 nfl.	0	IN	NS	ns5.dns.nic.nfl.
 nfl.	0	IN	NS	ns6.dns.nic.nfl.
+nfl.	0	IN	DS	7234 8 2 ec15a3b4d86192561c46bc1ebb72aa65bf5bf9c9d07a32ee736157ebadd447bb
 nfl.	0	IN	DS	52009 8 2 4f703d96f3eb2e4621c5176905407ceac4aef4cfa8409791afc2b20bdf4efb2a
 ns1.dns.nic.nfl.	0	IN	A	156.154.144.122
 ns1.dns.nic.nfl.	0	IN	AAAA	2610:a1:1071::7a
@@ -12251,6 +12345,7 @@ nike.	0	IN	NS	ns1.dns.nic.nike.
 nike.	0	IN	NS	ns2.dns.nic.nike.
 nike.	0	IN	NS	ns3.dns.nic.nike.
 nike.	0	IN	DS	4354 8 2 ff4031cf9735b318fdbe43b2ee7465b3911499f59bb3b0c420af4ed92a494276
+nike.	0	IN	DS	37330 8 2 da781b878eaaedd5cb777c550671e970be256f4681f2f8b7aca6b823cea32898
 a.nic.nike.	0	IN	A	37.209.192.9
 a.nic.nike.	0	IN	AAAA	2001:dcd:1::9
 b.nic.nike.	0	IN	A	37.209.194.9
@@ -12479,6 +12574,7 @@ nyc.	0	IN	NS	c.nic.nyc.
 nyc.	0	IN	NS	ns1.dns.nic.nyc.
 nyc.	0	IN	NS	ns2.dns.nic.nyc.
 nyc.	0	IN	NS	ns3.dns.nic.nyc.
+nyc.	0	IN	DS	12721 8 2 37f945f2d915698dcda12f80c7306150223270f78ec1d96fffeb163a2b1eac22
 nyc.	0	IN	DS	12811 8 2 a5f2ec128186e5ba7f44ae789ed94f96e32811a68407d40e7073e2a58e8a1341
 a.nic.nyc.	0	IN	A	37.209.192.10
 a.nic.nyc.	0	IN	AAAA	2001:dcd:1::10
@@ -12559,6 +12655,7 @@ office.	0	IN	NS	ns1.dns.nic.office.
 office.	0	IN	NS	ns2.dns.nic.office.
 office.	0	IN	NS	ns3.dns.nic.office.
 office.	0	IN	DS	6562 8 2 dbfb7bbbf0bed181cf7797bee3565a527b9d4746148ad3b2b835ecd1531ba925
+office.	0	IN	DS	9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
 a.nic.office.	0	IN	A	37.209.192.9
 a.nic.office.	0	IN	AAAA	2001:dcd:1::9
 b.nic.office.	0	IN	A	37.209.194.9
@@ -12620,6 +12717,7 @@ oldnavy.	0	IN	NS	c.nic.oldnavy.
 oldnavy.	0	IN	NS	ns1.dns.nic.oldnavy.
 oldnavy.	0	IN	NS	ns2.dns.nic.oldnavy.
 oldnavy.	0	IN	NS	ns3.dns.nic.oldnavy.
+oldnavy.	0	IN	DS	43291 8 2 c1b93f6a8ac42f2f15dbb3c74af29e6f32e5a59d330f84e761a895eca3371914
 oldnavy.	0	IN	DS	61489 8 2 69b39a1fe5ad03f2a8494d74f48b0d7330e074c529f86cc1988456a8e2c83e2b
 a.nic.oldnavy.	0	IN	A	37.209.192.9
 a.nic.oldnavy.	0	IN	AAAA	2001:dcd:1::9
@@ -12747,6 +12845,7 @@ open.	0	IN	NS	c.nic.open.
 open.	0	IN	NS	ns1.dns.nic.open.
 open.	0	IN	NS	ns2.dns.nic.open.
 open.	0	IN	NS	ns3.dns.nic.open.
+open.	0	IN	DS	31069 8 2 62311a119e0f3920060a74f5347b9a7a3ddf121b060690ad92487970238d555b
 open.	0	IN	DS	37351 8 2 a7c742af4b9a5c8f40c652ab5438e4107599c7f5b052fbf6588fd1cd79c9ca78
 a.nic.open.	0	IN	A	37.209.192.9
 a.nic.open.	0	IN	AAAA	2001:dcd:1::9
@@ -12878,6 +12977,7 @@ osaka.	0	IN	NS	c.nic.osaka.
 osaka.	0	IN	NS	ns1.dns.nic.osaka.
 osaka.	0	IN	NS	ns2.dns.nic.osaka.
 osaka.	0	IN	NS	ns3.dns.nic.osaka.
+osaka.	0	IN	DS	49957 8 2 7e2477a5bcb64b013ba654f6efb43c6478dc172d05463cd8c43c2dd7187e9b2d
 osaka.	0	IN	DS	50221 8 2 90146b6e89fb883144f08a93233f7265086d9e43728ee1c2739f5c3b6d00f9fc
 a.nic.osaka.	0	IN	A	37.209.192.10
 a.nic.osaka.	0	IN	AAAA	2001:dcd:1::10
@@ -12992,6 +13092,7 @@ party.	0	IN	NS	c.nic.party.
 party.	0	IN	NS	ns1.dns.nic.party.
 party.	0	IN	NS	ns2.dns.nic.party.
 party.	0	IN	NS	ns3.dns.nic.party.
+party.	0	IN	DS	55099 8 2 32ad9fd70ad1f66e62f19686f8dceeed1b5ebfea2caf73b68d7903cf3321ee77
 party.	0	IN	DS	64246 8 2 11a853aee57ebcc64d5260df6a693f26aa144d4777ebe306f83a886a48f6cdec
 a.nic.party.	0	IN	A	37.209.192.10
 a.nic.party.	0	IN	AAAA	2001:dcd:1::10
@@ -13075,6 +13176,7 @@ pfizer.	0	IN	NS	ns1.dns.nic.pfizer.
 pfizer.	0	IN	NS	ns2.dns.nic.pfizer.
 pfizer.	0	IN	NS	ns3.dns.nic.pfizer.
 pfizer.	0	IN	DS	46210 8 2 9166664240f37692a3886b0566e05220d43a364b2fef2581a905ef5833414bcb
+pfizer.	0	IN	DS	56779 8 2 1de9b797ab28f75b9c00723c2308abcaea91bcee49eb2a4470efc123613802c6
 a.nic.pfizer.	0	IN	A	37.209.192.9
 a.nic.pfizer.	0	IN	AAAA	2001:dcd:1::9
 b.nic.pfizer.	0	IN	A	37.209.194.9
@@ -13323,6 +13425,7 @@ ping.	0	IN	NS	ns1.dns.nic.ping.
 ping.	0	IN	NS	ns2.dns.nic.ping.
 ping.	0	IN	NS	ns3.dns.nic.ping.
 ping.	0	IN	DS	17914 8 2 128d6bf21796bcdb0997673c07ca67cbdec3a09339034f311b1fecab03391a6d
+ping.	0	IN	DS	46066 8 2 cb8f8034ee1d5b500bee462544a6a5211cc96b42833e17ea568345937a07e7d8
 a.nic.ping.	0	IN	A	37.209.192.9
 a.nic.ping.	0	IN	AAAA	2001:dcd:1::9
 b.nic.ping.	0	IN	A	37.209.194.9
@@ -13570,6 +13673,7 @@ porn.	0	IN	NS	x.nic.porn.
 porn.	0	IN	NS	y.nic.porn.
 porn.	0	IN	NS	z.nic.porn.
 porn.	0	IN	DS	3196 8 2 6b2d8feea5a23845e6934f5639d4055639d7b8d1fac4b5c19c7e5cd45745344d
+porn.	0	IN	DS	53866 8 2 6fc2a5cc5949b5300aa6bdfdd041d34ba5ab08604f22f7b3e34654fb22f89b68
 a.nic.porn.	0	IN	A	37.209.192.10
 a.nic.porn.	0	IN	AAAA	2001:dcd:1::10
 b.nic.porn.	0	IN	A	37.209.194.10
@@ -13604,6 +13708,7 @@ pramerica.	0	IN	NS	c.nic.pramerica.
 pramerica.	0	IN	NS	ns1.dns.nic.pramerica.
 pramerica.	0	IN	NS	ns2.dns.nic.pramerica.
 pramerica.	0	IN	NS	ns3.dns.nic.pramerica.
+pramerica.	0	IN	DS	22411 8 2 55e42f1140c47ca9a71e1306d0487e31dca919961409e9121765627e563fdb3c
 pramerica.	0	IN	DS	42634 8 2 34c29e72afde2f27194a21e6d5c9e91ac44b5c04328d7fade36c026c18c118ea
 a.nic.pramerica.	0	IN	A	37.209.192.9
 a.nic.pramerica.	0	IN	AAAA	2001:dcd:1::9
@@ -13623,6 +13728,7 @@ praxi.	0	IN	NS	c.nic.praxi.
 praxi.	0	IN	NS	ns1.dns.nic.praxi.
 praxi.	0	IN	NS	ns2.dns.nic.praxi.
 praxi.	0	IN	NS	ns3.dns.nic.praxi.
+praxi.	0	IN	DS	19099 8 2 3e39236609363ba83713bbabff24b95fc7774a6532d68b3f8d7766be5c7054f3
 praxi.	0	IN	DS	56446 8 2 b6eb17a0657c338c939960a1b134af133254bb756d7211cb3d9aa4dcd2495656
 a.nic.praxi.	0	IN	A	37.209.192.9
 a.nic.praxi.	0	IN	AAAA	2001:dcd:1::9
@@ -13783,6 +13889,7 @@ pru.	0	IN	NS	c.nic.pru.
 pru.	0	IN	NS	ns1.dns.nic.pru.
 pru.	0	IN	NS	ns2.dns.nic.pru.
 pru.	0	IN	NS	ns3.dns.nic.pru.
+pru.	0	IN	DS	54559 8 2 e38aaf4292647d64678f4e3819b5658570e058abbf7f60bae7a57c5369adcf73
 pru.	0	IN	DS	60964 8 2 97a2de7c9e4880f5f4528c07d2446e93ecf03289b85a8b79ac9355914b18e957
 a.nic.pru.	0	IN	A	37.209.192.9
 a.nic.pru.	0	IN	AAAA	2001:dcd:1::9
@@ -13802,6 +13909,7 @@ prudential.	0	IN	NS	c.nic.prudential.
 prudential.	0	IN	NS	ns1.dns.nic.prudential.
 prudential.	0	IN	NS	ns2.dns.nic.prudential.
 prudential.	0	IN	NS	ns3.dns.nic.prudential.
+prudential.	0	IN	DS	3886 8 2 09ed8ddd91ad3b14c9a4ea598b9a0a94e8d3f7fd1efc789f92002ad74372fdf8
 prudential.	0	IN	DS	60835 8 2 c69dabd2cf3d79d968533bfc2cdb13a20ed9792260f42de04bdaa6925ae9a4a1
 a.nic.prudential.	0	IN	A	37.209.192.9
 a.nic.prudential.	0	IN	AAAA	2001:dcd:1::9
@@ -13985,6 +14093,7 @@ racing.	0	IN	NS	c.nic.racing.
 racing.	0	IN	NS	ns1.dns.nic.racing.
 racing.	0	IN	NS	ns2.dns.nic.racing.
 racing.	0	IN	NS	ns3.dns.nic.racing.
+racing.	0	IN	DS	20812 8 2 d4e4ddb66cb7cd6a1a4faca0007e3735421edca637c767beef02d01a15d928d5
 racing.	0	IN	DS	57100 8 2 048874afa57ae916c96b9b8f92ca789e5750512cdfd1f153c1f71ed26053e7b4
 a.nic.racing.	0	IN	A	37.209.192.10
 a.nic.racing.	0	IN	AAAA	2001:dcd:1::10
@@ -14383,6 +14492,7 @@ review.	0	IN	NS	ns1.dns.nic.review.
 review.	0	IN	NS	ns2.dns.nic.review.
 review.	0	IN	NS	ns3.dns.nic.review.
 review.	0	IN	DS	27040 8 2 3a9d7b6cf7a12550c281a6ffc5b376b7c93972d8b7607d2c726bbd351d4803d5
+review.	0	IN	DS	55054 8 2 93642d0425c1357dbb5f42be8cfef153324b22d81ee82cef8034541d360ebb52
 a.nic.review.	0	IN	A	37.209.192.10
 a.nic.review.	0	IN	AAAA	2001:dcd:1::10
 b.nic.review.	0	IN	A	37.209.194.10
@@ -14521,6 +14631,7 @@ rocher.	0	IN	NS	ns1.dns.nic.rocher.
 rocher.	0	IN	NS	ns2.dns.nic.rocher.
 rocher.	0	IN	NS	ns3.dns.nic.rocher.
 rocher.	0	IN	DS	13024 8 2 0d2b1343a7cd4a96e7631a8a362ed2758ccc2fe719953e466015dde7b098ae06
+rocher.	0	IN	DS	41032 8 2 a5473a95ba6fb68769afee049ee37ab57fe8411c8d78e9d71e61481c54fc9c45
 a.nic.rocher.	0	IN	A	37.209.192.9
 a.nic.rocher.	0	IN	AAAA	2001:dcd:1::9
 b.nic.rocher.	0	IN	A	37.209.194.9
@@ -14558,6 +14669,7 @@ rodeo.	0	IN	NS	c.nic.rodeo.
 rodeo.	0	IN	NS	x.nic.rodeo.
 rodeo.	0	IN	NS	y.nic.rodeo.
 rodeo.	0	IN	NS	z.nic.rodeo.
+rodeo.	0	IN	DS	16639 8 2 75b8726a0f8b07d958ff6e8ef2eb31ad19650920865eba6382171422b3bfcdc0
 rodeo.	0	IN	DS	28669 8 2 beefb4208acee98d66cf5bf93dd9841ac55efa98b003cfe13ff4201e3f8ec300
 a.nic.rodeo.	0	IN	A	37.209.192.10
 a.nic.rodeo.	0	IN	AAAA	2001:dcd:1::10
@@ -14647,6 +14759,7 @@ rugby.	0	IN	NS	c.nic.rugby.
 rugby.	0	IN	NS	x.nic.rugby.
 rugby.	0	IN	NS	y.nic.rugby.
 rugby.	0	IN	NS	z.nic.rugby.
+rugby.	0	IN	DS	30334 8 2 ab547a2f87369f8141bc75216586a4ba1e1d9ed416660aa5d46a8c243061e53d
 rugby.	0	IN	DS	62356 8 2 df8506247c16ff7ee32eb239208b60960639af729379a13c135c52d606e8520d
 a.nic.rugby.	0	IN	A	37.209.192.10
 a.nic.rugby.	0	IN	AAAA	2001:dcd:1::10
@@ -14792,6 +14905,7 @@ safety.	0	IN	NS	ns1.dns.nic.safety.
 safety.	0	IN	NS	ns2.dns.nic.safety.
 safety.	0	IN	NS	ns3.dns.nic.safety.
 safety.	0	IN	DS	17254 8 2 f76c51279bbd1c4525d952e5d1df46daac5cf3adbc56d772fc1e85983e05e273
+safety.	0	IN	DS	43762 8 2 bf2d17c54e9dde52eb37f0d242a1c4c1051e15c18a2c2661c7a6ca58ee6c0407
 a.nic.safety.	0	IN	A	37.209.192.10
 a.nic.safety.	0	IN	AAAA	2001:dcd:1::10
 b.nic.safety.	0	IN	A	37.209.194.10
@@ -14950,6 +15064,7 @@ sas.	0	IN	NS	ns1.dns.nic.sas.
 sas.	0	IN	NS	ns2.dns.nic.sas.
 sas.	0	IN	NS	ns3.dns.nic.sas.
 sas.	0	IN	DS	20119 8 2 245081f2a99002cfba295d87b98465b3b4a2df0023364e577292c15103fcc0a4
+sas.	0	IN	DS	55987 8 2 75e65d4917a0980aa1cccc56b99c58c86a5a2d62efee4d1de37f672ac7ae8e7b
 a.nic.sas.	0	IN	A	37.209.192.9
 a.nic.sas.	0	IN	AAAA	2001:dcd:1::9
 b.nic.sas.	0	IN	A	37.209.194.9
@@ -15167,6 +15282,7 @@ science.	0	IN	NS	c.nic.science.
 science.	0	IN	NS	ns1.dns.nic.science.
 science.	0	IN	NS	ns2.dns.nic.science.
 science.	0	IN	NS	ns3.dns.nic.science.
+science.	0	IN	DS	10030 8 2 0e676daba7fa8c847f77c358db1f7fe17b6a1423b4c48e3952190446b9affb07
 science.	0	IN	DS	49186 8 2 6712663d49aa8efcb6c832b978feb020f0ebbb05b16058c64ef387f4c24de401
 a.nic.science.	0	IN	A	37.209.192.10
 a.nic.science.	0	IN	AAAA	2001:dcd:1::10
@@ -15308,6 +15424,7 @@ select.	0	IN	NS	c.nic.select.
 select.	0	IN	NS	x.nic.select.
 select.	0	IN	NS	y.nic.select.
 select.	0	IN	NS	z.nic.select.
+select.	0	IN	DS	44725 8 2 5ee0dcf207475272e3d80571d3454d3eee5753f3d71a102b58d38d14937eacc2
 select.	0	IN	DS	63907 8 2 67ffd642d56c519c3a3f78f2396dcc30d237a0cd5f5a32ddff33834128698472
 a.nic.select.	0	IN	A	37.209.192.9
 a.nic.select.	0	IN	AAAA	2001:dcd:1::9
@@ -15384,6 +15501,7 @@ sex.	0	IN	NS	c.nic.sex.
 sex.	0	IN	NS	x.nic.sex.
 sex.	0	IN	NS	y.nic.sex.
 sex.	0	IN	NS	z.nic.sex.
+sex.	0	IN	DS	27487 8 2 e7625e71a6bc32bf10d612ba2d17e02e62641a5293100a82f389ca415cc71bfc
 sex.	0	IN	DS	53905 8 2 1bc21cfa8ce05af75007ae4e83667dc97eb6939b9253cbaa0d124c18d49f09d6
 a.nic.sex.	0	IN	A	37.209.192.10
 a.nic.sex.	0	IN	AAAA	2001:dcd:1::10
@@ -15763,6 +15881,7 @@ skype.	0	IN	NS	ns1.dns.nic.skype.
 skype.	0	IN	NS	ns2.dns.nic.skype.
 skype.	0	IN	NS	ns3.dns.nic.skype.
 skype.	0	IN	DS	4519 8 2 fd50adcd586d68b58ad4081bfa7566e3e438f0cbe991ceed726ad4485b62d97b
+skype.	0	IN	DS	56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
 a.nic.skype.	0	IN	A	37.209.192.9
 a.nic.skype.	0	IN	AAAA	2001:dcd:1::9
 b.nic.skype.	0	IN	A	37.209.194.9
@@ -15969,6 +16088,7 @@ song.	0	IN	NS	c.nic.song.
 song.	0	IN	NS	ns1.dns.nic.song.
 song.	0	IN	NS	ns2.dns.nic.song.
 song.	0	IN	NS	ns3.dns.nic.song.
+song.	0	IN	DS	40012 8 2 9490b716f1dc3bf325e846595c3511f0dc8b3f5149a7664e53671256fda4c6fb
 song.	0	IN	DS	64366 8 2 68d1d29041b564b8582f81d7409d912122ac68e2e23bf9167f3135621790fb71
 a.nic.song.	0	IN	A	37.209.192.10
 a.nic.song.	0	IN	AAAA	2001:dcd:1::10
@@ -16100,6 +16220,7 @@ staples.	0	IN	NS	c.nic.staples.
 staples.	0	IN	NS	ns1.dns.nic.staples.
 staples.	0	IN	NS	ns2.dns.nic.staples.
 staples.	0	IN	NS	ns3.dns.nic.staples.
+staples.	0	IN	DS	23296 8 2 ec6e9a376b2a1274d837a25381dfb539f1404eada456c15b7258074517bdddd8
 staples.	0	IN	DS	35455 8 2 632af1f936fb38d84fced84eaace443d47d287f3346e8cd4c456d8db70efcf72
 a.nic.staples.	0	IN	A	37.209.192.9
 a.nic.staples.	0	IN	AAAA	2001:dcd:1::9
@@ -16145,6 +16266,7 @@ statefarm.	0	IN	NS	c.nic.statefarm.
 statefarm.	0	IN	NS	ns1.dns.nic.statefarm.
 statefarm.	0	IN	NS	ns2.dns.nic.statefarm.
 statefarm.	0	IN	NS	ns3.dns.nic.statefarm.
+statefarm.	0	IN	DS	56986 8 2 f07e46d54c6ab0b5d79da353ce0bf2f58446572728c2823ad964f6ec50b99af5
 statefarm.	0	IN	DS	64867 8 2 1ed8a8c0e5102a11cc8659d9d0543ea7ef5f44b63d553a4aa78d46d398ff5356
 a.nic.statefarm.	0	IN	A	37.209.192.9
 a.nic.statefarm.	0	IN	AAAA	2001:dcd:1::9
@@ -16234,6 +16356,7 @@ stream.	0	IN	NS	ns1.dns.nic.stream.
 stream.	0	IN	NS	ns2.dns.nic.stream.
 stream.	0	IN	NS	ns3.dns.nic.stream.
 stream.	0	IN	DS	5689 8 2 6b26a93e218e96c47e1e3984823bde21105bfeb4ea6d0cd82e144e24d5d2a0e0
+stream.	0	IN	DS	31735 8 2 b6a0ac51c5711a40b336884ea349544e664814376c82cf270336799225a7fd99
 a.nic.stream.	0	IN	A	37.209.192.10
 a.nic.stream.	0	IN	AAAA	2001:dcd:1::10
 b.nic.stream.	0	IN	A	37.209.194.10
@@ -16272,6 +16395,7 @@ study.	0	IN	NS	x.nic.study.
 study.	0	IN	NS	y.nic.study.
 study.	0	IN	NS	z.nic.study.
 study.	0	IN	DS	52297 8 2 d306e55ce201ddd1ea5fd896b2fa4389a25f3b9d71e2f91076b65552d421acff
+study.	0	IN	DS	61795 8 2 4b9e5e4b221d060c3da6b8cf0cbe64e526c00ed82ce0d634e52a22ab4d1602cb
 a.nic.study.	0	IN	A	37.209.192.10
 a.nic.study.	0	IN	AAAA	2001:dcd:1::10
 b.nic.study.	0	IN	A	37.209.194.10
@@ -16392,6 +16516,7 @@ surf.	0	IN	NS	x.nic.surf.
 surf.	0	IN	NS	y.nic.surf.
 surf.	0	IN	NS	z.nic.surf.
 surf.	0	IN	DS	42349 8 2 f4d78e449d9bf4c11668df78a7a3f5747797ef8dc5304270ef0574716c0c803c
+surf.	0	IN	DS	54106 8 2 62e4b7017888f8ebe2231145a20d9378419290f0aba9c5d561afcbd1ec92d176
 a.nic.surf.	0	IN	A	37.209.192.10
 a.nic.surf.	0	IN	AAAA	2001:dcd:1::10
 b.nic.surf.	0	IN	A	37.209.194.10
@@ -16473,6 +16598,7 @@ sydney.	0	IN	NS	x.nic.sydney.
 sydney.	0	IN	NS	y.nic.sydney.
 sydney.	0	IN	NS	z.nic.sydney.
 sydney.	0	IN	DS	38014 8 2 a5cd19204ca09e64b3a91aa6bf40955e4b7553cf8f288b15d4ce93b4a0b428be
+sydney.	0	IN	DS	56155 8 2 6f8bec880cb37266b04e5b34a8a61238404ddca2ac3efcfd47bf641e650d3d78
 a.nic.sydney.	0	IN	A	37.209.192.10
 a.nic.sydney.	0	IN	AAAA	2001:dcd:1::10
 b.nic.sydney.	0	IN	A	37.209.194.10
@@ -16534,6 +16660,7 @@ taipei.	0	IN	NS	c.nic.taipei.
 taipei.	0	IN	NS	ns1.dns.nic.taipei.
 taipei.	0	IN	NS	ns2.dns.nic.taipei.
 taipei.	0	IN	NS	ns3.dns.nic.taipei.
+taipei.	0	IN	DS	28855 8 2 6af00fb1eb9ce9f7b6da427e29c32bfae5b605aef733affd9de17f150a099bb2
 taipei.	0	IN	DS	45859 8 2 1d7533b060b299291e2c060fe110169784881081bbc7738aa4b7a774f4dc4746
 a.nic.taipei.	0	IN	A	37.209.192.10
 a.nic.taipei.	0	IN	AAAA	2001:dcd:1::10
@@ -16591,6 +16718,7 @@ target.	0	IN	NS	c.nic.target.
 target.	0	IN	NS	ns1.dns.nic.target.
 target.	0	IN	NS	ns2.dns.nic.target.
 target.	0	IN	NS	ns3.dns.nic.target.
+target.	0	IN	DS	63634 8 2 c16dcd3729fce936b4ff2021e1d2409499fc85c4934137249ef7b5288807aea4
 target.	0	IN	DS	64351 8 2 0168137c6e180963663c74f30e4b581847c1d17e674b59aa1cb2c76d671d5ed3
 a.nic.target.	0	IN	A	37.209.192.9
 a.nic.target.	0	IN	AAAA	2001:dcd:1::9
@@ -16710,6 +16838,7 @@ tdk.	0	IN	NS	c.nic.tdk.
 tdk.	0	IN	NS	ns1.dns.nic.tdk.
 tdk.	0	IN	NS	ns2.dns.nic.tdk.
 tdk.	0	IN	NS	ns3.dns.nic.tdk.
+tdk.	0	IN	DS	39604 8 2 6ad7c7e7eb4c9f8dcb98ad56864a319e516c94cd953b3101377a8ba8c023d1b3
 tdk.	0	IN	DS	55690 8 2 bbad3ff362d157b3e4c07da5eab21dc9023320e511f6b5cef84a19d773eec2a9
 a.nic.tdk.	0	IN	A	37.209.192.9
 a.nic.tdk.	0	IN	AAAA	2001:dcd:1::9
@@ -16838,6 +16967,7 @@ teva.	0	IN	NS	c.nic.teva.
 teva.	0	IN	NS	ns1.dns.nic.teva.
 teva.	0	IN	NS	ns2.dns.nic.teva.
 teva.	0	IN	NS	ns3.dns.nic.teva.
+teva.	0	IN	DS	21292 8 2 2f66a0187371c329d36b36768e56acfb62f8b60c8d17a7bb6e3cf7ed800f8789
 teva.	0	IN	DS	46417 8 2 7e670079255665759e954def033d30aaa2dabb07cf77eca7f27975fd03e0cfc8
 a.nic.teva.	0	IN	A	37.209.192.9
 a.nic.teva.	0	IN	AAAA	2001:dcd:1::9
@@ -17019,6 +17149,7 @@ tjmaxx.	0	IN	NS	ns1.dns.nic.tjmaxx.
 tjmaxx.	0	IN	NS	ns2.dns.nic.tjmaxx.
 tjmaxx.	0	IN	NS	ns3.dns.nic.tjmaxx.
 tjmaxx.	0	IN	DS	47464 8 2 fd4d33c7b820582ca00aa1191df28406ff4ac867302f06cb5101f29f7f54c33d
+tjmaxx.	0	IN	DS	52204 8 2 c70ab029dccbde228b1cf0784cdc44470b89bf5f603c560645b614cd33d3ca45
 a.nic.tjmaxx.	0	IN	A	37.209.192.9
 a.nic.tjmaxx.	0	IN	AAAA	2001:dcd:1::9
 b.nic.tjmaxx.	0	IN	A	37.209.194.9
@@ -17038,6 +17169,7 @@ tjx.	0	IN	NS	ns1.dns.nic.tjx.
 tjx.	0	IN	NS	ns2.dns.nic.tjx.
 tjx.	0	IN	NS	ns3.dns.nic.tjx.
 tjx.	0	IN	DS	6334 8 2 009e613888cfde218f0b08e676efbac926cbd6ee7a12cfc7b984ba18013a0c4a
+tjx.	0	IN	DS	62626 8 2 c5299ca2e7e2344fa3fbe4e7ab6479704d235f4a8b0a628ea98e91d2f7670745
 a.nic.tjx.	0	IN	A	37.209.192.9
 a.nic.tjx.	0	IN	AAAA	2001:dcd:1::9
 b.nic.tjx.	0	IN	A	37.209.194.9
@@ -17068,6 +17200,7 @@ tkmaxx.	0	IN	NS	c.nic.tkmaxx.
 tkmaxx.	0	IN	NS	ns1.dns.nic.tkmaxx.
 tkmaxx.	0	IN	NS	ns2.dns.nic.tkmaxx.
 tkmaxx.	0	IN	NS	ns3.dns.nic.tkmaxx.
+tkmaxx.	0	IN	DS	8737 8 2 96cae3dd0d803ddcd31cede1b63d600d645ca9eaf67e39660e00d521cb16fe8a
 tkmaxx.	0	IN	DS	46960 8 2 ecb1a09652906f084a1d362e599a9fcdb024f3e9382ac8dc6c3e47f6dd25fbd6
 a.nic.tkmaxx.	0	IN	A	37.209.192.9
 a.nic.tkmaxx.	0	IN	AAAA	2001:dcd:1::9
@@ -17301,6 +17434,7 @@ trade.	0	IN	NS	ns1.dns.nic.trade.
 trade.	0	IN	NS	ns2.dns.nic.trade.
 trade.	0	IN	NS	ns3.dns.nic.trade.
 trade.	0	IN	DS	34372 8 2 2647b121fa8a1109cf92d8a945f29ffc3bb42067d3b3c3dba392211de020d87a
+trade.	0	IN	DS	64969 8 2 a6a28c3e7e7027758c2a68a2d255ff07956cf8bc41ce1f8bf8eeaefd9280552b
 a.nic.trade.	0	IN	A	37.209.192.10
 a.nic.trade.	0	IN	AAAA	2001:dcd:1::10
 b.nic.trade.	0	IN	A	37.209.194.10
@@ -17429,6 +17563,7 @@ tube.	0	IN	NS	ns1.dns.nic.tube.
 tube.	0	IN	NS	ns2.dns.nic.tube.
 tube.	0	IN	NS	ns3.dns.nic.tube.
 tube.	0	IN	DS	45112 8 2 a5918afdeeed73d4603adf2ec0ec6a2735b7ded61849c500deb6b68a5bd03610
+tube.	0	IN	DS	52096 8 2 03e03aced82968f08ebe79b3d8641a366aeb3a9600b6b29671dce8af94492287
 a.nic.tube.	0	IN	A	37.209.192.10
 a.nic.tube.	0	IN	AAAA	2001:dcd:1::10
 b.nic.tube.	0	IN	A	37.209.194.10
@@ -17510,6 +17645,7 @@ tv.	0	IN	NS	b.nic.tv.
 tv.	0	IN	NS	c.nic.tv.
 tv.	0	IN	NS	d.nic.tv.
 tv.	0	IN	DS	2107 8 2 2f2dc481c07e7db2e54a546a7a35cc16cbcf242ec76b71385a42cd7bc37e7fc8
+tv.	0	IN	DS	57277 8 2 cdf61faf1ebc9d83d5bc3d9de22e794ae8acdb0475ea8cf27e92cc00f0c3f5f9
 a.nic.tv.	0	IN	A	37.209.192.6
 a.nic.tv.	0	IN	AAAA	2001:dcd:1::6
 b.nic.tv.	0	IN	A	37.209.194.6
@@ -17763,6 +17899,7 @@ us.	0	IN	NS	w.cctld.us.
 us.	0	IN	NS	x.cctld.us.
 us.	0	IN	NS	y.cctld.us.
 us.	0	IN	DS	46144 8 2 0c67e6017124bf19d50be565cc486ff3cfe2a278fe2e5983ff97b2a453386419
+us.	0	IN	DS	59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
 ns5.asnic.us.	0	IN	A	194.146.106.86
 ns5.asnic.us.	0	IN	AAAA	2001:67c:1010:22::53
 b.cctld.us.	0	IN	A	156.154.125.70
@@ -18073,6 +18210,7 @@ vip.	0	IN	NS	c.nic.vip.
 vip.	0	IN	NS	x.nic.vip.
 vip.	0	IN	NS	y.nic.vip.
 vip.	0	IN	NS	z.nic.vip.
+vip.	0	IN	DS	34207 8 2 db3e27d9a9bf7ba3ad1e2a45d5d2b10486670711be8d81f1487b01912f06a47a
 vip.	0	IN	DS	40669 8 2 eb70a1f31a3c3b26e464dd98a97970001fc220021dea2b4a5dda68de2c1dbf00
 a.nic.vip.	0	IN	A	37.209.192.10
 a.nic.vip.	0	IN	AAAA	2001:dcd:1::10
@@ -18156,6 +18294,7 @@ vivo.	0	IN	NS	ns1.dns.nic.vivo.
 vivo.	0	IN	NS	ns2.dns.nic.vivo.
 vivo.	0	IN	NS	ns3.dns.nic.vivo.
 vivo.	0	IN	DS	25072 8 2 d450ebd4dcf5f47b529804dd9dfca7d2af45d3c6b0e4f72e0393f0512196d5f1
+vivo.	0	IN	DS	37450 8 2 94b4e1a1583215adb71aac0e4aec100854caa49827165ac3ad6c3627fcaa7dda
 a.nic.vivo.	0	IN	A	37.209.192.9
 a.nic.vivo.	0	IN	AAAA	2001:dcd:1::9
 b.nic.vivo.	0	IN	A	37.209.194.9
@@ -18221,6 +18360,7 @@ vodka.	0	IN	NS	x.nic.vodka.
 vodka.	0	IN	NS	y.nic.vodka.
 vodka.	0	IN	NS	z.nic.vodka.
 vodka.	0	IN	DS	9085 8 2 4a2f917b298b97a57bf484931c74134a82b3ef0ce16da123093c509eb9ea153e
+vodka.	0	IN	DS	62887 8 2 7286a1b64c79d57e7d499442edc470aa0685280d2dc642af97615e215154a50b
 a.nic.vodka.	0	IN	A	37.209.192.10
 a.nic.vodka.	0	IN	AAAA	2001:dcd:1::10
 b.nic.vodka.	0	IN	A	37.209.194.10
@@ -18279,6 +18419,7 @@ voting.	0	IN	NS	x.nic.voting.
 voting.	0	IN	NS	y.nic.voting.
 voting.	0	IN	NS	z.nic.voting.
 voting.	0	IN	DS	9277 8 2 721cd786aa7f964ef0b943a67beaa4333756f65771475f91678c536616e2037f
+voting.	0	IN	DS	20254 8 2 8c2fea117f4531a3dbd045f935e0e412a8bc7546104bc003d5fc4357aa9aeba4
 a.nic.voting.	0	IN	A	37.209.192.10
 a.nic.voting.	0	IN	AAAA	2001:dcd:1::10
 b.nic.voting.	0	IN	A	37.209.194.10
@@ -18327,6 +18468,7 @@ vu.	0	IN	NS	ns1.tldns.vu.
 vu.	0	IN	NS	ns2.tldns.vu.
 vu.	0	IN	NS	ns3.tldns.vu.
 vu.	0	IN	NS	ns4.tldns.vu.
+vu.	0	IN	DS	32778 10 2 e9a2e16e09e41f325deb3b58a721d9980d0942e19e7c41b44fd4b2bfd8611e08
 vu.	0	IN	DS	50412 10 2 49257111e03ad5f8c450f8330f101b87b84f82251fa54ce67c832b7eefa45232
 ns1.tldns.vu.	0	IN	A	37.209.192.6
 ns1.tldns.vu.	0	IN	AAAA	2001:dcd:1::6
@@ -18500,6 +18642,7 @@ webcam.	0	IN	NS	ns1.dns.nic.webcam.
 webcam.	0	IN	NS	ns2.dns.nic.webcam.
 webcam.	0	IN	NS	ns3.dns.nic.webcam.
 webcam.	0	IN	DS	22450 8 2 e2447935904a4e1da9f3695f56055a2132ffc565a4ea2ddcf22c5aae0605a2fd
+webcam.	0	IN	DS	55165 8 2 90f6b109efa3c0bdee83fbce4f70284b66fb7e61745b4d78a11dc1923db958bb
 a.nic.webcam.	0	IN	A	37.209.192.10
 a.nic.webcam.	0	IN	AAAA	2001:dcd:1::10
 b.nic.webcam.	0	IN	A	37.209.194.10
@@ -18547,6 +18690,7 @@ wedding.	0	IN	NS	x.nic.wedding.
 wedding.	0	IN	NS	y.nic.wedding.
 wedding.	0	IN	NS	z.nic.wedding.
 wedding.	0	IN	DS	7942 8 2 6bcbb57873bad3ef4bfc74da093b04a5232bbc92c68579dd6776f326467510fd
+wedding.	0	IN	DS	52771 8 2 4d92964ee9fd15bb3adb2d0d06c44b6e0ff864f19ad1ced67ab020a9921f5460
 a.nic.wedding.	0	IN	A	37.209.192.10
 a.nic.wedding.	0	IN	AAAA	2001:dcd:1::10
 b.nic.wedding.	0	IN	A	37.209.194.10
@@ -18606,6 +18750,7 @@ wiki.	0	IN	NS	x.nic.wiki.
 wiki.	0	IN	NS	y.nic.wiki.
 wiki.	0	IN	NS	z.nic.wiki.
 wiki.	0	IN	DS	10870 8 2 3c2ca6a68be31fd1222eb66aaa693c6c4991e6f8737ca62b1427b3c9e3e67539
+wiki.	0	IN	DS	27157 8 2 c72478a4986a5330fb21a2e427823553131d70c399ddbcfedee395103ca8543d
 a.nic.wiki.	0	IN	A	37.209.192.10
 a.nic.wiki.	0	IN	AAAA	2001:dcd:1::10
 b.nic.wiki.	0	IN	A	37.209.194.10
@@ -18624,6 +18769,7 @@ williamhill.	0	IN	NS	c.nic.williamhill.
 williamhill.	0	IN	NS	ns1.dns.nic.williamhill.
 williamhill.	0	IN	NS	ns2.dns.nic.williamhill.
 williamhill.	0	IN	NS	ns3.dns.nic.williamhill.
+williamhill.	0	IN	DS	34804 8 2 a9905aea06276db0257b1964b05d99ac5cd6f787f1d02ee138166730b8447e0e
 williamhill.	0	IN	DS	64624 8 2 97386ec38fab6b1d4f0c1bcdbc8f670d92a474996eddcc24786a028a249e2c23
 a.nic.williamhill.	0	IN	A	37.209.192.9
 a.nic.williamhill.	0	IN	AAAA	2001:dcd:1::9
@@ -18643,6 +18789,7 @@ win.	0	IN	NS	c.nic.win.
 win.	0	IN	NS	ns1.dns.nic.win.
 win.	0	IN	NS	ns2.dns.nic.win.
 win.	0	IN	NS	ns3.dns.nic.win.
+win.	0	IN	DS	29737 8 2 980f7cd5e938e5acaa28b0b9a3a1504ac3839b3919ca6fdf9c3523675d0fe875
 win.	0	IN	DS	49585 8 2 4466f9d8d5814557b154063e5b82925059115249b97f19c8b091c6cf06407d57
 a.nic.win.	0	IN	A	37.209.192.10
 a.nic.win.	0	IN	AAAA	2001:dcd:1::10
@@ -18687,6 +18834,7 @@ winners.	0	IN	NS	ns1.dns.nic.winners.
 winners.	0	IN	NS	ns2.dns.nic.winners.
 winners.	0	IN	NS	ns3.dns.nic.winners.
 winners.	0	IN	DS	44842 8 2 e0735a12e87e2c61da2a863567d0d12d3754b2bc42237c53f08280f833f9b42a
+winners.	0	IN	DS	45580 8 2 7a66263cf952160c86b31c0b85ad2d1d79e290c8c506f45abdd807a6ea4d3bf9
 a.nic.winners.	0	IN	A	37.209.192.9
 a.nic.winners.	0	IN	AAAA	2001:dcd:1::9
 b.nic.winners.	0	IN	A	37.209.194.9
@@ -18752,6 +18900,7 @@ work.	0	IN	NS	c.nic.work.
 work.	0	IN	NS	x.nic.work.
 work.	0	IN	NS	y.nic.work.
 work.	0	IN	NS	z.nic.work.
+work.	0	IN	DS	16252 8 2 499017aa972a79021573af6624ddb5dea13562abb2c356fa30456e4604f3d4d7
 work.	0	IN	DS	41389 8 2 d1ae5019cb2d29dab235359fe6250cddd84c83214deae65e7a1ab385d2050bf2
 a.nic.work.	0	IN	A	37.209.192.10
 a.nic.work.	0	IN	AAAA	2001:dcd:1::10
@@ -18887,6 +19036,7 @@ xerox.	0	IN	NS	x.nic.xerox.
 xerox.	0	IN	NS	y.nic.xerox.
 xerox.	0	IN	NS	z.nic.xerox.
 xerox.	0	IN	DS	26830 8 2 7b5c562e138431a73348593e3a2d18c66deba2294f849c3b5ba62c7fb92443d3
+xerox.	0	IN	DS	61096 8 2 95f8fb00a7df39cc9fbad6444f8d2786e6a15deec56424e1bcda21e94a7c386f
 a.nic.xerox.	0	IN	A	37.209.192.9
 a.nic.xerox.	0	IN	AAAA	2001:dcd:1::9
 b.nic.xerox.	0	IN	A	37.209.194.9
@@ -18953,6 +19103,7 @@ xn--1ck2e1b.	0	IN	NS	c.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	ns1.dns.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	ns2.dns.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	ns3.dns.nic.xn--1ck2e1b.
+xn--1ck2e1b.	0	IN	DS	3829 8 2 9402244c218bf8fe172483e4d2ad8355589be11f812b471fe722dd4e572eac26
 xn--1ck2e1b.	0	IN	DS	45052 8 2 95af6d712437ff0146056fb29421e23251ba928dd50401d6b48dad894b00b234
 a.nic.xn--1ck2e1b.	0	IN	A	37.209.192.10
 a.nic.xn--1ck2e1b.	0	IN	AAAA	2001:dcd:1::10
@@ -19243,6 +19394,7 @@ xn--bck1b9a5dre4c.	0	IN	NS	c.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	ns1.dns.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	ns2.dns.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	ns3.dns.nic.xn--bck1b9a5dre4c.
+xn--bck1b9a5dre4c.	0	IN	DS	2884 8 2 dd075c68dac66ece21097863183d23795595362fc5314150d38380adec50fd40
 xn--bck1b9a5dre4c.	0	IN	DS	18031 8 2 f5936212e7d648f9906d69570e647f0a09c2c66bee3b322cf39e5307175996d3
 a.nic.xn--bck1b9a5dre4c.	0	IN	A	37.209.192.10
 a.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2001:dcd:1::10
@@ -19280,6 +19432,7 @@ xn--cck2b3b.	0	IN	NS	c.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	ns1.dns.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	ns2.dns.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	ns3.dns.nic.xn--cck2b3b.
+xn--cck2b3b.	0	IN	DS	3841 8 2 123a65d7e5ceaac47d65136b12037a6965b9a52f8ed600c1cfbec8039b5877d5
 xn--cck2b3b.	0	IN	DS	54514 8 2 00a885297fe7934b3a92a271dccb88c79e37c8f1b18d15214e50e43e2386c63a
 a.nic.xn--cck2b3b.	0	IN	A	37.209.192.10
 a.nic.xn--cck2b3b.	0	IN	AAAA	2001:dcd:1::10
@@ -19388,6 +19541,7 @@ xn--eckvdtc9d.	0	IN	NS	c.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	ns1.dns.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	ns2.dns.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	ns3.dns.nic.xn--eckvdtc9d.
+xn--eckvdtc9d.	0	IN	DS	15400 8 2 02709ffcf8a245cdc4bb1d688f982898f244a65d798c574a5ec82749c918830b
 xn--eckvdtc9d.	0	IN	DS	40972 8 2 87ca2a9dfff26f0b71f1cfabf9dfa315eca77ccaf0168c5a39228ab8a5394d7f
 a.nic.xn--eckvdtc9d.	0	IN	A	37.209.192.10
 a.nic.xn--eckvdtc9d.	0	IN	AAAA	2001:dcd:1::10
@@ -19416,6 +19570,7 @@ xn--fct429k.	0	IN	NS	c.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	ns1.dns.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	ns2.dns.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	ns3.dns.nic.xn--fct429k.
+xn--fct429k.	0	IN	DS	8479 8 2 c4fa8d520fbb397127d969d901cf7d4cba2341020e00066179f240c9b631005b
 xn--fct429k.	0	IN	DS	43072 8 2 0c2dfc5910ab7282c7c3201810c8a465c2ad7a6c6c4e26b5d8a2282f0387685d
 a.nic.xn--fct429k.	0	IN	A	37.209.192.10
 a.nic.xn--fct429k.	0	IN	AAAA	2001:dcd:1::10
@@ -19519,6 +19674,7 @@ xn--g2xx48c.	0	IN	NS	c.nic.xn--g2xx48c.
 xn--g2xx48c.	0	IN	NS	ns1.dns.nic.xn--g2xx48c.
 xn--g2xx48c.	0	IN	NS	ns2.dns.nic.xn--g2xx48c.
 xn--g2xx48c.	0	IN	NS	ns3.dns.nic.xn--g2xx48c.
+xn--g2xx48c.	0	IN	DS	11539 8 2 fd57401d8cbd9ec59540ddf8fffa884bc523d94b9a30d5efd81ece063376ff0b
 xn--g2xx48c.	0	IN	DS	50719 8 2 66adce3f11bc5ed44969987cf67a110272341cda053a5e1a03e92a24ac880902
 a.nic.xn--g2xx48c.	0	IN	A	37.209.192.10
 a.nic.xn--g2xx48c.	0	IN	AAAA	2001:dcd:1::10
@@ -19538,6 +19694,7 @@ xn--gckr3f0f.	0	IN	NS	c.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	ns1.dns.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	ns2.dns.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	ns3.dns.nic.xn--gckr3f0f.
+xn--gckr3f0f.	0	IN	DS	20257 8 2 b43c572db9a2fcf853558b4439fae106547749d710b0f67528343f0274404543
 xn--gckr3f0f.	0	IN	DS	63631 8 2 c31c7f2466446141095814965f54b1c216ec7d588a47557faf927707ba09278c
 a.nic.xn--gckr3f0f.	0	IN	A	37.209.192.10
 a.nic.xn--gckr3f0f.	0	IN	AAAA	2001:dcd:1::10
@@ -19565,6 +19722,7 @@ xn--gk3at1e.	0	IN	NS	ns1.dns.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	ns2.dns.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	ns3.dns.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	DS	3814 8 2 a8fae65de82950b05b5478b60d464fb9bf75810fd371e9d3a1869f0cae7735b2
+xn--gk3at1e.	0	IN	DS	46249 8 2 c189f2ac583e682fd789aebeef182ae85f9c55e7c1c5ba849a72c6ae3e7280fc
 a.nic.xn--gk3at1e.	0	IN	A	37.209.192.10
 a.nic.xn--gk3at1e.	0	IN	AAAA	2001:dcd:1::10
 b.nic.xn--gk3at1e.	0	IN	A	37.209.194.10
@@ -19686,6 +19844,7 @@ xn--jvr189m.	0	IN	NS	c.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	NS	ns1.dns.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	NS	ns2.dns.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	NS	ns3.dns.nic.xn--jvr189m.
+xn--jvr189m.	0	IN	DS	7474 8 2 1a4bd45fc99d1b96bbf07728da08adcd9f7c3bc71851e140c5b1d0b6d7710349
 xn--jvr189m.	0	IN	DS	29656 8 2 77feb7db568a4783b12ecb6decad2a0c7ef4c02e6ca448305380b2b4fff29867
 a.nic.xn--jvr189m.	0	IN	A	37.209.192.10
 a.nic.xn--jvr189m.	0	IN	AAAA	2001:dcd:1::10
@@ -19757,6 +19916,7 @@ xn--mgba3a3ejt.	0	IN	NS	ns3.dns.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	NS	ns4.dns.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	NS	ns5.dns.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	NS	ns6.dns.nic.xn--mgba3a3ejt.
+xn--mgba3a3ejt.	0	IN	DS	11089 8 2 c3a28d5f3c622803433961c5b5769c4df33e5c83abe9d1c2dd78ff4657fc8468
 xn--mgba3a3ejt.	0	IN	DS	60499 8 2 31728b6312e2eec4d09535252d0b46f6fdb80969882cd9e76d0320f3a2e37798
 ns1.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.144.15
 ns1.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1071::f
@@ -19962,6 +20122,7 @@ xn--ngbc5azd.	0	IN	NS	c.nic.xn--ngbc5azd.
 xn--ngbc5azd.	0	IN	NS	x.nic.xn--ngbc5azd.
 xn--ngbc5azd.	0	IN	NS	y.nic.xn--ngbc5azd.
 xn--ngbc5azd.	0	IN	NS	z.nic.xn--ngbc5azd.
+xn--ngbc5azd.	0	IN	DS	862 8 2 662b4ab8c83d78983f29da731e7b495a7b249f8c714268631e21cd1e88370087
 xn--ngbc5azd.	0	IN	DS	57991 8 2 2cd63a89a2bd11a0d1f2a5aeaf04d5b07fb24f6ce9227fb2b5fc4c9d39c0ae20
 a.nic.xn--ngbc5azd.	0	IN	A	37.209.192.3
 a.nic.xn--ngbc5azd.	0	IN	AAAA	2001:dcd:1::3
@@ -20123,6 +20284,7 @@ xn--rovu88b.	0	IN	NS	c.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	ns1.dns.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	ns2.dns.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	ns3.dns.nic.xn--rovu88b.
+xn--rovu88b.	0	IN	DS	247 8 2 74e7cc2a18827e9854e1f541072fb2346bbc81286343edf089d7c3d9a24eb9d0
 xn--rovu88b.	0	IN	DS	5119 8 2 48bd313e429d3c9e64d4df6c2008efad55fe6d5ff0d1ee43cb991b2f4aee8207
 a.nic.xn--rovu88b.	0	IN	A	37.209.192.10
 a.nic.xn--rovu88b.	0	IN	AAAA	2001:dcd:1::10
@@ -20334,6 +20496,7 @@ xxx.	0	IN	NS	x.nic.xxx.
 xxx.	0	IN	NS	y.nic.xxx.
 xxx.	0	IN	NS	z.nic.xxx.
 xxx.	0	IN	DS	4654 8 2 0a2255017ab65ca9d9a3d1a1d74da6f19e9c4dad8b7b452e547d2420f9e74c39
+xxx.	0	IN	DS	21709 8 2 39fe8ae19e8383391804637c5e219ea82b4ac7ec34368696e3c02b4756a59da8
 a.nic.xxx.	0	IN	A	37.209.192.10
 a.nic.xxx.	0	IN	AAAA	2001:dcd:1::10
 b.nic.xxx.	0	IN	A	37.209.194.10
@@ -20439,6 +20602,7 @@ yoga.	0	IN	NS	x.nic.yoga.
 yoga.	0	IN	NS	y.nic.yoga.
 yoga.	0	IN	NS	z.nic.yoga.
 yoga.	0	IN	DS	19357 8 2 fb9b29f651414b178b56b756e96a6a8660d67616ecacc53b6124bebe13b0d3ae
+yoga.	0	IN	DS	49771 8 2 1cd19ff5b29eb880307e17a1168afcdd493da3b36a34242ffc91eb1e8e3882ec
 a.nic.yoga.	0	IN	A	37.209.192.10
 a.nic.yoga.	0	IN	AAAA	2001:dcd:1::10
 b.nic.yoga.	0	IN	A	37.209.194.10
@@ -20546,6 +20710,7 @@ zero.	0	IN	NS	c.nic.zero.
 zero.	0	IN	NS	ns1.dns.nic.zero.
 zero.	0	IN	NS	ns2.dns.nic.zero.
 zero.	0	IN	NS	ns3.dns.nic.zero.
+zero.	0	IN	DS	22717 8 2 c5360714b56c1edbf51e44cd8d93e2c1afa38d22eec53750087915274e4bbadc
 zero.	0	IN	DS	47974 8 2 331d019e413914c99d9ae0e89862063a248694e12c4d40764eaa91b109c3e4e8
 a.nic.zero.	0	IN	A	37.209.192.10
 a.nic.zero.	0	IN	AAAA	2001:dcd:1::10
