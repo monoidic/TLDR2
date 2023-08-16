@@ -1285,6 +1285,7 @@ axa.	0	IN	NS	c.nic.axa.
 axa.	0	IN	NS	ns1.dns.nic.axa.
 axa.	0	IN	NS	ns2.dns.nic.axa.
 axa.	0	IN	NS	ns3.dns.nic.axa.
+axa.	0	IN	DS	5080 8 2 4d57320629ffdd40e328d66e6b2c7ebca3945ce8d09a78e6e336dddb6ead6711
 axa.	0	IN	DS	62554 8 2 e0444f158023dd294cb64ebce2b642bd7d26eddf0d5a1592b12c9d6411c1c448
 a.nic.axa.	0	IN	A	37.209.192.9
 a.nic.axa.	0	IN	AAAA	2001:dcd:1::9
@@ -6126,6 +6127,7 @@ film.	0	IN	NS	x.nic.film.
 film.	0	IN	NS	y.nic.film.
 film.	0	IN	NS	z.nic.film.
 film.	0	IN	DS	37210 8 2 713e96c6a83bf8e26d80db818d4061793b4c10405c13e7d9cf7d471ceefb6009
+film.	0	IN	DS	40855 8 2 2c6b614b379da71a9822bce8094b4b42d14801c5368b07cb1f6f59af7e750ae8
 a.nic.film.	0	IN	A	37.209.192.10
 a.nic.film.	0	IN	AAAA	2001:dcd:1::10
 b.nic.film.	0	IN	A	37.209.194.10
@@ -17266,7 +17268,10 @@ ns2.ati.tn.	0	IN	A	41.228.63.62
 ns2.ati.tn.	0	IN	AAAA	2c0f:fab0:ffff:5:41:228:63:62
 pch.ati.tn.	0	IN	A	204.61.216.94
 pch.ati.tn.	0	IN	AAAA	2001:500:14:6004:ad::1
-to.	0	IN	NS	colo.tonic.to.
+to.	0	IN	NS	cd5.tonic.to.
+to.	0	IN	NS	cd6.tonic.to.
+to.	0	IN	NS	cd7.tonic.to.
+to.	0	IN	NS	cd8.tonic.to.
 to.	0	IN	NS	tonic.to.
 to.	0	IN	NS	sydney.tonic.to.
 to.	0	IN	NS	newyork.tonic.to.
@@ -17274,7 +17279,10 @@ to.	0	IN	NS	helsinki.tonic.to.
 to.	0	IN	NS	frankfurt.tonic.to.
 to.	0	IN	NS	singapore.tonic.to.
 tonic.to.	0	IN	A	149.28.204.240
-colo.tonic.to.	0	IN	A	216.74.32.101
+cd5.tonic.to.	0	IN	A	185.136.96.197
+cd6.tonic.to.	0	IN	A	185.136.97.197
+cd7.tonic.to.	0	IN	A	185.136.98.197
+cd8.tonic.to.	0	IN	A	185.136.99.197
 frankfurt.tonic.to.	0	IN	A	46.101.233.168
 helsinki.tonic.to.	0	IN	A	95.216.159.42
 newyork.tonic.to.	0	IN	A	162.243.211.202
