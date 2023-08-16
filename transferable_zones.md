@@ -18,6 +18,5 @@
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
 * `xn--mgba3a4f16a.` via `a.nic.ir.`: [Click here to view zone data.](archives/xn--mgba3a4f16a/xn--mgba3a4f16a.zone)
-* `xn--mgba3a4f16a.` via `b.nic.ir.`: [Click here to view zone data.](archives/xn--mgba3a4f16a/xn--mgba3a4f16a.zone)
 * `xn--mgba3a4f16a.` via `ns.irnic.ir.`: [Click here to view zone data.](archives/xn--mgba3a4f16a/xn--mgba3a4f16a.zone)
 * `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
