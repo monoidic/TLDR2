@@ -2000,10 +2000,11 @@ c0.nic.black.	0	IN	AAAA	2a01:8840:44::33
 blackfriday.	0	IN	NS	a.nic.blackfriday.
 blackfriday.	0	IN	NS	b.nic.blackfriday.
 blackfriday.	0	IN	NS	c.nic.blackfriday.
-blackfriday.	0	IN	NS	ns1.uniregistry.net.
+blackfriday.	0	IN	NS	x.nic.blackfriday.
+blackfriday.	0	IN	NS	y.nic.blackfriday.
+blackfriday.	0	IN	NS	z.nic.blackfriday.
 blackfriday.	0	IN	NS	ns2.uniregistry.info.
 blackfriday.	0	IN	NS	ns3.uniregistry.net.
-blackfriday.	0	IN	NS	ns4.uniregistry.info.
 blackfriday.	0	IN	DS	29900 13 2 fde16db12fdbc44766c6f83f62e029570becd685cd245da8b9889ee75e89a75c
 blackfriday.	0	IN	DS	47938 13 2 92074d73f8c4e1b874e8c6b3f76c6994a02d962a948c94e1a504dfd7ca1cda4b
 a.nic.blackfriday.	0	IN	A	37.209.192.10
@@ -2012,6 +2013,12 @@ b.nic.blackfriday.	0	IN	A	37.209.194.10
 b.nic.blackfriday.	0	IN	AAAA	2001:dcd:2::10
 c.nic.blackfriday.	0	IN	A	37.209.196.10
 c.nic.blackfriday.	0	IN	AAAA	2001:dcd:3::10
+x.nic.blackfriday.	0	IN	A	156.154.172.82
+x.nic.blackfriday.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.blackfriday.	0	IN	A	156.154.173.82
+y.nic.blackfriday.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.blackfriday.	0	IN	A	156.154.174.82
+z.nic.blackfriday.	0	IN	AAAA	2610:a1:1076::1:82
 blockbuster.	0	IN	NS	a0.nic.blockbuster.
 blockbuster.	0	IN	NS	a2.nic.blockbuster.
 blockbuster.	0	IN	NS	b0.nic.blockbuster.
@@ -12681,6 +12688,7 @@ olayan.	0	IN	NS	c.nic.olayan.
 olayan.	0	IN	NS	x.nic.olayan.
 olayan.	0	IN	NS	y.nic.olayan.
 olayan.	0	IN	NS	z.nic.olayan.
+olayan.	0	IN	DS	24340 8 2 84f7ade4991f5338fc9612349a62c456810e645b4af49b77ab8dd029ed8e5cea
 olayan.	0	IN	DS	60061 8 2 930e37d43f6f58965863b8906adadfdf0091edee90b6c8c0dd3a88ed5112d2c8
 a.nic.olayan.	0	IN	A	37.209.192.9
 a.nic.olayan.	0	IN	AAAA	2001:dcd:1::9
@@ -12700,6 +12708,7 @@ olayangroup.	0	IN	NS	c.nic.olayangroup.
 olayangroup.	0	IN	NS	x.nic.olayangroup.
 olayangroup.	0	IN	NS	y.nic.olayangroup.
 olayangroup.	0	IN	NS	z.nic.olayangroup.
+olayangroup.	0	IN	DS	6919 8 2 44a731318aa7d54ea4f18178ac0eee1de541334c36f9917bb6249f41895d774c
 olayangroup.	0	IN	DS	12544 8 2 b8a9fb54eaa15ad63b37ca39a06e8ec0052d61d51a8d26d5a825f81c2e1850d7
 a.nic.olayangroup.	0	IN	A	37.209.192.9
 a.nic.olayangroup.	0	IN	AAAA	2001:dcd:1::9
@@ -12768,6 +12777,7 @@ one.	0	IN	NS	x.nic.one.
 one.	0	IN	NS	y.nic.one.
 one.	0	IN	NS	z.nic.one.
 one.	0	IN	DS	56899 8 2 c28cde2f5e88289c26584a4e6871b41e0f0c2d5f7f2df2906e8fbb275ac4aa68
+one.	0	IN	DS	64939 8 2 32961f5f8cbfc0a1714eb5589e9cb54e83e1340380b5d76ead661d58ea55de9d
 a.nic.one.	0	IN	A	37.209.192.9
 a.nic.one.	0	IN	AAAA	2001:dcd:1::9
 b.nic.one.	0	IN	A	37.209.194.9
@@ -13270,10 +13280,11 @@ c0.nic.phone.	0	IN	AAAA	2a01:8840:60::17
 photo.	0	IN	NS	a.nic.photo.
 photo.	0	IN	NS	b.nic.photo.
 photo.	0	IN	NS	c.nic.photo.
-photo.	0	IN	NS	ns1.uniregistry.net.
+photo.	0	IN	NS	x.nic.photo.
+photo.	0	IN	NS	y.nic.photo.
+photo.	0	IN	NS	z.nic.photo.
 photo.	0	IN	NS	ns2.uniregistry.info.
 photo.	0	IN	NS	ns3.uniregistry.net.
-photo.	0	IN	NS	ns4.uniregistry.info.
 photo.	0	IN	DS	8311 13 2 7f11b4d8e82f14ace5adcfa2c5cb6701d6e40d87c4f92b129aa62118a7890beb
 photo.	0	IN	DS	56016 13 2 a9c731e215bc6ba13a585782939de293da96e91dec2a3ed9cd27d34868719371
 a.nic.photo.	0	IN	A	37.209.192.10
@@ -13282,6 +13293,12 @@ b.nic.photo.	0	IN	A	37.209.194.10
 b.nic.photo.	0	IN	AAAA	2001:dcd:2::10
 c.nic.photo.	0	IN	A	37.209.196.10
 c.nic.photo.	0	IN	AAAA	2001:dcd:3::10
+x.nic.photo.	0	IN	A	156.154.172.82
+x.nic.photo.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.photo.	0	IN	A	156.154.173.82
+y.nic.photo.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.photo.	0	IN	A	156.154.174.82
+z.nic.photo.	0	IN	AAAA	2610:a1:1076::1:82
 photography.	0	IN	NS	v0n0.nic.photography.
 photography.	0	IN	NS	v0n1.nic.photography.
 photography.	0	IN	NS	v0n2.nic.photography.
@@ -13518,7 +13535,6 @@ pl.	0	IN	NS	b-dns.pl.
 pl.	0	IN	NS	d-dns.pl.
 pl.	0	IN	NS	e-dns.pl.
 pl.	0	IN	NS	f-dns.pl.
-pl.	0	IN	NS	g-dns.pl.
 pl.	0	IN	NS	h-dns.pl.
 pl.	0	IN	NS	j-dns.pl.
 pl.	0	IN	DS	59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
@@ -13531,8 +13547,6 @@ d-dns.pl.	0	IN	AAAA	2620:10a:80aa::48
 e-dns.pl.	0	IN	A	46.28.245.82
 f-dns.pl.	0	IN	A	194.0.25.29
 f-dns.pl.	0	IN	AAAA	2001:678:20::29
-g-dns.pl.	0	IN	A	149.156.1.252
-g-dns.pl.	0	IN	AAAA	2001:6d8:1001:1::252
 h-dns.pl.	0	IN	A	185.159.198.48
 h-dns.pl.	0	IN	AAAA	2620:10a:80ab::48
 j-dns.pl.	0	IN	A	204.61.217.4
@@ -16442,6 +16456,7 @@ sucks.	0	IN	NS	x.nic.sucks.
 sucks.	0	IN	NS	y.nic.sucks.
 sucks.	0	IN	NS	z.nic.sucks.
 sucks.	0	IN	DS	33844 8 2 3bc39b543789de80c38841624e4195136cc4cf04f47ab5a09d052998e9f374ec
+sucks.	0	IN	DS	59257 8 2 0eb720a2c0284375766effebd01edd5255397bafcce4a8aaa46f0bf13fca9a5b
 a.nic.sucks.	0	IN	A	37.209.192.10
 a.nic.sucks.	0	IN	AAAA	2001:dcd:1::10
 b.nic.sucks.	0	IN	A	37.209.194.10
@@ -19947,6 +19962,7 @@ xn--mgba7c0bbn0a.	0	IN	NS	x.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	NS	y.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	NS	z.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	DS	2662 8 2 a083e4e9e6f8037d89de242fffe38e301bf73b7e3f132835b239b6d68258ea9f
+xn--mgba7c0bbn0a.	0	IN	DS	49291 8 2 3bda917f1a0fec4728394c77584d299dc23814cbcc508a46255a2ea944883caa
 a.nic.xn--mgba7c0bbn0a.	0	IN	A	37.209.192.9
 a.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2001:dcd:1::9
 b.nic.xn--mgba7c0bbn0a.	0	IN	A	37.209.194.9
