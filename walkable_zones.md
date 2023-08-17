@@ -22,9 +22,7 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
@@ -34,7 +32,6 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
