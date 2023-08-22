@@ -930,12 +930,20 @@ as.	0	IN	NS	ns5.asnic.us.
 as.	0	IN	NS	pch.nic.as.
 pch.nic.as.	0	IN	A	204.61.216.111
 pch.nic.as.	0	IN	AAAA	2001:500:14:6111:ad::1
-asda.	0	IN	NS	ac1.nstld.com.
-asda.	0	IN	NS	ac2.nstld.com.
-asda.	0	IN	NS	ac3.nstld.com.
-asda.	0	IN	NS	ac4.nstld.com.
+asda.	0	IN	NS	a0.nic.asda.
+asda.	0	IN	NS	a2.nic.asda.
+asda.	0	IN	NS	b0.nic.asda.
+asda.	0	IN	NS	c0.nic.asda.
 asda.	0	IN	DS	3153 8 2 52bb4fa0c9653f7c74296f54cee26b763688040ee511162b33a67345eb2ee56b
 asda.	0	IN	DS	26782 8 2 dea162d88db4bf889a745ff70cc6d0e56245350e4aecddb262cdb1a0663347df
+a0.nic.asda.	0	IN	A	65.22.112.43
+a0.nic.asda.	0	IN	AAAA	2a01:8840:6e::43
+a2.nic.asda.	0	IN	A	65.22.115.43
+a2.nic.asda.	0	IN	AAAA	2a01:8840:71::43
+b0.nic.asda.	0	IN	A	65.22.113.43
+b0.nic.asda.	0	IN	AAAA	2a01:8840:6f::43
+c0.nic.asda.	0	IN	A	65.22.114.43
+c0.nic.asda.	0	IN	AAAA	2a01:8840:70::43
 asia.	0	IN	NS	a0.asia.afilias-nst.info.
 asia.	0	IN	NS	a2.asia.afilias-nst.info.
 asia.	0	IN	NS	b0.asia.afilias-nst.asia.
@@ -7062,12 +7070,20 @@ genting.	0	IN	NS	ac2.nstld.com.
 genting.	0	IN	NS	ac3.nstld.com.
 genting.	0	IN	NS	ac4.nstld.com.
 genting.	0	IN	DS	22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
-george.	0	IN	NS	ac1.nstld.com.
-george.	0	IN	NS	ac2.nstld.com.
-george.	0	IN	NS	ac3.nstld.com.
-george.	0	IN	NS	ac4.nstld.com.
+george.	0	IN	NS	a0.nic.george.
+george.	0	IN	NS	a2.nic.george.
+george.	0	IN	NS	b0.nic.george.
+george.	0	IN	NS	c0.nic.george.
 george.	0	IN	DS	1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
 george.	0	IN	DS	24255 8 2 944d283dd22b4fec947c88d9c8369c75852a9b74a3a88a74756864de374496d4
+a0.nic.george.	0	IN	A	65.22.112.49
+a0.nic.george.	0	IN	AAAA	2a01:8840:6e::49
+a2.nic.george.	0	IN	A	65.22.115.49
+a2.nic.george.	0	IN	AAAA	2a01:8840:71::49
+b0.nic.george.	0	IN	A	65.22.113.49
+b0.nic.george.	0	IN	AAAA	2a01:8840:6f::49
+c0.nic.george.	0	IN	A	65.22.114.49
+c0.nic.george.	0	IN	AAAA	2a01:8840:70::49
 gf.	0	IN	NS	ns1-fr.mediaserv.net.
 gf.	0	IN	NS	ns1-gp.mediaserv.net.
 gf.	0	IN	NS	ns1-mq.mediaserv.net.
@@ -7534,12 +7550,20 @@ v2n0.nic.gripe.	0	IN	A	65.22.27.33
 v2n0.nic.gripe.	0	IN	AAAA	2a01:8840:1d::33
 v2n1.nic.gripe.	0	IN	A	161.232.13.33
 v2n1.nic.gripe.	0	IN	AAAA	2a01:8840:f7::33
-grocery.	0	IN	NS	ac1.nstld.com.
-grocery.	0	IN	NS	ac2.nstld.com.
-grocery.	0	IN	NS	ac3.nstld.com.
-grocery.	0	IN	NS	ac4.nstld.com.
+grocery.	0	IN	NS	a0.nic.grocery.
+grocery.	0	IN	NS	a2.nic.grocery.
+grocery.	0	IN	NS	b0.nic.grocery.
+grocery.	0	IN	NS	c0.nic.grocery.
 grocery.	0	IN	DS	5415 8 2 c723e260e44420eb0bef197e29f17f26ff4edda1d7e2f3c09dfaabbb2282bc86
 grocery.	0	IN	DS	58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
+a0.nic.grocery.	0	IN	A	65.22.112.50
+a0.nic.grocery.	0	IN	AAAA	2a01:8840:6e::50
+a2.nic.grocery.	0	IN	A	65.22.115.50
+a2.nic.grocery.	0	IN	AAAA	2a01:8840:71::50
+b0.nic.grocery.	0	IN	A	65.22.113.50
+b0.nic.grocery.	0	IN	AAAA	2a01:8840:6f::50
+c0.nic.grocery.	0	IN	A	65.22.114.50
+c0.nic.grocery.	0	IN	AAAA	2a01:8840:70::50
 group.	0	IN	NS	v0n0.nic.group.
 group.	0	IN	NS	v0n1.nic.group.
 group.	0	IN	NS	v0n2.nic.group.
@@ -8867,7 +8891,6 @@ ir.	0	IN	NS	a.nic.ir.
 ir.	0	IN	NS	b.nic.ir.
 ir.	0	IN	NS	ir.cctld.authdns.ripe.net.
 ir.	0	IN	NS	ns5.univie.ac.at.
-ns.irnic.ir.	0	IN	A	193.189.122.83
 a.nic.ir.	0	IN	A	193.189.123.2
 b.nic.ir.	0	IN	A	193.189.122.83
 irish.	0	IN	NS	v0n0.nic.irish.
@@ -14980,12 +15003,20 @@ v2n0.nic.salon.	0	IN	A	65.22.31.58
 v2n0.nic.salon.	0	IN	AAAA	2a01:8840:21::58
 v2n1.nic.salon.	0	IN	A	161.232.15.58
 v2n1.nic.salon.	0	IN	AAAA	2a01:8840:f9::58
-samsclub.	0	IN	NS	ac1.nstld.com.
-samsclub.	0	IN	NS	ac2.nstld.com.
-samsclub.	0	IN	NS	ac3.nstld.com.
-samsclub.	0	IN	NS	ac4.nstld.com.
+samsclub.	0	IN	NS	a0.nic.samsclub.
+samsclub.	0	IN	NS	a2.nic.samsclub.
+samsclub.	0	IN	NS	b0.nic.samsclub.
+samsclub.	0	IN	NS	c0.nic.samsclub.
 samsclub.	0	IN	DS	3888 8 2 12c5eb19d3471e5bd6bc69d1e38b1b37b26ec950e0367e158df6221293b17806
 samsclub.	0	IN	DS	60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
+a0.nic.samsclub.	0	IN	A	65.22.112.66
+a0.nic.samsclub.	0	IN	AAAA	2a01:8840:6e::66
+a2.nic.samsclub.	0	IN	A	65.22.115.66
+a2.nic.samsclub.	0	IN	AAAA	2a01:8840:71::66
+b0.nic.samsclub.	0	IN	A	65.22.113.66
+b0.nic.samsclub.	0	IN	AAAA	2a01:8840:6f::66
+c0.nic.samsclub.	0	IN	A	65.22.114.66
+c0.nic.samsclub.	0	IN	AAAA	2a01:8840:70::66
 samsung.	0	IN	NS	ns1.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns2.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns3.samsung.centralnic-dns.com.
@@ -18026,7 +18057,6 @@ ve.	0	IN	NS	ns4.nic.ve.
 ve.	0	IN	NS	ns5.nic.ve.
 ve.	0	IN	NS	ns6.nic.ve.
 ve.	0	IN	NS	ssdns-tld.nic.cl.
-ve.	0	IN	DS	14092 8 2 08c74712d9ee7ab88bad9ea011379e2ac419102e209b83cb9c4ee6cfb5ca7e65
 ve.	0	IN	DS	62041 8 2 78f2ecb0ecd744a381d514ec91ca6389921fe168f41c96a41d0d794caf30c3b1
 ns3.nic.ve.	0	IN	A	190.9.129.56
 ns4.nic.ve.	0	IN	A	190.202.128.43
@@ -18521,12 +18551,20 @@ dnsc.nic.wales.	0	IN	A	156.154.102.3
 dnsc.nic.wales.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.wales.	0	IN	A	156.154.103.3
 dnsd.nic.wales.	0	IN	AAAA	2610:a1:1010::3
-walmart.	0	IN	NS	ac1.nstld.com.
-walmart.	0	IN	NS	ac2.nstld.com.
-walmart.	0	IN	NS	ac3.nstld.com.
-walmart.	0	IN	NS	ac4.nstld.com.
+walmart.	0	IN	NS	a0.nic.walmart.
+walmart.	0	IN	NS	a2.nic.walmart.
+walmart.	0	IN	NS	b0.nic.walmart.
+walmart.	0	IN	NS	c0.nic.walmart.
 walmart.	0	IN	DS	34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
 walmart.	0	IN	DS	42084 8 2 114198bd39750b2e840c302b523e065c55be0152955ddd7d5408a3d73618954d
+a0.nic.walmart.	0	IN	A	65.22.112.74
+a0.nic.walmart.	0	IN	AAAA	2a01:8840:6e::74
+a2.nic.walmart.	0	IN	A	65.22.115.74
+a2.nic.walmart.	0	IN	AAAA	2a01:8840:71::74
+b0.nic.walmart.	0	IN	A	65.22.113.74
+b0.nic.walmart.	0	IN	AAAA	2a01:8840:6f::74
+c0.nic.walmart.	0	IN	A	65.22.114.74
+c0.nic.walmart.	0	IN	AAAA	2a01:8840:70::74
 walter.	0	IN	NS	a.nic.walter.
 walter.	0	IN	NS	b.nic.walter.
 walter.	0	IN	NS	c.nic.walter.
@@ -19949,7 +19987,7 @@ ns5.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1075::f
 ns6.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.158.15
 ns6.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1076::f
 xn--mgba3a4f16a.	0	IN	NS	a.nic.ir.
-xn--mgba3a4f16a.	0	IN	NS	ns.irnic.ir.
+xn--mgba3a4f16a.	0	IN	NS	b.nic.ir.
 xn--mgba7c0bbn0a.	0	IN	NS	a.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	NS	b.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	0	IN	NS	c.nic.xn--mgba7c0bbn0a.
