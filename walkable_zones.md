@@ -5,10 +5,8 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
-* `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
