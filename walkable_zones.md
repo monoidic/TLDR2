@@ -5,7 +5,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -13,14 +12,12 @@
 * `christmas.`
 * `ci.`
 * `cy.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
-* `guitars.`
 * `hosting.`
 * `id.`
 * `kg.`
