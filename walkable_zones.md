@@ -5,7 +5,9 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `bd.`
 * `br.`
+* `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
@@ -20,7 +22,6 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -34,10 +35,9 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
-* `xn--l1acc.`
-* `xn--xkc2al3hye2a.`
+* `xn--pgbs0dh.`
