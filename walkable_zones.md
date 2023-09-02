@@ -12,7 +12,10 @@
 * `cars.`
 * `christmas.`
 * `ci.`
+* `cy.`
+* `diet.`
 * `dz.`
+* `ee.`
 * `flowers.`
 * `game.`
 * `gdn.`
