@@ -5,7 +5,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -14,13 +13,17 @@
 * `ci.`
 * `cy.`
 * `diet.`
-* `gdn.`
+* `dz.`
+* `ee.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
+* `kg.`
 * `kz.`
 * `lb.`
-* `lol.`
+* `lk.`
+* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
