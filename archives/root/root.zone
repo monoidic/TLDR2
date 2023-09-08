@@ -815,20 +815,20 @@ arab.	0	IN	NS	gtld.delta.aridns.net.au.
 arab.	0	IN	NS	gtld.gamma.aridns.net.au.
 arab.	0	IN	DS	20671 8 1 a3cc3ad421ec53930b28b255900f9f005c881ae7
 arab.	0	IN	DS	20671 8 2 164f98c3ddc5c95932ed38afc1eac629b8b10484598dd6b3d288c6bd95778730
-aramco.	0	IN	NS	ns1.dns.nic.aramco.
-aramco.	0	IN	NS	ns2.dns.nic.aramco.
-aramco.	0	IN	NS	ns3.dns.nic.aramco.
+aramco.	0	IN	NS	a.nic.aramco.
+aramco.	0	IN	NS	b.nic.aramco.
+aramco.	0	IN	NS	c.nic.aramco.
 aramco.	0	IN	NS	ns4.dns.nic.aramco.
 aramco.	0	IN	NS	ns5.dns.nic.aramco.
 aramco.	0	IN	NS	ns6.dns.nic.aramco.
 aramco.	0	IN	DS	6265 8 2 aeb0cbb0275b05900f98a2f97cb6a47accf5d2f559439ddc79afc695341a9dee
 aramco.	0	IN	DS	22207 8 2 2af8a3fc1aab39c9117f19956a83f0353fb0c206b33f253331080c91343781b3
-ns1.dns.nic.aramco.	0	IN	A	156.154.144.14
-ns1.dns.nic.aramco.	0	IN	AAAA	2610:a1:1071::e
-ns2.dns.nic.aramco.	0	IN	A	156.154.145.14
-ns2.dns.nic.aramco.	0	IN	AAAA	2610:a1:1072::e
-ns3.dns.nic.aramco.	0	IN	A	156.154.159.14
-ns3.dns.nic.aramco.	0	IN	AAAA	2610:a1:1073::e
+a.nic.aramco.	0	IN	A	37.209.192.9
+a.nic.aramco.	0	IN	AAAA	2001:dcd:1::9
+b.nic.aramco.	0	IN	A	37.209.194.9
+b.nic.aramco.	0	IN	AAAA	2001:dcd:2::9
+c.nic.aramco.	0	IN	A	37.209.196.9
+c.nic.aramco.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.aramco.	0	IN	A	156.154.156.14
 ns4.dns.nic.aramco.	0	IN	AAAA	2610:a1:1074::e
 ns5.dns.nic.aramco.	0	IN	A	156.154.157.14
@@ -3251,20 +3251,20 @@ v2n0.nic.charity.	0	IN	A	65.22.23.61
 v2n0.nic.charity.	0	IN	AAAA	2a01:8840:19::61
 v2n1.nic.charity.	0	IN	A	161.232.11.61
 v2n1.nic.charity.	0	IN	AAAA	2a01:8840:f5::61
-chase.	0	IN	NS	ns1.dns.nic.chase.
-chase.	0	IN	NS	ns2.dns.nic.chase.
-chase.	0	IN	NS	ns3.dns.nic.chase.
+chase.	0	IN	NS	a.nic.chase.
+chase.	0	IN	NS	b.nic.chase.
+chase.	0	IN	NS	c.nic.chase.
 chase.	0	IN	NS	ns4.dns.nic.chase.
 chase.	0	IN	NS	ns5.dns.nic.chase.
 chase.	0	IN	NS	ns6.dns.nic.chase.
 chase.	0	IN	DS	35866 8 2 618f99e685339cf7c8afac24ec3c9a7eaa56b41f622d34f23af944b83be839af
 chase.	0	IN	DS	38962 8 2 7e231dfe930caa42c760d3298c2f9b4b4f22aadc5a0fe6c7784e4e2177a0e317
-ns1.dns.nic.chase.	0	IN	A	156.154.144.39
-ns1.dns.nic.chase.	0	IN	AAAA	2610:a1:1071::27
-ns2.dns.nic.chase.	0	IN	A	156.154.145.39
-ns2.dns.nic.chase.	0	IN	AAAA	2610:a1:1072::27
-ns3.dns.nic.chase.	0	IN	A	156.154.159.39
-ns3.dns.nic.chase.	0	IN	AAAA	2610:a1:1073::27
+a.nic.chase.	0	IN	A	37.209.192.9
+a.nic.chase.	0	IN	AAAA	2001:dcd:1::9
+b.nic.chase.	0	IN	A	37.209.194.9
+b.nic.chase.	0	IN	AAAA	2001:dcd:2::9
+c.nic.chase.	0	IN	A	37.209.196.9
+c.nic.chase.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.chase.	0	IN	A	156.154.156.39
 ns4.dns.nic.chase.	0	IN	AAAA	2610:a1:1074::27
 ns5.dns.nic.chase.	0	IN	A	156.154.157.39
@@ -5284,20 +5284,20 @@ b0.nic.dunlop.	0	IN	A	65.22.121.33
 b0.nic.dunlop.	0	IN	AAAA	2a01:8840:77::33
 c0.nic.dunlop.	0	IN	A	65.22.122.33
 c0.nic.dunlop.	0	IN	AAAA	2a01:8840:78::33
-dupont.	0	IN	NS	ns1.dns.nic.dupont.
-dupont.	0	IN	NS	ns2.dns.nic.dupont.
-dupont.	0	IN	NS	ns3.dns.nic.dupont.
+dupont.	0	IN	NS	a.nic.dupont.
+dupont.	0	IN	NS	b.nic.dupont.
+dupont.	0	IN	NS	c.nic.dupont.
 dupont.	0	IN	NS	ns4.dns.nic.dupont.
 dupont.	0	IN	NS	ns5.dns.nic.dupont.
 dupont.	0	IN	NS	ns6.dns.nic.dupont.
 dupont.	0	IN	DS	13507 8 2 2a1bbc71245a57110165649e9c31bb6cf87dbfcfc3cc3f45ec4c7845f5dedbba
 dupont.	0	IN	DS	44914 8 2 f94ef24de9794acaf4920bfe73388a466179c339bd33ddea11b1decd2a45611b
-ns1.dns.nic.dupont.	0	IN	A	156.154.144.52
-ns1.dns.nic.dupont.	0	IN	AAAA	2610:a1:1071::34
-ns2.dns.nic.dupont.	0	IN	A	156.154.145.52
-ns2.dns.nic.dupont.	0	IN	AAAA	2610:a1:1072::34
-ns3.dns.nic.dupont.	0	IN	A	156.154.159.52
-ns3.dns.nic.dupont.	0	IN	AAAA	2610:a1:1073::34
+a.nic.dupont.	0	IN	A	37.209.192.9
+a.nic.dupont.	0	IN	AAAA	2001:dcd:1::9
+b.nic.dupont.	0	IN	A	37.209.194.9
+b.nic.dupont.	0	IN	AAAA	2001:dcd:2::9
+c.nic.dupont.	0	IN	A	37.209.196.9
+c.nic.dupont.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.dupont.	0	IN	A	156.154.156.52
 ns4.dns.nic.dupont.	0	IN	AAAA	2610:a1:1074::34
 ns5.dns.nic.dupont.	0	IN	A	156.154.157.52
@@ -8802,20 +8802,20 @@ v2n0.nic.international.	0	IN	A	65.22.31.6
 v2n0.nic.international.	0	IN	AAAA	2a01:8840:21::6
 v2n1.nic.international.	0	IN	A	161.232.15.6
 v2n1.nic.international.	0	IN	AAAA	2a01:8840:f9::6
-intuit.	0	IN	NS	ns1.dns.nic.intuit.
-intuit.	0	IN	NS	ns2.dns.nic.intuit.
-intuit.	0	IN	NS	ns3.dns.nic.intuit.
+intuit.	0	IN	NS	a.nic.intuit.
+intuit.	0	IN	NS	b.nic.intuit.
+intuit.	0	IN	NS	c.nic.intuit.
 intuit.	0	IN	NS	ns4.dns.nic.intuit.
 intuit.	0	IN	NS	ns5.dns.nic.intuit.
 intuit.	0	IN	NS	ns6.dns.nic.intuit.
 intuit.	0	IN	DS	8869 8 2 1a86450877bf7cdcab1715f9b5206a668fd7e21c9d10119f3ce7e6d004287a5d
 intuit.	0	IN	DS	9856 8 2 d826e3abf318055e6e502772d495af5fe336d811e8b841f780114d28479d6f3b
-ns1.dns.nic.intuit.	0	IN	A	156.154.144.82
-ns1.dns.nic.intuit.	0	IN	AAAA	2610:a1:1071::52
-ns2.dns.nic.intuit.	0	IN	A	156.154.145.82
-ns2.dns.nic.intuit.	0	IN	AAAA	2610:a1:1072::52
-ns3.dns.nic.intuit.	0	IN	A	156.154.159.82
-ns3.dns.nic.intuit.	0	IN	AAAA	2610:a1:1073::52
+a.nic.intuit.	0	IN	A	37.209.192.9
+a.nic.intuit.	0	IN	AAAA	2001:dcd:1::9
+b.nic.intuit.	0	IN	A	37.209.194.9
+b.nic.intuit.	0	IN	AAAA	2001:dcd:2::9
+c.nic.intuit.	0	IN	A	37.209.196.9
+c.nic.intuit.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.intuit.	0	IN	A	156.154.156.82
 ns4.dns.nic.intuit.	0	IN	AAAA	2610:a1:1074::52
 ns5.dns.nic.intuit.	0	IN	A	156.154.157.82
@@ -8854,20 +8854,20 @@ b0.nic.io.	0	IN	A	65.22.161.17
 b0.nic.io.	0	IN	AAAA	2a01:8840:9f::17
 c0.nic.io.	0	IN	A	65.22.162.17
 c0.nic.io.	0	IN	AAAA	2a01:8840:a0::17
-ipiranga.	0	IN	NS	ns1.dns.nic.ipiranga.
-ipiranga.	0	IN	NS	ns2.dns.nic.ipiranga.
-ipiranga.	0	IN	NS	ns3.dns.nic.ipiranga.
+ipiranga.	0	IN	NS	a.nic.ipiranga.
+ipiranga.	0	IN	NS	b.nic.ipiranga.
+ipiranga.	0	IN	NS	c.nic.ipiranga.
 ipiranga.	0	IN	NS	ns4.dns.nic.ipiranga.
 ipiranga.	0	IN	NS	ns5.dns.nic.ipiranga.
 ipiranga.	0	IN	NS	ns6.dns.nic.ipiranga.
 ipiranga.	0	IN	DS	15469 8 2 07072c5f3d4a042e6e13050ca502dbbb6cfdfc20ec03c2407562bcc5e23faa32
 ipiranga.	0	IN	DS	64375 8 2 acf8a18748a01a0dfeea2a9078c2ca53721c508831b9c151db77ae4342065538
-ns1.dns.nic.ipiranga.	0	IN	A	156.154.144.83
-ns1.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1071::53
-ns2.dns.nic.ipiranga.	0	IN	A	156.154.145.83
-ns2.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1072::53
-ns3.dns.nic.ipiranga.	0	IN	A	156.154.159.83
-ns3.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1073::53
+a.nic.ipiranga.	0	IN	A	37.209.192.9
+a.nic.ipiranga.	0	IN	AAAA	2001:dcd:1::9
+b.nic.ipiranga.	0	IN	A	37.209.194.9
+b.nic.ipiranga.	0	IN	AAAA	2001:dcd:2::9
+c.nic.ipiranga.	0	IN	A	37.209.196.9
+c.nic.ipiranga.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.ipiranga.	0	IN	A	156.154.156.83
 ns4.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1074::53
 ns5.dns.nic.ipiranga.	0	IN	A	156.154.157.83
@@ -8991,20 +8991,20 @@ seth.namex.it.	0	IN	A	193.201.40.7
 seth.namex.it.	0	IN	AAAA	2001:7f8:10:f00a::7
 dns.nic.it.	0	IN	A	192.12.192.5
 dns.nic.it.	0	IN	AAAA	2a00:d40:1:1::5
-itau.	0	IN	NS	ns1.dns.nic.itau.
-itau.	0	IN	NS	ns2.dns.nic.itau.
-itau.	0	IN	NS	ns3.dns.nic.itau.
+itau.	0	IN	NS	a.nic.itau.
+itau.	0	IN	NS	b.nic.itau.
+itau.	0	IN	NS	c.nic.itau.
 itau.	0	IN	NS	ns4.dns.nic.itau.
 itau.	0	IN	NS	ns5.dns.nic.itau.
 itau.	0	IN	NS	ns6.dns.nic.itau.
 itau.	0	IN	DS	20974 8 2 255e44d9c42d417ae07b1b92f8bbd5c856f1347b87948b58dc245dcd58fd59b4
 itau.	0	IN	DS	32626 8 2 4abe223f5ad4bdbd1c42de183c76722afeda52267f4166f23483204ad0ce4afb
-ns1.dns.nic.itau.	0	IN	A	156.154.144.84
-ns1.dns.nic.itau.	0	IN	AAAA	2610:a1:1071::54
-ns2.dns.nic.itau.	0	IN	A	156.154.145.84
-ns2.dns.nic.itau.	0	IN	AAAA	2610:a1:1072::54
-ns3.dns.nic.itau.	0	IN	A	156.154.159.84
-ns3.dns.nic.itau.	0	IN	AAAA	2610:a1:1073::54
+a.nic.itau.	0	IN	A	37.209.192.9
+a.nic.itau.	0	IN	AAAA	2001:dcd:1::9
+b.nic.itau.	0	IN	A	37.209.194.9
+b.nic.itau.	0	IN	AAAA	2001:dcd:2::9
+c.nic.itau.	0	IN	A	37.209.196.9
+c.nic.itau.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.itau.	0	IN	A	156.154.156.84
 ns4.dns.nic.itau.	0	IN	AAAA	2610:a1:1074::54
 ns5.dns.nic.itau.	0	IN	A	156.154.157.84
@@ -9298,20 +9298,20 @@ f.dns.jp.	0	IN	AAAA	2001:2f8:0:100::153
 g.dns.jp.	0	IN	A	203.119.40.1
 h.dns.jp.	0	IN	A	161.232.72.25
 h.dns.jp.	0	IN	AAAA	2a01:8840:1bc::25
-jpmorgan.	0	IN	NS	ns1.dns.nic.jpmorgan.
-jpmorgan.	0	IN	NS	ns2.dns.nic.jpmorgan.
-jpmorgan.	0	IN	NS	ns3.dns.nic.jpmorgan.
+jpmorgan.	0	IN	NS	a.nic.jpmorgan.
+jpmorgan.	0	IN	NS	b.nic.jpmorgan.
+jpmorgan.	0	IN	NS	c.nic.jpmorgan.
 jpmorgan.	0	IN	NS	ns4.dns.nic.jpmorgan.
 jpmorgan.	0	IN	NS	ns5.dns.nic.jpmorgan.
 jpmorgan.	0	IN	NS	ns6.dns.nic.jpmorgan.
 jpmorgan.	0	IN	DS	1816 8 2 e41c95d6a3c09199493bc8a48d9d348b0bbb1d4cc33e9333092a510806a35e88
 jpmorgan.	0	IN	DS	3652 8 2 ee3004dfa6162785f6c80c697e79d43f8fe436189a5cd880c971d4cc2870b139
-ns1.dns.nic.jpmorgan.	0	IN	A	156.154.144.92
-ns1.dns.nic.jpmorgan.	0	IN	AAAA	2610:a1:1071::5c
-ns2.dns.nic.jpmorgan.	0	IN	A	156.154.145.92
-ns2.dns.nic.jpmorgan.	0	IN	AAAA	2610:a1:1072::5c
-ns3.dns.nic.jpmorgan.	0	IN	A	156.154.159.92
-ns3.dns.nic.jpmorgan.	0	IN	AAAA	2610:a1:1073::5c
+a.nic.jpmorgan.	0	IN	A	37.209.192.9
+a.nic.jpmorgan.	0	IN	AAAA	2001:dcd:1::9
+b.nic.jpmorgan.	0	IN	A	37.209.194.9
+b.nic.jpmorgan.	0	IN	AAAA	2001:dcd:2::9
+c.nic.jpmorgan.	0	IN	A	37.209.196.9
+c.nic.jpmorgan.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.jpmorgan.	0	IN	A	156.154.156.92
 ns4.dns.nic.jpmorgan.	0	IN	AAAA	2610:a1:1074::5c
 ns5.dns.nic.jpmorgan.	0	IN	A	156.154.157.92
@@ -11143,20 +11143,20 @@ c.nic.mini.	0	IN	A	212.18.248.95
 c.nic.mini.	0	IN	AAAA	2a04:2b00:13ee::95
 d.nic.mini.	0	IN	A	212.18.249.95
 d.nic.mini.	0	IN	AAAA	2a04:2b00:13ff::95
-mint.	0	IN	NS	ns1.dns.nic.mint.
-mint.	0	IN	NS	ns2.dns.nic.mint.
-mint.	0	IN	NS	ns3.dns.nic.mint.
+mint.	0	IN	NS	a.nic.mint.
+mint.	0	IN	NS	b.nic.mint.
+mint.	0	IN	NS	c.nic.mint.
 mint.	0	IN	NS	ns4.dns.nic.mint.
 mint.	0	IN	NS	ns5.dns.nic.mint.
 mint.	0	IN	NS	ns6.dns.nic.mint.
 mint.	0	IN	DS	20665 8 2 61e6470c8593c69e908195db6d54f96e47bbfd80e61fa706e4263afc6ac810a6
 mint.	0	IN	DS	24670 8 2 872536426335ac76542dd46851ae59fdbc13e1f33e8a5c49193ff5a70bda6fdc
-ns1.dns.nic.mint.	0	IN	A	156.154.144.112
-ns1.dns.nic.mint.	0	IN	AAAA	2610:a1:1071::70
-ns2.dns.nic.mint.	0	IN	A	156.154.145.112
-ns2.dns.nic.mint.	0	IN	AAAA	2610:a1:1072::70
-ns3.dns.nic.mint.	0	IN	A	156.154.159.112
-ns3.dns.nic.mint.	0	IN	AAAA	2610:a1:1073::70
+a.nic.mint.	0	IN	A	37.209.192.9
+a.nic.mint.	0	IN	AAAA	2001:dcd:1::9
+b.nic.mint.	0	IN	A	37.209.194.9
+b.nic.mint.	0	IN	AAAA	2001:dcd:2::9
+c.nic.mint.	0	IN	A	37.209.196.9
+c.nic.mint.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.mint.	0	IN	A	156.154.156.112
 ns4.dns.nic.mint.	0	IN	AAAA	2610:a1:1074::70
 ns5.dns.nic.mint.	0	IN	A	156.154.157.112
@@ -11461,20 +11461,20 @@ moscow.	0	IN	NS	b.dns.flexireg.net.
 moscow.	0	IN	NS	c.dns.flexireg.org.
 moscow.	0	IN	NS	d.dns.flexireg.domains.
 moscow.	0	IN	DS	50770 8 2 63009cccfb519b1edff8beed4df77f0ea9741cddeb172207f622ccd913994e75
-moto.	0	IN	NS	ns1.dns.nic.moto.
-moto.	0	IN	NS	ns2.dns.nic.moto.
-moto.	0	IN	NS	ns3.dns.nic.moto.
+moto.	0	IN	NS	a.nic.moto.
+moto.	0	IN	NS	b.nic.moto.
+moto.	0	IN	NS	c.nic.moto.
 moto.	0	IN	NS	ns4.dns.nic.moto.
 moto.	0	IN	NS	ns5.dns.nic.moto.
 moto.	0	IN	NS	ns6.dns.nic.moto.
 moto.	0	IN	DS	5671 8 2 6c1c11faaa1afb7c6198f3cd2bad469e9c0e5d1d714189a4992699093440d97c
 moto.	0	IN	DS	10705 8 2 a039b06852099a6b4e7eafe4f4187f6d3b5747953413ce454ead9a4576301c5f
-ns1.dns.nic.moto.	0	IN	A	156.154.169.81
-ns1.dns.nic.moto.	0	IN	AAAA	2610:a1:1071::1:51
-ns2.dns.nic.moto.	0	IN	A	156.154.170.81
-ns2.dns.nic.moto.	0	IN	AAAA	2610:a1:1072::1:51
-ns3.dns.nic.moto.	0	IN	A	156.154.171.81
-ns3.dns.nic.moto.	0	IN	AAAA	2610:a1:1073::1:51
+a.nic.moto.	0	IN	A	37.209.192.9
+a.nic.moto.	0	IN	AAAA	2001:dcd:1::9
+b.nic.moto.	0	IN	A	37.209.194.9
+b.nic.moto.	0	IN	AAAA	2001:dcd:2::9
+c.nic.moto.	0	IN	A	37.209.196.9
+c.nic.moto.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.moto.	0	IN	A	156.154.172.81
 ns4.dns.nic.moto.	0	IN	AAAA	2610:a1:1074::1:51
 ns5.dns.nic.moto.	0	IN	A	156.154.173.81
@@ -12170,20 +12170,20 @@ c.nic.netbank.	0	IN	A	37.209.196.9
 c.nic.netbank.	0	IN	AAAA	2001:dcd:3::9
 d.nic.netbank.	0	IN	A	37.209.198.9
 d.nic.netbank.	0	IN	AAAA	2001:dcd:4::9
-netflix.	0	IN	NS	ns1.dns.nic.netflix.
-netflix.	0	IN	NS	ns2.dns.nic.netflix.
-netflix.	0	IN	NS	ns3.dns.nic.netflix.
+netflix.	0	IN	NS	a.nic.netflix.
+netflix.	0	IN	NS	b.nic.netflix.
+netflix.	0	IN	NS	c.nic.netflix.
 netflix.	0	IN	NS	ns4.dns.nic.netflix.
 netflix.	0	IN	NS	ns5.dns.nic.netflix.
 netflix.	0	IN	NS	ns6.dns.nic.netflix.
 netflix.	0	IN	DS	27637 8 2 7aba17bd5b87aa5d31cb611e0dfd4c67d926b6cfc68b8aeca58c468b104cc2e6
 netflix.	0	IN	DS	35611 8 2 37bd4f2e02f06306f0c4eb146ebd289cf83b91824b1320a6332aab7b14f33462
-ns1.dns.nic.netflix.	0	IN	A	156.154.144.121
-ns1.dns.nic.netflix.	0	IN	AAAA	2610:a1:1071::79
-ns2.dns.nic.netflix.	0	IN	A	156.154.145.121
-ns2.dns.nic.netflix.	0	IN	AAAA	2610:a1:1072::79
-ns3.dns.nic.netflix.	0	IN	A	156.154.159.121
-ns3.dns.nic.netflix.	0	IN	AAAA	2610:a1:1073::79
+a.nic.netflix.	0	IN	A	37.209.192.9
+a.nic.netflix.	0	IN	AAAA	2001:dcd:1::9
+b.nic.netflix.	0	IN	A	37.209.194.9
+b.nic.netflix.	0	IN	AAAA	2001:dcd:2::9
+c.nic.netflix.	0	IN	A	37.209.196.9
+c.nic.netflix.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.netflix.	0	IN	A	156.154.156.121
 ns4.dns.nic.netflix.	0	IN	AAAA	2610:a1:1074::79
 ns5.dns.nic.netflix.	0	IN	A	156.154.157.121
@@ -12292,20 +12292,20 @@ nf.	0	IN	NS	ns2.anycastdns.cz.
 nf.	0	IN	DS	54236 8 2 dd87dd324e8360dec8daaf2db771b8c52024d6cefeb76f2b855e0fc3b8fdb7d7
 ns.anycast.nic.nf.	0	IN	A	204.61.216.51
 ns.anycast.nic.nf.	0	IN	AAAA	2001:500:14:6051:ad::1
-nfl.	0	IN	NS	ns1.dns.nic.nfl.
-nfl.	0	IN	NS	ns2.dns.nic.nfl.
-nfl.	0	IN	NS	ns3.dns.nic.nfl.
+nfl.	0	IN	NS	a.nic.nfl.
+nfl.	0	IN	NS	b.nic.nfl.
+nfl.	0	IN	NS	c.nic.nfl.
 nfl.	0	IN	NS	ns4.dns.nic.nfl.
 nfl.	0	IN	NS	ns5.dns.nic.nfl.
 nfl.	0	IN	NS	ns6.dns.nic.nfl.
 nfl.	0	IN	DS	7234 8 2 ec15a3b4d86192561c46bc1ebb72aa65bf5bf9c9d07a32ee736157ebadd447bb
 nfl.	0	IN	DS	52009 8 2 4f703d96f3eb2e4621c5176905407ceac4aef4cfa8409791afc2b20bdf4efb2a
-ns1.dns.nic.nfl.	0	IN	A	156.154.144.122
-ns1.dns.nic.nfl.	0	IN	AAAA	2610:a1:1071::7a
-ns2.dns.nic.nfl.	0	IN	A	156.154.145.122
-ns2.dns.nic.nfl.	0	IN	AAAA	2610:a1:1072::7a
-ns3.dns.nic.nfl.	0	IN	A	156.154.159.122
-ns3.dns.nic.nfl.	0	IN	AAAA	2610:a1:1073::7a
+a.nic.nfl.	0	IN	A	37.209.192.9
+a.nic.nfl.	0	IN	AAAA	2001:dcd:1::9
+b.nic.nfl.	0	IN	A	37.209.194.9
+b.nic.nfl.	0	IN	AAAA	2001:dcd:2::9
+c.nic.nfl.	0	IN	A	37.209.196.9
+c.nic.nfl.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.nfl.	0	IN	A	156.154.156.122
 ns4.dns.nic.nfl.	0	IN	AAAA	2610:a1:1074::7a
 ns5.dns.nic.nfl.	0	IN	A	156.154.157.122
@@ -14807,8 +14807,8 @@ ruhr.	0	IN	NS	a.nic.ruhr.
 ruhr.	0	IN	NS	b.nic.ruhr.
 ruhr.	0	IN	NS	c.nic.ruhr.
 ruhr.	0	IN	NS	d.nic.ruhr.
-ruhr.	0	IN	DS	25131 10 2 ec453960c396742efa2ef815fa9c9dba146e838f86f11643704c1630424f4e78
 ruhr.	0	IN	DS	40422 10 2 74fb0b871adf46aab5d49a1eb3b8b0b7dda42c023dd045ec0282b6187b3b4cf7
+ruhr.	0	IN	DS	46252 10 2 3db9db25d3b8e13fbcb4eba53f61c7ce156831dce66d4a19747d17f8ab278fdb
 a.nic.ruhr.	0	IN	A	194.169.218.155
 a.nic.ruhr.	0	IN	AAAA	2001:67c:13cc::1:155
 b.nic.ruhr.	0	IN	A	185.24.64.155
@@ -14893,8 +14893,8 @@ saarland.	0	IN	NS	a.nic.saarland.
 saarland.	0	IN	NS	b.nic.saarland.
 saarland.	0	IN	NS	c.nic.saarland.
 saarland.	0	IN	NS	d.nic.saarland.
-saarland.	0	IN	DS	7844 8 2 dfe5f176f88838e618aa262e829ec782074a1440a0ac6d7fdaa2015d6dede1e7
 saarland.	0	IN	DS	46559 8 2 ad4f2ac407e370565df690b65cc4db568a2f4396403fab61d2dcf21cf7d2d823
+saarland.	0	IN	DS	48752 8 2 4ca46968a784b92804d8b08d61ffa40a44c037863c90d8318faa32dd7d6f6a24
 a.nic.saarland.	0	IN	A	194.169.218.97
 a.nic.saarland.	0	IN	AAAA	2001:67c:13cc::1:97
 b.nic.saarland.	0	IN	A	185.24.64.97
@@ -19962,20 +19962,20 @@ xn--mgb9awbf.	0	IN	NS	cctld.beta.aridns.net.au.
 xn--mgb9awbf.	0	IN	NS	cctld.alpha.aridns.net.au.
 xn--mgb9awbf.	0	IN	NS	cctld.delta.aridns.net.au.
 xn--mgb9awbf.	0	IN	NS	cctld.gamma.aridns.net.au.
-xn--mgba3a3ejt.	0	IN	NS	ns1.dns.nic.xn--mgba3a3ejt.
-xn--mgba3a3ejt.	0	IN	NS	ns2.dns.nic.xn--mgba3a3ejt.
-xn--mgba3a3ejt.	0	IN	NS	ns3.dns.nic.xn--mgba3a3ejt.
+xn--mgba3a3ejt.	0	IN	NS	a.nic.xn--mgba3a3ejt.
+xn--mgba3a3ejt.	0	IN	NS	b.nic.xn--mgba3a3ejt.
+xn--mgba3a3ejt.	0	IN	NS	c.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	NS	ns4.dns.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	NS	ns5.dns.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	NS	ns6.dns.nic.xn--mgba3a3ejt.
 xn--mgba3a3ejt.	0	IN	DS	11089 8 2 c3a28d5f3c622803433961c5b5769c4df33e5c83abe9d1c2dd78ff4657fc8468
 xn--mgba3a3ejt.	0	IN	DS	60499 8 2 31728b6312e2eec4d09535252d0b46f6fdb80969882cd9e76d0320f3a2e37798
-ns1.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.144.15
-ns1.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1071::f
-ns2.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.145.15
-ns2.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1072::f
-ns3.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.159.15
-ns3.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1073::f
+a.nic.xn--mgba3a3ejt.	0	IN	A	37.209.192.9
+a.nic.xn--mgba3a3ejt.	0	IN	AAAA	2001:dcd:1::9
+b.nic.xn--mgba3a3ejt.	0	IN	A	37.209.194.9
+b.nic.xn--mgba3a3ejt.	0	IN	AAAA	2001:dcd:2::9
+c.nic.xn--mgba3a3ejt.	0	IN	A	37.209.196.9
+c.nic.xn--mgba3a3ejt.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.156.15
 ns4.dns.nic.xn--mgba3a3ejt.	0	IN	AAAA	2610:a1:1074::f
 ns5.dns.nic.xn--mgba3a3ejt.	0	IN	A	156.154.157.15
