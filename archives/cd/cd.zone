@@ -15167,8 +15167,10 @@ scorpionforce.cd.	0	IN	NS	ns1.cows.cd.
 scorpionforce.cd.	0	IN	NS	ns2.cows.cd.
 scpt.cd.	0	IN	NS	ns1.scpt-network.cd.
 scpt.cd.	0	IN	NS	ns2.scpt-network.cd.
-scpt-network.cd.	0	IN	NS	ns1.shivanet.net.
-scpt-network.cd.	0	IN	NS	ns2.shivanet.net.
+scpt-network.cd.	0	IN	NS	ns1.scpt-network.cd.
+scpt-network.cd.	0	IN	NS	ns2.scpt-network.cd.
+ns1.scpt-network.cd.	0	IN	A	154.72.55.16
+ns2.scpt-network.cd.	0	IN	A	102.68.62.16
 scratch.cd.	0	IN	NS	ajay.ns.cloudflare.com.
 scratch.cd.	0	IN	NS	arch.ns.cloudflare.com.
 screwdriver.cd.	0	IN	NS	ns1.yahoo.com.
