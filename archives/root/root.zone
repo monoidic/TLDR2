@@ -18642,40 +18642,40 @@ b0.nic.watches.	0	IN	A	65.22.205.1
 b0.nic.watches.	0	IN	AAAA	2a01:8840:c7::1
 c0.nic.watches.	0	IN	A	65.22.206.1
 c0.nic.watches.	0	IN	AAAA	2a01:8840:c8::1
-weather.	0	IN	NS	ns1.dns.nic.weather.
-weather.	0	IN	NS	ns2.dns.nic.weather.
-weather.	0	IN	NS	ns3.dns.nic.weather.
+weather.	0	IN	NS	a.nic.weather.
+weather.	0	IN	NS	b.nic.weather.
+weather.	0	IN	NS	c.nic.weather.
 weather.	0	IN	NS	ns4.dns.nic.weather.
 weather.	0	IN	NS	ns5.dns.nic.weather.
 weather.	0	IN	NS	ns6.dns.nic.weather.
 weather.	0	IN	DS	1249 8 2 96765e88a1b12cce10c5c67934b10344ad4e5d63588e4b9d442fc533c8224f01
 weather.	0	IN	DS	6439 8 2 f994e24ad5e878714e771fa57227ea081f681b270d9faa5ba4cade422ee1aa3f
-ns1.dns.nic.weather.	0	IN	A	156.154.144.178
-ns1.dns.nic.weather.	0	IN	AAAA	2610:a1:1071::b2
-ns2.dns.nic.weather.	0	IN	A	156.154.145.178
-ns2.dns.nic.weather.	0	IN	AAAA	2610:a1:1072::b2
-ns3.dns.nic.weather.	0	IN	A	156.154.159.178
-ns3.dns.nic.weather.	0	IN	AAAA	2610:a1:1073::b2
+a.nic.weather.	0	IN	A	37.209.192.9
+a.nic.weather.	0	IN	AAAA	2001:dcd:1::9
+b.nic.weather.	0	IN	A	37.209.194.9
+b.nic.weather.	0	IN	AAAA	2001:dcd:2::9
+c.nic.weather.	0	IN	A	37.209.196.9
+c.nic.weather.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.weather.	0	IN	A	156.154.156.178
 ns4.dns.nic.weather.	0	IN	AAAA	2610:a1:1074::b2
 ns5.dns.nic.weather.	0	IN	A	156.154.157.178
 ns5.dns.nic.weather.	0	IN	AAAA	2610:a1:1075::b2
 ns6.dns.nic.weather.	0	IN	A	156.154.158.178
 ns6.dns.nic.weather.	0	IN	AAAA	2610:a1:1076::b2
-weatherchannel.	0	IN	NS	ns1.dns.nic.weatherchannel.
-weatherchannel.	0	IN	NS	ns2.dns.nic.weatherchannel.
-weatherchannel.	0	IN	NS	ns3.dns.nic.weatherchannel.
+weatherchannel.	0	IN	NS	a.nic.weatherchannel.
+weatherchannel.	0	IN	NS	b.nic.weatherchannel.
+weatherchannel.	0	IN	NS	c.nic.weatherchannel.
 weatherchannel.	0	IN	NS	ns4.dns.nic.weatherchannel.
 weatherchannel.	0	IN	NS	ns5.dns.nic.weatherchannel.
 weatherchannel.	0	IN	NS	ns6.dns.nic.weatherchannel.
 weatherchannel.	0	IN	DS	7789 8 2 79d6daaefc15969665f10e9de136425c117994c302f41ca70f1157be61fb9384
 weatherchannel.	0	IN	DS	47695 8 2 b2f90e6997386b0411808f05702d0f9ac00f5c0d129262394c86e1ba79977be2
-ns1.dns.nic.weatherchannel.	0	IN	A	156.154.144.179
-ns1.dns.nic.weatherchannel.	0	IN	AAAA	2610:a1:1071::b3
-ns2.dns.nic.weatherchannel.	0	IN	A	156.154.145.179
-ns2.dns.nic.weatherchannel.	0	IN	AAAA	2610:a1:1072::b3
-ns3.dns.nic.weatherchannel.	0	IN	A	156.154.159.179
-ns3.dns.nic.weatherchannel.	0	IN	AAAA	2610:a1:1073::b3
+a.nic.weatherchannel.	0	IN	A	37.209.192.9
+a.nic.weatherchannel.	0	IN	AAAA	2001:dcd:1::9
+b.nic.weatherchannel.	0	IN	A	37.209.194.9
+b.nic.weatherchannel.	0	IN	AAAA	2001:dcd:2::9
+c.nic.weatherchannel.	0	IN	A	37.209.196.9
+c.nic.weatherchannel.	0	IN	AAAA	2001:dcd:3::9
 ns4.dns.nic.weatherchannel.	0	IN	A	156.154.156.179
 ns4.dns.nic.weatherchannel.	0	IN	AAAA	2610:a1:1074::b3
 ns5.dns.nic.weatherchannel.	0	IN	A	156.154.157.179
@@ -19571,7 +19571,7 @@ xn--d1acj3b.	0	IN	NS	b.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	d.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	e.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	f.dns.ripn.net.
-xn--d1acj3b.	0	IN	DS	29456 8 2 c34bc7c01769d1bb146fe4007511dba6c49dde04ac27f52e47ed6ff95b8cb36e
+xn--d1acj3b.	0	IN	DS	62719 8 2 78004ba803c2f5f251f3227c072df8c545d30f3a018288142692aa4d20ba3f24
 xn--d1alf.	0	IN	NS	d.ext.nic.cz.
 xn--d1alf.	0	IN	NS	ns2.arnes.si.
 xn--d1alf.	0	IN	NS	tld1.marnet.mk.
