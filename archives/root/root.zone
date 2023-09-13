@@ -2599,6 +2599,7 @@ ca.	0	IN	NS	c.ca-servers.ca.
 ca.	0	IN	NS	d.ca-servers.ca.
 ca.	0	IN	NS	j.ca-servers.ca.
 ca.	0	IN	NS	any.ca-servers.ca.
+ca.	0	IN	DS	18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
 ca.	0	IN	DS	43787 8 2 2af70b49c542b7dacec2d4754651598b740ef1d79e7a839b32bc7f7e96039a2c
 any.ca-servers.ca.	0	IN	A	199.4.144.2
 any.ca-servers.ca.	0	IN	AAAA	2001:500:a7::2
@@ -11219,6 +11220,7 @@ ns3.dns.nic.mlb.	0	IN	A	156.154.159.113
 ns3.dns.nic.mlb.	0	IN	AAAA	2610:a1:1073::71
 mls.	0	IN	NS	a.ns.nic.mls.
 mls.	0	IN	NS	b.ns.nic.mls.
+mls.	0	IN	DS	2629 8 2 1f831bf4f17ca7b3636eb20249abe2bc58fe071b0f6e8869ec904c8dd8a48cb8
 mls.	0	IN	DS	32866 8 2 ea3c1c5994bb36364acb0a9b8c09cd84477d6707c9317259bcbc8149992a485c
 a.ns.nic.mls.	0	IN	A	185.159.197.8
 a.ns.nic.mls.	0	IN	AAAA	2620:10a:80aa::8
