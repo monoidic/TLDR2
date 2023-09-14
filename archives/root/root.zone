@@ -934,7 +934,6 @@ asda.	0	IN	NS	a0.nic.asda.
 asda.	0	IN	NS	a2.nic.asda.
 asda.	0	IN	NS	b0.nic.asda.
 asda.	0	IN	NS	c0.nic.asda.
-asda.	0	IN	DS	3153 8 2 52bb4fa0c9653f7c74296f54cee26b763688040ee511162b33a67345eb2ee56b
 asda.	0	IN	DS	26782 8 2 dea162d88db4bf889a745ff70cc6d0e56245350e4aecddb262cdb1a0663347df
 a0.nic.asda.	0	IN	A	65.22.112.43
 a0.nic.asda.	0	IN	AAAA	2a01:8840:6e::43
@@ -3629,21 +3628,12 @@ v2n0.nic.clothing.	0	IN	A	65.22.27.13
 v2n0.nic.clothing.	0	IN	AAAA	2a01:8840:1d::13
 v2n1.nic.clothing.	0	IN	A	161.232.13.13
 v2n1.nic.clothing.	0	IN	AAAA	2a01:8840:f7::13
-cloud.	0	IN	NS	c.nic.cloud.
-cloud.	0	IN	NS	y.nic.cloud.
-cloud.	0	IN	NS	z.nic.cloud.
 cloud.	0	IN	NS	ns1.uniregistry.net.
 cloud.	0	IN	NS	ns2.uniregistry.info.
 cloud.	0	IN	NS	ns3.uniregistry.net.
 cloud.	0	IN	NS	ns4.uniregistry.info.
 cloud.	0	IN	DS	23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
 cloud.	0	IN	DS	48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
-c.nic.cloud.	0	IN	A	37.209.196.10
-c.nic.cloud.	0	IN	AAAA	2001:dcd:3::10
-y.nic.cloud.	0	IN	A	156.154.173.82
-y.nic.cloud.	0	IN	AAAA	2610:a1:1075::1:82
-z.nic.cloud.	0	IN	A	156.154.174.82
-z.nic.cloud.	0	IN	AAAA	2610:a1:1076::1:82
 club.	0	IN	NS	a.nic.club.
 club.	0	IN	NS	b.nic.club.
 club.	0	IN	NS	c.nic.club.
@@ -7073,7 +7063,6 @@ george.	0	IN	NS	a2.nic.george.
 george.	0	IN	NS	b0.nic.george.
 george.	0	IN	NS	c0.nic.george.
 george.	0	IN	DS	1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
-george.	0	IN	DS	24255 8 2 944d283dd22b4fec947c88d9c8369c75852a9b74a3a88a74756864de374496d4
 a0.nic.george.	0	IN	A	65.22.112.49
 a0.nic.george.	0	IN	AAAA	2a01:8840:6e::49
 a2.nic.george.	0	IN	A	65.22.115.49
@@ -7552,7 +7541,6 @@ grocery.	0	IN	NS	a0.nic.grocery.
 grocery.	0	IN	NS	a2.nic.grocery.
 grocery.	0	IN	NS	b0.nic.grocery.
 grocery.	0	IN	NS	c0.nic.grocery.
-grocery.	0	IN	DS	5415 8 2 c723e260e44420eb0bef197e29f17f26ff4edda1d7e2f3c09dfaabbb2282bc86
 grocery.	0	IN	DS	58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
 a0.nic.grocery.	0	IN	A	65.22.112.50
 a0.nic.grocery.	0	IN	AAAA	2a01:8840:6e::50
@@ -15003,7 +14991,6 @@ samsclub.	0	IN	NS	a0.nic.samsclub.
 samsclub.	0	IN	NS	a2.nic.samsclub.
 samsclub.	0	IN	NS	b0.nic.samsclub.
 samsclub.	0	IN	NS	c0.nic.samsclub.
-samsclub.	0	IN	DS	3888 8 2 12c5eb19d3471e5bd6bc69d1e38b1b37b26ec950e0367e158df6221293b17806
 samsclub.	0	IN	DS	60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
 a0.nic.samsclub.	0	IN	A	65.22.112.66
 a0.nic.samsclub.	0	IN	AAAA	2a01:8840:6e::66
@@ -16617,6 +16604,7 @@ u.nic.swiss.	0	IN	AAAA	2a01:5b0:5::9
 sx.	0	IN	NS	ns1.ns.sx.
 sx.	0	IN	NS	ns2.ns.sx.
 sx.	0	IN	DS	18379 8 2 4347640217ef8340c38cf28327de8bf0c8b3db7d30e5d62f04c29af24738f83f
+sx.	0	IN	DS	34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
 ns1.ns.sx.	0	IN	A	185.159.197.10
 ns1.ns.sx.	0	IN	AAAA	2620:10a:80aa::10
 ns2.ns.sx.	0	IN	A	185.159.198.10
@@ -18549,7 +18537,6 @@ walmart.	0	IN	NS	a2.nic.walmart.
 walmart.	0	IN	NS	b0.nic.walmart.
 walmart.	0	IN	NS	c0.nic.walmart.
 walmart.	0	IN	DS	34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
-walmart.	0	IN	DS	42084 8 2 114198bd39750b2e840c302b523e065c55be0152955ddd7d5408a3d73618954d
 a0.nic.walmart.	0	IN	A	65.22.112.74
 a0.nic.walmart.	0	IN	AAAA	2a01:8840:6e::74
 a2.nic.walmart.	0	IN	A	65.22.115.74
