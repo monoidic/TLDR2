@@ -1,20 +1,16 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
-* `.`
 * `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
 * `cy.`
-* `diet.`
-* `dz.`
 * `ee.`
 * `flowers.`
 * `game.`
@@ -22,7 +18,6 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -37,7 +32,6 @@
 * `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
