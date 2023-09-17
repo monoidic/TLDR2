@@ -8,9 +8,11 @@
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
+* `cy.`
 * `diet.`
 * `dz.`
 * `ee.`
@@ -28,9 +30,11 @@
 * `lol.`
 * `lr.`
 * `mc.`
+* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
+* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
