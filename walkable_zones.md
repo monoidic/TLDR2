@@ -13,6 +13,7 @@
 * `christmas.`
 * `ci.`
 * `cy.`
+* `diet.`
 * `dz.`
 * `ee.`
 * `flowers.`
@@ -27,9 +28,12 @@
 * `lb.`
 * `lk.`
 * `lol.`
+* `lr.`
 * `mc.`
 * `mom.`
+* `nu.`
 * `pics.`
+* `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
