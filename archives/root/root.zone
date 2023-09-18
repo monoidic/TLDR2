@@ -8875,10 +8875,13 @@ nsp-anycast.cmc.iq.	0	IN	A	194.117.58.42
 nsp-anycast.cmc.iq.	0	IN	AAAA	2001:500:14:8001:ad::42
 ir.	0	IN	NS	a.nic.ir.
 ir.	0	IN	NS	b.nic.ir.
+ir.	0	IN	NS	c.nic.ir.
 ir.	0	IN	NS	ir.cctld.authdns.ripe.net.
 ir.	0	IN	NS	ns5.univie.ac.at.
 a.nic.ir.	0	IN	A	193.189.123.2
 b.nic.ir.	0	IN	A	193.189.122.83
+c.nic.ir.	0	IN	A	141.95.65.136
+c.nic.ir.	0	IN	AAAA	2001:41d0:700:5d88::
 irish.	0	IN	NS	v0n0.nic.irish.
 irish.	0	IN	NS	v0n1.nic.irish.
 irish.	0	IN	NS	v0n2.nic.irish.
