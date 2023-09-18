@@ -7,9 +7,7 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
-* `cars.`
 * `christmas.`
 * `ci.`
 * `cy.`
@@ -17,9 +15,7 @@
 * `dz.`
 * `ee.`
 * `flowers.`
-* `game.`
 * `gdn.`
-* `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
@@ -45,4 +41,3 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
