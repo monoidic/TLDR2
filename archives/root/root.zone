@@ -2600,7 +2600,6 @@ ca.	0	IN	NS	d.ca-servers.ca.
 ca.	0	IN	NS	j.ca-servers.ca.
 ca.	0	IN	NS	any.ca-servers.ca.
 ca.	0	IN	DS	18560 13 2 86ec28ed5bff076186306dc8ce3b4e3ec0433d9d5d34c7ca8dac7b1934e8b324
-ca.	0	IN	DS	43787 8 2 2af70b49c542b7dacec2d4754651598b740ef1d79e7a839b32bc7f7e96039a2c
 any.ca-servers.ca.	0	IN	A	199.4.144.2
 any.ca-servers.ca.	0	IN	AAAA	2001:500:a7::2
 c.ca-servers.ca.	0	IN	A	185.159.196.2
@@ -10466,9 +10465,8 @@ lpl.	0	IN	NS	a.nic.lpl.
 lpl.	0	IN	NS	b.nic.lpl.
 lpl.	0	IN	NS	c.nic.lpl.
 lpl.	0	IN	NS	d.nic.lpl.
-lpl.	0	IN	DS	27378 7 1 ccc5b2d39befa0918768394724325608e076514f
-lpl.	0	IN	DS	27378 7 2 6f3063778a89b0c993a6d80c0f86b1bf14d3f5669075fc98dc16b8fd1608846e
-lpl.	0	IN	DS	50040 7 1 08a7f61b3c9cf7fa6658ea454a0e5d9c2c62e494
+lpl.	0	IN	DS	17754 13 2 89e157c100bc7bd01d57a930f8ce6025cf7c4c30e8b636c61d79697c01fffccc
+lpl.	0	IN	DS	43324 13 2 1783403d052e9b382d00f3d78ab8dc40689ae032b7246d93a683761837f220df
 lpl.	0	IN	DS	50040 7 2 4aaf92273ea09ca7ed698d5785389a7703a5475def5962e813c000fa7893b328
 a.nic.lpl.	0	IN	A	194.169.218.92
 a.nic.lpl.	0	IN	AAAA	2001:67c:13cc::1:92
@@ -10482,10 +10480,9 @@ lplfinancial.	0	IN	NS	a.nic.lplfinancial.
 lplfinancial.	0	IN	NS	b.nic.lplfinancial.
 lplfinancial.	0	IN	NS	c.nic.lplfinancial.
 lplfinancial.	0	IN	NS	d.nic.lplfinancial.
-lplfinancial.	0	IN	DS	3615 7 1 2d15ec1892f7e0ae2491b0cd144a114f65605778
-lplfinancial.	0	IN	DS	3615 7 2 0d3ea589cbd6c634cecf40050614ee0f1a4c364f7cc74e225d29138db054a4fe
-lplfinancial.	0	IN	DS	8455 7 1 96f3c31c34d12d10939065bb2b1e0ea86176da0d
+lplfinancial.	0	IN	DS	5735 13 2 2a05b6233fed896c1e37fbac05045ea676f33e838f2177acd4cba897e128a0bc
 lplfinancial.	0	IN	DS	8455 7 2 91d851ae03523f99d6c6def2d0ee451c6778ea3d58f4c347852972cc7b6b50b9
+lplfinancial.	0	IN	DS	59873 13 2 f4665676a01cda5d5cd4efd16ba5f3919ef741e788d27512015c84d8b0861df1
 a.nic.lplfinancial.	0	IN	A	194.169.218.93
 a.nic.lplfinancial.	0	IN	AAAA	2001:67c:13cc::1:93
 b.nic.lplfinancial.	0	IN	A	185.24.64.93
@@ -11109,6 +11106,7 @@ mil.	0	IN	NS	eur1.nipr.mil.
 mil.	0	IN	NS	eur2.nipr.mil.
 mil.	0	IN	NS	pac1.nipr.mil.
 mil.	0	IN	NS	pac2.nipr.mil.
+mil.	0	IN	DS	16801 8 2 49013e5d5ed406c25c5a3e7f67c756e34c925342a34bd64d7427536c366df99a
 mil.	0	IN	DS	62470 8 2 be1683ce6c223cacb29c51244ab9f7bc2b0ff6096feac8ced63368f9dc5060e7
 con1.nipr.mil.	0	IN	A	199.252.157.234
 con1.nipr.mil.	0	IN	AAAA	2608:140:c:157::234
@@ -14352,8 +14350,8 @@ reit.	0	IN	NS	a.nic.reit.
 reit.	0	IN	NS	b.nic.reit.
 reit.	0	IN	NS	c.nic.reit.
 reit.	0	IN	NS	d.nic.reit.
-reit.	0	IN	DS	44512 8 1 3451296e8f2ffe68eb14b400a686fe1da12e3941
 reit.	0	IN	DS	44512 8 2 661fbde636973834f5d417d3897ddf8590461da6f020cfaa4274718dd926c523
+reit.	0	IN	DS	51490 8 2 4dd84ee5eaf91cbbd8fddc5ab21382c030860e1fa9bf9d6412d8b4fe5dc9e353
 a.nic.reit.	0	IN	A	194.169.218.38
 a.nic.reit.	0	IN	AAAA	2001:67c:13cc::1:38
 b.nic.reit.	0	IN	A	185.24.64.38
@@ -18891,8 +18889,8 @@ wme.	0	IN	NS	a.nic.wme.
 wme.	0	IN	NS	b.nic.wme.
 wme.	0	IN	NS	c.nic.wme.
 wme.	0	IN	NS	d.nic.wme.
-wme.	0	IN	DS	7259 8 1 f4ccd846a0b86daf9ce33371fb93362d4dc4addf
 wme.	0	IN	DS	7259 8 2 e7cb7561099040db08978f7696320ddaf323f52ddbf951fa5f4c44b2f34e38bd
+wme.	0	IN	DS	60194 8 2 a1d20932b733059c4bb7e989fdf75a19a787eb186ce2db5648b1560c1db54495
 a.nic.wme.	0	IN	A	194.169.218.31
 a.nic.wme.	0	IN	AAAA	2001:67c:13cc::1:31
 b.nic.wme.	0	IN	A	185.24.64.31
@@ -19035,16 +19033,23 @@ us4.dns.ws.	0	IN	A	64.70.78.80
 wtc.	0	IN	NS	a.nic.wtc.
 wtc.	0	IN	NS	b.nic.wtc.
 wtc.	0	IN	NS	c.nic.wtc.
-wtc.	0	IN	NS	d.nic.wtc.
+wtc.	0	IN	NS	x.nic.wtc.
+wtc.	0	IN	NS	y.nic.wtc.
+wtc.	0	IN	NS	z.nic.wtc.
 wtc.	0	IN	DS	44554 8 2 b9a169f58e754770e8e23d48da8591a92f602f3d94862b33344c996c0590a6c4
+wtc.	0	IN	DS	60754 8 2 f5ba575547a9cc6e47f9785e00d2f89d55f9541135a7fa91926e8f953add6609
 a.nic.wtc.	0	IN	A	37.209.192.9
 a.nic.wtc.	0	IN	AAAA	2001:dcd:1::9
 b.nic.wtc.	0	IN	A	37.209.194.9
 b.nic.wtc.	0	IN	AAAA	2001:dcd:2::9
 c.nic.wtc.	0	IN	A	37.209.196.9
 c.nic.wtc.	0	IN	AAAA	2001:dcd:3::9
-d.nic.wtc.	0	IN	A	37.209.198.9
-d.nic.wtc.	0	IN	AAAA	2001:dcd:4::9
+x.nic.wtc.	0	IN	A	156.154.172.82
+x.nic.wtc.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.wtc.	0	IN	A	156.154.173.82
+y.nic.wtc.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.wtc.	0	IN	A	156.154.174.82
+z.nic.wtc.	0	IN	AAAA	2610:a1:1076::1:82
 wtf.	0	IN	NS	v0n0.nic.wtf.
 wtf.	0	IN	NS	v0n1.nic.wtf.
 wtf.	0	IN	NS	v0n2.nic.wtf.
