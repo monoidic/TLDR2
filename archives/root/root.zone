@@ -5380,6 +5380,7 @@ n2.nic.ec.	0	IN	A	200.12.199.1
 n2.nic.ec.	0	IN	AAAA	2801:0:60::1
 eco.	0	IN	NS	a.ns.nic.eco.
 eco.	0	IN	NS	b.ns.nic.eco.
+eco.	0	IN	DS	34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 eco.	0	IN	DS	38446 8 2 a2500ae83c687fd270d0660a27527c3c96c6a136a86d9f2bdc714e9280bb5e32
 a.ns.nic.eco.	0	IN	A	185.159.197.4
 a.ns.nic.eco.	0	IN	AAAA	2620:10a:80aa::4
@@ -7411,6 +7412,7 @@ gov.	0	IN	NS	b.gov-servers.net.
 gov.	0	IN	NS	c.gov-servers.net.
 gov.	0	IN	NS	d.gov-servers.net.
 gov.	0	IN	DS	7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
+gov.	0	IN	DS	64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 gp.	0	IN	NS	a.lactld.org.
 gp.	0	IN	NS	gp.cctld.authdns.ripe.net.
 gp.	0	IN	NS	ns1.nic.gp.
@@ -8880,6 +8882,7 @@ ir.	0	IN	NS	ir.cctld.authdns.ripe.net.
 ir.	0	IN	NS	ns5.univie.ac.at.
 a.nic.ir.	0	IN	A	193.189.123.2
 b.nic.ir.	0	IN	A	193.189.122.83
+b.nic.ir.	0	IN	AAAA	2001:14e8:c:0:193:189:122:83
 c.nic.ir.	0	IN	A	141.95.65.136
 c.nic.ir.	0	IN	AAAA	2001:41d0:700:5d88::
 irish.	0	IN	NS	v0n0.nic.irish.
@@ -9551,6 +9554,7 @@ v2n1.nic.kitchen.	0	IN	A	161.232.17.17
 v2n1.nic.kitchen.	0	IN	AAAA	2a01:8840:fb::17
 kiwi.	0	IN	NS	a.ns.nic.kiwi.
 kiwi.	0	IN	NS	b.ns.nic.kiwi.
+kiwi.	0	IN	DS	28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
 kiwi.	0	IN	DS	30184 8 2 72600ee2c5f82b9d0637cc4724b654d459051ca9b761380c126d926cb70a5002
 a.ns.nic.kiwi.	0	IN	A	185.159.197.1
 a.ns.nic.kiwi.	0	IN	AAAA	2620:10a:80aa::1
@@ -16605,7 +16609,6 @@ u.nic.swiss.	0	IN	A	195.253.65.9
 u.nic.swiss.	0	IN	AAAA	2a01:5b0:5::9
 sx.	0	IN	NS	ns1.ns.sx.
 sx.	0	IN	NS	ns2.ns.sx.
-sx.	0	IN	DS	18379 8 2 4347640217ef8340c38cf28327de8bf0c8b3db7d30e5d62f04c29af24738f83f
 sx.	0	IN	DS	34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
 ns1.ns.sx.	0	IN	A	185.159.197.10
 ns1.ns.sx.	0	IN	AAAA	2620:10a:80aa::10
