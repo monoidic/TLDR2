@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023092102 1 241 e629fc15507445e94d0d4ad89cdc3bf0ebf4e7c60fc4afff8bbd95a073deca06db10078891e925599ad679a6fc6fe050
+.	0	IN	ZONEMD	2023092103 1 241 bbb73e86fbae02f3b2162b595c6a9d4f577ca721b847c23e3ff257468f241b55cca5846708f63da4a17bf97039c72498
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3686,10 +3686,13 @@ ns5.conac.cn.	0	IN	A	111.235.165.1
 a.dns.cn.	0	IN	A	203.119.25.1
 a.dns.cn.	0	IN	AAAA	2001:dc7::1
 b.dns.cn.	0	IN	A	203.119.26.1
+b.dns.cn.	0	IN	AAAA	2001:dc7:1::1
 c.dns.cn.	0	IN	A	203.119.27.1
+c.dns.cn.	0	IN	AAAA	2001:dc7:2::1
 d.dns.cn.	0	IN	A	203.119.28.1
 d.dns.cn.	0	IN	AAAA	2001:dc7:1000::1
 e.dns.cn.	0	IN	A	203.119.29.1
+e.dns.cn.	0	IN	AAAA	2001:dc7:3::1
 h.dns.cn.	0	IN	A	125.208.32.1
 h.dns.cn.	0	IN	AAAA	2001:dc7:fffe::1
 i.dns.cn.	0	IN	A	125.208.33.1
@@ -7894,6 +7897,7 @@ hiv.	0	IN	NS	ns4.uniregistry.info.
 hiv.	0	IN	DS	50937 13 2 139053a1dd36c05b171d5adb695cedcd3db6eea7b7a2b0700aadc4c8712b1344
 hk.	0	IN	NS	c.hkirc.net.hk.
 hk.	0	IN	NS	d.hkirc.net.hk.
+hk.	0	IN	NS	m.hkirc.net.hk.
 hk.	0	IN	NS	t.hkirc.net.hk.
 hk.	0	IN	NS	u.hkirc.net.hk.
 hk.	0	IN	NS	v.hkirc.net.hk.
@@ -7907,6 +7911,10 @@ c.hkirc.net.hk.	0	IN	A	203.119.2.218
 c.hkirc.net.hk.	0	IN	AAAA	2001:dca:4000::cb77:2da
 d.hkirc.net.hk.	0	IN	A	203.119.87.218
 d.hkirc.net.hk.	0	IN	AAAA	2001:dca:2000::cb77:57da
+m.hkirc.net.hk.	0	IN	A	125.208.41.10
+m.hkirc.net.hk.	0	IN	A	125.208.42.10
+m.hkirc.net.hk.	0	IN	A	125.208.44.10
+m.hkirc.net.hk.	0	IN	AAAA	2001:dc7:ffc1::10
 t.hkirc.net.hk.	0	IN	A	202.12.31.53
 t.hkirc.net.hk.	0	IN	AAAA	2001:dd8:12::53
 u.hkirc.net.hk.	0	IN	A	210.201.138.58
@@ -19855,6 +19863,7 @@ xn--j1amh.	0	IN	NS	dns3.dotukr.com.
 xn--j1amh.	0	IN	NS	tier1.num.net.ua.
 xn--j6w193g.	0	IN	NS	c.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	d.hkirc.net.hk.
+xn--j6w193g.	0	IN	NS	m.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	t.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	u.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	v.hkirc.net.hk.
