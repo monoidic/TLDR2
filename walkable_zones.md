@@ -23,10 +23,7 @@
 * `guitars.`
 * `hosting.`
 * `id.`
-* `kg.`
 * `kz.`
-* `lb.`
-* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
