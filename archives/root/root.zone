@@ -14,7 +14,8 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023092201 1 241 b0d26cb7e598b54dae94dd26abc31af3be7f15dc262cad2b6ab282c6884cb96620f43a3b733329955b8942ab05144894
+.	0	IN	ZONEMD	2023092202 1 241 bb70a02636235ffdb70c45e7a626cb5a0dc4861e47ddb9927293e65f00e00c435c6a8f5d14430f8e4bf82823dfdc0b7b
+.	0	IN	ZONEMD	2023092203 1 241 cdbe0ded9484490493580583bf868a3e95f89fc3515bf26adbd230a6c23987f36bc6e504efc83606f9445476d4e57ffb
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3698,8 +3699,10 @@ h.dns.cn.	0	IN	AAAA	2001:dc7:fffe::1
 i.dns.cn.	0	IN	A	125.208.33.1
 i.dns.cn.	0	IN	AAAA	2001:dc7:ffff::1
 j.dns.cn.	0	IN	A	125.208.34.1
+j.dns.cn.	0	IN	AAAA	2001:dc7:fffd::1
 k.dns.cn.	0	IN	A	125.208.35.1
 l.dns.cn.	0	IN	A	125.208.36.1
+l.dns.cn.	0	IN	AAAA	2001:dc7:fffb::1
 a.ngtld.cn.	0	IN	A	125.208.40.1
 a.ngtld.cn.	0	IN	AAAA	2001:dc7:ffc1::1
 b.ngtld.cn.	0	IN	A	125.208.41.1
@@ -8887,8 +8890,6 @@ nsp-anycast.cmc.iq.	0	IN	AAAA	2001:500:14:8001:ad::42
 ir.	0	IN	NS	a.nic.ir.
 ir.	0	IN	NS	b.nic.ir.
 ir.	0	IN	NS	c.nic.ir.
-ir.	0	IN	NS	ir.cctld.authdns.ripe.net.
-ir.	0	IN	NS	ns5.univie.ac.at.
 a.nic.ir.	0	IN	A	193.189.123.2
 b.nic.ir.	0	IN	A	193.189.122.83
 b.nic.ir.	0	IN	AAAA	2001:14e8:c:0:193:189:122:83
@@ -12066,8 +12067,6 @@ gu.cctld.authdns.ripe.net.	0	IN	A	193.0.9.78
 gu.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::78
 iq.cctld.authdns.ripe.net.	0	IN	A	193.0.9.81
 iq.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::81
-ir.cctld.authdns.ripe.net.	0	IN	A	193.0.9.85
-ir.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::85
 jm.cctld.authdns.ripe.net.	0	IN	A	193.0.9.82
 jm.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::82
 jo.cctld.authdns.ripe.net.	0	IN	A	193.0.9.83
