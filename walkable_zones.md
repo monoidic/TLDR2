@@ -6,7 +6,9 @@
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
+* `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
@@ -29,8 +31,10 @@
 * `lr.`
 * `mc.`
 * `mom.`
+* `nu.`
 * `pics.`
 * `pr.`
+* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
