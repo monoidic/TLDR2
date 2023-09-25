@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023092501 1 241 5d2654221d3d80f7d51fc3255d0e0ef7019d6e76034ea03bc9c6600cf1125220663350a4f04e179c4751610884b82def
+.	0	IN	ZONEMD	2023092502 1 241 4227bde7c956255a3564a4d98f25d60df3285f9faa16100cc623b2e3bec6593f1bf33b261a7c1ca7258813c695af42ef
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3440,26 +3440,20 @@ ns2.dns.nic.cisco.	0	IN	A	156.154.145.44
 ns2.dns.nic.cisco.	0	IN	AAAA	2610:a1:1072::2c
 ns3.dns.nic.cisco.	0	IN	A	156.154.159.44
 ns3.dns.nic.cisco.	0	IN	AAAA	2610:a1:1073::2c
-citadel.	0	IN	NS	ns1.dns.nic.citadel.
-citadel.	0	IN	NS	ns2.dns.nic.citadel.
-citadel.	0	IN	NS	ns3.dns.nic.citadel.
-citadel.	0	IN	NS	ns4.dns.nic.citadel.
-citadel.	0	IN	NS	ns5.dns.nic.citadel.
-citadel.	0	IN	NS	ns6.dns.nic.citadel.
+citadel.	0	IN	NS	a0.nic.citadel.
+citadel.	0	IN	NS	a2.nic.citadel.
+citadel.	0	IN	NS	b0.nic.citadel.
+citadel.	0	IN	NS	c0.nic.citadel.
 citadel.	0	IN	DS	43942 8 2 6a252ba4b61331a3d35b5d06ae744643af83053295c42c0c2e65fcebba07834f
 citadel.	0	IN	DS	62107 8 2 cc98bfd74d46f2274b9a966f9d522161c6d2ea0d8621df3a6ac4f1d3b229dc7c
-ns1.dns.nic.citadel.	0	IN	A	156.154.144.45
-ns1.dns.nic.citadel.	0	IN	AAAA	2610:a1:1071::2d
-ns2.dns.nic.citadel.	0	IN	A	156.154.145.45
-ns2.dns.nic.citadel.	0	IN	AAAA	2610:a1:1072::2d
-ns3.dns.nic.citadel.	0	IN	A	156.154.159.45
-ns3.dns.nic.citadel.	0	IN	AAAA	2610:a1:1073::2d
-ns4.dns.nic.citadel.	0	IN	A	156.154.156.45
-ns4.dns.nic.citadel.	0	IN	AAAA	2610:a1:1074::2d
-ns5.dns.nic.citadel.	0	IN	A	156.154.157.45
-ns5.dns.nic.citadel.	0	IN	AAAA	2610:a1:1075::2d
-ns6.dns.nic.citadel.	0	IN	A	156.154.158.45
-ns6.dns.nic.citadel.	0	IN	AAAA	2610:a1:1076::2d
+a0.nic.citadel.	0	IN	A	65.22.112.33
+a0.nic.citadel.	0	IN	AAAA	2a01:8840:6e::33
+a2.nic.citadel.	0	IN	A	65.22.115.33
+a2.nic.citadel.	0	IN	AAAA	2a01:8840:71::33
+b0.nic.citadel.	0	IN	A	65.22.113.33
+b0.nic.citadel.	0	IN	AAAA	2a01:8840:6f::33
+c0.nic.citadel.	0	IN	A	65.22.114.33
+c0.nic.citadel.	0	IN	AAAA	2a01:8840:70::33
 citi.	0	IN	NS	a.nic.citi.
 citi.	0	IN	NS	b.nic.citi.
 citi.	0	IN	NS	c.nic.citi.
@@ -5388,7 +5382,6 @@ n2.nic.ec.	0	IN	AAAA	2801:0:60::1
 eco.	0	IN	NS	a.ns.nic.eco.
 eco.	0	IN	NS	b.ns.nic.eco.
 eco.	0	IN	DS	34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
-eco.	0	IN	DS	38446 8 2 a2500ae83c687fd270d0660a27527c3c96c6a136a86d9f2bdc714e9280bb5e32
 a.ns.nic.eco.	0	IN	A	185.159.197.4
 a.ns.nic.eco.	0	IN	AAAA	2620:10a:80aa::4
 b.ns.nic.eco.	0	IN	A	185.159.198.4
@@ -16949,6 +16942,7 @@ tel.	0	IN	NS	ns6.dns.nic.tel.
 tel.	0	IN	NS	ns7.dns.nic.tel.
 tel.	0	IN	NS	ns8.dns.nic.tel.
 tel.	0	IN	DS	46924 8 2 3f708af9fc2d9fa7e09ac99fa19bd6d1b4b0f3f5d95dd06ba2dc95b0aa2e53f8
+tel.	0	IN	DS	48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
 ns1.dns.nic.tel.	0	IN	A	156.154.169.10
 ns1.dns.nic.tel.	0	IN	AAAA	2610:a1:1071::1:a
 ns2.dns.nic.tel.	0	IN	A	156.154.170.10
