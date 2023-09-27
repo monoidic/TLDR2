@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023092701 1 241 ab170e2ba8c197f05dbac160ed80ee62a8bf4ee3abe44775d4611a77d11512fe8365e77e92d563e787fa45153a40bcf2
+.	0	IN	ZONEMD	2023092702 1 241 27f4b5c2749e9e0bf08b20f22564ece3da7dbb2697a0d84bb9cce413960e019f95ff2255b3e768bc00695f1f99898720
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1317,6 +1317,7 @@ azure.	0	IN	NS	ac2.nstld.com.
 azure.	0	IN	NS	ac3.nstld.com.
 azure.	0	IN	NS	ac4.nstld.com.
 azure.	0	IN	DS	25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
+azure.	0	IN	DS	40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
 ba.	0	IN	NS	ns.ba.
 ba.	0	IN	NS	una.utic.net.ba.
 ba.	0	IN	NS	sava.utic.net.ba.
@@ -1929,6 +1930,7 @@ bing.	0	IN	NS	ac1.nstld.com.
 bing.	0	IN	NS	ac2.nstld.com.
 bing.	0	IN	NS	ac3.nstld.com.
 bing.	0	IN	NS	ac4.nstld.com.
+bing.	0	IN	DS	35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
 bing.	0	IN	DS	54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
 bingo.	0	IN	NS	v0n0.nic.bingo.
 bingo.	0	IN	NS	v0n1.nic.bingo.
@@ -8199,6 +8201,7 @@ hotmail.	0	IN	NS	ac2.nstld.com.
 hotmail.	0	IN	NS	ac3.nstld.com.
 hotmail.	0	IN	NS	ac4.nstld.com.
 hotmail.	0	IN	DS	12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
+hotmail.	0	IN	DS	30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
 house.	0	IN	NS	v0n0.nic.house.
 house.	0	IN	NS	v0n1.nic.house.
 house.	0	IN	NS	v0n2.nic.house.
@@ -11106,6 +11109,7 @@ microsoft.	0	IN	NS	ac2.nstld.com.
 microsoft.	0	IN	NS	ac3.nstld.com.
 microsoft.	0	IN	NS	ac4.nstld.com.
 microsoft.	0	IN	DS	35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
+microsoft.	0	IN	DS	55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
 mil.	0	IN	NS	con1.nipr.mil.
 mil.	0	IN	NS	con2.nipr.mil.
 mil.	0	IN	NS	eur1.nipr.mil.
@@ -11375,7 +11379,10 @@ d.nic.mom.	0	IN	AAAA	2a04:2b00:13ff::148
 monash.	0	IN	NS	a.nic.monash.
 monash.	0	IN	NS	b.nic.monash.
 monash.	0	IN	NS	c.nic.monash.
-monash.	0	IN	NS	d.nic.monash.
+monash.	0	IN	NS	x.nic.monash.
+monash.	0	IN	NS	y.nic.monash.
+monash.	0	IN	NS	z.nic.monash.
+monash.	0	IN	DS	58609 8 2 c0713dbc0879e96bacce82a9e23928cf407dd5336121ca0931cc93d193050b42
 monash.	0	IN	DS	59965 8 2 d344b67791659d1f21f6181494a347040694c757c57a8d76cbccfd00caa1348f
 a.nic.monash.	0	IN	A	37.209.192.9
 a.nic.monash.	0	IN	AAAA	2001:dcd:1::9
@@ -11383,8 +11390,12 @@ b.nic.monash.	0	IN	A	37.209.194.9
 b.nic.monash.	0	IN	AAAA	2001:dcd:2::9
 c.nic.monash.	0	IN	A	37.209.196.9
 c.nic.monash.	0	IN	AAAA	2001:dcd:3::9
-d.nic.monash.	0	IN	A	37.209.198.9
-d.nic.monash.	0	IN	AAAA	2001:dcd:4::9
+x.nic.monash.	0	IN	A	156.154.172.82
+x.nic.monash.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.monash.	0	IN	A	156.154.173.82
+y.nic.monash.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.monash.	0	IN	A	156.154.174.82
+z.nic.monash.	0	IN	AAAA	2610:a1:1076::1:82
 money.	0	IN	NS	v0n0.nic.money.
 money.	0	IN	NS	v0n1.nic.money.
 money.	0	IN	NS	v0n2.nic.money.
@@ -18843,6 +18854,7 @@ windows.	0	IN	NS	ac1.nstld.com.
 windows.	0	IN	NS	ac2.nstld.com.
 windows.	0	IN	NS	ac3.nstld.com.
 windows.	0	IN	NS	ac4.nstld.com.
+windows.	0	IN	DS	31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
 windows.	0	IN	DS	44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
 wine.	0	IN	NS	v0n0.nic.wine.
 wine.	0	IN	NS	v0n1.nic.wine.
@@ -19071,6 +19083,7 @@ xbox.	0	IN	NS	ac1.nstld.com.
 xbox.	0	IN	NS	ac2.nstld.com.
 xbox.	0	IN	NS	ac3.nstld.com.
 xbox.	0	IN	NS	ac4.nstld.com.
+xbox.	0	IN	DS	43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 xbox.	0	IN	DS	48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 xerox.	0	IN	NS	a.nic.xerox.
 xerox.	0	IN	NS	b.nic.xerox.
