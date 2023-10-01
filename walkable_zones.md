@@ -2,16 +2,15 @@
 
 * `.`
 * `arpa.`
-* `audio.`
 * `auto.`
-* `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
-* `christmas.`
+* `cars.`
 * `ci.`
+* `cy.`
 * `diet.`
-* `dz.`
 * `ee.`
 * `flowers.`
 * `game.`
@@ -29,14 +28,14 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
-* `xn--fzc2c9e2c.`
+* `xn--80ao21a.`
 * `xn--l1acc.`
-* `xn--xkc2al3hye2a.`
+* `xn--pgbs0dh.`
