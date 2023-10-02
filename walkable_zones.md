@@ -8,7 +8,6 @@
 * `bd.`
 * `br.`
 * `bt.`
-* `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
@@ -26,11 +25,7 @@
 * `kg.`
 * `kz.`
 * `lb.`
-* `lk.`
 * `lol.`
-* `lr.`
-* `mc.`
-* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
