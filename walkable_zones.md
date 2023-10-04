@@ -5,11 +5,8 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
-* `bt.`
 * `car.`
-* `cars.`
 * `christmas.`
 * `ci.`
 * `cy.`
@@ -23,8 +20,6 @@
 * `guitars.`
 * `hosting.`
 * `id.`
-* `kg.`
-* `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
