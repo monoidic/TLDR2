@@ -3,7 +3,6 @@
 * `.`
 * `arpa.`
 * `audio.`
-* `auto.`
 * `ax.`
 * `bd.`
 * `br.`
@@ -16,7 +15,6 @@
 * `diet.`
 * `dz.`
 * `ee.`
-* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
