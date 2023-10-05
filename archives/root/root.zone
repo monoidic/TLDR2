@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023100501 1 241 0d72553b5c70337d0c70f42eec6ae0366a568ebad2ec5eeff70299d112ba7d0293f94d2a070d4f01b949dd4047600bd0
+.	0	IN	ZONEMD	2023100502 1 241 a417e68d903ff24c7d8a428a49f0343f6b1d779664e5a2cbc16391702ad6a7475f1396b41758565738888cb36c13ff29
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1312,10 +1312,12 @@ az.	0	IN	NS	ns3.intrans.az.
 az.	0	IN	NS	rip.psg.com.
 az.	0	IN	DS	48544 8 2 4cb64b087166bd2a837efcedc5d210f3ffbedb7e6535998b27a1e43b948967cc
 ns3.intrans.az.	0	IN	A	148.251.2.246
-azure.	0	IN	NS	ac1.nstld.com.
-azure.	0	IN	NS	ac2.nstld.com.
 azure.	0	IN	NS	ac3.nstld.com.
 azure.	0	IN	NS	ac4.nstld.com.
+azure.	0	IN	NS	dns1.nominetdns.uk.
+azure.	0	IN	NS	dns2.nominetdns.uk.
+azure.	0	IN	NS	dns3.nominetdns.uk.
+azure.	0	IN	NS	dns4.nominetdns.uk.
 azure.	0	IN	DS	25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
 azure.	0	IN	DS	40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
 ba.	0	IN	NS	ns.ba.
@@ -1779,6 +1781,7 @@ best.	0	IN	NS	a.nic.best.
 best.	0	IN	NS	b.nic.best.
 best.	0	IN	NS	c.nic.best.
 best.	0	IN	NS	d.nic.best.
+best.	0	IN	DS	13966 8 2 1b34271dc3cac4d1faa279893902bd3330eab9675dab6dba03fd163437e7d12a
 best.	0	IN	DS	41279 8 2 d0c266b147e9fa7122215ccca36b23d43407bd2f03b2e3b6e917d350b31aa5fd
 a.nic.best.	0	IN	A	194.169.218.109
 a.nic.best.	0	IN	AAAA	2001:67c:13cc::1:109
@@ -1926,10 +1929,12 @@ v2n0.nic.bike.	0	IN	A	65.22.27.44
 v2n0.nic.bike.	0	IN	AAAA	2a01:8840:1d::44
 v2n1.nic.bike.	0	IN	A	161.232.13.44
 v2n1.nic.bike.	0	IN	AAAA	2a01:8840:f7::44
-bing.	0	IN	NS	ac1.nstld.com.
-bing.	0	IN	NS	ac2.nstld.com.
 bing.	0	IN	NS	ac3.nstld.com.
 bing.	0	IN	NS	ac4.nstld.com.
+bing.	0	IN	NS	dns1.nominetdns.uk.
+bing.	0	IN	NS	dns2.nominetdns.uk.
+bing.	0	IN	NS	dns3.nominetdns.uk.
+bing.	0	IN	NS	dns4.nominetdns.uk.
 bing.	0	IN	DS	35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
 bing.	0	IN	DS	54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
 bingo.	0	IN	NS	v0n0.nic.bingo.
@@ -2467,7 +2472,7 @@ build.	0	IN	NS	b.nic.build.
 build.	0	IN	NS	c.nic.build.
 build.	0	IN	NS	d.nic.build.
 build.	0	IN	DS	30770 8 2 68e3857b46d09fe8c87b6144a5d61f9613440a6407331ac598970c29809b56f7
-build.	0	IN	DS	54832 8 2 8d0f5d4d637295690e42166227e1a5fd97f412e9ebdc1cb30254f7b8f8aa3792
+build.	0	IN	DS	38839 8 2 dc44b2ecc9762a6d722a9882017fe051422fe7548782168404e5394c2331e8e3
 a.nic.build.	0	IN	A	194.169.218.20
 a.nic.build.	0	IN	AAAA	2001:67c:13cc::1:20
 b.nic.build.	0	IN	A	185.24.64.20
@@ -6682,6 +6687,7 @@ frl.	0	IN	NS	b.nic.frl.
 frl.	0	IN	NS	c.nic.frl.
 frl.	0	IN	NS	d.nic.frl.
 frl.	0	IN	DS	16639 13 2 d3ccc215301c0738fc3b1aa14deb7602421ff42d3889bd15d018ee2212373d38
+frl.	0	IN	DS	46635 13 2 7564b5a11e4aed3dcf92f5d40b75a3089d7eb5e0dc97c4b467218e6b6e9e95c0
 a.nic.frl.	0	IN	A	194.169.218.87
 a.nic.frl.	0	IN	AAAA	2001:67c:13cc::1:87
 b.nic.frl.	0	IN	A	185.24.64.87
@@ -7048,6 +7054,7 @@ gent.	0	IN	NS	b.nic.gent.
 gent.	0	IN	NS	c.nic.gent.
 gent.	0	IN	NS	d.nic.gent.
 gent.	0	IN	DS	2640 13 2 e97c1f6f53e1284399d6daaf670d8fcbddb5618710ade52c1219757c14c77d88
+gent.	0	IN	DS	65113 13 2 ff773c6dfaaa57475219ba35030a346181a8737e02e2ea2566c452b5ffd5a69a
 a.nic.gent.	0	IN	A	194.169.218.89
 a.nic.gent.	0	IN	AAAA	2001:67c:13cc::1:89
 b.nic.gent.	0	IN	A	185.24.64.89
@@ -7257,6 +7264,7 @@ gmx.	0	IN	DS	49537 10 2 ee15cf33c2e02f308291960df44a5a87e16c0535e34178528780a9a4
 gn.	0	IN	NS	rip.psg.com.
 gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
+gn.	0	IN	DS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 gn.	0	IN	DS	38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
 godaddy.	0	IN	NS	a.nic.godaddy.
 godaddy.	0	IN	NS	b.nic.godaddy.
@@ -8196,10 +8204,12 @@ ns2.dns.nic.hotels.	0	IN	A	156.154.170.3
 ns2.dns.nic.hotels.	0	IN	AAAA	2610:a1:1072::1:3
 ns3.dns.nic.hotels.	0	IN	A	156.154.171.3
 ns3.dns.nic.hotels.	0	IN	AAAA	2610:a1:1073::1:3
-hotmail.	0	IN	NS	ac1.nstld.com.
-hotmail.	0	IN	NS	ac2.nstld.com.
 hotmail.	0	IN	NS	ac3.nstld.com.
 hotmail.	0	IN	NS	ac4.nstld.com.
+hotmail.	0	IN	NS	dns1.nominetdns.uk.
+hotmail.	0	IN	NS	dns2.nominetdns.uk.
+hotmail.	0	IN	NS	dns3.nominetdns.uk.
+hotmail.	0	IN	NS	dns4.nominetdns.uk.
 hotmail.	0	IN	DS	12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
 hotmail.	0	IN	DS	30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
 house.	0	IN	NS	v0n0.nic.house.
@@ -10477,9 +10487,7 @@ lpl.	0	IN	NS	a.nic.lpl.
 lpl.	0	IN	NS	b.nic.lpl.
 lpl.	0	IN	NS	c.nic.lpl.
 lpl.	0	IN	NS	d.nic.lpl.
-lpl.	0	IN	DS	17754 13 2 89e157c100bc7bd01d57a930f8ce6025cf7c4c30e8b636c61d79697c01fffccc
 lpl.	0	IN	DS	43324 13 2 1783403d052e9b382d00f3d78ab8dc40689ae032b7246d93a683761837f220df
-lpl.	0	IN	DS	50040 7 2 4aaf92273ea09ca7ed698d5785389a7703a5475def5962e813c000fa7893b328
 a.nic.lpl.	0	IN	A	194.169.218.92
 a.nic.lpl.	0	IN	AAAA	2001:67c:13cc::1:92
 b.nic.lpl.	0	IN	A	185.24.64.92
@@ -10493,7 +10501,6 @@ lplfinancial.	0	IN	NS	b.nic.lplfinancial.
 lplfinancial.	0	IN	NS	c.nic.lplfinancial.
 lplfinancial.	0	IN	NS	d.nic.lplfinancial.
 lplfinancial.	0	IN	DS	5735 13 2 2a05b6233fed896c1e37fbac05045ea676f33e838f2177acd4cba897e128a0bc
-lplfinancial.	0	IN	DS	8455 7 2 91d851ae03523f99d6c6def2d0ee451c6778ea3d58f4c347852972cc7b6b50b9
 lplfinancial.	0	IN	DS	59873 13 2 f4665676a01cda5d5cd4efd16ba5f3919ef741e788d27512015c84d8b0861df1
 a.nic.lplfinancial.	0	IN	A	194.169.218.93
 a.nic.lplfinancial.	0	IN	AAAA	2001:67c:13cc::1:93
@@ -10619,14 +10626,14 @@ luxury.	0	IN	NS	a.nic.luxury.
 luxury.	0	IN	NS	b.nic.luxury.
 luxury.	0	IN	NS	c.nic.luxury.
 luxury.	0	IN	NS	d.nic.luxury.
-luxury.	0	IN	DS	3664 8 2 d602e8f4fd9729146d1fb1d249544dceece615e528eb2e4997fb1760b004d67e
+luxury.	0	IN	DS	9355 8 2 0da436d04a11933d6bae25e2aecef3cefcb34e407feb3ba999a7190964f3c3d0
 luxury.	0	IN	DS	32039 8 2 deb7fe904a2e04500acc98f3f5b9d6db275139fbc92ebb2938bcf9e842812935
 a.nic.luxury.	0	IN	A	194.169.218.98
 a.nic.luxury.	0	IN	AAAA	2001:67c:13cc::1:98
 b.nic.luxury.	0	IN	A	185.24.64.98
 b.nic.luxury.	0	IN	AAAA	2a04:2b00:13cc::1:98
 c.nic.luxury.	0	IN	A	212.18.248.98
-c.nic.luxury.	0	IN	AAAA	2a04:2b00:13ee::85
+c.nic.luxury.	0	IN	AAAA	2a04:2b00:13ee::98
 d.nic.luxury.	0	IN	A	212.18.249.98
 d.nic.luxury.	0	IN	AAAA	2a04:2b00:13ff::98
 lv.	0	IN	NS	a.nic.lv.
@@ -11107,10 +11114,12 @@ y.nic.miami.	0	IN	A	156.154.173.82
 y.nic.miami.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.miami.	0	IN	A	156.154.174.82
 z.nic.miami.	0	IN	AAAA	2610:a1:1076::1:82
-microsoft.	0	IN	NS	ac1.nstld.com.
-microsoft.	0	IN	NS	ac2.nstld.com.
 microsoft.	0	IN	NS	ac3.nstld.com.
 microsoft.	0	IN	NS	ac4.nstld.com.
+microsoft.	0	IN	NS	dns1.nominetdns.uk.
+microsoft.	0	IN	NS	dns2.nominetdns.uk.
+microsoft.	0	IN	NS	dns3.nominetdns.uk.
+microsoft.	0	IN	NS	dns4.nominetdns.uk.
 microsoft.	0	IN	DS	35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
 microsoft.	0	IN	DS	55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
 mil.	0	IN	NS	con1.nipr.mil.
@@ -18853,10 +18862,12 @@ ns2.dns.nic.win.	0	IN	A	156.154.145.182
 ns2.dns.nic.win.	0	IN	AAAA	2610:a1:1072::b6
 ns3.dns.nic.win.	0	IN	A	156.154.159.182
 ns3.dns.nic.win.	0	IN	AAAA	2610:a1:1073::b6
-windows.	0	IN	NS	ac1.nstld.com.
-windows.	0	IN	NS	ac2.nstld.com.
 windows.	0	IN	NS	ac3.nstld.com.
 windows.	0	IN	NS	ac4.nstld.com.
+windows.	0	IN	NS	dns1.nominetdns.uk.
+windows.	0	IN	NS	dns2.nominetdns.uk.
+windows.	0	IN	NS	dns3.nominetdns.uk.
+windows.	0	IN	NS	dns4.nominetdns.uk.
 windows.	0	IN	DS	31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
 windows.	0	IN	DS	44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
 wine.	0	IN	NS	v0n0.nic.wine.
@@ -19082,10 +19093,12 @@ v2n0.nic.wtf.	0	IN	A	65.22.23.7
 v2n0.nic.wtf.	0	IN	AAAA	2a01:8840:19::7
 v2n1.nic.wtf.	0	IN	A	161.232.11.7
 v2n1.nic.wtf.	0	IN	AAAA	2a01:8840:f5::7
-xbox.	0	IN	NS	ac1.nstld.com.
-xbox.	0	IN	NS	ac2.nstld.com.
 xbox.	0	IN	NS	ac3.nstld.com.
 xbox.	0	IN	NS	ac4.nstld.com.
+xbox.	0	IN	NS	dns1.nominetdns.uk.
+xbox.	0	IN	NS	dns2.nominetdns.uk.
+xbox.	0	IN	NS	dns3.nominetdns.uk.
+xbox.	0	IN	NS	dns4.nominetdns.uk.
 xbox.	0	IN	DS	43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 xbox.	0	IN	DS	48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 xerox.	0	IN	NS	a.nic.xerox.
