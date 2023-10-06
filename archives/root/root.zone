@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023100600 1 241 967edb7bdda36a25609eba380488187ad686bb74ced89d9a6297d86b7907b1876a5c413961d026df0132e3b4d961626c
+.	0	IN	ZONEMD	2023100601 1 241 fdc897fc6e6968b449eeb64648c5585f7b716e4358c4c925f93100fb41e4dc75e6ac098ba158c1be683351b37cdde304
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1044,17 +1044,11 @@ v2n0.nic.attorney.	0	IN	A	65.22.23.20
 v2n0.nic.attorney.	0	IN	AAAA	2a01:8840:19::20
 v2n1.nic.attorney.	0	IN	A	161.232.11.20
 v2n1.nic.attorney.	0	IN	AAAA	2a01:8840:f5::20
-au.	0	IN	NS	c.au.
-au.	0	IN	NS	d.au.
 au.	0	IN	NS	q.au.
 au.	0	IN	NS	r.au.
 au.	0	IN	NS	s.au.
 au.	0	IN	NS	t.au.
 au.	0	IN	DS	51895 8 2 6c7d509bd4df32af255ff847152b7b00316ac0ba44b853b3c9f9c7119aaa599c
-c.au.	0	IN	A	162.159.24.179
-c.au.	0	IN	AAAA	2400:cb00:2049:1::a29f:18b3
-d.au.	0	IN	A	162.159.25.38
-d.au.	0	IN	AAAA	2400:cb00:2049:1::a29f:1926
 cctld.alpha.aridns.net.au.	0	IN	A	37.209.192.6
 cctld.alpha.aridns.net.au.	0	IN	AAAA	2001:dcd:1::6
 gtld.alpha.aridns.net.au.	0	IN	A	37.209.192.10
