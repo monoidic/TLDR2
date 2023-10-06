@@ -4,6 +4,8 @@
 * `arpa.`
 * `audio.`
 * `auto.`
+* `ax.`
+* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -14,10 +16,13 @@
 * `diet.`
 * `dz.`
 * `ee.`
+* `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `kg.`
 * `kz.`
 * `lb.`
