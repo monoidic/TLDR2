@@ -7,6 +7,7 @@
 * `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
+* `mp.` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
@@ -16,4 +17,3 @@
 * `ni.` via `ns3.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
-* `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
