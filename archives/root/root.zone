@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAcEtWatIO3exfN3A+WnZl7AVEBA3crRrrwKTfnmcdLt79C3DCOF1JX5zb4s84v0OxwlOVg+TR8VpkuYynMp3PQXLomLxe7j7PlxqEBo1LQaWfqyymCuF7rKebTLB5yZcr8/QUPwk/weLyguX6iVNDjIZOmeMqPkGJtDFp+EUfKgOa8AulKPLtsUL1W+1FT8sqroSxKXVXnhkEZN1O1zBxTG/z9xjwiPcd3//LSPUpEC9+rU2XIuCJq8nwAwJ7W6Rc49RxUT0Svc57HKqHjNuapvG0PCYh3bXCQzb7mb2pNwuerMFTzP5iEzXWZD7izLg9j3wEJ2Ia/WIEts/Tp9GIQM= ;{id = 11019 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023101001 1 241 d9ef33260d05228ae420056a0b6acf29f8abf54c8f6ee8a984733221952713cd56cb3d9e9b9e5f1308601c8b8e4c5fa5
+.	0	IN	ZONEMD	2023101002 1 241 fa404552d0ce547c664c23d53753ef022f31a2536705b1c29c7db95c51e591e360fee4ed8461d289e7eac8f9e2780c37
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5085,6 +5085,7 @@ diy.	0	IN	NS	ac2.nstld.com.
 diy.	0	IN	NS	ac3.nstld.com.
 diy.	0	IN	NS	ac4.nstld.com.
 diy.	0	IN	DS	25674 8 2 06c661d544490aaf9c0efa121f0fd66ae957cb1900309fdae4a670ac4af1d37d
+diy.	0	IN	DS	41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
 dj.	0	IN	NS	bow1.intnet.dj.
 dj.	0	IN	NS	bow5.intnet.dj.
 dj.	0	IN	NS	vps443605.ovh.net.
@@ -6467,6 +6468,7 @@ food.	0	IN	NS	ac1.nstld.com.
 food.	0	IN	NS	ac2.nstld.com.
 food.	0	IN	NS	ac3.nstld.com.
 food.	0	IN	NS	ac4.nstld.com.
+food.	0	IN	DS	3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
 food.	0	IN	DS	42180 8 2 4aa1f08b292b3835fd27b5692d0cd0c1cd0119bf1455a69506e50cdc6c47d761
 football.	0	IN	NS	v0n0.nic.football.
 football.	0	IN	NS	v0n1.nic.football.
@@ -10125,6 +10127,7 @@ lifestyle.	0	IN	NS	ac1.nstld.com.
 lifestyle.	0	IN	NS	ac2.nstld.com.
 lifestyle.	0	IN	NS	ac3.nstld.com.
 lifestyle.	0	IN	NS	ac4.nstld.com.
+lifestyle.	0	IN	DS	19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
 lifestyle.	0	IN	DS	43470 8 2 bc977bf20baf75a4593e81d3e773f044543de7c3db7c8b0a7059e6f370a5c86c
 lighting.	0	IN	NS	v0n0.nic.lighting.
 lighting.	0	IN	NS	v0n1.nic.lighting.
@@ -10290,6 +10293,7 @@ living.	0	IN	NS	ac2.nstld.com.
 living.	0	IN	NS	ac3.nstld.com.
 living.	0	IN	NS	ac4.nstld.com.
 living.	0	IN	DS	9429 8 2 341ce294ded797dd426a6b6afeaa0c85ba65bbc8ec3d5a7895d77dee88435df4
+living.	0	IN	DS	59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 lk.	0	IN	NS	c.nic.lk.
 lk.	0	IN	NS	d.nic.lk.
 lk.	0	IN	NS	l.nic.lk.
@@ -16795,6 +16799,7 @@ tattoo.	0	IN	NS	ns1.uniregistry.net.
 tattoo.	0	IN	NS	ns2.uniregistry.info.
 tattoo.	0	IN	NS	ns3.uniregistry.net.
 tattoo.	0	IN	NS	ns4.uniregistry.info.
+tattoo.	0	IN	DS	20907 13 2 2eb5f4e97ebc340acc792395037d9bac16b3683099bc109abc2ea74e7d0d2555
 tattoo.	0	IN	DS	23225 13 2 bd1e542c994f3e0d03467d60d852ac6da47c825d16d64612006ac2afe1fe2da9
 tax.	0	IN	NS	v0n0.nic.tax.
 tax.	0	IN	NS	v0n1.nic.tax.
@@ -18026,6 +18031,7 @@ vana.	0	IN	NS	ac1.nstld.com.
 vana.	0	IN	NS	ac2.nstld.com.
 vana.	0	IN	NS	ac3.nstld.com.
 vana.	0	IN	NS	ac4.nstld.com.
+vana.	0	IN	DS	16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
 vana.	0	IN	DS	51813 8 2 93baec1bc806c42034f1ba91345d8aa439242ea114157951bf6b7e9f79fc9e0c
 vanguard.	0	IN	NS	a0.nic.vanguard.
 vanguard.	0	IN	NS	a2.nic.vanguard.
