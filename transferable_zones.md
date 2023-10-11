@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
 * `cd.` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
+* `cd.` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `er.` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/er.zone)
 * `er.` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/er.zone)
 * `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)

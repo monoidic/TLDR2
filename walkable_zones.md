@@ -4,6 +4,7 @@
 * `arpa.`
 * `audio.`
 * `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -30,7 +31,9 @@
 * `lr.`
 * `mc.`
 * `mom.`
+* `nu.`
 * `pics.`
+* `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
