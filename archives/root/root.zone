@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023101101 1 241 477bdaebf0fa116bb1de7d38b854980e8493bfc5398fe6b985370cb5ff916c75b9f02f5d5e1e2a03ad1b3276461d3183
+.	0	IN	ZONEMD	2023101102 1 241 6dcb9767d7b858479fa8d0996a3e2f9ae40aa530aa0e2bfcaf8450336e723ba1d3a3ef3f126d43add61bbf7b9adcd61e
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -16794,12 +16794,21 @@ tatar.	0	IN	NS	d.dns.ripn.net.
 tatar.	0	IN	NS	e.dns.ripn.net.
 tatar.	0	IN	NS	f.dns.ripn.net.
 tatar.	0	IN	DS	27077 8 2 cced6d290e870530527adfda81f3277c9f64b8dc2724dc9d90640946d176a01f
+tattoo.	0	IN	NS	a.nic.tattoo.
+tattoo.	0	IN	NS	b.nic.tattoo.
+tattoo.	0	IN	NS	c.nic.tattoo.
 tattoo.	0	IN	NS	ns1.uniregistry.net.
 tattoo.	0	IN	NS	ns2.uniregistry.info.
 tattoo.	0	IN	NS	ns3.uniregistry.net.
 tattoo.	0	IN	NS	ns4.uniregistry.info.
 tattoo.	0	IN	DS	20907 13 2 2eb5f4e97ebc340acc792395037d9bac16b3683099bc109abc2ea74e7d0d2555
 tattoo.	0	IN	DS	23225 13 2 bd1e542c994f3e0d03467d60d852ac6da47c825d16d64612006ac2afe1fe2da9
+a.nic.tattoo.	0	IN	A	37.209.192.10
+a.nic.tattoo.	0	IN	AAAA	2001:dcd:1::10
+b.nic.tattoo.	0	IN	A	37.209.194.10
+b.nic.tattoo.	0	IN	AAAA	2001:dcd:2::10
+c.nic.tattoo.	0	IN	A	37.209.196.10
+c.nic.tattoo.	0	IN	AAAA	2001:dcd:3::10
 tax.	0	IN	NS	v0n0.nic.tax.
 tax.	0	IN	NS	v0n1.nic.tax.
 tax.	0	IN	NS	v0n2.nic.tax.
