@@ -6,6 +6,7 @@
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
 * `cars.`
@@ -20,8 +21,9 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `kg.`
-* `lb.`
+* `hosting.`
+* `id.`
+* `kz.`
 * `lk.`
 * `lol.`
 * `lr.`
@@ -38,5 +40,6 @@
 * `ve.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
+* `xn--l1acc.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
