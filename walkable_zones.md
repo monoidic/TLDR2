@@ -7,13 +7,11 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
 * `cy.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `flowers.`
@@ -35,7 +33,6 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
