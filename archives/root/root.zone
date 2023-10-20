@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023102001 1 241 328d1a8210e5d09a44bb34591f4cbdb46bc592aba975793d12f95f5ac25cab478fb617deda5614512ad263c6455169e1
+.	0	IN	ZONEMD	2023102002 1 241 c911a2d53fc951fd05f25778e770c6fd0a2bf06e081aecff35b9f8c18ecb1c6f2db134ff1d3934a7bdb2412e53c06aae
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7242,9 +7242,8 @@ gmx.	0	IN	NS	anycast10.irondns.net.
 gmx.	0	IN	NS	anycast23.irondns.net.
 gmx.	0	IN	NS	anycast24.irondns.net.
 gmx.	0	IN	DS	49537 10 2 ee15cf33c2e02f308291960df44a5a87e16c0535e34178528780a9a4f28a736f
-gn.	0	IN	NS	rip.psg.com.
-gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
+gn.	0	IN	NS	ns1-gn.pch.net.
 gn.	0	IN	DS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
 gn.	0	IN	DS	38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
 godaddy.	0	IN	NS	a.nic.godaddy.
@@ -12059,6 +12058,8 @@ anyns.pch.net.	0	IN	AAAA	2001:500:14:6004:ad::1
 cat.pch.net.	0	IN	A	204.61.216.20
 cat.pch.net.	0	IN	AAAA	2001:500:14:6020:ad::1
 nic.lk-anycast.pch.net.	0	IN	A	204.61.216.27
+ns1-gn.pch.net.	0	IN	A	204.61.216.147
+ns1-gn.pch.net.	0	IN	AAAA	2001:500:14:6147:ad::1
 ns15.rcode0.net.	0	IN	A	194.0.25.15
 ns15.rcode0.net.	0	IN	AAAA	2001:678:20::15
 ns31.rcode0.net.	0	IN	A	194.0.25.31
