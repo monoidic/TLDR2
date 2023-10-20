@@ -2,19 +2,15 @@
 
 * `.`
 * `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
 * `br.`
 * `bt.`
 * `car.`
-* `cars.`
 * `christmas.`
 * `ci.`
-* `cy.`
 * `diet.`
-* `dz.`
 * `ee.`
 * `flowers.`
 * `game.`
@@ -26,11 +22,9 @@
 * `ir.`
 * `kg.`
 * `kz.`
-* `lb.`
 * `lk.`
 * `lol.`
 * `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
@@ -39,7 +33,6 @@
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
