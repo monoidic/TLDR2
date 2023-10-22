@@ -2,14 +2,13 @@
 
 * `.`
 * `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
-* `car.`
-* `cars.`
-* `diet.`
-* `dz.`
+* `br.`
+* `bt.`
+* `christmas.`
+* `cy.`
 * `ee.`
 * `flowers.`
 * `game.`
@@ -17,9 +16,9 @@
 * `gn.`
 * `guitars.`
 * `id.`
-* `ir.`
 * `kg.`
-* `lk.`
+* `kz.`
+* `lb.`
 * `lol.`
 * `lr.`
 * `mc.`
@@ -28,7 +27,6 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
@@ -38,3 +36,4 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
