@@ -4,7 +4,10 @@
 * `arpa.`
 * `audio.`
 * `auto.`
+* `ax.`
+* `bd.`
 * `br.`
+* `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
@@ -16,12 +19,14 @@
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
 * `ir.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
@@ -33,6 +38,8 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
