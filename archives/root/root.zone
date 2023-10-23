@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023102301 1 241 f10610fa1deb85b164037ad8b3c8a12069de625a60c7c564dc887301ba6509a226ee3c021d9f9bdf22c68ae925364dda
+.	0	IN	ZONEMD	2023102302 1 241 e48ec5eb3357efff8c3e07d9c3cf82811de53516c877734448f5b8f5036ccee65a15c862c2e4f95751d2b6f512479809
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3909,6 +3909,8 @@ ns2.teleinfoo.com.	0	IN	A	103.61.61.1
 ns2.teleinfoo.com.	0	IN	AAAA	2402:7d80:8888::1
 ns4.teleinfoo.com.	0	IN	A	103.61.63.1
 ns2.tojikiston.com.	0	IN	A	193.111.11.4
+ns01.trs-dns.com.	0	IN	A	64.96.1.1
+ns01.trs-dns.com.	0	IN	AAAA	2620:57:4001::1
 dns1.u-registry.com.	0	IN	A	51.222.128.197
 a.zdnscloud.com.	0	IN	A	203.99.24.1
 b.zdnscloud.com.	0	IN	A	203.99.25.1
@@ -4882,6 +4884,7 @@ desi.	0	IN	NS	dnsa.emdns.uk.
 desi.	0	IN	NS	dnsb.emdns.uk.
 desi.	0	IN	NS	dnsc.emdns.uk.
 desi.	0	IN	NS	dnsd.emdns.uk.
+desi.	0	IN	DS	5621 8 2 2ae99319e83d075eac0f4b572822e3685027038688b38ceb2c5445e09606f752
 design.	0	IN	NS	a.nic.design.
 design.	0	IN	NS	b.nic.design.
 design.	0	IN	NS	c.nic.design.
@@ -5074,6 +5077,10 @@ diy.	0	IN	NS	ac1.nstld.com.
 diy.	0	IN	NS	ac2.nstld.com.
 diy.	0	IN	NS	ac3.nstld.com.
 diy.	0	IN	NS	ac4.nstld.com.
+diy.	0	IN	NS	ns01.trs-dns.com.
+diy.	0	IN	NS	ns01.trs-dns.net.
+diy.	0	IN	NS	ns01.trs-dns.org.
+diy.	0	IN	NS	ns01.trs-dns.info.
 diy.	0	IN	DS	25674 8 2 06c661d544490aaf9c0efa121f0fd66ae957cb1900309fdae4a670ac4af1d37d
 diy.	0	IN	DS	41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
 dj.	0	IN	NS	bow1.intnet.dj.
@@ -6458,6 +6465,10 @@ food.	0	IN	NS	ac1.nstld.com.
 food.	0	IN	NS	ac2.nstld.com.
 food.	0	IN	NS	ac3.nstld.com.
 food.	0	IN	NS	ac4.nstld.com.
+food.	0	IN	NS	ns01.trs-dns.com.
+food.	0	IN	NS	ns01.trs-dns.net.
+food.	0	IN	NS	ns01.trs-dns.org.
+food.	0	IN	NS	ns01.trs-dns.info.
 food.	0	IN	DS	3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
 food.	0	IN	DS	42180 8 2 4aa1f08b292b3835fd27b5692d0cd0c1cd0119bf1455a69506e50cdc6c47d761
 football.	0	IN	NS	v0n0.nic.football.
@@ -8690,6 +8701,8 @@ c0.pro.afilias-nst.info.	0	IN	A	199.182.16.1
 c0.pro.afilias-nst.info.	0	IN	AAAA	2001:500:d0::1
 ns2.asnic.info.	0	IN	A	103.49.83.254
 ns2.asnic.info.	0	IN	AAAA	2401:fd80:403::254
+ns01.trs-dns.info.	0	IN	A	185.159.198.3
+ns01.trs-dns.info.	0	IN	AAAA	2620:10a:80ab::3
 ns2.uniregistry.info.	0	IN	A	64.96.2.1
 ns4.uniregistry.info.	0	IN	A	185.159.198.3
 ns4.uniregistry.info.	0	IN	AAAA	2620:10a:80ab::3
@@ -10128,6 +10141,10 @@ lifestyle.	0	IN	NS	ac1.nstld.com.
 lifestyle.	0	IN	NS	ac2.nstld.com.
 lifestyle.	0	IN	NS	ac3.nstld.com.
 lifestyle.	0	IN	NS	ac4.nstld.com.
+lifestyle.	0	IN	NS	ns01.trs-dns.com.
+lifestyle.	0	IN	NS	ns01.trs-dns.net.
+lifestyle.	0	IN	NS	ns01.trs-dns.org.
+lifestyle.	0	IN	NS	ns01.trs-dns.info.
 lifestyle.	0	IN	DS	19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
 lifestyle.	0	IN	DS	43470 8 2 bc977bf20baf75a4593e81d3e773f044543de7c3db7c8b0a7059e6f370a5c86c
 lighting.	0	IN	NS	v0n0.nic.lighting.
@@ -10293,6 +10310,10 @@ living.	0	IN	NS	ac1.nstld.com.
 living.	0	IN	NS	ac2.nstld.com.
 living.	0	IN	NS	ac3.nstld.com.
 living.	0	IN	NS	ac4.nstld.com.
+living.	0	IN	NS	ns01.trs-dns.com.
+living.	0	IN	NS	ns01.trs-dns.net.
+living.	0	IN	NS	ns01.trs-dns.org.
+living.	0	IN	NS	ns01.trs-dns.info.
 living.	0	IN	DS	9429 8 2 341ce294ded797dd426a6b6afeaa0c85ba65bbc8ec3d5a7895d77dee88435df4
 living.	0	IN	DS	59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 lk.	0	IN	NS	c.nic.lk.
@@ -12159,6 +12180,7 @@ ns-root-23.scpt-network.net.	0	IN	A	161.97.87.130
 ns1.sr.net.	0	IN	A	200.1.159.148
 ns2.sr.net.	0	IN	A	200.2.162.30
 ns.thnic.net.	0	IN	A	202.28.0.1
+ns01.trs-dns.net.	0	IN	A	64.96.2.1
 ns.twnic.net.	0	IN	A	192.83.166.11
 ns.twnic.net.	0	IN	AAAA	2001:288:1:1006::11
 dns2.u-registry.net.	0	IN	A	195.123.1.7
@@ -12991,6 +13013,8 @@ ns.icann.org.	0	IN	A	199.4.138.53
 ns.icann.org.	0	IN	AAAA	2001:500:89::53
 a.lactld.org.	0	IN	A	200.0.68.10
 a.lactld.org.	0	IN	AAAA	2801:14:a000::10
+ns01.trs-dns.org.	0	IN	A	185.159.197.3
+ns01.trs-dns.org.	0	IN	AAAA	2620:10a:80aa::3
 organic.	0	IN	NS	a0.nic.organic.
 organic.	0	IN	NS	a2.nic.organic.
 organic.	0	IN	NS	b0.nic.organic.
@@ -18050,6 +18074,10 @@ vana.	0	IN	NS	ac1.nstld.com.
 vana.	0	IN	NS	ac2.nstld.com.
 vana.	0	IN	NS	ac3.nstld.com.
 vana.	0	IN	NS	ac4.nstld.com.
+vana.	0	IN	NS	ns01.trs-dns.com.
+vana.	0	IN	NS	ns01.trs-dns.net.
+vana.	0	IN	NS	ns01.trs-dns.org.
+vana.	0	IN	NS	ns01.trs-dns.info.
 vana.	0	IN	DS	16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
 vana.	0	IN	DS	51813 8 2 93baec1bc806c42034f1ba91345d8aa439242ea114157951bf6b7e9f79fc9e0c
 vanguard.	0	IN	NS	a0.nic.vanguard.
