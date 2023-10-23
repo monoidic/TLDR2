@@ -1,6 +1,7 @@
 er.	0	IN	NS	er.cctld.authdns.ripe.net.
 er.	0	IN	NS	sawanew.noc.net.er.
 er.	0	IN	NS	zaranew.noc.net.er.
+er.	0	IN	DNSKEY	257 3 13 +lxPyH4NE7PVLlBNEbimMSTIyDrmy+/FZOesNrC7dqCjXLSFLUelnCS4pdila5EguY18/1paNTBc9gxuzkA2bQ== ;{id = 6518 (ksk), size = 256b}
 com.er.	0	IN	NS	er.cctld.authdns.ripe.net.
 com.er.	0	IN	NS	sawanew.noc.net.er.
 com.er.	0	IN	NS	zaranew.noc.net.er.
@@ -19,6 +20,8 @@ mil.er.	0	IN	NS	zaranew.noc.net.er.
 net.er.	0	IN	NS	er.cctld.authdns.ripe.net.
 net.er.	0	IN	NS	sawanew.noc.net.er.
 net.er.	0	IN	NS	zaranew.noc.net.er.
+sawanew.noc.net.er.	0	IN	A	196.200.96.1
+zaranew.noc.net.er.	0	IN	A	196.200.96.2
 org.er.	0	IN	NS	er.cctld.authdns.ripe.net.
 org.er.	0	IN	NS	sawanew.noc.net.er.
 org.er.	0	IN	NS	zaranew.noc.net.er.
