@@ -12,10 +12,8 @@
 * `cars.`
 * `christmas.`
 * `ci.`
-* `cy.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -46,4 +44,4 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--xkc2al3hye2a.`
+* `xn--pgbs0dh.`
