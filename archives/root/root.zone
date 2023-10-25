@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023102500 1 241 ce8874d7e7e35ce9b94c100f0a75515ca2760a4e3ed36458ea7e8530e47fc885534449d4c054b4431b13e6ff8ea0d261
+.	0	IN	ZONEMD	2023102501 1 241 ee31f3a439fa40cf646d1826daf85995b9d843443d62c0db3b897b94cfad796824a623539cdc33e591a1d7f39a1ae08f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3095,19 +3095,6 @@ ns2.dns.nic.cbre.	0	IN	A	156.154.145.36
 ns2.dns.nic.cbre.	0	IN	AAAA	2610:a1:1072::24
 ns3.dns.nic.cbre.	0	IN	A	156.154.159.36
 ns3.dns.nic.cbre.	0	IN	AAAA	2610:a1:1073::24
-cbs.	0	IN	NS	a0.nic.cbs.
-cbs.	0	IN	NS	a2.nic.cbs.
-cbs.	0	IN	NS	b0.nic.cbs.
-cbs.	0	IN	NS	c0.nic.cbs.
-cbs.	0	IN	DS	30409 8 2 ea9d4289fab50bab2a4f682a1f450a0d5b7802aac66b478703be109fbd489959
-a0.nic.cbs.	0	IN	A	65.22.68.9
-a0.nic.cbs.	0	IN	AAAA	2a01:8840:42::9
-a2.nic.cbs.	0	IN	A	65.22.71.9
-a2.nic.cbs.	0	IN	AAAA	2a01:8840:45::9
-b0.nic.cbs.	0	IN	A	65.22.69.9
-b0.nic.cbs.	0	IN	AAAA	2a01:8840:43::9
-c0.nic.cbs.	0	IN	A	65.22.70.9
-c0.nic.cbs.	0	IN	AAAA	2a01:8840:44::9
 cc.	0	IN	NS	ac1.nstld.com.
 cc.	0	IN	NS	ac2.nstld.com.
 cc.	0	IN	NS	ac3.nstld.com.
@@ -15763,19 +15750,6 @@ v2n0.nic.show.	0	IN	A	65.22.31.43
 v2n0.nic.show.	0	IN	AAAA	2a01:8840:21::43
 v2n1.nic.show.	0	IN	A	161.232.15.43
 v2n1.nic.show.	0	IN	AAAA	2a01:8840:f9::43
-showtime.	0	IN	NS	a0.nic.showtime.
-showtime.	0	IN	NS	a2.nic.showtime.
-showtime.	0	IN	NS	b0.nic.showtime.
-showtime.	0	IN	NS	c0.nic.showtime.
-showtime.	0	IN	DS	18211 8 2 127adbfe87ea3d320525990c4783db7eafb3fc10de688eb7b593836b6ce02cca
-a0.nic.showtime.	0	IN	A	65.22.68.1
-a0.nic.showtime.	0	IN	AAAA	2a01:8840:42::1
-a2.nic.showtime.	0	IN	A	65.22.71.1
-a2.nic.showtime.	0	IN	AAAA	2a01:8840:45::1
-b0.nic.showtime.	0	IN	A	65.22.69.1
-b0.nic.showtime.	0	IN	AAAA	2a01:8840:43::1
-c0.nic.showtime.	0	IN	A	65.22.70.1
-c0.nic.showtime.	0	IN	AAAA	2a01:8840:44::1
 si.	0	IN	NS	b.dns.si.
 si.	0	IN	NS	f.dns.si.
 si.	0	IN	NS	h.dns.si.
