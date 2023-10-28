@@ -10,9 +10,12 @@
 * `bt.`
 * `car.`
 * `cars.`
+* `christmas.`
 * `ci.`
 * `cy.`
 * `diet.`
+* `dz.`
+* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -23,6 +26,7 @@
 * `id.`
 * `ir.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
