@@ -11,12 +11,10 @@
 * `car.`
 * `cars.`
 * `christmas.`
-* `ci.`
 * `cy.`
 * `diet.`
 * `dz.`
 * `ee.`
-* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -25,7 +23,6 @@
 * `hosting.`
 * `id.`
 * `ir.`
-* `kg.`
 * `kz.`
 * `lb.`
 * `lk.`
