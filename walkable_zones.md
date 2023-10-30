@@ -3,8 +3,6 @@
 * `.`
 * `arpa.`
 * `audio.`
-* `auto.`
-* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -15,7 +13,6 @@
 * `cy.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -24,14 +21,11 @@
 * `guitars.`
 * `hosting.`
 * `id.`
-* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
 * `lk.`
 * `lol.`
-* `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
