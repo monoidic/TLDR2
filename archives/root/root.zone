@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023110101 1 241 28b5c5153e76abd2055f8c5704775ff4a9018b6bf93122730f37181bfa7f96381b0cdd26856ed99a5181ec08367a5159
+.	0	IN	ZONEMD	2023110102 1 241 424db4f357ed009b9ee41e2a36bc16601fb584d16e554a4532fc3a694d7d1180d19a67b8881a3f5c18e58200a4c62b63
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -296,6 +296,7 @@ aeg.	0	IN	NS	ac1.nstld.com.
 aeg.	0	IN	NS	ac2.nstld.com.
 aeg.	0	IN	NS	ac3.nstld.com.
 aeg.	0	IN	NS	ac4.nstld.com.
+aeg.	0	IN	DS	34387 8 2 03500be162e8b2bc43345d119763e29d9284de715bdf66e55dd19b400a1e64ae
 aeg.	0	IN	DS	39735 8 2 b28a67a4935609bcf1257af4215b9ffce0f7e917bc076bd69030a5d76008ae51
 aero.	0	IN	NS	a0.nic.aero.
 aero.	0	IN	NS	a2.nic.aero.
@@ -2061,6 +2062,7 @@ bloomberg.	0	IN	NS	ac2.nstld.com.
 bloomberg.	0	IN	NS	ac3.nstld.com.
 bloomberg.	0	IN	NS	ac4.nstld.com.
 bloomberg.	0	IN	DS	46338 8 2 98a66be30959371e15eaf5d4a65ada3393050610a2e5b7ae321b694c876258c9
+bloomberg.	0	IN	DS	49654 8 2 da5a6b59df8da1f4b814d38fb01359bccbee0e6595e19fc569c1830ce452447c
 blue.	0	IN	NS	a0.nic.blue.
 blue.	0	IN	NS	a2.nic.blue.
 blue.	0	IN	NS	b0.nic.blue.
@@ -2170,6 +2172,7 @@ bofa.	0	IN	NS	ac2.nstld.com.
 bofa.	0	IN	NS	ac3.nstld.com.
 bofa.	0	IN	NS	ac4.nstld.com.
 bofa.	0	IN	DS	35541 8 2 5bf7c416fa5dba14158b807ff4eb2f0438db45d35d0f0af4f6feff148399b455
+bofa.	0	IN	DS	64354 8 2 bf0d0e96761317b889dd50495191a1fe5d5342703c381c21ede518e843beb658
 bom.	0	IN	NS	a.dns.br.
 bom.	0	IN	NS	b.dns.br.
 bom.	0	IN	NS	c.dns.br.
@@ -5581,6 +5584,7 @@ v2n1.nic.equipment.	0	IN	AAAA	2a01:8840:fb::21
 er.	0	IN	NS	er.cctld.authdns.ripe.net.
 er.	0	IN	NS	sawanew.noc.net.er.
 er.	0	IN	NS	zaranew.noc.net.er.
+er.	0	IN	DS	6518 13 2 a1fdbfa73b513e489341d7e82029c7645d0e5f52d8500a3d7380cdc1122f52a2
 sawanew.noc.net.er.	0	IN	A	196.200.96.1
 zaranew.noc.net.er.	0	IN	A	196.200.96.2
 ericsson.	0	IN	NS	a0.nic.ericsson.
@@ -7243,7 +7247,6 @@ gmx.	0	IN	DS	49537 10 2 ee15cf33c2e02f308291960df44a5a87e16c0535e34178528780a9a4
 gn.	0	IN	NS	ns-gn.afrinic.net.
 gn.	0	IN	NS	ns1-gn.pch.net.
 gn.	0	IN	DS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
-gn.	0	IN	DS	38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
 godaddy.	0	IN	NS	a.nic.godaddy.
 godaddy.	0	IN	NS	b.nic.godaddy.
 godaddy.	0	IN	NS	c.nic.godaddy.
@@ -13422,6 +13425,7 @@ pictet.	0	IN	NS	ac2.nstld.com.
 pictet.	0	IN	NS	ac3.nstld.com.
 pictet.	0	IN	NS	ac4.nstld.com.
 pictet.	0	IN	DS	216 8 2 de41fd4b1c1cedab4d83f1bacc75db5012e269bd46a56b4c03d43380fba665e6
+pictet.	0	IN	DS	6694 8 2 61db4e4ae88a08e546af5490ac950221659b53669a6d54bbe6ff662568c5e6d7
 pictures.	0	IN	NS	v0n0.nic.pictures.
 pictures.	0	IN	NS	v0n1.nic.pictures.
 pictures.	0	IN	NS	v0n2.nic.pictures.
@@ -17125,6 +17129,7 @@ tiaa.	0	IN	NS	ac2.nstld.com.
 tiaa.	0	IN	NS	ac3.nstld.com.
 tiaa.	0	IN	NS	ac4.nstld.com.
 tiaa.	0	IN	DS	9186 8 2 5214d8971ec4dc7cd349205bcb13f84d4446aafa4d87d07c8c5443a180741fea
+tiaa.	0	IN	DS	14185 8 2 14d2ba968e8bda466149febec577c50eca9cb7759996fa762a5f8081c424b825
 tickets.	0	IN	NS	a.nic.tickets.
 tickets.	0	IN	NS	b.nic.tickets.
 tickets.	0	IN	NS	c.nic.tickets.
