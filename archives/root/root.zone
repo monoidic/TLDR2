@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023110201 1 241 eef8251e5ea5c4278daff9e9aff14bd142081bde2817990c9bc07b2c09cc4b05718cb27e36bc8bf66ebe2c1d9aac746f
+.	0	IN	ZONEMD	2023110202 1 241 ee2605ac828baba5db5caa8dad5803f7ffb4fbf10a125f4542d5daed1d8ad3f50717a52ab22c11c1246aa4f248351ebd
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5063,10 +5063,6 @@ b0.nic.dish.	0	IN	A	65.22.89.33
 b0.nic.dish.	0	IN	AAAA	2a01:8840:57::33
 c0.nic.dish.	0	IN	A	65.22.90.33
 c0.nic.dish.	0	IN	AAAA	2a01:8840:58::33
-diy.	0	IN	NS	ac1.nstld.com.
-diy.	0	IN	NS	ac2.nstld.com.
-diy.	0	IN	NS	ac3.nstld.com.
-diy.	0	IN	NS	ac4.nstld.com.
 diy.	0	IN	NS	ns01.trs-dns.com.
 diy.	0	IN	NS	ns01.trs-dns.net.
 diy.	0	IN	NS	ns01.trs-dns.org.
@@ -6452,10 +6448,6 @@ foo.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
 foo.	0	IN	NS	ns-tld4.charlestonroadregistry.com.
 foo.	0	IN	NS	ns-tld5.charlestonroadregistry.com.
 foo.	0	IN	DS	59840 8 2 cf97e293d4692c8085d5254b04c77780d1a217a692d5d0eeefc7a8e282614f1c
-food.	0	IN	NS	ac1.nstld.com.
-food.	0	IN	NS	ac2.nstld.com.
-food.	0	IN	NS	ac3.nstld.com.
-food.	0	IN	NS	ac4.nstld.com.
 food.	0	IN	NS	ns01.trs-dns.com.
 food.	0	IN	NS	ns01.trs-dns.net.
 food.	0	IN	NS	ns01.trs-dns.org.
@@ -9507,26 +9499,6 @@ b0.nic.kim.	0	IN	A	65.22.29.1
 b0.nic.kim.	0	IN	AAAA	2a01:8840:1f::1
 c0.nic.kim.	0	IN	A	65.22.30.1
 c0.nic.kim.	0	IN	AAAA	2a01:8840:20::1
-kinder.	0	IN	NS	a.nic.kinder.
-kinder.	0	IN	NS	b.nic.kinder.
-kinder.	0	IN	NS	c.nic.kinder.
-kinder.	0	IN	NS	ns1.dns.nic.kinder.
-kinder.	0	IN	NS	ns2.dns.nic.kinder.
-kinder.	0	IN	NS	ns3.dns.nic.kinder.
-kinder.	0	IN	DS	14149 8 2 e687cb08b8c3f8d5cc5240e873efaefb3efee7e8062604c506c91ae6a0144935
-kinder.	0	IN	DS	41830 8 2 d96f47fb6719215e954c07fa19ea3fa27b698f3cbfdfa8e55a05fd7d9a1cdb19
-a.nic.kinder.	0	IN	A	37.209.192.9
-a.nic.kinder.	0	IN	AAAA	2001:dcd:1::9
-b.nic.kinder.	0	IN	A	37.209.194.9
-b.nic.kinder.	0	IN	AAAA	2001:dcd:2::9
-c.nic.kinder.	0	IN	A	37.209.196.9
-c.nic.kinder.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.kinder.	0	IN	A	156.154.144.96
-ns1.dns.nic.kinder.	0	IN	AAAA	2610:a1:1071::60
-ns2.dns.nic.kinder.	0	IN	A	156.154.145.96
-ns2.dns.nic.kinder.	0	IN	AAAA	2610:a1:1072::60
-ns3.dns.nic.kinder.	0	IN	A	156.154.159.96
-ns3.dns.nic.kinder.	0	IN	AAAA	2610:a1:1073::60
 kindle.	0	IN	NS	dns1.nic.kindle.
 kindle.	0	IN	NS	dns2.nic.kindle.
 kindle.	0	IN	NS	dns3.nic.kindle.
@@ -10127,10 +10099,6 @@ ns2.dns.nic.lifeinsurance.	0	IN	A	156.154.145.102
 ns2.dns.nic.lifeinsurance.	0	IN	AAAA	2610:a1:1072::66
 ns3.dns.nic.lifeinsurance.	0	IN	A	156.154.159.102
 ns3.dns.nic.lifeinsurance.	0	IN	AAAA	2610:a1:1073::66
-lifestyle.	0	IN	NS	ac1.nstld.com.
-lifestyle.	0	IN	NS	ac2.nstld.com.
-lifestyle.	0	IN	NS	ac3.nstld.com.
-lifestyle.	0	IN	NS	ac4.nstld.com.
 lifestyle.	0	IN	NS	ns01.trs-dns.com.
 lifestyle.	0	IN	NS	ns01.trs-dns.net.
 lifestyle.	0	IN	NS	ns01.trs-dns.org.
@@ -10296,10 +10264,6 @@ v2n0.nic.live.	0	IN	A	65.22.23.1
 v2n0.nic.live.	0	IN	AAAA	2a01:8840:19::1
 v2n1.nic.live.	0	IN	A	161.232.11.1
 v2n1.nic.live.	0	IN	AAAA	2a01:8840:f5::1
-living.	0	IN	NS	ac1.nstld.com.
-living.	0	IN	NS	ac2.nstld.com.
-living.	0	IN	NS	ac3.nstld.com.
-living.	0	IN	NS	ac4.nstld.com.
 living.	0	IN	NS	ns01.trs-dns.com.
 living.	0	IN	NS	ns01.trs-dns.net.
 living.	0	IN	NS	ns01.trs-dns.org.
@@ -14684,26 +14648,6 @@ sec-dns-a.rotld.ro.	0	IN	A	192.162.16.20
 sec-dns-a.rotld.ro.	0	IN	AAAA	2a03:5e80:0:4:192:162:16:20
 sec-dns-b.rotld.ro.	0	IN	A	193.230.31.230
 sec-dns-b.rotld.ro.	0	IN	AAAA	2a03:5e80:0:5:193:230:31:230
-rocher.	0	IN	NS	a.nic.rocher.
-rocher.	0	IN	NS	b.nic.rocher.
-rocher.	0	IN	NS	c.nic.rocher.
-rocher.	0	IN	NS	ns1.dns.nic.rocher.
-rocher.	0	IN	NS	ns2.dns.nic.rocher.
-rocher.	0	IN	NS	ns3.dns.nic.rocher.
-rocher.	0	IN	DS	13024 8 2 0d2b1343a7cd4a96e7631a8a362ed2758ccc2fe719953e466015dde7b098ae06
-rocher.	0	IN	DS	41032 8 2 a5473a95ba6fb68769afee049ee37ab57fe8411c8d78e9d71e61481c54fc9c45
-a.nic.rocher.	0	IN	A	37.209.192.9
-a.nic.rocher.	0	IN	AAAA	2001:dcd:1::9
-b.nic.rocher.	0	IN	A	37.209.194.9
-b.nic.rocher.	0	IN	AAAA	2001:dcd:2::9
-c.nic.rocher.	0	IN	A	37.209.196.9
-c.nic.rocher.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.rocher.	0	IN	A	156.154.144.145
-ns1.dns.nic.rocher.	0	IN	AAAA	2610:a1:1071::91
-ns2.dns.nic.rocher.	0	IN	A	156.154.145.145
-ns2.dns.nic.rocher.	0	IN	AAAA	2610:a1:1072::91
-ns3.dns.nic.rocher.	0	IN	A	156.154.159.145
-ns3.dns.nic.rocher.	0	IN	AAAA	2610:a1:1073::91
 rocks.	0	IN	NS	v0n0.nic.rocks.
 rocks.	0	IN	NS	v0n1.nic.rocks.
 rocks.	0	IN	NS	v0n2.nic.rocks.
@@ -18049,10 +17993,6 @@ v2n0.nic.vacations.	0	IN	A	65.22.23.58
 v2n0.nic.vacations.	0	IN	AAAA	2a01:8840:19::58
 v2n1.nic.vacations.	0	IN	A	161.232.11.58
 v2n1.nic.vacations.	0	IN	AAAA	2a01:8840:f5::58
-vana.	0	IN	NS	ac1.nstld.com.
-vana.	0	IN	NS	ac2.nstld.com.
-vana.	0	IN	NS	ac3.nstld.com.
-vana.	0	IN	NS	ac4.nstld.com.
 vana.	0	IN	NS	ns01.trs-dns.com.
 vana.	0	IN	NS	ns01.trs-dns.net.
 vana.	0	IN	NS	ns01.trs-dns.org.
