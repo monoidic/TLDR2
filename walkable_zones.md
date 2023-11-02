@@ -20,6 +20,7 @@
 * `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `ir.`
