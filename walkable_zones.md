@@ -6,14 +6,13 @@
 * `ax.`
 * `bd.`
 * `br.`
+* `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
 * `diet.`
-* `dz.`
 * `ee.`
-* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -21,6 +20,7 @@
 * `guitars.`
 * `hosting.`
 * `id.`
+* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -30,6 +30,7 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
