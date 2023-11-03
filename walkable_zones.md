@@ -8,6 +8,7 @@
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
@@ -19,6 +20,7 @@
 * `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `ir.`
@@ -26,6 +28,7 @@
 * `kz.`
 * `lb.`
 * `lk.`
+* `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
@@ -33,6 +36,7 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
