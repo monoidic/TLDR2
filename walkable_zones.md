@@ -6,13 +6,11 @@
 * `auto.`
 * `ax.`
 * `bd.`
-* `br.`
 * `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
 * `ci.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -29,7 +27,6 @@
 * `lb.`
 * `lk.`
 * `lol.`
-* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
@@ -39,7 +36,6 @@
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
