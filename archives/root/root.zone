@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023110601 1 241 df6e71bb0cfcbe5a896bae88352fae624b9eb7ecca16381a36edaf9934750d950945bec6eb1386fa258e27475a914c75
+.	0	IN	ZONEMD	2023110602 1 241 00b894b924a18db2d9cddbe23e00c55e817b3bcda1dabe49558a4d653cdf3294613680d2a512d1129d7dd06a1769c247
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -363,6 +363,7 @@ z.nic.afl.	0	IN	AAAA	2610:a1:1076::1:82
 africa.	0	IN	NS	nsp.netnod.se.
 africa.	0	IN	NS	coza1.dnsnode.net.
 africa.	0	IN	DS	44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
+ans.dnsstudy.africa.	0	IN	A	192.96.24.69
 ag.	0	IN	NS	a0.cctld.afilias-nst.info.
 ag.	0	IN	NS	a2.cctld.afilias-nst.info.
 ag.	0	IN	NS	b0.cctld.afilias-nst.org.
@@ -511,7 +512,7 @@ allfinanz.	0	IN	NS	b.nic.allfinanz.
 allfinanz.	0	IN	NS	c.nic.allfinanz.
 allfinanz.	0	IN	NS	d.nic.allfinanz.
 allfinanz.	0	IN	DS	11155 8 2 2337b2a34993e96d38fc18da0873463c467385bfe16e09e51245673f027f913a
-allfinanz.	0	IN	DS	39881 8 2 8619bc44828ee2cdfb00e0c8e67ac0f7522aaaab12149ea53b6b52c421120a0c
+allfinanz.	0	IN	DS	34586 8 2 cb14a0af7298e258cea6b3a50686520d007a20ac3bc3e676e67d050ee42a0d61
 a.nic.allfinanz.	0	IN	A	194.169.218.75
 a.nic.allfinanz.	0	IN	AAAA	2001:67c:13cc::1:75
 b.nic.allfinanz.	0	IN	A	185.24.64.75
@@ -2103,7 +2104,7 @@ bmw.	0	IN	NS	a.nic.bmw.
 bmw.	0	IN	NS	b.nic.bmw.
 bmw.	0	IN	NS	c.nic.bmw.
 bmw.	0	IN	NS	d.nic.bmw.
-bmw.	0	IN	DS	41084 8 2 6c86d7e525248df05c8dd7720648d4cb629daae2dcd163bfc74d28312fd5311a
+bmw.	0	IN	DS	27910 8 2 39614cab4109a1b7b9917e39631416e97086839970f15957fd37ca05fffe1470
 bmw.	0	IN	DS	43579 8 2 b543b5adba44e6e32d11c93bb4e729d80fa1197f59b2ae505a1e292605234793
 a.nic.bmw.	0	IN	A	194.169.218.76
 a.nic.bmw.	0	IN	AAAA	2001:67c:13cc::1:76
@@ -2945,9 +2946,7 @@ case.	0	IN	NS	a.nic.case.
 case.	0	IN	NS	b.nic.case.
 case.	0	IN	NS	c.nic.case.
 case.	0	IN	NS	d.nic.case.
-case.	0	IN	DS	5844 7 1 d1af65d9493fe00bc5bc2ded27b91f870645d559
-case.	0	IN	DS	5844 7 2 4f478b408da99cb2d196cd2d61a8872b5d2f5a578fbd25e73f4ec19bc4f58579
-case.	0	IN	DS	53709 7 1 eb8abdcde220029a7dd36547ca1a028c7d23c76a
+case.	0	IN	DS	15291 7 2 6f45517253280a7a3005ca9c370504839da319b045d21366166689ed12a734f5
 case.	0	IN	DS	53709 7 2 71056e4ea918dc68b82a74e22d56519ae1a26c7ca756b754893cbbc10a0affee
 a.nic.case.	0	IN	A	194.169.218.140
 a.nic.case.	0	IN	AAAA	2001:67c:13cc::1:140
@@ -5289,7 +5288,7 @@ dvag.	0	IN	NS	b.nic.dvag.
 dvag.	0	IN	NS	c.nic.dvag.
 dvag.	0	IN	NS	d.nic.dvag.
 dvag.	0	IN	DS	3200 8 2 4544410064854638c7273c4481902b0b3218f905e6dae266a181dec2ab700bd3
-dvag.	0	IN	DS	26666 8 2 c94c9e4f38cc0283d1f3854a27f49c001e6d43689f35c0c9438e7d8731301662
+dvag.	0	IN	DS	43019 8 2 fe8ffef1497c77c40a52f1f90fd4c74d3ab546e8c7089b94c6d7ca08f1f68763
 a.nic.dvag.	0	IN	A	194.169.218.84
 a.nic.dvag.	0	IN	AAAA	2001:67c:13cc::1:84
 b.nic.dvag.	0	IN	A	185.24.64.84
@@ -6653,7 +6652,7 @@ fresenius.	0	IN	NS	b.nic.fresenius.
 fresenius.	0	IN	NS	c.nic.fresenius.
 fresenius.	0	IN	NS	d.nic.fresenius.
 fresenius.	0	IN	DS	14099 8 2 3a1c09d9328367d2077aa1418dacab1e9799c6e419409c35416ed57ad0d61dd2
-fresenius.	0	IN	DS	43201 8 2 b8b450ba7043973a3f43e9e8a70fac6a6b979838254e439553f17f403d24425e
+fresenius.	0	IN	DS	48287 8 2 a4740830986280d4ba13af47a2d92ae0a9561caa98eded550725bb2143f9ae88
 a.nic.fresenius.	0	IN	A	194.169.218.86
 a.nic.fresenius.	0	IN	AAAA	2001:67c:13cc::1:86
 b.nic.fresenius.	0	IN	A	185.24.64.86
@@ -9288,7 +9287,7 @@ jp.	0	IN	NS	e.dns.jp.
 jp.	0	IN	NS	f.dns.jp.
 jp.	0	IN	NS	g.dns.jp.
 jp.	0	IN	NS	h.dns.jp.
-jp.	0	IN	DS	39916 8 2 b36b524989bf0625efd9b0877e74e77f052248fde965b6e3c327d9c06af1d080
+jp.	0	IN	DS	22111 8 2 e5a43534b9beafbf35d6c6b3eaa1e9ae7fe2b4d8961252126fd67b5172322286
 a.dns.jp.	0	IN	A	203.119.1.1
 a.dns.jp.	0	IN	AAAA	2001:dc4::1
 b.dns.jp.	0	IN	A	202.12.30.131
@@ -10051,7 +10050,6 @@ lidl.	0	IN	NS	c.nic.lidl.
 lidl.	0	IN	NS	d.nic.lidl.
 lidl.	0	IN	DS	25851 13 2 1aa0941e7d1538497268ee853423361989c3b0d9a8f2d3da4e3f3ba0521e24e9
 lidl.	0	IN	DS	44022 13 2 031250e5d00e613d5044b944a8f5d9e88fa4f803eae5f887c1670e0a8bcffc97
-lidl.	0	IN	DS	54241 7 2 12602baa0fe5b77f6070a3e78c6bb5734bc8c415a7a74724d7060d8e23cb7a30
 a.nic.lidl.	0	IN	A	194.169.218.91
 a.nic.lidl.	0	IN	AAAA	2001:67c:13cc::1:91
 b.nic.lidl.	0	IN	A	185.24.64.91
@@ -10424,7 +10422,7 @@ london.	0	IN	NS	b.nic.london.
 london.	0	IN	NS	c.nic.london.
 london.	0	IN	NS	d.nic.london.
 london.	0	IN	DS	9956 8 2 dded8bee7362bbbf9f4186b413c901ff293f5897412fd92e5ef507765d0a6443
-london.	0	IN	DS	11861 8 2 5083facfd25edc276c25d2d3da986f370c82bf31a01821abf462c35800548f77
+london.	0	IN	DS	17464 8 2 bc991b8aaf8a17d5328d74cf6439bf4ec08b21a2968308af2316f01205cdab09
 a.nic.london.	0	IN	A	194.169.218.141
 a.nic.london.	0	IN	AAAA	2001:67c:13cc::1:141
 b.nic.london.	0	IN	A	185.24.64.141
@@ -11121,7 +11119,7 @@ mini.	0	IN	NS	b.nic.mini.
 mini.	0	IN	NS	c.nic.mini.
 mini.	0	IN	NS	d.nic.mini.
 mini.	0	IN	DS	82 8 2 6f84e8b483f6fefc9832a282ea80d4f30497393b5353cc6854431fa7fcb240f6
-mini.	0	IN	DS	54260 8 2 0da865b8e8a60553b90380aec9da84a2de372a2a098ec5f2f6e3502414947f88
+mini.	0	IN	DS	65330 8 2 b356be189b0666d4ea4e2082da4b80c701fce5f0431b4136527542cd5277b87d
 a.nic.mini.	0	IN	A	194.169.218.95
 a.nic.mini.	0	IN	AAAA	2001:67c:13cc::1:95
 b.nic.mini.	0	IN	A	185.24.64.95
@@ -12850,8 +12848,7 @@ ooo.	0	IN	NS	a.nic.ooo.
 ooo.	0	IN	NS	b.nic.ooo.
 ooo.	0	IN	NS	c.nic.ooo.
 ooo.	0	IN	NS	d.nic.ooo.
-ooo.	0	IN	DS	32919 8 2 2a406589bc010bbd09bb78e067dde644946d1af4389113341358cf135b6f4910
-ooo.	0	IN	DS	41890 8 1 27dde633b73dd1f2703c0a89695862b056a0d29f
+ooo.	0	IN	DS	3626 8 2 9c2f6da341779431d9cdbdec533050deedc05e2fbfa3da6080f4326e6ca97041
 ooo.	0	IN	DS	41890 8 2 f9807556257f226660b308490776b72febd70dfde2ecd9e850fa1127b37c7799
 a.nic.ooo.	0	IN	A	194.169.218.33
 a.nic.ooo.	0	IN	AAAA	2001:67c:13cc::1:33
@@ -13657,8 +13654,8 @@ pohl.	0	IN	NS	a.nic.pohl.
 pohl.	0	IN	NS	b.nic.pohl.
 pohl.	0	IN	NS	c.nic.pohl.
 pohl.	0	IN	NS	d.nic.pohl.
+pohl.	0	IN	DS	27074 8 2 a469aef13c3e1b336689d808679e1ed9024d43e635c3861f7269888bbc1623c9
 pohl.	0	IN	DS	41627 8 2 d31963884932152ac788383aba38b83f187291afb59092a43185734ec561f506
-pohl.	0	IN	DS	52324 8 2 f733939f77fe6a3f4fc63546cf69c4a86cf432bd6f41147b287818bfc87661c5
 a.nic.pohl.	0	IN	A	194.169.218.96
 a.nic.pohl.	0	IN	AAAA	2001:67c:13cc::1:96
 b.nic.pohl.	0	IN	A	185.24.64.96
@@ -14810,6 +14807,7 @@ v2n0.nic.run.	0	IN	A	65.22.35.40
 v2n0.nic.run.	0	IN	AAAA	2a01:8840:25::40
 v2n1.nic.run.	0	IN	A	161.232.17.40
 v2n1.nic.run.	0	IN	AAAA	2a01:8840:fb::40
+rw.	0	IN	NS	ans.dnsstudy.africa.
 rw.	0	IN	NS	ns1.ricta.org.rw.
 rw.	0	IN	NS	ns2.ricta.org.rw.
 rw.	0	IN	NS	ns3.ricta.org.rw.
@@ -15277,7 +15275,6 @@ schwarz.	0	IN	NS	c.nic.schwarz.
 schwarz.	0	IN	NS	d.nic.schwarz.
 schwarz.	0	IN	DS	19729 13 2 776ae387424072c0216e5ec2a5d726f289d74e1bd1527400e490982c28789f5b
 schwarz.	0	IN	DS	21945 13 2 65795ac97bb20d4d18cda59e8cb0bca258156f4a2ad3e3d2495259efd1708357
-schwarz.	0	IN	DS	51361 7 2 39d5a41f51dc9478526a8eceb14c11095d7eee368191936ef8519b15d2f0aab7
 a.nic.schwarz.	0	IN	A	194.169.218.99
 a.nic.schwarz.	0	IN	AAAA	2001:67c:13cc::1:99
 b.nic.schwarz.	0	IN	A	185.24.64.99
