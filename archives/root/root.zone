@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023110701 1 241 8eb7ddc22ad740dea4f574bdaf59231c2235c407257525a6c4519566600d76094f95e98736fb327e3557e745cc6754ec
+.	0	IN	ZONEMD	2023110702 1 241 eb38ad0d2941fcdb795cfa7159d3f62ae0afe44fa1cc9fb1a075bf103fbfb80b2812462c724d7628257e6bec8f98bb29
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1429,6 +1429,7 @@ bar.	0	IN	NS	a.nic.bar.
 bar.	0	IN	NS	b.nic.bar.
 bar.	0	IN	NS	c.nic.bar.
 bar.	0	IN	NS	d.nic.bar.
+bar.	0	IN	DS	44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
 bar.	0	IN	DS	55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
 bar.	0	IN	DS	55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
 a.nic.bar.	0	IN	A	194.169.218.56
@@ -14477,6 +14478,7 @@ rest.	0	IN	NS	a.nic.rest.
 rest.	0	IN	NS	b.nic.rest.
 rest.	0	IN	NS	c.nic.rest.
 rest.	0	IN	NS	d.nic.rest.
+rest.	0	IN	DS	1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
 rest.	0	IN	DS	25199 8 1 c43af7dec8b165d6c8b832bcb984c2407ef5ed8d
 rest.	0	IN	DS	25199 8 2 8f477474f47c387d246b6849202ca0c54c4d5a50d322c79718a98100314d08b7
 a.nic.rest.	0	IN	A	194.169.218.35
@@ -17430,6 +17432,8 @@ tr.	0	IN	NS	ns42.nic.tr.
 tr.	0	IN	NS	ns61.nic.tr.
 tr.	0	IN	NS	ns71.nic.tr.
 tr.	0	IN	NS	ns72.nic.tr.
+tr.	0	IN	NS	ns73.nic.tr.
+tr.	0	IN	NS	ns74.nic.tr.
 tr.	0	IN	DS	48972 13 2 1e67cf0aa2e236a06d1f93491990960efebab089a2badaefbb64e391ae6e95eb
 ns34.nic.tr.	0	IN	A	31.145.139.99
 ns35.nic.tr.	0	IN	A	31.145.139.119
@@ -17440,6 +17444,8 @@ ns61.nic.tr.	0	IN	AAAA	2620:171:804:ad2::1
 ns71.nic.tr.	0	IN	A	185.67.32.53
 ns72.nic.tr.	0	IN	A	40.68.114.66
 ns72.nic.tr.	0	IN	AAAA	2603:1020:201:10::111
+ns73.nic.tr.	0	IN	A	31.145.253.159
+ns74.nic.tr.	0	IN	A	31.145.253.160
 trade.	0	IN	NS	a.nic.trade.
 trade.	0	IN	NS	b.nic.trade.
 trade.	0	IN	NS	c.nic.trade.
