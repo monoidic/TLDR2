@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023110900 1 241 86f815dcbab8c97e3eb514c0a65555882b98247c5128ae700dba153a3c3eb56d7e58af35a54edba111aa3d3dc535b522
+.	0	IN	ZONEMD	2023110902 1 241 f1282f0c7c0050806fafb2c680e9070b89a2190cfb7cdd69a963f57f7bf93e64f440a9afe960c8ff974fe7cb93c878db
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2064,9 +2064,8 @@ blog.	0	IN	NS	a.nic.blog.
 blog.	0	IN	NS	b.nic.blog.
 blog.	0	IN	NS	c.nic.blog.
 blog.	0	IN	NS	d.nic.blog.
-blog.	0	IN	DS	16976 8 1 f4535c694f892ffeb740c35cc9665b52e360df7d
 blog.	0	IN	DS	16976 8 2 9862de44e1e7e44215165000c4b87bd3f46d439c686166da0ca79e06896958b7
-blog.	0	IN	DS	43975 8 2 94023be3a769704f45ecb9fea13bbbab6adcdb4d8bb39e621e3cbf223fb5ca53
+blog.	0	IN	DS	17455 8 2 c0d6cd12fcb746bb819df417dfa43ed0d4227bd62195f749537af85a939d2a21
 a.nic.blog.	0	IN	A	194.169.218.94
 a.nic.blog.	0	IN	AAAA	2001:67c:13cc::1:94
 b.nic.blog.	0	IN	A	185.24.64.94
@@ -7407,13 +7406,9 @@ dnsc.nic.got.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.got.	0	IN	A	156.154.103.3
 dnsd.nic.got.	0	IN	AAAA	2610:a1:1010::3
 gov.	0	IN	NS	a.ns.gov.
-gov.	0	IN	NS	a.gov-servers.net.
 gov.	0	IN	NS	b.ns.gov.
-gov.	0	IN	NS	b.gov-servers.net.
 gov.	0	IN	NS	c.ns.gov.
-gov.	0	IN	NS	c.gov-servers.net.
 gov.	0	IN	NS	d.ns.gov.
-gov.	0	IN	NS	d.gov-servers.net.
 gov.	0	IN	DS	7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
 gov.	0	IN	DS	64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 a.ns.gov.	0	IN	A	199.33.230.1
@@ -11960,14 +11955,6 @@ b.gmoregistry.net.	0	IN	AAAA	2001:dcd:2::4
 k.gmoregistry.net.	0	IN	A	37.209.196.4
 l.gmoregistry.net.	0	IN	A	37.209.198.4
 l.gmoregistry.net.	0	IN	AAAA	2001:dcd:4::4
-a.gov-servers.net.	0	IN	A	69.36.157.30
-a.gov-servers.net.	0	IN	AAAA	2001:500:4431::2:30
-b.gov-servers.net.	0	IN	A	209.112.123.30
-b.gov-servers.net.	0	IN	AAAA	2620:74:27::2:30
-c.gov-servers.net.	0	IN	A	69.36.153.30
-c.gov-servers.net.	0	IN	AAAA	2620:74:28::2:30
-d.gov-servers.net.	0	IN	A	81.19.194.30
-d.gov-servers.net.	0	IN	AAAA	2620:74:29::2:30
 a.gtld-servers.net.	0	IN	A	192.5.6.30
 a.gtld-servers.net.	0	IN	AAAA	2001:503:a83e::2:30
 b.gtld-servers.net.	0	IN	A	192.33.14.30
