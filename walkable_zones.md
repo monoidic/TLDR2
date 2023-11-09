@@ -15,14 +15,12 @@
 * `diet.`
 * `dz.`
 * `ee.`
-* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `ir.`
 * `kg.`
 * `kz.`
@@ -31,12 +29,9 @@
 * `lol.`
 * `lr.`
 * `mc.`
-* `mom.`
-* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
