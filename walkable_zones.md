@@ -7,19 +7,17 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `christmas.`
-* `ci.`
-* `diet.`
 * `dz.`
+* `ee.`
 * `er.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `hosting.`
 * `id.`
 * `ir.`
 * `kg.`
@@ -30,7 +28,6 @@
 * `lr.`
 * `mc.`
 * `nu.`
-* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
@@ -42,3 +39,5 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
