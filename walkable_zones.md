@@ -6,6 +6,7 @@
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
 * `cars.`
