@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023111401 1 241 6f8a0c90ac868eab5a484b4a3a70bad1577e0976e78580b00c546b1182c04f40ccf3d30e98fecfdcc841a50a2f8a789b
+.	0	IN	ZONEMD	2023111402 1 241 29a6512a3546c5af729b58f36f3c5ead6bccd28c3a385419a1737be64a6265263c5dcf956d0ea614813f87850d342245
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -252,6 +252,7 @@ ad.	0	IN	NS	ns3.nic.fr.
 ad.	0	IN	NS	dnsc.ad.
 ad.	0	IN	NS	dnsm.ad.
 ad.	0	IN	DS	10624 8 2 732ac3921e40eac6c01b0c467beda420f42bf38b7c462e86d01d1d2c4eb9da37
+ad.	0	IN	DS	50617 8 2 12432422b23ea8f82751d15041df27f6e2c8c408c3d7a18dcac511652e5e263d
 dnsc.ad.	0	IN	A	194.158.74.10
 dnsc.ad.	0	IN	AAAA	2a02:8060:32fa::b
 dnsm.ad.	0	IN	A	194.158.74.9
@@ -3106,7 +3107,10 @@ z.nic.catholic.	0	IN	AAAA	2610:a1:1076::1:82
 cba.	0	IN	NS	a.nic.cba.
 cba.	0	IN	NS	b.nic.cba.
 cba.	0	IN	NS	c.nic.cba.
-cba.	0	IN	NS	d.nic.cba.
+cba.	0	IN	NS	x.nic.cba.
+cba.	0	IN	NS	y.nic.cba.
+cba.	0	IN	NS	z.nic.cba.
+cba.	0	IN	DS	31729 8 2 84871955bc863e5911b72369b1d1eb75ff087a8093edb4ba4bfb48f95813c034
 cba.	0	IN	DS	44287 8 2 8ca6adaea243428a99943519846fd6f6bd355ec4990533d0569ee0e6075eb863
 a.nic.cba.	0	IN	A	37.209.192.9
 a.nic.cba.	0	IN	AAAA	2001:dcd:1::9
@@ -3114,8 +3118,12 @@ b.nic.cba.	0	IN	A	37.209.194.9
 b.nic.cba.	0	IN	AAAA	2001:dcd:2::9
 c.nic.cba.	0	IN	A	37.209.196.9
 c.nic.cba.	0	IN	AAAA	2001:dcd:3::9
-d.nic.cba.	0	IN	A	37.209.198.9
-d.nic.cba.	0	IN	AAAA	2001:dcd:4::9
+x.nic.cba.	0	IN	A	156.154.172.82
+x.nic.cba.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.cba.	0	IN	A	156.154.173.82
+y.nic.cba.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.cba.	0	IN	A	156.154.174.82
+z.nic.cba.	0	IN	AAAA	2610:a1:1076::1:82
 cbn.	0	IN	NS	a.nic.cbn.
 cbn.	0	IN	NS	b.nic.cbn.
 cbn.	0	IN	NS	c.nic.cbn.
@@ -3996,16 +4004,23 @@ dnsd.nic.comcast.	0	IN	AAAA	2610:a1:1010::3
 commbank.	0	IN	NS	a.nic.commbank.
 commbank.	0	IN	NS	b.nic.commbank.
 commbank.	0	IN	NS	c.nic.commbank.
-commbank.	0	IN	NS	d.nic.commbank.
+commbank.	0	IN	NS	x.nic.commbank.
+commbank.	0	IN	NS	y.nic.commbank.
+commbank.	0	IN	NS	z.nic.commbank.
 commbank.	0	IN	DS	25681 8 2 ccb3f1bcfd33d277ece719b8aad64a84b6722c4a46235605f3df06d435f59b6d
+commbank.	0	IN	DS	61396 8 2 74227b152e28cafc3c00b648323982976ee6fc17d521642924d0d145c6135998
 a.nic.commbank.	0	IN	A	37.209.192.9
 a.nic.commbank.	0	IN	AAAA	2001:dcd:1::9
 b.nic.commbank.	0	IN	A	37.209.194.9
 b.nic.commbank.	0	IN	AAAA	2001:dcd:2::9
 c.nic.commbank.	0	IN	A	37.209.196.9
 c.nic.commbank.	0	IN	AAAA	2001:dcd:3::9
-d.nic.commbank.	0	IN	A	37.209.198.9
-d.nic.commbank.	0	IN	AAAA	2001:dcd:4::9
+x.nic.commbank.	0	IN	A	156.154.172.82
+x.nic.commbank.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.commbank.	0	IN	A	156.154.173.82
+y.nic.commbank.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.commbank.	0	IN	A	156.154.174.82
+z.nic.commbank.	0	IN	AAAA	2610:a1:1076::1:82
 community.	0	IN	NS	v0n0.nic.community.
 community.	0	IN	NS	v0n1.nic.community.
 community.	0	IN	NS	v0n2.nic.community.
@@ -12213,7 +12228,10 @@ auth61.ns.uu.net.	0	IN	A	198.6.1.182
 netbank.	0	IN	NS	a.nic.netbank.
 netbank.	0	IN	NS	b.nic.netbank.
 netbank.	0	IN	NS	c.nic.netbank.
-netbank.	0	IN	NS	d.nic.netbank.
+netbank.	0	IN	NS	x.nic.netbank.
+netbank.	0	IN	NS	y.nic.netbank.
+netbank.	0	IN	NS	z.nic.netbank.
+netbank.	0	IN	DS	29050 8 2 401dd968541610c0a000139e1462693701042a2931afa1a246d8bfa05ab13c94
 netbank.	0	IN	DS	61447 8 2 2e300d5e09bdd071679488d325666af89182213d8af2bd2d026c57f3fab5895e
 a.nic.netbank.	0	IN	A	37.209.192.9
 a.nic.netbank.	0	IN	AAAA	2001:dcd:1::9
@@ -12221,8 +12239,12 @@ b.nic.netbank.	0	IN	A	37.209.194.9
 b.nic.netbank.	0	IN	AAAA	2001:dcd:2::9
 c.nic.netbank.	0	IN	A	37.209.196.9
 c.nic.netbank.	0	IN	AAAA	2001:dcd:3::9
-d.nic.netbank.	0	IN	A	37.209.198.9
-d.nic.netbank.	0	IN	AAAA	2001:dcd:4::9
+x.nic.netbank.	0	IN	A	156.154.172.82
+x.nic.netbank.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.netbank.	0	IN	A	156.154.173.82
+y.nic.netbank.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.netbank.	0	IN	A	156.154.174.82
+z.nic.netbank.	0	IN	AAAA	2610:a1:1076::1:82
 netflix.	0	IN	NS	a.nic.netflix.
 netflix.	0	IN	NS	b.nic.netflix.
 netflix.	0	IN	NS	c.nic.netflix.
