@@ -8,6 +8,8 @@
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
+* `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -15,8 +17,11 @@
 * `dz.`
 * `ee.`
 * `er.`
+* `flowers.`
 * `game.`
 * `gdn.`
+* `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `ir.`
@@ -34,6 +39,7 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
@@ -42,3 +48,4 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
