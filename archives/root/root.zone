@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023111601 1 241 2d942e37695bbab6ca448e9d54c72bb035ce4d21d54cc1e442ebc589d51e70a51993ebe1fdc2f091135b9c32c8a5edcd
+.	0	IN	ZONEMD	2023111602 1 241 2097f8066ea852edf56d9936e89208a661c85f37f66cc754917d190dd059d6e4a34851e52ef8734088b1b8036451075f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1324,23 +1324,31 @@ az.	0	IN	NS	rip.psg.com.
 az.	0	IN	DS	48544 8 2 4cb64b087166bd2a837efcedc5d210f3ffbedb7e6535998b27a1e43b948967cc
 ns3.intrans.az.	0	IN	A	148.251.2.246
 azure.	0	IN	NS	dns1.nic.azure.
-azure.	0	IN	NS	dns2.nominetdns.uk.
+azure.	0	IN	NS	dns2.nic.azure.
 azure.	0	IN	NS	dns3.nic.azure.
-azure.	0	IN	NS	dns4.nominetdns.uk.
+azure.	0	IN	NS	dns4.nic.azure.
 azure.	0	IN	NS	dnsa.nic.azure.
-azure.	0	IN	NS	dnsb.nominetdns.uk.
+azure.	0	IN	NS	dnsb.nic.azure.
 azure.	0	IN	NS	dnsc.nic.azure.
-azure.	0	IN	NS	dnsd.nominetdns.uk.
+azure.	0	IN	NS	dnsd.nic.azure.
 azure.	0	IN	DS	25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
 azure.	0	IN	DS	40166 8 2 9f412d488bc68de48010ed08d94cc6830cd604296f3bdf244ac9d7dfa74ae458
 dns1.nic.azure.	0	IN	A	213.248.219.129
 dns1.nic.azure.	0	IN	AAAA	2a01:618:403::129
+dns2.nic.azure.	0	IN	A	103.49.83.129
+dns2.nic.azure.	0	IN	AAAA	2401:fd80:403::129
 dns3.nic.azure.	0	IN	A	213.248.223.129
 dns3.nic.azure.	0	IN	AAAA	2a01:618:407::129
+dns4.nic.azure.	0	IN	A	43.230.51.129
+dns4.nic.azure.	0	IN	AAAA	2401:fd80:407::129
 dnsa.nic.azure.	0	IN	A	156.154.100.3
 dnsa.nic.azure.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.azure.	0	IN	A	156.154.101.3
+dnsb.nic.azure.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.azure.	0	IN	A	156.154.102.3
 dnsc.nic.azure.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.azure.	0	IN	A	156.154.103.3
+dnsd.nic.azure.	0	IN	AAAA	2610:a1:1010::3
 ba.	0	IN	NS	ns.ba.
 ba.	0	IN	NS	una.utic.net.ba.
 ba.	0	IN	NS	sava.utic.net.ba.
@@ -1952,23 +1960,31 @@ v2n0.nic.bike.	0	IN	AAAA	2a01:8840:1d::44
 v2n1.nic.bike.	0	IN	A	161.232.13.44
 v2n1.nic.bike.	0	IN	AAAA	2a01:8840:f7::44
 bing.	0	IN	NS	dns1.nic.bing.
-bing.	0	IN	NS	dns2.nominetdns.uk.
+bing.	0	IN	NS	dns2.nic.bing.
 bing.	0	IN	NS	dns3.nic.bing.
-bing.	0	IN	NS	dns4.nominetdns.uk.
+bing.	0	IN	NS	dns4.nic.bing.
 bing.	0	IN	NS	dnsa.nic.bing.
-bing.	0	IN	NS	dnsb.nominetdns.uk.
+bing.	0	IN	NS	dnsb.nic.bing.
 bing.	0	IN	NS	dnsc.nic.bing.
-bing.	0	IN	NS	dnsd.nominetdns.uk.
+bing.	0	IN	NS	dnsd.nic.bing.
 bing.	0	IN	DS	35654 8 2 5d6d052d2f2cbb18e7f16aa68b42e37b7ed0fc58bd491e8e97c8aeafb3279c81
 bing.	0	IN	DS	54939 8 2 aa18f258897855e86489c4a522ea45da55918bcd1c6dd418322081331df89e85
 dns1.nic.bing.	0	IN	A	213.248.219.130
 dns1.nic.bing.	0	IN	AAAA	2a01:618:403::130
+dns2.nic.bing.	0	IN	A	103.49.83.130
+dns2.nic.bing.	0	IN	AAAA	2401:fd80:403::130
 dns3.nic.bing.	0	IN	A	213.248.223.130
 dns3.nic.bing.	0	IN	AAAA	2a01:618:407::130
+dns4.nic.bing.	0	IN	A	43.230.51.130
+dns4.nic.bing.	0	IN	AAAA	2401:fd80:407::130
 dnsa.nic.bing.	0	IN	A	156.154.100.3
 dnsa.nic.bing.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.bing.	0	IN	A	156.154.101.3
+dnsb.nic.bing.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.bing.	0	IN	A	156.154.102.3
 dnsc.nic.bing.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.bing.	0	IN	A	156.154.103.3
+dnsd.nic.bing.	0	IN	AAAA	2610:a1:1010::3
 bingo.	0	IN	NS	v0n0.nic.bingo.
 bingo.	0	IN	NS	v0n1.nic.bingo.
 bingo.	0	IN	NS	v0n2.nic.bingo.
@@ -8259,23 +8275,31 @@ ns2.dns.nic.hotels.	0	IN	AAAA	2610:a1:1072::1:3
 ns3.dns.nic.hotels.	0	IN	A	156.154.171.3
 ns3.dns.nic.hotels.	0	IN	AAAA	2610:a1:1073::1:3
 hotmail.	0	IN	NS	dns1.nic.hotmail.
-hotmail.	0	IN	NS	dns2.nominetdns.uk.
+hotmail.	0	IN	NS	dns2.nic.hotmail.
 hotmail.	0	IN	NS	dns3.nic.hotmail.
-hotmail.	0	IN	NS	dns4.nominetdns.uk.
+hotmail.	0	IN	NS	dns4.nic.hotmail.
 hotmail.	0	IN	NS	dnsa.nic.hotmail.
-hotmail.	0	IN	NS	dnsb.nominetdns.uk.
+hotmail.	0	IN	NS	dnsb.nic.hotmail.
 hotmail.	0	IN	NS	dnsc.nic.hotmail.
-hotmail.	0	IN	NS	dnsd.nominetdns.uk.
+hotmail.	0	IN	NS	dnsd.nic.hotmail.
 hotmail.	0	IN	DS	12876 8 2 5d35f9e8561ce9835fbdbcd44fd9f80c93d5412827694bd7b17bc1477a8e70ab
 hotmail.	0	IN	DS	30586 8 2 c055d04ac9301bff85af9424f6d368d206d7e4786813a22fd3cceaa6928f50cc
 dns1.nic.hotmail.	0	IN	A	213.248.219.131
 dns1.nic.hotmail.	0	IN	AAAA	2a01:618:403::131
+dns2.nic.hotmail.	0	IN	A	103.49.83.131
+dns2.nic.hotmail.	0	IN	AAAA	2401:fd80:403::131
 dns3.nic.hotmail.	0	IN	A	213.248.223.131
 dns3.nic.hotmail.	0	IN	AAAA	2a01:618:407::131
+dns4.nic.hotmail.	0	IN	A	43.230.51.131
+dns4.nic.hotmail.	0	IN	AAAA	2401:fd80:407::131
 dnsa.nic.hotmail.	0	IN	A	156.154.100.3
 dnsa.nic.hotmail.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.hotmail.	0	IN	A	156.154.101.3
+dnsb.nic.hotmail.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.hotmail.	0	IN	A	156.154.102.3
 dnsc.nic.hotmail.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.hotmail.	0	IN	A	156.154.103.3
+dnsd.nic.hotmail.	0	IN	AAAA	2610:a1:1010::3
 house.	0	IN	NS	v0n0.nic.house.
 house.	0	IN	NS	v0n1.nic.house.
 house.	0	IN	NS	v0n2.nic.house.
@@ -11163,23 +11187,31 @@ y.nic.miami.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.miami.	0	IN	A	156.154.174.82
 z.nic.miami.	0	IN	AAAA	2610:a1:1076::1:82
 microsoft.	0	IN	NS	dns1.nic.microsoft.
-microsoft.	0	IN	NS	dns2.nominetdns.uk.
+microsoft.	0	IN	NS	dns2.nic.microsoft.
 microsoft.	0	IN	NS	dns3.nic.microsoft.
-microsoft.	0	IN	NS	dns4.nominetdns.uk.
+microsoft.	0	IN	NS	dns4.nic.microsoft.
 microsoft.	0	IN	NS	dnsa.nic.microsoft.
-microsoft.	0	IN	NS	dnsb.nominetdns.uk.
+microsoft.	0	IN	NS	dnsb.nic.microsoft.
 microsoft.	0	IN	NS	dnsc.nic.microsoft.
-microsoft.	0	IN	NS	dnsd.nominetdns.uk.
+microsoft.	0	IN	NS	dnsd.nic.microsoft.
 microsoft.	0	IN	DS	35775 8 2 75b42b6862ac3b32fc471d044de968df0d3e9a2b6d4ead5addba4ed42fef185a
 microsoft.	0	IN	DS	55012 8 2 6124fc6575fd96e99e526b792f5637653c25dc4e1e2c034c7a23fe2e2da94acf
 dns1.nic.microsoft.	0	IN	A	213.248.219.132
 dns1.nic.microsoft.	0	IN	AAAA	2a01:618:403::132
+dns2.nic.microsoft.	0	IN	A	103.49.83.132
+dns2.nic.microsoft.	0	IN	AAAA	2401:fd80:403::132
 dns3.nic.microsoft.	0	IN	A	213.248.223.132
 dns3.nic.microsoft.	0	IN	AAAA	2a01:618:407::132
+dns4.nic.microsoft.	0	IN	A	43.230.51.132
+dns4.nic.microsoft.	0	IN	AAAA	2401:fd80:407::132
 dnsa.nic.microsoft.	0	IN	A	156.154.100.3
 dnsa.nic.microsoft.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.microsoft.	0	IN	A	156.154.101.3
+dnsb.nic.microsoft.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.microsoft.	0	IN	A	156.154.102.3
 dnsc.nic.microsoft.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.microsoft.	0	IN	A	156.154.103.3
+dnsd.nic.microsoft.	0	IN	AAAA	2610:a1:1010::3
 mil.	0	IN	NS	con1.nipr.mil.
 mil.	0	IN	NS	con2.nipr.mil.
 mil.	0	IN	NS	eur1.nipr.mil.
@@ -18940,23 +18972,31 @@ ns2.dns.nic.win.	0	IN	AAAA	2610:a1:1072::b6
 ns3.dns.nic.win.	0	IN	A	156.154.159.182
 ns3.dns.nic.win.	0	IN	AAAA	2610:a1:1073::b6
 windows.	0	IN	NS	dns1.nic.windows.
-windows.	0	IN	NS	dns2.nominetdns.uk.
+windows.	0	IN	NS	dns2.nic.windows.
 windows.	0	IN	NS	dns3.nic.windows.
-windows.	0	IN	NS	dns4.nominetdns.uk.
+windows.	0	IN	NS	dns4.nic.windows.
 windows.	0	IN	NS	dnsa.nic.windows.
-windows.	0	IN	NS	dnsb.nominetdns.uk.
+windows.	0	IN	NS	dnsb.nic.windows.
 windows.	0	IN	NS	dnsc.nic.windows.
-windows.	0	IN	NS	dnsd.nominetdns.uk.
+windows.	0	IN	NS	dnsd.nic.windows.
 windows.	0	IN	DS	31600 8 2 8057adbdc309cac9cdb987f477b7217b15c88d0a7f84e3b9ba5af412d24b60c9
 windows.	0	IN	DS	44526 8 2 f6dda2f2e3e99e70c47f0393f0154d1641435abdf20e5e5c0a8416c0da34a922
 dns1.nic.windows.	0	IN	A	213.248.219.133
 dns1.nic.windows.	0	IN	AAAA	2a01:618:403::133
+dns2.nic.windows.	0	IN	A	103.49.83.133
+dns2.nic.windows.	0	IN	AAAA	2401:fd80:403::133
 dns3.nic.windows.	0	IN	A	213.248.223.133
 dns3.nic.windows.	0	IN	AAAA	2a01:618:407::133
+dns4.nic.windows.	0	IN	A	43.230.51.133
+dns4.nic.windows.	0	IN	AAAA	2401:fd80:407::133
 dnsa.nic.windows.	0	IN	A	156.154.100.3
 dnsa.nic.windows.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.windows.	0	IN	A	156.154.101.3
+dnsb.nic.windows.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.windows.	0	IN	A	156.154.102.3
 dnsc.nic.windows.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.windows.	0	IN	A	156.154.103.3
+dnsd.nic.windows.	0	IN	AAAA	2610:a1:1010::3
 wine.	0	IN	NS	v0n0.nic.wine.
 wine.	0	IN	NS	v0n1.nic.wine.
 wine.	0	IN	NS	v0n2.nic.wine.
@@ -19181,23 +19221,31 @@ v2n0.nic.wtf.	0	IN	AAAA	2a01:8840:19::7
 v2n1.nic.wtf.	0	IN	A	161.232.11.7
 v2n1.nic.wtf.	0	IN	AAAA	2a01:8840:f5::7
 xbox.	0	IN	NS	dns1.nic.xbox.
-xbox.	0	IN	NS	dns2.nominetdns.uk.
+xbox.	0	IN	NS	dns2.nic.xbox.
 xbox.	0	IN	NS	dns3.nic.xbox.
-xbox.	0	IN	NS	dns4.nominetdns.uk.
+xbox.	0	IN	NS	dns4.nic.xbox.
 xbox.	0	IN	NS	dnsa.nic.xbox.
-xbox.	0	IN	NS	dnsb.nominetdns.uk.
+xbox.	0	IN	NS	dnsb.nic.xbox.
 xbox.	0	IN	NS	dnsc.nic.xbox.
-xbox.	0	IN	NS	dnsd.nominetdns.uk.
+xbox.	0	IN	NS	dnsd.nic.xbox.
 xbox.	0	IN	DS	43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 xbox.	0	IN	DS	48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 dns1.nic.xbox.	0	IN	A	213.248.219.134
 dns1.nic.xbox.	0	IN	AAAA	2a01:618:403::134
+dns2.nic.xbox.	0	IN	A	103.49.83.134
+dns2.nic.xbox.	0	IN	AAAA	2401:fd80:403::134
 dns3.nic.xbox.	0	IN	A	213.248.223.134
 dns3.nic.xbox.	0	IN	AAAA	2a01:618:407::134
+dns4.nic.xbox.	0	IN	A	43.230.51.134
+dns4.nic.xbox.	0	IN	AAAA	2401:fd80:407::134
 dnsa.nic.xbox.	0	IN	A	156.154.100.3
 dnsa.nic.xbox.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.xbox.	0	IN	A	156.154.101.3
+dnsb.nic.xbox.	0	IN	AAAA	2001:502:2eda::3
 dnsc.nic.xbox.	0	IN	A	156.154.102.3
 dnsc.nic.xbox.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.xbox.	0	IN	A	156.154.103.3
+dnsd.nic.xbox.	0	IN	AAAA	2610:a1:1010::3
 xerox.	0	IN	NS	a.nic.xerox.
 xerox.	0	IN	NS	b.nic.xerox.
 xerox.	0	IN	NS	c.nic.xerox.
