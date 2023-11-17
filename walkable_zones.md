@@ -5,14 +5,12 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
 * `cars.`
 * `ch.`
 * `christmas.`
-* `ci.`
 * `diet.`
 * `dz.`
 * `ee.`
@@ -21,12 +19,9 @@
 * `game.`
 * `gdn.`
 * `gn.`
-* `guitars.`
 * `hosting.`
-* `id.`
 * `ir.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -38,7 +33,6 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
