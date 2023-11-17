@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023111700 1 241 7517c5dea1285c6f0455d56ab6c34e1da8bd257486a53612eb5938d0b4ba43bdccc31fead366fd87038dd81ededdac83
+.	0	IN	ZONEMD	2023111701 1 241 85dc23a7499a58e9084eb08ca6e65b7f6a6bd495ad8a4f7f5951483ca1b4d36e0d510f5f4fae81deef278ca6185748b2
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2406,8 +2406,7 @@ box.	0	IN	NS	a.nic.box.
 box.	0	IN	NS	b.nic.box.
 box.	0	IN	NS	c.nic.box.
 box.	0	IN	NS	d.nic.box.
-box.	0	IN	DS	47542 8 1 f59d467614d996277c9ea8e52eb920623b9fa4fe
-box.	0	IN	DS	47542 8 2 31cc9f53054303443fa06f368c54971d8e12c89655cb768a951d908701e82800
+box.	0	IN	DS	62294 8 2 29a911bdbf1fc105d593ea39a619bf1e89cb1bfe73ff70fb7e80b75ab9a7a8b8
 box.	0	IN	DS	63242 8 2 f63250257503cce60195e71c2e346a2d8bde06dcbd666b9ee4f860d75988702d
 a.nic.box.	0	IN	A	194.169.218.139
 a.nic.box.	0	IN	AAAA	2001:67c:13cc::1:139
@@ -4782,10 +4781,8 @@ dealer.	0	IN	NS	a.nic.dealer.
 dealer.	0	IN	NS	b.nic.dealer.
 dealer.	0	IN	NS	c.nic.dealer.
 dealer.	0	IN	NS	d.nic.dealer.
-dealer.	0	IN	DS	31586 8 1 2300a755b90e6e18845757994ffd35d160f8b1c3
+dealer.	0	IN	DS	31235 8 2 221ac84b1ddc9345e73cfd727b7c85ad97d782d1485250f4e62f7b424371b5a4
 dealer.	0	IN	DS	31586 8 2 8c442bfe32daff402fcc59d26a90f5ecac593fb6ba8a6396bd21686e3bd0d24b
-dealer.	0	IN	DS	43516 8 1 e4209e3f2bfdbf136d547329f367ae9bd03a3beb
-dealer.	0	IN	DS	43516 8 2 affee7db437839677f9b16547175bfa4f22a0cfc0fc2f374af5884c523efa54c
 a.nic.dealer.	0	IN	A	194.169.218.138
 a.nic.dealer.	0	IN	AAAA	2001:67c:13cc::1:138
 b.nic.dealer.	0	IN	A	185.24.64.138
@@ -5737,19 +5734,6 @@ et.	0	IN	NS	a.nic.et.
 et.	0	IN	NS	b.nic.et.
 a.nic.et.	0	IN	A	197.156.74.192
 b.nic.et.	0	IN	A	197.156.74.193
-etisalat.	0	IN	NS	a.nic.etisalat.
-etisalat.	0	IN	NS	b.nic.etisalat.
-etisalat.	0	IN	NS	c.nic.etisalat.
-etisalat.	0	IN	NS	d.nic.etisalat.
-etisalat.	0	IN	DS	3857 8 2 389b8d170bf2914abe8cdd4bccdf454bca62523faa83f6f5f30cb8e672a75803
-a.nic.etisalat.	0	IN	A	194.169.218.48
-a.nic.etisalat.	0	IN	AAAA	2001:67c:13cc::1:48
-b.nic.etisalat.	0	IN	A	185.24.64.48
-b.nic.etisalat.	0	IN	AAAA	2a04:2b00:13cc::1:48
-c.nic.etisalat.	0	IN	A	212.18.248.48
-c.nic.etisalat.	0	IN	AAAA	2a04:2b00:13ee::48
-d.nic.etisalat.	0	IN	A	212.18.249.48
-d.nic.etisalat.	0	IN	AAAA	2a04:2b00:13ff::48
 eu.	0	IN	NS	w.dns.eu.
 eu.	0	IN	NS	x.dns.eu.
 eu.	0	IN	NS	y.dns.eu.
@@ -8685,9 +8669,7 @@ inc.	0	IN	NS	a.nic.inc.
 inc.	0	IN	NS	b.nic.inc.
 inc.	0	IN	NS	c.nic.inc.
 inc.	0	IN	NS	d.nic.inc.
-inc.	0	IN	DS	13636 8 1 6eaebc6ddc7e32668027d425fe37084d6cb2d13d
-inc.	0	IN	DS	13636 8 2 1f6e64cbe2f9ff7a4d33195d8ee394e09e58cb89477523a1b5b1113b0cd6c3f5
-inc.	0	IN	DS	18077 8 1 b1d522ed8feeeaf6ead2504c9460101cfb98a195
+inc.	0	IN	DS	13114 8 2 8ef8eca3d31fc473c78b0cf4641bd536920e064d500f3a01ac96405cf5f8edcb
 inc.	0	IN	DS	18077 8 2 42f81b888d9b44d561060b7dc32796807f2a99f2d151b3837019aba31c8966a0
 a.nic.inc.	0	IN	A	194.169.218.137
 a.nic.inc.	0	IN	AAAA	2001:67c:13cc::1:137
@@ -9761,12 +9743,8 @@ kred.	0	IN	NS	a.nic.kred.
 kred.	0	IN	NS	b.nic.kred.
 kred.	0	IN	NS	c.nic.kred.
 kred.	0	IN	NS	d.nic.kred.
-kred.	0	IN	DS	7366 8 1 938e9ee09f411e400dd96657494c3fb5c90ee3b0
 kred.	0	IN	DS	7366 8 2 46bb5d35906260d79f26c5639b8a1fe47061c329973204d07222808035cd11bf
-kred.	0	IN	DS	11480 8 1 74e467bca5017fcd4f9f52618bba52baab535461
-kred.	0	IN	DS	11480 8 2 a9c2ad21a0cafa1db04731ef4647140962c88a2da406c53e8a9d4b3cc46f7f9f
-kred.	0	IN	DS	56191 8 1 ddff2dc997ddb6798552294536706d235395fe24
-kred.	0	IN	DS	56191 8 2 e0ece602138ff1452f8f8d504eccab90404b9f010486f09d461c49fde6f3a30f
+kred.	0	IN	DS	33850 8 2 2ed5e1e9ef263b8455a2df166c792df49a29c8294ae9999287b56d0b81d2ed70
 a.nic.kred.	0	IN	A	194.169.218.79
 a.nic.kred.	0	IN	AAAA	2001:67c:13cc::1:79
 b.nic.kred.	0	IN	A	185.24.64.79
@@ -10413,8 +10391,7 @@ llp.	0	IN	NS	b.nic.llp.
 llp.	0	IN	NS	c.nic.llp.
 llp.	0	IN	NS	d.nic.llp.
 llp.	0	IN	DS	16200 7 2 0d84d15bf51c1a1c7eac512663c58bffddb5cb5e3aa960399d551754a471870e
-llp.	0	IN	DS	27216 7 1 5de35ece1ae46bba06281c8da6ffda34b167ac2e
-llp.	0	IN	DS	27216 7 2 b95649568bd88f57c7500a9e21d1d181065170cadbb881e299fd82e3a9909c23
+llp.	0	IN	DS	24513 7 2 bbfa31f25c3737e0a4ac25ff09c2f8335ad065472cd187e6d4209a84327f158b
 a.nic.llp.	0	IN	A	194.169.218.157
 a.nic.llp.	0	IN	AAAA	2001:67c:13cc::1:157
 b.nic.llp.	0	IN	A	185.24.64.157
@@ -14205,10 +14182,8 @@ qpon.	0	IN	NS	a.nic.qpon.
 qpon.	0	IN	NS	b.nic.qpon.
 qpon.	0	IN	NS	c.nic.qpon.
 qpon.	0	IN	NS	d.nic.qpon.
-qpon.	0	IN	DS	2327 8 1 c3a7db5bb487a23ba948a762681a1899980dedc0
 qpon.	0	IN	DS	2327 8 2 3862ebe8922407508c2915d29ada122bfdc2385e90e14f0b98145665d794e347
-qpon.	0	IN	DS	29890 8 1 44c89222bc6f471572a2d95af068d70d82d99d65
-qpon.	0	IN	DS	29890 8 2 7467925ea4afc0a3a7e0e36a640721385ffc85b26b7002b492ea8cf45f4c9a90
+qpon.	0	IN	DS	16832 8 2 640f8ec05b04bbb53bd37b2ead4360a4fb63e8fc4084d6e5d5ee78facd4f47a3
 a.nic.qpon.	0	IN	A	194.169.218.128
 a.nic.qpon.	0	IN	AAAA	2001:67c:13cc::1:128
 b.nic.qpon.	0	IN	A	185.24.64.128
@@ -19431,7 +19406,7 @@ xn--4gbrim.	0	IN	NS	b.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	c.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	d.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	DS	25097 8 2 123b7c37a9dfd48ded1914c9172ee05865d10e47c0517f40659cb0305ba0d8b3
-xn--4gbrim.	0	IN	DS	38332 8 2 14e1f26f8b51f92bd671dbe97f651903fa1f26df07e2e882dd997a1d73971426
+xn--4gbrim.	0	IN	DS	62231 8 2 c095636f7f327234bd3ae9d0d1fac82d5f1e1ff46cb1fc5ea76628b1430e6dc8
 a.nic.xn--4gbrim.	0	IN	A	194.169.218.144
 a.nic.xn--4gbrim.	0	IN	AAAA	2001:67c:13cc::1:144
 b.nic.xn--4gbrim.	0	IN	A	185.24.64.144
@@ -20170,20 +20145,6 @@ y.nic.xn--mgba7c0bbn0a.	0	IN	A	156.154.173.82
 y.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.xn--mgba7c0bbn0a.	0	IN	A	156.154.174.82
 z.nic.xn--mgba7c0bbn0a.	0	IN	AAAA	2610:a1:1076::1:82
-xn--mgbaakc7dvf.	0	IN	NS	a.nic.xn--mgbaakc7dvf.
-xn--mgbaakc7dvf.	0	IN	NS	b.nic.xn--mgbaakc7dvf.
-xn--mgbaakc7dvf.	0	IN	NS	c.nic.xn--mgbaakc7dvf.
-xn--mgbaakc7dvf.	0	IN	NS	d.nic.xn--mgbaakc7dvf.
-xn--mgbaakc7dvf.	0	IN	DS	1841 8 1 3abd4823cf90e3891acc13438db4953ab99f5255
-xn--mgbaakc7dvf.	0	IN	DS	1841 8 2 91bb6ceffe38ddb9bd891a2a9d3cd1a86a6862f23f5e1bf5e9c77944bf47c030
-a.nic.xn--mgbaakc7dvf.	0	IN	A	194.169.218.23
-a.nic.xn--mgbaakc7dvf.	0	IN	AAAA	2001:67c:13cc::1:23
-b.nic.xn--mgbaakc7dvf.	0	IN	A	185.24.64.23
-b.nic.xn--mgbaakc7dvf.	0	IN	AAAA	2a04:2b00:13cc::1:23
-c.nic.xn--mgbaakc7dvf.	0	IN	A	212.18.248.23
-c.nic.xn--mgbaakc7dvf.	0	IN	AAAA	2a04:2b00:13ee::23
-d.nic.xn--mgbaakc7dvf.	0	IN	A	212.18.249.23
-d.nic.xn--mgbaakc7dvf.	0	IN	AAAA	2a04:2b00:13ff::23
 xn--mgbaam7a8h.	0	IN	NS	ns1.aedns.ae.
 xn--mgbaam7a8h.	0	IN	NS	ns2.aedns.ae.
 xn--mgbaam7a8h.	0	IN	NS	nsext-pch.aedns.ae.
