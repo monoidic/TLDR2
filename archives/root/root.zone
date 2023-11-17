@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023111701 1 241 85dc23a7499a58e9084eb08ca6e65b7f6a6bd495ad8a4f7f5951483ca1b4d36e0d510f5f4fae81deef278ca6185748b2
+.	0	IN	ZONEMD	2023111702 1 241 be83c32b9929b8d3d7a62118a07c3c484b5d9bd8146f3179bd73e8077d3868b517b9336b906266ac927a9b099c00a152
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1461,6 +1461,10 @@ bar.	0	IN	NS	a.nic.bar.
 bar.	0	IN	NS	b.nic.bar.
 bar.	0	IN	NS	c.nic.bar.
 bar.	0	IN	NS	d.nic.bar.
+bar.	0	IN	NS	ns01.trs-dns.com.
+bar.	0	IN	NS	ns01.trs-dns.net.
+bar.	0	IN	NS	ns01.trs-dns.org.
+bar.	0	IN	NS	ns01.trs-dns.info.
 bar.	0	IN	DS	44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
 bar.	0	IN	DS	55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
 bar.	0	IN	DS	55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
@@ -14582,6 +14586,10 @@ rest.	0	IN	NS	a.nic.rest.
 rest.	0	IN	NS	b.nic.rest.
 rest.	0	IN	NS	c.nic.rest.
 rest.	0	IN	NS	d.nic.rest.
+rest.	0	IN	NS	ns01.trs-dns.com.
+rest.	0	IN	NS	ns01.trs-dns.net.
+rest.	0	IN	NS	ns01.trs-dns.org.
+rest.	0	IN	NS	ns01.trs-dns.info.
 rest.	0	IN	DS	1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
 rest.	0	IN	DS	25199 8 1 c43af7dec8b165d6c8b832bcb984c2407ef5ed8d
 rest.	0	IN	DS	25199 8 2 8f477474f47c387d246b6849202ca0c54c4d5a50d322c79718a98100314d08b7
