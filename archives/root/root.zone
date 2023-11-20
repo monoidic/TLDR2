@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023112001 1 241 6f200c655854f85cfe73807769e5c50290542cb4442424bc70ca811a7ef1bdc89449dbe10e55dab855998c5223384586
+.	0	IN	ZONEMD	2023112002 1 241 4f92bc2eed131c6e141de4d4c5b40364187e7310791db81198b0bd82ff01bc6ff71dc42a675eef291d923913c47fdb06
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4994,10 +4994,9 @@ dhl.	0	IN	NS	a.nic.dhl.
 dhl.	0	IN	NS	b.nic.dhl.
 dhl.	0	IN	NS	c.nic.dhl.
 dhl.	0	IN	NS	d.nic.dhl.
-dhl.	0	IN	DS	31860 7 1 89fe558d6ea8dcaf797b2235dc3c246108a2b74e
+dhl.	0	IN	DS	2817 13 2 551772b05fe84d056080d96d8d8e292a52379ed0c2d84ba362f163bea27e6016
+dhl.	0	IN	DS	28795 13 2 ea7331ce53fd633adda48600f5739ca3cadc2d8e4afe78837eed5018c298098b
 dhl.	0	IN	DS	31860 7 2 bcd5350bd4181a15de2fe9fb448aae594da19bfbfce42afc9d63693dbd45a4b9
-dhl.	0	IN	DS	33051 7 1 e2fbee1cc8da9ce0bd4d74a688491ed1315d0568
-dhl.	0	IN	DS	33051 7 2 8f83e4018fb981e5f7d18df96549ec57b31a143c6f8a6d010038108525425b7e
 a.nic.dhl.	0	IN	A	194.169.218.82
 a.nic.dhl.	0	IN	AAAA	2001:67c:13cc::1:82
 b.nic.dhl.	0	IN	A	185.24.64.82
@@ -18518,19 +18517,6 @@ y.nic.vodka.	0	IN	A	156.154.173.82
 y.nic.vodka.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.vodka.	0	IN	A	156.154.174.82
 z.nic.vodka.	0	IN	AAAA	2610:a1:1076::1:82
-volkswagen.	0	IN	NS	a0.nic.volkswagen.
-volkswagen.	0	IN	NS	a2.nic.volkswagen.
-volkswagen.	0	IN	NS	b0.nic.volkswagen.
-volkswagen.	0	IN	NS	c0.nic.volkswagen.
-volkswagen.	0	IN	DS	52507 8 2 10dc75d4a1277934c86bd53c004ec0109396f5cdca83c2b25c09cbdfe59ff6e5
-a0.nic.volkswagen.	0	IN	A	65.22.208.25
-a0.nic.volkswagen.	0	IN	AAAA	2a01:8840:ca::25
-a2.nic.volkswagen.	0	IN	A	65.22.211.25
-a2.nic.volkswagen.	0	IN	AAAA	2a01:8840:cd::25
-b0.nic.volkswagen.	0	IN	A	65.22.209.25
-b0.nic.volkswagen.	0	IN	AAAA	2a01:8840:cb::25
-c0.nic.volkswagen.	0	IN	A	65.22.210.25
-c0.nic.volkswagen.	0	IN	AAAA	2a01:8840:cc::25
 volvo.	0	IN	NS	a0.nic.volvo.
 volvo.	0	IN	NS	a2.nic.volvo.
 volvo.	0	IN	NS	b0.nic.volvo.
