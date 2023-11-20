@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023112000 1 241 84cdcf0f6c17a7e8139263d0b3adc1072c175c35471ae1afc8cffe1af425fb2c5b141735bbc73e2ba7ee36711bc39bfd
+.	0	IN	ZONEMD	2023112001 1 241 6f200c655854f85cfe73807769e5c50290542cb4442424bc70ca811a7ef1bdc89449dbe10e55dab855998c5223384586
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3700,7 +3700,6 @@ cloud.	0	IN	NS	ns1.uniregistry.net.
 cloud.	0	IN	NS	ns2.uniregistry.info.
 cloud.	0	IN	NS	ns3.uniregistry.net.
 cloud.	0	IN	NS	ns4.uniregistry.info.
-cloud.	0	IN	DS	23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
 cloud.	0	IN	DS	48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
 club.	0	IN	NS	a.nic.club.
 club.	0	IN	NS	b.nic.club.
@@ -9289,6 +9288,8 @@ jo.	0	IN	NS	jordan1st.nic.gov.jo.
 amra.nic.gov.jo.	0	IN	A	193.188.66.103
 jordan1st.nic.gov.jo.	0	IN	A	193.188.69.19
 petra.nic.gov.jo.	0	IN	A	193.188.66.2
+cloudns.nic.net.jo.	0	IN	A	54.155.28.251
+cloudns.nic.net.jo.	0	IN	AAAA	2a05:d018:123c:3500:3e00:7185:3a6e:e082
 jobs.	0	IN	NS	dns1.nic.jobs.
 jobs.	0	IN	NS	dns2.nic.jobs.
 jobs.	0	IN	NS	dns3.nic.jobs.
@@ -20176,6 +20177,7 @@ xn--mgbayh7gpa.	0	IN	NS	jo.cctld.authdns.ripe.net.
 xn--mgbayh7gpa.	0	IN	NS	rip.psg.com.
 xn--mgbayh7gpa.	0	IN	NS	amra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	petra.nic.gov.jo.
+xn--mgbayh7gpa.	0	IN	NS	cloudns.nic.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	jordan1st.nic.gov.jo.
 xn--mgbbh1a.	0	IN	NS	ns1.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns2.registry.in.
