@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023112202 1 241 13e3f0872067857e8d73536902804a1c443d9a004e6fda9e36e35af778b87ea27bbdf3191662588440c5d11565b7ce19
+.	0	IN	ZONEMD	2023112203 1 241 c4f176698bdde6767702721faf9539c307b812540e51911e3e516d1fe0b28d59aefd2033ed26af1a348022a16ed5c8fb
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9286,6 +9286,7 @@ jo.	0	IN	NS	petra.nic.gov.jo.
 jo.	0	IN	NS	jordan1st.nic.gov.jo.
 amra.nic.gov.jo.	0	IN	A	193.188.66.103
 jordan1st.nic.gov.jo.	0	IN	A	193.188.69.19
+jordan1st.nic.gov.jo.	0	IN	AAAA	2a02:9c0:0:19::19
 petra.nic.gov.jo.	0	IN	A	193.188.66.2
 cloudns.nic.net.jo.	0	IN	A	54.155.28.251
 cloudns.nic.net.jo.	0	IN	AAAA	2a05:d018:123c:3500:3e00:7185:3a6e:e082
@@ -14959,6 +14960,7 @@ sa.	0	IN	DS	65380 8 2 0c3e281d035fd68a9bd2bbfe46348b7e000237385cd3a31c58a88cd652
 c1.dns.sa.	0	IN	A	86.111.192.9
 c1.dns.sa.	0	IN	AAAA	2001:67c:18c8:c0::c1
 c2.dns.sa.	0	IN	A	86.111.196.9
+c2.dns.sa.	0	IN	AAAA	2001:67c:130:10::9
 i1.dns.sa.	0	IN	A	212.138.118.118
 i1.dns.sa.	0	IN	AAAA	2001:1490:0:800::118
 m1.dns.sa.	0	IN	A	86.51.77.213
