@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023112200 1 241 4d39818a4afa0090e6ac079628e617526136a0d41c6fba09cbe88c58d2582d0aba68d31f489312c276661cfc15c4c5ba
+.	0	IN	ZONEMD	2023112201 1 241 120c51344329c38b7fb262666958c28b07ccdc30942078e82576aac8136f5410b992c1769ca953edaeb9da114c024401
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4875,8 +4875,8 @@ deloitte.	0	IN	NS	a.nic.deloitte.
 deloitte.	0	IN	NS	b.nic.deloitte.
 deloitte.	0	IN	NS	c.nic.deloitte.
 deloitte.	0	IN	NS	d.nic.deloitte.
-deloitte.	0	IN	DS	29626 7 2 456b29b8b2f010f1159bd118e9a3e9fcb29e385e3bf206199379a65e5baa7f7d
 deloitte.	0	IN	DS	41922 13 2 fd71f550c4e968f52e85dfb13eb0da6068b0fa4970ade6cbf96300c872a90998
+deloitte.	0	IN	DS	48890 13 2 1f0e244529dab8ba76058cfade19a8142c4f747e9cddfc74a990c324536e049f
 a.nic.deloitte.	0	IN	A	194.169.218.80
 a.nic.deloitte.	0	IN	AAAA	2001:67c:13cc::1:80
 b.nic.deloitte.	0	IN	A	185.24.64.80
