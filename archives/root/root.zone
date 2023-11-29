@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023112901 1 241 94ae240dff1dd4478f3514668bd41046766e25be52d73e72723aab0dfcd84ca42e4aff978b747443c7e3fee0c3697fbc
+.	0	IN	ZONEMD	2023112902 1 241 d484a3a8a9a0df3098dda7a3b9d911dbf185d37fdc256d7a949d05ae06db12eda1b06788f424b43882e5e648473d4cd9
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3280,7 +3280,7 @@ ch.	0	IN	NS	b.nic.ch.
 ch.	0	IN	NS	d.nic.ch.
 ch.	0	IN	NS	e.nic.ch.
 ch.	0	IN	NS	f.nic.ch.
-ch.	0	IN	DS	10 13 2 0e175543a74d9083ea977bab2bee98a771995f80982fb796b2b0b9cc6413d1a6
+ch.	0	IN	DS	450 13 2 4994913d9ff4f0df95f08acdf1d66149d873368ff6c1836c64bdface62734fa2
 ns.itu.ch.	0	IN	A	156.106.192.121
 ns.itu.ch.	0	IN	AAAA	2a00:7580:60:2141::10
 a.nic.ch.	0	IN	A	130.59.31.41
@@ -6454,12 +6454,8 @@ flowers.	0	IN	NS	a.nic.flowers.
 flowers.	0	IN	NS	b.nic.flowers.
 flowers.	0	IN	NS	c.nic.flowers.
 flowers.	0	IN	NS	d.nic.flowers.
-flowers.	0	IN	DS	11746 5 1 48bdcf4cddc2a930612a0d41e3dcbdfdefd6b433
 flowers.	0	IN	DS	11746 5 2 d3d6c0d4a9e2e40e92da8203b7ee72a80ce3b9220fb51b212c6cb25a1b886d5e
-flowers.	0	IN	DS	44614 5 1 16e65148cd02d28c72be03ec2ad4f0b7b8ea156d
-flowers.	0	IN	DS	44614 5 2 e504240ff007eaa0829d9cf47f27fdd2b8c4c03e113c9d163fa0766d6716609d
-flowers.	0	IN	DS	53083 5 1 ff6d6ba7638e7d8010867c4334d20eed0d8f0d0d
-flowers.	0	IN	DS	53083 5 2 9f8bf09b0d588d739d4f88d9e2ab870c3ee1368ec69089ea744353ca27b49c21
+flowers.	0	IN	DS	63022 5 2 bd763df49e0f4891cb1921b4baa6a27f6eb847750a3371a7006f56240db9dcd1
 a.nic.flowers.	0	IN	A	194.169.218.154
 a.nic.flowers.	0	IN	AAAA	2001:67c:13cc::1:154
 b.nic.flowers.	0	IN	A	185.24.64.154
@@ -6947,12 +6943,8 @@ game.	0	IN	NS	a.nic.game.
 game.	0	IN	NS	b.nic.game.
 game.	0	IN	NS	c.nic.game.
 game.	0	IN	NS	d.nic.game.
-game.	0	IN	DS	4126 5 1 0bfd20235875e18ee7d8b0fad0a9f566d296cb09
-game.	0	IN	DS	4126 5 2 f69be762d422754930ee00176f377ab6a7ff074a48b2076a6f0cee711d97001d
-game.	0	IN	DS	32929 5 1 ac35dd8c5c6e00427fce4432f9f817d54c5dbb9f
 game.	0	IN	DS	32929 5 2 c7602f661849ef5422cb5e5d7ccc91e7ea8344c7fd20f0e43a198cc699ec895c
-game.	0	IN	DS	39133 5 1 fb1f7e5d4d62aa9f930b77a9494bb3b04d84340a
-game.	0	IN	DS	39133 5 2 eca12999e650c648feabab0aa1870d10d6e9f6316fa609b126c98477f964c6a4
+game.	0	IN	DS	42706 5 2 41c8e18ecf3f01be8cd4076ff8cd12b860a2778c43594f3dbb2216a4604fa158
 a.nic.game.	0	IN	A	194.169.218.147
 a.nic.game.	0	IN	AAAA	2001:67c:13cc::1:147
 b.nic.game.	0	IN	A	185.24.64.147
@@ -7706,12 +7698,8 @@ guitars.	0	IN	NS	a.nic.guitars.
 guitars.	0	IN	NS	b.nic.guitars.
 guitars.	0	IN	NS	c.nic.guitars.
 guitars.	0	IN	NS	d.nic.guitars.
-guitars.	0	IN	DS	892 5 1 e421d29a8d62e53665069dd9b99e04a86f4fe8e3
-guitars.	0	IN	DS	892 5 2 aa980f135eb29c27887f8dfcdd0bab90dccf0740ef3f11fb3256b8a6a8c7fbf2
-guitars.	0	IN	DS	17278 5 1 c127e898212738f4a0723a1d4feb33b59b7ea719
 guitars.	0	IN	DS	17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
-guitars.	0	IN	DS	39502 5 1 6186e2c33fb4719080be060e131e9339bf9cfa39
-guitars.	0	IN	DS	39502 5 2 742844ec01d87eceec0d34b7de1d39e376c697c73d36d90c9d5fad65625b624f
+guitars.	0	IN	DS	23659 5 2 99f33e599c880beaec772a4808054b48d7f478daf77cdb2463be9445751f39d2
 a.nic.guitars.	0	IN	A	194.169.218.149
 a.nic.guitars.	0	IN	AAAA	2001:67c:13cc::1:149
 b.nic.guitars.	0	IN	A	185.24.64.149
@@ -8191,12 +8179,8 @@ hosting.	0	IN	NS	a.nic.hosting.
 hosting.	0	IN	NS	b.nic.hosting.
 hosting.	0	IN	NS	c.nic.hosting.
 hosting.	0	IN	NS	d.nic.hosting.
-hosting.	0	IN	DS	27751 5 1 9a72cab4a4cd51469dfc9e1dac8b1476d4b5c66c
-hosting.	0	IN	DS	27751 5 2 cf9f7fa35f5dce998a5757081f6e790df501f8b8fb58d0f9d8c4c645761a39db
-hosting.	0	IN	DS	46927 5 1 017305d89ee86615e38b0ed31f5eed0a797e8156
+hosting.	0	IN	DS	8224 5 2 513b59be5d421c451f67e712b8e16f07bac0cbde3c6f666d03a12d409fbcc193
 hosting.	0	IN	DS	46927 5 2 74803c2bbeebc8d188832c4054b3fd230f31f593e3f5432f7fbcd860e3cb7ed5
-hosting.	0	IN	DS	51544 5 1 eb0e1f6128e4b7ed6c0c0560f9a3ebc8e5100c33
-hosting.	0	IN	DS	51544 5 2 8fe6bf96895d8504f0989c4dbc3741df17b7672d5aa64107bd624089b5d3d403
 a.nic.hosting.	0	IN	A	194.169.218.152
 a.nic.hosting.	0	IN	AAAA	2001:67c:13cc::1:152
 b.nic.hosting.	0	IN	A	185.24.64.152
@@ -10105,7 +10089,7 @@ li.	0	IN	NS	b.nic.li.
 li.	0	IN	NS	d.nic.li.
 li.	0	IN	NS	e.nic.li.
 li.	0	IN	NS	f.nic.li.
-li.	0	IN	DS	43984 13 2 844e2b8c231f43692d319a33657a9a83c9f22baf53f276ef23f8405e20a0f1fa
+li.	0	IN	DS	33577 13 2 61fe12787198ce1eebea6d8b75eea2e08ba252d8b5f04bfc3addb8192cc83c0d
 a.nic.li.	0	IN	A	130.59.31.42
 a.nic.li.	0	IN	AAAA	2001:620:0:ff::57
 b.nic.li.	0	IN	A	130.59.31.44
@@ -10473,11 +10457,7 @@ lol.	0	IN	NS	a.nic.lol.
 lol.	0	IN	NS	b.nic.lol.
 lol.	0	IN	NS	c.nic.lol.
 lol.	0	IN	NS	d.nic.lol.
-lol.	0	IN	DS	14131 5 1 a80aa63c99464101bad5a82079d748f602a4a79f
-lol.	0	IN	DS	14131 5 2 4564b365617a6bcf1c53c04dd101339729f556c2837ad8ab095cff78cff1f97a
-lol.	0	IN	DS	15019 5 1 4f3c98c4c13b1657cfa5d90d945ef26008fdff32
-lol.	0	IN	DS	15019 5 2 24cea2aa8a26053d2da0301850748f74e217a52a1b1941e86963a32c5991e9bb
-lol.	0	IN	DS	54097 5 1 d96bd9ffffdf0e0f85a1e2fd01306042d63b3919
+lol.	0	IN	DS	33368 5 2 775a315a5cff32bd9231a1b105acbb6677418bfca6746ee1b6d5a469e5e042f6
 lol.	0	IN	DS	54097 5 2 efc57a65d9c270370a1dc1f6a3de157c6f09032864e976ac5bbb1710c6bc6779
 a.nic.lol.	0	IN	A	194.169.218.146
 a.nic.lol.	0	IN	AAAA	2001:67c:13cc::1:146
@@ -11434,12 +11414,8 @@ mom.	0	IN	NS	a.nic.mom.
 mom.	0	IN	NS	b.nic.mom.
 mom.	0	IN	NS	c.nic.mom.
 mom.	0	IN	NS	d.nic.mom.
-mom.	0	IN	DS	11348 5 1 6a1b7a558a82d6bbcdef5dea82af070b832bc7e1
 mom.	0	IN	DS	11348 5 2 97ffc26796c7b2a683048b7cf0bcecf3c54d00b0de377b54d7c7eeedeb2ea8b5
-mom.	0	IN	DS	28162 5 1 2ab25d06f73e977ee5ced0fcf5ea4ed6ee50d269
-mom.	0	IN	DS	28162 5 2 4b2b701367d0b74f52c9684e9b8921659045039452d135a55d128687c729fbf5
-mom.	0	IN	DS	41626 5 1 2744d01ec89a56e70f5b6c3171c39739e46afb3c
-mom.	0	IN	DS	41626 5 2 7e3fd3d91571d30ceb82a33021657552e235f436d998a605611a0712b21aa1dc
+mom.	0	IN	DS	47116 5 2 e7f03544d66036292dbe72a766ad86063ddb9436822a835866d2de4aeab4ed86
 a.nic.mom.	0	IN	A	194.169.218.148
 a.nic.mom.	0	IN	AAAA	2001:67c:13cc::1:148
 b.nic.mom.	0	IN	A	185.24.64.148
@@ -11491,10 +11467,8 @@ monster.	0	IN	NS	a.nic.monster.
 monster.	0	IN	NS	b.nic.monster.
 monster.	0	IN	NS	c.nic.monster.
 monster.	0	IN	NS	d.nic.monster.
-monster.	0	IN	DS	56230 7 1 9dd1cfcf93b8d7f4cbcaffb882c6dd820c345b3e
+monster.	0	IN	DS	5424 7 2 da186653115848222ee43c4276919654e43fbde898dea7f1a7a7011a09158ff0
 monster.	0	IN	DS	56230 7 2 7de5a740d6e45c95c348209c877cb97736350694e595608da72a0645960937ce
-monster.	0	IN	DS	65523 7 1 a0927d13ff8d54a355b158d01af184962b0d9684
-monster.	0	IN	DS	65523 7 2 5a5b5575f92a04519f4c492d13f0f5039df17597db256444cda0ba6ca203a105
 a.nic.monster.	0	IN	A	194.169.218.83
 a.nic.monster.	0	IN	AAAA	2001:67c:13cc::1:83
 b.nic.monster.	0	IN	A	185.24.64.83
@@ -13453,12 +13427,8 @@ pics.	0	IN	NS	a.nic.pics.
 pics.	0	IN	NS	b.nic.pics.
 pics.	0	IN	NS	c.nic.pics.
 pics.	0	IN	NS	d.nic.pics.
-pics.	0	IN	DS	3458 5 1 356a302c72add225e8dbf542fd8851bfa458b1ae
 pics.	0	IN	DS	3458 5 2 a32c380766b5205f998872b8187a99ac5027872da54b0ddec2edfbefc6279b89
-pics.	0	IN	DS	7408 5 1 79f063399b4c13ca29ea8f68ff98d9d4eff59b59
-pics.	0	IN	DS	7408 5 2 02f6c4ff7037230837665a072a51779019771c19626e233465a9cab5eb69cee1
-pics.	0	IN	DS	46651 5 1 5a09c2c9b674b46ae6a49255de9fecb7d999467b
-pics.	0	IN	DS	46651 5 2 5ddc0142062a06775e6df86a868a0262c740a484ff29fc22aec48116d6fd5860
+pics.	0	IN	DS	53818 5 2 9c1c58b3166f317db4aff5e4a56fca7ae4e52c20306ec758133690b153c58227
 a.nic.pics.	0	IN	A	194.169.218.151
 a.nic.pics.	0	IN	AAAA	2001:67c:13cc::1:151
 b.nic.pics.	0	IN	A	185.24.64.151
