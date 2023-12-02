@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023120200 1 241 28aa2c71d981cab2dcfe52c1da978f9990b0c86c7bfb77d5202e9b735a5d43d478c429f289ad40a7bee9cfa3b370edd1
+.	0	IN	ZONEMD	2023120201 1 241 1d86b1285cc70ba40e73fa944908a0c878b2b780a45c63caffb7de8a84fce10bdc2b2db1fbe12d55c769be2823d0137f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3775,7 +3775,6 @@ co.	0	IN	NS	ns3.cctld.co.
 co.	0	IN	NS	ns4.cctld.co.
 co.	0	IN	NS	ns5.cctld.co.
 co.	0	IN	NS	ns6.cctld.co.
-co.	0	IN	DS	61744 8 2 b9adca87453c1f69a9a524681f4179a88374c546a45892acc10e2653519accbd
 co.	0	IN	DS	62110 8 2 4857ee1a85e661c92156ad09b40139dae7d5be37d117a1223289f0e20cf9d654
 ns1.cctld.co.	0	IN	A	37.209.192.14
 ns1.cctld.co.	0	IN	AAAA	2001:dcd:1::14
@@ -8911,13 +8910,10 @@ ns5.dns.nic.ipiranga.	0	IN	A	156.154.157.83
 ns5.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1075::53
 ns6.dns.nic.ipiranga.	0	IN	A	156.154.158.83
 ns6.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1076::53
-iq.	0	IN	NS	iq.cctld.authdns.ripe.net.
 iq.	0	IN	NS	ns1.cmc.iq.
+iq.	0	IN	NS	ns01.trs-dns.com.
+iq.	0	IN	NS	ns01.trs-dns.net.
 iq.	0	IN	NS	nsp-anycast.cmc.iq.
-dyn1.cmc.iq.	0	IN	A	199.19.5.8
-dyn1.cmc.iq.	0	IN	AAAA	2001:500:92::8
-dyn2.cmc.iq.	0	IN	A	199.19.6.8
-dyn2.cmc.iq.	0	IN	AAAA	2001:500:96::8
 ns1.cmc.iq.	0	IN	A	194.117.57.100
 nsp-anycast.cmc.iq.	0	IN	A	194.117.58.42
 nsp-anycast.cmc.iq.	0	IN	AAAA	2001:500:14:8001:ad::42
@@ -12088,8 +12084,6 @@ gp.cctld.authdns.ripe.net.	0	IN	A	193.0.9.76
 gp.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::76
 gu.cctld.authdns.ripe.net.	0	IN	A	193.0.9.78
 gu.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::78
-iq.cctld.authdns.ripe.net.	0	IN	A	193.0.9.81
-iq.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::81
 jm.cctld.authdns.ripe.net.	0	IN	A	193.0.9.82
 jm.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::82
 jo.cctld.authdns.ripe.net.	0	IN	A	193.0.9.83
@@ -20171,9 +20165,8 @@ a.ns.nic.xn--mgbt3dhd.	0	IN	A	72.0.49.9
 a.ns.nic.xn--mgbt3dhd.	0	IN	AAAA	2620:171:a01:ad::9
 b.ns.nic.xn--mgbt3dhd.	0	IN	A	72.42.113.9
 b.ns.nic.xn--mgbt3dhd.	0	IN	AAAA	2620:171:d01:dc::9
-xn--mgbtx2b.	0	IN	NS	ns1.cmc.iq.
-xn--mgbtx2b.	0	IN	NS	dyn1.cmc.iq.
-xn--mgbtx2b.	0	IN	NS	dyn2.cmc.iq.
+xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.com.
+xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbtx2b.	0	IN	NS	nsp-anycast.cmc.iq.
 xn--mgbx4cd0ab.	0	IN	NS	a.nic.my.
 xn--mgbx4cd0ab.	0	IN	NS	a.mynic.centralnic-dns.com.
