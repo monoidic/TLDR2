@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023120501 1 241 5646b95d306016e4a28f6acee95a5de673e19fc02a7a58d9f257306392d7d5a10566614688a15c0fd21641dcc3159798
+.	0	IN	ZONEMD	2023120502 1 241 2d394aa51cd1cf49ec443e64abb8e42d9b0cecccb652e25279e5bcb1b182a30a07345a8482d33c2e5b6db212419887d9
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -302,7 +302,6 @@ aeg.	0	IN	NS	v0n3.nic.aeg.
 aeg.	0	IN	NS	v2n0.nic.aeg.
 aeg.	0	IN	NS	v2n1.nic.aeg.
 aeg.	0	IN	DS	34387 8 2 03500be162e8b2bc43345d119763e29d9284de715bdf66e55dd19b400a1e64ae
-aeg.	0	IN	DS	39735 8 2 b28a67a4935609bcf1257af4215b9ffce0f7e917bc076bd69030a5d76008ae51
 v0n0.nic.aeg.	0	IN	A	65.22.108.2
 v0n0.nic.aeg.	0	IN	AAAA	2a01:8840:6a::2
 v0n1.nic.aeg.	0	IN	A	65.22.109.2
@@ -2099,7 +2098,6 @@ bloomberg.	0	IN	NS	v0n2.nic.bloomberg.
 bloomberg.	0	IN	NS	v0n3.nic.bloomberg.
 bloomberg.	0	IN	NS	v2n0.nic.bloomberg.
 bloomberg.	0	IN	NS	v2n1.nic.bloomberg.
-bloomberg.	0	IN	DS	46338 8 2 98a66be30959371e15eaf5d4a65ada3393050610a2e5b7ae321b694c876258c9
 bloomberg.	0	IN	DS	49654 8 2 da5a6b59df8da1f4b814d38fb01359bccbee0e6595e19fc569c1830ce452447c
 v0n0.nic.bloomberg.	0	IN	A	65.22.108.3
 v0n0.nic.bloomberg.	0	IN	AAAA	2a01:8840:6a::3
@@ -2223,7 +2221,6 @@ bofa.	0	IN	NS	v0n2.nic.bofa.
 bofa.	0	IN	NS	v0n3.nic.bofa.
 bofa.	0	IN	NS	v2n0.nic.bofa.
 bofa.	0	IN	NS	v2n1.nic.bofa.
-bofa.	0	IN	DS	35541 8 2 5bf7c416fa5dba14158b807ff4eb2f0438db45d35d0f0af4f6feff148399b455
 bofa.	0	IN	DS	64354 8 2 bf0d0e96761317b889dd50495191a1fe5d5342703c381c21ede518e843beb658
 v0n0.nic.bofa.	0	IN	A	65.22.108.4
 v0n0.nic.bofa.	0	IN	AAAA	2a01:8840:6a::4
@@ -2451,10 +2448,10 @@ broadway.	0	IN	NS	dnsb.nic.broadway.
 broadway.	0	IN	NS	dnsc.nic.broadway.
 broadway.	0	IN	NS	dnsd.nic.broadway.
 broadway.	0	IN	DS	47576 8 2 ccc4ce45aacb1c0ecd8181d968b86beff3b34d1a71576f137ca43529ff8f12bb
-dns1.nic.broadway.	0	IN	A	213.248.217.38
-dns1.nic.broadway.	0	IN	AAAA	2a01:618:401::38
-dns2.nic.broadway.	0	IN	A	103.49.81.38
-dns2.nic.broadway.	0	IN	AAAA	2401:fd80:401::38
+dns1.nic.broadway.	0	IN	A	213.248.219.38
+dns1.nic.broadway.	0	IN	AAAA	2a01:618:403::38
+dns2.nic.broadway.	0	IN	A	103.49.83.38
+dns2.nic.broadway.	0	IN	AAAA	2401:fd80:403::38
 dns3.nic.broadway.	0	IN	A	213.248.221.38
 dns3.nic.broadway.	0	IN	AAAA	2a01:618:405::38
 dns4.nic.broadway.	0	IN	A	43.230.49.38
@@ -3115,7 +3112,6 @@ cba.	0	IN	NS	x.nic.cba.
 cba.	0	IN	NS	y.nic.cba.
 cba.	0	IN	NS	z.nic.cba.
 cba.	0	IN	DS	31729 8 2 84871955bc863e5911b72369b1d1eb75ff087a8093edb4ba4bfb48f95813c034
-cba.	0	IN	DS	44287 8 2 8ca6adaea243428a99943519846fd6f6bd355ec4990533d0569ee0e6075eb863
 a.nic.cba.	0	IN	A	37.209.192.9
 a.nic.cba.	0	IN	AAAA	2001:dcd:1::9
 b.nic.cba.	0	IN	A	37.209.194.9
@@ -4005,7 +4001,6 @@ commbank.	0	IN	NS	c.nic.commbank.
 commbank.	0	IN	NS	x.nic.commbank.
 commbank.	0	IN	NS	y.nic.commbank.
 commbank.	0	IN	NS	z.nic.commbank.
-commbank.	0	IN	DS	25681 8 2 ccb3f1bcfd33d277ece719b8aad64a84b6722c4a46235605f3df06d435f59b6d
 commbank.	0	IN	DS	61396 8 2 74227b152e28cafc3c00b648323982976ee6fc17d521642924d0d145c6135998
 a.nic.commbank.	0	IN	A	37.209.192.9
 a.nic.commbank.	0	IN	AAAA	2001:dcd:1::9
@@ -12184,7 +12179,6 @@ netbank.	0	IN	NS	x.nic.netbank.
 netbank.	0	IN	NS	y.nic.netbank.
 netbank.	0	IN	NS	z.nic.netbank.
 netbank.	0	IN	DS	29050 8 2 401dd968541610c0a000139e1462693701042a2931afa1a246d8bfa05ab13c94
-netbank.	0	IN	DS	61447 8 2 2e300d5e09bdd071679488d325666af89182213d8af2bd2d026c57f3fab5895e
 a.nic.netbank.	0	IN	A	37.209.192.9
 a.nic.netbank.	0	IN	AAAA	2001:dcd:1::9
 b.nic.netbank.	0	IN	A	37.209.194.9
@@ -13384,7 +13378,6 @@ physio.	0	IN	NS	x.nic.physio.
 physio.	0	IN	NS	y.nic.physio.
 physio.	0	IN	NS	z.nic.physio.
 physio.	0	IN	DS	41164 8 2 600ccbc6a1e1cfdd09650cf095d2a15af68ad3574a849028654d2593367d90a5
-physio.	0	IN	DS	49021 8 2 ae268396dd64c1fcce4fd3ea3a3f6c427e4daad035aa4de961b6b8380a800153
 a.nic.physio.	0	IN	A	37.209.192.10
 a.nic.physio.	0	IN	AAAA	2001:dcd:1::10
 b.nic.physio.	0	IN	A	37.209.194.10
@@ -13417,7 +13410,6 @@ pictet.	0	IN	NS	v0n2.nic.pictet.
 pictet.	0	IN	NS	v0n3.nic.pictet.
 pictet.	0	IN	NS	v2n0.nic.pictet.
 pictet.	0	IN	NS	v2n1.nic.pictet.
-pictet.	0	IN	DS	216 8 2 de41fd4b1c1cedab4d83f1bacc75db5012e269bd46a56b4c03d43380fba665e6
 pictet.	0	IN	DS	6694 8 2 61db4e4ae88a08e546af5490ac950221659b53669a6d54bbe6ff662568c5e6d7
 v0n0.nic.pictet.	0	IN	A	65.22.108.6
 v0n0.nic.pictet.	0	IN	AAAA	2a01:8840:6a::6
