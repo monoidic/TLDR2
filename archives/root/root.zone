@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023120500 1 241 6dfe24dfc57f69014ce84dfc38bc9ec8c2691fc807c29f866c334797d5afb0da531f78027eda3440ea744a59dd63c8a6
+.	0	IN	ZONEMD	2023120501 1 241 5646b95d306016e4a28f6acee95a5de673e19fc02a7a58d9f257306392d7d5a10566614688a15c0fd21641dcc3159798
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12820,7 +12820,6 @@ one.	0	IN	NS	c.nic.one.
 one.	0	IN	NS	x.nic.one.
 one.	0	IN	NS	y.nic.one.
 one.	0	IN	NS	z.nic.one.
-one.	0	IN	DS	56899 8 2 c28cde2f5e88289c26584a4e6871b41e0f0c2d5f7f2df2906e8fbb275ac4aa68
 one.	0	IN	DS	64939 8 2 32961f5f8cbfc0a1714eb5589e9cb54e83e1340380b5d76ead661d58ea55de9d
 a.nic.one.	0	IN	A	37.209.192.9
 a.nic.one.	0	IN	AAAA	2001:dcd:1::9
@@ -17466,8 +17465,6 @@ v2n0.nic.toys.	0	IN	A	65.22.23.23
 v2n0.nic.toys.	0	IN	AAAA	2a01:8840:19::23
 v2n1.nic.toys.	0	IN	A	161.232.11.23
 v2n1.nic.toys.	0	IN	AAAA	2a01:8840:f5::23
-tr.	0	IN	NS	ns34.nic.tr.
-tr.	0	IN	NS	ns35.nic.tr.
 tr.	0	IN	NS	ns41.nic.tr.
 tr.	0	IN	NS	ns42.nic.tr.
 tr.	0	IN	NS	ns61.nic.tr.
@@ -17476,8 +17473,6 @@ tr.	0	IN	NS	ns72.nic.tr.
 tr.	0	IN	NS	ns73.nic.tr.
 tr.	0	IN	NS	ns74.nic.tr.
 tr.	0	IN	DS	48972 13 2 1e67cf0aa2e236a06d1f93491990960efebab089a2badaefbb64e391ae6e95eb
-ns34.nic.tr.	0	IN	A	31.145.139.99
-ns35.nic.tr.	0	IN	A	31.145.139.119
 ns41.nic.tr.	0	IN	A	185.7.0.2
 ns42.nic.tr.	0	IN	A	185.7.0.3
 ns61.nic.tr.	0	IN	A	206.51.254.1
