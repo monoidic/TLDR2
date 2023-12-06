@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023120600 1 241 3559a7eb3ed494cce74d82188f959293bd407ba511a19bc891b5229ce3109133d887c459de537419502ca7bc6418ca20
+.	0	IN	ZONEMD	2023120601 1 241 c70fd7ef2133edc75f7816299c943644173704da86eea9787e50847222bd8c5c9ad4aecca27ede9431bcc628e5551a96
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3007,8 +3007,7 @@ case.	0	IN	NS	a.nic.case.
 case.	0	IN	NS	b.nic.case.
 case.	0	IN	NS	c.nic.case.
 case.	0	IN	NS	d.nic.case.
-case.	0	IN	DS	15291 7 2 6f45517253280a7a3005ca9c370504839da319b045d21366166689ed12a734f5
-case.	0	IN	DS	53709 7 2 71056e4ea918dc68b82a74e22d56519ae1a26c7ca756b754893cbbc10a0affee
+case.	0	IN	DS	9262 13 2 fafb8c8b56bfec84ab2cb9c6161a8808c53d0535acea37de4c0eafa2c448a9f6
 a.nic.case.	0	IN	A	194.169.218.140
 a.nic.case.	0	IN	AAAA	2001:67c:13cc::1:140
 b.nic.case.	0	IN	A	185.24.64.140
@@ -11615,7 +11614,7 @@ mtr.	0	IN	NS	ns1.nic.mtr.
 mtr.	0	IN	NS	ns2.nic.mtr.
 mtr.	0	IN	NS	ns3.nic.mtr.
 mtr.	0	IN	NS	ns4.nic.mtr.
-mtr.	0	IN	DS	7114 8 2 ce2ae4bc0908188f044ce4b2ac931119311272d0fb3842a36f2abbfa059e093a
+mtr.	0	IN	DS	42697 8 2 3a0d21104e33bb379546248eb7fb301fa7383229b8d227f7bb8a53d7e50b194e
 ns1.nic.mtr.	0	IN	A	203.119.2.164
 ns1.nic.mtr.	0	IN	AAAA	2001:dca:4000::cb77:2a4
 ns2.nic.mtr.	0	IN	A	203.119.87.164
@@ -12587,7 +12586,7 @@ ntt.	0	IN	NS	tld1.nic.ntt.
 ntt.	0	IN	NS	tld2.nic.ntt.
 ntt.	0	IN	NS	tld3.nic.ntt.
 ntt.	0	IN	NS	tld5.nic.ntt.
-ntt.	0	IN	DS	42481 8 2 d21df93a73f35f8c3428a42db60da7ccebfc2a64a42b6f5e5024f358d5e18d44
+ntt.	0	IN	DS	5392 8 2 a9ac82a69bc8833566cc4def0c4e33b340b6d79a049e42e7adc6b084c20afb33
 tld1.nic.ntt.	0	IN	A	103.47.2.2
 tld1.nic.ntt.	0	IN	AAAA	2001:dda::2
 tld2.nic.ntt.	0	IN	A	117.104.133.17
@@ -19899,7 +19898,7 @@ xn--j6w193g.	0	IN	NS	v.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	x.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	y.hkirc.net.hk.
 xn--j6w193g.	0	IN	NS	z.hkirc.net.hk.
-xn--j6w193g.	0	IN	DS	51901 8 2 e6ca0901b162f725e226e514ec0fab47f90426a2effa779337efbb4965e56c34
+xn--j6w193g.	0	IN	DS	50839 8 2 af7a0f4c78ebfa5fa9e17b9217802386b6564b3437b1dd57fae1ce4b0f3047f5
 xn--jlq480n2rg.	0	IN	NS	dns1.nic.xn--jlq480n2rg.
 xn--jlq480n2rg.	0	IN	NS	dns2.nic.xn--jlq480n2rg.
 xn--jlq480n2rg.	0	IN	NS	dns3.nic.xn--jlq480n2rg.
