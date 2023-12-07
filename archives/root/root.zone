@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023120701 1 1 c109c2f80a70d689acb4907edf8ce9cde6b652aea011162d238e9a89359bad1113086d862ef9de5e5a81a26629ff7030
+.	0	IN	ZONEMD	2023120702 1 1 0c3257f006786f13b2a3e102bf44c8e623b4a276a694e552364323fae1298a3baccddb0ea52d2ea93ddb13137da6ea3d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5937,6 +5937,7 @@ fans.	0	IN	NS	b.nic.fans.
 fans.	0	IN	NS	c.nic.fans.
 fans.	0	IN	NS	d.nic.fans.
 fans.	0	IN	DS	25466 8 2 7842246f760a21e694f1d8b64754f0d5bb27ef6a33f25e2f3f2dee26b33b118b
+fans.	0	IN	DS	46294 8 2 c84814f11abfa3a32c3403cd3072afe0cc289e7c2fd92b25ef789778e491d680
 a.nic.fans.	0	IN	A	194.169.218.39
 a.nic.fans.	0	IN	AAAA	2001:67c:13cc::1:39
 b.nic.fans.	0	IN	A	185.24.64.39
@@ -7428,7 +7429,6 @@ gov.	0	IN	NS	a.ns.gov.
 gov.	0	IN	NS	b.ns.gov.
 gov.	0	IN	NS	c.ns.gov.
 gov.	0	IN	NS	d.ns.gov.
-gov.	0	IN	DS	7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
 gov.	0	IN	DS	64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 a.ns.gov.	0	IN	A	199.33.230.1
 a.ns.gov.	0	IN	AAAA	2001:503:ff40::1
@@ -7921,7 +7921,7 @@ hk.	0	IN	NS	v.hkirc.net.hk.
 hk.	0	IN	NS	x.hkirc.net.hk.
 hk.	0	IN	NS	y.hkirc.net.hk.
 hk.	0	IN	NS	z.hkirc.net.hk.
-hk.	0	IN	DS	859 8 2 47dc78a2f99d4702fca38efafbf8ade187b5cfda762494d59c9d8c55c533c8fe
+hk.	0	IN	DS	46912 8 2 b8d909d194e3d904345d0a2af39fb5a8510d3bdc31d6c7e9173d3ddaa8132296
 ns2.cuhk.edu.hk.	0	IN	A	137.189.6.21
 ns2.cuhk.edu.hk.	0	IN	AAAA	2405:3000:3:6::15
 c.hkirc.net.hk.	0	IN	A	203.119.2.218
@@ -16454,7 +16454,6 @@ sucks.	0	IN	NS	c.nic.sucks.
 sucks.	0	IN	NS	x.nic.sucks.
 sucks.	0	IN	NS	y.nic.sucks.
 sucks.	0	IN	NS	z.nic.sucks.
-sucks.	0	IN	DS	33844 8 2 3bc39b543789de80c38841624e4195136cc4cf04f47ab5a09d052998e9f374ec
 sucks.	0	IN	DS	59257 8 2 0eb720a2c0284375766effebd01edd5255397bafcce4a8aaa46f0bf13fca9a5b
 a.nic.sucks.	0	IN	A	37.209.192.10
 a.nic.sucks.	0	IN	AAAA	2001:dcd:1::10
