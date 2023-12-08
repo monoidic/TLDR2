@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023120801 1 1 738d2c597365d469ad13ae086547b43a7d3e5f476a4b8dc766caf44148bb6090d4c39c157443f478d7683dcfdf2ab992
+.	0	IN	ZONEMD	2023120802 1 1 48d4c1ac21ab97da73729ecd8e5907ce51679ed0222a69031fe1e9f3ce9a82108d7f13e1e295b3f191580d1e608c8e73
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7384,10 +7384,10 @@ gop.	0	IN	NS	dnsb.nic.gop.
 gop.	0	IN	NS	dnsc.nic.gop.
 gop.	0	IN	NS	dnsd.nic.gop.
 gop.	0	IN	DS	31562 8 2 13454be0988354ae5cf482cc912c8d377e0d72abadd4a7c55e6dfc923e26868f
-dns1.nic.gop.	0	IN	A	213.248.217.39
-dns1.nic.gop.	0	IN	AAAA	2a01:618:401::39
-dns2.nic.gop.	0	IN	A	103.49.81.39
-dns2.nic.gop.	0	IN	AAAA	2401:fd80:401::39
+dns1.nic.gop.	0	IN	A	213.248.219.39
+dns1.nic.gop.	0	IN	AAAA	2a01:618:403::39
+dns2.nic.gop.	0	IN	A	103.49.83.39
+dns2.nic.gop.	0	IN	AAAA	2401:fd80:403::39
 dns3.nic.gop.	0	IN	A	213.248.221.39
 dns3.nic.gop.	0	IN	AAAA	2a01:618:405::39
 dns4.nic.gop.	0	IN	A	43.230.49.39
