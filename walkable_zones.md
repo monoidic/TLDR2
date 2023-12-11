@@ -6,15 +6,12 @@
 * `auto.`
 * `ax.`
 * `bd.`
-* `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
 * `diet.`
-* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -24,12 +21,10 @@
 * `guitars.`
 * `hosting.`
 * `id.`
-* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
 * `li.`
-* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
@@ -37,7 +32,6 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
