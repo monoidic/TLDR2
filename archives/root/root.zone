@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023121101 1 1 9dd796b88f83fea95cf9116499776b5e245389c05ba32fa5f850866494fd823946a2b5c98f0fbce8323b02a5ed7320d5
+.	0	IN	ZONEMD	2023121102 1 1 3a9826201a2714eac7917fcea508f74d4cc503ab5e36f0b4d976d950909e3ecafeb7ba3da339cc156e79b3ef05797e43
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7270,9 +7270,14 @@ gmx.	0	IN	NS	anycast10.irondns.net.
 gmx.	0	IN	NS	anycast23.irondns.net.
 gmx.	0	IN	NS	anycast24.irondns.net.
 gmx.	0	IN	DS	49537 10 2 ee15cf33c2e02f308291960df44a5a87e16c0535e34178528780a9a4f28a736f
+gn.	0	IN	NS	ns1.gn.
+gn.	0	IN	NS	fork.sth.dnsnode.net.
 gn.	0	IN	NS	ns-gn.afrinic.net.
-gn.	0	IN	NS	ns1-gn.pch.net.
+gn.	0	IN	NS	ns-pch.gn.
 gn.	0	IN	DS	9311 8 2 e471b517052703360ca1c48be047e7c4316f507a07213ab25eceb6a63bc64c09
+ns-pch.gn.	0	IN	A	204.61.216.147
+ns-pch.gn.	0	IN	AAAA	2001:500:14:6147:ad::1
+ns1.gn.	0	IN	A	41.77.190.237
 godaddy.	0	IN	NS	a.nic.godaddy.
 godaddy.	0	IN	NS	b.nic.godaddy.
 godaddy.	0	IN	NS	c.nic.godaddy.
@@ -9673,7 +9678,6 @@ krd.	0	IN	NS	c.nic.krd.
 krd.	0	IN	NS	x.nic.krd.
 krd.	0	IN	NS	y.nic.krd.
 krd.	0	IN	NS	z.nic.krd.
-krd.	0	IN	DS	16384 8 2 c87c87e976d19afd0cb934b7aac7f85bb0e327d4d63931604f7ff495d0bb1e61
 krd.	0	IN	DS	62344 8 2 5a1637513252be2e160bafa8e86c853914d8418598064dc8a9e23a6ca266bedd
 a.nic.krd.	0	IN	A	37.209.192.10
 a.nic.krd.	0	IN	AAAA	2001:dcd:1::10
@@ -12055,8 +12059,6 @@ anyns.pch.net.	0	IN	AAAA	2001:500:14:6004:ad::1
 cat.pch.net.	0	IN	A	204.61.216.20
 cat.pch.net.	0	IN	AAAA	2001:500:14:6020:ad::1
 nic.lk-anycast.pch.net.	0	IN	A	204.61.216.27
-ns1-gn.pch.net.	0	IN	A	204.61.216.147
-ns1-gn.pch.net.	0	IN	AAAA	2001:500:14:6147:ad::1
 ns15.rcode0.net.	0	IN	A	194.0.25.15
 ns15.rcode0.net.	0	IN	AAAA	2001:678:20::15
 ns31.rcode0.net.	0	IN	A	194.0.25.31
@@ -15196,11 +15198,6 @@ sc.	0	IN	NS	d0.cctld.afilias-nst.org.
 sc.	0	IN	NS	ns1.nic.sc.
 sc.	0	IN	DS	2539 8 2 8293fa3ac08be770a400dde4f250dc6bf1046f34430be12e65c15bf2f482b26c
 ns1.nic.sc.	0	IN	A	41.86.57.54
-sca.	0	IN	NS	ac1.nstld.com.
-sca.	0	IN	NS	ac2.nstld.com.
-sca.	0	IN	NS	ac3.nstld.com.
-sca.	0	IN	NS	ac4.nstld.com.
-sca.	0	IN	DS	11691 8 2 2433227153341429fd6dc9cc654844e9614c0bf4d408c39bbe0149e1716438de
 scb.	0	IN	NS	a.nic.scb.
 scb.	0	IN	NS	c.nic.scb.
 scb.	0	IN	NS	rz.nic.scb.
