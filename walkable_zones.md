@@ -2,6 +2,7 @@
 
 * `.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -18,12 +19,17 @@
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
+* `ir.`
+* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
+* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
