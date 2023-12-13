@@ -14,6 +14,7 @@
 * `christmas.`
 * `ci.`
 * `diet.`
+* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -22,6 +23,7 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `ir.`
 * `kg.`
 * `kz.`
@@ -32,10 +34,12 @@
 * `lr.`
 * `mc.`
 * `mom.`
+* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
