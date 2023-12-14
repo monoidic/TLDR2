@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023121401 1 1 4d4be9aa92da95eb8126cc78631c71b99da5328f05c72b88bc454703d09a1d19ae337693dd18837e50329b0fb6568200
+.	0	IN	ZONEMD	2023121402 1 1 fab681badb8c2f252aa2376cd66d2d1e02c69659bd540f9035d4659cd830e72a9cc767fd0ec79f8bfaab0083ca2c7d71
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7896,7 +7896,7 @@ hm.	0	IN	NS	ns1.registry.hm.
 hm.	0	IN	NS	ns2.registry.hm.
 hm.	0	IN	NS	ns3.registry.hm.
 ns1.registry.hm.	0	IN	A	142.171.40.232
-ns2.registry.hm.	0	IN	A	208.70.79.24
+ns2.registry.hm.	0	IN	A	142.171.40.234
 ns3.registry.hm.	0	IN	A	128.199.180.188
 hn.	0	IN	NS	a.lactld.org.
 hn.	0	IN	NS	ns1.anycastdns.cz.
@@ -13465,7 +13465,6 @@ pl.	0	IN	NS	f-dns.pl.
 pl.	0	IN	NS	h-dns.pl.
 pl.	0	IN	NS	j-dns.pl.
 pl.	0	IN	DS	48559 8 2 6c7d94c6f25556eeb180ef5e3e9237f2247597f28dca8d7fa63b3a1a45b79a4f
-pl.	0	IN	DS	59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
 a-dns.pl.	0	IN	A	192.102.225.53
 a-dns.pl.	0	IN	AAAA	2001:7f9::53
 b-dns.pl.	0	IN	A	192.195.72.53
