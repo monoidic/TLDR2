@@ -13,14 +13,13 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023121400 1 1 f4a17b98b48165724e18e13804ccb96323b4e972d05977258bf832ebad05ff6ce0a09127f5b6872cffb99effe42ab3bb
+.	0	IN	ZONEMD	2023121401 1 1 4d4be9aa92da95eb8126cc78631c71b99da5328f05c72b88bc454703d09a1d19ae337693dd18837e50329b0fb6568200
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
 aaa.	0	IN	NS	ns1.dns.nic.aaa.
 aaa.	0	IN	NS	ns2.dns.nic.aaa.
 aaa.	0	IN	NS	ns3.dns.nic.aaa.
-aaa.	0	IN	DS	23185 8 2 b18d0ec8791d98e167ca4d9745a0c27a6377e099d8f6a16a09567492ab16b7de
 aaa.	0	IN	DS	31852 8 2 89f7670afc091b199b47900e4ce4135b9463b7f74d3d19a1c732e78c345d4de6
 a.nic.aaa.	0	IN	A	37.209.192.9
 a.nic.aaa.	0	IN	AAAA	2001:dcd:1::9
@@ -101,7 +100,6 @@ able.	0	IN	NS	c.nic.able.
 able.	0	IN	NS	ns1.dns.nic.able.
 able.	0	IN	NS	ns2.dns.nic.able.
 able.	0	IN	NS	ns3.dns.nic.able.
-able.	0	IN	DS	45202 8 2 c7832f26b62fdf91da819ac5fa524eae2eebe0651caf074b59dc0176d49fd836
 able.	0	IN	DS	48877 8 2 6effec2f6db34b2d1086a3b4cedd6e4109135877e533d6d1bf0f7ca760eb018f
 a.nic.able.	0	IN	A	37.209.192.10
 a.nic.able.	0	IN	AAAA	2001:dcd:1::10
@@ -121,7 +119,6 @@ abogado.	0	IN	NS	c.nic.abogado.
 abogado.	0	IN	NS	x.nic.abogado.
 abogado.	0	IN	NS	y.nic.abogado.
 abogado.	0	IN	NS	z.nic.abogado.
-abogado.	0	IN	DS	31012 8 2 fcfc05f3629da70f709fb54e7d17214483216d641f8a6cca90ad02be852e5a8c
 abogado.	0	IN	DS	37480 8 2 5589c84ddbf5b50db5c8a9d5cea939409c24ce6369f7013f683a0bca912ac8f3
 a.nic.abogado.	0	IN	A	37.209.192.10
 a.nic.abogado.	0	IN	AAAA	2001:dcd:1::10
@@ -184,7 +181,6 @@ accountant.	0	IN	NS	c.nic.accountant.
 accountant.	0	IN	NS	ns1.dns.nic.accountant.
 accountant.	0	IN	NS	ns2.dns.nic.accountant.
 accountant.	0	IN	NS	ns3.dns.nic.accountant.
-accountant.	0	IN	DS	44389 8 2 6beec4c8bcc3a1e6b88c46e8348e3e7cf900524bbc2c92e42a202229ba7cd7f8
 accountant.	0	IN	DS	59392 8 2 d07b6b81becef22a22bf731c3eb8932cb97414e494675ef8c7771d4b768ab6f5
 a.nic.accountant.	0	IN	A	37.209.192.10
 a.nic.accountant.	0	IN	AAAA	2001:dcd:1::10
@@ -272,7 +268,6 @@ adult.	0	IN	NS	x.nic.adult.
 adult.	0	IN	NS	y.nic.adult.
 adult.	0	IN	NS	z.nic.adult.
 adult.	0	IN	DS	39064 8 2 8d2ccad69f8eba3c73214b4877386921586ca56f105b44fc91ceef1b4ab59b80
-adult.	0	IN	DS	64321 8 2 ca734aa86339cb101665a65c4f33f4e86b37cf2512fd4c1655c00026d6f70915
 a.nic.adult.	0	IN	A	37.209.192.10
 a.nic.adult.	0	IN	AAAA	2001:dcd:1::10
 b.nic.adult.	0	IN	A	37.209.194.10
@@ -337,7 +332,6 @@ aetna.	0	IN	NS	ns1.dns.nic.aetna.
 aetna.	0	IN	NS	ns2.dns.nic.aetna.
 aetna.	0	IN	NS	ns3.dns.nic.aetna.
 aetna.	0	IN	DS	40324 8 2 6a4c3c1cd8d865ce88fc01c009d393d12ab8b585a68a196c4b2651239f531b85
-aetna.	0	IN	DS	49819 8 2 2f8cd71c2ca149b4da0f60092c775fecdff60b52d0a61064f458e0a99f378012
 a.nic.aetna.	0	IN	A	37.209.192.9
 a.nic.aetna.	0	IN	AAAA	2001:dcd:1::9
 b.nic.aetna.	0	IN	A	37.209.194.9
@@ -435,7 +429,6 @@ aig.	0	IN	NS	ns1.dns.nic.aig.
 aig.	0	IN	NS	ns2.dns.nic.aig.
 aig.	0	IN	NS	ns3.dns.nic.aig.
 aig.	0	IN	DS	15685 8 2 572786514068659a43816cef2d3774db47dec4783a3133f6bd7d63d0a37dcca1
-aig.	0	IN	DS	18592 8 2 5561856a59f0b23749c885d4dd398a52b087ed06216daee0aeb88b965c4f6994
 a.nic.aig.	0	IN	A	37.209.192.9
 a.nic.aig.	0	IN	AAAA	2001:dcd:1::9
 b.nic.aig.	0	IN	A	37.209.194.9
@@ -557,7 +550,6 @@ ally.	0	IN	NS	x.nic.ally.
 ally.	0	IN	NS	y.nic.ally.
 ally.	0	IN	NS	z.nic.ally.
 ally.	0	IN	DS	22405 8 2 774c1930a734067dc62e7ae54bcdeadaa2281a57155b8f0af3683bfcbf7fe46c
-ally.	0	IN	DS	40354 8 2 46bfea1ca30072b089d2e566821640c144511b308df1f0271402d569c7332783
 a.nic.ally.	0	IN	A	37.209.192.9
 a.nic.ally.	0	IN	AAAA	2001:dcd:1::9
 b.nic.ally.	0	IN	A	37.209.194.9
