@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023121801 1 1 96e8454d16195222c03cee77fd699a43fbb3ef227d49ef05379a6c673d68173900aa39c365ff02153d37c3f74375e22a
+.	0	IN	ZONEMD	2023121802 1 1 541be33b53c67a8632653d0fcdb7e30b4951ca634655ef822c389516c64e89c96485012aee41cdd2162502ee820d5425
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8829,11 +8829,11 @@ ns5.dns.nic.ipiranga.	0	IN	A	156.154.157.83
 ns5.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1075::53
 ns6.dns.nic.ipiranga.	0	IN	A	156.154.158.83
 ns6.dns.nic.ipiranga.	0	IN	AAAA	2610:a1:1076::53
-iq.	0	IN	NS	ns1.cmc.iq.
+iq.	0	IN	NS	ns.cmc.iq.
 iq.	0	IN	NS	ns01.trs-dns.com.
 iq.	0	IN	NS	ns01.trs-dns.net.
 iq.	0	IN	NS	nsp-anycast.cmc.iq.
-ns1.cmc.iq.	0	IN	A	194.117.57.100
+ns.cmc.iq.	0	IN	A	194.117.57.105
 nsp-anycast.cmc.iq.	0	IN	A	194.117.58.42
 nsp-anycast.cmc.iq.	0	IN	AAAA	2001:500:14:8001:ad::42
 ir.	0	IN	NS	a.nic.ir.
@@ -19972,6 +19972,7 @@ a.ns.nic.xn--mgbt3dhd.	0	IN	A	72.0.49.9
 a.ns.nic.xn--mgbt3dhd.	0	IN	AAAA	2620:171:a01:ad::9
 b.ns.nic.xn--mgbt3dhd.	0	IN	A	72.42.113.9
 b.ns.nic.xn--mgbt3dhd.	0	IN	AAAA	2620:171:d01:dc::9
+xn--mgbtx2b.	0	IN	NS	ns.cmc.iq.
 xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.com.
 xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbtx2b.	0	IN	NS	nsp-anycast.cmc.iq.
