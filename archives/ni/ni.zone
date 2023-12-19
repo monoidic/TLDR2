@@ -1157,9 +1157,10 @@ ns1.masterdiagnostica.ni.	0	IN	A	213.172.61.66
 ns2.masterdiagnostica.ni.	0	IN	A	90.161.205.242
 masterlock.ni.	0	IN	NS	dns1.cscdns.net.
 masterlock.ni.	0	IN	NS	dns2.cscdns.net.
-match.ni.	0	IN	NS	usc1.akam.net.
-match.ni.	0	IN	NS	ns1-1.akam.net.
-match.ni.	0	IN	NS	ns1-215.akam.net.
+match.ni.	0	IN	NS	dns1.p01.nsone.net.
+match.ni.	0	IN	NS	dns2.p01.nsone.net.
+match.ni.	0	IN	NS	dns3.p01.nsone.net.
+match.ni.	0	IN	NS	dns4.p01.nsone.net.
 matt.ni.	0	IN	NS	ns1.markmonitor.com.
 matt.ni.	0	IN	NS	ns3.markmonitor.com.
 mavanclad.ni.	0	IN	NS	ns1.brandshelter.com.
