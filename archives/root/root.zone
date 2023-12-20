@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023122002 1 1 765f22a7b41c93e50c4ab7dd13b18223104ac942cc1683bf75395973c235fe3c99e621acf9ec716d2c37213b40c75fe9
+.	0	IN	ZONEMD	2023122003 1 1 a148e79edafe4ce2bf5f644f6be1278114ac329a6a19eea51e18f12c3d53ce8451e1b0f052b04305162961df0104569d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -11798,8 +11798,6 @@ ns.cernet.net.	0	IN	A	202.112.0.44
 e.ci-servers.net.	0	IN	A	204.61.216.74
 e.ci-servers.net.	0	IN	AAAA	2001:500:14:6074:ad::1
 lk.communitydns.net.	0	IN	A	194.0.1.27
-ph.communitydns.net.	0	IN	A	194.0.1.23
-ph.communitydns.net.	0	IN	AAAA	2001:678:4::17
 l.de.net.	0	IN	A	77.67.63.105
 l.de.net.	0	IN	AAAA	2001:668:1f:11::105
 n.de.net.	0	IN	A	194.146.107.6
@@ -13134,10 +13132,11 @@ pg.	0	IN	NS	munnari.oz.au.
 ns1.unitech.ac.pg.	0	IN	A	202.1.32.49
 ns1.tiare.net.pg.	0	IN	A	202.165.192.23
 ns2.tiare.net.pg.	0	IN	A	202.165.192.24
-ph.	0	IN	NS	ph.communitydns.net.
-ph.	0	IN	NS	ns2.cuhk.edu.hk.
+ph.	0	IN	NS	1.ns.ph.
 ph.	0	IN	NS	ns4.apnic.net.
 ph.	0	IN	DS	29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
+1.ns.ph.	0	IN	A	206.51.255.1
+1.ns.ph.	0	IN	AAAA	2620:171:805:ad2:7068::1
 pharmacy.	0	IN	NS	dns1.nic.pharmacy.
 pharmacy.	0	IN	NS	dns2.nic.pharmacy.
 pharmacy.	0	IN	NS	dns3.nic.pharmacy.
