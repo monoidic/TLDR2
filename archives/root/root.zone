@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2023122101 1 1 f1a6cff4612f40c64d27205f3b681729a619ad53840858f8a56d8cb3c30d8e2f9587284bb7854602f83fc6affb994983
+.	0	IN	ZONEMD	2023122102 1 1 c7e7a463bad1fa83416506586572bbd107663ff7d682e63b6e868347dbc1b2bf5ca5f9620dd8a5ed64a5092411c489f2
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3061,7 +3061,6 @@ catholic.	0	IN	NS	c.nic.catholic.
 catholic.	0	IN	NS	x.nic.catholic.
 catholic.	0	IN	NS	y.nic.catholic.
 catholic.	0	IN	NS	z.nic.catholic.
-catholic.	0	IN	DS	20539 8 2 433482ce6522917b6f0c77c23765cdd4bdac8c05ff5012ffea892cc9dcdb07f8
 catholic.	0	IN	DS	21967 8 2 a6aac594f31e65e79e0dcede4d0a0b10eaa0f4db43dd7174fd928e01bd5542a0
 a.nic.catholic.	0	IN	A	37.209.192.9
 a.nic.catholic.	0	IN	AAAA	2001:dcd:1::9
@@ -19211,7 +19210,6 @@ xn--80aqecdr1a.	0	IN	NS	c.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	x.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	y.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	z.nic.xn--80aqecdr1a.
-xn--80aqecdr1a.	0	IN	DS	16210 8 2 3ec3f92a011e4087d2c0fdf107a5ae34ca52ffa467bd73677128a91da3f552ef
 xn--80aqecdr1a.	0	IN	DS	50089 8 2 1c651bd0c4b0b51d953b5baab9df5fb4256b88ca5883cea94ae060c1e5c313a4
 a.nic.xn--80aqecdr1a.	0	IN	A	37.209.192.9
 a.nic.xn--80aqecdr1a.	0	IN	AAAA	2001:dcd:1::9
@@ -19948,7 +19946,6 @@ xn--mgbi4ecexp.	0	IN	NS	x.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	y.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	z.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	DS	5914 8 2 308b25083f486a76906992484720bd2f9f944fcb49111512ea95957417f3c03d
-xn--mgbi4ecexp.	0	IN	DS	34576 8 2 3d199736303984637fb5a1af60f2e5cf6d276f89d464039dba62c60f363f68c8
 a.nic.xn--mgbi4ecexp.	0	IN	A	37.209.192.9
 a.nic.xn--mgbi4ecexp.	0	IN	AAAA	2001:dcd:1::9
 b.nic.xn--mgbi4ecexp.	0	IN	A	37.209.194.9
@@ -20229,7 +20226,6 @@ xn--tiq49xqyj.	0	IN	NS	c.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	x.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	y.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	z.nic.xn--tiq49xqyj.
-xn--tiq49xqyj.	0	IN	DS	2386 8 2 ef5bb5c8dbc6edfbb51f26333f779dabb955fdbeb68f276027494846ec8ed9df
 xn--tiq49xqyj.	0	IN	DS	20710 8 2 c1fbac37a1a9b6fb9dc85ba47c7f98ad7cf2d78cbbd3cda8c93d389870616ba0
 a.nic.xn--tiq49xqyj.	0	IN	A	37.209.192.9
 a.nic.xn--tiq49xqyj.	0	IN	AAAA	2001:dcd:1::9
