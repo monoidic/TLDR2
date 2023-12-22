@@ -39,8 +39,6 @@
 * `pr.`
 * `ruhr.`
 * `se.`
-* `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
