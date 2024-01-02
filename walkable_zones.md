@@ -3,6 +3,7 @@
 * `.`
 * `arpa.`
 * `audio.`
+* `auto.`
 * `ax.`
 * `bd.`
 * `br.`
