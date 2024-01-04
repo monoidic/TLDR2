@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAddS95RV5uUtkUCN7vyvpb0kDZgmtXwN5Sj/d08+X7ND2sgWBabKnFhftrOsSx9DUhKR3gpMPIxac84Nou8Wzkiu2A/sTzP1F6KpCL8epgemdlZVd1ATHEjpB0KHIQmDjSEO/frGgi8ijQ2vDF3AMSrUwH7qntL1E5ufPHGKRM+agGghcAYfJHJN1dw7Ki3Fo22RDB3VZBxU9yJ3vl/T4hngeL7zK84vgl62tlJJw1rK5S/3U4p/bZarjtMFOHDfh0DEj1ywtRpkpPnge03gmINoa2tz+Kff67kbQb0NhHJYzPRpViaMEWZI9pgGH9ZyuFdNrNRx68XSiO7sya7/i+c= ;{id = 46780 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024010401 1 1 923e9878892022def3062f70144f3bb8e8e86d2cd653f1e145e8a55749fae144e6cd66c89a2b1d997b32543f07826e23
+.	0	IN	ZONEMD	2024010402 1 1 94d2a1c6f339a67f834f356f1600628ffcb35974b10c3fc2d74a90893e21d4564515d9e3f76926e189e26d46706f7baf
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10303,6 +10303,7 @@ locker.	0	IN	NS	a2.nic.locker.
 locker.	0	IN	NS	b0.nic.locker.
 locker.	0	IN	NS	c0.nic.locker.
 locker.	0	IN	DS	6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
+locker.	0	IN	DS	12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
 a0.nic.locker.	0	IN	A	65.22.96.33
 a0.nic.locker.	0	IN	AAAA	2a01:8840:5e::33
 a2.nic.locker.	0	IN	A	65.22.99.33
@@ -12573,6 +12574,7 @@ observer.	0	IN	NS	v0n3.nic.observer.
 observer.	0	IN	NS	v2n0.nic.observer.
 observer.	0	IN	NS	v2n1.nic.observer.
 observer.	0	IN	DS	46084 8 2 366c4c042dbbaa5636c254a7ab2331102545dca6f2c81c8ce6b42c6dd0cadeb4
+observer.	0	IN	DS	61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 v0n0.nic.observer.	0	IN	A	65.22.24.63
 v0n0.nic.observer.	0	IN	AAAA	2a01:8840:1a::63
 v0n1.nic.observer.	0	IN	A	65.22.25.63
@@ -14130,6 +14132,7 @@ realty.	0	IN	NS	v0n3.nic.realty.
 realty.	0	IN	NS	v2n0.nic.realty.
 realty.	0	IN	NS	v2n1.nic.realty.
 realty.	0	IN	DS	5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
+realty.	0	IN	DS	21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
 v0n0.nic.realty.	0	IN	A	65.22.24.42
 v0n0.nic.realty.	0	IN	AAAA	2a01:8840:1a::42
 v0n1.nic.realty.	0	IN	A	65.22.25.42
