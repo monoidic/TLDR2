@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024011101 1 1 fa580dc1c02a00e4eb56be5f5ecd6088278d010bb197cbaf145aec55f06b2b34153c9b7988b666c9309d51a855f2d135
+.	0	IN	ZONEMD	2024011102 1 1 668b90530663893d8d0c4df75af37f03da810b5078fdc360a2abbf1d5e9e169bfff90748532db3dc047eab68feb45ff3
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -16787,10 +16787,9 @@ tel.	0	IN	NS	ns1.dns.nic.tel.
 tel.	0	IN	NS	ns2.dns.nic.tel.
 tel.	0	IN	NS	ns3.dns.nic.tel.
 tel.	0	IN	NS	ns4.dns.nic.tel.
-tel.	0	IN	NS	ns5.dns.nic.tel.
-tel.	0	IN	NS	ns6.dns.nic.tel.
-tel.	0	IN	NS	ns7.dns.nic.tel.
-tel.	0	IN	NS	ns8.dns.nic.tel.
+tel.	0	IN	NS	anycast9.irondns.net.
+tel.	0	IN	NS	anycast10.irondns.net.
+tel.	0	IN	DS	31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
 tel.	0	IN	DS	48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
 ns1.dns.nic.tel.	0	IN	A	156.154.169.10
 ns1.dns.nic.tel.	0	IN	AAAA	2610:a1:1071::1:a
@@ -16800,14 +16799,6 @@ ns3.dns.nic.tel.	0	IN	A	156.154.171.10
 ns3.dns.nic.tel.	0	IN	AAAA	2610:a1:1073::1:a
 ns4.dns.nic.tel.	0	IN	A	156.154.172.10
 ns4.dns.nic.tel.	0	IN	AAAA	2610:a1:1074::1:a
-ns5.dns.nic.tel.	0	IN	A	156.154.173.10
-ns5.dns.nic.tel.	0	IN	AAAA	2610:a1:1075::1:a
-ns6.dns.nic.tel.	0	IN	A	156.154.174.10
-ns6.dns.nic.tel.	0	IN	AAAA	2610:a1:1076::1:a
-ns7.dns.nic.tel.	0	IN	A	194.146.106.38
-ns7.dns.nic.tel.	0	IN	AAAA	2001:67c:1010:9::53
-ns8.dns.nic.tel.	0	IN	A	192.36.144.116
-ns8.dns.nic.tel.	0	IN	AAAA	2a01:3f0:0:300::53
 temasek.	0	IN	NS	a0.nic.temasek.
 temasek.	0	IN	NS	a2.nic.temasek.
 temasek.	0	IN	NS	b0.nic.temasek.
