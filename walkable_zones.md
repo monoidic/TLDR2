@@ -4,7 +4,6 @@
 * `arpa.`
 * `audio.`
 * `auto.`
-* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -12,9 +11,6 @@
 * `cars.`
 * `ch.`
 * `christmas.`
-* `ci.`
-* `diet.`
-* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -25,13 +21,9 @@
 * `hosting.`
 * `id.`
 * `ir.`
-* `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
-* `lol.`
-* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
