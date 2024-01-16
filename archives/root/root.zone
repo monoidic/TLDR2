@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024011600 1 1 0a3241d84689608474f804617a0526fdc849aa7603b15b7a749ad22e835b3c5eb81ac18f82f65b07795633c7a34d7bcd
+.	0	IN	ZONEMD	2024011601 1 1 a16b1031bd0bd928359895831146d2fd9ea68dbf9af306224d21c09bd5b06e499ee2aabf68d067e61d55226a1e97fe5d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2426,10 +2426,10 @@ dns1.nic.broadway.	0	IN	A	213.248.219.38
 dns1.nic.broadway.	0	IN	AAAA	2a01:618:403::38
 dns2.nic.broadway.	0	IN	A	103.49.83.38
 dns2.nic.broadway.	0	IN	AAAA	2401:fd80:403::38
-dns3.nic.broadway.	0	IN	A	213.248.221.38
-dns3.nic.broadway.	0	IN	AAAA	2a01:618:405::38
-dns4.nic.broadway.	0	IN	A	43.230.49.38
-dns4.nic.broadway.	0	IN	AAAA	2401:fd80:405::38
+dns3.nic.broadway.	0	IN	A	213.248.223.38
+dns3.nic.broadway.	0	IN	AAAA	2a01:618:407::38
+dns4.nic.broadway.	0	IN	A	43.230.51.38
+dns4.nic.broadway.	0	IN	AAAA	2401:fd80:407::38
 dnsa.nic.broadway.	0	IN	A	156.154.100.3
 dnsa.nic.broadway.	0	IN	AAAA	2001:502:ad09::3
 dnsb.nic.broadway.	0	IN	A	156.154.101.3
@@ -4535,6 +4535,8 @@ c.ns.nic.cz.	0	IN	A	194.0.14.1
 c.ns.nic.cz.	0	IN	AAAA	2001:678:11::1
 d.ns.nic.cz.	0	IN	A	193.29.206.1
 d.ns.nic.cz.	0	IN	AAAA	2001:678:1::1
+gt-e.ns.nic.cz.	0	IN	A	185.43.134.14
+gt-e.ns.nic.cz.	0	IN	AAAA	2001:148f:fffd::14
 mw-e.ns.nic.cz.	0	IN	A	185.43.134.10
 mw-e.ns.nic.cz.	0	IN	AAAA	2001:148f:fffd::10
 tz-e.ns.nic.cz.	0	IN	A	185.43.134.11
@@ -7541,10 +7543,8 @@ gt.	0	IN	NS	a.lactld.org.
 gt.	0	IN	NS	gt.anycastdns.cz.
 gt.	0	IN	NS	ns.dns.br.
 gt.	0	IN	NS	pch.gt.
-gt.	0	IN	NS	ns-cz.gt.
+gt.	0	IN	NS	gt-e.ns.nic.cz.
 gt.	0	IN	NS	ssdns-tld.nic.cl.
-ns-cz.gt.	0	IN	A	193.29.206.2
-ns-cz.gt.	0	IN	AAAA	2001:678:1::2
 pch.gt.	0	IN	A	204.61.216.95
 pch.gt.	0	IN	AAAA	2001:500:14:6095:ad::1
 gu.	0	IN	NS	gu.cctld.authdns.ripe.net.
@@ -8865,24 +8865,24 @@ v2n0.nic.irish.	0	IN	A	65.22.35.27
 v2n0.nic.irish.	0	IN	AAAA	2a01:8840:25::27
 v2n1.nic.irish.	0	IN	A	161.232.17.27
 v2n1.nic.irish.	0	IN	AAAA	2a01:8840:fb::27
-is.	0	IN	NS	bes.isnic.is.
-is.	0	IN	NS	sab.isnic.is.
-is.	0	IN	NS	set.isnic.is.
+is.	0	IN	NS	a.nic.is.
+is.	0	IN	NS	b.nic.is.
+is.	0	IN	NS	c.nic.is.
+is.	0	IN	NS	d.nic.is.
+is.	0	IN	NS	e.nic.is.
 is.	0	IN	NS	sunic.sunet.se.
 is.	0	IN	NS	durinn.rhnet.is.
-is.	0	IN	NS	ht-tldsecondary01.isnic.is.
-is.	0	IN	NS	tg-tldsecondary01.isnic.is.
 is.	0	IN	DS	50437 8 2 9f52f1f92f1559e26dfdd71dad54db41acdd80f0150d974b08caf910d45e8b6e
-bes.isnic.is.	0	IN	A	204.61.216.116
-bes.isnic.is.	0	IN	AAAA	2001:500:14:6116:ad::1
-ht-tldsecondary01.isnic.is.	0	IN	A	185.93.156.10
-ht-tldsecondary01.isnic.is.	0	IN	AAAA	2001:67c:6c:56::10
-sab.isnic.is.	0	IN	A	194.146.106.58
-sab.isnic.is.	0	IN	AAAA	2001:67c:1010:14::53
-set.isnic.is.	0	IN	A	194.0.25.41
-set.isnic.is.	0	IN	AAAA	2001:678:20::41
-tg-tldsecondary01.isnic.is.	0	IN	A	185.93.156.154
-tg-tldsecondary01.isnic.is.	0	IN	AAAA	2001:67c:6c:f056::154
+a.nic.is.	0	IN	A	185.93.156.10
+a.nic.is.	0	IN	AAAA	2001:67c:6c:56::10
+b.nic.is.	0	IN	A	185.93.156.154
+b.nic.is.	0	IN	AAAA	2001:67c:6c:f056::154
+c.nic.is.	0	IN	A	204.61.216.116
+c.nic.is.	0	IN	AAAA	2001:500:14:6116:ad::1
+d.nic.is.	0	IN	A	194.146.106.58
+d.nic.is.	0	IN	AAAA	2001:67c:1010:14::53
+e.nic.is.	0	IN	A	194.0.25.41
+e.nic.is.	0	IN	AAAA	2001:678:20::41
 durinn.rhnet.is.	0	IN	A	130.208.16.20
 durinn.rhnet.is.	0	IN	AAAA	2a00:c88:10:16::20
 ismaili.	0	IN	NS	a0.nic.ismaili.
@@ -8942,9 +8942,9 @@ m.dns.it.	0	IN	AAAA	2001:1ac0:0:200:0:a5d1:6004:2
 r.dns.it.	0	IN	A	193.206.141.46
 r.dns.it.	0	IN	AAAA	2001:760:ffff:ffff::ca
 osiris.namex.it.	0	IN	A	193.201.40.6
-osiris.namex.it.	0	IN	AAAA	2001:7f8:10:f00a::6
+osiris.namex.it.	0	IN	AAAA	2a0f:80:1::6
 seth.namex.it.	0	IN	A	193.201.40.7
-seth.namex.it.	0	IN	AAAA	2001:7f8:10:f00a::7
+seth.namex.it.	0	IN	AAAA	2a0f:80:1::7
 dns.nic.it.	0	IN	A	192.12.192.5
 dns.nic.it.	0	IN	AAAA	2a00:d40:1:1::5
 itau.	0	IN	NS	a.nic.itau.
@@ -11766,6 +11766,14 @@ ns-ug.afrinic.net.	0	IN	A	196.216.168.42
 ns-ug.afrinic.net.	0	IN	AAAA	2001:43f8:120::42
 ns-zm.afrinic.net.	0	IN	A	196.216.168.44
 ns-zm.afrinic.net.	0	IN	AAAA	2001:43f8:120::44
+tld01.akam.net.	0	IN	A	23.201.98.96
+tld01.akam.net.	0	IN	AAAA	2600:1480:5806::a0
+tld02.akam.net.	0	IN	A	23.201.99.96
+tld02.akam.net.	0	IN	AAAA	2600:1480:5807::a0
+tld03.akam.net.	0	IN	A	23.201.100.96
+tld03.akam.net.	0	IN	AAAA	2600:1480:5808::a0
+tld04.akam.net.	0	IN	A	23.201.101.96
+tld04.akam.net.	0	IN	AAAA	2600:1480:5809::a0
 ns1.aland.net.	0	IN	A	194.112.0.1
 ns2.aland.net.	0	IN	A	194.112.0.5
 ns-cdn.amnic.net.	0	IN	A	194.0.1.26
@@ -14889,6 +14897,10 @@ samsung.	0	IN	NS	ns1.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns2.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns3.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns4.samsung.centralnic-dns.com.
+samsung.	0	IN	NS	tld01.akam.net.
+samsung.	0	IN	NS	tld02.akam.net.
+samsung.	0	IN	NS	tld03.akam.net.
+samsung.	0	IN	NS	tld04.akam.net.
 samsung.	0	IN	DS	19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
 sandvik.	0	IN	NS	a.nic.sandvik.
 sandvik.	0	IN	NS	b.nic.sandvik.
@@ -17829,16 +17841,14 @@ ns5.uz.	0	IN	A	217.12.81.129
 ns6.uz.	0	IN	A	83.69.129.33
 ns7.uz.	0	IN	A	104.238.81.247
 ns8.uz.	0	IN	A	91.212.89.233
+va.	0	IN	NS	a.nic.va.
+va.	0	IN	NS	b.nic.va.
 va.	0	IN	NS	va.cctld.authdns.ripe.net.
 va.	0	IN	NS	dns.nic.it.
-va.	0	IN	NS	john.vatican.va.
 va.	0	IN	NS	seth.namex.it.
 va.	0	IN	NS	osiris.namex.it.
-va.	0	IN	NS	michael.vatican.va.
-john.vatican.va.	0	IN	A	212.77.0.110
-john.vatican.va.	0	IN	AAAA	2a01:b8:0:1:212:77:0:110
-michael.vatican.va.	0	IN	A	212.77.0.2
-michael.vatican.va.	0	IN	AAAA	2a01:b8:0:1:212:77:0:2
+a.nic.va.	0	IN	A	212.77.0.110
+b.nic.va.	0	IN	A	212.77.0.2
 vacations.	0	IN	NS	v0n0.nic.vacations.
 vacations.	0	IN	NS	v0n1.nic.vacations.
 vacations.	0	IN	NS	v0n2.nic.vacations.
@@ -19378,6 +19388,10 @@ xn--cg4bki.	0	IN	NS	ns1.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.	0	IN	NS	ns2.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.	0	IN	NS	ns3.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.	0	IN	NS	ns4.xn--cg4bki.centralnic-dns.com.
+xn--cg4bki.	0	IN	NS	tld01.akam.net.
+xn--cg4bki.	0	IN	NS	tld02.akam.net.
+xn--cg4bki.	0	IN	NS	tld03.akam.net.
+xn--cg4bki.	0	IN	NS	tld04.akam.net.
 xn--cg4bki.	0	IN	DS	59631 7 2 7a16187809f4725a91f192336f6a9576f246df35edf500a1356b8c8dff2d59f1
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	ns4.apnic.net.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	pch.sgzones.sg.
