@@ -25,7 +25,9 @@
 * `hosting.`
 * `id.`
 * `ir.`
+* `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -36,6 +38,7 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `sl.`
 * `tn.`
 * `tz.`

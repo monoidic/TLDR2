@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024011700 1 1 f91c79a1cfe7284f5968d28630cad1de90bd965f1d941584c6f24304662ff2562ddde51d3fcec05c120de7a43e671c3a
+.	0	IN	ZONEMD	2024011701 1 1 d60269544c44016dd1f62687d648c18b6c216d05d2d3afad74dbc2a52825d74a54d24ae3af712d4b1a4de8e80b0ca2f4
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12377,20 +12377,20 @@ not.norid.no.	0	IN	A	156.154.100.12
 not.norid.no.	0	IN	AAAA	2001:502:ad09::12
 nn.uninett.no.	0	IN	A	158.38.0.181
 nn.uninett.no.	0	IN	AAAA	2001:700:0:503::aa:5302
-nokia.	0	IN	NS	a0.nic.nokia.
-nokia.	0	IN	NS	a2.nic.nokia.
-nokia.	0	IN	NS	b0.nic.nokia.
-nokia.	0	IN	NS	c0.nic.nokia.
+nokia.	0	IN	NS	a.nic.nokia.
+nokia.	0	IN	NS	b.nic.nokia.
+nokia.	0	IN	NS	c.nic.nokia.
+nokia.	0	IN	NS	d.nic.nokia.
 nokia.	0	IN	DS	38794 8 2 5d3c0f0b92084eb734e6e06364681b3bb051087a15ebe6f468b2974c5f197ab1
 nokia.	0	IN	DS	43790 8 2 7d7d3ebae05f84c911ee972ec6d72f1cc88368297b5fdc6a52db62eb27b76c99
-a0.nic.nokia.	0	IN	A	65.22.148.17
-a0.nic.nokia.	0	IN	AAAA	2a01:8840:92::17
-a2.nic.nokia.	0	IN	A	65.22.151.17
-a2.nic.nokia.	0	IN	AAAA	2a01:8840:95::17
-b0.nic.nokia.	0	IN	A	65.22.149.17
-b0.nic.nokia.	0	IN	AAAA	2a01:8840:93::17
-c0.nic.nokia.	0	IN	A	65.22.150.17
-c0.nic.nokia.	0	IN	AAAA	2a01:8840:94::17
+a.nic.nokia.	0	IN	A	194.169.218.159
+a.nic.nokia.	0	IN	AAAA	2001:67c:13cc::1:159
+b.nic.nokia.	0	IN	A	185.24.64.159
+b.nic.nokia.	0	IN	AAAA	2a04:2b00:13cc::1:159
+c.nic.nokia.	0	IN	A	212.18.248.159
+c.nic.nokia.	0	IN	AAAA	2a04:2b00:13ee::159
+d.nic.nokia.	0	IN	A	212.18.249.159
+d.nic.nokia.	0	IN	AAAA	2a04:2b00:13ff::159
 norton.	0	IN	NS	ac1.nstld.com.
 norton.	0	IN	NS	ac2.nstld.com.
 norton.	0	IN	NS	ac3.nstld.com.
@@ -14662,7 +14662,7 @@ ru.	0	IN	NS	b.dns.ripn.net.
 ru.	0	IN	NS	d.dns.ripn.net.
 ru.	0	IN	NS	e.dns.ripn.net.
 ru.	0	IN	NS	f.dns.ripn.net.
-ru.	0	IN	DS	18274 8 2 ab35d17d3f39eb42cee14c6273247938d33eeeaa9f5caa70b3858dbf4bd3e87b
+ru.	0	IN	DS	43786 8 2 3c59747544090bc74419d5f69e32d8c9b18ea48cbdaa33c09435619120ced431
 a.dns.flexireg.ru.	0	IN	A	31.177.70.1
 a.dns.flexireg.ru.	0	IN	AAAA	2a02:2090:6800::1
 rugby.	0	IN	NS	a.nic.rugby.
@@ -16628,7 +16628,7 @@ tatar.	0	IN	NS	b.dns.ripn.net.
 tatar.	0	IN	NS	d.dns.ripn.net.
 tatar.	0	IN	NS	e.dns.ripn.net.
 tatar.	0	IN	NS	f.dns.ripn.net.
-tatar.	0	IN	DS	27077 8 2 cced6d290e870530527adfda81f3277c9f64b8dc2724dc9d90640946d176a01f
+tatar.	0	IN	DS	51080 8 2 174d84d055dd351387ae559673deb48b0aa5f767e0c946c9c7afcf8d30230a7f
 tattoo.	0	IN	NS	a.nic.tattoo.
 tattoo.	0	IN	NS	b.nic.tattoo.
 tattoo.	0	IN	NS	c.nic.tattoo.
@@ -20122,7 +20122,7 @@ xn--p1ai.	0	IN	NS	b.dns.ripn.net.
 xn--p1ai.	0	IN	NS	d.dns.ripn.net.
 xn--p1ai.	0	IN	NS	e.dns.ripn.net.
 xn--p1ai.	0	IN	NS	f.dns.ripn.net.
-xn--p1ai.	0	IN	DS	7900 8 2 383545b7cc236ff2ff20fb9a035a650ef9f2ec31c8e8bb765292ad5f62a27ff1
+xn--p1ai.	0	IN	DS	59497 8 2 3de6c0350e9d16583aeaca8fbfb5148c25cfaf3a81d5083c1aa90d8399720ae3
 xn--pgbs0dh.	0	IN	NS	ns1.ati.tn.
 xn--pgbs0dh.	0	IN	NS	ns2.ati.tn.
 xn--pgbs0dh.	0	IN	NS	ns2.nic.fr.
