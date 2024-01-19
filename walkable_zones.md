@@ -10,11 +10,9 @@
 * `bt.`
 * `car.`
 * `cars.`
-* `ch.`
 * `christmas.`
 * `ci.`
 * `diet.`
-* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -41,7 +39,6 @@
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
