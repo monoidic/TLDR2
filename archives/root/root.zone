@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024012201 1 1 398aba7ca9e48c461eba1105a8bc4d1b098ed62d71b205b9492e3885dbf0afd1060228174705f64c7f00b243ba94093d
+.	0	IN	ZONEMD	2024012202 1 1 caae12a91ef5c4ea1a5c99bb59cbe5136b457a0fd481c26bc43b32bec3dab0761da3e554137455de6a40d6da3c329d53
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1376,25 +1376,6 @@ ns2.dns.nic.banamex.	0	IN	A	156.154.145.21
 ns2.dns.nic.banamex.	0	IN	AAAA	2610:a1:1072::15
 ns3.dns.nic.banamex.	0	IN	A	156.154.159.21
 ns3.dns.nic.banamex.	0	IN	AAAA	2610:a1:1073::15
-bananarepublic.	0	IN	NS	a.nic.bananarepublic.
-bananarepublic.	0	IN	NS	b.nic.bananarepublic.
-bananarepublic.	0	IN	NS	c.nic.bananarepublic.
-bananarepublic.	0	IN	NS	ns1.dns.nic.bananarepublic.
-bananarepublic.	0	IN	NS	ns2.dns.nic.bananarepublic.
-bananarepublic.	0	IN	NS	ns3.dns.nic.bananarepublic.
-bananarepublic.	0	IN	DS	42796 8 2 28bb727ee05f747a4eb0fc5e0d807542fa005a2a571c039fd34be55f3378bb5b
-a.nic.bananarepublic.	0	IN	A	37.209.192.9
-a.nic.bananarepublic.	0	IN	AAAA	2001:dcd:1::9
-b.nic.bananarepublic.	0	IN	A	37.209.194.9
-b.nic.bananarepublic.	0	IN	AAAA	2001:dcd:2::9
-c.nic.bananarepublic.	0	IN	A	37.209.196.9
-c.nic.bananarepublic.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.bananarepublic.	0	IN	A	156.154.144.22
-ns1.dns.nic.bananarepublic.	0	IN	AAAA	2610:a1:1071::16
-ns2.dns.nic.bananarepublic.	0	IN	A	156.154.145.22
-ns2.dns.nic.bananarepublic.	0	IN	AAAA	2610:a1:1072::16
-ns3.dns.nic.bananarepublic.	0	IN	A	156.154.159.22
-ns3.dns.nic.bananarepublic.	0	IN	AAAA	2610:a1:1073::16
 band.	0	IN	NS	v0n0.nic.band.
 band.	0	IN	NS	v0n1.nic.band.
 band.	0	IN	NS	v0n2.nic.band.
@@ -7326,10 +7307,10 @@ dns1.nic.gop.	0	IN	A	213.248.219.39
 dns1.nic.gop.	0	IN	AAAA	2a01:618:403::39
 dns2.nic.gop.	0	IN	A	103.49.83.39
 dns2.nic.gop.	0	IN	AAAA	2401:fd80:403::39
-dns3.nic.gop.	0	IN	A	213.248.221.39
-dns3.nic.gop.	0	IN	AAAA	2a01:618:405::39
-dns4.nic.gop.	0	IN	A	43.230.49.39
-dns4.nic.gop.	0	IN	AAAA	2401:fd80:405::39
+dns3.nic.gop.	0	IN	A	213.248.223.39
+dns3.nic.gop.	0	IN	AAAA	2a01:618:407::39
+dns4.nic.gop.	0	IN	A	43.230.51.39
+dns4.nic.gop.	0	IN	AAAA	2401:fd80:407::39
 dnsa.nic.gop.	0	IN	A	156.154.100.3
 dnsa.nic.gop.	0	IN	AAAA	2001:502:ad09::3
 dnsb.nic.gop.	0	IN	A	156.154.101.3
@@ -10300,6 +10281,8 @@ locker.	0	IN	NS	a0.nic.locker.
 locker.	0	IN	NS	a2.nic.locker.
 locker.	0	IN	NS	b0.nic.locker.
 locker.	0	IN	NS	c0.nic.locker.
+locker.	0	IN	NS	ns01.trs-dns.com.
+locker.	0	IN	NS	ns01.trs-dns.net.
 locker.	0	IN	DS	6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
 locker.	0	IN	DS	12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
 a0.nic.locker.	0	IN	A	65.22.96.33
@@ -12574,6 +12557,8 @@ b0.nic.obi.	0	IN	A	65.22.113.17
 b0.nic.obi.	0	IN	AAAA	2a01:8840:6f::17
 c0.nic.obi.	0	IN	A	65.22.114.17
 c0.nic.obi.	0	IN	AAAA	2a01:8840:70::17
+observer.	0	IN	NS	ns01.trs-dns.com.
+observer.	0	IN	NS	ns01.trs-dns.net.
 observer.	0	IN	NS	v0n0.nic.observer.
 observer.	0	IN	NS	v0n1.nic.observer.
 observer.	0	IN	NS	v0n2.nic.observer.
@@ -12656,25 +12641,6 @@ y.nic.olayangroup.	0	IN	A	156.154.173.82
 y.nic.olayangroup.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.olayangroup.	0	IN	A	156.154.174.82
 z.nic.olayangroup.	0	IN	AAAA	2610:a1:1076::1:82
-oldnavy.	0	IN	NS	a.nic.oldnavy.
-oldnavy.	0	IN	NS	b.nic.oldnavy.
-oldnavy.	0	IN	NS	c.nic.oldnavy.
-oldnavy.	0	IN	NS	ns1.dns.nic.oldnavy.
-oldnavy.	0	IN	NS	ns2.dns.nic.oldnavy.
-oldnavy.	0	IN	NS	ns3.dns.nic.oldnavy.
-oldnavy.	0	IN	DS	43291 8 2 c1b93f6a8ac42f2f15dbb3c74af29e6f32e5a59d330f84e761a895eca3371914
-a.nic.oldnavy.	0	IN	A	37.209.192.9
-a.nic.oldnavy.	0	IN	AAAA	2001:dcd:1::9
-b.nic.oldnavy.	0	IN	A	37.209.194.9
-b.nic.oldnavy.	0	IN	AAAA	2001:dcd:2::9
-c.nic.oldnavy.	0	IN	A	37.209.196.9
-c.nic.oldnavy.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.oldnavy.	0	IN	A	156.154.144.127
-ns1.dns.nic.oldnavy.	0	IN	AAAA	2610:a1:1071::7f
-ns2.dns.nic.oldnavy.	0	IN	A	156.154.145.127
-ns2.dns.nic.oldnavy.	0	IN	AAAA	2610:a1:1072::7f
-ns3.dns.nic.oldnavy.	0	IN	A	156.154.159.127
-ns3.dns.nic.oldnavy.	0	IN	AAAA	2610:a1:1073::7f
 ollo.	0	IN	NS	a0.nic.ollo.
 ollo.	0	IN	NS	a2.nic.ollo.
 ollo.	0	IN	NS	b0.nic.ollo.
@@ -14132,6 +14098,8 @@ dnsc.nic.realtor.	0	IN	A	156.154.102.3
 dnsc.nic.realtor.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.realtor.	0	IN	A	156.154.103.3
 dnsd.nic.realtor.	0	IN	AAAA	2610:a1:1010::3
+realty.	0	IN	NS	ns01.trs-dns.com.
+realty.	0	IN	NS	ns01.trs-dns.net.
 realty.	0	IN	NS	v0n0.nic.realty.
 realty.	0	IN	NS	v0n1.nic.realty.
 realty.	0	IN	NS	v0n2.nic.realty.
