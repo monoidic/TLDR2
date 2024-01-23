@@ -3,7 +3,6 @@
 * `.`
 * `arpa.`
 * `audio.`
-* `auto.`
 * `ax.`
 * `bd.`
 * `br.`
@@ -23,21 +22,14 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `ir.`
-* `kg.`
 * `kz.`
-* `lb.`
-* `li.`
 * `lk.`
-* `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
-* `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
@@ -48,4 +40,3 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
