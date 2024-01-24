@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024012402 1 1 839d0adb3beb59b4bc7146ce3680c7adef005ab9771366250086971219223c47934735531ce043e1ad4d082055bc49be
+.	0	IN	ZONEMD	2024012403 1 1 1ff16a4dee60c0ab9b518ecd24f24fa820a6d78414c74a6a77dd699f742bc457530cc7bcbf1d44c5ae6f36b5ff0ce1df
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3646,13 +3646,14 @@ clubmed.	0	IN	NS	ac3.nstld.com.
 clubmed.	0	IN	NS	ac4.nstld.com.
 clubmed.	0	IN	DS	2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
 cm.	0	IN	NS	ns.itu.ch.
-cm.	0	IN	NS	kim.camnet.cm.
-cm.	0	IN	NS	lom.camnet.cm.
+cm.	0	IN	NS	ns1.nic.cm.
+cm.	0	IN	NS	ns2.nic.cm.
+cm.	0	IN	NS	ns-cm.nic.fr.
+cm.	0	IN	NS	ns-cm.afrinic.net.
 cm.	0	IN	NS	auth02.ns.uu.net.
-cm.	0	IN	NS	sanaga.camnet.cm.
-kim.camnet.cm.	0	IN	A	195.24.192.35
-lom.camnet.cm.	0	IN	A	195.24.192.34
-sanaga.camnet.cm.	0	IN	A	195.24.192.17
+cm.	0	IN	NS	phloem.uoregon.edu.
+ns1.nic.cm.	0	IN	A	195.24.205.60
+ns2.nic.cm.	0	IN	A	195.24.205.61
 cn.	0	IN	NS	a.dns.cn.
 cn.	0	IN	NS	b.dns.cn.
 cn.	0	IN	NS	c.dns.cn.
@@ -6567,6 +6568,7 @@ ns-bf.nic.fr.	0	IN	A	194.0.9.1
 ns-bf.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-bj.nic.fr.	0	IN	A	194.0.9.1
 ns-bj.nic.fr.	0	IN	AAAA	2001:678:c::1
+ns-cm.nic.fr.	0	IN	A	194.0.9.1
 ns-gp.nic.fr.	0	IN	A	194.0.9.1
 ns-gp.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-ht.nic.fr.	0	IN	A	194.0.9.1
@@ -11711,6 +11713,7 @@ ns-bw.afrinic.net.	0	IN	A	196.216.168.72
 ns-bw.afrinic.net.	0	IN	AAAA	2001:43f8:120::72
 ns-ci.afrinic.net.	0	IN	A	196.216.168.30
 ns-ci.afrinic.net.	0	IN	AAAA	2001:43f8:120::30
+ns-cm.afrinic.net.	0	IN	A	196.216.168.67
 ns-dz.afrinic.net.	0	IN	A	196.216.168.36
 ns-dz.afrinic.net.	0	IN	AAAA	2001:43f8:120::36
 ns-gm.afrinic.net.	0	IN	A	196.216.168.29
