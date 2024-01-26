@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024012600 1 1 d5e495cdca7f2a2a99eb9b9230af95a710ab03b33e1e22d7b4c5f0b9acdabe16761888d643550c3458488cecfa026bad
+.	0	IN	ZONEMD	2024012601 1 1 809bcc6095a3d484c08602705702650ebaf5d856c184f922423ad7f2578fd2c246e4bb89b507f24dfb99951c48fb58e3
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10964,6 +10964,7 @@ merckmsd.	0	IN	NS	ac1.nstld.com.
 merckmsd.	0	IN	NS	ac2.nstld.com.
 merckmsd.	0	IN	NS	ac3.nstld.com.
 merckmsd.	0	IN	NS	ac4.nstld.com.
+merckmsd.	0	IN	DS	5134 8 2 f4c8e4ac4a227663517fb28feaa416635cc013ccab079eceda756a89541baaba
 merckmsd.	0	IN	DS	23340 8 2 f6643d8ae9760f8033a5a14b231851cedff97429ef22514cfcb1ba625eac86a4
 mg.	0	IN	NS	ns.dts.mg.
 mg.	0	IN	NS	ns.nic.mg.
@@ -11459,6 +11460,7 @@ msd.	0	IN	NS	ac1.nstld.com.
 msd.	0	IN	NS	ac2.nstld.com.
 msd.	0	IN	NS	ac3.nstld.com.
 msd.	0	IN	NS	ac4.nstld.com.
+msd.	0	IN	DS	23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
 msd.	0	IN	DS	30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
 mt.	0	IN	NS	a.ns.mt.
 mt.	0	IN	NS	b.ns.mt.
@@ -12562,26 +12564,10 @@ c0.nic.obi.	0	IN	A	65.22.114.17
 c0.nic.obi.	0	IN	AAAA	2a01:8840:70::17
 observer.	0	IN	NS	ns01.trs-dns.com.
 observer.	0	IN	NS	ns01.trs-dns.net.
-observer.	0	IN	NS	v0n0.nic.observer.
-observer.	0	IN	NS	v0n1.nic.observer.
-observer.	0	IN	NS	v0n2.nic.observer.
-observer.	0	IN	NS	v0n3.nic.observer.
-observer.	0	IN	NS	v2n0.nic.observer.
-observer.	0	IN	NS	v2n1.nic.observer.
+observer.	0	IN	NS	ns01.trs-dns.org.
+observer.	0	IN	NS	ns01.trs-dns.info.
 observer.	0	IN	DS	46084 8 2 366c4c042dbbaa5636c254a7ab2331102545dca6f2c81c8ce6b42c6dd0cadeb4
 observer.	0	IN	DS	61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
-v0n0.nic.observer.	0	IN	A	65.22.24.63
-v0n0.nic.observer.	0	IN	AAAA	2a01:8840:1a::63
-v0n1.nic.observer.	0	IN	A	65.22.25.63
-v0n1.nic.observer.	0	IN	AAAA	2a01:8840:1b::63
-v0n2.nic.observer.	0	IN	A	65.22.26.63
-v0n2.nic.observer.	0	IN	AAAA	2a01:8840:1c::63
-v0n3.nic.observer.	0	IN	A	161.232.12.63
-v0n3.nic.observer.	0	IN	AAAA	2a01:8840:f6::63
-v2n0.nic.observer.	0	IN	A	65.22.27.63
-v2n0.nic.observer.	0	IN	AAAA	2a01:8840:1d::63
-v2n1.nic.observer.	0	IN	A	161.232.13.63
-v2n1.nic.observer.	0	IN	AAAA	2a01:8840:f7::63
 office.	0	IN	NS	a.nic.office.
 office.	0	IN	NS	b.nic.office.
 office.	0	IN	NS	c.nic.office.
@@ -14103,26 +14089,10 @@ dnsd.nic.realtor.	0	IN	A	156.154.103.3
 dnsd.nic.realtor.	0	IN	AAAA	2610:a1:1010::3
 realty.	0	IN	NS	ns01.trs-dns.com.
 realty.	0	IN	NS	ns01.trs-dns.net.
-realty.	0	IN	NS	v0n0.nic.realty.
-realty.	0	IN	NS	v0n1.nic.realty.
-realty.	0	IN	NS	v0n2.nic.realty.
-realty.	0	IN	NS	v0n3.nic.realty.
-realty.	0	IN	NS	v2n0.nic.realty.
-realty.	0	IN	NS	v2n1.nic.realty.
+realty.	0	IN	NS	ns01.trs-dns.org.
+realty.	0	IN	NS	ns01.trs-dns.info.
 realty.	0	IN	DS	5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
 realty.	0	IN	DS	21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
-v0n0.nic.realty.	0	IN	A	65.22.24.42
-v0n0.nic.realty.	0	IN	AAAA	2a01:8840:1a::42
-v0n1.nic.realty.	0	IN	A	65.22.25.42
-v0n1.nic.realty.	0	IN	AAAA	2a01:8840:1b::42
-v0n2.nic.realty.	0	IN	A	65.22.26.42
-v0n2.nic.realty.	0	IN	AAAA	2a01:8840:1c::42
-v0n3.nic.realty.	0	IN	A	161.232.12.42
-v0n3.nic.realty.	0	IN	AAAA	2a01:8840:f6::42
-v2n0.nic.realty.	0	IN	A	65.22.27.42
-v2n0.nic.realty.	0	IN	AAAA	2a01:8840:1d::42
-v2n1.nic.realty.	0	IN	A	161.232.13.42
-v2n1.nic.realty.	0	IN	AAAA	2a01:8840:f7::42
 recipes.	0	IN	NS	v0n0.nic.recipes.
 recipes.	0	IN	NS	v0n1.nic.recipes.
 recipes.	0	IN	NS	v0n2.nic.recipes.
