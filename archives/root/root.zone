@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024013001 1 1 49f84c06f937e4354779ce79c0fab9c3da9475f58f7a87ee97a46a27d7ae12b512e08669c811f66f13ffba19bd66788d
+.	0	IN	ZONEMD	2024013002 1 1 dc0faa4acc152b38f318b6629a3ee7547e5f74b0bb4369b9a3b7296853ce7a974c882a0a8fddf4752dabd49312a44f82
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10279,22 +10279,12 @@ v2n0.nic.loans.	0	IN	A	65.22.27.55
 v2n0.nic.loans.	0	IN	AAAA	2a01:8840:1d::55
 v2n1.nic.loans.	0	IN	A	161.232.13.55
 v2n1.nic.loans.	0	IN	AAAA	2a01:8840:f7::55
-locker.	0	IN	NS	a0.nic.locker.
-locker.	0	IN	NS	a2.nic.locker.
-locker.	0	IN	NS	b0.nic.locker.
-locker.	0	IN	NS	c0.nic.locker.
 locker.	0	IN	NS	ns01.trs-dns.com.
 locker.	0	IN	NS	ns01.trs-dns.net.
+locker.	0	IN	NS	ns01.trs-dns.org.
+locker.	0	IN	NS	ns01.trs-dns.info.
 locker.	0	IN	DS	6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
 locker.	0	IN	DS	12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
-a0.nic.locker.	0	IN	A	65.22.96.33
-a0.nic.locker.	0	IN	AAAA	2a01:8840:5e::33
-a2.nic.locker.	0	IN	A	65.22.99.33
-a2.nic.locker.	0	IN	AAAA	2a01:8840:61::33
-b0.nic.locker.	0	IN	A	65.22.97.33
-b0.nic.locker.	0	IN	AAAA	2a01:8840:5f::33
-c0.nic.locker.	0	IN	A	65.22.98.33
-c0.nic.locker.	0	IN	AAAA	2a01:8840:60::33
 locus.	0	IN	NS	dns1.nic.locus.
 locus.	0	IN	NS	dns2.nic.locus.
 locus.	0	IN	NS	dns3.nic.locus.
