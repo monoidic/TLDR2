@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024012901 1 1 6e89085aafec58b91b5ff06ed98a77aa020e2e52a7900662e9814d7c465af6c678aefdd4c0b87008415cd659e704bd8b
+.	0	IN	ZONEMD	2024013000 1 1 b0940813f58c120ad7a97716bf9a49b9fecf577d911522964e0b9a4d685742e1186b9129bdf6b5c02ba98b8aaa9b850f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -11790,6 +11790,8 @@ ns.cernet.net.	0	IN	A	202.112.0.44
 e.ci-servers.net.	0	IN	A	204.61.216.74
 e.ci-servers.net.	0	IN	AAAA	2001:500:14:6074:ad::1
 lk.communitydns.net.	0	IN	A	194.0.1.27
+ph.communitydns.net.	0	IN	A	194.0.1.23
+ph.communitydns.net.	0	IN	AAAA	2001:678:4::17
 l.de.net.	0	IN	A	77.67.63.105
 l.de.net.	0	IN	AAAA	2001:668:1f:11::105
 n.de.net.	0	IN	A	194.146.107.6
@@ -13094,6 +13096,8 @@ ns1.unitech.ac.pg.	0	IN	A	202.1.32.49
 ns1.tiare.net.pg.	0	IN	A	202.165.192.23
 ns2.tiare.net.pg.	0	IN	A	202.165.192.24
 ph.	0	IN	NS	1.ns.ph.
+ph.	0	IN	NS	ph.communitydns.net.
+ph.	0	IN	NS	ns2.cuhk.edu.hk.
 ph.	0	IN	NS	ns4.apnic.net.
 ph.	0	IN	DS	29122 13 2 0ed5c93074522f903dbb7fbad2866cbe7cb67f15f0e5b54013340b57c1bcd509
 1.ns.ph.	0	IN	A	206.51.255.1
@@ -17774,12 +17778,14 @@ ns7.uz.	0	IN	A	104.238.81.247
 ns8.uz.	0	IN	A	91.212.89.233
 va.	0	IN	NS	a.nic.va.
 va.	0	IN	NS	b.nic.va.
+va.	0	IN	NS	c.nic.va.
 va.	0	IN	NS	va.cctld.authdns.ripe.net.
 va.	0	IN	NS	dns.nic.it.
 va.	0	IN	NS	seth.namex.it.
 va.	0	IN	NS	osiris.namex.it.
 a.nic.va.	0	IN	A	212.77.0.110
 b.nic.va.	0	IN	A	212.77.0.2
+c.nic.va.	0	IN	A	212.77.2.58
 vacations.	0	IN	NS	v0n0.nic.vacations.
 vacations.	0	IN	NS	v0n1.nic.vacations.
 vacations.	0	IN	NS	v0n2.nic.vacations.
