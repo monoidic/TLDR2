@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024013101 1 1 4227b11ae6e5cb832ef9c34796a4008bf86b978a9f8e37ac6cea501ba3d06bc18c3ea110b183ce8ad0b355ce0b43f816
+.	0	IN	ZONEMD	2024013102 1 1 bdab917e355628b15da7ffb9367202c7cb68648c0916359ac68b58be8b766b6f2bd18a77ded6f78e45d511971c36e285
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1139,8 +1139,7 @@ audio.	0	IN	NS	a.nic.audio.
 audio.	0	IN	NS	b.nic.audio.
 audio.	0	IN	NS	c.nic.audio.
 audio.	0	IN	NS	d.nic.audio.
-audio.	0	IN	DS	10807 5 2 859c5604b1a595b5e139d2904314e6e5eee152ace825a74eca32a3e1290f178c
-audio.	0	IN	DS	18854 5 2 562d2e5b20d9c10415f3949c6c73452e79def813cdb9cd4cdddd0576549f2e3c
+audio.	0	IN	DS	12469 13 2 6673f52c4723441eb134383895d5e984798679cb532730038373724eb0639a69
 a.nic.audio.	0	IN	A	194.169.218.150
 a.nic.audio.	0	IN	AAAA	2001:67c:13cc::1:150
 b.nic.audio.	0	IN	A	185.24.64.150
@@ -1197,8 +1196,7 @@ auto.	0	IN	NS	a.nic.auto.
 auto.	0	IN	NS	b.nic.auto.
 auto.	0	IN	NS	c.nic.auto.
 auto.	0	IN	NS	d.nic.auto.
-auto.	0	IN	DS	31003 5 2 27ae8805c09506a8cd6f0fc2646f9a1a3243451e22a2505fde18528f7b781965
-auto.	0	IN	DS	41492 5 2 01b3b92918b955d84a70f1bc254513d6fd90a33e8ababc0aafcf8830ac259c2c
+auto.	0	IN	DS	2612 13 2 5879176e57425ebe6945b1c4bbc9ae0404faf7eb8c216d23e8eb4b232c861d6e
 a.nic.auto.	0	IN	A	194.169.218.131
 a.nic.auto.	0	IN	AAAA	2001:67c:13cc::1:131
 b.nic.auto.	0	IN	A	185.24.64.131
@@ -2810,8 +2808,7 @@ car.	0	IN	NS	a.nic.car.
 car.	0	IN	NS	b.nic.car.
 car.	0	IN	NS	c.nic.car.
 car.	0	IN	NS	d.nic.car.
-car.	0	IN	DS	6293 5 2 519d12765966b6f6e6be8236b0a6510b86025fdc7bcbaa1630b8632a9471a4d3
-car.	0	IN	DS	16259 5 2 bc816389b1d6b0831de8e821b27fec0370411ebfeb847ed855ff23ccf7488b70
+car.	0	IN	DS	35548 13 2 1d24872ac7b4db0623a7cb937fe46d53734f43301c4964136bb2bbbb8f5faeb7
 a.nic.car.	0	IN	A	194.169.218.130
 a.nic.car.	0	IN	AAAA	2001:67c:13cc::1:130
 b.nic.car.	0	IN	A	185.24.64.130
@@ -2925,8 +2922,7 @@ cars.	0	IN	NS	a.nic.cars.
 cars.	0	IN	NS	b.nic.cars.
 cars.	0	IN	NS	c.nic.cars.
 cars.	0	IN	NS	d.nic.cars.
-cars.	0	IN	DS	15952 5 2 889fee9cd026e16cf5a773eb507089a89d8184252c51ee5d9199fef1c7dfc5e5
-cars.	0	IN	DS	26272 5 2 8253077194f36991396ac49542ed2be77d88e972d5abdb0d832f2d5cd2c7f71a
+cars.	0	IN	DS	44409 13 2 eb9a6c7f48dcf471a448ae5b507bf2dfe211f89da55792f1a23e2218e37699e4
 a.nic.cars.	0	IN	A	194.169.218.129
 a.nic.cars.	0	IN	AAAA	2001:67c:13cc::1:129
 b.nic.cars.	0	IN	A	185.24.64.129
@@ -3191,7 +3187,7 @@ cfd.	0	IN	NS	b.nic.cfd.
 cfd.	0	IN	NS	c.nic.cfd.
 cfd.	0	IN	NS	d.nic.cfd.
 cfd.	0	IN	DS	10525 8 2 42fd41d6533ac785ef64cf9bd36b16463c5a161da2af25ec08c114b40e82f2d8
-cfd.	0	IN	DS	27333 8 2 63f199e72594324007d15c0b77b25f4c643e07f0064eaadf08341287856571aa
+cfd.	0	IN	DS	27596 8 2 56e8c3051413f1831469b223bd4d9761f95d42c821bf84f1ba1c311be7521316
 a.nic.cfd.	0	IN	A	194.169.218.122
 a.nic.cfd.	0	IN	AAAA	2001:67c:13cc::1:122
 b.nic.cfd.	0	IN	A	185.24.64.122
@@ -3339,8 +3335,7 @@ christmas.	0	IN	NS	a.nic.christmas.
 christmas.	0	IN	NS	b.nic.christmas.
 christmas.	0	IN	NS	c.nic.christmas.
 christmas.	0	IN	NS	d.nic.christmas.
-christmas.	0	IN	DS	13517 5 2 e8212a8f2d441b9ee926d61de1daff640cc95fc82a684ac5008361287faf26c7
-christmas.	0	IN	DS	23941 5 2 31b3839a387cf1c59f5a9fd953e54c7d5852606c0b20e86281148b6d4aaac042
+christmas.	0	IN	DS	2330 13 2 06a2f220cec0ff0e52c7fb8f8b29ef509972660eb630eec8b18ef66b9c0433b6
 a.nic.christmas.	0	IN	A	194.169.218.153
 a.nic.christmas.	0	IN	AAAA	2001:67c:13cc::1:153
 b.nic.christmas.	0	IN	A	185.24.64.153
@@ -4935,8 +4930,7 @@ diet.	0	IN	NS	a.nic.diet.
 diet.	0	IN	NS	b.nic.diet.
 diet.	0	IN	NS	c.nic.diet.
 diet.	0	IN	NS	d.nic.diet.
-diet.	0	IN	DS	23008 5 2 eccd035c5161e72f32d2bf6b9364c8bba91382f913734f9aaec3c4511fcff031
-diet.	0	IN	DS	35167 5 2 64ece39f08b2542cfd13d6c484e25f29b2bb29fba98e082dd5294f9011f73020
+diet.	0	IN	DS	21867 13 2 2c0a937c6b26d322943537b3322f0b09c5ad21029b9f0567eb8e46b467006930
 a.nic.diet.	0	IN	A	194.169.218.145
 a.nic.diet.	0	IN	AAAA	2001:67c:13cc::1:145
 b.nic.diet.	0	IN	A	185.24.64.145
@@ -6355,8 +6349,7 @@ flowers.	0	IN	NS	a.nic.flowers.
 flowers.	0	IN	NS	b.nic.flowers.
 flowers.	0	IN	NS	c.nic.flowers.
 flowers.	0	IN	NS	d.nic.flowers.
-flowers.	0	IN	DS	11746 5 2 d3d6c0d4a9e2e40e92da8203b7ee72a80ce3b9220fb51b212c6cb25a1b886d5e
-flowers.	0	IN	DS	63022 5 2 bd763df49e0f4891cb1921b4baa6a27f6eb847750a3371a7006f56240db9dcd1
+flowers.	0	IN	DS	10590 13 2 d831e687aafb8d324b01f56658815aa816e56f2e5c2ea0e033421c3da884a4da
 a.nic.flowers.	0	IN	A	194.169.218.154
 a.nic.flowers.	0	IN	AAAA	2001:67c:13cc::1:154
 b.nic.flowers.	0	IN	A	185.24.64.154
@@ -6841,8 +6834,7 @@ game.	0	IN	NS	a.nic.game.
 game.	0	IN	NS	b.nic.game.
 game.	0	IN	NS	c.nic.game.
 game.	0	IN	NS	d.nic.game.
-game.	0	IN	DS	32929 5 2 c7602f661849ef5422cb5e5d7ccc91e7ea8344c7fd20f0e43a198cc699ec895c
-game.	0	IN	DS	42706 5 2 41c8e18ecf3f01be8cd4076ff8cd12b860a2778c43594f3dbb2216a4604fa158
+game.	0	IN	DS	5155 13 2 684c2f8e41f67ed183c79321501f2a85674dc1e87c9ad293a6fff6dfe6efc296
 a.nic.game.	0	IN	A	194.169.218.147
 a.nic.game.	0	IN	AAAA	2001:67c:13cc::1:147
 b.nic.game.	0	IN	A	185.24.64.147
@@ -7593,8 +7585,7 @@ guitars.	0	IN	NS	a.nic.guitars.
 guitars.	0	IN	NS	b.nic.guitars.
 guitars.	0	IN	NS	c.nic.guitars.
 guitars.	0	IN	NS	d.nic.guitars.
-guitars.	0	IN	DS	17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
-guitars.	0	IN	DS	23659 5 2 99f33e599c880beaec772a4808054b48d7f478daf77cdb2463be9445751f39d2
+guitars.	0	IN	DS	4948 13 2 3f73ef405d928384f01091e557279473bb46fd506d83e22d22a51a385aad6997
 a.nic.guitars.	0	IN	A	194.169.218.149
 a.nic.guitars.	0	IN	AAAA	2001:67c:13cc::1:149
 b.nic.guitars.	0	IN	A	185.24.64.149
@@ -8067,8 +8058,7 @@ hosting.	0	IN	NS	a.nic.hosting.
 hosting.	0	IN	NS	b.nic.hosting.
 hosting.	0	IN	NS	c.nic.hosting.
 hosting.	0	IN	NS	d.nic.hosting.
-hosting.	0	IN	DS	8224 5 2 513b59be5d421c451f67e712b8e16f07bac0cbde3c6f666d03a12d409fbcc193
-hosting.	0	IN	DS	46927 5 2 74803c2bbeebc8d188832c4054b3fd230f31f593e3f5432f7fbcd860e3cb7ed5
+hosting.	0	IN	DS	52534 13 2 38a38b0f45035c80e0b34bdc83bcae96113866ed2e5321486dbcb4b981303b01
 a.nic.hosting.	0	IN	A	194.169.218.152
 a.nic.hosting.	0	IN	AAAA	2001:67c:13cc::1:152
 b.nic.hosting.	0	IN	A	185.24.64.152
@@ -10231,8 +10221,7 @@ llp.	0	IN	NS	a.nic.llp.
 llp.	0	IN	NS	b.nic.llp.
 llp.	0	IN	NS	c.nic.llp.
 llp.	0	IN	NS	d.nic.llp.
-llp.	0	IN	DS	16200 7 2 0d84d15bf51c1a1c7eac512663c58bffddb5cb5e3aa960399d551754a471870e
-llp.	0	IN	DS	24513 7 2 bbfa31f25c3737e0a4ac25ff09c2f8335ad065472cd187e6d4209a84327f158b
+llp.	0	IN	DS	10892 13 2 ea4556a4924c169b1dd2e0cbf16c6b63c7e71d2c33be3f70a5212ea6f3677246
 a.nic.llp.	0	IN	A	194.169.218.157
 a.nic.llp.	0	IN	AAAA	2001:67c:13cc::1:157
 b.nic.llp.	0	IN	A	185.24.64.157
@@ -10314,8 +10303,7 @@ lol.	0	IN	NS	a.nic.lol.
 lol.	0	IN	NS	b.nic.lol.
 lol.	0	IN	NS	c.nic.lol.
 lol.	0	IN	NS	d.nic.lol.
-lol.	0	IN	DS	33368 5 2 775a315a5cff32bd9231a1b105acbb6677418bfca6746ee1b6d5a469e5e042f6
-lol.	0	IN	DS	54097 5 2 efc57a65d9c270370a1dc1f6a3de157c6f09032864e976ac5bbb1710c6bc6779
+lol.	0	IN	DS	60144 13 2 7cc10bb99e7070753445d1d12b7781256198ac40f7409a2e81f43c68df7655b2
 a.nic.lol.	0	IN	A	194.169.218.146
 a.nic.lol.	0	IN	AAAA	2001:67c:13cc::1:146
 b.nic.lol.	0	IN	A	185.24.64.146
@@ -11263,8 +11251,7 @@ mom.	0	IN	NS	a.nic.mom.
 mom.	0	IN	NS	b.nic.mom.
 mom.	0	IN	NS	c.nic.mom.
 mom.	0	IN	NS	d.nic.mom.
-mom.	0	IN	DS	11348 5 2 97ffc26796c7b2a683048b7cf0bcecf3c54d00b0de377b54d7c7eeedeb2ea8b5
-mom.	0	IN	DS	47116 5 2 e7f03544d66036292dbe72a766ad86063ddb9436822a835866d2de4aeab4ed86
+mom.	0	IN	DS	9760 13 2 56259df0f4a8b713477be72cab60f621dabe130e3848bd0a8f1627f585d15072
 a.nic.mom.	0	IN	A	194.169.218.148
 a.nic.mom.	0	IN	AAAA	2001:67c:13cc::1:148
 b.nic.mom.	0	IN	A	185.24.64.148
@@ -11316,8 +11303,7 @@ monster.	0	IN	NS	a.nic.monster.
 monster.	0	IN	NS	b.nic.monster.
 monster.	0	IN	NS	c.nic.monster.
 monster.	0	IN	NS	d.nic.monster.
-monster.	0	IN	DS	5424 7 2 da186653115848222ee43c4276919654e43fbde898dea7f1a7a7011a09158ff0
-monster.	0	IN	DS	56230 7 2 7de5a740d6e45c95c348209c877cb97736350694e595608da72a0645960937ce
+monster.	0	IN	DS	27704 13 2 512d954e99f6d9f1e5a007a5a005b6b542284af872ea2dc3f1f79ad013cdff50
 a.nic.monster.	0	IN	A	194.169.218.83
 a.nic.monster.	0	IN	AAAA	2001:67c:13cc::1:83
 b.nic.monster.	0	IN	A	185.24.64.83
@@ -12051,8 +12037,6 @@ ns5.uniregistry.net.	0	IN	AAAA	2001:500:14:7002:ad::1
 ns.uu.net.	0	IN	A	137.39.1.3
 auth00.ns.uu.net.	0	IN	A	198.6.1.65
 auth02.ns.uu.net.	0	IN	A	198.6.1.82
-auth100.ns.uu.net.	0	IN	A	198.6.1.202
-auth110.ns.uu.net.	0	IN	A	198.6.1.114
 auth61.ns.uu.net.	0	IN	A	198.6.1.182
 netbank.	0	IN	NS	a.nic.netbank.
 netbank.	0	IN	NS	b.nic.netbank.
@@ -13235,8 +13219,7 @@ pics.	0	IN	NS	a.nic.pics.
 pics.	0	IN	NS	b.nic.pics.
 pics.	0	IN	NS	c.nic.pics.
 pics.	0	IN	NS	d.nic.pics.
-pics.	0	IN	DS	3458 5 2 a32c380766b5205f998872b8187a99ac5027872da54b0ddec2edfbefc6279b89
-pics.	0	IN	DS	53818 5 2 9c1c58b3166f317db4aff5e4a56fca7ae4e52c20306ec758133690b153c58227
+pics.	0	IN	DS	35457 13 2 5c51e30fb24690462119a205ba0de9a3ad9742ec1e598eed93eaf240b9c170c4
 a.nic.pics.	0	IN	A	194.169.218.151
 a.nic.pics.	0	IN	AAAA	2001:67c:13cc::1:151
 b.nic.pics.	0	IN	A	185.24.64.151
@@ -15365,10 +15348,8 @@ sfr.	0	IN	NS	a.nic.sfr.
 sfr.	0	IN	NS	b.nic.sfr.
 sfr.	0	IN	NS	c.nic.sfr.
 sfr.	0	IN	NS	d.nic.sfr.
-sfr.	0	IN	DS	7923 7 1 e348a086a9bc4c214c16fc529e64bbee506739c4
-sfr.	0	IN	DS	7923 7 2 e3b4e6b0b3447c29949813283b4308546b1bb895fa1e2a39364f918be581bf01
-sfr.	0	IN	DS	51274 7 1 bf4509a051e4cb1206784fb08211043be36a495b
-sfr.	0	IN	DS	51274 7 2 4be38a9fc56f65e77125940e4ffdaccffc39380f3e74bca025b0206eb8e8628d
+sfr.	0	IN	DS	25496 13 2 7516102f6d1f3343dabe0533df34c30b3f189dae89d61f691078ddc753653d9c
+sfr.	0	IN	DS	58083 13 2 14a8a386f7a03b845ebd3b58aa143b9a558bb1a93eb8bb121c03291dd6d537e6
 a.nic.sfr.	0	IN	A	194.169.218.100
 a.nic.sfr.	0	IN	AAAA	2001:67c:13cc::1:100
 b.nic.sfr.	0	IN	A	185.24.64.100
@@ -16149,7 +16130,7 @@ storage.	0	IN	NS	a.nic.storage.
 storage.	0	IN	NS	b.nic.storage.
 storage.	0	IN	NS	c.nic.storage.
 storage.	0	IN	NS	d.nic.storage.
-storage.	0	IN	DS	50476 7 1 ad942d7faef7c429fee5497a67162643e96e1841
+storage.	0	IN	DS	7498 7 2 67d97de0482b8a801916d91dda71213fe03483a3bb83125038639a1635fcc1c5
 storage.	0	IN	DS	50476 7 2 bf2260b22c8c9630dc3e5ce22130c4fb97edd6b27805a05f8f526b951b465156
 a.nic.storage.	0	IN	A	194.169.218.55
 a.nic.storage.	0	IN	AAAA	2001:67c:13cc::1:55
@@ -17916,8 +17897,6 @@ d.nic.vg.	0	IN	A	212.18.249.104
 d.nic.vg.	0	IN	AAAA	2a04:2b00:13ff::104
 vi.	0	IN	NS	ns3.nic.vi.
 vi.	0	IN	NS	pch.nic.vi.
-vi.	0	IN	NS	auth100.ns.uu.net.
-vi.	0	IN	NS	auth110.ns.uu.net.
 ns3.nic.vi.	0	IN	A	185.17.236.230
 pch.nic.vi.	0	IN	A	204.61.216.133
 pch.nic.vi.	0	IN	AAAA	2001:500:14:6133:ad::1
