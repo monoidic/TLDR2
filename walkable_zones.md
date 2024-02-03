@@ -9,6 +9,7 @@
 * `br.`
 * `bt.`
 * `car.`
+* `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -17,13 +18,16 @@
 * `ee.`
 * `er.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `ir.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -35,6 +39,8 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
