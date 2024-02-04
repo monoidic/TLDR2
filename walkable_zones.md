@@ -13,7 +13,6 @@
 * `ch.`
 * `christmas.`
 * `ci.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -40,7 +39,6 @@
 * `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `xn--54b7fta0cc.`
