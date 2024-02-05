@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020501 1 1 266dcc423e0b463dc1773323d14066435821964f452d07a62663462d1005c26b14c8963381d4e7bfb5486afaa4077a42
+.	0	IN	ZONEMD	2024020502 1 1 8afe77d09ef3420901a1958bc57b8603dd0291db636bb029161dd31c774c52ad7ddeb001ed3ecdf2d4a23f57a7177316
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8399,7 +8399,6 @@ il.	0	IN	NS	nse.ns.il.
 il.	0	IN	NS	ilns.ilan.net.il.
 il.	0	IN	NS	lookup.iucc.ac.il.
 il.	0	IN	DS	16654 13 2 8eae70e9a2b930ed77e52c80b924add6925166081c8aabcd7023311d769bcebb
-il.	0	IN	DS	61239 13 2 728d9059778c0fadff197f462ed5539db1cf1f541e2ac7b0ef18735c8555645d
 lookup.iucc.ac.il.	0	IN	A	128.139.34.240
 lookup.iucc.ac.il.	0	IN	AAAA	2001:bf8:900:6::808b:22f0
 ilns.ilan.net.il.	0	IN	A	128.139.35.5
@@ -13806,8 +13805,8 @@ ps.	0	IN	NS	dns1.gov.ps.
 ps.	0	IN	NS	fork.sth.dnsnode.net.
 ps.	0	IN	NS	ps-ns.anycast.pch.net.
 dns1.gov.ps.	0	IN	A	213.244.82.147
-dns3.gov.ps.	0	IN	A	212.14.253.242
-idn.pnina.ps.	0	IN	A	208.64.68.4
+dns3.gov.ps.	0	IN	A	185.153.163.3
+idn.pnina.ps.	0	IN	A	208.64.68.60
 ns1.pnina.ps.	0	IN	A	194.6.225.20
 pt.	0	IN	NS	a.dns.pt.
 pt.	0	IN	NS	b.dns.pt.
@@ -20280,10 +20279,13 @@ xn--yfro4i67o.	0	IN	NS	dsany.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany2.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany3.sgnic.sg.
 xn--yfro4i67o.	0	IN	DS	52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
+xn--ygbi2ammx.	0	IN	NS	ps.cctld.authdns.ripe.net.
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	dns1.gov.ps.
 xn--ygbi2ammx.	0	IN	NS	dns3.gov.ps.
+xn--ygbi2ammx.	0	IN	NS	fork.sth.dnsnode.net.
+xn--ygbi2ammx.	0	IN	NS	ps-ns.anycast.pch.net.
 xn--zfr164b.	0	IN	NS	ns1.conac.cn.
 xn--zfr164b.	0	IN	NS	ns2.conac.cn.
 xn--zfr164b.	0	IN	NS	ns3.conac.cn.
