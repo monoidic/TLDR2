@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020600 1 1 9cc44780784a5ae4bba99fb4d8674bb137f755567f257e35f3f1866ecf2a13d79099a800357534b58f25b1f6a77359b4
+.	0	IN	ZONEMD	2024020601 1 1 eff4efa845199792c978630806d8fb6045ce08d6834f4fbe680a7d8f598c0b7fb708aea8be39c77e0bdc66973ff00b67
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -6541,8 +6541,6 @@ fr.	0	IN	NS	e.ext.nic.fr.
 fr.	0	IN	NS	f.ext.nic.fr.
 fr.	0	IN	NS	g.ext.nic.fr.
 fr.	0	IN	DS	29133 13 2 1303e8da8fb60db500d5bea1ee5dc9a2bcc93dfe2fc43d346576658feccf5749
-ns.cocca.fr.	0	IN	A	185.17.236.93
-ns.cocca.fr.	0	IN	AAAA	2a03:dd40:3::93
 dns.inria.fr.	0	IN	A	193.51.208.13
 dns-tld.ird.fr.	0	IN	A	13.39.116.127
 d.nic.fr.	0	IN	A	194.0.9.1
@@ -9385,9 +9383,13 @@ kh.	0	IN	NS	dns1.online.com.kh.
 ns.camnet.com.kh.	0	IN	A	203.223.32.3
 dns1.online.com.kh.	0	IN	A	203.189.128.1
 ns1.dns.net.kh.	0	IN	A	203.223.32.21
-ki.	0	IN	NS	ns.cocca.fr.
 ki.	0	IN	NS	pch.nic.ki.
+ki.	0	IN	NS	anycastdns1.nic.ki.
+ki.	0	IN	NS	anycastdns2.nic.ki.
 ki.	0	IN	DS	59540 8 2 fd3b27e5c171b883fe2815dde7fbbe7f2e5af826bff47c33b5970f53e2a855de
+anycastdns1.nic.ki.	0	IN	A	185.38.108.108
+anycastdns1.nic.ki.	0	IN	AAAA	2a00:fea0:dead::beef
+anycastdns2.nic.ki.	0	IN	A	185.28.194.194
 pch.nic.ki.	0	IN	A	204.61.216.26
 pch.nic.ki.	0	IN	AAAA	2001:500:14:6026:ad::1
 kia.	0	IN	NS	a.gmoregistry.net.
@@ -9834,14 +9836,16 @@ v2n0.nic.lawyer.	0	IN	A	65.22.27.14
 v2n0.nic.lawyer.	0	IN	AAAA	2a01:8840:1d::14
 v2n1.nic.lawyer.	0	IN	A	161.232.13.14
 v2n1.nic.lawyer.	0	IN	AAAA	2a01:8840:f7::14
+lb.	0	IN	NS	b.ns.lb.
 lb.	0	IN	NS	nn.uninett.no.
 lb.	0	IN	NS	ns3.seacomnet.com.
 lb.	0	IN	NS	ns4.seacomnet.com.
-lb.	0	IN	NS	rip.psg.com.
 lb.	0	IN	NS	fork.sth.dnsnode.net.
 lb.	0	IN	NS	nabil.beirutix.net.
 lb.	0	IN	NS	ns-jp.lbdr.org.lb.
 lb.	0	IN	DS	3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
+b.ns.lb.	0	IN	A	147.28.0.39
+b.ns.lb.	0	IN	AAAA	2001:418:1::39
 ns-jp.lbdr.org.lb.	0	IN	A	203.178.141.64
 ns-jp.lbdr.org.lb.	0	IN	AAAA	2001:200:0:2::53:1
 lc.	0	IN	NS	a0.cctld.afilias-nst.info.
