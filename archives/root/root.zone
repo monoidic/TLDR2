@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020601 1 1 eff4efa845199792c978630806d8fb6045ce08d6834f4fbe680a7d8f598c0b7fb708aea8be39c77e0bdc66973ff00b67
+.	0	IN	ZONEMD	2024020700 1 1 4c5fe6f72fe0466dd477d6711255a645aceee13fc05153057febeca5ca9d5e08e1d3995e55514cd697d139dcdc4586eb
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3908,31 +3908,6 @@ f.zdnscloud.com.	0	IN	A	114.67.16.204
 g.zdnscloud.com.	0	IN	A	42.62.2.16
 i.zdnscloud.com.	0	IN	AAAA	2401:8d00:1::1
 j.zdnscloud.com.	0	IN	AAAA	2401:8d00:2::1
-comcast.	0	IN	NS	dns1.nic.comcast.
-comcast.	0	IN	NS	dns2.nic.comcast.
-comcast.	0	IN	NS	dns3.nic.comcast.
-comcast.	0	IN	NS	dns4.nic.comcast.
-comcast.	0	IN	NS	dnsa.nic.comcast.
-comcast.	0	IN	NS	dnsb.nic.comcast.
-comcast.	0	IN	NS	dnsc.nic.comcast.
-comcast.	0	IN	NS	dnsd.nic.comcast.
-comcast.	0	IN	DS	21809 8 2 10e13e49f33ed1e42ca5d829093548118280d27664eb9db6b52956189b5dbc67
-dns1.nic.comcast.	0	IN	A	213.248.219.6
-dns1.nic.comcast.	0	IN	AAAA	2a01:618:403::6
-dns2.nic.comcast.	0	IN	A	103.49.83.6
-dns2.nic.comcast.	0	IN	AAAA	2401:fd80:403::6
-dns3.nic.comcast.	0	IN	A	213.248.223.6
-dns3.nic.comcast.	0	IN	AAAA	2a01:618:407::6
-dns4.nic.comcast.	0	IN	A	43.230.51.6
-dns4.nic.comcast.	0	IN	AAAA	2401:fd80:407::6
-dnsa.nic.comcast.	0	IN	A	156.154.100.3
-dnsa.nic.comcast.	0	IN	AAAA	2001:502:ad09::3
-dnsb.nic.comcast.	0	IN	A	156.154.101.3
-dnsb.nic.comcast.	0	IN	AAAA	2001:502:2eda::3
-dnsc.nic.comcast.	0	IN	A	156.154.102.3
-dnsc.nic.comcast.	0	IN	AAAA	2610:a1:1009::3
-dnsd.nic.comcast.	0	IN	A	156.154.103.3
-dnsd.nic.comcast.	0	IN	AAAA	2610:a1:1010::3
 commbank.	0	IN	NS	a.nic.commbank.
 commbank.	0	IN	NS	b.nic.commbank.
 commbank.	0	IN	NS	c.nic.commbank.
@@ -18877,31 +18852,6 @@ y.nic.xerox.	0	IN	A	156.154.173.82
 y.nic.xerox.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.xerox.	0	IN	A	156.154.174.82
 z.nic.xerox.	0	IN	AAAA	2610:a1:1076::1:82
-xfinity.	0	IN	NS	dns1.nic.xfinity.
-xfinity.	0	IN	NS	dns2.nic.xfinity.
-xfinity.	0	IN	NS	dns3.nic.xfinity.
-xfinity.	0	IN	NS	dns4.nic.xfinity.
-xfinity.	0	IN	NS	dnsa.nic.xfinity.
-xfinity.	0	IN	NS	dnsb.nic.xfinity.
-xfinity.	0	IN	NS	dnsc.nic.xfinity.
-xfinity.	0	IN	NS	dnsd.nic.xfinity.
-xfinity.	0	IN	DS	42454 8 2 c4d6cfeb973503edaa89943505206bf8c406fc92c80abad132318165aa1cb445
-dns1.nic.xfinity.	0	IN	A	213.248.219.7
-dns1.nic.xfinity.	0	IN	AAAA	2a01:618:403::7
-dns2.nic.xfinity.	0	IN	A	103.49.83.7
-dns2.nic.xfinity.	0	IN	AAAA	2401:fd80:403::7
-dns3.nic.xfinity.	0	IN	A	213.248.223.7
-dns3.nic.xfinity.	0	IN	AAAA	2a01:618:407::7
-dns4.nic.xfinity.	0	IN	A	43.230.51.7
-dns4.nic.xfinity.	0	IN	AAAA	2401:fd80:407::7
-dnsa.nic.xfinity.	0	IN	A	156.154.100.3
-dnsa.nic.xfinity.	0	IN	AAAA	2001:502:ad09::3
-dnsb.nic.xfinity.	0	IN	A	156.154.101.3
-dnsb.nic.xfinity.	0	IN	AAAA	2001:502:2eda::3
-dnsc.nic.xfinity.	0	IN	A	156.154.102.3
-dnsc.nic.xfinity.	0	IN	AAAA	2610:a1:1009::3
-dnsd.nic.xfinity.	0	IN	A	156.154.103.3
-dnsd.nic.xfinity.	0	IN	AAAA	2610:a1:1010::3
 xihuan.	0	IN	NS	ns1.teleinfo.cn.
 xihuan.	0	IN	NS	ns2.teleinfoo.com.
 xihuan.	0	IN	NS	ns3.teleinfo.cn.
