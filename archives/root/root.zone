@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020702 1 1 309fcd3a2caf428894ca187b12c5dfe7c782674b7fc34ef8fbc6176e8ca2737b6404fc60d2a883036e5ef66ac41c5538
+.	0	IN	ZONEMD	2024020703 1 1 ff86b7356bcb9d59f7ee1a574e00ffc5938d922594484ad6a68a3a450681908fc169dc5ff7f5a4ad222616183e65552d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5038,6 +5038,7 @@ dk.	0	IN	NS	c.nic.dk.
 dk.	0	IN	NS	d.nic.dk.
 dk.	0	IN	NS	h.nic.dk.
 dk.	0	IN	NS	l.nic.dk.
+dk.	0	IN	NS	p.nic.dk.
 dk.	0	IN	NS	s.nic.dk.
 dk.	0	IN	DS	21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
 b.nic.dk.	0	IN	A	193.163.102.222
@@ -5050,6 +5051,8 @@ h.nic.dk.	0	IN	A	46.30.126.214
 h.nic.dk.	0	IN	AAAA	2a00:1b18:1:2::53
 l.nic.dk.	0	IN	A	130.226.213.138
 l.nic.dk.	0	IN	AAAA	2001:878:0:e000:82:e2:d5:8a
+p.nic.dk.	0	IN	A	194.0.47.42
+p.nic.dk.	0	IN	AAAA	2001:678:78:42:ad::53
 s.nic.dk.	0	IN	A	193.176.144.15
 s.nic.dk.	0	IN	AAAA	2a00:d78:0:102:193:176:144:15
 dm.	0	IN	NS	ns.blacknightsolutions.com.
