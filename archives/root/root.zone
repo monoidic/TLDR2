@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020801 1 1 3d16f5485ee6f492dd1eef7577ea5a1d7ebb3108f84cb8b443f3529d96c96f562a9f70bd6ca94243d5a026a64ef23038
+.	0	IN	ZONEMD	2024020802 1 1 109bc71fbd0bed7382f35d21628a67861b152778ff8ee4921ec665cdc1befc9e2084931d70d9fee1c000309f3ad57489
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10922,12 +10922,26 @@ y.nic.menu.	0	IN	A	156.154.173.82
 y.nic.menu.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.menu.	0	IN	A	156.154.174.82
 z.nic.menu.	0	IN	AAAA	2610:a1:1076::1:82
-merckmsd.	0	IN	NS	ac1.nstld.com.
-merckmsd.	0	IN	NS	ac2.nstld.com.
-merckmsd.	0	IN	NS	ac3.nstld.com.
-merckmsd.	0	IN	NS	ac4.nstld.com.
+merckmsd.	0	IN	NS	a.nic.merckmsd.
+merckmsd.	0	IN	NS	b.nic.merckmsd.
+merckmsd.	0	IN	NS	c.nic.merckmsd.
+merckmsd.	0	IN	NS	x.nic.merckmsd.
+merckmsd.	0	IN	NS	y.nic.merckmsd.
+merckmsd.	0	IN	NS	z.nic.merckmsd.
 merckmsd.	0	IN	DS	5134 8 2 f4c8e4ac4a227663517fb28feaa416635cc013ccab079eceda756a89541baaba
 merckmsd.	0	IN	DS	23340 8 2 f6643d8ae9760f8033a5a14b231851cedff97429ef22514cfcb1ba625eac86a4
+a.nic.merckmsd.	0	IN	A	37.209.192.9
+a.nic.merckmsd.	0	IN	AAAA	2001:dcd:1::9
+b.nic.merckmsd.	0	IN	A	37.209.194.9
+b.nic.merckmsd.	0	IN	AAAA	2001:dcd:2::9
+c.nic.merckmsd.	0	IN	A	37.209.196.9
+c.nic.merckmsd.	0	IN	AAAA	2001:dcd:3::9
+x.nic.merckmsd.	0	IN	A	156.154.172.82
+x.nic.merckmsd.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.merckmsd.	0	IN	A	156.154.173.82
+y.nic.merckmsd.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.merckmsd.	0	IN	A	156.154.174.82
+z.nic.merckmsd.	0	IN	AAAA	2610:a1:1076::1:82
 mg.	0	IN	NS	ns.dts.mg.
 mg.	0	IN	NS	ns.nic.mg.
 mg.	0	IN	NS	pch.nic.mg.
@@ -11416,12 +11430,26 @@ ms.	0	IN	NS	a.lactld.org.
 ms.	0	IN	NS	ns1.anycastdns.cz.
 ms.	0	IN	NS	ns2.anycastdns.cz.
 ms.	0	IN	NS	ms-ns.anycast.pch.net.
-msd.	0	IN	NS	ac1.nstld.com.
-msd.	0	IN	NS	ac2.nstld.com.
-msd.	0	IN	NS	ac3.nstld.com.
-msd.	0	IN	NS	ac4.nstld.com.
+msd.	0	IN	NS	a.nic.msd.
+msd.	0	IN	NS	b.nic.msd.
+msd.	0	IN	NS	c.nic.msd.
+msd.	0	IN	NS	x.nic.msd.
+msd.	0	IN	NS	y.nic.msd.
+msd.	0	IN	NS	z.nic.msd.
 msd.	0	IN	DS	23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
 msd.	0	IN	DS	30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
+a.nic.msd.	0	IN	A	37.209.192.9
+a.nic.msd.	0	IN	AAAA	2001:dcd:1::9
+b.nic.msd.	0	IN	A	37.209.194.9
+b.nic.msd.	0	IN	AAAA	2001:dcd:2::9
+c.nic.msd.	0	IN	A	37.209.196.9
+c.nic.msd.	0	IN	AAAA	2001:dcd:3::9
+x.nic.msd.	0	IN	A	156.154.172.82
+x.nic.msd.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.msd.	0	IN	A	156.154.173.82
+y.nic.msd.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.msd.	0	IN	A	156.154.174.82
+z.nic.msd.	0	IN	AAAA	2610:a1:1076::1:82
 mt.	0	IN	NS	a.ns.mt.
 mt.	0	IN	NS	b.ns.mt.
 mt.	0	IN	NS	f.ns.mt.
@@ -14085,20 +14113,16 @@ b0.nic.red.	0	IN	A	65.22.37.25
 b0.nic.red.	0	IN	AAAA	2a01:8840:27::25
 c0.nic.red.	0	IN	A	65.22.38.25
 c0.nic.red.	0	IN	AAAA	2a01:8840:28::25
-redstone.	0	IN	NS	a0.nic.redstone.
-redstone.	0	IN	NS	a2.nic.redstone.
-redstone.	0	IN	NS	b0.nic.redstone.
-redstone.	0	IN	NS	c0.nic.redstone.
+redstone.	0	IN	NS	a.zdnscloud.com.
+redstone.	0	IN	NS	b.zdnscloud.com.
+redstone.	0	IN	NS	c.zdnscloud.com.
+redstone.	0	IN	NS	d.zdnscloud.com.
+redstone.	0	IN	NS	f.zdnscloud.com.
+redstone.	0	IN	NS	g.zdnscloud.com.
+redstone.	0	IN	NS	i.zdnscloud.com.
+redstone.	0	IN	NS	j.zdnscloud.com.
 redstone.	0	IN	DS	49835 8 2 51a6a70d9a7c0f010d09ffaaca9cb6bbbe7fad76fb48fde6f940b606c8cde048
 redstone.	0	IN	DS	55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
-a0.nic.redstone.	0	IN	A	65.22.132.17
-a0.nic.redstone.	0	IN	AAAA	2a01:8840:82::17
-a2.nic.redstone.	0	IN	A	65.22.135.17
-a2.nic.redstone.	0	IN	AAAA	2a01:8840:85::17
-b0.nic.redstone.	0	IN	A	65.22.133.17
-b0.nic.redstone.	0	IN	AAAA	2a01:8840:83::17
-c0.nic.redstone.	0	IN	A	65.22.134.17
-c0.nic.redstone.	0	IN	AAAA	2a01:8840:84::17
 redumbrella.	0	IN	NS	a0.nic.redumbrella.
 redumbrella.	0	IN	NS	a2.nic.redumbrella.
 redumbrella.	0	IN	NS	b0.nic.redumbrella.
