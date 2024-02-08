@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020800 1 1 62afd7ea2439e1767f55f52a38ec8c32d45f601e84ba88d64ebfaa9de33d06b8df7f61fe9b5d993542e8fbe33a767db0
+.	0	IN	ZONEMD	2024020801 1 1 3d16f5485ee6f492dd1eef7577ea5a1d7ebb3108f84cb8b443f3529d96c96f562a9f70bd6ca94243d5a026a64ef23038
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9819,11 +9819,13 @@ lb.	0	IN	NS	nn.uninett.no.
 lb.	0	IN	NS	ns3.seacomnet.com.
 lb.	0	IN	NS	ns4.seacomnet.com.
 lb.	0	IN	NS	fork.sth.dnsnode.net.
-lb.	0	IN	NS	nabil.beirutix.net.
+lb.	0	IN	NS	nabil.ns.lb.
 lb.	0	IN	NS	ns-jp.lbdr.org.lb.
 lb.	0	IN	DS	3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 b.ns.lb.	0	IN	A	147.28.0.39
 b.ns.lb.	0	IN	AAAA	2001:418:1::39
+nabil.ns.lb.	0	IN	A	185.91.97.18
+nabil.ns.lb.	0	IN	AAAA	2a05:e380:2:4::2
 ns-jp.lbdr.org.lb.	0	IN	A	203.178.141.64
 ns-jp.lbdr.org.lb.	0	IN	AAAA	2001:200:0:2::53:1
 lc.	0	IN	NS	a0.cctld.afilias-nst.info.
@@ -11519,6 +11521,7 @@ mx.	0	IN	NS	m.mx-ns.mx.
 mx.	0	IN	NS	o.mx-ns.mx.
 mx.	0	IN	NS	x.mx-ns.mx.
 mx.	0	IN	DS	5714 8 2 f98c2f8fd23ee07ae29137fa6b2ac6bd44be32d684fd06bb894ee307c56700e5
+mx.	0	IN	DS	62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 c.mx-ns.mx.	0	IN	A	192.100.224.1
 c.mx-ns.mx.	0	IN	AAAA	2001:1258::1
 e.mx-ns.mx.	0	IN	A	189.201.244.1
@@ -11736,8 +11739,6 @@ dns-st.bahnhof.net.	0	IN	A	79.136.119.20
 dns-st.bahnhof.net.	0	IN	AAAA	2001:9b0:1:601:250:56ff:feb7:46
 ns1.bahnhof.net.	0	IN	A	195.178.160.2
 ns1.bahnhof.net.	0	IN	AAAA	2001:9b0:1:104:250:56ff:feb7:5c51
-nabil.beirutix.net.	0	IN	A	185.91.97.18
-nabil.beirutix.net.	0	IN	AAAA	2a05:e380:2:4::2
 ns17.cdns.net.	0	IN	A	194.0.1.17
 ns17.cdns.net.	0	IN	AAAA	2001:678:4::11
 ns34.cdns.net.	0	IN	A	194.0.1.34
