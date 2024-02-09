@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024020901 1 1 ab390cb2153466819ba90e3a8047189a5996138f4a29935a31eb2488adff8273c5601c71a2ebef5d1defa9b01520850c
+.	0	IN	ZONEMD	2024020902 1 1 7ad329b6a8c775c6d242de48bd416d07bb43f9de189c3c33520b086dc5d7505bda0ecad0e815794b80a63c6209b0add5
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3889,10 +3889,6 @@ dns.ryce-rsp.com.	0	IN	A	194.0.11.114
 dns.ryce-rsp.com.	0	IN	AAAA	2001:678:e:114::53
 ns1.ryce-rsp.com.	0	IN	A	193.56.204.153
 ns1.ryce-rsp.com.	0	IN	AAAA	2a0c:8f40:0:701::153
-ns3.seacomnet.com.	0	IN	A	41.87.126.253
-ns3.seacomnet.com.	0	IN	AAAA	2c0f:feb0::3
-ns4.seacomnet.com.	0	IN	A	41.87.127.253
-ns4.seacomnet.com.	0	IN	AAAA	2c0f:feb0::4
 ns2.teleinfoo.com.	0	IN	A	103.61.61.1
 ns2.teleinfoo.com.	0	IN	AAAA	2402:7d80:8888::1
 ns4.teleinfoo.com.	0	IN	A	103.61.63.1
@@ -9818,17 +9814,23 @@ v2n0.nic.lawyer.	0	IN	AAAA	2a01:8840:1d::14
 v2n1.nic.lawyer.	0	IN	A	161.232.13.14
 v2n1.nic.lawyer.	0	IN	AAAA	2a01:8840:f7::14
 lb.	0	IN	NS	b.ns.lb.
+lb.	0	IN	NS	i.ns.lb.
+lb.	0	IN	NS	r.ns.lb.
+lb.	0	IN	NS	s.ns.lb.
 lb.	0	IN	NS	nn.uninett.no.
-lb.	0	IN	NS	ns3.seacomnet.com.
-lb.	0	IN	NS	ns4.seacomnet.com.
-lb.	0	IN	NS	fork.sth.dnsnode.net.
 lb.	0	IN	NS	nabil.ns.lb.
 lb.	0	IN	NS	ns-jp.lbdr.org.lb.
 lb.	0	IN	DS	3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 b.ns.lb.	0	IN	A	147.28.0.39
 b.ns.lb.	0	IN	AAAA	2001:418:1::39
+i.ns.lb.	0	IN	A	77.72.229.254
+i.ns.lb.	0	IN	AAAA	2a01:3f0:0:306::53
 nabil.ns.lb.	0	IN	A	185.91.97.18
 nabil.ns.lb.	0	IN	AAAA	2a05:e380:2:4::2
+r.ns.lb.	0	IN	A	105.16.170.1
+r.ns.lb.	0	IN	AAAA	2c0f:feb0:c:1::1:1
+s.ns.lb.	0	IN	A	105.16.115.1
+s.ns.lb.	0	IN	AAAA	2c0f:feb0:2:1::1:8001
 ns-jp.lbdr.org.lb.	0	IN	A	203.178.141.64
 ns-jp.lbdr.org.lb.	0	IN	AAAA	2001:200:0:2::53:1
 lc.	0	IN	NS	a0.cctld.afilias-nst.info.
@@ -19778,6 +19780,7 @@ xn--mgbayh7gpa.	0	IN	NS	amra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	petra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	cloudns.nic.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	jordan1st.nic.gov.jo.
+xn--mgbayh7gpa.	0	IN	DS	58951 7 2 8c351c0a4ca0030b6f43d94050a814c1357e29dc50e98dffc18b25c2921a05a6
 xn--mgbbh1a.	0	IN	NS	ns1.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns2.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns3.registry.in.
