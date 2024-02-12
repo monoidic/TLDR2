@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024021201 1 1 6ed9759e0ada7b8439626f5acfa8d65fbd9b8b6befcf8dd87f0c2cf352868d09267181bbd150bc125371e3884d2fe705
+.	0	IN	ZONEMD	2024021202 1 1 0deddce787b959bf6989ea6b9153ed987621cb0ca584c2e5302bb8cf85baf1e96bc175ee863f914f0d9f950c0b48401f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4235,6 +4235,8 @@ cr.	0	IN	NS	ca2.nic.cr.
 cr.	0	IN	NS	dns.nic.cr.
 cr.	0	IN	DS	10517 13 2 268fb03099e07547620f19a62f101daea146dcee6faaa18263e0b3da4e997d6c
 cr.	0	IN	DS	10517 13 4 11d20d7c408a1f289f6ece30f241ca4beb6abe9d6376e8c6be2fee6400038989ee5c447340a5f2e7676454bbbeabfc95
+cr.	0	IN	DS	41813 13 2 be11bce314a4b75bf0531a7ff312c750813b59a61a868407949ca8d35508fbab
+cr.	0	IN	DS	41813 13 4 2c21e3b22825e9949a37d1201ae64370747765d7f68eef304be8ca8f45c59fd1e9fb4ee788b4d507106b8e1b74b1213b
 ca1.nic.cr.	0	IN	A	185.159.197.100
 ca1.nic.cr.	0	IN	AAAA	2620:10a:80aa::100
 ca2.nic.cr.	0	IN	A	185.159.198.100
@@ -9815,24 +9817,32 @@ v2n1.nic.lawyer.	0	IN	A	161.232.13.14
 v2n1.nic.lawyer.	0	IN	AAAA	2a01:8840:f7::14
 lb.	0	IN	NS	b.ns.lb.
 lb.	0	IN	NS	i.ns.lb.
+lb.	0	IN	NS	m.ns.lb.
+lb.	0	IN	NS	n.ns.lb.
 lb.	0	IN	NS	r.ns.lb.
 lb.	0	IN	NS	s.ns.lb.
-lb.	0	IN	NS	nn.uninett.no.
+lb.	0	IN	NS	t.ns.lb.
+lb.	0	IN	NS	w.ns.lb.
 lb.	0	IN	NS	nabil.ns.lb.
-lb.	0	IN	NS	ns-jp.lbdr.org.lb.
 lb.	0	IN	DS	3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 b.ns.lb.	0	IN	A	147.28.0.39
 b.ns.lb.	0	IN	AAAA	2001:418:1::39
 i.ns.lb.	0	IN	A	77.72.229.254
 i.ns.lb.	0	IN	AAAA	2a01:3f0:0:306::53
+m.ns.lb.	0	IN	A	78.141.235.25
+m.ns.lb.	0	IN	AAAA	2001:19f0:7401:890d:5400:4ff:fea8:9ffa
+n.ns.lb.	0	IN	A	158.38.0.181
+n.ns.lb.	0	IN	AAAA	2001:700:0:503::aa:5302
 nabil.ns.lb.	0	IN	A	185.91.97.18
 nabil.ns.lb.	0	IN	AAAA	2a05:e380:2:4::2
 r.ns.lb.	0	IN	A	105.16.170.1
 r.ns.lb.	0	IN	AAAA	2c0f:feb0:c:1::1:1
 s.ns.lb.	0	IN	A	105.16.115.1
 s.ns.lb.	0	IN	AAAA	2c0f:feb0:2:1::1:8001
-ns-jp.lbdr.org.lb.	0	IN	A	203.178.141.64
-ns-jp.lbdr.org.lb.	0	IN	AAAA	2001:200:0:2::53:1
+t.ns.lb.	0	IN	A	139.84.235.208
+t.ns.lb.	0	IN	AAAA	2a05:f480:3000:205f:5400:4ff:fea4:e565
+w.ns.lb.	0	IN	A	203.178.141.64
+w.ns.lb.	0	IN	AAAA	2001:200:0:2::53:1
 lc.	0	IN	NS	a0.cctld.afilias-nst.info.
 lc.	0	IN	NS	a2.cctld.afilias-nst.info.
 lc.	0	IN	NS	b0.cctld.afilias-nst.org.
