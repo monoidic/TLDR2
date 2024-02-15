@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024021502 1 1 bae5e83ff6744f27c1b1a7f640e3514469b0120d1080d2e014be90e64c2992d630884acf4dde3c46604a537c85552726
+.	0	IN	ZONEMD	2024021503 1 1 2655de8fa9770782f8e748b7c32475eb5fbe9eec4ec89ded5b58420fbbb45453c8997485cd935affe13fa241ddafef0c
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4233,8 +4233,6 @@ cr.	0	IN	NS	de.nic.cr.
 cr.	0	IN	NS	ca1.nic.cr.
 cr.	0	IN	NS	ca2.nic.cr.
 cr.	0	IN	NS	dns.nic.cr.
-cr.	0	IN	DS	10517 13 2 268fb03099e07547620f19a62f101daea146dcee6faaa18263e0b3da4e997d6c
-cr.	0	IN	DS	10517 13 4 11d20d7c408a1f289f6ece30f241ca4beb6abe9d6376e8c6be2fee6400038989ee5c447340a5f2e7676454bbbeabfc95
 cr.	0	IN	DS	41813 13 2 be11bce314a4b75bf0531a7ff312c750813b59a61a868407949ca8d35508fbab
 cr.	0	IN	DS	41813 13 4 2c21e3b22825e9949a37d1201ae64370747765d7f68eef304be8ca8f45c59fd1e9fb4ee788b4d507106b8e1b74b1213b
 ca1.nic.cr.	0	IN	A	185.159.197.100
@@ -13515,14 +13513,30 @@ pm.	0	IN	NS	e.ext.nic.fr.
 pm.	0	IN	NS	f.ext.nic.fr.
 pm.	0	IN	NS	g.ext.nic.fr.
 pm.	0	IN	DS	17970 13 2 7d82ccd8dd0674ca01ccf836c21240a504c85597eed5e511131c3e17c323b503
-pn.	0	IN	NS	dns1.nominetdns.uk.
-pn.	0	IN	NS	dns2.nominetdns.uk.
-pn.	0	IN	NS	dns3.nominetdns.uk.
-pn.	0	IN	NS	dns4.nominetdns.uk.
-pn.	0	IN	NS	dnsa.nominetdns.uk.
-pn.	0	IN	NS	dnsb.nominetdns.uk.
-pn.	0	IN	NS	dnsc.nominetdns.uk.
-pn.	0	IN	NS	dnsd.nominetdns.uk.
+pn.	0	IN	NS	dns1.nic.pn.
+pn.	0	IN	NS	dns2.nic.pn.
+pn.	0	IN	NS	dns3.nic.pn.
+pn.	0	IN	NS	dns4.nic.pn.
+pn.	0	IN	NS	dnsa.nic.pn.
+pn.	0	IN	NS	dnsb.nic.pn.
+pn.	0	IN	NS	dnsc.nic.pn.
+pn.	0	IN	NS	dnsd.nic.pn.
+dns1.nic.pn.	0	IN	A	213.248.219.128
+dns1.nic.pn.	0	IN	AAAA	2a01:618:403::128
+dns2.nic.pn.	0	IN	A	103.49.83.128
+dns2.nic.pn.	0	IN	AAAA	2401:fd80:403::128
+dns3.nic.pn.	0	IN	A	213.248.223.128
+dns3.nic.pn.	0	IN	AAAA	2a01:618:407::128
+dns4.nic.pn.	0	IN	A	43.230.51.128
+dns4.nic.pn.	0	IN	AAAA	2401:fd80:407::128
+dnsa.nic.pn.	0	IN	A	156.154.100.3
+dnsa.nic.pn.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.pn.	0	IN	A	156.154.101.3
+dnsb.nic.pn.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nic.pn.	0	IN	A	156.154.102.3
+dnsc.nic.pn.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.pn.	0	IN	A	156.154.103.3
+dnsd.nic.pn.	0	IN	AAAA	2610:a1:1010::3
 pnc.	0	IN	NS	a0.nic.pnc.
 pnc.	0	IN	NS	a2.nic.pnc.
 pnc.	0	IN	NS	b0.nic.pnc.
@@ -15025,14 +15039,14 @@ sc.	0	IN	NS	d0.cctld.afilias-nst.org.
 sc.	0	IN	NS	ns1.nic.sc.
 sc.	0	IN	DS	2539 8 2 8293fa3ac08be770a400dde4f250dc6bf1046f34430be12e65c15bf2f482b26c
 ns1.nic.sc.	0	IN	A	41.86.57.54
-scb.	0	IN	NS	a.nic.scb.
 scb.	0	IN	NS	c.nic.scb.
 scb.	0	IN	NS	rz.nic.scb.
+scb.	0	IN	NS	nn1.nic.scb.
 scb.	0	IN	DS	20801 8 2 16bff89dd2faf9ac06221f6de0e206ed57fec2e29316779e30789d7e00a5bd2f
-a.nic.scb.	0	IN	A	122.155.23.51
-a.nic.scb.	0	IN	AAAA	2001:c38:2000:183::17
 c.nic.scb.	0	IN	A	194.0.1.35
 c.nic.scb.	0	IN	AAAA	2001:678:4::23
+nn1.nic.scb.	0	IN	A	194.58.198.136
+nn1.nic.scb.	0	IN	AAAA	2a01:3f1:3032:8001::136
 rz.nic.scb.	0	IN	A	194.0.25.42
 rz.nic.scb.	0	IN	AAAA	2001:678:20::42
 schaeffler.	0	IN	NS	a.dns.nic.schaeffler.
@@ -17643,14 +17657,6 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
-dnsa.nominetdns.uk.	0	IN	A	156.154.100.3
-dnsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
-dnsb.nominetdns.uk.	0	IN	A	156.154.101.3
-dnsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
-dnsc.nominetdns.uk.	0	IN	A	156.154.102.3
-dnsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
-dnsd.nominetdns.uk.	0	IN	A	156.154.103.3
-dnsd.nominetdns.uk.	0	IN	AAAA	2610:a1:1010::3
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
