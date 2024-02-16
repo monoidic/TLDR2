@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024021601 1 1 b21fa13d80cde0de6d87e8b4b8433474f17ffa631df45c25d53ed211c94123d416139b38419bf679655b599f1b44b01b
+.	0	IN	ZONEMD	2024021602 1 1 0071a0f70a3154da38f955c9e9c30adf12b930bb3e975bbc72db92072f53be1cd6d6ca3779041a97f4eb357eae38a6d2
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4396,9 +4396,11 @@ cv.	0	IN	NS	cv01.dns.pt.
 ns.dns.cv.	0	IN	A	41.221.192.220
 cw.	0	IN	NS	cw.cctld.authdns.ripe.net.
 cw.	0	IN	NS	ns0.ja.net.
+cw.	0	IN	NS	ns1.bna.cw.
 cw.	0	IN	NS	ns1.dns.cw.
 cw.	0	IN	NS	kadushi.curinfo.cw.
 cw.	0	IN	NS	ns01-server.curinfo.cw.
+ns1.bna.cw.	0	IN	A	216.122.189.85
 kadushi.curinfo.cw.	0	IN	A	65.208.122.63
 ns01-server.curinfo.cw.	0	IN	A	65.208.122.36
 ns1.dns.cw.	0	IN	A	194.0.28.6
