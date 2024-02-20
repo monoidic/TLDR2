@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022001 1 1 945d87dbc58c4e7f42d54c78a3e4d093e03e2c301e41c56f4ba94067ad855f86c05823fc84263e3879ea5a85d1a46e88
+.	0	IN	ZONEMD	2024022002 1 1 c1241d6a7cc347e5bca34c05341ccd962be2e5a2098b99844deb7fb42172cbe1aa41b94c479b53d52856e6b613121be7
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1962,6 +1962,8 @@ c0.nic.bio.	0	IN	AAAA	2a01:8840:54::9
 biz.	0	IN	NS	a.gtld.biz.
 biz.	0	IN	NS	b.gtld.biz.
 biz.	0	IN	NS	c.gtld.biz.
+biz.	0	IN	NS	m.gtld.biz.
+biz.	0	IN	NS	n.gtld.biz.
 biz.	0	IN	NS	w.gtld.biz.
 biz.	0	IN	NS	x.gtld.biz.
 biz.	0	IN	NS	y.gtld.biz.
@@ -1972,6 +1974,10 @@ a.gtld.biz.	0	IN	A	156.154.124.65
 a.gtld.biz.	0	IN	AAAA	2001:502:ad09::30
 b.gtld.biz.	0	IN	A	156.154.125.65
 c.gtld.biz.	0	IN	A	156.154.127.65
+m.gtld.biz.	0	IN	A	204.74.105.1
+m.gtld.biz.	0	IN	AAAA	2610:a1:3180::53
+n.gtld.biz.	0	IN	A	204.74.107.1
+n.gtld.biz.	0	IN	AAAA	2610:a1:3280::53
 w.gtld.biz.	0	IN	A	37.209.192.13
 w.gtld.biz.	0	IN	AAAA	2001:dcd:1::13
 x.gtld.biz.	0	IN	A	37.209.194.13
@@ -8388,9 +8394,9 @@ ns3.ns.il.	0	IN	AAAA	2001:678:e:103::53
 ns4.ns.il.	0	IN	A	204.61.216.134
 ns4.ns.il.	0	IN	AAAA	2001:500:14:6134:ad::1
 nsa.ns.il.	0	IN	A	192.115.7.53
-nsa.ns.il.	0	IN	AAAA	2a01:4280:2:70::53
+nsa.ns.il.	0	IN	AAAA	2a01:4280:7::53
 nsb.ns.il.	0	IN	A	192.115.7.60
-nsb.ns.il.	0	IN	AAAA	2a01:4280:2:70::60
+nsb.ns.il.	0	IN	AAAA	2a01:4280:7::60
 nse.ns.il.	0	IN	A	192.115.4.235
 im.	0	IN	NS	ns4.ja.net.
 im.	0	IN	NS	hoppy.iom.com.
