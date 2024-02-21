@@ -22,13 +22,17 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
 * `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
+* `li.`
+* `lk.`
 * `lol.`
 * `lr.`
+* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
