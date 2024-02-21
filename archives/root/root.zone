@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022101 1 1 d4f7d5324129fcdc0aa1e38a7d9297aa48479181c77b3c7520e81d89e2e34e267139832263627f94eb0ef8d01b30344f
+.	0	IN	ZONEMD	2024022102 1 1 237815e305e88379a67b88e0a552cd1cd0c9acdabfb03a42d254a13bebe78bdfc69c853515c0f00b466eb408d8bb127a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4481,8 +4481,6 @@ ns1.anycastdns.cz.	0	IN	AAAA	2a00:fea0:dead::beef
 ns2.anycastdns.cz.	0	IN	A	185.28.194.194
 ssnic.anycastdns.cz.	0	IN	A	185.28.194.194
 ssnic.anycastdns.cz.	0	IN	A	185.38.108.108
-d.ext.nic.cz.	0	IN	A	193.29.206.2
-d.ext.nic.cz.	0	IN	AAAA	2001:678:1::2
 a.ns.nic.cz.	0	IN	A	194.0.12.1
 a.ns.nic.cz.	0	IN	AAAA	2001:678:f::1
 b.ns.nic.cz.	0	IN	A	194.0.13.1
@@ -15563,8 +15561,6 @@ si.	0	IN	NS	i.dns.si.
 si.	0	IN	NS	k.dns.si.
 si.	0	IN	NS	l.dns.si.
 si.	0	IN	DS	53074 8 2 d3bbe46af529561a317922df27d89686e06b87343f22bac2569d38a549d996eb
-ns2.arnes.si.	0	IN	A	194.249.4.44
-ns2.arnes.si.	0	IN	AAAA	2001:1470:8000:53::44
 b.dns.si.	0	IN	A	153.5.81.140
 b.dns.si.	0	IN	AAAA	2001:1470:8000:53::44
 f.dns.si.	0	IN	A	194.146.106.62
@@ -19362,8 +19358,8 @@ xn--d1acj3b.	0	IN	NS	d.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	e.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	f.dns.ripn.net.
 xn--d1acj3b.	0	IN	DS	62719 8 2 78004ba803c2f5f251f3227c072df8c545d30f3a018288142692aa4d20ba3f24
-xn--d1alf.	0	IN	NS	d.ext.nic.cz.
-xn--d1alf.	0	IN	NS	ns2.arnes.si.
+xn--d1alf.	0	IN	NS	b.dns.si.
+xn--d1alf.	0	IN	NS	mk-e.ns.nic.cz.
 xn--d1alf.	0	IN	NS	tld1.marnet.mk.
 xn--d1alf.	0	IN	NS	dns-mk.univie.ac.at.
 xn--e1a4c.	0	IN	NS	w.dns.eu.
