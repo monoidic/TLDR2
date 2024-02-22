@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022201 1 1 36a5707d0e0896437d85fbc44aedd468b9d052c6982b200cf6eb92b12e89cacd3b27fc22a9b046848da2c81fd96b63a2
+.	0	IN	ZONEMD	2024022202 1 1 c18c6cd7c40d9a6b154b70b2c49ce2dd2090d021b5745e8246019fb3515eb4adf557a9a8e4e7d27fbdcca7ab576e16cc
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4404,9 +4404,11 @@ cw.	0	IN	NS	cw.cctld.authdns.ripe.net.
 cw.	0	IN	NS	ns0.ja.net.
 cw.	0	IN	NS	ns1.bna.cw.
 cw.	0	IN	NS	ns1.dns.cw.
+cw.	0	IN	NS	ns2.bna.cw.
 cw.	0	IN	NS	kadushi.curinfo.cw.
 cw.	0	IN	NS	ns01-server.curinfo.cw.
 ns1.bna.cw.	0	IN	A	216.122.189.85
+ns2.bna.cw.	0	IN	A	216.122.189.86
 kadushi.curinfo.cw.	0	IN	A	65.208.122.63
 ns01-server.curinfo.cw.	0	IN	A	65.208.122.36
 ns1.dns.cw.	0	IN	A	194.0.28.6
@@ -12056,8 +12058,6 @@ ns1.sr.net.	0	IN	A	200.1.159.148
 ns2.sr.net.	0	IN	A	200.2.162.30
 ns.thnic.net.	0	IN	A	202.28.0.1
 ns01.trs-dns.net.	0	IN	A	64.96.2.1
-ns.twnic.net.	0	IN	A	192.83.166.11
-ns.twnic.net.	0	IN	AAAA	2001:288:1:1006::11
 dns2.u-registry.net.	0	IN	A	195.123.1.7
 ns1.uniregistry.net.	0	IN	A	64.96.1.1
 ns1.uniregistry.net.	0	IN	AAAA	2620:57:4000:1::1
@@ -14266,6 +14266,7 @@ ren.	0	IN	NS	g.zdnscloud.com.
 ren.	0	IN	NS	i.zdnscloud.com.
 ren.	0	IN	NS	j.zdnscloud.com.
 ren.	0	IN	DS	770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
+ren.	0	IN	DS	6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 rent.	0	IN	NS	a.nic.rent.
 rent.	0	IN	NS	b.nic.rent.
 rent.	0	IN	NS	c.nic.rent.
@@ -17518,7 +17519,6 @@ tw.	0	IN	NS	e.dns.tw.
 tw.	0	IN	NS	f.dns.tw.
 tw.	0	IN	NS	g.dns.tw.
 tw.	0	IN	NS	h.dns.tw.
-tw.	0	IN	NS	ns.twnic.net.
 tw.	0	IN	NS	anytld.apnic.net.
 tw.	0	IN	DS	51277 8 2 462da9af501d2b1eef6725522db5972f8cd2490b51d92088ff1e3d2de0ec7bcd
 a.dns.tw.	0	IN	A	203.73.24.25
