@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022301 1 1 0d2561d97516457fe0effd3c59e04b1eda99e9cfae945620f1071656a959299b0df92bcd2afe31bd3bccdf1c92b94f70
+.	0	IN	ZONEMD	2024022302 1 1 92ca91e813151a9e9e9d4a1c329d52a92a9985e6b43dd729ad62d520348314ad9e2a9a4ebfe33eee19c50c61aa3496fe
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10201,6 +10201,7 @@ ns3.ac.lk.	0	IN	A	202.124.166.178
 c.nic.lk.	0	IN	A	203.143.29.3
 c.nic.lk.	0	IN	AAAA	2405:5400:3:1:203:143:29:3
 d.nic.lk.	0	IN	A	123.231.6.18
+d.nic.lk.	0	IN	AAAA	2402:4000:479:c5::a
 m.nic.lk.	0	IN	A	202.129.235.229
 m.nic.lk.	0	IN	AAAA	2407:c00:21:8:202:129:235:229
 ns-c.nic.lk.	0	IN	A	203.143.19.3
@@ -17531,7 +17532,7 @@ d.dns.tw.	0	IN	A	60.199.165.186
 d.dns.tw.	0	IN	AAAA	2001:4541:9010:7::186
 e.dns.tw.	0	IN	A	211.20.231.11
 e.dns.tw.	0	IN	AAAA	2001:b000:1e0:c000::11
-f.dns.tw.	0	IN	A	163.28.1.10
+f.dns.tw.	0	IN	A	182.173.0.10
 g.dns.tw.	0	IN	A	34.141.111.176
 h.dns.tw.	0	IN	A	204.61.216.119
 h.dns.tw.	0	IN	AAAA	2001:500:14:6119:ad::1
