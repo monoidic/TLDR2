@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022601 1 1 29f8db0945aba97eba8539bab9eedd8dae6e74b68a3f567a0d9b6b4ddf24c91273122aadf1e4f9303b8fd9cc69ccf97d
+.	0	IN	ZONEMD	2024022602 1 1 d6aaa204f0392ffee36ff61b724791a5bbe539b82b36f62f2a9ff910210cf411fda140cae905c01496bec213aa8a471f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -19325,6 +19325,7 @@ xn--czr694b.	0	IN	NS	g.zdnscloud.com.
 xn--czr694b.	0	IN	NS	i.zdnscloud.com.
 xn--czr694b.	0	IN	NS	j.zdnscloud.com.
 xn--czr694b.	0	IN	DS	56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
+xn--czr694b.	0	IN	DS	61001 8 2 b4dea8c89ab832565a80719c8af8fb5d7ed535a9c3e2361d8b494d45f6a05d5a
 xn--czrs0t.	0	IN	NS	v0n0.nic.xn--czrs0t.
 xn--czrs0t.	0	IN	NS	v0n1.nic.xn--czrs0t.
 xn--czrs0t.	0	IN	NS	v0n2.nic.xn--czrs0t.
@@ -19615,6 +19616,7 @@ xn--imr513n.	0	IN	NS	f.zdnscloud.com.
 xn--imr513n.	0	IN	NS	g.zdnscloud.com.
 xn--imr513n.	0	IN	NS	i.zdnscloud.com.
 xn--imr513n.	0	IN	NS	j.zdnscloud.com.
+xn--imr513n.	0	IN	DS	12187 8 2 ca358cb59005ac2c0871a1c5d9d954c82a4077bd5507844c8fa7c86e8dcd5a64
 xn--imr513n.	0	IN	DS	14747 8 2 6581fd2fc61a9a81926e5dbe6f7eeb940402bf2db280c98f50aba666e4c74371
 xn--io0a7i.	0	IN	NS	a.ngtld.cn.
 xn--io0a7i.	0	IN	NS	b.ngtld.cn.
