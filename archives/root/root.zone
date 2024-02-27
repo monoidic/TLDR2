@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022700 1 1 21df905fc1ec23f6fc0661fa53cdc745fa44a1c1b67118c14163e85044c9c52528397ee8da13678eec25e6a72d7ba36a
+.	0	IN	ZONEMD	2024022701 1 1 a739b7f7be369b4d46b162f074fc9d50cd14bd08261aa9f34b5c402e9baf916c152d2bb1548464ad97252c914470600a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12059,7 +12059,6 @@ ns1.sr.net.	0	IN	A	200.1.159.148
 ns2.sr.net.	0	IN	A	200.2.162.30
 ns.thnic.net.	0	IN	A	202.28.0.1
 ns01.trs-dns.net.	0	IN	A	64.96.2.1
-dns2.u-registry.net.	0	IN	A	195.123.1.7
 ns1.uniregistry.net.	0	IN	A	64.96.1.1
 ns1.uniregistry.net.	0	IN	AAAA	2620:57:4000:1::1
 ns3.uniregistry.net.	0	IN	A	185.159.197.3
@@ -17559,6 +17558,7 @@ az.hostmaster.ua.	0	IN	A	195.47.253.13
 az.hostmaster.ua.	0	IN	AAAA	2001:67c:258::13
 tier1.num.net.ua.	0	IN	A	149.202.5.226
 dns.tci.net.ua.	0	IN	A	91.231.86.238
+dns.tci.net.ua.	0	IN	AAAA	2a02:128:2:52ae:fdee:d892:347d:d892
 bg.ns.ua.	0	IN	A	185.136.96.185
 bg.ns.ua.	0	IN	A	185.136.97.185
 bg.ns.ua.	0	IN	AAAA	2a06:fb00:1::2:185
@@ -17575,6 +17575,7 @@ rcz.ns.ua.	0	IN	A	193.46.128.10
 rcz.ns.ua.	0	IN	AAAA	2a02:850:ffe0::10
 ukr.ns.ua.	0	IN	A	194.58.197.4
 ukr.ns.ua.	0	IN	AAAA	2a01:3f1:c001::53
+ukr.ukrnames.ua.	0	IN	A	195.123.192.7
 ubank.	0	IN	NS	a0.nic.ubank.
 ubank.	0	IN	NS	a2.nic.ubank.
 ubank.	0	IN	NS	b0.nic.ubank.
@@ -19631,8 +19632,8 @@ xn--j1aef.	0	IN	NS	ac4.nstld.com.
 xn--j1aef.	0	IN	DS	32220 8 2 8cbaa94cf4c8387c6e98dcc53a90c9c7ce339029cf54d43e59e89b7d9c6f086c
 xn--j1amh.	0	IN	NS	dns.tci.net.ua.
 xn--j1amh.	0	IN	NS	ukr.ns.ua.
+xn--j1amh.	0	IN	NS	ukr.ukrnames.ua.
 xn--j1amh.	0	IN	NS	dns1.u-registry.com.
-xn--j1amh.	0	IN	NS	dns2.u-registry.net.
 xn--j1amh.	0	IN	NS	dns3.dotukr.com.
 xn--j1amh.	0	IN	NS	tier1.num.net.ua.
 xn--j6w193g.	0	IN	NS	c.hkirc.net.hk.
