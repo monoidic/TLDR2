@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022801 1 1 18afdddf3584efec741e2f86ff585a6c22c81b750a11fdb4f31a043aa20acf8daaa794edd6adf6b9c56cf2e5f230a558
+.	0	IN	ZONEMD	2024022802 1 1 1bae784cdf91d709c887792c82e5598c26ac8343fc54023b2d430e0609be9d8911c51c88ef3d474cd866e2956814fbe3
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1338,6 +1338,7 @@ baby.	0	IN	NS	b.nic.baby.
 baby.	0	IN	NS	c.nic.baby.
 baby.	0	IN	NS	d.nic.baby.
 baby.	0	IN	DS	11182 8 2 6b39ccc9ba6c73c818d68522547e5d56db46e13607dc0e83047d6e111067dcb2
+baby.	0	IN	DS	14956 8 2 523ec19f90ba1e0cd7292414999aab7a1fe67f878097fac9f18905fc4d68ae08
 a.nic.baby.	0	IN	A	194.169.218.101
 a.nic.baby.	0	IN	AAAA	2001:67c:13cc::1:101
 b.nic.baby.	0	IN	A	185.24.64.101
@@ -2153,7 +2154,7 @@ boats.	0	IN	NS	a.nic.boats.
 boats.	0	IN	NS	b.nic.boats.
 boats.	0	IN	NS	c.nic.boats.
 boats.	0	IN	NS	d.nic.boats.
-boats.	0	IN	DS	184 8 2 a4a33b365286abb2176f9f617093d4dade9cd2af1c8b4955db2b0ad92b6940d5
+boats.	0	IN	DS	35419 8 2 43c5098ed1c55c5eb62237acd9ebdc4721ca7e8b8290c66538ee4eae7bfd997e
 boats.	0	IN	DS	59980 8 2 a5e1e3d7c3a1cd95834be1a4f1b403eb0018e4918d107c25a61360b2b7e585dd
 a.nic.boats.	0	IN	A	194.169.218.134
 a.nic.boats.	0	IN	AAAA	2001:67c:13cc::1:134
@@ -3144,12 +3145,8 @@ ceo.	0	IN	NS	a.nic.ceo.
 ceo.	0	IN	NS	b.nic.ceo.
 ceo.	0	IN	NS	c.nic.ceo.
 ceo.	0	IN	NS	d.nic.ceo.
-ceo.	0	IN	DS	20929 8 1 bf13ed10ce2850f7c686261f06da97a0e5eb78a6
 ceo.	0	IN	DS	20929 8 2 dce04f950578106c1c5f8386db709467091c961227606f0a761c7a0e10e2ddc7
-ceo.	0	IN	DS	47971 8 1 c1d4b59f029dbfcc32c1b3524ee5f5b87735ea60
-ceo.	0	IN	DS	47971 8 2 ca81c48a6831fd48d45caf9a0deb74d0e8b8f217cdd05cfd7090c1f926219aea
-ceo.	0	IN	DS	63689 8 1 db7a8f6aadcee147d241a9778857e94707234d4e
-ceo.	0	IN	DS	63689 8 2 f2ab788c2802c3f219d53f37e7e1687ecf2e453e04bc5abcc0b444fc0e35b1ee
+ceo.	0	IN	DS	24601 8 2 3ad5b5b1cc294b39d77dec9669a8fdbbaf0307d3766f29e14f7364e7f83ad771
 a.nic.ceo.	0	IN	A	194.169.218.78
 a.nic.ceo.	0	IN	AAAA	2001:67c:13cc::1:78
 b.nic.ceo.	0	IN	A	185.24.64.78
@@ -3789,8 +3786,8 @@ college.	0	IN	NS	a.nic.college.
 college.	0	IN	NS	b.nic.college.
 college.	0	IN	NS	c.nic.college.
 college.	0	IN	NS	d.nic.college.
-college.	0	IN	DS	46634 8 1 e8d1436abc9b53d4219d05356cc1687732014b60
 college.	0	IN	DS	46634 8 2 7bebb696e117d17efa506b8dd2209d2c49e97e6635596ff3177be76be0463c3c
+college.	0	IN	DS	58717 8 2 e6e5f277e746f95d3437e6dcb123cc6825cf733639c389ba79d55d997e25413a
 a.nic.college.	0	IN	A	194.169.218.44
 a.nic.college.	0	IN	AAAA	2001:67c:13cc::1:44
 b.nic.college.	0	IN	A	185.24.64.44
@@ -5041,7 +5038,6 @@ bow1.intnet.dj.	0	IN	A	197.241.17.130
 bow5.intnet.dj.	0	IN	A	196.201.196.41
 dk.	0	IN	NS	b.nic.dk.
 dk.	0	IN	NS	c.nic.dk.
-dk.	0	IN	NS	d.nic.dk.
 dk.	0	IN	NS	h.nic.dk.
 dk.	0	IN	NS	l.nic.dk.
 dk.	0	IN	NS	p.nic.dk.
@@ -5049,10 +5045,8 @@ dk.	0	IN	NS	s.nic.dk.
 dk.	0	IN	DS	21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
 b.nic.dk.	0	IN	A	193.163.102.222
 b.nic.dk.	0	IN	AAAA	2a01:630:0:80::53
-c.nic.dk.	0	IN	A	194.0.46.53
-c.nic.dk.	0	IN	AAAA	2001:678:74::53
-d.nic.dk.	0	IN	A	185.159.198.45
-d.nic.dk.	0	IN	AAAA	2620:10a:80ab::45
+c.nic.dk.	0	IN	A	185.159.199.45
+c.nic.dk.	0	IN	AAAA	2620:10a:80ac::45
 h.nic.dk.	0	IN	A	46.30.126.214
 h.nic.dk.	0	IN	AAAA	2a00:1b18:1:2::53
 l.nic.dk.	0	IN	A	130.226.213.138
@@ -16725,7 +16719,7 @@ tech.	0	IN	NS	a.nic.tech.
 tech.	0	IN	NS	b.nic.tech.
 tech.	0	IN	NS	e.nic.tech.
 tech.	0	IN	NS	f.nic.tech.
-tech.	0	IN	DS	50095 8 1 82f72f2462dee25b99da2470535ad0a7d131f1eb
+tech.	0	IN	DS	28487 8 2 ea62fa86a9c863738597a42d28762b1f75d42f7d77aa6767425de138f8b0e78c
 tech.	0	IN	DS	50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c661686c6ee
 a.nic.tech.	0	IN	A	194.169.218.60
 a.nic.tech.	0	IN	AAAA	2001:67c:13cc::1:60
@@ -20027,6 +20021,7 @@ xn--otu796d.	0	IN	NS	f.zdnscloud.com.
 xn--otu796d.	0	IN	NS	g.zdnscloud.com.
 xn--otu796d.	0	IN	NS	i.zdnscloud.com.
 xn--otu796d.	0	IN	NS	j.zdnscloud.com.
+xn--otu796d.	0	IN	DS	47587 8 2 c25353ef849dce2b94e77b4a8997a7ea66d3a8614ec62493a18f072df66de9a6
 xn--otu796d.	0	IN	DS	61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
 xn--p1acf.	0	IN	NS	ns1.nic.xn--p1acf.
 xn--p1acf.	0	IN	NS	ns1.anycastdns.cz.
@@ -20328,8 +20323,8 @@ xyz.	0	IN	NS	x.nic.xyz.
 xyz.	0	IN	NS	y.nic.xyz.
 xyz.	0	IN	NS	z.nic.xyz.
 xyz.	0	IN	NS	generationxyz.nic.xyz.
-xyz.	0	IN	DS	3599 8 1 3fa3b264f45db5f38bedeaf1a88b76aa318c2c7f
 xyz.	0	IN	DS	3599 8 2 b9733869bc84c86bb59d102ba5da6b27b2088552332a39dcd54bc4e8d66b0499
+xyz.	0	IN	DS	18130 8 2 5aa5961266594cceac50949a99219fe004f130e1864a427143e9ff2e641cac6f
 generationxyz.nic.xyz.	0	IN	A	212.18.249.42
 generationxyz.nic.xyz.	0	IN	AAAA	2a04:2b00:13ff::42
 x.nic.xyz.	0	IN	A	194.169.218.42
@@ -20343,7 +20338,7 @@ yachts.	0	IN	NS	b.nic.yachts.
 yachts.	0	IN	NS	c.nic.yachts.
 yachts.	0	IN	NS	d.nic.yachts.
 yachts.	0	IN	DS	14477 8 2 0180abc62cf090f5df1ef074f1958c237261e14633f4ad949298514bda155257
-yachts.	0	IN	DS	50071 8 2 bf1b2d1657ad8be12fbedad8af0999d1e9185c100937ac023d01c9a6cca78dae
+yachts.	0	IN	DS	17422 8 2 dc355a5b3fd478cb3aebdb011d77f40368c5af50df98a38bc219d8f89a372649
 a.nic.yachts.	0	IN	A	194.169.218.133
 a.nic.yachts.	0	IN	AAAA	2001:67c:13cc::1:133
 b.nic.yachts.	0	IN	A	185.24.64.133
