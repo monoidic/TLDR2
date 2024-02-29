@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024022901 1 1 9135014f5e3fac41eb5b3e46c2f1fa5c0ed6aab95421fbd90d6c44e8cb97a46f72bb32e23cd5506fe307648ec68b8daa
+.	0	IN	ZONEMD	2024022903 1 1 3b83bc8b9bb341ddc9c04aead1f7fa53bef61c9653a189a5d1a4d90b762381ce16ded2bd99f7fecf756b6fe78e18c4e5
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1355,6 +1355,7 @@ baidu.	0	IN	NS	f.zdnscloud.com.
 baidu.	0	IN	NS	g.zdnscloud.com.
 baidu.	0	IN	NS	i.zdnscloud.com.
 baidu.	0	IN	NS	j.zdnscloud.com.
+baidu.	0	IN	DS	23825 8 2 7daede4b986a05b32cd3698ce14d0a0866d12a2ab955b8dc3659d25d7ad65cbe
 baidu.	0	IN	DS	63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
 banamex.	0	IN	NS	a.nic.banamex.
 banamex.	0	IN	NS	b.nic.banamex.
@@ -6235,6 +6236,7 @@ fj.	0	IN	NS	ns2.fj.
 fj.	0	IN	NS	ns3.fj.
 fj.	0	IN	NS	ns4.fj.
 fj.	0	IN	NS	ns5.fj.
+fj.	0	IN	DS	49279 8 2 8c0eb5586196ae081e070fc7e8289979cd124da063db1193ba8dee0e9a670420
 ns1.fj.	0	IN	A	144.120.146.1
 ns1.fj.	0	IN	AAAA	2402:2940:100:100c::1
 ns2.fj.	0	IN	A	144.120.146.65
@@ -15888,6 +15890,7 @@ sohu.	0	IN	NS	g.zdnscloud.com.
 sohu.	0	IN	NS	i.zdnscloud.com.
 sohu.	0	IN	NS	j.zdnscloud.com.
 sohu.	0	IN	DS	25066 8 2 ce87e0735a424d4601fdb8d7691ff1b916c54c6ce367a9a66cce7f88ec8a9e97
+sohu.	0	IN	DS	61396 8 2 44f80a22b60d8c7a4e02d5c1b57af36da11d0cefe4320e588e20dcd4b2a80f09
 solar.	0	IN	NS	v0n0.nic.solar.
 solar.	0	IN	NS	v0n1.nic.solar.
 solar.	0	IN	NS	v0n2.nic.solar.
@@ -18352,6 +18355,7 @@ wang.	0	IN	NS	f.zdnscloud.com.
 wang.	0	IN	NS	g.zdnscloud.com.
 wang.	0	IN	NS	i.zdnscloud.com.
 wang.	0	IN	NS	j.zdnscloud.com.
+wang.	0	IN	DS	19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
 wang.	0	IN	DS	20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
 wanggou.	0	IN	NS	dns1.nic.wanggou.
 wanggou.	0	IN	NS	dns2.nic.wanggou.
@@ -19026,6 +19030,7 @@ xn--45q11c.	0	IN	NS	f.zdnscloud.com.
 xn--45q11c.	0	IN	NS	g.zdnscloud.com.
 xn--45q11c.	0	IN	NS	i.zdnscloud.com.
 xn--45q11c.	0	IN	NS	j.zdnscloud.com.
+xn--45q11c.	0	IN	DS	21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
 xn--45q11c.	0	IN	DS	46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
 xn--4dbrk0ce.	0	IN	NS	ns1.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ns3.ns.il.
@@ -19348,6 +19353,7 @@ xn--czru2d.	0	IN	NS	g.zdnscloud.com.
 xn--czru2d.	0	IN	NS	i.zdnscloud.com.
 xn--czru2d.	0	IN	NS	j.zdnscloud.com.
 xn--czru2d.	0	IN	DS	995 8 2 c37db96801455f34fc09b824107a81b4df13f273e00d1ef24b73986df0eda81c
+xn--czru2d.	0	IN	DS	62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 xn--d1acj3b.	0	IN	NS	a.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	b.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	d.dns.ripn.net.
@@ -19589,6 +19595,7 @@ xn--hxt814e.	0	IN	NS	g.zdnscloud.com.
 xn--hxt814e.	0	IN	NS	i.zdnscloud.com.
 xn--hxt814e.	0	IN	NS	j.zdnscloud.com.
 xn--hxt814e.	0	IN	DS	36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
+xn--hxt814e.	0	IN	DS	59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 xn--i1b6b1a6a2e.	0	IN	NS	a0.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.	0	IN	NS	a2.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.	0	IN	NS	b0.nic.xn--i1b6b1a6a2e.
