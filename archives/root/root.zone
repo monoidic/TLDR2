@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024030101 1 1 ac6c00799384ca2bbbbaa19c31e9697335b5aa05964e2c577f23e94c4fef1c8c4c622ca0962d92075a208c50808336bc
+.	0	IN	ZONEMD	2024030102 1 1 891d8c18ac35cc5826ae46ffb23bb72e795eecc90483bd60d85a90b939decc49c6911e43ce855aa538cfa413bc88bdef
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1688,7 +1688,7 @@ beauty.	0	IN	NS	a.nic.beauty.
 beauty.	0	IN	NS	b.nic.beauty.
 beauty.	0	IN	NS	c.nic.beauty.
 beauty.	0	IN	NS	d.nic.beauty.
-beauty.	0	IN	DS	35340 8 2 2489479f7a6e57341c7c5508c55113491c519dd846258a6593c4d1aba57d463e
+beauty.	0	IN	DS	6827 8 2 76ebfbd30c8ca9a269ae19395256889058390459d1770d6efdd04fdbb7c08b7b
 beauty.	0	IN	DS	52406 8 2 c5c45b79dbe67a132237b020f4966fe32fbe61553487e38d47918561568e9957
 a.nic.beauty.	0	IN	A	194.169.218.119
 a.nic.beauty.	0	IN	AAAA	2001:67c:13cc::1:119
@@ -3009,15 +3009,12 @@ v2n0.nic.casino.	0	IN	A	65.22.23.18
 v2n0.nic.casino.	0	IN	AAAA	2a01:8840:19::18
 v2n1.nic.casino.	0	IN	A	161.232.11.18
 v2n1.nic.casino.	0	IN	AAAA	2a01:8840:f5::18
-cat.	0	IN	NS	ns.nic.cat.
 cat.	0	IN	NS	cat.pch.net.
 cat.	0	IN	NS	ns1.nic.es.
 cat.	0	IN	NS	nsc.nic.de.
 cat.	0	IN	NS	anyc1.irondns.net.
 cat.	0	IN	NS	switch.nic.cat.
 cat.	0	IN	DS	58737 10 2 4dce567c12f637d51a755b9585c0c3c4036aba446261ac994f7f5e91eed4c365
-ns.nic.cat.	0	IN	A	84.88.0.162
-ns.nic.cat.	0	IN	AAAA	2001:40b0:1:3::2
 switch.nic.cat.	0	IN	A	130.59.31.29
 switch.nic.cat.	0	IN	AAAA	2001:620:0:ff::2f
 catering.	0	IN	NS	v0n0.nic.catering.
