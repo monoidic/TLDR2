@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024030401 1 1 3bbd3ac43f39ba6a980c637595b87e5660e3ca4468ef85a345bb43546aba924b0b8e2a4ed77eb63c084405c6af2a5074
+.	0	IN	ZONEMD	2024030402 1 1 6ffa59dbf9c4309343c3e51b177c99cf0b1ab55fb831b0b30b29471ae961e9912ca905f5e872a120c5857af935c3c7ed
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3477,6 +3477,7 @@ citic.	0	IN	NS	g.zdnscloud.com.
 citic.	0	IN	NS	i.zdnscloud.com.
 citic.	0	IN	NS	j.zdnscloud.com.
 citic.	0	IN	DS	12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
+citic.	0	IN	DS	40391 8 2 7ca2fece772e8398fbf071ecbb433e716f56ea88eda63ec81384913dd736648d
 city.	0	IN	NS	v0n0.nic.city.
 city.	0	IN	NS	v0n1.nic.city.
 city.	0	IN	NS	v0n2.nic.city.
@@ -9095,6 +9096,7 @@ jo.	0	IN	NS	jo.cctld.authdns.ripe.net.
 jo.	0	IN	NS	rip.psg.com.
 jo.	0	IN	NS	amra.nic.gov.jo.
 jo.	0	IN	NS	petra.nic.gov.jo.
+jo.	0	IN	NS	cloudns.nic.net.jo.
 jo.	0	IN	NS	jordan1st.nic.gov.jo.
 amra.nic.gov.jo.	0	IN	A	193.188.66.103
 jordan1st.nic.gov.jo.	0	IN	A	193.188.69.19
@@ -17664,6 +17666,7 @@ unicom.	0	IN	NS	f.zdnscloud.com.
 unicom.	0	IN	NS	g.zdnscloud.com.
 unicom.	0	IN	NS	i.zdnscloud.com.
 unicom.	0	IN	NS	j.zdnscloud.com.
+unicom.	0	IN	DS	28037 8 2 3b3e219bab1692507eb991da755f11ef1920d5f3402b4e9ab28cf86156948967
 unicom.	0	IN	DS	51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
 university.	0	IN	NS	v0n0.nic.university.
 university.	0	IN	NS	v0n1.nic.university.
@@ -18546,6 +18549,7 @@ wf.	0	IN	NS	e.ext.nic.fr.
 wf.	0	IN	NS	f.ext.nic.fr.
 wf.	0	IN	NS	g.ext.nic.fr.
 wf.	0	IN	DS	18393 13 2 c67316fa4c43d54d07c93074eddb7914346c4132726a258cd2acc3d4877081e5
+wf.	0	IN	DS	19250 13 2 6fa97d147253c2afb0cfcf18edb8c97e592d05e0845b6c644c3793fed8a756dd
 whoswho.	0	IN	NS	anycast9.irondns.net.
 whoswho.	0	IN	NS	anycast10.irondns.net.
 whoswho.	0	IN	NS	anycast23.irondns.net.
@@ -19156,6 +19160,7 @@ xn--8y0a063a.	0	IN	NS	g.zdnscloud.com.
 xn--8y0a063a.	0	IN	NS	i.zdnscloud.com.
 xn--8y0a063a.	0	IN	NS	j.zdnscloud.com.
 xn--8y0a063a.	0	IN	DS	44995 8 2 75ec90f39171d405cb5d609ab0c62f21b2c53da70d28d642d226121a4dc9a917
+xn--8y0a063a.	0	IN	DS	57167 8 2 2596d4a370097ac33133e16b582ce273752f50086f0a9b87645d8cc9aeaca992
 xn--90a3ac.	0	IN	NS	a.nic.rs.
 xn--90a3ac.	0	IN	NS	b.nic.rs.
 xn--90a3ac.	0	IN	NS	f.nic.rs.
@@ -19432,6 +19437,7 @@ xn--fiq64b.	0	IN	NS	f.zdnscloud.com.
 xn--fiq64b.	0	IN	NS	g.zdnscloud.com.
 xn--fiq64b.	0	IN	NS	i.zdnscloud.com.
 xn--fiq64b.	0	IN	NS	j.zdnscloud.com.
+xn--fiq64b.	0	IN	DS	9361 8 2 68ad16c70c11245f8efbc2798b069d8983ae1b2f3dd5e0fa65a8f386da1b9042
 xn--fiq64b.	0	IN	DS	38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c6a5625f2
 xn--fiqs8s.	0	IN	NS	h.dns.cn.
 xn--fiqs8s.	0	IN	NS	i.dns.cn.
@@ -20133,6 +20139,7 @@ xn--ses554g.	0	IN	NS	f.zdnscloud.com.
 xn--ses554g.	0	IN	NS	g.zdnscloud.com.
 xn--ses554g.	0	IN	NS	i.zdnscloud.com.
 xn--ses554g.	0	IN	NS	j.zdnscloud.com.
+xn--ses554g.	0	IN	DS	34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
 xn--ses554g.	0	IN	DS	57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
 xn--t60b56a.	0	IN	NS	ac1.nstld.com.
 xn--t60b56a.	0	IN	NS	ac2.nstld.com.
