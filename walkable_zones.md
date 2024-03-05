@@ -2,23 +2,18 @@
 
 * `.`
 * `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
-* `desi.`
 * `diet.`
 * `dz.`
 * `ee.`
 * `er.`
-* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
@@ -27,7 +22,6 @@
 * `id.`
 * `ir.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -36,12 +30,8 @@
 * `mc.`
 * `mom.`
 * `nu.`
-* `pics.`
-* `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
