@@ -3,12 +3,18 @@
 * `.`
 * `arpa.`
 * `audio.`
+* `auto.`
 * `ax.`
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
 * `cars.`
+* `ch.`
+* `christmas.`
+* `ci.`
 * `desi.`
+* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -21,6 +27,7 @@
 * `id.`
 * `ir.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -33,7 +40,9 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
 * `tn.`
+* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
