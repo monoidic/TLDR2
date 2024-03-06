@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024030601 1 1 e7b53e7d97a5ab40902fbf0a50b300458236b7effc8967ab9223235d26fe3d1fd15b6d79f08312265d1d47895813478d
+.	0	IN	ZONEMD	2024030602 1 1 e0bb9df2b83b6e118e29a6bf45cf5dd5b9787a979b76b646162066b6f0f478f183c59016e875c0701b2d176538fce026
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -175,6 +175,7 @@ accenture.	0	IN	NS	ac2.nstld.com.
 accenture.	0	IN	NS	ac3.nstld.com.
 accenture.	0	IN	NS	ac4.nstld.com.
 accenture.	0	IN	DS	35388 8 2 0c1ddb821c823afec10942d3dcd16d6306221e4ee7f2f524e5d9bad48bafd8fc
+accenture.	0	IN	DS	56299 8 2 83307d3a3a6ae2bd8c9fbb7060a5acb8dbc48b2a56ca944cae4dc803ce8e5a84
 accountant.	0	IN	NS	a.nic.accountant.
 accountant.	0	IN	NS	b.nic.accountant.
 accountant.	0	IN	NS	c.nic.accountant.
@@ -927,6 +928,7 @@ arte.	0	IN	NS	ac2.nstld.com.
 arte.	0	IN	NS	ac3.nstld.com.
 arte.	0	IN	NS	ac4.nstld.com.
 arte.	0	IN	DS	46728 8 2 d197248e95610371f7624d79d397037ea5e200e6f338bccedf5e93bb68448152
+arte.	0	IN	DS	58066 8 2 44e4cc2ad4bcbc5b2c2cd6fbfa18da14d35b3fb5b0e21e9f1b25721101938299
 as.	0	IN	NS	ns1.asnic.biz.
 as.	0	IN	NS	ns2.asnic.info.
 as.	0	IN	NS	ns3.asnic.org.
@@ -3182,6 +3184,7 @@ cfa.	0	IN	NS	ac1.nstld.com.
 cfa.	0	IN	NS	ac2.nstld.com.
 cfa.	0	IN	NS	ac3.nstld.com.
 cfa.	0	IN	NS	ac4.nstld.com.
+cfa.	0	IN	DS	21814 8 2 9d6445887f736116b22a9c4cda34da82592146649482638fbc144651299bdeb4
 cfa.	0	IN	DS	53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
 cfd.	0	IN	NS	a.nic.cfd.
 cfd.	0	IN	NS	b.nic.cfd.
@@ -3642,6 +3645,7 @@ clubmed.	0	IN	NS	ac2.nstld.com.
 clubmed.	0	IN	NS	ac3.nstld.com.
 clubmed.	0	IN	NS	ac4.nstld.com.
 clubmed.	0	IN	DS	2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
+clubmed.	0	IN	DS	21826 8 2 5baa5f5647baef29365e3f37d0914e0abe5f4d62afca9cf59863fb94aa5964e7
 cm.	0	IN	NS	ns.itu.ch.
 cm.	0	IN	NS	ns1.nic.cm.
 cm.	0	IN	NS	ns2.nic.cm.
@@ -6965,6 +6969,7 @@ genting.	0	IN	NS	ac2.nstld.com.
 genting.	0	IN	NS	ac3.nstld.com.
 genting.	0	IN	NS	ac4.nstld.com.
 genting.	0	IN	DS	22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
+genting.	0	IN	DS	34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
 george.	0	IN	NS	a0.nic.george.
 george.	0	IN	NS	a2.nic.george.
 george.	0	IN	NS	b0.nic.george.
@@ -10555,6 +10560,7 @@ maif.	0	IN	NS	ac1.nstld.com.
 maif.	0	IN	NS	ac2.nstld.com.
 maif.	0	IN	NS	ac3.nstld.com.
 maif.	0	IN	NS	ac4.nstld.com.
+maif.	0	IN	DS	23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
 maif.	0	IN	DS	48459 8 2 e44bc6e7cba1624a5f16941f1d53fe470a3a7da4b1c592878d1b32e8ebef667c
 maison.	0	IN	NS	v0n0.nic.maison.
 maison.	0	IN	NS	v0n1.nic.maison.
@@ -12770,6 +12776,7 @@ orange.	0	IN	NS	ac1.nstld.com.
 orange.	0	IN	NS	ac2.nstld.com.
 orange.	0	IN	NS	ac3.nstld.com.
 orange.	0	IN	NS	ac4.nstld.com.
+orange.	0	IN	DS	10282 8 2 5719fca748be7253d9b0c4cd2c07454768bf9f5411e940ba7ec7d4954e55582c
 orange.	0	IN	DS	44385 8 2 54957bdf3921ca2d50bb340e042605f8d39ee91ca2a08a37424ce88882c4fe1a
 org.	0	IN	NS	a0.org.afilias-nst.info.
 org.	0	IN	NS	a2.org.afilias-nst.info.
@@ -18965,7 +18972,7 @@ xn--30rr7y.	0	IN	NS	f.zdnscloud.com.
 xn--30rr7y.	0	IN	NS	g.zdnscloud.com.
 xn--30rr7y.	0	IN	NS	i.zdnscloud.com.
 xn--30rr7y.	0	IN	NS	j.zdnscloud.com.
-xn--30rr7y.	0	IN	DS	42247 8 2 339254f4939c992790a50b1d257ea5c50bf4fc30f9d7b55a0fe875885af8bb7a
+xn--30rr7y.	0	IN	DS	44210 8 2 ca8c1b37378e7eba858c4fe9bad7bd6748e70da47639c3a0e31db1f71f66f467
 xn--3bst00m.	0	IN	NS	a.zdnscloud.com.
 xn--3bst00m.	0	IN	NS	b.zdnscloud.com.
 xn--3bst00m.	0	IN	NS	c.zdnscloud.com.
@@ -18974,7 +18981,7 @@ xn--3bst00m.	0	IN	NS	f.zdnscloud.com.
 xn--3bst00m.	0	IN	NS	g.zdnscloud.com.
 xn--3bst00m.	0	IN	NS	i.zdnscloud.com.
 xn--3bst00m.	0	IN	NS	j.zdnscloud.com.
-xn--3bst00m.	0	IN	DS	11479 8 2 7881a662f41e0d4b2133e66229672677147a22a8eca1d1d02db93ecdb127d895
+xn--3bst00m.	0	IN	DS	35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
 xn--3ds443g.	0	IN	NS	ns1.teleinfo.cn.
 xn--3ds443g.	0	IN	NS	ns2.teleinfoo.com.
 xn--3ds443g.	0	IN	NS	ns3.teleinfo.cn.
@@ -19107,7 +19114,7 @@ xn--6qq986b3xl.	0	IN	NS	f.zdnscloud.com.
 xn--6qq986b3xl.	0	IN	NS	g.zdnscloud.com.
 xn--6qq986b3xl.	0	IN	NS	i.zdnscloud.com.
 xn--6qq986b3xl.	0	IN	NS	j.zdnscloud.com.
-xn--6qq986b3xl.	0	IN	DS	30406 8 2 a9b0f70f49b9e0819d93e5e98d1a24499ed86dc201c15d77eaf1ecbbf7c6d2ae
+xn--6qq986b3xl.	0	IN	DS	54794 8 2 04db2d2f9cab81d80fd8f7062b4e2a42a99f9fdf172a90039c30e4a6b9a844df
 xn--80adxhks.	0	IN	NS	a.dns.flexireg.ru.
 xn--80adxhks.	0	IN	NS	b.dns.flexireg.net.
 xn--80adxhks.	0	IN	NS	c.dns.flexireg.org.
@@ -19189,7 +19196,7 @@ xn--9et52u.	0	IN	NS	f.zdnscloud.com.
 xn--9et52u.	0	IN	NS	g.zdnscloud.com.
 xn--9et52u.	0	IN	NS	i.zdnscloud.com.
 xn--9et52u.	0	IN	NS	j.zdnscloud.com.
-xn--9et52u.	0	IN	DS	769 8 2 2bae7ba36ea94541b8bc12188eb1aa933b5081cc281909cc5874af2ebeebae96
+xn--9et52u.	0	IN	DS	46544 8 2 0310cad1673a9aeca7a4eb6c955ea0bebefd87c77c702772e94aa0eb31cb82d3
 xn--9krt00a.	0	IN	NS	a0.nic.xn--9krt00a.
 xn--9krt00a.	0	IN	NS	a2.nic.xn--9krt00a.
 xn--9krt00a.	0	IN	NS	b0.nic.xn--9krt00a.
