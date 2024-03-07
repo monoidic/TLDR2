@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024030703 1 1 8e4a1e71afe1c8d668f7841361b749d493c0d0beb7183e26c7d6282687498fbdbed572ecbf22976281c6259182c62866
+.	0	IN	ZONEMD	2024030704 1 1 642c2c6e1519099efb672e88401f9d8e4fe0b959b5bf8888e04da2fbf65d00af9a25b741fb1b66d29cae7f778d83910b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5955,6 +5955,7 @@ feedback.	0	IN	NS	b.nic.feedback.
 feedback.	0	IN	NS	c.nic.feedback.
 feedback.	0	IN	NS	d.nic.feedback.
 feedback.	0	IN	DS	16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
+feedback.	0	IN	DS	37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 a.nic.feedback.	0	IN	A	194.169.218.50
 a.nic.feedback.	0	IN	AAAA	2001:67c:13cc::1:50
 b.nic.feedback.	0	IN	A	185.24.64.50
@@ -6474,6 +6475,7 @@ forum.	0	IN	NS	b.nic.forum.
 forum.	0	IN	NS	c.nic.forum.
 forum.	0	IN	NS	d.nic.forum.
 forum.	0	IN	DS	9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
+forum.	0	IN	DS	12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
 a.nic.forum.	0	IN	A	194.169.218.65
 a.nic.forum.	0	IN	AAAA	2001:67c:13cc::1:65
 b.nic.forum.	0	IN	A	185.24.64.65
@@ -18550,7 +18552,6 @@ wf.	0	IN	NS	d.nic.fr.
 wf.	0	IN	NS	e.ext.nic.fr.
 wf.	0	IN	NS	f.ext.nic.fr.
 wf.	0	IN	NS	g.ext.nic.fr.
-wf.	0	IN	DS	18393 13 2 c67316fa4c43d54d07c93074eddb7914346c4132726a258cd2acc3d4877081e5
 wf.	0	IN	DS	19250 13 2 6fa97d147253c2afb0cfcf18edb8c97e592d05e0845b6c644c3793fed8a756dd
 whoswho.	0	IN	NS	anycast9.irondns.net.
 whoswho.	0	IN	NS	anycast10.irondns.net.
