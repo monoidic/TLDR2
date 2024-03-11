@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024031103 1 1 4a2bab4b703187e5e2a6d0d161c8a07e988c4ff4a01969f78eed0bb5b90d1086e534ed2a4f5bb9ccc76179f18afaca47
+.	0	IN	ZONEMD	2024031104 1 1 c14801aa6950039e1cf66f88860e4223467b98696cadafcfdb2679f5dc8b64f207c20eaaa9b07c71d0fb4c6eace83bb6
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2532,8 +2532,6 @@ business.	0	IN	NS	v2n1.nic.business.
 business.	0	IN	DS	27997 8 2 7f17414b2ebdd17b8bf3f1205bc82e2ee158df8de4cf46daceff55447f0ee429
 ns1.dns.business.	0	IN	A	157.90.205.138
 ns1.dns.business.	0	IN	AAAA	2a01:4f8:252:4295::9d5a:cd8a
-ns2ke.dns.business.	0	IN	A	147.135.106.237
-ns2ke.dns.business.	0	IN	AAAA	2604:2dc0:200:2eb::237
 v0n0.nic.business.	0	IN	A	65.22.32.38
 v0n0.nic.business.	0	IN	AAAA	2a01:8840:22::38
 v0n1.nic.business.	0	IN	A	65.22.33.38
@@ -6674,8 +6672,8 @@ fun.	0	IN	NS	a.nic.fun.
 fun.	0	IN	NS	b.nic.fun.
 fun.	0	IN	NS	e.nic.fun.
 fun.	0	IN	NS	f.nic.fun.
-fun.	0	IN	DS	4594 8 1 e256d68d24212dd3355f3ae897504e47f847579c
 fun.	0	IN	DS	4594 8 2 58d070a391a5808da071de7234c293b2a4a32006f1ff152ccac45e2ee66c3891
+fun.	0	IN	DS	45055 8 2 5e45d3230400b1e80e5e2011e4d03e969fa89254b8a2a483d6f366b17357f957
 a.nic.fun.	0	IN	A	194.169.218.72
 a.nic.fun.	0	IN	AAAA	2001:67c:13cc::1:72
 b.nic.fun.	0	IN	A	185.24.64.72
@@ -7604,7 +7602,7 @@ hair.	0	IN	NS	a.nic.hair.
 hair.	0	IN	NS	b.nic.hair.
 hair.	0	IN	NS	c.nic.hair.
 hair.	0	IN	NS	d.nic.hair.
-hair.	0	IN	DS	30150 8 2 50cca06c1ed8718a9398f347566c5fa6773222e7b3f152847292a5697cd8a7dd
+hair.	0	IN	DS	30070 8 2 70efc235a8da1ce4cafcb1fdfba2bd6115ad02b6062adebc6e8ab91ca3a6bd79
 hair.	0	IN	DS	39236 8 2 d8c88daa478496c4f99a8cb5cacb0746cdde2612e9668beb6f7d683ac220313b
 a.nic.hair.	0	IN	A	194.169.218.117
 a.nic.hair.	0	IN	AAAA	2001:67c:13cc::1:117
@@ -8024,7 +8022,7 @@ host.	0	IN	NS	a.nic.host.
 host.	0	IN	NS	b.nic.host.
 host.	0	IN	NS	e.nic.host.
 host.	0	IN	NS	f.nic.host.
-host.	0	IN	DS	61142 8 1 86b9716c2e5daadc785ada27d4e8bfb190947d14
+host.	0	IN	DS	1897 8 2 726c3c1baf1ba9853660e4d34270d42d1e8c50ec79a1843c7cb14fa1dc8f38f8
 host.	0	IN	DS	61142 8 2 d15742398f5291b0e2642bee5da6ed6ef3f4497c65bac0f5a6c9c8ff495cf286
 a.nic.host.	0	IN	A	194.169.218.53
 a.nic.host.	0	IN	AAAA	2001:67c:13cc::1:53
@@ -9289,7 +9287,6 @@ ke.	0	IN	NS	ns.anycast.kenic.or.ke.
 ke.	0	IN	NS	kenic.anycastdns.cz.
 ke.	0	IN	NS	mzizi.kenic.or.ke.
 ke.	0	IN	NS	ns-ke.afrinic.net.
-ke.	0	IN	NS	ns2ke.dns.business.
 ke.	0	IN	DS	28886 8 2 19406c149df3db23a40a55194b87c7d78c9223427d4602b78b117ef20f072afd
 ns.anycast.kenic.or.ke.	0	IN	A	204.61.216.7
 ns.anycast.kenic.or.ke.	0	IN	AAAA	2001:500:14:6007:ad::1
@@ -10587,8 +10584,8 @@ makeup.	0	IN	NS	a.nic.makeup.
 makeup.	0	IN	NS	b.nic.makeup.
 makeup.	0	IN	NS	c.nic.makeup.
 makeup.	0	IN	NS	d.nic.makeup.
+makeup.	0	IN	DS	34334 8 2 17b774be41d73e0e533db43f9ca06113284d7454cb3744726d09c46676d4532b
 makeup.	0	IN	DS	49310 8 2 335d21fa55d5e1e94ad51a0cd89e8bef3f034c5f842c2ad0a305abedb2603257
-makeup.	0	IN	DS	64251 8 2 d35bafb6c94ccfff2dd894b0b745c49c0717bcc5348ca5422b1a9405db1cafb8
 a.nic.makeup.	0	IN	A	194.169.218.116
 a.nic.makeup.	0	IN	AAAA	2001:67c:13cc::1:116
 b.nic.makeup.	0	IN	A	185.24.64.116
@@ -11392,7 +11389,7 @@ motorcycles.	0	IN	NS	b.nic.motorcycles.
 motorcycles.	0	IN	NS	c.nic.motorcycles.
 motorcycles.	0	IN	NS	d.nic.motorcycles.
 motorcycles.	0	IN	DS	4906 8 2 b200a2be6fcdbe18e128fcbf7f0e60f646b58f1d6c8842a9243c17aae03e74db
-motorcycles.	0	IN	DS	21907 8 2 6aca9a367926ed9773d6feea4671eedf7bf4ddc8c08b7cd8fec415e9dbdfcc66
+motorcycles.	0	IN	DS	34942 8 2 5a0f6d031f2eabcbc8c3501be933fa32def649ab1172b5c8c51c9be6f38d6c91
 a.nic.motorcycles.	0	IN	A	194.169.218.135
 a.nic.motorcycles.	0	IN	AAAA	2001:67c:13cc::1:135
 b.nic.motorcycles.	0	IN	A	185.24.64.135
@@ -13668,8 +13665,8 @@ press.	0	IN	NS	a.nic.press.
 press.	0	IN	NS	b.nic.press.
 press.	0	IN	NS	e.nic.press.
 press.	0	IN	NS	f.nic.press.
-press.	0	IN	DS	4289 8 1 2efc540d13139b56fc1041247b275bc5cc6de009
 press.	0	IN	DS	4289 8 2 03a4602f454dd05e3ef2b7a9507f7e4eeb78ba9259e35da7c3b20fd8da43341a
+press.	0	IN	DS	56540 8 2 9e422a4e7be0a741b0c7e5c5ca984afa95b0c2f512f13be981e47aecf87ea581
 a.nic.press.	0	IN	A	194.169.218.34
 a.nic.press.	0	IN	AAAA	2001:67c:13cc::1:34
 b.nic.press.	0	IN	A	185.24.64.34
@@ -13795,7 +13792,7 @@ protection.	0	IN	NS	a.nic.protection.
 protection.	0	IN	NS	b.nic.protection.
 protection.	0	IN	NS	e.nic.protection.
 protection.	0	IN	NS	f.nic.protection.
-protection.	0	IN	DS	46846 8 1 44911d0cb6ae4931c66c83c2881085e48866b075
+protection.	0	IN	DS	42842 8 2 a53b40df5d9fe9bcd1973b978c241562c22c70291dd829e6c59a864cb528b415
 protection.	0	IN	DS	46846 8 2 3e780717cc500405e3e7869aebbe9f3d49ac770b338e216fca3f096efe92f2cf
 a.nic.protection.	0	IN	A	194.169.218.67
 a.nic.protection.	0	IN	AAAA	2001:67c:13cc::1:67
@@ -13994,9 +13991,7 @@ quest.	0	IN	NS	a-cnic.nic.quest.
 quest.	0	IN	NS	b-cnic.nic.quest.
 quest.	0	IN	NS	c-cnic.nic.quest.
 quest.	0	IN	NS	d-cnic.nic.quest.
-quest.	0	IN	DS	21334 8 1 d99396efcd9b8f4a3b269cd1e9620572fb04f0d0
-quest.	0	IN	DS	21334 8 2 8472c2fdf0a9d2be4a2c1bc4c601c987118e6a815b1242b6985110b7c390e80e
-quest.	0	IN	DS	50071 8 1 118c9e561b08fc2c993ca75545ff688ecff4ffcb
+quest.	0	IN	DS	19889 8 2 ddae7f1bec24724592cf3a52a82cd3b9aae5810038199816544a50bd6ff5f481
 quest.	0	IN	DS	50071 8 2 a0a1fa69fa59661ad0501d87885426b7b879c84b19891309db11ea15a92ef2ab
 a-cnic.nic.quest.	0	IN	A	194.169.218.19
 a-cnic.nic.quest.	0	IN	AAAA	2001:67c:13cc::1:19
@@ -14990,6 +14985,7 @@ saxo.	0	IN	NS	x.nic.saxo.
 saxo.	0	IN	NS	y.nic.saxo.
 saxo.	0	IN	NS	z.nic.saxo.
 saxo.	0	IN	DS	8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
+saxo.	0	IN	DS	60076 8 2 596e280e257bce8da04e98ffb42a2d9df28c1736d00a08a665fc92506d32f2a9
 a.nic.saxo.	0	IN	A	37.209.192.9
 a.nic.saxo.	0	IN	AAAA	2001:dcd:1::9
 b.nic.saxo.	0	IN	A	37.209.194.9
