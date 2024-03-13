@@ -8,7 +8,9 @@
 * `bd.`
 * `br.`
 * `bt.`
+* `car.`
 * `cars.`
+* `ch.`
 * `christmas.`
 * `ci.`
 * `desi.`
@@ -21,9 +23,11 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
 * `ir.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
