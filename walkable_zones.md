@@ -9,8 +9,12 @@
 * `br.`
 * `bt.`
 * `car.`
+* `cars.`
+* `ch.`
 * `christmas.`
+* `ci.`
 * `desi.`
+* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -25,10 +29,12 @@
 * `kg.`
 * `kz.`
 * `lb.`
+* `li.`
 * `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
+* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
