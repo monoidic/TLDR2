@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024031801 1 1 adae443f9bb09e7a4ffbbfa3e1c9a26ea8b48cb8609c7f3fc2898413804c2c7294f066a8517cb81b6481df5aac75dad5
+.	0	IN	ZONEMD	2024031802 1 1 151cca78fd989dcdfd3340be49a9cc49f5ff3529c097c5ed52495d2f0fd81d3eb4b398143df6a086e71e6bf1abcf579f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5847,6 +5847,7 @@ fairwinds.	0	IN	NS	ac2.nstld.com.
 fairwinds.	0	IN	NS	ac3.nstld.com.
 fairwinds.	0	IN	NS	ac4.nstld.com.
 fairwinds.	0	IN	DS	8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
+fairwinds.	0	IN	DS	48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 faith.	0	IN	NS	a.nic.faith.
 faith.	0	IN	NS	b.nic.faith.
 faith.	0	IN	NS	c.nic.faith.
@@ -16875,7 +16876,6 @@ tel.	0	IN	NS	anycast10.irondns.net.
 tel.	0	IN	NS	anycast23.irondns.net.
 tel.	0	IN	NS	anycast24.irondns.net.
 tel.	0	IN	DS	31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
-tel.	0	IN	DS	48802 8 2 4a00b3f46ad973780b87f241360da0b79481b257410bb68a923fe887087be139
 temasek.	0	IN	NS	a0.nic.temasek.
 temasek.	0	IN	NS	a2.nic.temasek.
 temasek.	0	IN	NS	b0.nic.temasek.
