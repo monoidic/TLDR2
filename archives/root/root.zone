@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024032001 1 1 c9f89e73261de70187370230d045328ff6b527f1e252243223895bb93347a37dc28506ecb7258bcdc0608ae483ab1260
+.	0	IN	ZONEMD	2024032002 1 1 ad1340048c5ed1222f0688e8cdad20ae59ca228839379382f77071d4f616ec73f9e8efa5c7539a1d47b47c8565927e00
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -6014,24 +6014,12 @@ b0.nic.fedex.	0	IN	A	65.22.229.33
 b0.nic.fedex.	0	IN	AAAA	2a01:8840:df::33
 c0.nic.fedex.	0	IN	A	65.22.230.33
 c0.nic.fedex.	0	IN	AAAA	2a01:8840:e0::33
-feedback.	0	IN	NS	a.nic.feedback.
-feedback.	0	IN	NS	b.nic.feedback.
-feedback.	0	IN	NS	c.nic.feedback.
-feedback.	0	IN	NS	d.nic.feedback.
 feedback.	0	IN	NS	ns01.trs-dns.com.
 feedback.	0	IN	NS	ns01.trs-dns.net.
 feedback.	0	IN	NS	ns01.trs-dns.org.
 feedback.	0	IN	NS	ns01.trs-dns.info.
 feedback.	0	IN	DS	16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
 feedback.	0	IN	DS	37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
-a.nic.feedback.	0	IN	A	194.169.218.50
-a.nic.feedback.	0	IN	AAAA	2001:67c:13cc::1:50
-b.nic.feedback.	0	IN	A	185.24.64.50
-b.nic.feedback.	0	IN	AAAA	2a04:2b00:13cc::1:50
-c.nic.feedback.	0	IN	A	212.18.248.50
-c.nic.feedback.	0	IN	AAAA	2a04:2b00:13ee::50
-d.nic.feedback.	0	IN	A	212.18.249.50
-d.nic.feedback.	0	IN	AAAA	2a04:2b00:13ff::50
 ferrari.	0	IN	NS	a0.nic.ferrari.
 ferrari.	0	IN	NS	a2.nic.ferrari.
 ferrari.	0	IN	NS	b0.nic.ferrari.
@@ -6538,24 +6526,12 @@ v2n0.nic.forsale.	0	IN	A	65.22.35.53
 v2n0.nic.forsale.	0	IN	AAAA	2a01:8840:25::53
 v2n1.nic.forsale.	0	IN	A	161.232.17.53
 v2n1.nic.forsale.	0	IN	AAAA	2a01:8840:fb::53
-forum.	0	IN	NS	a.nic.forum.
-forum.	0	IN	NS	b.nic.forum.
-forum.	0	IN	NS	c.nic.forum.
-forum.	0	IN	NS	d.nic.forum.
 forum.	0	IN	NS	ns01.trs-dns.com.
 forum.	0	IN	NS	ns01.trs-dns.net.
 forum.	0	IN	NS	ns01.trs-dns.org.
 forum.	0	IN	NS	ns01.trs-dns.info.
 forum.	0	IN	DS	9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
 forum.	0	IN	DS	12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
-a.nic.forum.	0	IN	A	194.169.218.65
-a.nic.forum.	0	IN	AAAA	2001:67c:13cc::1:65
-b.nic.forum.	0	IN	A	185.24.64.65
-b.nic.forum.	0	IN	AAAA	2a04:2b00:13cc::1:65
-c.nic.forum.	0	IN	A	212.18.248.65
-c.nic.forum.	0	IN	AAAA	2a04:2b00:13ee::65
-d.nic.forum.	0	IN	A	212.18.249.65
-d.nic.forum.	0	IN	AAAA	2a04:2b00:13ff::65
 foundation.	0	IN	NS	v0n0.nic.foundation.
 foundation.	0	IN	NS	v0n1.nic.foundation.
 foundation.	0	IN	NS	v0n2.nic.foundation.
@@ -12827,8 +12803,8 @@ online.	0	IN	NS	a.nic.online.
 online.	0	IN	NS	b.nic.online.
 online.	0	IN	NS	e.nic.online.
 online.	0	IN	NS	f.nic.online.
-online.	0	IN	DS	4267 8 1 a038da06a96ad8e9bfe2ba78c392ff7804b4cd2b
 online.	0	IN	DS	4267 8 2 66d7010609cb19e99ad1da2833ddab8ca2e7acc1ce870cc28d29e76eb53d39ba
+online.	0	IN	DS	19282 8 2 2706a216bd382a5823c746ce685cbc84ca12a9c227e47792abd990fa7885dbb0
 a.nic.online.	0	IN	A	194.169.218.54
 a.nic.online.	0	IN	AAAA	2001:67c:13cc::1:54
 b.nic.online.	0	IN	A	185.24.64.54
@@ -15757,8 +15733,8 @@ site.	0	IN	NS	a.nic.site.
 site.	0	IN	NS	b.nic.site.
 site.	0	IN	NS	e.nic.site.
 site.	0	IN	NS	f.nic.site.
-site.	0	IN	DS	51676 8 1 90ddbeeeb973b0f8719ed763fb6eede97c73abf5
 site.	0	IN	DS	51676 8 2 883175f6f5c68ea81563b62d1b2b79b6a997d60dc6e20cc70afd0cd6b7e82f62
+site.	0	IN	DS	51974 8 2 a06dc47457cc1185cf1b3a7cf6eccb84978de92939dd182beed9521509d0da7b
 a.nic.site.	0	IN	A	194.169.218.61
 a.nic.site.	0	IN	AAAA	2001:67c:13cc::1:61
 b.nic.site.	0	IN	A	185.24.64.61
@@ -16103,8 +16079,8 @@ space.	0	IN	NS	a.nic.space.
 space.	0	IN	NS	b.nic.space.
 space.	0	IN	NS	e.nic.space.
 space.	0	IN	NS	f.nic.space.
-space.	0	IN	DS	44251 8 1 36acb68b734dfe465cc1112f9dac08b8b66627cc
 space.	0	IN	DS	44251 8 2 a82d8ed2b07d66d6e7af375e0e44b22a82f4479ad45f5d8e1859df6fc170e67c
+space.	0	IN	DS	63881 8 2 85ee1264739a00fb6139712c3d7227721d99654226b0140f14a3e3d1a63b315f
 a.nic.space.	0	IN	A	194.169.218.51
 a.nic.space.	0	IN	AAAA	2001:67c:13cc::1:51
 b.nic.space.	0	IN	A	185.24.64.51
@@ -16310,8 +16286,8 @@ store.	0	IN	NS	a.nic.store.
 store.	0	IN	NS	b.nic.store.
 store.	0	IN	NS	e.nic.store.
 store.	0	IN	NS	f.nic.store.
-store.	0	IN	DS	16342 8 1 c6d41fb11396e2b908bd82add46457daa960ec23
 store.	0	IN	DS	16342 8 2 e59827295e51c4f46d5208ed454bcd78dd6ffa49f01bd203b24e1380aa535675
+store.	0	IN	DS	38974 8 2 3d17e03a2e9dd75f65939b2ca470d85f03ce4cbea32187d65ea1a610569e5f49
 a.nic.store.	0	IN	A	194.169.218.45
 a.nic.store.	0	IN	AAAA	2001:67c:13cc::1:45
 b.nic.store.	0	IN	A	185.24.64.45
@@ -17816,12 +17792,8 @@ uno.	0	IN	NS	a.nic.uno.
 uno.	0	IN	NS	b.nic.uno.
 uno.	0	IN	NS	c.nic.uno.
 uno.	0	IN	NS	d.nic.uno.
-uno.	0	IN	DS	35737 8 1 a6654717b1b97394de61bfe6d043459ba3a0112a
+uno.	0	IN	DS	7286 8 2 d85eed6e94d62f2d9c4d8ff199a5cb355ad0e3b56bf845264aa9f38bfc6450b5
 uno.	0	IN	DS	35737 8 2 0dfccfc8e90286393539413d9f228fd96f7b08b8f15143020c07e32e3d254936
-uno.	0	IN	DS	57892 8 1 3b49fdc11daee5187a4170a5badf77a917bce481
-uno.	0	IN	DS	57892 8 2 c156dd21b3b96a50fa94be322cdf6f0144e86c9597e4aa56d53e9b490c94a537
-uno.	0	IN	DS	64285 8 1 e0d6f2ecbe3f28f3f59d4193198240f9966011e8
-uno.	0	IN	DS	64285 8 2 3b4dd0febfbd51cb5f15db43ccfc832de0989445d6bb70c31a9b96f681cc6c77
 a.nic.uno.	0	IN	A	194.169.218.21
 a.nic.uno.	0	IN	AAAA	2001:67c:13cc::1:21
 b.nic.uno.	0	IN	A	185.24.64.21
@@ -18605,8 +18577,8 @@ website.	0	IN	NS	a.nic.website.
 website.	0	IN	NS	b.nic.website.
 website.	0	IN	NS	e.nic.website.
 website.	0	IN	NS	f.nic.website.
-website.	0	IN	DS	47815 8 1 34c5e08b2f09248a85be31cd465db919af06da90
 website.	0	IN	DS	47815 8 2 cb5f31743f17c1c1641d7ecc4c7dc40217363645e7ac25c509393c6709d933a8
+website.	0	IN	DS	58591 8 2 bad631380e8e6f70cf21dec0d8d8abbe9df00cd2f0f9376a33535a3fa6ab26e6
 a.nic.website.	0	IN	A	194.169.218.52
 a.nic.website.	0	IN	AAAA	2001:67c:13cc::1:52
 b.nic.website.	0	IN	A	185.24.64.52
@@ -20600,6 +20572,7 @@ yt.	0	IN	NS	d.nic.fr.
 yt.	0	IN	NS	e.ext.nic.fr.
 yt.	0	IN	NS	f.ext.nic.fr.
 yt.	0	IN	NS	g.ext.nic.fr.
+yt.	0	IN	DS	2488 13 2 185aed42dc3641ea53ec74c474aeaf72f049556fe306ded0e748b60c5fed1000
 yt.	0	IN	DS	58156 13 2 712dd1bbc29e719caf3b34e9a0bee2d443df1ed9d2d6e09b97baa828d5ff3dc7
 yun.	0	IN	NS	ns1.teleinfo.cn.
 yun.	0	IN	NS	ns2.teleinfoo.com.
