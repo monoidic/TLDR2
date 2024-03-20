@@ -3,7 +3,6 @@
 * `.`
 * `arpa.`
 * `audio.`
-* `auto.`
 * `ax.`
 * `bd.`
 * `br.`
@@ -17,7 +16,6 @@
 * `diet.`
 * `dz.`
 * `ee.`
-* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -26,11 +24,8 @@
 * `hosting.`
 * `id.`
 * `ir.`
-* `kg.`
-* `kz.`
 * `lb.`
 * `li.`
-* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
@@ -42,7 +37,6 @@
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
