@@ -25,6 +25,7 @@
 * `guitars.`
 * `hosting.`
 * `id.`
+* `ieee.`
 * `ir.`
 * `kg.`
 * `kz.`
