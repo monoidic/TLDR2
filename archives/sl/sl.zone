@@ -4,8 +4,6 @@ sl.	0	IN	DNSKEY	256 3 7 AwEAAb4qjYqBg4yE5D+OKMKCt8pOMfhl69duSzOnVq/GD/xlVUMmvueh
 sl.	0	IN	DNSKEY	256 3 7 AwEAAcs80gvIGeM7TDoBt0gfjFsmJ+6UOdllB39s2RuwjQxHuOhnzWTWuuR3R28fuYVkfQs67OweuAcg2QilShXyrrnpaFTkuoOqN5ZGvBuIOQVAfxUHXuDmPg8luuNyIOwrV0WR4Z8BnhAAuaZOAWpvpa5QsP4Zv4wEopjZiwvbZNYeuTZu/Lrh8kLx2BjRNKE3vX901UC9jo/aueInhnLtAm7iPkqDicOvMiLeEgCCGf76gFf3EjNKtO78T/LF0ySL8saQGTb/shrfeCp6DKzfpk9PTrM0yjckMM2IgpmwVCJFVoBGlt0MZeunuengAbB1WwaDwRrVro3O4XcqohmRp0c= ;{id = 55940 (zsk), size = 2048b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAdxd7o/dx+wvfkCapfZkKFGjalYjk35IDQ7ZrlvtvYXf9a/MBxABVbuY2ipb/At7Cn2MREtVfdT/+TWEzqeybYXZSBwYtkfGxdHvmppddHQj/aFZ6OpQ22W4XnLDv3SGayueUAZ693tJNy8DFJlyuiT1n0oFn66r2swdkTbhAwesTN40f/Kgz/m02FqcnyEce0aB+ffR4qxbRaBQKNfzoE/on6kLODDgI6g5W1qa11hcrH1CmKy/j2LzVbm90DsFOhUdfZOIFR9Pq21lysTIO8alMiQO4BhiaOyXqItA6ptGQbGORRNH1Qn++8CNi/vUr852W459VFrm0MIgqoUyUtPafjiPdyb7GcQiA8s4+Sf0niQFxpbdINDk5B1VjyTgZI95/N21vUdHWD1Cp4eK/CRvNMcLp0ZqDiOBZG5LEk/7d2Cpc9xImgMfdp1vDTMo+xEw4MVf2JlzMZJZr5cWKc/dpQb4/Kh6JnwQFSR4Chd+hVu9AHRzojro7qDUoTVNOdrrzVsk/10NIGDg0LaPbAQI6JtU5DQCRPVcjoOGeCI1E2bWKMLwl4qYnJn9KMDo3/5fxU14+YHZ44C1rAn7AXhZX3me3a5phTBRQtSkudiSxf1Bf52yguXFyEIUPbdPSBSIKL5tflsfZ8JCRt8dfDYh8aGMGev7U7HsiMKuxxqT ;{id = 40824 (ksk), size = 4096b}
 sl.	0	IN	DNSKEY	257 3 7 AwEAAfHhW4FXfxF41FuOfzmFu+lphl7YE4Q9nS+vcfuSYXsDdp1sHSObpJ5TmIH9Kde1QncZJiohXKadkeBAPVa6d2H1ol5uPXq2ZF7riT4cvNZDHcO0BFHGVqsmb+ut+J4P1rfhoCDgWyUhwHJKQj4hfYgdHMFDH5EpCVoNI1PzwXM1J2GSIah2OFRTehvVglduiZES2fQuEMToaranjtSMZ2qIHr+6wBD461y3VxhPJS0EYi9GV+SRHWvgu6YcTbpH91atZFG74/117DHOGdZtHHIYru/imz5qEstlz1tfekBb44v6RIZewp1Zp1Z13nLUSze1nBFTfdycXFWfD3eaZuY7vgTURMsE803NJKCYaP/HeV92VTfnDVarreRUSBD2uN5Gz8HCr8VPtbj+zSHCReqalXvTgTqMXRKEqufGvH7q3pypYOlz1Uh2HgWM4B/yoxGxCnwH4r+Y6fV9gHE2qq6xt2uG81YzskwehWfvDlWerWq6xK/zYJ1tyUUvI9BU2GCCg7MqbY6VrHYlH75i/O9BCC21PwToKNhT4Mx+L/lp5mE91Af74SH+5LEFY+N8JAjOh26c3yipAjlqMSWLtAfaTZzSwlZ60hWIdDvKBl4UUlxPQznFNFlSCpJ2C5H9+iNtWanPsR/9TAsdYa25fhLPWQRdOGFecVwP5/1hDL2/ ;{id = 1179 (ksk), size = 4096b}
-1.sl.	0	IN	NS	ns1.nic.sl.
-1.sl.	0	IN	NS	ns1.ipage.com.
 1010benja.sl.	0	IN	NS	ns1.globaldomainserver.net.
 1010benja.sl.	0	IN	NS	ns2.globaldomainserver.net.
 1010benja.sl.	0	IN	NS	ns3.globaldomainserver.net.
@@ -357,10 +355,6 @@ apcparty.sl.	0	IN	NS	ns55.domaincontrol.com.
 apcparty.sl.	0	IN	NS	ns56.domaincontrol.com.
 apex.sl.	0	IN	NS	ns1.brandcloudns.com.
 apex.sl.	0	IN	NS	ns2.brandcloudns.com.
-apexxnar.sl.	0	IN	NS	ns1.p15.dynect.net.
-apexxnar.sl.	0	IN	NS	ns2.p15.dynect.net.
-apexxnar.sl.	0	IN	NS	ns3.p15.dynect.net.
-apexxnar.sl.	0	IN	NS	ns4.p15.dynect.net.
 apis.sl.	0	IN	NS	pns11.cloudns.net.
 apis.sl.	0	IN	NS	pns12.cloudns.net.
 apis.sl.	0	IN	NS	pns13.cloudns.net.
@@ -434,10 +428,6 @@ autodiscover.sl.	0	IN	NS	ns1-38.azure-dns.com.
 autodiscover.sl.	0	IN	NS	ns2-38.azure-dns.net.
 autodiscover.sl.	0	IN	NS	ns3-38.azure-dns.org.
 autodiscover.sl.	0	IN	NS	ns4-38.azure-dns.info.
-automate.sl.	0	IN	NS	pns11.cloudns.net.
-automate.sl.	0	IN	NS	pns12.cloudns.net.
-automate.sl.	0	IN	NS	pns13.cloudns.net.
-automate.sl.	0	IN	NS	pns14.cloudns.net.
 autoscout24.sl.	0	IN	NS	ns-41.awsdns-05.com.
 autoscout24.sl.	0	IN	NS	ns-895.awsdns-47.net.
 autoscout24.sl.	0	IN	NS	ns-1534.awsdns-63.org.
@@ -539,9 +529,6 @@ bboxx.sl.	0	IN	NS	ns1.dns-parking.com.
 bboxx.sl.	0	IN	NS	ns2.dns-parking.com.
 bbsports.sl.	0	IN	NS	ns1.hostflexi.com.
 bbsports.sl.	0	IN	NS	ns2.hostflexi.com.
-bclub.sl.	0	IN	NS	ns1.netim.net.
-bclub.sl.	0	IN	NS	ns2.netim.net.
-bclub.sl.	0	IN	NS	ns3.netim.net.
 bcw-global.sl.	0	IN	NS	diana.ns.cloudflare.com.
 bcw-global.sl.	0	IN	NS	plato.ns.cloudflare.com.
 bdo.sl.	0	IN	NS	udns1.cscdns.net.
@@ -1261,9 +1248,6 @@ dassy.sl.	0	IN	NS	ns1.eurodns.com.
 dassy.sl.	0	IN	NS	ns2.eurodns.com.
 dassy.sl.	0	IN	NS	ns3.eurodns.com.
 dassy.sl.	0	IN	NS	ns4.eurodns.com.
-dasweltauto.sl.	0	IN	NS	ns1.volkswagen.de.
-dasweltauto.sl.	0	IN	NS	ns2.volkswagen.de.
-dasweltauto.sl.	0	IN	NS	ns5.xc-ns.de.
 data.sl.	0	IN	NS	pns11.cloudns.net.
 data.sl.	0	IN	NS	pns12.cloudns.net.
 data.sl.	0	IN	NS	pns13.cloudns.net.
@@ -1418,10 +1402,6 @@ dreamdayuniversity.sl.	0	IN	NS	ns1.c04.tmdcloud.london.
 dreamdayuniversity.sl.	0	IN	NS	ns2.c04.tmdcloud.london.
 dreamjob.sl.	0	IN	NS	boyd.ns.cloudflare.com.
 dreamjob.sl.	0	IN	NS	rosa.ns.cloudflare.com.
-drive.sl.	0	IN	NS	ns1.stackdns.com.
-drive.sl.	0	IN	NS	ns2.stackdns.com.
-drive.sl.	0	IN	NS	ns3.stackdns.com.
-drive.sl.	0	IN	NS	ns4.stackdns.com.
 driveafrica.sl.	0	IN	NS	ns1.stoppress141.com.
 driveafrica.sl.	0	IN	NS	ns2.stoppress141.com.
 driveafrica.sl.	0	IN	NS	ns3.stoppress141.com.
@@ -1582,9 +1562,6 @@ empower.sl.	0	IN	NS	ns.otherdns.com.
 empower.sl.	0	IN	NS	ns.otherdns.net.
 encore.sl.	0	IN	NS	ns100.nsresponse.com.
 encore.sl.	0	IN	NS	ns101.nsresponse.com.
-energyliveshere.sl.	0	IN	NS	ns1.markmonitor.com.
-energyliveshere.sl.	0	IN	NS	ns3.markmonitor.com.
-energyliveshere.sl.	0	IN	NS	ns5.markmonitor.com.
 englishasafirstlanguage.sl.	0	IN	NS	ns1.stoppress141.com.
 englishasafirstlanguage.sl.	0	IN	NS	ns2.stoppress141.com.
 englishasafirstlanguage.sl.	0	IN	NS	ns3.stoppress141.com.
@@ -1620,14 +1597,10 @@ epson.sl.	0	IN	NS	ns1.markmonitor.com.
 epson.sl.	0	IN	NS	ns2.markmonitor.com.
 epson.sl.	0	IN	NS	ns3.markmonitor.com.
 epson.sl.	0	IN	NS	ns4.markmonitor.com.
-equip-test.sl.	0	IN	NS	dns1.webenlet.com.
-equip-test.sl.	0	IN	NS	dns2.webenlet.com.
 equveni.sl.	0	IN	NS	ns-217.awsdns-27.com.
 equveni.sl.	0	IN	NS	ns-596.awsdns-10.net.
 equveni.sl.	0	IN	NS	ns-1507.awsdns-60.org.
 equveni.sl.	0	IN	NS	ns-1733.awsdns-24.co.uk.
-eraresidences.sl.	0	IN	NS	ns1.bluehost.com.
-eraresidences.sl.	0	IN	NS	ns2.bluehost.com.
 ergobaby.sl.	0	IN	NS	ns.udag.de.
 ergobaby.sl.	0	IN	NS	ns.udag.net.
 ergobaby.sl.	0	IN	NS	ns.udag.org.
@@ -2044,15 +2017,10 @@ glfm.sl.	0	IN	NS	ns1.web4africa.com.
 glfm.sl.	0	IN	NS	ns2.web4africa.com.
 glfm.sl.	0	IN	NS	ns3.web4africa.com.
 glfm.sl.	0	IN	NS	ns4.web4africa.com.
-globalexpansion.sl.	0	IN	NS	sloan.ns.cloudflare.com.
-globalexpansion.sl.	0	IN	NS	alexis.ns.cloudflare.com.
 globallcp.sl.	0	IN	NS	ns31.domaincontrol.com.
 globallcp.sl.	0	IN	NS	ns32.domaincontrol.com.
 globalsouthinvestment.sl.	0	IN	NS	ns1.afcom.sl.
 globalsouthinvestment.sl.	0	IN	NS	ns2.afcom.sl.
-globeleq.sl.	0	IN	NS	a.dns.gandi.net.
-globeleq.sl.	0	IN	NS	b.dns.gandi.net.
-globeleq.sl.	0	IN	NS	c.dns.gandi.net.
 gmail.sl.	0	IN	NS	ns1.google.com.
 gmail.sl.	0	IN	NS	ns2.google.com.
 gmail.sl.	0	IN	NS	ns3.google.com.
@@ -2457,8 +2425,6 @@ ipmirror.sl.	0	IN	NS	dns1.cscdns.net.
 ipmirror.sl.	0	IN	NS	dns2.cscdns.net.
 iptel.sl.	0	IN	NS	ns03.domaincontrol.com.
 iptel.sl.	0	IN	NS	ns04.domaincontrol.com.
-iptv.sl.	0	IN	NS	170.ns1.above.com.
-iptv.sl.	0	IN	NS	170.ns2.above.com.
 iqoo.sl.	0	IN	NS	ns1.brandcloudns.com.
 iqoo.sl.	0	IN	NS	ns2.brandcloudns.com.
 iqrabit.sl.	0	IN	NS	ns1.nic.sl.
@@ -2651,8 +2617,6 @@ kmvfoodsandproduce.sl.	0	IN	NS	ns03.domaincontrol.com.
 kmvfoodsandproduce.sl.	0	IN	NS	ns04.domaincontrol.com.
 kns.sl.	0	IN	NS	ns1.afcom.sl.
 kns.sl.	0	IN	NS	ns2.afcom.sl.
-kntltd.sl.	0	IN	NS	ns1.bluehost.com.
-kntltd.sl.	0	IN	NS	ns2.bluehost.com.
 kolatbrick.sl.	0	IN	NS	ns1.yourwebhosting.com.
 kolatbrick.sl.	0	IN	NS	ns2.yourwebhosting.com.
 kolekt.sl.	0	IN	NS	alexis.ns.cloudflare.com.
@@ -2750,12 +2714,6 @@ lifelineconsortium.sl.	0	IN	NS	ns1.byet.org.
 lifelineconsortium.sl.	0	IN	NS	ns2.byet.org.
 lifelineconsortium.sl.	0	IN	NS	ns3.byet.org.
 lifelineconsortium.sl.	0	IN	NS	ns4.byet.org.
-liga-bet.sl.	0	IN	NS	ns3-fwl2.nic.ru.
-liga-bet.sl.	0	IN	NS	ns4-fwl2.nic.ru.
-liga-bet.sl.	0	IN	NS	ns8-fwl2.nic.ru.
-ligabet.sl.	0	IN	NS	ns3-fwl2.nic.ru.
-ligabet.sl.	0	IN	NS	ns4-fwl2.nic.ru.
-ligabet.sl.	0	IN	NS	ns8-fwl2.nic.ru.
 liivavon.sl.	0	IN	NS	dns1.avon.com.
 liivavon.sl.	0	IN	NS	dns4.avon.com.
 lilyskitchen.sl.	0	IN	NS	dns1.comlaude-dns.com.
@@ -2798,10 +2756,6 @@ lkq-academy.sl.	0	IN	NS	nsusa.comlaude.net.
 lkqacademy.sl.	0	IN	NS	nsgbr.comlaude.co.uk.
 lkqacademy.sl.	0	IN	NS	nssui.comlaude.ch.
 lkqacademy.sl.	0	IN	NS	nsusa.comlaude.net.
-llskin.sl.	0	IN	NS	ns1.serveriai.lt.
-llskin.sl.	0	IN	NS	ns2.serveriai.lt.
-llskin.sl.	0	IN	NS	ns3.serveriai.lt.
-llskin.sl.	0	IN	NS	ns4.serveriai.lt.
 loac.sl.	0	IN	NS	ns33.domaincontrol.com.
 loac.sl.	0	IN	NS	ns34.domaincontrol.com.
 local360.sl.	0	IN	NS	ns1.nic.sl.
@@ -3066,10 +3020,6 @@ miele-elearning.sl.	0	IN	NS	ns3.markmonitor.com.
 miele-elearning.sl.	0	IN	NS	ns4.markmonitor.com.
 mif.sl.	0	IN	NS	ns140.slinkdns.net.
 mif.sl.	0	IN	NS	ns141.slinkdns.net.
-minecraft.sl.	0	IN	NS	freedns1.registrar-servers.com.
-minecraft.sl.	0	IN	NS	freedns2.registrar-servers.com.
-minecraft.sl.	0	IN	NS	freedns3.registrar-servers.com.
-minecraft.sl.	0	IN	NS	freedns4.registrar-servers.com.
 mini.sl.	0	IN	NS	dns1.cscdns.net.
 mini.sl.	0	IN	NS	dns2.cscdns.net.
 ministryoffinance.sl.	0	IN	NS	ns1.bluehost.com.
@@ -3122,8 +3072,6 @@ mojakosti.sl.	0	IN	NS	ns3.register.be.
 mojakostiaja.sl.	0	IN	NS	ns1.register.be.
 mojakostiaja.sl.	0	IN	NS	ns2.register.be.
 mojakostiaja.sl.	0	IN	NS	ns3.register.be.
-momodukontehandp.sl.	0	IN	NS	ns1.bluehost.com.
-momodukontehandp.sl.	0	IN	NS	ns2.bluehost.com.
 moneygram.sl.	0	IN	NS	ns1.markmonitor.com.
 moneygram.sl.	0	IN	NS	ns2.markmonitor.com.
 moneygram.sl.	0	IN	NS	ns3.markmonitor.com.
@@ -3252,9 +3200,6 @@ neo-japan.sl.	0	IN	NS	ns3.webgo.de.
 neo-japan.sl.	0	IN	NS	ns4.webgo.de.
 neonail.sl.	0	IN	NS	ns1.interna.me.
 neonail.sl.	0	IN	NS	ns2.interna.me.
-neonbeach.sl.	0	IN	NS	ns01.trademarkarea.com.
-neonbeach.sl.	0	IN	NS	ns02.trademarkarea.com.
-neonbeach.sl.	0	IN	NS	ns03.trademarkarea.com.
 nerad.sl.	0	IN	NS	ns8495.hostgator.com.
 nerad.sl.	0	IN	NS	ns8496.hostgator.com.
 nerc.sl.	0	IN	NS	ns1.binkolo.com.
@@ -3431,8 +3376,6 @@ odido.sl.	0	IN	NS	ns2.openprovider.be.
 odido.sl.	0	IN	NS	ns3.openprovider.eu.
 odssa.sl.	0	IN	NS	ns140.slinkdns.net.
 odssa.sl.	0	IN	NS	ns141.slinkdns.net.
-officeworldgroup.sl.	0	IN	NS	dns1.stabletransit.com.
-officeworldgroup.sl.	0	IN	NS	dns2.stabletransit.com.
 ofier.sl.	0	IN	NS	ns1.brandshelter.com.
 ofier.sl.	0	IN	NS	ns2.brandshelter.de.
 ofier.sl.	0	IN	NS	ns3.brandshelter.info.
@@ -3822,9 +3765,6 @@ promo.sl.	0	IN	NS	ns.udag.net.
 promo.sl.	0	IN	NS	ns.udag.org.
 properties.sl.	0	IN	NS	ns1.visitsierraleone.org.
 properties.sl.	0	IN	NS	ns2.visitsierraleone.org.
-property.sl.	0	IN	NS	ns1.site4now.net.
-property.sl.	0	IN	NS	ns2.site4now.net.
-property.sl.	0	IN	NS	ns3.site4now.net.
 propertywise.sl.	0	IN	NS	ns1045.ui-dns.de.
 propertywise.sl.	0	IN	NS	ns1045.ui-dns.biz.
 propertywise.sl.	0	IN	NS	ns1045.ui-dns.com.
@@ -3863,8 +3803,6 @@ qisystems.sl.	0	IN	NS	ns59.domaincontrol.com.
 qisystems.sl.	0	IN	NS	ns60.domaincontrol.com.
 qmoney.sl.	0	IN	NS	ns1.qanet.gm.
 qmoney.sl.	0	IN	NS	ns2.qanet.gm.
-qsky.sl.	0	IN	NS	ns1.nic.sl.
-qsky.sl.	0	IN	NS	ns2.nic.sl.
 qualitylogistics.sl.	0	IN	NS	ns1.freehosting.com.
 qualitylogistics.sl.	0	IN	NS	ns2.freehosting.com.
 queenslyconsultancyservices.sl.	0	IN	NS	ns1.uk08.tmd.cloud.
@@ -3959,10 +3897,6 @@ rentalcars.sl.	0	IN	NS	ns4.markmonitor.com.
 rentalcars.sl.	0	IN	NS	ns5.markmonitor.com.
 resacollection.sl.	0	IN	NS	ns1.idtlabs.xyz.
 resacollection.sl.	0	IN	NS	ns2.idtlabs.xyz.
-residentpermit.sl.	0	IN	NS	ns1.eurodns.com.
-residentpermit.sl.	0	IN	NS	ns2.eurodns.com.
-residentpermit.sl.	0	IN	NS	ns3.eurodns.com.
-residentpermit.sl.	0	IN	NS	ns4.eurodns.com.
 rettungsdienst.sl.	0	IN	NS	ns.udag.de.
 rettungsdienst.sl.	0	IN	NS	ns.udag.net.
 rettungsdienst.sl.	0	IN	NS	ns.udag.org.
@@ -4138,10 +4072,6 @@ secon.sl.	0	IN	NS	ns1.fivecron.com.
 secon.sl.	0	IN	NS	ns2.fivecron.com.
 securipass.sl.	0	IN	NS	kiki.ns.cloudflare.com.
 securipass.sl.	0	IN	NS	nash.ns.cloudflare.com.
-securiport.sl.	0	IN	NS	ns1.eurodns.com.
-securiport.sl.	0	IN	NS	ns2.eurodns.com.
-securiport.sl.	0	IN	NS	ns3.eurodns.com.
-securiport.sl.	0	IN	NS	ns4.eurodns.com.
 seedsman.sl.	0	IN	NS	ns1.instradns.com.
 seedsman.sl.	0	IN	NS	ns2.instradns.com.
 seedsman.sl.	0	IN	NS	ns3.instradns.com.
@@ -4275,9 +4205,6 @@ silvaortus.sl.	0	IN	NS	ns1.rcuk.net.
 silvaortus.sl.	0	IN	NS	ns2.rcuk.net.
 silvaortus.sl.	0	IN	NS	ns3.rcuk.net.
 silvaortus.sl.	0	IN	NS	ns4.rcuk.net.
-simex.sl.	0	IN	NS	pns.innterdns.net.
-simex.sl.	0	IN	NS	sns.innterdns.net.
-simex.sl.	0	IN	NS	tns.innterdns.net.
 simmons.sl.	0	IN	NS	ns1.ipmanagerinc.net.
 simmons.sl.	0	IN	NS	ns2.ipmanagerinc.net.
 simmons.sl.	0	IN	NS	ns3.ipmanagerinc.net.
@@ -4546,8 +4473,6 @@ ssbet.sl.	0	IN	NS	ns3-04.azure-dns.org.
 ssbet.sl.	0	IN	NS	ns4-04.azure-dns.info.
 ssl.sl.	0	IN	NS	jason.ns.cloudflare.com.
 ssl.sl.	0	IN	NS	desiree.ns.cloudflare.com.
-stake.sl.	0	IN	NS	ns1.gcorelabs.net.
-stake.sl.	0	IN	NS	ns2.gcdn.services.
 stanchart.sl.	0	IN	NS	udns1.cscdns.net.
 stanchart.sl.	0	IN	NS	udns2.cscdns.uk.
 standard-chartered.sl.	0	IN	NS	udns1.cscdns.net.
@@ -4938,9 +4863,6 @@ twrmsem.sl.	0	IN	NS	ns0.thundercloud.uk.
 twrmsem.sl.	0	IN	NS	ns1.thundercloud.uk.
 txtafrica.sl.	0	IN	NS	ns140.slinkdns.net.
 txtafrica.sl.	0	IN	NS	ns141.slinkdns.net.
-tydenbrooks.sl.	0	IN	NS	ns1.netim.net.
-tydenbrooks.sl.	0	IN	NS	ns2.netim.net.
-tydenbrooks.sl.	0	IN	NS	ns3.netim.net.
 tyres.sl.	0	IN	NS	dns.voerde.globvill.de.
 tyres.sl.	0	IN	NS	dns.globvill.de.
 uber.sl.	0	IN	NS	dns1.p04.nsone.net.
@@ -5028,10 +4950,6 @@ velmerto.sl.	0	IN	NS	lila.ns.cloudflare.com.
 velmerto.sl.	0	IN	NS	arnold.ns.cloudflare.com.
 vendtech.sl.	0	IN	NS	ns1.afcom.sl.
 vendtech.sl.	0	IN	NS	ns2.afcom.sl.
-venoa.sl.	0	IN	NS	ns1.netim.net.
-venoa.sl.	0	IN	NS	ns2.netim.net.
-venoa.sl.	0	IN	NS	ns3.netim.net.
-venoa.sl.	0	IN	NS	ns4.netim.net.
 verizon.sl.	0	IN	NS	ns-scrm.verizon.com.
 verizon.sl.	0	IN	NS	ns-tmtr.verizon.com.
 verizonenterprise.sl.	0	IN	NS	dns2.verizon.com.
@@ -5243,8 +5161,6 @@ workinholland.sl.	0	IN	NS	ns01.leeman-automatisering.nl.
 workinholland.sl.	0	IN	NS	ns02.leeman-automatisering.nl.
 workinholland.sl.	0	IN	NS	ns03.leeman-automatisering.nl.
 workinholland.sl.	0	IN	NS	ns04.leeman-automatisering.nl.
-workpermit.sl.	0	IN	NS	kiki.ns.cloudflare.com.
-workpermit.sl.	0	IN	NS	nash.ns.cloudflare.com.
 works.sl.	0	IN	NS	ns1.webs.sl.
 works.sl.	0	IN	NS	ns2.webs.sl.
 worldmobile.sl.	0	IN	NS	ns1.lexsynergy.net.
