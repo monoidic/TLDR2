@@ -16,7 +16,6 @@
 * `desi.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -24,7 +23,6 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `ieee.`
 * `ir.`
 * `kg.`
@@ -32,7 +30,6 @@
 * `lb.`
 * `li.`
 * `lk.`
-* `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
