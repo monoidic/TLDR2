@@ -6,6 +6,7 @@
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
 * `cars.`
@@ -14,7 +15,9 @@
 * `ci.`
 * `desi.`
 * `diet.`
+* `dz.`
 * `ee.`
+* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -33,6 +36,7 @@
 * `lr.`
 * `mc.`
 * `mom.`
+* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
