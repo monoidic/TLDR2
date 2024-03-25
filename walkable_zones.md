@@ -15,7 +15,6 @@
 * `ci.`
 * `desi.`
 * `diet.`
-* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -31,13 +30,10 @@
 * `kz.`
 * `lb.`
 * `li.`
-* `lk.`
 * `lol.`
-* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
-* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
