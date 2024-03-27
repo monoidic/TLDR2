@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024032701 1 1 8ac86cad5e45ffb667b3ae16cf7c56feb3c409c86dc4f5980649e1a8d68b17c86e53a8f1a5b9b63b1c8aaabf471afeff
+.	0	IN	ZONEMD	2024032702 1 1 6753b4b53248723fde0788f80808ec2624bb1043551bc0e5d81a7585ecbc0ea2ada9f136abbc89b2a8ad079df12e7ffc
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1253,19 +1253,6 @@ c.nic.autos.	0	IN	A	212.18.248.136
 c.nic.autos.	0	IN	AAAA	2a04:2b00:13ee::136
 d.nic.autos.	0	IN	A	212.18.249.136
 d.nic.autos.	0	IN	AAAA	2a04:2b00:13ff::136
-avianca.	0	IN	NS	a0.nic.avianca.
-avianca.	0	IN	NS	a2.nic.avianca.
-avianca.	0	IN	NS	b0.nic.avianca.
-avianca.	0	IN	NS	c0.nic.avianca.
-avianca.	0	IN	DS	16027 8 2 a87ec8292b65cd932f5b29c32773dabfff897e71b9921fa4f000f826542f65cc
-a0.nic.avianca.	0	IN	A	65.22.80.17
-a0.nic.avianca.	0	IN	AAAA	2a01:8840:4e::17
-a2.nic.avianca.	0	IN	A	65.22.83.17
-a2.nic.avianca.	0	IN	AAAA	2a01:8840:51::17
-b0.nic.avianca.	0	IN	A	65.22.81.17
-b0.nic.avianca.	0	IN	AAAA	2a01:8840:4f::17
-c0.nic.avianca.	0	IN	A	65.22.82.17
-c0.nic.avianca.	0	IN	AAAA	2a01:8840:50::17
 aw.	0	IN	NS	ns1.dns.aw.
 aw.	0	IN	NS	ns3.dns.aw.
 aw.	0	IN	NS	ns4.dns.aw.
@@ -2632,10 +2619,7 @@ bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 master.btc.net.bw.	0	IN	A	168.167.168.37
-master.btc.net.bw.	0	IN	AAAA	2c0f:ff00:0:6::3
-master.btc.net.bw.	0	IN	AAAA	2c0f:ff00:0:6::5
 dns1.nic.net.bw.	0	IN	A	168.167.98.226
-dns1.nic.net.bw.	0	IN	AAAA	2c0f:ff00:1:3::226
 pch.nic.net.bw.	0	IN	A	204.61.216.70
 pch.nic.net.bw.	0	IN	AAAA	2001:500:14:6070:ad::1
 by.	0	IN	NS	dns1.tld.becloudby.com.
@@ -15093,7 +15077,6 @@ saxo.	0	IN	NS	v0n2.nic.saxo.
 saxo.	0	IN	NS	v0n3.nic.saxo.
 saxo.	0	IN	NS	v2n0.nic.saxo.
 saxo.	0	IN	NS	v2n1.nic.saxo.
-saxo.	0	IN	DS	8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
 saxo.	0	IN	DS	60076 8 2 596e280e257bce8da04e98ffb42a2d9df28c1736d00a08a665fc92506d32f2a9
 v0n0.nic.saxo.	0	IN	A	65.22.108.27
 v0n0.nic.saxo.	0	IN	AAAA	2a01:8840:6a::27
@@ -16527,11 +16510,17 @@ u.nic.swiss.	0	IN	A	195.253.65.9
 u.nic.swiss.	0	IN	AAAA	2a01:5b0:5::9
 sx.	0	IN	NS	ns1.ns.sx.
 sx.	0	IN	NS	ns2.ns.sx.
+sx.	0	IN	NS	ns3.ns.sx.
+sx.	0	IN	NS	ns4.ns.sx.
 sx.	0	IN	DS	34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
 ns1.ns.sx.	0	IN	A	185.159.197.10
 ns1.ns.sx.	0	IN	AAAA	2620:10a:80aa::10
 ns2.ns.sx.	0	IN	A	185.159.198.10
 ns2.ns.sx.	0	IN	AAAA	2620:10a:80ab::10
+ns3.ns.sx.	0	IN	A	185.159.199.10
+ns3.ns.sx.	0	IN	AAAA	2620:10a:80ac::10
+ns4.ns.sx.	0	IN	A	45.142.220.101
+ns4.ns.sx.	0	IN	AAAA	2a0e:dbc0::101
 sy.	0	IN	NS	sy.cctld.authdns.ripe.net.
 sy.	0	IN	NS	ns1.tld.sy.
 sy.	0	IN	NS	pch.anycast.tld.sy.
