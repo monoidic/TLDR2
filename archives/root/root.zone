@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024032700 1 1 e278521b71c34ac2941c214c7a3583b9eb935bca31df21f50ff804842356e881d8b1eb705c4c4a166e66c4c6d2c0483f
+.	0	IN	ZONEMD	2024032701 1 1 8ac86cad5e45ffb667b3ae16cf7c56feb3c409c86dc4f5980649e1a8d68b17c86e53a8f1a5b9b63b1c8aaabf471afeff
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5846,10 +5846,12 @@ v2n0.nic.fail.	0	IN	A	65.22.23.56
 v2n0.nic.fail.	0	IN	AAAA	2a01:8840:19::56
 v2n1.nic.fail.	0	IN	A	161.232.11.56
 v2n1.nic.fail.	0	IN	AAAA	2a01:8840:f5::56
-fairwinds.	0	IN	NS	ac1.nstld.com.
-fairwinds.	0	IN	NS	ac2.nstld.com.
 fairwinds.	0	IN	NS	ac3.nstld.com.
 fairwinds.	0	IN	NS	ac4.nstld.com.
+fairwinds.	0	IN	NS	ns1.nominetdns.uk.
+fairwinds.	0	IN	NS	ns2.nominetdns.uk.
+fairwinds.	0	IN	NS	ns3.nominetdns.uk.
+fairwinds.	0	IN	NS	ns4.nominetdns.uk.
 fairwinds.	0	IN	DS	8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
 fairwinds.	0	IN	DS	48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 faith.	0	IN	NS	a.nic.faith.
@@ -17763,6 +17765,14 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
+ns1.nominetdns.uk.	0	IN	A	213.248.219.135
+ns1.nominetdns.uk.	0	IN	AAAA	2a01:618:403::135
+ns2.nominetdns.uk.	0	IN	A	103.49.83.135
+ns2.nominetdns.uk.	0	IN	AAAA	2401:fd80:403::135
+ns3.nominetdns.uk.	0	IN	A	213.248.223.135
+ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::135
+ns4.nominetdns.uk.	0	IN	A	43.230.51.135
+ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::135
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
@@ -18457,7 +18467,6 @@ wang.	0	IN	NS	g.zdnscloud.com.
 wang.	0	IN	NS	i.zdnscloud.com.
 wang.	0	IN	NS	j.zdnscloud.com.
 wang.	0	IN	DS	19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
-wang.	0	IN	DS	20969 8 2 e686eb5367b243e5dfd5c5faadb23b0a52172b9cf5c72b28836be2af9402dadd
 wanggou.	0	IN	NS	dns1.nic.wanggou.
 wanggou.	0	IN	NS	dns2.nic.wanggou.
 wanggou.	0	IN	NS	dns3.nic.wanggou.
@@ -19131,7 +19140,6 @@ xn--45q11c.	0	IN	NS	g.zdnscloud.com.
 xn--45q11c.	0	IN	NS	i.zdnscloud.com.
 xn--45q11c.	0	IN	NS	j.zdnscloud.com.
 xn--45q11c.	0	IN	DS	21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
-xn--45q11c.	0	IN	DS	46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
 xn--4dbrk0ce.	0	IN	NS	ns1.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ns3.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ns4.ns.il.
@@ -19454,7 +19462,6 @@ xn--czru2d.	0	IN	NS	f.zdnscloud.com.
 xn--czru2d.	0	IN	NS	g.zdnscloud.com.
 xn--czru2d.	0	IN	NS	i.zdnscloud.com.
 xn--czru2d.	0	IN	NS	j.zdnscloud.com.
-xn--czru2d.	0	IN	DS	995 8 2 c37db96801455f34fc09b824107a81b4df13f273e00d1ef24b73986df0eda81c
 xn--czru2d.	0	IN	DS	62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 xn--d1acj3b.	0	IN	NS	a.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	b.dns.ripn.net.
@@ -19697,7 +19704,6 @@ xn--hxt814e.	0	IN	NS	f.zdnscloud.com.
 xn--hxt814e.	0	IN	NS	g.zdnscloud.com.
 xn--hxt814e.	0	IN	NS	i.zdnscloud.com.
 xn--hxt814e.	0	IN	NS	j.zdnscloud.com.
-xn--hxt814e.	0	IN	DS	36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
 xn--hxt814e.	0	IN	DS	59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 xn--i1b6b1a6a2e.	0	IN	NS	a0.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.	0	IN	NS	a2.nic.xn--i1b6b1a6a2e.
