@@ -15,6 +15,8 @@
 * `christmas.`
 * `ci.`
 * `desi.`
+* `diet.`
+* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -27,6 +29,7 @@
 * `ieee.`
 * `ir.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -39,6 +42,7 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
