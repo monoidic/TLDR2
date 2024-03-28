@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024032801 1 1 a1aa017418b8c79c8b96329bbd33038cef0074be904380517e3aa999d6a1d6c60ac2ba3110d5e123ee6344c08165cb0a
+.	0	IN	ZONEMD	2024032802 1 1 17bf67eb79e25b91e1e09fa00d1bbb7f93e9b0cf61364dd0e09c186fbf792638c7809c853c7188d248e0c488815579a5
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10440,7 +10440,6 @@ d.nic.lplfinancial.	0	IN	AAAA	2a04:2b00:13ff::93
 lr.	0	IN	NS	rip.psg.com.
 lr.	0	IN	NS	fork.sth.dnsnode.net.
 lr.	0	IN	NS	ns-lr.afrinic.net.
-lr.	0	IN	DS	29984 8 1 a5e2025d5c3b1f4853bdda21aa6a751e552dc715
 lr.	0	IN	DS	29984 8 2 aa0ec78a15474b054759a26a2be9d85a97f5fe9fe485a206e68b4f83b07789f8
 ls.	0	IN	NS	ns1.nic.ls.
 ls.	0	IN	NS	ns2.nic.ls.
@@ -15495,7 +15494,6 @@ sg.	0	IN	NS	dsany.sgnic.sg.
 sg.	0	IN	NS	dsany2.sgnic.sg.
 sg.	0	IN	NS	dsany3.sgnic.sg.
 sg.	0	IN	DS	26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
-sg.	0	IN	DS	46664 8 2 b9e9522b9e345fd54e73e8ebf3d3cfff9a09189fed03f5106d8ee3e345fb80b5
 dsany.sgnic.sg.	0	IN	A	120.29.253.11
 dsany.sgnic.sg.	0	IN	AAAA	2001:dcd:7::11
 dsany2.sgnic.sg.	0	IN	A	185.159.197.170
@@ -16987,7 +16985,6 @@ tiaa.	0	IN	NS	v0n2.nic.tiaa.
 tiaa.	0	IN	NS	v0n3.nic.tiaa.
 tiaa.	0	IN	NS	v2n0.nic.tiaa.
 tiaa.	0	IN	NS	v2n1.nic.tiaa.
-tiaa.	0	IN	DS	9186 8 2 5214d8971ec4dc7cd349205bcb13f84d4446aafa4d87d07c8c5443a180741fea
 tiaa.	0	IN	DS	14185 8 2 14d2ba968e8bda466149febec577c50eca9cb7759996fa762a5f8081c424b825
 v0n0.nic.tiaa.	0	IN	A	65.22.108.7
 v0n0.nic.tiaa.	0	IN	AAAA	2a01:8840:6a::7
@@ -17639,6 +17636,7 @@ ns.anycast.co.tz.	0	IN	AAAA	2001:500:14:6015:ad::1
 ns2.tznic.or.tz.	0	IN	A	196.216.162.67
 ns2.tznic.or.tz.	0	IN	AAAA	2001:43f8:e0:1::67
 ua.	0	IN	NS	bg.ns.ua.
+ua.	0	IN	NS	cz.ns.ua.
 ua.	0	IN	NS	nn.ns.ua.
 ua.	0	IN	NS	ho1.ns.ua.
 ua.	0	IN	NS	in1.ns.ua.
@@ -17654,6 +17652,8 @@ bg.ns.ua.	0	IN	A	185.136.96.185
 bg.ns.ua.	0	IN	A	185.136.97.185
 bg.ns.ua.	0	IN	AAAA	2a06:fb00:1::2:185
 bg.ns.ua.	0	IN	AAAA	2a06:fb00:1::4:185
+cz.ns.ua.	0	IN	A	185.43.134.15
+cz.ns.ua.	0	IN	AAAA	2001:148f:fffd::15
 ho1.ns.ua.	0	IN	A	195.47.253.1
 ho1.ns.ua.	0	IN	AAAA	2001:67c:258::1
 in1.ns.ua.	0	IN	A	74.123.224.40
@@ -19413,7 +19413,6 @@ xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany2.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany3.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	DS	47752 8 2 f76b1d7f3857a37138b77beed55b38160ee01fc53dae8dedb41b91b4c443be71
-xn--clchc0ea0b2g2a9gcd.	0	IN	DS	48176 8 2 c1c692e8bb1ecab17a80c5829445d6301787a275b6091a95754c4ac9681fb50e
 xn--czr694b.	0	IN	NS	a.zdnscloud.com.
 xn--czr694b.	0	IN	NS	b.zdnscloud.com.
 xn--czr694b.	0	IN	NS	c.zdnscloud.com.
@@ -20393,7 +20392,6 @@ xn--yfro4i67o.	0	IN	NS	dsany.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany2.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany3.sgnic.sg.
 xn--yfro4i67o.	0	IN	DS	42197 8 2 d8001fe0b7a80f256a0ee1789c909f320bbb43964fb8e211274ab22220074c41
-xn--yfro4i67o.	0	IN	DS	52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
 xn--ygbi2ammx.	0	IN	NS	ps.cctld.authdns.ripe.net.
 xn--ygbi2ammx.	0	IN	NS	idn.pnina.ps.
 xn--ygbi2ammx.	0	IN	NS	ns1.pnina.ps.
