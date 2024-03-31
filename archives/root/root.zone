@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024033001 1 1 627675a3640f2bf7b791f0e87e29bf14456176cac1a820b85671361cf644240a21a01f700a167924a4d5a10bb6067997
+.	0	IN	ZONEMD	2024033100 1 1 5288ea3e0800390e10bcf1fdc5d0e7a87ca9b7c2a960b2104a7cf5118aade5f7b1b6d673a4f271b5826f8b6c1e1a56e8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -177,7 +177,6 @@ accenture.	0	IN	NS	v0n2.nic.accenture.
 accenture.	0	IN	NS	v0n3.nic.accenture.
 accenture.	0	IN	NS	v2n0.nic.accenture.
 accenture.	0	IN	NS	v2n1.nic.accenture.
-accenture.	0	IN	DS	35388 8 2 0c1ddb821c823afec10942d3dcd16d6306221e4ee7f2f524e5d9bad48bafd8fc
 accenture.	0	IN	DS	56299 8 2 83307d3a3a6ae2bd8c9fbb7060a5acb8dbc48b2a56ca944cae4dc803ce8e5a84
 v0n0.nic.accenture.	0	IN	A	65.22.108.8
 v0n0.nic.accenture.	0	IN	AAAA	2a01:8840:6a::8
@@ -944,7 +943,6 @@ arte.	0	IN	NS	v0n2.nic.arte.
 arte.	0	IN	NS	v0n3.nic.arte.
 arte.	0	IN	NS	v2n0.nic.arte.
 arte.	0	IN	NS	v2n1.nic.arte.
-arte.	0	IN	DS	46728 8 2 d197248e95610371f7624d79d397037ea5e200e6f338bccedf5e93bb68448152
 arte.	0	IN	DS	58066 8 2 44e4cc2ad4bcbc5b2c2cd6fbfa18da14d35b3fb5b0e21e9f1b25721101938299
 v0n0.nic.arte.	0	IN	A	65.22.108.11
 v0n0.nic.arte.	0	IN	AAAA	2a01:8840:6a::11
@@ -3201,7 +3199,6 @@ cfa.	0	IN	NS	v0n3.nic.cfa.
 cfa.	0	IN	NS	v2n0.nic.cfa.
 cfa.	0	IN	NS	v2n1.nic.cfa.
 cfa.	0	IN	DS	21814 8 2 9d6445887f736116b22a9c4cda34da82592146649482638fbc144651299bdeb4
-cfa.	0	IN	DS	53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
 v0n0.nic.cfa.	0	IN	A	65.22.104.27
 v0n0.nic.cfa.	0	IN	AAAA	2a01:8840:66::27
 v0n1.nic.cfa.	0	IN	A	65.22.105.27
@@ -3674,7 +3671,6 @@ clubmed.	0	IN	NS	v0n2.nic.clubmed.
 clubmed.	0	IN	NS	v0n3.nic.clubmed.
 clubmed.	0	IN	NS	v2n0.nic.clubmed.
 clubmed.	0	IN	NS	v2n1.nic.clubmed.
-clubmed.	0	IN	DS	2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
 clubmed.	0	IN	DS	21826 8 2 5baa5f5647baef29365e3f37d0914e0abe5f4d62afca9cf59863fb94aa5964e7
 v0n0.nic.clubmed.	0	IN	A	65.22.108.12
 v0n0.nic.clubmed.	0	IN	AAAA	2a01:8840:6a::12
@@ -7010,7 +7006,6 @@ genting.	0	IN	NS	v0n2.nic.genting.
 genting.	0	IN	NS	v0n3.nic.genting.
 genting.	0	IN	NS	v2n0.nic.genting.
 genting.	0	IN	NS	v2n1.nic.genting.
-genting.	0	IN	DS	22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
 genting.	0	IN	DS	34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
 v0n0.nic.genting.	0	IN	A	65.22.108.13
 v0n0.nic.genting.	0	IN	AAAA	2a01:8840:6a::13
@@ -10621,7 +10616,6 @@ maif.	0	IN	NS	v0n3.nic.maif.
 maif.	0	IN	NS	v2n0.nic.maif.
 maif.	0	IN	NS	v2n1.nic.maif.
 maif.	0	IN	DS	23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
-maif.	0	IN	DS	48459 8 2 e44bc6e7cba1624a5f16941f1d53fe470a3a7da4b1c592878d1b32e8ebef667c
 v0n0.nic.maif.	0	IN	A	65.22.108.5
 v0n0.nic.maif.	0	IN	AAAA	2a01:8840:6a::5
 v0n1.nic.maif.	0	IN	A	65.22.109.5
@@ -12856,7 +12850,6 @@ orange.	0	IN	NS	v0n3.nic.orange.
 orange.	0	IN	NS	v2n0.nic.orange.
 orange.	0	IN	NS	v2n1.nic.orange.
 orange.	0	IN	DS	10282 8 2 5719fca748be7253d9b0c4cd2c07454768bf9f5411e940ba7ec7d4954e55582c
-orange.	0	IN	DS	44385 8 2 54957bdf3921ca2d50bb340e042605f8d39ee91ca2a08a37424ce88882c4fe1a
 v0n0.nic.orange.	0	IN	A	65.22.108.16
 v0n0.nic.orange.	0	IN	AAAA	2a01:8840:6a::16
 v0n1.nic.orange.	0	IN	A	65.22.109.16
