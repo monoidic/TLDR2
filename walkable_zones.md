@@ -6,7 +6,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
