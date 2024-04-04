@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024040401 1 1 e9dd9ca2b731f622a918e9582f1fb57257d6bf4b1dad535814addf4be0a91162c868309494923686142d0d2f37774321
+.	0	IN	ZONEMD	2024040402 1 1 7c9a2f4a25be24b8eedc8dcb15af39e1b8da5e859575644e84aef137cad16c0f3f4215e870c0bbac4dd0ddc75fe40c7a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4331,10 +4331,10 @@ v2n0.nic.creditcard.	0	IN	A	65.22.23.65
 v2n0.nic.creditcard.	0	IN	AAAA	2a01:8840:19::65
 v2n1.nic.creditcard.	0	IN	A	161.232.11.65
 v2n1.nic.creditcard.	0	IN	AAAA	2a01:8840:f5::65
-creditunion.	0	IN	NS	ns1.uniregistry.net.
-creditunion.	0	IN	NS	ns2.uniregistry.info.
-creditunion.	0	IN	NS	ns5.uniregistry.net.
-creditunion.	0	IN	NS	ns6.uniregistry.info.
+creditunion.	0	IN	NS	ns01.trs-dns.com.
+creditunion.	0	IN	NS	ns01.trs-dns.net.
+creditunion.	0	IN	NS	ns01.trs-dns.org.
+creditunion.	0	IN	NS	ns01.trs-dns.info.
 creditunion.	0	IN	DS	11419 13 2 2393ddf8501d382cb4a700c85abcc974a95aad110898b8becc4bdba60b5e50f1
 cricket.	0	IN	NS	a.nic.cricket.
 cricket.	0	IN	NS	b.nic.cricket.
@@ -5828,12 +5828,14 @@ v2n0.nic.fail.	0	IN	A	65.22.23.56
 v2n0.nic.fail.	0	IN	AAAA	2a01:8840:19::56
 v2n1.nic.fail.	0	IN	A	161.232.11.56
 v2n1.nic.fail.	0	IN	AAAA	2a01:8840:f5::56
-fairwinds.	0	IN	NS	ac3.nstld.com.
-fairwinds.	0	IN	NS	ac4.nstld.com.
 fairwinds.	0	IN	NS	ns1.nominetdns.uk.
 fairwinds.	0	IN	NS	ns2.nominetdns.uk.
 fairwinds.	0	IN	NS	ns3.nominetdns.uk.
 fairwinds.	0	IN	NS	ns4.nominetdns.uk.
+fairwinds.	0	IN	NS	nsa.nominetdns.uk.
+fairwinds.	0	IN	NS	nsb.nominetdns.uk.
+fairwinds.	0	IN	NS	nsc.nominetdns.uk.
+fairwinds.	0	IN	NS	nsd.nominetdns.uk.
 fairwinds.	0	IN	DS	8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
 fairwinds.	0	IN	DS	48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 faith.	0	IN	NS	a.nic.faith.
@@ -8647,8 +8649,6 @@ ns01.trs-dns.info.	0	IN	AAAA	2620:10a:80ab::3
 ns2.uniregistry.info.	0	IN	A	64.96.2.1
 ns4.uniregistry.info.	0	IN	A	185.159.198.3
 ns4.uniregistry.info.	0	IN	AAAA	2620:10a:80ab::3
-ns6.uniregistry.info.	0	IN	A	206.51.254.2
-ns6.uniregistry.info.	0	IN	AAAA	2620:171:804:ad2::2
 ing.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 ing.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 ing.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -12131,8 +12131,6 @@ ns1.uniregistry.net.	0	IN	A	64.96.1.1
 ns1.uniregistry.net.	0	IN	AAAA	2620:57:4000:1::1
 ns3.uniregistry.net.	0	IN	A	185.159.197.3
 ns3.uniregistry.net.	0	IN	AAAA	2620:10a:80aa::3
-ns5.uniregistry.net.	0	IN	A	204.61.217.2
-ns5.uniregistry.net.	0	IN	AAAA	2001:500:14:7002:ad::1
 ns.uu.net.	0	IN	A	137.39.1.3
 auth00.ns.uu.net.	0	IN	A	198.6.1.65
 auth02.ns.uu.net.	0	IN	A	198.6.1.82
@@ -17759,6 +17757,14 @@ ns3.nominetdns.uk.	0	IN	A	213.248.223.135
 ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::135
 ns4.nominetdns.uk.	0	IN	A	43.230.51.135
 ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::135
+nsa.nominetdns.uk.	0	IN	A	156.154.100.3
+nsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
+nsb.nominetdns.uk.	0	IN	A	156.154.101.3
+nsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
+nsc.nominetdns.uk.	0	IN	A	156.154.102.3
+nsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
+nsd.nominetdns.uk.	0	IN	A	156.154.103.3
+nsd.nominetdns.uk.	0	IN	AAAA	2610:a1:1010::3
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
