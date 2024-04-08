@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAentCcIEndLh2QSK+pHFq/PkKCwioxt75d7qNOUuTPMo0Fcte/NbwDPbocvbZ/eNb5RV/xQdapaJASQ/oDLsqzD0H1+JkHNuuKc2JLtpMxg4glSE4CnRXT2CnFTW5IwOREL+zeqZHy68OXy5ngW5KALbevRYRg/q2qFezRtCSQ0knmyPwgFsghVYLKwi116oxwEU5yZ6W7npWMxt5Z+Qs8diPNWrS5aXLgJtrWUGIIuFfuZwXYziGRP/z3o1EfMo9zZU19KLopkoLXX7Ls/diCXdSEdJXTtFA8w0/OKQviuJebfKscoElCTswukVZ1VX5gbaFEo2xWhHJ9Uo63wYaTk= ;{id = 30903 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024040801 1 1 e2b54d801f407ffb4225842280c59b1e3859b960ea6e65831b60dfaeaac4086c317b0c917d056e0cdf14a0d6b9523023
+.	0	IN	ZONEMD	2024040802 1 1 772d5c5d053bac26d2de6befe3cc1816ee296090ecab5e9e84649fc65f7482fddb4158b77b18d4a5dd6c2169e597fc4d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -810,18 +810,13 @@ aquarelle.	0	IN	NS	d.nic.fr.
 aquarelle.	0	IN	NS	f.ext.nic.fr.
 aquarelle.	0	IN	NS	g.ext.nic.fr.
 aquarelle.	0	IN	DS	22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
-ar.	0	IN	NS	a.dns.ar.
-ar.	0	IN	NS	b.dns.ar.
+ar.	0	IN	NS	a.lactld.org.
 ar.	0	IN	NS	c.dns.ar.
 ar.	0	IN	NS	d.dns.ar.
 ar.	0	IN	NS	e.dns.ar.
 ar.	0	IN	NS	f.dns.ar.
 ar.	0	IN	NS	ar.cctld.authdns.ripe.net.
 ar.	0	IN	DS	19606 8 2 4415cf1a2cf10de94b92bc020f21d1bf4163b2e90f2a6f6a5d2a1740339d566c
-a.dns.ar.	0	IN	A	200.108.145.50
-a.dns.ar.	0	IN	AAAA	2801:140::10
-b.dns.ar.	0	IN	A	200.108.147.50
-b.dns.ar.	0	IN	AAAA	2801:140:11::50
 c.dns.ar.	0	IN	A	200.108.148.50
 c.dns.ar.	0	IN	AAAA	2801:140:10::10
 d.dns.ar.	0	IN	A	192.140.126.50
@@ -13598,6 +13593,7 @@ pm.	0	IN	NS	d.nic.fr.
 pm.	0	IN	NS	e.ext.nic.fr.
 pm.	0	IN	NS	f.ext.nic.fr.
 pm.	0	IN	NS	g.ext.nic.fr.
+pm.	0	IN	DS	6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
 pm.	0	IN	DS	17970 13 2 7d82ccd8dd0674ca01ccf836c21240a504c85597eed5e511131c3e17c323b503
 pn.	0	IN	NS	dns1.nic.pn.
 pn.	0	IN	NS	dns2.nic.pn.
@@ -19903,7 +19899,7 @@ xn--mgbayh7gpa.	0	IN	NS	amra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	petra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	cloudns.nic.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	jordan1st.nic.gov.jo.
-xn--mgbayh7gpa.	0	IN	DS	58951 7 2 8c351c0a4ca0030b6f43d94050a814c1357e29dc50e98dffc18b25c2921a05a6
+xn--mgbayh7gpa.	0	IN	DS	16636 8 2 1897394f6281ab9881583bff57ee32b0200c1e30fe01f99405eede36ba83da7c
 xn--mgbbh1a.	0	IN	NS	ns1.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns2.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns3.registry.in.
@@ -20234,7 +20230,6 @@ xn--ses554g.	0	IN	NS	g.zdnscloud.com.
 xn--ses554g.	0	IN	NS	i.zdnscloud.com.
 xn--ses554g.	0	IN	NS	j.zdnscloud.com.
 xn--ses554g.	0	IN	DS	34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
-xn--ses554g.	0	IN	DS	57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
 xn--t60b56a.	0	IN	NS	ac1.nstld.com.
 xn--t60b56a.	0	IN	NS	ac2.nstld.com.
 xn--t60b56a.	0	IN	NS	ac3.nstld.com.
