@@ -3,6 +3,7 @@
 * `.`
 * `amazon.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -29,6 +30,7 @@
 * `ir.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -39,6 +41,9 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
+* `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
