@@ -15,16 +15,13 @@
 * `christmas.`
 * `ci.`
 * `desi.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
-* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `hosting.`
 * `id.`
 * `ieee.`
 * `ir.`
@@ -38,7 +35,6 @@
 * `mc.`
 * `mom.`
 * `nu.`
-* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
