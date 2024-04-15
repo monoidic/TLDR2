@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024041501 1 1 bd78d545d9494c2e54d8d4013875c01052f8ab9f61a3ca0753e4334b82f8ad65608256cfb85424227e73749ac5cb7ca8
+.	0	IN	ZONEMD	2024041502 1 1 2bb29a9f2290a911fc439d2541418db76ab87a6992300d744548827b843fe8b993168d604b0765a788f35893bfcb5caf
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7994,7 +7994,7 @@ homes.	0	IN	NS	b.nic.homes.
 homes.	0	IN	NS	c.nic.homes.
 homes.	0	IN	NS	d.nic.homes.
 homes.	0	IN	DS	33262 8 2 d9f3c8d72738eba7ed5002404c5e2748e1aa47c83e36d33d2d4eb72360e49d80
-homes.	0	IN	DS	44875 8 2 de0934d0c6c5221ba3533739b3147e327a87f8e97db379136a9343aa9d330079
+homes.	0	IN	DS	64382 8 2 252b825350b3fb0d15cc087d7e7e52af81ce901db0f3a614d927ad153c909560
 a.nic.homes.	0	IN	A	194.169.218.132
 a.nic.homes.	0	IN	AAAA	2001:67c:13cc::1:132
 b.nic.homes.	0	IN	A	185.24.64.132
@@ -9787,7 +9787,7 @@ lat.	0	IN	NS	a.nic.lat.
 lat.	0	IN	NS	b.nic.lat.
 lat.	0	IN	NS	c.nic.lat.
 lat.	0	IN	NS	d.nic.lat.
-lat.	0	IN	DS	961 8 2 d87e3ee5babaa5dbf51c4af462d2670be2b702a2972903ae27bee9ba64413973
+lat.	0	IN	DS	25789 8 2 16aae37ef2d2a809d0d1ed18b045161dd63607375e23687ed840c78d8ab4387e
 lat.	0	IN	DS	42520 8 2 fae20127b971e74d949e113cd4d738f82d6d53c5091b76cda93a5877554df1f4
 a.nic.lat.	0	IN	A	194.169.218.156
 a.nic.lat.	0	IN	AAAA	2001:67c:13cc::1:156
@@ -13593,7 +13593,6 @@ pm.	0	IN	NS	e.ext.nic.fr.
 pm.	0	IN	NS	f.ext.nic.fr.
 pm.	0	IN	NS	g.ext.nic.fr.
 pm.	0	IN	DS	6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
-pm.	0	IN	DS	17970 13 2 7d82ccd8dd0674ca01ccf836c21240a504c85597eed5e511131c3e17c323b503
 pn.	0	IN	NS	dns1.nic.pn.
 pn.	0	IN	NS	dns2.nic.pn.
 pn.	0	IN	NS	dns3.nic.pn.
@@ -14344,7 +14343,7 @@ rent.	0	IN	NS	a.nic.rent.
 rent.	0	IN	NS	b.nic.rent.
 rent.	0	IN	NS	c.nic.rent.
 rent.	0	IN	NS	d.nic.rent.
-rent.	0	IN	DS	56632 8 1 5a37261d09f9158d95c49030c66337f40e66b6a1
+rent.	0	IN	DS	51469 8 2 9615fe0f4a0124abdc48d14952ceff48db6685cf6ad3a2a9307ad43642932e72
 rent.	0	IN	DS	56632 8 2 d49a86cdf8411ab763fc46430370a6432392b06e1a6c7f6ababad8e1e85b558b
 a.nic.rent.	0	IN	A	194.169.218.63
 a.nic.rent.	0	IN	AAAA	2001:67c:13cc::1:63
@@ -15336,6 +15335,7 @@ security.	0	IN	NS	b.nic.security.
 security.	0	IN	NS	e.nic.security.
 security.	0	IN	NS	f.nic.security.
 security.	0	IN	DS	14150 8 2 2859485c57b2b929084427b8c2b444200fa44011015aa6bf005146582947a257
+security.	0	IN	DS	50966 8 2 a0ed827c29bd60ff8a0e4a22fce421c519126b23cd2206da41c16c6233604f8a
 a.nic.security.	0	IN	A	194.169.218.68
 a.nic.security.	0	IN	AAAA	2001:67c:13cc::1:68
 b.nic.security.	0	IN	A	185.24.64.68
@@ -15764,8 +15764,8 @@ skin.	0	IN	NS	a.nic.skin.
 skin.	0	IN	NS	b.nic.skin.
 skin.	0	IN	NS	c.nic.skin.
 skin.	0	IN	NS	d.nic.skin.
-skin.	0	IN	DS	8175 8 2 5b2d4845730f45f86f38d3fd6271b5e212bde653a75fe7a3bca1267e0429d386
 skin.	0	IN	DS	24104 8 2 3eaebed2323950252487a9e9f953157a1bbe8b0b7d82906fcd2816c623778b0a
+skin.	0	IN	DS	33019 8 2 b4c9053752d4f7540c8fa6c8b03b3f8044dd1a9ec6f19f93b4c841bfe26747c7
 a.nic.skin.	0	IN	A	194.169.218.118
 a.nic.skin.	0	IN	AAAA	2001:67c:13cc::1:118
 b.nic.skin.	0	IN	A	185.24.64.118
@@ -16955,8 +16955,8 @@ theatre.	0	IN	NS	a.nic.theatre.
 theatre.	0	IN	NS	b.nic.theatre.
 theatre.	0	IN	NS	c.nic.theatre.
 theatre.	0	IN	NS	d.nic.theatre.
-theatre.	0	IN	DS	45196 8 1 abed901a738d17abfa754e304b6e1c0c9021aac5
 theatre.	0	IN	DS	45196 8 2 530b10ce5cc67a1f4c6e5f59bf28e851426b9d6991233203e42a8970bd9a8011
+theatre.	0	IN	DS	62486 8 2 70c496598e2094e5e0bb8caf3b58908758e7b91ec2e370912ef7f733ea22f195
 a.nic.theatre.	0	IN	A	194.169.218.69
 a.nic.theatre.	0	IN	AAAA	2001:67c:13cc::1:69
 b.nic.theatre.	0	IN	A	185.24.64.69
@@ -16988,8 +16988,8 @@ tickets.	0	IN	NS	a.nic.tickets.
 tickets.	0	IN	NS	b.nic.tickets.
 tickets.	0	IN	NS	c.nic.tickets.
 tickets.	0	IN	NS	d.nic.tickets.
-tickets.	0	IN	DS	11069 8 1 ef9659c10a6ff3b9259f2df0cf7d36eca515c8f0
 tickets.	0	IN	DS	11069 8 2 5d58d40b472461672340583b4865540a52bfb551ca57663b22084e554d09532b
+tickets.	0	IN	DS	41687 8 2 ea32f704a1ac5dc44a391652f8b566b058f220acdd5bafbfb47fb9b4f3d01868
 a.nic.tickets.	0	IN	A	194.169.218.58
 a.nic.tickets.	0	IN	AAAA	2001:67c:13cc::1:58
 b.nic.tickets.	0	IN	A	185.24.64.58
