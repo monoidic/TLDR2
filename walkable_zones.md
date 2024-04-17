@@ -3,6 +3,7 @@
 * `.`
 * `amazon.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -15,6 +16,7 @@
 * `ci.`
 * `desi.`
 * `diet.`
+* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -26,6 +28,7 @@
 * `id.`
 * `ieee.`
 * `ir.`
+* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
