@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024042201 1 1 0a86b06640a3565ab5f8c872d87a0c0171e2d32e2ca444aaffc6b56aa2971f88ebcd28680fa7769d1f5fc3b900ce71d6
+.	0	IN	ZONEMD	2024042202 1 1 2bd67245c698a0cd3d7587f2286c5b43fcedff4a2709603cd1f839668f2f6c1effd085a678f230dd92216e49c4a19301
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -257,18 +257,11 @@ v2n0.nic.actor.	0	IN	AAAA	2a01:8840:25::60
 v2n1.nic.actor.	0	IN	A	161.232.17.60
 v2n1.nic.actor.	0	IN	AAAA	2a01:8840:fb::60
 ad.	0	IN	NS	ad.ns.nic.es.
-ad.	0	IN	NS	ad.cctld.authdns.ripe.net.
 ad.	0	IN	NS	ns3.nic.fr.
-ad.	0	IN	NS	dnsc.ad.
-ad.	0	IN	NS	dnsm.ad.
 ad.	0	IN	NS	anycast9.irondns.net.
 ad.	0	IN	NS	anycast23.irondns.net.
 ad.	0	IN	DS	10624 8 2 732ac3921e40eac6c01b0c467beda420f42bf38b7c462e86d01d1d2c4eb9da37
 ad.	0	IN	DS	50617 8 2 12432422b23ea8f82751d15041df27f6e2c8c408c3d7a18dcac511652e5e263d
-dnsc.ad.	0	IN	A	194.158.74.10
-dnsc.ad.	0	IN	AAAA	2a02:8060:32fa::b
-dnsm.ad.	0	IN	A	194.158.74.9
-dnsm.ad.	0	IN	AAAA	2a02:8060:32fa::a
 ads.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 ads.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 ads.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -1432,8 +1425,6 @@ bar.	0	IN	NS	ns01.trs-dns.net.
 bar.	0	IN	NS	ns01.trs-dns.org.
 bar.	0	IN	NS	ns01.trs-dns.info.
 bar.	0	IN	DS	44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
-bar.	0	IN	DS	55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
-bar.	0	IN	DS	55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
 barcelona.	0	IN	NS	anycast9.irondns.net.
 barcelona.	0	IN	NS	anycast10.irondns.net.
 barcelona.	0	IN	NS	anycast23.irondns.net.
@@ -8231,6 +8222,7 @@ hu.	0	IN	NS	d.hu.
 hu.	0	IN	NS	e.hu.
 hu.	0	IN	NS	f.hu.
 hu.	0	IN	DS	2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e551105ebac5
+hu.	0	IN	DS	46162 8 2 09b29528cb5f451df8e98be0d82126e931a6a0a45349c4bf6516c49c8a64041b
 a.hu.	0	IN	A	5.28.0.97
 a.hu.	0	IN	AAAA	2a00:e6a0:3:1014::97
 b.hu.	0	IN	A	193.41.82.18
@@ -12029,8 +12021,6 @@ ns15.rcode0.net.	0	IN	A	194.0.25.15
 ns15.rcode0.net.	0	IN	AAAA	2001:678:20::15
 ns31.rcode0.net.	0	IN	A	194.0.25.31
 ns31.rcode0.net.	0	IN	AAAA	2001:678:20::31
-ad.cctld.authdns.ripe.net.	0	IN	A	193.0.9.53
-ad.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::53
 ar.cctld.authdns.ripe.net.	0	IN	A	193.0.9.59
 ar.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::59
 bi.cctld.authdns.ripe.net.	0	IN	A	193.0.9.62
@@ -14111,6 +14101,7 @@ re.	0	IN	NS	e.ext.nic.fr.
 re.	0	IN	NS	f.ext.nic.fr.
 re.	0	IN	NS	g.ext.nic.fr.
 re.	0	IN	DS	49754 13 2 ce6c40407ed006c7a2d34b04f01ea0d825a64fa2418d6e994192ad05ad24ff68
+re.	0	IN	DS	61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
 read.	0	IN	NS	dns1.nic.read.
 read.	0	IN	NS	dns2.nic.read.
 read.	0	IN	NS	dns3.nic.read.
@@ -14436,8 +14427,6 @@ rest.	0	IN	NS	ns01.trs-dns.net.
 rest.	0	IN	NS	ns01.trs-dns.org.
 rest.	0	IN	NS	ns01.trs-dns.info.
 rest.	0	IN	DS	1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
-rest.	0	IN	DS	25199 8 1 c43af7dec8b165d6c8b832bcb984c2407ef5ed8d
-rest.	0	IN	DS	25199 8 2 8f477474f47c387d246b6849202ca0c54c4d5a50d322c79718a98100314d08b7
 restaurant.	0	IN	NS	v0n0.nic.restaurant.
 restaurant.	0	IN	NS	v0n1.nic.restaurant.
 restaurant.	0	IN	NS	v0n2.nic.restaurant.
