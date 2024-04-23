@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024042301 1 1 3f27245e928d27d2efae78108d9911cc1635529167bae2fb5d87d9812e14b60d4fae771842ce7f0ec4d41d35d9203a1b
+.	0	IN	ZONEMD	2024042302 1 1 25794d58336bb61146abdc34f6daaaabfa62a9f428d9296eccb2efd3fd8bdb442303ae45e4c52d239a45812e2bf98858
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3633,6 +3633,10 @@ cloud.	0	IN	NS	ns1.uniregistry.net.
 cloud.	0	IN	NS	ns2.uniregistry.info.
 cloud.	0	IN	NS	ns3.uniregistry.net.
 cloud.	0	IN	NS	ns4.uniregistry.info.
+cloud.	0	IN	NS	ns01.trs-dns.com.
+cloud.	0	IN	NS	ns01.trs-dns.net.
+cloud.	0	IN	NS	ns01.trs-dns.org.
+cloud.	0	IN	NS	ns01.trs-dns.info.
 cloud.	0	IN	DS	48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
 club.	0	IN	NS	a.nic.club.
 club.	0	IN	NS	b.nic.club.
@@ -4173,6 +4177,10 @@ coop.	0	IN	NS	ns1.uniregistry.net.
 coop.	0	IN	NS	ns2.uniregistry.info.
 coop.	0	IN	NS	ns3.uniregistry.net.
 coop.	0	IN	NS	ns4.uniregistry.info.
+coop.	0	IN	NS	ns01.trs-dns.com.
+coop.	0	IN	NS	ns01.trs-dns.net.
+coop.	0	IN	NS	ns01.trs-dns.org.
+coop.	0	IN	NS	ns01.trs-dns.info.
 coop.	0	IN	DS	39183 13 2 fd71e26868bf7f277dfa0800aa6f51e12e00c8b61841b35daae12cd86a34606f
 corsica.	0	IN	NS	d.nic.fr.
 corsica.	0	IN	NS	f.ext.nic.fr.
@@ -10393,6 +10401,10 @@ love.	0	IN	NS	ns1.uniregistry.net.
 love.	0	IN	NS	ns2.uniregistry.info.
 love.	0	IN	NS	ns3.uniregistry.net.
 love.	0	IN	NS	ns4.uniregistry.info.
+love.	0	IN	NS	ns01.trs-dns.com.
+love.	0	IN	NS	ns01.trs-dns.net.
+love.	0	IN	NS	ns01.trs-dns.org.
+love.	0	IN	NS	ns01.trs-dns.info.
 love.	0	IN	DS	27205 13 2 099baacef86a52379cdc0f6756d1eadaa7963ff5c3a16cfe32340b109580b84b
 lpl.	0	IN	NS	a.nic.lpl.
 lpl.	0	IN	NS	b.nic.lpl.
@@ -14181,7 +14193,6 @@ realty.	0	IN	NS	ns01.trs-dns.com.
 realty.	0	IN	NS	ns01.trs-dns.net.
 realty.	0	IN	NS	ns01.trs-dns.org.
 realty.	0	IN	NS	ns01.trs-dns.info.
-realty.	0	IN	DS	5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
 realty.	0	IN	DS	21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
 recipes.	0	IN	NS	v0n0.nic.recipes.
 recipes.	0	IN	NS	v0n1.nic.recipes.
