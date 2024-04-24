@@ -13,7 +13,6 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024042401 1 1 48417be6f27f0a1b343086fdbda992c15071d70e9b5a8a9d131061a03cc503d8c3345f3f7f010e8333bceb7be67716a4
 .	0	IN	ZONEMD	2024042402 1 1 d90cac1b5dce6ed0a1bc60014a6064d51fc9fd897439301b8587de9e2286c481e233709fd16382d0a8dfe5d99a159317
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
@@ -1013,8 +1012,6 @@ ns1.univie.ac.at.	0	IN	A	78.104.144.2
 ns1.univie.ac.at.	0	IN	AAAA	2001:628:2030:4301::2
 ns2.univie.ac.at.	0	IN	A	192.92.125.2
 ns2.univie.ac.at.	0	IN	AAAA	2001:678:1c::2
-ns5.univie.ac.at.	0	IN	A	193.171.255.77
-ns5.univie.ac.at.	0	IN	AAAA	2001:628:453:4305::53
 ns9.univie.ac.at.	0	IN	A	194.0.10.100
 ns9.univie.ac.at.	0	IN	AAAA	2001:678:d::cafe
 d.ns.at.	0	IN	A	81.91.161.98
@@ -5075,7 +5072,6 @@ diy.	0	IN	NS	ns01.trs-dns.com.
 diy.	0	IN	NS	ns01.trs-dns.net.
 diy.	0	IN	NS	ns01.trs-dns.org.
 diy.	0	IN	NS	ns01.trs-dns.info.
-diy.	0	IN	DS	25674 8 2 06c661d544490aaf9c0efa121f0fd66ae957cb1900309fdae4a670ac4af1d37d
 diy.	0	IN	DS	41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
 dj.	0	IN	NS	bow1.intnet.dj.
 dj.	0	IN	NS	bow5.intnet.dj.
@@ -5448,7 +5444,6 @@ b.tld.ee.	0	IN	AAAA	2001:67c:1010:28::53
 e.tld.ee.	0	IN	A	204.61.216.36
 e.tld.ee.	0	IN	AAAA	2001:678:94:53::53
 ns.tld.ee.	0	IN	A	195.43.87.10
-eg.	0	IN	NS	ns5.univie.ac.at.
 eg.	0	IN	NS	rip.psg.com.
 eg.	0	IN	NS	frcu.eun.eg.
 eg.	0	IN	NS	dns-eg.univie.ac.at.
@@ -6437,7 +6432,6 @@ food.	0	IN	NS	ns01.trs-dns.net.
 food.	0	IN	NS	ns01.trs-dns.org.
 food.	0	IN	NS	ns01.trs-dns.info.
 food.	0	IN	DS	3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
-food.	0	IN	DS	42180 8 2 4aa1f08b292b3835fd27b5692d0cd0c1cd0119bf1455a69506e50cdc6c47d761
 football.	0	IN	NS	v0n0.nic.football.
 football.	0	IN	NS	v0n1.nic.football.
 football.	0	IN	NS	v0n2.nic.football.
@@ -10075,7 +10069,6 @@ lifestyle.	0	IN	NS	ns01.trs-dns.net.
 lifestyle.	0	IN	NS	ns01.trs-dns.org.
 lifestyle.	0	IN	NS	ns01.trs-dns.info.
 lifestyle.	0	IN	DS	19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
-lifestyle.	0	IN	DS	43470 8 2 bc977bf20baf75a4593e81d3e773f044543de7c3db7c8b0a7059e6f370a5c86c
 lighting.	0	IN	NS	v0n0.nic.lighting.
 lighting.	0	IN	NS	v0n1.nic.lighting.
 lighting.	0	IN	NS	v0n2.nic.lighting.
@@ -10237,7 +10230,6 @@ living.	0	IN	NS	ns01.trs-dns.com.
 living.	0	IN	NS	ns01.trs-dns.net.
 living.	0	IN	NS	ns01.trs-dns.org.
 living.	0	IN	NS	ns01.trs-dns.info.
-living.	0	IN	DS	9429 8 2 341ce294ded797dd426a6b6afeaa0c85ba65bbc8ec3d5a7895d77dee88435df4
 living.	0	IN	DS	59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 lk.	0	IN	NS	c.nic.lk.
 lk.	0	IN	NS	d.nic.lk.
@@ -12645,7 +12637,6 @@ observer.	0	IN	NS	ns01.trs-dns.com.
 observer.	0	IN	NS	ns01.trs-dns.net.
 observer.	0	IN	NS	ns01.trs-dns.org.
 observer.	0	IN	NS	ns01.trs-dns.info.
-observer.	0	IN	DS	46084 8 2 366c4c042dbbaa5636c254a7ab2331102545dca6f2c81c8ce6b42c6dd0cadeb4
 observer.	0	IN	DS	61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 office.	0	IN	NS	a.nic.office.
 office.	0	IN	NS	b.nic.office.
@@ -17919,7 +17910,6 @@ vana.	0	IN	NS	ns01.trs-dns.net.
 vana.	0	IN	NS	ns01.trs-dns.org.
 vana.	0	IN	NS	ns01.trs-dns.info.
 vana.	0	IN	DS	16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
-vana.	0	IN	DS	51813 8 2 93baec1bc806c42034f1ba91345d8aa439242ea114157951bf6b7e9f79fc9e0c
 vanguard.	0	IN	NS	a0.nic.vanguard.
 vanguard.	0	IN	NS	a2.nic.vanguard.
 vanguard.	0	IN	NS	b0.nic.vanguard.
