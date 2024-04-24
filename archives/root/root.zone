@@ -14,6 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	ZONEMD	2024042401 1 1 48417be6f27f0a1b343086fdbda992c15071d70e9b5a8a9d131061a03cc503d8c3345f3f7f010e8333bceb7be67716a4
+.	0	IN	ZONEMD	2024042402 1 1 d90cac1b5dce6ed0a1bc60014a6064d51fc9fd897439301b8587de9e2286c481e233709fd16382d0a8dfe5d99a159317
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1004,6 +1005,8 @@ at.	0	IN	NS	ns2.univie.ac.at.
 at.	0	IN	NS	ns9.univie.ac.at.
 at.	0	IN	DS	1253 13 2 ba17c1bacb3fb49f7760ad1f7e71e17ab39ee0df3e9d3bf23fd3d70d6cf1719e
 at.	0	IN	DS	18942 13 2 ae5f0bd73c8f48f3d55cdc4070f9407873176c364de4bc92bf96887685e6e55f
+dns-eg.univie.ac.at.	0	IN	A	78.104.145.8
+dns-eg.univie.ac.at.	0	IN	AAAA	2001:628:453:bb::8
 dns-mk.univie.ac.at.	0	IN	A	78.104.145.4
 dns-mk.univie.ac.at.	0	IN	AAAA	2001:628:453:bb::4
 ns1.univie.ac.at.	0	IN	A	78.104.144.2
@@ -5448,6 +5451,7 @@ ns.tld.ee.	0	IN	A	195.43.87.10
 eg.	0	IN	NS	ns5.univie.ac.at.
 eg.	0	IN	NS	rip.psg.com.
 eg.	0	IN	NS	frcu.eun.eg.
+eg.	0	IN	NS	dns-eg.univie.ac.at.
 ns1.dotmasr.eg.	0	IN	A	81.21.97.155
 ns2.dotmasr.eg.	0	IN	A	81.21.99.11
 ns3.dotmasr.eg.	0	IN	A	81.10.38.11
@@ -7828,6 +7832,10 @@ hiphop.	0	IN	NS	ns1.uniregistry.net.
 hiphop.	0	IN	NS	ns2.uniregistry.info.
 hiphop.	0	IN	NS	ns3.uniregistry.net.
 hiphop.	0	IN	NS	ns4.uniregistry.info.
+hiphop.	0	IN	NS	ns01.trs-dns.com.
+hiphop.	0	IN	NS	ns01.trs-dns.net.
+hiphop.	0	IN	NS	ns01.trs-dns.org.
+hiphop.	0	IN	NS	ns01.trs-dns.info.
 hiphop.	0	IN	DS	7668 13 2 de0bde4365798b5080d31d7a5a8e7182d4924938761bfd506af371ea5cb36ab0
 hisamitsu.	0	IN	NS	a.gmoregistry.net.
 hisamitsu.	0	IN	NS	b.gmoregistry.net.
