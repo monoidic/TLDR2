@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024042501 1 1 e3ed326f024320e62b9d81f67649eeeb4c09ca684527808bda85a5f9930af93ae97b6e21d4cbfd814d78de251820b957
+.	0	IN	ZONEMD	2024042502 1 1 edeace456d5929140f74f95571a4b2b8fb47c564043a4f7a7b8c3d4f4b2d9ecfd5139b1638972fb5c2da4d37cb12b084
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3577,6 +3577,10 @@ click.	0	IN	NS	ns1.uniregistry.net.
 click.	0	IN	NS	ns2.uniregistry.info.
 click.	0	IN	NS	ns3.uniregistry.net.
 click.	0	IN	NS	ns4.uniregistry.info.
+click.	0	IN	NS	ns01.trs-dns.com.
+click.	0	IN	NS	ns01.trs-dns.net.
+click.	0	IN	NS	ns01.trs-dns.org.
+click.	0	IN	NS	ns01.trs-dns.info.
 click.	0	IN	DS	65517 13 2 d09a2c14c4382634edccf9634fb32e91511e1e642f3c38468ba2407f1d1bad24
 clinic.	0	IN	NS	v0n0.nic.clinic.
 clinic.	0	IN	NS	v0n1.nic.clinic.
@@ -3629,10 +3633,6 @@ v2n0.nic.clothing.	0	IN	A	65.22.27.13
 v2n0.nic.clothing.	0	IN	AAAA	2a01:8840:1d::13
 v2n1.nic.clothing.	0	IN	A	161.232.13.13
 v2n1.nic.clothing.	0	IN	AAAA	2a01:8840:f7::13
-cloud.	0	IN	NS	ns1.uniregistry.net.
-cloud.	0	IN	NS	ns2.uniregistry.info.
-cloud.	0	IN	NS	ns3.uniregistry.net.
-cloud.	0	IN	NS	ns4.uniregistry.info.
 cloud.	0	IN	NS	ns01.trs-dns.com.
 cloud.	0	IN	NS	ns01.trs-dns.net.
 cloud.	0	IN	NS	ns01.trs-dns.org.
@@ -4173,10 +4173,6 @@ v2n0.nic.cool.	0	IN	A	65.22.27.38
 v2n0.nic.cool.	0	IN	AAAA	2a01:8840:1d::38
 v2n1.nic.cool.	0	IN	A	161.232.13.38
 v2n1.nic.cool.	0	IN	AAAA	2a01:8840:f7::38
-coop.	0	IN	NS	ns1.uniregistry.net.
-coop.	0	IN	NS	ns2.uniregistry.info.
-coop.	0	IN	NS	ns3.uniregistry.net.
-coop.	0	IN	NS	ns4.uniregistry.info.
 coop.	0	IN	NS	ns01.trs-dns.com.
 coop.	0	IN	NS	ns01.trs-dns.net.
 coop.	0	IN	NS	ns01.trs-dns.org.
@@ -4190,6 +4186,10 @@ country.	0	IN	NS	ns1.uniregistry.net.
 country.	0	IN	NS	ns2.uniregistry.info.
 country.	0	IN	NS	ns3.uniregistry.net.
 country.	0	IN	NS	ns4.uniregistry.info.
+country.	0	IN	NS	ns01.trs-dns.com.
+country.	0	IN	NS	ns01.trs-dns.net.
+country.	0	IN	NS	ns01.trs-dns.org.
+country.	0	IN	NS	ns01.trs-dns.info.
 country.	0	IN	DS	28436 13 2 94dd44e372b69204cb1fe63ddd1d7a831642d96d00e9dda589ddaa02e0922cdd
 coupon.	0	IN	NS	a.nic.coupon.
 coupon.	0	IN	NS	b.nic.coupon.
@@ -7845,6 +7845,10 @@ hiv.	0	IN	NS	ns1.uniregistry.net.
 hiv.	0	IN	NS	ns2.uniregistry.info.
 hiv.	0	IN	NS	ns3.uniregistry.net.
 hiv.	0	IN	NS	ns4.uniregistry.info.
+hiv.	0	IN	NS	ns01.trs-dns.com.
+hiv.	0	IN	NS	ns01.trs-dns.net.
+hiv.	0	IN	NS	ns01.trs-dns.org.
+hiv.	0	IN	NS	ns01.trs-dns.info.
 hiv.	0	IN	DS	50937 13 2 139053a1dd36c05b171d5adb695cedcd3db6eea7b7a2b0700aadc4c8712b1344
 hk.	0	IN	NS	c.hkirc.net.hk.
 hk.	0	IN	NS	d.hkirc.net.hk.
@@ -10325,7 +10329,6 @@ locker.	0	IN	NS	ns01.trs-dns.com.
 locker.	0	IN	NS	ns01.trs-dns.net.
 locker.	0	IN	NS	ns01.trs-dns.org.
 locker.	0	IN	NS	ns01.trs-dns.info.
-locker.	0	IN	DS	6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
 locker.	0	IN	DS	12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
 locus.	0	IN	NS	dns1.nic.locus.
 locus.	0	IN	NS	dns2.nic.locus.
@@ -10397,10 +10400,6 @@ b0.nic.lotto.	0	IN	A	65.22.29.25
 b0.nic.lotto.	0	IN	AAAA	2a01:8840:1f::25
 c0.nic.lotto.	0	IN	A	65.22.30.25
 c0.nic.lotto.	0	IN	AAAA	2a01:8840:20::25
-love.	0	IN	NS	ns1.uniregistry.net.
-love.	0	IN	NS	ns2.uniregistry.info.
-love.	0	IN	NS	ns3.uniregistry.net.
-love.	0	IN	NS	ns4.uniregistry.info.
 love.	0	IN	NS	ns01.trs-dns.com.
 love.	0	IN	NS	ns01.trs-dns.net.
 love.	0	IN	NS	ns01.trs-dns.org.
@@ -13869,6 +13868,10 @@ property.	0	IN	NS	ns1.uniregistry.net.
 property.	0	IN	NS	ns2.uniregistry.info.
 property.	0	IN	NS	ns3.uniregistry.net.
 property.	0	IN	NS	ns4.uniregistry.info.
+property.	0	IN	NS	ns01.trs-dns.com.
+property.	0	IN	NS	ns01.trs-dns.net.
+property.	0	IN	NS	ns01.trs-dns.org.
+property.	0	IN	NS	ns01.trs-dns.info.
 property.	0	IN	DS	33049 13 2 6dff521d658293fd458e615debb6ca0c76341775f72f340bcd3960851b4c536f
 protection.	0	IN	NS	a.nic.protection.
 protection.	0	IN	NS	b.nic.protection.
