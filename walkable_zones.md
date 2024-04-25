@@ -10,9 +10,7 @@
 * `br.`
 * `bt.`
 * `car.`
-* `cars.`
 * `ch.`
-* `christmas.`
 * `ci.`
 * `desi.`
 * `diet.`
@@ -37,7 +35,6 @@
 * `lr.`
 * `mc.`
 * `mom.`
-* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
