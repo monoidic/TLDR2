@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024042601 1 1 0e1c690dfe7ea07d23b76688522c95bef0e16d5b806a766f5472097b85bd4558fcdb4a6e6e7abfdf86f45717ec3a9734
+.	0	IN	ZONEMD	2024042602 1 1 5afe5a4cc4219fdbf8fb4ea19da2e35a5da495b6664b1d1a90e45ab88d0ad95824b503ef361870cea1877639465b3bdd
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3573,10 +3573,6 @@ v2n0.nic.cleaning.	0	IN	A	65.22.23.27
 v2n0.nic.cleaning.	0	IN	AAAA	2a01:8840:19::27
 v2n1.nic.cleaning.	0	IN	A	161.232.11.27
 v2n1.nic.cleaning.	0	IN	AAAA	2a01:8840:f5::27
-click.	0	IN	NS	ns1.uniregistry.net.
-click.	0	IN	NS	ns2.uniregistry.info.
-click.	0	IN	NS	ns3.uniregistry.net.
-click.	0	IN	NS	ns4.uniregistry.info.
 click.	0	IN	NS	ns01.trs-dns.com.
 click.	0	IN	NS	ns01.trs-dns.net.
 click.	0	IN	NS	ns01.trs-dns.org.
@@ -4182,10 +4178,6 @@ corsica.	0	IN	NS	d.nic.fr.
 corsica.	0	IN	NS	f.ext.nic.fr.
 corsica.	0	IN	NS	g.ext.nic.fr.
 corsica.	0	IN	DS	16766 13 2 fb25f2d69835bf52cd5389473cd4b0c58d581385ee40b1d1a357135a8ce26997
-country.	0	IN	NS	ns1.uniregistry.net.
-country.	0	IN	NS	ns2.uniregistry.info.
-country.	0	IN	NS	ns3.uniregistry.net.
-country.	0	IN	NS	ns4.uniregistry.info.
 country.	0	IN	NS	ns01.trs-dns.com.
 country.	0	IN	NS	ns01.trs-dns.net.
 country.	0	IN	NS	ns01.trs-dns.org.
@@ -7841,10 +7833,6 @@ hitachi.	0	IN	NS	b.gmoregistry.net.
 hitachi.	0	IN	NS	k.gmoregistry.net.
 hitachi.	0	IN	NS	l.gmoregistry.net.
 hitachi.	0	IN	DS	14525 8 2 03ea91ac19aeb9ffa37874a5f0f27f2a04c6eeae162fd7d9c87f083447d31e5f
-hiv.	0	IN	NS	ns1.uniregistry.net.
-hiv.	0	IN	NS	ns2.uniregistry.info.
-hiv.	0	IN	NS	ns3.uniregistry.net.
-hiv.	0	IN	NS	ns4.uniregistry.info.
 hiv.	0	IN	NS	ns01.trs-dns.com.
 hiv.	0	IN	NS	ns01.trs-dns.net.
 hiv.	0	IN	NS	ns01.trs-dns.org.
@@ -13864,10 +13852,6 @@ v2n0.nic.properties.	0	IN	A	65.22.23.46
 v2n0.nic.properties.	0	IN	AAAA	2a01:8840:19::46
 v2n1.nic.properties.	0	IN	A	161.232.11.46
 v2n1.nic.properties.	0	IN	AAAA	2a01:8840:f5::46
-property.	0	IN	NS	ns1.uniregistry.net.
-property.	0	IN	NS	ns2.uniregistry.info.
-property.	0	IN	NS	ns3.uniregistry.net.
-property.	0	IN	NS	ns4.uniregistry.info.
 property.	0	IN	NS	ns01.trs-dns.com.
 property.	0	IN	NS	ns01.trs-dns.net.
 property.	0	IN	NS	ns01.trs-dns.org.
@@ -14114,7 +14098,6 @@ re.	0	IN	NS	d.nic.fr.
 re.	0	IN	NS	e.ext.nic.fr.
 re.	0	IN	NS	f.ext.nic.fr.
 re.	0	IN	NS	g.ext.nic.fr.
-re.	0	IN	DS	49754 13 2 ce6c40407ed006c7a2d34b04f01ea0d825a64fa2418d6e994192ad05ad24ff68
 re.	0	IN	DS	61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
 read.	0	IN	NS	dns1.nic.read.
 read.	0	IN	NS	dns2.nic.read.
@@ -14343,7 +14326,6 @@ ren.	0	IN	NS	f.zdnscloud.com.
 ren.	0	IN	NS	g.zdnscloud.com.
 ren.	0	IN	NS	i.zdnscloud.com.
 ren.	0	IN	NS	j.zdnscloud.com.
-ren.	0	IN	DS	770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
 ren.	0	IN	DS	6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 rent.	0	IN	NS	a.nic.rent.
 rent.	0	IN	NS	b.nic.rent.
