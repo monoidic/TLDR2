@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024043000 1 1 0268793ddc5f1038fa28bb2e803c290d0ab2648ea118fdffe04dc72eab230d7741267235c8ff1e05ab89fc743e44545b
+.	0	IN	ZONEMD	2024043002 1 1 0d5043744d18496f778ba8fca292296034fd11f75b29879258d00bcfe3a7eeb41efc81150f71e767e17d882df180280c
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -916,6 +916,7 @@ art.	0	IN	NS	b.nic.art.
 art.	0	IN	NS	c.nic.art.
 art.	0	IN	NS	d.nic.art.
 art.	0	IN	DS	29485 8 2 bf041a7ec6ca857f5d85151c66f561deb9c863b98e05670c345c9cf9ed199aee
+art.	0	IN	DS	32002 8 2 fb2ae28a30b90d8b273b88edf84d3edc704c6aa6dd08c1f51c8e96992441bb17
 a.nic.art.	0	IN	A	194.169.218.49
 a.nic.art.	0	IN	AAAA	2001:67c:13cc::1:49
 b.nic.art.	0	IN	A	185.24.64.49
@@ -2735,7 +2736,7 @@ cam.	0	IN	NS	b.nic.cam.
 cam.	0	IN	NS	c.nic.cam.
 cam.	0	IN	NS	d.nic.cam.
 cam.	0	IN	DS	5089 8 2 a17021ada565f6b13749741dc51a25b0f524bae6b753343155cfe8426cd29462
-cam.	0	IN	DS	27179 8 2 f8c48547453f63fcc5bf62884a1f885fe50d467079e7b17da3c8d0a2dc92474d
+cam.	0	IN	DS	63412 8 2 574852572a5d0fa1b6c9d1b008851e74a34298e5dcbb0979c347753eec1a23d4
 a.nic.cam.	0	IN	A	194.169.218.77
 a.nic.cam.	0	IN	AAAA	2001:67c:13cc::1:77
 b.nic.cam.	0	IN	A	185.24.64.77
@@ -9281,6 +9282,10 @@ juegos.	0	IN	NS	ns1.uniregistry.net.
 juegos.	0	IN	NS	ns2.uniregistry.info.
 juegos.	0	IN	NS	ns3.uniregistry.net.
 juegos.	0	IN	NS	ns4.uniregistry.info.
+juegos.	0	IN	NS	ns01.trs-dns.com.
+juegos.	0	IN	NS	ns01.trs-dns.net.
+juegos.	0	IN	NS	ns01.trs-dns.org.
+juegos.	0	IN	NS	ns01.trs-dns.info.
 juegos.	0	IN	DS	29108 13 2 a05ce9ac7dd78b8c400aee67a0f85d3aa82b99c07745748021a53bc35e9fc0f3
 juniper.	0	IN	NS	a0.nic.juniper.
 juniper.	0	IN	NS	a2.nic.juniper.
@@ -11638,6 +11643,8 @@ my.	0	IN	NS	b.mynic.centralnic-dns.com.
 my.	0	IN	NS	c.mynic.centralnic-dns.com.
 my.	0	IN	NS	d.mynic.centralnic-dns.com.
 my.	0	IN	NS	a1.nic.my.
+my.	0	IN	NS	ns01.trs-dns.com.
+my.	0	IN	NS	ns01.trs-dns.net.
 my.	0	IN	DS	174 8 2 fb9e2f10f50a09e3614a9e6a2c76c1ae7554711e5242b7f516a8078d86ed87b9
 my.	0	IN	DS	35481 8 2 ae555a40f6bdb488eb025822a71c91c94e1f339fdd71e0386561c3c4b7d2b198
 a.nic.my.	0	IN	A	103.44.108.53
@@ -13362,6 +13369,7 @@ pid.	0	IN	NS	b.nic.pid.
 pid.	0	IN	NS	c.nic.pid.
 pid.	0	IN	NS	d.nic.pid.
 pid.	0	IN	DS	35396 8 2 e8653b5c02c27cc66fd56d529656c23da9dc0231f060d527e231659f9ef27964
+pid.	0	IN	DS	40310 8 2 2415bf6a21e16aa37db85091772fd176ca35ac24ca8ab1c95b81df13f7fa0754
 a.nic.pid.	0	IN	A	194.169.218.47
 a.nic.pid.	0	IN	AAAA	2001:67c:13cc::1:47
 b.nic.pid.	0	IN	A	185.24.64.47
@@ -15443,6 +15451,10 @@ sexy.	0	IN	NS	ns1.uniregistry.net.
 sexy.	0	IN	NS	ns2.uniregistry.info.
 sexy.	0	IN	NS	ns3.uniregistry.net.
 sexy.	0	IN	NS	ns4.uniregistry.info.
+sexy.	0	IN	NS	ns01.trs-dns.com.
+sexy.	0	IN	NS	ns01.trs-dns.net.
+sexy.	0	IN	NS	ns01.trs-dns.org.
+sexy.	0	IN	NS	ns01.trs-dns.info.
 sexy.	0	IN	DS	42010 13 2 a0e135ac7e6ffb2cad1574c08c837bb5d5a4e34c60356498389e69b55943d58c
 sfr.	0	IN	NS	a.nic.sfr.
 sfr.	0	IN	NS	b.nic.sfr.
@@ -17439,6 +17451,10 @@ trust.	0	IN	NS	ns1.uniregistry.net.
 trust.	0	IN	NS	ns2.uniregistry.info.
 trust.	0	IN	NS	ns3.uniregistry.net.
 trust.	0	IN	NS	ns4.uniregistry.info.
+trust.	0	IN	NS	ns01.trs-dns.com.
+trust.	0	IN	NS	ns01.trs-dns.net.
+trust.	0	IN	NS	ns01.trs-dns.org.
+trust.	0	IN	NS	ns01.trs-dns.info.
 trust.	0	IN	DS	33872 13 2 d324a81281464251e04686f4e75d2978b119496fe596012a89647ff6af0eefc3
 trv.	0	IN	NS	a0.nic.trv.
 trv.	0	IN	NS	a2.nic.trv.
