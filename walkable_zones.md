@@ -10,7 +10,6 @@
 * `br.`
 * `bt.`
 * `car.`
-* `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -20,15 +19,12 @@
 * `ee.`
 * `er.`
 * `flowers.`
-* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
-* `ieee.`
 * `ir.`
-* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
@@ -40,10 +36,8 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
