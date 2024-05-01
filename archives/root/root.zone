@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024050101 1 1 881a48bdb33042b2c8e9ad2fda080eb05e40a1e48d6cf55eb427a107221512eeb8ca679473c555e44fd40ad4577d4d76
+.	0	IN	ZONEMD	2024050102 1 1 4b4cbb4f5e08dd21139a34603ac1f5e8f33d64dcce8e92283fe4daaa90187e4e0d6a4429bbf1633addb02bf9874377f8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -7052,6 +7052,10 @@ gift.	0	IN	NS	ns1.uniregistry.net.
 gift.	0	IN	NS	ns2.uniregistry.info.
 gift.	0	IN	NS	ns3.uniregistry.net.
 gift.	0	IN	NS	ns4.uniregistry.info.
+gift.	0	IN	NS	ns01.trs-dns.com.
+gift.	0	IN	NS	ns01.trs-dns.net.
+gift.	0	IN	NS	ns01.trs-dns.org.
+gift.	0	IN	NS	ns01.trs-dns.info.
 gift.	0	IN	DS	45508 13 2 eea1dc9ae9e1bd91256962bfb0d639c8df881e8c56981b667fffc27daf293a6b
 gifts.	0	IN	NS	v0n0.nic.gifts.
 gifts.	0	IN	NS	v0n1.nic.gifts.
@@ -9278,10 +9282,6 @@ tld4.nic.jprs.	0	IN	A	103.198.210.1
 tld4.nic.jprs.	0	IN	AAAA	2403:2880::1
 tld5.nic.jprs.	0	IN	A	65.22.40.129
 tld5.nic.jprs.	0	IN	AAAA	2a01:8840:1ba::129
-juegos.	0	IN	NS	ns1.uniregistry.net.
-juegos.	0	IN	NS	ns2.uniregistry.info.
-juegos.	0	IN	NS	ns3.uniregistry.net.
-juegos.	0	IN	NS	ns4.uniregistry.info.
 juegos.	0	IN	NS	ns01.trs-dns.com.
 juegos.	0	IN	NS	ns01.trs-dns.net.
 juegos.	0	IN	NS	ns01.trs-dns.org.
@@ -15447,10 +15447,6 @@ y.nic.sex.	0	IN	A	156.154.173.82
 y.nic.sex.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.sex.	0	IN	A	156.154.174.82
 z.nic.sex.	0	IN	AAAA	2610:a1:1076::1:82
-sexy.	0	IN	NS	ns1.uniregistry.net.
-sexy.	0	IN	NS	ns2.uniregistry.info.
-sexy.	0	IN	NS	ns3.uniregistry.net.
-sexy.	0	IN	NS	ns4.uniregistry.info.
 sexy.	0	IN	NS	ns01.trs-dns.com.
 sexy.	0	IN	NS	ns01.trs-dns.net.
 sexy.	0	IN	NS	ns01.trs-dns.org.
@@ -17447,10 +17443,6 @@ b0.nic.travelersinsurance.	0	IN	A	65.22.201.17
 b0.nic.travelersinsurance.	0	IN	AAAA	2a01:8840:c3::17
 c0.nic.travelersinsurance.	0	IN	A	65.22.202.17
 c0.nic.travelersinsurance.	0	IN	AAAA	2a01:8840:c4::17
-trust.	0	IN	NS	ns1.uniregistry.net.
-trust.	0	IN	NS	ns2.uniregistry.info.
-trust.	0	IN	NS	ns3.uniregistry.net.
-trust.	0	IN	NS	ns4.uniregistry.info.
 trust.	0	IN	NS	ns01.trs-dns.com.
 trust.	0	IN	NS	ns01.trs-dns.net.
 trust.	0	IN	NS	ns01.trs-dns.org.
