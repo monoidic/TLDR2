@@ -3,7 +3,9 @@
 * `.`
 * `amazon.`
 * `arpa.`
+* `audio.`
 * `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -12,6 +14,7 @@
 * `ch.`
 * `christmas.`
 * `ci.`
+* `desi.`
 * `diet.`
 * `dz.`
 * `ee.`
@@ -35,13 +38,16 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
