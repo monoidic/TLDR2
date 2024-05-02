@@ -8,15 +8,11 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
-* `desi.`
-* `diet.`
-* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -25,11 +21,9 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `ieee.`
 * `ir.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -40,7 +34,6 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`

@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024050200 1 1 7d89564a006d406c0ccb6fcfdf027078105382426ee6e04d29e815c4fa7cb2e8a9258be82ced5e9eed9845f7d51135c6
+.	0	IN	ZONEMD	2024050203 1 1 8ed717f56dca0f188f071a88f409f0c50f313346789ebb73ca61450d7216f75f7f29a94eed90f5609bfb5fb8277a5b1a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5994,7 +5994,6 @@ feedback.	0	IN	NS	ns01.trs-dns.com.
 feedback.	0	IN	NS	ns01.trs-dns.net.
 feedback.	0	IN	NS	ns01.trs-dns.org.
 feedback.	0	IN	NS	ns01.trs-dns.info.
-feedback.	0	IN	DS	16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
 feedback.	0	IN	DS	37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 ferrari.	0	IN	NS	a0.nic.ferrari.
 ferrari.	0	IN	NS	a2.nic.ferrari.
@@ -6505,7 +6504,6 @@ forum.	0	IN	NS	ns01.trs-dns.com.
 forum.	0	IN	NS	ns01.trs-dns.net.
 forum.	0	IN	NS	ns01.trs-dns.org.
 forum.	0	IN	NS	ns01.trs-dns.info.
-forum.	0	IN	DS	9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
 forum.	0	IN	DS	12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
 foundation.	0	IN	NS	v0n0.nic.foundation.
 foundation.	0	IN	NS	v0n1.nic.foundation.
@@ -7048,10 +7046,6 @@ gi.	0	IN	NS	b2.cctld.afilias-nst.org.
 gi.	0	IN	NS	c0.cctld.afilias-nst.info.
 gi.	0	IN	NS	d0.cctld.afilias-nst.org.
 gi.	0	IN	DS	33934 8 2 3db5809de2e1052b00e010f54b404bd59cb5cba0c8306e1799623bda45a1cfb7
-gift.	0	IN	NS	ns1.uniregistry.net.
-gift.	0	IN	NS	ns2.uniregistry.info.
-gift.	0	IN	NS	ns3.uniregistry.net.
-gift.	0	IN	NS	ns4.uniregistry.info.
 gift.	0	IN	NS	ns01.trs-dns.com.
 gift.	0	IN	NS	ns01.trs-dns.net.
 gift.	0	IN	NS	ns01.trs-dns.org.
@@ -9650,6 +9644,10 @@ ky.	0	IN	NS	ns1.uniregistry.net.
 ky.	0	IN	NS	ns2.uniregistry.info.
 ky.	0	IN	NS	ns3.uniregistry.net.
 ky.	0	IN	NS	ns4.uniregistry.info.
+ky.	0	IN	NS	ns01.trs-dns.com.
+ky.	0	IN	NS	ns01.trs-dns.net.
+ky.	0	IN	NS	ns01.trs-dns.org.
+ky.	0	IN	NS	ns01.trs-dns.info.
 ky.	0	IN	DS	38821 13 2 7fc55d2cabba85a2ca6831aca0565a64d7ad91e4861b114f317392b680dc6cbc
 kyoto.	0	IN	NS	a.gmoregistry.net.
 kyoto.	0	IN	NS	b.gmoregistry.net.
@@ -10186,6 +10184,10 @@ link.	0	IN	NS	ns1.uniregistry.net.
 link.	0	IN	NS	ns2.uniregistry.info.
 link.	0	IN	NS	ns3.uniregistry.net.
 link.	0	IN	NS	ns4.uniregistry.info.
+link.	0	IN	NS	ns01.trs-dns.com.
+link.	0	IN	NS	ns01.trs-dns.net.
+link.	0	IN	NS	ns01.trs-dns.org.
+link.	0	IN	NS	ns01.trs-dns.info.
 link.	0	IN	DS	16766 13 2 40f1045035d7ba48d27a66442b2c71ca159d219756d3ad4d35cf1e80419228b5
 lipsy.	0	IN	NS	a0.nic.lipsy.
 lipsy.	0	IN	NS	a2.nic.lipsy.
@@ -12589,7 +12591,6 @@ nz.	0	IN	NS	ns4.dns.net.nz.
 nz.	0	IN	NS	ns5.dns.net.nz.
 nz.	0	IN	NS	ns6.dns.net.nz.
 nz.	0	IN	NS	ns7.dns.net.nz.
-nz.	0	IN	DS	13646 8 2 569b1bae369fd18f03d088fba91bd58a830e4e21d2c96155ced267544cac14b1
 nz.	0	IN	DS	49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
 nz.	0	IN	DS	63529 8 2 65c9663eacc1ad314058a5a7b127d409d144bba9a58ec0b6a7f4f028574df47b
 circa.mcs.vuw.ac.nz.	0	IN	A	130.195.5.12
@@ -14573,6 +14574,7 @@ ro.	0	IN	NS	primary.rotld.ro.
 ro.	0	IN	NS	sec-dns-a.rotld.ro.
 ro.	0	IN	NS	sec-dns-b.rotld.ro.
 ro.	0	IN	DS	9784 8 2 0a8ed773f6bbf8c5d2f687c26a9a904c76de41db74f329501e23f206c9c3b078
+ro.	0	IN	DS	61039 8 2 7c53f10e86835711c3cc6ba9632e4295a077e6a0a148059195371c3e5d07e10f
 dns-at.rotld.ro.	0	IN	A	78.104.145.6
 dns-at.rotld.ro.	0	IN	AAAA	2001:628:453:bb::6
 dns-c.rotld.ro.	0	IN	A	194.0.11.113
