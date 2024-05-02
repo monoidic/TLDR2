@@ -6,12 +6,10 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
 * `cars.`
-* `ch.`
 * `christmas.`
 * `ci.`
 * `desi.`
@@ -37,7 +35,6 @@
 * `lr.`
 * `mc.`
 * `mom.`
-* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
