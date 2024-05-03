@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024050301 1 1 0d450c9e879fa3840c1a7832fbce135e13f089decc382d7ddb2fd363ebff3ad7ccc387fe786035b5d702a0b28ad3ee26
+.	0	IN	ZONEMD	2024050302 1 1 4e03102af0644a1209dbb9986f61951a4445ecbda08a072f37fc17e16bd7074ef7757c23dd999227acdcc4fcb9cda2b5
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9640,10 +9640,6 @@ d.nic.kw.	0	IN	A	185.42.137.135
 d.nic.kw.	0	IN	AAAA	2a01:3f0:400:8001::135
 pch.nic.kw.	0	IN	A	204.61.216.118
 pch.nic.kw.	0	IN	AAAA	2001:500:14:6118:ad::1
-ky.	0	IN	NS	ns1.uniregistry.net.
-ky.	0	IN	NS	ns2.uniregistry.info.
-ky.	0	IN	NS	ns3.uniregistry.net.
-ky.	0	IN	NS	ns4.uniregistry.info.
 ky.	0	IN	NS	ns01.trs-dns.com.
 ky.	0	IN	NS	ns01.trs-dns.net.
 ky.	0	IN	NS	ns01.trs-dns.org.
@@ -10180,10 +10176,6 @@ ns2.dns.nic.lincoln.	0	IN	A	156.154.145.105
 ns2.dns.nic.lincoln.	0	IN	AAAA	2610:a1:1072::69
 ns3.dns.nic.lincoln.	0	IN	A	156.154.159.105
 ns3.dns.nic.lincoln.	0	IN	AAAA	2610:a1:1073::69
-link.	0	IN	NS	ns1.uniregistry.net.
-link.	0	IN	NS	ns2.uniregistry.info.
-link.	0	IN	NS	ns3.uniregistry.net.
-link.	0	IN	NS	ns4.uniregistry.info.
 link.	0	IN	NS	ns01.trs-dns.com.
 link.	0	IN	NS	ns01.trs-dns.net.
 link.	0	IN	NS	ns01.trs-dns.org.
