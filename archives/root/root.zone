@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024050601 1 1 89453e176ad210b2bbc491e03a400bdf3a88e0e2dd67b4f5d46bc62667c2e0787e2057186a23195acd201153eff54740
+.	0	IN	ZONEMD	2024050602 1 1 962a55b49f734c77481f8e22a07b17b55b0e3026d1986282b4360d34dae6d45fe7ffffe8e861c5ec7358532e254d3f78
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -6950,7 +6950,7 @@ gdn.	0	IN	NS	ns1.nic.gdn.
 gdn.	0	IN	NS	ns3.nic.gdn.
 gdn.	0	IN	NS	ns4.nic.gdn.
 gdn.	0	IN	DS	28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
-gdn.	0	IN	DS	30307 8 1 7a16bf5938b9fe7cf2ac5be9c472e81443944686
+gdn.	0	IN	DS	31405 8 1 00275a5feec994177d0c012b7239ca8ad41ec030
 ns1.nic.gdn.	0	IN	A	194.0.25.18
 ns1.nic.gdn.	0	IN	AAAA	2001:678:20::18
 ns3.nic.gdn.	0	IN	A	194.0.26.11
@@ -7163,7 +7163,8 @@ gm.	0	IN	NS	ns1.nic.gm.
 gm.	0	IN	NS	ns2.nic.gm.
 gm.	0	IN	NS	ns-gm.afrinic.net.
 ns1.nic.gm.	0	IN	A	194.63.250.217
-ns2.nic.gm.	0	IN	A	20.102.113.6
+ns2.nic.gm.	0	IN	A	209.250.227.199
+ns2.nic.gm.	0	IN	AAAA	2a05:f480:1000:235:5400:4ff:fee5:2f89
 gmail.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 gmail.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 gmail.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -14565,7 +14566,6 @@ ro.	0	IN	NS	dns-ro.denic.de.
 ro.	0	IN	NS	primary.rotld.ro.
 ro.	0	IN	NS	sec-dns-a.rotld.ro.
 ro.	0	IN	NS	sec-dns-b.rotld.ro.
-ro.	0	IN	DS	9784 8 2 0a8ed773f6bbf8c5d2f687c26a9a904c76de41db74f329501e23f206c9c3b078
 ro.	0	IN	DS	61039 8 2 7c53f10e86835711c3cc6ba9632e4295a077e6a0a148059195371c3e5d07e10f
 dns-at.rotld.ro.	0	IN	A	78.104.145.6
 dns-at.rotld.ro.	0	IN	AAAA	2001:628:453:bb::6
