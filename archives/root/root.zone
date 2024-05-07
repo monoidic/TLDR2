@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024050701 1 1 a8f722f69dec669ec3fb56193312a628549213b6a12262c215f2844ed307e6b1867cf0ac83d5c296536a0cd47dab41c2
+.	0	IN	ZONEMD	2024050702 1 1 f4093a736c1b13431cbef6bdc19ae09a6c16230c1eff06999c36e44534aa847d7296860cb89d3c320983fa8efbe39351
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5065,6 +5065,7 @@ diy.	0	IN	NS	ns01.trs-dns.com.
 diy.	0	IN	NS	ns01.trs-dns.net.
 diy.	0	IN	NS	ns01.trs-dns.org.
 diy.	0	IN	NS	ns01.trs-dns.info.
+diy.	0	IN	DS	33264 13 2 24a91796a02821f094f089fb6001bac99b9b0bd2a8b0b89e63231da8f2c79788
 diy.	0	IN	DS	41150 8 2 d206fa304919c1b109784efe3704271919a8da8ab5dfe8637c22e1ae7c8c46ab
 dj.	0	IN	NS	bow1.intnet.dj.
 dj.	0	IN	NS	bow5.intnet.dj.
@@ -6424,6 +6425,7 @@ food.	0	IN	NS	ns01.trs-dns.net.
 food.	0	IN	NS	ns01.trs-dns.org.
 food.	0	IN	NS	ns01.trs-dns.info.
 food.	0	IN	DS	3415 8 2 ca071e56345c271f2097dea2fd030a761869d20acaf34540f56c26eb484a4eea
+food.	0	IN	DS	29023 13 2 5cfba2baaa02242b1a9b83677493f4205a70f202a7ae2afced9f907af47b0ea1
 football.	0	IN	NS	v0n0.nic.football.
 football.	0	IN	NS	v0n1.nic.football.
 football.	0	IN	NS	v0n2.nic.football.
@@ -10057,6 +10059,7 @@ lifestyle.	0	IN	NS	ns01.trs-dns.net.
 lifestyle.	0	IN	NS	ns01.trs-dns.org.
 lifestyle.	0	IN	NS	ns01.trs-dns.info.
 lifestyle.	0	IN	DS	19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
+lifestyle.	0	IN	DS	49384 13 2 2ff50c386c9de4489845f15c9269cd0757699b8e021ccbd0826312cdb18b2808
 lighting.	0	IN	NS	v0n0.nic.lighting.
 lighting.	0	IN	NS	v0n1.nic.lighting.
 lighting.	0	IN	NS	v0n2.nic.lighting.
@@ -10218,6 +10221,7 @@ living.	0	IN	NS	ns01.trs-dns.com.
 living.	0	IN	NS	ns01.trs-dns.net.
 living.	0	IN	NS	ns01.trs-dns.org.
 living.	0	IN	NS	ns01.trs-dns.info.
+living.	0	IN	DS	5373 13 2 8aefbb2d3a5149b5d4a165973063d733d3d18505bf6ffeeb3d319c6ac0f45a94
 living.	0	IN	DS	59309 8 2 276c77d08efe6388824f1726e7c6d754189f9ea1747718d4960c5ee66ae2837a
 lk.	0	IN	NS	c.nic.lk.
 lk.	0	IN	NS	d.nic.lk.
@@ -14176,6 +14180,7 @@ realty.	0	IN	NS	ns01.trs-dns.com.
 realty.	0	IN	NS	ns01.trs-dns.net.
 realty.	0	IN	NS	ns01.trs-dns.org.
 realty.	0	IN	NS	ns01.trs-dns.info.
+realty.	0	IN	DS	12180 13 2 a7c0a9bbad77a51be0e829afbfc839aa15ad00945bbc03e3ed719d0710023957
 realty.	0	IN	DS	21334 8 2 613e789594bc8fce2381f7b1c2f4232093b017f5eef5444eb0f1d8ef5c2f65e2
 recipes.	0	IN	NS	v0n0.nic.recipes.
 recipes.	0	IN	NS	v0n1.nic.recipes.
@@ -17893,6 +17898,7 @@ vana.	0	IN	NS	ns01.trs-dns.net.
 vana.	0	IN	NS	ns01.trs-dns.org.
 vana.	0	IN	NS	ns01.trs-dns.info.
 vana.	0	IN	DS	16105 8 2 f270cc6904f1292fbe949fc33c20cf64887d06cc82d2243413eccaeb98e7221c
+vana.	0	IN	DS	54748 13 2 0b9756a259636eb994a12d49a21d3b6be0ad2e5ccb3462478284f6b27a02290b
 vanguard.	0	IN	NS	a0.nic.vanguard.
 vanguard.	0	IN	NS	a2.nic.vanguard.
 vanguard.	0	IN	NS	b0.nic.vanguard.
@@ -19115,6 +19121,7 @@ xn--4dbrk0ce.	0	IN	NS	nsb.ns.il.
 xn--4dbrk0ce.	0	IN	NS	nse.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ilns.ilan.net.il.
 xn--4dbrk0ce.	0	IN	NS	lookup.iucc.ac.il.
+xn--4dbrk0ce.	0	IN	DS	5893 13 2 575289a1f1a3f38caade5b063d2977185d2ce1a573087d9b33ab2b6dbde83f29
 xn--4dbrk0ce.	0	IN	DS	48814 13 2 0255186b246dca8e53de92159f38ef7b209cca2a1be875cb1a1dad2d592a9c9e
 xn--4gbrim.	0	IN	NS	a.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	b.nic.xn--4gbrim.
