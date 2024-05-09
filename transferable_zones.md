@@ -19,4 +19,3 @@
 * `ni.` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
-* `xn--mgbx4cd0ab.` via `a.nic.my.`: [Click here to view zone data.](archives/xn--mgbx4cd0ab/xn--mgbx4cd0ab.zone)
