@@ -15,6 +15,8 @@
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
+* `my.` via `a.nic.my.`: [Click here to view zone data.](archives/my/my.zone)
 * `ni.` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
 * `sl.` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/sl.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
+* `xn--mgbx4cd0ab.` via `a.nic.my.`: [Click here to view zone data.](archives/xn--mgbx4cd0ab/xn--mgbx4cd0ab.zone)
