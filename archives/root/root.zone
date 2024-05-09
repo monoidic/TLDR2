@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024050901 1 1 423ca8e3a83bec469b8fc2638626040db7c0a458eecd4a93788156bb8101bfb8292a786839d5b71c9342beb12030dbaa
+.	0	IN	ZONEMD	2024050902 1 1 83c9a83248c13c2fd3411b14793c3ca01a2bb3e5f98d4d3e63d6e5713635308600a414c09b1532bd4c90531ca29c3922
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1425,6 +1425,7 @@ bar.	0	IN	NS	ns01.trs-dns.com.
 bar.	0	IN	NS	ns01.trs-dns.net.
 bar.	0	IN	NS	ns01.trs-dns.org.
 bar.	0	IN	NS	ns01.trs-dns.info.
+bar.	0	IN	DS	4459 13 2 df5fddb23a4cd00805cb393c9bdf90e95b8e45917a0dea9aca1b1009455bbdbe
 bar.	0	IN	DS	44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
 barcelona.	0	IN	NS	anycast9.irondns.net.
 barcelona.	0	IN	NS	anycast10.irondns.net.
@@ -5824,7 +5825,6 @@ fairwinds.	0	IN	NS	nsa.nominetdns.uk.
 fairwinds.	0	IN	NS	nsb.nominetdns.uk.
 fairwinds.	0	IN	NS	nsc.nominetdns.uk.
 fairwinds.	0	IN	NS	nsd.nominetdns.uk.
-fairwinds.	0	IN	DS	8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
 fairwinds.	0	IN	DS	48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 faith.	0	IN	NS	a.nic.faith.
 faith.	0	IN	NS	b.nic.faith.
@@ -5996,6 +5996,7 @@ feedback.	0	IN	NS	ns01.trs-dns.com.
 feedback.	0	IN	NS	ns01.trs-dns.net.
 feedback.	0	IN	NS	ns01.trs-dns.org.
 feedback.	0	IN	NS	ns01.trs-dns.info.
+feedback.	0	IN	DS	8710 13 2 d28054e80046b19c06009c25b451836bebe30a7516ed8c8e51b044e0d2144b64
 feedback.	0	IN	DS	37115 8 2 234ee176851a803e7cb19fafc25c1f2dc1090e119fcee44fa63140bd014c64f2
 ferrari.	0	IN	NS	a0.nic.ferrari.
 ferrari.	0	IN	NS	a2.nic.ferrari.
@@ -6508,6 +6509,7 @@ forum.	0	IN	NS	ns01.trs-dns.net.
 forum.	0	IN	NS	ns01.trs-dns.org.
 forum.	0	IN	NS	ns01.trs-dns.info.
 forum.	0	IN	DS	12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
+forum.	0	IN	DS	48583 13 2 de6529ec2ac6952fe38e419097c4aed7de20b78b91c88753f70b254ccdfcd543
 foundation.	0	IN	NS	v0n0.nic.foundation.
 foundation.	0	IN	NS	v0n1.nic.foundation.
 foundation.	0	IN	NS	v0n2.nic.foundation.
@@ -12626,6 +12628,7 @@ observer.	0	IN	NS	ns01.trs-dns.com.
 observer.	0	IN	NS	ns01.trs-dns.net.
 observer.	0	IN	NS	ns01.trs-dns.org.
 observer.	0	IN	NS	ns01.trs-dns.info.
+observer.	0	IN	DS	15964 13 2 406b287804778738dcf0b6d94bf410455d500e7a3dceaf8d34c5afa86c91a6e1
 observer.	0	IN	DS	61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 office.	0	IN	NS	a.nic.office.
 office.	0	IN	NS	b.nic.office.
@@ -14426,6 +14429,7 @@ rest.	0	IN	NS	ns01.trs-dns.net.
 rest.	0	IN	NS	ns01.trs-dns.org.
 rest.	0	IN	NS	ns01.trs-dns.info.
 rest.	0	IN	DS	1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
+rest.	0	IN	DS	50905 13 2 a417bf8770704c9fe539aacd4c60d0d1f06b64e6367ba2130af2b60c96508adf
 restaurant.	0	IN	NS	v0n0.nic.restaurant.
 restaurant.	0	IN	NS	v0n1.nic.restaurant.
 restaurant.	0	IN	NS	v0n2.nic.restaurant.
@@ -17926,6 +17930,7 @@ ve.	0	IN	NS	ns4.nic.ve.
 ve.	0	IN	NS	ns5.nic.ve.
 ve.	0	IN	NS	ns6.nic.ve.
 ve.	0	IN	NS	ssdns-tld.nic.cl.
+ve.	0	IN	DS	53545 8 2 0ba030fb1720bb0263e2ae748c9caa6fc7bebf30f4e1271af22554c6c43ef3fe
 ve.	0	IN	DS	62041 8 2 78f2ecb0ecd744a381d514ec91ca6389921fe168f41c96a41d0d794caf30c3b1
 ns3.nic.ve.	0	IN	A	190.9.129.56
 ns4.nic.ve.	0	IN	A	190.202.128.43
