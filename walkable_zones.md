@@ -2,7 +2,6 @@
 
 * `.`
 * `amazon.`
-* `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -10,14 +9,10 @@
 * `br.`
 * `bt.`
 * `car.`
-* `cars.`
 * `ch.`
 * `christmas.`
-* `ci.`
 * `desi.`
-* `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -29,17 +24,12 @@
 * `ieee.`
 * `ir.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
-* `lol.`
-* `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
-* `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
