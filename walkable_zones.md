@@ -11,7 +11,9 @@
 * `bt.`
 * `car.`
 * `cars.`
+* `ch.`
 * `christmas.`
+* `ci.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -21,13 +23,17 @@
 * `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `ieee.`
+* `ir.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
+* `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
