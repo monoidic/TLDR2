@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024051600 1 1 952b1a2a1b70db05ed3bcdaf6a2612b1cfe5676ce308d9486db34f9c8f65ce250492105614c47a8c5bbeea83f9a81b8c
+.	0	IN	ZONEMD	2024051601 1 1 21f4c9bfac005ef8f4de8275e77177b147e074bb7fc7feca498463d72e6631a26eaf2bb68af2f8021982855725552792
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3216,6 +3216,7 @@ d.nic.cfd.	0	IN	A	212.18.249.122
 d.nic.cfd.	0	IN	AAAA	2a04:2b00:13ff::122
 cg.	0	IN	NS	sunic.sunet.se.
 cg.	0	IN	NS	dns-fr.dnsafrica.net.
+cg.	0	IN	NS	dns-sg.dnsafrica.net.
 cg.	0	IN	NS	dns-za.dnsafrica.net.
 ch.	0	IN	NS	a.nic.ch.
 ch.	0	IN	NS	b.nic.ch.
@@ -10320,6 +10321,7 @@ locker.	0	IN	NS	ns01.trs-dns.net.
 locker.	0	IN	NS	ns01.trs-dns.org.
 locker.	0	IN	NS	ns01.trs-dns.info.
 locker.	0	IN	DS	12691 8 2 db488867de794ae457267a654fe9266d4d03dde9031da92dd58a14e551b6da01
+locker.	0	IN	DS	13510 13 2 2d3be42cc855b6935e8611fb8190cab72b60f2bceb8b16906db2bae3da0a1912
 locus.	0	IN	NS	dns1.nic.locus.
 locus.	0	IN	NS	dns2.nic.locus.
 locus.	0	IN	NS	dns3.nic.locus.
@@ -11595,7 +11597,7 @@ music.	0	IN	NS	a.nic.music.
 music.	0	IN	NS	b.nic.music.
 music.	0	IN	NS	c.nic.music.
 music.	0	IN	NS	d.nic.music.
-music.	0	IN	DS	60004 8 1 ee80f198da75c68c32a632e895502f3f2a32940e
+music.	0	IN	DS	11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
 music.	0	IN	DS	60004 8 2 f4025f7b5c848808861bd35868bae0cfcf7a0fe3aa1f79bb222093687462f3fb
 a.nic.music.	0	IN	A	194.169.218.142
 a.nic.music.	0	IN	AAAA	2001:67c:13cc::1:142
@@ -11868,6 +11870,8 @@ n.de.net.	0	IN	AAAA	2001:67c:1011:1::53
 s.de.net.	0	IN	A	195.243.137.26
 s.de.net.	0	IN	AAAA	2003:8:14::53
 dns-fr.dnsafrica.net.	0	IN	A	151.80.35.161
+dns-sg.dnsafrica.net.	0	IN	A	51.79.160.242
+dns-sg.dnsafrica.net.	0	IN	AAAA	2402:1f00:8000:800::25ed
 dns-za.dnsafrica.net.	0	IN	A	41.185.30.170
 anyc.dnsnode.net.	0	IN	A	194.58.198.135
 anyc.dnsnode.net.	0	IN	AAAA	2a01:3f1:3032:8001::135
