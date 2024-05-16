@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `amazon.`
 * `arpa.`
 * `audio.`
 * `auto.`
@@ -18,6 +19,7 @@
 * `diet.`
 * `dz.`
 * `ee.`
+* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
