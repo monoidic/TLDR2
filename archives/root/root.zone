@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	ZONEMD	2024051700 1 1 f1451e6a4304322f31036b33f88febac1d7c71e754e89da3a6ec655d14285eba541b2261fb448af2f6e65ca8d3f829bb
-.	0	IN	ZONEMD	2024051701 1 1 7e96bcb3f5fdef6f72f5f8cd6905d43b750ce797c9de6f55460d5ad33360c12f95da6c3203cb4f2ac42a83be23321e94
+.	0	IN	ZONEMD	2024051702 1 1 0c7f03a41458418d204df69b053194fb5b6e8bacfd04e470bb854f3bd5b31ac328d0ad99c834504934f8cf4cb52ce9f1
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3217,6 +3217,7 @@ c.nic.cfd.	0	IN	AAAA	2a04:2b00:13ee::122
 d.nic.cfd.	0	IN	A	212.18.249.122
 d.nic.cfd.	0	IN	AAAA	2a04:2b00:13ff::122
 cg.	0	IN	NS	sunic.sunet.se.
+cg.	0	IN	NS	dns-ca.dnsafrica.net.
 cg.	0	IN	NS	dns-fr.dnsafrica.net.
 cg.	0	IN	NS	dns-sg.dnsafrica.net.
 cg.	0	IN	NS	dns-za.dnsafrica.net.
@@ -11871,6 +11872,8 @@ n.de.net.	0	IN	A	194.146.107.6
 n.de.net.	0	IN	AAAA	2001:67c:1011:1::53
 s.de.net.	0	IN	A	195.243.137.26
 s.de.net.	0	IN	AAAA	2003:8:14::53
+dns-ca.dnsafrica.net.	0	IN	A	54.39.22.36
+dns-ca.dnsafrica.net.	0	IN	AAAA	2607:5300:201:3100::2b7c
 dns-fr.dnsafrica.net.	0	IN	A	151.80.35.161
 dns-sg.dnsafrica.net.	0	IN	A	51.79.160.242
 dns-sg.dnsafrica.net.	0	IN	AAAA	2402:1f00:8000:800::25ed
