@@ -4,11 +4,14 @@
 * `amazon.`
 * `arpa.`
 * `audio.`
+* `auto.`
 * `ax.`
+* `bd.`
 * `br.`
 * `bt.`
 * `car.`
 * `cars.`
+* `ch.`
 * `christmas.`
 * `ci.`
 * `cw.`
@@ -24,6 +27,7 @@
 * `guitars.`
 * `hosting.`
 * `id.`
+* `ieee.`
 * `ir.`
 * `kg.`
 * `kz.`
