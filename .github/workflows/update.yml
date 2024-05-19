@@ -19,7 +19,7 @@ jobs:
       with:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 jq'
-    - run: go install github.com/monoidic/dns-tools@latest
+    - run: env GOEXPERIMENT=rangefunc go install github.com/monoidic/dns-tools@latest
     - run: ./scan.sh prework
     - run: ./scan.sh walkable
     - id: walkable
@@ -42,7 +42,7 @@ jobs:
       with:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install ldnsutils sqlite3'
-    - run: go install github.com/monoidic/dns-tools@latest
+    - run: env GOEXPERIMENT=rangefunc go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v3.0.2
       with:
         name: db
@@ -71,7 +71,7 @@ jobs:
       with:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
-    - run: go install github.com/monoidic/dns-tools@latest
+    - run: env GOEXPERIMENT=rangefunc go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v3.0.2
       with:
           name: db
