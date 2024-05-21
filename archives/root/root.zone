@@ -14,6 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	ZONEMD	2024052101 1 1 fe9f964eda7b953f76ca3d558e15af68f37a006d79d08a60a67d163e337e042838b24f056dee064610a343dd2aafc960
+.	0	IN	ZONEMD	2024052102 1 1 cdf4c5d5c75a02a08ca1915a2f9e26a446af4fd07f39eaadbd1f7a67c28cababfdab034ef2e7706dc07b9d6be8eff134
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8730,6 +8731,7 @@ int.	0	IN	NS	ns.uu.net.
 int.	0	IN	NS	ns0.ja.net.
 int.	0	IN	NS	sec2.authdns.ripe.net.
 int.	0	IN	DS	27433 7 2 5864812d4df2a4a455d905af311389f479afcd96fd369060941c7e170b40ca4f
+int.	0	IN	DS	59895 13 2 10c789f286599316d3a74c2c513434c3f8a33b9238976d5de2a178e54da353f3
 international.	0	IN	NS	v0n0.nic.international.
 international.	0	IN	NS	v0n1.nic.international.
 international.	0	IN	NS	v0n2.nic.international.
