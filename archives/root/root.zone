@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024052201 1 1 c376ca467a9623ef7c7ee1460d6896337388cbb5f2e31c68e1db2da0aecceb2c176955e59ca6767f2936ef49e0d60717
+.	0	IN	ZONEMD	2024052202 1 1 a13c33bc7d982df1827d2e63ca61bc077192d1e9ed6cb2e257c0360d2e56dcde446aa609a1e70c6c39beadc65cdca58e
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1425,7 +1425,6 @@ bar.	0	IN	NS	ns01.trs-dns.net.
 bar.	0	IN	NS	ns01.trs-dns.org.
 bar.	0	IN	NS	ns01.trs-dns.info.
 bar.	0	IN	DS	4459 13 2 df5fddb23a4cd00805cb393c9bdf90e95b8e45917a0dea9aca1b1009455bbdbe
-bar.	0	IN	DS	44209 8 2 53ed75bdc08a244e1c088d80ea97a39b5aad3e9121f58de1d22ae72c58d84a1f
 barcelona.	0	IN	NS	anycast9.irondns.net.
 barcelona.	0	IN	NS	anycast10.irondns.net.
 barcelona.	0	IN	NS	anycast23.irondns.net.
@@ -5657,7 +5656,6 @@ eu.	0	IN	NS	be.dns.eu.
 eu.	0	IN	NS	si.dns.eu.
 eu.	0	IN	DS	35926 8 2 89b9ef0445904e7c6074b5bece823c3e264fbd91c103d10bde603412343ce70c
 be.dns.eu.	0	IN	A	149.38.1.26
-be.dns.eu.	0	IN	AAAA	2001:978:2:1::93:2
 si.dns.eu.	0	IN	A	193.2.221.62
 si.dns.eu.	0	IN	AAAA	2001:1470:8000:100::62
 w.dns.eu.	0	IN	A	194.0.25.28
@@ -6506,7 +6504,6 @@ forum.	0	IN	NS	ns01.trs-dns.com.
 forum.	0	IN	NS	ns01.trs-dns.net.
 forum.	0	IN	NS	ns01.trs-dns.org.
 forum.	0	IN	NS	ns01.trs-dns.info.
-forum.	0	IN	DS	12827 8 2 07ad0e47c13b5699efcbdf1a3717b66e2601748b09256173ff713b4d1346512c
 forum.	0	IN	DS	48583 13 2 de6529ec2ac6952fe38e419097c4aed7de20b78b91c88753f70b254ccdfcd543
 foundation.	0	IN	NS	v0n0.nic.foundation.
 foundation.	0	IN	NS	v0n1.nic.foundation.
@@ -10060,7 +10057,6 @@ lifestyle.	0	IN	NS	ns01.trs-dns.com.
 lifestyle.	0	IN	NS	ns01.trs-dns.net.
 lifestyle.	0	IN	NS	ns01.trs-dns.org.
 lifestyle.	0	IN	NS	ns01.trs-dns.info.
-lifestyle.	0	IN	DS	19435 8 2 4fae9da930da43ca7d112abeeb973fc22de2a72b39f7570dbd1d7cf825aae708
 lifestyle.	0	IN	DS	49384 13 2 2ff50c386c9de4489845f15c9269cd0757699b8e021ccbd0826312cdb18b2808
 lighting.	0	IN	NS	v0n0.nic.lighting.
 lighting.	0	IN	NS	v0n1.nic.lighting.
@@ -12632,7 +12628,6 @@ observer.	0	IN	NS	ns01.trs-dns.net.
 observer.	0	IN	NS	ns01.trs-dns.org.
 observer.	0	IN	NS	ns01.trs-dns.info.
 observer.	0	IN	DS	15964 13 2 406b287804778738dcf0b6d94bf410455d500e7a3dceaf8d34c5afa86c91a6e1
-observer.	0	IN	DS	61001 8 2 73ad12c51e27b349f25a52045c94b7e62ee76ea3061c1addda4ced8fc3038c94
 office.	0	IN	NS	a.nic.office.
 office.	0	IN	NS	b.nic.office.
 office.	0	IN	NS	c.nic.office.
@@ -14430,7 +14425,6 @@ rest.	0	IN	NS	ns01.trs-dns.com.
 rest.	0	IN	NS	ns01.trs-dns.net.
 rest.	0	IN	NS	ns01.trs-dns.org.
 rest.	0	IN	NS	ns01.trs-dns.info.
-rest.	0	IN	DS	1306 8 2 291a11f18605131354f74ccd032e1ebc65cf837656234b50bb52669088112aff
 rest.	0	IN	DS	50905 13 2 a417bf8770704c9fe539aacd4c60d0d1f06b64e6367ba2130af2b60c96508adf
 restaurant.	0	IN	NS	v0n0.nic.restaurant.
 restaurant.	0	IN	NS	v0n1.nic.restaurant.
