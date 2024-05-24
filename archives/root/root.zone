@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024052400 1 1 3d2fc7fe8a86a2b4618ea91a1d61a2e47a18722b207afdaf312da1a89a030fddedba461e965e63d025ca98dbbb15f7db
+.	0	IN	ZONEMD	2024052401 1 1 d97e257a2c7c0653a5c35b1f26ab7007f17924cd5e7eba5371ce53adae87d9a4ed4c707d6c32d507c607d9a2dd5e6514
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2605,6 +2605,7 @@ bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
+bw.	0	IN	DS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
 master.btc.net.bw.	0	IN	A	168.167.168.37
 dns1.nic.net.bw.	0	IN	A	168.167.98.226
 pch.nic.net.bw.	0	IN	A	204.61.216.70
@@ -7361,6 +7362,7 @@ gov.	0	IN	NS	a.ns.gov.
 gov.	0	IN	NS	b.ns.gov.
 gov.	0	IN	NS	c.ns.gov.
 gov.	0	IN	NS	d.ns.gov.
+gov.	0	IN	DS	2536 13 2 0baf26b7bbf313a859046fd3b1ee49ddfba33934cfb3e717c21e2a2935c2f259
 gov.	0	IN	DS	64280 8 2 d66cdda12234c22c5e6fd1c894dbd682fe7967e111793485a281972bfb164377
 a.ns.gov.	0	IN	A	199.33.230.1
 a.ns.gov.	0	IN	AAAA	2001:503:ff40::1
