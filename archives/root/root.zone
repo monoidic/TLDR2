@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024052501 1 1 2b37b031651327f4e61f89504ea7962bcfc93f01e8d79423739a4171a3504a7ed021b88a5b02b4aaf8b9f3e5329f1fbd
+.	0	IN	ZONEMD	2024052600 1 1 33cc146410f6e20d1f98ff075c4b4072975fa5aec0095b998413232917fd58c48216c3d29457c0aaa7f05ed451d6f3af
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12112,8 +12112,6 @@ m.root-servers.net.	0	IN	AAAA	2001:dc3::35
 ns-root-21.scpt-network.net.	0	IN	A	102.68.62.15
 ns-root-22.scpt-network.net.	0	IN	A	102.68.60.15
 ns-root-23.scpt-network.net.	0	IN	A	161.97.87.130
-ns1.sr.net.	0	IN	A	200.1.159.148
-ns2.sr.net.	0	IN	A	200.2.162.30
 ns.thnic.net.	0	IN	A	202.28.0.1
 ns01.trs-dns.net.	0	IN	A	64.96.2.1
 ns1.uniregistry.net.	0	IN	A	64.96.1.1
@@ -16084,8 +16082,11 @@ dnsc.nic.spot.	0	IN	A	156.154.102.3
 dnsc.nic.spot.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.spot.	0	IN	A	156.154.103.3
 dnsd.nic.spot.	0	IN	AAAA	2610:a1:1010::3
-sr.	0	IN	NS	ns1.sr.net.
-sr.	0	IN	NS	ns2.sr.net.
+sr.	0	IN	NS	ns1.nic.sr.
+sr.	0	IN	NS	ns2.nic.sr.
+ns1.nic.sr.	0	IN	A	168.195.219.210
+ns1.nic.sr.	0	IN	AAAA	2803:ff40:a251:0:168:195:219:2
+ns2.nic.sr.	0	IN	A	168.195.216.214
 srl.	0	IN	NS	a0.nic.srl.
 srl.	0	IN	NS	a2.nic.srl.
 srl.	0	IN	NS	b0.nic.srl.
