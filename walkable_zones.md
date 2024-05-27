@@ -12,11 +12,9 @@
 * `car.`
 * `cars.`
 * `ch.`
-* `christmas.`
 * `ci.`
 * `cw.`
 * `desi.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -29,18 +27,15 @@
 * `id.`
 * `ieee.`
 * `ir.`
-* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
-* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
-* `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
@@ -53,4 +48,3 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
