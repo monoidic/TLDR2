@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024052802 1 1 fa8096f12a9e1d72c4e9c7e95653a33fc63d6736d49c315c67256af6d3de70c9204966d4b6c3a8eaa48a6c5e1839b4f6
+.	0	IN	ZONEMD	2024052803 1 1 4614e176c6697639c7a4617ded1402f33951b74fa49a26166b8e44ff13e73b826a1d32cc0ae3479e08d6fd45c3ac7cb7
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8723,7 +8723,6 @@ int.	0	IN	NS	z.iana-servers.net.
 int.	0	IN	NS	ns.uu.net.
 int.	0	IN	NS	ns0.ja.net.
 int.	0	IN	NS	sec2.authdns.ripe.net.
-int.	0	IN	DS	27433 7 2 5864812d4df2a4a455d905af311389f479afcd96fd369060941c7e170b40ca4f
 int.	0	IN	DS	59895 13 2 10c789f286599316d3a74c2c513434c3f8a33b9238976d5de2a178e54da353f3
 international.	0	IN	NS	v0n0.nic.international.
 international.	0	IN	NS	v0n1.nic.international.
@@ -15834,6 +15833,7 @@ smart.	0	IN	NS	b.nic.smart.
 smart.	0	IN	NS	c.nic.smart.
 smart.	0	IN	NS	d.nic.smart.
 smart.	0	IN	DS	10241 8 2 1fc272fd0bb0d9ae922348c5c63f401a9e1fba71c8cb452af5df5e4e005237cf
+smart.	0	IN	DS	22664 8 2 4c3f407c25e49dfd591a1603309be05a0410277178fdd9c29ec178c32dd2d1cb
 a.nic.smart.	0	IN	A	194.169.218.70
 a.nic.smart.	0	IN	AAAA	2001:67c:13cc::1:70
 b.nic.smart.	0	IN	A	185.24.64.70
@@ -16195,7 +16195,7 @@ stc.	0	IN	NS	a.nic.stc.
 stc.	0	IN	NS	b.nic.stc.
 stc.	0	IN	NS	c.nic.stc.
 stc.	0	IN	NS	d.nic.stc.
-stc.	0	IN	DS	42226 8 1 8956d12e91dc98337231ba5b16f75ad766051947
+stc.	0	IN	DS	18386 8 2 cd56934775d3c7ce4c8a4050fc370fa90545b1d2ba312c8299ee2e38affff7a5
 stc.	0	IN	DS	42226 8 2 79a9d1a91d2dd8f3bca16221e6ff11e7e5e852e63d0c3756f6e73f94296b12ab
 a.nic.stc.	0	IN	A	194.169.218.29
 a.nic.stc.	0	IN	AAAA	2001:67c:13cc::1:29
@@ -16209,7 +16209,7 @@ stcgroup.	0	IN	NS	a.nic.stcgroup.
 stcgroup.	0	IN	NS	b.nic.stcgroup.
 stcgroup.	0	IN	NS	c.nic.stcgroup.
 stcgroup.	0	IN	NS	d.nic.stcgroup.
-stcgroup.	0	IN	DS	63781 8 1 b6fd1903a8aabaf134a517661da8b7f1687f334b
+stcgroup.	0	IN	DS	5674 8 2 509e476d742c1b7535a81e4ab14fefa0386660d241b042647077614310ef9f77
 stcgroup.	0	IN	DS	63781 8 2 5a2c21b0d982a47ef075dcca0378175e917e9bca8128e4ffd52e31f627f29151
 a.nic.stcgroup.	0	IN	A	194.169.218.46
 a.nic.stcgroup.	0	IN	AAAA	2001:67c:13cc::1:46
@@ -17493,7 +17493,7 @@ tui.	0	IN	NS	a.nic.tui.
 tui.	0	IN	NS	b.nic.tui.
 tui.	0	IN	NS	c.nic.tui.
 tui.	0	IN	NS	d.nic.tui.
-tui.	0	IN	DS	23290 8 2 d53c138ead14027d6192dfb0c2cd0b7cff36986e47fe680d8b05f84ac78d633b
+tui.	0	IN	DS	23341 8 2 6e0f7acb53334cd152a11d99f274fc3bb7da5aeb5ee1d08b74490ce25e116642
 tui.	0	IN	DS	35342 8 2 60bac1e816660ea6cc89bbe453c4cac50ee7fbc9bbac3ca6f8eebfb1a24af721
 a.nic.tui.	0	IN	A	194.169.218.103
 a.nic.tui.	0	IN	AAAA	2001:67c:13cc::1:103
