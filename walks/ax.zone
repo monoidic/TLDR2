@@ -129,8 +129,6 @@
 3x.ax.	0	IN	NS	ns3.netim.net.
 41.ax.	0	IN	NS	ns6.netsto.net.
 41.ax.	0	IN	NS	ns7.netsto.net.
-42.ax.	0	IN	NS	terry.ns.cloudflare.com.
-42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 44.ax.	0	IN	NS	ns1.ps.kz.
 44.ax.	0	IN	NS	ns2.ps.kz.
 44.ax.	0	IN	NS	ns3.ps.kz.
@@ -163,6 +161,8 @@
 60.ax.	0	IN	NS	ns7.netsto.net.
 6132.ax.	0	IN	NS	v1s1.xundns.com.
 6132.ax.	0	IN	NS	v1s2.xundns.com.
+6277.ax.	0	IN	NS	ns1.dns.com.
+6277.ax.	0	IN	NS	ns2.dns.com.
 65.ax.	0	IN	NS	ns6.netsto.net.
 65.ax.	0	IN	NS	ns7.netsto.net.
 6547.ax.	0	IN	NS	ns1.dns.com.
@@ -1061,10 +1061,6 @@ arkeologi.ax.	0	IN	NS	ns.regeringen.ax.
 arkeologi.ax.	0	IN	NS	ns2.alcom.aland.fi.
 arkeologi.ax.	0	IN	NS	ns2.regeringen.ax.
 arkeologi.ax.	0	IN	NS	ns3.alcom.aland.fi.
-arkivet.ax.	0	IN	NS	ns.regeringen.ax.
-arkivet.ax.	0	IN	NS	ns2.aland.net.
-arkivet.ax.	0	IN	NS	ns2.regeringen.ax.
-arkivet.ax.	0	IN	NS	ns3.alcom.fi.
 arm.ax.	0	IN	NS	ns1.101domain.com.
 arm.ax.	0	IN	NS	ns2.101domain.com.
 arm.ax.	0	IN	NS	ns5.101domain.com.
@@ -2105,8 +2101,8 @@ canva.ax.	0	IN	NS	ns-170-b.gandi.net.
 canva.ax.	0	IN	NS	ns-234-c.gandi.net.
 cap.ax.	0	IN	NS	khloe.ns.cloudflare.com.
 cap.ax.	0	IN	NS	keenan.ns.cloudflare.com.
-car.ax.	0	IN	NS	ns1.dan.com.
-car.ax.	0	IN	NS	ns2.dan.com.
+car.ax.	0	IN	NS	ns1.dan.hosting.
+car.ax.	0	IN	NS	ns2.dan.hosting.
 caravan.ax.	0	IN	NS	park1.euronic.fi.
 caravan.ax.	0	IN	NS	park2.euronic.fi.
 caravan.ax.	0	IN	NS	park3.euronic.fi.
@@ -3695,10 +3691,6 @@ foodnjoy.ax.	0	IN	NS	ns3.alcom.fi.
 for-rent.ax.	0	IN	NS	park1.euronic.fi.
 for-rent.ax.	0	IN	NS	park2.euronic.fi.
 for-rent.ax.	0	IN	NS	park3.euronic.fi.
-fordonmyndigheten.ax.	0	IN	NS	ns.regeringen.ax.
-fordonmyndigheten.ax.	0	IN	NS	ns2.aland.net.
-fordonmyndigheten.ax.	0	IN	NS	ns2.regeringen.ax.
-fordonmyndigheten.ax.	0	IN	NS	ns3.alcom.fi.
 fordonsmyndigheten.ax.	0	IN	NS	ns.regeringen.ax.
 fordonsmyndigheten.ax.	0	IN	NS	ns2.aland.net.
 fordonsmyndigheten.ax.	0	IN	NS	ns2.regeringen.ax.
@@ -3976,8 +3968,8 @@ geo.ax.	0	IN	NS	sonia.ns.cloudflare.com.
 geson.ax.	0	IN	NS	ns1.aland.net.
 geson.ax.	0	IN	NS	ns2.aland.net.
 geson.ax.	0	IN	NS	ns3.alcom.fi.
-get.ax.	0	IN	NS	ns1.dan.com.
-get.ax.	0	IN	NS	ns2.dan.com.
+get.ax.	0	IN	NS	ns1.dan.hosting.
+get.ax.	0	IN	NS	ns2.dan.hosting.
 geta.ax.	0	IN	NS	ns1.justit.ax.
 geta.ax.	0	IN	NS	ns2.justit.ax.
 geta.ax.	0	IN	NS	ns3.justit.ax.
@@ -7157,8 +7149,8 @@ nautilus.ax.	0	IN	NS	ns3.inleed.net.
 nautilus.ax.	0	IN	NS	ns4.inleed.net.
 nautilus.ax.	0	IN	NS	ns5.inleed.net.
 nautilus.ax.	0	IN	NS	ns6.inleed.net.
-nb.ax.	0	IN	NS	rafe.ns.cloudflare.com.
-nb.ax.	0	IN	NS	mario.ns.cloudflare.com.
+nb.ax.	0	IN	NS	ns1.istanco.com.
+nb.ax.	0	IN	NS	ns2.istanco.com.
 nc.ax.	0	IN	NS	ns1.pool2.omc-dns.de.
 nc.ax.	0	IN	NS	ns2.pool2.omc-dns.de.
 nc.ax.	0	IN	NS	ns3.pool2.omc-dns.de.
@@ -10237,8 +10229,8 @@ transport.ax.	0	IN	NS	ns2.aland.net.
 transport.ax.	0	IN	NS	ns3.alcom.fi.
 trateknik.ax.	0	IN	NS	ns1.consilia.fi.
 trateknik.ax.	0	IN	NS	ns2.consilia.fi.
-travel.ax.	0	IN	NS	ns1.dan.com.
-travel.ax.	0	IN	NS	ns2.dan.com.
+travel.ax.	0	IN	NS	ns1.dan.hosting.
+travel.ax.	0	IN	NS	ns2.dan.hosting.
 trendum.ax.	0	IN	NS	ns1.aland.net.
 trendum.ax.	0	IN	NS	ns2.aland.net.
 trendum.ax.	0	IN	NS	ns3.alcom.fi.
@@ -11142,6 +11134,10 @@ xn--brgarn-bua.ax.	0	IN	NS	ns4.binero.se.
 xn--brgarn-bua.ax.	0	IN	NS	ns5.binero.se.
 xn--brgarn-bua.ax.	0	IN	NS	ns6.binero.se.
 xn--brgarn-bua.ax.	0	IN	NS	ns7.binero.se.
+xn--brkraft-5wa.ax.	0	IN	NS	ns.regeringen.ax.
+xn--brkraft-5wa.ax.	0	IN	NS	ns2.alcom.aland.fi.
+xn--brkraft-5wa.ax.	0	IN	NS	ns2.regeringen.ax.
+xn--brkraft-5wa.ax.	0	IN	NS	ns3.alcom.aland.fi.
 xn--bt-yia.ax.	0	IN	NS	park1.euronic.fi.
 xn--bt-yia.ax.	0	IN	NS	park2.euronic.fi.
 xn--bt-yia.ax.	0	IN	NS	park3.euronic.fi.
