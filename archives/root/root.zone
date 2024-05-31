@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024053101 1 1 d7c3c559ed6486ec29f1ace38c84d618792a7058f0c62591e2334f30341d0687ef18d997b75d40028f08f0794d1956bd
+.	0	IN	ZONEMD	2024053102 1 1 6cdf64a2304f1f818f7fba34c8a540ec84f32becb426c5c615b8ec8f6932f7db4e1fee4895e28d9ffd6f340762932113
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -15106,7 +15106,7 @@ ns1.nic.sc.	0	IN	A	41.86.57.54
 scb.	0	IN	NS	c.nic.scb.
 scb.	0	IN	NS	rz.nic.scb.
 scb.	0	IN	NS	nn1.nic.scb.
-scb.	0	IN	DS	20801 8 2 16bff89dd2faf9ac06221f6de0e206ed57fec2e29316779e30789d7e00a5bd2f
+scb.	0	IN	DS	3706 8 2 4468ba63991268d9c1916a569dc1608b39413749679313161165c84b24016160
 c.nic.scb.	0	IN	A	194.0.1.35
 c.nic.scb.	0	IN	AAAA	2001:678:4::23
 nn1.nic.scb.	0	IN	A	194.58.198.136
@@ -20469,6 +20469,10 @@ yandex.	0	IN	NS	ns1.uniregistry.net.
 yandex.	0	IN	NS	ns2.uniregistry.info.
 yandex.	0	IN	NS	ns3.uniregistry.net.
 yandex.	0	IN	NS	ns4.uniregistry.info.
+yandex.	0	IN	NS	ns01.trs-dns.com.
+yandex.	0	IN	NS	ns01.trs-dns.net.
+yandex.	0	IN	NS	ns01.trs-dns.org.
+yandex.	0	IN	NS	ns01.trs-dns.info.
 yandex.	0	IN	DS	50324 13 2 3f25b6eaf2b08861672673779cb294ce5154337b250da78fb9ed949a997c38df
 ye.	0	IN	NS	ns1.yemen.net.ye.
 ye.	0	IN	NS	ns2.yemen.net.ye.
