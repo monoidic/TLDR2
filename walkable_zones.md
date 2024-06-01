@@ -23,7 +23,6 @@
 * `flowers.`
 * `game.`
 * `gdn.`
-* `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
@@ -31,7 +30,6 @@
 * `ir.`
 * `kg.`
 * `kz.`
-* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
