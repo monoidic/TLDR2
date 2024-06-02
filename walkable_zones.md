@@ -23,8 +23,8 @@
 * `flowers.`
 * `game.`
 * `gdn.`
+* `gn.`
 * `guitars.`
-* `hosting.`
 * `id.`
 * `ieee.`
 * `ir.`
@@ -40,10 +40,8 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
