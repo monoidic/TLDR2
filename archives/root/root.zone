@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024060300 1 1 50a77d7a14415776f4b203a496d48ada99b02f3f5d4c891c1724f0858fc4b3da987e4ea297e159ff15539c105d856a16
+.	0	IN	ZONEMD	2024060301 1 1 d6c484045f1d655dbf67bc4c799677fc0dfe1f13210ddddbac9d62d4a0b87e6fedd00e61503aae668aa980cf2579af7f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12984,7 +12984,9 @@ pa.	0	IN	NS	a.lactld.org.
 pa.	0	IN	NS	ns.pa.
 pa.	0	IN	NS	ns.dns.br.
 pa.	0	IN	NS	ns.nic.pa.
+pa.	0	IN	NS	ns1.anycastdns.cz.
 pa.	0	IN	NS	ns2.pa.
+pa.	0	IN	NS	ns2.anycastdns.cz.
 pa.	0	IN	NS	dns-ext.nic.cr.
 pa.	0	IN	NS	ssdns-tld.nic.cl.
 ns.nic.pa.	0	IN	A	168.77.8.4
@@ -16899,6 +16901,7 @@ th.	0	IN	NS	b.thains.co.th.
 th.	0	IN	NS	c.thains.co.th.
 th.	0	IN	NS	p.thains.co.th.
 th.	0	IN	NS	ns.thnic.net.
+th.	0	IN	NS	nn1.thains.co.th.
 th.	0	IN	DS	19117 8 2 e26bf35f73234ac50c600632fc717ae491f4a8b4f662fb29234f5499acfebf64
 a.thains.co.th.	0	IN	A	122.155.23.64
 a.thains.co.th.	0	IN	AAAA	2001:c38:2000:183::30
@@ -16906,6 +16909,8 @@ b.thains.co.th.	0	IN	A	203.159.64.64
 b.thains.co.th.	0	IN	AAAA	2405:3340:e011:3000::30
 c.thains.co.th.	0	IN	A	194.0.1.28
 c.thains.co.th.	0	IN	AAAA	2001:678:4::1c
+nn1.thains.co.th.	0	IN	A	194.146.106.154
+nn1.thains.co.th.	0	IN	AAAA	2001:67c:1010:39::53
 p.thains.co.th.	0	IN	A	204.61.216.126
 p.thains.co.th.	0	IN	AAAA	2001:500:14:6126:ad::1
 thd.	0	IN	NS	a0.nic.thd.
@@ -20097,6 +20102,7 @@ xn--o3cw4h.	0	IN	NS	a.thains.co.th.
 xn--o3cw4h.	0	IN	NS	b.thains.co.th.
 xn--o3cw4h.	0	IN	NS	p.thains.co.th.
 xn--o3cw4h.	0	IN	NS	ns.thnic.net.
+xn--o3cw4h.	0	IN	NS	nn1.thains.co.th.
 xn--o3cw4h.	0	IN	DS	27061 8 2 53856679ac45ea6562ef4ecd2de7aea57d786870979f09c4bc1d5244c2e2a9c9
 xn--ogbpf8fl.	0	IN	NS	sy.cctld.authdns.ripe.net.
 xn--ogbpf8fl.	0	IN	NS	ns1.tld.sy.
