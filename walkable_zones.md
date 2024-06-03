@@ -6,6 +6,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -21,6 +22,7 @@
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
@@ -29,6 +31,7 @@
 * `ir.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -36,6 +39,7 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
@@ -49,4 +53,5 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbayh7gpa.`
+* `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
