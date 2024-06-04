@@ -14,7 +14,6 @@
 * `ch.`
 * `christmas.`
 * `ci.`
-* `cv.`
 * `cw.`
 * `desi.`
 * `diet.`
