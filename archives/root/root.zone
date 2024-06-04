@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024060401 1 1 3ee4e86fd774b345425136bb544ce4636945d3cef687c2d3be53faa1195b9ebde987c3fb2e257f3f2d56e588bf26acf2
+.	0	IN	ZONEMD	2024060402 1 1 b6579f551954edccbca20e3bbb3625e1c831b78c8d62b015a6b0c3ed2f767cb143e148a0aae5f127e5a5ac3b13805dc0
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8630,9 +8630,6 @@ ns2.asnic.info.	0	IN	A	103.49.83.254
 ns2.asnic.info.	0	IN	AAAA	2401:fd80:403::254
 ns01.trs-dns.info.	0	IN	A	185.159.198.3
 ns01.trs-dns.info.	0	IN	AAAA	2620:10a:80ab::3
-ns2.uniregistry.info.	0	IN	A	64.96.2.1
-ns4.uniregistry.info.	0	IN	A	185.159.198.3
-ns4.uniregistry.info.	0	IN	AAAA	2620:10a:80ab::3
 ing.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 ing.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 ing.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -9554,6 +9551,7 @@ kpn.	0	IN	NS	a.nic.kpn.
 kpn.	0	IN	NS	b.nic.kpn.
 kpn.	0	IN	NS	c.nic.kpn.
 kpn.	0	IN	NS	d.nic.kpn.
+kpn.	0	IN	DS	6010 7 2 e5a8e92b179784641c4fcb989bd6946ea85a03812039f5061922d1815992fbc6
 kpn.	0	IN	DS	10051 7 2 f265871198c769849f8acf952f01fcd412c9b3dc5dbf8fca98911d5052c0a240
 a.nic.kpn.	0	IN	A	194.169.218.90
 a.nic.kpn.	0	IN	AAAA	2001:67c:13cc::1:90
@@ -12111,10 +12109,6 @@ ns-root-22.scpt-network.net.	0	IN	A	102.68.60.15
 ns-root-23.scpt-network.net.	0	IN	A	161.97.87.130
 ns.thnic.net.	0	IN	A	202.28.0.1
 ns01.trs-dns.net.	0	IN	A	64.96.2.1
-ns1.uniregistry.net.	0	IN	A	64.96.1.1
-ns1.uniregistry.net.	0	IN	AAAA	2620:57:4000:1::1
-ns3.uniregistry.net.	0	IN	A	185.159.197.3
-ns3.uniregistry.net.	0	IN	AAAA	2620:10a:80aa::3
 ns.uu.net.	0	IN	A	137.39.1.3
 auth00.ns.uu.net.	0	IN	A	198.6.1.65
 auth02.ns.uu.net.	0	IN	A	198.6.1.82
@@ -20471,10 +20465,6 @@ dnsc.nic.yamaxun.	0	IN	A	156.154.102.3
 dnsc.nic.yamaxun.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.yamaxun.	0	IN	A	156.154.103.3
 dnsd.nic.yamaxun.	0	IN	AAAA	2610:a1:1010::3
-yandex.	0	IN	NS	ns1.uniregistry.net.
-yandex.	0	IN	NS	ns2.uniregistry.info.
-yandex.	0	IN	NS	ns3.uniregistry.net.
-yandex.	0	IN	NS	ns4.uniregistry.info.
 yandex.	0	IN	NS	ns01.trs-dns.com.
 yandex.	0	IN	NS	ns01.trs-dns.net.
 yandex.	0	IN	NS	ns01.trs-dns.org.
