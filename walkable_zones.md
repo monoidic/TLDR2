@@ -12,7 +12,9 @@
 * `car.`
 * `cars.`
 * `ch.`
+* `christmas.`
 * `ci.`
+* `cv.`
 * `cw.`
 * `desi.`
 * `diet.`
@@ -24,6 +26,7 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
 * `ieee.`
 * `ir.`
@@ -32,10 +35,12 @@
 * `lb.`
 * `li.`
 * `lk.`
+* `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
+* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
