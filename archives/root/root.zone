@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024060500 1 1 d82e4ff9b419e45e8f83536151fdbbd24dfaaa01dc803065680edc8cf81646a3fc0e8b02a069a13f772984d5e7ab2518
+.	0	IN	ZONEMD	2024060501 1 1 0944ee0b64c83373f5af79c45542cd86f85163494ad68ad0286da453fa11b66ebfd9c7bf0968620b6f2b11972f3d4b64
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9370,7 +9370,7 @@ kfh.	0	IN	NS	a.nic.kfh.
 kfh.	0	IN	NS	b.nic.kfh.
 kfh.	0	IN	NS	c.nic.kfh.
 kfh.	0	IN	NS	d.nic.kfh.
-kfh.	0	IN	DS	47020 8 1 2ff9a7948808d902d399e6119e3734c64078ba79
+kfh.	0	IN	DS	23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
 kfh.	0	IN	DS	47020 8 2 602ee5eb852a6581e8cbdabe8d6685a881cc2783b4de8d8947393231243b80b2
 a.nic.kfh.	0	IN	A	194.169.218.43
 a.nic.kfh.	0	IN	AAAA	2001:67c:13cc::1:43
@@ -20036,7 +20036,7 @@ xn--ngbe9e0a.	0	IN	NS	a.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	b.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	c.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	d.nic.xn--ngbe9e0a.
-xn--ngbe9e0a.	0	IN	DS	10552 8 1 c5f1478252dc3d25e585a8d43ad460c0e8f86863
+xn--ngbe9e0a.	0	IN	DS	5347 8 2 6e02d3ee5a203293f8cbaf20686aecd516e1363e231ec6db68e78e9f48090e47
 xn--ngbe9e0a.	0	IN	DS	10552 8 2 b4b742442c6b66d321259fcd7608462a75f2a7ea70af4e42a6cad0430dd98d51
 a.nic.xn--ngbe9e0a.	0	IN	A	194.169.218.22
 a.nic.xn--ngbe9e0a.	0	IN	AAAA	2001:67c:13cc::1:22
