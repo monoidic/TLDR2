@@ -2,7 +2,6 @@
 
 * `.`
 * `amazon.`
-* `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -12,13 +11,10 @@
 * `car.`
 * `cars.`
 * `ch.`
-* `christmas.`
 * `ci.`
-* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -45,7 +41,6 @@
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
