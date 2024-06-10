@@ -2,6 +2,7 @@
 
 * `.`
 * `amazon.`
+* `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -10,8 +11,10 @@
 * `bt.`
 * `car.`
 * `cars.`
+* `ch.`
 * `christmas.`
 * `ci.`
+* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -22,13 +25,18 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
 * `ieee.`
 * `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
+* `li.`
+* `lk.`
 * `lol.`
+* `lr.`
+* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
@@ -38,6 +46,7 @@
 * `sl.`
 * `tn.`
 * `tz.`
+* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
