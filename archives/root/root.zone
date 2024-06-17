@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024061701 1 1 2cc3cc9d629932897c138ba1b76486f7e5708399382faff067642cd77dc9c5d6325b460f5dfebb40b6a6b24f22b51f43
+.	0	IN	ZONEMD	2024061702 1 1 dc0a86c2d1f14d7d6dde34d5fdd7b30b7f0a7cb3f170ffce40287ef3c29f3dfac0addcb665f640934e1c9545718d7251
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10421,6 +10421,8 @@ ls.	0	IN	NS	ns1.nic.ls.
 ls.	0	IN	NS	ns2.nic.ls.
 ls.	0	IN	NS	ls-ns.anycast.pch.net.
 ls.	0	IN	NS	ns-ls.afrinic.net.
+ls.	0	IN	DS	724 8 2 ae6a33b121b3191899e158c63c5ff51f8ff6c4c728617c65c91207ec354b6fa4
+ls.	0	IN	DS	724 8 4 942fef26dc403df85b9ed8f6931de23aadedd511267de453f55339aed1f9a9be2b9c916512d2270b6ac4a6fa5085fa36
 ns1.nic.ls.	0	IN	A	196.43.249.1
 ns2.nic.ls.	0	IN	A	196.11.175.1
 lt.	0	IN	NS	a.tld.lt.
