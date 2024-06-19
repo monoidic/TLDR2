@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024061801 1 1 a74b97f64aa1a77eef968220e53ba3798600e2732b5a34db02df293c87636c01e5159c3af78c2f541304c2dd2cbac656
+.	0	IN	ZONEMD	2024061900 1 1 300ac0f678c3af7a87c72443ff71254bb67d1a95de4270000e79b9a5488d0a0cf7a0c8d713987f164a45ad347ffe341b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4493,6 +4493,7 @@ cyou.	0	IN	NS	a.nic.cyou.
 cyou.	0	IN	NS	b.nic.cyou.
 cyou.	0	IN	NS	c.nic.cyou.
 cyou.	0	IN	NS	d.nic.cyou.
+cyou.	0	IN	DS	14103 13 2 579e60f99fbb5da7942ead76a5f2c5e5c2f7b6e7376d3d76363b6314c660dc28
 cyou.	0	IN	DS	19927 13 2 2079b2824eee39ec9ab51f32b199a6bcc68162ca56bd12c2740b8c800fc611c4
 a.nic.cyou.	0	IN	A	194.169.218.120
 a.nic.cyou.	0	IN	AAAA	2001:67c:13cc::1:120
@@ -8315,10 +8316,8 @@ icu.	0	IN	NS	a.nic.icu.
 icu.	0	IN	NS	b.nic.icu.
 icu.	0	IN	NS	c.nic.icu.
 icu.	0	IN	NS	d.nic.icu.
-icu.	0	IN	DS	31762 8 1 db42bc4b511c8f97e5a3c00666b76fb1f4c2e567
 icu.	0	IN	DS	31762 8 2 ccc397a837f6491166129e1d99ed03cca6635166b2f5b58c65b5cf516ae92b8f
-icu.	0	IN	DS	62704 8 1 d834ee1ed0374e28c49be9c12fe1b93ae0fe9ccb
-icu.	0	IN	DS	62704 8 2 8c0442a126ba382ca5b05ae5b44744cdc5ab2845c83918e147083434f65790aa
+icu.	0	IN	DS	46625 8 2 bb6ac27bbb99b05da380516d9c342bec3585259e22e4791472908e4370067886
 a.nic.icu.	0	IN	A	194.169.218.108
 a.nic.icu.	0	IN	AAAA	2001:67c:13cc::1:108
 b.nic.icu.	0	IN	A	185.24.64.108
@@ -15075,7 +15074,7 @@ sbs.	0	IN	NS	a.nic.sbs.
 sbs.	0	IN	NS	b.nic.sbs.
 sbs.	0	IN	NS	c.nic.sbs.
 sbs.	0	IN	NS	d.nic.sbs.
-sbs.	0	IN	DS	49074 8 2 dbdb6a00e2aac5f3c8ee371b1e46f69da8bf7b985f837cdb9fac21beee2f7fcf
+sbs.	0	IN	DS	9116 8 2 012791072305ec41947811dfdf889333d7e177007132faaf8d78873d0c38dfc6
 sbs.	0	IN	DS	56056 8 2 ef6d326e9513ea4c07f99a08afcdc5f3d9e3f6eb73000af57d6fc3deca1ca31c
 a.nic.sbs.	0	IN	A	194.169.218.127
 a.nic.sbs.	0	IN	AAAA	2001:67c:13cc::1:127
