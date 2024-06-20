@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024062001 1 1 88bdb927ea73a59df815766a39b0c63020acad7dffca732cb9ee3227d77235e2ec79f75a8eb023d6b4b97955adb08b3b
+.	0	IN	ZONEMD	2024062002 1 1 f20cd5f9bc8d66cda2d1e79b96b2f852e081810c0200312535f3d4cdd633244dff6ce0dc1bd509be1680f6f6f006b578
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5082,7 +5082,7 @@ dk.	0	IN	NS	h.nic.dk.
 dk.	0	IN	NS	l.nic.dk.
 dk.	0	IN	NS	p.nic.dk.
 dk.	0	IN	NS	s.nic.dk.
-dk.	0	IN	DS	21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
+dk.	0	IN	DS	2181 13 2 9e707b8c9a8ae4893f6ddf545957f9809fe8ba4747bf705263601466aa10051d
 b.nic.dk.	0	IN	A	193.163.102.222
 b.nic.dk.	0	IN	AAAA	2a01:630:0:80::53
 c.nic.dk.	0	IN	A	185.159.199.45
@@ -10997,7 +10997,6 @@ merckmsd.	0	IN	NS	x.nic.merckmsd.
 merckmsd.	0	IN	NS	y.nic.merckmsd.
 merckmsd.	0	IN	NS	z.nic.merckmsd.
 merckmsd.	0	IN	DS	5134 8 2 f4c8e4ac4a227663517fb28feaa416635cc013ccab079eceda756a89541baaba
-merckmsd.	0	IN	DS	23340 8 2 f6643d8ae9760f8033a5a14b231851cedff97429ef22514cfcb1ba625eac86a4
 a.nic.merckmsd.	0	IN	A	37.209.192.9
 a.nic.merckmsd.	0	IN	AAAA	2001:dcd:1::9
 b.nic.merckmsd.	0	IN	A	37.209.194.9
@@ -11511,7 +11510,6 @@ msd.	0	IN	NS	x.nic.msd.
 msd.	0	IN	NS	y.nic.msd.
 msd.	0	IN	NS	z.nic.msd.
 msd.	0	IN	DS	23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
-msd.	0	IN	DS	30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
 a.nic.msd.	0	IN	A	37.209.192.9
 a.nic.msd.	0	IN	AAAA	2001:dcd:1::9
 b.nic.msd.	0	IN	A	37.209.194.9
