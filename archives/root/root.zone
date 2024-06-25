@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024062501 1 1 aa9fc6a2eb27922ec33b8d62bfb5ae232e0ebc6b9245e9527eef4d82b739a70d8049bf25fb8fb776121fc9fad8c401a5
+.	0	IN	ZONEMD	2024062502 1 1 c655cf612955a9d8ce37f77eac5606aa4789aa6797541ff989265eaf0bd21082110540fa23d06bb98957ff6320fb190b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -95,6 +95,7 @@ abc.	0	IN	NS	ac2.nstld.com.
 abc.	0	IN	NS	ac3.nstld.com.
 abc.	0	IN	NS	ac4.nstld.com.
 abc.	0	IN	DS	39900 8 2 7abc5a1f64fbbfad550cfe06953aa56a030be7212a77a60813ff633de705dec8
+abc.	0	IN	DS	43549 8 2 7a1d01c238b756baa6e99c5add35fb9fc23bf4edaddb98cc42ab0a39f45f8f1b
 able.	0	IN	NS	a.nic.able.
 able.	0	IN	NS	b.nic.able.
 able.	0	IN	NS	c.nic.able.
@@ -9964,6 +9965,7 @@ lego.	0	IN	NS	ac1.nstld.com.
 lego.	0	IN	NS	ac2.nstld.com.
 lego.	0	IN	NS	ac3.nstld.com.
 lego.	0	IN	NS	ac4.nstld.com.
+lego.	0	IN	DS	5752 8 2 af9076e3b4365d770b2827a4a9f6ea142d12af52887d9ea685e34aa0acdeea40
 lego.	0	IN	DS	28536 8 2 fdcdbd92d8a27f3a19ba30ef37e04ff21188973ee8648975e5b9a77db48478d6
 lexus.	0	IN	NS	a.gmoregistry.net.
 lexus.	0	IN	NS	b.gmoregistry.net.
@@ -14747,6 +14749,7 @@ rwe.	0	IN	NS	ac2.nstld.com.
 rwe.	0	IN	NS	ac3.nstld.com.
 rwe.	0	IN	NS	ac4.nstld.com.
 rwe.	0	IN	DS	3075 8 2 542f19df30f2c69f686e697cfbafd7da2afa039cb9d6620169895888188ac174
+rwe.	0	IN	DS	23797 8 2 619690e3da5905b5ebf372e40c035832805aa26c0643e0f217556ef62d5d166a
 ryukyu.	0	IN	NS	a.gmoregistry.net.
 ryukyu.	0	IN	NS	b.gmoregistry.net.
 ryukyu.	0	IN	NS	k.gmoregistry.net.
@@ -15362,6 +15365,7 @@ sener.	0	IN	NS	ac1.nstld.com.
 sener.	0	IN	NS	ac2.nstld.com.
 sener.	0	IN	NS	ac3.nstld.com.
 sener.	0	IN	NS	ac4.nstld.com.
+sener.	0	IN	DS	724 8 2 f499bbdb5e9d28391ef6c0d2de9ea020632e6a2d521eebc7a1ae884d693c95b6
 sener.	0	IN	DS	40020 8 2 f580b1e1f989e14eb37da8cd7201254150e4c28f95ca0d1db7822a78c93eaf17
 services.	0	IN	NS	v0n0.nic.services.
 services.	0	IN	NS	v0n1.nic.services.
@@ -20436,6 +20440,7 @@ yahoo.	0	IN	NS	ac2.nstld.com.
 yahoo.	0	IN	NS	ac3.nstld.com.
 yahoo.	0	IN	NS	ac4.nstld.com.
 yahoo.	0	IN	DS	52260 8 2 99da5ed59ca94fc8c28c5c7a4a817e7fc0c52688b115dcf743fb914be65ba447
+yahoo.	0	IN	DS	64675 8 2 674c472960577338b3372085bb0a35e23308226578f018401a20914d4c928ad4
 yamaxun.	0	IN	NS	dns1.nic.yamaxun.
 yamaxun.	0	IN	NS	dns2.nic.yamaxun.
 yamaxun.	0	IN	NS	dns3.nic.yamaxun.
