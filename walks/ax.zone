@@ -158,6 +158,8 @@
 41.ax.	0	IN	NS	ns7.netsto.net.
 41267.ax.	0	IN	NS	ns6.netsto.net.
 41267.ax.	0	IN	NS	ns7.netsto.net.
+42.ax.	0	IN	NS	terry.ns.cloudflare.com.
+42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 42653.ax.	0	IN	NS	ns6.netsto.net.
 42653.ax.	0	IN	NS	ns7.netsto.net.
 44.ax.	0	IN	NS	ns1.ps.kz.
@@ -1324,8 +1326,6 @@ autodiscover.ax.	0	IN	NS	ns4-33.azure-dns.info.
 av.ax.	0	IN	NS	ns1.hosting-cloud.net.
 av.ax.	0	IN	NS	ns2.hosting-cloud.net.
 av.ax.	0	IN	NS	ns3.hosting-cloud.net.
-ava.ax.	0	IN	NS	any.bgp.co.
-ava.ax.	0	IN	NS	ns1.he.net.
 avancia.ax.	0	IN	NS	ns1.consilia.fi.
 avancia.ax.	0	IN	NS	ns2.consilia.fi.
 avbetalning.ax.	0	IN	NS	ns1.consilia.fi.
@@ -2529,6 +2529,10 @@ covid.ax.	0	IN	NS	ns.regeringen.ax.
 covid.ax.	0	IN	NS	ns2.aland.net.
 covid.ax.	0	IN	NS	ns2.regeringen.ax.
 covid.ax.	0	IN	NS	ns3.alcom.fi.
+covid-19.ax.	0	IN	NS	ns.regeringen.ax.
+covid-19.ax.	0	IN	NS	ns2.aland.net.
+covid-19.ax.	0	IN	NS	ns2.regeringen.ax.
+covid-19.ax.	0	IN	NS	ns3.alcom.fi.
 cp.ax.	0	IN	NS	ns1.dan.com.
 cp.ax.	0	IN	NS	ns2.dan.com.
 cq.ax.	0	IN	NS	ns1.netim.net.
@@ -3563,10 +3567,6 @@ files.ax.	0	IN	NS	c.m1ns.xyz.
 files.ax.	0	IN	NS	d.m1ns.one.
 files.ax.	0	IN	NS	e.m1ns.moe.
 files.ax.	0	IN	NS	f.m1ns.fyi.
-film.ax.	0	IN	NS	ns.regeringen.ax.
-film.ax.	0	IN	NS	ns2.aland.net.
-film.ax.	0	IN	NS	ns2.regeringen.ax.
-film.ax.	0	IN	NS	ns3.alcom.fi.
 fin.ax.	0	IN	NS	ns1.dan.com.
 fin.ax.	0	IN	NS	ns2.dan.com.
 finafisken.ax.	0	IN	NS	ns1.aland.net.
@@ -5807,10 +5807,6 @@ kreativaknaparna.ax.	0	IN	NS	ns4.alcom.fi.
 krigsveteranerna.ax.	0	IN	NS	ns1.wordpress.com.
 krigsveteranerna.ax.	0	IN	NS	ns2.wordpress.com.
 krigsveteranerna.ax.	0	IN	NS	ns3.wordpress.com.
-kris.ax.	0	IN	NS	ns.regeringen.ax.
-kris.ax.	0	IN	NS	ns2.aland.net.
-kris.ax.	0	IN	NS	ns2.regeringen.ax.
-kris.ax.	0	IN	NS	ns3.alcom.fi.
 krishna.ax.	0	IN	NS	ns1.netim.net.
 krishna.ax.	0	IN	NS	ns2.netim.net.
 krishna.ax.	0	IN	NS	ns3.netim.net.
