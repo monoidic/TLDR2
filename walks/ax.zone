@@ -158,6 +158,8 @@
 41.ax.	0	IN	NS	ns7.netsto.net.
 41267.ax.	0	IN	NS	ns6.netsto.net.
 41267.ax.	0	IN	NS	ns7.netsto.net.
+42.ax.	0	IN	NS	terry.ns.cloudflare.com.
+42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 42653.ax.	0	IN	NS	ns6.netsto.net.
 42653.ax.	0	IN	NS	ns7.netsto.net.
 44.ax.	0	IN	NS	ns1.ps.kz.
@@ -619,6 +621,10 @@ alandicaevents.ax.	0	IN	NS	ns1.consilia.fi.
 alandicaevents.ax.	0	IN	NS	ns2.consilia.fi.
 alandicart.ax.	0	IN	NS	ns1.bluehost.com.
 alandicart.ax.	0	IN	NS	ns2.bluehost.com.
+alandicashippingacademy.ax.	0	IN	NS	ns.regeringen.ax.
+alandicashippingacademy.ax.	0	IN	NS	ns2.aland.net.
+alandicashippingacademy.ax.	0	IN	NS	ns2.regeringen.ax.
+alandicashippingacademy.ax.	0	IN	NS	ns3.alcom.fi.
 alandlive.ax.	0	IN	NS	ns8.wixdns.net.
 alandlive.ax.	0	IN	NS	ns9.wixdns.net.
 alandliving.ax.	0	IN	NS	ns.regeringen.ax.
@@ -1320,8 +1326,6 @@ autodiscover.ax.	0	IN	NS	ns4-33.azure-dns.info.
 av.ax.	0	IN	NS	ns1.hosting-cloud.net.
 av.ax.	0	IN	NS	ns2.hosting-cloud.net.
 av.ax.	0	IN	NS	ns3.hosting-cloud.net.
-ava.ax.	0	IN	NS	any.bgp.co.
-ava.ax.	0	IN	NS	ns1.he.net.
 avancia.ax.	0	IN	NS	ns1.consilia.fi.
 avancia.ax.	0	IN	NS	ns2.consilia.fi.
 avbetalning.ax.	0	IN	NS	ns1.consilia.fi.
@@ -5107,10 +5111,6 @@ itkonsulterna.ax.	0	IN	NS	ns-158.awsdns-19.com.
 itkonsulterna.ax.	0	IN	NS	ns-755.awsdns-30.net.
 itkonsulterna.ax.	0	IN	NS	ns-1294.awsdns-33.org.
 itkonsulterna.ax.	0	IN	NS	ns-1620.awsdns-10.co.uk.
-its.ax.	0	IN	NS	ns.regeringen.ax.
-its.ax.	0	IN	NS	ns2.alcom.aland.fi.
-its.ax.	0	IN	NS	ns2.regeringen.ax.
-its.ax.	0	IN	NS	ns3.alcom.aland.fi.
 iv.ax.	0	IN	NS	ns1.dan.com.
 iv.ax.	0	IN	NS	ns2.dan.com.
 ivcevidensia.ax.	0	IN	NS	sto.excedodns.se.
@@ -5159,8 +5159,8 @@ jaktia.ax.	0	IN	NS	dns03.ports.se.
 jaktia.ax.	0	IN	NS	dns04.ports.net.
 jalit.ax.	0	IN	NS	milan.ns.cloudflare.com.
 jalit.ax.	0	IN	NS	stella.ns.cloudflare.com.
-jalkapalloturnaukset.ax.	0	IN	NS	hal.ns.cloudflare.com.
-jalkapalloturnaukset.ax.	0	IN	NS	arely.ns.cloudflare.com.
+jalkapalloturnaukset.ax.	0	IN	NS	ns2.wixdns.net.
+jalkapalloturnaukset.ax.	0	IN	NS	ns3.wixdns.net.
 jalonen.ax.	0	IN	NS	pns21.cloudns.net.
 jalonen.ax.	0	IN	NS	pns22.cloudns.net.
 jalonen.ax.	0	IN	NS	pns23.cloudns.net.
@@ -6510,8 +6510,8 @@ marjasmassage.ax.	0	IN	NS	ns2.avaruus.net.
 mark.ax.	0	IN	NS	jacob.ns.cloudflare.com.
 mark.ax.	0	IN	NS	linda.ns.cloudflare.com.
 market.ax.	0	IN	NS	ns.arrak.fi.
-market.ax.	0	IN	NS	ns.arraksoftware.com.
-market.ax.	0	IN	NS	ns2.arraksoftware.com.
+market.ax.	0	IN	NS	arska.ecraft.com.
+market.ax.	0	IN	NS	arska.berggren.fi.
 markmonitor.ax.	0	IN	NS	ns1.markmonitor.com.
 markmonitor.ax.	0	IN	NS	ns2.markmonitor.com.
 markmonitor.ax.	0	IN	NS	ns3.markmonitor.com.
@@ -7283,6 +7283,10 @@ nimix.ax.	0	IN	NS	ns2.rs-webhotels.net.
 nipa.ax.	0	IN	NS	ns1.justit.ax.
 nipa.ax.	0	IN	NS	ns2.justit.ax.
 nipa.ax.	0	IN	NS	ns3.justit.ax.
+nipalive.ax.	0	IN	NS	ns.regeringen.ax.
+nipalive.ax.	0	IN	NS	ns2.alcom.aland.fi.
+nipalive.ax.	0	IN	NS	ns2.regeringen.ax.
+nipalive.ax.	0	IN	NS	ns3.alcom.aland.fi.
 niska.ax.	0	IN	NS	ns1.iwebben.fi.
 niska.ax.	0	IN	NS	ns2.iwebben.fi.
 nj.ax.	0	IN	NS	ns1.he.net.
@@ -7833,6 +7837,8 @@ paviljongen.ax.	0	IN	NS	ns1.loopiagroup.com.
 paviljongen.ax.	0	IN	NS	ns2.loopiagroup.com.
 pay.ax.	0	IN	NS	ns1.dan.com.
 pay.ax.	0	IN	NS	ns2.dan.com.
+-.-.pay.ax.	0	IN	NS	ns1.dan.com.
+-.-.pay.ax.	0	IN	NS	ns2.dan.com.
 paydaycasino.ax.	0	IN	NS	dns1.idp365.net.
 paydaycasino.ax.	0	IN	NS	dns2.idp365.net.
 paydaycasino.ax.	0	IN	NS	dns3.idp365.net.
@@ -10422,10 +10428,6 @@ un.ax.	0	IN	NS	ns1.dan.com.
 un.ax.	0	IN	NS	ns2.dan.com.
 uncan.ax.	0	IN	NS	june.ns.cloudflare.com.
 uncan.ax.	0	IN	NS	sean.ns.cloudflare.com.
-unesco.ax.	0	IN	NS	ns.regeringen.ax.
-unesco.ax.	0	IN	NS	ns2.aland.net.
-unesco.ax.	0	IN	NS	ns2.regeringen.ax.
-unesco.ax.	0	IN	NS	ns3.alcom.fi.
 ungdom.ax.	0	IN	NS	ns14.wixdns.net.
 ungdom.ax.	0	IN	NS	ns15.wixdns.net.
 ungdomslotsarna.ax.	0	IN	NS	june.ns.cloudflare.com.
