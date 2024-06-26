@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024062602 1 1 164741f03738b60b0ab92139c918668749d168af709f1d5cb347e9a48b7ffb7c4fe1c6553cc184d19aff6231b332b297
+.	0	IN	ZONEMD	2024062603 1 1 f14ba59064c23cf4eb89da3108d3e30ad2f4176aa2d3997c38c3e028de2f245c6cff35c676ec35191eec7cf7f9808318
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -737,9 +737,12 @@ y.nic.anz.	0	IN	A	156.154.173.82
 y.nic.anz.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.anz.	0	IN	A	156.154.174.82
 z.nic.anz.	0	IN	AAAA	2610:a1:1076::1:82
-ao.	0	IN	NS	h.dns.pt.
-ao.	0	IN	NS	ao01.dns.pt.
-ao.	0	IN	NS	ao03.dns.pt.
+ao.	0	IN	NS	a.ns.ao.
+ao.	0	IN	NS	ao-e.ns.nic.cz.
+ao.	0	IN	NS	ao02.dns.pt.
+ao.	0	IN	NS	etld-1.anycast.net.
+a.ns.ao.	0	IN	A	206.51.254.4
+a.ns.ao.	0	IN	AAAA	2620:171:804:ad2::4
 aol.	0	IN	NS	a0.nic.aol.
 aol.	0	IN	NS	a2.nic.aol.
 aol.	0	IN	NS	b0.nic.aol.
@@ -4525,6 +4528,8 @@ ssnic.anycastdns.cz.	0	IN	A	185.28.194.194
 ssnic.anycastdns.cz.	0	IN	A	185.38.108.108
 a.ns.nic.cz.	0	IN	A	194.0.12.1
 a.ns.nic.cz.	0	IN	AAAA	2001:678:f::1
+ao-e.ns.nic.cz.	0	IN	A	185.43.134.13
+ao-e.ns.nic.cz.	0	IN	AAAA	2001:148f:fffd::13
 b.ns.nic.cz.	0	IN	A	194.0.13.1
 b.ns.nic.cz.	0	IN	AAAA	2001:678:10::1
 c.ns.nic.cz.	0	IN	A	194.0.14.1
@@ -8784,6 +8789,8 @@ io.	0	IN	NS	a2.nic.io.
 io.	0	IN	NS	b0.nic.io.
 io.	0	IN	NS	c0.nic.io.
 io.	0	IN	DS	57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+xn--node.ns.cloudhosted.io.	0	IN	A	188.93.94.2
+xn--node.ns.cloudhosted.io.	0	IN	AAAA	2a0a:5000:0:4::2
 a0.nic.io.	0	IN	A	65.22.160.17
 a0.nic.io.	0	IN	AAAA	2a01:8840:9e::17
 a2.nic.io.	0	IN	A	65.22.163.17
@@ -11901,14 +11908,6 @@ m.edu-servers.net.	0	IN	A	192.55.83.30
 m.edu-servers.net.	0	IN	AAAA	2001:501:b1f9::30
 b.dns.flexireg.net.	0	IN	A	195.253.64.6
 b.dns.flexireg.net.	0	IN	AAAA	2a01:5b0:4::6
-a.xn--node.globalanycastcloud.freenom.net.	0	IN	A	185.21.168.36
-a.xn--node.globalanycastcloud.freenom.net.	0	IN	AAAA	2a04:1b00:8::4
-b.xn--node.globalanycastcloud.freenom.net.	0	IN	A	185.21.169.36
-b.xn--node.globalanycastcloud.freenom.net.	0	IN	AAAA	2a04:1b00:9::4
-c.xn--node.globalanycastcloud.freenom.net.	0	IN	A	185.21.170.36
-c.xn--node.globalanycastcloud.freenom.net.	0	IN	AAAA	2a04:1b00:a::4
-d.xn--node.globalanycastcloud.freenom.net.	0	IN	A	185.21.171.36
-d.xn--node.globalanycastcloud.freenom.net.	0	IN	AAAA	2a04:1b00:b::4
 ns2.gip.net.	0	IN	A	204.59.1.222
 a.gmoregistry.net.	0	IN	A	37.209.192.4
 a.gmoregistry.net.	0	IN	AAAA	2001:dcd:1::4
@@ -12417,7 +12416,7 @@ nokia.	0	IN	NS	a.nic.nokia.
 nokia.	0	IN	NS	b.nic.nokia.
 nokia.	0	IN	NS	c.nic.nokia.
 nokia.	0	IN	NS	d.nic.nokia.
-nokia.	0	IN	DS	38794 8 2 5d3c0f0b92084eb734e6e06364681b3bb051087a15ebe6f468b2974c5f197ab1
+nokia.	0	IN	DS	5506 8 2 4030a14335a594b8ab850594ba0e85a0ecd1dc145aa7e097341169f70f0f4292
 nokia.	0	IN	DS	43790 8 2 7d7d3ebae05f84c911ee972ec6d72f1cc88368297b5fdc6a52db62eb27b76c99
 a.nic.nokia.	0	IN	A	194.169.218.159
 a.nic.nokia.	0	IN	AAAA	2001:67c:13cc::1:159
@@ -13923,10 +13922,8 @@ pt.	0	IN	NS	ns2.nic.fr.
 pt.	0	IN	DS	40155 13 2 b0ed28b7255e9880e7ce4665b75ae7271f7837899057f0d4b897ece2eb1eb494
 a.dns.pt.	0	IN	A	185.39.208.1
 a.dns.pt.	0	IN	AAAA	2a04:6d80::1
-ao01.dns.pt.	0	IN	A	185.39.208.17
-ao01.dns.pt.	0	IN	AAAA	2a04:6d80::17
-ao03.dns.pt.	0	IN	A	204.61.216.113
-ao03.dns.pt.	0	IN	AAAA	2001:500:14:6113:ad::1
+ao02.dns.pt.	0	IN	A	185.39.208.29
+ao02.dns.pt.	0	IN	AAAA	2a04:6d80::29
 b.dns.pt.	0	IN	A	194.0.25.23
 b.dns.pt.	0	IN	AAAA	2001:678:20::23
 c.dns.pt.	0	IN	A	204.61.216.105
@@ -20052,11 +20049,8 @@ xn--ngbrx.	0	IN	NS	gtld.delta.aridns.net.au.
 xn--ngbrx.	0	IN	NS	gtld.gamma.aridns.net.au.
 xn--ngbrx.	0	IN	DS	37096 8 1 71bd52e2a76beef79d624f5294c98588f940402c
 xn--ngbrx.	0	IN	DS	37096 8 2 dd05b598b64707491e63a742d3e61edbb57091b5b93c8e0d65422595ad255ad4
-xn--node.	0	IN	NS	a.xn--node.globalanycastcloud.freenom.net.
-xn--node.	0	IN	NS	b.xn--node.globalanycastcloud.freenom.net.
-xn--node.	0	IN	NS	c.xn--node.globalanycastcloud.freenom.net.
-xn--node.	0	IN	NS	d.xn--node.globalanycastcloud.freenom.net.
 xn--node.	0	IN	NS	xn--node.ns.anycast.pch.net.
+xn--node.	0	IN	NS	xn--node.ns.cloudhosted.io.
 xn--nqv7f.	0	IN	NS	a0.nic.xn--nqv7f.
 xn--nqv7f.	0	IN	NS	a2.nic.xn--nqv7f.
 xn--nqv7f.	0	IN	NS	b0.nic.xn--nqv7f.

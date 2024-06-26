@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `ao.` via `ao02.dns.pt.`: [Click here to view zone data.](archives/ao/ao.zone)
 * `bw.` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/bw.zone)
 * `cd.` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `cd.` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
