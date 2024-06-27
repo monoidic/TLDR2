@@ -1,6 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `ao.` via `ao02.dns.pt.`: [Click here to view zone data.](archives/ao/ao.zone)
+* `bw.` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/bw.zone)
 * `cd.` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `cd.` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/cd.zone)
 * `er.` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/er.zone)
@@ -13,6 +13,5 @@
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
-* `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
