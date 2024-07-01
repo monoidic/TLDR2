@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024070102 1 1 9663c8e3f26967fb89ec36cd7867e151409abf4fe8009e79b63bba2a0a5851bc659f1d5ce24162737d4abf4e459457c7
+.	0	IN	ZONEMD	2024070103 1 1 6e967cbe7f013919fdb66ddcccc3a93e5a753267a0c98b328b51225795b90eac091a316d63ddd48ddb508e2d4328c0d4
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1412,7 +1412,6 @@ bank.	0	IN	NS	f.nic.bank.
 bank.	0	IN	NS	w.nic.bank.
 bank.	0	IN	NS	x.nic.bank.
 bank.	0	IN	NS	y.nic.bank.
-bank.	0	IN	DS	21997 8 2 07edd24219ee1fa88d97695ea28c3722a29b566813cbfdcc4dbf498892b8ff0c
 bank.	0	IN	DS	32743 13 2 c962ca12693bf639b1eeb2c9e5a5e90988ab334038e8daff0c1cd05454b57038
 d.nic.bank.	0	IN	A	156.154.103.27
 d.nic.bank.	0	IN	AAAA	2610:a1:1010::27
@@ -1835,6 +1834,7 @@ bh.	0	IN	NS	a.nic.bh.
 bh.	0	IN	NS	b.nic.bh.
 bh.	0	IN	NS	c.nic.bh.
 bh.	0	IN	NS	d.nic.bh.
+bh.	0	IN	DS	17411 8 2 5585896549a2954516768f776e8a9e2610cbf5cbd7165389c0a5448435c71185
 bh.	0	IN	DS	42035 8 2 de6b7cef6b195f0aac140c56c68868105d8f05967342c96a8192efe7b433bd1e
 a.nic.bh.	0	IN	A	194.169.218.115
 a.nic.bh.	0	IN	AAAA	2001:67c:13cc::1:115
@@ -5080,13 +5080,13 @@ diy.	0	IN	NS	ns01.trs-dns.info.
 diy.	0	IN	DS	33264 13 2 24a91796a02821f094f089fb6001bac99b9b0bd2a8b0b89e63231da8f2c79788
 dj.	0	IN	NS	ns1.djibtelecom.dj.
 dj.	0	IN	NS	ns2.djibtelecom.dj.
+dj.	0	IN	NS	ns3.djibtelecom.dj.
 dj.	0	IN	NS	bow1.intnet.dj.
-dj.	0	IN	NS	bow5.intnet.dj.
 dj.	0	IN	NS	vps443605.ovh.net.
 ns1.djibtelecom.dj.	0	IN	A	197.241.17.175
 ns2.djibtelecom.dj.	0	IN	A	196.201.196.54
+ns3.djibtelecom.dj.	0	IN	A	52.213.131.190
 bow1.intnet.dj.	0	IN	A	197.241.17.130
-bow5.intnet.dj.	0	IN	A	196.201.196.41
 dk.	0	IN	NS	b.nic.dk.
 dk.	0	IN	NS	c.nic.dk.
 dk.	0	IN	NS	h.nic.dk.
@@ -8437,6 +8437,8 @@ ns4.ns.il.	0	IN	AAAA	2001:500:14:6134:ad::1
 nsa.ns.il.	0	IN	A	192.115.7.53
 nsa.ns.il.	0	IN	AAAA	2a01:4280:7::53
 nsb.ns.il.	0	IN	A	192.115.7.60
+nsb.ns.il.	0	IN	AAAA	2606:4700:52::ac40:349c
+nsb.ns.il.	0	IN	AAAA	2606:4700:5a::ac40:3524
 nsb.ns.il.	0	IN	AAAA	2a01:4280:7::60
 nse.ns.il.	0	IN	A	192.115.4.235
 im.	0	IN	NS	ns4.ja.net.
@@ -8691,7 +8693,6 @@ insurance.	0	IN	NS	f.nic.insurance.
 insurance.	0	IN	NS	w.nic.insurance.
 insurance.	0	IN	NS	x.nic.insurance.
 insurance.	0	IN	NS	y.nic.insurance.
-insurance.	0	IN	DS	17830 8 2 b2969b333e64714f8ea3b5d1d691fe476194ff8c5b67ac78345ece07b77fa20c
 insurance.	0	IN	DS	32830 13 2 f51790be5f8a3bec1d392a45882a76c5bda288395a3929e9714eb26193e80f5e
 d.nic.insurance.	0	IN	A	156.154.103.22
 d.nic.insurance.	0	IN	AAAA	2610:a1:1010::22
@@ -19919,6 +19920,7 @@ xn--mgbcpq6gpa1a.	0	IN	NS	a.nic.xn--mgbcpq6gpa1a.
 xn--mgbcpq6gpa1a.	0	IN	NS	b.nic.xn--mgbcpq6gpa1a.
 xn--mgbcpq6gpa1a.	0	IN	NS	c.nic.xn--mgbcpq6gpa1a.
 xn--mgbcpq6gpa1a.	0	IN	NS	d.nic.xn--mgbcpq6gpa1a.
+xn--mgbcpq6gpa1a.	0	IN	DS	18404 8 2 1dbc70cb85267da1054f652ac0b4aeeb76f17fb9648a490f4a0bb0d934bf6ac3
 xn--mgbcpq6gpa1a.	0	IN	DS	18592 8 2 0decd54d82c1c675e321c38a49e3193f83066bd70d1bfb108b62231c75b8b407
 a.nic.xn--mgbcpq6gpa1a.	0	IN	A	194.169.218.115
 a.nic.xn--mgbcpq6gpa1a.	0	IN	AAAA	2001:67c:13cc::1:115
