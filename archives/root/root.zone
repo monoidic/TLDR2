@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024063001 1 1 08f0c2ba3823fd33b89a2c6988775cc2683317027f14a4202c436bd134a1e05c6908cc1fc8161245908aa78cf73f07eb
+.	0	IN	ZONEMD	2024070100 1 1 9e979d351482506d766c674c49f73bbd8c1a3d8fb83de73d06e4e5b87cc72a6d0140cccf5b997d6b56b349022f748b3a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5078,9 +5078,13 @@ diy.	0	IN	NS	ns01.trs-dns.net.
 diy.	0	IN	NS	ns01.trs-dns.org.
 diy.	0	IN	NS	ns01.trs-dns.info.
 diy.	0	IN	DS	33264 13 2 24a91796a02821f094f089fb6001bac99b9b0bd2a8b0b89e63231da8f2c79788
+dj.	0	IN	NS	ns1.djibtelecom.dj.
+dj.	0	IN	NS	ns2.djibtelecom.dj.
 dj.	0	IN	NS	bow1.intnet.dj.
 dj.	0	IN	NS	bow5.intnet.dj.
 dj.	0	IN	NS	vps443605.ovh.net.
+ns1.djibtelecom.dj.	0	IN	A	197.241.17.175
+ns2.djibtelecom.dj.	0	IN	A	196.201.196.54
 bow1.intnet.dj.	0	IN	A	197.241.17.130
 bow5.intnet.dj.	0	IN	A	196.201.196.41
 dk.	0	IN	NS	b.nic.dk.
