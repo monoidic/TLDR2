@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024070301 1 1 e8d7d9315a2bf13473ae077ef317ded879f3bb4719551aef709a4f29ce8a11cd045c7d54a251b167b7cbb06001698143
+.	0	IN	ZONEMD	2024070302 1 1 b5518409fee7bc6ffd524d52ef1e86220f41a0c03c1a777b38277f6bae442109e69cc10b1cc68a256e0631d7c111344d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5827,15 +5827,23 @@ v2n0.nic.fail.	0	IN	A	65.22.23.56
 v2n0.nic.fail.	0	IN	AAAA	2a01:8840:19::56
 v2n1.nic.fail.	0	IN	A	161.232.11.56
 v2n1.nic.fail.	0	IN	AAAA	2a01:8840:f5::56
-fairwinds.	0	IN	NS	ns1.nominetdns.uk.
-fairwinds.	0	IN	NS	ns2.nominetdns.uk.
-fairwinds.	0	IN	NS	ns3.nominetdns.uk.
-fairwinds.	0	IN	NS	ns4.nominetdns.uk.
 fairwinds.	0	IN	NS	nsa.nominetdns.uk.
 fairwinds.	0	IN	NS	nsb.nominetdns.uk.
 fairwinds.	0	IN	NS	nsc.nominetdns.uk.
 fairwinds.	0	IN	NS	nsd.nominetdns.uk.
+fairwinds.	0	IN	NS	dns1.nic.fairwinds.
+fairwinds.	0	IN	NS	dns2.nic.fairwinds.
+fairwinds.	0	IN	NS	dns3.nic.fairwinds.
+fairwinds.	0	IN	NS	dns4.nic.fairwinds.
 fairwinds.	0	IN	DS	48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
+dns1.nic.fairwinds.	0	IN	A	213.248.219.135
+dns1.nic.fairwinds.	0	IN	AAAA	2a01:618:403::135
+dns2.nic.fairwinds.	0	IN	A	103.49.83.135
+dns2.nic.fairwinds.	0	IN	AAAA	2401:fd80:403::135
+dns3.nic.fairwinds.	0	IN	A	213.248.223.135
+dns3.nic.fairwinds.	0	IN	AAAA	2a01:618:407::135
+dns4.nic.fairwinds.	0	IN	A	43.230.51.135
+dns4.nic.fairwinds.	0	IN	AAAA	2401:fd80:407::135
 faith.	0	IN	NS	a.nic.faith.
 faith.	0	IN	NS	b.nic.faith.
 faith.	0	IN	NS	c.nic.faith.
@@ -8439,7 +8447,6 @@ nsa.ns.il.	0	IN	AAAA	2a01:4280:7::53
 nsb.ns.il.	0	IN	A	192.115.7.60
 nsb.ns.il.	0	IN	AAAA	2606:4700:52::ac40:349c
 nsb.ns.il.	0	IN	AAAA	2606:4700:5a::ac40:3524
-nsb.ns.il.	0	IN	AAAA	2a01:4280:7::60
 nse.ns.il.	0	IN	A	192.115.4.235
 im.	0	IN	NS	ns4.ja.net.
 im.	0	IN	NS	hoppy.iom.com.
@@ -17731,14 +17738,6 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
-ns1.nominetdns.uk.	0	IN	A	213.248.219.135
-ns1.nominetdns.uk.	0	IN	AAAA	2a01:618:403::135
-ns2.nominetdns.uk.	0	IN	A	103.49.83.135
-ns2.nominetdns.uk.	0	IN	AAAA	2401:fd80:403::135
-ns3.nominetdns.uk.	0	IN	A	213.248.223.135
-ns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::135
-ns4.nominetdns.uk.	0	IN	A	43.230.51.135
-ns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::135
 nsa.nominetdns.uk.	0	IN	A	156.154.100.3
 nsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
 nsb.nominetdns.uk.	0	IN	A	156.154.101.3
