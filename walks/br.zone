@@ -135,6 +135,8 @@ antispam.br.	0	IN	NS	d.dns.br.
 antispam.br.	0	IN	NS	e.dns.br.
 apa.br.	0	IN	NS	ns1.apa.br.
 apa.br.	0	IN	NS	ns2.apa.br.
+apa.br.	0	IN	NS	jupiter.apa.br.
+apa.br.	0	IN	NS	proxycps.apa.br.
 aparecida.br.	0	IN	NS	a.dns.br.
 aparecida.br.	0	IN	NS	b.dns.br.
 aparecida.br.	0	IN	NS	c.dns.br.
@@ -328,8 +330,6 @@ cairu.br.	0	IN	NS	ns3.compos.com.br.
 cairu.br.	0	IN	NS	ns4.compos.com.br.
 cajuniban.br.	0	IN	NS	ns1.cajuniban.br.
 cajuniban.br.	0	IN	NS	ns2.cajuniban.br.
-cajuniban.br.	0	IN	NS	jupiter.cajuniban.br.
-cajuniban.br.	0	IN	NS	proxycps.cajuniban.br.
 cambury.br.	0	IN	NS	ns4.wixdns.net.
 cambury.br.	0	IN	NS	ns5.wixdns.net.
 campinagrande.br.	0	IN	NS	a.dns.br.
@@ -518,9 +518,6 @@ cesupa.br.	0	IN	NS	ns.cesupa.br.
 cesupa.br.	0	IN	NS	ns2.cesupa.br.
 cesur.br.	0	IN	NS	ns1.cesur.br.
 cesur.br.	0	IN	NS	ns2.cesur.br.
-cesur.br.	0	IN	NS	jupiter.cesur.br.
-cesur.br.	0	IN	NS	proxysp.cesur.br.
-cesur.br.	0	IN	NS	proxycps.cesur.br.
 cesv.br.	0	IN	NS	ns1.7sistemas.com.br.
 cesv.br.	0	IN	NS	ns2.7sistemas.com.br.
 cetec.br.	0	IN	NS	ns1.cetec.br.
@@ -964,6 +961,8 @@ fabavi.br.	0	IN	NS	ns.doctum.edu.br.
 fabavi.br.	0	IN	NS	ns1.doctum.edu.br.
 fabrai.br.	0	IN	NS	ns1.fabrai.br.
 fabrai.br.	0	IN	NS	ns2.fabrai.br.
+fabrai.br.	0	IN	NS	jupiter.fabrai.br.
+fabrai.br.	0	IN	NS	proxycps.fabrai.br.
 fac.br.	0	IN	NS	indie.ns.cloudflare.com.
 fac.br.	0	IN	NS	razvan.ns.cloudflare.com.
 fac-interlagos.br.	0	IN	NS	ns1.locaweb.com.br.
@@ -1248,10 +1247,10 @@ fati.br.	0	IN	NS	a.auto.dns.br.
 fati.br.	0	IN	NS	b.auto.dns.br.
 fav.br.	0	IN	NS	ns1.fav.br.
 fav.br.	0	IN	NS	ns2.fav.br.
+fav.br.	0	IN	NS	jupiter.fav.br.
+fav.br.	0	IN	NS	proxycps.fav.br.
 faveducanet.br.	0	IN	NS	ns1.faveducanet.br.
 faveducanet.br.	0	IN	NS	ns2.faveducanet.br.
-faveducanet.br.	0	IN	NS	jupiter.faveducanet.br.
-faveducanet.br.	0	IN	NS	proxycps.faveducanet.br.
 favi.br.	0	IN	NS	datcenter.supero.edu.br.
 favi.br.	0	IN	NS	datcenter2.supero.edu.br.
 favi.br.	0	IN	NS	datcenter3.supero.edu.br.
@@ -1407,8 +1406,6 @@ fiamfaam.br.	0	IN	NS	elly.ns.cloudflare.com.
 fian.br.	0	IN	NS	ns1.fian.br.
 fian.br.	0	IN	NS	ns2.fian.br.
 fian.br.	0	IN	NS	ns2.vestibulares.br.
-fian.br.	0	IN	NS	jupiter.vestibulares.br.
-fian.br.	0	IN	NS	proxycps.vestibulares.br.
 fiap.br.	0	IN	NS	ns-163.awsdns-20.com.
 fiap.br.	0	IN	NS	ns-904.awsdns-49.net.
 fiap.br.	0	IN	NS	ns-1318.awsdns-36.org.
@@ -1463,8 +1460,6 @@ fm.br.	0	IN	NS	e.dns.br.
 fm.br.	0	IN	NS	f.dns.br.
 fma.br.	0	IN	NS	ns1.fma.br.
 fma.br.	0	IN	NS	ns2.fma.br.
-fma.br.	0	IN	NS	jupiter.fma.br.
-fma.br.	0	IN	NS	proxycps.fma.br.
 fmabc.br.	0	IN	NS	dns1.kinghost.com.br.
 fmabc.br.	0	IN	NS	dns2.kinghost.com.br.
 fmabc.br.	0	IN	NS	dns3.kinghost.com.br.
@@ -1595,8 +1590,10 @@ fundepag.br.	0	IN	NS	eros.corpflex.com.br.
 fundepag.br.	0	IN	NS	gaia.netmicro.com.br.
 fundepag.br.	0	IN	NS	atlas.netmicro.com.br.
 fundepag.br.	0	IN	NS	netuno.corpflex.com.br.
-fundepes.br.	0	IN	NS	ns.fundepes.br.
-fundepes.br.	0	IN	NS	ns2.fundepes.br.
+fundepes.br.	0	IN	NS	ns1.dnsexit.com.
+fundepes.br.	0	IN	NS	ns2.dnsexit.com.
+fundepes.br.	0	IN	NS	ns3.dnsexit.com.
+fundepes.br.	0	IN	NS	ns4.dnsexit.com.
 funec.br.	0	IN	NS	ns01.ultra.pro.br.
 funec.br.	0	IN	NS	ns02.ultra.pro.br.
 funecfisa.br.	0	IN	NS	b.sec.dns.br.
@@ -1739,6 +1736,8 @@ ibc.br.	0	IN	NS	a.auto.dns.br.
 ibc.br.	0	IN	NS	b.auto.dns.br.
 ibero.br.	0	IN	NS	ns1.ibero.br.
 ibero.br.	0	IN	NS	ns2.ibero.br.
+ibero.br.	0	IN	NS	jupiter.ibero.br.
+ibero.br.	0	IN	NS	proxycps.ibero.br.
 ibict.br.	0	IN	NS	ns1.ibict.br.
 ibict.br.	0	IN	NS	ns2.ibict.br.
 ibirapuera.br.	0	IN	NS	brad.ns.cloudflare.com.
@@ -1835,6 +1834,7 @@ infopol.br.	0	IN	NS	a.auto.dns.br.
 infopol.br.	0	IN	NS	b.auto.dns.br.
 infovest.br.	0	IN	NS	ns1.infovest.br.
 infovest.br.	0	IN	NS	ns2.infovest.br.
+inpe.br.	0	IN	NS	ns1.unicamp.br.
 inpe.br.	0	IN	NS	anace.gsr.inpe.br.
 inpe.br.	0	IN	NS	caruru.dmz.inpe.br.
 inpe.br.	0	IN	NS	srv-dnscpa.inpe.br.
@@ -2167,8 +2167,6 @@ netschool.br.	0	IN	NS	ns-1520.awsdns-62.org.
 netschool.br.	0	IN	NS	ns-1724.awsdns-23.co.uk.
 netuniban.br.	0	IN	NS	ns1.netuniban.br.
 netuniban.br.	0	IN	NS	ns2.netuniban.br.
-netuniban.br.	0	IN	NS	jupiter.apa.br.
-netuniban.br.	0	IN	NS	proxycps.apa.br.
 newtonpaiva.br.	0	IN	NS	ns1.digitalocean.com.
 newtonpaiva.br.	0	IN	NS	ns2.digitalocean.com.
 newtonpaiva.br.	0	IN	NS	ns3.digitalocean.com.
@@ -2377,8 +2375,6 @@ puccamp.br.	0	IN	NS	ns2.puc-campinas.edu.br.
 pucmg.br.	0	IN	NS	ns.pucmg.br.
 pucmg.br.	0	IN	NS	ns.pucminas.br.
 pucmg.br.	0	IN	NS	ns1.pucmg.br.
-pucminas.br.	0	IN	NS	ns.pucminas.br.
-pucminas.br.	0	IN	NS	server02.pucminas.br.
 pucpcaldas.br.	0	IN	NS	ns.pucpcaldas.br.
 pucpr.br.	0	IN	NS	guss.ns.cloudflare.com.
 pucpr.br.	0	IN	NS	alice.ns.cloudflare.com.
@@ -3008,7 +3004,8 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	srvdns.
+ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
 umar.br.	0	IN	NS	ns1.unicesumar.edu.br.
 umar.br.	0	IN	NS	ns2.unicesumar.edu.br.
 umc.br.	0	IN	NS	infra021.umc.br.
@@ -3088,17 +3085,21 @@ uniban.br.	0	IN	NS	ns1.uniban.br.
 uniban.br.	0	IN	NS	ns2.uniban.br.
 uniban-tv.br.	0	IN	NS	ns1.uniban-tv.br.
 uniban-tv.br.	0	IN	NS	ns2.uniban-tv.br.
+uniban-tv.br.	0	IN	NS	jupiter.uniban-tv.br.
+uniban-tv.br.	0	IN	NS	proxycps.uniban-tv.br.
 unibanlab.br.	0	IN	NS	ns1.unibanlab.br.
 unibanlab.br.	0	IN	NS	ns2.unibanlab.br.
+unibanlab.br.	0	IN	NS	jupiter.unibanlab.br.
+unibanlab.br.	0	IN	NS	proxycps.unibanlab.br.
 unibannet.br.	0	IN	NS	ns1.unibannet.br.
 unibannet.br.	0	IN	NS	ns2.unibannet.br.
-unibannet.br.	0	IN	NS	jupiter.unibannet.br.
-unibannet.br.	0	IN	NS	proxycps.unibannet.br.
 unibem.br.	0	IN	NS	ns1.locaweb.com.br.
 unibem.br.	0	IN	NS	ns2.locaweb.com.br.
 unibem.br.	0	IN	NS	ns3.locaweb.com.br.
 unibero.br.	0	IN	NS	ns1.unibero.br.
 unibero.br.	0	IN	NS	ns2.unibero.br.
+unibero.br.	0	IN	NS	jupiter.unibero.br.
+unibero.br.	0	IN	NS	proxycps.unibero.br.
 unibh.br.	0	IN	NS	ns-73.awsdns-09.com.
 unibh.br.	0	IN	NS	ns-784.awsdns-34.net.
 unibh.br.	0	IN	NS	ns-1097.awsdns-09.org.
@@ -3270,6 +3271,8 @@ unipaiva.br.	0	IN	NS	b.sec.dns.br.
 unipaiva.br.	0	IN	NS	c.sec.dns.br.
 unipan.br.	0	IN	NS	ns1.unipan.br.
 unipan.br.	0	IN	NS	ns2.unipan.br.
+unipan.br.	0	IN	NS	jupiter.unipan.br.
+unipan.br.	0	IN	NS	proxycps.unipan.br.
 unipar.br.	0	IN	NS	ns3.unipar.br.
 unipar.br.	0	IN	NS	gwumu.unipar.br.
 unipar.br.	0	IN	NS	webserver.unipar.br.
@@ -3458,6 +3461,8 @@ vip.br.	0	IN	NS	a.sec.dns.br.
 vip.br.	0	IN	NS	c.sec.dns.br.
 virtualcollege.br.	0	IN	NS	ns1.virtualcollege.br.
 virtualcollege.br.	0	IN	NS	ns2.virtualcollege.br.
+virtualcollege.br.	0	IN	NS	jupiter.virtualcollege.br.
+virtualcollege.br.	0	IN	NS	proxycps.virtualcollege.br.
 virtualfav.br.	0	IN	NS	ns1.virtualfav.br.
 virtualfav.br.	0	IN	NS	ns2.virtualfav.br.
 virtualfav.br.	0	IN	NS	jupiter.virtualfav.br.
