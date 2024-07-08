@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024070802 1 1 252d6b0f90ebd966446958f3689cc7351fd870b79c08c52429c9980181fb303ba71e90799dbfd6307b5449ad0923c43d
+.	0	IN	ZONEMD	2024070803 1 1 d9e379ee073f6744e1324851b961f9573fb8e05a66fc6eb7953d4607047e500ee0ad2416b61e00af9012cfe0896699df
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -39,6 +39,7 @@ aarp.	0	IN	NS	ac2.nstld.com.
 aarp.	0	IN	NS	ac3.nstld.com.
 aarp.	0	IN	NS	ac4.nstld.com.
 aarp.	0	IN	DS	5751 8 2 7e8a14ab8f85009b9f19859815fa695954233fd9daa6ab359044d12621a77e9f
+aarp.	0	IN	DS	26254 8 2 bff5bd7c3f7a468cdcc7caf66e978a5d9b5211f39241039a5218b82aa62fb6c6
 abb.	0	IN	NS	a0.nic.abb.
 abb.	0	IN	NS	a2.nic.abb.
 abb.	0	IN	NS	b0.nic.abb.
@@ -634,6 +635,7 @@ americanfamily.	0	IN	NS	ac1.nstld.com.
 americanfamily.	0	IN	NS	ac2.nstld.com.
 americanfamily.	0	IN	NS	ac3.nstld.com.
 americanfamily.	0	IN	NS	ac4.nstld.com.
+americanfamily.	0	IN	DS	16975 8 2 50d98dc6d7a2bc4ce8121a409ef96e22ea6ff8b0334f0629151093ac247bd80f
 americanfamily.	0	IN	DS	61398 8 2 f6890de22c9b4261c9fcfac53fe0849faa9b573ee95e027e070aba270cd966af
 amex.	0	IN	NS	a.nic.amex.
 amex.	0	IN	NS	b.nic.amex.
@@ -659,6 +661,7 @@ amfam.	0	IN	NS	ac2.nstld.com.
 amfam.	0	IN	NS	ac3.nstld.com.
 amfam.	0	IN	NS	ac4.nstld.com.
 amfam.	0	IN	DS	4101 8 2 d2c0246802aa5b615cfc8b700a5245adfca49477b37f870499a44ab272989a7d
+amfam.	0	IN	DS	56680 8 2 18afbe180bf3ddde328e5f7e0d2bb7869db47ab073a3d4f29a7be3e65bdca003
 amica.	0	IN	NS	a.nic.amica.
 amica.	0	IN	NS	b.nic.amica.
 amica.	0	IN	NS	c.nic.amica.
@@ -5827,14 +5830,14 @@ v2n0.nic.fail.	0	IN	A	65.22.23.56
 v2n0.nic.fail.	0	IN	AAAA	2a01:8840:19::56
 v2n1.nic.fail.	0	IN	A	161.232.11.56
 v2n1.nic.fail.	0	IN	AAAA	2a01:8840:f5::56
-fairwinds.	0	IN	NS	nsa.nominetdns.uk.
-fairwinds.	0	IN	NS	nsb.nominetdns.uk.
-fairwinds.	0	IN	NS	nsc.nominetdns.uk.
-fairwinds.	0	IN	NS	nsd.nominetdns.uk.
 fairwinds.	0	IN	NS	dns1.nic.fairwinds.
 fairwinds.	0	IN	NS	dns2.nic.fairwinds.
 fairwinds.	0	IN	NS	dns3.nic.fairwinds.
 fairwinds.	0	IN	NS	dns4.nic.fairwinds.
+fairwinds.	0	IN	NS	dnsa.nic.fairwinds.
+fairwinds.	0	IN	NS	dnsb.nic.fairwinds.
+fairwinds.	0	IN	NS	dnsc.nic.fairwinds.
+fairwinds.	0	IN	NS	dnsd.nic.fairwinds.
 fairwinds.	0	IN	DS	48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 dns1.nic.fairwinds.	0	IN	A	213.248.219.135
 dns1.nic.fairwinds.	0	IN	AAAA	2a01:618:403::135
@@ -5844,6 +5847,14 @@ dns3.nic.fairwinds.	0	IN	A	213.248.223.135
 dns3.nic.fairwinds.	0	IN	AAAA	2a01:618:407::135
 dns4.nic.fairwinds.	0	IN	A	43.230.51.135
 dns4.nic.fairwinds.	0	IN	AAAA	2401:fd80:407::135
+dnsa.nic.fairwinds.	0	IN	A	156.154.100.3
+dnsa.nic.fairwinds.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.fairwinds.	0	IN	A	156.154.101.3
+dnsb.nic.fairwinds.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nic.fairwinds.	0	IN	A	156.154.102.3
+dnsc.nic.fairwinds.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.fairwinds.	0	IN	A	156.154.103.3
+dnsd.nic.fairwinds.	0	IN	AAAA	2610:a1:1010::3
 faith.	0	IN	NS	a.nic.faith.
 faith.	0	IN	NS	b.nic.faith.
 faith.	0	IN	NS	c.nic.faith.
@@ -17739,14 +17750,6 @@ dns3.nominetdns.uk.	0	IN	A	213.248.223.254
 dns3.nominetdns.uk.	0	IN	AAAA	2a01:618:407::254
 dns4.nominetdns.uk.	0	IN	A	43.230.51.254
 dns4.nominetdns.uk.	0	IN	AAAA	2401:fd80:407::254
-nsa.nominetdns.uk.	0	IN	A	156.154.100.3
-nsa.nominetdns.uk.	0	IN	AAAA	2001:502:ad09::3
-nsb.nominetdns.uk.	0	IN	A	156.154.101.3
-nsb.nominetdns.uk.	0	IN	AAAA	2001:502:2eda::3
-nsc.nominetdns.uk.	0	IN	A	156.154.102.3
-nsc.nominetdns.uk.	0	IN	AAAA	2610:a1:1009::3
-nsd.nominetdns.uk.	0	IN	A	156.154.103.3
-nsd.nominetdns.uk.	0	IN	AAAA	2610:a1:1010::3
 unicom.	0	IN	NS	a.zdnscloud.com.
 unicom.	0	IN	NS	b.zdnscloud.com.
 unicom.	0	IN	NS	c.zdnscloud.com.
