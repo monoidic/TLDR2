@@ -108,8 +108,6 @@
 28.ax.	0	IN	NS	dns44.cloudns.net.
 29.ax.	0	IN	NS	ns6.netsto.net.
 29.ax.	0	IN	NS	ns7.netsto.net.
-2d.ax.	0	IN	NS	ns1.istanco.com.
-2d.ax.	0	IN	NS	ns2.istanco.com.
 2f.ax.	0	IN	NS	ns1.desec.io.
 2f.ax.	0	IN	NS	ns2.desec.org.
 2h.ax.	0	IN	NS	ns1.istanco.com.
@@ -564,6 +562,8 @@ alandgallup.ax.	0	IN	NS	june.ns.cloudflare.com.
 alandgallup.ax.	0	IN	NS	sean.ns.cloudflare.com.
 alandglimrar.ax.	0	IN	NS	ns1.iwebben.fi.
 alandglimrar.ax.	0	IN	NS	ns2.iwebben.fi.
+alandgronskar.ax.	0	IN	NS	ns1.rs-webhotels.net.
+alandgronskar.ax.	0	IN	NS	ns2.rs-webhotels.net.
 alandguide.ax.	0	IN	NS	ns1.consilia.fi.
 alandguide.ax.	0	IN	NS	ns2.consilia.fi.
 alandhotels.ax.	0	IN	NS	ns1.justit.ax.
@@ -789,6 +789,10 @@ alanta.ax.	0	IN	NS	ns1.aland.net.
 alanta.ax.	0	IN	NS	ns2.aland.net.
 alanta.ax.	0	IN	NS	ns3.alcom.fi.
 alanta.ax.	0	IN	NS	ns4.alcom.fi.
+alarm.ax.	0	IN	NS	ns.regeringen.ax.
+alarm.ax.	0	IN	NS	ns2.aland.net.
+alarm.ax.	0	IN	NS	ns2.regeringen.ax.
+alarm.ax.	0	IN	NS	ns3.alcom.fi.
 alarmcentralen.ax.	0	IN	NS	ns.regeringen.ax.
 alarmcentralen.ax.	0	IN	NS	ns2.aland.net.
 alarmcentralen.ax.	0	IN	NS	ns2.regeringen.ax.
@@ -1446,9 +1450,6 @@ backman.ax.	0	IN	NS	ns3.alcom.fi.
 backmansoptik.ax.	0	IN	NS	ns1.aland.net.
 backmansoptik.ax.	0	IN	NS	ns2.aland.net.
 backmansoptik.ax.	0	IN	NS	ns3.alcom.fi.
-bad.ax.	0	IN	NS	ns1.dreamhost.com.
-bad.ax.	0	IN	NS	ns2.dreamhost.com.
-bad.ax.	0	IN	NS	ns3.dreamhost.com.
 badminton.ax.	0	IN	NS	ns1.fsi.fi.
 badminton.ax.	0	IN	NS	ns2.fsi.fi.
 badminton.ax.	0	IN	NS	ns3.fsi.fi.
@@ -1868,6 +1869,12 @@ bokhandeln.ax.	0	IN	NS	ns2.aland.net.
 bokhandeln.ax.	0	IN	NS	ns3.alcom.fi.
 bokhandlargrand.ax.	0	IN	NS	june.ns.cloudflare.com.
 bokhandlargrand.ax.	0	IN	NS	sean.ns.cloudflare.com.
+bokhuset.ax.	0	IN	NS	ns1.inleed.net.
+bokhuset.ax.	0	IN	NS	ns2.inleed.net.
+bokhuset.ax.	0	IN	NS	ns3.inleed.net.
+bokhuset.ax.	0	IN	NS	ns4.inleed.net.
+bokhuset.ax.	0	IN	NS	ns5.inleed.net.
+bokhuset.ax.	0	IN	NS	ns6.inleed.net.
 bokuniversum.ax.	0	IN	NS	ns1.aland.net.
 bokuniversum.ax.	0	IN	NS	ns2.aland.net.
 bokuniversum.ax.	0	IN	NS	ns3.alcom.fi.
@@ -2552,6 +2559,8 @@ csh.ax.	0	IN	NS	ns2.dreamhost.com.
 csh.ax.	0	IN	NS	ns3.dreamhost.com.
 ct.ax.	0	IN	NS	ns1.dan.com.
 ct.ax.	0	IN	NS	ns2.dan.com.
+curling.ax.	0	IN	NS	ns1.consilia.fi.
+curling.ax.	0	IN	NS	ns2.consilia.fi.
 cut.ax.	0	IN	NS	ns10.wixdns.net.
 cut.ax.	0	IN	NS	ns11.wixdns.net.
 cv.ax.	0	IN	NS	ns1.netim.net.
@@ -3895,8 +3904,8 @@ fv.ax.	0	IN	NS	ns2.regeringen.ax.
 fv.ax.	0	IN	NS	ns3.alcom.fi.
 fw.ax.	0	IN	NS	amy.ns.cloudflare.com.
 fw.ax.	0	IN	NS	eric.ns.cloudflare.com.
-fx.ax.	0	IN	NS	ns1.dan.hosting.
-fx.ax.	0	IN	NS	ns2.dan.hosting.
+fx.ax.	0	IN	NS	ns1.dan.com.
+fx.ax.	0	IN	NS	ns2.dan.com.
 fxcm.ax.	0	IN	NS	dns1.idp365.net.
 fxcm.ax.	0	IN	NS	dns2.idp365.net.
 fxcm.ax.	0	IN	NS	dns3.idp365.net.
@@ -5315,6 +5324,9 @@ julius.ax.	0	IN	NS	ns2.aland.net.
 julius.ax.	0	IN	NS	ns3.alcom.fi.
 jun.ax.	0	IN	NS	ns0.junix.systems.
 jun.ax.	0	IN	NS	ns1.junix.systems.
+jung.ax.	0	IN	NS	ns.hostpoint.ch.
+jung.ax.	0	IN	NS	ns2.hostpoint.ch.
+jung.ax.	0	IN	NS	ns3.hostpoint.ch.
 junkhunter.ax.	0	IN	NS	ns1.aland.net.
 junkhunter.ax.	0	IN	NS	ns2.aland.net.
 junkhunter.ax.	0	IN	NS	ns3.alcom.fi.
@@ -6530,10 +6542,6 @@ mastodon.ax.	0	IN	NS	ian.ns.cloudflare.com.
 mastodon.ax.	0	IN	NS	hope.ns.cloudflare.com.
 mat.ax.	0	IN	NS	ns1.bluehost.com.
 mat.ax.	0	IN	NS	ns2.bluehost.com.
-matd.ax.	0	IN	NS	ns1.ilait.se.
-matd.ax.	0	IN	NS	ns2.ilait.se.
-matd.ax.	0	IN	NS	ns3.ilait.se.
-matd.ax.	0	IN	NS	ns4.ilait.se.
 matexpressen.ax.	0	IN	NS	ns1.euronic.fi.
 matexpressen.ax.	0	IN	NS	ns2.euronic.fi.
 matexpressen.ax.	0	IN	NS	ns3.euronic.fi.
@@ -6545,8 +6553,6 @@ mathis.ax.	0	IN	NS	ns1.consilia.fi.
 mathis.ax.	0	IN	NS	ns2.consilia.fi.
 mathishallen.ax.	0	IN	NS	ns1.consilia.fi.
 mathishallen.ax.	0	IN	NS	ns2.consilia.fi.
-mathispunkten.ax.	0	IN	NS	ns1.consilia.fi.
-mathispunkten.ax.	0	IN	NS	ns2.consilia.fi.
 matrix.ax.	0	IN	NS	drake.ns.cloudflare.com.
 matrix.ax.	0	IN	NS	maxine.ns.cloudflare.com.
 mats.ax.	0	IN	NS	park1.euronic.fi.
@@ -6571,12 +6577,6 @@ maxinge.ax.	0	IN	NS	ns2.consilia.fi.
 maxm.ax.	0	IN	NS	ns1.netim.net.
 maxm.ax.	0	IN	NS	ns2.netim.net.
 maxm.ax.	0	IN	NS	ns3.netim.net.
-maya-h.ax.	0	IN	NS	ns1.as207960.net.
-maya-h.ax.	0	IN	NS	ns1.messagingengine.com.
-maya-h.ax.	0	IN	NS	ns2.as207960.net.
-maya-h.ax.	0	IN	NS	ns2.messagingengine.com.
-maya-h.ax.	0	IN	NS	ns3.as207960.net.
-maya-h.ax.	0	IN	NS	ns4.as207960.net.
 mayer.ax.	0	IN	NS	arushi.ns.cloudflare.com.
 mayer.ax.	0	IN	NS	gerald.ns.cloudflare.com.
 mayoral.ax.	0	IN	NS	dns1.mayoral.com.
@@ -7665,6 +7665,12 @@ or.ax.	0	IN	NS	ns1.dan.com.
 or.ax.	0	IN	NS	ns2.dan.com.
 orcas.ax.	0	IN	NS	ns1.iwebben.fi.
 orcas.ax.	0	IN	NS	ns2.iwebben.fi.
+ordet.ax.	0	IN	NS	ns1.inleed.net.
+ordet.ax.	0	IN	NS	ns2.inleed.net.
+ordet.ax.	0	IN	NS	ns3.inleed.net.
+ordet.ax.	0	IN	NS	ns4.inleed.net.
+ordet.ax.	0	IN	NS	ns5.inleed.net.
+ordet.ax.	0	IN	NS	ns6.inleed.net.
 org.ax.	0	IN	NS	ns1.dns-parking.com.
 org.ax.	0	IN	NS	ns2.dns-parking.com.
 orientering.ax.	0	IN	NS	ns1.fsi.fi.
@@ -8279,8 +8285,8 @@ qp.ax.	0	IN	NS	ns5.pool2.omc-dns.com.
 qp.ax.	0	IN	NS	ns6.pool2.omc-dns.com.
 qpon.ax.	0	IN	NS	jen.ns.cloudflare.com.
 qpon.ax.	0	IN	NS	ernest.ns.cloudflare.com.
-qq.ax.	0	IN	NS	ns1.dan.com.
-qq.ax.	0	IN	NS	ns2.dan.com.
+qq.ax.	0	IN	NS	ns1.dan.hosting.
+qq.ax.	0	IN	NS	ns2.dan.hosting.
 qr.ax.	0	IN	NS	aldo.ns.cloudflare.com.
 qr.ax.	0	IN	NS	kara.ns.cloudflare.com.
 qt.ax.	0	IN	NS	gail.ns.cloudflare.com.
@@ -9238,6 +9244,8 @@ sms.ax.	0	IN	NS	ns2.loopia.se.
 sn.ax.	0	IN	NS	ns1.netim.net.
 sn.ax.	0	IN	NS	ns2.netim.net.
 sn.ax.	0	IN	NS	ns3.netim.net.
+snackofrukt.ax.	0	IN	NS	ns1.iwebben.fi.
+snackofrukt.ax.	0	IN	NS	ns2.iwebben.fi.
 snaps.ax.	0	IN	NS	ns1.simply.com.
 snaps.ax.	0	IN	NS	ns2.simply.com.
 snaps.ax.	0	IN	NS	ns3.simply.com.
@@ -9353,8 +9361,6 @@ son.ax.	0	IN	NS	ns6.pool2.omc-dns.com.
 sos-service.ax.	0	IN	NS	ns1.aland.net.
 sos-service.ax.	0	IN	NS	ns2.aland.net.
 sos-service.ax.	0	IN	NS	ns3.alcom.fi.
-sotare.ax.	0	IN	NS	ns1.consilia.fi.
-sotare.ax.	0	IN	NS	ns2.consilia.fi.
 sottunga.ax.	0	IN	NS	ns1.aland.net.
 sottunga.ax.	0	IN	NS	ns2.aland.net.
 sottunga.ax.	0	IN	NS	ns3.alcom.fi.
@@ -10428,6 +10434,9 @@ urb.ax.	0	IN	NS	ns3.creatium.io.
 urb.ax.	0	IN	NS	ns4.creatium.io.
 url.ax.	0	IN	NS	ns1.istanco.com.
 url.ax.	0	IN	NS	ns2.istanco.com.
+us.ax.	0	IN	NS	ns1.regery.net.
+us.ax.	0	IN	NS	ns2.regery.net.
+us.ax.	0	IN	NS	ns3.regery.net.
 usa.ax.	0	IN	NS	ns1.sedoparking.com.
 usa.ax.	0	IN	NS	ns2.sedoparking.com.
 ut.ax.	0	IN	NS	ns1.dan.com.
@@ -10975,6 +10984,9 @@ wireless.ax.	0	IN	NS	ns1045.ui-dns.de.
 wireless.ax.	0	IN	NS	ns1045.ui-dns.biz.
 wireless.ax.	0	IN	NS	ns1045.ui-dns.com.
 wireless.ax.	0	IN	NS	ns1045.ui-dns.org.
+wiren.ax.	0	IN	NS	ns1.wiren.ax.
+wiren.ax.	0	IN	NS	ns2.wiren.ax.
+wiren.ax.	0	IN	NS	ns3.wiren.ax.
 with.ax.	0	IN	NS	meg.ns.cloudflare.com.
 with.ax.	0	IN	NS	kirk.ns.cloudflare.com.
 witw.ax.	0	IN	NS	ns.tidningsstallet.se.
