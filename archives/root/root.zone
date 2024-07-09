@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZBALoOFImwcJJg9Iu7Vy7ZyLjhtXfvO1c9k4vHjOpf9i7U1kKtrBvhnwsOni1sb50gkUayRtMDTUQqvljMMf4bpkyEtcE5evCzhHbFLq1coL5QOix3mfJm++FvIMaAt52nOvAdqR/luuI11bA1AmSCIJKAUx147DcfOHYKg3as+dznn3Iah4cWBMVzDe7PPsFS1AO6gU8EpmiRJ9VMNA09fOyDuq9+d6sw8UUnJRMAFAuPLhUFjUAOuWOw74BC9lOtMQpbLMz8pX0CDKdOXDHjyj61nxSSWxPdUjeoxI17lQTpSPRtqRHFn5Fgj2e+9BVwhhWGDQN8kUVSJHZtQiI0= ;{id = 5613 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024070901 1 1 afcedd59ca19ac5e8bac628bfb087213a4e6d8a6fa13363eae6e0c6a5fc5c65aba0e91562beaee0742b30ad060bd03a9
+.	0	IN	ZONEMD	2024070902 1 1 2ed9de1f97f9b8f1a17d270224839ef0df5c2eef055af763335d7c016ae63fdaed4128e5f4c793d6eae052769e3c73b8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -15522,19 +15522,6 @@ sharp.	0	IN	NS	b.gmoregistry.net.
 sharp.	0	IN	NS	k.gmoregistry.net.
 sharp.	0	IN	NS	l.gmoregistry.net.
 sharp.	0	IN	DS	3872 8 2 9fbcf0afcb45e677cb42680ff35defd79f8accacaaa47df92cfd08e73a8afcb6
-shaw.	0	IN	NS	a0.nic.shaw.
-shaw.	0	IN	NS	a2.nic.shaw.
-shaw.	0	IN	NS	b0.nic.shaw.
-shaw.	0	IN	NS	c0.nic.shaw.
-shaw.	0	IN	DS	29284 8 2 a5d4cf180ae979a32069cfc69304ad40f0bd7e0b6cfbd0b5611e49d1540edba4
-a0.nic.shaw.	0	IN	A	65.22.88.17
-a0.nic.shaw.	0	IN	AAAA	2a01:8840:56::17
-a2.nic.shaw.	0	IN	A	65.22.91.17
-a2.nic.shaw.	0	IN	AAAA	2a01:8840:59::17
-b0.nic.shaw.	0	IN	A	65.22.89.17
-b0.nic.shaw.	0	IN	AAAA	2a01:8840:57::17
-c0.nic.shaw.	0	IN	A	65.22.90.17
-c0.nic.shaw.	0	IN	AAAA	2a01:8840:58::17
 shell.	0	IN	NS	ac1.nstld.com.
 shell.	0	IN	NS	ac2.nstld.com.
 shell.	0	IN	NS	ac3.nstld.com.
