@@ -135,6 +135,8 @@ antispam.br.	0	IN	NS	d.dns.br.
 antispam.br.	0	IN	NS	e.dns.br.
 apa.br.	0	IN	NS	ns1.apa.br.
 apa.br.	0	IN	NS	ns2.apa.br.
+apa.br.	0	IN	NS	jupiter.apa.br.
+apa.br.	0	IN	NS	proxycps.apa.br.
 aparecida.br.	0	IN	NS	a.dns.br.
 aparecida.br.	0	IN	NS	b.dns.br.
 aparecida.br.	0	IN	NS	c.dns.br.
@@ -153,6 +155,8 @@ app.br.	0	IN	NS	e.dns.br.
 app.br.	0	IN	NS	f.dns.br.
 aprendizagemvirtual.br.	0	IN	NS	ns1.aprendizagemvirtual.br.
 aprendizagemvirtual.br.	0	IN	NS	ns2.aprendizagemvirtual.br.
+aprendizagemvirtual.br.	0	IN	NS	jupiter.aprendizagemvirtual.br.
+aprendizagemvirtual.br.	0	IN	NS	proxycps.aprendizagemvirtual.br.
 aquacultura.br.	0	IN	NS	b.sec.dns.br.
 aquacultura.br.	0	IN	NS	c.sec.dns.br.
 arauc.br.	0	IN	NS	ns.arauc.br.
@@ -329,8 +333,6 @@ cairu.br.	0	IN	NS	ns3.compos.com.br.
 cairu.br.	0	IN	NS	ns4.compos.com.br.
 cajuniban.br.	0	IN	NS	ns1.cajuniban.br.
 cajuniban.br.	0	IN	NS	ns2.cajuniban.br.
-cajuniban.br.	0	IN	NS	jupiter.cajuniban.br.
-cajuniban.br.	0	IN	NS	proxycps.cajuniban.br.
 cambury.br.	0	IN	NS	ns4.wixdns.net.
 cambury.br.	0	IN	NS	ns5.wixdns.net.
 campinagrande.br.	0	IN	NS	a.dns.br.
@@ -600,6 +602,9 @@ cnec.br.	0	IN	NS	ns-205.awsdns-25.com.
 cnec.br.	0	IN	NS	ns-925.awsdns-51.net.
 cnec.br.	0	IN	NS	ns-1453.awsdns-53.org.
 cnec.br.	0	IN	NS	ns-2030.awsdns-61.co.uk.
+cneccapivari.br.	0	IN	NS	ns1.dominios.uol.com.br.
+cneccapivari.br.	0	IN	NS	ns2.dominios.uol.com.br.
+cneccapivari.br.	0	IN	NS	ns3.dominios.uol.com.br.
 cng.br.	0	IN	NS	a.dns.br.
 cng.br.	0	IN	NS	b.dns.br.
 cng.br.	0	IN	NS	c.dns.br.
@@ -927,7 +932,6 @@ etc.br.	0	IN	NS	e.dns.br.
 etc.br.	0	IN	NS	f.dns.br.
 etfes.br.	0	IN	NS	ns.etfes.br.
 etfes.br.	0	IN	NS	ns2.etfes.br.
-etfgo.br.	0	IN	NS	ns1.etfgo.br.
 etfgo.br.	0	IN	NS	apolo.etfgo.br.
 etfgo.br.	0	IN	NS	gandalf.etfgo.br.
 etfpa.br.	0	IN	NS	ns0.etfpa.br.
@@ -942,8 +946,6 @@ eti.br.	0	IN	NS	e.dns.br.
 eti.br.	0	IN	NS	f.dns.br.
 euniban.br.	0	IN	NS	ns1.euniban.br.
 euniban.br.	0	IN	NS	ns2.euniban.br.
-euniban.br.	0	IN	NS	jupiter.euniban.br.
-euniban.br.	0	IN	NS	proxycps.euniban.br.
 exponencial.br.	0	IN	NS	ns-32.awsdns-04.com.
 exponencial.br.	0	IN	NS	ns-754.awsdns-30.net.
 exponencial.br.	0	IN	NS	ns-1318.awsdns-36.org.
@@ -1233,9 +1235,6 @@ faspmail.br.	0	IN	NS	ns3.zoneedit.com.
 faspmail.br.	0	IN	NS	ns9.zoneedit.com.
 fast.br.	0	IN	NS	ns1.fast.br.
 fast.br.	0	IN	NS	ns2.fast.br.
-fast.br.	0	IN	NS	jupiter.fast.br.
-fast.br.	0	IN	NS	proxysp.fast.br.
-fast.br.	0	IN	NS	proxycps.fast.br.
 fatea.br.	0	IN	NS	ns1.locaweb.com.br.
 fatea.br.	0	IN	NS	ns2.locaweb.com.br.
 fatea.br.	0	IN	NS	ns3.locaweb.com.br.
@@ -1255,6 +1254,8 @@ fati.br.	0	IN	NS	a.auto.dns.br.
 fati.br.	0	IN	NS	b.auto.dns.br.
 fav.br.	0	IN	NS	ns1.fav.br.
 fav.br.	0	IN	NS	ns2.fav.br.
+fav.br.	0	IN	NS	jupiter.fav.br.
+fav.br.	0	IN	NS	proxycps.fav.br.
 faveducanet.br.	0	IN	NS	ns1.faveducanet.br.
 faveducanet.br.	0	IN	NS	ns2.faveducanet.br.
 faveducanet.br.	0	IN	NS	jupiter.faveducanet.br.
@@ -1981,10 +1982,9 @@ kennedy.br.	0	IN	NS	indie.ns.cloudflare.com.
 kennedy.br.	0	IN	NS	razvan.ns.cloudflare.com.
 labuniban.br.	0	IN	NS	ns1.labuniban.br.
 labuniban.br.	0	IN	NS	ns2.labuniban.br.
-labuniban.br.	0	IN	NS	jupiter.labuniban.br.
-labuniban.br.	0	IN	NS	proxycps.labuniban.br.
-laosp.br.	0	IN	NS	gaivota.birdsnet.com.br.
-laosp.br.	0	IN	NS	pelicano.birdsnet.com.br.
+laosp.br.	0	IN	NS	ns1.locaweb.com.br.
+laosp.br.	0	IN	NS	ns2.locaweb.com.br.
+laosp.br.	0	IN	NS	ns3.locaweb.com.br.
 lavras.br.	0	IN	NS	ara.ns.cloudflare.com.
 lavras.br.	0	IN	NS	norman.ns.cloudflare.com.
 led.br.	0	IN	NS	ns.lec.ufsc.br.
@@ -2320,8 +2320,6 @@ poli.br.	0	IN	NS	ns1.poli.br.
 poli.br.	0	IN	NS	slave.poli.br.
 politecnica.br.	0	IN	NS	ns1.politecnica.br.
 politecnica.br.	0	IN	NS	ns2.politecnica.br.
-politecnica.br.	0	IN	NS	jupiter.politecnica.br.
-politecnica.br.	0	IN	NS	proxycps.politecnica.br.
 pontobr.br.	0	IN	NS	ns1.unicesumar.edu.br.
 pontobr.br.	0	IN	NS	ns2.unicesumar.edu.br.
 portal.br.	0	IN	NS	a.dns.usp.br.
@@ -2353,6 +2351,7 @@ producao.br.	0	IN	NS	d.sec.dns.br.
 producao.br.	0	IN	NS	f.sec.dns.br.
 projecao.br.	0	IN	NS	jim.ns.cloudflare.com.
 projecao.br.	0	IN	NS	connie.ns.cloudflare.com.
+prossiga.br.	0	IN	NS	ns1.ibict.br.
 psc.br.	0	IN	NS	a.dns.br.
 psc.br.	0	IN	NS	b.dns.br.
 psc.br.	0	IN	NS	c.dns.br.
@@ -2798,8 +2797,6 @@ toledo.br.	0	IN	NS	ns-1079.awsdns-06.org.
 toledo.br.	0	IN	NS	ns-1785.awsdns-31.co.uk.
 torricelli.br.	0	IN	NS	ns1.torricelli.br.
 torricelli.br.	0	IN	NS	ns2.torricelli.br.
-torricelli.br.	0	IN	NS	jupiter.torricelli.br.
-torricelli.br.	0	IN	NS	proxycps.torricelli.br.
 trd.br.	0	IN	NS	a.dns.br.
 trd.br.	0	IN	NS	b.dns.br.
 trd.br.	0	IN	NS	c.dns.br.
@@ -3020,8 +3017,7 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
-ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	srvdns.
 umar.br.	0	IN	NS	ns1.unicesumar.edu.br.
 umar.br.	0	IN	NS	ns2.unicesumar.edu.br.
 umc.br.	0	IN	NS	infra021.umc.br.
@@ -3081,9 +3077,6 @@ ung.br.	0	IN	NS	dns2.ung.br.
 ung.br.	0	IN	NS	dns3.ung.br.
 unia.br.	0	IN	NS	ns1.unia.br.
 unia.br.	0	IN	NS	ns2.unia.br.
-unia.br.	0	IN	NS	jupiter.unia.br.
-unia.br.	0	IN	NS	proxysp.unia.br.
-unia.br.	0	IN	NS	proxycps.unia.br.
 uniabc.br.	0	IN	NS	ns1.locaweb.com.br.
 uniabc.br.	0	IN	NS	ns2.locaweb.com.br.
 uniabc.br.	0	IN	NS	ns3.locaweb.com.br.
@@ -3101,8 +3094,6 @@ uniban.br.	0	IN	NS	ns1.uniban.br.
 uniban.br.	0	IN	NS	ns2.uniban.br.
 uniban-tv.br.	0	IN	NS	ns1.uniban-tv.br.
 uniban-tv.br.	0	IN	NS	ns2.uniban-tv.br.
-uniban-tv.br.	0	IN	NS	jupiter.uniban-tv.br.
-uniban-tv.br.	0	IN	NS	proxycps.uniban-tv.br.
 unibanlab.br.	0	IN	NS	ns1.unibanlab.br.
 unibanlab.br.	0	IN	NS	ns2.unibanlab.br.
 unibannet.br.	0	IN	NS	ns1.unibannet.br.
@@ -3477,8 +3468,6 @@ vip.br.	0	IN	NS	a.sec.dns.br.
 vip.br.	0	IN	NS	c.sec.dns.br.
 virtualcollege.br.	0	IN	NS	ns1.virtualcollege.br.
 virtualcollege.br.	0	IN	NS	ns2.virtualcollege.br.
-virtualcollege.br.	0	IN	NS	jupiter.virtualcollege.br.
-virtualcollege.br.	0	IN	NS	proxycps.virtualcollege.br.
 virtualfav.br.	0	IN	NS	ns1.virtualfav.br.
 virtualfav.br.	0	IN	NS	ns2.virtualfav.br.
 vix.br.	0	IN	NS	a.dns.br.
