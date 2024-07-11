@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071101 1 1 c9a6b7199395a967b0783fcb397c7f3e5055731c1a57c5a8510d3310d18b721f5c4adcc89b8000ac891c28dcd511ee46
+.	0	IN	ZONEMD	2024071102 1 1 3bd6c801af5da436b80d54dbaba4ba21fb4ad2367856265806106e687f5821f5f0ea2660fad081fd9961f70f592b7c53
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9990,12 +9990,26 @@ v2n0.nic.legal.	0	IN	A	65.22.23.12
 v2n0.nic.legal.	0	IN	AAAA	2a01:8840:19::12
 v2n1.nic.legal.	0	IN	A	161.232.11.12
 v2n1.nic.legal.	0	IN	AAAA	2a01:8840:f5::12
-lego.	0	IN	NS	ac1.nstld.com.
-lego.	0	IN	NS	ac2.nstld.com.
-lego.	0	IN	NS	ac3.nstld.com.
-lego.	0	IN	NS	ac4.nstld.com.
+lego.	0	IN	NS	v0n0.nic.lego.
+lego.	0	IN	NS	v0n1.nic.lego.
+lego.	0	IN	NS	v0n2.nic.lego.
+lego.	0	IN	NS	v0n3.nic.lego.
+lego.	0	IN	NS	v2n0.nic.lego.
+lego.	0	IN	NS	v2n1.nic.lego.
 lego.	0	IN	DS	5752 8 2 af9076e3b4365d770b2827a4a9f6ea142d12af52887d9ea685e34aa0acdeea40
 lego.	0	IN	DS	28536 8 2 fdcdbd92d8a27f3a19ba30ef37e04ff21188973ee8648975e5b9a77db48478d6
+v0n0.nic.lego.	0	IN	A	65.22.108.14
+v0n0.nic.lego.	0	IN	AAAA	2a01:8840:6a::14
+v0n1.nic.lego.	0	IN	A	65.22.109.14
+v0n1.nic.lego.	0	IN	AAAA	2a01:8840:6b::14
+v0n2.nic.lego.	0	IN	A	65.22.110.14
+v0n2.nic.lego.	0	IN	AAAA	2a01:8840:6c::14
+v0n3.nic.lego.	0	IN	A	161.232.32.14
+v0n3.nic.lego.	0	IN	AAAA	2a01:8840:108::14
+v2n0.nic.lego.	0	IN	A	65.22.111.14
+v2n0.nic.lego.	0	IN	AAAA	2a01:8840:6d::14
+v2n1.nic.lego.	0	IN	A	161.232.33.14
+v2n1.nic.lego.	0	IN	AAAA	2a01:8840:109::14
 lexus.	0	IN	NS	a.gmoregistry.net.
 lexus.	0	IN	NS	b.gmoregistry.net.
 lexus.	0	IN	NS	k.gmoregistry.net.
@@ -12486,8 +12500,6 @@ nowruz.	0	IN	NS	dnsb.emdns.uk.
 nowruz.	0	IN	NS	dnsc.emdns.uk.
 nowruz.	0	IN	NS	dnsd.emdns.uk.
 nowruz.	0	IN	DS	32206 8 2 1abee4364fcad18301f22226a9b13521e809a4abbbdb96d4c9b875ddf50eb03d
-nowruz.	0	IN	DS	34462 8 2 181f18dc171f0a918a8ba05ed8f1c8e00828068d7d1006167c15afe5def4d7d5
-nowruz.	0	IN	DS	50845 8 2 f7691bfc344455bee7376fcf659fcf623ad2fd081900f4fb32db07c7bc6bdf57
 nowtv.	0	IN	NS	a0.nic.nowtv.
 nowtv.	0	IN	NS	a2.nic.nowtv.
 nowtv.	0	IN	NS	b0.nic.nowtv.
@@ -14764,12 +14776,26 @@ ns2.ricta.org.rw.	0	IN	A	196.49.7.186
 ns3.ricta.org.rw.	0	IN	A	41.138.85.98
 pch.ricta.org.rw.	0	IN	A	204.61.216.91
 pch.ricta.org.rw.	0	IN	AAAA	2001:500:14:6091:ad::1
-rwe.	0	IN	NS	ac1.nstld.com.
-rwe.	0	IN	NS	ac2.nstld.com.
-rwe.	0	IN	NS	ac3.nstld.com.
-rwe.	0	IN	NS	ac4.nstld.com.
+rwe.	0	IN	NS	v0n0.nic.rwe.
+rwe.	0	IN	NS	v0n1.nic.rwe.
+rwe.	0	IN	NS	v0n2.nic.rwe.
+rwe.	0	IN	NS	v0n3.nic.rwe.
+rwe.	0	IN	NS	v2n0.nic.rwe.
+rwe.	0	IN	NS	v2n1.nic.rwe.
 rwe.	0	IN	DS	3075 8 2 542f19df30f2c69f686e697cfbafd7da2afa039cb9d6620169895888188ac174
 rwe.	0	IN	DS	23797 8 2 619690e3da5905b5ebf372e40c035832805aa26c0643e0f217556ef62d5d166a
+v0n0.nic.rwe.	0	IN	A	65.22.108.18
+v0n0.nic.rwe.	0	IN	AAAA	2a01:8840:6a::18
+v0n1.nic.rwe.	0	IN	A	65.22.109.18
+v0n1.nic.rwe.	0	IN	AAAA	2a01:8840:6b::18
+v0n2.nic.rwe.	0	IN	A	65.22.110.18
+v0n2.nic.rwe.	0	IN	AAAA	2a01:8840:6c::18
+v0n3.nic.rwe.	0	IN	A	161.232.32.18
+v0n3.nic.rwe.	0	IN	AAAA	2a01:8840:108::18
+v2n0.nic.rwe.	0	IN	A	65.22.111.18
+v2n0.nic.rwe.	0	IN	AAAA	2a01:8840:6d::18
+v2n1.nic.rwe.	0	IN	A	161.232.33.18
+v2n1.nic.rwe.	0	IN	AAAA	2a01:8840:109::18
 ryukyu.	0	IN	NS	a.gmoregistry.net.
 ryukyu.	0	IN	NS	b.gmoregistry.net.
 ryukyu.	0	IN	NS	k.gmoregistry.net.
@@ -15381,12 +15407,26 @@ y.nic.select.	0	IN	A	156.154.173.82
 y.nic.select.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.select.	0	IN	A	156.154.174.82
 z.nic.select.	0	IN	AAAA	2610:a1:1076::1:82
-sener.	0	IN	NS	ac1.nstld.com.
-sener.	0	IN	NS	ac2.nstld.com.
-sener.	0	IN	NS	ac3.nstld.com.
-sener.	0	IN	NS	ac4.nstld.com.
+sener.	0	IN	NS	v0n0.nic.sener.
+sener.	0	IN	NS	v0n1.nic.sener.
+sener.	0	IN	NS	v0n2.nic.sener.
+sener.	0	IN	NS	v0n3.nic.sener.
+sener.	0	IN	NS	v2n0.nic.sener.
+sener.	0	IN	NS	v2n1.nic.sener.
 sener.	0	IN	DS	724 8 2 f499bbdb5e9d28391ef6c0d2de9ea020632e6a2d521eebc7a1ae884d693c95b6
 sener.	0	IN	DS	40020 8 2 f580b1e1f989e14eb37da8cd7201254150e4c28f95ca0d1db7822a78c93eaf17
+v0n0.nic.sener.	0	IN	A	65.22.108.19
+v0n0.nic.sener.	0	IN	AAAA	2a01:8840:6a::19
+v0n1.nic.sener.	0	IN	A	65.22.109.19
+v0n1.nic.sener.	0	IN	AAAA	2a01:8840:6b::19
+v0n2.nic.sener.	0	IN	A	65.22.110.19
+v0n2.nic.sener.	0	IN	AAAA	2a01:8840:6c::19
+v0n3.nic.sener.	0	IN	A	161.232.32.19
+v0n3.nic.sener.	0	IN	AAAA	2a01:8840:108::19
+v2n0.nic.sener.	0	IN	A	65.22.111.19
+v2n0.nic.sener.	0	IN	AAAA	2a01:8840:6d::19
+v2n1.nic.sener.	0	IN	A	161.232.33.19
+v2n1.nic.sener.	0	IN	AAAA	2a01:8840:109::19
 services.	0	IN	NS	v0n0.nic.services.
 services.	0	IN	NS	v0n1.nic.services.
 services.	0	IN	NS	v0n2.nic.services.
@@ -20424,12 +20464,26 @@ c.nic.yachts.	0	IN	A	212.18.248.133
 c.nic.yachts.	0	IN	AAAA	2a04:2b00:13ee::133
 d.nic.yachts.	0	IN	A	212.18.249.133
 d.nic.yachts.	0	IN	AAAA	2a04:2b00:13ff::133
-yahoo.	0	IN	NS	ac1.nstld.com.
-yahoo.	0	IN	NS	ac2.nstld.com.
-yahoo.	0	IN	NS	ac3.nstld.com.
-yahoo.	0	IN	NS	ac4.nstld.com.
+yahoo.	0	IN	NS	v0n0.nic.yahoo.
+yahoo.	0	IN	NS	v0n1.nic.yahoo.
+yahoo.	0	IN	NS	v0n2.nic.yahoo.
+yahoo.	0	IN	NS	v0n3.nic.yahoo.
+yahoo.	0	IN	NS	v2n0.nic.yahoo.
+yahoo.	0	IN	NS	v2n1.nic.yahoo.
 yahoo.	0	IN	DS	52260 8 2 99da5ed59ca94fc8c28c5c7a4a817e7fc0c52688b115dcf743fb914be65ba447
 yahoo.	0	IN	DS	64675 8 2 674c472960577338b3372085bb0a35e23308226578f018401a20914d4c928ad4
+v0n0.nic.yahoo.	0	IN	A	65.22.108.26
+v0n0.nic.yahoo.	0	IN	AAAA	2a01:8840:6a::26
+v0n1.nic.yahoo.	0	IN	A	65.22.109.26
+v0n1.nic.yahoo.	0	IN	AAAA	2a01:8840:6b::26
+v0n2.nic.yahoo.	0	IN	A	65.22.110.26
+v0n2.nic.yahoo.	0	IN	AAAA	2a01:8840:6c::26
+v0n3.nic.yahoo.	0	IN	A	161.232.32.26
+v0n3.nic.yahoo.	0	IN	AAAA	2a01:8840:108::26
+v2n0.nic.yahoo.	0	IN	A	65.22.111.26
+v2n0.nic.yahoo.	0	IN	AAAA	2a01:8840:6d::26
+v2n1.nic.yahoo.	0	IN	A	161.232.33.26
+v2n1.nic.yahoo.	0	IN	AAAA	2a01:8840:109::26
 yamaxun.	0	IN	NS	dns1.nic.yamaxun.
 yamaxun.	0	IN	NS	dns2.nic.yamaxun.
 yamaxun.	0	IN	NS	dns3.nic.yamaxun.
