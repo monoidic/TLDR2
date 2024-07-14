@@ -50,6 +50,8 @@
 12.ax.	0	IN	NS	ns7.netsto.net.
 123.ax.	0	IN	NS	ns1.dan.com.
 123.ax.	0	IN	NS	ns2.dan.com.
+-.-.123.ax.	0	IN	NS	ns1.dan.com.
+-.-.123.ax.	0	IN	NS	ns2.dan.com.
 123domain.ax.	0	IN	NS	ns1-eu.123ns.eu.
 123domain.ax.	0	IN	NS	ns2-eu.123ns.de.
 123domain.ax.	0	IN	NS	ns3-eu.123ns.eu.
@@ -152,6 +154,8 @@
 41.ax.	0	IN	NS	ns7.netsto.net.
 41267.ax.	0	IN	NS	ns6.netsto.net.
 41267.ax.	0	IN	NS	ns7.netsto.net.
+42.ax.	0	IN	NS	terry.ns.cloudflare.com.
+42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 42653.ax.	0	IN	NS	ns6.netsto.net.
 42653.ax.	0	IN	NS	ns7.netsto.net.
 44.ax.	0	IN	NS	ns1.ps.kz.
@@ -1184,10 +1188,6 @@ artif.ax.	0	IN	NS	ns2.101domain.com.
 artif.ax.	0	IN	NS	ns5.101domain.com.
 as.ax.	0	IN	NS	ns1.dan.com.
 as.ax.	0	IN	NS	ns2.dan.com.
-asa.ax.	0	IN	NS	ns.regeringen.ax.
-asa.ax.	0	IN	NS	ns2.aland.net.
-asa.ax.	0	IN	NS	ns2.regeringen.ax.
-asa.ax.	0	IN	NS	ns3.alcom.fi.
 asasafetycenter.ax.	0	IN	NS	rayne.ns.cloudflare.com.
 asasafetycenter.ax.	0	IN	NS	justin.ns.cloudflare.com.
 asasc.ax.	0	IN	NS	rayne.ns.cloudflare.com.
@@ -2505,6 +2505,10 @@ cool.ax.	0	IN	NS	ns2.netim.net.
 cool.ax.	0	IN	NS	ns3.netim.net.
 cor.ax.	0	IN	NS	aria.ns.cloudflare.com.
 cor.ax.	0	IN	NS	nile.ns.cloudflare.com.
+corona.ax.	0	IN	NS	ns.regeringen.ax.
+corona.ax.	0	IN	NS	ns2.aland.net.
+corona.ax.	0	IN	NS	ns2.regeringen.ax.
+corona.ax.	0	IN	NS	ns3.alcom.fi.
 corp.ax.	0	IN	NS	ns1-04.azure-dns.com.
 corp.ax.	0	IN	NS	ns2-04.azure-dns.net.
 corp.ax.	0	IN	NS	ns3-04.azure-dns.org.
@@ -3739,6 +3743,10 @@ foodnjoy.ax.	0	IN	NS	ns3.alcom.fi.
 for-rent.ax.	0	IN	NS	park1.euronic.fi.
 for-rent.ax.	0	IN	NS	park2.euronic.fi.
 for-rent.ax.	0	IN	NS	park3.euronic.fi.
+fordonmyndigheten.ax.	0	IN	NS	ns.regeringen.ax.
+fordonmyndigheten.ax.	0	IN	NS	ns2.aland.net.
+fordonmyndigheten.ax.	0	IN	NS	ns2.regeringen.ax.
+fordonmyndigheten.ax.	0	IN	NS	ns3.alcom.fi.
 fordonsmyndigheten.ax.	0	IN	NS	ns.regeringen.ax.
 fordonsmyndigheten.ax.	0	IN	NS	ns2.aland.net.
 fordonsmyndigheten.ax.	0	IN	NS	ns2.regeringen.ax.
@@ -7004,9 +7012,6 @@ mshad.ax.	0	IN	NS	ns2.istanco.com.
 msn.ax.	0	IN	NS	ns1.regery.net.
 msn.ax.	0	IN	NS	ns2.regery.net.
 msn.ax.	0	IN	NS	ns3.regery.net.
-mss.ax.	0	IN	NS	ns.udag.de.
-mss.ax.	0	IN	NS	ns.udag.net.
-mss.ax.	0	IN	NS	ns.udag.org.
 mstrand.ax.	0	IN	NS	ns1.aland.net.
 mstrand.ax.	0	IN	NS	ns2.aland.net.
 mstrand.ax.	0	IN	NS	ns3.alcom.fi.
@@ -10444,9 +10449,6 @@ urb.ax.	0	IN	NS	ns3.creatium.io.
 urb.ax.	0	IN	NS	ns4.creatium.io.
 url.ax.	0	IN	NS	ns1.istanco.com.
 url.ax.	0	IN	NS	ns2.istanco.com.
-us.ax.	0	IN	NS	ns1.regery.net.
-us.ax.	0	IN	NS	ns2.regery.net.
-us.ax.	0	IN	NS	ns3.regery.net.
 usa.ax.	0	IN	NS	ns1.sedoparking.com.
 usa.ax.	0	IN	NS	ns2.sedoparking.com.
 ut.ax.	0	IN	NS	ns1.dan.com.
@@ -11234,6 +11236,10 @@ xn--landbanken-05a.ax.	0	IN	NS	dns01.dipcon.com.
 xn--landbanken-05a.ax.	0	IN	NS	dns02.ports.se.
 xn--landbanken-05a.ax.	0	IN	NS	dns03.ports.se.
 xn--landbanken-05a.ax.	0	IN	NS	dns04.ports.net.
+xn--landliving-05a.ax.	0	IN	NS	ns.regeringen.ax.
+xn--landliving-05a.ax.	0	IN	NS	ns2.aland.net.
+xn--landliving-05a.ax.	0	IN	NS	ns2.regeringen.ax.
+xn--landliving-05a.ax.	0	IN	NS	ns3.alcom.fi.
 xn--landsbten-42ag.ax.	0	IN	NS	ns1.ilait.se.
 xn--landsbten-42ag.ax.	0	IN	NS	ns2.ilait.se.
 xn--landsbten-42ag.ax.	0	IN	NS	ns3.ilait.se.
