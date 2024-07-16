@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071600 1 1 d19b4d74b3e155dc63e1a15c7c3c29293dc1cc0d5e3ce7e84bd3eecd9c501a32b27933dc4c166d4646895c7a49574e3e
+.	0	IN	ZONEMD	2024071602 1 1 099ab5d0af2c3d2675a165a3cd9152fdf826275f2147999a46364cc900c8d3f42bf0f3a40b6f334742928f8434708319
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -13033,17 +13033,17 @@ paris.	0	IN	NS	f.ext.nic.fr.
 paris.	0	IN	NS	g.ext.nic.fr.
 paris.	0	IN	NS	h.ext.nic.fr.
 paris.	0	IN	DS	36157 13 2 e9aa567b3ffad9aa9f2c6a0bc0b7fed6d338c5150bd5627812a5f9957969c37d
-pars.	0	IN	NS	a.ns.nic.pars.
-pars.	0	IN	NS	b.ns.nic.pars.
-pars.	0	IN	NS	ns1.anycastdns.cz.
-pars.	0	IN	NS	ns2.anycastdns.cz.
+pars.	0	IN	NS	dns1.emdns.uk.
+pars.	0	IN	NS	dns2.emdns.uk.
+pars.	0	IN	NS	dns3.emdns.uk.
+pars.	0	IN	NS	dns4.emdns.uk.
+pars.	0	IN	NS	dnsa.emdns.uk.
+pars.	0	IN	NS	dnsb.emdns.uk.
+pars.	0	IN	NS	dnsc.emdns.uk.
+pars.	0	IN	NS	dnsd.emdns.uk.
 pars.	0	IN	DS	2911 8 2 bd1468967b866d21c106f1a2b92906604380e7787be97ac2855219dde2cd2285
 pars.	0	IN	DS	25579 8 2 3267932db504f8ebd2ce521de598c9dcf92096c158dcacb57a96395d4cc5798f
 pars.	0	IN	DS	55552 8 2 c84d8d2021692fb2a427dfeb7a89e6bcf042886082f9f8a3c9a1139896bdc7bd
-a.ns.nic.pars.	0	IN	A	72.0.49.5
-a.ns.nic.pars.	0	IN	AAAA	2620:171:a01:ad::5
-b.ns.nic.pars.	0	IN	A	72.42.113.5
-b.ns.nic.pars.	0	IN	AAAA	2620:171:d01:dc::5
 partners.	0	IN	NS	v0n0.nic.partners.
 partners.	0	IN	NS	v0n1.nic.partners.
 partners.	0	IN	NS	v0n2.nic.partners.
@@ -15568,17 +15568,17 @@ shell.	0	IN	NS	ac2.nstld.com.
 shell.	0	IN	NS	ac3.nstld.com.
 shell.	0	IN	NS	ac4.nstld.com.
 shell.	0	IN	DS	55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
-shia.	0	IN	NS	a.ns.nic.shia.
-shia.	0	IN	NS	b.ns.nic.shia.
-shia.	0	IN	NS	ns1.anycastdns.cz.
-shia.	0	IN	NS	ns2.anycastdns.cz.
+shia.	0	IN	NS	dns1.emdns.uk.
+shia.	0	IN	NS	dns2.emdns.uk.
+shia.	0	IN	NS	dns3.emdns.uk.
+shia.	0	IN	NS	dns4.emdns.uk.
+shia.	0	IN	NS	dnsa.emdns.uk.
+shia.	0	IN	NS	dnsb.emdns.uk.
+shia.	0	IN	NS	dnsc.emdns.uk.
+shia.	0	IN	NS	dnsd.emdns.uk.
 shia.	0	IN	DS	29999 8 2 4335c4460b7dbbbf0ce080c4d91e89a972abb52d0de7d242ac52a3c21d7d505d
 shia.	0	IN	DS	52972 8 2 0e769d37171fbf3c34ba8e53e42b91907541a7438d9efd4b249f702c97d2ce70
 shia.	0	IN	DS	60644 8 2 dd38466778b19a58a550b69e4c5b0acefc7aab903b766a805deab97f282c913e
-a.ns.nic.shia.	0	IN	A	72.0.49.7
-a.ns.nic.shia.	0	IN	AAAA	2620:171:a01:ad::7
-b.ns.nic.shia.	0	IN	A	72.42.113.7
-b.ns.nic.shia.	0	IN	AAAA	2620:171:d01:dc::7
 shiksha.	0	IN	NS	a0.nic.shiksha.
 shiksha.	0	IN	NS	a2.nic.shiksha.
 shiksha.	0	IN	NS	b0.nic.shiksha.
@@ -16386,7 +16386,7 @@ su.	0	IN	NS	b.dns.ripn.net.
 su.	0	IN	NS	d.dns.ripn.net.
 su.	0	IN	NS	e.dns.ripn.net.
 su.	0	IN	NS	f.dns.ripn.net.
-su.	0	IN	DS	2074 8 2 9982cacc6de539a854c63d5657960120d4367845cc64be2999013bc28463c9f2
+su.	0	IN	DS	52180 8 2 6c71a8d6b0c8b8c40a853c38e247d53011d2b4662164f0e645b8274ce2cf7c5b
 sucks.	0	IN	NS	a.nic.sucks.
 sucks.	0	IN	NS	b.nic.sucks.
 sucks.	0	IN	NS	c.nic.sucks.
@@ -16780,17 +16780,17 @@ root7.zone.tc.	0	IN	A	119.9.93.69
 root7.zone.tc.	0	IN	AAAA	2401:1800:7800:102:ab3b:e6a7:859f:a6c7
 root8.zone.tc.	0	IN	A	162.13.87.182
 root8.zone.tc.	0	IN	AAAA	2a00:1a48:7806:115:d994:9fe:9eb2:e68d
-tci.	0	IN	NS	a.ns.nic.tci.
-tci.	0	IN	NS	b.ns.nic.tci.
-tci.	0	IN	NS	ns1.anycastdns.cz.
-tci.	0	IN	NS	ns2.anycastdns.cz.
+tci.	0	IN	NS	dns1.emdns.uk.
+tci.	0	IN	NS	dns2.emdns.uk.
+tci.	0	IN	NS	dns3.emdns.uk.
+tci.	0	IN	NS	dns4.emdns.uk.
+tci.	0	IN	NS	dnsa.emdns.uk.
+tci.	0	IN	NS	dnsb.emdns.uk.
+tci.	0	IN	NS	dnsc.emdns.uk.
+tci.	0	IN	NS	dnsd.emdns.uk.
 tci.	0	IN	DS	12317 8 2 1d37f5016c69d56f3a3732434a0471fff1fffd580e4a7ce26816bc525095de83
 tci.	0	IN	DS	51364 8 2 8528ce5b798dfc0c1e84294addebc0e2cb0f4f5bbb9e0c9ac735ecaf41013bf7
 tci.	0	IN	DS	52844 8 2 8c7871967d2f0d9c396af5f498edccbb2bb4f9b29031aeaf3d103343c45c2ea7
-a.ns.nic.tci.	0	IN	A	72.0.49.8
-a.ns.nic.tci.	0	IN	AAAA	2620:171:a01:ad::8
-b.ns.nic.tci.	0	IN	A	72.42.113.8
-b.ns.nic.tci.	0	IN	AAAA	2620:171:d01:dc::8
 td.	0	IN	NS	pch.nic.td.
 td.	0	IN	NS	ns-td.afrinic.net.
 td.	0	IN	NS	anycastdns1.nic.td.
@@ -20004,17 +20004,17 @@ z.nic.xn--mgbi4ecexp.	0	IN	A	156.154.174.82
 z.nic.xn--mgbi4ecexp.	0	IN	AAAA	2610:a1:1076::1:82
 xn--mgbpl2fh.	0	IN	NS	pch.sis.sd.
 xn--mgbpl2fh.	0	IN	NS	ans1.sis.sd.
-xn--mgbt3dhd.	0	IN	NS	a.ns.nic.xn--mgbt3dhd.
-xn--mgbt3dhd.	0	IN	NS	b.ns.nic.xn--mgbt3dhd.
-xn--mgbt3dhd.	0	IN	NS	ns1.anycastdns.cz.
-xn--mgbt3dhd.	0	IN	NS	ns2.anycastdns.cz.
+xn--mgbt3dhd.	0	IN	NS	dns1.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dns2.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dns3.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dns4.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dnsa.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dnsb.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dnsc.emdns.uk.
+xn--mgbt3dhd.	0	IN	NS	dnsd.emdns.uk.
 xn--mgbt3dhd.	0	IN	DS	11567 8 2 7c846e4d86211c362cecbcc868123aee04f14232306937417f4e8b15148d0c43
 xn--mgbt3dhd.	0	IN	DS	38630 8 2 6bcb581d386795131792f97e7e96f22f60a2451c023c65a148522a36256a6097
 xn--mgbt3dhd.	0	IN	DS	62006 8 2 ab5034009baabb6b126126beb35c57815683ce80935135f3a6f116ddc6dc0abc
-a.ns.nic.xn--mgbt3dhd.	0	IN	A	72.0.49.9
-a.ns.nic.xn--mgbt3dhd.	0	IN	AAAA	2620:171:a01:ad::9
-b.ns.nic.xn--mgbt3dhd.	0	IN	A	72.42.113.9
-b.ns.nic.xn--mgbt3dhd.	0	IN	AAAA	2620:171:d01:dc::9
 xn--mgbtx2b.	0	IN	NS	ns.cmc.iq.
 xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.com.
 xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.net.
