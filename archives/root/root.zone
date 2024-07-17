@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071701 1 1 59c53d9ed2260e9bf4dbfa3585f562393577f3016c4c3ead49609f5d4285d26b0ac2e8ab3815d641fbd3d4187ea3fe6f
+.	0	IN	ZONEMD	2024071702 1 1 eb8d0c06b983404d833545ecbf59f8da9b6ba6c2d02821b514ad9d11cbe7b5687937af5f54d9c34e24db75fe0d0bbad1
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2299,6 +2299,7 @@ c0.nic.bosch.	0	IN	AAAA	2a01:8840:70::46
 bostik.	0	IN	NS	d.nic.fr.
 bostik.	0	IN	NS	f.ext.nic.fr.
 bostik.	0	IN	NS	g.ext.nic.fr.
+bostik.	0	IN	DS	18147 13 2 e570bff87af9244279302e8ac77932222143c62ad60d6065b3bf6d691ef141ff
 bostik.	0	IN	DS	45431 13 2 16d460de3b5d232225100e179ab80bd20a398618160c5b1c934a39f5e207ed45
 boston.	0	IN	NS	a.nic.boston.
 boston.	0	IN	NS	b.nic.boston.
@@ -11245,6 +11246,7 @@ ptd.net.mm.	0	IN	A	103.103.173.9
 mma.	0	IN	NS	d.nic.fr.
 mma.	0	IN	NS	f.ext.nic.fr.
 mma.	0	IN	NS	g.ext.nic.fr.
+mma.	0	IN	DS	56827 13 2 06df92e8eac85a48042b13dbee897a3f00c48496b6c35d6ab46ef3828f9338cf
 mma.	0	IN	DS	59534 13 2 25455417c20c22d815e00232defb2fc78e7b728600c91aadb21f8703ea1c314b
 mn.	0	IN	NS	a0.cctld.afilias-nst.info.
 mn.	0	IN	NS	a2.cctld.afilias-nst.info.
