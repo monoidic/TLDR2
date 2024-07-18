@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071800 1 1 f6e1038eb218ba0c9499a1f623d10fa95af559edfb44438086ef67a369f193dcb007328efe9f916ead2d8da58e35d1a2
+.	0	IN	ZONEMD	2024071801 1 1 6088dcd3f81e7f0b89a74bf4280f3e29fa7331a8d273e9315d3d9319e0164afd0d1fc01fbc51c714e9335215703ca9a6
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -90,12 +90,26 @@ dnsc.nic.abbvie.	0	IN	A	156.154.102.3
 dnsc.nic.abbvie.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.abbvie.	0	IN	A	156.154.103.3
 dnsd.nic.abbvie.	0	IN	AAAA	2610:a1:1010::3
-abc.	0	IN	NS	ac1.nstld.com.
-abc.	0	IN	NS	ac2.nstld.com.
-abc.	0	IN	NS	ac3.nstld.com.
-abc.	0	IN	NS	ac4.nstld.com.
+abc.	0	IN	NS	v0n0.nic.abc.
+abc.	0	IN	NS	v0n1.nic.abc.
+abc.	0	IN	NS	v0n2.nic.abc.
+abc.	0	IN	NS	v0n3.nic.abc.
+abc.	0	IN	NS	v2n0.nic.abc.
+abc.	0	IN	NS	v2n1.nic.abc.
 abc.	0	IN	DS	39900 8 2 7abc5a1f64fbbfad550cfe06953aa56a030be7212a77a60813ff633de705dec8
 abc.	0	IN	DS	43549 8 2 7a1d01c238b756baa6e99c5add35fb9fc23bf4edaddb98cc42ab0a39f45f8f1b
+v0n0.nic.abc.	0	IN	A	65.22.104.28
+v0n0.nic.abc.	0	IN	AAAA	2a01:8840:66::28
+v0n1.nic.abc.	0	IN	A	65.22.105.28
+v0n1.nic.abc.	0	IN	AAAA	2a01:8840:67::28
+v0n2.nic.abc.	0	IN	A	65.22.106.28
+v0n2.nic.abc.	0	IN	AAAA	2a01:8840:68::28
+v0n3.nic.abc.	0	IN	A	161.232.30.28
+v0n3.nic.abc.	0	IN	AAAA	2a01:8840:106::28
+v2n0.nic.abc.	0	IN	A	65.22.107.28
+v2n0.nic.abc.	0	IN	AAAA	2a01:8840:69::28
+v2n1.nic.abc.	0	IN	A	161.232.31.28
+v2n1.nic.abc.	0	IN	AAAA	2a01:8840:107::28
 able.	0	IN	NS	a.nic.able.
 able.	0	IN	NS	b.nic.able.
 able.	0	IN	NS	c.nic.able.
@@ -17314,6 +17328,7 @@ toshiba.	0	IN	DS	38891 8 2 3ef24a44f5ffda39fe23e4e4e4d2449e55a0b3001ec68a075a383
 total.	0	IN	NS	d.nic.fr.
 total.	0	IN	NS	f.ext.nic.fr.
 total.	0	IN	NS	g.ext.nic.fr.
+total.	0	IN	DS	2568 13 2 9ac9895253012c60a05e701fe237f2c356ba4a446f5f1669557fc11c7e029549
 total.	0	IN	DS	60785 13 2 eb38c07816fdf6cf8277071f558ac0c7c787088263271b55eee4e59981414d93
 tours.	0	IN	NS	v0n0.nic.tours.
 tours.	0	IN	NS	v0n1.nic.tours.
@@ -19184,6 +19199,7 @@ xn--55qw42g.	0	IN	NS	ns2.conac.cn.
 xn--55qw42g.	0	IN	NS	ns3.conac.cn.
 xn--55qw42g.	0	IN	NS	ns4.conac.cn.
 xn--55qw42g.	0	IN	NS	ns5.conac.cn.
+xn--55qw42g.	0	IN	DS	21055 8 2 0d6f3aa00bb63f959e87931fea3f5d6e18a7c0f9f1408bfdf34113d88b191d37
 xn--55qw42g.	0	IN	DS	48226 8 2 a16754c480e58c0d17126b3baf93f32bac39a916cf9d1f6f3a1f5c33687be80f
 xn--55qx5d.	0	IN	NS	a.ngtld.cn.
 xn--55qx5d.	0	IN	NS	b.ngtld.cn.
@@ -19977,7 +19993,7 @@ xn--mgberp4a5d4ar.	0	IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	sh1.dns.sa.
-xn--mgberp4a5d4ar.	0	IN	DS	10444 8 2 ade9d322eace5b4843bec6973fccc5862bf52238076c973adbd7f166543eb298
+xn--mgberp4a5d4ar.	0	IN	DS	51067 8 2 71a90d5298b157332cf6dc7bc2105982054a8d5f5c74c67debbbee3afbe114d3
 xn--mgbgu82a.	0	IN	NS	ns1.registry.in.
 xn--mgbgu82a.	0	IN	NS	ns2.registry.in.
 xn--mgbgu82a.	0	IN	NS	ns3.registry.in.
@@ -20426,6 +20442,7 @@ xn--zfr164b.	0	IN	NS	ns2.conac.cn.
 xn--zfr164b.	0	IN	NS	ns3.conac.cn.
 xn--zfr164b.	0	IN	NS	ns4.conac.cn.
 xn--zfr164b.	0	IN	NS	ns5.conac.cn.
+xn--zfr164b.	0	IN	DS	8245 8 2 ee6f394bd32d4bb28d43d2f2172121c90941e133d5b5bdbdcb72f86765bb95eb
 xn--zfr164b.	0	IN	DS	51421 8 2 9d673623e84d7e10b2aa5b376a3f617665f8b38ef442e8a7e86f0f18161c7801
 xxx.	0	IN	NS	a.nic.xxx.
 xxx.	0	IN	NS	b.nic.xxx.
