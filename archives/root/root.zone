@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071901 1 1 7635492f90daad9e5c15b96dd2aa4687a2021e543659d310242602e6b3c0957dd789298b5f6d35d514766d8acd382acb
+.	0	IN	ZONEMD	2024071902 1 1 8af7da30d81618417d76a8dc2bb03477f8b25361553e949160e410adb42a03a61cf33ca92bb80514681d75b8abdee4b8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12534,7 +12534,7 @@ np.	0	IN	NS	ns4.apnic.net.
 np.	0	IN	NS	pch.nnic.np.
 np.	0	IN	NS	np-ns.npix.net.np.
 np.	0	IN	NS	shikhar.mos.com.np.
-shikhar.mos.com.np.	0	IN	A	202.52.255.5
+shikhar.mos.com.np.	0	IN	A	27.111.31.5
 np-ns.npix.net.np.	0	IN	A	198.32.126.50
 pch.nnic.np.	0	IN	A	204.61.216.11
 pch.nnic.np.	0	IN	AAAA	2001:500:14:6011:ad::1
@@ -16140,6 +16140,7 @@ dnsd.nic.spot.	0	IN	A	156.154.103.3
 dnsd.nic.spot.	0	IN	AAAA	2610:a1:1010::3
 sr.	0	IN	NS	ns1.nic.sr.
 sr.	0	IN	NS	ns2.nic.sr.
+sr.	0	IN	DS	46104 13 2 967a6b8f3c9c7fd0f981ea3eef1b8a6fe2c4043fbb1518d171d80e83ce4a84ee
 ns1.nic.sr.	0	IN	A	168.195.219.210
 ns1.nic.sr.	0	IN	AAAA	2803:ff40:a251:0:168:195:219:2
 ns2.nic.sr.	0	IN	A	168.195.216.214
