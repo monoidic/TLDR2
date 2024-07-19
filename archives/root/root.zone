@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071801 1 1 6088dcd3f81e7f0b89a74bf4280f3e29fa7331a8d273e9315d3d9319e0164afd0d1fc01fbc51c714e9335215703ca9a6
+.	0	IN	ZONEMD	2024071802 1 1 e51be06fcd45fe42667afc6c12ddc5ab1f80c69216f259c7bd96290f3955d1cfe1bafd7b427f2c26ab365ab20cf2c6b2
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9753,6 +9753,7 @@ c0.nic.lamer.	0	IN	AAAA	2a01:8840:34::25
 lancaster.	0	IN	NS	d.nic.fr.
 lancaster.	0	IN	NS	f.ext.nic.fr.
 lancaster.	0	IN	NS	g.ext.nic.fr.
+lancaster.	0	IN	DS	13478 13 2 bfbd5142e935c01a65a186d56f01124d6832ac3cdc6ede681f50a12ff9c73ead
 lancaster.	0	IN	DS	63656 13 2 847b427327bf07fd61b821d3dc537401d3af0371c0771bebcaf2cdcf51aa108a
 land.	0	IN	NS	v0n0.nic.land.
 land.	0	IN	NS	v0n1.nic.land.
