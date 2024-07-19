@@ -13,7 +13,6 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024071900 1 1 cfddcabd9586eef54e0a9e08f0d9202223a4b7e44d9ec83a8962f791559e1242b29282076eee5ac8bd8078d3aa60d824
 .	0	IN	ZONEMD	2024071901 1 1 7635492f90daad9e5c15b96dd2aa4687a2021e543659d310242602e6b3c0957dd789298b5f6d35d514766d8acd382acb
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
@@ -2315,7 +2314,6 @@ bostik.	0	IN	NS	d.nic.fr.
 bostik.	0	IN	NS	f.ext.nic.fr.
 bostik.	0	IN	NS	g.ext.nic.fr.
 bostik.	0	IN	DS	18147 13 2 e570bff87af9244279302e8ac77932222143c62ad60d6065b3bf6d691ef141ff
-bostik.	0	IN	DS	45431 13 2 16d460de3b5d232225100e179ab80bd20a398618160c5b1c934a39f5e207ed45
 boston.	0	IN	NS	a.nic.boston.
 boston.	0	IN	NS	b.nic.boston.
 boston.	0	IN	NS	c.nic.boston.
@@ -13059,9 +13057,7 @@ pars.	0	IN	NS	dnsa.emdns.uk.
 pars.	0	IN	NS	dnsb.emdns.uk.
 pars.	0	IN	NS	dnsc.emdns.uk.
 pars.	0	IN	NS	dnsd.emdns.uk.
-pars.	0	IN	DS	2911 8 2 bd1468967b866d21c106f1a2b92906604380e7787be97ac2855219dde2cd2285
 pars.	0	IN	DS	25579 8 2 3267932db504f8ebd2ce521de598c9dcf92096c158dcacb57a96395d4cc5798f
-pars.	0	IN	DS	55552 8 2 c84d8d2021692fb2a427dfeb7a89e6bcf042886082f9f8a3c9a1139896bdc7bd
 partners.	0	IN	NS	v0n0.nic.partners.
 partners.	0	IN	NS	v0n1.nic.partners.
 partners.	0	IN	NS	v0n2.nic.partners.
@@ -15595,8 +15591,6 @@ shia.	0	IN	NS	dnsb.emdns.uk.
 shia.	0	IN	NS	dnsc.emdns.uk.
 shia.	0	IN	NS	dnsd.emdns.uk.
 shia.	0	IN	DS	29999 8 2 4335c4460b7dbbbf0ce080c4d91e89a972abb52d0de7d242ac52a3c21d7d505d
-shia.	0	IN	DS	52972 8 2 0e769d37171fbf3c34ba8e53e42b91907541a7438d9efd4b249f702c97d2ce70
-shia.	0	IN	DS	60644 8 2 dd38466778b19a58a550b69e4c5b0acefc7aab903b766a805deab97f282c913e
 shiksha.	0	IN	NS	a0.nic.shiksha.
 shiksha.	0	IN	NS	a2.nic.shiksha.
 shiksha.	0	IN	NS	b0.nic.shiksha.
@@ -16806,8 +16800,6 @@ tci.	0	IN	NS	dnsa.emdns.uk.
 tci.	0	IN	NS	dnsb.emdns.uk.
 tci.	0	IN	NS	dnsc.emdns.uk.
 tci.	0	IN	NS	dnsd.emdns.uk.
-tci.	0	IN	DS	12317 8 2 1d37f5016c69d56f3a3732434a0471fff1fffd580e4a7ce26816bc525095de83
-tci.	0	IN	DS	51364 8 2 8528ce5b798dfc0c1e84294addebc0e2cb0f4f5bbb9e0c9ac735ecaf41013bf7
 tci.	0	IN	DS	52844 8 2 8c7871967d2f0d9c396af5f498edccbb2bb4f9b29031aeaf3d103343c45c2ea7
 td.	0	IN	NS	pch.nic.td.
 td.	0	IN	NS	ns-td.afrinic.net.
@@ -20032,8 +20024,6 @@ xn--mgbt3dhd.	0	IN	NS	dnsa.emdns.uk.
 xn--mgbt3dhd.	0	IN	NS	dnsb.emdns.uk.
 xn--mgbt3dhd.	0	IN	NS	dnsc.emdns.uk.
 xn--mgbt3dhd.	0	IN	NS	dnsd.emdns.uk.
-xn--mgbt3dhd.	0	IN	DS	11567 8 2 7c846e4d86211c362cecbcc868123aee04f14232306937417f4e8b15148d0c43
-xn--mgbt3dhd.	0	IN	DS	38630 8 2 6bcb581d386795131792f97e7e96f22f60a2451c023c65a148522a36256a6097
 xn--mgbt3dhd.	0	IN	DS	62006 8 2 ab5034009baabb6b126126beb35c57815683ce80935135f3a6f116ddc6dc0abc
 xn--mgbtx2b.	0	IN	NS	ns.cmc.iq.
 xn--mgbtx2b.	0	IN	NS	ns01.trs-dns.com.
