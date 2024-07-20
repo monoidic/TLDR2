@@ -6,6 +6,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -19,6 +20,7 @@
 * `dz.`
 * `ee.`
 * `er.`
+* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
@@ -27,6 +29,7 @@
 * `id.`
 * `ieee.`
 * `ir.`
+* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
@@ -34,9 +37,11 @@
 * `lol.`
 * `lr.`
 * `mc.`
+* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
+* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
