@@ -2,7 +2,10 @@
 
 * `.`
 * `amazon.`
+* `arpa.`
 * `audio.`
+* `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -22,10 +25,13 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
+* `id.`
 * `ieee.`
 * `ir.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -35,9 +41,11 @@
 * `nu.`
 * `pics.`
 * `pr.`
+* `ruhr.`
 * `se.`
 * `sl.`
 * `tn.`
+* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
