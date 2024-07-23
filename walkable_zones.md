@@ -10,6 +10,7 @@
 * `br.`
 * `bt.`
 * `car.`
+* `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -17,14 +18,17 @@
 * `desi.`
 * `diet.`
 * `dz.`
+* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
 * `ieee.`
+* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -39,7 +43,10 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
+* `tn.`
 * `tz.`
+* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
