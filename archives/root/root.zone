@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024072501 1 1 14f749fd194ec48ba962163d46d81193a5de77a62043d2a5549b1d804533ccba553f47e4da1ed04473b69869aa528ee3
+.	0	IN	ZONEMD	2024072502 1 1 25b49395b07368d335315487e8a84536bfc1befe10582c79b24416c2e7fe87314fec735338d15e6a11d4e6ff0f1f6b1d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -96,7 +96,6 @@ abc.	0	IN	NS	v0n2.nic.abc.
 abc.	0	IN	NS	v0n3.nic.abc.
 abc.	0	IN	NS	v2n0.nic.abc.
 abc.	0	IN	NS	v2n1.nic.abc.
-abc.	0	IN	DS	39900 8 2 7abc5a1f64fbbfad550cfe06953aa56a030be7212a77a60813ff633de705dec8
 abc.	0	IN	DS	43549 8 2 7a1d01c238b756baa6e99c5add35fb9fc23bf4edaddb98cc42ab0a39f45f8f1b
 v0n0.nic.abc.	0	IN	A	65.22.104.28
 v0n0.nic.abc.	0	IN	AAAA	2a01:8840:66::28
@@ -10012,7 +10011,6 @@ lego.	0	IN	NS	v0n3.nic.lego.
 lego.	0	IN	NS	v2n0.nic.lego.
 lego.	0	IN	NS	v2n1.nic.lego.
 lego.	0	IN	DS	5752 8 2 af9076e3b4365d770b2827a4a9f6ea142d12af52887d9ea685e34aa0acdeea40
-lego.	0	IN	DS	28536 8 2 fdcdbd92d8a27f3a19ba30ef37e04ff21188973ee8648975e5b9a77db48478d6
 v0n0.nic.lego.	0	IN	A	65.22.108.14
 v0n0.nic.lego.	0	IN	AAAA	2a01:8840:6a::14
 v0n1.nic.lego.	0	IN	A	65.22.109.14
@@ -14797,7 +14795,6 @@ rwe.	0	IN	NS	v0n2.nic.rwe.
 rwe.	0	IN	NS	v0n3.nic.rwe.
 rwe.	0	IN	NS	v2n0.nic.rwe.
 rwe.	0	IN	NS	v2n1.nic.rwe.
-rwe.	0	IN	DS	3075 8 2 542f19df30f2c69f686e697cfbafd7da2afa039cb9d6620169895888188ac174
 rwe.	0	IN	DS	23797 8 2 619690e3da5905b5ebf372e40c035832805aa26c0643e0f217556ef62d5d166a
 v0n0.nic.rwe.	0	IN	A	65.22.108.18
 v0n0.nic.rwe.	0	IN	AAAA	2a01:8840:6a::18
@@ -15428,7 +15425,6 @@ sener.	0	IN	NS	v0n3.nic.sener.
 sener.	0	IN	NS	v2n0.nic.sener.
 sener.	0	IN	NS	v2n1.nic.sener.
 sener.	0	IN	DS	724 8 2 f499bbdb5e9d28391ef6c0d2de9ea020632e6a2d521eebc7a1ae884d693c95b6
-sener.	0	IN	DS	40020 8 2 f580b1e1f989e14eb37da8cd7201254150e4c28f95ca0d1db7822a78c93eaf17
 v0n0.nic.sener.	0	IN	A	65.22.108.19
 v0n0.nic.sener.	0	IN	AAAA	2a01:8840:6a::19
 v0n1.nic.sener.	0	IN	A	65.22.109.19
@@ -20487,7 +20483,6 @@ yahoo.	0	IN	NS	v0n2.nic.yahoo.
 yahoo.	0	IN	NS	v0n3.nic.yahoo.
 yahoo.	0	IN	NS	v2n0.nic.yahoo.
 yahoo.	0	IN	NS	v2n1.nic.yahoo.
-yahoo.	0	IN	DS	52260 8 2 99da5ed59ca94fc8c28c5c7a4a817e7fc0c52688b115dcf743fb914be65ba447
 yahoo.	0	IN	DS	64675 8 2 674c472960577338b3372085bb0a35e23308226578f018401a20914d4c928ad4
 v0n0.nic.yahoo.	0	IN	A	65.22.108.26
 v0n0.nic.yahoo.	0	IN	AAAA	2a01:8840:6a::26
