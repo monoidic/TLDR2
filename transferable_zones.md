@@ -16,5 +16,6 @@
 * `mw.` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `ni.` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ni.zone)
+* `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
 * `xn--wgbh1c.` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/xn--wgbh1c.zone)
 * `xn--wgbh1c.` via `ns3.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/xn--wgbh1c.zone)
