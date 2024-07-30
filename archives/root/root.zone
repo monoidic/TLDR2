@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024073001 1 1 1d8cb307571ab12ae020acc754ae047bbee285c65d3c22b5533ed551bdb5c6abeb58e573fd3963ef350dd09edbf3fbfc
+.	0	IN	ZONEMD	2024073002 1 1 a590f5cd896c9d7380252d7161f9a7a43594c4d6fed0a6032c880c470df08bb25988277ca70909d4535ec3ea39745b4f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -33,12 +33,26 @@ ns2.dns.nic.aaa.	0	IN	A	156.154.145.2
 ns2.dns.nic.aaa.	0	IN	AAAA	2610:a1:1072::2
 ns3.dns.nic.aaa.	0	IN	A	156.154.159.2
 ns3.dns.nic.aaa.	0	IN	AAAA	2610:a1:1073::2
-aarp.	0	IN	NS	ac1.nstld.com.
-aarp.	0	IN	NS	ac2.nstld.com.
-aarp.	0	IN	NS	ac3.nstld.com.
-aarp.	0	IN	NS	ac4.nstld.com.
+aarp.	0	IN	NS	a.nic.aarp.
+aarp.	0	IN	NS	b.nic.aarp.
+aarp.	0	IN	NS	c.nic.aarp.
+aarp.	0	IN	NS	x.nic.aarp.
+aarp.	0	IN	NS	y.nic.aarp.
+aarp.	0	IN	NS	z.nic.aarp.
 aarp.	0	IN	DS	5751 8 2 7e8a14ab8f85009b9f19859815fa695954233fd9daa6ab359044d12621a77e9f
 aarp.	0	IN	DS	26254 8 2 bff5bd7c3f7a468cdcc7caf66e978a5d9b5211f39241039a5218b82aa62fb6c6
+a.nic.aarp.	0	IN	A	37.209.192.9
+a.nic.aarp.	0	IN	AAAA	2001:dcd:1::9
+b.nic.aarp.	0	IN	A	37.209.194.9
+b.nic.aarp.	0	IN	AAAA	2001:dcd:2::9
+c.nic.aarp.	0	IN	A	37.209.196.9
+c.nic.aarp.	0	IN	AAAA	2001:dcd:3::9
+x.nic.aarp.	0	IN	A	156.154.172.82
+x.nic.aarp.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.aarp.	0	IN	A	156.154.173.82
+y.nic.aarp.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.aarp.	0	IN	A	156.154.174.82
+z.nic.aarp.	0	IN	AAAA	2610:a1:1076::1:82
 abb.	0	IN	NS	a0.nic.abb.
 abb.	0	IN	NS	a2.nic.abb.
 abb.	0	IN	NS	b0.nic.abb.
@@ -643,12 +657,26 @@ ns2.dns.nic.americanexpress.	0	IN	A	156.154.145.9
 ns2.dns.nic.americanexpress.	0	IN	AAAA	2610:a1:1072::9
 ns3.dns.nic.americanexpress.	0	IN	A	156.154.159.9
 ns3.dns.nic.americanexpress.	0	IN	AAAA	2610:a1:1073::9
-americanfamily.	0	IN	NS	ac1.nstld.com.
-americanfamily.	0	IN	NS	ac2.nstld.com.
-americanfamily.	0	IN	NS	ac3.nstld.com.
-americanfamily.	0	IN	NS	ac4.nstld.com.
+americanfamily.	0	IN	NS	a.nic.americanfamily.
+americanfamily.	0	IN	NS	b.nic.americanfamily.
+americanfamily.	0	IN	NS	c.nic.americanfamily.
+americanfamily.	0	IN	NS	x.nic.americanfamily.
+americanfamily.	0	IN	NS	y.nic.americanfamily.
+americanfamily.	0	IN	NS	z.nic.americanfamily.
 americanfamily.	0	IN	DS	16975 8 2 50d98dc6d7a2bc4ce8121a409ef96e22ea6ff8b0334f0629151093ac247bd80f
 americanfamily.	0	IN	DS	61398 8 2 f6890de22c9b4261c9fcfac53fe0849faa9b573ee95e027e070aba270cd966af
+a.nic.americanfamily.	0	IN	A	37.209.192.9
+a.nic.americanfamily.	0	IN	AAAA	2001:dcd:1::9
+b.nic.americanfamily.	0	IN	A	37.209.194.9
+b.nic.americanfamily.	0	IN	AAAA	2001:dcd:2::9
+c.nic.americanfamily.	0	IN	A	37.209.196.9
+c.nic.americanfamily.	0	IN	AAAA	2001:dcd:3::9
+x.nic.americanfamily.	0	IN	A	156.154.172.82
+x.nic.americanfamily.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.americanfamily.	0	IN	A	156.154.173.82
+y.nic.americanfamily.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.americanfamily.	0	IN	A	156.154.174.82
+z.nic.americanfamily.	0	IN	AAAA	2610:a1:1076::1:82
 amex.	0	IN	NS	a.nic.amex.
 amex.	0	IN	NS	b.nic.amex.
 amex.	0	IN	NS	c.nic.amex.
@@ -668,12 +696,26 @@ ns2.dns.nic.amex.	0	IN	A	156.154.145.10
 ns2.dns.nic.amex.	0	IN	AAAA	2610:a1:1072::a
 ns3.dns.nic.amex.	0	IN	A	156.154.159.10
 ns3.dns.nic.amex.	0	IN	AAAA	2610:a1:1073::a
-amfam.	0	IN	NS	ac1.nstld.com.
-amfam.	0	IN	NS	ac2.nstld.com.
-amfam.	0	IN	NS	ac3.nstld.com.
-amfam.	0	IN	NS	ac4.nstld.com.
+amfam.	0	IN	NS	a.nic.amfam.
+amfam.	0	IN	NS	b.nic.amfam.
+amfam.	0	IN	NS	c.nic.amfam.
+amfam.	0	IN	NS	x.nic.amfam.
+amfam.	0	IN	NS	y.nic.amfam.
+amfam.	0	IN	NS	z.nic.amfam.
 amfam.	0	IN	DS	4101 8 2 d2c0246802aa5b615cfc8b700a5245adfca49477b37f870499a44ab272989a7d
 amfam.	0	IN	DS	56680 8 2 18afbe180bf3ddde328e5f7e0d2bb7869db47ab073a3d4f29a7be3e65bdca003
+a.nic.amfam.	0	IN	A	37.209.192.9
+a.nic.amfam.	0	IN	AAAA	2001:dcd:1::9
+b.nic.amfam.	0	IN	A	37.209.194.9
+b.nic.amfam.	0	IN	AAAA	2001:dcd:2::9
+c.nic.amfam.	0	IN	A	37.209.196.9
+c.nic.amfam.	0	IN	AAAA	2001:dcd:3::9
+x.nic.amfam.	0	IN	A	156.154.172.82
+x.nic.amfam.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.amfam.	0	IN	A	156.154.173.82
+y.nic.amfam.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.amfam.	0	IN	A	156.154.174.82
+z.nic.amfam.	0	IN	AAAA	2610:a1:1076::1:82
 amica.	0	IN	NS	a.nic.amica.
 amica.	0	IN	NS	b.nic.amica.
 amica.	0	IN	NS	c.nic.amica.
