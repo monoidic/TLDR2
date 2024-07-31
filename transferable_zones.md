@@ -13,6 +13,5 @@
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns4.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
-* `mw.` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/mw.zone)
 * `xn--wgbh1c.` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/xn--wgbh1c.zone)
 * `xn--wgbh1c.` via `ns3.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/xn--wgbh1c.zone)
