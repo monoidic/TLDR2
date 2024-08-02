@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024080201 1 1 4e007b3ea6b2d520181ae28374d17812ea8b039534b91dca458ccbca22da65c46013f57d7482b4e5c5a63a5c6a55f27c
+.	0	IN	ZONEMD	2024080202 1 1 d0328bbd7eb3ba13a9f4cce76a2cf1894de638d6a330c52f8e6ce9311f593c8e521c2a78d39f47d5c1a44eae1ccddbb5
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -17426,23 +17426,23 @@ v2n0.nic.toys.	0	IN	A	65.22.23.23
 v2n0.nic.toys.	0	IN	AAAA	2a01:8840:19::23
 v2n1.nic.toys.	0	IN	A	161.232.11.23
 v2n1.nic.toys.	0	IN	AAAA	2a01:8840:f5::23
-tr.	0	IN	NS	ns41.nic.tr.
-tr.	0	IN	NS	ns42.nic.tr.
-tr.	0	IN	NS	ns61.nic.tr.
-tr.	0	IN	NS	ns71.nic.tr.
-tr.	0	IN	NS	ns72.nic.tr.
-tr.	0	IN	NS	ns73.nic.tr.
-tr.	0	IN	NS	ns74.nic.tr.
+tr.	0	IN	NS	ns41.ns.tr.
+tr.	0	IN	NS	ns42.ns.tr.
+tr.	0	IN	NS	ns61.ns.tr.
+tr.	0	IN	NS	ns71.ns.tr.
+tr.	0	IN	NS	ns72.ns.tr.
+tr.	0	IN	NS	ns73.ns.tr.
+tr.	0	IN	NS	ns74.ns.tr.
 tr.	0	IN	DS	52321 13 2 31fca215aa6690c3d1c265d141cc879576d16f8f06dbfb99d38893e8f9e33d23
-ns41.nic.tr.	0	IN	A	185.7.0.2
-ns42.nic.tr.	0	IN	A	185.7.0.3
-ns61.nic.tr.	0	IN	A	206.51.254.1
-ns61.nic.tr.	0	IN	AAAA	2620:171:804:ad2::1
-ns71.nic.tr.	0	IN	A	185.67.32.53
-ns72.nic.tr.	0	IN	A	40.68.114.66
-ns72.nic.tr.	0	IN	AAAA	2603:1020:201:10::111
-ns73.nic.tr.	0	IN	A	31.145.253.159
-ns74.nic.tr.	0	IN	A	31.145.253.160
+ns41.ns.tr.	0	IN	A	185.7.0.2
+ns42.ns.tr.	0	IN	A	185.7.0.3
+ns61.ns.tr.	0	IN	A	206.51.254.1
+ns61.ns.tr.	0	IN	AAAA	2620:171:804:ad2::1
+ns71.ns.tr.	0	IN	A	185.67.32.53
+ns72.ns.tr.	0	IN	A	40.68.114.66
+ns72.ns.tr.	0	IN	AAAA	2603:1020:201:10::111
+ns73.ns.tr.	0	IN	A	31.145.253.159
+ns74.ns.tr.	0	IN	A	31.145.253.160
 trade.	0	IN	NS	a.nic.trade.
 trade.	0	IN	NS	b.nic.trade.
 trade.	0	IN	NS	c.nic.trade.
