@@ -3,6 +3,7 @@
 * `.`
 * `amazon.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -14,11 +15,13 @@
 * `christmas.`
 * `ci.`
 * `cw.`
+* `desi.`
 * `diet.`
 * `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
@@ -31,6 +34,8 @@
 * `lb.`
 * `li.`
 * `lk.`
+* `lol.`
+* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
@@ -38,12 +43,15 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `sl.`
 * `tn.`
+* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
