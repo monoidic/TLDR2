@@ -13,8 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024080700 1 1 8db8945057b9240c7a9d9c36814863aa19d4a8ebcd9baee64108d50935f4503e4bb7d80a4c2a7771ac732fbecb75d1c6
-.	0	IN	ZONEMD	2024080701 1 1 41a48540011bb4292d28195e4967ae92e0f6cd8da7f3b8a01d99d6baacda3bda9a43769128fc44a683169153c9ed1435
+.	0	IN	ZONEMD	2024080702 1 1 4d8fffa3e65b6446811d6d1cd6dcbb5d834366569f5fde171401486b9479460b4ee63a8f39b9b7ed96eae518242c314b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -6473,6 +6472,7 @@ fm.	0	IN	NS	d.nic.fm.
 fm.	0	IN	NS	e.nic.fm.
 fm.	0	IN	NS	f.nic.fm.
 fm.	0	IN	DS	26186 8 2 db3703697384a6f8b3a944a21c1a81ffd921000b23aa4241380b4ba3aa28dea0
+fm.	0	IN	DS	60226 8 2 ff4191e32b7f636aabaf957bf976bc1d792b5709b73a351fc77f45d0033dfbde
 a.nic.fm.	0	IN	A	194.169.218.26
 a.nic.fm.	0	IN	AAAA	2001:67c:13cc::1:26
 b.nic.fm.	0	IN	A	185.24.64.26
@@ -11684,23 +11684,11 @@ museum.	0	IN	NS	d.nic.fr.
 museum.	0	IN	NS	f.ext.nic.fr.
 museum.	0	IN	NS	g.ext.nic.fr.
 museum.	0	IN	DS	21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f259cc03c5
-music.	0	IN	NS	a.nic.music.
-music.	0	IN	NS	b.nic.music.
-music.	0	IN	NS	c.nic.music.
-music.	0	IN	NS	d.nic.music.
 music.	0	IN	NS	ns01.trs-dns.com.
 music.	0	IN	NS	ns01.trs-dns.net.
 music.	0	IN	NS	ns01.trs-dns.org.
 music.	0	IN	NS	ns01.trs-dns.info.
 music.	0	IN	DS	11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
-a.nic.music.	0	IN	A	194.169.218.142
-a.nic.music.	0	IN	AAAA	2001:67c:13cc::1:142
-b.nic.music.	0	IN	A	185.24.64.142
-b.nic.music.	0	IN	AAAA	2a04:2b00:13cc::1:142
-c.nic.music.	0	IN	A	212.18.248.142
-c.nic.music.	0	IN	AAAA	2a04:2b00:13ee::142
-d.nic.music.	0	IN	A	212.18.249.142
-d.nic.music.	0	IN	AAAA	2a04:2b00:13ff::142
 mv.	0	IN	NS	ns.dhivehinet.net.mv.
 mv.	0	IN	NS	ns2.dhivehinet.net.mv.
 mv.	0	IN	NS	mv-ns.anycast.pch.net.
