@@ -3,7 +3,6 @@
 * `.`
 * `amazon.`
 * `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -22,7 +21,6 @@
 * `er.`
 * `flowers.`
 * `game.`
-* `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
@@ -36,7 +34,6 @@
 * `lk.`
 * `lol.`
 * `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
