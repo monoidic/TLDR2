@@ -3,13 +3,17 @@
 * `.`
 * `amazon.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
+* `bd.`
 * `br.`
 * `bt.`
 * `car.`
 * `cars.`
+* `ch.`
 * `christmas.`
+* `ci.`
 * `cw.`
 * `desi.`
 * `diet.`
@@ -18,6 +22,8 @@
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
+* `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
@@ -25,6 +31,7 @@
 * `ir.`
 * `kg.`
 * `kz.`
+* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
