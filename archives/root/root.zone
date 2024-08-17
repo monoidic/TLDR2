@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024081601 1 1 2d39f5120e2ce1a1610109817db1c0baffe1e7b848b91391dae9c5039ecdb127aa714823e600da0d840ee335acbe71d3
+.	0	IN	ZONEMD	2024081700 1 1 ebb9a4d70c14cebe44d9a2b11158386df03f1a6c95dfd6191f7d6fd901aff80fb73027f6409fced4e7427b7db21d776e
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -11689,6 +11689,7 @@ music.	0	IN	NS	ns01.trs-dns.com.
 music.	0	IN	NS	ns01.trs-dns.net.
 music.	0	IN	NS	ns01.trs-dns.org.
 music.	0	IN	NS	ns01.trs-dns.info.
+music.	0	IN	DS	8489 8 2 a9a8a4740c96dc2bf6c31baf38dc0c7f50862bfeed32db9df7e3956bf552ad10
 music.	0	IN	DS	11216 8 2 d45430b83157049bebd9590cf68625c5161b1902e6c0a708c34c6c71461d1f6f
 mv.	0	IN	NS	ns.dhivehinet.net.mv.
 mv.	0	IN	NS	ns2.dhivehinet.net.mv.
