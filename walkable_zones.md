@@ -21,20 +21,16 @@
 * `ee.`
 * `er.`
 * `flowers.`
-* `game.`
 * `gdn.`
 * `gn.`
-* `guitars.`
 * `hosting.`
 * `id.`
 * `ieee.`
-* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
 * `li.`
 * `lk.`
-* `lol.`
 * `lr.`
 * `mc.`
 * `mom.`
@@ -42,8 +38,6 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
-* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
@@ -52,5 +46,4 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
