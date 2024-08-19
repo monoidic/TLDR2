@@ -10,7 +10,10 @@
 * `br.`
 * `bt.`
 * `car.`
+* `cars.`
+* `ch.`
 * `christmas.`
+* `ci.`
 * `cw.`
 * `desi.`
 * `diet.`
@@ -25,13 +28,16 @@
 * `hosting.`
 * `id.`
 * `ieee.`
+* `ir.`
 * `kg.`
 * `kz.`
 * `lb.`
 * `li.`
 * `lk.`
 * `lol.`
+* `lr.`
 * `mc.`
+* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
