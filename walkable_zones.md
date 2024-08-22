@@ -8,11 +8,8 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
-* `ch.`
-* `christmas.`
 * `ci.`
 * `cw.`
 * `desi.`
@@ -27,7 +24,6 @@
 * `guitars.`
 * `hosting.`
 * `id.`
-* `ieee.`
 * `ir.`
 * `kg.`
 * `kz.`
@@ -45,9 +41,7 @@
 * `se.`
 * `sl.`
 * `tn.`
-* `tz.`
 * `ve.`
-* `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
