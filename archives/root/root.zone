@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024082301 1 1 9760b3f4d359c9bc070380c6b02f82c1b993e3d8d737b90dfed84cd428f0449e1684b5d3bd68e7472d4c0404c8e3d4da
+.	0	IN	ZONEMD	2024082302 1 1 29aadb342c041b186811fd14fce72b40736606684f68ea83f6225e41790b9ad7193cd227ed206da3b8014b6daab8044f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -39,7 +39,6 @@ aarp.	0	IN	NS	c.nic.aarp.
 aarp.	0	IN	NS	x.nic.aarp.
 aarp.	0	IN	NS	y.nic.aarp.
 aarp.	0	IN	NS	z.nic.aarp.
-aarp.	0	IN	DS	5751 8 2 7e8a14ab8f85009b9f19859815fa695954233fd9daa6ab359044d12621a77e9f
 aarp.	0	IN	DS	26254 8 2 bff5bd7c3f7a468cdcc7caf66e978a5d9b5211f39241039a5218b82aa62fb6c6
 a.nic.aarp.	0	IN	A	37.209.192.9
 a.nic.aarp.	0	IN	AAAA	2001:dcd:1::9
@@ -664,7 +663,6 @@ americanfamily.	0	IN	NS	x.nic.americanfamily.
 americanfamily.	0	IN	NS	y.nic.americanfamily.
 americanfamily.	0	IN	NS	z.nic.americanfamily.
 americanfamily.	0	IN	DS	16975 8 2 50d98dc6d7a2bc4ce8121a409ef96e22ea6ff8b0334f0629151093ac247bd80f
-americanfamily.	0	IN	DS	61398 8 2 f6890de22c9b4261c9fcfac53fe0849faa9b573ee95e027e070aba270cd966af
 a.nic.americanfamily.	0	IN	A	37.209.192.9
 a.nic.americanfamily.	0	IN	AAAA	2001:dcd:1::9
 b.nic.americanfamily.	0	IN	A	37.209.194.9
@@ -702,7 +700,6 @@ amfam.	0	IN	NS	c.nic.amfam.
 amfam.	0	IN	NS	x.nic.amfam.
 amfam.	0	IN	NS	y.nic.amfam.
 amfam.	0	IN	NS	z.nic.amfam.
-amfam.	0	IN	DS	4101 8 2 d2c0246802aa5b615cfc8b700a5245adfca49477b37f870499a44ab272989a7d
 amfam.	0	IN	DS	56680 8 2 18afbe180bf3ddde328e5f7e0d2bb7869db47ab073a3d4f29a7be3e65bdca003
 a.nic.amfam.	0	IN	A	37.209.192.9
 a.nic.amfam.	0	IN	AAAA	2001:dcd:1::9
@@ -859,10 +856,20 @@ aq.	0	IN	NS	fork.sth.dnsnode.net.
 aq.	0	IN	NS	ns99.dns.net.nz.
 ns1.anycast.dns.aq.	0	IN	A	204.61.216.132
 ns1.anycast.dns.aq.	0	IN	AAAA	2001:500:14:6132:ad::1
-aquarelle.	0	IN	NS	d.nic.fr.
-aquarelle.	0	IN	NS	f.ext.nic.fr.
-aquarelle.	0	IN	NS	g.ext.nic.fr.
+aquarelle.	0	IN	NS	a.nic.aquarelle.
+aquarelle.	0	IN	NS	b.nic.aquarelle.
+aquarelle.	0	IN	NS	c.nic.aquarelle.
+aquarelle.	0	IN	NS	d.nic.aquarelle.
 aquarelle.	0	IN	DS	22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
+aquarelle.	0	IN	DS	23208 13 2 3ce81b2d9619bd2e5ba77ba9005e79c77728f75983b7ef37d1944c0746ad4310
+a.nic.aquarelle.	0	IN	A	194.169.218.160
+a.nic.aquarelle.	0	IN	AAAA	2001:67c:13cc::1:160
+b.nic.aquarelle.	0	IN	A	185.24.64.160
+b.nic.aquarelle.	0	IN	AAAA	2a04:2b00:13cc::1:160
+c.nic.aquarelle.	0	IN	A	212.18.248.160
+c.nic.aquarelle.	0	IN	AAAA	2a04:2b00:13ee::160
+d.nic.aquarelle.	0	IN	A	212.18.249.160
+d.nic.aquarelle.	0	IN	AAAA	2a04:2b00:13ff::160
 ar.	0	IN	NS	a.lactld.org.
 ar.	0	IN	NS	c.dns.ar.
 ar.	0	IN	NS	d.dns.ar.
