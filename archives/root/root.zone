@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024082601 1 1 3aed45013be028ac768983d90bf4f2289b3dbb830ea51538c759bd23a08199a840cdd175f6238eaed65173349a08c31d
+.	0	IN	ZONEMD	2024082602 1 1 5cadc7e40353b91575ca33860f8b900377f72992545e78ff9f3bbda2fda9267a162d032471aabfa1a6b17d07fd65e9d9
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4007,8 +4007,8 @@ a.zdnscloud.com.	0	IN	A	203.99.24.1
 b.zdnscloud.com.	0	IN	A	203.99.25.1
 c.zdnscloud.com.	0	IN	A	203.99.26.1
 d.zdnscloud.com.	0	IN	A	203.99.27.1
-f.zdnscloud.com.	0	IN	A	114.67.16.204
-g.zdnscloud.com.	0	IN	A	42.62.2.16
+f.zdnscloud.com.	0	IN	A	116.169.54.111
+g.zdnscloud.com.	0	IN	A	223.72.199.37
 i.zdnscloud.com.	0	IN	AAAA	2401:8d00:1::1
 j.zdnscloud.com.	0	IN	AAAA	2401:8d00:2::1
 commbank.	0	IN	NS	a.nic.commbank.
@@ -5169,8 +5169,8 @@ l.nic.dk.	0	IN	A	130.226.213.138
 l.nic.dk.	0	IN	AAAA	2001:878:0:e000:82:e2:d5:8a
 p.nic.dk.	0	IN	A	194.0.47.42
 p.nic.dk.	0	IN	AAAA	2001:678:78:42:ad::53
-s.nic.dk.	0	IN	A	193.176.144.15
-s.nic.dk.	0	IN	AAAA	2a00:d78:0:102:193:176:144:15
+s.nic.dk.	0	IN	A	194.0.28.7
+s.nic.dk.	0	IN	AAAA	2001:678:2c:0:194:0:28:7
 dm.	0	IN	NS	ns.blacknightsolutions.com.
 dm.	0	IN	NS	ns2.nic.dm.
 dm.	0	IN	NS	ns2.blacknightsolutions.com.
