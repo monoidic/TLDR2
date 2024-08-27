@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024082701 1 1 719c627af28e2146cce6149a5f5cbaedc8b16aba08573af186228e9c80a55e0d86a352a72ad8741e8488021347d1c162
+.	0	IN	ZONEMD	2024082702 1 1 1a327897b01d6a85487e607a35a51c9b1c9ce25634d81067c2ac39490aef4d9edb50e599eff83e4e2cc021109163b2b2
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12711,6 +12711,7 @@ office.	0	IN	NS	ns1.dns.nic.office.
 office.	0	IN	NS	ns2.dns.nic.office.
 office.	0	IN	NS	ns3.dns.nic.office.
 office.	0	IN	DS	9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
+office.	0	IN	DS	16229 8 2 274a1641ddcc58b8fa48db227dd26a8785b201363bb99a9ede5b5d2693b15def
 a.nic.office.	0	IN	A	37.209.192.9
 a.nic.office.	0	IN	AAAA	2001:dcd:1::9
 b.nic.office.	0	IN	A	37.209.194.9
@@ -15883,6 +15884,7 @@ skype.	0	IN	NS	c.nic.skype.
 skype.	0	IN	NS	ns1.dns.nic.skype.
 skype.	0	IN	NS	ns2.dns.nic.skype.
 skype.	0	IN	NS	ns3.dns.nic.skype.
+skype.	0	IN	DS	25544 8 2 2aaa5a12f194b174e8545dc683e987ae649ce73c0f8f979b9baee765c90ae78b
 skype.	0	IN	DS	56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
 a.nic.skype.	0	IN	A	37.209.192.9
 a.nic.skype.	0	IN	AAAA	2001:dcd:1::9
@@ -18008,7 +18010,6 @@ ve.	0	IN	NS	ns5.nic.ve.
 ve.	0	IN	NS	ns6.nic.ve.
 ve.	0	IN	NS	ssdns-tld.nic.cl.
 ve.	0	IN	DS	53545 8 2 0ba030fb1720bb0263e2ae748c9caa6fc7bebf30f4e1271af22554c6c43ef3fe
-ve.	0	IN	DS	62041 8 2 78f2ecb0ecd744a381d514ec91ca6389921fe168f41c96a41d0d794caf30c3b1
 ns3.nic.ve.	0	IN	A	190.9.129.56
 ns4.nic.ve.	0	IN	A	190.202.128.43
 ns5.nic.ve.	0	IN	A	45.175.22.88
