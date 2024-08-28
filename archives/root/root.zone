@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024082801 1 1 7b988a99197fcc4507a29d43926a28c89d68dce3403ab2e238393bbb6615a21c2e5f131487d831ad87ff6ed80341480d
+.	0	IN	ZONEMD	2024082802 1 1 bfdd76704570e7557f999ecbf4866ddec09a2b437658eecbdcec334989ce16dc87e0f1f85e2be76ff26d810ef3899f4d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -14864,6 +14864,7 @@ sa.	0	IN	NS	m1.dns.sa.
 sa.	0	IN	NS	m2.dns.sa.
 sa.	0	IN	NS	n1.dns.sa.
 sa.	0	IN	NS	p1.dns.sa.
+sa.	0	IN	NS	s1.dns.sa.
 sa.	0	IN	NS	s2.dns.sa.
 sa.	0	IN	NS	sh1.dns.sa.
 sa.	0	IN	DS	62932 8 2 2e80b1231d370f4933a26f19487946eaca1db9d41a53831c2a9e73368bbbaab5
@@ -14881,6 +14882,8 @@ n1.dns.sa.	0	IN	A	194.146.106.102
 n1.dns.sa.	0	IN	AAAA	2001:67c:1010:26::53
 p1.dns.sa.	0	IN	A	204.61.216.41
 p1.dns.sa.	0	IN	AAAA	2001:500:14:6041:ad::1
+s1.dns.sa.	0	IN	A	37.107.223.170
+s1.dns.sa.	0	IN	AAAA	2001:16a0:1:3002::2
 s2.dns.sa.	0	IN	A	37.107.255.170
 s2.dns.sa.	0	IN	AAAA	2001:16a0:2:3002::2
 sh1.dns.sa.	0	IN	A	213.236.36.92
@@ -20021,6 +20024,7 @@ xn--mgberp4a5d4ar.	0	IN	NS	m1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	m2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	p1.dns.sa.
+xn--mgberp4a5d4ar.	0	IN	NS	s1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	sh1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	DS	51067 8 2 71a90d5298b157332cf6dc7bc2105982054a8d5f5c74c67debbbee3afbe114d3
