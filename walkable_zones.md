@@ -2,7 +2,6 @@
 
 * `.`
 * `amazon.`
-* `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -11,10 +10,8 @@
 * `bt.`
 * `car.`
 * `cars.`
-* `ch.`
 * `christmas.`
 * `ci.`
-* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -36,7 +33,6 @@
 * `lk.`
 * `lol.`
 * `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `pics.`
@@ -44,7 +40,6 @@
 * `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
