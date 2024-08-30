@@ -89,6 +89,8 @@
 21.ax.	0	IN	NS	terry.ns.cloudflare.com.
 2138.ax.	0	IN	NS	v1s1.xundns.com.
 2138.ax.	0	IN	NS	v1s2.xundns.com.
+22.ax.	0	IN	NS	ns1.22.ax.
+22.ax.	0	IN	NS	ns2.22.ax.
 222.ax.	0	IN	NS	ns1.netim.net.
 222.ax.	0	IN	NS	ns2.netim.net.
 222.ax.	0	IN	NS	ns3.netim.net.
@@ -157,8 +159,6 @@
 41.ax.	0	IN	NS	ns7.netsto.net.
 41267.ax.	0	IN	NS	ns6.netsto.net.
 41267.ax.	0	IN	NS	ns7.netsto.net.
-42.ax.	0	IN	NS	terry.ns.cloudflare.com.
-42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 42653.ax.	0	IN	NS	ns6.netsto.net.
 42653.ax.	0	IN	NS	ns7.netsto.net.
 44.ax.	0	IN	NS	ns1.ps.kz.
@@ -2153,6 +2153,7 @@ campaign.ax.	0	IN	NS	ns3.netim.net.
 camping.ax.	0	IN	NS	ns1.aland.net.
 camping.ax.	0	IN	NS	ns2.aland.net.
 camping.ax.	0	IN	NS	ns3.alcom.fi.
+camping.ax.	0	IN	NS	ns4.alcom.fi.
 cancer.ax.	0	IN	NS	ns1.aland.net.
 cancer.ax.	0	IN	NS	ns2.aland.net.
 cancer.ax.	0	IN	NS	ns3.alcom.fi.
@@ -10072,8 +10073,8 @@ thompson.ax.	0	IN	NS	ns2.netim.net.
 thompson.ax.	0	IN	NS	ns3.netim.net.
 thompson.ax.	0	IN	NS	ns4.netim.net.
 thompson.ax.	0	IN	NS	ns5.netim.net.
-thor.ax.	0	IN	NS	ns1.dan.com.
-thor.ax.	0	IN	NS	ns2.dan.com.
+thor.ax.	0	IN	NS	ns1.dan.hosting.
+thor.ax.	0	IN	NS	ns2.dan.hosting.
 thorn.ax.	0	IN	NS	ns01.trademarkarea.com.
 thorn.ax.	0	IN	NS	ns02.trademarkarea.com.
 thorn.ax.	0	IN	NS	ns03.trademarkarea.com.
@@ -11249,10 +11250,6 @@ xn--landslagting-scb.ax.	0	IN	NS	ns.regeringen.ax.
 xn--landslagting-scb.ax.	0	IN	NS	ns2.alcom.aland.fi.
 xn--landslagting-scb.ax.	0	IN	NS	ns2.regeringen.ax.
 xn--landslagting-scb.ax.	0	IN	NS	ns3.alcom.aland.fi.
-xn--lex-tla.ax.	0	IN	NS	ns.regeringen.ax.
-xn--lex-tla.ax.	0	IN	NS	ns2.aland.net.
-xn--lex-tla.ax.	0	IN	NS	ns2.regeringen.ax.
-xn--lex-tla.ax.	0	IN	NS	ns3.alcom.fi.
 xn--lindstromland-xfb.ax.	0	IN	NS	nsgbr.comlaude.co.uk.
 xn--lindstromland-xfb.ax.	0	IN	NS	nssui.comlaude.ch.
 xn--lindstromland-xfb.ax.	0	IN	NS	nsusa.comlaude.net.
