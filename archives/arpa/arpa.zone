@@ -121,6 +121,8 @@ l.ns.arpa.	0	IN	A	199.7.83.42
 l.ns.arpa.	0	IN	AAAA	2001:500:9f::42
 m.ns.arpa.	0	IN	A	202.12.27.33
 m.ns.arpa.	0	IN	AAAA	2001:dc3::35
+service.arpa.	0	IN	NS	blackhole-1.iana.org.
+service.arpa.	0	IN	NS	blackhole-2.iana.org.
 uri.arpa.	0	IN	NS	a.iana-servers.net.
 uri.arpa.	0	IN	NS	b.iana-servers.net.
 uri.arpa.	0	IN	NS	c.iana-servers.net.
