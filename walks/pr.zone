@@ -801,12 +801,8 @@ btc.pr.	0	IN	NS	ns1.dan.com.
 btc.pr.	0	IN	NS	ns2.dan.com.
 budweiser.pr.	0	IN	NS	ns.domainnetwork.se.
 budweiser.pr.	0	IN	NS	ns2.domainnetwork.se.
-buenavida.pr.	0	IN	NS	ns1.namepros-dns.is.
-buenavida.pr.	0	IN	NS	ns1.namepros-dns.com.
-buenavida.pr.	0	IN	NS	ns1.namepros-dns.org.
-buenavida.pr.	0	IN	NS	ns2.namepros-dns.is.
-buenavida.pr.	0	IN	NS	ns2.namepros-dns.com.
-buenavida.pr.	0	IN	NS	ns2.namepros-dns.org.
+buenavida.pr.	0	IN	NS	mns01.domaincontrol.com.
+buenavida.pr.	0	IN	NS	mns02.domaincontrol.com.
 buffalowildwings.pr.	0	IN	NS	ns1.netnames.net.
 buffalowildwings.pr.	0	IN	NS	ns2.netnames.net.
 buffalowildwings.pr.	0	IN	NS	ns5.netnames.net.
@@ -963,8 +959,12 @@ cayey.pr.	0	IN	NS	ns-394.awsdns-49.com.
 cayey.pr.	0	IN	NS	ns-1007.awsdns-61.net.
 cayey.pr.	0	IN	NS	ns-1081.awsdns-07.org.
 cayey.pr.	0	IN	NS	ns-1929.awsdns-49.co.uk.
-cb.pr.	0	IN	NS	mns01.domaincontrol.com.
-cb.pr.	0	IN	NS	mns02.domaincontrol.com.
+cb.pr.	0	IN	NS	ns1.namepros-dns.is.
+cb.pr.	0	IN	NS	ns1.namepros-dns.com.
+cb.pr.	0	IN	NS	ns1.namepros-dns.org.
+cb.pr.	0	IN	NS	ns2.namepros-dns.is.
+cb.pr.	0	IN	NS	ns2.namepros-dns.com.
+cb.pr.	0	IN	NS	ns2.namepros-dns.org.
 cbee.pr.	0	IN	NS	mns01.domaincontrol.com.
 cbee.pr.	0	IN	NS	mns02.domaincontrol.com.
 ccriopiedras.pr.	0	IN	NS	ns27.boxsecured.com.
@@ -5099,6 +5099,7 @@ unilever.pr.	0	IN	NS	ns3-44.azure-dns.org.
 unilever.pr.	0	IN	NS	ns4-44.azure-dns.info.
 univ.pr.	0	IN	NS	ns1.hosting.tu.pr.
 univ.pr.	0	IN	NS	ns2.hosting.tu.pr.
+universia.pr.	0	IN	NS	ns1-expired.sav.com.
 uno.pr.	0	IN	NS	ns1.markmonitor.com.
 uno.pr.	0	IN	NS	ns2.markmonitor.com.
 uno.pr.	0	IN	NS	ns3.markmonitor.com.
