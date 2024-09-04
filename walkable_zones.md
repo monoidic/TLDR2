@@ -8,7 +8,6 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
@@ -20,16 +19,12 @@
 * `dz.`
 * `ee.`
 * `er.`
-* `flowers.`
 * `game.`
-* `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
 * `ieee.`
-* `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -42,7 +37,6 @@
 * `pr.`
 * `ruhr.`
 * `se.`
-* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
