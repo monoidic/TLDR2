@@ -21,6 +21,7 @@
 * `ee.`
 * `er.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
@@ -28,6 +29,7 @@
 * `id.`
 * `ieee.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -35,6 +37,7 @@
 * `lr.`
 * `mc.`
 * `mom.`
+* `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
