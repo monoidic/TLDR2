@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024090901 1 1 519622d652f405f6bb3946c0e2b0796cbdf8189023003776a5181e526368ab6216e43bb2bd30b17179fc8efe87a22b90
+.	0	IN	ZONEMD	2024090902 1 1 a5dea00dfc104cb4061fab010f14e229e4ca53185ac2af7c7daac74c0ade32d7f67410252148b387092fe65741e860a8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -6644,7 +6644,6 @@ ns2.dns.nic.fox.	0	IN	AAAA	2610:a1:1072::3f
 ns3.dns.nic.fox.	0	IN	A	156.154.159.63
 ns3.dns.nic.fox.	0	IN	AAAA	2610:a1:1073::3f
 fr.	0	IN	NS	d.nic.fr.
-fr.	0	IN	NS	e.ext.nic.fr.
 fr.	0	IN	NS	f.ext.nic.fr.
 fr.	0	IN	NS	g.ext.nic.fr.
 fr.	0	IN	DS	29133 13 2 1303e8da8fb60db500d5bea1ee5dc9a2bcc93dfe2fc43d346576658feccf5749
@@ -6652,8 +6651,6 @@ dns.inria.fr.	0	IN	A	193.51.208.13
 dns-tld.ird.fr.	0	IN	A	13.39.116.127
 d.nic.fr.	0	IN	A	194.0.9.1
 d.nic.fr.	0	IN	AAAA	2001:678:c::1
-e.ext.nic.fr.	0	IN	A	193.176.144.22
-e.ext.nic.fr.	0	IN	AAAA	2a00:d78:0:102:193:176:144:22
 f.ext.nic.fr.	0	IN	A	194.146.106.46
 f.ext.nic.fr.	0	IN	AAAA	2001:67c:1010:11::53
 g.ext.nic.fr.	0	IN	A	194.0.36.1
@@ -13674,7 +13671,6 @@ v2n0.nic.plus.	0	IN	AAAA	2a01:8840:25::39
 v2n1.nic.plus.	0	IN	A	161.232.17.39
 v2n1.nic.plus.	0	IN	AAAA	2a01:8840:fb::39
 pm.	0	IN	NS	d.nic.fr.
-pm.	0	IN	NS	e.ext.nic.fr.
 pm.	0	IN	NS	f.ext.nic.fr.
 pm.	0	IN	NS	g.ext.nic.fr.
 pm.	0	IN	DS	6926 13 2 a6c8233fc45f53c788ee2adfeea7dac7abb8b7108c25e38b56a3fa6848715f48
@@ -14188,7 +14184,6 @@ radio.	0	IN	NS	anycast23.irondns.net.
 radio.	0	IN	NS	anycast24.irondns.net.
 radio.	0	IN	DS	62727 10 2 3863e4a0c36a262785c1703b5cff54cdbd56cd40bb414b45599848ce972e26b9
 re.	0	IN	NS	d.nic.fr.
-re.	0	IN	NS	e.ext.nic.fr.
 re.	0	IN	NS	f.ext.nic.fr.
 re.	0	IN	NS	g.ext.nic.fr.
 re.	0	IN	DS	61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
@@ -16991,7 +16986,6 @@ ns2.dns.nic.teva.	0	IN	AAAA	2610:a1:1072::a0
 ns3.dns.nic.teva.	0	IN	A	156.154.159.160
 ns3.dns.nic.teva.	0	IN	AAAA	2610:a1:1073::a0
 tf.	0	IN	NS	d.nic.fr.
-tf.	0	IN	NS	e.ext.nic.fr.
 tf.	0	IN	NS	f.ext.nic.fr.
 tf.	0	IN	NS	g.ext.nic.fr.
 tf.	0	IN	DS	61832 13 2 9b5c9089b84d2138e6c30163d9b169e6e793236827ce2a0eedab7cb96c644d83
@@ -18733,7 +18727,6 @@ b0.nic.weir.	0	IN	AAAA	2a01:8840:6f::75
 c0.nic.weir.	0	IN	A	65.22.114.75
 c0.nic.weir.	0	IN	AAAA	2a01:8840:70::75
 wf.	0	IN	NS	d.nic.fr.
-wf.	0	IN	NS	e.ext.nic.fr.
 wf.	0	IN	NS	f.ext.nic.fr.
 wf.	0	IN	NS	g.ext.nic.fr.
 wf.	0	IN	DS	19250 13 2 6fa97d147253c2afb0cfcf18edb8c97e592d05e0845b6c644c3793fed8a756dd
@@ -20660,7 +20653,6 @@ youtube.	0	IN	NS	ns-tld4.charlestonroadregistry.com.
 youtube.	0	IN	NS	ns-tld5.charlestonroadregistry.com.
 youtube.	0	IN	DS	63811 8 2 704005247382f846eac39d9654488f071934fdf3e96c05be3266009593f60617
 yt.	0	IN	NS	d.nic.fr.
-yt.	0	IN	NS	e.ext.nic.fr.
 yt.	0	IN	NS	f.ext.nic.fr.
 yt.	0	IN	NS	g.ext.nic.fr.
 yt.	0	IN	DS	2488 13 2 185aed42dc3641ea53ec74c474aeaf72f049556fe306ded0e748b60c5fed1000
