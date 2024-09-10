@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024091000 1 1 a83cb84ed77d18e89bcac1bf6aac4b70afc9c244d93b4e0e3b7013eb4436d5b6fd9d82bb89e6769bf5fc951082bd9e81
+.	0	IN	ZONEMD	2024091001 1 1 74b65df86a9d23ca7f66cda850f0dc26fefb13ea0d8d51f0f750aaf672da096e7b074b95149f584375cfcdb8dc171569
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1070,7 +1070,6 @@ at.	0	IN	NS	r.ns.at.
 at.	0	IN	NS	u.ns.at.
 at.	0	IN	NS	ns1.univie.ac.at.
 at.	0	IN	NS	ns2.univie.ac.at.
-at.	0	IN	NS	ns9.univie.ac.at.
 at.	0	IN	DS	1253 13 2 ba17c1bacb3fb49f7760ad1f7e71e17ab39ee0df3e9d3bf23fd3d70d6cf1719e
 at.	0	IN	DS	18942 13 2 ae5f0bd73c8f48f3d55cdc4070f9407873176c364de4bc92bf96887685e6e55f
 dns-eg.univie.ac.at.	0	IN	A	78.104.145.8
@@ -1081,8 +1080,6 @@ ns1.univie.ac.at.	0	IN	A	78.104.144.2
 ns1.univie.ac.at.	0	IN	AAAA	2001:628:2030:4301::2
 ns2.univie.ac.at.	0	IN	A	192.92.125.2
 ns2.univie.ac.at.	0	IN	AAAA	2001:678:1c::2
-ns9.univie.ac.at.	0	IN	A	194.0.10.100
-ns9.univie.ac.at.	0	IN	AAAA	2001:678:d::cafe
 d.ns.at.	0	IN	A	81.91.161.98
 d.ns.at.	0	IN	AAAA	2a02:568:20:1::d
 j.ns.at.	0	IN	A	194.146.106.50
@@ -4259,6 +4256,7 @@ corsica.	0	IN	NS	d.nic.fr.
 corsica.	0	IN	NS	f.ext.nic.fr.
 corsica.	0	IN	NS	g.ext.nic.fr.
 corsica.	0	IN	DS	16766 13 2 fb25f2d69835bf52cd5389473cd4b0c58d581385ee40b1d1a357135a8ce26997
+corsica.	0	IN	DS	21857 13 2 238b2bc116369bacaf90b7cc71b61a9765aba03f6855db89cef0788193d99e20
 country.	0	IN	NS	ns01.trs-dns.com.
 country.	0	IN	NS	ns01.trs-dns.net.
 country.	0	IN	NS	ns01.trs-dns.org.
@@ -9805,7 +9803,6 @@ lancaster.	0	IN	NS	d.nic.fr.
 lancaster.	0	IN	NS	f.ext.nic.fr.
 lancaster.	0	IN	NS	g.ext.nic.fr.
 lancaster.	0	IN	DS	13478 13 2 bfbd5142e935c01a65a186d56f01124d6832ac3cdc6ede681f50a12ff9c73ead
-lancaster.	0	IN	DS	63656 13 2 847b427327bf07fd61b821d3dc537401d3af0371c0771bebcaf2cdcf51aa108a
 land.	0	IN	NS	v0n0.nic.land.
 land.	0	IN	NS	v0n1.nic.land.
 land.	0	IN	NS	v0n2.nic.land.
@@ -10024,6 +10021,7 @@ v2n1.nic.lease.	0	IN	AAAA	2a01:8840:f7::62
 leclerc.	0	IN	NS	d.nic.fr.
 leclerc.	0	IN	NS	f.ext.nic.fr.
 leclerc.	0	IN	NS	g.ext.nic.fr.
+leclerc.	0	IN	DS	56243 13 2 e6cd61fe33323d5b27b16bcb952512801ae7e4f4c860d733eb9148e409811a37
 leclerc.	0	IN	DS	60287 13 2 d64818b1cd557c6040e2f188d15748afb29ac5fac90e8403bd391776d34a9696
 lefrak.	0	IN	NS	a0.nic.lefrak.
 lefrak.	0	IN	NS	a2.nic.lefrak.
@@ -11696,6 +11694,7 @@ udns2.tld.mu.	0	IN	AAAA	2001:67c:e0::98
 museum.	0	IN	NS	d.nic.fr.
 museum.	0	IN	NS	f.ext.nic.fr.
 museum.	0	IN	NS	g.ext.nic.fr.
+museum.	0	IN	DS	21025 13 2 9149a23c9151e0812505df827e0aaa504a43b830a58100512e976eeaaf0fa8cf
 museum.	0	IN	DS	21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f259cc03c5
 music.	0	IN	NS	ns01.trs-dns.com.
 music.	0	IN	NS	ns01.trs-dns.net.
@@ -13066,6 +13065,7 @@ c0.nic.ott.	0	IN	AAAA	2a01:8840:5c::9
 ovh.	0	IN	NS	d.nic.fr.
 ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
+ovh.	0	IN	DS	2779 13 2 e6b3f359c1980de521369be4bd61fc91b9e311aa79221705d248925add22f1d1
 ovh.	0	IN	DS	24939 13 2 02a3f789b7d6c726513eebadf7f64741fed1acd57405339d9d50191c620cd914
 pa.	0	IN	NS	a.lactld.org.
 pa.	0	IN	NS	ns.pa.
@@ -13094,6 +13094,7 @@ paris.	0	IN	NS	d.nic.fr.
 paris.	0	IN	NS	f.ext.nic.fr.
 paris.	0	IN	NS	g.ext.nic.fr.
 paris.	0	IN	NS	h.ext.nic.fr.
+paris.	0	IN	DS	29441 13 2 2a63e38eb019ad4300a2d9533fae0db139328ceffd0861cd8db1c401ca0258d9
 paris.	0	IN	DS	36157 13 2 e9aa567b3ffad9aa9f2c6a0bc0b7fed6d338c5150bd5627812a5f9957969c37d
 pars.	0	IN	NS	dns1.emdns.uk.
 pars.	0	IN	NS	dns2.emdns.uk.
