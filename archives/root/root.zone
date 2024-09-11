@@ -13,7 +13,6 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024091101 1 1 4cc153d00817972b7b726e369416ad949107944017a4dc6672476774bd5abfceb148d54a0dd62752e51f3b6856d8eb10
 .	0	IN	ZONEMD	2024091102 1 1 36cad754d513fc665caeef68944164d4795c4f394b5c1655b1d923e18a1d53cdd23995de3ed890953e89a6dcbc7a6a2b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
@@ -2696,7 +2695,6 @@ bz.	0	IN	DS	22882 8 2 088ad52a5e8e9adf54345cb21753a54f71bfb8e2674f08b02b64ab53f4
 bzh.	0	IN	NS	d.nic.fr.
 bzh.	0	IN	NS	f.ext.nic.fr.
 bzh.	0	IN	NS	g.ext.nic.fr.
-bzh.	0	IN	DS	21101 13 2 1142355e16da610e0872122f8e5f542ee0d3668abb727f3a031e2c14757b2445
 bzh.	0	IN	DS	51731 13 2 d250d39d26a0438e9bf413cd47c06f61ffc1b50a0b163e27978bc4d25703d74d
 ca.	0	IN	NS	c.ca-servers.ca.
 ca.	0	IN	NS	d.ca-servers.ca.
@@ -4258,7 +4256,6 @@ coop.	0	IN	DS	39183 13 2 fd71e26868bf7f277dfa0800aa6f51e12e00c8b61841b35daae12cd
 corsica.	0	IN	NS	d.nic.fr.
 corsica.	0	IN	NS	f.ext.nic.fr.
 corsica.	0	IN	NS	g.ext.nic.fr.
-corsica.	0	IN	DS	16766 13 2 fb25f2d69835bf52cd5389473cd4b0c58d581385ee40b1d1a357135a8ce26997
 corsica.	0	IN	DS	21857 13 2 238b2bc116369bacaf90b7cc71b61a9765aba03f6855db89cef0788193d99e20
 country.	0	IN	NS	ns01.trs-dns.com.
 country.	0	IN	NS	ns01.trs-dns.net.
@@ -10025,7 +10022,6 @@ leclerc.	0	IN	NS	d.nic.fr.
 leclerc.	0	IN	NS	f.ext.nic.fr.
 leclerc.	0	IN	NS	g.ext.nic.fr.
 leclerc.	0	IN	DS	56243 13 2 e6cd61fe33323d5b27b16bcb952512801ae7e4f4c860d733eb9148e409811a37
-leclerc.	0	IN	DS	60287 13 2 d64818b1cd557c6040e2f188d15748afb29ac5fac90e8403bd391776d34a9696
 lefrak.	0	IN	NS	a0.nic.lefrak.
 lefrak.	0	IN	NS	a2.nic.lefrak.
 lefrak.	0	IN	NS	b0.nic.lefrak.
@@ -11698,7 +11694,6 @@ museum.	0	IN	NS	d.nic.fr.
 museum.	0	IN	NS	f.ext.nic.fr.
 museum.	0	IN	NS	g.ext.nic.fr.
 museum.	0	IN	DS	21025 13 2 9149a23c9151e0812505df827e0aaa504a43b830a58100512e976eeaaf0fa8cf
-museum.	0	IN	DS	21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f259cc03c5
 music.	0	IN	NS	ns01.trs-dns.com.
 music.	0	IN	NS	ns01.trs-dns.net.
 music.	0	IN	NS	ns01.trs-dns.org.
@@ -13069,7 +13064,6 @@ ovh.	0	IN	NS	d.nic.fr.
 ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
 ovh.	0	IN	DS	2779 13 2 e6b3f359c1980de521369be4bd61fc91b9e311aa79221705d248925add22f1d1
-ovh.	0	IN	DS	24939 13 2 02a3f789b7d6c726513eebadf7f64741fed1acd57405339d9d50191c620cd914
 pa.	0	IN	NS	a.lactld.org.
 pa.	0	IN	NS	ns.pa.
 pa.	0	IN	NS	ns.dns.br.
@@ -13098,7 +13092,6 @@ paris.	0	IN	NS	f.ext.nic.fr.
 paris.	0	IN	NS	g.ext.nic.fr.
 paris.	0	IN	NS	h.ext.nic.fr.
 paris.	0	IN	DS	29441 13 2 2a63e38eb019ad4300a2d9533fae0db139328ceffd0861cd8db1c401ca0258d9
-paris.	0	IN	DS	36157 13 2 e9aa567b3ffad9aa9f2c6a0bc0b7fed6d338c5150bd5627812a5f9957969c37d
 pars.	0	IN	NS	dns1.emdns.uk.
 pars.	0	IN	NS	dns2.emdns.uk.
 pars.	0	IN	NS	dns3.emdns.uk.
@@ -15986,7 +15979,6 @@ ns.ucad.sn.	0	IN	A	196.1.95.1
 sncf.	0	IN	NS	d.nic.fr.
 sncf.	0	IN	NS	f.ext.nic.fr.
 sncf.	0	IN	NS	g.ext.nic.fr.
-sncf.	0	IN	DS	42021 13 2 76868912d2c9ac062cc7b403ad3f32daffeb37cf4c220bf74e196fb75f7c861c
 sncf.	0	IN	DS	55518 13 2 6fffe7594578aba56bebcb0b29c9d0ef8799597872eff2a353eb30ddab2bc47c
 so.	0	IN	NS	d.nic.so.
 so.	0	IN	NS	e.nic.so.
