@@ -2,8 +2,11 @@
 
 * `.`
 * `amazon.`
+* `aquarelle.`
 * `arpa.`
+* `audio.`
 * `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -14,6 +17,7 @@
 * `ci.`
 * `cw.`
 * `desi.`
+* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -23,11 +27,13 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
 * `lb.`
 * `li.`
+* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
