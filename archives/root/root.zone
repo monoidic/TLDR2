@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024091601 1 1 de99e49085dccc8be6ce43bfd31cb81ec5a3d4f07cf3be682754ba8a94468d2a82d50e6c70f871012d13bc32b16b1449
+.	0	IN	ZONEMD	2024091602 1 1 fc0e5d7efdcc58f0f1842aa02cf28ad0c47c59f930d4417b2cc87b08602c6ce5ac5f2392828faf11bb12f35bce94abf3
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -599,7 +599,6 @@ z.nic.ally.	0	IN	AAAA	2610:a1:1076::1:82
 alsace.	0	IN	NS	d.nic.fr.
 alsace.	0	IN	NS	f.ext.nic.fr.
 alsace.	0	IN	NS	g.ext.nic.fr.
-alsace.	0	IN	DS	7047 13 2 40ac4eda437f376b0a772ac6f570055a6aa58d635ac07946a778abebb8e5c024
 alsace.	0	IN	DS	8797 13 2 9af8c74e940ed2d43eded6c22c4dde7acaa49f00f02bf85b8cd15b820e06821a
 alstom.	0	IN	NS	anycast9.irondns.net.
 alstom.	0	IN	NS	anycast10.irondns.net.
@@ -13446,24 +13445,12 @@ v2n0.nic.pictures.	0	IN	A	65.22.23.16
 v2n0.nic.pictures.	0	IN	AAAA	2a01:8840:19::16
 v2n1.nic.pictures.	0	IN	A	161.232.11.16
 v2n1.nic.pictures.	0	IN	AAAA	2a01:8840:f5::16
-pid.	0	IN	NS	a.nic.pid.
-pid.	0	IN	NS	b.nic.pid.
-pid.	0	IN	NS	c.nic.pid.
-pid.	0	IN	NS	d.nic.pid.
 pid.	0	IN	NS	ns01.trs-dns.com.
 pid.	0	IN	NS	ns01.trs-dns.net.
 pid.	0	IN	NS	ns01.trs-dns.org.
 pid.	0	IN	NS	ns01.trs-dns.info.
 pid.	0	IN	DS	40310 8 2 2415bf6a21e16aa37db85091772fd176ca35ac24ca8ab1c95b81df13f7fa0754
 pid.	0	IN	DS	59747 8 2 787344f262181e467e0adde855b6015f6020a0136ba6ee835b1719e298879304
-a.nic.pid.	0	IN	A	194.169.218.47
-a.nic.pid.	0	IN	AAAA	2001:67c:13cc::1:47
-b.nic.pid.	0	IN	A	185.24.64.47
-b.nic.pid.	0	IN	AAAA	2a04:2b00:13cc::1:47
-c.nic.pid.	0	IN	A	212.18.248.47
-c.nic.pid.	0	IN	AAAA	2a04:2b00:13ee::47
-d.nic.pid.	0	IN	A	212.18.249.47
-d.nic.pid.	0	IN	AAAA	2a04:2b00:13ff::47
 pin.	0	IN	NS	dns1.nic.pin.
 pin.	0	IN	NS	dns2.nic.pin.
 pin.	0	IN	NS	dns3.nic.pin.
