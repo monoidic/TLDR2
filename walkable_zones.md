@@ -3,7 +3,6 @@
 * `.`
 * `amazon.`
 * `aquarelle.`
-* `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -28,7 +27,6 @@
 * `hosting.`
 * `id.`
 * `ieee.`
-* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
@@ -45,9 +43,9 @@
 * `sl.`
 * `tn.`
 * `tz.`
-* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--fzc2c9e2c.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
