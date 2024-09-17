@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024091700 1 1 7afb42fdb6d9c5e5f5d0f2bc17cc090ad28702a041ff71d2dd2263d92c692dfd0698d01fba0d2e9eb143cbc97c61f0e3
+.	0	IN	ZONEMD	2024091701 1 1 b85ef1fc1afd9bad8e7c8f72a4892f62ea4a89a07933bc4f17d4a1a81eda38abbff1d22ad113ed6daf7dfa26c57984ca
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -12706,26 +12706,16 @@ observer.	0	IN	NS	ns01.trs-dns.net.
 observer.	0	IN	NS	ns01.trs-dns.org.
 observer.	0	IN	NS	ns01.trs-dns.info.
 observer.	0	IN	DS	15964 13 2 406b287804778738dcf0b6d94bf410455d500e7a3dceaf8d34c5afa86c91a6e1
-office.	0	IN	NS	a.nic.office.
-office.	0	IN	NS	b.nic.office.
-office.	0	IN	NS	c.nic.office.
-office.	0	IN	NS	ns1.dns.nic.office.
-office.	0	IN	NS	ns2.dns.nic.office.
-office.	0	IN	NS	ns3.dns.nic.office.
+office.	0	IN	NS	dns1.nic.microsoft.
+office.	0	IN	NS	dns2.nic.microsoft.
+office.	0	IN	NS	dns3.nic.microsoft.
+office.	0	IN	NS	dns4.nic.microsoft.
+office.	0	IN	NS	dnsa.nic.microsoft.
+office.	0	IN	NS	dnsb.nic.microsoft.
+office.	0	IN	NS	dnsc.nic.microsoft.
+office.	0	IN	NS	dnsd.nic.microsoft.
 office.	0	IN	DS	9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
 office.	0	IN	DS	16229 8 2 274a1641ddcc58b8fa48db227dd26a8785b201363bb99a9ede5b5d2693b15def
-a.nic.office.	0	IN	A	37.209.192.9
-a.nic.office.	0	IN	AAAA	2001:dcd:1::9
-b.nic.office.	0	IN	A	37.209.194.9
-b.nic.office.	0	IN	AAAA	2001:dcd:2::9
-c.nic.office.	0	IN	A	37.209.196.9
-c.nic.office.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.office.	0	IN	A	156.154.144.126
-ns1.dns.nic.office.	0	IN	AAAA	2610:a1:1071::7e
-ns2.dns.nic.office.	0	IN	A	156.154.145.126
-ns2.dns.nic.office.	0	IN	AAAA	2610:a1:1072::7e
-ns3.dns.nic.office.	0	IN	A	156.154.159.126
-ns3.dns.nic.office.	0	IN	AAAA	2610:a1:1073::7e
 okinawa.	0	IN	NS	a.gmoregistry.net.
 okinawa.	0	IN	NS	b.gmoregistry.net.
 okinawa.	0	IN	NS	k.gmoregistry.net.
@@ -15873,26 +15863,16 @@ dnsc.nic.sky.	0	IN	A	156.154.102.3
 dnsc.nic.sky.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.sky.	0	IN	A	156.154.103.3
 dnsd.nic.sky.	0	IN	AAAA	2610:a1:1010::3
-skype.	0	IN	NS	a.nic.skype.
-skype.	0	IN	NS	b.nic.skype.
-skype.	0	IN	NS	c.nic.skype.
-skype.	0	IN	NS	ns1.dns.nic.skype.
-skype.	0	IN	NS	ns2.dns.nic.skype.
-skype.	0	IN	NS	ns3.dns.nic.skype.
+skype.	0	IN	NS	dns1.nic.microsoft.
+skype.	0	IN	NS	dns2.nic.microsoft.
+skype.	0	IN	NS	dns3.nic.microsoft.
+skype.	0	IN	NS	dns4.nic.microsoft.
+skype.	0	IN	NS	dnsa.nic.microsoft.
+skype.	0	IN	NS	dnsb.nic.microsoft.
+skype.	0	IN	NS	dnsc.nic.microsoft.
+skype.	0	IN	NS	dnsd.nic.microsoft.
 skype.	0	IN	DS	25544 8 2 2aaa5a12f194b174e8545dc683e987ae649ce73c0f8f979b9baee765c90ae78b
 skype.	0	IN	DS	56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
-a.nic.skype.	0	IN	A	37.209.192.9
-a.nic.skype.	0	IN	AAAA	2001:dcd:1::9
-b.nic.skype.	0	IN	A	37.209.194.9
-b.nic.skype.	0	IN	AAAA	2001:dcd:2::9
-c.nic.skype.	0	IN	A	37.209.196.9
-c.nic.skype.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.skype.	0	IN	A	156.154.144.151
-ns1.dns.nic.skype.	0	IN	AAAA	2610:a1:1071::97
-ns2.dns.nic.skype.	0	IN	A	156.154.145.151
-ns2.dns.nic.skype.	0	IN	AAAA	2610:a1:1072::97
-ns3.dns.nic.skype.	0	IN	A	156.154.159.151
-ns3.dns.nic.skype.	0	IN	AAAA	2610:a1:1073::97
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
 sling.	0	IN	NS	a0.nic.sling.
