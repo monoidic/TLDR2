@@ -3,7 +3,6 @@
 * `.`
 * `amazon.`
 * `aquarelle.`
-* `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -18,7 +17,6 @@
 * `cw.`
 * `desi.`
 * `diet.`
-* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
@@ -37,20 +35,16 @@
 * `lol.`
 * `lr.`
 * `mc.`
-* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
-* `tn.`
 * `tz.`
 * `ve.`
-* `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
