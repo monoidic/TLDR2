@@ -4,10 +4,8 @@
 * `amazon.`
 * `aquarelle.`
 * `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -20,7 +18,6 @@
 * `diet.`
 * `dz.`
 * `ee.`
-* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -30,7 +27,6 @@
 * `id.`
 * `ieee.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -43,7 +39,6 @@
 * `pr.`
 * `ruhr.`
 * `se.`
-* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
