@@ -9,7 +9,6 @@
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
@@ -17,7 +16,6 @@
 * `ci.`
 * `cw.`
 * `desi.`
-* `diet.`
 * `dz.`
 * `ee.`
 * `er.`
@@ -35,7 +33,6 @@
 * `li.`
 * `lk.`
 * `lol.`
-* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
@@ -46,9 +43,7 @@
 * `sl.`
 * `tn.`
 * `tz.`
-* `ve.`
 * `wed.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
