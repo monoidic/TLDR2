@@ -7,13 +7,9 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
-* `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
-* `christmas.`
 * `ci.`
 * `cw.`
 * `desi.`
@@ -30,8 +26,6 @@
 * `id.`
 * `ieee.`
 * `kg.`
-* `kz.`
-* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -41,9 +35,7 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
-* `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
