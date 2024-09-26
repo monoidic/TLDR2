@@ -26,7 +26,9 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
+* `ieee.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -42,6 +44,7 @@
 * `ruhr.`
 * `se.`
 * `sl.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
