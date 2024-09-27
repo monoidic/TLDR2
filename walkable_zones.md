@@ -8,6 +8,7 @@
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
 * `cars.`
@@ -21,9 +22,11 @@
 * `ee.`
 * `er.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
 * `ieee.`
 * `kg.`
@@ -42,6 +45,7 @@
 * `se.`
 * `sl.`
 * `tn.`
+* `tz.`
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
