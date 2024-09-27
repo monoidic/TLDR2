@@ -1865,7 +1865,6 @@ infovest.br.	0	IN	NS	ns1-01.azure-dns.com.
 infovest.br.	0	IN	NS	ns2-01.azure-dns.net.
 infovest.br.	0	IN	NS	ns3-01.azure-dns.org.
 infovest.br.	0	IN	NS	ns4-01.azure-dns.info.
-inpe.br.	0	IN	NS	ns1.unicamp.br.
 inpe.br.	0	IN	NS	anace.gsr.inpe.br.
 inpe.br.	0	IN	NS	caruru.dmz.inpe.br.
 inpe.br.	0	IN	NS	srv-dnscpa.inpe.br.
@@ -2007,8 +2006,9 @@ labuniban.br.	0	IN	NS	ns1-07.azure-dns.com.
 labuniban.br.	0	IN	NS	ns2-07.azure-dns.net.
 labuniban.br.	0	IN	NS	ns3-07.azure-dns.org.
 labuniban.br.	0	IN	NS	ns4-07.azure-dns.info.
-laosp.br.	0	IN	NS	gaivota.birdsnet.com.br.
-laosp.br.	0	IN	NS	pelicano.birdsnet.com.br.
+laosp.br.	0	IN	NS	ns1.locaweb.com.br.
+laosp.br.	0	IN	NS	ns2.locaweb.com.br.
+laosp.br.	0	IN	NS	ns3.locaweb.com.br.
 lavras.br.	0	IN	NS	ara.ns.cloudflare.com.
 lavras.br.	0	IN	NS	norman.ns.cloudflare.com.
 led.br.	0	IN	NS	ns.lec.ufsc.br.
@@ -2187,6 +2187,8 @@ net.br.	0	IN	NS	c.dns.br.
 net.br.	0	IN	NS	d.dns.br.
 net.br.	0	IN	NS	e.dns.br.
 net.br.	0	IN	NS	f.dns.br.
+netacad.br.	0	IN	NS	dns1.superdns.com.br.
+netacad.br.	0	IN	NS	dns2.superdns.com.br.
 netlog.br.	0	IN	NS	ns1.mandic.com.br.
 netlog.br.	0	IN	NS	ns2.mandic.com.br.
 netlog.br.	0	IN	NS	ns3.mandic.com.br.
@@ -3055,8 +3057,7 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
-ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	srvdns.
 umar.br.	0	IN	NS	ns1.unicesumar.edu.br.
 umar.br.	0	IN	NS	ns2.unicesumar.edu.br.
 umc.br.	0	IN	NS	infra021.umc.br.
@@ -3301,10 +3302,9 @@ uninfo.br.	0	IN	NS	amarok.unicarioca.edu.br.
 uninfo.br.	0	IN	NS	cooper.unicarioca.edu.br.
 uninga.br.	0	IN	NS	stan.ns.cloudflare.com.
 uninga.br.	0	IN	NS	megan.ns.cloudflare.com.
-uninove.br.	0	IN	NS	ns-483.awsdns-60.com.
-uninove.br.	0	IN	NS	ns-900.awsdns-48.net.
+uninove.br.	0	IN	NS	ns1.uninove.br.
+uninove.br.	0	IN	NS	ns2.uninove.br.
 uninove.br.	0	IN	NS	ns-1370.awsdns-43.org.
-uninove.br.	0	IN	NS	ns-1658.awsdns-15.co.uk.
 uninp.br.	0	IN	NS	a.sec.dns.br.
 uninp.br.	0	IN	NS	c.sec.dns.br.
 uninter.br.	0	IN	NS	dion.ns.cloudflare.com.
@@ -3451,6 +3451,8 @@ unp.br.	0	IN	NS	ns-105.awsdns-13.com.
 unp.br.	0	IN	NS	ns-806.awsdns-36.net.
 unp.br.	0	IN	NS	ns-1161.awsdns-17.org.
 unp.br.	0	IN	NS	ns-2027.awsdns-61.co.uk.
+upe.br.	0	IN	NS	dns1.superdns.com.br.
+upe.br.	0	IN	NS	dns2.superdns.com.br.
 upf.br.	0	IN	NS	nina.ns.cloudflare.com.
 upf.br.	0	IN	NS	jaziel.ns.cloudflare.com.
 upis.br.	0	IN	NS	dns2.upis.br.
