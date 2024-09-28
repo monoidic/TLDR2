@@ -29,7 +29,6 @@
 * `hosting.`
 * `id.`
 * `ieee.`
-* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
