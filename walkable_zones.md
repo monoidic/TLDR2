@@ -7,7 +7,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -16,10 +15,7 @@
 * `christmas.`
 * `ci.`
 * `cw.`
-* `desi.`
 * `diet.`
-* `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -29,6 +25,7 @@
 * `hosting.`
 * `id.`
 * `ieee.`
+* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
