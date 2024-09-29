@@ -21,9 +21,8 @@
 * `dz.`
 * `ee.`
 * `er.`
-* `game.`
+* `flowers.`
 * `gdn.`
-* `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
@@ -34,12 +33,11 @@
 * `li.`
 * `lk.`
 * `lol.`
-* `lr.`
 * `mom.`
 * `nu.`
-* `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `sl.`
 * `tn.`
 * `tz.`
