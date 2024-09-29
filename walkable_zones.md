@@ -7,9 +7,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `bd.`
-* `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
@@ -32,12 +29,9 @@
 * `kg.`
 * `kz.`
 * `lb.`
-* `li.`
 * `lk.`
-* `lol.`
 * `lr.`
 * `mc.`
-* `mom.`
 * `nu.`
 * `pics.`
 * `pr.`
@@ -46,11 +40,9 @@
 * `sl.`
 * `tn.`
 * `tz.`
-* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
