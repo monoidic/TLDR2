@@ -19,15 +19,12 @@
 * `desi.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
-* `flowers.`
 * `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
@@ -47,7 +44,6 @@
 * `tn.`
 * `tz.`
 * `ve.`
-* `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
