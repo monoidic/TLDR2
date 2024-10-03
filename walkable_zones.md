@@ -1,15 +1,17 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `amazon.`
 * `aquarelle.`
 * `arpa.`
 * `audio.`
 * `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
 * `car.`
-* `ch.`
+* `cars.`
 * `christmas.`
 * `ci.`
 * `cw.`
@@ -24,6 +26,7 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
@@ -33,16 +36,14 @@
 * `lol.`
 * `lr.`
 * `mc.`
-* `mom.`
 * `nu.`
 * `pics.`
-* `pr.`
-* `se.`
+* `ruhr.`
 * `sl.`
 * `tn.`
 * `tz.`
 * `ve.`
-* `wed.`
 * `xn--54b7fta0cc.`
+* `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
-* `xn--pgbs0dh.`
+* `xn--l1acc.`
