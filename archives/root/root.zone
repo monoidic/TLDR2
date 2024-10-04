@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024100401 1 1 e08e871211d4450b3be597d9201f1d1cfff9480e2edb9b770890ba053abc3f5a6e21ff42c1dfd4b763b7e1a2ad70f09c
+.	0	IN	ZONEMD	2024100402 1 1 b0d2085b196451c280a45cf8ef3c71bfc6e74562dfc7404069a83f0aadec5319d3c973e884d20163e459c92b6179fcba
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -10640,6 +10640,7 @@ d.nic.luxury.	0	IN	A	212.18.249.98
 d.nic.luxury.	0	IN	AAAA	2a04:2b00:13ff::98
 lv.	0	IN	NS	a.nic.lv.
 lv.	0	IN	NS	b.nic.lv.
+lv.	0	IN	NS	c.nic.lv.
 lv.	0	IN	NS	d.nic.lv.
 lv.	0	IN	NS	n.nic.lv.
 lv.	0	IN	NS	nu.nic.lv.
@@ -10648,6 +10649,8 @@ lv.	0	IN	DS	42018 8 2 7e932a4f9cf9b1cd047c277e3cd323a53d42347d47c7bf1dd6018ff4b3
 a.nic.lv.	0	IN	A	194.0.48.1
 a.nic.lv.	0	IN	AAAA	2001:678:7c::7c
 b.nic.lv.	0	IN	A	92.240.70.1
+c.nic.lv.	0	IN	A	185.159.199.140
+c.nic.lv.	0	IN	AAAA	2620:10a:80ac::140
 d.nic.lv.	0	IN	A	194.0.8.1
 d.nic.lv.	0	IN	AAAA	2001:678:b:1::1
 n.nic.lv.	0	IN	A	194.146.106.150
@@ -11903,14 +11906,18 @@ ns-ug.afrinic.net.	0	IN	A	196.216.168.42
 ns-ug.afrinic.net.	0	IN	AAAA	2001:43f8:120::42
 ns-zm.afrinic.net.	0	IN	A	196.216.168.44
 ns-zm.afrinic.net.	0	IN	AAAA	2001:43f8:120::44
-tld01.akam.net.	0	IN	A	23.201.98.96
-tld01.akam.net.	0	IN	AAAA	2600:1480:5806::a0
-tld02.akam.net.	0	IN	A	23.201.99.96
-tld02.akam.net.	0	IN	AAAA	2600:1480:5807::a0
-tld03.akam.net.	0	IN	A	23.201.100.96
-tld03.akam.net.	0	IN	AAAA	2600:1480:5808::a0
-tld04.akam.net.	0	IN	A	23.201.101.96
-tld04.akam.net.	0	IN	AAAA	2600:1480:5809::a0
+n1-a1.aka-ns.net.	0	IN	A	23.2.10.1
+n1-a1.aka-ns.net.	0	IN	AAAA	2600:1405:4800::1
+n1-a13.aka-ns.net.	0	IN	A	184.29.150.1
+n1-a13.aka-ns.net.	0	IN	AAAA	2600:1405:400::1
+n1-a20.aka-ns.net.	0	IN	A	184.29.154.1
+n1-a20.aka-ns.net.	0	IN	AAAA	2600:1405:2400::1
+n1-a26.aka-ns.net.	0	IN	A	184.29.157.1
+n1-a26.aka-ns.net.	0	IN	AAAA	2600:1405:3c00::1
+n1-a4.aka-ns.net.	0	IN	A	23.59.162.1
+n1-a4.aka-ns.net.	0	IN	AAAA	2600:1405:7800::1
+n1-a7.aka-ns.net.	0	IN	A	96.16.208.1
+n1-a7.aka-ns.net.	0	IN	AAAA	2600:1405:a800::1
 ns1.aland.net.	0	IN	A	194.112.0.1
 ns2.aland.net.	0	IN	A	194.112.0.5
 ns-cdn.amnic.net.	0	IN	A	194.0.1.26
@@ -12772,12 +12779,22 @@ ns1.registry.om.	0	IN	A	185.27.88.50
 ns1.registry.om.	0	IN	AAAA	2a00:9120:1::50
 ns2.registry.om.	0	IN	A	185.27.89.50
 ns2.registry.om.	0	IN	AAAA	2a00:9120:2::50
-omega.	0	IN	NS	ac1.nstld.com.
-omega.	0	IN	NS	ac2.nstld.com.
 omega.	0	IN	NS	ac3.nstld.com.
 omega.	0	IN	NS	ac4.nstld.com.
+omega.	0	IN	NS	dns1.nic.omega.
+omega.	0	IN	NS	dns2.nic.omega.
+omega.	0	IN	NS	dns3.nic.omega.
+omega.	0	IN	NS	dns4.nic.omega.
 omega.	0	IN	DS	4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df30ab5cf7b
 omega.	0	IN	DS	49055 8 2 7feb12a48d98dc3497171fa326dc92352f0c755d2cb7247950c3f42fe6f35871
+dns1.nic.omega.	0	IN	A	213.248.219.140
+dns1.nic.omega.	0	IN	AAAA	2a01:618:403::140
+dns2.nic.omega.	0	IN	A	103.49.83.140
+dns2.nic.omega.	0	IN	AAAA	2401:fd80:403::140
+dns3.nic.omega.	0	IN	A	213.248.223.140
+dns3.nic.omega.	0	IN	AAAA	2a01:618:407::140
+dns4.nic.omega.	0	IN	A	43.230.51.140
+dns4.nic.omega.	0	IN	AAAA	2401:fd80:407::140
 one.	0	IN	NS	a.nic.one.
 one.	0	IN	NS	b.nic.one.
 one.	0	IN	NS	c.nic.one.
@@ -14987,10 +15004,12 @@ samsung.	0	IN	NS	ns1.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns2.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns3.samsung.centralnic-dns.com.
 samsung.	0	IN	NS	ns4.samsung.centralnic-dns.com.
-samsung.	0	IN	NS	tld01.akam.net.
-samsung.	0	IN	NS	tld02.akam.net.
-samsung.	0	IN	NS	tld03.akam.net.
-samsung.	0	IN	NS	tld04.akam.net.
+samsung.	0	IN	NS	n1-a1.aka-ns.net.
+samsung.	0	IN	NS	n1-a4.aka-ns.net.
+samsung.	0	IN	NS	n1-a7.aka-ns.net.
+samsung.	0	IN	NS	n1-a13.aka-ns.net.
+samsung.	0	IN	NS	n1-a20.aka-ns.net.
+samsung.	0	IN	NS	n1-a26.aka-ns.net.
 samsung.	0	IN	DS	19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
 sandvik.	0	IN	NS	a.nic.sandvik.
 sandvik.	0	IN	NS	b.nic.sandvik.
@@ -15589,12 +15608,22 @@ sharp.	0	IN	NS	b.gmoregistry.net.
 sharp.	0	IN	NS	k.gmoregistry.net.
 sharp.	0	IN	NS	l.gmoregistry.net.
 sharp.	0	IN	DS	3872 8 2 9fbcf0afcb45e677cb42680ff35defd79f8accacaaa47df92cfd08e73a8afcb6
-shell.	0	IN	NS	ac1.nstld.com.
-shell.	0	IN	NS	ac2.nstld.com.
 shell.	0	IN	NS	ac3.nstld.com.
 shell.	0	IN	NS	ac4.nstld.com.
+shell.	0	IN	NS	dns1.nic.shell.
+shell.	0	IN	NS	dns2.nic.shell.
+shell.	0	IN	NS	dns3.nic.shell.
+shell.	0	IN	NS	dns4.nic.shell.
 shell.	0	IN	DS	55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
 shell.	0	IN	DS	63424 8 2 8429208f879143266aa1eec685057c5c099912031d27bd1e0bc61732036b4d50
+dns1.nic.shell.	0	IN	A	213.248.219.137
+dns1.nic.shell.	0	IN	AAAA	2a01:618:403::137
+dns2.nic.shell.	0	IN	A	103.49.83.137
+dns2.nic.shell.	0	IN	AAAA	2401:fd80:403::137
+dns3.nic.shell.	0	IN	A	213.248.223.137
+dns3.nic.shell.	0	IN	AAAA	2a01:618:407::137
+dns4.nic.shell.	0	IN	A	43.230.51.137
+dns4.nic.shell.	0	IN	AAAA	2401:fd80:407::137
 shia.	0	IN	NS	dns1.emdns.uk.
 shia.	0	IN	NS	dns2.emdns.uk.
 shia.	0	IN	NS	dns3.emdns.uk.
@@ -16527,12 +16556,22 @@ sv.	0	IN	NS	ns.dns.br.
 sv.	0	IN	NS	sir.red.sv.
 sv.	0	IN	NS	dns-ext.nic.cr.
 sir.red.sv.	0	IN	A	131.100.140.162
-swatch.	0	IN	NS	ac1.nstld.com.
-swatch.	0	IN	NS	ac2.nstld.com.
 swatch.	0	IN	NS	ac3.nstld.com.
 swatch.	0	IN	NS	ac4.nstld.com.
+swatch.	0	IN	NS	dns1.nic.swatch.
+swatch.	0	IN	NS	dns2.nic.swatch.
+swatch.	0	IN	NS	dns3.nic.swatch.
+swatch.	0	IN	NS	dns4.nic.swatch.
 swatch.	0	IN	DS	46125 8 2 f8f63257d53d748eac6844c412a246db125e330f646d32922fd947e9f6a1fac2
 swatch.	0	IN	DS	63214 8 2 2cca5b625235170eea1b1151293b5ec127a83984bc6dd2af8cce71dd93d2a495
+dns1.nic.swatch.	0	IN	A	213.248.219.139
+dns1.nic.swatch.	0	IN	AAAA	2a01:618:403::139
+dns2.nic.swatch.	0	IN	A	103.49.83.139
+dns2.nic.swatch.	0	IN	AAAA	2401:fd80:403::139
+dns3.nic.swatch.	0	IN	A	213.248.223.139
+dns3.nic.swatch.	0	IN	AAAA	2a01:618:407::139
+dns4.nic.swatch.	0	IN	A	43.230.51.139
+dns4.nic.swatch.	0	IN	AAAA	2401:fd80:407::139
 swiss.	0	IN	NS	g.nic.swiss.
 swiss.	0	IN	NS	u.nic.swiss.
 swiss.	0	IN	NS	ns15.rcode0.net.
@@ -19440,10 +19479,12 @@ xn--cg4bki.	0	IN	NS	ns1.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.	0	IN	NS	ns2.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.	0	IN	NS	ns3.xn--cg4bki.centralnic-dns.com.
 xn--cg4bki.	0	IN	NS	ns4.xn--cg4bki.centralnic-dns.com.
-xn--cg4bki.	0	IN	NS	tld01.akam.net.
-xn--cg4bki.	0	IN	NS	tld02.akam.net.
-xn--cg4bki.	0	IN	NS	tld03.akam.net.
-xn--cg4bki.	0	IN	NS	tld04.akam.net.
+xn--cg4bki.	0	IN	NS	n1-a1.aka-ns.net.
+xn--cg4bki.	0	IN	NS	n1-a4.aka-ns.net.
+xn--cg4bki.	0	IN	NS	n1-a7.aka-ns.net.
+xn--cg4bki.	0	IN	NS	n1-a13.aka-ns.net.
+xn--cg4bki.	0	IN	NS	n1-a20.aka-ns.net.
+xn--cg4bki.	0	IN	NS	n1-a26.aka-ns.net.
 xn--cg4bki.	0	IN	DS	59631 7 2 7a16187809f4725a91f192336f6a9576f246df35edf500a1356b8c8dff2d59f1
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	ns4.apnic.net.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	pch.sgzones.sg.
