@@ -39,11 +39,13 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `omega.`
 * `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
 * `sl.`
+* `swatch.`
 * `tn.`
 * `tz.`
 * `ve.`
