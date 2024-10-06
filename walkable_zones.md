@@ -10,10 +10,8 @@
 * `bd.`
 * `br.`
 * `bt.`
-* `car.`
 * `cars.`
 * `ch.`
-* `christmas.`
 * `ci.`
 * `cw.`
 * `desi.`
@@ -26,14 +24,11 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `hosting.`
 * `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
 * `lb.`
-* `li.`
-* `lk.`
 * `lol.`
 * `lr.`
 * `mc.`
@@ -41,7 +36,6 @@
 * `nu.`
 * `pics.`
 * `pr.`
-* `ruhr.`
 * `se.`
 * `shell.`
 * `sl.`
