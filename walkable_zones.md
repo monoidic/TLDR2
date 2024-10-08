@@ -3,8 +3,6 @@
 * `.`
 * `amazon.`
 * `aquarelle.`
-* `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -19,7 +17,6 @@
 * `desi.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -29,19 +26,15 @@
 * `hosting.`
 * `id.`
 * `ieee.`
-* `kg.`
 * `kz.`
 * `lb.`
-* `li.`
 * `lk.`
 * `lol.`
-* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
 * `omega.`
 * `pics.`
-* `pr.`
 * `ruhr.`
 * `se.`
 * `shell.`
