@@ -44,7 +44,9 @@
 * `pr.`
 * `ruhr.`
 * `se.`
+* `shell.`
 * `sl.`
+* `swatch.`
 * `tn.`
 * `tz.`
 * `ve.`

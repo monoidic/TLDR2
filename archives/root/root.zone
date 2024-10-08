@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024100801 1 1 339e48fcaa38adf8a1d72c1325f6588c9cebdb08bd95024ef8d6a6de1239f97a4c0b60409004cece328177e32efce28d
+.	0	IN	ZONEMD	2024100802 1 1 da4ab6c2f609b2c9c6f1ac39c132274c45e3b0908b5dc84052a166340f6c7591522c9abcef49eaa59604678d8cf77973
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -11686,7 +11686,6 @@ music.	0	IN	NS	ns01.trs-dns.com.
 music.	0	IN	NS	ns01.trs-dns.net.
 music.	0	IN	NS	ns01.trs-dns.org.
 music.	0	IN	NS	ns01.trs-dns.info.
-music.	0	IN	DS	8489 8 2 a9a8a4740c96dc2bf6c31baf38dc0c7f50862bfeed32db9df7e3956bf552ad10
 music.	0	IN	DS	14632 13 2 68f411322e670c84337b2182422af6e8f95c367c24e79cd4326b2276f52f4603
 mv.	0	IN	NS	ns.dhivehinet.net.mv.
 mv.	0	IN	NS	ns2.dhivehinet.net.mv.
@@ -12778,12 +12777,14 @@ ns1.registry.om.	0	IN	A	185.27.88.50
 ns1.registry.om.	0	IN	AAAA	2a00:9120:1::50
 ns2.registry.om.	0	IN	A	185.27.89.50
 ns2.registry.om.	0	IN	AAAA	2a00:9120:2::50
-omega.	0	IN	NS	ac3.nstld.com.
-omega.	0	IN	NS	ac4.nstld.com.
 omega.	0	IN	NS	dns1.nic.omega.
 omega.	0	IN	NS	dns2.nic.omega.
 omega.	0	IN	NS	dns3.nic.omega.
 omega.	0	IN	NS	dns4.nic.omega.
+omega.	0	IN	NS	dnsa.nic.omega.
+omega.	0	IN	NS	dnsb.nic.omega.
+omega.	0	IN	NS	dnsc.nic.omega.
+omega.	0	IN	NS	dnsd.nic.omega.
 omega.	0	IN	DS	4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df30ab5cf7b
 omega.	0	IN	DS	49055 8 2 7feb12a48d98dc3497171fa326dc92352f0c755d2cb7247950c3f42fe6f35871
 dns1.nic.omega.	0	IN	A	213.248.219.140
@@ -12794,6 +12795,14 @@ dns3.nic.omega.	0	IN	A	213.248.223.140
 dns3.nic.omega.	0	IN	AAAA	2a01:618:407::140
 dns4.nic.omega.	0	IN	A	43.230.51.140
 dns4.nic.omega.	0	IN	AAAA	2401:fd80:407::140
+dnsa.nic.omega.	0	IN	A	156.154.100.3
+dnsa.nic.omega.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.omega.	0	IN	A	156.154.101.3
+dnsb.nic.omega.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nic.omega.	0	IN	A	156.154.102.3
+dnsc.nic.omega.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.omega.	0	IN	A	156.154.103.3
+dnsd.nic.omega.	0	IN	AAAA	2610:a1:1010::3
 one.	0	IN	NS	a.nic.one.
 one.	0	IN	NS	b.nic.one.
 one.	0	IN	NS	c.nic.one.
@@ -13447,7 +13456,6 @@ pid.	0	IN	NS	ns01.trs-dns.net.
 pid.	0	IN	NS	ns01.trs-dns.org.
 pid.	0	IN	NS	ns01.trs-dns.info.
 pid.	0	IN	DS	43839 13 2 a8997ec116a3e8e9beff3c5170352c427956ddd9e3fbaa5166108d1a61574246
-pid.	0	IN	DS	59747 8 2 787344f262181e467e0adde855b6015f6020a0136ba6ee835b1719e298879304
 pin.	0	IN	NS	dns1.nic.pin.
 pin.	0	IN	NS	dns2.nic.pin.
 pin.	0	IN	NS	dns3.nic.pin.
@@ -15607,12 +15615,14 @@ sharp.	0	IN	NS	b.gmoregistry.net.
 sharp.	0	IN	NS	k.gmoregistry.net.
 sharp.	0	IN	NS	l.gmoregistry.net.
 sharp.	0	IN	DS	3872 8 2 9fbcf0afcb45e677cb42680ff35defd79f8accacaaa47df92cfd08e73a8afcb6
-shell.	0	IN	NS	ac3.nstld.com.
-shell.	0	IN	NS	ac4.nstld.com.
 shell.	0	IN	NS	dns1.nic.shell.
 shell.	0	IN	NS	dns2.nic.shell.
 shell.	0	IN	NS	dns3.nic.shell.
 shell.	0	IN	NS	dns4.nic.shell.
+shell.	0	IN	NS	dnsa.nic.shell.
+shell.	0	IN	NS	dnsb.nic.shell.
+shell.	0	IN	NS	dnsc.nic.shell.
+shell.	0	IN	NS	dnsd.nic.shell.
 shell.	0	IN	DS	55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
 shell.	0	IN	DS	63424 8 2 8429208f879143266aa1eec685057c5c099912031d27bd1e0bc61732036b4d50
 dns1.nic.shell.	0	IN	A	213.248.219.137
@@ -15623,6 +15633,14 @@ dns3.nic.shell.	0	IN	A	213.248.223.137
 dns3.nic.shell.	0	IN	AAAA	2a01:618:407::137
 dns4.nic.shell.	0	IN	A	43.230.51.137
 dns4.nic.shell.	0	IN	AAAA	2401:fd80:407::137
+dnsa.nic.shell.	0	IN	A	156.154.100.3
+dnsa.nic.shell.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.shell.	0	IN	A	156.154.101.3
+dnsb.nic.shell.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nic.shell.	0	IN	A	156.154.102.3
+dnsc.nic.shell.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.shell.	0	IN	A	156.154.103.3
+dnsd.nic.shell.	0	IN	AAAA	2610:a1:1010::3
 shia.	0	IN	NS	dns1.emdns.uk.
 shia.	0	IN	NS	dns2.emdns.uk.
 shia.	0	IN	NS	dns3.emdns.uk.
@@ -16555,12 +16573,14 @@ sv.	0	IN	NS	ns.dns.br.
 sv.	0	IN	NS	sir.red.sv.
 sv.	0	IN	NS	dns-ext.nic.cr.
 sir.red.sv.	0	IN	A	131.100.140.162
-swatch.	0	IN	NS	ac3.nstld.com.
-swatch.	0	IN	NS	ac4.nstld.com.
 swatch.	0	IN	NS	dns1.nic.swatch.
 swatch.	0	IN	NS	dns2.nic.swatch.
 swatch.	0	IN	NS	dns3.nic.swatch.
 swatch.	0	IN	NS	dns4.nic.swatch.
+swatch.	0	IN	NS	dnsa.nic.swatch.
+swatch.	0	IN	NS	dnsb.nic.swatch.
+swatch.	0	IN	NS	dnsc.nic.swatch.
+swatch.	0	IN	NS	dnsd.nic.swatch.
 swatch.	0	IN	DS	46125 8 2 f8f63257d53d748eac6844c412a246db125e330f646d32922fd947e9f6a1fac2
 swatch.	0	IN	DS	63214 8 2 2cca5b625235170eea1b1151293b5ec127a83984bc6dd2af8cce71dd93d2a495
 dns1.nic.swatch.	0	IN	A	213.248.219.139
@@ -16571,6 +16591,14 @@ dns3.nic.swatch.	0	IN	A	213.248.223.139
 dns3.nic.swatch.	0	IN	AAAA	2a01:618:407::139
 dns4.nic.swatch.	0	IN	A	43.230.51.139
 dns4.nic.swatch.	0	IN	AAAA	2401:fd80:407::139
+dnsa.nic.swatch.	0	IN	A	156.154.100.3
+dnsa.nic.swatch.	0	IN	AAAA	2001:502:ad09::3
+dnsb.nic.swatch.	0	IN	A	156.154.101.3
+dnsb.nic.swatch.	0	IN	AAAA	2001:502:2eda::3
+dnsc.nic.swatch.	0	IN	A	156.154.102.3
+dnsc.nic.swatch.	0	IN	AAAA	2610:a1:1009::3
+dnsd.nic.swatch.	0	IN	A	156.154.103.3
+dnsd.nic.swatch.	0	IN	AAAA	2610:a1:1010::3
 swiss.	0	IN	NS	g.nic.swiss.
 swiss.	0	IN	NS	u.nic.swiss.
 swiss.	0	IN	NS	ns15.rcode0.net.
