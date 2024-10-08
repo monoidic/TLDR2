@@ -39,6 +39,7 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `omega.`
 * `pics.`
 * `pr.`
 * `ruhr.`
