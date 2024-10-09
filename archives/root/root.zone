@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAdSiy6sslYrcZSGcuMEK4DtE8DZZY1A08kAsviAD49tocYO5m37AvIOyzeiKBWuPuJ4m9u5HonCM/ntxklZKYFyMftv8XoRwbiXdpSjfdpNHiMYTTV2oDUNMjdLFnF6HYSY48xrPbevQOYbAFGHpxqcXAQT0+BaBiAx3Ls6lXBQ3/hSVOprvDWJCQiI2OT+9+saKLddSIX6DwTVy0S5T4YY4EGg5R3c/eKUb2/8XgKWUzlOIZsVAZZUSTKW0tX54ccAALO7Grvsx/NW62jc1xv6wWAXocOEVgB7+4Lzb7q9p5o30+sYoGpOsKgFvMSy4oCZTQMQx2Sjd/NG2bMMw6nM= ;{id = 20038 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024100901 1 1 9dfb7436ae76d7b41eebc7a39cd59d5603c8f7e714aa2e9f1b2903ea3b09ec011fa63f06bea16e807c2ddeb3424ff6c3
+.	0	IN	ZONEMD	2024100902 1 1 5af934533879fbabbbeb4df26aa787baedaba2c7c4a1dbb9fe5743f52ee75e288a2eecea7f97f1942bde807c4245051e
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -17457,6 +17457,8 @@ v2n1.nic.toys.	0	IN	A	161.232.11.23
 v2n1.nic.toys.	0	IN	AAAA	2a01:8840:f5::23
 tr.	0	IN	NS	ns41.ns.tr.
 tr.	0	IN	NS	ns42.ns.tr.
+tr.	0	IN	NS	ns43.ns.tr.
+tr.	0	IN	NS	ns44.ns.tr.
 tr.	0	IN	NS	ns61.ns.tr.
 tr.	0	IN	NS	ns71.ns.tr.
 tr.	0	IN	NS	ns72.ns.tr.
@@ -17465,6 +17467,8 @@ tr.	0	IN	NS	ns74.ns.tr.
 tr.	0	IN	DS	52321 13 2 31fca215aa6690c3d1c265d141cc879576d16f8f06dbfb99d38893e8f9e33d23
 ns41.ns.tr.	0	IN	A	185.7.0.2
 ns42.ns.tr.	0	IN	A	185.7.0.3
+ns43.ns.tr.	0	IN	A	185.7.0.4
+ns44.ns.tr.	0	IN	A	185.7.0.5
 ns61.ns.tr.	0	IN	A	206.51.254.1
 ns61.ns.tr.	0	IN	AAAA	2620:171:804:ad2::1
 ns71.ns.tr.	0	IN	A	185.67.32.53
