@@ -261,6 +261,8 @@ bib.br.	0	IN	NS	e.dns.br.
 bib.br.	0	IN	NS	f.dns.br.
 bibliodata.br.	0	IN	NS	10.60.193.50.
 bibliodata.br.	0	IN	NS	10.156.124.71.
+bibliotecanacional.br.	0	IN	NS	ns1.bibliotecanacional.br.
+bibliotecanacional.br.	0	IN	NS	ns2.bibliotecanacional.br.
 bio.br.	0	IN	NS	a.dns.br.
 bio.br.	0	IN	NS	b.dns.br.
 bio.br.	0	IN	NS	c.dns.br.
@@ -282,6 +284,12 @@ bmd.br.	0	IN	NS	c.dns.br.
 bmd.br.	0	IN	NS	d.dns.br.
 bmd.br.	0	IN	NS	e.dns.br.
 bmd.br.	0	IN	NS	f.dns.br.
+bn.br.	0	IN	NS	ns1.bn.br.
+bn.br.	0	IN	NS	ns2.bn.br.
+bn.br.	0	IN	NS	ns3.bn.br.
+bn.br.	0	IN	NS	ns3.bn.gov.br.
+bn.br.	0	IN	NS	ns4.bn.br.
+bn.br.	0	IN	NS	ns4.bn.gov.br.
 boavista.br.	0	IN	NS	a.dns.br.
 boavista.br.	0	IN	NS	b.dns.br.
 boavista.br.	0	IN	NS	c.dns.br.
@@ -930,6 +938,7 @@ etc.br.	0	IN	NS	e.dns.br.
 etc.br.	0	IN	NS	f.dns.br.
 etfes.br.	0	IN	NS	ns.etfes.br.
 etfes.br.	0	IN	NS	ns2.etfes.br.
+etfgo.br.	0	IN	NS	ns1.etfgo.br.
 etfgo.br.	0	IN	NS	apolo.etfgo.br.
 etfgo.br.	0	IN	NS	gandalf.etfgo.br.
 etfrn.br.	0	IN	NS	amy.ns.cloudflare.com.
@@ -1272,6 +1281,8 @@ fazu.br.	0	IN	NS	austin.ns.cloudflare.com.
 fazu.br.	0	IN	NS	bristol.ns.cloudflare.com.
 fbb.br.	0	IN	NS	nspro96.hostgator.com.br.
 fbb.br.	0	IN	NS	nspro97.hostgator.com.br.
+fbn.br.	0	IN	NS	ns1.fbn.br.
+fbn.br.	0	IN	NS	ns2.fbn.br.
 fbv.br.	0	IN	NS	ns-431.awsdns-53.com.
 fbv.br.	0	IN	NS	ns-615.awsdns-12.net.
 fbv.br.	0	IN	NS	ns-1389.awsdns-45.org.
@@ -1995,8 +2006,9 @@ labuniban.br.	0	IN	NS	ns1-07.azure-dns.com.
 labuniban.br.	0	IN	NS	ns2-07.azure-dns.net.
 labuniban.br.	0	IN	NS	ns3-07.azure-dns.org.
 labuniban.br.	0	IN	NS	ns4-07.azure-dns.info.
-laosp.br.	0	IN	NS	gaivota.birdsnet.com.br.
-laosp.br.	0	IN	NS	pelicano.birdsnet.com.br.
+laosp.br.	0	IN	NS	ns1.locaweb.com.br.
+laosp.br.	0	IN	NS	ns2.locaweb.com.br.
+laosp.br.	0	IN	NS	ns3.locaweb.com.br.
 lavras.br.	0	IN	NS	ara.ns.cloudflare.com.
 lavras.br.	0	IN	NS	norman.ns.cloudflare.com.
 led.br.	0	IN	NS	ns.lec.ufsc.br.
@@ -2079,7 +2091,6 @@ maringa.br.	0	IN	NS	c.dns.br.
 maringa.br.	0	IN	NS	d.dns.br.
 maringa.br.	0	IN	NS	e.dns.br.
 maringa.br.	0	IN	NS	f.dns.br.
-mast.br.	0	IN	NS	ns1.mast.br.
 mat.br.	0	IN	NS	a.dns.br.
 mat.br.	0	IN	NS	b.dns.br.
 mat.br.	0	IN	NS	c.dns.br.
@@ -2438,8 +2449,6 @@ rae.br.	0	IN	NS	10.60.193.50.
 rae.br.	0	IN	NS	10.156.124.71.
 rct-sc.br.	0	IN	NS	ns.pop-ufsc.rct-sc.br.
 rct-sc.br.	0	IN	NS	ns.pop-udesc.rct-sc.br.
-rct-sc.br.	0	IN	NS	dns.fapesc.sc.gov.br.
-rct-sc.br.	0	IN	NS	dns2.fapesc.sc.gov.br.
 realestate.br.	0	IN	NS	ns1.softlayer.com.
 realestate.br.	0	IN	NS	ns2.softlayer.com.
 rec.br.	0	IN	NS	a.dns.br.
@@ -3045,7 +3054,8 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	srvdns.
+ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
 umar.br.	0	IN	NS	ns1.unicesumar.edu.br.
 umar.br.	0	IN	NS	ns2.unicesumar.edu.br.
 umc.br.	0	IN	NS	infra021.umc.br.
