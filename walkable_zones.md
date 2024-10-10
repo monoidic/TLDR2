@@ -3,18 +3,14 @@
 * `.`
 * `amazon.`
 * `aquarelle.`
-* `arpa.`
 * `audio.`
 * `auto.`
-* `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
 * `christmas.`
-* `ci.`
 * `cw.`
 * `desi.`
 * `diet.`
@@ -27,7 +23,6 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
-* `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
