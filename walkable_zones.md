@@ -17,21 +17,16 @@
 * `ci.`
 * `cw.`
 * `desi.`
-* `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
-* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
-* `hosting.`
 * `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
-* `lb.`
 * `li.`
 * `lk.`
 * `lol.`
@@ -39,7 +34,6 @@
 * `mc.`
 * `mom.`
 * `nu.`
-* `omega.`
 * `pics.`
 * `pr.`
 * `ruhr.`
@@ -49,7 +43,6 @@
 * `swatch.`
 * `tn.`
 * `tz.`
-* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
