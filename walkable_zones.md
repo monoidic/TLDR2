@@ -6,6 +6,7 @@
 * `arpa.`
 * `audio.`
 * `auto.`
+* `ax.`
 * `bd.`
 * `br.`
 * `bt.`
@@ -22,13 +23,16 @@
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
 * `ieee.`
 * `kg.`
+* `kz.`
 * `lb.`
+* `li.`
 * `lk.`
 * `lol.`
 * `lr.`
@@ -39,6 +43,7 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `shell.`
 * `sl.`
 * `swatch.`
