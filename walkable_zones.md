@@ -12,7 +12,6 @@
 * `bt.`
 * `car.`
 * `cars.`
-* `ch.`
 * `christmas.`
 * `ci.`
 * `cw.`
@@ -33,9 +32,7 @@
 * `kz.`
 * `lb.`
 * `li.`
-* `lk.`
 * `lol.`
-* `lr.`
 * `mc.`
 * `mom.`
 * `nu.`
@@ -49,7 +46,6 @@
 * `swatch.`
 * `tn.`
 * `tz.`
-* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
