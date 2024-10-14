@@ -10,7 +10,6 @@
 * `bd.`
 * `br.`
 * `bt.`
-* `car.`
 * `cars.`
 * `ch.`
 * `christmas.`
@@ -19,7 +18,6 @@
 * `desi.`
 * `diet.`
 * `dz.`
-* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -32,7 +30,6 @@
 * `kg.`
 * `kz.`
 * `lb.`
-* `li.`
 * `lk.`
 * `lol.`
 * `lr.`
