@@ -2,11 +2,13 @@
 
 * `.`
 * `amazon.`
+* `aquarelle.`
 * `arpa.`
 * `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
 * `cars.`
@@ -16,6 +18,8 @@
 * `cw.`
 * `desi.`
 * `diet.`
+* `dz.`
+* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -26,12 +30,20 @@
 * `id.`
 * `ieee.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
+* `lk.`
+* `lol.`
+* `lr.`
+* `mc.`
 * `mom.`
 * `nu.`
 * `omega.`
+* `pics.`
+* `pr.`
 * `ruhr.`
+* `se.`
 * `shell.`
 * `sl.`
 * `swatch.`
@@ -44,3 +56,4 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
