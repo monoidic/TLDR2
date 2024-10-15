@@ -3,9 +3,12 @@
 * `.`
 * `amazon.`
 * `aquarelle.`
+* `arpa.`
 * `audio.`
+* `auto.`
 * `ax.`
 * `bd.`
+* `br.`
 * `bt.`
 * `car.`
 * `cars.`
@@ -20,9 +23,13 @@
 * `er.`
 * `flowers.`
 * `game.`
+* `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
+* `ieee.`
+* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
@@ -39,6 +46,7 @@
 * `se.`
 * `shell.`
 * `sl.`
+* `swatch.`
 * `tn.`
 * `tz.`
 * `ve.`
