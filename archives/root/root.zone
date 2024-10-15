@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024101501 1 1 1ca5db227e1f0e82146b46b7d0ce2405cc9f4cb937cfce7a3ffcbbbc63d40265ee3d91f28f6f30aa96842738d11c4502
+.	0	IN	ZONEMD	2024101502 1 1 24dcf842e43e225a0f8550189c96538ecf535f7a7e90e51a5c1c733cf99430b360af2a25fed64fe5c42274fcda1ccac7
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -480,6 +480,7 @@ airbus.	0	IN	NS	ac2.nstld.com.
 airbus.	0	IN	NS	ac3.nstld.com.
 airbus.	0	IN	NS	ac4.nstld.com.
 airbus.	0	IN	DS	31023 8 2 fafdd4f89fa42d1396b42a972019bd3de013bd1708888fd77bd7dada8a38936d
+airbus.	0	IN	DS	51547 8 2 982b16e3bae278ab7146e3bdedaf3bfc9c8c46d7db3485321019d10c7f5108ee
 airforce.	0	IN	NS	v0n0.nic.airforce.
 airforce.	0	IN	NS	v0n1.nic.airforce.
 airforce.	0	IN	NS	v0n2.nic.airforce.
@@ -8905,8 +8906,8 @@ a.nic.ir.	0	IN	A	193.189.123.2
 a.nic.ir.	0	IN	AAAA	2001:678:b0:0:193:189:123:2
 b.nic.ir.	0	IN	A	193.189.122.83
 b.nic.ir.	0	IN	AAAA	2001:678:b1:0:193:189:122:83
-c.nic.ir.	0	IN	A	141.95.65.136
-c.nic.ir.	0	IN	AAAA	2001:41d0:700:5d88::
+c.nic.ir.	0	IN	A	45.93.171.206
+c.nic.ir.	0	IN	AAAA	2a0c:6600:4::152
 d.nic.ir.	0	IN	A	194.225.70.83
 d.nic.ir.	0	IN	AAAA	2001:14e8:c:0:194:225:70:83
 irish.	0	IN	NS	v0n0.nic.irish.
@@ -18291,6 +18292,7 @@ visa.	0	IN	NS	ac2.nstld.com.
 visa.	0	IN	NS	ac3.nstld.com.
 visa.	0	IN	NS	ac4.nstld.com.
 visa.	0	IN	DS	55863 8 2 b7d4dd6e17c137c8d9121055ec796100868870d2d31ac0dc5a2ce1972f692cb4
+visa.	0	IN	DS	61366 8 2 94d6f007f7a3cd81d061701497a7e54f801a495e219370723bab6f2707b68d6e
 vision.	0	IN	NS	v0n0.nic.vision.
 vision.	0	IN	NS	v0n1.nic.vision.
 vision.	0	IN	NS	v0n2.nic.vision.
