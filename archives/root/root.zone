@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024101601 1 1 8168616a6021ad073d8bbc8ffb3fbf1c700d61f4f6198fb3a4c7c09cf993092a4a117f7185f0f47287e8c914127ded2a
+.	0	IN	ZONEMD	2024101602 1 1 98994c26e16fdfdb639eb8c21f2e4dfc67ac97a38894f6fdd86e6067da88375db72eb1a87014014968ab775b64d1ef4a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3806,6 +3806,10 @@ te.ngtld.cn.	0	IN	A	42.83.134.1
 ns1.teleinfo.cn.	0	IN	A	103.61.60.1
 ns1.teleinfo.cn.	0	IN	AAAA	2402:7d80::1
 ns3.teleinfo.cn.	0	IN	A	103.61.62.1
+a.zdnscloud.cn.	0	IN	A	203.99.24.1
+b.zdnscloud.cn.	0	IN	A	203.99.25.1
+f.zdnscloud.cn.	0	IN	A	116.169.54.111
+i.zdnscloud.cn.	0	IN	AAAA	2401:8d00:1::1
 co.	0	IN	NS	ns1.cctld.co.
 co.	0	IN	NS	ns2.cctld.co.
 co.	0	IN	NS	ns3.cctld.co.
@@ -14396,13 +14400,13 @@ b0.nic.reliance.	0	IN	A	65.22.109.25
 b0.nic.reliance.	0	IN	AAAA	2a01:8840:6b::25
 c0.nic.reliance.	0	IN	A	65.22.110.25
 c0.nic.reliance.	0	IN	AAAA	2a01:8840:6c::25
-ren.	0	IN	NS	a.zdnscloud.com.
-ren.	0	IN	NS	b.zdnscloud.com.
+ren.	0	IN	NS	a.zdnscloud.cn.
+ren.	0	IN	NS	b.zdnscloud.cn.
 ren.	0	IN	NS	c.zdnscloud.com.
 ren.	0	IN	NS	d.zdnscloud.com.
-ren.	0	IN	NS	f.zdnscloud.com.
+ren.	0	IN	NS	f.zdnscloud.cn.
 ren.	0	IN	NS	g.zdnscloud.com.
-ren.	0	IN	NS	i.zdnscloud.com.
+ren.	0	IN	NS	i.zdnscloud.cn.
 ren.	0	IN	NS	j.zdnscloud.com.
 ren.	0	IN	DS	6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 rent.	0	IN	NS	a.nic.rent.
