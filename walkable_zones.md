@@ -4,8 +4,10 @@
 * `amazon.`
 * `aquarelle.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
+* `bd.`
 * `br.`
 * `bt.`
 * `car.`
@@ -23,6 +25,7 @@
 * `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
 * `ieee.`
