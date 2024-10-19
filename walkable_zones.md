@@ -6,15 +6,11 @@
 * `arpa.`
 * `audio.`
 * `auto.`
-* `ax.`
 * `bd.`
-* `br.`
 * `bt.`
 * `car.`
-* `cars.`
 * `ch.`
 * `christmas.`
-* `ci.`
 * `cw.`
 * `desi.`
 * `diet.`
@@ -22,9 +18,7 @@
 * `ee.`
 * `er.`
 * `flowers.`
-* `game.`
 * `gdn.`
-* `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
@@ -39,11 +33,8 @@
 * `mc.`
 * `mom.`
 * `nu.`
-* `omega.`
-* `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `shell.`
 * `sl.`
 * `swatch.`
