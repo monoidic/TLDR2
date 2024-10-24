@@ -2,7 +2,6 @@
 
 * `.`
 * `amazon.`
-* `aquarelle.`
 * `arpa.`
 * `audio.`
 * `auto.`
@@ -30,7 +29,6 @@
 * `id.`
 * `ieee.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -43,7 +41,6 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `shell.`
 * `sl.`
 * `swatch.`
