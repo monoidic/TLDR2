@@ -8,9 +8,12 @@
 * `auto.`
 * `ax.`
 * `bd.`
+* `br.`
+* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
+* `christmas.`
 * `ci.`
 * `cw.`
 * `desi.`
@@ -27,6 +30,7 @@
 * `id.`
 * `ieee.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
@@ -41,6 +45,8 @@
 * `ruhr.`
 * `se.`
 * `shell.`
+* `sl.`
+* `swatch.`
 * `tn.`
 * `tz.`
 * `ve.`
