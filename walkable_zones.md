@@ -4,11 +4,11 @@
 * `amazon.`
 * `aquarelle.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
 * `br.`
-* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
@@ -29,12 +29,12 @@
 * `id.`
 * `ieee.`
 * `kg.`
-* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
 * `lol.`
 * `lr.`
+* `mc.`
 * `mom.`
 * `nu.`
 * `omega.`
@@ -45,6 +45,7 @@
 * `shell.`
 * `sl.`
 * `swatch.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
