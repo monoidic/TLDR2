@@ -19,6 +19,7 @@
 * `desi.`
 * `diet.`
 * `dz.`
+* `ee.`
 * `er.`
 * `flowers.`
 * `game.`
@@ -37,6 +38,7 @@
 * `mc.`
 * `mom.`
 * `nu.`
+* `omega.`
 * `pics.`
 * `pr.`
 * `ruhr.`
