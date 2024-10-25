@@ -9,6 +9,7 @@
 * `ax.`
 * `bd.`
 * `br.`
+* `bt.`
 * `car.`
 * `cars.`
 * `ch.`
@@ -23,6 +24,7 @@
 * `flowers.`
 * `game.`
 * `gdn.`
+* `gn.`
 * `guitars.`
 * `hosting.`
 * `id.`
