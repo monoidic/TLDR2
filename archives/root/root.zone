@@ -13,7 +13,8 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024102501 1 1 9d469d790bd7804da57a49d066f5da488750f645def7bd37fe8c16576d7a2112eae1b217147250ae1245204a9d77a9f8
+.	0	IN	ZONEMD	2024102502 1 1 6c9af6ddb85651bbfb3d9bd0cf045d0a595ce38b024660043fac85f5fbd3dda059de7e4f818cc4c7f09b65e685296754
+.	0	IN	ZONEMD	2024102503 1 1 c6ab281fca9aec9d4df471ee665e5bc784a30eb96128aa0c6518ec7f561e5fd13ade57065c7e46eef0a7bd978a45afdd
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -475,12 +476,26 @@ ns2.dns.nic.aig.	0	IN	A	156.154.145.6
 ns2.dns.nic.aig.	0	IN	AAAA	2610:a1:1072::6
 ns3.dns.nic.aig.	0	IN	A	156.154.159.6
 ns3.dns.nic.aig.	0	IN	AAAA	2610:a1:1073::6
-airbus.	0	IN	NS	ac1.nstld.com.
-airbus.	0	IN	NS	ac2.nstld.com.
-airbus.	0	IN	NS	ac3.nstld.com.
-airbus.	0	IN	NS	ac4.nstld.com.
+airbus.	0	IN	NS	v0n0.nic.airbus.
+airbus.	0	IN	NS	v0n1.nic.airbus.
+airbus.	0	IN	NS	v0n2.nic.airbus.
+airbus.	0	IN	NS	v0n3.nic.airbus.
+airbus.	0	IN	NS	v2n0.nic.airbus.
+airbus.	0	IN	NS	v2n1.nic.airbus.
 airbus.	0	IN	DS	31023 8 2 fafdd4f89fa42d1396b42a972019bd3de013bd1708888fd77bd7dada8a38936d
 airbus.	0	IN	DS	51547 8 2 982b16e3bae278ab7146e3bdedaf3bfc9c8c46d7db3485321019d10c7f5108ee
+v0n0.nic.airbus.	0	IN	A	65.22.108.10
+v0n0.nic.airbus.	0	IN	AAAA	2a01:8840:6a::10
+v0n1.nic.airbus.	0	IN	A	65.22.109.10
+v0n1.nic.airbus.	0	IN	AAAA	2a01:8840:6b::10
+v0n2.nic.airbus.	0	IN	A	65.22.110.10
+v0n2.nic.airbus.	0	IN	AAAA	2a01:8840:6c::10
+v0n3.nic.airbus.	0	IN	A	161.232.32.10
+v0n3.nic.airbus.	0	IN	AAAA	2a01:8840:108::10
+v2n0.nic.airbus.	0	IN	A	65.22.111.10
+v2n0.nic.airbus.	0	IN	AAAA	2a01:8840:6d::10
+v2n1.nic.airbus.	0	IN	A	161.232.33.10
+v2n1.nic.airbus.	0	IN	AAAA	2a01:8840:109::10
 airforce.	0	IN	NS	v0n0.nic.airforce.
 airforce.	0	IN	NS	v0n1.nic.airforce.
 airforce.	0	IN	NS	v0n2.nic.airforce.
@@ -7096,6 +7111,7 @@ george.	0	IN	NS	a2.nic.george.
 george.	0	IN	NS	b0.nic.george.
 george.	0	IN	NS	c0.nic.george.
 george.	0	IN	DS	1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
+george.	0	IN	DS	52471 8 2 2075b42f79f6ac18baaa19256564296dc9a53b1a24f2bf84550e005206b4e2d3
 a0.nic.george.	0	IN	A	65.22.112.49
 a0.nic.george.	0	IN	AAAA	2a01:8840:6e::49
 a2.nic.george.	0	IN	A	65.22.115.49
@@ -7585,6 +7601,7 @@ grocery.	0	IN	NS	a0.nic.grocery.
 grocery.	0	IN	NS	a2.nic.grocery.
 grocery.	0	IN	NS	b0.nic.grocery.
 grocery.	0	IN	NS	c0.nic.grocery.
+grocery.	0	IN	DS	18634 8 2 03d573c990bfb36fce9a9ecebf706b50bc42d96772d9c39c76af617225c02b34
 grocery.	0	IN	DS	58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
 a0.nic.grocery.	0	IN	A	65.22.112.50
 a0.nic.grocery.	0	IN	AAAA	2a01:8840:6e::50
@@ -15004,6 +15021,7 @@ samsclub.	0	IN	NS	a0.nic.samsclub.
 samsclub.	0	IN	NS	a2.nic.samsclub.
 samsclub.	0	IN	NS	b0.nic.samsclub.
 samsclub.	0	IN	NS	c0.nic.samsclub.
+samsclub.	0	IN	DS	35602 8 2 29e4496bea5e1cec89fcb45cbd4d9c45d0a024eb2b3bb1245f67ef66ba89d210
 samsclub.	0	IN	DS	60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
 a0.nic.samsclub.	0	IN	A	65.22.112.66
 a0.nic.samsclub.	0	IN	AAAA	2a01:8840:6e::66
@@ -18294,12 +18312,26 @@ dnsc.nic.virgin.	0	IN	A	156.154.102.3
 dnsc.nic.virgin.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.virgin.	0	IN	A	156.154.103.3
 dnsd.nic.virgin.	0	IN	AAAA	2610:a1:1010::3
-visa.	0	IN	NS	ac1.nstld.com.
-visa.	0	IN	NS	ac2.nstld.com.
-visa.	0	IN	NS	ac3.nstld.com.
-visa.	0	IN	NS	ac4.nstld.com.
+visa.	0	IN	NS	v0n0.nic.visa.
+visa.	0	IN	NS	v0n1.nic.visa.
+visa.	0	IN	NS	v0n2.nic.visa.
+visa.	0	IN	NS	v0n3.nic.visa.
+visa.	0	IN	NS	v2n0.nic.visa.
+visa.	0	IN	NS	v2n1.nic.visa.
 visa.	0	IN	DS	55863 8 2 b7d4dd6e17c137c8d9121055ec796100868870d2d31ac0dc5a2ce1972f692cb4
 visa.	0	IN	DS	61366 8 2 94d6f007f7a3cd81d061701497a7e54f801a495e219370723bab6f2707b68d6e
+v0n0.nic.visa.	0	IN	A	65.22.108.20
+v0n0.nic.visa.	0	IN	AAAA	2a01:8840:6a::20
+v0n1.nic.visa.	0	IN	A	65.22.109.20
+v0n1.nic.visa.	0	IN	AAAA	2a01:8840:6b::20
+v0n2.nic.visa.	0	IN	A	65.22.110.20
+v0n2.nic.visa.	0	IN	AAAA	2a01:8840:6c::20
+v0n3.nic.visa.	0	IN	A	161.232.32.20
+v0n3.nic.visa.	0	IN	AAAA	2a01:8840:108::20
+v2n0.nic.visa.	0	IN	A	65.22.111.20
+v2n0.nic.visa.	0	IN	AAAA	2a01:8840:6d::20
+v2n1.nic.visa.	0	IN	A	161.232.33.20
+v2n1.nic.visa.	0	IN	AAAA	2a01:8840:109::20
 vision.	0	IN	NS	v0n0.nic.vision.
 vision.	0	IN	NS	v0n1.nic.vision.
 vision.	0	IN	NS	v0n2.nic.vision.
@@ -18535,6 +18567,7 @@ walmart.	0	IN	NS	a0.nic.walmart.
 walmart.	0	IN	NS	a2.nic.walmart.
 walmart.	0	IN	NS	b0.nic.walmart.
 walmart.	0	IN	NS	c0.nic.walmart.
+walmart.	0	IN	DS	4411 8 2 cee1000fc9a5a5c1e205308ac36910953c589174ca5d18516dcb0549ea450886
 walmart.	0	IN	DS	34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
 a0.nic.walmart.	0	IN	A	65.22.112.74
 a0.nic.walmart.	0	IN	AAAA	2a01:8840:6e::74
