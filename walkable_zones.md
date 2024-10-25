@@ -2,8 +2,8 @@
 
 * `.`
 * `amazon.`
+* `aquarelle.`
 * `arpa.`
-* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -29,22 +29,22 @@
 * `id.`
 * `ieee.`
 * `kg.`
+* `kz.`
 * `lb.`
 * `li.`
 * `lk.`
 * `lol.`
 * `lr.`
-* `mc.`
 * `mom.`
 * `nu.`
 * `omega.`
 * `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `shell.`
 * `sl.`
 * `swatch.`
-* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
