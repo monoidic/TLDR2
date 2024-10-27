@@ -171,6 +171,8 @@
 3x.ax.	0	IN	NS	ns3.netim.net.
 41267.ax.	0	IN	NS	ns6.netsto.net.
 41267.ax.	0	IN	NS	ns7.netsto.net.
+42.ax.	0	IN	NS	terry.ns.cloudflare.com.
+42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 42653.ax.	0	IN	NS	ns6.netsto.net.
 42653.ax.	0	IN	NS	ns7.netsto.net.
 44.ax.	0	IN	NS	ns1.ps.kz.
@@ -1352,8 +1354,6 @@ av.ax.	0	IN	NS	ns2.hosting-cloud.net.
 av.ax.	0	IN	NS	ns3.hosting-cloud.net.
 avancia.ax.	0	IN	NS	ns1.consilia.fi.
 avancia.ax.	0	IN	NS	ns2.consilia.fi.
-avbetalning.ax.	0	IN	NS	ns1.consilia.fi.
-avbetalning.ax.	0	IN	NS	ns2.consilia.fi.
 avi.ax.	0	IN	NS	ns1.dreamhost.com.
 avi.ax.	0	IN	NS	ns2.dreamhost.com.
 avi.ax.	0	IN	NS	ns3.dreamhost.com.
@@ -2076,11 +2076,6 @@ business.ax.	0	IN	NS	ns1.istanco.com.
 business.ax.	0	IN	NS	ns2.istanco.com.
 businesscentral.ax.	0	IN	NS	int-ad1.consilia.ax.
 businesscentral.ax.	0	IN	NS	sqldev1.consilia.ax.
-businessnet.ax.	0	IN	NS	ns1.aland.net.
-businessnet.ax.	0	IN	NS	ns1.consilia.fi.
-businessnet.ax.	0	IN	NS	ns2.aland.net.
-businessnet.ax.	0	IN	NS	ns2.consilia.fi.
-businessnet.ax.	0	IN	NS	ns3.alcom.fi.
 butcherandbanker.ax.	0	IN	NS	ns1.euronic.fi.
 butcherandbanker.ax.	0	IN	NS	ns2.euronic.fi.
 butcherandbanker.ax.	0	IN	NS	ns3.euronic.fi.
@@ -2468,8 +2463,8 @@ coachemilia.ax.	0	IN	NS	ns3.wordpress.com.
 code.ax.	0	IN	NS	ns1.101domain.com.
 code.ax.	0	IN	NS	ns2.101domain.com.
 code.ax.	0	IN	NS	ns5.101domain.com.
-coin.ax.	0	IN	NS	ns1.dan.hosting.
-coin.ax.	0	IN	NS	ns2.dan.hosting.
+coin.ax.	0	IN	NS	ns1.dan.com.
+coin.ax.	0	IN	NS	ns2.dan.com.
 colerus.ax.	0	IN	NS	ns1.aland.net.
 colerus.ax.	0	IN	NS	ns2.aland.net.
 colerus.ax.	0	IN	NS	ns3.alcom.fi.
@@ -3791,10 +3786,6 @@ fordonmyndigheten.ax.	0	IN	NS	ns.regeringen.ax.
 fordonmyndigheten.ax.	0	IN	NS	ns2.aland.net.
 fordonmyndigheten.ax.	0	IN	NS	ns2.regeringen.ax.
 fordonmyndigheten.ax.	0	IN	NS	ns3.alcom.fi.
-fordonsmyndigheten.ax.	0	IN	NS	ns.regeringen.ax.
-fordonsmyndigheten.ax.	0	IN	NS	ns2.aland.net.
-fordonsmyndigheten.ax.	0	IN	NS	ns2.regeringen.ax.
-fordonsmyndigheten.ax.	0	IN	NS	ns3.alcom.fi.
 forest.ax.	0	IN	NS	rocco.ns.cloudflare.com.
 forest.ax.	0	IN	NS	jillian.ns.cloudflare.com.
 foretagare.ax.	0	IN	NS	ns8.wixdns.net.
@@ -3948,6 +3939,10 @@ futureyou.ax.	0	IN	NS	ns1.aland.net.
 futureyou.ax.	0	IN	NS	ns2.aland.net.
 futureyou.ax.	0	IN	NS	ns3.alcom.fi.
 futureyou.ax.	0	IN	NS	ns4.alcom.fi.
+fv.ax.	0	IN	NS	ns.regeringen.ax.
+fv.ax.	0	IN	NS	ns2.aland.net.
+fv.ax.	0	IN	NS	ns2.regeringen.ax.
+fv.ax.	0	IN	NS	ns3.alcom.fi.
 fw.ax.	0	IN	NS	amy.ns.cloudflare.com.
 fw.ax.	0	IN	NS	eric.ns.cloudflare.com.
 fx.ax.	0	IN	NS	ns1.dan.com.
@@ -4263,6 +4258,10 @@ grannas.ax.	0	IN	NS	rodney.ns.cloudflare.com.
 grannas.ax.	0	IN	NS	priscilla.ns.cloudflare.com.
 granntanden.ax.	0	IN	NS	ns1.loopiagroup.com.
 granntanden.ax.	0	IN	NS	ns2.loopiagroup.com.
+granshinder.ax.	0	IN	NS	ns.regeringen.ax.
+granshinder.ax.	0	IN	NS	ns2.aland.net.
+granshinder.ax.	0	IN	NS	ns2.regeringen.ax.
+granshinder.ax.	0	IN	NS	ns3.alcom.fi.
 gras.ax.	0	IN	NS	ns1.iwebben.fi.
 gras.ax.	0	IN	NS	ns2.iwebben.fi.
 great.ax.	0	IN	NS	ns12.wixdns.net.
@@ -6087,8 +6086,6 @@ lekia.ax.	0	IN	NS	dns.connect.ax.
 lekia.ax.	0	IN	NS	dns2.ipconnect.fi.
 lekia.ax.	0	IN	NS	dns3.ipconnect.fi.
 lekia.ax.	0	IN	NS	dns4.ipconnect.fi.
-leklandet.ax.	0	IN	NS	ns1.consilia.fi.
-leklandet.ax.	0	IN	NS	ns2.consilia.fi.
 lemland.ax.	0	IN	NS	ns1.justit.ax.
 lemland.ax.	0	IN	NS	ns2.justit.ax.
 lemland.ax.	0	IN	NS	ns3.justit.ax.
@@ -6490,8 +6487,6 @@ man.ax.	0	IN	NS	gemma.ns.cloudflare.com.
 man.ax.	0	IN	NS	norman.ns.cloudflare.com.
 mandea.ax.	0	IN	NS	ns0.wixdns.net.
 mandea.ax.	0	IN	NS	ns1.wixdns.net.
-manga.ax.	0	IN	NS	ns1.dan.com.
-manga.ax.	0	IN	NS	ns2.dan.com.
 mani.ax.	0	IN	NS	ns1.netim.net.
 mani.ax.	0	IN	NS	ns2.netim.net.
 mani.ax.	0	IN	NS	ns3.netim.net.
@@ -8883,8 +8878,6 @@ salongekoforia.ax.	0	IN	NS	ns4.wixdns.net.
 salongekoforia.ax.	0	IN	NS	ns5.wixdns.net.
 salongen.ax.	0	IN	NS	ns1.consilia.fi.
 salongen.ax.	0	IN	NS	ns2.consilia.fi.
-salonlocky.ax.	0	IN	NS	ns1.consilia.fi.
-salonlocky.ax.	0	IN	NS	ns2.consilia.fi.
 salonmiri.ax.	0	IN	NS	ns1.iwebben.fi.
 salonmiri.ax.	0	IN	NS	ns2.iwebben.fi.
 salt.ax.	0	IN	NS	ns1.aland.net.
@@ -11269,8 +11262,6 @@ xn--ftternafrst-rfbh.ax.	0	IN	NS	ns4.alcom.fi.
 xn--garenslnedag-fcb3x.ax.	0	IN	NS	ns1.euronic.fi.
 xn--garenslnedag-fcb3x.ax.	0	IN	NS	ns2.euronic.fi.
 xn--garenslnedag-fcb3x.ax.	0	IN	NS	ns3.euronic.fi.
-xn--garstrategi-k8a.ax.	0	IN	NS	ns1.consilia.fi.
-xn--garstrategi-k8a.ax.	0	IN	NS	ns2.consilia.fi.
 xn--grs-rla.ax.	0	IN	NS	ns1.iwebben.fi.
 xn--grs-rla.ax.	0	IN	NS	ns2.iwebben.fi.
 xn--hgskoleprov-rfb.ax.	0	IN	NS	ns1.ilait.se.
@@ -11306,6 +11297,10 @@ xn--landdigital-w8a.ax.	0	IN	NS	ns1.misspark.com.
 xn--landdigital-w8a.ax.	0	IN	NS	ns2.misspark.com.
 xn--landdigital-w8a.ax.	0	IN	NS	ns3.misspark.com.
 xn--landdigital-w8a.ax.	0	IN	NS	ns4.misspark.com.
+xn--landliving-05a.ax.	0	IN	NS	ns.regeringen.ax.
+xn--landliving-05a.ax.	0	IN	NS	ns2.aland.net.
+xn--landliving-05a.ax.	0	IN	NS	ns2.regeringen.ax.
+xn--landliving-05a.ax.	0	IN	NS	ns3.alcom.fi.
 xn--landsbten-42ag.ax.	0	IN	NS	ns1.ilait.se.
 xn--landsbten-42ag.ax.	0	IN	NS	ns2.ilait.se.
 xn--landsbten-42ag.ax.	0	IN	NS	ns3.ilait.se.
