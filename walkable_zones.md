@@ -49,7 +49,6 @@
 * `swatch.`
 * `tn.`
 * `tz.`
-* `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
