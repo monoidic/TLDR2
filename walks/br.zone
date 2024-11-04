@@ -940,6 +940,7 @@ etc.br.	0	IN	NS	e.dns.br.
 etc.br.	0	IN	NS	f.dns.br.
 etfes.br.	0	IN	NS	ns.etfes.br.
 etfes.br.	0	IN	NS	ns2.etfes.br.
+etfgo.br.	0	IN	NS	ns1.etfgo.br.
 etfgo.br.	0	IN	NS	apolo.etfgo.br.
 etfgo.br.	0	IN	NS	gandalf.etfgo.br.
 etfrn.br.	0	IN	NS	amy.ns.cloudflare.com.
@@ -1868,6 +1869,7 @@ infovest.br.	0	IN	NS	ns1-01.azure-dns.com.
 infovest.br.	0	IN	NS	ns2-01.azure-dns.net.
 infovest.br.	0	IN	NS	ns3-01.azure-dns.org.
 infovest.br.	0	IN	NS	ns4-01.azure-dns.info.
+inpe.br.	0	IN	NS	ns1.unicamp.br.
 inpe.br.	0	IN	NS	anace.gsr.inpe.br.
 inpe.br.	0	IN	NS	caruru.dmz.inpe.br.
 inpe.br.	0	IN	NS	srv-dnscpa.inpe.br.
@@ -2282,8 +2284,6 @@ odo.br.	0	IN	NS	e.dns.br.
 odo.br.	0	IN	NS	f.dns.br.
 oet.br.	0	IN	NS	ns1.assetanet.com.br.
 oet.br.	0	IN	NS	ns2.assetanet.com.br.
-on.br.	0	IN	NS	a.ns.on.br.
-on.br.	0	IN	NS	b.ns.on.br.
 ong.br.	0	IN	NS	a.dns.br.
 ong.br.	0	IN	NS	b.dns.br.
 ong.br.	0	IN	NS	c.dns.br.
@@ -3055,7 +3055,8 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	srvdns.
+ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
 umar.br.	0	IN	NS	ns1.unicesumar.edu.br.
 umar.br.	0	IN	NS	ns2.unicesumar.edu.br.
 umc.br.	0	IN	NS	infra021.umc.br.
@@ -3474,10 +3475,6 @@ uri.br.	0	IN	NS	sol.uri.br.
 uri.br.	0	IN	NS	marte.uri.br.
 urisantiago.br.	0	IN	NS	a.sec.dns.br.
 urisantiago.br.	0	IN	NS	b.sec.dns.br.
-usc.br.	0	IN	NS	ns.usc.br.
-usc.br.	0	IN	NS	ns1.usc.br.
-usc.br.	0	IN	NS	dnsusc.usc.br.
-usc.br.	0	IN	NS	dnsusc1.usc.br.
 usf.br.	0	IN	NS	ns1-34.azure-dns.com.
 usf.br.	0	IN	NS	ns2-34.azure-dns.net.
 usf.br.	0	IN	NS	ns3-34.azure-dns.org.
