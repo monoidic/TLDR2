@@ -182,6 +182,10 @@ net.ve.	0	IN	NS	ns4.nic.ve.
 net.ve.	0	IN	NS	ns5.nic.ve.
 net.ve.	0	IN	NS	ns6.nic.ve.
 net.ve.	0	IN	NS	ssdns-tld.nic.cl.
+nets.ve.	0	IN	NS	ns3.nic.ve.
+nets.ve.	0	IN	NS	ns4.nic.ve.
+nets.ve.	0	IN	NS	ns5.nic.ve.
+nets.ve.	0	IN	NS	ns6.nic.ve.
 nic.ve.	0	IN	NS	ns3.nic.ve.
 nic.ve.	0	IN	NS	ns4.nic.ve.
 nic.ve.	0	IN	NS	ns5.nic.ve.
@@ -206,8 +210,6 @@ rar.ve.	0	IN	NS	ssdns-tld.nic.cl.
 reacciun.ve.	0	IN	NS	dns.reacciun.ve.
 reacciun.ve.	0	IN	NS	ns3.reacciun.ve.
 reacciun.ve.	0	IN	NS	ns4.reacciun.ve.
-reacciun.ve.	0	IN	NS	dns1.cnti.gob.ve.
-reacciun.ve.	0	IN	NS	dns2.cnti.gob.ve.
 riu.ve.	0	IN	NS	ns.riu.ve.
 riu.ve.	0	IN	NS	dns2.reacciun.ve.
 rum.ve.	0	IN	NS	dns1.cscdns.net.
@@ -244,6 +246,8 @@ texaco.ve.	0	IN	NS	udns1.cscdns.net.
 texaco.ve.	0	IN	NS	udns2.cscdns.uk.
 thebar.ve.	0	IN	NS	dns1.cscdns.net.
 thebar.ve.	0	IN	NS	dns2.cscdns.net.
+trw.ve.	0	IN	NS	dns1.cscdns.net.
+trw.ve.	0	IN	NS	dns2.cscdns.net.
 ucv.ve.	0	IN	NS	dns.reacciun.ve.
 ucv.ve.	0	IN	NS	dns1.ucv.ve.
 ucv.ve.	0	IN	NS	dns2.reacciun.ve.
@@ -274,11 +278,3 @@ yasmin.ve.	0	IN	NS	pdns1.cscdns.net.
 yasmin.ve.	0	IN	NS	pdns2.cscdns.net.
 youneedcommunication.ve.	0	IN	NS	boyd.ns.cloudflare.com.
 youneedcommunication.ve.	0	IN	NS	meilani.ns.cloudflare.com.
-zf.ve.	0	IN	NS	dns1.cscdns.net.
-zf.ve.	0	IN	NS	dns2.cscdns.net.
-zf-group.ve.	0	IN	NS	dns1.cscdns.net.
-zf-group.ve.	0	IN	NS	dns2.cscdns.net.
-zfgroup.ve.	0	IN	NS	dns1.cscdns.net.
-zfgroup.ve.	0	IN	NS	dns2.cscdns.net.
-zfservice.ve.	0	IN	NS	dns1.cscdns.net.
-zfservice.ve.	0	IN	NS	dns2.cscdns.net.
