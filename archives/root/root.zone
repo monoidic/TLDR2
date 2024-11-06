@@ -13,7 +13,6 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024110601 1 1 6cd713bc4428a29ad877647c95ef46c9efdad25aa6c3c671643616a22e796ce035e607dc14892f3334b80d499748fbff
 .	0	IN	ZONEMD	2024110602 1 1 2959e6678dd18de757919c31f62f49d2e88489de3afd291c5efedb65c6ba6453c1b568a3c4d1a6c000dee9d9109abe3b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
@@ -7112,26 +7111,14 @@ george.	0	IN	NS	c.nic.george.
 george.	0	IN	NS	x.nic.george.
 george.	0	IN	NS	y.nic.george.
 george.	0	IN	NS	z.nic.george.
-george.	0	IN	NS	a0.nic.george.
-george.	0	IN	NS	a2.nic.george.
-george.	0	IN	NS	b0.nic.george.
-george.	0	IN	NS	c0.nic.george.
 george.	0	IN	DS	1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
 george.	0	IN	DS	52471 8 2 2075b42f79f6ac18baaa19256564296dc9a53b1a24f2bf84550e005206b4e2d3
 a.nic.george.	0	IN	A	37.209.192.9
 a.nic.george.	0	IN	AAAA	2001:dcd:1::9
-a0.nic.george.	0	IN	A	65.22.112.49
-a0.nic.george.	0	IN	AAAA	2a01:8840:6e::49
-a2.nic.george.	0	IN	A	65.22.115.49
-a2.nic.george.	0	IN	AAAA	2a01:8840:71::49
 b.nic.george.	0	IN	A	37.209.194.9
 b.nic.george.	0	IN	AAAA	2001:dcd:2::9
-b0.nic.george.	0	IN	A	65.22.113.49
-b0.nic.george.	0	IN	AAAA	2a01:8840:6f::49
 c.nic.george.	0	IN	A	37.209.196.9
 c.nic.george.	0	IN	AAAA	2001:dcd:3::9
-c0.nic.george.	0	IN	A	65.22.114.49
-c0.nic.george.	0	IN	AAAA	2a01:8840:70::49
 x.nic.george.	0	IN	A	156.154.172.82
 x.nic.george.	0	IN	AAAA	2610:a1:1074::1:82
 y.nic.george.	0	IN	A	156.154.173.82
@@ -7621,26 +7608,14 @@ grocery.	0	IN	NS	c.nic.grocery.
 grocery.	0	IN	NS	x.nic.grocery.
 grocery.	0	IN	NS	y.nic.grocery.
 grocery.	0	IN	NS	z.nic.grocery.
-grocery.	0	IN	NS	a0.nic.grocery.
-grocery.	0	IN	NS	a2.nic.grocery.
-grocery.	0	IN	NS	b0.nic.grocery.
-grocery.	0	IN	NS	c0.nic.grocery.
 grocery.	0	IN	DS	18634 8 2 03d573c990bfb36fce9a9ecebf706b50bc42d96772d9c39c76af617225c02b34
 grocery.	0	IN	DS	58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
 a.nic.grocery.	0	IN	A	37.209.192.10
 a.nic.grocery.	0	IN	AAAA	2001:dcd:1::10
-a0.nic.grocery.	0	IN	A	65.22.112.50
-a0.nic.grocery.	0	IN	AAAA	2a01:8840:6e::50
-a2.nic.grocery.	0	IN	A	65.22.115.50
-a2.nic.grocery.	0	IN	AAAA	2a01:8840:71::50
 b.nic.grocery.	0	IN	A	37.209.194.10
 b.nic.grocery.	0	IN	AAAA	2001:dcd:2::10
-b0.nic.grocery.	0	IN	A	65.22.113.50
-b0.nic.grocery.	0	IN	AAAA	2a01:8840:6f::50
 c.nic.grocery.	0	IN	A	37.209.196.10
 c.nic.grocery.	0	IN	AAAA	2001:dcd:3::10
-c0.nic.grocery.	0	IN	A	65.22.114.50
-c0.nic.grocery.	0	IN	AAAA	2a01:8840:70::50
 x.nic.grocery.	0	IN	A	156.154.172.82
 x.nic.grocery.	0	IN	AAAA	2610:a1:1074::1:82
 y.nic.grocery.	0	IN	A	156.154.173.82
@@ -9361,7 +9336,6 @@ jp.	0	IN	NS	e.dns.jp.
 jp.	0	IN	NS	f.dns.jp.
 jp.	0	IN	NS	g.dns.jp.
 jp.	0	IN	NS	h.dns.jp.
-jp.	0	IN	DS	22111 8 2 e5a43534b9beafbf35d6c6b3eaa1e9ae7fe2b4d8961252126fd67b5172322286
 jp.	0	IN	DS	35821 8 2 41ad6ec23454a202d05bd75d9c323825c9822b9850cb1793cab2da2814c74140
 a.dns.jp.	0	IN	A	203.119.1.1
 a.dns.jp.	0	IN	AAAA	2001:dc4::1
@@ -15060,26 +15034,14 @@ samsclub.	0	IN	NS	c.nic.samsclub.
 samsclub.	0	IN	NS	x.nic.samsclub.
 samsclub.	0	IN	NS	y.nic.samsclub.
 samsclub.	0	IN	NS	z.nic.samsclub.
-samsclub.	0	IN	NS	a0.nic.samsclub.
-samsclub.	0	IN	NS	a2.nic.samsclub.
-samsclub.	0	IN	NS	b0.nic.samsclub.
-samsclub.	0	IN	NS	c0.nic.samsclub.
 samsclub.	0	IN	DS	35602 8 2 29e4496bea5e1cec89fcb45cbd4d9c45d0a024eb2b3bb1245f67ef66ba89d210
 samsclub.	0	IN	DS	60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
 a.nic.samsclub.	0	IN	A	37.209.192.9
 a.nic.samsclub.	0	IN	AAAA	2001:dcd:1::9
-a0.nic.samsclub.	0	IN	A	65.22.112.66
-a0.nic.samsclub.	0	IN	AAAA	2a01:8840:6e::66
-a2.nic.samsclub.	0	IN	A	65.22.115.66
-a2.nic.samsclub.	0	IN	AAAA	2a01:8840:71::66
 b.nic.samsclub.	0	IN	A	37.209.194.9
 b.nic.samsclub.	0	IN	AAAA	2001:dcd:2::9
-b0.nic.samsclub.	0	IN	A	65.22.113.66
-b0.nic.samsclub.	0	IN	AAAA	2a01:8840:6f::66
 c.nic.samsclub.	0	IN	A	37.209.196.9
 c.nic.samsclub.	0	IN	AAAA	2001:dcd:3::9
-c0.nic.samsclub.	0	IN	A	65.22.114.66
-c0.nic.samsclub.	0	IN	AAAA	2a01:8840:70::66
 x.nic.samsclub.	0	IN	A	156.154.172.82
 x.nic.samsclub.	0	IN	AAAA	2610:a1:1074::1:82
 y.nic.samsclub.	0	IN	A	156.154.173.82
@@ -18624,26 +18586,14 @@ walmart.	0	IN	NS	c.nic.walmart.
 walmart.	0	IN	NS	x.nic.walmart.
 walmart.	0	IN	NS	y.nic.walmart.
 walmart.	0	IN	NS	z.nic.walmart.
-walmart.	0	IN	NS	a0.nic.walmart.
-walmart.	0	IN	NS	a2.nic.walmart.
-walmart.	0	IN	NS	b0.nic.walmart.
-walmart.	0	IN	NS	c0.nic.walmart.
 walmart.	0	IN	DS	4411 8 2 cee1000fc9a5a5c1e205308ac36910953c589174ca5d18516dcb0549ea450886
 walmart.	0	IN	DS	34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
 a.nic.walmart.	0	IN	A	37.209.192.9
 a.nic.walmart.	0	IN	AAAA	2001:dcd:1::9
-a0.nic.walmart.	0	IN	A	65.22.112.74
-a0.nic.walmart.	0	IN	AAAA	2a01:8840:6e::74
-a2.nic.walmart.	0	IN	A	65.22.115.74
-a2.nic.walmart.	0	IN	AAAA	2a01:8840:71::74
 b.nic.walmart.	0	IN	A	37.209.194.9
 b.nic.walmart.	0	IN	AAAA	2001:dcd:2::9
-b0.nic.walmart.	0	IN	A	65.22.113.74
-b0.nic.walmart.	0	IN	AAAA	2a01:8840:6f::74
 c.nic.walmart.	0	IN	A	37.209.196.9
 c.nic.walmart.	0	IN	AAAA	2001:dcd:3::9
-c0.nic.walmart.	0	IN	A	65.22.114.74
-c0.nic.walmart.	0	IN	AAAA	2a01:8840:70::74
 x.nic.walmart.	0	IN	A	156.154.172.82
 x.nic.walmart.	0	IN	AAAA	2610:a1:1074::1:82
 y.nic.walmart.	0	IN	A	156.154.173.82
