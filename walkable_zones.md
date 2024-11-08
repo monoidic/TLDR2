@@ -15,6 +15,7 @@
 * `ch.`
 * `christmas.`
 * `ci.`
+* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -44,6 +45,7 @@
 * `ruhr.`
 * `se.`
 * `shell.`
+* `sl.`
 * `swatch.`
 * `tn.`
 * `tz.`
