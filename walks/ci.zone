@@ -54,6 +54,8 @@
 122.ci.	0	IN	NS	andronicus.ns.cloudflare.com.
 123.ci.	0	IN	NS	f1g1ns1.dnspod.net.
 123.ci.	0	IN	NS	f1g1ns2.dnspod.net.
+123printservices.ci.	0	IN	NS	sdns2.ovh.net.
+123printservices.ci.	0	IN	NS	webcloud.epistrophe.africa.
 1254.ci.	0	IN	NS	ns1.netsto.net.
 1254.ci.	0	IN	NS	ns2.netsto.net.
 13.ci.	0	IN	NS	ns1.dan.com.
@@ -315,8 +317,9 @@
 2aleit.ci.	0	IN	NS	ns1.xselcloud.com.
 2aleit.ci.	0	IN	NS	ns2.xselcloud.com.
 2aleit.ci.	0	IN	NS	ns3.xselcloud.com.
-2amegroupe.ci.	0	IN	NS	ns4.wixdns.net.
-2amegroupe.ci.	0	IN	NS	ns5.wixdns.net.
+2amegroupe.ci.	0	IN	NS	ns1.netim.net.
+2amegroupe.ci.	0	IN	NS	ns2.netim.net.
+2amegroupe.ci.	0	IN	NS	ns3.netim.net.
 2bintec.ci.	0	IN	NS	ns1.francedns.com.
 2bintec.ci.	0	IN	NS	ns2.francedns.com.
 2bintec.ci.	0	IN	NS	ns3.francedns.com.
@@ -756,7 +759,6 @@ abcdconsulting.ci.	0	IN	NS	ns1.vipnet.ci.
 abcdconsulting.ci.	0	IN	NS	ns2.vipnet.ci.
 abcdconsulting.ci.	0	IN	NS	ns4.vipnet.ci.
 abcdconsulting.ci.	0	IN	NS	ns5.vipnet.ci.
-abcdconsulting.ci.	0	IN	NS	webhosting.vipnet.ci.
 abci.ci.	0	IN	NS	ns31.infomaniak.com.
 abci.ci.	0	IN	NS	ns32.infomaniak.com.
 abcom.ci.	0	IN	NS	ns1.dns-parking.com.
@@ -1901,6 +1903,8 @@ alertefoncier.ci.	0	IN	NS	ns2.md-in-82.webhostbox.net.
 alerteprecoce.ci.	0	IN	NS	ns1.netim.net.
 alerteprecoce.ci.	0	IN	NS	ns2.netim.net.
 alerteprecoce.ci.	0	IN	NS	ns3.netim.net.
+alerteservitude.ci.	0	IN	NS	ns1.logis1.com.
+alerteservitude.ci.	0	IN	NS	ns2.logis1.com.
 ales-solutions.ci.	0	IN	NS	ns1.dns-parking.com.
 ales-solutions.ci.	0	IN	NS	ns2.dns-parking.com.
 alex.ci.	0	IN	NS	lee.ns.cloudflare.com.
@@ -2429,9 +2433,6 @@ applestore.ci.	0	IN	NS	a.ns.apple.com.
 applestore.ci.	0	IN	NS	b.ns.apple.com.
 applestore.ci.	0	IN	NS	c.ns.apple.com.
 applestore.ci.	0	IN	NS	d.ns.apple.com.
-appli-inventorys.ci.	0	IN	NS	yakro.aviso.ci.
-appli-inventorys.ci.	0	IN	NS	abidjan.aviso.ci.
-appli-inventorys.ci.	0	IN	NS	webhosting.aviso.ci.
 application-ecole.ci.	0	IN	NS	a.dns.cloud4africa.net.
 application-ecole.ci.	0	IN	NS	b.dns.cloud4africa.net.
 application-ecole.ci.	0	IN	NS	ns01.cloud4africa.net.
@@ -2495,6 +2496,7 @@ arachide.ci.	0	IN	NS	ns3.netim.net.
 aramex.ci.	0	IN	NS	dns1.idp365.net.
 aramex.ci.	0	IN	NS	dns2.idp365.net.
 aramex.ci.	0	IN	NS	dns3.idp365.net.
+aran.ci.	0	IN	NS	ns4.wicdot.com.
 arboretum.ci.	0	IN	NS	cpanel15.lws-hosting.com.
 arboretum.ci.	0	IN	NS	cpanel16.lws-hosting.com.
 arceus.ci.	0	IN	NS	ns1.netim.net.
@@ -3383,8 +3385,6 @@ b2bdigitalday.ci.	0	IN	NS	ns10.wixdns.net.
 b2bdigitalday.ci.	0	IN	NS	ns11.wixdns.net.
 b2bpro.ci.	0	IN	NS	ns1.o2switch.net.
 b2bpro.ci.	0	IN	NS	ns2.o2switch.net.
-b4gender.ci.	0	IN	NS	dns1.tpecloud.top.
-b4gender.ci.	0	IN	NS	dns2.tpecloud.top.
 b52.ci.	0	IN	NS	ns1.netim.net.
 b52.ci.	0	IN	NS	ns2.netim.net.
 b52.ci.	0	IN	NS	ns3.netim.net.
@@ -4238,10 +4238,6 @@ bl.ci.	0	IN	NS	ns2.netim.net.
 bl.ci.	0	IN	NS	ns3.netim.net.
 bl.ci.	0	IN	NS	ns4.netim.net.
 bl.ci.	0	IN	NS	ns5.netim.net.
-blacjoyaux.ci.	0	IN	NS	a.dns.cloud4africa.net.
-blacjoyaux.ci.	0	IN	NS	b.dns.cloud4africa.net.
-blacjoyaux.ci.	0	IN	NS	ns01.cloud4africa.net.
-blacjoyaux.ci.	0	IN	NS	ns02.cloud4africa.net.
 blackandbrawn.ci.	0	IN	NS	ns1.node141.myfcloudsg.com.
 blackandbrawn.ci.	0	IN	NS	ns2.node141.myfcloudsg.com.
 blackdeals.ci.	0	IN	NS	ns1.o2switch.net.
@@ -4392,10 +4388,6 @@ boiron.ci.	0	IN	NS	ns.domainnetwork.se.
 boiron.ci.	0	IN	NS	ns2.domainnetwork.se.
 boislegal.ci.	0	IN	NS	dns0.vename.com.
 boislegal.ci.	0	IN	NS	dns1.vename.com.
-bokosso.ci.	0	IN	NS	a.dns.cloud4africa.net.
-bokosso.ci.	0	IN	NS	b.dns.cloud4africa.net.
-bokosso.ci.	0	IN	NS	ns01.cloud4africa.net.
-bokosso.ci.	0	IN	NS	ns02.cloud4africa.net.
 boland.ci.	0	IN	NS	ns1.bdm.microsoftonline.com.
 boland.ci.	0	IN	NS	ns2.bdm.microsoftonline.com.
 boland.ci.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -6314,9 +6306,9 @@ cips.ci.	0	IN	NS	ns1.cips.ci.
 cips.ci.	0	IN	NS	ns2.cips.ci.
 cirad.ci.	0	IN	NS	cpanel11.lws-hosting.com.
 cirad.ci.	0	IN	NS	cpanel12.lws-hosting.com.
-cirba.ci.	0	IN	NS	ns1.us.opalstack.com.
-cirba.ci.	0	IN	NS	ns2.us.opalstack.com.
-cirba.ci.	0	IN	NS	ns3.us.opalstack.com.
+cirba.ci.	0	IN	NS	ns1.de.opalstack.com.
+cirba.ci.	0	IN	NS	ns2.de.opalstack.com.
+cirba.ci.	0	IN	NS	ns3.de.opalstack.com.
 circet.ci.	0	IN	NS	ns2.observatoiredesmarques.fr.
 circet.ci.	0	IN	NS	ns3.nameshield.net.
 circet.ci.	0	IN	NS	obs.ns1.fr.
@@ -6418,8 +6410,6 @@ citu.ci.	0	IN	NS	ns2.netim.net.
 citu.ci.	0	IN	NS	ns3.netim.net.
 cityads.ci.	0	IN	NS	marek.ns.cloudflare.com.
 cityads.ci.	0	IN	NS	amanda.ns.cloudflare.com.
-citybeachauto.ci.	0	IN	NS	51.178.81.237.
-citybeachauto.ci.	0	IN	NS	dns1.vename.com.
 citybike.ci.	0	IN	NS	ns1.hostmonster.com.
 citybike.ci.	0	IN	NS	ns2.hostmonster.com.
 citybus.ci.	0	IN	NS	a.dns.cloud4africa.net.
@@ -6503,8 +6493,8 @@ clear-path.ci.	0	IN	NS	ns1.hostkastor.com.
 clear-path.ci.	0	IN	NS	ns2.hostkastor.com.
 clearpath.ci.	0	IN	NS	ns1.hostkastor.com.
 clearpath.ci.	0	IN	NS	ns2.hostkastor.com.
-cleverness.ci.	0	IN	NS	dns0.vename.com.
-cleverness.ci.	0	IN	NS	dns1.vename.com.
+cleverness.ci.	0	IN	NS	ns1.o2switch.net.
+cleverness.ci.	0	IN	NS	ns2.o2switch.net.
 cli.ci.	0	IN	NS	ns1.regery.net.
 cli.ci.	0	IN	NS	ns2.regery.net.
 cli.ci.	0	IN	NS	ns3.regery.net.
@@ -7871,6 +7861,8 @@ dificlir.com.ci.	0	IN	NS	dns2.cscdns.net.
 dnb.com.ci.	0	IN	NS	dns1.safenames.com.
 dnb.com.ci.	0	IN	NS	dns2.safenames.net.
 dnb.com.ci.	0	IN	NS	dns3.safenames.org.
+docusign.com.ci.	0	IN	NS	ns1.markmonitor.com.
+docusign.com.ci.	0	IN	NS	ns3.markmonitor.com.
 easyhotel.com.ci.	0	IN	NS	ns1.markmonitor.com.
 easyhotel.com.ci.	0	IN	NS	ns2.markmonitor.com.
 easyhotel.com.ci.	0	IN	NS	ns3.markmonitor.com.
@@ -11018,10 +11010,6 @@ kennedy.edu.ci.	0	IN	NS	ns-cloud-d1.googledomains.com.
 kennedy.edu.ci.	0	IN	NS	ns-cloud-d2.googledomains.com.
 kennedy.edu.ci.	0	IN	NS	ns-cloud-d3.googledomains.com.
 kennedy.edu.ci.	0	IN	NS	ns-cloud-d4.googledomains.com.
-kleys.edu.ci.	0	IN	NS	a.dns.cloud4africa.net.
-kleys.edu.ci.	0	IN	NS	b.dns.cloud4africa.net.
-kleys.edu.ci.	0	IN	NS	ns01.cloud4africa.net.
-kleys.edu.ci.	0	IN	NS	ns02.cloud4africa.net.
 kpu.edu.ci.	0	IN	NS	huxley.ns.cloudflare.com.
 kpu.edu.ci.	0	IN	NS	maxine.ns.cloudflare.com.
 laredo.edu.ci.	0	IN	NS	chris.ns.cloudflare.com.
@@ -11801,6 +11789,8 @@ eo.ci.	0	IN	NS	ns2.netim.net.
 eo.ci.	0	IN	NS	ns3.netim.net.
 eo.ci.	0	IN	NS	ns4.netim.net.
 eo.ci.	0	IN	NS	ns5.netim.net.
+eof.ci.	0	IN	NS	dns0.vename.com.
+eof.ci.	0	IN	NS	dns1.vename.com.
 eolis.ci.	0	IN	NS	ns105.ovh.net.
 eolis.ci.	0	IN	NS	dns105.ovh.net.
 eolisco.ci.	0	IN	NS	nssec.online.net.
@@ -12932,8 +12922,8 @@ firstproduction.ci.	0	IN	NS	ns1.dnshostservices.com.
 firstproduction.ci.	0	IN	NS	ns2.dnshostservices.com.
 firstproduction.ci.	0	IN	NS	ns3.dnshostservices.com.
 firstproduction.ci.	0	IN	NS	ns4.dnshostservices.com.
-fis.ci.	0	IN	NS	ns14.wixdns.net.
-fis.ci.	0	IN	NS	ns15.wixdns.net.
+fis.ci.	0	IN	NS	dns0.vename.com.
+fis.ci.	0	IN	NS	dns1.vename.com.
 fisat.ci.	0	IN	NS	ns1.francedns.com.
 fisat.ci.	0	IN	NS	ns2.francedns.com.
 fisat.ci.	0	IN	NS	ns3.francedns.com.
@@ -13585,8 +13575,6 @@ gac-motor.ci.	0	IN	NS	ns3.francedns.com.
 gagnoa.ci.	0	IN	NS	ns1.netim.net.
 gagnoa.ci.	0	IN	NS	ns2.netim.net.
 gagnoa.ci.	0	IN	NS	ns3.netim.net.
-gahaa.ci.	0	IN	NS	ns1.o2switch.net.
-gahaa.ci.	0	IN	NS	ns2.o2switch.net.
 galai-home.ci.	0	IN	NS	ns1.server621.iseencloud.com.
 galai-home.ci.	0	IN	NS	ns2.server621.iseencloud.com.
 galaxynumeric.ci.	0	IN	NS	a.dns.cloud4africa.net.
@@ -14714,6 +14702,10 @@ gtbank.ci.	0	IN	NS	abidjan.aviso.ci.
 gtbank.ci.	0	IN	NS	webhosting.aviso.ci.
 gtci.ci.	0	IN	NS	dns0.vename.com.
 gtci.ci.	0	IN	NS	dns1.vename.com.
+gtech.ci.	0	IN	NS	a.dns.cloud4africa.net.
+gtech.ci.	0	IN	NS	b.dns.cloud4africa.net.
+gtech.ci.	0	IN	NS	ns01.cloud4africa.net.
+gtech.ci.	0	IN	NS	ns02.cloud4africa.net.
 gtl.ci.	0	IN	NS	ns1.francedns.com.
 gtl.ci.	0	IN	NS	ns2.francedns.com.
 gtl.ci.	0	IN	NS	ns3.francedns.com.
@@ -16264,9 +16256,8 @@ intelliabidjan.ci.	0	IN	NS	webhosting.aviso.ci.
 intelligence.ci.	0	IN	NS	sdns2.ovh.ca.
 intelligence.ci.	0	IN	NS	ns568450.ip-51-79-78.net.
 intelligenz.ci.	0	IN	NS	ns1.vipnet.ci.
-intelligenz.ci.	0	IN	NS	ns2.vipnet.ci.
 intelligenz.ci.	0	IN	NS	ns4.vipnet.ci.
-intelligenz.ci.	0	IN	NS	ns5.vipnet.ci.
+intelligenz.ci.	0	IN	NS	webhosting.vipnet.ci.
 intellomeet.ci.	0	IN	NS	dns0.vename.com.
 intellomeet.ci.	0	IN	NS	dns1.vename.com.
 intelsat.ci.	0	IN	NS	ns1.markmonitor.com.
@@ -16720,8 +16711,6 @@ ivoire-click.ci.	0	IN	NS	nsb.n0c.com.
 ivoire-click.ci.	0	IN	NS	nsc.n0c.com.
 ivoire-concours.ci.	0	IN	NS	dns0.vename.com.
 ivoire-concours.ci.	0	IN	NS	dns1.vename.com.
-ivoire-consulting.ci.	0	IN	NS	dns2.lws-hosting.com.
-ivoire-consulting.ci.	0	IN	NS	vps91206.serveur-vps.net.
 ivoire-coton.ci.	0	IN	NS	ns1.vipnet.ci.
 ivoire-coton.ci.	0	IN	NS	ns2.vipnet.ci.
 ivoire-coton.ci.	0	IN	NS	ns4.vipnet.ci.
@@ -16958,8 +16947,6 @@ jafci.ci.	0	IN	NS	ns12.ovh.net.
 jafci.ci.	0	IN	NS	dns12.ovh.net.
 jaimejacqueville.ci.	0	IN	NS	ns1.softlayer.com.
 jaimejacqueville.ci.	0	IN	NS	ns2.softlayer.com.
-jalertelanp.ci.	0	IN	NS	ns3.afriregister.com.
-jalertelanp.ci.	0	IN	NS	ns9.afriregister.co.ke.
 jamaal-ivoirelogistics.ci.	0	IN	NS	dns1.tpecloud.top.
 jamaal-ivoirelogistics.ci.	0	IN	NS	dns2.tpecloud.top.
 jambo.ci.	0	IN	NS	dns1.tpecloud.top.
@@ -18245,8 +18232,9 @@ laboratoiresolea.ci.	0	IN	NS	ns1.eurodns.com.
 laboratoiresolea.ci.	0	IN	NS	ns2.eurodns.com.
 laboratoiresolea.ci.	0	IN	NS	ns3.eurodns.com.
 laboratoiresolea.ci.	0	IN	NS	ns4.eurodns.com.
-laboservices.ci.	0	IN	NS	dns0.vename.com.
-laboservices.ci.	0	IN	NS	dns1.vename.com.
+laboservices.ci.	0	IN	NS	nsa.planethoster.net.
+laboservices.ci.	0	IN	NS	nsb.planethoster.net.
+laboservices.ci.	0	IN	NS	nsc.planethoster.net.
 laboussoleimmobilier.ci.	0	IN	NS	ns1.o2switch.net.
 laboussoleimmobilier.ci.	0	IN	NS	ns2.o2switch.net.
 laboutiik.ci.	0	IN	NS	ns1.dnshostservices.com.
@@ -19824,10 +19812,10 @@ mairiedanane.ci.	0	IN	NS	ns12.wixdns.net.
 mairiedanane.ci.	0	IN	NS	ns13.wixdns.net.
 mairiedebouake.ci.	0	IN	NS	dns0.vename.com.
 mairiedebouake.ci.	0	IN	NS	dns1.vename.com.
-mairiededimbokro.ci.	0	IN	NS	ns1.vipnet.ci.
-mairiededimbokro.ci.	0	IN	NS	ns2.vipnet.ci.
 mairiededimbokro.ci.	0	IN	NS	ns4.vipnet.ci.
 mairiededimbokro.ci.	0	IN	NS	ns5.vipnet.ci.
+mairiededimbokro.ci.	0	IN	NS	ns107.ovh.net.
+mairiededimbokro.ci.	0	IN	NS	dns107.ovh.net.
 mairiededjebonoua.ci.	0	IN	NS	usm11.noc41.com.
 mairiededjebonoua.ci.	0	IN	NS	usm12.noc41.com.
 mairiedejacqueville.ci.	0	IN	NS	ns1.softlayer.com.
@@ -21716,6 +21704,8 @@ myrthetransit.ci.	0	IN	NS	a.dns.cloud4africa.net.
 myrthetransit.ci.	0	IN	NS	b.dns.cloud4africa.net.
 myrthetransit.ci.	0	IN	NS	ns01.cloud4africa.net.
 myrthetransit.ci.	0	IN	NS	ns02.cloud4africa.net.
+myshopify.ci.	0	IN	NS	ns1.abovedomains.com.
+myshopify.ci.	0	IN	NS	ns2.abovedomains.com.
 mysteriousmarketing.ci.	0	IN	NS	ns1.netim.net.
 mysteriousmarketing.ci.	0	IN	NS	ns2.netim.net.
 mysteriousmarketing.ci.	0	IN	NS	ns3.netim.net.
@@ -23081,8 +23071,6 @@ ophiceas.ci.	0	IN	NS	dns2.tpecloud.top.
 ophircom.ci.	0	IN	NS	ns1.contabo.net.
 ophircom.ci.	0	IN	NS	ns2.contabo.net.
 ophircom.ci.	0	IN	NS	ns3.contabo.net.
-opisms.ci.	0	IN	NS	dns2.lws-hosting.com.
-opisms.ci.	0	IN	NS	vps102387.serveur-vps.net.
 oplayce.ci.	0	IN	NS	a.dns.cloud4africa.net.
 oplayce.ci.	0	IN	NS	b.dns.cloud4africa.net.
 oplayce.ci.	0	IN	NS	ns01.cloud4africa.net.
@@ -24212,8 +24200,6 @@ pierot.ci.	0	IN	NS	dns0.vename.com.
 pierot.ci.	0	IN	NS	dns1.vename.com.
 pietra.ci.	0	IN	NS	ns1.pietra.ci.
 pietra.ci.	0	IN	NS	ns2.pietra.ci.
-pif2.ci.	0	IN	NS	dns2.lws-hosting.com.
-pif2.ci.	0	IN	NS	vps100295.serveur-vps.net.
 pigelec.ci.	0	IN	NS	ns1.hostns.io.
 pigelec.ci.	0	IN	NS	ns2.hostns.io.
 pigier.ci.	0	IN	NS	yakro.aviso.ci.
@@ -24517,6 +24503,8 @@ policenationale.ci.	0	IN	NS	label1.srvlabel.com.
 polycliniquegmp.ci.	0	IN	NS	yakro.aviso.ci.
 polycliniquegmp.ci.	0	IN	NS	abidjan.aviso.ci.
 polycliniquegmp.ci.	0	IN	NS	webhosting.aviso.ci.
+polyelevages.ci.	0	IN	NS	ns279.hostsserver.com.
+polyelevages.ci.	0	IN	NS	ns280.hostsserver.com.
 polymed.ci.	0	IN	NS	ns1.francedns.com.
 polymed.ci.	0	IN	NS	ns2.francedns.com.
 polymed.ci.	0	IN	NS	ns3.francedns.com.
@@ -25477,10 +25465,12 @@ redordead.ci.	0	IN	NS	ns4.markmonitor.com.
 redordead.ci.	0	IN	NS	ns5.markmonitor.com.
 redstudio.ci.	0	IN	NS	ns1.dns-parking.com.
 redstudio.ci.	0	IN	NS	ns2.dns-parking.com.
+redtube.ci.	0	IN	NS	ns10.digicertdns.com.
 redtube.ci.	0	IN	NS	ns11.digicertdns.com.
 redtube.ci.	0	IN	NS	ns12.digicertdns.com.
 redtube.ci.	0	IN	NS	ns13.digicertdns.net.
 redtube.ci.	0	IN	NS	ns14.digicertdns.net.
+redtube.ci.	0	IN	NS	ns15.digicertdns.net.
 redtube.ci.	0	IN	NS	sdns3.ultradns.biz.
 redtube.ci.	0	IN	NS	sdns3.ultradns.com.
 redtube.ci.	0	IN	NS	sdns3.ultradns.net.
@@ -26249,6 +26239,10 @@ saitech-group.ci.	0	IN	NS	sdns2.ovh.net.
 saitech-group.ci.	0	IN	NS	ns5006379.ip-51-161-197.net.
 sakifa.ci.	0	IN	NS	dns0.vename.com.
 sakifa.ci.	0	IN	NS	dns1.vename.com.
+sakosatyetfilssarl.ci.	0	IN	NS	a.dns.cloud4africa.net.
+sakosatyetfilssarl.ci.	0	IN	NS	b.dns.cloud4africa.net.
+sakosatyetfilssarl.ci.	0	IN	NS	ns01.cloud4africa.net.
+sakosatyetfilssarl.ci.	0	IN	NS	ns02.cloud4africa.net.
 sakura.ci.	0	IN	NS	gordon.ns.cloudflare.com.
 sakura.ci.	0	IN	NS	melissa.ns.cloudflare.com.
 salam.ci.	0	IN	NS	ns5.wicdot.com.
@@ -26518,8 +26512,6 @@ scagroupe.ci.	0	IN	NS	dns1.tpecloud.top.
 scagroupe.ci.	0	IN	NS	dns2.tpecloud.top.
 scala.ci.	0	IN	NS	rory.ns.cloudflare.com.
 scala.ci.	0	IN	NS	laura.ns.cloudflare.com.
-scaod.ci.	0	IN	NS	dns0.vename.com.
-scaod.ci.	0	IN	NS	dns1.vename.com.
 scaso.ci.	0	IN	NS	a.dns.cloud4africa.net.
 scaso.ci.	0	IN	NS	b.dns.cloud4africa.net.
 scaso.ci.	0	IN	NS	ns01.cloud4africa.net.
@@ -27650,7 +27642,8 @@ siscom.ci.	0	IN	NS	ns3.afriregister.com.
 siscom.ci.	0	IN	NS	ns9.afriregister.co.ke.
 sisi.ci.	0	IN	NS	ns1.siteground.net.
 sisi.ci.	0	IN	NS	ns2.siteground.net.
-sisrah.ci.	0	IN	NS	yakro.openteam225.com.
+sisrah.ci.	0	IN	NS	ns1.o2switch.net.
+sisrah.ci.	0	IN	NS	ns2.o2switch.net.
 sitabio.ci.	0	IN	NS	ns1.francedns.com.
 sitabio.ci.	0	IN	NS	ns2.francedns.com.
 sitabio.ci.	0	IN	NS	ns3.francedns.com.
@@ -28358,9 +28351,6 @@ somed.ci.	0	IN	NS	ns1.siteground.net.
 somed.ci.	0	IN	NS	ns2.siteground.net.
 somfy.ci.	0	IN	NS	ns.domainnetwork.se.
 somfy.ci.	0	IN	NS	ns2.domainnetwork.se.
-somka.ci.	0	IN	NS	ns1.netim.net.
-somka.ci.	0	IN	NS	ns2.netim.net.
-somka.ci.	0	IN	NS	ns3.netim.net.
 sommetdelelevage.ci.	0	IN	NS	uma.ns.cloudflare.com.
 sommetdelelevage.ci.	0	IN	NS	dale.ns.cloudflare.com.
 somone.ci.	0	IN	NS	ns1.netim.net.
@@ -28835,6 +28825,8 @@ stormforger.ci.	0	IN	NS	ns2.inwx.de.
 stormforger.ci.	0	IN	NS	ns3.inwx.eu.
 stormgain.ci.	0	IN	NS	andy.ns.cloudflare.com.
 stormgain.ci.	0	IN	NS	jamie.ns.cloudflare.com.
+strategieetesperance.ci.	0	IN	NS	nssec.online.net.
+strategieetesperance.ci.	0	IN	NS	sd-123647.dedibox.fr.
 strategiesetesperance.ci.	0	IN	NS	yakro.aviso.ci.
 strategiesetesperance.ci.	0	IN	NS	abidjan.aviso.ci.
 strategiesetesperance.ci.	0	IN	NS	webhosting.aviso.ci.
@@ -29467,8 +29459,6 @@ terresdunord.ci.	0	IN	NS	ns2.francedns.com.
 terresdunord.ci.	0	IN	NS	ns3.francedns.com.
 terresoleil.ci.	0	IN	NS	neil.ns.cloudflare.com.
 terresoleil.ci.	0	IN	NS	dorthy.ns.cloudflare.com.
-terrivoir.ci.	0	IN	NS	dns0.vename.com.
-terrivoir.ci.	0	IN	NS	dns1.vename.com.
 terrivoire.ci.	0	IN	NS	ns1.francedns.com.
 terrivoire.ci.	0	IN	NS	ns2.francedns.com.
 terrivoire.ci.	0	IN	NS	ns3.francedns.com.
@@ -29580,6 +29570,12 @@ thierrytanoh.ci.	0	IN	NS	ns1.cloudns.net.
 thierrytanoh.ci.	0	IN	NS	ns2.cloudns.net.
 thierrytanoh.ci.	0	IN	NS	ns3.cloudns.net.
 thierrytanoh.ci.	0	IN	NS	ns4.cloudns.net.
+thinkle.ci.	0	IN	NS	ns1.netim.net.
+thinkle.ci.	0	IN	NS	ns2.netim.net.
+thinkle.ci.	0	IN	NS	ns3.netim.net.
+thinklecreativetalk.ci.	0	IN	NS	ns1.netim.net.
+thinklecreativetalk.ci.	0	IN	NS	ns2.netim.net.
+thinklecreativetalk.ci.	0	IN	NS	ns3.netim.net.
 thinktank.ci.	0	IN	NS	yakro.aviso.ci.
 thinktank.ci.	0	IN	NS	abidjan.aviso.ci.
 thinktank.ci.	0	IN	NS	webhosting.aviso.ci.
@@ -30301,7 +30297,6 @@ ujlog.ci.	0	IN	NS	ns1.vipnet.ci.
 ujlog.ci.	0	IN	NS	ns2.vipnet.ci.
 ujlog.ci.	0	IN	NS	ns4.vipnet.ci.
 ujlog.ci.	0	IN	NS	ns5.vipnet.ci.
-ujlog.ci.	0	IN	NS	hosting.vipnet.ci.
 uk.ci.	0	IN	NS	ns1.bodis.com.
 uk.ci.	0	IN	NS	ns2.bodis.com.
 uka.ci.	0	IN	NS	dns1.tpecloud.top.
@@ -31301,6 +31296,8 @@ wielton.ci.	0	IN	NS	dns2.home.pl.
 wielton.ci.	0	IN	NS	dns3.home.pl.
 wifi.ci.	0	IN	NS	ns1.dan.com.
 wifi.ci.	0	IN	NS	ns2.dan.com.
+wifirock.ci.	0	IN	NS	ns1.abovedomains.com.
+wifirock.ci.	0	IN	NS	ns2.abovedomains.com.
 wikiecole.ci.	0	IN	NS	yakro.aviso.ci.
 wikiecole.ci.	0	IN	NS	abidjan.aviso.ci.
 wikiecole.ci.	0	IN	NS	webhosting.aviso.ci.
