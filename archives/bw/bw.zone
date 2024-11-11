@@ -29218,8 +29218,10 @@ cappello.net.bw.	0	IN	NS	ns3.mega.bw.
 cappello.net.bw.	0	IN	NS	ns4.mega.bw.
 cdn.net.bw.	0	IN	NS	ns.mainnameserver.com.
 cdn.net.bw.	0	IN	NS	ns2.mainnameserver.com.
-cenehost.net.bw.	0	IN	NS	ns1.concerotel.com.
-cenehost.net.bw.	0	IN	NS	ns1.concerotel.net.bw.
+cenehost.net.bw.	0	IN	NS	dns01.cenehost.net.bw.
+cenehost.net.bw.	0	IN	NS	dns02.cenehost.net.bw.
+dns01.cenehost.net.bw.	0	IN	A	169.255.80.93
+dns02.cenehost.net.bw.	0	IN	A	169.255.80.93
 ch.net.bw.	0	IN	NS	ns1.iob.co.bw.
 ch.net.bw.	0	IN	NS	ns2.iob.co.bw.
 ch.net.bw.	0	IN	NS	ns3.iob.co.bw.
