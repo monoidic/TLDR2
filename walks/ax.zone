@@ -151,8 +151,6 @@
 360.ax.	0	IN	NS	james.ns.cloudflare.com.
 365.ax.	0	IN	NS	ns1.dan.com.
 365.ax.	0	IN	NS	ns2.dan.com.
--.-.365.ax.	0	IN	NS	ns1.dan.com.
--.-.365.ax.	0	IN	NS	ns2.dan.com.
 37.ax.	0	IN	NS	ns1.xn--sb-lka.org.
 37.ax.	0	IN	NS	ns2.xn--sb-lka.org.
 37.ax.	0	IN	NS	ns13.37.ax.
@@ -166,6 +164,8 @@
 3partners.ax.	0	IN	NS	ns3.justit.ax.
 41267.ax.	0	IN	NS	ns6.netsto.net.
 41267.ax.	0	IN	NS	ns7.netsto.net.
+42.ax.	0	IN	NS	terry.ns.cloudflare.com.
+42.ax.	0	IN	NS	barbara.ns.cloudflare.com.
 42653.ax.	0	IN	NS	ns6.netsto.net.
 42653.ax.	0	IN	NS	ns7.netsto.net.
 44.ax.	0	IN	NS	ns1.ps.kz.
@@ -954,6 +954,8 @@ amazongo.ax.	0	IN	NS	nsusa.comlaude.net.
 amazonrightnowclimatefund.ax.	0	IN	NS	nsgbr.comlaude.co.uk.
 amazonrightnowclimatefund.ax.	0	IN	NS	nssui.comlaude.ch.
 amazonrightnowclimatefund.ax.	0	IN	NS	nsusa.comlaude.net.
+ambetsverket.ax.	0	IN	NS	ns1.consilia.fi.
+ambetsverket.ax.	0	IN	NS	ns2.consilia.fi.
 amhm.ax.	0	IN	NS	ns.regeringen.ax.
 amhm.ax.	0	IN	NS	ns2.alcom.aland.fi.
 amhm.ax.	0	IN	NS	ns2.regeringen.ax.
@@ -1201,8 +1203,10 @@ artf.ax.	0	IN	NS	ns5.101domain.com.
 artif.ax.	0	IN	NS	ns1.101domain.com.
 artif.ax.	0	IN	NS	ns2.101domain.com.
 artif.ax.	0	IN	NS	ns5.101domain.com.
-arx.ax.	0	IN	NS	dns1.nordname.net.
-arx.ax.	0	IN	NS	dns2.nordname.net.
+arx.ax.	0	IN	NS	ns1-08.azure-dns.com.
+arx.ax.	0	IN	NS	ns2-08.azure-dns.net.
+arx.ax.	0	IN	NS	ns3-08.azure-dns.org.
+arx.ax.	0	IN	NS	ns4-08.azure-dns.info.
 as.ax.	0	IN	NS	ns1.dan.com.
 as.ax.	0	IN	NS	ns2.dan.com.
 asa.ax.	0	IN	NS	ns.regeringen.ax.
@@ -1832,8 +1836,6 @@ blockchain.ax.	0	IN	NS	ns1.dan.com.
 blockchain.ax.	0	IN	NS	ns2.dan.com.
 blockheads.ax.	0	IN	NS	seth.ns.cloudflare.com.
 blockheads.ax.	0	IN	NS	vera.ns.cloudflare.com.
-blog.ax.	0	IN	NS	ns1.dan.com.
-blog.ax.	0	IN	NS	ns2.dan.com.
 blogger.ax.	0	IN	NS	ns1.googledomains.com.
 blogger.ax.	0	IN	NS	ns2.googledomains.com.
 blogger.ax.	0	IN	NS	ns3.googledomains.com.
@@ -2200,8 +2202,6 @@ card.ax.	0	IN	NS	web.mercurio.vhosting-it.com.
 card.ax.	0	IN	NS	sdns1.vhosting-it.com.
 card.ax.	0	IN	NS	sdns2.vhosting-it.com.
 card.ax.	0	IN	NS	sdns3.vhosting-it.com.
-card.ax.	0	IN	NS	sdns4.vhosting-it.com.
-card.ax.	0	IN	NS	sdns5.vhosting-it.com.
 carf.ax.	0	IN	NS	ns1.markmonitor.com.
 carf.ax.	0	IN	NS	ns2.markmonitor.com.
 carf.ax.	0	IN	NS	ns3.markmonitor.com.
@@ -2532,10 +2532,6 @@ coursio.ax.	0	IN	NS	ns3.eurodns.com.
 coursio.ax.	0	IN	NS	ns4.eurodns.com.
 cov.ax.	0	IN	NS	jobs.ns.cloudflare.com.
 cov.ax.	0	IN	NS	olga.ns.cloudflare.com.
-covid.ax.	0	IN	NS	ns.regeringen.ax.
-covid.ax.	0	IN	NS	ns2.aland.net.
-covid.ax.	0	IN	NS	ns2.regeringen.ax.
-covid.ax.	0	IN	NS	ns3.alcom.fi.
 covid-19.ax.	0	IN	NS	ns.regeringen.ax.
 covid-19.ax.	0	IN	NS	ns2.aland.net.
 covid-19.ax.	0	IN	NS	ns2.regeringen.ax.
@@ -4041,8 +4037,8 @@ geo.ax.	0	IN	NS	sonia.ns.cloudflare.com.
 geson.ax.	0	IN	NS	ns1.aland.net.
 geson.ax.	0	IN	NS	ns2.aland.net.
 geson.ax.	0	IN	NS	ns3.alcom.fi.
-get.ax.	0	IN	NS	ns1.dan.hosting.
-get.ax.	0	IN	NS	ns2.dan.hosting.
+get.ax.	0	IN	NS	ns1.dan.com.
+get.ax.	0	IN	NS	ns2.dan.com.
 geta.ax.	0	IN	NS	ns1.justit.ax.
 geta.ax.	0	IN	NS	ns2.justit.ax.
 geta.ax.	0	IN	NS	ns3.justit.ax.
@@ -5009,6 +5005,8 @@ ingvars.ax.	0	IN	NS	dns4.ipconnect.fi.
 inkasso.ax.	0	IN	NS	park1.euronic.fi.
 inkasso.ax.	0	IN	NS	park2.euronic.fi.
 inkasso.ax.	0	IN	NS	park3.euronic.fi.
+innebandy.ax.	0	IN	NS	ns1.consilia.fi.
+innebandy.ax.	0	IN	NS	ns2.consilia.fi.
 inpro.ax.	0	IN	NS	june.ns.cloudflare.com.
 inpro.ax.	0	IN	NS	sean.ns.cloudflare.com.
 inred.ax.	0	IN	NS	ns1.iwebben.fi.
@@ -5464,8 +5462,6 @@ kanonloppet.ax.	0	IN	NS	ns3.alcom.fi.
 kanonloppet.ax.	0	IN	NS	ns4.alcom.fi.
 kanta.ax.	0	IN	NS	ns-fi.elisa.net.
 kanta.ax.	0	IN	NS	ns-se.elisa.net.
-kantarellen.ax.	0	IN	NS	ns1.consilia.fi.
-kantarellen.ax.	0	IN	NS	ns2.consilia.fi.
 kappsacksteatern.ax.	0	IN	NS	ns1.loopiagroup.com.
 kappsacksteatern.ax.	0	IN	NS	ns2.loopiagroup.com.
 karateklubbogawa.ax.	0	IN	NS	ns1.wordpress.com.
@@ -6662,8 +6658,8 @@ mdp.ax.	0	IN	NS	ns3.alcom.fi.
 mdsvets.ax.	0	IN	NS	ns1.digitalocean.com.
 mdsvets.ax.	0	IN	NS	ns2.digitalocean.com.
 mdsvets.ax.	0	IN	NS	ns3.digitalocean.com.
-me.ax.	0	IN	NS	ns1.dan.hosting.
-me.ax.	0	IN	NS	ns2.dan.hosting.
+me.ax.	0	IN	NS	ns1.dan.com.
+me.ax.	0	IN	NS	ns2.dan.com.
 mecax.ax.	0	IN	NS	ns1.aland.net.
 mecax.ax.	0	IN	NS	ns2.aland.net.
 mecax.ax.	0	IN	NS	ns3.alcom.fi.
@@ -10152,8 +10148,6 @@ tid.ax.	0	IN	NS	ns-1059.awsdns-04.org.
 tid.ax.	0	IN	NS	ns-1881.awsdns-43.co.uk.
 tidningar.ax.	0	IN	NS	ns1.consilia.fi.
 tidningar.ax.	0	IN	NS	ns2.consilia.fi.
-tidningen.ax.	0	IN	NS	ns1.consilia.fi.
-tidningen.ax.	0	IN	NS	ns2.consilia.fi.
 tietotarjotin.ax.	0	IN	NS	ns-fi.elisa.net.
 tietotarjotin.ax.	0	IN	NS	ns-se.elisa.net.
 tigergaming.ax.	0	IN	NS	dns1.idp365.net.
@@ -10507,6 +10501,9 @@ urb.ax.	0	IN	NS	ns3.creatium.io.
 urb.ax.	0	IN	NS	ns4.creatium.io.
 url.ax.	0	IN	NS	ns1.istanco.com.
 url.ax.	0	IN	NS	ns2.istanco.com.
+us.ax.	0	IN	NS	helium.ns.hetzner.de.
+us.ax.	0	IN	NS	oxygen.ns.hetzner.com.
+us.ax.	0	IN	NS	hydrogen.ns.hetzner.com.
 usa.ax.	0	IN	NS	ns1.sedoparking.com.
 usa.ax.	0	IN	NS	ns2.sedoparking.com.
 ut.ax.	0	IN	NS	ns1.dan.com.
