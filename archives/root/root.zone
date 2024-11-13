@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024111301 1 1 c1157ddd2b39cce13b877d8a8d99ed8fb733fe9d8db94505cbe25e996722e204a6761758c00476050fa38e6aa523d1e3
+.	0	IN	ZONEMD	2024111302 1 1 377e5b7d66c3e3e7c3af60b6775d984d4370f1e4e5de9ca1d55b6166636c3878851b0ba02a0ec9bd29df6db21e2314b1
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1444,7 +1444,6 @@ baidu.	0	IN	NS	g.zdnscloud.com.
 baidu.	0	IN	NS	i.zdnscloud.com.
 baidu.	0	IN	NS	j.zdnscloud.com.
 baidu.	0	IN	DS	23825 8 2 7daede4b986a05b32cd3698ce14d0a0866d12a2ab955b8dc3659d25d7ad65cbe
-baidu.	0	IN	DS	63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
 banamex.	0	IN	NS	a.nic.banamex.
 banamex.	0	IN	NS	b.nic.banamex.
 banamex.	0	IN	NS	c.nic.banamex.
@@ -8410,7 +8409,6 @@ icbc.	0	IN	NS	f.zdnscloud.com.
 icbc.	0	IN	NS	g.zdnscloud.com.
 icbc.	0	IN	NS	i.zdnscloud.com.
 icbc.	0	IN	NS	j.zdnscloud.com.
-icbc.	0	IN	DS	40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
 icbc.	0	IN	DS	52120 8 2 36fd8acb79ed5963abd523bb73b5c9fa39f8d206ed2488436d1795b1228766ee
 ice.	0	IN	NS	a0.nic.ice.
 ice.	0	IN	NS	a2.nic.ice.
@@ -14029,11 +14027,12 @@ ns3.dns.nic.prudential.	0	IN	AAAA	2610:a1:1073::8e
 ps.	0	IN	NS	ps.cctld.authdns.ripe.net.
 ps.	0	IN	NS	ns1.pnina.ps.
 ps.	0	IN	NS	rip.psg.com.
-ps.	0	IN	NS	dns1.gov.ps.
 ps.	0	IN	NS	fork.sth.dnsnode.net.
+ps.	0	IN	NS	bilal.pnina.ps.
 ps.	0	IN	NS	ps-ns.anycast.pch.net.
 dns1.gov.ps.	0	IN	A	213.244.82.147
 dns3.gov.ps.	0	IN	A	185.153.163.3
+bilal.pnina.ps.	0	IN	A	168.119.39.120
 idn.pnina.ps.	0	IN	A	208.64.68.60
 ns1.pnina.ps.	0	IN	A	194.6.225.20
 pt.	0	IN	NS	a.dns.pt.
@@ -14334,7 +14333,6 @@ redstone.	0	IN	NS	g.zdnscloud.com.
 redstone.	0	IN	NS	i.zdnscloud.com.
 redstone.	0	IN	NS	j.zdnscloud.com.
 redstone.	0	IN	DS	49835 8 2 51a6a70d9a7c0f010d09ffaaca9cb6bbbe7fad76fb48fde6f940b606c8cde048
-redstone.	0	IN	DS	55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
 redumbrella.	0	IN	NS	a0.nic.redumbrella.
 redumbrella.	0	IN	NS	a2.nic.redumbrella.
 redumbrella.	0	IN	NS	b0.nic.redumbrella.
@@ -17921,7 +17919,6 @@ unicom.	0	IN	NS	g.zdnscloud.com.
 unicom.	0	IN	NS	i.zdnscloud.com.
 unicom.	0	IN	NS	j.zdnscloud.com.
 unicom.	0	IN	DS	28037 8 2 3b3e219bab1692507eb991da755f11ef1920d5f3402b4e9ab28cf86156948967
-unicom.	0	IN	DS	51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
 university.	0	IN	NS	v0n0.nic.university.
 university.	0	IN	NS	v0n1.nic.university.
 university.	0	IN	NS	v0n2.nic.university.
@@ -19431,7 +19428,6 @@ xn--8y0a063a.	0	IN	NS	f.zdnscloud.com.
 xn--8y0a063a.	0	IN	NS	g.zdnscloud.com.
 xn--8y0a063a.	0	IN	NS	i.zdnscloud.com.
 xn--8y0a063a.	0	IN	NS	j.zdnscloud.com.
-xn--8y0a063a.	0	IN	DS	44995 8 2 75ec90f39171d405cb5d609ab0c62f21b2c53da70d28d642d226121a4dc9a917
 xn--8y0a063a.	0	IN	DS	57167 8 2 2596d4a370097ac33133e16b582ce273752f50086f0a9b87645d8cc9aeaca992
 xn--90a3ac.	0	IN	NS	a.nic.rs.
 xn--90a3ac.	0	IN	NS	b.nic.rs.
