@@ -27,6 +27,7 @@
 * `gn.`
 * `guitars.`
 * `hosting.`
+* `id.`
 * `ieee.`
 * `kg.`
 * `kz.`
@@ -40,6 +41,7 @@
 * `nu.`
 * `omega.`
 * `pics.`
+* `pr.`
 * `ruhr.`
 * `se.`
 * `shell.`
@@ -50,6 +52,9 @@
 * `ve.`
 * `wed.`
 * `xn--54b7fta0cc.`
+* `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
