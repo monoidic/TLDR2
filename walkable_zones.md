@@ -4,6 +4,7 @@
 * `amazon.`
 * `aquarelle.`
 * `arpa.`
+* `audio.`
 * `auto.`
 * `ax.`
 * `bd.`
@@ -25,7 +26,9 @@
 * `gdn.`
 * `gn.`
 * `guitars.`
+* `hosting.`
 * `id.`
+* `ieee.`
 * `kg.`
 * `kz.`
 * `lb.`
