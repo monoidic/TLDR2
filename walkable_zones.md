@@ -18,9 +18,11 @@
 * `cw.`
 * `desi.`
 * `diet.`
+* `dz.`
 * `ee.`
 * `er.`
 * `flowers.`
+* `game.`
 * `gdn.`
 * `gn.`
 * `guitars.`
