@@ -11,16 +11,13 @@
 * `br.`
 * `bt.`
 * `car.`
-* `cars.`
 * `ch.`
 * `christmas.`
 * `ci.`
-* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
 * `ee.`
-* `er.`
 * `flowers.`
 * `game.`
 * `gdn.`
@@ -45,7 +42,6 @@
 * `ruhr.`
 * `se.`
 * `shell.`
-* `sl.`
 * `swatch.`
 * `tn.`
 * `tz.`
