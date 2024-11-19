@@ -935,6 +935,7 @@ etc.br.	0	IN	NS	e.dns.br.
 etc.br.	0	IN	NS	f.dns.br.
 etfes.br.	0	IN	NS	ns.etfes.br.
 etfes.br.	0	IN	NS	ns2.etfes.br.
+etfgo.br.	0	IN	NS	ns1.etfgo.br.
 etfgo.br.	0	IN	NS	apolo.etfgo.br.
 etfgo.br.	0	IN	NS	gandalf.etfgo.br.
 etfrn.br.	0	IN	NS	amy.ns.cloudflare.com.
@@ -1716,8 +1717,6 @@ hiae.br.	0	IN	NS	a1-189.akam.net.
 hiae.br.	0	IN	NS	a10-66.akam.net.
 hiae.br.	0	IN	NS	a12-67.akam.net.
 hiae.br.	0	IN	NS	a18-66.akam.net.
-hmcp.br.	0	IN	NS	ns1.puc-campinas.edu.br.
-hmcp.br.	0	IN	NS	ns2.puc-campinas.edu.br.
 hospitalalberteinstein.br.	0	IN	NS	a7-66.akam.net.
 hospitalalberteinstein.br.	0	IN	NS	a9-65.akam.net.
 hospitalalberteinstein.br.	0	IN	NS	a1-189.akam.net.
@@ -1895,6 +1894,8 @@ ipa-imec.br.	0	IN	NS	ns1.p68.dns.oraclecloud.net.
 ipa-imec.br.	0	IN	NS	ns2.p68.dns.oraclecloud.net.
 ipa-imec.br.	0	IN	NS	ns3.p68.dns.oraclecloud.net.
 ipa-imec.br.	0	IN	NS	ns4.p68.dns.oraclecloud.net.
+ipaam.br.	0	IN	NS	bauru.prodam.am.gov.br.
+ipaam.br.	0	IN	NS	prodam04.prodam.am.gov.br.
 ipca.br.	0	IN	NS	ns1.locaweb.com.br.
 ipca.br.	0	IN	NS	ns2.locaweb.com.br.
 ipca.br.	0	IN	NS	ns3.locaweb.com.br.
@@ -2401,8 +2402,6 @@ puc-rio.br.	0	IN	NS	exu.inf.puc-rio.br.
 puc-rio.br.	0	IN	NS	calisto.rdc.puc-rio.br.
 puc-rio.br.	0	IN	NS	guanabara.rederio.br.
 puc-rio.br.	0	IN	NS	vialactea.rdc.puc-rio.br.
-puccamp.br.	0	IN	NS	ns1.puc-campinas.edu.br.
-puccamp.br.	0	IN	NS	ns2.puc-campinas.edu.br.
 pucmg.br.	0	IN	NS	ns.pucmg.br.
 pucmg.br.	0	IN	NS	ns.pucminas.br.
 pucmg.br.	0	IN	NS	ns1.pucmg.br.
@@ -2445,6 +2444,8 @@ rae.br.	0	IN	NS	10.60.193.50.
 rae.br.	0	IN	NS	10.156.124.71.
 rct-sc.br.	0	IN	NS	ns.pop-ufsc.rct-sc.br.
 rct-sc.br.	0	IN	NS	ns.pop-udesc.rct-sc.br.
+rct-sc.br.	0	IN	NS	dns.fapesc.sc.gov.br.
+rct-sc.br.	0	IN	NS	dns2.fapesc.sc.gov.br.
 realestate.br.	0	IN	NS	ns1.softlayer.com.
 realestate.br.	0	IN	NS	ns2.softlayer.com.
 rec.br.	0	IN	NS	a.dns.br.
@@ -3049,7 +3050,8 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	srvdns.
+ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
 umar.br.	0	IN	NS	ns1.unicesumar.edu.br.
 umar.br.	0	IN	NS	ns2.unicesumar.edu.br.
 umc.br.	0	IN	NS	infra021.umc.br.
@@ -3300,9 +3302,10 @@ uninfo.br.	0	IN	NS	amarok.unicarioca.edu.br.
 uninfo.br.	0	IN	NS	cooper.unicarioca.edu.br.
 uninga.br.	0	IN	NS	stan.ns.cloudflare.com.
 uninga.br.	0	IN	NS	megan.ns.cloudflare.com.
-uninove.br.	0	IN	NS	ns1.uninove.br.
-uninove.br.	0	IN	NS	ns2.uninove.br.
+uninove.br.	0	IN	NS	ns-483.awsdns-60.com.
+uninove.br.	0	IN	NS	ns-900.awsdns-48.net.
 uninove.br.	0	IN	NS	ns-1370.awsdns-43.org.
+uninove.br.	0	IN	NS	ns-1658.awsdns-15.co.uk.
 uninp.br.	0	IN	NS	a.sec.dns.br.
 uninp.br.	0	IN	NS	c.sec.dns.br.
 uninter.br.	0	IN	NS	dion.ns.cloudflare.com.
