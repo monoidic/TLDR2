@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024111901 1 1 b73253867ca75267605b145db037b571b23fe2bf5d0450404288d71c81dd22311c6c3389eaa9274af4b54857c829e565
+.	0	IN	ZONEMD	2024111902 1 1 a4161568bd120a998be1de99acb379346aa290a203ac3074a746fa41f8657f1584533ab4342527f031d4b9d2504735a0
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -15610,13 +15610,10 @@ d.nic.sfr.	0	IN	A	212.18.249.100
 d.nic.sfr.	0	IN	AAAA	2a04:2b00:13ff::100
 sg.	0	IN	NS	ns4.apnic.net.
 sg.	0	IN	NS	pch.sgzones.sg.
-sg.	0	IN	NS	dsany.sgnic.sg.
 sg.	0	IN	NS	dsany2.sgnic.sg.
 sg.	0	IN	NS	dsany3.sgnic.sg.
 sg.	0	IN	NS	dsany4.sgnic.sg.
 sg.	0	IN	DS	26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
-dsany.sgnic.sg.	0	IN	A	120.29.253.11
-dsany.sgnic.sg.	0	IN	AAAA	2001:dcd:7::11
 dsany2.sgnic.sg.	0	IN	A	185.159.197.170
 dsany2.sgnic.sg.	0	IN	AAAA	2620:10a:80aa::170
 dsany3.sgnic.sg.	0	IN	A	185.159.198.170
@@ -19579,7 +19576,6 @@ xn--cg4bki.	0	IN	NS	n1-a26.aka-ns.net.
 xn--cg4bki.	0	IN	DS	59631 7 2 7a16187809f4725a91f192336f6a9576f246df35edf500a1356b8c8dff2d59f1
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	ns4.apnic.net.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	pch.sgzones.sg.
-xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany2.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany3.sgnic.sg.
 xn--clchc0ea0b2g2a9gcd.	0	IN	NS	dsany4.sgnic.sg.
@@ -20557,7 +20553,6 @@ xn--y9a3aq.	0	IN	NS	ns-pri.nic.am.
 xn--y9a3aq.	0	IN	DS	62869 13 2 815a710ebacaf9227c48a8c96dd1199c7822bb3fc6ece2620975b2a5fa16a0fb
 xn--yfro4i67o.	0	IN	NS	ns4.apnic.net.
 xn--yfro4i67o.	0	IN	NS	pch.sgzones.sg.
-xn--yfro4i67o.	0	IN	NS	dsany.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany2.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany3.sgnic.sg.
 xn--yfro4i67o.	0	IN	NS	dsany4.sgnic.sg.
