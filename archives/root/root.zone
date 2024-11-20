@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024112002 1 1 bdf5ef9e074e4b2c1b873f9bebebab01403250767148f612635cf6fbdce416b0eb83649d71744867f5c58cbf3e904e15
+.	0	IN	ZONEMD	2024112003 1 1 50152802cd3abfafae03f44b32f88572d0ca7d1a75b832fa27e9d3a79033ab236e5fea38bb9b3185da4ab930da127240
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2215,7 +2215,6 @@ bn.	0	IN	NS	ns2.bnnic.bn.
 bn.	0	IN	NS	ns4.apnic.net.
 bn.	0	IN	NS	bn-ns.anycast.pch.net.
 bn.	0	IN	DS	21614 8 2 e55808ddc25334d790e0c238d9dc52f80deed1983912463ae9cd1c26066c49e9
-bn.	0	IN	DS	37217 8 2 c07408e9e9e8d893257b987ebcb7b8c11889a2e40a66106cc05a6f12fbf629e6
 ns1.bnnic.bn.	0	IN	A	194.0.1.33
 ns2.bnnic.bn.	0	IN	A	202.93.214.163
 bnpparibas.	0	IN	NS	a0.nic.bnpparibas.
@@ -8965,7 +8964,6 @@ is.	0	IN	NS	c.nic.is.
 is.	0	IN	NS	d.nic.is.
 is.	0	IN	NS	e.nic.is.
 is.	0	IN	NS	sunic.sunet.se.
-is.	0	IN	NS	durinn.rhnet.is.
 is.	0	IN	DS	17566 8 2 d53c92eab2840fdea346dbc99900c032f47763762e10e95ce6b0a895ddcb6b4e
 a.nic.is.	0	IN	A	185.93.156.10
 a.nic.is.	0	IN	AAAA	2001:67c:6c:56::10
@@ -8977,8 +8975,6 @@ d.nic.is.	0	IN	A	194.146.106.58
 d.nic.is.	0	IN	AAAA	2001:67c:1010:14::53
 e.nic.is.	0	IN	A	194.0.25.41
 e.nic.is.	0	IN	AAAA	2001:678:20::41
-durinn.rhnet.is.	0	IN	A	130.208.16.20
-durinn.rhnet.is.	0	IN	AAAA	2a00:c88:10:16::20
 ismaili.	0	IN	NS	a0.nic.ismaili.
 ismaili.	0	IN	NS	a2.nic.ismaili.
 ismaili.	0	IN	NS	b0.nic.ismaili.
@@ -12694,6 +12690,7 @@ nz.	0	IN	NS	ns5.dns.net.nz.
 nz.	0	IN	NS	ns6.dns.net.nz.
 nz.	0	IN	NS	ns7.dns.net.nz.
 nz.	0	IN	DS	934 8 2 9d58f1627c135043f2cb12df20545c53f02f1bb78e7ed562c802084dfb672e2e
+nz.	0	IN	DS	39170 8 2 adb8214ccf90d5a927e27197cb6dae06682358ab25735807c3cd7cd95baa11f7
 nz.	0	IN	DS	63529 8 2 65c9663eacc1ad314058a5a7b127d409d144bba9a58ec0b6a7f4f028574df47b
 circa.mcs.vuw.ac.nz.	0	IN	A	130.195.5.12
 downstage.mcs.vuw.ac.nz.	0	IN	A	130.195.6.10
@@ -16381,8 +16378,7 @@ storage.	0	IN	NS	a.nic.storage.
 storage.	0	IN	NS	b.nic.storage.
 storage.	0	IN	NS	c.nic.storage.
 storage.	0	IN	NS	d.nic.storage.
-storage.	0	IN	DS	7498 7 2 67d97de0482b8a801916d91dda71213fe03483a3bb83125038639a1635fcc1c5
-storage.	0	IN	DS	50476 7 2 bf2260b22c8c9630dc3e5ce22130c4fb97edd6b27805a05f8f526b951b465156
+storage.	0	IN	DS	2249 13 2 5acd859802bad0580eb4c307e7dc502d8149f2bea9e9d5a6a86e073a0b13f5b1
 a.nic.storage.	0	IN	A	194.169.218.55
 a.nic.storage.	0	IN	AAAA	2001:67c:13cc::1:55
 b.nic.storage.	0	IN	A	185.24.64.55
