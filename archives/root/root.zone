@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024112101 1 1 9fb8ba70c2d46602ff70edb65db59b78521fde662c53defcd3e43d854ed7d0efbc0eedbccae7947751712bba0bc591f7
+.	0	IN	ZONEMD	2024112102 1 1 79f161df814bc8892c7d7c9ccd7b789f23f8b144cefc535df40a6c2e9d2313366ad8b0fae2908a6659ef068edef10a9c
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3303,7 +3303,7 @@ ch.	0	IN	NS	b.nic.ch.
 ch.	0	IN	NS	d.nic.ch.
 ch.	0	IN	NS	e.nic.ch.
 ch.	0	IN	NS	f.nic.ch.
-ch.	0	IN	DS	450 13 2 4994913d9ff4f0df95f08acdf1d66149d873368ff6c1836c64bdface62734fa2
+ch.	0	IN	DS	14051 13 2 abf0b9c56282f0558d59b5eef0f881b7db4f39043972411fdb06e66593a9e8b1
 ns.itu.ch.	0	IN	A	156.106.192.121
 ns.itu.ch.	0	IN	AAAA	2a00:7580:60:2141::10
 a.nic.ch.	0	IN	A	130.59.31.41
@@ -10107,7 +10107,7 @@ li.	0	IN	NS	b.nic.li.
 li.	0	IN	NS	d.nic.li.
 li.	0	IN	NS	e.nic.li.
 li.	0	IN	NS	f.nic.li.
-li.	0	IN	DS	33577 13 2 61fe12787198ce1eebea6d8b75eea2e08ba252d8b5f04bfc3addb8192cc83c0d
+li.	0	IN	DS	15542 13 2 5af55286d332a52d71be8c3fbe2ec264db3704be6bc22b84e2b2d47b53956d88
 a.nic.li.	0	IN	A	130.59.31.42
 a.nic.li.	0	IN	AAAA	2001:620:0:ff::57
 b.nic.li.	0	IN	A	130.59.31.44
@@ -16650,7 +16650,6 @@ sx.	0	IN	NS	ns2.ns.sx.
 sx.	0	IN	NS	ns3.ns.sx.
 sx.	0	IN	NS	ns4.ns.sx.
 sx.	0	IN	DS	13049 8 2 30d0c7552eebf0586e848fd4cb7fb02c2ce377042aabe923304fa598be7082b4
-sx.	0	IN	DS	34036 8 2 8fbc9761b3375b5a00ad9a7c0e1d22f7574c87efbbcdd5249845a9778f876ce6
 ns1.ns.sx.	0	IN	A	185.159.197.10
 ns1.ns.sx.	0	IN	AAAA	2620:10a:80aa::10
 ns2.ns.sx.	0	IN	A	185.159.198.10
@@ -19220,22 +19219,22 @@ xn--2scrj9c.	0	IN	NS	ns4.registry.in.
 xn--2scrj9c.	0	IN	NS	ns5.registry.in.
 xn--2scrj9c.	0	IN	NS	ns6.registry.in.
 xn--2scrj9c.	0	IN	DS	11140 8 2 4d6066c559009d857402623f36cfea85b92eeab23d507f12f28050ac873491c3
-xn--30rr7y.	0	IN	NS	a.zdnscloud.com.
-xn--30rr7y.	0	IN	NS	b.zdnscloud.com.
+xn--30rr7y.	0	IN	NS	a.zdnscloud.cn.
+xn--30rr7y.	0	IN	NS	b.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	c.zdnscloud.com.
 xn--30rr7y.	0	IN	NS	d.zdnscloud.com.
-xn--30rr7y.	0	IN	NS	f.zdnscloud.com.
+xn--30rr7y.	0	IN	NS	f.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	g.zdnscloud.com.
-xn--30rr7y.	0	IN	NS	i.zdnscloud.com.
+xn--30rr7y.	0	IN	NS	i.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	j.zdnscloud.com.
 xn--30rr7y.	0	IN	DS	44210 8 2 ca8c1b37378e7eba858c4fe9bad7bd6748e70da47639c3a0e31db1f71f66f467
-xn--3bst00m.	0	IN	NS	a.zdnscloud.com.
-xn--3bst00m.	0	IN	NS	b.zdnscloud.com.
+xn--3bst00m.	0	IN	NS	a.zdnscloud.cn.
+xn--3bst00m.	0	IN	NS	b.zdnscloud.cn.
 xn--3bst00m.	0	IN	NS	c.zdnscloud.com.
 xn--3bst00m.	0	IN	NS	d.zdnscloud.com.
-xn--3bst00m.	0	IN	NS	f.zdnscloud.com.
+xn--3bst00m.	0	IN	NS	f.zdnscloud.cn.
 xn--3bst00m.	0	IN	NS	g.zdnscloud.com.
-xn--3bst00m.	0	IN	NS	i.zdnscloud.com.
+xn--3bst00m.	0	IN	NS	i.zdnscloud.cn.
 xn--3bst00m.	0	IN	NS	j.zdnscloud.com.
 xn--3bst00m.	0	IN	DS	35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
 xn--3ds443g.	0	IN	NS	ns1.teleinfo.cn.
@@ -19362,13 +19361,13 @@ b0.nic.xn--6frz82g.	0	IN	A	65.22.25.9
 b0.nic.xn--6frz82g.	0	IN	AAAA	2a01:8840:1b::9
 c0.nic.xn--6frz82g.	0	IN	A	65.22.26.9
 c0.nic.xn--6frz82g.	0	IN	AAAA	2a01:8840:1c::9
-xn--6qq986b3xl.	0	IN	NS	a.zdnscloud.com.
-xn--6qq986b3xl.	0	IN	NS	b.zdnscloud.com.
+xn--6qq986b3xl.	0	IN	NS	a.zdnscloud.cn.
+xn--6qq986b3xl.	0	IN	NS	b.zdnscloud.cn.
 xn--6qq986b3xl.	0	IN	NS	c.zdnscloud.com.
 xn--6qq986b3xl.	0	IN	NS	d.zdnscloud.com.
-xn--6qq986b3xl.	0	IN	NS	f.zdnscloud.com.
+xn--6qq986b3xl.	0	IN	NS	f.zdnscloud.cn.
 xn--6qq986b3xl.	0	IN	NS	g.zdnscloud.com.
-xn--6qq986b3xl.	0	IN	NS	i.zdnscloud.com.
+xn--6qq986b3xl.	0	IN	NS	i.zdnscloud.cn.
 xn--6qq986b3xl.	0	IN	NS	j.zdnscloud.com.
 xn--6qq986b3xl.	0	IN	DS	54794 8 2 04db2d2f9cab81d80fd8f7062b4e2a42a99f9fdf172a90039c30e4a6b9a844df
 xn--80adxhks.	0	IN	NS	a.dns.flexireg.ru.
@@ -19657,7 +19656,6 @@ xn--efvy88h.	0	IN	NS	f.zdnscloud.com.
 xn--efvy88h.	0	IN	NS	g.zdnscloud.com.
 xn--efvy88h.	0	IN	NS	i.zdnscloud.com.
 xn--efvy88h.	0	IN	NS	j.zdnscloud.com.
-xn--efvy88h.	0	IN	DS	16702 8 2 3dc3633898aef4cf395e3b558dddb6b02111abc6bc31be55346bb44cb7778e74
 xn--efvy88h.	0	IN	DS	36754 8 2 d4a3344e3eb4166464489b5a5706ace8b8ad7cdc2d3c0aea088e8851b8e24de2
 xn--fct429k.	0	IN	NS	a.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	b.nic.xn--fct429k.
