@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024112501 1 1 551a8b15299ae3e63b532b5b6f750268ab35d4dabb47865baa4ba9a60128425ac56423a241f8c31cc11a02d4e5cc4f84
+.	0	IN	ZONEMD	2024112502 1 1 7075fe6f0b98544dec78e1d534aad97d9a18762f8afee0172445b34bd27d10ee8f4c45e6afc03ed838a2886d78e0275a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -13098,17 +13098,17 @@ ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
 ovh.	0	IN	DS	2779 13 2 e6b3f359c1980de521369be4bd61fc91b9e311aa79221705d248925add22f1d1
 pa.	0	IN	NS	a.lactld.org.
-pa.	0	IN	NS	ns.pa.
 pa.	0	IN	NS	ns.dns.br.
 pa.	0	IN	NS	ns.nic.pa.
+pa.	0	IN	NS	ns1.nic.pa.
 pa.	0	IN	NS	ns1.anycastdns.cz.
-pa.	0	IN	NS	ns2.pa.
+pa.	0	IN	NS	ns2.nic.pa.
 pa.	0	IN	NS	ns2.anycastdns.cz.
 pa.	0	IN	NS	dns-ext.nic.cr.
 pa.	0	IN	NS	ssdns-tld.nic.cl.
-ns.nic.pa.	0	IN	A	168.77.8.4
-ns.pa.	0	IN	A	168.77.8.2
-ns2.pa.	0	IN	A	168.77.8.7
+ns.nic.pa.	0	IN	A	168.77.9.6
+ns1.nic.pa.	0	IN	A	168.77.9.7
+ns2.nic.pa.	0	IN	A	168.77.9.8
 page.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 page.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 page.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -20544,7 +20544,7 @@ xn--y9a3aq.	0	IN	NS	fork.sth.dnsnode.net.
 xn--y9a3aq.	0	IN	NS	ns-cdn.amnic.net.
 xn--y9a3aq.	0	IN	NS	ns-pch.amnic.net.
 xn--y9a3aq.	0	IN	NS	ns-pri.nic.am.
-xn--y9a3aq.	0	IN	DS	62869 13 2 815a710ebacaf9227c48a8c96dd1199c7822bb3fc6ece2620975b2a5fa16a0fb
+xn--y9a3aq.	0	IN	DS	57177 13 2 5a9734cad6bd5f59959199a36800d02fe5f77ae9ce1e1e65b9f5aec5785d071d
 xn--yfro4i67o.	0	IN	NS	ns4.apnic.net.
 xn--yfro4i67o.	0	IN	NS	pch.sgzones.sg.
 xn--yfro4i67o.	0	IN	NS	dsany2.sgnic.sg.
