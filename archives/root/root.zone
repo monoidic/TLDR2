@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024113001 1 1 1952dce896a492ecff0fad5c26069217475f2b8caf0bc5a090fd577050d281e4f127d3b000c223a49ec87315e6990221
+.	0	IN	ZONEMD	2024113002 1 1 f878dc4bcab453ffbfe50c08821bdc32e56dcaa6af7e64730e5e02f61072e9aef5b868053a43f95f85069168fdfcccaf
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -14974,7 +14974,7 @@ sakura.	0	IN	NS	tld1.nic.sakura.
 sakura.	0	IN	NS	tld2.nic.sakura.
 sakura.	0	IN	NS	tld3.nic.sakura.
 sakura.	0	IN	NS	tld5.nic.sakura.
-sakura.	0	IN	DS	22372 8 2 6e2fa59e925e1876e30d00fbec2c23d7f292d5f81537bac5685a8f1e0f6139c8
+sakura.	0	IN	DS	39556 8 2 7da38e90f0d5c2492d420211e84d5594710acbd97f1a27fd613bc6c07db39987
 tld1.nic.sakura.	0	IN	A	103.47.2.3
 tld1.nic.sakura.	0	IN	AAAA	2001:dda::3
 tld2.nic.sakura.	0	IN	A	117.104.133.18
@@ -17786,7 +17786,6 @@ ua.	0	IN	NS	ho1.ns.ua.
 ua.	0	IN	NS	in1.ns.ua.
 ua.	0	IN	NS	pch.ns.ua.
 ua.	0	IN	NS	rcz.ns.ua.
-ua.	0	IN	DS	48349 13 2 d8456df0eab0db7d2422b4110722f5772d7b2f1fd41d487e956a54f1039d53c8
 ua.	0	IN	DS	51024 13 2 1bdca65b3ba927efb64909637c10adf90763ea7ab5d0ac1597c66cd6c6caeb6c
 ua.	0	IN	DS	51024 13 4 61195cabb323f940314d1bbec97f4eba54d2d7ba49aa244948c8c29844e43a42293ee100841009fbfe85f1ab7ceffacf
 az.hostmaster.ua.	0	IN	A	195.47.253.13
@@ -19584,7 +19583,6 @@ xn--czr694b.	0	IN	NS	f.zdnscloud.com.
 xn--czr694b.	0	IN	NS	g.zdnscloud.com.
 xn--czr694b.	0	IN	NS	i.zdnscloud.com.
 xn--czr694b.	0	IN	NS	j.zdnscloud.com.
-xn--czr694b.	0	IN	DS	56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
 xn--czr694b.	0	IN	DS	61001 8 2 b4dea8c89ab832565a80719c8af8fb5d7ed535a9c3e2361d8b494d45f6a05d5a
 xn--czrs0t.	0	IN	NS	v0n0.nic.xn--czrs0t.
 xn--czrs0t.	0	IN	NS	v0n1.nic.xn--czrs0t.
@@ -19878,7 +19876,6 @@ xn--imr513n.	0	IN	NS	g.zdnscloud.com.
 xn--imr513n.	0	IN	NS	i.zdnscloud.com.
 xn--imr513n.	0	IN	NS	j.zdnscloud.com.
 xn--imr513n.	0	IN	DS	12187 8 2 ca358cb59005ac2c0871a1c5d9d954c82a4077bd5507844c8fa7c86e8dcd5a64
-xn--imr513n.	0	IN	DS	14747 8 2 6581fd2fc61a9a81926e5dbe6f7eeb940402bf2db280c98f50aba666e4c74371
 xn--io0a7i.	0	IN	NS	a.ngtld.cn.
 xn--io0a7i.	0	IN	NS	b.ngtld.cn.
 xn--io0a7i.	0	IN	NS	c.ngtld.cn.
