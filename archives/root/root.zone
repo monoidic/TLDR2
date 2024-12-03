@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024120301 1 1 051acb7a735cb4e6e79f5c7a35a66b64135678f8dae2db3fb518ef8652a5156be226050b9179614f4400e4c014519646
+.	0	IN	ZONEMD	2024120303 1 1 a02500ae1096f562fbf722ef21db2a4c3471b521597c2198c32ceb30001bc44dc5289294929ebf85fec81dc9646df3e0
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -450,6 +450,7 @@ ai.	0	IN	NS	a.lactld.org.
 ai.	0	IN	NS	pch.whois.ai.
 ai.	0	IN	NS	anycastdns1-cz.nic.ai.
 ai.	0	IN	NS	anycastdns2-cz.nic.ai.
+ai.	0	IN	DS	3799 8 2 8a8030d4661ae6fcf417349682ac058648371002e70e717e4cf2f11f83543385
 ai.	0	IN	DS	44137 8 2 7886bd35ed745dca983d951a643495b929b3a7676a88c682ef88eb6fedbdb253
 anycastdns1-cz.nic.ai.	0	IN	A	185.28.194.194
 anycastdns2-cz.nic.ai.	0	IN	A	185.38.108.108
@@ -5689,7 +5690,6 @@ es.	0	IN	NS	a.nic.es.
 es.	0	IN	NS	c.nic.es.
 es.	0	IN	NS	g.nic.es.
 es.	0	IN	NS	h.nic.es.
-es.	0	IN	DS	44375 8 2 9d9858ae981aa53dd1143d93844e3d69b0fb73a9b4fe5759da39e036e754d402
 es.	0	IN	DS	54404 8 2 c130df280cd8ebb99c8b6c8335b9fd5f1d709641494e044c8085b1ac21833b47
 a.nic.es.	0	IN	A	194.69.254.1
 a.nic.es.	0	IN	AAAA	2001:67c:21cc:2000::64:41
@@ -10556,7 +10556,7 @@ lt.	0	IN	NS	d.tld.lt.
 lt.	0	IN	NS	e.tld.lt.
 lt.	0	IN	NS	f.tld.lt.
 lt.	0	IN	DS	60305 8 2 2f5e8cf57360378a0325783cbc4ae219b43d7fab1bced9e7c51c6104c1690078
-a.tld.lt.	0	IN	A	195.8.218.131
+a.tld.lt.	0	IN	A	185.150.40.131
 b.tld.lt.	0	IN	A	194.0.20.1
 b.tld.lt.	0	IN	AAAA	2001:678:19::1
 c.tld.lt.	0	IN	A	194.0.1.4
@@ -12174,8 +12174,6 @@ tj.cctld.authdns.ripe.net.	0	IN	A	193.0.9.117
 tj.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::117
 ug.cctld.authdns.ripe.net.	0	IN	A	193.0.9.52
 ug.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::52
-va.cctld.authdns.ripe.net.	0	IN	A	193.0.9.123
-va.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::123
 sec2.authdns.ripe.net.	0	IN	A	193.0.9.4
 sec2.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::4
 a.dns.ripn.net.	0	IN	A	193.232.128.6
@@ -14789,7 +14787,7 @@ ru.	0	IN	NS	b.dns.ripn.net.
 ru.	0	IN	NS	d.dns.ripn.net.
 ru.	0	IN	NS	e.dns.ripn.net.
 ru.	0	IN	NS	f.dns.ripn.net.
-ru.	0	IN	DS	43786 8 2 3c59747544090bc74419d5f69e32d8c9b18ea48cbdaa33c09435619120ced431
+ru.	0	IN	DS	18374 8 2 8058d0c088d9b3f7f30080e2b8c9804944301722a2cce9ee66f6ac74feb2e200
 a.dns.flexireg.ru.	0	IN	A	31.177.70.1
 a.dns.flexireg.ru.	0	IN	AAAA	2a02:2090:6800::1
 rugby.	0	IN	NS	a.nic.rugby.
@@ -16818,7 +16816,7 @@ tatar.	0	IN	NS	b.dns.ripn.net.
 tatar.	0	IN	NS	d.dns.ripn.net.
 tatar.	0	IN	NS	e.dns.ripn.net.
 tatar.	0	IN	NS	f.dns.ripn.net.
-tatar.	0	IN	DS	51080 8 2 174d84d055dd351387ae559673deb48b0aa5f767e0c946c9c7afcf8d30230a7f
+tatar.	0	IN	DS	21416 8 2 e33b55b67391b0647fd2f59aefdd211384b14b32aa2c2da16b1d8a6311a12396
 tattoo.	0	IN	NS	a.nic.tattoo.
 tattoo.	0	IN	NS	b.nic.tattoo.
 tattoo.	0	IN	NS	c.nic.tattoo.
@@ -18025,13 +18023,14 @@ ns8.uz.	0	IN	A	91.212.89.233
 va.	0	IN	NS	a.nic.va.
 va.	0	IN	NS	b.nic.va.
 va.	0	IN	NS	c.nic.va.
-va.	0	IN	NS	va.cctld.authdns.ripe.net.
-va.	0	IN	NS	dns.nic.it.
 va.	0	IN	NS	seth.namex.it.
 va.	0	IN	NS	osiris.namex.it.
 a.nic.va.	0	IN	A	212.77.0.110
+a.nic.va.	0	IN	AAAA	2a01:b8:0:1:212:77:0:110
 b.nic.va.	0	IN	A	212.77.0.2
+b.nic.va.	0	IN	AAAA	2a01:b8:0:1:212:77:0:2
 c.nic.va.	0	IN	A	212.77.2.58
+c.nic.va.	0	IN	AAAA	2a01:b8::2:3a
 vacations.	0	IN	NS	v0n0.nic.vacations.
 vacations.	0	IN	NS	v0n1.nic.vacations.
 vacations.	0	IN	NS	v0n2.nic.vacations.
@@ -18608,13 +18607,13 @@ y.nic.walter.	0	IN	A	156.154.173.82
 y.nic.walter.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.walter.	0	IN	A	156.154.174.82
 z.nic.walter.	0	IN	AAAA	2610:a1:1076::1:82
-wang.	0	IN	NS	a.zdnscloud.com.
-wang.	0	IN	NS	b.zdnscloud.com.
+wang.	0	IN	NS	a.zdnscloud.cn.
+wang.	0	IN	NS	b.zdnscloud.cn.
 wang.	0	IN	NS	c.zdnscloud.com.
 wang.	0	IN	NS	d.zdnscloud.com.
-wang.	0	IN	NS	f.zdnscloud.com.
+wang.	0	IN	NS	f.zdnscloud.cn.
 wang.	0	IN	NS	g.zdnscloud.com.
-wang.	0	IN	NS	i.zdnscloud.com.
+wang.	0	IN	NS	i.zdnscloud.cn.
 wang.	0	IN	NS	j.zdnscloud.com.
 wang.	0	IN	DS	19549 8 2 328b02976180a88840e22a052b3d03c8ce7b67609b7cc1840e0e0fe71a3e8e8e
 wanggou.	0	IN	NS	dns1.nic.wanggou.
@@ -19280,13 +19279,13 @@ xn--45brj9c.	0	IN	NS	ns4.registry.in.
 xn--45brj9c.	0	IN	NS	ns5.registry.in.
 xn--45brj9c.	0	IN	NS	ns6.registry.in.
 xn--45brj9c.	0	IN	DS	1777 8 2 9ff53f651d2c12f7c22bd9c301132042d423d7c935935e26376e57e352b6fdf6
-xn--45q11c.	0	IN	NS	a.zdnscloud.com.
-xn--45q11c.	0	IN	NS	b.zdnscloud.com.
+xn--45q11c.	0	IN	NS	a.zdnscloud.cn.
+xn--45q11c.	0	IN	NS	b.zdnscloud.cn.
 xn--45q11c.	0	IN	NS	c.zdnscloud.com.
 xn--45q11c.	0	IN	NS	d.zdnscloud.com.
-xn--45q11c.	0	IN	NS	f.zdnscloud.com.
+xn--45q11c.	0	IN	NS	f.zdnscloud.cn.
 xn--45q11c.	0	IN	NS	g.zdnscloud.com.
-xn--45q11c.	0	IN	NS	i.zdnscloud.com.
+xn--45q11c.	0	IN	NS	i.zdnscloud.cn.
 xn--45q11c.	0	IN	NS	j.zdnscloud.com.
 xn--45q11c.	0	IN	DS	21806 8 2 622cfb958a0ee383c82ce227dfed29b054b4db76b914ccf5d65703b41da6d536
 xn--4dbrk0ce.	0	IN	NS	ns1.ns.il.
@@ -19603,13 +19602,13 @@ v2n0.nic.xn--czrs0t.	0	IN	A	65.22.31.64
 v2n0.nic.xn--czrs0t.	0	IN	AAAA	2a01:8840:21::64
 v2n1.nic.xn--czrs0t.	0	IN	A	161.232.15.64
 v2n1.nic.xn--czrs0t.	0	IN	AAAA	2a01:8840:f9::64
-xn--czru2d.	0	IN	NS	a.zdnscloud.com.
-xn--czru2d.	0	IN	NS	b.zdnscloud.com.
+xn--czru2d.	0	IN	NS	a.zdnscloud.cn.
+xn--czru2d.	0	IN	NS	b.zdnscloud.cn.
 xn--czru2d.	0	IN	NS	c.zdnscloud.com.
 xn--czru2d.	0	IN	NS	d.zdnscloud.com.
-xn--czru2d.	0	IN	NS	f.zdnscloud.com.
+xn--czru2d.	0	IN	NS	f.zdnscloud.cn.
 xn--czru2d.	0	IN	NS	g.zdnscloud.com.
-xn--czru2d.	0	IN	NS	i.zdnscloud.com.
+xn--czru2d.	0	IN	NS	i.zdnscloud.cn.
 xn--czru2d.	0	IN	NS	j.zdnscloud.com.
 xn--czru2d.	0	IN	DS	62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 xn--d1acj3b.	0	IN	NS	a.dns.ripn.net.
@@ -19845,13 +19844,13 @@ xn--h2brj9c8c.	0	IN	NS	ns4.registry.in.
 xn--h2brj9c8c.	0	IN	NS	ns5.registry.in.
 xn--h2brj9c8c.	0	IN	NS	ns6.registry.in.
 xn--h2brj9c8c.	0	IN	DS	44590 8 2 c4be5d9ddc3d522148ce76774856bf13835a34d8fbe8f1228559708b15c39d92
-xn--hxt814e.	0	IN	NS	a.zdnscloud.com.
-xn--hxt814e.	0	IN	NS	b.zdnscloud.com.
+xn--hxt814e.	0	IN	NS	a.zdnscloud.cn.
+xn--hxt814e.	0	IN	NS	b.zdnscloud.cn.
 xn--hxt814e.	0	IN	NS	c.zdnscloud.com.
 xn--hxt814e.	0	IN	NS	d.zdnscloud.com.
-xn--hxt814e.	0	IN	NS	f.zdnscloud.com.
+xn--hxt814e.	0	IN	NS	f.zdnscloud.cn.
 xn--hxt814e.	0	IN	NS	g.zdnscloud.com.
-xn--hxt814e.	0	IN	NS	i.zdnscloud.com.
+xn--hxt814e.	0	IN	NS	i.zdnscloud.cn.
 xn--hxt814e.	0	IN	NS	j.zdnscloud.com.
 xn--hxt814e.	0	IN	DS	59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 xn--i1b6b1a6a2e.	0	IN	NS	a0.nic.xn--i1b6b1a6a2e.
@@ -20284,7 +20283,6 @@ xn--otu796d.	0	IN	NS	g.zdnscloud.com.
 xn--otu796d.	0	IN	NS	i.zdnscloud.com.
 xn--otu796d.	0	IN	NS	j.zdnscloud.com.
 xn--otu796d.	0	IN	DS	47587 8 2 c25353ef849dce2b94e77b4a8997a7ea66d3a8614ec62493a18f072df66de9a6
-xn--otu796d.	0	IN	DS	61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
 xn--p1acf.	0	IN	NS	ns1.nic.xn--p1acf.
 xn--p1acf.	0	IN	NS	ns1.anycastdns.cz.
 xn--p1acf.	0	IN	NS	ns2.nic.xn--p1acf.
@@ -20299,7 +20297,7 @@ xn--p1ai.	0	IN	NS	b.dns.ripn.net.
 xn--p1ai.	0	IN	NS	d.dns.ripn.net.
 xn--p1ai.	0	IN	NS	e.dns.ripn.net.
 xn--p1ai.	0	IN	NS	f.dns.ripn.net.
-xn--p1ai.	0	IN	DS	59497 8 2 3de6c0350e9d16583aeaca8fbfb5148c25cfaf3a81d5083c1aa90d8399720ae3
+xn--p1ai.	0	IN	DS	31990 8 2 16167b01147afbc571bfe702a4e1bf2e83a44d5eaaa4c818d8b1f62fb1fdeb1a
 xn--pgbs0dh.	0	IN	NS	ns1.ati.tn.
 xn--pgbs0dh.	0	IN	NS	ns2.ati.tn.
 xn--pgbs0dh.	0	IN	NS	ns2.nic.fr.
