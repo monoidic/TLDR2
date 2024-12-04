@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024120401 1 1 45bf0ce698621e242857e1380b732ca00b66e31f27b13abb862a8201b478d48f6eb6e90ca7e21dc953ff749a0a8a5a3b
+.	0	IN	ZONEMD	2024120402 1 1 f20ade40b74009682716aed071891e156d0c40a0c9e3bb1410445296a9ffb5a3169dc221e1b8dcb8203c4532c50d1003
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3575,7 +3575,6 @@ citic.	0	IN	NS	f.zdnscloud.com.
 citic.	0	IN	NS	g.zdnscloud.com.
 citic.	0	IN	NS	i.zdnscloud.com.
 citic.	0	IN	NS	j.zdnscloud.com.
-citic.	0	IN	DS	12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
 citic.	0	IN	DS	40391 8 2 7ca2fece772e8398fbf071ecbb433e716f56ea88eda63ec81384913dd736648d
 city.	0	IN	NS	v0n0.nic.city.
 city.	0	IN	NS	v0n1.nic.city.
@@ -19693,7 +19692,6 @@ xn--fiq64b.	0	IN	NS	g.zdnscloud.com.
 xn--fiq64b.	0	IN	NS	i.zdnscloud.com.
 xn--fiq64b.	0	IN	NS	j.zdnscloud.com.
 xn--fiq64b.	0	IN	DS	9361 8 2 68ad16c70c11245f8efbc2798b069d8983ae1b2f3dd5e0fa65a8f386da1b9042
-xn--fiq64b.	0	IN	DS	38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c6a5625f2
 xn--fiqs8s.	0	IN	NS	h.dns.cn.
 xn--fiqs8s.	0	IN	NS	i.dns.cn.
 xn--fiqs8s.	0	IN	NS	j.dns.cn.
