@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024120601 1 1 64ec6396154cf6ed2ba93b2c497d430ea675b49aa70f1bfeb8d4003dae63ea479cdeda049eacd55809b892b94db75283
+.	0	IN	ZONEMD	2024120602 1 1 e69a2e2c018d7eed56f712a2d2c17723fc6d979ef806e3aaa7f3a1bb95fba1221713e8d1431e2dc8b74e51c2aeae1aa1
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5160,8 +5160,8 @@ dk.	0	IN	NS	b.nic.dk.
 dk.	0	IN	NS	c.nic.dk.
 dk.	0	IN	NS	h.nic.dk.
 dk.	0	IN	NS	l.nic.dk.
-dk.	0	IN	NS	p.nic.dk.
 dk.	0	IN	NS	s.nic.dk.
+dk.	0	IN	NS	t.nic.dk.
 dk.	0	IN	DS	2181 13 2 9e707b8c9a8ae4893f6ddf545957f9809fe8ba4747bf705263601466aa10051d
 b.nic.dk.	0	IN	A	193.163.102.222
 b.nic.dk.	0	IN	AAAA	2a01:630:0:80::53
@@ -5171,10 +5171,10 @@ h.nic.dk.	0	IN	A	46.30.126.214
 h.nic.dk.	0	IN	AAAA	2a00:1b18:1:2::53
 l.nic.dk.	0	IN	A	130.226.213.138
 l.nic.dk.	0	IN	AAAA	2001:878:0:e000:82:e2:d5:8a
-p.nic.dk.	0	IN	A	194.0.47.42
-p.nic.dk.	0	IN	AAAA	2001:678:78:42:ad::53
 s.nic.dk.	0	IN	A	194.0.28.7
 s.nic.dk.	0	IN	AAAA	2001:678:2c:0:194:0:28:7
+t.nic.dk.	0	IN	A	185.43.134.16
+t.nic.dk.	0	IN	AAAA	2001:148f:fffd::16
 dm.	0	IN	NS	ns.blacknightsolutions.com.
 dm.	0	IN	NS	ns2.nic.dm.
 dm.	0	IN	NS	ns2.blacknightsolutions.com.
@@ -19440,13 +19440,13 @@ xn--9dbq2a.	0	IN	NS	ac2.nstld.com.
 xn--9dbq2a.	0	IN	NS	ac3.nstld.com.
 xn--9dbq2a.	0	IN	NS	ac4.nstld.com.
 xn--9dbq2a.	0	IN	DS	47235 8 2 014ae4831df78851e081e2f33857b1335bbf16a65e3fe624cb42d2ba1a32dae2
-xn--9et52u.	0	IN	NS	a.zdnscloud.com.
-xn--9et52u.	0	IN	NS	b.zdnscloud.com.
+xn--9et52u.	0	IN	NS	a.zdnscloud.cn.
+xn--9et52u.	0	IN	NS	b.zdnscloud.cn.
 xn--9et52u.	0	IN	NS	c.zdnscloud.com.
 xn--9et52u.	0	IN	NS	d.zdnscloud.com.
-xn--9et52u.	0	IN	NS	f.zdnscloud.com.
+xn--9et52u.	0	IN	NS	f.zdnscloud.cn.
 xn--9et52u.	0	IN	NS	g.zdnscloud.com.
-xn--9et52u.	0	IN	NS	i.zdnscloud.com.
+xn--9et52u.	0	IN	NS	i.zdnscloud.cn.
 xn--9et52u.	0	IN	NS	j.zdnscloud.com.
 xn--9et52u.	0	IN	DS	46544 8 2 0310cad1673a9aeca7a4eb6c955ea0bebefd87c77c702772e94aa0eb31cb82d3
 xn--9krt00a.	0	IN	NS	a0.nic.xn--9krt00a.
