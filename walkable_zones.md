@@ -57,4 +57,3 @@
 * `xn--l1acc.`
 * `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
