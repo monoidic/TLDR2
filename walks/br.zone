@@ -399,6 +399,10 @@ caxias.br.	0	IN	NS	c.dns.br.
 caxias.br.	0	IN	NS	d.dns.br.
 caxias.br.	0	IN	NS	e.dns.br.
 caxias.br.	0	IN	NS	f.dns.br.
+cbpf.br.	0	IN	NS	mail.cat.cbpf.br.
+cbpf.br.	0	IN	NS	cbpfsu1.cat.cbpf.br.
+cbpf.br.	0	IN	NS	cbpfsu5.cat.cbpf.br.
+cbpf.br.	0	IN	NS	cbpfsu6.cat.cbpf.br.
 ccap.br.	0	IN	NS	a.auto.dns.br.
 ccap.br.	0	IN	NS	b.auto.dns.br.
 ccbeunet.br.	0	IN	NS	ns1.bignet.com.br.
@@ -433,16 +437,10 @@ ceap.br.	0	IN	NS	f.sec.dns.br.
 cefac.br.	0	IN	NS	ns1.locaweb.com.br.
 cefac.br.	0	IN	NS	ns2.locaweb.com.br.
 cefac.br.	0	IN	NS	ns3.locaweb.com.br.
-cefet-al.br.	0	IN	NS	ns1.cefet-al.br.
-cefet-al.br.	0	IN	NS	ns2.cefet-al.br.
-cefet-al.br.	0	IN	NS	ns3.cefet-al.br.
 cefet-rj.br.	0	IN	NS	dns01.cefet-rj.br.
 cefet-rj.br.	0	IN	NS	dns02.cefet-rj.br.
 cefet-rn.br.	0	IN	NS	amy.ns.cloudflare.com.
 cefet-rn.br.	0	IN	NS	devin.ns.cloudflare.com.
-cefetal.br.	0	IN	NS	ns1.cefetal.br.
-cefetal.br.	0	IN	NS	ns2.cefetal.br.
-cefetal.br.	0	IN	NS	ns3.cefetal.br.
 cefetcampos.br.	0	IN	NS	yoda.cefetcampos.br.
 cefetcampos.br.	0	IN	NS	cheetos.cefetcampos.br.
 cefetcampos.br.	0	IN	NS	atlantis.cefetcampos.br.
@@ -1510,8 +1508,6 @@ fortal.br.	0	IN	NS	c.dns.br.
 fortal.br.	0	IN	NS	d.dns.br.
 fortal.br.	0	IN	NS	e.dns.br.
 fortal.br.	0	IN	NS	f.dns.br.
-forummarilia.br.	0	IN	NS	ns1.forummarilia.br.
-forummarilia.br.	0	IN	NS	ns2.forummarilia.br.
 fot.br.	0	IN	NS	a.dns.br.
 fot.br.	0	IN	NS	b.dns.br.
 fot.br.	0	IN	NS	c.dns.br.
@@ -1566,8 +1562,6 @@ fua.br.	0	IN	NS	a.auto.dns.br.
 fua.br.	0	IN	NS	b.auto.dns.br.
 fucape.br.	0	IN	NS	chan.ns.cloudflare.com.
 fucape.br.	0	IN	NS	thomas.ns.cloudflare.com.
-fucapi.br.	0	IN	NS	ns1.fucapi.br.
-fucapi.br.	0	IN	NS	ns2.fucapi.br.
 fumec.br.	0	IN	NS	sharon.ns.cloudflare.com.
 fumec.br.	0	IN	NS	damiete.ns.cloudflare.com.
 funaliber.br.	0	IN	NS	a.auto.dns.br.
@@ -1998,8 +1992,9 @@ labuniban.br.	0	IN	NS	ns1-07.azure-dns.com.
 labuniban.br.	0	IN	NS	ns2-07.azure-dns.net.
 labuniban.br.	0	IN	NS	ns3-07.azure-dns.org.
 labuniban.br.	0	IN	NS	ns4-07.azure-dns.info.
-laosp.br.	0	IN	NS	gaivota.birdsnet.com.br.
-laosp.br.	0	IN	NS	pelicano.birdsnet.com.br.
+laosp.br.	0	IN	NS	ns1.locaweb.com.br.
+laosp.br.	0	IN	NS	ns2.locaweb.com.br.
+laosp.br.	0	IN	NS	ns3.locaweb.com.br.
 lavras.br.	0	IN	NS	ara.ns.cloudflare.com.
 lavras.br.	0	IN	NS	norman.ns.cloudflare.com.
 led.br.	0	IN	NS	ns.lec.ufsc.br.
@@ -2910,6 +2905,8 @@ uel.br.	0	IN	NS	ns2.uel.br.
 uem.br.	0	IN	NS	quem.iw-net.com.br.
 uem.br.	0	IN	NS	donington.uem.br.
 uem.br.	0	IN	NS	silverstone.uem.br.
+uema.br.	0	IN	NS	nt.uema.br.
+uema.br.	0	IN	NS	sun.uema.br.
 uemg.br.	0	IN	NS	ns.uemg.br.
 uemg.br.	0	IN	NS	nss1.prodemge.gov.br.
 uems.br.	0	IN	NS	ns1.uems.br.
@@ -2930,6 +2927,8 @@ uern.br.	0	IN	NS	ns2.uern.br.
 uern.br.	0	IN	NS	ns3.uern.br.
 uern.br.	0	IN	NS	ns4.uern.br.
 uesb.br.	0	IN	NS	ns1.uesb.br.
+uesc.br.	0	IN	NS	alpha.uesc.br.
+uesc.br.	0	IN	NS	omega.uesc.br.
 uespi.br.	0	IN	NS	npdsrv01.uespi.br.
 uespi.br.	0	IN	NS	npdsrv02.uespi.br.
 ufac.br.	0	IN	NS	ns1.ufac.br.
@@ -3041,8 +3040,7 @@ ulbra.br.	0	IN	NS	dns1.ulbra.br.
 ulbra.br.	0	IN	NS	dns2.ulbra.br.
 ulbra-mao.br.	0	IN	NS	dns1.ulbra-mao.br.
 ulbra-mao.br.	0	IN	NS	dns2.ulbra-mao.br.
-ulbra-to.br.	0	IN	NS	dns1.ulbra-to.br.
-ulbra-to.br.	0	IN	NS	dns2.ulbra-to.br.
+ulbra-to.br.	0	IN	NS	srvdns.
 umc.br.	0	IN	NS	infra021.umc.br.
 umc.br.	0	IN	NS	infra057.umc.br.
 una.br.	0	IN	NS	ns-460.awsdns-57.com.
