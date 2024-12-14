@@ -436,8 +436,6 @@ act.ps.	0	IN	NS	pranab.ns.cloudflare.com.
 act.ps.	0	IN	NS	destiny.ns.cloudflare.com.
 acthub.ps.	0	IN	NS	dns1.ngn.ps.
 acthub.ps.	0	IN	NS	dns2.ngn.ps.
-action.ps.	0	IN	NS	ns1.ttawor.com.
-action.ps.	0	IN	NS	ns2.ttawor.com.
 actit.ps.	0	IN	NS	ns1581.websitewelcome.com.
 actit.ps.	0	IN	NS	ns1582.websitewelcome.com.
 active.ps.	0	IN	NS	ns1.dns-parking.com.
@@ -5688,6 +5686,9 @@ estabraq.ps.	0	IN	NS	ns1-lion.dl-cms.com.
 estabraq.ps.	0	IN	NS	ns2-lion.dl-cms.com.
 esteem.ps.	0	IN	NS	ns1.artmixdesign.com.
 esteem.ps.	0	IN	NS	ns2.artmixdesign.com.
+esthederm.ps.	0	IN	NS	nsa.perf1.fr.
+esthederm.ps.	0	IN	NS	nsb.perf1.com.
+esthederm.ps.	0	IN	NS	nsc.perf1.com.
 estherderm.ps.	0	IN	NS	nsa.perf1.fr.
 estherderm.ps.	0	IN	NS	nsb.perf1.com.
 estherderm.ps.	0	IN	NS	nsc.perf1.com.
@@ -8995,6 +8996,8 @@ kava.ps.	0	IN	NS	ns2.twins-cloud.com.
 kavak.ps.	0	IN	NS	ns01.trademarkarea.com.
 kavak.ps.	0	IN	NS	ns02.trademarkarea.com.
 kavak.ps.	0	IN	NS	ns03.trademarkarea.com.
+kawakies.ps.	0	IN	NS	ns1.injazatcloud.ps.
+kawakies.ps.	0	IN	NS	ns2.injazatcloud.ps.
 kawasaki.ps.	0	IN	NS	ns1.zone.ps.
 kawasaki.ps.	0	IN	NS	ns2.zone.ps.
 kawasmi.ps.	0	IN	NS	gail.ns.cloudflare.com.
@@ -10309,9 +10312,10 @@ mediamarket.ps.	0	IN	NS	ns1.purecore.net.
 mediamarket.ps.	0	IN	NS	ns2.purecore.net.
 mediaplus.ps.	0	IN	NS	cdns1.hadara.ps.
 mediaplus.ps.	0	IN	NS	cdns2.hadara.ps.
-mediasport.ps.	0	IN	NS	ns1.first-ns.de.
-mediasport.ps.	0	IN	NS	robotns2.second-ns.de.
-mediasport.ps.	0	IN	NS	robotns3.second-ns.com.
+mediasport.ps.	0	IN	NS	ns1.mediasport.ps.
+mediasport.ps.	0	IN	NS	ns2.mediasport.ps.
+ns1.mediasport.ps.	0	IN	A	195.26.241.122
+ns2.mediasport.ps.	0	IN	A	195.26.241.122
 mediatown.ps.	0	IN	NS	ns2291.hostgator.com.
 mediatown.ps.	0	IN	NS	ns2292.hostgator.com.
 mediazone.ps.	0	IN	NS	beth.ns.cloudflare.com.
@@ -13682,8 +13686,6 @@ projections.ps.	0	IN	NS	cdns1.hadara.ps.
 projections.ps.	0	IN	NS	cdns2.hadara.ps.
 projectsco.ps.	0	IN	NS	ns1.amrawh.com.
 projectsco.ps.	0	IN	NS	ns2.amrawh.com.
-promark.ps.	0	IN	NS	ns3.cleannameservers.com.
-promark.ps.	0	IN	NS	ns4.cleannameservers.com.
 promec.ps.	0	IN	NS	ns1.i-net.ps.
 promec.ps.	0	IN	NS	ns4.i-net.ps.
 promec.ps.	0	IN	NS	ns6.i-net.ps.
@@ -14931,8 +14933,6 @@ saraymod.ps.	0	IN	NS	cdns1.hadara.ps.
 saraymod.ps.	0	IN	NS	cdns2.hadara.ps.
 sard.ps.	0	IN	NS	ns897.websitewelcome.com.
 sard.ps.	0	IN	NS	ns898.websitewelcome.com.
-saree3.ps.	0	IN	NS	vda7100a.trouble-free.net.
-saree3.ps.	0	IN	NS	vda7100b.trouble-free.net.
 sareyyet.ps.	0	IN	NS	ns1.zone.ps.
 sareyyet.ps.	0	IN	NS	ns2.zone.ps.
 sarra-mun.ps.	0	IN	NS	ns1.dotster.com.
@@ -15957,11 +15957,8 @@ spotify.ps.	0	IN	NS	a.portsdns.se.
 spotify.ps.	0	IN	NS	b.portsdns.net.
 spottech.ps.	0	IN	NS	ns1.mzajk.com.
 spottech.ps.	0	IN	NS	ns2.mzajk.com.
-sprint.ps.	0	IN	NS	ns1-auth.sprintlink.net.
-sprint.ps.	0	IN	NS	ns2-auth.sprintlink.net.
-sprint.ps.	0	IN	NS	ns3-auth.sprintlink.net.
-sprint.ps.	0	IN	NS	reston-ns1.telemail.net.
-sprint.ps.	0	IN	NS	reston-ns3.telemail.net.
+sprint.ps.	0	IN	NS	dns1.cscdns.net.
+sprint.ps.	0	IN	NS	dns2.cscdns.net.
 sprintx.ps.	0	IN	NS	elle.ns.cloudflare.com.
 sprintx.ps.	0	IN	NS	jeremy.ns.cloudflare.com.
 sprite.ps.	0	IN	NS	ns1-09.azure-dns.com.
@@ -16699,10 +16696,6 @@ techhub.ps.	0	IN	NS	ns2.101domain.com.
 techies.ps.	0	IN	NS	ns1.netim.net.
 techies.ps.	0	IN	NS	ns2.netim.net.
 techies.ps.	0	IN	NS	ns3.netim.net.
-techjob.ps.	0	IN	NS	ns1.ttawor.com.
-techjob.ps.	0	IN	NS	ns2.ttawor.com.
-techjobs.ps.	0	IN	NS	ns1.ttawor.com.
-techjobs.ps.	0	IN	NS	ns2.ttawor.com.
 techland.ps.	0	IN	NS	cdns1.hadara.ps.
 techland.ps.	0	IN	NS	cdns2.hadara.ps.
 techman.ps.	0	IN	NS	ns1.bluehost.com.
@@ -16833,8 +16826,6 @@ thawq-sweets.ps.	0	IN	NS	ns1.injazatcloud.ps.
 thawq-sweets.ps.	0	IN	NS	ns2.injazatcloud.ps.
 the-address.ps.	0	IN	NS	ns1307.websitewelcome.com.
 the-address.ps.	0	IN	NS	ns1308.websitewelcome.com.
-theaction.ps.	0	IN	NS	ns1.ttawor.com.
-theaction.ps.	0	IN	NS	ns2.ttawor.com.
 theaddress.ps.	0	IN	NS	ns1.servconfig.com.
 theaddress.ps.	0	IN	NS	ns2.servconfig.com.
 thebodyshop.ps.	0	IN	NS	ns1.markmonitor.com.
