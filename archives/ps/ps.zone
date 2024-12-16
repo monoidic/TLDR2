@@ -452,6 +452,8 @@ activeport.ps.	0	IN	NS	ns1.dotster.com.
 activeport.ps.	0	IN	NS	ns2.dotster.com.
 acts.ps.	0	IN	NS	beth.ns.cloudflare.com.
 acts.ps.	0	IN	NS	todd.ns.cloudflare.com.
+actuary.ps.	0	IN	NS	ines.ns.cloudflare.com.
+actuary.ps.	0	IN	NS	norm.ns.cloudflare.com.
 acumen.ps.	0	IN	NS	dns1.bnet.ps.
 acumen.ps.	0	IN	NS	dns2.bnet.ps.
 ad3.ps.	0	IN	NS	kay.ns.cloudflare.com.
@@ -4076,6 +4078,8 @@ cloudtech.ps.	0	IN	NS	ns72.domaincontrol.com.
 cloudv.ps.	0	IN	NS	ns0.transip.net.
 cloudv.ps.	0	IN	NS	ns1.transip.nl.
 cloudv.ps.	0	IN	NS	ns2.transip.eu.
+cloudvapes.ps.	0	IN	NS	ns1.injazatcloud.ps.
+cloudvapes.ps.	0	IN	NS	ns2.injazatcloud.ps.
 cloudy.ps.	0	IN	NS	asa.ns.cloudflare.com.
 cloudy.ps.	0	IN	NS	lou.ns.cloudflare.com.
 club.ps.	0	IN	NS	ns47.securenet-server.net.
@@ -4701,9 +4705,9 @@ dasra.ps.	0	IN	NS	ns4.mysecurecloudhost.com.
 dataland.ps.	0	IN	NS	ns1.dreamhost.com.
 dataland.ps.	0	IN	NS	ns2.dreamhost.com.
 dataland.ps.	0	IN	NS	ns3.dreamhost.com.
-datamatters.ps.	0	IN	NS	ns1.i-net.ps.
-datamatters.ps.	0	IN	NS	ns4.i-net.ps.
-datamatters.ps.	0	IN	NS	ns7.i-net.ps.
+datamatters.ps.	0	IN	NS	dns3.gov.ps.
+datamatters.ps.	0	IN	NS	dns4.pna.ps.
+datamatters.ps.	0	IN	NS	dns5.gov.ps.
 datapulse.ps.	0	IN	NS	cdns1.hadara.ps.
 datapulse.ps.	0	IN	NS	cdns2.hadara.ps.
 datascience.ps.	0	IN	NS	dns3.gov.ps.
@@ -6397,6 +6401,8 @@ franke.ps.	0	IN	NS	a.portsdns.se.
 franke.ps.	0	IN	NS	b.portsdns.net.
 freebalance.ps.	0	IN	NS	ns1.101domain.com.
 freebalance.ps.	0	IN	NS	ns2.101domain.com.
+freedompal.ps.	0	IN	NS	ines.ns.cloudflare.com.
+freedompal.ps.	0	IN	NS	norm.ns.cloudflare.com.
 freefree.ps.	0	IN	NS	ns1.koumbit.net.
 freefree.ps.	0	IN	NS	ns2.koumbit.net.
 freefree.ps.	0	IN	NS	ns3.koumbit.net.
@@ -7264,6 +7270,9 @@ happy.ps.	0	IN	NS	ns1.sederhost.com.
 happy.ps.	0	IN	NS	ns2.sederhost.com.
 happylife.ps.	0	IN	NS	ns1.injazatcloud.ps.
 happylife.ps.	0	IN	NS	ns2.injazatcloud.ps.
+harbco.ps.	0	IN	NS	ns1.i-net.ps.
+harbco.ps.	0	IN	NS	ns4.i-net.ps.
+harbco.ps.	0	IN	NS	ns7.i-net.ps.
 hardees.ps.	0	IN	NS	luke.ns.cloudflare.com.
 hardees.ps.	0	IN	NS	teresa.ns.cloudflare.com.
 hardrock.ps.	0	IN	NS	sofia.ns.cloudflare.com.
@@ -13105,6 +13114,8 @@ pex.ps.	0	IN	NS	ns3-09.azure-dns.org.
 pex.ps.	0	IN	NS	ns4-09.azure-dns.info.
 pfa.ps.	0	IN	NS	gwen.ns.cloudflare.com.
 pfa.ps.	0	IN	NS	lars.ns.cloudflare.com.
+pfbs.ps.	0	IN	NS	ns1.atyaf.co.
+pfbs.ps.	0	IN	NS	ns2.atyaf.co.
 pfc.ps.	0	IN	NS	cdns1.hadara.ps.
 pfc.ps.	0	IN	NS	cdns2.hadara.ps.
 pfda.ps.	0	IN	NS	ns1.weblayer.co.
@@ -13376,8 +13387,6 @@ plo.ps.	0	IN	NS	dns4.pna.ps.
 plo.ps.	0	IN	NS	dns5.gov.ps.
 plord.ps.	0	IN	NS	ns1.atyaf.co.
 plord.ps.	0	IN	NS	ns2.atyaf.co.
-plservices.ps.	0	IN	NS	ns1.dns-parking.com.
-plservices.ps.	0	IN	NS	ns2.dns-parking.com.
 plug.ps.	0	IN	NS	ns1.he.net.
 plug.ps.	0	IN	NS	ns2.he.net.
 plug.ps.	0	IN	NS	ns3.he.net.
@@ -15868,9 +15877,11 @@ spacescooter.ps.	0	IN	NS	ns2.openprovider.be.
 spacescooter.ps.	0	IN	NS	ns3.openprovider.eu.
 spaceshi.ps.	0	IN	NS	dns.rebel.com.
 spaceshi.ps.	0	IN	NS	dns2.rebel.com.
-spacex.ps.	0	IN	NS	ns1.i-net.ps.
-spacex.ps.	0	IN	NS	ns4.i-net.ps.
-spacex.ps.	0	IN	NS	ns7.i-net.ps.
+spacex.ps.	0	IN	NS	ns1.he.net.
+spacex.ps.	0	IN	NS	ns2.he.net.
+spacex.ps.	0	IN	NS	ns3.he.net.
+spacex.ps.	0	IN	NS	ns4.he.net.
+spacex.ps.	0	IN	NS	ns5.he.net.
 spam.ps.	0	IN	NS	sid.ns.cloudflare.com.
 spam.ps.	0	IN	NS	mira.ns.cloudflare.com.
 sparen.ps.	0	IN	NS	ns1.variomedia.de.
@@ -17686,7 +17697,7 @@ vertex.ps.	0	IN	NS	ns4046.hostgator.com.
 vertu.ps.	0	IN	NS	ns1.bb-online.net.
 vertu.ps.	0	IN	NS	ns2.bb-online.org.
 vertu.ps.	0	IN	NS	ns3.bb-online.info.
-vertu.ps.	0	IN	DS	18424 8 2 a5b286bc8a46aa7a8895ebd3628d751d29d53dfe4d506637a4e22fe2bb9e64dc
+vertu.ps.	0	IN	DS	38689 8 2 f0f3421578db88661c012d318981812a2c93aaa7368411c1d7370aff4c4e348b
 vespa.ps.	0	IN	NS	ns1.barbero.zone.
 vespa.ps.	0	IN	NS	ns2.barbero.zone.
 vetrina.ps.	0	IN	NS	ns-62.awsdns-07.com.
