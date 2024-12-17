@@ -13,7 +13,7 @@
 .	0	IN	NS	m.root-servers.net.
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024121701 1 1 ee54c695defacb88cc285c79e8b0a773e94665f8337beaf4b0c5770198cd8be71a989db0ddb9fe0e06b5afc726c8a3e9
+.	0	IN	ZONEMD	2024121702 1 1 0ba1a50e2add5a53dd0f010713298fa07dfee66e4a72053d4ba4dcc83ac6f3d5a2a5fd8772bf45f1e3471db5725a8c54
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -446,17 +446,26 @@ v2n0.nic.agency.	0	IN	A	65.22.27.2
 v2n0.nic.agency.	0	IN	AAAA	2a01:8840:1d::2
 v2n1.nic.agency.	0	IN	A	161.232.13.2
 v2n1.nic.agency.	0	IN	AAAA	2a01:8840:f7::2
-ai.	0	IN	NS	a.lactld.org.
-ai.	0	IN	NS	pch.whois.ai.
-ai.	0	IN	NS	anycastdns1-cz.nic.ai.
-ai.	0	IN	NS	anycastdns2-cz.nic.ai.
+ai.	0	IN	NS	v0n0.nic.ai.
+ai.	0	IN	NS	v0n1.nic.ai.
+ai.	0	IN	NS	v0n2.nic.ai.
+ai.	0	IN	NS	v0n3.nic.ai.
+ai.	0	IN	NS	v2n0.nic.ai.
+ai.	0	IN	NS	v2n1.nic.ai.
 ai.	0	IN	DS	3799 8 2 8a8030d4661ae6fcf417349682ac058648371002e70e717e4cf2f11f83543385
 ai.	0	IN	DS	44137 8 2 7886bd35ed745dca983d951a643495b929b3a7676a88c682ef88eb6fedbdb253
-anycastdns1-cz.nic.ai.	0	IN	A	185.28.194.194
-anycastdns2-cz.nic.ai.	0	IN	A	185.38.108.108
-anycastdns2-cz.nic.ai.	0	IN	AAAA	2a00:fea0:dead::beef
-pch.whois.ai.	0	IN	A	204.61.216.123
-pch.whois.ai.	0	IN	AAAA	2001:500:14:6123:ad::1
+v0n0.nic.ai.	0	IN	A	199.115.152.1
+v0n0.nic.ai.	0	IN	AAAA	2001:500:a0::1
+v0n1.nic.ai.	0	IN	A	199.115.153.1
+v0n1.nic.ai.	0	IN	AAAA	2001:500:a1::1
+v0n2.nic.ai.	0	IN	A	199.115.154.1
+v0n2.nic.ai.	0	IN	AAAA	2001:500:a2::1
+v0n3.nic.ai.	0	IN	A	199.115.155.1
+v0n3.nic.ai.	0	IN	AAAA	2001:500:a3::1
+v2n0.nic.ai.	0	IN	A	199.115.156.1
+v2n0.nic.ai.	0	IN	AAAA	2001:500:a4::1
+v2n1.nic.ai.	0	IN	A	199.115.157.1
+v2n1.nic.ai.	0	IN	AAAA	2001:500:a5::1
 aig.	0	IN	NS	a.nic.aig.
 aig.	0	IN	NS	b.nic.aig.
 aig.	0	IN	NS	c.nic.aig.
@@ -20159,8 +20168,7 @@ xn--mgbx4cd0ab.	0	IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	c.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	d.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	a1.nic.my.
-xn--mgbx4cd0ab.	0	IN	DS	1998 8 2 de4c45d877c64e9c3ebcbc79badbc104d7c5292d72bc6ca47090b31be24212e0
-xn--mgbx4cd0ab.	0	IN	DS	15654 8 2 e7e6d7d1bba6e0443ebe51946759fdcb9e370ba14f95b61091b9b989b1a90340
+xn--mgbx4cd0ab.	0	IN	DS	26416 8 2 b46082890fb952cba224e57a34d95fb5080dbe06f47a89a040554a06e109116e
 xn--mgbx4cd0ab.	0	IN	DS	37866 8 2 9818ec191cfce9ef77e5e458bcf471d5afcfa30d40f9a62bdd69a1863187247c
 xn--mix891f.	0	IN	NS	a.monic.mo.
 xn--mix891f.	0	IN	NS	b.monic.mo.
@@ -20272,13 +20280,13 @@ xn--o3cw4h.	0	IN	DS	27061 8 2 53856679ac45ea6562ef4ecd2de7aea57d786870979f09c4bc
 xn--ogbpf8fl.	0	IN	NS	sy.cctld.authdns.ripe.net.
 xn--ogbpf8fl.	0	IN	NS	ns1.tld.sy.
 xn--ogbpf8fl.	0	IN	NS	pch.anycast.tld.sy.
-xn--otu796d.	0	IN	NS	a.zdnscloud.com.
-xn--otu796d.	0	IN	NS	b.zdnscloud.com.
+xn--otu796d.	0	IN	NS	a.zdnscloud.cn.
+xn--otu796d.	0	IN	NS	b.zdnscloud.cn.
 xn--otu796d.	0	IN	NS	c.zdnscloud.com.
 xn--otu796d.	0	IN	NS	d.zdnscloud.com.
-xn--otu796d.	0	IN	NS	f.zdnscloud.com.
+xn--otu796d.	0	IN	NS	f.zdnscloud.cn.
 xn--otu796d.	0	IN	NS	g.zdnscloud.com.
-xn--otu796d.	0	IN	NS	i.zdnscloud.com.
+xn--otu796d.	0	IN	NS	i.zdnscloud.cn.
 xn--otu796d.	0	IN	NS	j.zdnscloud.com.
 xn--otu796d.	0	IN	DS	47587 8 2 c25353ef849dce2b94e77b4a8997a7ea66d3a8614ec62493a18f072df66de9a6
 xn--p1acf.	0	IN	NS	ns1.nic.xn--p1acf.
