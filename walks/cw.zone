@@ -939,8 +939,10 @@ enterprise.cw.	0	IN	NS	ha1.markmonitor.zone.
 enterprise.cw.	0	IN	NS	ha2.markmonitor.zone.
 enterprise.cw.	0	IN	NS	ha3.markmonitor.zone.
 enterprise.cw.	0	IN	NS	ha4.markmonitor.zone.
-entrpnr.cw.	0	IN	NS	tmp.nscluster.eu.
-entrpnr.cw.	0	IN	NS	tmp.nscluster.us.
+entrpnr.cw.	0	IN	NS	ns.bnamed.eu.
+entrpnr.cw.	0	IN	NS	ns.bnamed.us.
+entrpnr.cw.	0	IN	NS	ns.nscluster.ch.
+entrpnr.cw.	0	IN	NS	ns.nscluster.pl.
 essexfreight.cw.	0	IN	NS	pdns1.registrar-servers.com.
 essexfreight.cw.	0	IN	NS	pdns2.registrar-servers.com.
 eswipe.cw.	0	IN	NS	ns1.vevida.net.
@@ -1918,9 +1920,6 @@ securitas.cw.	0	IN	NS	ns1.bluehost.com.
 securitas.cw.	0	IN	NS	ns2.bluehost.com.
 sed.cw.	0	IN	NS	ns1.siteground.net.
 sed.cw.	0	IN	NS	ns2.siteground.net.
-seda.cw.	0	IN	NS	ns1.digitalocean.com.
-seda.cw.	0	IN	NS	ns2.digitalocean.com.
-seda.cw.	0	IN	NS	ns3.digitalocean.com.
 sef.cw.	0	IN	NS	ns1.siteground.net.
 sef.cw.	0	IN	NS	ns2.siteground.net.
 select.cw.	0	IN	NS	evan.ns.cloudflare.com.
