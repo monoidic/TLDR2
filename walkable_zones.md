@@ -47,6 +47,7 @@
 * `shell.`
 * `sl.`
 * `swatch.`
+* `tn.`
 * `tz.`
 * `ve.`
 * `wed.`
