@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024122301 1 1 e79e7ab32e9ca2edc49b4b51807721dd54fa0c7a0b57a25835e52459bfe67b477a26865caae3ed93587f8ce557e0b686
+.	0	IN	ZONEMD	2024122302 1 1 e5653ec78ba0311136ab1c1f03ee04edd693d38eda69adeff3243ed26fab24c6bbb54f2b6a3d39f82e13af74d7350b41
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2701,7 +2701,7 @@ pch.nic.net.bw.	0	IN	A	204.61.216.70
 pch.nic.net.bw.	0	IN	AAAA	2001:500:14:6070:ad::1
 by.	0	IN	NS	dns1.tld.becloudby.com.
 by.	0	IN	NS	dns2.tld.becloudby.com.
-by.	0	IN	NS	dns3.tld.becloudby.com.
+by.	0	IN	NS	dns3.tld.becloudby.tech.
 by.	0	IN	NS	dns4.tld.becloudby.tech.
 by.	0	IN	NS	dns7.tld.becloudby.com.
 by.	0	IN	DS	495 13 2 2d14284f8e47b53f839bd8068d438680b4b6c7a645769c9d89b47df0c5359b7b
@@ -3950,8 +3950,6 @@ dns1.tld.becloudby.com.	0	IN	A	93.125.25.72
 dns1.tld.becloudby.com.	0	IN	AAAA	2a00:c827:a:2::2
 dns2.tld.becloudby.com.	0	IN	A	93.125.25.73
 dns2.tld.becloudby.com.	0	IN	AAAA	2a00:c827:a:3::2
-dns3.tld.becloudby.com.	0	IN	A	185.98.83.4
-dns3.tld.becloudby.com.	0	IN	AAAA	2a01:ba80:e:c:1::4c
 dns7.tld.becloudby.com.	0	IN	A	31.44.5.245
 ns.blacknightsolutions.com.	0	IN	A	81.17.240.204
 ns.blacknightsolutions.com.	0	IN	AAAA	2a01:a8:dc1:33::33
@@ -16967,6 +16965,8 @@ tech.	0	IN	NS	e.nic.tech.
 tech.	0	IN	NS	f.nic.tech.
 tech.	0	IN	DS	28487 8 2 ea62fa86a9c863738597a42d28762b1f75d42f7d77aa6767425de138f8b0e78c
 tech.	0	IN	DS	50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c661686c6ee
+dns3.tld.becloudby.tech.	0	IN	A	185.98.83.4
+dns3.tld.becloudby.tech.	0	IN	AAAA	2a01:ba80:e:c:1::4c
 dns4.tld.becloudby.tech.	0	IN	A	31.44.1.137
 dns4.tld.becloudby.tech.	0	IN	AAAA	2a0e:b81:8001:1001::2
 a.nic.tech.	0	IN	A	194.169.218.60
@@ -19445,7 +19445,7 @@ xn--90ae.	0	IN	NS	p.nic.bg.
 xn--90ae.	0	IN	DS	55126 8 2 0669c2eb01c870dae3ef098917da83562b431531334a531e9814f117557509d7
 xn--90ais.	0	IN	NS	dns1.tld.becloudby.com.
 xn--90ais.	0	IN	NS	dns2.tld.becloudby.com.
-xn--90ais.	0	IN	NS	dns3.tld.becloudby.com.
+xn--90ais.	0	IN	NS	dns3.tld.becloudby.tech.
 xn--90ais.	0	IN	NS	dns4.tld.becloudby.tech.
 xn--90ais.	0	IN	NS	dns7.tld.becloudby.com.
 xn--90ais.	0	IN	DS	43354 13 2 e3288fd293924279d5c2cddaac9875052d0d3cac2476f03cfd546ea512740699
