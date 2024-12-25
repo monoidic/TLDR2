@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2024122401 1 1 96a338ea2f8151f363a477e378f00e4f870e87ddb30cefaa3c85eb70624621632715684b360e38dca440de18e9d52325
+.	0	IN	ZONEMD	2024122500 1 1 1124fe220f96a01e56b3d3c35cb46aea60f0da690bb2882708c88dd7e13c5c743abf9527b5aa772b3ebbb81c37ae3671
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5156,12 +5156,9 @@ diy.	0	IN	DS	33264 13 2 24a91796a02821f094f089fb6001bac99b9b0bd2a8b0b89e63231da8
 dj.	0	IN	NS	ns1.djibtelecom.dj.
 dj.	0	IN	NS	ns2.djibtelecom.dj.
 dj.	0	IN	NS	ns3.djibtelecom.dj.
-dj.	0	IN	NS	bow1.intnet.dj.
-dj.	0	IN	NS	vps443605.ovh.net.
 ns1.djibtelecom.dj.	0	IN	A	197.241.17.175
 ns2.djibtelecom.dj.	0	IN	A	196.201.196.54
 ns3.djibtelecom.dj.	0	IN	A	52.213.131.190
-bow1.intnet.dj.	0	IN	A	197.241.17.130
 dk.	0	IN	NS	b.nic.dk.
 dk.	0	IN	NS	c.nic.dk.
 dk.	0	IN	NS	h.nic.dk.
@@ -12103,7 +12100,6 @@ ns1-mq.mediaserv.net.	0	IN	A	213.16.20.3
 server.nordu.net.	0	IN	A	193.10.252.19
 server.nordu.net.	0	IN	AAAA	2001:948:4:2::19
 ns.ntamar.net.	0	IN	A	117.103.88.33
-vps443605.ovh.net.	0	IN	A	37.59.106.21
 bd-ns.anycast.pch.net.	0	IN	A	204.61.216.108
 bd-ns.anycast.pch.net.	0	IN	AAAA	2001:500:14:6108:ad::1
 bn-ns.anycast.pch.net.	0	IN	A	204.61.216.87
