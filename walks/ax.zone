@@ -130,8 +130,8 @@
 333.ax.	0	IN	NS	ns3.netim.net.
 360.ax.	0	IN	NS	elisa.ns.cloudflare.com.
 360.ax.	0	IN	NS	james.ns.cloudflare.com.
-365.ax.	0	IN	NS	ns1.dan.com.
-365.ax.	0	IN	NS	ns2.dan.com.
+365.ax.	0	IN	NS	ns1.dan.hosting.
+365.ax.	0	IN	NS	ns2.dan.hosting.
 37.ax.	0	IN	NS	ns1.xn--sb-lka.org.
 37.ax.	0	IN	NS	ns2.xn--sb-lka.org.
 37.ax.	0	IN	NS	ns13.37.ax.
@@ -598,8 +598,6 @@ alandicabugg.ax.	0	IN	NS	ns1.aland.net.
 alandicabugg.ax.	0	IN	NS	ns2.aland.net.
 alandicabugg.ax.	0	IN	NS	ns3.alcom.fi.
 alandicabugg.ax.	0	IN	NS	ns4.alcom.fi.
-alandicaevents.ax.	0	IN	NS	ns1.consilia.fi.
-alandicaevents.ax.	0	IN	NS	ns2.consilia.fi.
 alandicart.ax.	0	IN	NS	ns1.bluehost.com.
 alandicart.ax.	0	IN	NS	ns2.bluehost.com.
 alandicashippingacademy.ax.	0	IN	NS	ns.regeringen.ax.
@@ -2551,6 +2549,10 @@ covid.ax.	0	IN	NS	ns.regeringen.ax.
 covid.ax.	0	IN	NS	ns2.aland.net.
 covid.ax.	0	IN	NS	ns2.regeringen.ax.
 covid.ax.	0	IN	NS	ns3.alcom.fi.
+covid-19.ax.	0	IN	NS	ns.regeringen.ax.
+covid-19.ax.	0	IN	NS	ns2.aland.net.
+covid-19.ax.	0	IN	NS	ns2.regeringen.ax.
+covid-19.ax.	0	IN	NS	ns3.alcom.fi.
 cox.ax.	0	IN	NS	ns1.istanco.com.
 cox.ax.	0	IN	NS	ns2.istanco.com.
 cp.ax.	0	IN	NS	ns1.gofruits.co.
@@ -3301,8 +3303,6 @@ esc.ax.	0	IN	NS	ns3.euronic.fi.
 esoxaland.ax.	0	IN	NS	ns1.wordpress.com.
 esoxaland.ax.	0	IN	NS	ns2.wordpress.com.
 esoxaland.ax.	0	IN	NS	ns3.wordpress.com.
-esplanadkliniken.ax.	0	IN	NS	ns1.consilia.fi.
-esplanadkliniken.ax.	0	IN	NS	ns2.consilia.fi.
 esportscores.ax.	0	IN	NS	ns1.101domain.com.
 esportscores.ax.	0	IN	NS	ns2.101domain.com.
 esportscores.ax.	0	IN	NS	ns5.101domain.com.
@@ -3959,6 +3959,8 @@ fynda.ax.	0	IN	NS	dns1.p01.nsone.net.
 fynda.ax.	0	IN	NS	dns2.p01.nsone.net.
 fynda.ax.	0	IN	NS	dns3.p01.nsone.net.
 fynda.ax.	0	IN	NS	dns4.p01.nsone.net.
+fyndet.ax.	0	IN	NS	ns1.consilia.fi.
+fyndet.ax.	0	IN	NS	ns2.consilia.fi.
 fysioaland.ax.	0	IN	NS	ns1.siteground.net.
 fysioaland.ax.	0	IN	NS	ns2.siteground.net.
 fysioterapi.ax.	0	IN	NS	ns1.misspark.com.
@@ -4461,8 +4463,6 @@ hammaruddasag.ax.	0	IN	NS	ns1.iwebben.fi.
 hammaruddasag.ax.	0	IN	NS	ns2.iwebben.fi.
 hamnen.ax.	0	IN	NS	june.ns.cloudflare.com.
 hamnen.ax.	0	IN	NS	sean.ns.cloudflare.com.
-hamnsundet.ax.	0	IN	NS	ns1.consilia.fi.
-hamnsundet.ax.	0	IN	NS	ns2.consilia.fi.
 hamsafe.ax.	0	IN	NS	ns1.aland.net.
 hamsafe.ax.	0	IN	NS	ns2.aland.net.
 hamsafe.ax.	0	IN	NS	ns3.alcom.fi.
@@ -6531,8 +6531,6 @@ man.ax.	0	IN	NS	gemma.ns.cloudflare.com.
 man.ax.	0	IN	NS	norman.ns.cloudflare.com.
 mandea.ax.	0	IN	NS	ns0.wixdns.net.
 mandea.ax.	0	IN	NS	ns1.wixdns.net.
-manga.ax.	0	IN	NS	ns1.dan.com.
-manga.ax.	0	IN	NS	ns2.dan.com.
 mani.ax.	0	IN	NS	ns1.linode.com.
 mani.ax.	0	IN	NS	ns2.linode.com.
 mani.ax.	0	IN	NS	ns3.linode.com.
@@ -6685,8 +6683,6 @@ mathis.ax.	0	IN	NS	ns1.consilia.fi.
 mathis.ax.	0	IN	NS	ns2.consilia.fi.
 mathishallen.ax.	0	IN	NS	ns1.consilia.fi.
 mathishallen.ax.	0	IN	NS	ns2.consilia.fi.
-mathispunkten.ax.	0	IN	NS	ns1.consilia.fi.
-mathispunkten.ax.	0	IN	NS	ns2.consilia.fi.
 matrix.ax.	0	IN	NS	ns1.eurodns.com.
 matrix.ax.	0	IN	NS	ns2.eurodns.com.
 matrix.ax.	0	IN	NS	ns3.eurodns.com.
@@ -7178,9 +7174,8 @@ mueller.ax.	0	IN	NS	dns5.cloudns.net.
 mueller.ax.	0	IN	NS	dns6.cloudns.net.
 mugg.ax.	0	IN	NS	ns1.siteground.net.
 mugg.ax.	0	IN	NS	ns2.siteground.net.
-mullin.ax.	0	IN	NS	ns1.netim.net.
-mullin.ax.	0	IN	NS	ns2.netim.net.
-mullin.ax.	0	IN	NS	ns3.netim.net.
+mullin.ax.	0	IN	NS	cleo.ns.cloudflare.com.
+mullin.ax.	0	IN	NS	leanna.ns.cloudflare.com.
 multasormi.ax.	0	IN	NS	ns07.sac-it.dk.
 multasormi.ax.	0	IN	NS	ns08.sac-it.dk.
 multitronic.ax.	0	IN	NS	dns.connect.ax.
@@ -7438,6 +7433,8 @@ no.ax.	0	IN	NS	ns1.gofruits.co.
 no.ax.	0	IN	NS	ns2.gofruits.co.
 noc.ax.	0	IN	NS	ns01.dnsroot.nl.
 noc.ax.	0	IN	NS	ns02.dnsroot.nl.
+nocturne.ax.	0	IN	NS	ns1.consilia.fi.
+nocturne.ax.	0	IN	NS	ns2.consilia.fi.
 node.ax.	0	IN	NS	ns1.ext.node.fi.
 node.ax.	0	IN	NS	ns2.ext.node.fi.
 nof.ax.	0	IN	NS	uma.ns.cloudflare.com.
@@ -8327,8 +8324,6 @@ prbyggnadsmaterial.ax.	0	IN	NS	ns2.intendit.se.
 premont.ax.	0	IN	NS	ns1.justit.ax.
 premont.ax.	0	IN	NS	ns2.justit.ax.
 premont.ax.	0	IN	NS	ns3.justit.ax.
-presentkort.ax.	0	IN	NS	ns1.consilia.fi.
-presentkort.ax.	0	IN	NS	ns2.consilia.fi.
 prettylittlething.ax.	0	IN	NS	ns1.101domain.com.
 prettylittlething.ax.	0	IN	NS	ns2.101domain.com.
 prettylittlething.ax.	0	IN	NS	ns5.101domain.com.
@@ -10147,6 +10142,10 @@ tecon.ax.	0	IN	NS	ns15.wixdns.net.
 tehy.ax.	0	IN	NS	ns1.aland.net.
 tehy.ax.	0	IN	NS	ns2.aland.net.
 tehy.ax.	0	IN	NS	ns3.alcom.fi.
+teknikhjalpen.ax.	0	IN	NS	ns1-04.azure-dns.com.
+teknikhjalpen.ax.	0	IN	NS	ns2-04.azure-dns.net.
+teknikhjalpen.ax.	0	IN	NS	ns3-04.azure-dns.org.
+teknikhjalpen.ax.	0	IN	NS	ns4-04.azure-dns.info.
 teknikpartner.ax.	0	IN	NS	ns1.aland.net.
 teknikpartner.ax.	0	IN	NS	ns2.aland.net.
 teknikpartner.ax.	0	IN	NS	ns3.alcom.fi.
@@ -11519,8 +11518,6 @@ xn--vxthus-bua.ax.	0	IN	NS	ns1.ilait.se.
 xn--vxthus-bua.ax.	0	IN	NS	ns2.ilait.se.
 xn--vxthus-bua.ax.	0	IN	NS	ns3.ilait.se.
 xn--vxthus-bua.ax.	0	IN	NS	ns4.ilait.se.
-xo.ax.	0	IN	NS	ns1.aftermarket.com.
-xo.ax.	0	IN	NS	ns2.aftermarket.com.
 xoom.ax.	0	IN	NS	ns1.markmonitor.com.
 xoom.ax.	0	IN	NS	ns2.markmonitor.com.
 xoom.ax.	0	IN	NS	ns3.markmonitor.com.
