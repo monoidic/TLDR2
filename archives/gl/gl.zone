@@ -34,9 +34,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 07015cfb
 101.gl.	0	IN	NS	ns3.bb-online.info.
 101.gl.	0	IN	NS	ns4.bb-online.biz.
 101.gl.	0	IN	DS	42496 8 2 39d1126de3797e2f19bc71082e0820ee891d73f77efebb8cc0b8a244dbfb08cd
-101domain.gl.	0	IN	NS	ns1.101domain.com.
-101domain.gl.	0	IN	NS	ns2.101domain.com.
-101domain.gl.	0	IN	NS	ns5.101domain.com.
+101domain.gl.	0	IN	NS	dale.ns.cloudflare.com.
+101domain.gl.	0	IN	NS	nelly.ns.cloudflare.com.
 101domains.gl.	0	IN	NS	dale.ns.cloudflare.com.
 101domains.gl.	0	IN	NS	nelly.ns.cloudflare.com.
 10kra.gl.	0	IN	NS	ns1.disabled.ispapi.net.
@@ -6233,10 +6232,6 @@ frontier.gl.	0	IN	NS	a.hosting.gl.
 frontier.gl.	0	IN	NS	b.hosting.gl.
 frontier.gl.	0	IN	NS	c.hosting.gl.
 frontier.gl.	0	IN	NS	d.hosting.gl.
-frontrunner.gl.	0	IN	NS	dns01.dipcon.com.
-frontrunner.gl.	0	IN	NS	dns02.ports.se.
-frontrunner.gl.	0	IN	NS	dns03.ports.se.
-frontrunner.gl.	0	IN	NS	dns04.ports.net.
 frontrunneroutfitters.gl.	0	IN	NS	igor.ns.cloudflare.com.
 frontrunneroutfitters.gl.	0	IN	NS	sofia.ns.cloudflare.com.
 fru.gl.	0	IN	NS	ns1.netim.net.
@@ -17560,8 +17555,11 @@ siumut.gl.	0	IN	NS	d.hosting.gl.
 siunnersuisarfik.gl.	0	IN	NS	ns1.modulo.gl.
 siunnersuisarfik.gl.	0	IN	NS	ns2.modulo.gl.
 siunnersuisarfik.gl.	0	IN	NS	ns3.modulo.gl.
-siutsiu.gl.	0	IN	NS	ns01.one.com.
-siutsiu.gl.	0	IN	NS	ns02.one.com.
+siutsiu.gl.	0	IN	NS	ns1.simply.com.
+siutsiu.gl.	0	IN	NS	ns2.simply.com.
+siutsiu.gl.	0	IN	NS	ns3.simply.com.
+siutsiu.gl.	0	IN	DS	34235 13 2 989a7864c680223108dc55e35746aa51b48cf580b1a3cbf114cccbd63eb37266
+siutsiu.gl.	0	IN	DS	34235 13 4 82582c9e56b57ed6c91868a7629427cee534a2ba2133fb50ee353222d3464c9f8380b56acd94722c5b1dd38c1f2fe185
 sjconsult.gl.	0	IN	NS	ns1.netgiganten.dk.
 sjconsult.gl.	0	IN	NS	ns2.netgiganten.dk.
 sjconsult.gl.	0	IN	DS	24239 8 1 9d18b8f8aeeae2a303dd8a66979df1b1a719c1a2
