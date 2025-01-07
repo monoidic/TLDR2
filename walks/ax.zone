@@ -43,8 +43,8 @@
 112.ax.	0	IN	NS	ns3.alcom.fi.
 12.ax.	0	IN	NS	ns6.netsto.net.
 12.ax.	0	IN	NS	ns7.netsto.net.
-123.ax.	0	IN	NS	ns1.dan.com.
-123.ax.	0	IN	NS	ns2.dan.com.
+123.ax.	0	IN	NS	ns1.dan.hosting.
+123.ax.	0	IN	NS	ns2.dan.hosting.
 123domain.ax.	0	IN	NS	ns1-eu.123ns.eu.
 123domain.ax.	0	IN	NS	ns2-eu.123ns.de.
 123domain.ax.	0	IN	NS	ns3-eu.123ns.eu.
@@ -78,6 +78,9 @@
 19257.ax.	0	IN	NS	ns7.netsto.net.
 1963.ax.	0	IN	NS	ns1.dns.com.
 1963.ax.	0	IN	NS	ns2.dns.com.
+1m.ax.	0	IN	NS	ns1.netim.net.
+1m.ax.	0	IN	NS	ns2.netim.net.
+1m.ax.	0	IN	NS	ns3.netim.net.
 1n.ax.	0	IN	NS	ns1.istanco.com.
 1n.ax.	0	IN	NS	ns2.istanco.com.
 1x.ax.	0	IN	NS	ben.ns.cloudflare.com.
@@ -1725,8 +1728,8 @@ crosskey.ax.	0	IN	NS	ns-141.awsdns-17.com.
 crosskey.ax.	0	IN	NS	ns-823.awsdns-38.net.
 crosskey.ax.	0	IN	NS	ns-1137.awsdns-14.org.
 crosskey.ax.	0	IN	NS	ns-1546.awsdns-01.co.uk.
-crypto.ax.	0	IN	NS	ns1.dan.com.
-crypto.ax.	0	IN	NS	ns2.dan.com.
+crypto.ax.	0	IN	NS	ns1.dan.hosting.
+crypto.ax.	0	IN	NS	ns2.dan.hosting.
 cs.ax.	0	IN	NS	ns1.dreamhost.com.
 cs.ax.	0	IN	NS	ns2.dreamhost.com.
 cs.ax.	0	IN	NS	ns3.dreamhost.com.
@@ -3080,8 +3083,6 @@ godbyapotek.ax.	0	IN	NS	ns2.consilia.fi.
 godbygg.ax.	0	IN	NS	ns1.lumik.se.
 godbygg.ax.	0	IN	NS	ns2.lumik.se.
 godbygg.ax.	0	IN	NS	ns3.lumik.se.
-godbyservice.ax.	0	IN	NS	ns1.consilia.fi.
-godbyservice.ax.	0	IN	NS	ns2.consilia.fi.
 godis.ax.	0	IN	NS	ns1.iwebben.fi.
 godis.ax.	0	IN	NS	ns2.iwebben.fi.
 goertz.ax.	0	IN	NS	a.sec-ns.net.
@@ -3356,10 +3357,6 @@ hagstrom.ax.	0	IN	NS	ns2.euronic.fi.
 hagstrom.ax.	0	IN	NS	ns3.euronic.fi.
 hairbyjulia.ax.	0	IN	NS	ns4.wixdns.net.
 hairbyjulia.ax.	0	IN	NS	ns5.wixdns.net.
-hairskills.ax.	0	IN	NS	ns.regeringen.ax.
-hairskills.ax.	0	IN	NS	ns2.aland.net.
-hairskills.ax.	0	IN	NS	ns2.regeringen.ax.
-hairskills.ax.	0	IN	NS	ns3.alcom.fi.
 hakanlindberg.ax.	0	IN	NS	ns1.consilia.fi.
 hakanlindberg.ax.	0	IN	NS	ns2.consilia.fi.
 halif.ax.	0	IN	NS	ns2.lloydstsb.co.uk.
@@ -3370,6 +3367,8 @@ hallbarlivsstil.ax.	0	IN	NS	ns1.loopiagroup.com.
 hallbarlivsstil.ax.	0	IN	NS	ns2.loopiagroup.com.
 hallbartinitiativ.ax.	0	IN	NS	ns6.wixdns.net.
 hallbartinitiativ.ax.	0	IN	NS	ns7.wixdns.net.
+hallen.ax.	0	IN	NS	ns1.consilia.fi.
+hallen.ax.	0	IN	NS	ns2.consilia.fi.
 halloween.ax.	0	IN	NS	ns1.dreamhost.com.
 halloween.ax.	0	IN	NS	ns2.dreamhost.com.
 halloween.ax.	0	IN	NS	ns3.dreamhost.com.
@@ -4560,6 +4559,9 @@ kfz.ax.	0	IN	NS	ns4.p1.omc.info.
 kgtrading.ax.	0	IN	NS	ns.aname.net.
 kgtrading.ax.	0	IN	NS	ns2.aname.net.
 kgtrading.ax.	0	IN	NS	ns3.aname.se.
+kh.ax.	0	IN	NS	ns1.netim.net.
+kh.ax.	0	IN	NS	ns2.netim.net.
+kh.ax.	0	IN	NS	ns3.netim.net.
 khs.ax.	0	IN	NS	ns1.aland.net.
 khs.ax.	0	IN	NS	ns2.aland.net.
 khs.ax.	0	IN	NS	ns3.alcom.fi.
@@ -5571,8 +5573,6 @@ mathemaland.ax.	0	IN	NS	ns1.dns-parking.com.
 mathemaland.ax.	0	IN	NS	ns2.dns-parking.com.
 mathis.ax.	0	IN	NS	ns1.consilia.fi.
 mathis.ax.	0	IN	NS	ns2.consilia.fi.
-mathishallen.ax.	0	IN	NS	ns1.consilia.fi.
-mathishallen.ax.	0	IN	NS	ns2.consilia.fi.
 mathispunkten.ax.	0	IN	NS	ns1.consilia.fi.
 mathispunkten.ax.	0	IN	NS	ns2.consilia.fi.
 matrix.ax.	0	IN	NS	ns1.eurodns.com.
@@ -9451,9 +9451,6 @@ urb.ax.	0	IN	NS	ns3.creatium.io.
 urb.ax.	0	IN	NS	ns4.creatium.io.
 url.ax.	0	IN	NS	ns1.istanco.com.
 url.ax.	0	IN	NS	ns2.istanco.com.
-us.ax.	0	IN	NS	helium.ns.hetzner.de.
-us.ax.	0	IN	NS	oxygen.ns.hetzner.com.
-us.ax.	0	IN	NS	hydrogen.ns.hetzner.com.
 usa.ax.	0	IN	NS	ns1.sedoparking.com.
 usa.ax.	0	IN	NS	ns2.sedoparking.com.
 user.ax.	0	IN	NS	a.dns.ong.
@@ -9767,8 +9764,6 @@ wb.ax.	0	IN	NS	lloyd.ns.cloudflare.com.
 wb.ax.	0	IN	NS	selah.ns.cloudflare.com.
 wc.ax.	0	IN	NS	a.osphost.fi.
 wc.ax.	0	IN	NS	b.osphost.fi.
-wct.ax.	0	IN	NS	ns1.consilia.fi.
-wct.ax.	0	IN	NS	ns2.consilia.fi.
 wd.ax.	0	IN	NS	helium.ns.hetzner.de.
 wd.ax.	0	IN	NS	oxygen.ns.hetzner.com.
 wd.ax.	0	IN	NS	hydrogen.ns.hetzner.com.
