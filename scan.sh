@@ -78,6 +78,9 @@ walk() {
 	sqlite3 "$db" "UPDATE name SET nsec_walked=TRUE"
 	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
 	scan -zone_walk -num_procs 16
+}
+
+walk_results() {
 	scan -zone_walk_results
 	scan -rr_{ns,ip}
 	scan -net_{ns,ip}
