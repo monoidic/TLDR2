@@ -898,8 +898,10 @@ enterprise.cw.	0	IN	NS	ha1.markmonitor.zone.
 enterprise.cw.	0	IN	NS	ha2.markmonitor.zone.
 enterprise.cw.	0	IN	NS	ha3.markmonitor.zone.
 enterprise.cw.	0	IN	NS	ha4.markmonitor.zone.
-entrpnr.cw.	0	IN	NS	tmp.nscluster.eu.
-entrpnr.cw.	0	IN	NS	tmp.nscluster.us.
+entrpnr.cw.	0	IN	NS	ns.bnamed.eu.
+entrpnr.cw.	0	IN	NS	ns.bnamed.us.
+entrpnr.cw.	0	IN	NS	ns.nscluster.ch.
+entrpnr.cw.	0	IN	NS	ns.nscluster.pl.
 essexfreight.cw.	0	IN	NS	pdns1.registrar-servers.com.
 essexfreight.cw.	0	IN	NS	pdns2.registrar-servers.com.
 eswipe.cw.	0	IN	NS	ns1.vevida.net.
@@ -1209,6 +1211,8 @@ iba.cw.	0	IN	NS	dns2.name-services.com.
 iba.cw.	0	IN	NS	dns3.name-services.com.
 iba.cw.	0	IN	NS	dns4.name-services.com.
 iba.cw.	0	IN	NS	dns5.name-services.com.
+ibb.cw.	0	IN	NS	hgns1.hostgator.com.
+ibb.cw.	0	IN	NS	hgns2.hostgator.com.
 icaf.cw.	0	IN	NS	ns1.eurodns.com.
 icaf.cw.	0	IN	NS	ns2.eurodns.com.
 icaf.cw.	0	IN	NS	ns3.eurodns.com.
@@ -1837,8 +1841,6 @@ risus.cw.	0	IN	NS	alla.ns.cloudflare.com.
 risus.cw.	0	IN	NS	albert.ns.cloudflare.com.
 roadrunnersclubkorsou.cw.	0	IN	NS	ns1.dns-parking.com.
 roadrunnersclubkorsou.cw.	0	IN	NS	ns2.dns-parking.com.
-rraccountingservices.cw.	0	IN	NS	chloe.ns.cloudflare.com.
-rraccountingservices.cw.	0	IN	NS	elliot.ns.cloudflare.com.
 safe.cw.	0	IN	NS	ns207.axc.nl.
 safe.cw.	0	IN	NS	ns208.axc.nl.
 salt.cw.	0	IN	NS	ns1.mediatemple.net.
