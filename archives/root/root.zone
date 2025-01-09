@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	256 3 8 AwEAAc0SunbHdS0KFEyZbYII/+tzsrNzIwurKxmJA+0fhAYlTPA/5LrMGkGEqvvufzM0w/CaVtdm5eWkZYQcsoSKT5bycx0C4jxnLEb3ZiZUQSqu1rWcKGF1fj/GyDWLkOu7a5h3el+gPmglj/4l4V31ugNYfqYq84vCB+3D6Sodrd+85KyonnzWJ8cS7aZ57x0d0sGqsAKA+6tRnIXjVNVe7Ro5xJuz8IR7rOxdzfuRLriN+Z00EL3U5E7s9SISU/hDh7Q7N70W1mLMc1o2+tCRGjEWrw4wmCWMzc1kegbLES/dUOWFvPjJz0+AEeWDhd2GqtXk02BzAhdfeIAEIv68FTs= ;{id = 61050 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025010901 1 1 650ea9ceaeb9b72e161bb60e3caa62415e60ad4fd26055bace3a8d767fb2db399dcb5f8a09ad65f373a7b020117ade1d
+.	0	IN	ZONEMD	2025010902 1 1 d5f1f03cf9780fcb44b8d22e34d12f360824f7138876679e4cfae64eb72ad12c668d74f7bd75149d7ed5f423232db615
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2700,7 +2700,7 @@ dns1.nic.net.bw.	0	IN	A	168.167.98.226
 pch.nic.net.bw.	0	IN	A	204.61.216.70
 pch.nic.net.bw.	0	IN	AAAA	2001:500:14:6070:ad::1
 by.	0	IN	NS	dns1.tld.becloudby.com.
-by.	0	IN	NS	dns2.tld.becloudby.com.
+by.	0	IN	NS	dns2.tld.becloudby.tech.
 by.	0	IN	NS	dns3.tld.becloudby.tech.
 by.	0	IN	NS	dns4.tld.becloudby.tech.
 by.	0	IN	NS	dns7.tld.becloudby.com.
@@ -3484,6 +3484,7 @@ ci.	0	IN	NS	ns.nic.ci.
 ci.	0	IN	NS	any.nic.ci.
 ci.	0	IN	NS	ns-ci.afrinic.net.
 ci.	0	IN	NS	phloem.uoregon.edu.
+ci.	0	IN	DS	37284 13 2 2f58097214bb1938479a8ed69db3e857e0c4a45a6b1d435639d99301814936ec
 ci.	0	IN	DS	60224 8 2 0fb751f1b2230b9ef643ddce8c30acd1e7cc20fa7d52346ca074a32b8f01c686
 any.nic.ci.	0	IN	A	204.61.216.120
 any.nic.ci.	0	IN	AAAA	2001:500:14:6120:ad::1
@@ -3948,8 +3949,6 @@ com.	0	IN	DS	19718 13 2 8acbb0cd28f41250a80a491389424d341522d946b0da0c0291f2d3d7
 ns.amarshallinc.com.	0	IN	A	71.163.249.97
 dns1.tld.becloudby.com.	0	IN	A	93.125.25.72
 dns1.tld.becloudby.com.	0	IN	AAAA	2a00:c827:a:2::2
-dns2.tld.becloudby.com.	0	IN	A	93.125.25.73
-dns2.tld.becloudby.com.	0	IN	AAAA	2a00:c827:a:3::2
 dns7.tld.becloudby.com.	0	IN	A	31.44.5.245
 ns.blacknightsolutions.com.	0	IN	A	81.17.240.204
 ns.blacknightsolutions.com.	0	IN	AAAA	2a01:a8:dc1:33::33
@@ -16959,6 +16958,8 @@ tech.	0	IN	NS	e.nic.tech.
 tech.	0	IN	NS	f.nic.tech.
 tech.	0	IN	DS	28487 8 2 ea62fa86a9c863738597a42d28762b1f75d42f7d77aa6767425de138f8b0e78c
 tech.	0	IN	DS	50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c661686c6ee
+dns2.tld.becloudby.tech.	0	IN	A	93.125.25.73
+dns2.tld.becloudby.tech.	0	IN	AAAA	2a00:c827:a:3::2
 dns3.tld.becloudby.tech.	0	IN	A	185.98.83.4
 dns3.tld.becloudby.tech.	0	IN	AAAA	2a01:ba80:e:c:1::4c
 dns4.tld.becloudby.tech.	0	IN	A	31.44.1.137
@@ -19438,7 +19439,7 @@ xn--90ae.	0	IN	NS	e.nic.bg.
 xn--90ae.	0	IN	NS	p.nic.bg.
 xn--90ae.	0	IN	DS	55126 8 2 0669c2eb01c870dae3ef098917da83562b431531334a531e9814f117557509d7
 xn--90ais.	0	IN	NS	dns1.tld.becloudby.com.
-xn--90ais.	0	IN	NS	dns2.tld.becloudby.com.
+xn--90ais.	0	IN	NS	dns2.tld.becloudby.tech.
 xn--90ais.	0	IN	NS	dns3.tld.becloudby.tech.
 xn--90ais.	0	IN	NS	dns4.tld.becloudby.tech.
 xn--90ais.	0	IN	NS	dns7.tld.becloudby.com.
