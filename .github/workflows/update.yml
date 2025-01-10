@@ -19,7 +19,7 @@ jobs:
       with:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 jq'
-    - run: env GOEXPERIMENT=rangefunc go install github.com/monoidic/dns-tools@latest
+    - run: go install github.com/monoidic/dns-tools@latest
     - run: ./scan.sh prework
     - run: ./scan.sh walkable
     - id: walkable
@@ -42,7 +42,7 @@ jobs:
       with:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install ldnsutils sqlite3'
-    - run: env GOEXPERIMENT=rangefunc go install github.com/monoidic/dns-tools@latest
+    - run: go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v3.0.2
       with:
         name: db
@@ -71,14 +71,16 @@ jobs:
       with:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
-    - run: env GOEXPERIMENT=rangefunc go install github.com/monoidic/dns-tools@latest
+    - run: go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v3.0.2
       with:
           name: db
-    - run: git pull
     - run: ./scan.sh walk ${{matrix.tld}}
-    - run: ./scan.sh walk_results ${{matrix.tld}}
-    - run: git add walks
+    - run: mv walk_lists/${{matrix.tld}}list walk_lists/${{matrix.tld}}list.bak
+    - run: git restore walk_lists/${{matrix.tld}}list || true
+    - run: git pull
+    - run: mv walk_lists/${{matrix.tld}}list.bak walk_lists/${{matrix.tld}}list
+    - run: git add walk_lists
     - run: git diff --cached > ${{matrix.tld}}patch
     - uses: actions/upload-artifact@v3
       with:
@@ -97,7 +99,7 @@ jobs:
         path: artifacts
     - run: git pull
     - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
-    - run: git add walks
+    - run: git add walk_lists
     - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
     - run: git commit -m 'Updating walks' || true
     - run: git push

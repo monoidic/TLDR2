@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bin="~/go/bin/dns-tools"
+bin="~/src/dnstools/dns-tools"
 db="tldr.sqlite3"
 GITHUB_MAX_SIZE=99614720
 scan() {
@@ -78,15 +78,7 @@ walk() {
 	sqlite3 "$db" "UPDATE name SET nsec_walked=TRUE"
 	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
 	scan -zone_walk -num_procs 16
-}
-
-walk_results() {
-	scan -zone_walk_results
-	scan -rr_{ns,ip}
-	scan -net_{ns,ip}
-	scan -rr_{ns,ip}
-	scan -parent_map
-	sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN name AS parent ON zone.parent_id=parent.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE parent.name='${1}'" | sort -u | ldns-read-zone -zsne TXT > "walks/${1}zone"
+	sqlite3 tldr.sqlite3 "SELECT rr_name.name FROM zone_walk_res INNER JOIN rr_type ON zone_walk_res.rr_type_id=rr_type.id INNER JOIN rr_name ON zone_walk_res.rr_name_id=rr_name.id WHERE rr_type.name='NS'" | grep -v "^${1}$" | sort > "walk_lists/${1}list"
 }
 
 md_axfr() {
