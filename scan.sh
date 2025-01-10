@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bin="~/src/dnstools/dns-tools"
+bin="~/go/bin/dns-tools"
 db="tldr.sqlite3"
 GITHUB_MAX_SIZE=99614720
 scan() {
