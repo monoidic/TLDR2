@@ -43,7 +43,7 @@ jobs:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install ldnsutils sqlite3'
     - run: go install github.com/monoidic/dns-tools@latest
-    - uses: actions/download-artifact@v3.0.2
+    - uses: actions/download-artifact@v4
       with:
         name: db
     - run: ./scan.sh axfr
@@ -72,7 +72,7 @@ jobs:
         cache-dependency-path: dns-tools/go.sum
     - run: timeout 120 sudo sh -c 'apt update && apt install sqlite3 ldnsutils'
     - run: go install github.com/monoidic/dns-tools@latest
-    - uses: actions/download-artifact@v3.0.2
+    - uses: actions/download-artifact@v4
       with:
           name: db
     - run: ./scan.sh walk ${{matrix.tld}}
@@ -94,7 +94,7 @@ jobs:
     needs: zone_walk
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/download-artifact@v3.0.2
+    - uses: actions/download-artifact@v4
       with:
         path: artifacts
     - run: git pull
