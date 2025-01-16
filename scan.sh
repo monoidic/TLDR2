@@ -78,7 +78,7 @@ walk() {
 	sqlite3 "$db" "UPDATE name SET nsec_walked=TRUE"
 	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
 	scan -zone_walk -num_procs 16
-	sqlite3 tldr.sqlite3 "SELECT rr_name.name FROM zone_walk_res INNER JOIN rr_type ON zone_walk_res.rr_type_id=rr_type.id INNER JOIN rr_name ON zone_walk_res.rr_name_id=rr_name.id WHERE rr_type.name='NS'" | grep -v "^${1}$" | sort > "walk_lists/${1}list"
+	ldns-read-zone -z <(sqlite3 tldr.sqlite3 "SELECT rr_name.name FROM zone_walk_res INNER JOIN rr_type ON zone_walk_res.rr_type_id=rr_type.id INNER JOIN rr_name ON zone_walk_res.rr_name_id=rr_name.id WHERE rr_type.name='NS'" | grep -v "^${1}$" | sed 's/$/ TXT ""/') | awk '{print $1}' > "walk_lists/${1}list"
 }
 
 md_axfr() {
