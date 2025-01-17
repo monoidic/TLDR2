@@ -3360,8 +3360,9 @@ bluestar.ps.	0	IN	NS	ns1.leg-des.com.
 bluestar.ps.	0	IN	NS	ns2.leg-des.com.
 bluetech.ps.	0	IN	NS	ns1.injazatcloud.ps.
 bluetech.ps.	0	IN	NS	ns2.injazatcloud.ps.
-bluetuli.ps.	0	IN	NS	anycast-eu.dns.sqr.nl.
-bluetuli.ps.	0	IN	NS	unicast-eu.dns.sqr.domains.
+bluetuli.ps.	0	IN	NS	ns1.sqr.nl.
+bluetuli.ps.	0	IN	NS	ns2.sqr.domains.
+bluetuli.ps.	0	IN	NS	ns3.sqr.cloud.
 bmc.ps.	0	IN	NS	ns-376.awsdns-47.com.
 bmc.ps.	0	IN	NS	ns-903.awsdns-48.net.
 bmc.ps.	0	IN	NS	ns-1124.awsdns-12.org.
@@ -4181,9 +4182,8 @@ coinrule.ps.	0	IN	NS	ns2.foresightful.com.
 coins.ps.	0	IN	NS	3-pas.njalla.in.
 coins.ps.	0	IN	NS	1-ceci.njalla.do.
 coins.ps.	0	IN	NS	2-nest.pipe.ma.
-coir.ps.	0	IN	NS	ns1.netim.net.
-coir.ps.	0	IN	NS	ns2.netim.net.
-coir.ps.	0	IN	NS	ns3.netim.net.
+coir.ps.	0	IN	NS	ns1.natrohost.com.
+coir.ps.	0	IN	NS	ns2.natrohost.com.
 coke.ps.	0	IN	NS	ns1-09.azure-dns.com.
 coke.ps.	0	IN	NS	ns2-09.azure-dns.net.
 coke.ps.	0	IN	NS	ns3-09.azure-dns.org.
@@ -10223,6 +10223,8 @@ match.ps.	0	IN	NS	ns1.bluetd.com.
 match.ps.	0	IN	NS	ns2.bluetd.com.
 match.ps.	0	IN	NS	ns3.bluetd.com.
 match.ps.	0	IN	NS	ns4.bluetd.com.
+mateo.ps.	0	IN	NS	greg.ns.cloudflare.com.
+mateo.ps.	0	IN	NS	josephine.ns.cloudflare.com.
 mathar.ps.	0	IN	NS	shane.ns.cloudflare.com.
 mathar.ps.	0	IN	NS	marissa.ns.cloudflare.com.
 matjar.ps.	0	IN	NS	cdns1.hadara.ps.
