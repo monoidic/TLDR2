@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025011701 1 1 74e389079f795b627efebf18ee4981991066a39163076ea7be8755ed6c5bce2850db292e176f8268ca471dc0698d7d1e
+.	0	IN	ZONEMD	2025011702 1 1 6dc9bb6a7a028700d271f0ac73fad1644edf933ca555b03034dc831ebb97b1f58990d1bed4eb398d00db95c0231e6a9d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3102,8 +3102,8 @@ v2n0.nic.casino.	0	IN	A	65.22.23.18
 v2n0.nic.casino.	0	IN	AAAA	2a01:8840:19::18
 v2n1.nic.casino.	0	IN	A	161.232.11.18
 v2n1.nic.casino.	0	IN	AAAA	2a01:8840:f5::18
+cat.	0	IN	NS	cat.ns.nic.es.
 cat.	0	IN	NS	cat.pch.net.
-cat.	0	IN	NS	ns1.nic.es.
 cat.	0	IN	NS	nsc.nic.de.
 cat.	0	IN	NS	anyc1.irondns.net.
 cat.	0	IN	NS	switch.nic.cat.
@@ -5702,8 +5702,8 @@ h.nic.es.	0	IN	A	194.0.33.53
 h.nic.es.	0	IN	AAAA	2001:678:40::53
 ad.ns.nic.es.	0	IN	A	194.69.254.15
 ad.ns.nic.es.	0	IN	AAAA	2001:67c:21cc:2000::64:47
-ns1.nic.es.	0	IN	A	194.69.254.1
-ns1.nic.es.	0	IN	AAAA	2001:67c:21cc:2000::64:41
+cat.ns.nic.es.	0	IN	A	194.69.254.15
+cat.ns.nic.es.	0	IN	AAAA	2001:67c:21cc:2000::64:47
 esq.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 esq.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 esq.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
