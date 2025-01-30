@@ -29,6 +29,7 @@
 * `hosting.`
 * `id.`
 * `ieee.`
+* `kg.`
 * `kz.`
 * `lb.`
 * `li.`
@@ -44,6 +45,7 @@
 * `ruhr.`
 * `se.`
 * `shell.`
+* `sl.`
 * `swatch.`
 * `tn.`
 * `tz.`
