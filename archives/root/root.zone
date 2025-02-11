@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025021101 1 1 2a5c3061a87feb953768c52b930adcab4023390ea70b7aeb4e9314c0e04a28ef357978c2c835373724e1e654ddf77896
+.	0	IN	ZONEMD	2025021102 1 1 52d982352ff79ab292cf4644bf9e2c72f85d4ea6fe12039fb2a14c727a4d8cff9a8879b5a172a6eba394fb4d92c18f36
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8510,7 +8510,6 @@ il.	0	IN	NS	nsb.ns.il.
 il.	0	IN	NS	nse.ns.il.
 il.	0	IN	NS	ilns.ilan.net.il.
 il.	0	IN	NS	lookup.iucc.ac.il.
-il.	0	IN	DS	16654 13 2 8eae70e9a2b930ed77e52c80b924add6925166081c8aabcd7023311d769bcebb
 il.	0	IN	DS	40239 13 2 687a4abeb697c30e24277072e0380161b84a6b0759f4998c32602d464feb0ca8
 lookup.iucc.ac.il.	0	IN	A	128.139.34.240
 lookup.iucc.ac.il.	0	IN	AAAA	2001:bf8:900:6::808b:22f0
@@ -18730,6 +18729,7 @@ weber.	0	IN	NS	ac2.nstld.com.
 weber.	0	IN	NS	ac3.nstld.com.
 weber.	0	IN	NS	ac4.nstld.com.
 weber.	0	IN	DS	32799 8 2 67f60d0f656284c11307fbc8402e280ba0e53d83f601ec4adf2eb54fca93aad9
+weber.	0	IN	DS	55549 8 2 fdd1f975d9e59017788b52570119039ed3d99efb0984cd966702a7af0a1eaee5
 website.	0	IN	NS	a.nic.website.
 website.	0	IN	NS	b.nic.website.
 website.	0	IN	NS	e.nic.website.
