@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025021100 1 1 151587f43e767207897989673cd0f19812ea614a0695d210f3b17f423041c69dd72e11672d2437fd1b1161c73070836f
+.	0	IN	ZONEMD	2025021101 1 1 2a5c3061a87feb953768c52b930adcab4023390ea70b7aeb4e9314c0e04a28ef357978c2c835373724e1e654ddf77896
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3961,22 +3961,6 @@ c.mynic.centralnic-dns.com.	0	IN	A	212.18.248.114
 c.mynic.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ee::114
 d.mynic.centralnic-dns.com.	0	IN	A	212.18.249.114
 d.mynic.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ff::114
-ns1.samsung.centralnic-dns.com.	0	IN	A	194.169.218.112
-ns1.samsung.centralnic-dns.com.	0	IN	AAAA	2001:67c:13cc::1:112
-ns2.samsung.centralnic-dns.com.	0	IN	A	185.24.64.112
-ns2.samsung.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13cc::1:112
-ns3.samsung.centralnic-dns.com.	0	IN	A	212.18.248.112
-ns3.samsung.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ee::112
-ns4.samsung.centralnic-dns.com.	0	IN	A	212.18.249.112
-ns4.samsung.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ff::112
-ns1.xn--cg4bki.centralnic-dns.com.	0	IN	A	194.169.218.113
-ns1.xn--cg4bki.centralnic-dns.com.	0	IN	AAAA	2001:67c:13cc::1:113
-ns2.xn--cg4bki.centralnic-dns.com.	0	IN	A	185.24.64.113
-ns2.xn--cg4bki.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13cc::1:113
-ns3.xn--cg4bki.centralnic-dns.com.	0	IN	A	212.18.248.113
-ns3.xn--cg4bki.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ee::113
-ns4.xn--cg4bki.centralnic-dns.com.	0	IN	A	212.18.249.113
-ns4.xn--cg4bki.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ff::113
 a.xn--q7ce6a.centralnic-dns.com.	0	IN	A	194.169.218.17
 a.xn--q7ce6a.centralnic-dns.com.	0	IN	AAAA	2001:67c:13cc::1:17
 b.xn--q7ce6a.centralnic-dns.com.	0	IN	A	185.24.64.17
@@ -4363,6 +4347,8 @@ cr.	0	IN	NS	ca2.nic.cr.
 cr.	0	IN	NS	dns.nic.cr.
 cr.	0	IN	DS	41813 13 2 be11bce314a4b75bf0531a7ff312c750813b59a61a868407949ca8d35508fbab
 cr.	0	IN	DS	41813 13 4 2c21e3b22825e9949a37d1201ae64370747765d7f68eef304be8ca8f45c59fd1e9fb4ee788b4d507106b8e1b74b1213b
+cr.	0	IN	DS	58628 13 2 774366be4cb919e7a17116beac78e6b2aff1c87cbf0462a17e9b03cede12daae
+cr.	0	IN	DS	58628 13 4 e574f2fc644d92a320775c9c5083166c5a6305652762a62f859405ff64fa61db503221c353d3be30f082e6e65c9e75c4
 ca1.nic.cr.	0	IN	A	185.159.197.100
 ca1.nic.cr.	0	IN	AAAA	2620:10a:80aa::100
 ca2.nic.cr.	0	IN	A	185.159.198.100
@@ -15042,10 +15028,7 @@ y.nic.samsclub.	0	IN	A	156.154.173.82
 y.nic.samsclub.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.samsclub.	0	IN	A	156.154.174.82
 z.nic.samsclub.	0	IN	AAAA	2610:a1:1076::1:82
-samsung.	0	IN	NS	ns1.samsung.centralnic-dns.com.
-samsung.	0	IN	NS	ns2.samsung.centralnic-dns.com.
-samsung.	0	IN	NS	ns3.samsung.centralnic-dns.com.
-samsung.	0	IN	NS	ns4.samsung.centralnic-dns.com.
+samsung.	0	IN	NS	ns1.dns.samsung.
 samsung.	0	IN	NS	n1-a1.aka-ns.net.
 samsung.	0	IN	NS	n1-a4.aka-ns.net.
 samsung.	0	IN	NS	n1-a7.aka-ns.net.
@@ -15053,6 +15036,8 @@ samsung.	0	IN	NS	n1-a13.aka-ns.net.
 samsung.	0	IN	NS	n1-a20.aka-ns.net.
 samsung.	0	IN	NS	n1-a26.aka-ns.net.
 samsung.	0	IN	DS	19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
+ns1.dns.samsung.	0	IN	A	140.238.4.10
+ns1.dns.samsung.	0	IN	AAAA	2603:c022:8004:5d05:ca27:7608:ff55:38fe
 sandvik.	0	IN	NS	a.nic.sandvik.
 sandvik.	0	IN	NS	b.nic.sandvik.
 sandvik.	0	IN	NS	c.nic.sandvik.
@@ -19567,10 +19552,7 @@ dnsc.nic.xn--cckwcxetd.	0	IN	A	156.154.102.3
 dnsc.nic.xn--cckwcxetd.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.xn--cckwcxetd.	0	IN	A	156.154.103.3
 dnsd.nic.xn--cckwcxetd.	0	IN	AAAA	2610:a1:1010::3
-xn--cg4bki.	0	IN	NS	ns1.xn--cg4bki.centralnic-dns.com.
-xn--cg4bki.	0	IN	NS	ns2.xn--cg4bki.centralnic-dns.com.
-xn--cg4bki.	0	IN	NS	ns3.xn--cg4bki.centralnic-dns.com.
-xn--cg4bki.	0	IN	NS	ns4.xn--cg4bki.centralnic-dns.com.
+xn--cg4bki.	0	IN	NS	ns1.dns.samsung.
 xn--cg4bki.	0	IN	NS	n1-a1.aka-ns.net.
 xn--cg4bki.	0	IN	NS	n1-a4.aka-ns.net.
 xn--cg4bki.	0	IN	NS	n1-a7.aka-ns.net.
