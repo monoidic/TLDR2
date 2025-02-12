@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025021201 1 1 44d2a84b17feb451f98e3bbe68974041af755084ac1ffb8388760fd0370ee5a4cacb4f27b0fb837e5b0e8ff4cd927a74
+.	0	IN	ZONEMD	2025021202 1 1 43e3726ca55d2e352c0521fa1031a93455ac93dd74d65d6bd4ece76ef2732c15498f4c99b4a03f6bc5abc2261368bffa
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5432,6 +5432,7 @@ eco.	0	IN	NS	a.ns.nic.eco.
 eco.	0	IN	NS	b.ns.nic.eco.
 eco.	0	IN	NS	c.ns.nic.eco.
 eco.	0	IN	NS	d.ns.nic.eco.
+eco.	0	IN	DS	20969 8 2 d64fde1cc6a5c7a2aef1b29a4fbd00c294129c64506af54a3df182c9e658c66c
 eco.	0	IN	DS	34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 a.ns.nic.eco.	0	IN	A	185.159.197.4
 a.ns.nic.eco.	0	IN	AAAA	2620:10a:80aa::4
@@ -9579,6 +9580,7 @@ kiwi.	0	IN	NS	b.ns.nic.kiwi.
 kiwi.	0	IN	NS	c.ns.nic.kiwi.
 kiwi.	0	IN	NS	d.ns.nic.kiwi.
 kiwi.	0	IN	DS	28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
+kiwi.	0	IN	DS	64594 8 2 653865c0ada0492012931ca7746a7ec815b9e7681e202f4ce73657aa79cfe0e9
 a.ns.nic.kiwi.	0	IN	A	185.159.197.1
 a.ns.nic.kiwi.	0	IN	AAAA	2620:10a:80aa::1
 b.ns.nic.kiwi.	0	IN	A	185.159.198.1
@@ -11684,14 +11686,24 @@ ns3.nic.mtr.	0	IN	A	169.54.247.173
 ns3.nic.mtr.	0	IN	AAAA	2607:f0d0:1b02:b9::4
 ns4.nic.mtr.	0	IN	A	135.90.90.24
 ns4.nic.mtr.	0	IN	AAAA	2401:c900:2101:2a::b
-mu.	0	IN	NS	fork.sth.dnsnode.net.
-mu.	0	IN	NS	udns1.tld.mu.
-mu.	0	IN	NS	udns2.tld.mu.
-mu.	0	IN	NS	anycast1.irondns.net.
-udns1.tld.mu.	0	IN	A	204.61.216.10
-udns1.tld.mu.	0	IN	AAAA	2001:500:14:6010:ad::1
-udns2.tld.mu.	0	IN	A	193.0.9.98
-udns2.tld.mu.	0	IN	AAAA	2001:67c:e0::98
+mu.	0	IN	NS	v0n0.tld.mu.
+mu.	0	IN	NS	v0n1.tld.mu.
+mu.	0	IN	NS	v0n2.tld.mu.
+mu.	0	IN	NS	v0n3.tld.mu.
+mu.	0	IN	NS	v2n0.tld.mu.
+mu.	0	IN	NS	v2n1.tld.mu.
+v0n0.tld.mu.	0	IN	A	199.254.59.33
+v0n0.tld.mu.	0	IN	AAAA	2001:500:25::33
+v0n1.tld.mu.	0	IN	A	199.254.60.33
+v0n1.tld.mu.	0	IN	AAAA	2001:500:26::33
+v0n2.tld.mu.	0	IN	A	199.254.61.33
+v0n2.tld.mu.	0	IN	AAAA	2001:500:27::33
+v0n3.tld.mu.	0	IN	A	199.254.62.33
+v0n3.tld.mu.	0	IN	AAAA	2001:500:28::33
+v2n0.tld.mu.	0	IN	A	199.249.116.33
+v2n0.tld.mu.	0	IN	AAAA	2001:500:44::33
+v2n1.tld.mu.	0	IN	A	199.249.124.33
+v2n1.tld.mu.	0	IN	AAAA	2001:500:4c::33
 museum.	0	IN	NS	d.nic.fr.
 museum.	0	IN	NS	f.ext.nic.fr.
 museum.	0	IN	NS	g.ext.nic.fr.
@@ -11725,6 +11737,7 @@ mx.	0	IN	NS	i.mx-ns.mx.
 mx.	0	IN	NS	m.mx-ns.mx.
 mx.	0	IN	NS	o.mx-ns.mx.
 mx.	0	IN	NS	x.mx-ns.mx.
+mx.	0	IN	DS	12884 8 2 250b2b75df2df867e7b8e362c52ee6e994d8aa0e4f850dd8bb94099daef2461d
 mx.	0	IN	DS	62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 c.mx-ns.mx.	0	IN	A	192.100.224.1
 c.mx-ns.mx.	0	IN	AAAA	2001:1258::1
@@ -12054,8 +12067,6 @@ anyc1.irondns.net.	0	IN	A	195.253.64.4
 anyc1.irondns.net.	0	IN	AAAA	2a01:5b0:4::4
 anyc2.irondns.net.	0	IN	A	195.253.64.7
 anyc2.irondns.net.	0	IN	AAAA	2a01:5b0:4::7
-anycast1.irondns.net.	0	IN	A	195.253.64.5
-anycast1.irondns.net.	0	IN	AAAA	2a01:5b0:4::5
 anycast10.irondns.net.	0	IN	A	195.253.64.12
 anycast10.irondns.net.	0	IN	AAAA	2a01:5b0:4::c
 anycast23.irondns.net.	0	IN	A	195.253.65.11
@@ -17635,6 +17646,7 @@ tube.	0	IN	NS	ns1.dns.nic.tube.
 tube.	0	IN	NS	ns2.dns.nic.tube.
 tube.	0	IN	NS	ns3.dns.nic.tube.
 tube.	0	IN	DS	52096 8 2 03e03aced82968f08ebe79b3d8641a366aeb3a9600b6b29671dce8af94492287
+tube.	0	IN	DS	63079 8 2 f4d6217a7ff5a1e65a2c31fbd8da3305a4efe10562c3ab82d459421c1437b62d
 a.nic.tube.	0	IN	A	37.209.192.10
 a.nic.tube.	0	IN	AAAA	2001:dcd:1::10
 b.nic.tube.	0	IN	A	37.209.194.10
