@@ -2,7 +2,6 @@ cm.	0	IN	A	195.24.205.60
 cm.	0	IN	NS	ns.itu.ch.
 cm.	0	IN	NS	ns1.nic.cm.
 cm.	0	IN	NS	ns2.nic.cm.
-cm.	0	IN	NS	ns3.nic.cm.
 cm.	0	IN	NS	ns-cm.nic.fr.
 cm.	0	IN	NS	ns-cm.afrinic.net.
 cm.	0	IN	NS	auth02.ns.uu.net.
@@ -31909,6 +31908,8 @@ douban.cm.	0	IN	NS	ns1.bodis.com.
 douban.cm.	0	IN	NS	ns2.bodis.com.
 doubao.cm.	0	IN	NS	hope.ns.cloudflare.com.
 doubao.cm.	0	IN	NS	jasper.ns.cloudflare.com.
+doubleclick.cm.	0	IN	NS	dns1.registrar-servers.com.
+doubleclick.cm.	0	IN	NS	dns2.registrar-servers.com.
 doubleglazing.cm.	0	IN	NS	ns1.bb-online.net.
 doubleglazing.cm.	0	IN	NS	ns2.bb-online.org.
 doubleglazing.cm.	0	IN	NS	ns3.bb-online.info.
@@ -38393,10 +38394,6 @@ gorerunningwear.cm.	0	IN	NS	ns5.markmonitor.com.
 goretex.cm.	0	IN	NS	ns1.markmonitor.com.
 goretex.cm.	0	IN	NS	ns3.markmonitor.com.
 goretex.cm.	0	IN	NS	ns5.markmonitor.com.
-gorilla.cm.	0	IN	NS	ns1.iwantmyname.net.
-gorilla.cm.	0	IN	NS	ns2.iwantmyname.net.
-gorilla.cm.	0	IN	NS	ns3.iwantmyname.net.
-gorilla.cm.	0	IN	NS	ns4.iwantmyname.net.
 gorillagames.cm.	0	IN	NS	ns1.instradns.com.
 gorillagames.cm.	0	IN	NS	ns2.instradns.com.
 gorillagames.cm.	0	IN	NS	ns3.instradns.com.
@@ -51339,10 +51336,12 @@ mrbricolage.cm.	0	IN	NS	ns2.safebrands.eu.
 mrbricolage.cm.	0	IN	NS	ns3.safebrands.com.
 mrbricolage.cm.	0	IN	NS	ns4.safebrands.org.
 mrbricolage.cm.	0	IN	NS	ns5.safebrands.tech.
-mrc.cm.	0	IN	NS	ns1.eurodns.com.
-mrc.cm.	0	IN	NS	ns2.eurodns.com.
-mrc.cm.	0	IN	NS	ns3.eurodns.com.
-mrc.cm.	0	IN	NS	ns4.eurodns.com.
+mrc.cm.	0	IN	NS	ns1.mrc.cm.
+mrc.cm.	0	IN	NS	ns2.mrc.cm.
+ns1.mrc.cm.	0	IN	A	74.208.41.133
+ns1.mrc.cm.	0	IN	A	99.83.136.84
+ns2.mrc.cm.	0	IN	A	74.208.41.133
+ns2.mrc.cm.	0	IN	A	75.2.73.197
 mrcooper.cm.	0	IN	NS	ns1.bodis.com.
 mrcooper.cm.	0	IN	NS	ns2.bodis.com.
 mretv.cm.	0	IN	NS	ns1.alidns.com.
@@ -53096,11 +53095,9 @@ niaodada.cm.	0	IN	NS	ns6.netsto.net.
 niaodada.cm.	0	IN	NS	ns7.netsto.net.
 nic.cm.	0	IN	NS	ns1.nic.cm.
 nic.cm.	0	IN	NS	ns2.nic.cm.
-nic.cm.	0	IN	NS	ns3.nic.cm.
 nic.cm.	0	IN	NS	dns1.antic.cm.
 ns1.nic.cm.	0	IN	A	195.24.205.60
 ns2.nic.cm.	0	IN	A	195.24.205.61
-ns3.nic.cm.	0	IN	A	129.0.154.188
 nice.cm.	0	IN	NS	bob.ns.cloudflare.com.
 nice.cm.	0	IN	NS	lorna.ns.cloudflare.com.
 nicetown.cm.	0	IN	NS	ns1.adtraks.com.
