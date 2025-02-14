@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025021400 1 1 7d4291df710a54274ad2596880594d5bfeed84babdb48e928b0371513b3fa0504f8aaf130297fa8fb9c04e498186ef39
+.	0	IN	ZONEMD	2025021401 1 1 d2787aff11866bbce1775d354291a741c279e68fc5e46aef1f373308db9dc129821ee27219a3c73a7f54e589d55a4b90
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -4008,13 +4008,9 @@ ns2.tojikiston.com.	0	IN	A	193.111.11.4
 ns01.trs-dns.com.	0	IN	A	64.96.1.1
 ns01.trs-dns.com.	0	IN	AAAA	2620:57:4001::1
 dns1.u-registry.com.	0	IN	A	51.222.128.197
-a.zdnscloud.com.	0	IN	A	203.99.24.1
-b.zdnscloud.com.	0	IN	A	203.99.25.1
 c.zdnscloud.com.	0	IN	A	203.99.26.1
 d.zdnscloud.com.	0	IN	A	203.99.27.1
-f.zdnscloud.com.	0	IN	A	116.169.54.111
 g.zdnscloud.com.	0	IN	A	223.72.199.37
-i.zdnscloud.com.	0	IN	AAAA	2401:8d00:1::1
 j.zdnscloud.com.	0	IN	AAAA	2401:8d00:2::1
 commbank.	0	IN	NS	a.nic.commbank.
 commbank.	0	IN	NS	b.nic.commbank.
@@ -19688,13 +19684,13 @@ xn--fiq228c5hs.	0	IN	NS	ns2.teleinfoo.com.
 xn--fiq228c5hs.	0	IN	NS	ns3.teleinfo.cn.
 xn--fiq228c5hs.	0	IN	NS	ns4.teleinfoo.com.
 xn--fiq228c5hs.	0	IN	DS	27565 8 2 646412b3004632fd45544ebec09e1a2f27e3dda2489814a170dfb2052ba1787c
-xn--fiq64b.	0	IN	NS	a.zdnscloud.com.
-xn--fiq64b.	0	IN	NS	b.zdnscloud.com.
+xn--fiq64b.	0	IN	NS	a.zdnscloud.cn.
+xn--fiq64b.	0	IN	NS	b.zdnscloud.cn.
 xn--fiq64b.	0	IN	NS	c.zdnscloud.com.
 xn--fiq64b.	0	IN	NS	d.zdnscloud.com.
-xn--fiq64b.	0	IN	NS	f.zdnscloud.com.
+xn--fiq64b.	0	IN	NS	f.zdnscloud.cn.
 xn--fiq64b.	0	IN	NS	g.zdnscloud.com.
-xn--fiq64b.	0	IN	NS	i.zdnscloud.com.
+xn--fiq64b.	0	IN	NS	i.zdnscloud.cn.
 xn--fiq64b.	0	IN	NS	j.zdnscloud.com.
 xn--fiq64b.	0	IN	DS	9361 8 2 68ad16c70c11245f8efbc2798b069d8983ae1b2f3dd5e0fa65a8f386da1b9042
 xn--fiqs8s.	0	IN	NS	h.dns.cn.

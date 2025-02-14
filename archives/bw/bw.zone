@@ -3,6 +3,7 @@ bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 bw.	0	IN	DNSKEY	256 3 13 HrLvNdwc5SazPXcdVS4pVWZtBig7Iedc3xz5ISL2Qy3muzZTa2d65LZmsKMlWEbRPn9m/wPsTW0MHZ8yc03ybw== ;{id = 10241 (zsk), size = 256b}
+bw.	0	IN	DNSKEY	256 3 13 fNAubkDe7HNI5ZaNC2Ybtf3RVI84MjWiXmbLp2ttwfSFjkGaOdUzZUCP2452pI6Tvyoj4XI9JZGMn2rlMERvtA== ;{id = 25315 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 3fb14f0239680d1a 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
@@ -4083,6 +4084,8 @@ bma.co.bw.	0	IN	NS	ns1.bma.co.bw.
 bma.co.bw.	0	IN	NS	ns2.bma.co.bw.
 ns1.bma.co.bw.	0	IN	A	8.8.8.8
 ns2.bma.co.bw.	0	IN	A	8.8.8.8
+bmaattorneys.co.bw.	0	IN	NS	ns1.boxsecured.com.
+bmaattorneys.co.bw.	0	IN	NS	ns2.boxsecured.com.
 bmart.co.bw.	0	IN	NS	vda7900a.trouble-free.net.
 bmart.co.bw.	0	IN	NS	vda7900b.trouble-free.net.
 bmb.co.bw.	0	IN	NS	ns3.botsnet.bw.
@@ -16652,8 +16655,8 @@ malmoacademy.co.bw.	0	IN	NS	ns1.dns-parking.com.
 malmoacademy.co.bw.	0	IN	NS	ns2.dns-parking.com.
 malmoinvestments.co.bw.	0	IN	NS	ns1.dns-parking.com.
 malmoinvestments.co.bw.	0	IN	NS	ns2.dns-parking.com.
-malo.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
-malo.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
+malo.co.bw.	0	IN	NS	dns3.divineconcepts.net.bw.
+malo.co.bw.	0	IN	NS	dns4.divineconcepts.net.bw.
 malome.co.bw.	0	IN	NS	dns1.web-hosting.com.
 malome.co.bw.	0	IN	NS	dns1.namecheaphosting.com.
 malome.co.bw.	0	IN	NS	dns2.namecheaphosting.com.
@@ -31988,8 +31991,8 @@ seralasaditlhopho.org.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
 seralasaditlhopho.org.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
 seralasaditlhopho.org.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
 seralasaditlhopho.org.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
-serowemuseum.org.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
-serowemuseum.org.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
+serowemuseum.org.bw.	0	IN	NS	dns3.divineconcepts.net.bw.
+serowemuseum.org.bw.	0	IN	NS	dns4.divineconcepts.net.bw.
 sesigo.org.bw.	0	IN	NS	ns1uul.vbnservices.net.
 sesigo.org.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 shc.org.bw.	0	IN	NS	ns6465.hostgator.com.
