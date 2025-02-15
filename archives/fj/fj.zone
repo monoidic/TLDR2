@@ -3,7 +3,7 @@ fj.	0	IN	NS	ns2.fj.
 fj.	0	IN	NS	ns3.fj.
 fj.	0	IN	NS	ns4.fj.
 fj.	0	IN	NS	ns5.fj.
-fj.	0	IN	DNSKEY	256 3 8 AwEAAdr/z0GoQpnCqJ71UzsBkRu4bH5lgAmBUzGhheZzhq7y2PNf8I5LlDwkSev97SkLIioZPR5XIiLCBjl1AAE3fivfXVIrJrfqMN1vqmxBEmgNuibuC2WMGCNuW9QLdKHoMuG084yRvu1agnDQ9T4wcQ1Wbg7Zwfpc29ZNXzo6flBH0opt+ySOY35Yi9RnHT5LVhC8TmKKJkGKHFyK6HsbyRDSsKZc6EPj+K8ULx8YLQjBhUJ9/1Qk1WTnBFGZ/zfduqbyUoPj36rCzpqugSQl+cH39tpcvU6JvD6r8TwsYt7rM2y1iaFnTOCOmIP7XylbUcOssQdpfjRgzJeHg6YPm68= ;{id = 17100 (zsk), size = 2048b}
+fj.	0	IN	DNSKEY	256 3 8 AwEAAalRo5RAOHNHqgVgDeWQDLhpMR8ka34T/jXrZxDe6E/4aOnjDWlhe3wmwH7S0be3/mlLGah2j6dGfWvMzFx5damGYC32dzvp5vIOnOMpocVKWWbQCWwvWv+6/wh8bc9Riy0P6PueptxJ3yZlam5cHzREsmGIb/Pp/CychwoDQOXDD1FHFB8eNjdfLowC4JNLPW0xPwG+PSLM2F0FlSR0hBdHDTMHm8G5bdSwa/NvKju96K5uWpqlocdlHw7IYEt8THKnbVz1wlJ5Ti4+2X3oiQgo89od64Lma28UYCEepQqAT5BRk7qcoxu83lfVI8ya6bSDi5XdFtJJ9W73RxMDTmM= ;{id = 2604 (zsk), size = 2048b}
 fj.	0	IN	DNSKEY	257 3 8 AwEAAd5+bZuFhphp9ajeKLHuED5eIa/5iMhjWJB59zlVl+aJItwdmyTXoKxz0MK0+cSinHK2ktA3kNS+yy0JmJ/m7ioKSVo9K9JLpmcq/JGJbnVQb5f/xGgZ5r0cU6DdcV2ntQyNtzuEnDFXsrAFfR8grDc+H/rliiYXe2evUM00XQ3YvDkDGdakQ9FcDwjpXEZ0TmI40MId8ha4MWdGo3gZFcqCH5nciEEQpeq+Gi+eVT48Y9YTtt4CFnrORkGN6k0Ii2bcaLnRUB0qSJFdAnhm5A7HDOO9xMrXzfBZ40SZmiTrTax8pKUw59ar1UgUF/1bf+fzoZ2QCVqmU+r8YZgc0TE= ;{id = 49279 (ksk), size = 2048b}
 fj.	0	IN	NSEC3PARAM	1 0 5 0e12c2bdfdfa4f06 
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
@@ -172,8 +172,6 @@ vodaphone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 679.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 6thsense.com.fj.	0	IN	NS	drua.tfl.com.fj.
 6thsense.com.fj.	0	IN	NS	tabua.tfl.com.fj.
-777realtors.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-777realtors.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 9miles.com.fj.	0	IN	NS	manu.usp.ac.fj.
 9miles.com.fj.	0	IN	NS	teri.usp.ac.fj.
 aa.com.fj.	0	IN	NS	dns1.cscdns.net.
@@ -1631,6 +1629,8 @@ ecoknit.com.fj.	0	IN	NS	marty.ns.cloudflare.com.
 ecoknit.com.fj.	0	IN	NS	anastasia.ns.cloudflare.com.
 ecotrax.com.fj.	0	IN	NS	ns1.onlydomains.com.
 ecotrax.com.fj.	0	IN	NS	ns2.onlydomains.com.
+edenconstruction.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+edenconstruction.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 edet.com.fj.	0	IN	NS	melkor.sgn.sca.se.
 edet.com.fj.	0	IN	NS	melkor.ngninfra.net.
 edet.com.fj.	0	IN	NS	tilion.sgn.sca.se.
@@ -1720,6 +1720,8 @@ epcf.com.fj.	0	IN	NS	drua.tfl.com.fj.
 epcf.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 ephs.com.fj.	0	IN	NS	drua.tfl.com.fj.
 ephs.com.fj.	0	IN	NS	tabua.tfl.com.fj.
+epicevents.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+epicevents.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 epmgroup.com.fj.	0	IN	NS	ns45.domaincontrol.com.
 epmgroup.com.fj.	0	IN	NS	ns46.domaincontrol.com.
 eps.com.fj.	0	IN	NS	ns1.voodoofiji.com.
