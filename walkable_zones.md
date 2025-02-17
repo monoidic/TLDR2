@@ -15,6 +15,7 @@
 * `ch.`
 * `christmas.`
 * `ci.`
+* `cologne.`
 * `cw.`
 * `desi.`
 * `diet.`
@@ -30,6 +31,7 @@
 * `id.`
 * `ieee.`
 * `kg.`
+* `koeln.`
 * `kz.`
 * `lb.`
 * `li.`
