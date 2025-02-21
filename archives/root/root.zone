@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025022101 1 1 5ac4182aa57f5aa584c6bb313e69189fc5a10f2dabf110a2ebe54debc436cb4052bb30d2b3a47733e23b0d5d566cc09e
+.	0	IN	ZONEMD	2025022102 1 1 9995f4a34f1e7d386b81bc88bc2c7c01ed0a38eb38f8410df6f9ea4069cc10aeab5baf373680d841bf6459fd2fec4d29
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -407,6 +407,7 @@ z.nic.afl.	0	IN	AAAA	2610:a1:1076::1:82
 africa.	0	IN	NS	nsp.netnod.se.
 africa.	0	IN	NS	coza1.dnsnode.net.
 africa.	0	IN	DS	44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
+africa.	0	IN	DS	51115 8 2 53248d4d36757a31135688efa42c2c307591a7989523e6cd9cc2441414349481
 ans.dnsstudy.africa.	0	IN	A	192.96.24.69
 ag.	0	IN	NS	a0.cctld.afilias-nst.info.
 ag.	0	IN	NS	a2.cctld.afilias-nst.info.
@@ -2879,6 +2880,7 @@ canon.	0	IN	NS	l.gmoregistry.net.
 canon.	0	IN	DS	5225 8 2 9a1fc16a90acf3c7d3233480f45f595debdef3f71ae637bf3f8093670dda7d8a
 capetown.	0	IN	NS	nsp.netnod.se.
 capetown.	0	IN	NS	coza1.dnsnode.net.
+capetown.	0	IN	DS	6749 8 2 3b828190e412d1780fd97c538547f6698f1db01570ffae56efb91f4e4735e6a6
 capetown.	0	IN	DS	58120 8 2 0d66710dd001e9120a86952cebb8c21aedd72d5e2ca46f0a40266529e7133107
 capital.	0	IN	NS	v0n0.nic.capital.
 capital.	0	IN	NS	v0n1.nic.capital.
@@ -5343,6 +5345,7 @@ ns6.dns.nic.dupont.	0	IN	AAAA	2610:a1:1076::34
 durban.	0	IN	NS	nsp.netnod.se.
 durban.	0	IN	NS	coza1.dnsnode.net.
 durban.	0	IN	DS	48265 8 2 57603308e8a6d14065f069a08c050cde3ad0c769dd2bece4da5fcc9456bafb32
+durban.	0	IN	DS	62936 8 2 12f972c27bf0e22f2c4740bf8a4769d7113ed0beff1cf79c070af070203f81a1
 dvag.	0	IN	NS	a.nic.dvag.
 dvag.	0	IN	NS	b.nic.dvag.
 dvag.	0	IN	NS	c.nic.dvag.
@@ -9253,6 +9256,7 @@ dnsd.nic.jobs.	0	IN	A	156.154.103.3
 dnsd.nic.jobs.	0	IN	AAAA	2610:a1:1010::3
 joburg.	0	IN	NS	nsp.netnod.se.
 joburg.	0	IN	NS	coza1.dnsnode.net.
+joburg.	0	IN	DS	2855 8 2 d027f109b59baeb30bc000dc1f2d34b57d9ba404923f899bb07e4badd0dc2136
 joburg.	0	IN	DS	65032 8 2 4abf29a076fc19ac89283bed93457b56d2b0c8ad90dc24d70f70988a7d8bb574
 jot.	0	IN	NS	dns1.nic.jot.
 jot.	0	IN	NS	dns2.nic.jot.
@@ -10321,8 +10325,8 @@ living.	0	IN	NS	ns01.trs-dns.net.
 living.	0	IN	NS	ns01.trs-dns.org.
 living.	0	IN	NS	ns01.trs-dns.info.
 living.	0	IN	DS	5373 13 2 8aefbb2d3a5149b5d4a165973063d733d3d18505bf6ffeeb3d319c6ac0f45a94
-lk.	0	IN	NS	c.nic.lk.
 lk.	0	IN	NS	d.nic.lk.
+lk.	0	IN	NS	h.nic.lk.
 lk.	0	IN	NS	m.nic.lk.
 lk.	0	IN	NS	p.nic.lk.
 lk.	0	IN	NS	t.nic.lk.
@@ -10334,10 +10338,10 @@ lk.	0	IN	DS	181 5 2 87516d56b697cb3f7a7c3eb594ee0e16ae509d16a503089f4fbd4f347b33
 ns1.ac.lk.	0	IN	A	192.248.1.162
 ns1.ac.lk.	0	IN	AAAA	2401:dd00:1::162
 ns3.ac.lk.	0	IN	A	202.124.166.178
-c.nic.lk.	0	IN	A	203.143.29.3
-c.nic.lk.	0	IN	AAAA	2405:5400:3:1:203:143:29:3
 d.nic.lk.	0	IN	A	123.231.6.18
 d.nic.lk.	0	IN	AAAA	2402:4000:479:c5::a
+h.nic.lk.	0	IN	A	43.252.12.206
+h.nic.lk.	0	IN	AAAA	2404:8a00:0:a00::4005
 m.nic.lk.	0	IN	A	202.129.235.229
 m.nic.lk.	0	IN	AAAA	2407:c00:21:8:202:129:235:229
 ns-c.nic.lk.	0	IN	A	203.143.19.3
@@ -11732,7 +11736,6 @@ mx.	0	IN	NS	m.mx-ns.mx.
 mx.	0	IN	NS	o.mx-ns.mx.
 mx.	0	IN	NS	x.mx-ns.mx.
 mx.	0	IN	DS	12884 8 2 250b2b75df2df867e7b8e362c52ee6e994d8aa0e4f850dd8bb94099daef2461d
-mx.	0	IN	DS	62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 c.mx-ns.mx.	0	IN	A	192.100.224.1
 c.mx-ns.mx.	0	IN	AAAA	2001:1258::1
 e.mx-ns.mx.	0	IN	A	189.201.244.1
