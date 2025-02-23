@@ -2230,6 +2230,8 @@ arrow.ps.	0	IN	NS	pdns77.ultradns.biz.
 arrow.ps.	0	IN	NS	pdns77.ultradns.com.
 arrow.ps.	0	IN	NS	pdns77.ultradns.net.
 arrow.ps.	0	IN	NS	pdns77.ultradns.org.
+arseema.ps.	0	IN	NS	ns1.servconfig.com.
+arseema.ps.	0	IN	NS	ns2.servconfig.com.
 arta-news.ps.	0	IN	NS	alan.ns.cloudflare.com.
 arta-news.ps.	0	IN	NS	ingrid.ns.cloudflare.com.
 artacademy.ps.	0	IN	NS	ns1.simplenet.ro.
@@ -5092,8 +5094,6 @@ doublem.ps.	0	IN	NS	cdns1.hadara.ps.
 doublem.ps.	0	IN	NS	cdns2.hadara.ps.
 doulab.ps.	0	IN	NS	ns1-cat.dl-cms.com.
 doulab.ps.	0	IN	NS	ns2-cat.dl-cms.com.
-down.ps.	0	IN	NS	ns1.pal2host.net.
-down.ps.	0	IN	NS	ns2.pal2host.net.
 dr.ps.	0	IN	NS	ns1.supercode.ps.
 dr.ps.	0	IN	NS	ns2.supercode.ps.
 dr-tahreeralsheikh.ps.	0	IN	NS	donna.ns.cloudflare.com.
@@ -6944,8 +6944,6 @@ goldengatetours.ps.	0	IN	NS	ns1.injazatcloud.ps.
 goldengatetours.ps.	0	IN	NS	ns2.injazatcloud.ps.
 goldenkitchen.ps.	0	IN	NS	ns1.injazatcloud.ps.
 goldenkitchen.ps.	0	IN	NS	ns2.injazatcloud.ps.
-goldenmall.ps.	0	IN	NS	boyd.ns.cloudflare.com.
-goldenmall.ps.	0	IN	NS	veda.ns.cloudflare.com.
 goldenoldcity.ps.	0	IN	NS	ns8291.hostgator.com.
 goldenoldcity.ps.	0	IN	NS	ns8292.hostgator.com.
 goldenratio.ps.	0	IN	NS	cdns1.hadara.ps.
@@ -7009,9 +7007,11 @@ gotech.ps.	0	IN	NS	norm.ns.cloudflare.com.
 goto.ps.	0	IN	NS	ns1.instradns.com.
 goto.ps.	0	IN	NS	ns2.instradns.com.
 gov.ps.	0	IN	NS	ns1.pal-gov.net.
+gov.ps.	0	IN	NS	dns1.gov.ps.
 gov.ps.	0	IN	NS	dns3.gov.ps.
 gov.ps.	0	IN	NS	dns4.pna.ps.
 gov.ps.	0	IN	NS	dns5.gov.ps.
+dns1.gov.ps.	0	IN	A	213.244.86.68
 dns3.gov.ps.	0	IN	A	185.153.163.3
 dns5.gov.ps.	0	IN	A	185.153.160.5
 govt.ps.	0	IN	NS	ns1.gov.ps.
@@ -7739,6 +7739,8 @@ honda.ps.	0	IN	NS	a.ns14.net.
 honda.ps.	0	IN	NS	b.ns14.net.
 honda.ps.	0	IN	NS	c.ns14.net.
 honda.ps.	0	IN	NS	d.ns14.net.
+honey.ps.	0	IN	NS	ns1.dns-parking.com.
+honey.ps.	0	IN	NS	ns2.dns-parking.com.
 hoo.ps.	0	IN	NS	ns-10-c.gandi.net.
 hoo.ps.	0	IN	NS	ns-161-b.gandi.net.
 hoo.ps.	0	IN	NS	ns-200-a.gandi.net.
@@ -11920,10 +11922,6 @@ nrc.ps.	0	IN	NS	ns-389.awsdns-48.com.
 nrc.ps.	0	IN	NS	ns-579.awsdns-08.net.
 nrc.ps.	0	IN	NS	ns-1217.awsdns-24.org.
 nrc.ps.	0	IN	NS	ns-1838.awsdns-37.co.uk.
-nrjs.ps.	0	IN	NS	ns1.bluetd.com.
-nrjs.ps.	0	IN	NS	ns2.bluetd.com.
-nrjs.ps.	0	IN	NS	ns3.bluetd.com.
-nrjs.ps.	0	IN	NS	ns4.bluetd.com.
 ns.ps.	0	IN	NS	ns1.topteamdns.com.
 ns.ps.	0	IN	NS	ns2.topteamdns.com.
 nsb.ps.	0	IN	NS	ns1.injazatcloud.ps.
@@ -13936,7 +13934,10 @@ psge.ps.	0	IN	NS	ns2-04.azure-dns.net.
 psge.ps.	0	IN	NS	ns3-04.azure-dns.org.
 psge.ps.	0	IN	NS	ns4-04.azure-dns.info.
 psgov.ps.	0	IN	NS	ns1.gov.ps.
-psgov.ps.	0	IN	NS	dns1.gov.ps.
+psgov.ps.	0	IN	NS	ns1.psgov.ps.
+psgov.ps.	0	IN	NS	ns2.psgov.ps.
+ns1.psgov.ps.	0	IN	A	45.10.162.181
+ns2.psgov.ps.	0	IN	A	213.244.86.68
 psh.ps.	0	IN	NS	hosting01.mada.ps.
 psh.ps.	0	IN	NS	hosting02.mada.ps.
 pshla.ps.	0	IN	NS	ns1.high-five.co.
@@ -15011,6 +15012,8 @@ sahem.ps.	0	IN	NS	ns1.bluehost.com.
 sahem.ps.	0	IN	NS	ns2.bluehost.com.
 sahem-inv.ps.	0	IN	NS	ns1.bluehost.com.
 sahem-inv.ps.	0	IN	NS	mail.sahem-inv.com.
+sahome.ps.	0	IN	NS	ns1-lion.dl-cms.com.
+sahome.ps.	0	IN	NS	ns2-lion.dl-cms.com.
 sahtain.ps.	0	IN	NS	mg-ns-a.massar.com.
 sahtain.ps.	0	IN	NS	mg-ns-b.massar.com.
 sahtain.ps.	0	IN	NS	mg-ns-d.massar.com.
@@ -17395,8 +17398,6 @@ trifitness.ps.	0	IN	NS	ns2.i-net.ps.
 trifitness.ps.	0	IN	NS	ns3.inetfax.ps.
 trillionz.ps.	0	IN	NS	ns1.provision-servers.com.
 trillionz.ps.	0	IN	NS	ns2.provision-servers.com.
-trio.ps.	0	IN	NS	terry.ns.cloudflare.com.
-trio.ps.	0	IN	NS	tricia.ns.cloudflare.com.
 triotech.ps.	0	IN	NS	nsp10.mada.ps.
 triotech.ps.	0	IN	NS	nss10.mada.ps.
 trip.ps.	0	IN	NS	ns0.transip.net.
@@ -17811,8 +17812,8 @@ usergrou.ps.	0	IN	NS	ns9.ns14.de.
 usergrou.ps.	0	IN	NS	ns10.ns14.de.
 usm-pal.ps.	0	IN	NS	lady.ns.cloudflare.com.
 usm-pal.ps.	0	IN	NS	wesley.ns.cloudflare.com.
-ustore.ps.	0	IN	NS	ns1.injazatcloud.ps.
-ustore.ps.	0	IN	NS	ns2.injazatcloud.ps.
+ustore.ps.	0	IN	NS	ns1.mysecurecloudhost.com.
+ustore.ps.	0	IN	NS	ns2.mysecurecloudhost.com.
 utech.ps.	0	IN	NS	ns1.injazatcloud.ps.
 utech.ps.	0	IN	NS	ns2.injazatcloud.ps.
 utopia.ps.	0	IN	NS	ns1.designsflex.com.
