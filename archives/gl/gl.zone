@@ -66,6 +66,8 @@ gl.	0	IN	NSEC3PARAM	1 0 0 103a7aba
 14kra.gl.	0	IN	NS	ns1.disabled.ispapi.net.
 14kra.gl.	0	IN	NS	ns2.disabled.ispapi.net.
 14kra.gl.	0	IN	NS	ns3.disabled.ispapi.net.
+15.gl.	0	IN	NS	ns1.netsto.net.
+15.gl.	0	IN	NS	ns2.netsto.net.
 1508.gl.	0	IN	NS	ns01.one.com.
 1508.gl.	0	IN	NS	ns02.one.com.
 15271.gl.	0	IN	NS	a.dnspod.com.
@@ -3913,8 +3915,6 @@ computer.gl.	0	IN	NS	ns.checkdomain.de.
 computer.gl.	0	IN	NS	ns2.checkdomain.de.
 computerfit.gl.	0	IN	NS	ns1.jimdo.com.
 computerfit.gl.	0	IN	NS	ns2.jimdo.com.
-con.gl.	0	IN	NS	ns1.onlycpanel.com.
-con.gl.	0	IN	NS	ns2.onlycpanel.com.
 conference.gl.	0	IN	NS	ns1.hosting.inuit.gl.
 conference.gl.	0	IN	NS	ns2.hosting.inuit.gl.
 conico.gl.	0	IN	NS	ns1.netim.net.
@@ -6087,8 +6087,8 @@ forlaget-atuagkat.gl.	0	IN	NS	ns2.dandomain.dk.
 forlaget-atuagkat.gl.	0	IN	NS	ns3.dandomain.dk.
 form.gl.	0	IN	NS	170.ns1.abovedomains.com.
 form.gl.	0	IN	NS	170.ns2.abovedomains.com.
-forms.gl.	0	IN	NS	170.ns1.above.com.
-forms.gl.	0	IN	NS	170.ns2.above.com.
+forms.gl.	0	IN	NS	170.ns1.abovedomains.com.
+forms.gl.	0	IN	NS	170.ns2.abovedomains.com.
 foronuclear.gl.	0	IN	NS	ns.dinahosting.com.
 foronuclear.gl.	0	IN	NS	ns2.dinahosting.com.
 foronuclear.gl.	0	IN	NS	ns3.dinahosting.com.
@@ -6802,8 +6802,8 @@ gog.gl.	0	IN	NS	ns2.bodis.com.
 gogreenland.gl.	0	IN	NS	ns1.modulo.gl.
 gogreenland.gl.	0	IN	NS	ns2.modulo.gl.
 gogreenland.gl.	0	IN	NS	ns3.modulo.gl.
-goi.gl.	0	IN	NS	170.ns1.above.com.
-goi.gl.	0	IN	NS	170.ns2.above.com.
+goi.gl.	0	IN	NS	170.ns1.abovedomains.com.
+goi.gl.	0	IN	NS	170.ns2.abovedomains.com.
 goiardi.gl.	0	IN	NS	ns-313.awsdns-39.com.
 goiardi.gl.	0	IN	NS	ns-949.awsdns-54.net.
 goiardi.gl.	0	IN	NS	ns-1247.awsdns-27.org.
@@ -6906,8 +6906,8 @@ gp.gl.	0	IN	NS	dns43.cloudns.net.
 gp.gl.	0	IN	NS	dns44.cloudns.net.
 gpb.gl.	0	IN	NS	ns2.gazprombank.ru.
 gpb.gl.	0	IN	NS	ns3.gazprombank.ru.
-gpp.gl.	0	IN	NS	170.ns1.above.com.
-gpp.gl.	0	IN	NS	170.ns2.above.com.
+gpp.gl.	0	IN	NS	170.ns1.abovedomains.com.
+gpp.gl.	0	IN	NS	170.ns2.abovedomains.com.
 gps.gl.	0	IN	NS	ns1.101domain.com.
 gps.gl.	0	IN	NS	ns2.101domain.com.
 gpt.gl.	0	IN	NS	holding-ns1.paomi.com.
@@ -7378,9 +7378,6 @@ gunshop.gl.	0	IN	NS	d.hosting.gl.
 gur.gl.	0	IN	NS	ns1.netim.net.
 gur.gl.	0	IN	NS	ns2.netim.net.
 gur.gl.	0	IN	NS	ns3.netim.net.
-gustavlundstrom.gl.	0	IN	NS	ns1.netim.net.
-gustavlundstrom.gl.	0	IN	NS	ns2.netim.net.
-gustavlundstrom.gl.	0	IN	NS	ns3.netim.net.
 gux.gl.	0	IN	NS	ns1.gigahost.dk.
 gux.gl.	0	IN	NS	ns2.gigahost.dk.
 gux.gl.	0	IN	NS	ns3.gigahost.dk.
@@ -14981,8 +14978,6 @@ pegasus.gl.	0	IN	NS	ns02.one.com.
 pen.gl.	0	IN	NS	jakub.ns.cloudflare.com.
 pen.gl.	0	IN	NS	destiny.ns.cloudflare.com.
 pen.gl.	0	IN	DS	2371 13 2 83500d515182c3ed444ed9754981991313618c6e8d8774a4acf8a51aed653e38
-pendle.gl.	0	IN	NS	ns1.managedns1.com.
-pendle.gl.	0	IN	NS	ns2.managedns1.com.
 penny.gl.	0	IN	NS	ns-cloud-c1.googledomains.com.
 penny.gl.	0	IN	NS	ns-cloud-c2.googledomains.com.
 penny.gl.	0	IN	NS	ns-cloud-c3.googledomains.com.
@@ -17577,8 +17572,6 @@ socialstyrelsen.gl.	0	IN	NS	ns3.modulo.gl.
 socialstyrelsennanoq.gl.	0	IN	NS	ns1.modulo.gl.
 socialstyrelsennanoq.gl.	0	IN	NS	ns2.modulo.gl.
 socialstyrelsennanoq.gl.	0	IN	NS	ns3.modulo.gl.
-socket.gl.	0	IN	NS	ns1.managedns1.com.
-socket.gl.	0	IN	NS	ns2.managedns1.com.
 soemandshjem.gl.	0	IN	NS	ns1.solutio.dk.
 soemandshjem.gl.	0	IN	NS	ns2.solutio.dk.
 soemandshjem.gl.	0	IN	NS	ns3.solutio.dk.
