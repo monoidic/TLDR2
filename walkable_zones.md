@@ -15,6 +15,7 @@
 * `ch.`
 * `christmas.`
 * `ci.`
+* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -37,10 +38,8 @@
 * `lr.`
 * `mc.`
 * `mom.`
-* `nu.`
 * `omega.`
 * `pics.`
-* `pr.`
 * `ruhr.`
 * `se.`
 * `shell.`
