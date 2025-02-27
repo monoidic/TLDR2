@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025022702 1 1 14785215ffc3306720f93a1a8b0a6d66036f371e30dcd6c574bdc348bccfa6f4954b3e96728b8c2eca516cdb82ec762a
+.	0	IN	ZONEMD	2025022703 1 1 b305abf406dc43ecf50f831871a8c1a3cdda12dca175d8480bb55b8aedc82df2af5942c874f2927ff9a718ac0904e5f0
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9433,19 +9433,6 @@ b0.nic.kerryhotels.	0	IN	A	65.22.113.53
 b0.nic.kerryhotels.	0	IN	AAAA	2a01:8840:6f::53
 c0.nic.kerryhotels.	0	IN	A	65.22.114.53
 c0.nic.kerryhotels.	0	IN	AAAA	2a01:8840:70::53
-kerrylogistics.	0	IN	NS	a0.nic.kerrylogistics.
-kerrylogistics.	0	IN	NS	a2.nic.kerrylogistics.
-kerrylogistics.	0	IN	NS	b0.nic.kerrylogistics.
-kerrylogistics.	0	IN	NS	c0.nic.kerrylogistics.
-kerrylogistics.	0	IN	DS	3604 8 2 2ae824f545e34c607a660d6eedbd7d2938ee47bcbcc39cf3d269370c533bba51
-a0.nic.kerrylogistics.	0	IN	A	65.22.112.54
-a0.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:6e::54
-a2.nic.kerrylogistics.	0	IN	A	65.22.115.54
-a2.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:71::54
-b0.nic.kerrylogistics.	0	IN	A	65.22.113.54
-b0.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:6f::54
-c0.nic.kerrylogistics.	0	IN	A	65.22.114.54
-c0.nic.kerrylogistics.	0	IN	AAAA	2a01:8840:70::54
 kerryproperties.	0	IN	NS	a0.nic.kerryproperties.
 kerryproperties.	0	IN	NS	a2.nic.kerryproperties.
 kerryproperties.	0	IN	NS	b0.nic.kerryproperties.
@@ -10287,19 +10274,6 @@ link.	0	IN	NS	ns01.trs-dns.net.
 link.	0	IN	NS	ns01.trs-dns.org.
 link.	0	IN	NS	ns01.trs-dns.info.
 link.	0	IN	DS	16766 13 2 40f1045035d7ba48d27a66442b2c71ca159d219756d3ad4d35cf1e80419228b5
-lipsy.	0	IN	NS	a0.nic.lipsy.
-lipsy.	0	IN	NS	a2.nic.lipsy.
-lipsy.	0	IN	NS	b0.nic.lipsy.
-lipsy.	0	IN	NS	c0.nic.lipsy.
-lipsy.	0	IN	DS	14890 8 2 af1fcd22dc45f40ee44921a2cdb562f28f3412b8e9fd8648dd393282c29dd449
-a0.nic.lipsy.	0	IN	A	65.22.112.59
-a0.nic.lipsy.	0	IN	AAAA	2a01:8840:6e::59
-a2.nic.lipsy.	0	IN	A	65.22.115.59
-a2.nic.lipsy.	0	IN	AAAA	2a01:8840:71::59
-b0.nic.lipsy.	0	IN	A	65.22.113.59
-b0.nic.lipsy.	0	IN	AAAA	2a01:8840:6f::59
-c0.nic.lipsy.	0	IN	A	65.22.114.59
-c0.nic.lipsy.	0	IN	AAAA	2a01:8840:70::59
 live.	0	IN	NS	v0n0.nic.live.
 live.	0	IN	NS	v0n1.nic.live.
 live.	0	IN	NS	v0n2.nic.live.
