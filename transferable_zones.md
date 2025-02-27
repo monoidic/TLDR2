@@ -9,6 +9,7 @@
 * `er.` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/er.zone)
 * `fj.` via `ns1.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
+* `gl.` via `a.nic.gl.`: [Click here to view zone data.](archives/gl/gl.zone)
 * `gl.` via `b.nic.gl.`: [Click here to view zone data.](archives/gl/gl.zone)
 * `gn.` via `ns1.gn.`: [Click here to view zone data.](archives/gn/gn.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
