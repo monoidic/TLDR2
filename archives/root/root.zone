@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025022801 1 1 aa905af7d9780d355cdc6d33251adb33165fe118abd6ba8f5b0e877106562218a03d0de1f6638459d810ee85a660b0e1
+.	0	IN	ZONEMD	2025022802 1 1 2f6c580bfa51402e5fb4d55c1c0dcbdbe994f38fb99beace98a2dece8c2814fffe2d402b3e4cd252a13ddd6d5b530dce
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5430,7 +5430,6 @@ eco.	0	IN	NS	b.ns.nic.eco.
 eco.	0	IN	NS	c.ns.nic.eco.
 eco.	0	IN	NS	d.ns.nic.eco.
 eco.	0	IN	DS	20969 8 2 d64fde1cc6a5c7a2aef1b29a4fbd00c294129c64506af54a3df182c9e658c66c
-eco.	0	IN	DS	34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 a.ns.nic.eco.	0	IN	A	185.159.197.4
 a.ns.nic.eco.	0	IN	AAAA	2620:10a:80aa::4
 b.ns.nic.eco.	0	IN	A	185.159.198.4
@@ -9563,7 +9562,6 @@ kiwi.	0	IN	NS	a.ns.nic.kiwi.
 kiwi.	0	IN	NS	b.ns.nic.kiwi.
 kiwi.	0	IN	NS	c.ns.nic.kiwi.
 kiwi.	0	IN	NS	d.ns.nic.kiwi.
-kiwi.	0	IN	DS	28462 8 2 a1c28ef63fe4b2ca5de823951a0a0edf27f73601eca4371da74b600190846f7d
 kiwi.	0	IN	DS	64594 8 2 653865c0ada0492012931ca7746a7ec815b9e7681e202f4ce73657aa79cfe0e9
 a.ns.nic.kiwi.	0	IN	A	185.159.197.1
 a.ns.nic.kiwi.	0	IN	AAAA	2620:10a:80aa::1
@@ -10516,7 +10514,7 @@ lt.	0	IN	NS	c.tld.lt.
 lt.	0	IN	NS	d.tld.lt.
 lt.	0	IN	NS	e.tld.lt.
 lt.	0	IN	NS	f.tld.lt.
-lt.	0	IN	DS	5730 13 2 56f57aaab64258c6c439bfa4c98fbfebb60c6fd5a43bc7a9dea247faab2ff44f
+lt.	0	IN	DS	27462 13 2 b4c8934b866b92ca108d6c3394036db0b0e3b9b9ec8111c41593c71e38c830df
 a.tld.lt.	0	IN	A	185.150.40.131
 b.tld.lt.	0	IN	A	194.0.20.1
 b.tld.lt.	0	IN	AAAA	2001:678:19::1
