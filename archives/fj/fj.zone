@@ -6,9 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 lEYs3WXdyF47e+pwscfNCr/4rKBbG2XJeVnnCUyTejU= ;{id = 60631 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	CDS	53415 15 2 df3e20395d74ef8ade4a2f2f00e21ff979c6665476989b521ca92b1ca2684b78
-fj.	0	IN	CDNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg=
-fj.	0	IN	ZONEMD	2025030523 1 1 138fb025913852dcb9664e9e0fde418fa3ad5b85742c83b359a5ddd36bbf6a11d45ab4f5ebc01d66fa59fcc8b22b6d41
+fj.	0	IN	ZONEMD	2025030602 1 1 990f85a874c22bf28f0ce244d9fb778192a3b05d8821443351c58927bc3bb2fd16506907d71371d2c98148cd0431a861
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -314,6 +312,8 @@ alere.com.fj.	0	IN	NS	rossns.abbott.com.
 alere.com.fj.	0	IN	NS	rossns2.abbott.com.
 alere.com.fj.	0	IN	NS	abtnsdmz1.abbott.com.
 alere.com.fj.	0	IN	NS	abtnsdmz2.abbott.com.
+alfa.com.fj.	0	IN	NS	ns2.wixdns.net.
+alfa.com.fj.	0	IN	NS	ns3.wixdns.net.
 alfa.com.fj.	0	IN	NS	drua.tfl.com.fj.
 alfa.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 alizpacific.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
@@ -1742,8 +1742,6 @@ equilaw.com.fj.	0	IN	NS	dns2.stabletransit.com.
 equityconsultants.com.fj.	0	IN	NS	ns1.gohosting.com.au.
 equityconsultants.com.fj.	0	IN	NS	ns2.gohosting.com.au.
 equityconsultants.com.fj.	0	IN	NS	ns3.gohosting.com.au.
-erailtrans.com.fj.	0	IN	NS	henrik.ns.cloudflare.com.
-erailtrans.com.fj.	0	IN	NS	serenity.ns.cloudflare.com.
 ericsson.com.fj.	0	IN	NS	ns1.ericsson.se.
 ericsson.com.fj.	0	IN	NS	ns2.ericsson.se.
 ericsson.com.fj.	0	IN	NS	e3dns.ericy.com.
