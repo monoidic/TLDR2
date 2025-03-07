@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025030701 1 1 23adf518c025f6a6aa3b024cd3cd803ce4ebd5f155bde0848c667acb8156e6e7bb36f78dbc85a6b776f2507d224fefcb
+.	0	IN	ZONEMD	2025030702 1 1 41b7a7bf99c9bdfb55263b2261a04ad8528494274682a328465857189621883bceaeec9e78e2663452dca84653df9d1e
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -9588,6 +9588,7 @@ pch.nic.kn.	0	IN	AAAA	2001:500:14:6109:ad::1
 koeln.	0	IN	NS	dns.ryce-rsp.com.
 koeln.	0	IN	NS	ns1.dns.business.
 koeln.	0	IN	NS	ns1.ryce-rsp.com.
+koeln.	0	IN	DS	38539 8 2 3d58791c3bccf61d15649d4d6a7b686b7cdf411dbe4af145ece40fed88ebcbcf
 koeln.	0	IN	DS	48568 10 2 0d64b2d9b1a06897bb24383f1200bca0e4f4307aa18a9dfaac28163111f95b44
 komatsu.	0	IN	NS	a.gmoregistry.net.
 komatsu.	0	IN	NS	b.gmoregistry.net.
@@ -18808,6 +18809,7 @@ whoswho.	0	IN	DS	1094 8 2 b35d9bcf8c51a71118e63f2d38a06e25418db690dbabfb35f0cf96
 wien.	0	IN	NS	dns.ryce-rsp.com.
 wien.	0	IN	NS	ns1.dns.business.
 wien.	0	IN	NS	ns1.ryce-rsp.com.
+wien.	0	IN	DS	43762 8 2 ce9ba7bc8f43cfe6f1d63cdcc5882bb072bce1aa1ad0b7e739a8edfe60328ec3
 wien.	0	IN	DS	57889 8 2 e2aa9ba196c7d4f10a8320a710fc24ad4bc86ce362239c307af3b875d5cf44c7
 wiki.	0	IN	NS	a.nic.wiki.
 wiki.	0	IN	NS	b.nic.wiki.
