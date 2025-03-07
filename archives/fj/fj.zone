@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 lEYs3WXdyF47e+pwscfNCr/4rKBbG2XJeVnnCUyTejU= ;{id = 60631 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025030704 1 1 855037cf783a85b03b20aa249c9a916fc6e26d25f3ab18d324feeabfda41e8fa780d91b0babb92d5ded4cf8b918396c7
+fj.	0	IN	ZONEMD	2025030705 1 1 e5c8679e4016c28949f0d36a0706c733536fd40f8bf71da1064ef871a3f99417d7dc43e1e7f78eb4e3b72e83812cd6f6
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -6213,7 +6213,6 @@ zurich.com.fj.	0	IN	NS	ns1.a2.impervasecuredns.net.
 domains.fj.	0	IN	A	144.120.141.12
 domains.fj.	0	IN	MX	5 mx0.usp.ac.fj.
 domains.fj.	0	IN	MX	5 mx1.usp.ac.fj.
-_300c37ec661af97aef6e0d51aedd8e98.domains.fj.	0	IN	CNAME	ab6eef1cee4453f648639cb125fe2844.d7db6d3965c4dd3aef3a8ef953d616b1.00k7i5oyr8okn55gs5qx.sectigo.com.
 www.domains.fj.	0	IN	A	144.120.141.12
 ns1.sit.ac.fj.fj.	0	IN	A	162.241.241.41
 ns2.sit.ac.fj.fj.	0	IN	A	162.241.241.65
@@ -6269,6 +6268,7 @@ vodaphone.info.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.info.fj.	0	IN	NS	ns2.vodafone.net.fj.
 master.fj.	0	IN	A	144.120.141.11
 www.master.fj.	0	IN	A	144.120.141.11
+_c71809571020fe410c9d244ff7e59c3b.www.master.fj.	0	IN	CNAME	4be980756cba0b03ab82a6240004c193.8fe09c8b880b139eccac5adde8008228.sectigo.com.
 fijinavy.mil.fj.	0	IN	NS	caching01.usp.ac.fj.
 fijinavy.mil.fj.	0	IN	NS	caching02.usp.ac.fj.
 navneet.mil.fj.	0	IN	NS	ns1.usp.ac.fj.
@@ -6877,7 +6877,6 @@ vodafone.pro.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.pro.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.pro.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.pro.fj.	0	IN	NS	ns2.vodafone.net.fj.
-_300c37ec661af97aef6e0d51aedd8e98.rdap.fj.	0	IN	CNAME	ab6eef1cee4453f648639cb125fe2844.d7db6d3965c4dd3aef3a8ef953d616b1.00k7i5oyr8okn55gs5qx.sectigo.com.
 registration.fj.	0	IN	A	144.120.141.12
 www.registration.fj.	0	IN	A	144.120.141.12
 registry.fj.	0	IN	A	144.120.141.11
@@ -6888,5 +6887,4 @@ school.fj.	0	IN	NS	drua.tfl.com.fj.
 school.fj.	0	IN	NS	tabua.tfl.com.fj.
 school.fj.	0	IN	NS	ns-ext.isc.org.
 whois.fj.	0	IN	A	144.120.141.13
-_300c37ec661af97aef6e0d51aedd8e98.whois.fj.	0	IN	CNAME	ab6eef1cee4453f648639cb125fe2844.d7db6d3965c4dd3aef3a8ef953d616b1.00k7i5oyr8okn55gs5qx.sectigo.com.
 www.whois.fj.	0	IN	A	144.120.141.13
