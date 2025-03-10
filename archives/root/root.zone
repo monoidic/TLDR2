@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAZ5A7jOztf62cGqhPhutjnyl7KBjIsjbyTb8il+FsgbMUbO2NQHaSbatHdlOlqANncDwSIKZ9ryqd1+Dy1PoGzeTUv95vOJnVVJHlJu7xdavnUmPs+Mh2NV7hDlTTwPn5uXgFxAaxoO9M/YIAC92GryCLjoJEg9JzeevkktEM/sFpmRv4I5jQtlLyRqVbnCzcWpi04XaVLxRKvURkd/Mdb/2RQS3MYvrkEBXuqtnAVBCf6Fx4sgBYOfYvbUuG2diLnGJW/MXvFpctZgQ76+3FwMqAZfR9k5bohL7AF3+jqz4MUiootYoh5koyt7VEnUULxxy6U5PINTGgOC26f3zZuk= ;{id = 26470 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025031001 1 1 9970cd564c6fa906b6def4ffa87083b17c60a189376a44fbd4dfba71e8c17fc35bd4d91930fdb12052b9daf5630a80d6
+.	0	IN	ZONEMD	2025031002 1 1 92cf9658e8061c4e41298e9909bd75b12ea2ea1fb6c6f7d6f81f9046f931599115b1177c5ddc4acf2b7dd56566fa2e2e
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -14861,7 +14861,6 @@ sa.	0	IN	NS	m2.dns.sa.
 sa.	0	IN	NS	n1.dns.sa.
 sa.	0	IN	NS	p1.dns.sa.
 sa.	0	IN	NS	s1.dns.sa.
-sa.	0	IN	NS	s2.dns.sa.
 sa.	0	IN	NS	sh1.dns.sa.
 sa.	0	IN	DS	62932 8 2 2e80b1231d370f4933a26f19487946eaca1db9d41a53831c2a9e73368bbbaab5
 c1.dns.sa.	0	IN	A	86.111.192.9
@@ -14880,8 +14879,6 @@ p1.dns.sa.	0	IN	A	204.61.216.41
 p1.dns.sa.	0	IN	AAAA	2001:500:14:6041:ad::1
 s1.dns.sa.	0	IN	A	37.107.223.170
 s1.dns.sa.	0	IN	AAAA	2001:16a0:1:3002::2
-s2.dns.sa.	0	IN	A	37.107.255.170
-s2.dns.sa.	0	IN	AAAA	2001:16a0:2:3002::2
 sh1.dns.sa.	0	IN	A	213.236.36.92
 sh1.dns.sa.	0	IN	AAAA	2a02:d70:64:68::2
 saarland.	0	IN	NS	a.nic.saarland.
@@ -20102,7 +20099,6 @@ xn--mgberp4a5d4ar.	0	IN	NS	m2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	n1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	p1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	s1.dns.sa.
-xn--mgberp4a5d4ar.	0	IN	NS	s2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	sh1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	DS	51067 8 2 71a90d5298b157332cf6dc7bc2105982054a8d5f5c74c67debbbee3afbe114d3
 xn--mgbgu82a.	0	IN	NS	ns1.registry.in.
