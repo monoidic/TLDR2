@@ -15,7 +15,6 @@
 * `ch.`
 * `christmas.`
 * `ci.`
-* `cw.`
 * `desi.`
 * `diet.`
 * `dz.`
@@ -37,6 +36,7 @@
 * `lol.`
 * `lr.`
 * `mc.`
+* `md.`
 * `mom.`
 * `nu.`
 * `omega.`
