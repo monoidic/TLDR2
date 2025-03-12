@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 lEYs3WXdyF47e+pwscfNCr/4rKBbG2XJeVnnCUyTejU= ;{id = 60631 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025031124 1 1 ff32593ac3b82d26403eb8a090db8ead3d99aad41d27b72567d56a3e8c9f648240ee879bcb60123df6a28d97e6360525
+fj.	0	IN	ZONEMD	2025031202 1 1 f6a2fa526d8f2df1899f057d40f65ccb98747d0b7d513683b8db6dc8948dca28a6656dfcfea494f820decb8e085671d9
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -1507,8 +1507,10 @@ dentalstore.com.fj.	0	IN	NS	ns1.cms-tool.net.
 dentalstore.com.fj.	0	IN	NS	ns2.cms-tool.net.
 dentalstore.com.fj.	0	IN	NS	ns3.cms-tool.net.
 dentalstore.com.fj.	0	IN	NS	ns4.cms-tool.net.
-deoji.com.fj.	0	IN	NS	ns5.itcompany.com.au.
-deoji.com.fj.	0	IN	NS	ns6.itcompany.com.au.
+deoji.com.fj.	0	IN	NS	ns1-05.azure-dns.com.
+deoji.com.fj.	0	IN	NS	ns2-05.azure-dns.net.
+deoji.com.fj.	0	IN	NS	ns3-05.azure-dns.org.
+deoji.com.fj.	0	IN	NS	ns4-05.azure-dns.info.
 derwentgeoscience.com.fj.	0	IN	NS	ns1.bluehost.com.
 derwentgeoscience.com.fj.	0	IN	NS	ns2.bluehost.com.
 destinationfiji.com.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -3631,6 +3633,8 @@ midlinkmarketing.com.fj.	0	IN	NS	manu.usp.ac.fj.
 midlinkmarketing.com.fj.	0	IN	NS	teri.usp.ac.fj.
 midwestgroup.com.fj.	0	IN	NS	luke.ns.cloudflare.com.
 midwestgroup.com.fj.	0	IN	NS	katja.ns.cloudflare.com.
+mifiji.com.fj.	0	IN	NS	drua.tfl.com.fj.
+mifiji.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 mifl.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 mifl.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 mikesaerospace.com.fj.	0	IN	NS	manu.usp.ac.fj.
@@ -4283,8 +4287,6 @@ parkplaza.com.fj.	0	IN	NS	ns2.markmonitor.com.
 parkplaza.com.fj.	0	IN	NS	ns3.markmonitor.com.
 parkplaza.com.fj.	0	IN	NS	ns4.markmonitor.com.
 parkplaza.com.fj.	0	IN	NS	ns5.markmonitor.com.
-parmarbrothers.com.fj.	0	IN	NS	drua.tfl.com.fj.
-parmarbrothers.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 parshotam.com.fj.	0	IN	NS	drua.tfl.com.fj.
 parshotam.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 pasifikafinance.com.fj.	0	IN	NS	chi-ns1.greengeeks.com.
@@ -5036,8 +5038,6 @@ slipway.com.fj.	0	IN	NS	ns1.secureserver.net.nz.
 slipway.com.fj.	0	IN	NS	ns2.secureserver.net.nz.
 slslegal.com.fj.	0	IN	NS	drua.tfl.com.fj.
 slslegal.com.fj.	0	IN	NS	tabua.tfl.com.fj.
-smart.com.fj.	0	IN	NS	ns1.corpinter.net.
-smart.com.fj.	0	IN	NS	ns2.corpinter.de.
 smartframe.com.fj.	0	IN	NS	bristol.ns.cloudflare.com.
 smartframe.com.fj.	0	IN	NS	thaddeus.ns.cloudflare.com.
 smartvale.com.fj.	0	IN	NS	ns10.dnsmadeeasy.com.
