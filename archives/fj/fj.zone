@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 lEYs3WXdyF47e+pwscfNCr/4rKBbG2XJeVnnCUyTejU= ;{id = 60631 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025031224 1 1 937cb9a15e9bbe695f24a4865c3b9af84889fac84451e6bdf7d502b7f6b8a5ea29c273e4f4853c9e2840be6cf40cbbb9
+fj.	0	IN	ZONEMD	2025031302 1 1 f950476356bc2435a323de5aff6fee472d3fac1bdf3324a728e85d825ed4eeddfccff91f947cbd7f9e2da152cbe5396d
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -312,8 +312,6 @@ alere.com.fj.	0	IN	NS	rossns.abbott.com.
 alere.com.fj.	0	IN	NS	rossns2.abbott.com.
 alere.com.fj.	0	IN	NS	abtnsdmz1.abbott.com.
 alere.com.fj.	0	IN	NS	abtnsdmz2.abbott.com.
-alfa.com.fj.	0	IN	NS	ns2.wixdns.net.
-alfa.com.fj.	0	IN	NS	ns3.wixdns.net.
 alfa.com.fj.	0	IN	NS	drua.tfl.com.fj.
 alfa.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 alizpacific.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
@@ -2012,8 +2010,6 @@ fijichemicals.com.fj.	0	IN	NS	ns1.auserver.com.au.
 fijichemicals.com.fj.	0	IN	NS	ns2.auserver.com.au.
 fijicoconutvodka.com.fj.	0	IN	NS	manu.usp.ac.fj.
 fijicoconutvodka.com.fj.	0	IN	NS	teri.usp.ac.fj.
-fijidairy.com.fj.	0	IN	NS	ns2.wixdns.net.
-fijidairy.com.fj.	0	IN	NS	ns3.wixdns.net.
 fijidairy.com.fj.	0	IN	NS	drua.tfl.com.fj.
 fijidairy.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 fijidaycruises.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
@@ -4111,6 +4107,8 @@ ore.com.fj.	0	IN	NS	gail.ns.cloudflare.com.
 ore.com.fj.	0	IN	NS	aaden.ns.cloudflare.com.
 organon.com.fj.	0	IN	NS	ns6.customer.level3.net.
 organon.com.fj.	0	IN	NS	cbru.br.ns.els-gms.att.net.
+orifake.com.fj.	0	IN	NS	pat.ns.cloudflare.com.
+orifake.com.fj.	0	IN	NS	boyd.ns.cloudflare.com.
 oriflame.com.fj.	0	IN	NS	ns1-01.azure-dns.com.
 oriflame.com.fj.	0	IN	NS	ns2-01.azure-dns.net.
 oriflame.com.fj.	0	IN	NS	ns3-01.azure-dns.org.
@@ -4899,8 +4897,6 @@ scchs.com.fj.	0	IN	NS	ns31.boxsecured.com.
 scchs.com.fj.	0	IN	NS	ns32.boxsecured.com.
 scentair.com.fj.	0	IN	NS	dns1.cscdns.net.
 scentair.com.fj.	0	IN	NS	dns2.cscdns.net.
-scfoods.com.fj.	0	IN	NS	ns2.wixdns.net.
-scfoods.com.fj.	0	IN	NS	ns3.wixdns.net.
 scfoods.com.fj.	0	IN	NS	drua.tfl.com.fj.
 scfoods.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 scgc.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
@@ -5593,8 +5589,8 @@ townhouse.com.fj.	0	IN	NS	kevin.ns.cloudflare.com.
 townhouse.com.fj.	0	IN	NS	brenda.ns.cloudflare.com.
 toyota.com.fj.	0	IN	NS	idns1.netsol.com.
 toyota.com.fj.	0	IN	NS	idns2.netsol.com.
-tqpl.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-tqpl.com.fj.	0	IN	NS	caching02.usp.ac.fj.
+tqpl.com.fj.	0	IN	NS	drua.tfl.com.fj.
+tqpl.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 traceyannfarrington.com.fj.	0	IN	NS	ns1.web360fiji.com.
 traceyannfarrington.com.fj.	0	IN	NS	ns2.web360fiji.com.
 traceyfarrington.com.fj.	0	IN	NS	ns1.auserver.com.au.
@@ -5913,8 +5909,6 @@ vitifm.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
 vitifm.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
 vitifm.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
 vitifm.com.fj.	0	IN	NS	ns4.bdm.microsoftonline.com.
-vitifoods.com.fj.	0	IN	NS	ns2.wixdns.net.
-vitifoods.com.fj.	0	IN	NS	ns3.wixdns.net.
 vitifoods.com.fj.	0	IN	NS	drua.tfl.com.fj.
 vitifoods.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 vitigroup.com.fj.	0	IN	NS	rex.ns.cloudflare.com.
