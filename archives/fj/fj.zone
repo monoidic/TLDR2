@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 lEYs3WXdyF47e+pwscfNCr/4rKBbG2XJeVnnCUyTejU= ;{id = 60631 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025031324 1 1 fb714f772d5661ba38291f51e06893f1a8834c6c1d48abfd6568afa6a7d23dd0df7cb8e323826866f892507400f9b528
+fj.	0	IN	ZONEMD	2025031402 1 1 686ffa88512770de925c85ea1973dcc5bf0700abc64df7c998c56228e2a40c5f0b0f7ca7036c4b0547c9bb97bdecd6b8
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -2319,11 +2319,6 @@ ftuctcl.com.fj.	0	IN	NS	ns1.yourwebhosting.com.
 ftuctcl.com.fj.	0	IN	NS	ns2.yourwebhosting.com.
 fujitsu.com.fj.	0	IN	NS	fgwmail.fujitsu.co.jp.
 fujitsu.com.fj.	0	IN	NS	fgwmail5.fujitsu.co.jp.
-fulcrum.com.fj.	0	IN	NS	ns1.he.net.
-fulcrum.com.fj.	0	IN	NS	ns2.he.net.
-fulcrum.com.fj.	0	IN	NS	ns3.he.net.
-fulcrum.com.fj.	0	IN	NS	ns4.he.net.
-fulcrum.com.fj.	0	IN	NS	ns5.he.net.
 fultonhoganhiways.com.fj.	0	IN	NS	ns1.mitdps.net.
 fultonhoganhiways.com.fj.	0	IN	NS	ns2.mitdps.net.
 fultonhoganhiways.com.fj.	0	IN	NS	ns3.mitdps.net.
@@ -2648,6 +2643,8 @@ hewitt.com.fj.	0	IN	NS	jacqueline.ns.cloudflare.com.
 hfc.com.fj.	0	IN	NS	dns1.easydns.com.
 hfc.com.fj.	0	IN	NS	dns2.easydns.net.
 hfc.com.fj.	0	IN	NS	dns3.easydns.ca.
+hgdc.com.fj.	0	IN	NS	drua.tfl.com.fj.
+hgdc.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 hgleach.com.fj.	0	IN	NS	arch.ns.cloudflare.com.
 hgleach.com.fj.	0	IN	NS	sara.ns.cloudflare.com.
 hideaway.com.fj.	0	IN	NS	ns1.syrahost.com.
@@ -4900,10 +4897,7 @@ scentair.com.fj.	0	IN	NS	dns2.cscdns.net.
 scfoods.com.fj.	0	IN	NS	drua.tfl.com.fj.
 scfoods.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 scgc.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
-scgc.com.fj.	0	IN	NS	ns1.wordpress.com.
 scgc.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
-scgc.com.fj.	0	IN	NS	ns2.wordpress.com.
-scgc.com.fj.	0	IN	NS	ns3.wordpress.com.
 scgf.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 scgf.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 schneider-electric.com.fj.	0	IN	NS	ns2.observatoiredesmarques.fr.
@@ -6800,8 +6794,7 @@ scientology.org.fj.	0	IN	NS	ns1.scientology.net.
 scientology.org.fj.	0	IN	NS	ns1.scientology.org.
 seep.org.fj.	0	IN	NS	ns1.auserver.com.au.
 seep.org.fj.	0	IN	NS	ns2.auserver.com.au.
-sodelpa.org.fj.	0	IN	NS	drua.tfl.com.fj.
-sodelpa.org.fj.	0	IN	NS	tabua.tfl.com.fj.
+sodelpa.org.fj.	0	IN	NS	ext-cust.squarespace.com.
 spats.org.fj.	0	IN	NS	ns1.bluehost.com.
 spats.org.fj.	0	IN	NS	ns2.bluehost.com.
 srif.org.fj.	0	IN	NS	ns1.he.net.
