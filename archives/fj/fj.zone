@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 lEYs3WXdyF47e+pwscfNCr/4rKBbG2XJeVnnCUyTejU= ;{id = 60631 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025032010 1 1 943e729409b489dfb2d32936d414222c7bbcdbe0996be8a0cb415c970983f2ee5fbe8f6cf976fc0e0585e03ecff88506
+fj.	0	IN	ZONEMD	2025032012 1 1 378775aab89e023e5f816be69c1a5436268b22ad03772dc6d057319fe834fdaa2a4b328075a8a8dbc9d74bc7277e8198
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -5296,8 +5296,9 @@ symbosconnect.com.fj.	0	IN	NS	ns2.partnerconsole.net.
 symbosconnect.com.fj.	0	IN	NS	ns3.partnerconsole.net.
 syngenta.com.fj.	0	IN	NS	dns1.cscdns.net.
 syngenta.com.fj.	0	IN	NS	dns2.cscdns.net.
-t.com.fj.	0	IN	NS	ns1031.ifastnet.com.
-t.com.fj.	0	IN	NS	ns2031.ifastnet.com.
+t.com.fj.	0	IN	NS	cdns1.interserver.net.
+t.com.fj.	0	IN	NS	cdns2.interserver.net.
+t.com.fj.	0	IN	NS	cdns3.interserver.net.
 tabualumamedia.com.fj.	0	IN	NS	ns1.bluehost.com.
 tabualumamedia.com.fj.	0	IN	NS	ns2.bluehost.com.
 tacobell.com.fj.	0	IN	NS	caching01.usp.ac.fj.
