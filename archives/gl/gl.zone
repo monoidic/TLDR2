@@ -12659,9 +12659,13 @@ nalunng.gl.	0	IN	NS	a.hosting.gl.
 nalunng.gl.	0	IN	NS	b.hosting.gl.
 nalunng.gl.	0	IN	NS	c.hosting.gl.
 nalunng.gl.	0	IN	NS	d.hosting.gl.
-name.gl.	0	IN	NS	ns1.desec.io.
-name.gl.	0	IN	NS	ns2.desec.org.
+name.gl.	0	IN	NS	ns1.name.gl.
+name.gl.	0	IN	NS	ns2.name.gl.
 name.gl.	0	IN	DS	38931 13 2 872bf8a7c908642b8b72884f49bd26f673354e53822503855b32c23aa3c6ae73
+ns1.name.gl.	0	IN	A	45.54.76.1
+ns1.name.gl.	0	IN	AAAA	2607:f740:e633:deec::2
+ns2.name.gl.	0	IN	A	157.53.224.1
+ns2.name.gl.	0	IN	AAAA	2607:f740:e00a:deec::2
 nameyourownprice.gl.	0	IN	NS	ns1.markmonitor.com.
 nameyourownprice.gl.	0	IN	NS	ns2.markmonitor.com.
 nameyourownprice.gl.	0	IN	NS	ns3.markmonitor.com.
