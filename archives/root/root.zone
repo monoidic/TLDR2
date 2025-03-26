@@ -15,7 +15,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025032601 1 1 28704d8e7a654401621ceb7f6238a28abc4a92d2270476aa727d1f6b6d544f47fb00d09e4db082f68a0e391f00853cd3
+.	0	IN	ZONEMD	2025032602 1 1 fbbf0fd4a62d55fa0bcf319b634dfc67b838ca4644e1f1e36cf800e07b98753b4fae09d90c8bb99cda78f19ed3b90cfe
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -15728,7 +15728,6 @@ si.	0	IN	NS	i.dns.si.
 si.	0	IN	NS	k.dns.si.
 si.	0	IN	NS	l.dns.si.
 si.	0	IN	DS	1635 13 2 c2977306e3439d4f8d40a1a7f5dea9e93a408c9fb3c5aa32bad08febf0eb848b
-si.	0	IN	DS	39905 8 2 870232fe9bcd2671de9d5fa3513269507cce116d2d8db5ce54b3ed05b638e11f
 b.dns.si.	0	IN	A	153.5.81.140
 b.dns.si.	0	IN	AAAA	2001:1470:8000:53::44
 f.dns.si.	0	IN	A	194.146.106.62
@@ -17601,19 +17600,12 @@ pch.nic.tt.	0	IN	A	204.61.216.63
 pch.nic.tt.	0	IN	AAAA	2001:500:14:6063:ad::1
 ripe.nic.tt.	0	IN	A	193.0.9.50
 ripe.nic.tt.	0	IN	AAAA	2001:67c:e0::50
-tube.	0	IN	NS	a.nic.tube.
-tube.	0	IN	NS	ns1.dns.nic.tube.
-tube.	0	IN	NS	ns2.dns.nic.tube.
 tube.	0	IN	NS	anycast9.irondns.net.
+tube.	0	IN	NS	anycast10.irondns.net.
 tube.	0	IN	NS	anycast23.irondns.net.
+tube.	0	IN	NS	anycast24.irondns.net.
 tube.	0	IN	DS	52096 8 2 03e03aced82968f08ebe79b3d8641a366aeb3a9600b6b29671dce8af94492287
 tube.	0	IN	DS	63079 8 2 f4d6217a7ff5a1e65a2c31fbd8da3305a4efe10562c3ab82d459421c1437b62d
-a.nic.tube.	0	IN	A	37.209.192.10
-a.nic.tube.	0	IN	AAAA	2001:dcd:1::10
-ns1.dns.nic.tube.	0	IN	A	156.154.169.80
-ns1.dns.nic.tube.	0	IN	AAAA	2610:a1:1071::1:50
-ns2.dns.nic.tube.	0	IN	A	156.154.170.80
-ns2.dns.nic.tube.	0	IN	AAAA	2610:a1:1072::1:50
 tui.	0	IN	NS	a.nic.tui.
 tui.	0	IN	NS	b.nic.tui.
 tui.	0	IN	NS	c.nic.tui.
