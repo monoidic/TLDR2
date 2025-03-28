@@ -99,6 +99,7 @@ jobs:
         path: artifacts
     - run: git pull
     - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
+    - run: find walk_lists -type f -empty -exec git restore '{}' ';'
     - run: git add walk_lists
     - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
     - run: git commit -m 'Updating walks' || true
