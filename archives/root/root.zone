@@ -15,7 +15,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025040100 1 1 8e27453d787d445a32f62346cad14584f9743918d3e5a80777399b73ad510a276300a827b931a6164bc0082fe83c64a0
+.	0	IN	ZONEMD	2025040101 1 1 7fe2d2ee19954b240d9b7f767ae47b06a488d450b5ba401fbcd1bc1bd83bd88be28d18b8b4515cc950a89cadaa719eca
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -13233,11 +13233,12 @@ ns2.dns.nic.pfizer.	0	IN	A	156.154.145.134
 ns2.dns.nic.pfizer.	0	IN	AAAA	2610:a1:1072::86
 ns3.dns.nic.pfizer.	0	IN	A	156.154.159.134
 ns3.dns.nic.pfizer.	0	IN	AAAA	2610:a1:1073::86
-pg.	0	IN	NS	ns.uu.net.
 pg.	0	IN	NS	dns.pch.pg.
-pg.	0	IN	NS	ns1.unitech.ac.pg.
-pg.	0	IN	NS	munnari.oz.au.
-ns1.unitech.ac.pg.	0	IN	A	202.1.32.49
+pg.	0	IN	NS	gransy1.nic.pg.
+pg.	0	IN	NS	gransy2.nic.pg.
+gransy1.nic.pg.	0	IN	A	185.28.194.194
+gransy1.nic.pg.	0	IN	AAAA	2a00:fea0:dead::beef
+gransy2.nic.pg.	0	IN	A	185.38.108.108
 dns.pch.pg.	0	IN	A	204.61.216.152
 dns.pch.pg.	0	IN	AAAA	2001:500:14:6152:ad::1
 ph.	0	IN	NS	1.ns.ph.
