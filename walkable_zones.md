@@ -42,6 +42,7 @@
 * `nu.`
 * `omega.`
 * `pics.`
+* `pr.`
 * `ruhr.`
 * `se.`
 * `shell.`
