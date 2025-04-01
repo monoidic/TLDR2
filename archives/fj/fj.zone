@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025033124 1 1 dcce8070f75964baab9c044c7f07c92bd31ff41f54e2b926293a8c369a9664ae8266e0c690cdb0c7f89dc6ffdcd09f80
+fj.	0	IN	ZONEMD	2025040102 1 1 af8ffd5cb1c89f24de0de00a088c252b2482eeccffe267287312844a0a5cd83497041fb8e5e7a72222aa7ba47b48b192
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -4913,6 +4913,8 @@ seabreeze.com.fj.	0	IN	NS	ns1.verio.com.
 seabreeze.com.fj.	0	IN	NS	ns2.verio.com.
 seabreezehotel.com.fj.	0	IN	NS	manu.usp.ac.fj.
 seabreezehotel.com.fj.	0	IN	NS	teri.usp.ac.fj.
+seabus.com.fj.	0	IN	NS	ns1.auserver.com.au.
+seabus.com.fj.	0	IN	NS	ns2.auserver.com.au.
 securedguards.com.fj.	0	IN	NS	ns1.hostingfiji.com.
 securedguards.com.fj.	0	IN	NS	ns2.hostingfiji.com.
 securenet.com.fj.	0	IN	NS	ns1.bluehost.com.
@@ -6862,6 +6864,8 @@ vodafone.pro.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodafone.pro.fj.	0	IN	NS	ns2.vodafone.net.fj.
 vodaphone.pro.fj.	0	IN	NS	ns1.vodafone.net.fj.
 vodaphone.pro.fj.	0	IN	NS	ns2.vodafone.net.fj.
+rdap.fj.	0	IN	A	144.120.141.15
+www.rdap.fj.	0	IN	A	144.120.141.15
 registration.fj.	0	IN	A	144.120.141.12
 www.registration.fj.	0	IN	A	144.120.141.12
 registry.fj.	0	IN	A	144.120.141.11
