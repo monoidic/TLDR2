@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025040124 1 1 1722883576cb57822ad975a6bf67d247f9787a1bb58691658bb9ae8e8e61a747fce9eb3bd5c0b98553da51533844625a
+fj.	0	IN	ZONEMD	2025040202 1 1 a07b1e74534bfab0f38f22ed367997441f4ab2fe3490e6bd6007f7169540b7c7235c65178ce574c7756d2e8425e6e1d9
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -175,8 +175,6 @@ vodaphone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 3xvifiji.com.fj.	0	IN	NS	ns2.bluehost.com.
 480travel.com.fj.	0	IN	NS	drua.tfl.com.fj.
 480travel.com.fj.	0	IN	NS	tabua.tfl.com.fj.
-6thsense.com.fj.	0	IN	NS	drua.tfl.com.fj.
-6thsense.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 9miles.com.fj.	0	IN	NS	manu.usp.ac.fj.
 9miles.com.fj.	0	IN	NS	teri.usp.ac.fj.
 aa.com.fj.	0	IN	NS	dns1.cscdns.net.
@@ -1564,8 +1562,6 @@ dominionfinance.com.fj.	0	IN	NS	drua.tfl.com.fj.
 dominionfinance.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 douglas.com.fj.	0	IN	NS	molly.ns.cloudflare.com.
 douglas.com.fj.	0	IN	NS	yevgen.ns.cloudflare.com.
-dplgroup.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
-dplgroup.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 dpp.com.fj.	0	IN	NS	manu.usp.ac.fj.
 dpp.com.fj.	0	IN	NS	teri.usp.ac.fj.
 dreamdrives.com.fj.	0	IN	NS	ns1.siteground.net.
@@ -3769,9 +3765,8 @@ mykina.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 mykina.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 mykinafiji.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 mykinafiji.com.fj.	0	IN	NS	caching02.usp.ac.fj.
-mykoro.com.fj.	0	IN	NS	ns1.partnerconsole.net.
-mykoro.com.fj.	0	IN	NS	ns2.partnerconsole.net.
-mykoro.com.fj.	0	IN	NS	ns3.partnerconsole.net.
+mykoro.com.fj.	0	IN	NS	ns1.syd7.hostingplatform.net.au.
+mykoro.com.fj.	0	IN	NS	ns2.syd7.hostingplatform.net.au.
 myob.com.fj.	0	IN	NS	ns8421.hostgator.com.
 myob.com.fj.	0	IN	NS	ns8422.hostgator.com.
 myola.com.fj.	0	IN	NS	ns55.domaincontrol.com.
@@ -4836,8 +4831,6 @@ ryactla.com.fj.	0	IN	NS	ns.udag.net.
 ryactla.com.fj.	0	IN	NS	ns.udag.org.
 rydges.com.fj.	0	IN	NS	olga.ns.cloudflare.com.
 rydges.com.fj.	0	IN	NS	seth.ns.cloudflare.com.
-sabetohotspringandmudpool.com.fj.	0	IN	NS	ns1.gocheapweb.com.
-sabetohotspringandmudpool.com.fj.	0	IN	NS	ns2.gocheapweb.com.
 safenav.com.fj.	0	IN	NS	manu.usp.ac.fj.
 safenav.com.fj.	0	IN	NS	teri.usp.ac.fj.
 safetech.com.fj.	0	IN	NS	ns1.hostingfiji.com.
@@ -5193,8 +5186,8 @@ stantec.com.fj.	0	IN	NS	ns4.markmonitor.com.
 stantec.com.fj.	0	IN	NS	ns5.markmonitor.com.
 starbrightenergy.com.fj.	0	IN	NS	dns1.stabletransit.com.
 starbrightenergy.com.fj.	0	IN	NS	dns2.stabletransit.com.
-stargateinvestment.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-stargateinvestment.com.fj.	0	IN	NS	caching02.usp.ac.fj.
+stargateinvestment.com.fj.	0	IN	NS	ns1.nzcloudservices.nz.
+stargateinvestment.com.fj.	0	IN	NS	ns2.nzcloudservices.nz.
 starlink.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 starlink.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 starofservice.com.fj.	0	IN	NS	ns-1074.awsdns-06.org.
@@ -6121,9 +6114,6 @@ wwflight.com.fj.	0	IN	NS	ns1.onlydomains.com.
 wwflight.com.fj.	0	IN	NS	ns2.onlydomains.com.
 x1.com.fj.	0	IN	NS	manu.usp.ac.fj.
 x1.com.fj.	0	IN	NS	teri.usp.ac.fj.
-xaviercollege.com.fj.	0	IN	NS	ns1.wordpress.com.
-xaviercollege.com.fj.	0	IN	NS	ns2.wordpress.com.
-xaviercollege.com.fj.	0	IN	NS	ns3.wordpress.com.
 xboxlive.com.fj.	0	IN	NS	ns1-07.azure-dns.com.
 xboxlive.com.fj.	0	IN	NS	ns2-07.azure-dns.net.
 xboxlive.com.fj.	0	IN	NS	ns3-07.azure-dns.org.
