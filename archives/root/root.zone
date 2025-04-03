@@ -15,7 +15,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025040302 1 1 26bdfdb9caaeebafdaa859cba91e2d764507ad6863f39cd89ee56247862196c2b3f243adcf022092f774768481a8212f
+.	0	IN	ZONEMD	2025040303 1 1 0646bc1d1506cc338e035cc5509116e4ccdea358d50f0169c0a009057a45c41ed47ab758d0a0cfeee0b716404681b373
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -865,10 +865,9 @@ apple.	0	IN	NS	a0.nic.apple.
 apple.	0	IN	NS	a2.nic.apple.
 apple.	0	IN	NS	b0.nic.apple.
 apple.	0	IN	NS	c0.nic.apple.
+apple.	0	IN	DS	28896 7 2 f7599dcc2766800351cb779c385e70a6633dd29ffac9423ad3678a9742442a02
 apple.	0	IN	DS	50166 7 1 20de4da26e31e393746200e709c6f4e91fe65d4f
 apple.	0	IN	DS	50166 7 2 b8038b6449b548e38fc74ce04d21726c9f052213a55573256c6867aed2e6c091
-apple.	0	IN	DS	54541 7 1 07eca60632b3a62af2be9e597d7c5b6f1bb1fc21
-apple.	0	IN	DS	54541 7 2 eb3a275c32eeab32b6f7f6a9ec1d19e327c68eaf1a55bd5b8dac634bc416e8c6
 a0.nic.apple.	0	IN	A	65.22.60.1
 a0.nic.apple.	0	IN	AAAA	2a01:8840:3a::1
 a2.nic.apple.	0	IN	A	65.22.63.1
@@ -5102,6 +5101,7 @@ discover.	0	IN	NS	ns1.dns.nic.discover.
 discover.	0	IN	NS	ns2.dns.nic.discover.
 discover.	0	IN	NS	ns3.dns.nic.discover.
 discover.	0	IN	DS	4225 8 2 d90804dc84c5e0542f8da2011babd12624318d1992483525ec125125cd576553
+discover.	0	IN	DS	11395 8 2 47124d6ed5ec3c86d3c52d6b2a4e60471e84227e9b6d8c16a6f85723c9f5f072
 a.nic.discover.	0	IN	A	37.209.192.9
 a.nic.discover.	0	IN	AAAA	2001:dcd:1::9
 b.nic.discover.	0	IN	A	37.209.194.9
@@ -13565,7 +13565,6 @@ pl.	0	IN	NS	f-dns.pl.
 pl.	0	IN	NS	h-dns.pl.
 pl.	0	IN	NS	j-dns.pl.
 pl.	0	IN	DS	35456 8 2 c1fcc88c73ccbafaa2d6d68575b01ed753786cd733a4a239324d56097f17930b
-pl.	0	IN	DS	42290 8 2 01cb881bec8bee893cd6c45b9f3185825c5faf619afb51f3c11fe1cd2c1a3785
 a-dns.pl.	0	IN	A	192.102.225.53
 a-dns.pl.	0	IN	AAAA	2001:7f9::53
 b-dns.pl.	0	IN	A	192.195.72.53
