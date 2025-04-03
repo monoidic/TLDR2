@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025040224 1 1 f53745e5ef3aaf441851b7df3f39b68358aa40ac1079ec1081e120f2bc44d005e68c51390b2e504f14c1773bdcc7bf3b
+fj.	0	IN	ZONEMD	2025040302 1 1 a6217d56d3a3b377feea185cdfb6edea5f95fa9001dd4e40fa9ae9097f86e97f19442d1a27d2e5b63c9a1841aad3a8d7
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -2412,6 +2412,8 @@ glamorous.com.fj.	0	IN	NS	ns1.gocheapweb.com.
 glamorous.com.fj.	0	IN	NS	ns2.gocheapweb.com.
 glassandmirror.com.fj.	0	IN	NS	ns6407.hostgator.com.
 glassandmirror.com.fj.	0	IN	NS	ns6408.hostgator.com.
+glassware.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+glassware.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 glaxosmithkline.com.fj.	0	IN	NS	ns.domainnetwork.se.
 glaxosmithkline.com.fj.	0	IN	NS	ns2.domainnetwork.se.
 glaxowellcome.com.fj.	0	IN	NS	dns1.safenames.com.
@@ -3564,8 +3566,8 @@ mercure.com.fj.	0	IN	NS	ns1.netnames.net.
 mercure.com.fj.	0	IN	NS	ns2.netnames.net.
 mercure.com.fj.	0	IN	NS	ns5.netnames.net.
 mercure.com.fj.	0	IN	NS	ns6.netnames.net.
-mercurenadi.com.fj.	0	IN	NS	drua.tfl.com.fj.
-mercurenadi.com.fj.	0	IN	NS	tabua.tfl.com.fj.
+mercurenadi.com.fj.	0	IN	NS	dns1.cscdns.net.
+mercurenadi.com.fj.	0	IN	NS	dns2.cscdns.net.
 meta.com.fj.	0	IN	NS	ns1.101domain.com.
 meta.com.fj.	0	IN	NS	ns2.101domain.com.
 metafacebook.com.fj.	0	IN	NS	ns1.101domain.com.
