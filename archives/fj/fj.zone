@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025040324 1 1 55474961fd4d92789b3151cbb7148a7bc6af3366bea732ae7ee1eb00ada7bc4ebba6df7477c48b247413621824709dd6
+fj.	0	IN	ZONEMD	2025040402 1 1 1b31780f5a95ce169350fb95c59decaf8111fffc31901c06c8dc89799552cbf5df9cc02b927edc6fbb8be32b8e3e084d
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -48,6 +48,8 @@ nasinumuslimschools.ac.fj.	0	IN	NS	ns1.codero.com.
 nasinumuslimschools.ac.fj.	0	IN	NS	ns2.codero.com.
 pacific.ac.fj.	0	IN	NS	caching01.usp.ac.fj.
 pacific.ac.fj.	0	IN	NS	caching02.usp.ac.fj.
+pcu.ac.fj.	0	IN	NS	caching01.usp.ac.fj.
+pcu.ac.fj.	0	IN	NS	caching02.usp.ac.fj.
 pma.ac.fj.	0	IN	NS	rex.ns.cloudflare.com.
 pma.ac.fj.	0	IN	NS	elly.ns.cloudflare.com.
 poly.ac.fj.	0	IN	NS	caching01.usp.ac.fj.
@@ -1287,8 +1289,6 @@ commandinvestments.com.fj.	0	IN	NS	drua.tfl.com.fj.
 commandinvestments.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 companies.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 companies.com.fj.	0	IN	NS	caching02.usp.ac.fj.
-companyregister.com.fj.	0	IN	NS	ns1.wwdh.hu.
-companyregister.com.fj.	0	IN	NS	ns2.wwdh.hu.
 computer1.com.fj.	0	IN	NS	ns45.domaincontrol.com.
 computer1.com.fj.	0	IN	NS	ns46.domaincontrol.com.
 computerrepairs.com.fj.	0	IN	NS	ns1.dns-parking.com.
@@ -5177,10 +5177,6 @@ ssfl.com.fj.	0	IN	NS	joan.ns.cloudflare.com.
 ssfl.com.fj.	0	IN	NS	kipp.ns.cloudflare.com.
 sslawyers.com.fj.	0	IN	NS	ns31.boxsecured.com.
 sslawyers.com.fj.	0	IN	NS	ns32.boxsecured.com.
-sssinvestments.com.fj.	0	IN	NS	ns1.bulahost.com.
-sssinvestments.com.fj.	0	IN	NS	ns2.bulahost.com.
-sssinvestments.com.fj.	0	IN	NS	ns3.bulahost.com.
-sssinvestments.com.fj.	0	IN	NS	ns4.bulahost.com.
 sstl.com.fj.	0	IN	NS	ns1.yourwebhosting.com.
 sstl.com.fj.	0	IN	NS	ns2.yourwebhosting.com.
 stanchart.com.fj.	0	IN	NS	udns1.cscdns.net.
@@ -6477,8 +6473,6 @@ ns5.fj.	0	IN	AAAA	2001:500:14:6138:ad::1
 3m.org.fj.	0	IN	NS	b.ns.3m.com.
 aa.org.fj.	0	IN	NS	idns1.netsol.com.
 aa.org.fj.	0	IN	NS	idns2.netsol.com.
-adra.org.fj.	0	IN	NS	lucy.ns.cloudflare.com.
-adra.org.fj.	0	IN	NS	carlos.ns.cloudflare.com.
 adventist.org.fj.	0	IN	NS	lucy.ns.cloudflare.com.
 adventist.org.fj.	0	IN	NS	carlos.ns.cloudflare.com.
 alphalegal.org.fj.	0	IN	NS	ns65.domaincontrol.com.
@@ -6825,8 +6819,6 @@ uckg.org.fj.	0	IN	NS	ns4215.hostgator.com.
 uckg.org.fj.	0	IN	NS	ns4216.hostgator.com.
 ups.org.fj.	0	IN	NS	dns1.cscdns.net.
 ups.org.fj.	0	IN	NS	dns2.cscdns.net.
-useyourtalents.org.fj.	0	IN	NS	ns1.dns-parking.com.
-useyourtalents.org.fj.	0	IN	NS	ns2.dns-parking.com.
 verizon.org.fj.	0	IN	NS	ns-scrm.verizon.com.
 verizon.org.fj.	0	IN	NS	ns-tmtr.verizon.com.
 vinakafiji.org.fj.	0	IN	NS	ns1.nameserver.net.nz.
