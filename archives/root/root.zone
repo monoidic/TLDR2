@@ -15,7 +15,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025040401 1 1 4a27fe62899644a0b24b08ab487106638185709a528d4d15bf61bbcf485f738f0902433d1141fee94c79d2ff3789225e
+.	0	IN	ZONEMD	2025040402 1 1 f7b7d828f84c5a02e16cc285535c5a899600f88f400910ec0d37627918c02c44d754cc8ad04aa777d0184575ab3bf4c8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5712,8 +5712,12 @@ v2n1.nic.estate.	0	IN	A	161.232.15.47
 v2n1.nic.estate.	0	IN	AAAA	2a01:8840:f9::47
 et.	0	IN	NS	a.nic.et.
 et.	0	IN	NS	b.nic.et.
+et.	0	IN	NS	c.nic.et.
+et.	0	IN	NS	d.nic.et.
 a.nic.et.	0	IN	A	197.156.74.192
 b.nic.et.	0	IN	A	197.156.74.193
+c.nic.et.	0	IN	A	196.188.116.180
+d.nic.et.	0	IN	A	196.188.116.181
 eu.	0	IN	NS	w.dns.eu.
 eu.	0	IN	NS	x.dns.eu.
 eu.	0	IN	NS	y.dns.eu.
@@ -8608,6 +8612,7 @@ in.	0	IN	NS	ns4.registry.in.
 in.	0	IN	NS	ns5.registry.in.
 in.	0	IN	NS	ns6.registry.in.
 in.	0	IN	DS	25291 8 2 2945b61339dfa7221ad82d5c6c7e3ce4e9c2523e7754acc8131d0ef94617e2f2
+in.	0	IN	DS	48140 8 2 5ee4748c2069b99c98bc39a56881a64af17cc78711e6297d43ac5a4f4b5bb6e5
 ns1.registry.in.	0	IN	A	37.209.192.12
 ns1.registry.in.	0	IN	AAAA	2001:dcd:1::12
 ns2.registry.in.	0	IN	A	37.209.194.12
@@ -19184,6 +19189,7 @@ xn--2scrj9c.	0	IN	NS	ns4.registry.in.
 xn--2scrj9c.	0	IN	NS	ns5.registry.in.
 xn--2scrj9c.	0	IN	NS	ns6.registry.in.
 xn--2scrj9c.	0	IN	DS	11140 8 2 4d6066c559009d857402623f36cfea85b92eeab23d507f12f28050ac873491c3
+xn--2scrj9c.	0	IN	DS	17027 8 2 e37f4e4c68c8045c1cfc046e65f2a42d6ce8bf1840600eda533fa202d8a445e3
 xn--30rr7y.	0	IN	NS	a.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	b.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	c.zdnscloud.com.
@@ -19221,6 +19227,7 @@ xn--3hcrj9c.	0	IN	NS	ns4.registry.in.
 xn--3hcrj9c.	0	IN	NS	ns5.registry.in.
 xn--3hcrj9c.	0	IN	NS	ns6.registry.in.
 xn--3hcrj9c.	0	IN	DS	29389 8 2 8c46dc84709bea03ab530f8e3102afb8a9ca1a20af477186dae164b4820355b0
+xn--3hcrj9c.	0	IN	DS	60622 8 2 22e187a6a66db53db0507dcc0be3ab48c3d6280a0cf133b42b4bac4975944c14
 xn--3pxu8k.	0	IN	NS	ac1.nstld.com.
 xn--3pxu8k.	0	IN	NS	ac2.nstld.com.
 xn--3pxu8k.	0	IN	NS	ac3.nstld.com.
@@ -19238,6 +19245,7 @@ xn--45br5cyl.	0	IN	NS	ns4.registry.in.
 xn--45br5cyl.	0	IN	NS	ns5.registry.in.
 xn--45br5cyl.	0	IN	NS	ns6.registry.in.
 xn--45br5cyl.	0	IN	DS	50029 8 2 1e97e87342e1fec7260827d7e786453df9950bbf59ef5e86c69c0e6deb1e387e
+xn--45br5cyl.	0	IN	DS	59426 8 2 937e8e8f25319d04147bb4999718106a1e972e8fc9c03c4d97212af925656637
 xn--45brj9c.	0	IN	NS	ns1.registry.in.
 xn--45brj9c.	0	IN	NS	ns2.registry.in.
 xn--45brj9c.	0	IN	NS	ns3.registry.in.
@@ -19245,6 +19253,7 @@ xn--45brj9c.	0	IN	NS	ns4.registry.in.
 xn--45brj9c.	0	IN	NS	ns5.registry.in.
 xn--45brj9c.	0	IN	NS	ns6.registry.in.
 xn--45brj9c.	0	IN	DS	1777 8 2 9ff53f651d2c12f7c22bd9c301132042d423d7c935935e26376e57e352b6fdf6
+xn--45brj9c.	0	IN	DS	9137 8 2 c6f790deaa6b316747eec520c29f6794975d4e5476c77eeca68429e8d0cb6188
 xn--45q11c.	0	IN	NS	a.zdnscloud.cn.
 xn--45q11c.	0	IN	NS	b.zdnscloud.cn.
 xn--45q11c.	0	IN	NS	c.zdnscloud.com.
@@ -19700,6 +19709,7 @@ xn--fpcrj9c3d.	0	IN	NS	ns4.registry.in.
 xn--fpcrj9c3d.	0	IN	NS	ns5.registry.in.
 xn--fpcrj9c3d.	0	IN	NS	ns6.registry.in.
 xn--fpcrj9c3d.	0	IN	DS	26197 8 2 eb7dfafd23a445896290691d11244bcfc9b4a1fffcd0f8927d613530c8dbe73e
+xn--fpcrj9c3d.	0	IN	DS	40310 8 2 db355c554d1e0feac19805a85638e86778ea74c314d7821404ca365bbc701c0a
 xn--fzc2c9e2c.	0	IN	NS	lk.communitydns.net.
 xn--fzc2c9e2c.	0	IN	NS	nic.lk-anycast.pch.net.
 xn--fzc2c9e2c.	0	IN	NS	ns1.ac.lk.
@@ -19765,6 +19775,7 @@ xn--gecrj9c.	0	IN	NS	ns3.registry.in.
 xn--gecrj9c.	0	IN	NS	ns4.registry.in.
 xn--gecrj9c.	0	IN	NS	ns5.registry.in.
 xn--gecrj9c.	0	IN	NS	ns6.registry.in.
+xn--gecrj9c.	0	IN	DS	50680 8 2 a7fb8b5d0067032787c19ed4950ac6dd05cf2984dc6b569931f23a5519993ad7
 xn--gecrj9c.	0	IN	DS	59902 8 2 9a26f0e597291522aff9251198c841e6573924b8b142cf99a44e292b9a252ba0
 xn--gk3at1e.	0	IN	NS	a.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	b.nic.xn--gk3at1e.
@@ -19791,6 +19802,7 @@ xn--h2breg3eve.	0	IN	NS	ns3.registry.in.
 xn--h2breg3eve.	0	IN	NS	ns4.registry.in.
 xn--h2breg3eve.	0	IN	NS	ns5.registry.in.
 xn--h2breg3eve.	0	IN	NS	ns6.registry.in.
+xn--h2breg3eve.	0	IN	DS	19984 8 2 675e532bf511fd91464ce0e99cfd03b08dba51e726f7b6d54b5b125d79659dbc
 xn--h2breg3eve.	0	IN	DS	42016 8 2 53cd6ac5fc1c70eb0014cd02992bcc719216cd7bfee0f7b624dadded7de26187
 xn--h2brj9c.	0	IN	NS	ns1.registry.in.
 xn--h2brj9c.	0	IN	NS	ns2.registry.in.
@@ -19798,6 +19810,7 @@ xn--h2brj9c.	0	IN	NS	ns3.registry.in.
 xn--h2brj9c.	0	IN	NS	ns4.registry.in.
 xn--h2brj9c.	0	IN	NS	ns5.registry.in.
 xn--h2brj9c.	0	IN	NS	ns6.registry.in.
+xn--h2brj9c.	0	IN	DS	5261 8 2 642d873a79227066e3f6e21b626cdc1e7d84cba784c4689c62126354da4b5b05
 xn--h2brj9c.	0	IN	DS	49894 8 2 72c96a20abe89f4f0a75c573b5c1edf91f8ef7940521aacf842a161d4a55e35a
 xn--h2brj9c8c.	0	IN	NS	ns1.registry.in.
 xn--h2brj9c8c.	0	IN	NS	ns2.registry.in.
@@ -19805,6 +19818,7 @@ xn--h2brj9c8c.	0	IN	NS	ns3.registry.in.
 xn--h2brj9c8c.	0	IN	NS	ns4.registry.in.
 xn--h2brj9c8c.	0	IN	NS	ns5.registry.in.
 xn--h2brj9c8c.	0	IN	NS	ns6.registry.in.
+xn--h2brj9c8c.	0	IN	DS	41536 8 2 b9473335052549628380d15f97a5c69df42316c6d50fc81dd5f7cd7a887c46a1
 xn--h2brj9c8c.	0	IN	DS	44590 8 2 c4be5d9ddc3d522148ce76774856bf13835a34d8fbe8f1228559708b15c39d92
 xn--hxt814e.	0	IN	NS	a.zdnscloud.cn.
 xn--hxt814e.	0	IN	NS	b.zdnscloud.cn.
@@ -20031,6 +20045,7 @@ xn--mgbbh1a.	0	IN	NS	ns4.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns5.registry.in.
 xn--mgbbh1a.	0	IN	NS	ns6.registry.in.
 xn--mgbbh1a.	0	IN	DS	4312 8 2 87ef57fb953465049fdbf317015eeab875ebe6f4600494a191afec6023bcf46d
+xn--mgbbh1a.	0	IN	DS	8752 8 2 3c9ba00eda2fd7b93511c6c4ff457f1399b66e4d3beaaa70e76633d7592f990f
 xn--mgbbh1a71e.	0	IN	NS	ns1.registry.in.
 xn--mgbbh1a71e.	0	IN	NS	ns2.registry.in.
 xn--mgbbh1a71e.	0	IN	NS	ns3.registry.in.
@@ -20038,6 +20053,7 @@ xn--mgbbh1a71e.	0	IN	NS	ns4.registry.in.
 xn--mgbbh1a71e.	0	IN	NS	ns5.registry.in.
 xn--mgbbh1a71e.	0	IN	NS	ns6.registry.in.
 xn--mgbbh1a71e.	0	IN	DS	14137 8 2 f965047d705b8cba0bee3cd298e612acac50a9cae453c6114387793e8adfa956
+xn--mgbbh1a71e.	0	IN	DS	20455 8 2 33d2a18bc78295abf8a0e49350c417f10924749ae157ace0ad00a95e5b9463d9
 xn--mgbc0a9azcg.	0	IN	NS	a.tld.ma.
 xn--mgbc0a9azcg.	0	IN	NS	b.tld.ma.
 xn--mgbc0a9azcg.	0	IN	NS	c.tld.ma.
@@ -20081,6 +20097,7 @@ xn--mgbgu82a.	0	IN	NS	ns3.registry.in.
 xn--mgbgu82a.	0	IN	NS	ns4.registry.in.
 xn--mgbgu82a.	0	IN	NS	ns5.registry.in.
 xn--mgbgu82a.	0	IN	NS	ns6.registry.in.
+xn--mgbgu82a.	0	IN	DS	8036 8 2 7c0b166dea37cefabfb7c1d3fe40b612fe0e72f50563bc6597e70fe73a60f496
 xn--mgbgu82a.	0	IN	DS	43765 8 2 1649858540f42632f63a6e55ef3e982a5abd98a4613ddf3bfbbdbb572f0774d7
 xn--mgbi4ecexp.	0	IN	NS	a.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	b.nic.xn--mgbi4ecexp.
@@ -20334,12 +20351,14 @@ xn--rvc1e0am3e.	0	IN	NS	ns4.registry.in.
 xn--rvc1e0am3e.	0	IN	NS	ns5.registry.in.
 xn--rvc1e0am3e.	0	IN	NS	ns6.registry.in.
 xn--rvc1e0am3e.	0	IN	DS	44785 8 2 a6bfce1bc1e4b74384cd0a53205286a4c56b822a29981e22a07233c9914a4397
+xn--rvc1e0am3e.	0	IN	DS	55189 8 2 df91baeacfc3432bc3d3aee104061bd6c4bdaa4fe2e24b4f173be77e2378a4ff
 xn--s9brj9c.	0	IN	NS	ns1.registry.in.
 xn--s9brj9c.	0	IN	NS	ns2.registry.in.
 xn--s9brj9c.	0	IN	NS	ns3.registry.in.
 xn--s9brj9c.	0	IN	NS	ns4.registry.in.
 xn--s9brj9c.	0	IN	NS	ns5.registry.in.
 xn--s9brj9c.	0	IN	NS	ns6.registry.in.
+xn--s9brj9c.	0	IN	DS	20806 8 2 f3bf5883656c3276312814d967cba8df291b0969c074788b505b56f048661310
 xn--s9brj9c.	0	IN	DS	47272 8 2 5a0f20a974fed08735863b1a312ef3582290c5a25ca6fa79c32fcc3740cdbc3e
 xn--ses554g.	0	IN	NS	a.zdnscloud.cn.
 xn--ses554g.	0	IN	NS	b.zdnscloud.cn.
@@ -20496,6 +20515,7 @@ xn--xkc2dl3a5ee0h.	0	IN	NS	ns4.registry.in.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns5.registry.in.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns6.registry.in.
 xn--xkc2dl3a5ee0h.	0	IN	DS	42949 8 2 5daf7ae834260d89a675de3088045669d58e6d9dcf2215ee95bd7c4c7a67bcf0
+xn--xkc2dl3a5ee0h.	0	IN	DS	60017 8 2 929060ac99e322e7e07fbb8f719d9f9b5a0596530756aac17e547c3179ff5e43
 xn--y9a3aq.	0	IN	NS	fork.sth.dnsnode.net.
 xn--y9a3aq.	0	IN	NS	ns-cdn.amnic.net.
 xn--y9a3aq.	0	IN	NS	ns-pch.amnic.net.
