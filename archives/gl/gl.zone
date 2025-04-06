@@ -20821,8 +20821,12 @@ yuri.gl.	0	IN	NS	bob.ns.cloudflare.com.
 yuri.gl.	0	IN	NS	chan.ns.cloudflare.com.
 yw.gl.	0	IN	NS	ns1.vercel-dns.com.
 yw.gl.	0	IN	NS	ns2.vercel-dns.com.
-yx.gl.	0	IN	NS	nero.ns.cloudflare.com.
-yx.gl.	0	IN	NS	izabella.ns.cloudflare.com.
+yx.gl.	0	IN	NS	ns1.yx.gl.
+yx.gl.	0	IN	NS	ns2.yx.gl.
+ns1.yx.gl.	0	IN	A	162.159.2.235
+ns1.yx.gl.	0	IN	AAAA	2400:cb00:2049:1::a29f:2eb
+ns2.yx.gl.	0	IN	A	162.159.3.253
+ns2.yx.gl.	0	IN	AAAA	2400:cb00:2049:1::a29f:3fd
 yy.gl.	0	IN	NS	ns1.alidns.com.
 yy.gl.	0	IN	NS	ns2.alidns.com.
 yz.gl.	0	IN	NS	nitin.ns.cloudflare.com.
