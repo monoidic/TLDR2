@@ -38,12 +38,15 @@
 * `lr.`
 * `mc.`
 * `md.`
+* `mom.`
 * `nu.`
 * `omega.`
+* `pics.`
 * `pr.`
 * `ruhr.`
 * `se.`
-* `sl.`
+* `shell.`
+* `swatch.`
 * `tn.`
 * `tz.`
 * `ve.`
