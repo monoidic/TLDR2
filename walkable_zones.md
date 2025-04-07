@@ -44,7 +44,6 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
-* `se.`
 * `shell.`
 * `swatch.`
 * `tn.`
