@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025041124 1 1 14a5df47333cdba3a285be3cd06249d3d63c7f2ca0fc8c8791487f58905e60f4b98534ebf10c81e4c814b7a98085249f
+fj.	0	IN	ZONEMD	2025041202 1 1 2b4895920930b72cd70b2781693f725cbd9b8f334d734c9646e6373955ff2eb1b24f29fc17f401d5d7711a9be37d5691
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -1209,11 +1209,6 @@ cloud9.com.fj.	0	IN	NS	amanda.ns.cloudflare.com.
 cloud9.com.fj.	0	IN	NS	coleman.ns.cloudflare.com.
 cloudit.com.fj.	0	IN	NS	tori.ns.cloudflare.com.
 cloudit.com.fj.	0	IN	NS	aragorn.ns.cloudflare.com.
-cloudone.com.fj.	0	IN	NS	freedns1.registrar-servers.com.
-cloudone.com.fj.	0	IN	NS	freedns2.registrar-servers.com.
-cloudone.com.fj.	0	IN	NS	freedns3.registrar-servers.com.
-cloudone.com.fj.	0	IN	NS	freedns4.registrar-servers.com.
-cloudone.com.fj.	0	IN	NS	freedns5.registrar-servers.com.
 cloudtorque.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 cloudtorque.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 cloudvms.com.fj.	0	IN	NS	ns1.bluehost.com.
@@ -5006,6 +5001,8 @@ sigatokatown.com.fj.	0	IN	NS	ns1.bluehost.com.
 sigatokatown.com.fj.	0	IN	NS	ns2.bluehost.com.
 signadz.com.fj.	0	IN	NS	ns1.ipage.com.
 signadz.com.fj.	0	IN	NS	ns2.ipage.com.
+signfabricators.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+signfabricators.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 signsupplies.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
 signsupplies.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 signzplus.com.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -6598,8 +6595,6 @@ fma.org.fj.	0	IN	NS	ns2.he.net.
 fma.org.fj.	0	IN	NS	ns3.he.net.
 fma.org.fj.	0	IN	NS	ns4.he.net.
 fma.org.fj.	0	IN	NS	ns5.he.net.
-fnacu.org.fj.	0	IN	NS	ns1.codero.com.
-fnacu.org.fj.	0	IN	NS	ns2.codero.com.
 foha.org.fj.	0	IN	NS	ns1.dns-parking.com.
 foha.org.fj.	0	IN	NS	ns2.dns-parking.com.
 fpsa.org.fj.	0	IN	NS	ns1.auserver.com.au.
