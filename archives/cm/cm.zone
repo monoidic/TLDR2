@@ -31912,8 +31912,10 @@ excelsior.cm.	0	IN	NS	ns2.xserver.jp.
 excelsior.cm.	0	IN	NS	ns3.xserver.jp.
 excelsior.cm.	0	IN	NS	ns4.xserver.jp.
 excelsior.cm.	0	IN	NS	ns5.xserver.jp.
-exch.cm.	0	IN	NS	ns3.my-ndns.com.
-exch.cm.	0	IN	NS	ns4.my-ndns.com.
+exch.cm.	0	IN	NS	ns1.exch.cm.
+exch.cm.	0	IN	NS	ns2.exch.cm.
+ns1.exch.cm.	0	IN	A	89.248.174.245
+ns2.exch.cm.	0	IN	A	89.248.174.246
 exchange.cm.	0	IN	NS	nsgbr.comlaude.co.uk.
 exchange.cm.	0	IN	NS	nssui.comlaude.ch.
 exchange.cm.	0	IN	NS	nsusa.comlaude.net.
@@ -45418,6 +45420,8 @@ m8.cm.	0	IN	NS	dns1.registrar-servers.com.
 m8.cm.	0	IN	NS	dns2.registrar-servers.com.
 m86.cm.	0	IN	NS	ns1.netsto.net.
 m86.cm.	0	IN	NS	ns2.netsto.net.
+m88.cm.	0	IN	NS	ns3.abovedomains.com.
+m88.cm.	0	IN	NS	ns4.abovedomains.com.
 m889qp.cm.	0	IN	NS	ns6.netsto.net.
 m889qp.cm.	0	IN	NS	ns7.netsto.net.
 m8zb.cm.	0	IN	NS	ns1.netsto.net.
