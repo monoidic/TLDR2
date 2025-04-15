@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025041424 1 1 3c04b1a40b549b6657c5a4ead6d8fbba52e12c589870209dbbbd0a7b9f8923ec36b3a53dd377e4d547e2f59737541316
+fj.	0	IN	ZONEMD	2025041502 1 1 ea34fd6293180f580ab48a90f58542e3dfe0627db38dec8a06965c5d74c323aa0fc7dcafd5692456079090901eb0a325
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -177,6 +177,8 @@ vodaphone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 3sacarpet.com.fj.	0	IN	NS	ns2.webhost4life.com.
 3xvifiji.com.fj.	0	IN	NS	ns1.bluehost.com.
 3xvifiji.com.fj.	0	IN	NS	ns2.bluehost.com.
+47rcafiji.com.fj.	0	IN	NS	ns1.vodafone.net.fj.
+47rcafiji.com.fj.	0	IN	NS	ns2.vodafone.net.fj.
 480travel.com.fj.	0	IN	NS	drua.tfl.com.fj.
 480travel.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 6thsense.com.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -1366,8 +1368,6 @@ credit-swiss.com.fj.	0	IN	NS	dns1.credit-suisse.com.
 credit-swiss.com.fj.	0	IN	NS	dns2.credit-suisse.com.
 creditcorp.com.fj.	0	IN	NS	miki.ns.cloudflare.com.
 creditcorp.com.fj.	0	IN	NS	graham.ns.cloudflare.com.
-creditcorporation.com.fj.	0	IN	NS	caching01.usp.ac.fj.
-creditcorporation.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 creditsuisse.com.fj.	0	IN	NS	dns1.credit-suisse.com.
 creditsuisse.com.fj.	0	IN	NS	dns2.credit-suisse.com.
 creditsuisse.com.fj.	0	IN	NS	dns3.credit-suisse.com.
@@ -5665,8 +5665,10 @@ tudorwatch.com.fj.	0	IN	NS	dns3.p02.nsone.net.
 tudorwatch.com.fj.	0	IN	NS	dns4.p02.nsone.net.
 tuivt.com.fj.	0	IN	NS	caching01.usp.ac.fj.
 tuivt.com.fj.	0	IN	NS	caching02.usp.ac.fj.
-tulsiconstruction.com.fj.	0	IN	NS	ns1.nzcloudservices.nz.
-tulsiconstruction.com.fj.	0	IN	NS	ns2.nzcloudservices.nz.
+tulsiconstruction.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
+tulsiconstruction.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
+tulsiconstruction.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
+tulsiconstruction.com.fj.	0	IN	NS	ns4.bdm.microsoftonline.com.
 tuwawabeverages.com.fj.	0	IN	NS	ns1.onlydomains.com.
 tuwawabeverages.com.fj.	0	IN	NS	ns2.onlydomains.com.
 tuwawabeverages.com.fj.	0	IN	NS	ns3.onlydomains.com.
