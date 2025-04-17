@@ -6,7 +6,7 @@ fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 xjBcQkAQnKZJqgzmMTdN4N4fedmxtfvC6K74tU0Fmgs= ;{id = 42696 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
-fj.	0	IN	ZONEMD	2025041704 1 1 50c37f7ac6ae525355b47ef77c3b9980a6669d73efd5f211b54b1c69692cae2135554c2287fba2213618cffe3dc65401
+fj.	0	IN	ZONEMD	2025041705 1 1 bf95c5667c7944c8e87d2fa47f43b1144eaec61f3b38f4c680f6c28a99c263ad142221d3c63da0d7b79fb90c05f7278c
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	0	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	0	IN	NS	ns1.101domain.com.
@@ -3117,10 +3117,14 @@ kayak.com.fj.	0	IN	NS	ns.rwgusa.net.
 kayak.com.fj.	0	IN	NS	ns2.rwgusa.net.
 kbhindi.com.fj.	0	IN	NS	drua.tfl.com.fj.
 kbhindi.com.fj.	0	IN	NS	tabua.tfl.com.fj.
-kbl.com.fj.	0	IN	NS	drua.tfl.com.fj.
-kbl.com.fj.	0	IN	NS	tabua.tfl.com.fj.
-kblpapers.com.fj.	0	IN	NS	drua.tfl.com.fj.
-kblpapers.com.fj.	0	IN	NS	tabua.tfl.com.fj.
+kbl.com.fj.	0	IN	NS	ns1.supercp.com.
+kbl.com.fj.	0	IN	NS	ns2.supercp.com.
+kbl.com.fj.	0	IN	NS	ns3.supercp.com.
+kbl.com.fj.	0	IN	NS	ns4.supercp.com.
+kblpapers.com.fj.	0	IN	NS	ns1.supercp.com.
+kblpapers.com.fj.	0	IN	NS	ns2.supercp.com.
+kblpapers.com.fj.	0	IN	NS	ns3.supercp.com.
+kblpapers.com.fj.	0	IN	NS	ns4.supercp.com.
 keen.com.fj.	0	IN	NS	dns1.cscdns.net.
 keen.com.fj.	0	IN	NS	dns2.cscdns.net.
 kenua.com.fj.	0	IN	NS	ns1.ipage.com.
