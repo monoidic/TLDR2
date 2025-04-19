@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025041900 1 1 a30f6eba64cbf128b41216049cfddf780d42c56db0e43b085de16565cc8770b2b873873c239a65318ace829e48c72e23
+.	0	IN	ZONEMD	2025041901 1 1 5f28104b783305553178da0aba1ddb44adadc60e86886cb3af020881b9c34d8becc2f65140bdcf93151f52ef61a592ba
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2131,9 +2131,12 @@ b0.nic.blockbuster.	0	IN	A	65.22.93.25
 b0.nic.blockbuster.	0	IN	AAAA	2a01:8840:5b::25
 c0.nic.blockbuster.	0	IN	A	65.22.94.25
 c0.nic.blockbuster.	0	IN	AAAA	2a01:8840:5c::25
+blog.	0	IN	NS	a.ns.nic.blog.
 blog.	0	IN	NS	a.nic.blog.
+blog.	0	IN	NS	b.ns.nic.blog.
 blog.	0	IN	NS	b.nic.blog.
 blog.	0	IN	NS	c.nic.blog.
+blog.	0	IN	NS	d.ns.nic.blog.
 blog.	0	IN	NS	d.nic.blog.
 blog.	0	IN	DS	6766 8 2 65581cc0c38868bb708cb1c981f61b8d332c201a9a25b71dcb91ae9959443c32
 blog.	0	IN	DS	17455 8 2 c0d6cd12fcb746bb819df417dfa43ed0d4227bd62195f749537af85a939d2a21
@@ -2145,6 +2148,12 @@ c.nic.blog.	0	IN	A	212.18.248.94
 c.nic.blog.	0	IN	AAAA	2a04:2b00:13ee::94
 d.nic.blog.	0	IN	A	212.18.249.94
 d.nic.blog.	0	IN	AAAA	2a04:2b00:13ff::94
+a.ns.nic.blog.	0	IN	A	185.159.197.9
+a.ns.nic.blog.	0	IN	AAAA	2620:10a:80aa::9
+b.ns.nic.blog.	0	IN	A	185.159.198.9
+b.ns.nic.blog.	0	IN	AAAA	2620:10a:80ab::9
+d.ns.nic.blog.	0	IN	A	185.159.199.9
+d.ns.nic.blog.	0	IN	AAAA	2620:10a:80ac::9
 bloomberg.	0	IN	NS	v0n0.nic.bloomberg.
 bloomberg.	0	IN	NS	v0n1.nic.bloomberg.
 bloomberg.	0	IN	NS	v0n2.nic.bloomberg.
