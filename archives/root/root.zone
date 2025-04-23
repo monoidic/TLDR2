@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025042300 1 1 935c4b4e62947e2b12c700d6e3dd906c01b6bfc3bab2bbe38e0054a6c2d8f427e31da6fd76ca963a4b498ee7c0cdf80f
+.	0	IN	ZONEMD	2025042301 1 1 64745883882eca542580d527c5c9532c9ccd115b75a0da72152cae4faca021c3f1b34628da1bfa6c873457f12d465621
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1806,31 +1806,6 @@ y.nic.beer.	0	IN	A	156.154.173.82
 y.nic.beer.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.beer.	0	IN	A	156.154.174.82
 z.nic.beer.	0	IN	AAAA	2610:a1:1076::1:82
-bentley.	0	IN	NS	dns1.nic.bentley.
-bentley.	0	IN	NS	dns2.nic.bentley.
-bentley.	0	IN	NS	dns3.nic.bentley.
-bentley.	0	IN	NS	dns4.nic.bentley.
-bentley.	0	IN	NS	dnsa.nic.bentley.
-bentley.	0	IN	NS	dnsb.nic.bentley.
-bentley.	0	IN	NS	dnsc.nic.bentley.
-bentley.	0	IN	NS	dnsd.nic.bentley.
-bentley.	0	IN	DS	56257 8 2 cf15159ec1841ae2cf91d95b5889eb14574efbcfb069132903e025345a39af7b
-dns1.nic.bentley.	0	IN	A	213.248.219.5
-dns1.nic.bentley.	0	IN	AAAA	2a01:618:403::5
-dns2.nic.bentley.	0	IN	A	103.49.83.5
-dns2.nic.bentley.	0	IN	AAAA	2401:fd80:403::5
-dns3.nic.bentley.	0	IN	A	213.248.223.5
-dns3.nic.bentley.	0	IN	AAAA	2a01:618:407::5
-dns4.nic.bentley.	0	IN	A	43.230.51.5
-dns4.nic.bentley.	0	IN	AAAA	2401:fd80:407::5
-dnsa.nic.bentley.	0	IN	A	156.154.100.3
-dnsa.nic.bentley.	0	IN	AAAA	2001:502:ad09::3
-dnsb.nic.bentley.	0	IN	A	156.154.101.3
-dnsb.nic.bentley.	0	IN	AAAA	2001:502:2eda::3
-dnsc.nic.bentley.	0	IN	A	156.154.102.3
-dnsc.nic.bentley.	0	IN	AAAA	2610:a1:1009::3
-dnsd.nic.bentley.	0	IN	A	156.154.103.3
-dnsd.nic.bentley.	0	IN	AAAA	2610:a1:1010::3
 berlin.	0	IN	NS	a.dns.nic.berlin.
 berlin.	0	IN	NS	m.dns.nic.berlin.
 berlin.	0	IN	NS	n.dns.nic.berlin.
@@ -2132,22 +2107,10 @@ b0.nic.blockbuster.	0	IN	AAAA	2a01:8840:5b::25
 c0.nic.blockbuster.	0	IN	A	65.22.94.25
 c0.nic.blockbuster.	0	IN	AAAA	2a01:8840:5c::25
 blog.	0	IN	NS	a.ns.nic.blog.
-blog.	0	IN	NS	a.nic.blog.
 blog.	0	IN	NS	b.ns.nic.blog.
-blog.	0	IN	NS	b.nic.blog.
-blog.	0	IN	NS	c.nic.blog.
 blog.	0	IN	NS	d.ns.nic.blog.
-blog.	0	IN	NS	d.nic.blog.
 blog.	0	IN	DS	6766 8 2 65581cc0c38868bb708cb1c981f61b8d332c201a9a25b71dcb91ae9959443c32
 blog.	0	IN	DS	17455 8 2 c0d6cd12fcb746bb819df417dfa43ed0d4227bd62195f749537af85a939d2a21
-a.nic.blog.	0	IN	A	194.169.218.94
-a.nic.blog.	0	IN	AAAA	2001:67c:13cc::1:94
-b.nic.blog.	0	IN	A	185.24.64.94
-b.nic.blog.	0	IN	AAAA	2a04:2b00:13cc::1:94
-c.nic.blog.	0	IN	A	212.18.248.94
-c.nic.blog.	0	IN	AAAA	2a04:2b00:13ee::94
-d.nic.blog.	0	IN	A	212.18.249.94
-d.nic.blog.	0	IN	AAAA	2a04:2b00:13ff::94
 a.ns.nic.blog.	0	IN	A	185.159.197.9
 a.ns.nic.blog.	0	IN	AAAA	2620:10a:80aa::9
 b.ns.nic.blog.	0	IN	A	185.159.198.9
@@ -3775,6 +3738,7 @@ cm.	0	IN	NS	ns-cm.nic.fr.
 cm.	0	IN	NS	ns-cm.afrinic.net.
 cm.	0	IN	NS	auth02.ns.uu.net.
 cm.	0	IN	NS	phloem.uoregon.edu.
+cm.	0	IN	DS	45784 13 2 bc03884ae075280b78a03306ebcd816e29e014a74247c68887ff1b37d22f81f5
 ns1.nic.cm.	0	IN	A	195.24.205.60
 ns2.nic.cm.	0	IN	A	195.24.205.61
 cn.	0	IN	NS	a.dns.cn.
