@@ -25,8 +25,10 @@
 * `game.`
 * `gdn.`
 * `gn.`
+* `guitars.`
 * `hosting.`
 * `id.`
+* `ieee.`
 * `kg.`
 * `kz.`
 * `lb.`
@@ -42,6 +44,7 @@
 * `pics.`
 * `pr.`
 * `ruhr.`
+* `se.`
 * `shell.`
 * `swatch.`
 * `tn.`
@@ -53,3 +56,4 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
