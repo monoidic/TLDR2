@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025042401 1 1 0124e2235236972336901fa5fa9cd8a3cb84608e2bbc3ee5bb74e50f408a5f62461b1a6053d4f71aea448acfb576129d
+.	0	IN	ZONEMD	2025042402 1 1 16a79714924c7b2d1de6b234eed35356976a3c383983b3ddb1b6747fc2f943735439af91ea993b1b151c35f2cdf1f84a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -797,6 +797,7 @@ anquan.	0	IN	NS	ns2.teleinfoo.com.
 anquan.	0	IN	NS	ns3.teleinfo.cn.
 anquan.	0	IN	NS	ns4.teleinfoo.com.
 anquan.	0	IN	DS	27565 8 2 f8bcdc5d341ec24ca492b2a1fade90c2535844cb0f086a6ab77e0059ea2e8cdf
+anquan.	0	IN	DS	33427 8 2 491e98ab4efb5c395dbb863edeaaf2e9d696df4391a9ea393242a307eaf1b85c
 anz.	0	IN	NS	a.nic.anz.
 anz.	0	IN	NS	b.nic.anz.
 anz.	0	IN	NS	c.nic.anz.
@@ -15675,6 +15676,7 @@ shouji.	0	IN	NS	ns2.teleinfoo.com.
 shouji.	0	IN	NS	ns3.teleinfo.cn.
 shouji.	0	IN	NS	ns4.teleinfoo.com.
 shouji.	0	IN	DS	27565 8 2 e9706714550cf565afcb114fda3dd0a4f105db670e12074a1a26b71c34f69125
+shouji.	0	IN	DS	33427 8 2 4aca9b2d5a9b6ea5f9ae129bde41a5303564670d4a33feb061605313432fdb1e
 show.	0	IN	NS	v0n0.nic.show.
 show.	0	IN	NS	v0n1.nic.show.
 show.	0	IN	NS	v0n2.nic.show.
@@ -19111,6 +19113,7 @@ xihuan.	0	IN	NS	ns2.teleinfoo.com.
 xihuan.	0	IN	NS	ns3.teleinfo.cn.
 xihuan.	0	IN	NS	ns4.teleinfoo.com.
 xihuan.	0	IN	DS	27565 8 2 b77f15373b8af8e7ba2d8641701ae833416f8d439bbdaee71d18ce55efde7903
+xihuan.	0	IN	DS	33427 8 2 1061b1aacada68d55b091340a0765746a4fa68530d47faa10edfcd3237e3748c
 xin.	0	IN	NS	a0.nic.xin.
 xin.	0	IN	NS	a2.nic.xin.
 xin.	0	IN	NS	b0.nic.xin.
@@ -19185,6 +19188,7 @@ xn--3ds443g.	0	IN	NS	ns2.teleinfoo.com.
 xn--3ds443g.	0	IN	NS	ns3.teleinfo.cn.
 xn--3ds443g.	0	IN	NS	ns4.teleinfoo.com.
 xn--3ds443g.	0	IN	DS	27565 8 2 b0e469c6095b437074bfc7ebc7ab15ed6434662aab72c95d45e110d44233edb2
+xn--3ds443g.	0	IN	DS	33427 8 2 67f42f1dc46a88a122464c5d6f1d98408c6dedc4d9b5091cf43eceb660e3c6c9
 xn--3e0b707e.	0	IN	NS	b.dns.kr.
 xn--3e0b707e.	0	IN	NS	c.dns.kr.
 xn--3e0b707e.	0	IN	NS	d.dns.kr.
@@ -19628,6 +19632,7 @@ xn--fiq228c5hs.	0	IN	NS	ns2.teleinfoo.com.
 xn--fiq228c5hs.	0	IN	NS	ns3.teleinfo.cn.
 xn--fiq228c5hs.	0	IN	NS	ns4.teleinfoo.com.
 xn--fiq228c5hs.	0	IN	DS	27565 8 2 646412b3004632fd45544ebec09e1a2f27e3dda2489814a170dfb2052ba1787c
+xn--fiq228c5hs.	0	IN	DS	33427 8 2 9373571e24ca1f9df9d012a5b01044f0a856fdab8aab3d9be97a2690521da024
 xn--fiq64b.	0	IN	NS	a.zdnscloud.cn.
 xn--fiq64b.	0	IN	NS	b.zdnscloud.cn.
 xn--fiq64b.	0	IN	NS	c.zdnscloud.com.
@@ -20441,6 +20446,7 @@ xn--vuq861b.	0	IN	NS	ns2.teleinfoo.com.
 xn--vuq861b.	0	IN	NS	ns3.teleinfo.cn.
 xn--vuq861b.	0	IN	NS	ns4.teleinfoo.com.
 xn--vuq861b.	0	IN	DS	7210 8 2 eee275c0966a2dcd2bc5b996b6c8fa003e991d877d456c2530d4681e1eee0d55
+xn--vuq861b.	0	IN	DS	33427 8 2 361f3209d8856bcf488f2075668167627204356f703e2d1356d9e4d41a61a480
 xn--w4r85el8fhu5dnra.	0	IN	NS	ac1.nstld.com.
 xn--w4r85el8fhu5dnra.	0	IN	NS	ac2.nstld.com.
 xn--w4r85el8fhu5dnra.	0	IN	NS	ac3.nstld.com.
@@ -20693,6 +20699,7 @@ yun.	0	IN	NS	ns2.teleinfoo.com.
 yun.	0	IN	NS	ns3.teleinfo.cn.
 yun.	0	IN	NS	ns4.teleinfoo.com.
 yun.	0	IN	DS	27565 8 2 d8b3c3d5ee497216f3920a87706f270101f63803903de581669754ac772baa85
+yun.	0	IN	DS	33427 8 2 e3eec0d837b6ca47052a5dcb693726c6ec3d2138624ed7b6e81a7a557bf7de60
 za.	0	IN	NS	za1.dnsnode.net.
 za.	0	IN	NS	nsza.is.co.za.
 za.	0	IN	NS	za-ns.anycast.pch.net.
