@@ -15,6 +15,7 @@
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
 .	0	IN	ZONEMD	2025042501 1 1 32dd6afc8a31f91b47f95b70c28de6822f97c222f6bc0df6685e201cd696584cd53a978e6beb2906461a6cc609038050
+.	0	IN	ZONEMD	2025042502 1 1 9709f11f97a29eae929b731754dc445d35ce92787f068efcaf4a2c959a9f54194054a07d8e20b252edffe06d556caf71
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -13209,6 +13210,7 @@ pg.	0	IN	NS	dns.pch.pg.
 pg.	0	IN	NS	uot.nic.pg.
 pg.	0	IN	NS	gransy1.nic.pg.
 pg.	0	IN	NS	gransy2.nic.pg.
+pg.	0	IN	DS	23985 15 2 1435d979dcac97970f142938ce1be5d6af7ac9fe75a8b8254fa1eb9251c7c37f
 gransy1.nic.pg.	0	IN	A	185.28.194.194
 gransy1.nic.pg.	0	IN	AAAA	2a00:fea0:dead::beef
 gransy2.nic.pg.	0	IN	A	185.38.108.108
@@ -19937,6 +19939,7 @@ xn--kput3i.	0	IN	NS	ns2.teleinfoo.com.
 xn--kput3i.	0	IN	NS	ns3.teleinfo.cn.
 xn--kput3i.	0	IN	NS	ns4.teleinfoo.com.
 xn--kput3i.	0	IN	DS	27565 8 2 a00d06ba7171102d9575f47af108b70ff9e24ce0d2ed3ad8f8923f14bb58f217
+xn--kput3i.	0	IN	DS	33427 8 2 c125fe3fc3d32cdac7709cd8b89732578a80ce3d5547b4dcce3c50217bd4864d
 xn--l1acc.	0	IN	NS	ns1.idn.mn.
 xn--l1acc.	0	IN	NS	ns2.idn.mn.
 xn--l1acc.	0	IN	NS	ns3.idn.mn.
