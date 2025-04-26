@@ -5467,8 +5467,10 @@ csmwanamboka.cd.	0	IN	NS	ns1.dnshostservices.com.
 csmwanamboka.cd.	0	IN	NS	ns2.dnshostservices.com.
 csn-ghc.cd.	0	IN	NS	ns1.scpt-network.cd.
 csn-ghc.cd.	0	IN	NS	ns2.scpt-network.cd.
-csp.cd.	0	IN	NS	ndns2.ovh.net.
-csp.cd.	0	IN	NS	ns3035612.ovh.net.
+csp.cd.	0	IN	NS	ns1.csp.cd.
+csp.cd.	0	IN	NS	ns2.csp.cd.
+ns1.csp.cd.	0	IN	A	15.235.85.119
+ns2.csp.cd.	0	IN	A	15.235.85.119
 cspp.cd.	0	IN	NS	ns1.dns-parking.com.
 cspp.cd.	0	IN	NS	ns2.dns-parking.com.
 csprint.cd.	0	IN	NS	ns1.uniteddns.net.
