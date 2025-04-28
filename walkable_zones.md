@@ -45,7 +45,6 @@
 * `ruhr.`
 * `se.`
 * `shell.`
-* `sl.`
 * `swatch.`
 * `tn.`
 * `tz.`
