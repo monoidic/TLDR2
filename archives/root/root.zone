@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025042901 1 1 cdd51fa759aa0c98fc22c3c08b923ae9aea516d04c679c38c62ae3ff13a6deaf2e95649945691ede50a4f57a612add5b
+.	0	IN	ZONEMD	2025042902 1 1 cd62f8e7f2c273f6585825bdf44bb922a46496a9985d6d8bbed643bb0198be9337aaff568a0e861ef3023804cb8c591f
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -6609,8 +6609,6 @@ f.ext.nic.fr.	0	IN	A	194.146.106.46
 f.ext.nic.fr.	0	IN	AAAA	2001:67c:1010:11::53
 g.ext.nic.fr.	0	IN	A	194.0.36.1
 g.ext.nic.fr.	0	IN	AAAA	2001:678:4c::1
-h.ext.nic.fr.	0	IN	A	195.253.66.2
-h.ext.nic.fr.	0	IN	AAAA	2a01:5b0:6::2
 ci.hosting.nic.fr.	0	IN	A	192.134.0.49
 ci.hosting.nic.fr.	0	IN	AAAA	2001:660:3006:1::1:1
 ns-bf.nic.fr.	0	IN	A	194.0.9.1
@@ -9754,10 +9752,6 @@ b0.nic.lamer.	0	IN	A	65.22.53.25
 b0.nic.lamer.	0	IN	AAAA	2a01:8840:33::25
 c0.nic.lamer.	0	IN	A	65.22.54.25
 c0.nic.lamer.	0	IN	AAAA	2a01:8840:34::25
-lancaster.	0	IN	NS	d.nic.fr.
-lancaster.	0	IN	NS	f.ext.nic.fr.
-lancaster.	0	IN	NS	g.ext.nic.fr.
-lancaster.	0	IN	DS	13478 13 2 bfbd5142e935c01a65a186d56f01124d6832ac3cdc6ede681f50a12ff9c73ead
 land.	0	IN	NS	v0n0.nic.land.
 land.	0	IN	NS	v0n1.nic.land.
 land.	0	IN	NS	v0n2.nic.land.
@@ -13054,7 +13048,6 @@ panasonic.	0	IN	DS	45016 8 2 a4b88bfb2b883fdf8ca5630562061fd5d7979f203962d1f4c5a
 paris.	0	IN	NS	d.nic.fr.
 paris.	0	IN	NS	f.ext.nic.fr.
 paris.	0	IN	NS	g.ext.nic.fr.
-paris.	0	IN	NS	h.ext.nic.fr.
 paris.	0	IN	DS	29441 13 2 2a63e38eb019ad4300a2d9533fae0db139328ceffd0861cd8db1c401ca0258d9
 pars.	0	IN	NS	dns1.emdns.uk.
 pars.	0	IN	NS	dns2.emdns.uk.
