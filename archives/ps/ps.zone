@@ -28,8 +28,8 @@ ps.	0	IN	NS	ps-ns.anycast.pch.net.
 101domain.ps.	0	IN	NS	nelly.ns.cloudflare.com.
 101domains.ps.	0	IN	NS	dale.ns.cloudflare.com.
 101domains.ps.	0	IN	NS	nelly.ns.cloudflare.com.
-101ml.ps.	0	IN	NS	elliot.ns.cloudflare.com.
-101ml.ps.	0	IN	NS	gloria.ns.cloudflare.com.
+101ml.ps.	0	IN	NS	byron.ns.cloudflare.com.
+101ml.ps.	0	IN	NS	kelly.ns.cloudflare.com.
 112.ps.	0	IN	NS	dns3.gov.ps.
 112.ps.	0	IN	NS	dns4.pna.ps.
 112.ps.	0	IN	NS	dns5.gov.ps.
@@ -17699,7 +17699,10 @@ uems.ps.	0	IN	NS	ns1045.ui-dns.de.
 uems.ps.	0	IN	NS	ns1045.ui-dns.biz.
 uems.ps.	0	IN	NS	ns1045.ui-dns.com.
 uems.ps.	0	IN	NS	ns1045.ui-dns.org.
-ufa.ps.	0	IN	NS	nc-ph-0001-92.web-hosting.com.
+ufa.ps.	0	IN	NS	ns1.ufa.ps.
+ufa.ps.	0	IN	NS	ns2.ufa.ps.
+ns1.ufa.ps.	0	IN	A	209.188.21.137
+ns2.ufa.ps.	0	IN	A	209.188.21.137
 ufoq.ps.	0	IN	NS	ns1.dns-parking.com.
 ufoq.ps.	0	IN	NS	ns2.dns-parking.com.
 ugreen.ps.	0	IN	NS	deb.ns.cloudflare.com.
