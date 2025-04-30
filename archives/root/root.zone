@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025043001 1 1 2dfeffc6cf699d2cb6614955add3a2c9c3bcb2ef00d35759f96a9002a5db4f579c83840521a22c98712cf6b96b224960
+.	0	IN	ZONEMD	2025043002 1 1 097a977ea982d648cec582c3a3cd064b8de911cbc3e93da6074fc2d88c566a776e01ad961e5a01b877cf61aa7e48a8ac
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -1862,6 +1862,7 @@ bf.	0	IN	NS	a.registre.bf.
 bf.	0	IN	NS	pch.ns.registre.bf.
 bf.	0	IN	NS	ns-bf.nic.fr.
 bf.	0	IN	NS	dns-tld.ird.fr.
+bf.	0	IN	DS	59875 13 2 fe5713c51eafd6b7117ac4b7d1d6ea7c6085eb66fe1021235986622ddcf34dce
 a.registre.bf.	0	IN	A	212.52.146.50
 pch.ns.registre.bf.	0	IN	A	204.61.216.141
 pch.ns.registre.bf.	0	IN	AAAA	2001:500:14:6141:ad::1
@@ -5063,26 +5064,26 @@ v2n0.nic.discount.	0	IN	A	65.22.31.57
 v2n0.nic.discount.	0	IN	AAAA	2a01:8840:21::57
 v2n1.nic.discount.	0	IN	A	161.232.15.57
 v2n1.nic.discount.	0	IN	AAAA	2a01:8840:f9::57
-discover.	0	IN	NS	a.nic.discover.
-discover.	0	IN	NS	b.nic.discover.
-discover.	0	IN	NS	c.nic.discover.
-discover.	0	IN	NS	ns1.dns.nic.discover.
-discover.	0	IN	NS	ns2.dns.nic.discover.
-discover.	0	IN	NS	ns3.dns.nic.discover.
+discover.	0	IN	NS	v0n0.nic.discover.
+discover.	0	IN	NS	v0n1.nic.discover.
+discover.	0	IN	NS	v0n2.nic.discover.
+discover.	0	IN	NS	v0n3.nic.discover.
+discover.	0	IN	NS	v2n0.nic.discover.
+discover.	0	IN	NS	v2n1.nic.discover.
 discover.	0	IN	DS	4225 8 2 d90804dc84c5e0542f8da2011babd12624318d1992483525ec125125cd576553
 discover.	0	IN	DS	11395 8 2 47124d6ed5ec3c86d3c52d6b2a4e60471e84227e9b6d8c16a6f85723c9f5f072
-a.nic.discover.	0	IN	A	37.209.192.9
-a.nic.discover.	0	IN	AAAA	2001:dcd:1::9
-b.nic.discover.	0	IN	A	37.209.194.9
-b.nic.discover.	0	IN	AAAA	2001:dcd:2::9
-c.nic.discover.	0	IN	A	37.209.196.9
-c.nic.discover.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.discover.	0	IN	A	156.154.144.48
-ns1.dns.nic.discover.	0	IN	AAAA	2610:a1:1071::30
-ns2.dns.nic.discover.	0	IN	A	156.154.145.48
-ns2.dns.nic.discover.	0	IN	AAAA	2610:a1:1072::30
-ns3.dns.nic.discover.	0	IN	A	156.154.159.48
-ns3.dns.nic.discover.	0	IN	AAAA	2610:a1:1073::30
+v0n0.nic.discover.	0	IN	A	65.22.108.30
+v0n0.nic.discover.	0	IN	AAAA	2a01:8840:6a::30
+v0n1.nic.discover.	0	IN	A	65.22.109.30
+v0n1.nic.discover.	0	IN	AAAA	2a01:8840:6b::30
+v0n2.nic.discover.	0	IN	A	65.22.110.30
+v0n2.nic.discover.	0	IN	AAAA	2a01:8840:6c::30
+v0n3.nic.discover.	0	IN	A	161.232.32.30
+v0n3.nic.discover.	0	IN	AAAA	2a01:8840:108::30
+v2n0.nic.discover.	0	IN	A	65.22.111.30
+v2n0.nic.discover.	0	IN	AAAA	2a01:8840:6d::30
+v2n1.nic.discover.	0	IN	A	161.232.33.30
+v2n1.nic.discover.	0	IN	AAAA	2a01:8840:109::30
 dish.	0	IN	NS	a0.nic.dish.
 dish.	0	IN	NS	a2.nic.dish.
 dish.	0	IN	NS	b0.nic.dish.
@@ -6616,6 +6617,7 @@ ns-bf.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-bj.nic.fr.	0	IN	A	194.0.9.1
 ns-bj.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-cm.nic.fr.	0	IN	A	194.0.9.1
+ns-cm.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-gp.nic.fr.	0	IN	A	194.0.9.1
 ns-gp.nic.fr.	0	IN	AAAA	2001:678:c::1
 ns-ht.nic.fr.	0	IN	A	194.0.9.1
@@ -11824,6 +11826,7 @@ ns-bw.afrinic.net.	0	IN	AAAA	2001:43f8:120::72
 ns-ci.afrinic.net.	0	IN	A	196.216.168.30
 ns-ci.afrinic.net.	0	IN	AAAA	2001:43f8:120::30
 ns-cm.afrinic.net.	0	IN	A	196.216.168.67
+ns-cm.afrinic.net.	0	IN	AAAA	2001:43f8:120::67
 ns-dz.afrinic.net.	0	IN	A	196.216.168.36
 ns-dz.afrinic.net.	0	IN	AAAA	2001:43f8:120::36
 ns-gm.afrinic.net.	0	IN	A	196.216.168.29
@@ -20291,11 +20294,8 @@ xn--rhqv96g.	0	IN	NS	ns1.teleinfo.cn.
 xn--rhqv96g.	0	IN	NS	ns2.teleinfoo.com.
 xn--rhqv96g.	0	IN	NS	ns3.teleinfo.cn.
 xn--rhqv96g.	0	IN	NS	ns4.teleinfoo.com.
-xn--rhqv96g.	0	IN	DS	167 8 1 5a8ebbddfe4d0e442138737a5fc1d3e34ebae03f
-xn--rhqv96g.	0	IN	DS	167 8 2 34f9402ab776ffb050d28976320570acaab0afce393a589494c7cea61da3d53e
-xn--rhqv96g.	0	IN	DS	17089 8 1 122b5a9cccddd8fbca1164643630ff6d75d856da
-xn--rhqv96g.	0	IN	DS	17089 8 2 0cab870792e42b0ef02ebcef64c3a4fe22d1be9ef91dd64004473741347a11f4
 xn--rhqv96g.	0	IN	DS	27565 8 2 b53c43c6b3f1146cc9969545c292fae4823d43b81da05141646f837451e92375
+xn--rhqv96g.	0	IN	DS	33427 8 2 9351edbe1ea6275c59bacccb774672a3298a58351728c6f763af54f33b9d5ea6
 xn--rovu88b.	0	IN	NS	a.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	b.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	c.nic.xn--rovu88b.
