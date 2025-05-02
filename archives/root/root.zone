@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025050201 1 1 456dcd942d740e9135f16a5b70f83a3002d719c677347cf18abca4308aef3ef47f7685aa900f036dafd4b42c7be2f612
+.	0	IN	ZONEMD	2025050202 1 1 9d50c02f4abce673765a6f5af0a0ad504aec5d5bf71680cd871e5d71aaed4ffe09ffe1f21c9393f2f1879486bd351c5d
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -11692,8 +11692,8 @@ my.	0	IN	NS	d.mynic.centralnic-dns.com.
 my.	0	IN	NS	a1.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
-my.	0	IN	DS	32422 8 2 648e4443e5f4f2112aded3bb75c12294ad4782b83ac1278ed691821a2ec54ced
 my.	0	IN	DS	35481 8 2 ae555a40f6bdb488eb025822a71c91c94e1f339fdd71e0386561c3c4b7d2b198
+my.	0	IN	DS	47187 13 2 69cf872e81a6fc820f49b3257fd44af73ef3c8c01fab3b70f992d0dc650fbf57
 a.nic.my.	0	IN	A	103.44.108.53
 a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
 a1.nic.my.	0	IN	A	202.171.47.204
@@ -20113,8 +20113,7 @@ xn--mgbx4cd0ab.	0	IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	c.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	d.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	a1.nic.my.
-xn--mgbx4cd0ab.	0	IN	DS	26416 8 2 b46082890fb952cba224e57a34d95fb5080dbe06f47a89a040554a06e109116e
-xn--mgbx4cd0ab.	0	IN	DS	37866 8 2 9818ec191cfce9ef77e5e458bcf471d5afcfa30d40f9a62bdd69a1863187247c
+xn--mgbx4cd0ab.	0	IN	DS	15766 13 2 e1b9df06c9b2e9f67aa4f7afe4a20d0cc055abbae1ae5c72e967f2f11d417b71
 xn--mix891f.	0	IN	NS	a.monic.mo.
 xn--mix891f.	0	IN	NS	b.monic.mo.
 xn--mix891f.	0	IN	NS	c.monic.mo.
