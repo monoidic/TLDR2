@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025051201 1 1 fa0f1dda8a6fedb16b7822a7e78306c67c09d97cf687ec9450ead9656c053b3a0980d04062b3b1ad85a55b32c09f5d3e
+.	0	IN	ZONEMD	2025051202 1 1 1aa0b8c938040bf2ff6eb28d7205f547564affcf91ead7faa5a573a45d1d7ad126701cd6ae171935c13741bf33e1b570
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3453,7 +3453,6 @@ ci.	0	IN	NS	any.nic.ci.
 ci.	0	IN	NS	ns-ci.afrinic.net.
 ci.	0	IN	NS	phloem.uoregon.edu.
 ci.	0	IN	DS	37284 13 2 2f58097214bb1938479a8ed69db3e857e0c4a45a6b1d435639d99301814936ec
-ci.	0	IN	DS	60224 8 2 0fb751f1b2230b9ef643ddce8c30acd1e7cc20fa7d52346ca074a32b8f01c686
 any.nic.ci.	0	IN	A	204.61.216.120
 any.nic.ci.	0	IN	AAAA	2001:500:14:6120:ad::1
 ns.nic.ci.	0	IN	A	196.49.0.84
@@ -11693,7 +11692,6 @@ my.	0	IN	NS	d.mynic.centralnic-dns.com.
 my.	0	IN	NS	a1.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
-my.	0	IN	DS	35481 8 2 ae555a40f6bdb488eb025822a71c91c94e1f339fdd71e0386561c3c4b7d2b198
 my.	0	IN	DS	47187 13 2 8b70cf4c48233d0624556523ea52c524f157800b97445c6a62a8c078337567ae
 a.nic.my.	0	IN	A	103.44.108.53
 a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
@@ -18053,7 +18051,7 @@ versicherung.	0	IN	NS	a.dns.nic.versicherung.
 versicherung.	0	IN	NS	m.dns.nic.versicherung.
 versicherung.	0	IN	NS	n.dns.nic.versicherung.
 versicherung.	0	IN	DS	26134 8 2 925ee924b5bc6876443e476c16eaf5bf02885acadbdf27ca2c87be8eeb7f3b41
-versicherung.	0	IN	DS	53914 8 2 3fb290c372a8e1f1662e968c7836f7856e493f96f0a6603de8e882f54bae577c
+versicherung.	0	IN	DS	40642 8 2 0467a13928ccb19d281df83a64fe82ee5556806625e034b146d2261e1e2632b2
 a.dns.nic.versicherung.	0	IN	A	194.0.25.13
 a.dns.nic.versicherung.	0	IN	AAAA	2001:678:20::13
 m.dns.nic.versicherung.	0	IN	A	194.0.26.2
