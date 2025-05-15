@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025051501 1 1 b366cfc2fbab105ba80c5055d0410edc49fca0f6061437716b037ed193ac8ef21801b03b6e196e787919ccdb7815cff9
+.	0	IN	ZONEMD	2025051502 1 1 4a3f75eb59069238dfe2dc0c4923deb2d181f15aaaa11b1e708d3fc0bdbb4fd79ba9a2927ccc4520746b307c2431ed6a
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -3748,6 +3748,7 @@ cn.	0	IN	NS	c.dns.cn.
 cn.	0	IN	NS	d.dns.cn.
 cn.	0	IN	NS	e.dns.cn.
 cn.	0	IN	NS	ns.cernet.net.
+cn.	0	IN	DS	33094 8 2 cccf13ed73a83244f7d2936f0b6c3507d85c3ebc5e1be4fb644064bc5b5fe3b2
 cn.	0	IN	DS	57724 8 2 5d0423633eb24a499be78aa22d1c0c9ba36218ff49fd95a4cdf1a4ad97c67044
 ns1.conac.cn.	0	IN	A	111.235.161.1
 ns1.conac.cn.	0	IN	AAAA	2401:b400:1::1
@@ -8678,12 +8679,6 @@ a2.org.afilias-nst.info.	0	IN	A	199.249.112.1
 a2.org.afilias-nst.info.	0	IN	AAAA	2001:500:40::1
 c0.org.afilias-nst.info.	0	IN	A	199.19.53.1
 c0.org.afilias-nst.info.	0	IN	AAAA	2001:500:b::1
-a0.post.afilias-nst.info.	0	IN	A	65.22.0.1
-a0.post.afilias-nst.info.	0	IN	AAAA	2a01:8840::1
-a2.post.afilias-nst.info.	0	IN	A	65.22.4.1
-a2.post.afilias-nst.info.	0	IN	AAAA	2a01:8840:4::1
-c0.post.afilias-nst.info.	0	IN	A	65.22.2.1
-c0.post.afilias-nst.info.	0	IN	AAAA	2a01:8840:2::1
 a0.pr.afilias-nst.info.	0	IN	A	199.254.59.17
 a0.pr.afilias-nst.info.	0	IN	AAAA	2001:500:25::17
 a2.pr.afilias-nst.info.	0	IN	A	199.249.116.17
@@ -12929,12 +12924,6 @@ b2.org.afilias-nst.org.	0	IN	A	199.249.120.1
 b2.org.afilias-nst.org.	0	IN	AAAA	2001:500:48::1
 d0.org.afilias-nst.org.	0	IN	A	199.19.57.1
 d0.org.afilias-nst.org.	0	IN	AAAA	2001:500:f::1
-b0.post.afilias-nst.org.	0	IN	A	65.22.1.1
-b0.post.afilias-nst.org.	0	IN	AAAA	2a01:8840:1::1
-b2.post.afilias-nst.org.	0	IN	A	65.22.5.1
-b2.post.afilias-nst.org.	0	IN	AAAA	2a01:8840:5::1
-d0.post.afilias-nst.org.	0	IN	A	65.22.3.1
-d0.post.afilias-nst.org.	0	IN	AAAA	2a01:8840:3::1
 b0.pr.afilias-nst.org.	0	IN	A	199.254.60.17
 b0.pr.afilias-nst.org.	0	IN	AAAA	2001:500:26::17
 b2.pr.afilias-nst.org.	0	IN	A	199.249.124.17
@@ -13715,13 +13704,25 @@ y.nic.porn.	0	IN	A	156.154.173.82
 y.nic.porn.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.porn.	0	IN	A	156.154.174.82
 z.nic.porn.	0	IN	AAAA	2610:a1:1076::1:82
-post.	0	IN	NS	a0.post.afilias-nst.info.
-post.	0	IN	NS	a2.post.afilias-nst.info.
-post.	0	IN	NS	b0.post.afilias-nst.org.
-post.	0	IN	NS	b2.post.afilias-nst.org.
-post.	0	IN	NS	c0.post.afilias-nst.info.
-post.	0	IN	NS	d0.post.afilias-nst.org.
+post.	0	IN	NS	v0n0.nic.post.
+post.	0	IN	NS	v0n1.nic.post.
+post.	0	IN	NS	v0n2.nic.post.
+post.	0	IN	NS	v0n3.nic.post.
+post.	0	IN	NS	v2n0.nic.post.
+post.	0	IN	NS	v2n1.nic.post.
 post.	0	IN	DS	35725 8 2 5b8265dc3f1952980ab5369253c4a4ed9d674d91b8c39360b22a7deaef168fe0
+v0n0.nic.post.	0	IN	A	65.22.0.1
+v0n0.nic.post.	0	IN	AAAA	2a01:8840::1
+v0n1.nic.post.	0	IN	A	65.22.1.1
+v0n1.nic.post.	0	IN	AAAA	2a01:8840:1::1
+v0n2.nic.post.	0	IN	A	65.22.2.1
+v0n2.nic.post.	0	IN	AAAA	2a01:8840:2::1
+v0n3.nic.post.	0	IN	A	65.22.3.1
+v0n3.nic.post.	0	IN	AAAA	2a01:8840:3::1
+v2n0.nic.post.	0	IN	A	65.22.4.1
+v2n0.nic.post.	0	IN	AAAA	2a01:8840:4::1
+v2n1.nic.post.	0	IN	A	65.22.5.1
+v2n1.nic.post.	0	IN	AAAA	2a01:8840:5::1
 pr.	0	IN	NS	a.lactld.org.
 pr.	0	IN	NS	a0.pr.afilias-nst.info.
 pr.	0	IN	NS	a2.pr.afilias-nst.info.
@@ -19250,6 +19251,7 @@ xn--4dbrk0ce.	0	IN	NS	nse.ns.il.
 xn--4dbrk0ce.	0	IN	NS	ilns.ilan.net.il.
 xn--4dbrk0ce.	0	IN	NS	lookup.iucc.ac.il.
 xn--4dbrk0ce.	0	IN	DS	5893 13 2 575289a1f1a3f38caade5b063d2977185d2ce1a573087d9b33ab2b6dbde83f29
+xn--4dbrk0ce.	0	IN	DS	9857 13 2 d97beb0130a0f167c930b93f296a4a91fd98f2ed894e791ee42ef8e33bfda81b
 xn--4gbrim.	0	IN	NS	a.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	b.nic.xn--4gbrim.
 xn--4gbrim.	0	IN	NS	c.nic.xn--4gbrim.
@@ -19649,12 +19651,14 @@ xn--fiqs8s.	0	IN	NS	i.dns.cn.
 xn--fiqs8s.	0	IN	NS	j.dns.cn.
 xn--fiqs8s.	0	IN	NS	k.dns.cn.
 xn--fiqs8s.	0	IN	NS	l.dns.cn.
+xn--fiqs8s.	0	IN	DS	3991 8 2 a0175c031fe463f873ac8c8e405525013326a688dbda536ebbd06dbd4fc6ea63
 xn--fiqs8s.	0	IN	DS	28162 8 2 9e1e18c1aeb006ad617593ec2d2971e33bb22048316d1bb9f67ddd5eb00708c3
 xn--fiqz9s.	0	IN	NS	h.dns.cn.
 xn--fiqz9s.	0	IN	NS	i.dns.cn.
 xn--fiqz9s.	0	IN	NS	j.dns.cn.
 xn--fiqz9s.	0	IN	NS	k.dns.cn.
 xn--fiqz9s.	0	IN	NS	l.dns.cn.
+xn--fiqz9s.	0	IN	DS	3991 8 2 b6e385df94a43e489e596ef51d59ac0ef9b5544e42fb3267bb6494529c39ef31
 xn--fiqz9s.	0	IN	DS	28162 8 2 30b55f108e07f9c2397f0d233324e02e667a137569ff91fc0311dcb73cea1571
 xn--fjq720a.	0	IN	NS	v0n0.nic.xn--fjq720a.
 xn--fjq720a.	0	IN	NS	v0n1.nic.xn--fjq720a.
