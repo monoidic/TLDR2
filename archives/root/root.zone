@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025051601 1 1 93ca578ff1082430b818e21c166c9143c9cc97055be7da42d7a06a75ee0256611a7f629b069a9113c1051e6dcc7eb391
+.	0	IN	ZONEMD	2025051602 1 1 8c5df3c319e6a51c47ebb85a4e1b7dd5a6ec4cf267d9d31253c2bb684f7043347da1d85b4fff60af17783f63f43ee179
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -13732,25 +13732,6 @@ pr.	0	IN	NS	c0.pr.afilias-nst.info.
 pr.	0	IN	NS	d0.pr.afilias-nst.org.
 pr.	0	IN	NS	pr-dns.denic.de.
 pr.	0	IN	DS	5134 8 2 2e7f12833596203dbef32dbcebc2cfd2f6d3aa4432a9bb39927394c6cf1a844a
-pramerica.	0	IN	NS	a.nic.pramerica.
-pramerica.	0	IN	NS	b.nic.pramerica.
-pramerica.	0	IN	NS	c.nic.pramerica.
-pramerica.	0	IN	NS	ns1.dns.nic.pramerica.
-pramerica.	0	IN	NS	ns2.dns.nic.pramerica.
-pramerica.	0	IN	NS	ns3.dns.nic.pramerica.
-pramerica.	0	IN	DS	22411 8 2 55e42f1140c47ca9a71e1306d0487e31dca919961409e9121765627e563fdb3c
-a.nic.pramerica.	0	IN	A	37.209.192.9
-a.nic.pramerica.	0	IN	AAAA	2001:dcd:1::9
-b.nic.pramerica.	0	IN	A	37.209.194.9
-b.nic.pramerica.	0	IN	AAAA	2001:dcd:2::9
-c.nic.pramerica.	0	IN	A	37.209.196.9
-c.nic.pramerica.	0	IN	AAAA	2001:dcd:3::9
-ns1.dns.nic.pramerica.	0	IN	A	156.154.144.138
-ns1.dns.nic.pramerica.	0	IN	AAAA	2610:a1:1071::8a
-ns2.dns.nic.pramerica.	0	IN	A	156.154.145.138
-ns2.dns.nic.pramerica.	0	IN	AAAA	2610:a1:1072::8a
-ns3.dns.nic.pramerica.	0	IN	A	156.154.159.138
-ns3.dns.nic.pramerica.	0	IN	AAAA	2610:a1:1073::8a
 praxi.	0	IN	NS	a.nic.praxi.
 praxi.	0	IN	NS	b.nic.praxi.
 praxi.	0	IN	NS	c.nic.praxi.
