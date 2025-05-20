@@ -436,8 +436,10 @@ aristanetworks.gp.	0	IN	NS	eleanor.ns.cloudflare.com.
 arkeaonlife.gp.	0	IN	NS	ns1.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns2.arkea.com.
 arkeaonlife.gp.	0	IN	NS	ns3.arkea.com.
-armos.gp.	0	IN	NS	ns106.ovh.net.
-armos.gp.	0	IN	NS	dns106.ovh.net.
+armos.gp.	0	IN	NS	ns1.armos.gp.
+armos.gp.	0	IN	NS	ns2.armos.gp.
+ns1.armos.gp.	0	IN	A	82.112.242.149
+ns2.armos.gp.	0	IN	A	82.112.242.149
 aroma-zone.gp.	0	IN	NS	ns1.safebrands.fr.
 aroma-zone.gp.	0	IN	NS	ns2.safebrands.eu.
 aroma-zone.gp.	0	IN	NS	ns3.safebrands.com.
