@@ -9,6 +9,7 @@
 * `fj.` via `ns2.fj.`: [Click here to view zone data.](archives/fj/fj.zone)
 * `gl.` via `a.nic.gl.`: [Click here to view zone data.](archives/gl/gl.zone)
 * `gl.` via `b.nic.gl.`: [Click here to view zone data.](archives/gl/gl.zone)
+* `gn.` via `ns1.gn.`: [Click here to view zone data.](archives/gn/gn.zone)
 * `gp.` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/gp.zone)
 * `mp.` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
 * `mp.` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/mp.zone)
@@ -20,4 +21,4 @@
 * `xn--54b7fta0cc.` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/xn--54b7fta0cc.zone)
 * `xn--wgbh1c.` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/xn--wgbh1c.zone)
 * `xn--wgbh1c.` via `ns3.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/xn--wgbh1c.zone)
-* `xn--ygbi2ammx.` via `bilal.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
+* `xn--ygbi2ammx.` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/xn--ygbi2ammx.zone)
