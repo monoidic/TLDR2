@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025052300 1 1 78a4c9267b9f48ab15898499812d4faf42a47e98e8146053f66a801534ff29340bfb7558a2d0bc2281ec1ee507dd7080
+.	0	IN	ZONEMD	2025052301 1 1 ea7ca1d79f0a4716df9ba4e81146daeb1edd580898c78abc596765f2bbed0b1af6d5c5a671bc259c222a610865ab646b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -8698,6 +8698,8 @@ ns2.asnic.info.	0	IN	A	103.49.83.254
 ns2.asnic.info.	0	IN	AAAA	2401:fd80:403::254
 ns01.trs-dns.info.	0	IN	A	185.159.198.3
 ns01.trs-dns.info.	0	IN	AAAA	2620:10a:80ab::3
+ns10.trs-dns.info.	0	IN	A	64.78.204.1
+ns10.trs-dns.info.	0	IN	AAAA	2620:171:812:1534:8::1
 ing.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 ing.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 ing.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -12954,6 +12956,8 @@ a.lactld.org.	0	IN	A	200.0.68.10
 a.lactld.org.	0	IN	AAAA	2801:14:a000::10
 ns01.trs-dns.org.	0	IN	A	185.159.197.3
 ns01.trs-dns.org.	0	IN	AAAA	2620:10a:80aa::3
+ns10.trs-dns.org.	0	IN	A	64.78.205.1
+ns10.trs-dns.org.	0	IN	AAAA	2620:171:813:1534:8::1
 organic.	0	IN	NS	a0.nic.organic.
 organic.	0	IN	NS	a2.nic.organic.
 organic.	0	IN	NS	b0.nic.organic.
@@ -19142,14 +19146,10 @@ xn--1qqw23a.	0	IN	NS	tc.ngtld.cn.
 xn--1qqw23a.	0	IN	NS	td.ngtld.cn.
 xn--1qqw23a.	0	IN	NS	te.ngtld.cn.
 xn--1qqw23a.	0	IN	DS	2506 8 2 a379e36d05feafa4a5dab25f518b9f62df2fd2ba659bd8da1a3ea48e677da5f9
-xn--2scrj9c.	0	IN	NS	ns1.registry.in.
-xn--2scrj9c.	0	IN	NS	ns2.registry.in.
-xn--2scrj9c.	0	IN	NS	ns3.registry.in.
-xn--2scrj9c.	0	IN	NS	ns4.registry.in.
-xn--2scrj9c.	0	IN	NS	ns5.registry.in.
-xn--2scrj9c.	0	IN	NS	ns6.registry.in.
 xn--2scrj9c.	0	IN	NS	ns01.trs-dns.com.
 xn--2scrj9c.	0	IN	NS	ns01.trs-dns.net.
+xn--2scrj9c.	0	IN	NS	ns10.trs-dns.org.
+xn--2scrj9c.	0	IN	NS	ns10.trs-dns.info.
 xn--2scrj9c.	0	IN	DS	11140 8 2 4d6066c559009d857402623f36cfea85b92eeab23d507f12f28050ac873491c3
 xn--2scrj9c.	0	IN	DS	17027 8 2 e37f4e4c68c8045c1cfc046e65f2a42d6ce8bf1840600eda533fa202d8a445e3
 xn--30rr7y.	0	IN	NS	a.zdnscloud.cn.
