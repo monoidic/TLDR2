@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 bin="~/go/bin/dns-tools"
 db="tldr.sqlite3"
@@ -29,10 +29,22 @@ prework() {
 	# get TLD nameserver info
 	get_ns_ips
 
+	# download PSL
+	wget https://raw.githubusercontent.com/publicsuffix/list/refs/heads/main/public_suffix_list.dat || exit 1
+	# convert to idna lol
+	sed '/^\/\//d;/^$/d;s/^\*\.//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > psl.txt
+	# add entries
+	scan -parse_lists psl.txt
+	# idk, check for zones
+	for i in {1..5}; do
+		scan -validate
+		scan -parent_map
+	done
+
 	# idk
-	scan -rr_{ns,ip}
-	scan -net_{ns,ip}
-	scan -rr_{ns,ip}
+	for i in {1..3}; do
+		get_ns_ips
+	done
 }
 
 axfr() {
