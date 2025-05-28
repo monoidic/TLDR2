@@ -1,0 +1,16 @@
+mcs.vuw.ac.nz.	0	IN	NS	ns1.ecs.vuw.ac.nz.
+mcs.vuw.ac.nz.	0	IN	NS	downstage.ecs.vuw.ac.nz.
+mcs.vuw.ac.nz.	0	IN	MX	10 kaukau.ecs.vuw.ac.nz.
+_kerberos._tcp.mcs.vuw.ac.nz.	0	IN	SRV	0 0 88 krb1.ecs.vuw.ac.nz.
+_kerberos._tcp.mcs.vuw.ac.nz.	0	IN	SRV	1 0 88 krb2.ecs.vuw.ac.nz.
+_kerberos-adm._tcp.mcs.vuw.ac.nz.	0	IN	SRV	0 0 749 krb1.ecs.vuw.ac.nz.
+b._dns-sd._udp.mcs.vuw.ac.nz.	0	IN	PTR	mcs.vuw.ac.nz.
+lb._dns-sd._udp.mcs.vuw.ac.nz.	0	IN	PTR	mcs.vuw.ac.nz.
+_kerberos._udp.mcs.vuw.ac.nz.	0	IN	SRV	0 0 88 krb1.ecs.vuw.ac.nz.
+_kerberos._udp.mcs.vuw.ac.nz.	0	IN	SRV	1 0 88 krb2.ecs.vuw.ac.nz.
+_kerberos-master._udp.mcs.vuw.ac.nz.	0	IN	SRV	0 0 88 krb1.ecs.vuw.ac.nz.
+_kpasswd._udp.mcs.vuw.ac.nz.	0	IN	SRV	1 0 464 krb1.ecs.vuw.ac.nz.
+circa.mcs.vuw.ac.nz.	0	IN	A	130.195.5.12
+downstage.mcs.vuw.ac.nz.	0	IN	A	130.195.6.10
+localhost.mcs.vuw.ac.nz.	0	IN	A	127.0.0.1
+www.mcs.vuw.ac.nz.	0	IN	A	130.195.5.18

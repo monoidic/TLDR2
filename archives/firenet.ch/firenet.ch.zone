@@ -1,0 +1,40 @@
+firenet.ch.	0	IN	A	77.109.178.110
+firenet.ch.	0	IN	NS	ns1.adinox.ch.
+firenet.ch.	0	IN	NS	ns2.adinox.ch.
+firenet.ch.	0	IN	NS	ns3.adinox.ch.
+firenet.ch.	0	IN	MX	600 azure.adinox.ch.
+core.firenet.ch.	0	IN	CNAME	core.dyn.firenet.ch.
+*.core.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+hirt.firenet.ch.	0	IN	CNAME	hirt.dyn.firenet.ch.
+*.hirt.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+home.firenet.ch.	0	IN	CNAME	home.dyn.firenet.ch.
+*.home.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+k8s.firenet.ch.	0	IN	A	77.109.178.110
+*.k8s.firenet.ch.	0	IN	A	77.109.178.110
+kube.firenet.ch.	0	IN	CNAME	kube.dyn.firenet.ch.
+*.kube.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+nord.firenet.ch.	0	IN	CNAME	nord.dyn.firenet.ch.
+*.nord.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+phoenix.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+*.phoenix.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+svc.firenet.ch.	0	IN	MX	600 azure.adinox.ch.
+bazel-cache.svc.firenet.ch.	0	IN	A	77.109.178.110
+gameserver.svc.firenet.ch.	0	IN	A	77.109.178.107
+jenkins.svc.firenet.ch.	0	IN	A	77.109.178.110
+ldap2.svc.firenet.ch.	0	IN	A	77.109.178.110
+mail.svc.firenet.ch.	0	IN	A	77.109.178.110
+mail.svc.firenet.ch.	0	IN	MX	600 azure.adinox.ch.
+monitoring.svc.firenet.ch.	0	IN	A	77.109.178.110
+nsupdate.svc.firenet.ch.	0	IN	A	77.109.178.110
+oliverbucher.svc.firenet.ch.	0	IN	A	77.109.178.110
+pub-media.svc.firenet.ch.	0	IN	A	77.109.178.110
+scm.svc.firenet.ch.	0	IN	A	77.109.178.110
+short.svc.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+sync.svc.firenet.ch.	0	IN	A	77.109.178.110
+td-monitoring.svc.firenet.ch.	0	IN	A	77.109.178.110
+ttrss.svc.firenet.ch.	0	IN	A	77.109.178.110
+webserver.svc.firenet.ch.	0	IN	A	77.109.178.110
+tdoffice.firenet.ch.	0	IN	CNAME	tdoffice.dyn.firenet.ch.
+*.tdoffice.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.
+thingdust.firenet.ch.	0	IN	CNAME	thingdust.dyn.firenet.ch.
+*.thingdust.firenet.ch.	0	IN	CNAME	phoenix.dyn.firenet.ch.

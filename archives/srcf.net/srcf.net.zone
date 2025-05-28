@@ -1,0 +1,689 @@
+srcf.net.	0	IN	A	131.111.179.82
+srcf.net.	0	IN	NS	ns0.malc.org.uk.
+srcf.net.	0	IN	NS	ns1.malc.org.uk.
+srcf.net.	0	IN	NS	auth.ns.srcf.net.
+srcf.net.	0	IN	NS	auth0.dns.cam.ac.uk.
+srcf.net.	0	IN	NS	auth1.dns.cam.ac.uk.
+srcf.net.	0	IN	MX	7 olympic.srcf.net.
+srcf.net.	0	IN	MX	7 titanic.srcf.net.
+srcf.net.	0	IN	RP	soc-srcf-admin.lists.cam.ac.uk. .
+srcf.net.	0	IN	AAAA	2001:630:212:700:2::1
+srcf.net.	0	IN	DNSKEY	256 3 8 AwEAAdXufPMbjpQnOL+azSn30YFaz5CDLu5q8X157L7w7xrjAj3qV7cMfBPpr4VCDovrPuXhqLiDoasWn+EvIV22iFyqCsGtqNHI+3D3ISsE3jpqX5kFTKy0Xjf21TEg1OmZpSn80/1nWc+oMYgxRvX9K2X1czd4PhTYl5D6w8fvtul3 ;{id = 44734 (zsk), size = 1024b}
+srcf.net.	0	IN	DNSKEY	257 3 8 AwEAAedvSHI6aLcRgSh0u2uey/OaXab0Y7+VKkSqFSt+JNDco54b31EY8RjjSuIVpS4hBaYIxSJ1O0xiJ4fFxORTHHQSOXRu52HbKGoabvB2afhSm9FTr9ngzZ1T/AcCVcI+F98kNZyrmaOyNl1Fnd0TtJiG7SoBOQS188s3Ps94Wvh8e3cno324X8OM9J5iWZb3a5a+HyuBwbsSMcZBLQCN+5WyASpiB5ACx/mZ2+mv9rZnsxrgIS/mv2TVqsqKSCK0+lE9OvKv0lVkC1CXs9SIFthNJyv3wDR4d3J5aC5BNza4Mx/IlkadNNBqbBzD3VAtVUCs9fbVegKnGBfbbPfDWqc= ;{id = 42865 (ksk), size = 2048b}
+srcf.net.	0	IN	NSEC3PARAM	1 0 0 4e9d6bf393585ec4 
+dec41.adm.srcf.net.	0	IN	CNAME	hailstorm.adm.srcf.net.
+eb677.adm.srcf.net.	0	IN	CNAME	locust.adm.srcf.net.
+epidemic.adm.srcf.net.	0	IN	A	131.111.179.74
+epidemic.adm.srcf.net.	0	IN	AAAA	2001:630:212:700:1480:c8ff:fea9:779a
+hailstorm.adm.srcf.net.	0	IN	A	131.111.179.76
+notes.hailstorm.adm.srcf.net.	0	IN	A	131.111.179.76
+kanboard.adm.srcf.net.	0	IN	CNAME	kanboard.srcf.net.
+locust.adm.srcf.net.	0	IN	A	131.111.179.75
+locust.adm.srcf.net.	0	IN	AAAA	2a05:b400:10c::1:ebb
+locust.adm.srcf.net.	0	IN	SSHFP	1 2 2f9d857adb088e2b074d68bc8827d059138a229ce3ec21c8d7491aa6300d0e3c
+locust.adm.srcf.net.	0	IN	SSHFP	3 2 25c0b2414d932dc62c311badb84b4bed6a4b0e98039f0bd19d27a49d22b40def
+locust.adm.srcf.net.	0	IN	SSHFP	4 2 ae245014b05b45d1e4097fdf33e389de6613be7270456362aacf6eba1e810226
+_acme-challenge.locust.adm.srcf.net.	0	IN	CNAME	_acme-challenge.locust.adm.srcf.net.acme.ddns.srcf.net.
+netbox.adm.srcf.net.	0	IN	CNAME	locust.adm.srcf.net.
+rsa33.adm.srcf.net.	0	IN	CNAME	epidemic.adm.srcf.net.
+ash.srcf.net.	0	IN	CNAME	tephra.srcf.net.
+auth.srcf.net.	0	IN	A	131.111.179.114
+auth.srcf.net.	0	IN	AAAA	2a05:b400:10c::a:1
+_acme-challenge.auth.srcf.net.	0	IN	CNAME	_acme-challenge.auth.srcf.net.acme.ddns.srcf.net.
+autoconfig.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.autoconfig.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+blizzard.srcf.net.	0	IN	A	131.111.179.79
+blizzard.srcf.net.	0	IN	AAAA	2001:630:212:700:8::1
+blizzard.srcf.net.	0	IN	SSHFP	1 2 cb8eed661e916b8b5842caf022e2d4492a97748e146a56e44f37de4ce444af6e
+blizzard.srcf.net.	0	IN	SSHFP	3 2 491e19a5a7ca98220ea328999d913d9d467751c46ee72389966d56a0d3379489
+blizzard.srcf.net.	0	IN	SSHFP	4 2 fc780ca306ff3ae2fa066fa2ecd7ce51d3f032bd8b755665a12db737c2641b9c
+blog.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.blog.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+cacophony.srcf.net.	0	IN	A	131.111.179.73
+cacophony.srcf.net.	0	IN	AAAA	2001:630:212:700:c46c:feff:fee5:e827
+cacophony.srcf.net.	0	IN	SSHFP	1 2 7c98fe365b0c39858025261d0f7d69d3ce4f595da9e3c51a7578506b766fffc2
+cacophony.srcf.net.	0	IN	SSHFP	3 2 928434f462a85936d883cddd2d0e338af7a09d1837cfcaa4b0995e84a74128e6
+cacophony.srcf.net.	0	IN	SSHFP	4 2 d1e58c4e4af865155119948c0fdae4a36d536de06aff644385cb1edf3ba5b55c
+chatops.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.chatops.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+chimney.srcf.net.	0	IN	A	131.111.179.116
+chimney.srcf.net.	0	IN	AAAA	2001:630:212:700:10::1
+chimney.srcf.net.	0	IN	SSHFP	1 2 44b50f4c8e3b5a0c26e6ebfd881a851ad80b23ec506262a29386a32bb48f65c0
+chimney.srcf.net.	0	IN	SSHFP	3 2 c2862eece342a9b26b4f2870138143d1a50bbac040661e1a2d6c0ce7018fcb35
+chimney.srcf.net.	0	IN	SSHFP	4 2 f7b852b4826c4d6968d140209161cba6ee3ea9937935fe2bf4d5718308210f3f
+cicada.srcf.net.	0	IN	A	128.232.113.19
+cicada.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:5064:1cff:fe45:b4b9
+cicada.srcf.net.	0	IN	SSHFP	1 2 dbf85446c8d3d66cde7654485a56a74f7578404e7fc952f447656f72264aae4b
+cicada.srcf.net.	0	IN	SSHFP	3 2 1fd714f82227f2c3753fc0e86232882f3095e675ff5ef5dab62fa1934fd6e702
+cicada.srcf.net.	0	IN	SSHFP	4 2 9d09fd4cf431d286d1bb339bbf80a6cecf5dab0517cdb9c852471d97f54f06fb
+cirrus.srcf.net.	0	IN	A	131.111.181.14
+cirrus.srcf.net.	0	IN	SSHFP	1 2 0568dbd97fbd87ea2d81f1b471bc79f36b46f879cda0524b9faf2e0a45bc173c
+cirrus.srcf.net.	0	IN	SSHFP	3 2 51be00d86a0fa2061e53da22ec021f784212574eef43bfa542ce1e5bb4723d5b
+cirrus.srcf.net.	0	IN	SSHFP	4 2 b8c9a33d33472d365a836743c3702a6860453c4f218a5870fcda885f6fb1ea04
+_acme-challenge.cirrus.srcf.net.	0	IN	CNAME	_acme-challenge.cirrus.srcf.net.ddns.srcf.net.
+cirrus-ipmi.srcf.net.	0	IN	CNAME	cirrus-mgmt.srcf.net.
+cirrus-mgmt.srcf.net.	0	IN	A	172.25.15.16
+cirrus-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:e2db:55ff:fe0c:1dbc
+_acme-challenge.cirrus-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.cirrus-mgmt.srcf.net.ddns.srcf.net.
+cloudburst.srcf.net.	0	IN	A	131.111.181.1
+cloudburst.srcf.net.	0	IN	AAAA	2001:630:212:700:9047:11ff:fe98:689c
+cloudburst.srcf.net.	0	IN	SSHFP	1 2 4c58711a43e5f43c4d8261d640321fe7b829e27b6796cd7cba1400d0067d819f
+cloudburst.srcf.net.	0	IN	SSHFP	3 2 8c2cc67afcb9284d19d105b209875da5cdf22c0388fcbc255991dd19a5e56b6a
+cloudburst.srcf.net.	0	IN	SSHFP	4 2 7ba5529e69f9e7db49b2246fdf5cab5b0c43bbe19837f7f8ba68fab91512452e
+*.cloudburst.srcf.net.	0	IN	CNAME	cloudburst.srcf.net.
+comet.srcf.net.	0	IN	AAAA	2a02:e00:fff0:62::3
+_acme-challenge.comet.srcf.net.	0	IN	CNAME	_acme-challenge.comet.srcf.net.acme-irc.ddns.srcf.net.
+console.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+_tcp.console.srcf.net.	0	IN	DNAME	_tcp.seismograph.srcf.net.
+console-0.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-1.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-10.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-11.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-12.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-13.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-14.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-15.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-16.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-17.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-18.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-19.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-2.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-20.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-21.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-22.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-23.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-24.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-25.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-26.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-27.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-28.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-29.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-3.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-30.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-31.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-4.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-5.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-6.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-7.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-8.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+console-9.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+control.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.control.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+ddns.srcf.net.	0	IN	NS	auth.ns.srcf.net.
+ddns.srcf.net.	0	IN	DS	58159 8 2 2fee0ae105822aa8d22c3ce435cdada08df58ca805fce2f4d609fe0a9dc8ee22
+docs.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.docs.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+doom.srcf.net.	0	IN	A	131.111.179.84
+doom.srcf.net.	0	IN	AAAA	2a05:b400:10c::5f37:59df
+doom.srcf.net.	0	IN	SSHFP	1 2 7357656859cfc89e380a78d921e57accb1d008f9481fd3a0d0addd2f5e9719fa
+doom.srcf.net.	0	IN	SSHFP	3 2 41d4e6ec40a5d0a39b4e874106963a42ce7b3c59abdcc1ef41f4f9d086ca6b75
+doom.srcf.net.	0	IN	SSHFP	4 2 921d52afa36b969fef2bd8a3299e37fc8436b6a74fcd8fdf9d976718120a8083
+downpour.srcf.net.	0	IN	A	131.111.181.9
+downpour.srcf.net.	0	IN	AAAA	2a05:b400:10c::1:3
+downpour.srcf.net.	0	IN	SSHFP	1 2 3565f9346998c68dcc8457e6f5d52d5de94ea1eace4094a59615088b05886a73
+downpour.srcf.net.	0	IN	SSHFP	3 2 fd14ec7d9e2d5992ec2b151a21a17792a465ca28975ddc164fc80a17ed09d49e
+downpour.srcf.net.	0	IN	SSHFP	4 2 13de60064f1b0eba61b21fd28c1da5dcdaab45bcba2e123a6f532bf93565c0df
+drought.srcf.net.	0	IN	A	35.211.24.91
+drought.srcf.net.	0	IN	AAAA	2600:1900:4020:56f::
+drought.srcf.net.	0	IN	SSHFP	1 2 59112d4542327adb78dd998465cbe512c0344c26376c65181116a2c3041cd43d
+drought.srcf.net.	0	IN	SSHFP	3 2 0da733148a427c828a84c22dad809f4fec415bdeae1d77d3dc6a1e1d1ead471f
+drought.srcf.net.	0	IN	SSHFP	4 2 c1244244982ba7b09e6ef701bf1347102a179f901fcb084deeb962533c6fc71c
+_acme-challenge.drought.srcf.net.	0	IN	CNAME	_acme-challenge.drought.srcf.net.acme-irc.ddns.srcf.net.
+echo.srcf.net.	0	IN	A	128.232.113.38
+echo.srcf.net.	0	IN	AAAA	2a05:b400:110:1101:52cf:0:2049:1
+echo.srcf.net.	0	IN	SSHFP	1 2 ad7000ed2ce3271fff43dcc84aeb08ba4af6aa672a3a1011c2faa91c1c4d4771
+echo.srcf.net.	0	IN	SSHFP	3 2 aa8ceb0284209d64ada4bca67cdbfb9b32877fb748e12c5b11922124f0f2379c
+echo.srcf.net.	0	IN	SSHFP	4 2 bbec8354e337cbfb9420727fcc755b79f5048d3bafbffbaaf06eb20a8f1e1105
+ipv6.echo.srcf.net.	0	IN	AAAA	2a05:b400:110:1101:52cf:0:2049:1
+echo-sp.srcf.net.	0	IN	AAAA	2a05:b400:110:1101:52cf:0:2049:2001
+echo-sp.srcf.net.	0	IN	SSHFP	1 2 c789c1eb64891d34be10b8c052657bd057ec55ecd2338ff95f626066d59c3412
+echo-sp.srcf.net.	0	IN	SSHFP	3 2 02c3a5896a3bd5933a3ddf0ff2c1b6ba1155bbdda540b6b14c197e83e3cf3497
+echo-sp.srcf.net.	0	IN	SSHFP	4 2 8373786f498f485ec110ec72903400c447ac544e861f7efe8f18c33b6ff9067d
+eggs.srcf.net.	0	IN	A	131.111.179.81
+eggs.srcf.net.	0	IN	AAAA	2a05:b400:10c:0:ccd7:9ff:fe3f:2053
+egress.srcf.net.	0	IN	AAAA	2a05:b400:110:11a0::2
+egress.srcf.net.	0	IN	SSHFP	1 2 d3af7f3e170750ea6e812d9f54bc013259bc157b4bdcfa446a97918d5502a715
+egress.srcf.net.	0	IN	SSHFP	3 2 732910b2dbd69e3e3e35c513260c71d20cf107c925291dc9ef54d5ff03dd4d73
+egress.srcf.net.	0	IN	SSHFP	4 2 8e9d79a8d3e8375c0527af425089eb55c6a3d2be7e38c572c823a4369f2d3d98
+eldo.srcf.net.	0	IN	AAAA	2a05:b400:10c::2049:2
+eldo.srcf.net.	0	IN	SSHFP	1 2 12c100ece0e907c62e5efb419c88bd2b116cd51e07253ffc6893ad3441fa686e
+eldo.srcf.net.	0	IN	SSHFP	3 2 8ec9e56d6bc38d532e57ea2b8e7a8c9e9c8df1ea451133525864db1fc4035c8d
+eldo.srcf.net.	0	IN	SSHFP	4 2 982aacf89842b7c877490c9205f72b5189804816b3a970e10f3f8c3653105ed9
+eldo-sp.srcf.net.	0	IN	AAAA	2a05:b400:10c::2049:2002
+eldo-sp.srcf.net.	0	IN	SSHFP	1 2 f21445827529e8f73fca6447d23b02ff7ace8522855631ef9a039a1606e3d00b
+eldo-sp.srcf.net.	0	IN	SSHFP	3 2 14885eeadebd2db56dbe8388b3469585a1922ab84ed655344e8581df80b4eda4
+eldo-sp.srcf.net.	0	IN	SSHFP	4 2 f4bebd0064db559d44dc2b08911b7c698bc9acd3f1267f58fa1d467eedb4ed85
+elmer.srcf.net.	0	IN	AAAA	2a05:b400:10c::2049:1
+elmer.srcf.net.	0	IN	SSHFP	1 2 b21a01da94c6c092b14df6262da544cdf63faae011f5ca8be15fb1867622963a
+elmer.srcf.net.	0	IN	SSHFP	3 2 73695ae5c9d4af6fba3babdb3a6cb07d807d342cc74d1ed817f48b7d6f78f48f
+elmer.srcf.net.	0	IN	SSHFP	4 2 91825035bbc831d64ad578dae3965b96469a95ac93f6899bf4aca90db3cae8e3
+elmer-sp.srcf.net.	0	IN	AAAA	2a05:b400:10c::2049:2001
+elmer-sp.srcf.net.	0	IN	SSHFP	1 2 5cf3e56504a2a401d0c9bd25d11b48516296be2d85f3dbe247a20a060b0dff8f
+elmer-sp.srcf.net.	0	IN	SSHFP	3 2 e6ea2d843cda57c9e1e1b87562743b11188771587d922bf93b2e3141f4d979fa
+elmer-sp.srcf.net.	0	IN	SSHFP	4 2 2fe56ebed65a9a06b8ea5e96007823a760c20f4f97639ae3979c8e8b757647f1
+enid.srcf.net.	0	IN	A	128.232.113.39
+enid.srcf.net.	0	IN	AAAA	2a05:b400:110:1101:52cf:0:2049:2
+enid.srcf.net.	0	IN	SSHFP	1 2 f5405d4d61407658f26713a424c2c9e9af6dd26d5c1af263d22d051e006b66f7
+enid.srcf.net.	0	IN	SSHFP	3 2 ea3e5b304a136426a795f8f8e026f2ba04785e50d00723cec4cba43181855fe9
+enid.srcf.net.	0	IN	SSHFP	4 2 d6ff3d19b974bcd7e7539861452c35713dc8e4ec55b50cee7ba0554bab3b879b
+ipv6.enid.srcf.net.	0	IN	AAAA	2a05:b400:110:1101:52cf:0:2049:2
+enid-sp.srcf.net.	0	IN	AAAA	2a05:b400:110:1101:52cf:0:2049:2002
+enid-sp.srcf.net.	0	IN	SSHFP	1 2 19ec3c096709ec626001e1d8c44bce420f58eb29530011865eb0d58868adae55
+enid-sp.srcf.net.	0	IN	SSHFP	3 2 91c811ed4c9f1a70b467d8dbd8d9c465937c64aaaba161bb5cedf62ee94cfa8d
+enid-sp.srcf.net.	0	IN	SSHFP	4 2 3a7fe8d2c710661eac1f8c26329a1140b7575eefe1add8bbd36efaca5f4d8afa
+eviction.srcf.net.	0	IN	A	128.232.113.76
+eviction.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:58c2:84ff:feef:d12
+v4.eviction.srcf.net.	0	IN	A	128.232.113.76
+v6.eviction.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:58c2:84ff:feef:d12
+wiki.executive.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+offsite.wiki.executive.srcf.net.	0	IN	CNAME	execwiki.srcf.clifford.lol.
+files.srcf.net.	0	IN	CNAME	pip.srcf.net.
+_tcp.files.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+flame.srcf.net.	0	IN	A	131.111.179.66
+flame.srcf.net.	0	IN	AAAA	2001:630:212:700:7::1
+flame.srcf.net.	0	IN	SSHFP	1 2 30408ee3d28f42289a516182e0e1d9f874610425119cc55171258a6db2ed42bb
+flame.srcf.net.	0	IN	SSHFP	3 2 ec25417cccf4d5ef7ad455c4d855ef92b79db68d6a52ed5bb6b0e47a8af4908d
+flame.srcf.net.	0	IN	SSHFP	4 2 9397c4b2097769bd15d033a7e5814d248c293b977e23abdeebe3f96772ed0084
+flood.srcf.net.	0	IN	A	131.111.179.85
+flood.srcf.net.	0	IN	AAAA	2001:630:212:700:9::1
+flood.srcf.net.	0	IN	SSHFP	1 2 b8f7a9829df73f0d2be999310108c8f200bc6ec655dcdacfa18a1109f8a92d76
+flood.srcf.net.	0	IN	SSHFP	3 2 247b335cde9af49ae0efee45f0d4ab45286841484eb570bf97d5b3058cd36fb3
+flood.srcf.net.	0	IN	SSHFP	4 2 67c73d7d2393940949b50445239ca118bf6b06e8cce4743172dc1a48948d0abc
+_acme-challenge.flood.srcf.net.	0	IN	CNAME	_acme-challenge.flood.srcf.net.acme-irc.ddns.srcf.net.
+flood-ipv4.srcf.net.	0	IN	A	131.111.179.85
+flood-ipv4.srcf.net.	0	IN	SSHFP	1 2 b8f7a9829df73f0d2be999310108c8f200bc6ec655dcdacfa18a1109f8a92d76
+flood-ipv4.srcf.net.	0	IN	SSHFP	3 2 247b335cde9af49ae0efee45f0d4ab45286841484eb570bf97d5b3058cd36fb3
+flood-ipv4.srcf.net.	0	IN	SSHFP	4 2 67c73d7d2393940949b50445239ca118bf6b06e8cce4743172dc1a48948d0abc
+_acme-challenge.flood-ipv4.srcf.net.	0	IN	CNAME	_acme-challenge.flood-ipv4.srcf.net.acme-irc.ddns.srcf.net.
+_tcp.flood-ipv4.srcf.net.	0	IN	DNAME	_tcp.flood.srcf.net.
+fog.srcf.net.	0	IN	A	131.111.181.13
+fog.srcf.net.	0	IN	SSHFP	1 2 67607a18901502e028d58fb14fee4e347237f988325787a4ead4eb215f5d693f
+fog.srcf.net.	0	IN	SSHFP	3 2 550534696015bc92e4d2940e291789f8b56f0edf89234c96d5d73bd9890be94f
+fog.srcf.net.	0	IN	SSHFP	4 2 74138baa35bd8bcedb55aeb2d207059a839d48c3df8a350aa2e7a3dfb5a7a1cb
+_acme-challenge.fog.srcf.net.	0	IN	CNAME	_acme-challenge.fog.srcf.net.ddns.srcf.net.
+fog-ipmi.srcf.net.	0	IN	A	172.25.15.18
+fog-mgmt.srcf.net.	0	IN	A	172.25.15.18
+fog-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:21e:67ff:fe9d:50c5
+_acme-challenge.fog-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.fog-mgmt.srcf.net.ddns.srcf.net.
+freshers.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.freshers.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+ftp.srcf.net.	0	IN	CNAME	pip.srcf.net.
+_tcp.ftp.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+ftps.srcf.net.	0	IN	CNAME	pip.srcf.net.
+_tcp.ftps.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+ghost.srcf.net.	0	IN	A	131.111.179.104
+ghost.srcf.net.	0	IN	AAAA	2001:630:212:700:d0e3:1fff:fead:de0a
+ghost.srcf.net.	0	IN	SSHFP	1 2 36c853cf9b83e344512d5c71a1d9a6f9135c3a9a4a3a33ae8894f568b2ead753
+ghost.srcf.net.	0	IN	SSHFP	3 2 76077fdfbbc215fa8d56b825b7d6358ba496684bd453fb5c3b5e68daf856e39d
+gopher.srcf.net.	0	IN	CNAME	pip.srcf.net.
+_tcp.gopher.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+hades.srcf.net.	0	IN	A	131.111.179.67
+hades.srcf.net.	0	IN	AAAA	2001:630:212:700:25::1
+hades.srcf.net.	0	IN	SSHFP	1 2 6d410911eca8d84daca0ec67cee9f32848ac606f4867d28751484b1589ddee6a
+hades.srcf.net.	0	IN	SSHFP	3 2 e29ff652c54dd7b33ae079cb9c92aefb653379e0b246d4c83ee324c760de3f0f
+hades.srcf.net.	0	IN	SSHFP	4 2 66f3578fdd009af0963fd5b05d9c6006562b7e0c1c70fce14f673f95efeaff66
+_acme-challenge.hades.srcf.net.	0	IN	CNAME	_acme-challenge.hades.srcf.net.acme.ddns.srcf.net.
+autoconfig.hades.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.autoconfig.hades.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+old-webmail.hades.srcf.net.	0	IN	A	131.111.179.72
+old-webmail.hades.srcf.net.	0	IN	AAAA	2001:630:212:700:25::80
+_acme-challenge.old-webmail.hades.srcf.net.	0	IN	CNAME	_acme-challenge.old-webmail.hades.srcf.net.acme.ddns.srcf.net.
+_tcp.old-webmail.hades.srcf.net.	0	IN	DNAME	_tcp.hades.srcf.net.
+webmail.hades.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.webmail.hades.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+hamsters.srcf.net.	0	IN	A	131.111.179.98
+hamsters.srcf.net.	0	IN	AAAA	2001:630:212:700:1cb9:6bff:fef7:8500
+hamsters.srcf.net.	0	IN	SSHFP	1 2 847b6ad96435bfcd5ddbcfb8289f4554c260628a7b32ca7c5b03d4d0dcbd02ae
+hamsters.srcf.net.	0	IN	SSHFP	3 2 9a343c267d128afc11b1ae6d605de2f0ac4e0b09e92d82ccac6f9fb4431d7a0e
+hamsters.srcf.net.	0	IN	SSHFP	4 2 c051ca4084f39ed110ac763b1ab8ebe05af2c5ec11626fc8c9e98f636cdbea8b
+hamsters-syslog-ip6.srcf.net.	0	IN	AAAA	2001:630:212:700:1cb9:6bff:fef7:8500
+eb677-sandbox.hosted.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:5c38:e1ff:fe0f:24e3
+swan.hosted.srcf.net.	0	IN	A	128.232.113.74
+swan.hosted.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:50d8:7eff:fef6:f545
+uccps-1.hosted.srcf.net.	0	IN	A	128.232.113.72
+uccps-1.hosted.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:3859:a3ff:febe:49db
+hunter.srcf.net.	0	IN	CNAME	hunter1.srcf.net.
+_acme-challenge.hunter.srcf.net.	0	IN	CNAME	_acme-challenge.hunter.srcf.net.acme.ddns.srcf.net.
+hunter0.srcf.net.	0	IN	A	131.111.181.8
+hunter0.srcf.net.	0	IN	AAAA	2001:630:212:700:b82d:40ff:fe22:2f2
+hunter1.srcf.net.	0	IN	A	131.111.179.114
+hunter1.srcf.net.	0	IN	AAAA	2a05:b400:10c::1:500
+hunter1.srcf.net.	0	IN	SSHFP	1 2 49a09e0b26492920b88aeca42d11b1cca4294af6dcd9d3a266e4e2f76ca5c92c
+hunter1.srcf.net.	0	IN	SSHFP	3 2 0ea49070eb8a83511d52d2747e2659ad1ae539d89215faf29ca5aba345328570
+hunter1.srcf.net.	0	IN	SSHFP	4 2 f4e8d17d48f0d4962598e17311bae0ec5009d8c437c60320b5bd66a004374ad8
+_acme-challenge.hunter1.srcf.net.	0	IN	CNAME	_acme-challenge.hunter1.srcf.net.acme.ddns.srcf.net.
+16.113.232.128.in-addr.srcf.net.	0	IN	PTR	cacophony.srcf.net.
+17.113.232.128.in-addr.srcf.net.	0	IN	PTR	tephra.srcf.net.
+19.113.232.128.in-addr.srcf.net.	0	IN	PTR	cicada.srcf.net.
+20.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.20
+20.113.232.128.in-addr.srcf.net.	0	IN	PTR	20.113.238.128.in-addr.srcf.net.
+21.113.232.128.in-addr.srcf.net.	0	IN	PTR	puddle.srcf.net.
+22.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.22
+22.113.232.128.in-addr.srcf.net.	0	IN	PTR	22.113.238.128.in-addr.srcf.net.
+23.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.23
+23.113.232.128.in-addr.srcf.net.	0	IN	PTR	23.113.238.128.in-addr.srcf.net.
+38.113.232.128.in-addr.srcf.net.	0	IN	PTR	echo.srcf.net.
+39.113.232.128.in-addr.srcf.net.	0	IN	PTR	enid.srcf.net.
+64.113.232.128.in-addr.srcf.net.	0	IN	PTR	tarp.srcf.net.
+65.113.232.128.in-addr.srcf.net.	0	IN	PTR	marquee.srcf.net.
+66.113.232.128.in-addr.srcf.net.	0	IN	PTR	olympic.srcf.net.
+67.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.67
+67.113.232.128.in-addr.srcf.net.	0	IN	PTR	67.113.238.128.in-addr.srcf.net.
+68.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.68
+68.113.232.128.in-addr.srcf.net.	0	IN	PTR	68.113.238.128.in-addr.srcf.net.
+69.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.69
+69.113.232.128.in-addr.srcf.net.	0	IN	PTR	69.113.238.128.in-addr.srcf.net.
+70.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.70
+70.113.232.128.in-addr.srcf.net.	0	IN	PTR	70.113.238.128.in-addr.srcf.net.
+71.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.71
+71.113.232.128.in-addr.srcf.net.	0	IN	PTR	71.113.238.128.in-addr.srcf.net.
+72.113.232.128.in-addr.srcf.net.	0	IN	PTR	uccps-1.hosted.srcf.net.
+73.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.73
+73.113.232.128.in-addr.srcf.net.	0	IN	PTR	73.113.238.128.in-addr.srcf.net.
+74.113.232.128.in-addr.srcf.net.	0	IN	PTR	swan.hosted.srcf.net.
+75.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.75
+75.113.232.128.in-addr.srcf.net.	0	IN	PTR	75.113.238.128.in-addr.srcf.net.
+76.113.232.128.in-addr.srcf.net.	0	IN	PTR	eviction.srcf.net.
+77.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.77
+77.113.232.128.in-addr.srcf.net.	0	IN	PTR	77.113.238.128.in-addr.srcf.net.
+78.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.78
+78.113.232.128.in-addr.srcf.net.	0	IN	PTR	78.113.238.128.in-addr.srcf.net.
+79.113.232.128.in-addr.srcf.net.	0	IN	A	128.232.113.79
+79.113.232.128.in-addr.srcf.net.	0	IN	PTR	79.113.238.128.in-addr.srcf.net.
+80.113.232.128.in-addr.srcf.net.	0	IN	PTR	rhone.srcf.net.
+81.113.232.128.in-addr.srcf.net.	0	IN	PTR	mirzam.srcf.net.
+82.113.232.128.in-addr.srcf.net.	0	IN	PTR	sheliak.srcf.net.
+83.113.232.128.in-addr.srcf.net.	0	IN	PTR	line.srcf.net.
+84.113.232.128.in-addr.srcf.net.	0	IN	PTR	radius1.srcf.net.
+ingress.srcf.net.	0	IN	AAAA	2a05:b400:10c::616:1
+ingress.srcf.net.	0	IN	SSHFP	1 2 4e7d270d872cc797fa7d49492ec4db77270e644db6afc4da78ddbac2f97e7b9f
+ingress.srcf.net.	0	IN	SSHFP	3 2 7a8f4801cee1b5637d5f47342589779ecd487318dbfc45a3b6c2934f7d1a33b9
+ingress.srcf.net.	0	IN	SSHFP	4 2 43ec55a859ba1b2b2a07520bef9910535e92c432f80c2b12a18fd36ccd845da7
+epidemic.adm.internal.srcf.net.	0	IN	A	10.100.64.100
+locust.adm.internal.srcf.net.	0	IN	A	10.100.64.101
+alto.internal.srcf.net.	0	IN	A	10.100.64.77
+blizzard.internal.srcf.net.	0	IN	A	10.100.64.73
+cirrus.internal.srcf.net.	0	IN	A	10.100.64.91
+cloudburst.internal.srcf.net.	0	IN	A	10.100.64.79
+doom.internal.srcf.net.	0	IN	A	10.100.64.103
+downpour.internal.srcf.net.	0	IN	A	10.100.64.83
+eggs.internal.srcf.net.	0	IN	A	10.100.64.81
+eldo.internal.srcf.net.	0	IN	A	10.100.64.125
+elmer.internal.srcf.net.	0	IN	A	10.100.64.124
+flame.internal.srcf.net.	0	IN	A	10.100.64.72
+flood.internal.srcf.net.	0	IN	A	10.100.64.74
+fog.internal.srcf.net.	0	IN	A	10.100.64.70
+ghost.internal.srcf.net.	0	IN	A	10.100.64.82
+hades.internal.srcf.net.	0	IN	A	10.100.64.68
+hamsters.internal.srcf.net.	0	IN	A	10.100.64.88
+hunter.internal.srcf.net.	0	IN	A	10.100.64.71
+hunter0.internal.srcf.net.	0	IN	A	10.100.64.95
+milne.internal.srcf.net.	0	IN	A	10.100.64.76
+mist.internal.srcf.net.	0	IN	A	10.100.64.102
+mysql.internal.srcf.net.	0	IN	CNAME	squirrel.internal.srcf.net.
+nimbus.internal.srcf.net.	0	IN	A	10.100.64.87
+nis.internal.srcf.net.	0	IN	A	10.100.64.65
+nis.internal.srcf.net.	0	IN	A	10.100.64.66
+nis.internal.srcf.net.	0	IN	A	10.100.64.67
+nis-master.internal.srcf.net.	0	IN	CNAME	pip.internal.srcf.net.
+_tcp.nis-master.internal.srcf.net.	0	IN	DNAME	_tcp.pip.internal.srcf.net.
+oauth.internal.srcf.net.	0	IN	CNAME	hunter0.internal.srcf.net.
+oldflood.internal.srcf.net.	0	IN	A	10.100.64.110
+oops.internal.srcf.net.	0	IN	A	10.100.64.98
+pileus.internal.srcf.net.	0	IN	A	10.100.64.93
+pip.internal.srcf.net.	0	IN	A	10.100.64.65
+postgres.internal.srcf.net.	0	IN	CNAME	sinkhole.internal.srcf.net.
+provisioning-test.internal.srcf.net.	0	IN	A	10.100.64.123
+quicksand.internal.srcf.net.	0	IN	A	10.100.64.113
+scream.internal.srcf.net.	0	IN	A	10.100.64.86
+seismograph.internal.srcf.net.	0	IN	A	10.100.64.66
+sinkhole.internal.srcf.net.	0	IN	A	10.100.64.89
+smog.internal.srcf.net.	0	IN	A	10.100.64.94
+squirrel.internal.srcf.net.	0	IN	A	10.100.64.90
+stampede.internal.srcf.net.	0	IN	A	10.100.64.99
+stratus.internal.srcf.net.	0	IN	A	10.100.64.92
+titanic.internal.srcf.net.	0	IN	A	10.100.64.112
+upsmon.internal.srcf.net.	0	IN	A	10.100.64.67
+ventilator.internal.srcf.net.	0	IN	A	10.100.64.84
+wildfire.internal.srcf.net.	0	IN	A	10.100.64.80
+irc.srcf.net.	0	IN	A	35.211.24.91
+irc.srcf.net.	0	IN	A	128.232.113.21
+irc.srcf.net.	0	IN	A	131.111.179.85
+irc.srcf.net.	0	IN	AAAA	2001:630:212:700:9::1
+irc.srcf.net.	0	IN	AAAA	2600:1900:4020:56f::
+irc.srcf.net.	0	IN	AAAA	2a02:e00:fff0:62::3
+irc.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:cb1:baff:fe79:1105
+_acme-challenge.irc.srcf.net.	0	IN	CNAME	_acme-challenge.irc.srcf.net.acme-irc.ddns.srcf.net.
+ipv4.irc.srcf.net.	0	IN	A	35.211.24.91
+ipv4.irc.srcf.net.	0	IN	A	128.232.113.21
+ipv4.irc.srcf.net.	0	IN	A	131.111.179.85
+_acme-challenge.ipv4.irc.srcf.net.	0	IN	CNAME	_acme-challenge.ipv4.irc.srcf.net.acme-irc.ddns.srcf.net.
+kanboard.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.kanboard.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+lightning.srcf.net.	0	IN	A	128.232.113.81
+lightning.srcf.net.	0	IN	A	128.232.113.82
+lightning.srcf.net.	0	IN	SSHFP	1 2 8acbfcb64fe19b9c84f4ef2f14f09563ce5a13109f262f3eaa339014f80da20a
+lightning.srcf.net.	0	IN	SSHFP	1 2 bf8490924678903d06fe679cb3fde046e0e0488115cfab171a0477fc58260591
+lightning.srcf.net.	0	IN	SSHFP	3 2 220a6fb8f494319b2ab0052f71dcb1b5930ab16f0a0c0559f40579128de8c8b9
+lightning.srcf.net.	0	IN	SSHFP	3 2 c1d3020f2306e309598d946ac0875a11a7979afd534634ad8892cc25308c08d7
+lightning.srcf.net.	0	IN	SSHFP	4 2 63589e79d60afaf2f7db65e709cf6f61d2cddaf3be33865c08b9096473aa1030
+lightning.srcf.net.	0	IN	SSHFP	4 2 880e977e73fbb5e3704f7db7ecde73263294e15712c37e9f143702e8b465dd66
+_acme-challenge.lightning.srcf.net.	0	IN	CNAME	_acme-challenge.lightning.srcf.net.ddns.srcf.net.
+line.srcf.net.	0	IN	A	128.232.113.83
+line.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:7071:4eff:febe:ebc4
+line.srcf.net.	0	IN	SSHFP	1 2 4ea27394882b03756ba203f78685335619363728577dd3e54837ff4eae8dac1f
+line.srcf.net.	0	IN	SSHFP	3 2 71d75dd6192b8db423c20d6f34d92fe37e5702cb0fa813a6fab33210be2606d5
+line.srcf.net.	0	IN	SSHFP	4 2 67c822aba37c36937bc5f7442b38befc90772e7e047f4b324423b46ae37f2a5b
+off.line.srcf.net.	0	IN	HINFO	"nothing here" "everything is fine"
+on.line.srcf.net.	0	IN	CNAME	on.line.srcf.net.
+lists.srcf.net.	0	IN	CNAME	pip-webservices.srcf.net.
+_tcp.lists.srcf.net.	0	IN	DNAME	_tcp.pip-webservices.srcf.net.
+mail.srcf.net.	0	IN	CNAME	pip.srcf.net.
+_tcp.mail.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+marquee.srcf.net.	0	IN	A	128.232.113.65
+marquee.srcf.net.	0	IN	SSHFP	1 2 e68327bef9b5eb70ccd5740173e0c3bcf89bc839255ad06af7871ef886e4f543
+marquee.srcf.net.	0	IN	SSHFP	3 2 c536092d4be1cff2a4b7bf93170374874c2ecd2ca9628dd31f6d4cbd8277fe09
+marquee.srcf.net.	0	IN	SSHFP	4 2 5e0e62b036856a48097f5df9e1713d676287c879c97ae0b55f0a080517e420b3
+_acme-challenge.marquee.srcf.net.	0	IN	CNAME	_acme-challenge.marquee.srcf.net.ddns.srcf.net.
+matrix.srcf.net.	0	IN	CNAME	downpour.srcf.net.
+mattermost.srcf.net.	0	IN	CNAME	downpour.srcf.net.
+milne.srcf.net.	0	IN	A	131.111.179.87
+milne.srcf.net.	0	IN	SSHFP	1 2 99646468c614c62b19ba58b7d8ecf9c8a2a5dc3d02bb3e67cab4a7d113fcae96
+milne.srcf.net.	0	IN	SSHFP	3 2 d1ae77d17263eb8b7125de84fda0da98cae81844cc3875681b35188896a2ecf8
+milne.srcf.net.	0	IN	SSHFP	4 2 0c909328f148015b942ce8d8094e1b8c536a909351fba288be3340212178f798
+_acme-challenge.milne.srcf.net.	0	IN	CNAME	_acme-challenge.milne.srcf.net.ddns.srcf.net.
+milne-ipmi.srcf.net.	0	IN	A	172.25.15.8
+milne-mgmt.srcf.net.	0	IN	A	172.25.15.8
+milne-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:a6bf:1ff:fe57:7f91
+_acme-challenge.milne-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.milne-mgmt.srcf.net.ddns.srcf.net.
+mirzam.srcf.net.	0	IN	A	128.232.113.81
+mirzam.srcf.net.	0	IN	SSHFP	1 2 bf8490924678903d06fe679cb3fde046e0e0488115cfab171a0477fc58260591
+mirzam.srcf.net.	0	IN	SSHFP	3 2 c1d3020f2306e309598d946ac0875a11a7979afd534634ad8892cc25308c08d7
+mirzam.srcf.net.	0	IN	SSHFP	4 2 880e977e73fbb5e3704f7db7ecde73263294e15712c37e9f143702e8b465dd66
+_acme-challenge.mirzam.srcf.net.	0	IN	CNAME	_acme-challenge.mirzam.srcf.net.ddns.srcf.net.
+mist.srcf.net.	0	IN	A	131.111.181.15
+mist.srcf.net.	0	IN	SSHFP	1 2 6d67f2a9856ae7e2862fa3786ff46745855e42c58e9b9fe697092bcd0b53799d
+mist.srcf.net.	0	IN	SSHFP	3 2 50a962d2a15b63f7d09552cd07078f43a59d03da537aa73049a4b6906ac3b3fb
+mist.srcf.net.	0	IN	SSHFP	4 2 bbbd2216c1ab58b619c31bffbf9aa2c1fddb83dcb4488b87aa82fe34ec915020
+_acme-challenge.mist.srcf.net.	0	IN	CNAME	_acme-challenge.mist.srcf.net.ddns.srcf.net.
+mist-ipmi.srcf.net.	0	IN	CNAME	mist-mgmt.srcf.net.
+mist-mgmt.srcf.net.	0	IN	A	172.25.15.15
+mist-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:46a8:42ff:fe03:dd17
+_acme-challenge.mist-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.mist-mgmt.srcf.net.ddns.srcf.net.
+mm3.srcf.net.	0	IN	CNAME	pip-webservices.srcf.net.
+munin.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+_tcp.munin.srcf.net.	0	IN	DNAME	_tcp.seismograph.srcf.net.
+mx-pip.srcf.net.	0	IN	A	131.111.179.119
+netboot.srcf.net.	0	IN	CNAME	seismograph.srcf.net.
+netbox.srcf.net.	0	IN	CNAME	downpour.srcf.net.
+nevar.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.nevar.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+news.srcf.net.	0	IN	CNAME	flame.srcf.net.
+_tcp.news.srcf.net.	0	IN	DNAME	_tcp.flame.srcf.net.
+nntp.srcf.net.	0	IN	CNAME	flame.srcf.net.
+_tcp.nntp.srcf.net.	0	IN	DNAME	_tcp.flame.srcf.net.
+nntp-feed.srcf.net.	0	IN	CNAME	flame.srcf.net.
+_tcp.nntp-feed.srcf.net.	0	IN	DNAME	_tcp.flame.srcf.net.
+nntp-serv.srcf.net.	0	IN	CNAME	flame.srcf.net.
+_tcp.nntp-serv.srcf.net.	0	IN	DNAME	_tcp.flame.srcf.net.
+nomadic.srcf.net.	0	IN	A	131.111.179.105
+nomadic.srcf.net.	0	IN	AAAA	2a05:b400:10c:0:48d9:34ff:fef7:7fcc
+_acme-challenge.nomadic.srcf.net.	0	IN	CNAME	_acme-challenge.nomadic.srcf.net.ddns.srcf.net.
+mx.nomadic.srcf.net.	0	IN	CNAME	titanic.srcf.net.
+notes.srcf.net.	0	IN	CNAME	cloudburst.srcf.net.
+auth.ns.srcf.net.	0	IN	A	131.111.179.79
+auth.ns.srcf.net.	0	IN	AAAA	2001:630:212:700:8::1
+oauth.srcf.net.	0	IN	A	131.111.181.8
+oauth.srcf.net.	0	IN	AAAA	2001:630:212:700:b82d:40ff:fe22:2f2
+oldflood.srcf.net.	0	IN	A	131.111.179.68
+oldflood.srcf.net.	0	IN	AAAA	2001:630:212:700:9::2
+oldflood.srcf.net.	0	IN	SSHFP	1 2 b8f7a9829df73f0d2be999310108c8f200bc6ec655dcdacfa18a1109f8a92d76
+oldflood.srcf.net.	0	IN	SSHFP	3 2 247b335cde9af49ae0efee45f0d4ab45286841484eb570bf97d5b3058cd36fb3
+oldflood.srcf.net.	0	IN	SSHFP	4 2 67c73d7d2393940949b50445239ca118bf6b06e8cce4743172dc1a48948d0abc
+olympic.srcf.net.	0	IN	A	128.232.113.66
+olympic.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:70a9:f3ff:fe42:5ff8
+_acme-challenge.olympic.srcf.net.	0	IN	CNAME	_acme-challenge.olympic.srcf.net.ddns.srcf.net.
+oops.srcf.net.	0	IN	A	131.111.179.102
+oops.srcf.net.	0	IN	AAAA	2001:630:212:700:240::1
+oops.srcf.net.	0	IN	SSHFP	1 2 2b657c60f5be6f44d088a860dd69a1a63a3131e580ea295dd7ffb90500982852
+oops.srcf.net.	0	IN	SSHFP	3 2 2ef71cdd53dfc7be2daa36585016c2955f6915f74002b3f6695a5730b49e448a
+oops.srcf.net.	0	IN	SSHFP	4 2 fc8fdc59e1fe43fe9363423360a288e83cb2c114e88c20d693a9b595ba1c7c45
+openproject.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+valdez.p9.srcf.net.	0	IN	A	131.111.181.16
+valdez.p9.srcf.net.	0	IN	AAAA	2a05:b400:10c:0:a808:4eff:fedf:fb81
+party.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.party.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+pileus.srcf.net.	0	IN	A	131.111.179.103
+pileus.srcf.net.	0	IN	SSHFP	1 2 0cd1eef76666c974e691cb7b586c8d4ee4e29abfd8ad1b53ddc84fb26dfa4bdc
+pileus.srcf.net.	0	IN	SSHFP	3 2 5ed5110fa856d4e52848f1d26e25b34829743e2ab9204ae67c6067ba37b57439
+pileus.srcf.net.	0	IN	SSHFP	4 2 662c679360fd50a7e8edb8ca477fa27c5d976f69192ee02ee5282ba4abbce1b6
+_acme-challenge.pileus.srcf.net.	0	IN	CNAME	_acme-challenge.pileus.srcf.net.ddns.srcf.net.
+pileus-ipmi.srcf.net.	0	IN	A	172.25.15.23
+pileus-mgmt.srcf.net.	0	IN	A	172.25.15.23
+pileus-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:222:19ff:fe5a:942f
+_acme-challenge.pileus-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.pileus-mgmt.srcf.net.ddns.srcf.net.
+pip.srcf.net.	0	IN	A	131.111.179.83
+pip.srcf.net.	0	IN	AAAA	2001:630:212:700:1::1
+pip.srcf.net.	0	IN	SSHFP	1 2 b9de17c15868b065b7a076763cecd6e28cf4cc60b6cbb2562c638cd5d6c8a99c
+webmail.pip.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.webmail.pip.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+pip-webservices.srcf.net.	0	IN	A	131.111.179.93
+pip-webservices.srcf.net.	0	IN	AAAA	2001:630:212:700:1::3
+_tcp.pip-webservices.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+pitch.srcf.net.	0	IN	A	128.232.113.64
+pitch.srcf.net.	0	IN	A	128.232.113.65
+pitch.srcf.net.	0	IN	SSHFP	1 2 0cb5db3a225ae96d217087c238303b8cb6ac06a8328933753c22a91f42fcd710
+pitch.srcf.net.	0	IN	SSHFP	1 2 e68327bef9b5eb70ccd5740173e0c3bcf89bc839255ad06af7871ef886e4f543
+pitch.srcf.net.	0	IN	SSHFP	3 2 0d254c74a3db717c36ac1eccc69ba340eb65443218bb39bb8c9b9b98fce6fbb5
+pitch.srcf.net.	0	IN	SSHFP	3 2 c536092d4be1cff2a4b7bf93170374874c2ecd2ca9628dd31f6d4cbd8277fe09
+pitch.srcf.net.	0	IN	SSHFP	4 2 5e0e62b036856a48097f5df9e1713d676287c879c97ae0b55f0a080517e420b3
+pitch.srcf.net.	0	IN	SSHFP	4 2 d6353835fb146573fe74fe8f273e4792fed391dccb532e683afc325fff03c5fd
+_acme-challenge.pitch.srcf.net.	0	IN	CNAME	_acme-challenge.pitch.srcf.net.ddns.srcf.net.
+provisioning-test.srcf.net.	0	IN	A	131.111.181.128
+provisioning-test.srcf.net.	0	IN	AAAA	2a05:b400:10c::1000:f00
+puddle.srcf.net.	0	IN	A	128.232.113.21
+puddle.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:cb1:baff:fe79:1105
+puddle.srcf.net.	0	IN	SSHFP	1 2 c3318bb056c52c9bb8a3adb2ed17ffbc2ecffb6cb3f1f7ca43556d10e8809ac5
+puddle.srcf.net.	0	IN	SSHFP	3 2 49b1f100887bfdd10f09796657a2bf507bfcc4cd7521eedd19bdda5c66a48a35
+puddle.srcf.net.	0	IN	SSHFP	4 2 8f77cd590d679f10090e33846baea9a3a993f3cdf5deb28367e68b54164ac07d
+_acme-challenge.puddle.srcf.net.	0	IN	CNAME	_acme-challenge.puddle.srcf.net.acme-irc.ddns.srcf.net.
+quicksand.srcf.net.	0	IN	A	131.111.179.106
+_acme-challenge.quicksand.srcf.net.	0	IN	CNAME	quicksand.srcf.net.
+*.soc.quicksand.srcf.net.	0	IN	CNAME	quicksand.srcf.net.
+_acme-challenge.soc.quicksand.srcf.net.	0	IN	CNAME	_acme-challenge.soc.quicksand.srcf.net.acme.ddns.srcf.net.
+*.user.quicksand.srcf.net.	0	IN	CNAME	quicksand.srcf.net.
+_acme-challenge.user.quicksand.srcf.net.	0	IN	CNAME	_acme-challenge.user.quicksand.srcf.net.acme.ddns.srcf.net.
+radius0.srcf.net.	0	IN	A	131.111.179.118
+radius0.srcf.net.	0	IN	AAAA	2001:630:212:700::aaa:0
+radius1.srcf.net.	0	IN	A	128.232.113.84
+radius1.srcf.net.	0	IN	AAAA	2a05:b400:110:110a:52cf:0:aaa:1
+rescue.srcf.net.	0	IN	A	131.111.179.69
+rescue.srcf.net.	0	IN	AAAA	2001:630:212:700:0:dece:a5ed:d0d0
+rescue.srcf.net.	0	IN	SSHFP	1 2 144a72171b388b259415b296a307c480a66137d860d4c712ce5c02727d1c13ea
+rescue.srcf.net.	0	IN	SSHFP	1 2 b62f4c6804ba10892f2c279f64c235cfc2eb57306bd37151e385bd701a0d9495
+rescue.srcf.net.	0	IN	SSHFP	3 2 ad0b12b40c2845adacca4a692295ec40a439a004b1ae4bbec28b91604c9120a3
+rescue.srcf.net.	0	IN	SSHFP	4 2 c72733e8aa0a0baae6d0d42e5a002e0c5b430279ec84b0632e05dd6b0cc4c8ac
+rhone.srcf.net.	0	IN	A	128.232.113.80
+rhone.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:821:efff:febe:42eb
+rhone.srcf.net.	0	IN	SSHFP	1 2 f2749a267d511c3fda035b75061c1ff8ac9504db5a419fae56baab8d0036d40e
+rhone.srcf.net.	0	IN	SSHFP	3 2 cb07b6aa3e0b589aaa1ffa017c62a07f743d08b3b0c2a2926be65fda5bd6ae44
+rhone.srcf.net.	0	IN	SSHFP	4 2 bd64615e7691d4e0e2f63fe4ec76abed8a1d8e57bbc2e208ff178d76134e1306
+scream.srcf.net.	0	IN	A	131.111.179.96
+scream.srcf.net.	0	IN	AAAA	2001:630:212:700:9840:3eff:fe0a:c7c0
+scream.srcf.net.	0	IN	SSHFP	1 2 31ab837c344d064ba78fd50ccf82f0c00d1d49118c96471614e6348d222efa6a
+scream.srcf.net.	0	IN	SSHFP	3 2 8670855615fa01c6d608d42ac36226c2be947a90bf371285a09d15ed7c8cf7ef
+scream.srcf.net.	0	IN	SSHFP	4 2 6c6383689861d915c0476431687c27d2040d4c10ffc97cc3f3c1899c9f6d99a5
+seismograph.srcf.net.	0	IN	A	131.111.179.86
+seismograph.srcf.net.	0	IN	AAAA	2001:630:212:700:a::1
+seismograph.srcf.net.	0	IN	SSHFP	1 2 5df59690307e1a63f50587760ece212847c7bbc640598adaaf4f875916fab5fd
+seismograph.srcf.net.	0	IN	SSHFP	3 2 8a707636615a3660b84783f054c367531af002a010a0169d977ff23c0e17df95
+seismograph.srcf.net.	0	IN	SSHFP	4 2 6361486fc1a8c17e8fa29cb15dd6520624ee7e8bf98ee8e488385e336bbab257
+sheliak.srcf.net.	0	IN	A	128.232.113.82
+sheliak.srcf.net.	0	IN	SSHFP	1 2 8acbfcb64fe19b9c84f4ef2f14f09563ce5a13109f262f3eaa339014f80da20a
+sheliak.srcf.net.	0	IN	SSHFP	3 2 220a6fb8f494319b2ab0052f71dcb1b5930ab16f0a0c0559f40579128de8c8b9
+sheliak.srcf.net.	0	IN	SSHFP	4 2 63589e79d60afaf2f7db65e709cf6f61d2cddaf3be33865c08b9096473aa1030
+_acme-challenge.sheliak.srcf.net.	0	IN	CNAME	_acme-challenge.sheliak.srcf.net.ddns.srcf.net.
+shell.srcf.net.	0	IN	CNAME	pip.srcf.net.
+_tcp.shell.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+sinkhole.srcf.net.	0	IN	A	131.111.179.99
+sinkhole.srcf.net.	0	IN	AAAA	2001:630:212:700:80::1
+sinkhole.srcf.net.	0	IN	SSHFP	1 2 0d20b7d14754a103585a1c14e2272e3cecab0c2f71563b2729b442dcccfd4593
+sinkhole.srcf.net.	0	IN	SSHFP	3 2 1b5825bc50b61f8551f660354642424555722c1e9efcb6ab23ef1950544676cf
+sinkhole.srcf.net.	0	IN	SSHFP	4 2 59a97235f9d99bacae2213217ba923d7b3629122bc2ee0b623a8a081661329c6
+smog.srcf.net.	0	IN	A	131.111.181.12
+smog.srcf.net.	0	IN	SSHFP	1 2 dfeff6f9e874dee2f45f49447b6762eb9cf059739c7f9242ef8dad4431130ec9
+smog.srcf.net.	0	IN	SSHFP	3 2 4cc44b1d99fa784fb303ef361ab39f71183fb7f4312860cffe850d8deade63d9
+smog.srcf.net.	0	IN	SSHFP	4 2 a0b2802558bda4e4ab662f8448e2ef5e41422b2fc69d111388d4db62196c5022
+_acme-challenge.smog.srcf.net.	0	IN	CNAME	_acme-challenge.smog.srcf.net.ddns.srcf.net.
+smog-ipmi.srcf.net.	0	IN	A	172.25.15.17
+smog-mgmt.srcf.net.	0	IN	A	172.25.15.17
+smog-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:21e:67ff:fe9d:50ef
+_acme-challenge.smog-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.smog-mgmt.srcf.net.ddns.srcf.net.
+smtp.srcf.net.	0	IN	CNAME	hades.srcf.net.
+_acme-challenge.smtp.srcf.net.	0	IN	CNAME	_acme-challenge.smtp.srcf.net.acme.ddns.srcf.net.
+_tcp.smtp.srcf.net.	0	IN	DNAME	_tcp.hades.srcf.net.
+*.soc.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_acme-challenge.soc.srcf.net.	0	IN	CNAME	_acme-challenge.soc.srcf.net.acme.ddns.srcf.net.
+squirrel.srcf.net.	0	IN	A	131.111.179.101
+squirrel.srcf.net.	0	IN	AAAA	2001:630:212:700:3306::1
+squirrel.srcf.net.	0	IN	SSHFP	1 2 ad495aa14d41df532ac64fbc24318dcedaf43802b706346481d51c2da246883a
+squirrel.srcf.net.	0	IN	SSHFP	3 2 36c5a5eefac6661d2363996200602ced6de952da792258edfd21b3bea6fcb6a9
+squirrel.srcf.net.	0	IN	SSHFP	4 2 fcac44f62d57460f3666988663a4277eed2959273620e42ebc3aee76bb109a61
+stampede.srcf.net.	0	IN	A	131.111.179.77
+stampede.srcf.net.	0	IN	AAAA	2001:630:212:700:addb::1
+stampede.srcf.net.	0	IN	SSHFP	1 2 5ae68bf8a39b67cfcbcdf79de5892d017b7c9ce9635f7a22b221a26ea832a43d
+stampede.srcf.net.	0	IN	SSHFP	3 2 0266ee0e5935b995e07998f7bc55b6d89cf8bb07d8f4806ed70a5af799399f2f
+stampede.srcf.net.	0	IN	SSHFP	4 2 afbb2fbbff74da7daa24d8d8bd2ba1ba511f817a53af00c4395cdf64b481ca73
+status.srcf.net.	0	IN	CNAME	domains.tumblr.com.
+_tcp.status.srcf.net.	0	IN	DNAME	_tcp.domains.tumblr.com.
+stratus.srcf.net.	0	IN	A	131.111.179.94
+stratus.srcf.net.	0	IN	SSHFP	1 2 611cf58b55b031b852f15212727e422edf7a397e379dc4f85b749c007d2e2341
+stratus.srcf.net.	0	IN	SSHFP	3 2 3cbb334bddcd616db706276a36288533b474239d451ff262f3db871730954c73
+stratus.srcf.net.	0	IN	SSHFP	4 2 1e2ba2e8927de43fccb6090305981cec39c55562824175878d95fe7118fb33e7
+_acme-challenge.stratus.srcf.net.	0	IN	CNAME	_acme-challenge.stratus.srcf.net.ddns.srcf.net.
+stratus-ipmi.srcf.net.	0	IN	A	172.25.15.22
+stratus-mgmt.srcf.net.	0	IN	A	172.25.15.22
+stratus-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:222:19ff:fe65:588a
+_acme-challenge.stratus-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.stratus-mgmt.srcf.net.ddns.srcf.net.
+stream.srcf.net.	0	IN	CNAME	ghost.srcf.net.
+_tcp.stream.srcf.net.	0	IN	DNAME	_tcp.ghost.srcf.net.
+sw-gu.srcf.net.	0	IN	A	172.25.15.25
+sw-gu.srcf.net.	0	IN	AAAA	2001:630:212:700:802::5
+sw-srcf-mill-g.srcf.net.	0	IN	A	172.25.15.33
+sw-srcf-mill-g.srcf.net.	0	IN	AAAA	2a05:b400:10c::802:20
+sw-srcf-mill-xg.srcf.net.	0	IN	A	131.111.181.250
+sw-srcf-mill-xg.srcf.net.	0	IN	AAAA	2a05:b400:10c::802:10
+sw-srcf-mill-xg.srcf.net.	0	IN	SSHFP	1 2 b5dfafdc8362c7b05cca05470ebcb12b261a6ba1703fb99653629b718be45595
+sw-srcf-mill-xg.srcf.net.	0	IN	SSHFP	3 2 726cfdce0834d1e645f5cd2f82d7113b42aea877b8fbd3e3a94d4ab7c6a7bc76
+sw-srcf-mill-xg.srcf.net.	0	IN	SSHFP	4 2 5789f5bfa30a19c7751797b01cd0ded6d4251f22be0bad73ac1af4dea3b170fa
+sw-srcf-mill-xg-2.srcf.net.	0	IN	A	131.111.181.251
+sw-srcf-mill-xg-2.srcf.net.	0	IN	AAAA	2a05:b400:10c::802:11
+sw-srcf-mill-xg-2.srcf.net.	0	IN	SSHFP	1 2 1f91805319ea1348431fd5f07ea42cc8cf52111ff5e2478e19c1237bff43fb53
+sw-srcf-mill-xg-2.srcf.net.	0	IN	SSHFP	3 2 f6f06491d03c36022a5741c339a36422b744e645a8940226f5b0f64378ec437c
+sw-srcf-mill-xg-2.srcf.net.	0	IN	SSHFP	4 2 47cd9843f8abef434a0465164249c93e36dd03ae61c9c03897e13929270f8d51
+sw-union-1.srcf.net.	0	IN	A	172.25.15.26
+sw-union-1.srcf.net.	0	IN	AAAA	2001:630:212:700:802::1
+sw-union-2.srcf.net.	0	IN	A	172.25.15.27
+sw-union-2.srcf.net.	0	IN	AAAA	2001:630:212:700:802::2
+sw-union-3.srcf.net.	0	IN	A	172.25.15.19
+sw-union-3.srcf.net.	0	IN	AAAA	2001:630:212:700:802::3
+sw-union-mezz.srcf.net.	0	IN	A	172.25.15.24
+sw-union-mezz.srcf.net.	0	IN	AAAA	2001:630:212:700:802::4
+tarp.srcf.net.	0	IN	A	128.232.113.64
+tarp.srcf.net.	0	IN	SSHFP	1 2 0cb5db3a225ae96d217087c238303b8cb6ac06a8328933753c22a91f42fcd710
+tarp.srcf.net.	0	IN	SSHFP	3 2 0d254c74a3db717c36ac1eccc69ba340eb65443218bb39bb8c9b9b98fce6fbb5
+tarp.srcf.net.	0	IN	SSHFP	4 2 d6353835fb146573fe74fe8f273e4792fed391dccb532e683afc325fff03c5fd
+_acme-challenge.tarp.srcf.net.	0	IN	CNAME	_acme-challenge.tarp.srcf.net.ddns.srcf.net.
+tephra.srcf.net.	0	IN	A	128.232.113.17
+tephra.srcf.net.	0	IN	AAAA	2a05:b400:110:1198:385c:f3ff:fe48:8c86
+tephra.srcf.net.	0	IN	SSHFP	1 2 09140e76dc0d2663cacc9d3b84871427ffd9307e5854b45488abceea9c92c32c
+tephra.srcf.net.	0	IN	SSHFP	3 2 f66497026e7f560c1c9813dc419bbde0fb1dc18df9b4efc377d156afe6393975
+tephra.srcf.net.	0	IN	SSHFP	4 2 901b60ac664cd0f9507dda11b048dfb0142abb2bc4753b3807ff47c9e6889a66
+thunder.srcf.net.	0	IN	A	131.111.181.7
+thunder.srcf.net.	0	IN	A	131.111.181.11
+thunder.srcf.net.	0	IN	A	131.111.181.13
+thunder.srcf.net.	0	IN	A	131.111.181.14
+thunder.srcf.net.	0	IN	A	131.111.181.15
+thunder.srcf.net.	0	IN	SSHFP	1 2 0568dbd97fbd87ea2d81f1b471bc79f36b46f879cda0524b9faf2e0a45bc173c
+thunder.srcf.net.	0	IN	SSHFP	1 2 0f36160c0285a3670a539e2d45cfbe39f90954b2816e1417716284e414b395e1
+thunder.srcf.net.	0	IN	SSHFP	1 2 67607a18901502e028d58fb14fee4e347237f988325787a4ead4eb215f5d693f
+thunder.srcf.net.	0	IN	SSHFP	1 2 6d67f2a9856ae7e2862fa3786ff46745855e42c58e9b9fe697092bcd0b53799d
+thunder.srcf.net.	0	IN	SSHFP	1 2 754d7d4beb8df5d7f61bacddfab930ce782fbf9d08dab2449f40772076658654
+thunder.srcf.net.	0	IN	SSHFP	3 2 2e0b69e22efe7a83430258cbf4262a020f3fdf14c9d8314bb174e21d93d61096
+thunder.srcf.net.	0	IN	SSHFP	3 2 50a962d2a15b63f7d09552cd07078f43a59d03da537aa73049a4b6906ac3b3fb
+thunder.srcf.net.	0	IN	SSHFP	3 2 51be00d86a0fa2061e53da22ec021f784212574eef43bfa542ce1e5bb4723d5b
+thunder.srcf.net.	0	IN	SSHFP	3 2 550534696015bc92e4d2940e291789f8b56f0edf89234c96d5d73bd9890be94f
+thunder.srcf.net.	0	IN	SSHFP	3 2 c09ae82caec9c2174586424547a772c4ae737f9ddca0f8eda84de1706225c6d4
+thunder.srcf.net.	0	IN	SSHFP	4 2 00920e9847a42a2c45db47b8e5aabf3714151befb8258ee6bc88da4e8d5cf762
+thunder.srcf.net.	0	IN	SSHFP	4 2 74138baa35bd8bcedb55aeb2d207059a839d48c3df8a350aa2e7a3dfb5a7a1cb
+thunder.srcf.net.	0	IN	SSHFP	4 2 8d3eb82a5700b70e51bdec0a0c2d9f36d2abe5d46addf99c86d4a78fe81cc067
+thunder.srcf.net.	0	IN	SSHFP	4 2 b8c9a33d33472d365a836743c3702a6860453c4f218a5870fcda885f6fb1ea04
+thunder.srcf.net.	0	IN	SSHFP	4 2 bbbd2216c1ab58b619c31bffbf9aa2c1fddb83dcb4488b87aa82fe34ec915020
+_acme-challenge.thunder.srcf.net.	0	IN	CNAME	_acme-challenge.thunder.srcf.net.ddns.srcf.net.
+cirrus.thunder.srcf.net.	0	IN	CNAME	cirrus.srcf.net.
+cirrus-ipmi.thunder.srcf.net.	0	IN	CNAME	cirrus-ipmi.srcf.net.
+cirrus-mgmt.thunder.srcf.net.	0	IN	CNAME	cirrus-mgmt.srcf.net.
+fog.thunder.srcf.net.	0	IN	CNAME	fog.srcf.net.
+fog-ipmi.thunder.srcf.net.	0	IN	CNAME	fog-ipmi.srcf.net.
+fog-mgmt.thunder.srcf.net.	0	IN	CNAME	fog-mgmt.srcf.net.
+pileus.thunder.srcf.net.	0	IN	CNAME	pileus.srcf.net.
+pileus-ipmi.thunder.srcf.net.	0	IN	CNAME	pileus-ipmi.srcf.net.
+pileus-mgmt.thunder.srcf.net.	0	IN	CNAME	pileus-mgmt.srcf.net.
+stratus-ipmi.thunder.srcf.net.	0	IN	CNAME	stratus-ipmi.srcf.net.
+stratus-mgmt.thunder.srcf.net.	0	IN	CNAME	stratus-mgmt.srcf.net.
+timeout.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+titanic.srcf.net.	0	IN	A	131.111.179.104
+titanic.srcf.net.	0	IN	AAAA	2a05:b400:10c:0:5031:e6ff:fe98:e808
+_acme-challenge.titanic.srcf.net.	0	IN	CNAME	_acme-challenge.titanic.srcf.net.ddns.srcf.net.
+smarthost.titanic.srcf.net.	0	IN	CNAME	nomadic.srcf.net.
+tuba-mgmt.srcf.net.	0	IN	A	172.25.15.12
+tuba-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:6600:6aff:fec3:1bc2
+_acme-challenge.tuba-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.tuba-mgmt.srcf.net.ddns.srcf.net.
+uncinus.srcf.net.	0	IN	A	131.111.181.7
+uncinus.srcf.net.	0	IN	SSHFP	1 2 754d7d4beb8df5d7f61bacddfab930ce782fbf9d08dab2449f40772076658654
+uncinus.srcf.net.	0	IN	SSHFP	3 2 c09ae82caec9c2174586424547a772c4ae737f9ddca0f8eda84de1706225c6d4
+uncinus.srcf.net.	0	IN	SSHFP	4 2 00920e9847a42a2c45db47b8e5aabf3714151befb8258ee6bc88da4e8d5cf762
+_acme-challenge.uncinus.srcf.net.	0	IN	CNAME	_acme-challenge.uncinus.srcf.net.ddns.srcf.net.
+uncinus-ipmi.srcf.net.	0	IN	CNAME	uncinus-mgmt.srcf.net.
+uncinus-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:ba2a:72ff:fefd:c0e2
+uncinus-mgmt.srcf.net.	0	IN	SSHFP	1 2 bcb59630818ffb3b1efc780880f8ba1f72f4b33c5c985ec5e757b863233115a8
+uncinus-mgmt.srcf.net.	0	IN	SSHFP	3 2 ddb56c09bf3755b10232dacdeaa4a03e45ddf5de7a9e00daf5fa94828e792234
+_acme-challenge.uncinus-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.uncinus-mgmt.srcf.net.ddns.srcf.net.
+*.user.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_acme-challenge.user.srcf.net.	0	IN	CNAME	_acme-challenge.user.srcf.net.acme.ddns.srcf.net.
+ventilator.srcf.net.	0	IN	A	131.111.179.117
+ventilator.srcf.net.	0	IN	AAAA	2001:630:212:700:11::1
+ventilator.srcf.net.	0	IN	SSHFP	1 2 7978de4a9734ab5da18f228694103de70f8ddd0d42c44c5788c5cc78e6412e8f
+ventilator.srcf.net.	0	IN	SSHFP	3 2 6e29e947a86d6aad5b115c193be75bfc7f6cf355cd682ec4d5319596326310a6
+ventilator.srcf.net.	0	IN	SSHFP	4 2 4d9d678d7fde5e29c6c65556c6f1f408b3142e4edaf496b3008c527e4a5b34ec
+volutus.srcf.net.	0	IN	A	131.111.181.11
+volutus.srcf.net.	0	IN	SSHFP	1 2 0f36160c0285a3670a539e2d45cfbe39f90954b2816e1417716284e414b395e1
+volutus.srcf.net.	0	IN	SSHFP	3 2 2e0b69e22efe7a83430258cbf4262a020f3fdf14c9d8314bb174e21d93d61096
+volutus.srcf.net.	0	IN	SSHFP	4 2 8d3eb82a5700b70e51bdec0a0c2d9f36d2abe5d46addf99c86d4a78fe81cc067
+_acme-challenge.volutus.srcf.net.	0	IN	CNAME	_acme-challenge.volutus.srcf.net.ddns.srcf.net.
+volutus-ipmi.srcf.net.	0	IN	CNAME	volutus-mgmt.srcf.net.
+volutus-mgmt.srcf.net.	0	IN	AAAA	2001:630:212:700:ba2a:72ff:fefd:be86
+volutus-mgmt.srcf.net.	0	IN	SSHFP	1 2 556d2801f0d75e52a309b3a1516adbb47497b198ff8e220bf331e171a49fd836
+volutus-mgmt.srcf.net.	0	IN	SSHFP	3 2 24bbb0e7b96eb13f8fb6321a44cb4a34b42f4f5cab3659095061abc7e0332487
+_acme-challenge.volutus-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.volutus-mgmt.srcf.net.ddns.srcf.net.
+webchat.srcf.net.	0	IN	CNAME	flood.srcf.net.
+_acme-challenge.webchat.srcf.net.	0	IN	CNAME	_acme-challenge.webchat.srcf.net.acme-irc.ddns.srcf.net.
+_tcp.webchat.srcf.net.	0	IN	DNAME	_tcp.flood.srcf.net.
+webmail.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.webmail.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+webserver.srcf.net.	0	IN	A	131.111.179.82
+webserver.srcf.net.	0	IN	AAAA	2001:630:212:700:2::1
+webserver.srcf.net.	0	IN	SSHFP	1 2 0d20b7d14754a103585a1c14e2272e3cecab0c2f71563b2729b442dcccfd4593
+webserver.srcf.net.	0	IN	SSHFP	3 2 1b5825bc50b61f8551f660354642424555722c1e9efcb6ab23ef1950544676cf
+webserver.srcf.net.	0	IN	SSHFP	4 2 59a97235f9d99bacae2213217ba923d7b3629122bc2ee0b623a8a081661329c6
+_tcp.webserver.srcf.net.	0	IN	DNAME	_tcp.pip.srcf.net.
+webstats.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.webstats.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+wiki.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.wiki.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
+winnie.srcf.net.	0	IN	CNAME	winnie.cl.cam.ac.uk.
+_acme-challenge.winnie.srcf.net.	0	IN	CNAME	_acme-challenge.winnie.srcf.net.ddns.srcf.net.
+winnie-mgmt.srcf.net.	0	IN	CNAME	bmc-winnie.caelum.cl.cam.ac.uk.
+_acme-challenge.winnie-mgmt.srcf.net.	0	IN	CNAME	_acme-challenge.winnie-mgmt.srcf.net.ddns.srcf.net.
+www.srcf.net.	0	IN	CNAME	webserver.srcf.net.
+_tcp.www.srcf.net.	0	IN	DNAME	_tcp.webserver.srcf.net.
