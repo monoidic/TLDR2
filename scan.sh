@@ -32,7 +32,7 @@ prework() {
 	# download PSL
 	wget https://raw.githubusercontent.com/publicsuffix/list/refs/heads/main/public_suffix_list.dat || exit 1
 	# convert to idna lol
-	sed '/^\/\//d;/^$/d;s/^\*\.//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > psl.txt
+	sed '/^\/\//d;/^$/d;s/^\*\.//;s/^!//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > psl.txt
 	# add entries
 	scan -parse_lists psl.txt
 	# idk, check for zones
