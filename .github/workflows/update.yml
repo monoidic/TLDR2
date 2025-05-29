@@ -18,7 +18,9 @@ jobs:
     - uses: actions/setup-go@v4
       with:
         cache-dependency-path: dns-tools/go.sum
-    - run: success=0; for i in {1..3}; do true; if timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'; then true; success=1; else true; sudo rm /var/lib/apt/lists/lock /var/cache/apt/archives/lock; sudo find /var/lib/dpkg -maxdepth 1 -name 'lock*' -delete; sudo dpkg --configure -a; fi; done; [[ $success == 1 ]] || exit 1
+    # make apt install not take an eternity
+    - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
+    - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
     - run: go install github.com/monoidic/dns-tools@latest
     - run: ./scan.sh prework
     - run: ./scan.sh walkable
@@ -41,7 +43,9 @@ jobs:
     - uses: actions/setup-go@v4
       with:
         cache-dependency-path: dns-tools/go.sum
-    - run: success=0; for i in {1..3}; do true; if timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'; then true; success=1; else true; sudo rm /var/lib/apt/lists/lock /var/cache/apt/archives/lock; sudo find /var/lib/dpkg -maxdepth 1 -name 'lock*' -delete; sudo dpkg --configure -a; fi; done; [[ $success == 1 ]] || exit 1
+    # make apt install not take an eternity
+    - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
+    - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
     - run: go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v4
       with:
@@ -70,7 +74,9 @@ jobs:
     - uses: actions/setup-go@v4
       with:
         cache-dependency-path: dns-tools/go.sum
-    - run: success=0; for i in {1..3}; do true; if timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'; then true; success=1; else true; sudo rm /var/lib/apt/lists/lock /var/cache/apt/archives/lock; sudo find /var/lib/dpkg -maxdepth 1 -name 'lock*' -delete; sudo dpkg --configure -a; fi; done; [[ $success == 1 ]] || exit 1
+    # make apt install not take an eternity
+    - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
+    - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
     - run: go install github.com/monoidic/dns-tools@latest
     - uses: actions/download-artifact@v4
       with:
