@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025052902 1 1 92766e991156ac03208e0e1df1fcff842ec16acb465ae2f92f2c761f1d1361e0b7be1059e3de0a439cf5b57b325f3907
+.	0	IN	ZONEMD	2025052903 1 1 ab814504cbb8b5857edaf652719e166bb1bf6e582181d2510dc996a0d7a0127fe63c4cadf50966d95bb8b98fa19be97b
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -5075,7 +5075,6 @@ discover.	0	IN	NS	v0n2.nic.discover.
 discover.	0	IN	NS	v0n3.nic.discover.
 discover.	0	IN	NS	v2n0.nic.discover.
 discover.	0	IN	NS	v2n1.nic.discover.
-discover.	0	IN	DS	4225 8 2 d90804dc84c5e0542f8da2011babd12624318d1992483525ec125125cd576553
 discover.	0	IN	DS	11395 8 2 47124d6ed5ec3c86d3c52d6b2a4e60471e84227e9b6d8c16a6f85723c9f5f072
 v0n0.nic.discover.	0	IN	A	65.22.108.30
 v0n0.nic.discover.	0	IN	AAAA	2a01:8840:6a::30
@@ -10282,6 +10281,7 @@ p.nic.lk.	0	IN	A	204.61.216.27
 p.nic.lk.	0	IN	AAAA	2001:500:14:6027:ad::1
 t.nic.lk.	0	IN	A	203.94.66.129
 t.nic.lk.	0	IN	AAAA	2402:d000:100c::129
+y.nic.lk.	0	IN	A	194.0.1.27
 z.nic.lk.	0	IN	A	185.38.108.108
 z.nic.lk.	0	IN	AAAA	2a00:fea0:dead::beef
 llc.	0	IN	NS	a0.nic.llc.
@@ -20435,14 +20435,12 @@ xn--xhq521b.	0	IN	NS	tc.ngtld.cn.
 xn--xhq521b.	0	IN	NS	td.ngtld.cn.
 xn--xhq521b.	0	IN	NS	te.ngtld.cn.
 xn--xhq521b.	0	IN	DS	2506 8 2 aab3b1cbc1b41da41348f9b7546b700ce2356d7627b9026fd616320f18b08fe8
-xn--xkc2al3hye2a.	0	IN	NS	lk.communitydns.net.
-xn--xkc2al3hye2a.	0	IN	NS	nic.lk-anycast.pch.net.
+xn--xkc2al3hye2a.	0	IN	NS	h.nic.lk.
+xn--xkc2al3hye2a.	0	IN	NS	m.nic.lk.
+xn--xkc2al3hye2a.	0	IN	NS	p.nic.lk.
+xn--xkc2al3hye2a.	0	IN	NS	t.nic.lk.
+xn--xkc2al3hye2a.	0	IN	NS	y.nic.lk.
 xn--xkc2al3hye2a.	0	IN	NS	ns1.ac.lk.
-xn--xkc2al3hye2a.	0	IN	NS	ns3.ac.lk.
-xn--xkc2al3hye2a.	0	IN	NS	ns-c.nic.lk.
-xn--xkc2al3hye2a.	0	IN	NS	ns-d.nic.lk.
-xn--xkc2al3hye2a.	0	IN	NS	ns-l.nic.lk.
-xn--xkc2al3hye2a.	0	IN	NS	ns-t.nic.lk.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.com.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.net.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns10.trs-dns.org.
