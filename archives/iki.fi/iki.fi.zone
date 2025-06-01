@@ -3142,14 +3142,10 @@ vallihauta.iki.fi.	0	IN	AAAA	2a00:1c30:2::1
 valo.iki.fi.	0	IN	NS	ns.iki.fi.
 valo.iki.fi.	0	IN	NS	purkki.valot.fi.
 valo.iki.fi.	0	IN	RP	valo.iki.fi. .
-vami.iki.fi.	0	IN	A	89.27.13.194
-vami.iki.fi.	0	IN	MX	10 vami.iki.fi.
-vami.iki.fi.	0	IN	MX	100 mail.vami.iki.fi.
+vami.iki.fi.	0	IN	NS	ns.iki.fi.
+vami.iki.fi.	0	IN	NS	ns.vami.iki.fi.
 vami.iki.fi.	0	IN	RP	vami.iki.fi. .
-mail.vami.iki.fi.	0	IN	CNAME	vami.iki.fi.
-privatecloud223.vami.iki.fi.	0	IN	CNAME	vami.iki.fi.
-privatetv658.vami.iki.fi.	0	IN	CNAME	vami.iki.fi.
-www.vami.iki.fi.	0	IN	CNAME	vami.iki.fi.
+ns.vami.iki.fi.	0	IN	A	89.27.13.194
 veli-v.iki.fi.	0	IN	A	88.193.230.247
 veli-v.iki.fi.	0	IN	MX	10 veli-v.iki.fi.
 veli-v.iki.fi.	0	IN	RP	veli-v.iki.fi. .
