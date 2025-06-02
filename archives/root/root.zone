@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025060201 1 1 ced4fd3186cdf4839d2c8eabd8eb5d5949bde33bead982f2d3e467a0269f25082c84b8ae9326dac38b28f19b7c39c801
+.	0	IN	ZONEMD	2025060202 1 1 b3d1c488f65b502d3a5d55cee5983a16bc96ff933fdc27fdbab01f371597d33d84595acf85d4bec0bdc71931a5c4f9d8
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -2099,6 +2099,10 @@ blockbuster.	0	IN	NS	a0.nic.blockbuster.
 blockbuster.	0	IN	NS	a2.nic.blockbuster.
 blockbuster.	0	IN	NS	b0.nic.blockbuster.
 blockbuster.	0	IN	NS	c0.nic.blockbuster.
+blockbuster.	0	IN	NS	ns01.trs-dns.com.
+blockbuster.	0	IN	NS	ns01.trs-dns.net.
+blockbuster.	0	IN	NS	ns01.trs-dns.org.
+blockbuster.	0	IN	NS	ns01.trs-dns.info.
 blockbuster.	0	IN	DS	20059 8 2 7cc46ee5db147183b41bda17ac3a5ce97963064f139e80a7c2b60aa8bd5200e7
 blockbuster.	0	IN	DS	27901 8 2 6d3d995ae2008baee36910857e7de15422ec34e56e004bae5167ed8b0ad4f4ae
 a0.nic.blockbuster.	0	IN	A	65.22.92.25
@@ -4613,6 +4617,10 @@ data.	0	IN	NS	a0.nic.data.
 data.	0	IN	NS	a2.nic.data.
 data.	0	IN	NS	b0.nic.data.
 data.	0	IN	NS	c0.nic.data.
+data.	0	IN	NS	ns01.trs-dns.com.
+data.	0	IN	NS	ns01.trs-dns.net.
+data.	0	IN	NS	ns01.trs-dns.org.
+data.	0	IN	NS	ns01.trs-dns.info.
 data.	0	IN	DS	31144 8 2 c9bb359f8d99fb1ae7cf5a5972bd18448ee89775e7b6fb0bd19d3bec970a4e8b
 data.	0	IN	DS	36410 8 2 c35045126876cfa1662035c066c62d13e073cc525730625b4bd0b6346f227f51
 a0.nic.data.	0	IN	A	65.22.96.25
@@ -5092,6 +5100,10 @@ dish.	0	IN	NS	a0.nic.dish.
 dish.	0	IN	NS	a2.nic.dish.
 dish.	0	IN	NS	b0.nic.dish.
 dish.	0	IN	NS	c0.nic.dish.
+dish.	0	IN	NS	ns01.trs-dns.com.
+dish.	0	IN	NS	ns01.trs-dns.net.
+dish.	0	IN	NS	ns01.trs-dns.org.
+dish.	0	IN	NS	ns01.trs-dns.info.
 dish.	0	IN	DS	24325 8 2 1d7c249775114e100decb96c9e6cba080bffc5398498c6d3fe2eed6cbaa34663
 dish.	0	IN	DS	43639 8 2 036e35a6d89ce24521fd31ee23bb724da3126f01ac5f95e15bbcd13b1602c7f0
 a0.nic.dish.	0	IN	A	65.22.88.33
@@ -5231,6 +5243,10 @@ dot.	0	IN	NS	a0.nic.dot.
 dot.	0	IN	NS	a2.nic.dot.
 dot.	0	IN	NS	b0.nic.dot.
 dot.	0	IN	NS	c0.nic.dot.
+dot.	0	IN	NS	ns01.trs-dns.com.
+dot.	0	IN	NS	ns01.trs-dns.net.
+dot.	0	IN	NS	ns01.trs-dns.org.
+dot.	0	IN	NS	ns01.trs-dns.info.
 dot.	0	IN	DS	52639 8 2 e2bc058f7515c31dfdd8aded00ba870071ab84e0f32db3003c533c9a6d4f6f84
 dot.	0	IN	DS	65020 8 2 a18b8ea51ae5e4286244c8ad947e7e0dc98834e8f6d9287b90ce431ee9b49849
 a0.nic.dot.	0	IN	A	65.22.92.1
@@ -5270,6 +5286,10 @@ dtv.	0	IN	NS	a0.nic.dtv.
 dtv.	0	IN	NS	a2.nic.dtv.
 dtv.	0	IN	NS	b0.nic.dtv.
 dtv.	0	IN	NS	c0.nic.dtv.
+dtv.	0	IN	NS	ns01.trs-dns.com.
+dtv.	0	IN	NS	ns01.trs-dns.net.
+dtv.	0	IN	NS	ns01.trs-dns.org.
+dtv.	0	IN	NS	ns01.trs-dns.info.
 dtv.	0	IN	DS	48064 8 2 1d7e4705fa47e2d8ef437beef535b237824aab0855d0b1b149654b1d767d0dd7
 dtv.	0	IN	DS	51301 8 2 eb39cb7d7771f169881c4b9ece63e510c949949741d56988d8bb9cce24eb3479
 a0.nic.dtv.	0	IN	A	65.22.228.1
@@ -5340,6 +5360,10 @@ dvr.	0	IN	NS	a0.nic.dvr.
 dvr.	0	IN	NS	a2.nic.dvr.
 dvr.	0	IN	NS	b0.nic.dvr.
 dvr.	0	IN	NS	c0.nic.dvr.
+dvr.	0	IN	NS	ns01.trs-dns.com.
+dvr.	0	IN	NS	ns01.trs-dns.net.
+dvr.	0	IN	NS	ns01.trs-dns.org.
+dvr.	0	IN	NS	ns01.trs-dns.info.
 dvr.	0	IN	DS	28879 8 2 fe84d723dc95eeee237ed7452871da942fc883f0154cdead6bcfa3a36ef52dc9
 dvr.	0	IN	DS	50057 8 2 4d049a7b0555f98a406872247f9135108fdc33bb2353d6a33a9a728429f920b2
 a0.nic.dvr.	0	IN	A	65.22.108.17
@@ -9825,6 +9849,10 @@ latino.	0	IN	NS	a0.nic.latino.
 latino.	0	IN	NS	a2.nic.latino.
 latino.	0	IN	NS	b0.nic.latino.
 latino.	0	IN	NS	c0.nic.latino.
+latino.	0	IN	NS	ns01.trs-dns.com.
+latino.	0	IN	NS	ns01.trs-dns.net.
+latino.	0	IN	NS	ns01.trs-dns.org.
+latino.	0	IN	NS	ns01.trs-dns.info.
 latino.	0	IN	DS	4019 8 2 290969823c216a34fe78be351bad859afc8b86079500ad5e55acae2abe4f9144
 latino.	0	IN	DS	28831 8 2 38d9082c093d8c2e653b0c2bfa3eaa463fc401fe31ed28c62b0a2b506bcf9d24
 a0.nic.latino.	0	IN	A	65.22.92.17
@@ -11286,6 +11314,10 @@ mobile.	0	IN	NS	a0.nic.mobile.
 mobile.	0	IN	NS	a2.nic.mobile.
 mobile.	0	IN	NS	b0.nic.mobile.
 mobile.	0	IN	NS	c0.nic.mobile.
+mobile.	0	IN	NS	ns01.trs-dns.com.
+mobile.	0	IN	NS	ns01.trs-dns.net.
+mobile.	0	IN	NS	ns01.trs-dns.org.
+mobile.	0	IN	NS	ns01.trs-dns.info.
 mobile.	0	IN	DS	85 8 2 7e9719c718c3954d6f5d3c8967b1424f663ac3ff24d49ba6c26a52ebcd2c3b0f
 mobile.	0	IN	DS	50992 8 2 bf3346bc5ffd59c24bdc6bafd25e7f5c79f7f5141618633a74cbd65114bb28ba
 a0.nic.mobile.	0	IN	A	65.22.96.9
@@ -12704,6 +12736,10 @@ ollo.	0	IN	NS	a0.nic.ollo.
 ollo.	0	IN	NS	a2.nic.ollo.
 ollo.	0	IN	NS	b0.nic.ollo.
 ollo.	0	IN	NS	c0.nic.ollo.
+ollo.	0	IN	NS	ns01.trs-dns.com.
+ollo.	0	IN	NS	ns01.trs-dns.net.
+ollo.	0	IN	NS	ns01.trs-dns.org.
+ollo.	0	IN	NS	ns01.trs-dns.info.
 ollo.	0	IN	DS	31696 8 2 6030c454f7f035a77359f435e2ce2abe3d5aaec332b156d35dd7b700e488726a
 ollo.	0	IN	DS	39565 8 2 63769a931a3ee95afa940cc2d02ccdcc01bef022b6445495ae8cb153e211b3f5
 a0.nic.ollo.	0	IN	A	65.22.96.1
@@ -13000,6 +13036,10 @@ ott.	0	IN	NS	a0.nic.ott.
 ott.	0	IN	NS	a2.nic.ott.
 ott.	0	IN	NS	b0.nic.ott.
 ott.	0	IN	NS	c0.nic.ott.
+ott.	0	IN	NS	ns01.trs-dns.com.
+ott.	0	IN	NS	ns01.trs-dns.net.
+ott.	0	IN	NS	ns01.trs-dns.org.
+ott.	0	IN	NS	ns01.trs-dns.info.
 ott.	0	IN	DS	34382 8 2 e8b1499a20ed3902368212f22c66c14cd607fcbdddba117248c8353b6a0968bc
 ott.	0	IN	DS	39925 8 2 ea35cb20303ca3e610c87e77947bf04693f3e14933c59a60beff384bd0ca0654
 a0.nic.ott.	0	IN	A	65.22.92.9
@@ -13261,6 +13301,10 @@ phone.	0	IN	NS	a0.nic.phone.
 phone.	0	IN	NS	a2.nic.phone.
 phone.	0	IN	NS	b0.nic.phone.
 phone.	0	IN	NS	c0.nic.phone.
+phone.	0	IN	NS	ns01.trs-dns.com.
+phone.	0	IN	NS	ns01.trs-dns.net.
+phone.	0	IN	NS	ns01.trs-dns.org.
+phone.	0	IN	NS	ns01.trs-dns.info.
 phone.	0	IN	DS	18829 8 2 b7809834406510fcbea1aafa42f0bd2e7f4096bee97d8b7fd5964cdb39c607b4
 phone.	0	IN	DS	32000 8 2 406205d589c29e1481c928b7f8ed4b4d812cf228e0d47c7cb0894ba8bef2df18
 a0.nic.phone.	0	IN	A	65.22.96.17
@@ -15863,6 +15907,10 @@ sling.	0	IN	NS	a0.nic.sling.
 sling.	0	IN	NS	a2.nic.sling.
 sling.	0	IN	NS	b0.nic.sling.
 sling.	0	IN	NS	c0.nic.sling.
+sling.	0	IN	NS	ns01.trs-dns.com.
+sling.	0	IN	NS	ns01.trs-dns.net.
+sling.	0	IN	NS	ns01.trs-dns.org.
+sling.	0	IN	NS	ns01.trs-dns.info.
 sling.	0	IN	DS	46550 8 2 fc817bc7bcc7edcc930cf73483fde9a88386e85674d7cf438e36ed5d00cdf74f
 sling.	0	IN	DS	46961 8 2 a1c02b97c8ccc30efacd864bab81e84f49defc0e68d86fd0cab372711908d6ce
 a0.nic.sling.	0	IN	A	65.22.108.9
@@ -20441,6 +20489,7 @@ xn--xkc2al3hye2a.	0	IN	NS	p.nic.lk.
 xn--xkc2al3hye2a.	0	IN	NS	t.nic.lk.
 xn--xkc2al3hye2a.	0	IN	NS	y.nic.lk.
 xn--xkc2al3hye2a.	0	IN	NS	ns1.ac.lk.
+xn--xkc2al3hye2a.	0	IN	DS	23617 5 2 47173b8880eac9d87ffd7fa3db3007589556d88b15abf651af050f0c7e703f1a
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.com.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.net.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns10.trs-dns.org.
