@@ -9743,7 +9743,7 @@ _acme-challenge.uncore.rpki.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf
 uncore-2.rpki.prepdev.ripe.net.	0	IN	A	193.0.13.115
 uncore-2.rpki.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d73
 _acme-challenge.uncore-2.rpki.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
-rrdp.prepdev.ripe.net.	0	IN	CNAME	rrdp.prepdev.ripe.net.akamaized.net.
+rrdp.prepdev.ripe.net.	0	IN	CNAME	rrdp.prepdev.ripe.net.cdn.cloudflare.net.
 _acme-challenge.rrdp.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 _ca3-cdcadcdcbb9148edb0271b2faed4fbb3.rrdp.prepdev.ripe.net.	0	IN	CNAME	dcv.digicert.com.
 rsng.prepdev.ripe.net.	0	IN	A	10.116.0.34
@@ -10249,7 +10249,7 @@ _acme-challenge.repo-2.paas.rpki.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2
 rfc8181.paas.rpki.ripe.net.	0	IN	A	193.0.11.47
 rfc8181.paas.rpki.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b2f
 _acme-challenge.rfc8181.paas.rpki.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
-rrdp.paas.rpki.ripe.net.	0	IN	CNAME	rrdp.paas.rpki.ripe.net.cdn.cloudflare.net.
+rrdp.paas.rpki.ripe.net.	0	IN	CNAME	rrdp.paas.rpki.ripe.net.akamaized.net.
 _acme-challenge.rrdp.paas.rpki.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rsync.paas.rpki.ripe.net.	0	IN	CNAME	rrdp.int.paas.rpki.ripe.net.
 prometheus.rpki.ripe.net.	0	IN	CNAME	prometheus-2.rpki.ripe.net.
@@ -10562,7 +10562,7 @@ rrc26.ripe.net.	0	IN	LOC	25 12 0.000 N 55 16 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc26.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc26-admin.ripe.net.	0	IN	A	94.207.43.6
 rrc26-admin.ripe.net.	0	IN	AAAA	2a00:f2f:1105::ffff:5ecf:2b06
-rrdp.ripe.net.	0	IN	CNAME	rrdp.ripe.net.cdn.cloudflare.net.
+rrdp.ripe.net.	0	IN	CNAME	rrdp.ripe.net.akamaized.net.
 _39c3c4a17882b7c829be8dd430d478b6.rrdp.ripe.net.	0	IN	CNAME	_8c1030fc178bf157cd9d37d157ff5eb0.qwknvqrlct.acm-validations.aws.
 _acme-challenge.rrdp.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rsng.ripe.net.	0	IN	A	193.0.11.26
