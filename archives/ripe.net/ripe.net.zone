@@ -1401,6 +1401,9 @@ dns.id-bug-as45701.anchors.atlas.ripe.net.	0	IN	NS	id-bug-as45701.anchors.atlas.
 id-cbt-as140443.anchors.atlas.ripe.net.	0	IN	A	206.237.97.100
 id-cbt-as140443.anchors.atlas.ripe.net.	0	IN	AAAA	2401:920:1004:1111:df60:bd11:eab5:1
 dns.id-cbt-as140443.anchors.atlas.ripe.net.	0	IN	NS	id-cbt-as140443.anchors.atlas.ripe.net.
+id-gre-as149697.anchors.atlas.ripe.net.	0	IN	A	103.186.92.69
+id-gre-as149697.anchors.atlas.ripe.net.	0	IN	AAAA	2401:f60:92::69
+dns.id-gre-as149697.anchors.atlas.ripe.net.	0	IN	NS	id-gre-as149697.anchors.atlas.ripe.net.
 id-jkt-as133800.anchors.atlas.ripe.net.	0	IN	A	103.77.105.3
 dns.id-jkt-as133800.anchors.atlas.ripe.net.	0	IN	NS	id-jkt-as133800.anchors.atlas.ripe.net.
 id-jkt-as141640.anchors.atlas.ripe.net.	0	IN	A	103.162.19.252
@@ -2120,6 +2123,9 @@ dns.rs-beg-as51859.anchors.atlas.ripe.net.	0	IN	NS	rs-beg-as51859.anchors.atlas.
 rs-ini-as13303.anchors.atlas.ripe.net.	0	IN	A	160.99.1.254
 rs-ini-as13303.anchors.atlas.ripe.net.	0	IN	AAAA	2001:4170:2801::254
 dns.rs-ini-as13303.anchors.atlas.ripe.net.	0	IN	NS	rs-ini-as13303.anchors.atlas.ripe.net.
+ru-bry-as48511.anchors.atlas.ripe.net.	0	IN	A	95.46.196.45
+ru-bry-as48511.anchors.atlas.ripe.net.	0	IN	AAAA	2a02:128:22::45
+dns.ru-bry-as48511.anchors.atlas.ripe.net.	0	IN	NS	ru-bry-as48511.anchors.atlas.ripe.net.
 ru-cta-as58067.anchors.atlas.ripe.net.	0	IN	A	176.114.16.104
 ru-cta-as58067.anchors.atlas.ripe.net.	0	IN	AAAA	2a0b:97c0:0:110::2
 dns.ru-cta-as58067.anchors.atlas.ripe.net.	0	IN	NS	ru-cta-as58067.anchors.atlas.ripe.net.
@@ -10880,6 +10886,9 @@ _acme-challenge.dev-backend-02.stat.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf
 dev-rpki-hist-db1.stat.ripe.net.	0	IN	A	193.0.5.186
 dev-rpki-hist-db1.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5ba
 _acme-challenge.dev-rpki-hist-db1.stat.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+dev-rpki-hist-db2.stat.ripe.net.	0	IN	A	193.0.5.187
+dev-rpki-hist-db2.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5bb
+_acme-challenge.dev-rpki-hist-db2.stat.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 dev-rpki-history.stat.ripe.net.	0	IN	CNAME	dev-backend.stat.ripe.net.
 dev009.stat.ripe.net.	0	IN	A	193.0.5.229
 dev009.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5e5
@@ -10921,6 +10930,9 @@ mlab-dev.stat.ripe.net.	0	IN	CNAME	datadev001.stat.ripe.net.
 rpki-hist-db1.stat.ripe.net.	0	IN	A	193.0.5.197
 rpki-hist-db1.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5c5
 _acme-challenge.rpki-hist-db1.stat.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+rpki-hist-db2.stat.ripe.net.	0	IN	A	193.0.5.198
+rpki-hist-db2.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5c6
+_acme-challenge.rpki-hist-db2.stat.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rpki-history.stat.ripe.net.	0	IN	CNAME	backend.stat.ripe.net.
 speedchecker.stat.ripe.net.	0	IN	CNAME	datab003.stat.ripe.net.
 standby-blocklist.stat.ripe.net.	0	IN	CNAME	datab006.stat.ripe.net.
