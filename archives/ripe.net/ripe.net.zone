@@ -988,6 +988,9 @@ dns.de-muc-as15456.anchors.atlas.ripe.net.	0	IN	NS	de-muc-as15456.anchors.atlas.
 de-muc-as212567.anchors.atlas.ripe.net.	0	IN	A	185.150.99.5
 de-muc-as212567.anchors.atlas.ripe.net.	0	IN	AAAA	2001:678:ed0:ff00::5
 dns.de-muc-as212567.anchors.atlas.ripe.net.	0	IN	NS	de-muc-as212567.anchors.atlas.ripe.net.
+de-muc-as213615.anchors.atlas.ripe.net.	0	IN	A	91.124.1.167
+de-muc-as213615.anchors.atlas.ripe.net.	0	IN	AAAA	2a0c:b641:19f:1:f8ce:edff:feae:fc6e
+dns.de-muc-as213615.anchors.atlas.ripe.net.	0	IN	NS	de-muc-as213615.anchors.atlas.ripe.net.
 de-muc-as48328.anchors.atlas.ripe.net.	0	IN	A	94.199.91.189
 de-muc-as48328.anchors.atlas.ripe.net.	0	IN	AAAA	2a02:7b01:ffe::189
 dns.de-muc-as48328.anchors.atlas.ripe.net.	0	IN	NS	de-muc-as48328.anchors.atlas.ripe.net.
@@ -4542,12 +4545,6 @@ _acme-challenge.ba-proxy-3.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd
 ba-proxy-4.dev.ripe.net.	0	IN	A	10.114.1.26
 ba-proxy-4.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:11a
 _acme-challenge.ba-proxy-4.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
-ba-psql-1.dev.ripe.net.	0	IN	A	10.114.1.56
-ba-psql-1.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:138
-_acme-challenge.ba-psql-1.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
-ba-psql-2.dev.ripe.net.	0	IN	A	10.114.1.57
-ba-psql-2.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:139
-_acme-challenge.ba-psql-2.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 ba-psql-3.dev.ripe.net.	0	IN	A	10.114.1.54
 ba-psql-3.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:136
 _acme-challenge.ba-psql-3.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
@@ -7223,6 +7220,14 @@ kafka1.oob.log.ripe.net.	0	IN	A	10.111.0.53
 kafka2.oob.log.ripe.net.	0	IN	A	10.111.0.54
 loghost.ripe.net.	0	IN	A	193.0.1.192
 loghost.ripe.net.	0	IN	AAAA	2001:67c:2e8:1::c100:1c0
+logi-bar-bazaar.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::18
+logi-bar-pinocchio.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::12
+logi-bar-socrates.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::16
+logi-bar-yallayalla.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::14
+logi-tap-bazaar.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::17
+logi-tap-pinocchio.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::11
+logi-tap-socrates.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::15
+logi-tap-yallayalla.ripe.net.	0	IN	AAAA	2001:67c:2e8:1:6::13
 logstash-ext.ripe.net.	0	IN	A	193.0.19.9
 logstash-ext.ripe.net.	0	IN	A	193.0.19.10
 logstash-ext.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1309
@@ -10515,6 +10520,7 @@ rrc181.ripe.net.	0	IN	A	91.213.30.14
 rrc19.ripe.net.	0	IN	A	154.66.177.174
 rrc19.ripe.net.	0	IN	AAAA	2c0f:f9e8:500:3::2
 rrc19.ripe.net.	0	IN	LOC	26 14 0.000 S 28 03 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc19.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc20.ripe.net.	0	IN	A	91.206.52.253
 rrc20.ripe.net.	0	IN	AAAA	2001:7f8:24::fd
 rrc20.ripe.net.	0	IN	LOC	47 22 0.000 N 08 33 0.000 E 0m 1m 10000m 10m
@@ -11714,8 +11720,6 @@ xrx-4-west.ripe.net.	0	IN	AAAA	2001:67c:2e8:9::c100:149e
 xs247-2.ripe.net.	0	IN	A	193.0.20.236
 xs247-2.ripe.net.	0	IN	AAAA	2001:67c:2e8:9::c100:14ec
 _acme-challenge.xs247-2.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
-yl-bazaar.ripe.net.	0	IN	A	193.0.21.12
-yl-bazaar-nuc.ripe.net.	0	IN	A	193.0.21.3
 yl-dabke-bar.ripe.net.	0	IN	A	193.0.21.4
 yl-dabke-ctr.ripe.net.	0	IN	A	193.0.21.5
 yl-garmon-bar.ripe.net.	0	IN	A	193.0.21.6
@@ -11731,13 +11735,8 @@ yl-mafi-mushkila-ctr.ripe.net.	0	IN	A	193.0.21.11
 yl-monty-python-mtgbrd.ripe.net.	0	IN	A	193.0.21.2
 yl-mozart-bar.ripe.net.	0	IN	A	193.0.21.122
 yl-mozart-ctr.ripe.net.	0	IN	A	193.0.21.131
-yl-pinocchio.ripe.net.	0	IN	A	193.0.21.13
-yl-pinocchio-nuc.ripe.net.	0	IN	A	193.0.21.53
 yl-sesame-bar.ripe.net.	0	IN	A	193.0.21.243
 yl-sesame-ctr.ripe.net.	0	IN	A	193.0.21.244
-yl-socrates.ripe.net.	0	IN	A	193.0.21.14
-yl-yallayalla.ripe.net.	0	IN	A	193.0.21.15
-yl-yallayalla-nuc.ripe.net.	0	IN	A	193.0.21.162
 zebra.ripe.net.	0	IN	A	193.0.7.108
 zendesk1.ripe.net.	0	IN	CNAME	mail1.zendesk.com.
 zendesk2.ripe.net.	0	IN	CNAME	mail2.zendesk.com.
