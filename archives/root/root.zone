@@ -14,7 +14,7 @@
 .	0	IN	DNSKEY	256 3 8 AwEAAbEbGCpGTDrcZTWqWWE72nphyshpRcILdzCVlBGU9Ln1Fui9kkseUOP+g5GLUeVFKdTloeRTA9+EYiQdXgWXmXmuW/nGxZjAikluF/O9NzLVrr5iZnth2xu+F48nrJlAgWWiMNau54NI5sZ3iVQfhFsq2pZmf43RauRPniYMShOLO7EBWWXr5glDSgZGS9fSm6xHwwF+g8D4m8oanjvdCBNxXzSEKS31ibxjLifTfvwCg3y4XXcNW9U6Nu3JmoKUdxqpPPIkBvVQbIz4UO2FwaR13uXC03ALP1Yx2QNSS4SZlcIMtAftQR9wtCiuPWQnFv4jkzWqlhp1Lmf7bcoL9yk= ;{id = 53148 (zsk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAaz/tAm8yTn4Mfeh5eyI96WSVexTBAvkMgJzkKTOiW1vkIbzxeF3+/4RgWOq7HrxRixHlFlExOLAJr5emLvN7SWXgnLh4+B5xQlNVz8Og8kvArMtNROxVQuCaSnIDdD5LKyWbRd2n9WGe2R8PzgCmr3EgVLrjyBxWezF0jLHwVN8efS3rCj/EWgvIWgb9tarpVUDK/b58Da+sqqls3eNbuv7pr+eoZG+SrDK6nWeL3c6H5Apxz7LjVc1uTIdsIXxuOLYA4/ilBmSVIzuDWfdRUfhHdY6+cn8HFRm+2hM8AnXGXws9555KrUB5qihylGa8subX2Nn6UwNR1AkUTV74bU= ;{id = 20326 (ksk), size = 2048b}
 .	0	IN	DNSKEY	257 3 8 AwEAAa96jeuknZlaeSrvyAJj6ZHv28hhOKkx3rLGXVaC6rXTsDc449/cidltpkyGwCJNnOAlFNKF2jBosZBU5eeHspaQWOmOElZsjICMQMC3aeHbGiShvZsx4wMYSjH8e7Vrhbu6irwCzVBApESjbUdpWWmEnhathWu1jo+siFUiRAAxm9qyJNg/wOZqqzL/dL/q8PkcRU5oUKEpUge71M3ej2/7CPqpdVwuMoTvoB+ZOT4YeGyxMvHmbrxlFzGOHOijtzN+u1TQNatX2XBuzZNQ1K+s2CXkPIZo7s6JgZyvaBevYtxPvYLw4z9mR7K2vaF18UYH9Z9GNUUeayffKC73PYc= ;{id = 38696 (ksk), size = 2048b}
-.	0	IN	ZONEMD	2025060300 1 1 7e627baadd25ec3dc7c74969917eae445516833398567dad2f10667a9fbea9fbe1d3b11ad2d460f65b75efc557fcc6e5
+.	0	IN	ZONEMD	2025060301 1 1 09c2f1eece5a4c20cc623d900568b338573d8d0b18eca3c7f7bde1d122eb63567b6deab532ce288ac9067282add19524
 aaa.	0	IN	NS	a.nic.aaa.
 aaa.	0	IN	NS	b.nic.aaa.
 aaa.	0	IN	NS	c.nic.aaa.
@@ -16443,7 +16443,7 @@ su.	0	IN	NS	b.dns.ripn.net.
 su.	0	IN	NS	d.dns.ripn.net.
 su.	0	IN	NS	e.dns.ripn.net.
 su.	0	IN	NS	f.dns.ripn.net.
-su.	0	IN	DS	52180 8 2 6c71a8d6b0c8b8c40a853c38e247d53011d2b4662164f0e645b8274ce2cf7c5b
+su.	0	IN	DS	31297 8 2 8e99a2b6a72a2b07f2accd5a51499f0cb02338aa42da32ac2617856a114c2154
 sucks.	0	IN	NS	a.nic.sucks.
 sucks.	0	IN	NS	b.nic.sucks.
 sucks.	0	IN	NS	c.nic.sucks.
@@ -18037,6 +18037,7 @@ ve.	0	IN	NS	ns4.nic.ve.
 ve.	0	IN	NS	ns5.nic.ve.
 ve.	0	IN	NS	ns6.nic.ve.
 ve.	0	IN	NS	ssdns-tld.nic.cl.
+ve.	0	IN	DS	26677 8 2 d26b98c08be23d276334cae7b38284c835aeaa7865b873c854ff87958aab05d4
 ve.	0	IN	DS	53545 8 2 0ba030fb1720bb0263e2ae748c9caa6fc7bebf30f4e1271af22554c6c43ef3fe
 ns3.nic.ve.	0	IN	A	190.9.129.56
 ns4.nic.ve.	0	IN	A	190.202.128.43
