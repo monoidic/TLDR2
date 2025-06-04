@@ -4026,6 +4026,12 @@ _acme-challenge.ba-psql-3.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab3
 ba-psql-4.ripe.net.	0	IN	A	193.0.6.56
 ba-psql-4.ripe.net.	0	IN	AAAA	2001:67c:2e8:34::c100:638
 _acme-challenge.ba-psql-4.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+ba-requests-1.ripe.net.	0	IN	A	193.0.6.63
+ba-requests-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:34::c100:63f
+_acme-challenge.ba-requests-1.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+ba-requests-2.ripe.net.	0	IN	A	193.0.6.64
+ba-requests-2.ripe.net.	0	IN	AAAA	2001:67c:2e8:34::c100:640
+_acme-challenge.ba-requests-2.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 ba-worker-2.ripe.net.	0	IN	A	193.0.6.49
 ba-worker-2.ripe.net.	0	IN	AAAA	2001:67c:2e8:34::c100:631
 _acme-challenge.ba-worker-2.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
@@ -4569,6 +4575,12 @@ _acme-challenge.ba-psql-3.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2
 ba-psql-4.dev.ripe.net.	0	IN	A	10.114.1.55
 ba-psql-4.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:137
 _acme-challenge.ba-psql-4.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+ba-requests-1.dev.ripe.net.	0	IN	A	10.114.1.56
+ba-requests-1.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:138
+_acme-challenge.ba-requests-1.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+ba-requests-2.dev.ripe.net.	0	IN	A	10.114.1.57
+ba-requests-2.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:139
+_acme-challenge.ba-requests-2.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 ba-worker-2.dev.ripe.net.	0	IN	A	10.114.1.49
 ba-worker-2.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:131
 _acme-challenge.ba-worker-2.dev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
@@ -6873,6 +6885,8 @@ htznr-test-onp-wg1.ripe.net.	0	IN	AAAA	2001:67c:2e8:103:6::1
 _acme-challenge.htznr-test-onp-wg1.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 icinga.ripe.net.	0	IN	CNAME	blackbird.ripe.net.
 idp.ripe.net.	0	IN	CNAME	idp.ripe.net.cdn.cloudflare.net.
+im-lgbe-poc.ripe.net.	0	IN	CNAME	eqix3-0510-aa-01.hdp1.ripe.net.
+_acme-challenge.im-lgbe-poc.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 im-misc1.ripe.net.	0	IN	A	193.0.19.204
 im-misc1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13cc
 _acme-challenge.im-misc1.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
@@ -9554,6 +9568,12 @@ _acme-challenge.ba-psql-3.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a
 ba-psql-4.prepdev.ripe.net.	0	IN	A	10.114.1.53
 ba-psql-4.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:135
 _acme-challenge.ba-psql-4.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+ba-requests-1.prepdev.ripe.net.	0	IN	A	193.0.13.56
+ba-requests-1.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d38
+_acme-challenge.ba-requests-1.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+ba-requests-2.prepdev.ripe.net.	0	IN	A	193.0.13.57
+ba-requests-2.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d39
+_acme-challenge.ba-requests-2.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 ba-worker-2.prepdev.ripe.net.	0	IN	A	193.0.13.49
 ba-worker-2.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d31
 _acme-challenge.ba-worker-2.prepdev.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
