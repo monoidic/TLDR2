@@ -2,6 +2,7 @@ telone.co.zw.	0	IN	A	197.221.240.243
 telone.co.zw.	0	IN	NS	ns1.telone.co.zw.
 telone.co.zw.	0	IN	NS	ns2.telone.co.zw.
 telone.co.zw.	0	IN	MX	10 mail.telone.co.zw.
+_autodiscover._tcp.telone.co.zw.	0	IN	SRV	100 1 443 mail.telone.co.zw.
 _sipfederationtls._tcp.telone.co.zw.	0	IN	SRV	100 1 5061 sipfed.online.lync.com.
 _sip._tls.telone.co.zw.	0	IN	SRV	100 1 443 sipdir.online.lync.com.
 admin.telone.co.zw.	0	IN	A	194.133.122.107

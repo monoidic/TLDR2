@@ -7238,14 +7238,6 @@ kafka1.oob.log.ripe.net.	0	IN	A	10.111.0.53
 kafka2.oob.log.ripe.net.	0	IN	A	10.111.0.54
 loghost.ripe.net.	0	IN	A	193.0.1.192
 loghost.ripe.net.	0	IN	AAAA	2001:67c:2e8:1::c100:1c0
-logi-bar-bazaar.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::18
-logi-bar-pinocchio.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::12
-logi-bar-socrates.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::16
-logi-bar-yallayalla.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::14
-logi-tap-bazaar.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::17
-logi-tap-pinocchio.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::11
-logi-tap-socrates.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::15
-logi-tap-yallayalla.ripe.net.	0	IN	AAAA	2001:67c:2e8:110:6::13
 logstash-ext.ripe.net.	0	IN	A	193.0.19.9
 logstash-ext.ripe.net.	0	IN	A	193.0.19.10
 logstash-ext.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1309
@@ -10350,12 +10342,14 @@ _acme-challenge.rrc-test-ol9.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2f
 rrc00.ripe.net.	0	IN	A	193.0.4.28
 rrc00.ripe.net.	0	IN	AAAA	2001:67c:2e8:2:ffff:0:4:28
 rrc00.ripe.net.	0	IN	LOC	52 22 0.000 N 04 53 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc00.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc00-admin.ripe.net.	0	IN	CNAME	rrc00.ripe.net.
 rrc00-oob.ripe.net.	0	IN	A	10.111.0.111
 rrc001.ripe.net.	0	IN	CNAME	rrc00.ripe.net.
 rrc01.ripe.net.	0	IN	A	195.66.225.241
 rrc01.ripe.net.	0	IN	AAAA	2001:7f8:4::316e:0
 rrc01.ripe.net.	0	IN	LOC	51 29 0.000 N 00 07 0.000 W 0m 1m 10000m 10m
+_acme-challenge.rrc01.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc01-admin.ripe.net.	0	IN	AAAA	2a01:40:1003:a:3::1
 rrc01-oob.ripe.net.	0	IN	AAAA	2a01:40:1003:a:3::101
 rrc011.ripe.net.	0	IN	CNAME	rrc01-admin.ripe.net.
@@ -10370,6 +10364,7 @@ rrc03.ripe.net.	0	IN	A	193.239.116.45
 rrc03.ripe.net.	0	IN	AAAA	2001:7f8:1::a501:2654:1
 rrc03.ripe.net.	0	IN	AAAA	2001:7f8:13::a501:2654:1
 rrc03.ripe.net.	0	IN	LOC	52 22 0.000 N 04 53 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc03.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 t1-2-24.rrc03.ripe.net.	0	IN	A	1.2.3.4
 t1-24.rrc03.ripe.net.	0	IN	A	1.1.1.1
 t101-16.rrc03.ripe.net.	0	IN	A	101.255.0.1
@@ -10440,23 +10435,22 @@ rrc03-admin.ripe.net.	0	IN	AAAA	2001:67c:2e8:18::c100:e9
 rrc03-oob.ripe.net.	0	IN	A	10.111.0.110
 rrc031.ripe.net.	0	IN	A	193.0.0.233
 rrc031.ripe.net.	0	IN	AAAA	2001:67c:2e8:18::c100:e9
-rrc04.ripe.net.	0	IN	A	192.65.185.40
-rrc04.ripe.net.	0	IN	AAAA	2001:7f8:1c:24a::316e:1
+rrc04.ripe.net.	0	IN	A	192.91.245.108
+rrc04.ripe.net.	0	IN	AAAA	2001:1458:1:1d::100:108
 rrc04.ripe.net.	0	IN	LOC	46 11 0.000 N 06 07 0.000 E 0m 1m 10000m 10m
-rrc04-admin.ripe.net.	0	IN	A	192.91.245.108
-rrc04-admin.ripe.net.	0	IN	AAAA	2001:1458:1:1d::100:108
+_acme-challenge.rrc04.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc04-oob.ripe.net.	0	IN	A	192.65.184.66
-rrc041.ripe.net.	0	IN	A	192.91.245.108
-rrc041.ripe.net.	0	IN	AAAA	2001:1458:1:1d::100:108
 rrc05.ripe.net.	0	IN	A	193.203.0.123
 rrc05.ripe.net.	0	IN	AAAA	2001:7f8:30:0:1:1:1:2654
 rrc05.ripe.net.	0	IN	LOC	48 11 0.000 N 16 22 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc05.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc05-admin.ripe.net.	0	IN	A	193.171.23.134
 rrc05-oob.ripe.net.	0	IN	A	193.171.23.132
 rrc051.ripe.net.	0	IN	A	193.171.23.134
 rrc06.ripe.net.	0	IN	A	202.249.2.143
 rrc06.ripe.net.	0	IN	AAAA	2001:200:0:fe00::316e:0
 rrc06.ripe.net.	0	IN	LOC	35 40 0.000 N 139 46 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc06.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc06-admin.ripe.net.	0	IN	A	203.178.139.53
 rrc06-admin-old.ripe.net.	0	IN	A	202.12.28.133
 rrc06-oob.ripe.net.	0	IN	A	203.178.137.2
@@ -10464,6 +10458,7 @@ rrc061.ripe.net.	0	IN	A	203.178.139.53
 rrc07.ripe.net.	0	IN	A	194.68.123.147
 rrc07.ripe.net.	0	IN	AAAA	2001:7f8:d:ff::147
 rrc07.ripe.net.	0	IN	LOC	59 19 0.000 N 18 05 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc07.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc07-admin.ripe.net.	0	IN	AAAA	2a01:3f0:0:51::4d48:e1a7
 rrc07-oob.ripe.net.	0	IN	AAAA	2a01:3f0:0:51::4d48:e1a8
 rrc071.ripe.net.	0	IN	AAAA	2a01:3f0:0:51::4d48:e1a7
@@ -10478,18 +10473,21 @@ rrc091.ripe.net.	0	IN	CNAME	rrc09.ripe.net.
 rrc10.ripe.net.	0	IN	A	217.29.66.6
 rrc10.ripe.net.	0	IN	AAAA	2001:7f8:b:100:1d1:a5d1:2654:6
 rrc10.ripe.net.	0	IN	LOC	45 27 0.000 N 09 11 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc10.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc10-admin.ripe.net.	0	IN	A	217.29.76.6
 rrc10-oob.ripe.net.	0	IN	A	217.29.76.25
 rrc101.ripe.net.	0	IN	A	217.29.76.6
 rrc11.ripe.net.	0	IN	A	198.32.160.99
 rrc11.ripe.net.	0	IN	AAAA	2001:504:1::a501:2654:1
 rrc11.ripe.net.	0	IN	LOC	40 41 0.000 N 74 00 0.000 W 0m 1m 10000m 10m
+_acme-challenge.rrc11.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc11-admin.ripe.net.	0	IN	A	213.200.66.6
 rrc11-oob.ripe.net.	0	IN	A	199.168.63.254
 rrc111.ripe.net.	0	IN	A	213.200.66.6
 rrc12.ripe.net.	0	IN	A	80.81.192.152
 rrc12.ripe.net.	0	IN	AAAA	2001:7f8::316e:0:1
 rrc12.ripe.net.	0	IN	LOC	50 06 0.000 N 08 40 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc12.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc12-admin.ripe.net.	0	IN	A	46.31.122.76
 rrc12-admin.ripe.net.	0	IN	AAAA	2a02:c50:fffe:2:0:316e:0:1
 rrc12-oob.ripe.net.	0	IN	A	46.31.122.79
@@ -10498,12 +10496,14 @@ rrc121.ripe.net.	0	IN	AAAA	2a02:c50:fffe:2:0:316e:0:1
 rrc13.ripe.net.	0	IN	A	193.232.244.114
 rrc13.ripe.net.	0	IN	AAAA	2001:7f8:20:101::244:114
 rrc13.ripe.net.	0	IN	LOC	55 42 0.000 N 37 39 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc13.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc13-admin.ripe.net.	0	IN	A	193.232.226.74
 rrc13-oob.ripe.net.	0	IN	A	193.232.64.30
 rrc131.ripe.net.	0	IN	A	193.232.226.74
 rrc14.ripe.net.	0	IN	A	198.32.176.6
 rrc14.ripe.net.	0	IN	AAAA	2001:504:d::9
 rrc14.ripe.net.	0	IN	LOC	37 26 0.000 N 122 09 0.000 W 0m 1m 10000m 10m
+_acme-challenge.rrc14.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc14-admin.ripe.net.	0	IN	A	192.158.252.7
 rrc14-admin.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc14-oob.ripe.net.	0	IN	A	192.158.252.6
@@ -10512,6 +10512,7 @@ rrc141.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc15.ripe.net.	0	IN	A	187.16.216.23
 rrc15.ripe.net.	0	IN	AAAA	2001:12f8::23
 rrc15.ripe.net.	0	IN	LOC	23 35 0.000 S 46 37 0.000 W 0m 1m 10000m 10m
+_acme-challenge.rrc15.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc15-admin.ripe.net.	0	IN	A	200.160.6.205
 rrc15-admin.ripe.net.	0	IN	AAAA	2001:12ff:0:6192::205
 rrc15-oob.ripe.net.	0	IN	A	200.160.6.206
@@ -10519,6 +10520,7 @@ rrc151.ripe.net.	0	IN	A	200.160.6.205
 rrc16.ripe.net.	0	IN	A	198.32.124.171
 rrc16.ripe.net.	0	IN	AAAA	2001:478:124::171
 rrc16.ripe.net.	0	IN	LOC	25 44 0.000 N 80 11 0.000 W 0m 1m 10000m 10m
+_acme-challenge.rrc16.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc16-admin.ripe.net.	0	IN	AAAA	2600:804:800::201
 rrc16-oob.ripe.net.	0	IN	AAAA	2600:804:800::301
 rrc161.ripe.net.	0	IN	AAAA	2600:804:800::201
@@ -10531,6 +10533,7 @@ rrc171.ripe.net.	0	IN	A	80.240.194.134
 rrc18.ripe.net.	0	IN	A	193.242.98.118
 rrc18.ripe.net.	0	IN	AAAA	2001:7f8:2a:0:1:1:1:2654
 rrc18.ripe.net.	0	IN	LOC	41 19 0.000 N 02 12 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc18.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc18-admin.ripe.net.	0	IN	A	91.213.30.14
 rrc18-admin.ripe.net.	0	IN	AAAA	2001:67c:137c:2::2
 rrc18-oob.ripe.net.	0	IN	A	91.213.30.10
@@ -10542,6 +10545,7 @@ _acme-challenge.rrc19.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.
 rrc20.ripe.net.	0	IN	A	91.206.52.253
 rrc20.ripe.net.	0	IN	AAAA	2001:7f8:24::fd
 rrc20.ripe.net.	0	IN	LOC	47 22 0.000 N 08 33 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc20.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc20-admin.ripe.net.	0	IN	A	194.242.34.191
 rrc20-admin.ripe.net.	0	IN	AAAA	2001:67c:20ac::191
 rrc20-oob.ripe.net.	0	IN	A	194.242.34.193
@@ -10550,6 +10554,7 @@ rrc201.ripe.net.	0	IN	AAAA	2001:67c:20ac::191
 rrc21.ripe.net.	0	IN	A	37.49.237.99
 rrc21.ripe.net.	0	IN	AAAA	2001:7f8:54::1:99
 rrc21.ripe.net.	0	IN	LOC	48 50 0.000 N 02 21 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc21.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc21-admin.ripe.net.	0	IN	A	77.95.65.47
 rrc21-admin.ripe.net.	0	IN	AAAA	2a03:9180:0:100::2f
 rrc211.ripe.net.	0	IN	A	77.95.65.47
@@ -10561,6 +10566,7 @@ _acme-challenge.rrc22.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.
 rrc23.ripe.net.	0	IN	A	27.111.228.137
 rrc23.ripe.net.	0	IN	AAAA	2001:de8:4::1:2654:1
 rrc23.ripe.net.	0	IN	LOC	20 22 0.000 N 103 52 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc23.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc23-admin.ripe.net.	0	IN	A	27.111.237.26
 rrc23-admin.ripe.net.	0	IN	AAAA	2403:b100:2001:d::2
 rrc23-oob.ripe.net.	0	IN	A	27.111.237.22
@@ -10569,6 +10575,7 @@ rrc231.ripe.net.	0	IN	AAAA	2403:b100:2001:d::2
 rrc24.ripe.net.	0	IN	A	179.0.156.33
 rrc24.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc24.ripe.net.	0	IN	LOC	34 54 0.000 S 56 09 0.000 W 0m 1m 10000m 10m
+_acme-challenge.rrc24.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc24-admin.ripe.net.	0	IN	A	179.0.156.33
 rrc24-admin.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc24-oob.ripe.net.	0	IN	A	179.0.156.32
@@ -10577,6 +10584,7 @@ rrc241.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc25.ripe.net.	0	IN	A	193.0.4.29
 rrc25.ripe.net.	0	IN	AAAA	2001:67c:2e8:2:ffff:0:4:29
 rrc25.ripe.net.	0	IN	LOC	52 22 0.000 N 04 53 0.000 E 0m 1m 10000m 10m
+_acme-challenge.rrc25.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc25-admin.ripe.net.	0	IN	CNAME	rrc25.ripe.net.
 rrc26.ripe.net.	0	IN	A	94.207.43.6
 rrc26.ripe.net.	0	IN	AAAA	2a00:f2f:1105::ffff:5ecf:2b06
