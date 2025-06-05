@@ -54,7 +54,7 @@ axfr() {
 }
 
 zonefiles() {
-	for zone in $(sqlite3 "$db" 'SELECT DISTINCT zone.name FROM zone2rr INNER JOIN name AS zone ON zone2rr.zone_id=zone.id'); do
+	sqlite3 "$db" 'SELECT DISTINCT zone.name FROM zone_ns_ip INNER JOIN name AS zone ON zone_ns_ip.zone_id=zone.id WHERE zone_ns_ip.axfrable=TRUE' | while read zone; do
 		if [[ $zone = '.' ]]; then
 			path_name='root'
 		else
@@ -64,7 +64,7 @@ zonefiles() {
 		dir="archives/${path_name}/"
 		filepath="${dir}/${path_name}.zone"
 		mkdir -p "$dir"
-		sqlite3 "$db" "SELECT rr_value.value FROM zone2rr INNER JOIN axfrable_ns ON zone2rr.zone_id=axfrable_ns.zone_id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT > ${filepath}.tmp
+		sqlite3 "$db" "SELECT DISTINCT rr_value.value FROM zone2rr INNER JOIN zone_ns_ip ON zone2rr.zone_id=zone_ns_ip.zone_id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT > ${filepath}.tmp
 
 		filesize=$(wc -c ${filepath}.tmp | cut -d' ' -f1)
 		if [[ $filesize == 0 ]]; then
@@ -97,9 +97,9 @@ walk() {
 md_axfr() {
 	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
 
-	for line in $(sqlite3 $db 'SELECT DISTINCT zone.name, ns.name FROM axfrable_ns INNER JOIN name AS zone ON axfrable_ns.zone_id=zone.id INNER JOIN name_ip ON name_ip.ip_id=axfrable_ns.ip_id INNER JOIN zone_ns ON zone_ns.zone_id=zone.id INNER JOIN name AS ns ON zone_ns.ns_id=ns.id WHERE name_ip.name_id=ns.id ORDER BY zone.name, ns.name'); do
+	sqlite3 "$db" 'SELECT zone.name, ip.address FROM zone_ns_ip INNER JOIN name AS zone ON zone_ns_ip.zone_id=zone.id INNER JOIN ip ON zone_ns_ip.ip_id=ip.id WHERE zone_ns_ip.axfrable=TRUE' | while read line; do
 		zone=$(echo "$line" | cut -d'|' -f1)
-		ns=$(echo "$line" | cut -d'|' -f2)
+		ip=$(echo "$line" | cut -d'|' -f2)
 
 		# "uninteresting" zones that produce too much flux
 		if [[ $zone = . || $zone = arpa. ]]; then
@@ -108,14 +108,14 @@ md_axfr() {
 
 		path_name="${zone%.}"
 
-		printf '* `%s` via `%s`: [Click here to view zone data.](archives/%s/%s.zone)\n' "$zone" "$ns" "$path_name" "$path_name" >> transferable_zones.md
+		printf '* `%s` via `%s`: [Click here to view zone data.](archives/%s/%s.zone)\n' "$zone" "$ip" "$path_name" "$path_name" >> transferable_zones.md
 	done
 }
 
 md_walkable() {
 	printf '# List of TLDs & Roots With Walkable NSEC Records\n\n' > walkable_zones.md
 
-	for zone in $(get_walkable); do
+	get_walkable | while read zone; do
 		printf '* `%s`\n' "$zone" >> walkable_zones.md
 	done
 }
