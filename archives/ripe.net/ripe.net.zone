@@ -340,6 +340,9 @@ dns.au-mor-as4764.anchors.atlas.ripe.net.	0	IN	NS	au-mor-as4764.anchors.atlas.ri
 au-per-as1221.anchors.atlas.ripe.net.	0	IN	A	203.41.0.250
 au-per-as1221.anchors.atlas.ripe.net.	0	IN	AAAA	2001:8000:2222:ff00::2
 dns.au-per-as1221.anchors.atlas.ripe.net.	0	IN	NS	au-per-as1221.anchors.atlas.ripe.net.
+au-per-as18390.anchors.atlas.ripe.net.	0	IN	A	202.87.175.244
+au-per-as18390.anchors.atlas.ripe.net.	0	IN	AAAA	2407:e400:101:2::3
+dns.au-per-as18390.anchors.atlas.ripe.net.	0	IN	NS	au-per-as18390.anchors.atlas.ripe.net.
 au-syd-as12008.anchors.atlas.ripe.net.	0	IN	A	156.154.99.254
 au-syd-as12008.anchors.atlas.ripe.net.	0	IN	AAAA	2610:a1:3068:252::254
 dns.au-syd-as12008.anchors.atlas.ripe.net.	0	IN	NS	au-syd-as12008.anchors.atlas.ripe.net.
@@ -3471,6 +3474,18 @@ probev4-test.atlas.ripe.net.	0	IN	CNAME	atlas-ui-test.atlas.ripe.net.
 admin.prod.atlas.ripe.net.	0	IN	A	193.0.19.82
 admin.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1352
 _acme-challenge.admin.prod.atlas.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+reg-01.prod.atlas.ripe.net.	0	IN	A	193.0.19.12
+reg-01.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:130c
+_acme-challenge.reg-01.prod.atlas.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+reg-02.prod.atlas.ripe.net.	0	IN	A	193.0.19.25
+reg-02.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1319
+_acme-challenge.reg-02.prod.atlas.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+reg-03.prod.atlas.ripe.net.	0	IN	A	193.0.19.246
+reg-03.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13f6
+_acme-challenge.reg-03.prod.atlas.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+reg-04.prod.atlas.ripe.net.	0	IN	A	193.0.19.247
+reg-04.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13f7
+_acme-challenge.reg-04.prod.atlas.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 stream-01.prod.atlas.ripe.net.	0	IN	A	193.0.19.80
 stream-01.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1350
 _acme-challenge.stream-01.prod.atlas.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
@@ -7157,6 +7172,8 @@ jedi.ripe.net.	0	IN	CNAME	rd-www-1.ripe.net.
 _acme-challenge.jedi.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 jira.ripe.net.	0	IN	CNAME	lynx.ripe.net.
 _acme-challenge.jira.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
+jira-sm.ripe.net.	0	IN	A	193.0.19.15
+jira-sm.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:130f
 jira-sm-ingress.ripe.net.	0	IN	A	193.0.2.1
 _acme-challenge.jira-sm-ingress.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 jss.ripe.net.	0	IN	CNAME	capybara.ripe.net.
@@ -10462,13 +10479,10 @@ rrc04.ripe.net.	0	IN	AAAA	2001:1458:1:1d::100:108
 rrc04.ripe.net.	0	IN	LOC	46 11 0.000 N 06 07 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc04.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
 rrc04-oob.ripe.net.	0	IN	A	192.65.184.66
-rrc05.ripe.net.	0	IN	A	193.203.0.123
-rrc05.ripe.net.	0	IN	AAAA	2001:7f8:30:0:1:1:1:2654
+rrc05.ripe.net.	0	IN	A	193.171.23.134
 rrc05.ripe.net.	0	IN	LOC	48 11 0.000 N 16 22 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc05.ripe.net.	0	IN	CNAME	1c88d0c4-bfd7-43b9-b5cf-a2dd2fab300b.tokens.ripe.net.
-rrc05-admin.ripe.net.	0	IN	A	193.171.23.134
 rrc05-oob.ripe.net.	0	IN	A	193.171.23.132
-rrc051.ripe.net.	0	IN	A	193.171.23.134
 rrc06.ripe.net.	0	IN	A	202.249.2.143
 rrc06.ripe.net.	0	IN	AAAA	2001:200:0:fe00::316e:0
 rrc06.ripe.net.	0	IN	LOC	35 40 0.000 N 139 46 0.000 E 0m 1m 10000m 10m
