@@ -14,7 +14,7 @@ multi_scan() {
 }
 
 get_ns_ips() {
-	multi_scan -{net,rr}_ns -{net,rr}_ip
+	multi_scan -{net,rr}_ns -{net,rr}_ip -zone_ns_ip
 }
 
 prework() {
