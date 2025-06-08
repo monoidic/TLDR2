@@ -93,7 +93,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -308,6 +307,7 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
+* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
