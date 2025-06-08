@@ -64,7 +64,7 @@ zonefiles() {
 		dir="archives/${path_name}/"
 		filepath="${dir}/${path_name}.zone"
 		mkdir -p "$dir"
-		sqlite3 "$db" "SELECT DISTINCT rr_value.value FROM zone2rr INNER JOIN zone_ns_ip ON zone2rr.zone_id=zone_ns_ip.zone_id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT > ${filepath}.tmp
+		sqlite3 "$db" "SELECT DISTINCT rr_value.value FROM zone2rr INNER JOIN zone_ns_ip ON zone2rr.zone_id=zone_ns_ip.zone_id INNER JOIN rr_value ON zone2rr.rr_value_id=rr_value.id INNER JOIN name AS zone ON zone2rr.zone_id=zone.id WHERE zone.name='${zone}'" | sort -u | ldns-read-zone -zsne TXT -e ZONEMD > ${filepath}.tmp
 
 		filesize=$(wc -c ${filepath}.tmp | cut -d' ' -f1)
 		if [[ $filesize == 0 ]]; then
