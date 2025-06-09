@@ -665,7 +665,11 @@ documentos.control.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
 portal.hom.control.rn.gov.br.	0	IN	A	177.87.96.79
 iacm.control.rn.gov.br.	0	IN	A	177.87.96.2
 inidoneas.control.rn.gov.br.	0	IN	CNAME	convenios.control.rn.gov.br.
-ipc.control.rn.gov.br.	0	IN	A	177.87.96.2
+ipc.control.rn.gov.br.	0	IN	A	185.173.111.53
+ipc.control.rn.gov.br.	0	IN	MX	5 mx1.hostinger.com.br.
+ipc.control.rn.gov.br.	0	IN	MX	10 mx2.hostinger.com.br.
+ipc.control.rn.gov.br.	0	IN	AAAA	2a02:4780:13:1695:0:3372:b6ef:4
+autoconfig.ipc.control.rn.gov.br.	0	IN	CNAME	autoconfig.mail.hostinger.com.
 autodiscover.ipc.control.rn.gov.br.	0	IN	CNAME	autodiscover.mail.hostinger.com.
 ftp.ipc.control.rn.gov.br.	0	IN	A	185.173.111.53
 www.ipc.control.rn.gov.br.	0	IN	CNAME	ipc.control.rn.gov.br.
