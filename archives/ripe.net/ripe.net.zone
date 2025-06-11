@@ -1180,6 +1180,9 @@ dns.fi-kst-as199087.anchors.atlas.ripe.net.	0	IN	NS	fi-kst-as199087.anchors.atla
 fi-oul-as20904.anchors.atlas.ripe.net.	0	IN	A	93.174.194.183
 fi-oul-as20904.anchors.atlas.ripe.net.	0	IN	AAAA	2a00:1a58:0:f247::2
 dns.fi-oul-as20904.anchors.atlas.ripe.net.	0	IN	NS	fi-oul-as20904.anchors.atlas.ripe.net.
+fi-sal-as39699.anchors.atlas.ripe.net.	0	IN	A	86.60.253.235
+fi-sal-as39699.anchors.atlas.ripe.net.	0	IN	AAAA	2a03:50a0:701:1::2
+dns.fi-sal-as39699.anchors.atlas.ripe.net.	0	IN	NS	fi-sal-as39699.anchors.atlas.ripe.net.
 fi-tmp-as39484.anchors.atlas.ripe.net.	0	IN	A	185.239.193.37
 fi-tmp-as39484.anchors.atlas.ripe.net.	0	IN	AAAA	2a02:13c8:0:51::37
 dns.fi-tmp-as39484.anchors.atlas.ripe.net.	0	IN	NS	fi-tmp-as39484.anchors.atlas.ripe.net.
@@ -1564,6 +1567,9 @@ dns.it-trn-as41364.anchors.atlas.ripe.net.	0	IN	NS	it-trn-as41364.anchors.atlas.
 it-trs-as204471.anchors.atlas.ripe.net.	0	IN	A	217.197.106.141
 it-trs-as204471.anchors.atlas.ripe.net.	0	IN	AAAA	2a12:d8c0:109a:9001::141
 dns.it-trs-as204471.anchors.atlas.ripe.net.	0	IN	NS	it-trs-as204471.anchors.atlas.ripe.net.
+jp-mik-as63771.anchors.atlas.ripe.net.	0	IN	A	103.96.67.60
+jp-mik-as63771.anchors.atlas.ripe.net.	0	IN	AAAA	2401:7640:4002:4::60
+dns.jp-mik-as63771.anchors.atlas.ripe.net.	0	IN	NS	jp-mik-as63771.anchors.atlas.ripe.net.
 jp-tch-as63806.anchors.atlas.ripe.net.	0	IN	A	43.228.174.199
 jp-tch-as63806.anchors.atlas.ripe.net.	0	IN	AAAA	2001:df3:14c0:e052::1111
 dns.jp-tch-as63806.anchors.atlas.ripe.net.	0	IN	NS	jp-tch-as63806.anchors.atlas.ripe.net.
@@ -9369,9 +9375,6 @@ _acme-challenge.yum.nexus.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 nexus-1.ripe.net.	0	IN	A	193.0.19.55
 nexus-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1337
 _acme-challenge.nexus-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-nexus-2.ripe.net.	0	IN	A	193.0.19.61
-nexus-2.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:133d
-_acme-challenge.nexus-2.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 nik-sus-1.ripe.net.	0	IN	CNAME	eqix3-sus-1.ripe.net.
 nro-apps-1.ripe.net.	0	IN	A	193.0.19.45
 nro-apps-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:132d
