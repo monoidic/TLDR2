@@ -4235,26 +4235,26 @@ country.	0	IN	NS	ns01.trs-dns.net.
 country.	0	IN	NS	ns01.trs-dns.org.
 country.	0	IN	NS	ns01.trs-dns.info.
 country.	0	IN	DS	28436 13 2 94dd44e372b69204cb1fe63ddd1d7a831642d96d00e9dda589ddaa02e0922cdd
-coupon.	0	IN	NS	a.nic.coupon.
-coupon.	0	IN	NS	b.nic.coupon.
-coupon.	0	IN	NS	ns3.dns.nic.coupon.
 coupon.	0	IN	NS	v0n0.nic.coupon.
 coupon.	0	IN	NS	v0n1.nic.coupon.
 coupon.	0	IN	NS	v0n2.nic.coupon.
+coupon.	0	IN	NS	v0n3.nic.coupon.
+coupon.	0	IN	NS	v2n0.nic.coupon.
+coupon.	0	IN	NS	v2n1.nic.coupon.
 coupon.	0	IN	DS	10297 8 2 215a8514706a344478d609f1f92e86c0934ba02ae9b7d965aac116e68df1afea
 coupon.	0	IN	DS	32170 8 2 51e9fee8f549362f446e4e4541231f3261d3896c3004ce1afd66d058659f01a2
-a.nic.coupon.	0	IN	A	37.209.192.10
-a.nic.coupon.	0	IN	AAAA	2001:dcd:1::10
-b.nic.coupon.	0	IN	A	37.209.194.10
-b.nic.coupon.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.coupon.	0	IN	A	156.154.159.217
-ns3.dns.nic.coupon.	0	IN	AAAA	2610:a1:1073::d9
 v0n0.nic.coupon.	0	IN	A	65.22.76.1
 v0n0.nic.coupon.	0	IN	AAAA	2a01:8840:4a::1
 v0n1.nic.coupon.	0	IN	A	65.22.77.1
 v0n1.nic.coupon.	0	IN	AAAA	2a01:8840:4b::1
 v0n2.nic.coupon.	0	IN	A	65.22.78.1
 v0n2.nic.coupon.	0	IN	AAAA	2a01:8840:4c::1
+v0n3.nic.coupon.	0	IN	A	161.232.38.1
+v0n3.nic.coupon.	0	IN	AAAA	2a01:8840:10c::1
+v2n0.nic.coupon.	0	IN	A	65.22.79.1
+v2n0.nic.coupon.	0	IN	AAAA	2a01:8840:4d::1
+v2n1.nic.coupon.	0	IN	A	161.232.39.1
+v2n1.nic.coupon.	0	IN	AAAA	2a01:8840:10d::1
 coupons.	0	IN	NS	v0n0.nic.coupons.
 coupons.	0	IN	NS	v0n1.nic.coupons.
 coupons.	0	IN	NS	v0n2.nic.coupons.
@@ -4612,24 +4612,12 @@ v2n0.nic.dance.	0	IN	A	65.22.27.50
 v2n0.nic.dance.	0	IN	AAAA	2a01:8840:1d::50
 v2n1.nic.dance.	0	IN	A	161.232.13.50
 v2n1.nic.dance.	0	IN	AAAA	2a01:8840:f7::50
-data.	0	IN	NS	a0.nic.data.
-data.	0	IN	NS	a2.nic.data.
-data.	0	IN	NS	b0.nic.data.
-data.	0	IN	NS	c0.nic.data.
 data.	0	IN	NS	ns01.trs-dns.com.
 data.	0	IN	NS	ns01.trs-dns.net.
 data.	0	IN	NS	ns01.trs-dns.org.
 data.	0	IN	NS	ns01.trs-dns.info.
 data.	0	IN	DS	31144 8 2 c9bb359f8d99fb1ae7cf5a5972bd18448ee89775e7b6fb0bd19d3bec970a4e8b
 data.	0	IN	DS	36410 8 2 c35045126876cfa1662035c066c62d13e073cc525730625b4bd0b6346f227f51
-a0.nic.data.	0	IN	A	65.22.96.25
-a0.nic.data.	0	IN	AAAA	2a01:8840:5e::25
-a2.nic.data.	0	IN	A	65.22.99.25
-a2.nic.data.	0	IN	AAAA	2a01:8840:61::25
-b0.nic.data.	0	IN	A	65.22.97.25
-b0.nic.data.	0	IN	AAAA	2a01:8840:5f::25
-c0.nic.data.	0	IN	A	65.22.98.25
-c0.nic.data.	0	IN	AAAA	2a01:8840:60::25
 date.	0	IN	NS	a.nic.date.
 date.	0	IN	NS	b.nic.date.
 date.	0	IN	NS	c.nic.date.
@@ -5095,24 +5083,12 @@ v2n0.nic.discover.	0	IN	A	65.22.111.30
 v2n0.nic.discover.	0	IN	AAAA	2a01:8840:6d::30
 v2n1.nic.discover.	0	IN	A	161.232.33.30
 v2n1.nic.discover.	0	IN	AAAA	2a01:8840:109::30
-dish.	0	IN	NS	a0.nic.dish.
-dish.	0	IN	NS	a2.nic.dish.
-dish.	0	IN	NS	b0.nic.dish.
-dish.	0	IN	NS	c0.nic.dish.
 dish.	0	IN	NS	ns01.trs-dns.com.
 dish.	0	IN	NS	ns01.trs-dns.net.
 dish.	0	IN	NS	ns01.trs-dns.org.
 dish.	0	IN	NS	ns01.trs-dns.info.
 dish.	0	IN	DS	24325 8 2 1d7c249775114e100decb96c9e6cba080bffc5398498c6d3fe2eed6cbaa34663
 dish.	0	IN	DS	43639 8 2 036e35a6d89ce24521fd31ee23bb724da3126f01ac5f95e15bbcd13b1602c7f0
-a0.nic.dish.	0	IN	A	65.22.88.33
-a0.nic.dish.	0	IN	AAAA	2a01:8840:56::33
-a2.nic.dish.	0	IN	A	65.22.91.33
-a2.nic.dish.	0	IN	AAAA	2a01:8840:59::33
-b0.nic.dish.	0	IN	A	65.22.89.33
-b0.nic.dish.	0	IN	AAAA	2a01:8840:57::33
-c0.nic.dish.	0	IN	A	65.22.90.33
-c0.nic.dish.	0	IN	AAAA	2a01:8840:58::33
 diy.	0	IN	NS	ns01.trs-dns.com.
 diy.	0	IN	NS	ns01.trs-dns.net.
 diy.	0	IN	NS	ns01.trs-dns.org.
@@ -5238,24 +5214,12 @@ v2n0.nic.domains.	0	IN	A	65.22.35.51
 v2n0.nic.domains.	0	IN	AAAA	2a01:8840:25::51
 v2n1.nic.domains.	0	IN	A	161.232.17.51
 v2n1.nic.domains.	0	IN	AAAA	2a01:8840:fb::51
-dot.	0	IN	NS	a0.nic.dot.
-dot.	0	IN	NS	a2.nic.dot.
-dot.	0	IN	NS	b0.nic.dot.
-dot.	0	IN	NS	c0.nic.dot.
 dot.	0	IN	NS	ns01.trs-dns.com.
 dot.	0	IN	NS	ns01.trs-dns.net.
 dot.	0	IN	NS	ns01.trs-dns.org.
 dot.	0	IN	NS	ns01.trs-dns.info.
 dot.	0	IN	DS	52639 8 2 e2bc058f7515c31dfdd8aded00ba870071ab84e0f32db3003c533c9a6d4f6f84
 dot.	0	IN	DS	65020 8 2 a18b8ea51ae5e4286244c8ad947e7e0dc98834e8f6d9287b90ce431ee9b49849
-a0.nic.dot.	0	IN	A	65.22.92.1
-a0.nic.dot.	0	IN	AAAA	2a01:8840:5a::1
-a2.nic.dot.	0	IN	A	65.22.95.1
-a2.nic.dot.	0	IN	AAAA	2a01:8840:5d::1
-b0.nic.dot.	0	IN	A	65.22.93.1
-b0.nic.dot.	0	IN	AAAA	2a01:8840:5b::1
-c0.nic.dot.	0	IN	A	65.22.94.1
-c0.nic.dot.	0	IN	AAAA	2a01:8840:5c::1
 download.	0	IN	NS	a.nic.download.
 download.	0	IN	NS	b.nic.download.
 download.	0	IN	NS	c.nic.download.
@@ -5281,24 +5245,12 @@ drive.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
 drive.	0	IN	NS	ns-tld4.charlestonroadregistry.com.
 drive.	0	IN	NS	ns-tld5.charlestonroadregistry.com.
 drive.	0	IN	DS	32974 8 2 be68de85ad9a87657ceb1f620fa37febfc725180e40117914886ccbb6947d619
-dtv.	0	IN	NS	a0.nic.dtv.
-dtv.	0	IN	NS	a2.nic.dtv.
-dtv.	0	IN	NS	b0.nic.dtv.
-dtv.	0	IN	NS	c0.nic.dtv.
 dtv.	0	IN	NS	ns01.trs-dns.com.
 dtv.	0	IN	NS	ns01.trs-dns.net.
 dtv.	0	IN	NS	ns01.trs-dns.org.
 dtv.	0	IN	NS	ns01.trs-dns.info.
 dtv.	0	IN	DS	48064 8 2 1d7e4705fa47e2d8ef437beef535b237824aab0855d0b1b149654b1d767d0dd7
 dtv.	0	IN	DS	51301 8 2 eb39cb7d7771f169881c4b9ece63e510c949949741d56988d8bb9cce24eb3479
-a0.nic.dtv.	0	IN	A	65.22.228.1
-a0.nic.dtv.	0	IN	AAAA	2a01:8840:de::1
-a2.nic.dtv.	0	IN	A	65.22.231.1
-a2.nic.dtv.	0	IN	AAAA	2a01:8840:e1::1
-b0.nic.dtv.	0	IN	A	65.22.229.1
-b0.nic.dtv.	0	IN	AAAA	2a01:8840:df::1
-c0.nic.dtv.	0	IN	A	65.22.230.1
-c0.nic.dtv.	0	IN	AAAA	2a01:8840:e0::1
 dubai.	0	IN	NS	gtld.beta.aridns.net.au.
 dubai.	0	IN	NS	gtld.alpha.aridns.net.au.
 dubai.	0	IN	NS	gtld.delta.aridns.net.au.
@@ -5355,24 +5307,12 @@ c.nic.dvag.	0	IN	A	212.18.248.84
 c.nic.dvag.	0	IN	AAAA	2a04:2b00:13ee::84
 d.nic.dvag.	0	IN	A	212.18.249.84
 d.nic.dvag.	0	IN	AAAA	2a04:2b00:13ff::84
-dvr.	0	IN	NS	a0.nic.dvr.
-dvr.	0	IN	NS	a2.nic.dvr.
-dvr.	0	IN	NS	b0.nic.dvr.
-dvr.	0	IN	NS	c0.nic.dvr.
 dvr.	0	IN	NS	ns01.trs-dns.com.
 dvr.	0	IN	NS	ns01.trs-dns.net.
 dvr.	0	IN	NS	ns01.trs-dns.org.
 dvr.	0	IN	NS	ns01.trs-dns.info.
 dvr.	0	IN	DS	28879 8 2 fe84d723dc95eeee237ed7452871da942fc883f0154cdead6bcfa3a36ef52dc9
 dvr.	0	IN	DS	50057 8 2 4d049a7b0555f98a406872247f9135108fdc33bb2353d6a33a9a728429f920b2
-a0.nic.dvr.	0	IN	A	65.22.108.17
-a0.nic.dvr.	0	IN	AAAA	2a01:8840:6a::17
-a2.nic.dvr.	0	IN	A	65.22.111.17
-a2.nic.dvr.	0	IN	AAAA	2a01:8840:6d::17
-b0.nic.dvr.	0	IN	A	65.22.109.17
-b0.nic.dvr.	0	IN	AAAA	2a01:8840:6b::17
-c0.nic.dvr.	0	IN	A	65.22.110.17
-c0.nic.dvr.	0	IN	AAAA	2a01:8840:6c::17
 dz.	0	IN	NS	ns1.nic.dz.
 dz.	0	IN	NS	ns2.nic.dz.
 dz.	0	IN	NS	ns3.nic.fr.
@@ -6863,6 +6803,7 @@ v2n1.nic.fyi.	0	IN	AAAA	2a01:8840:f5::42
 ga.	0	IN	NS	d.nic.fr.
 ga.	0	IN	NS	f.ext.nic.fr.
 ga.	0	IN	NS	g.ext.nic.fr.
+ga.	0	IN	DS	20588 13 2 11e86b193c6f284e61f3af76d42ad754852056e8183097a30e55ad580fd6a631
 gal.	0	IN	NS	anycast9.irondns.net.
 gal.	0	IN	NS	anycast10.irondns.net.
 gal.	0	IN	NS	anycast23.irondns.net.
@@ -7041,6 +6982,8 @@ ge.	0	IN	NS	ns1.nic.ge.
 ge.	0	IN	NS	ns2.nic.ge.
 ge.	0	IN	NS	ns3.nic.ge.
 ge.	0	IN	NS	ns4.nic.ge.
+ge.	0	IN	DS	39472 8 2 3b29e39d95557b7f087160cd7ac47c4c040801f5e8cfd8b88d4ccb30620c7162
+ge.	0	IN	DS	39472 8 4 776a4623d39fbb38e5adbc3d8463e7d1a2593d8ea458a1fc755fba003adc4a31d971f124ce01b7cd5dac505038ba6336
 ns1.nic.ge.	0	IN	A	185.19.99.30
 ns2.nic.ge.	0	IN	A	185.19.98.98
 ns3.nic.ge.	0	IN	A	3.66.58.155
@@ -11309,24 +11252,12 @@ mobi.	0	IN	NS	b2.mobi.afilias-nst.org.
 mobi.	0	IN	NS	c0.mobi.afilias-nst.info.
 mobi.	0	IN	NS	d0.mobi.afilias-nst.org.
 mobi.	0	IN	DS	56191 8 2 016c0d8022bef2cabb827ce75dabd8fd24cd0160ac277a95ecd5e79b1a95592c
-mobile.	0	IN	NS	a0.nic.mobile.
-mobile.	0	IN	NS	a2.nic.mobile.
-mobile.	0	IN	NS	b0.nic.mobile.
-mobile.	0	IN	NS	c0.nic.mobile.
 mobile.	0	IN	NS	ns01.trs-dns.com.
 mobile.	0	IN	NS	ns01.trs-dns.net.
 mobile.	0	IN	NS	ns01.trs-dns.org.
 mobile.	0	IN	NS	ns01.trs-dns.info.
 mobile.	0	IN	DS	85 8 2 7e9719c718c3954d6f5d3c8967b1424f663ac3ff24d49ba6c26a52ebcd2c3b0f
 mobile.	0	IN	DS	50992 8 2 bf3346bc5ffd59c24bdc6bafd25e7f5c79f7f5141618633a74cbd65114bb28ba
-a0.nic.mobile.	0	IN	A	65.22.96.9
-a0.nic.mobile.	0	IN	AAAA	2a01:8840:5e::9
-a2.nic.mobile.	0	IN	A	65.22.99.9
-a2.nic.mobile.	0	IN	AAAA	2a01:8840:61::9
-b0.nic.mobile.	0	IN	A	65.22.97.9
-b0.nic.mobile.	0	IN	AAAA	2a01:8840:5f::9
-c0.nic.mobile.	0	IN	A	65.22.98.9
-c0.nic.mobile.	0	IN	AAAA	2a01:8840:60::9
 moda.	0	IN	NS	v0n0.nic.moda.
 moda.	0	IN	NS	v0n1.nic.moda.
 moda.	0	IN	NS	v0n2.nic.moda.
@@ -12731,24 +12662,12 @@ y.nic.olayangroup.	0	IN	A	156.154.173.82
 y.nic.olayangroup.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.olayangroup.	0	IN	A	156.154.174.82
 z.nic.olayangroup.	0	IN	AAAA	2610:a1:1076::1:82
-ollo.	0	IN	NS	a0.nic.ollo.
-ollo.	0	IN	NS	a2.nic.ollo.
-ollo.	0	IN	NS	b0.nic.ollo.
-ollo.	0	IN	NS	c0.nic.ollo.
 ollo.	0	IN	NS	ns01.trs-dns.com.
 ollo.	0	IN	NS	ns01.trs-dns.net.
 ollo.	0	IN	NS	ns01.trs-dns.org.
 ollo.	0	IN	NS	ns01.trs-dns.info.
 ollo.	0	IN	DS	31696 8 2 6030c454f7f035a77359f435e2ce2abe3d5aaec332b156d35dd7b700e488726a
 ollo.	0	IN	DS	39565 8 2 63769a931a3ee95afa940cc2d02ccdcc01bef022b6445495ae8cb153e211b3f5
-a0.nic.ollo.	0	IN	A	65.22.96.1
-a0.nic.ollo.	0	IN	AAAA	2a01:8840:5e::1
-a2.nic.ollo.	0	IN	A	65.22.99.1
-a2.nic.ollo.	0	IN	AAAA	2a01:8840:61::1
-b0.nic.ollo.	0	IN	A	65.22.97.1
-b0.nic.ollo.	0	IN	AAAA	2a01:8840:5f::1
-c0.nic.ollo.	0	IN	A	65.22.98.1
-c0.nic.ollo.	0	IN	AAAA	2a01:8840:60::1
 om.	0	IN	NS	ns1.registry.om.
 om.	0	IN	NS	ns2.registry.om.
 om.	0	IN	NS	cctld.beta.aridns.net.au.
@@ -13031,24 +12950,12 @@ otsuka.	0	IN	NS	b.gmoregistry.net.
 otsuka.	0	IN	NS	k.gmoregistry.net.
 otsuka.	0	IN	NS	l.gmoregistry.net.
 otsuka.	0	IN	DS	1147 8 2 99fa7ba5260c1c400fc5d65616fd3d796a6ab5aea557314cab10392de8fc90b3
-ott.	0	IN	NS	a0.nic.ott.
-ott.	0	IN	NS	a2.nic.ott.
-ott.	0	IN	NS	b0.nic.ott.
-ott.	0	IN	NS	c0.nic.ott.
 ott.	0	IN	NS	ns01.trs-dns.com.
 ott.	0	IN	NS	ns01.trs-dns.net.
 ott.	0	IN	NS	ns01.trs-dns.org.
 ott.	0	IN	NS	ns01.trs-dns.info.
 ott.	0	IN	DS	34382 8 2 e8b1499a20ed3902368212f22c66c14cd607fcbdddba117248c8353b6a0968bc
 ott.	0	IN	DS	39925 8 2 ea35cb20303ca3e610c87e77947bf04693f3e14933c59a60beff384bd0ca0654
-a0.nic.ott.	0	IN	A	65.22.92.9
-a0.nic.ott.	0	IN	AAAA	2a01:8840:5a::9
-a2.nic.ott.	0	IN	A	65.22.95.9
-a2.nic.ott.	0	IN	AAAA	2a01:8840:5d::9
-b0.nic.ott.	0	IN	A	65.22.93.9
-b0.nic.ott.	0	IN	AAAA	2a01:8840:5b::9
-c0.nic.ott.	0	IN	A	65.22.94.9
-c0.nic.ott.	0	IN	AAAA	2a01:8840:5c::9
 ovh.	0	IN	NS	d.nic.fr.
 ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
@@ -13296,24 +13203,12 @@ y.nic.philips.	0	IN	A	156.154.173.82
 y.nic.philips.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.philips.	0	IN	A	156.154.174.82
 z.nic.philips.	0	IN	AAAA	2610:a1:1076::1:82
-phone.	0	IN	NS	a0.nic.phone.
-phone.	0	IN	NS	a2.nic.phone.
-phone.	0	IN	NS	b0.nic.phone.
-phone.	0	IN	NS	c0.nic.phone.
 phone.	0	IN	NS	ns01.trs-dns.com.
 phone.	0	IN	NS	ns01.trs-dns.net.
 phone.	0	IN	NS	ns01.trs-dns.org.
 phone.	0	IN	NS	ns01.trs-dns.info.
 phone.	0	IN	DS	18829 8 2 b7809834406510fcbea1aafa42f0bd2e7f4096bee97d8b7fd5964cdb39c607b4
 phone.	0	IN	DS	32000 8 2 406205d589c29e1481c928b7f8ed4b4d812cf228e0d47c7cb0894ba8bef2df18
-a0.nic.phone.	0	IN	A	65.22.96.17
-a0.nic.phone.	0	IN	AAAA	2a01:8840:5e::17
-a2.nic.phone.	0	IN	A	65.22.99.17
-a2.nic.phone.	0	IN	AAAA	2a01:8840:61::17
-b0.nic.phone.	0	IN	A	65.22.97.17
-b0.nic.phone.	0	IN	AAAA	2a01:8840:5f::17
-c0.nic.phone.	0	IN	A	65.22.98.17
-c0.nic.phone.	0	IN	AAAA	2a01:8840:60::17
 photo.	0	IN	NS	a.nic.photo.
 photo.	0	IN	NS	b.nic.photo.
 photo.	0	IN	NS	c.nic.photo.
@@ -14810,7 +14705,9 @@ rw.	0	IN	NS	fork.sth.dnsnode.net.
 rw.	0	IN	NS	ns-rw.afrinic.net.
 rw.	0	IN	DS	39755 8 2 005f7a73f0609a69ca7736158490764e1a8dc0652ab1d0e327941af0fe673111
 ns1.ricta.org.rw.	0	IN	A	196.49.7.188
+ns1.ricta.org.rw.	0	IN	AAAA	2001:43f8:151:2504::188
 ns2.ricta.org.rw.	0	IN	A	196.49.7.186
+ns2.ricta.org.rw.	0	IN	AAAA	2001:43f8:151:2504::186
 ns3.ricta.org.rw.	0	IN	A	41.138.85.98
 pch.ricta.org.rw.	0	IN	A	204.61.216.91
 pch.ricta.org.rw.	0	IN	AAAA	2001:500:14:6091:ad::1
@@ -15902,24 +15799,12 @@ skype.	0	IN	DS	25544 8 2 2aaa5a12f194b174e8545dc683e987ae649ce73c0f8f979b9baee76
 skype.	0	IN	DS	56554 8 2 ffa94dc331d59fbe4b7b2e51871b8ceeec8ce9baa00efb2a9553f09f84804e6a
 sl.	0	IN	NS	ns1.neoip.com.
 sl.	0	IN	NS	ns2.neoip.com.
-sling.	0	IN	NS	a0.nic.sling.
-sling.	0	IN	NS	a2.nic.sling.
-sling.	0	IN	NS	b0.nic.sling.
-sling.	0	IN	NS	c0.nic.sling.
 sling.	0	IN	NS	ns01.trs-dns.com.
 sling.	0	IN	NS	ns01.trs-dns.net.
 sling.	0	IN	NS	ns01.trs-dns.org.
 sling.	0	IN	NS	ns01.trs-dns.info.
 sling.	0	IN	DS	46550 8 2 fc817bc7bcc7edcc930cf73483fde9a88386e85674d7cf438e36ed5d00cdf74f
 sling.	0	IN	DS	46961 8 2 a1c02b97c8ccc30efacd864bab81e84f49defc0e68d86fd0cab372711908d6ce
-a0.nic.sling.	0	IN	A	65.22.108.9
-a0.nic.sling.	0	IN	AAAA	2a01:8840:6a::9
-a2.nic.sling.	0	IN	A	65.22.111.9
-a2.nic.sling.	0	IN	AAAA	2a01:8840:6d::9
-b0.nic.sling.	0	IN	A	65.22.109.9
-b0.nic.sling.	0	IN	AAAA	2a01:8840:6b::9
-c0.nic.sling.	0	IN	A	65.22.110.9
-c0.nic.sling.	0	IN	AAAA	2a01:8840:6c::9
 sm.	0	IN	NS	sm.cctld.authdns.ripe.net.
 sm.	0	IN	NS	dns.omniway.sm.
 sm.	0	IN	NS	dns.intelcom.sm.
@@ -16094,26 +15979,26 @@ v2n0.nic.solutions.	0	IN	A	65.22.35.2
 v2n0.nic.solutions.	0	IN	AAAA	2a01:8840:25::2
 v2n1.nic.solutions.	0	IN	A	161.232.17.2
 v2n1.nic.solutions.	0	IN	AAAA	2a01:8840:fb::2
-song.	0	IN	NS	a.nic.song.
-song.	0	IN	NS	b.nic.song.
-song.	0	IN	NS	ns3.dns.nic.song.
 song.	0	IN	NS	v0n0.nic.song.
 song.	0	IN	NS	v0n1.nic.song.
 song.	0	IN	NS	v0n2.nic.song.
+song.	0	IN	NS	v0n3.nic.song.
+song.	0	IN	NS	v2n0.nic.song.
+song.	0	IN	NS	v2n1.nic.song.
 song.	0	IN	DS	40012 8 2 9490b716f1dc3bf325e846595c3511f0dc8b3f5149a7664e53671256fda4c6fb
 song.	0	IN	DS	54031 8 2 0595f0d68769e6bc795c21a8c96043f4b530593b76be48348797b157040bf72c
-a.nic.song.	0	IN	A	37.209.192.10
-a.nic.song.	0	IN	AAAA	2001:dcd:1::10
-b.nic.song.	0	IN	A	37.209.194.10
-b.nic.song.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.song.	0	IN	A	156.154.159.153
-ns3.dns.nic.song.	0	IN	AAAA	2610:a1:1073::99
 v0n0.nic.song.	0	IN	A	65.22.76.2
 v0n0.nic.song.	0	IN	AAAA	2a01:8840:4a::2
 v0n1.nic.song.	0	IN	A	65.22.77.2
 v0n1.nic.song.	0	IN	AAAA	2a01:8840:4b::2
 v0n2.nic.song.	0	IN	A	65.22.78.2
 v0n2.nic.song.	0	IN	AAAA	2a01:8840:4c::2
+v0n3.nic.song.	0	IN	A	161.232.38.2
+v0n3.nic.song.	0	IN	AAAA	2a01:8840:10c::2
+v2n0.nic.song.	0	IN	A	65.22.79.2
+v2n0.nic.song.	0	IN	AAAA	2a01:8840:4d::2
+v2n1.nic.song.	0	IN	A	161.232.39.2
+v2n1.nic.song.	0	IN	AAAA	2a01:8840:10d::2
 sony.	0	IN	NS	a.gmoregistry.net.
 sony.	0	IN	NS	b.gmoregistry.net.
 sony.	0	IN	NS	k.gmoregistry.net.
@@ -19158,26 +19043,26 @@ xn--11b4c3d.	0	IN	NS	ac2.nstld.com.
 xn--11b4c3d.	0	IN	NS	ac3.nstld.com.
 xn--11b4c3d.	0	IN	NS	ac4.nstld.com.
 xn--11b4c3d.	0	IN	DS	3846 8 2 a241c8ebf2c5cd49c2ddcef1b9e6f66a0cafb2a40c15b80b5ccec1bfb8ab9e9a
-xn--1ck2e1b.	0	IN	NS	a.nic.xn--1ck2e1b.
-xn--1ck2e1b.	0	IN	NS	b.nic.xn--1ck2e1b.
-xn--1ck2e1b.	0	IN	NS	ns3.dns.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	v0n0.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	v0n1.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	v0n2.nic.xn--1ck2e1b.
+xn--1ck2e1b.	0	IN	NS	v0n3.nic.xn--1ck2e1b.
+xn--1ck2e1b.	0	IN	NS	v2n0.nic.xn--1ck2e1b.
+xn--1ck2e1b.	0	IN	NS	v2n1.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	DS	3829 8 2 9402244c218bf8fe172483e4d2ad8355589be11f812b471fe722dd4e572eac26
 xn--1ck2e1b.	0	IN	DS	53164 8 2 27e776688bd0cedb38466ce0e6b2bcc5cbefa0549e04848ef0f1fdbe40f85d0e
-a.nic.xn--1ck2e1b.	0	IN	A	37.209.192.10
-a.nic.xn--1ck2e1b.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--1ck2e1b.	0	IN	A	37.209.194.10
-b.nic.xn--1ck2e1b.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--1ck2e1b.	0	IN	A	156.154.171.64
-ns3.dns.nic.xn--1ck2e1b.	0	IN	AAAA	2610:a1:1073::1:40
 v0n0.nic.xn--1ck2e1b.	0	IN	A	65.22.76.3
 v0n0.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:4a::3
 v0n1.nic.xn--1ck2e1b.	0	IN	A	65.22.77.3
 v0n1.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:4b::3
 v0n2.nic.xn--1ck2e1b.	0	IN	A	65.22.78.3
 v0n2.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:4c::3
+v0n3.nic.xn--1ck2e1b.	0	IN	A	161.232.38.3
+v0n3.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:10c::3
+v2n0.nic.xn--1ck2e1b.	0	IN	A	65.22.79.3
+v2n0.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:4d::3
+v2n1.nic.xn--1ck2e1b.	0	IN	A	161.232.39.3
+v2n1.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:10d::3
 xn--1qqw23a.	0	IN	NS	ta.ngtld.cn.
 xn--1qqw23a.	0	IN	NS	tb.ngtld.cn.
 xn--1qqw23a.	0	IN	NS	tc.ngtld.cn.
@@ -19447,26 +19332,26 @@ b0.nic.xn--b4w605ferd.	0	IN	A	65.22.141.1
 b0.nic.xn--b4w605ferd.	0	IN	AAAA	2a01:8840:8b::1
 c0.nic.xn--b4w605ferd.	0	IN	A	65.22.142.1
 c0.nic.xn--b4w605ferd.	0	IN	AAAA	2a01:8840:8c::1
-xn--bck1b9a5dre4c.	0	IN	NS	a.nic.xn--bck1b9a5dre4c.
-xn--bck1b9a5dre4c.	0	IN	NS	b.nic.xn--bck1b9a5dre4c.
-xn--bck1b9a5dre4c.	0	IN	NS	ns3.dns.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	v0n0.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	v0n1.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	v0n2.nic.xn--bck1b9a5dre4c.
+xn--bck1b9a5dre4c.	0	IN	NS	v0n3.nic.xn--bck1b9a5dre4c.
+xn--bck1b9a5dre4c.	0	IN	NS	v2n0.nic.xn--bck1b9a5dre4c.
+xn--bck1b9a5dre4c.	0	IN	NS	v2n1.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	DS	2884 8 2 dd075c68dac66ece21097863183d23795595362fc5314150d38380adec50fd40
 xn--bck1b9a5dre4c.	0	IN	DS	59140 8 2 05f9b4a2cc75f4cc41150454bb3911c3a8b0874d626162842146114819b45443
-a.nic.xn--bck1b9a5dre4c.	0	IN	A	37.209.192.10
-a.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--bck1b9a5dre4c.	0	IN	A	37.209.194.10
-b.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--bck1b9a5dre4c.	0	IN	A	156.154.159.194
-ns3.dns.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2610:a1:1073::c2
 v0n0.nic.xn--bck1b9a5dre4c.	0	IN	A	65.22.76.4
 v0n0.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:4a::4
 v0n1.nic.xn--bck1b9a5dre4c.	0	IN	A	65.22.77.4
 v0n1.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:4b::4
 v0n2.nic.xn--bck1b9a5dre4c.	0	IN	A	65.22.78.4
 v0n2.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:4c::4
+v0n3.nic.xn--bck1b9a5dre4c.	0	IN	A	161.232.38.4
+v0n3.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:10c::4
+v2n0.nic.xn--bck1b9a5dre4c.	0	IN	A	65.22.79.4
+v2n0.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:4d::4
+v2n1.nic.xn--bck1b9a5dre4c.	0	IN	A	161.232.39.4
+v2n1.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:10d::4
 xn--c1avg.	0	IN	NS	a0.nic.xn--c1avg.
 xn--c1avg.	0	IN	NS	a2.nic.xn--c1avg.
 xn--c1avg.	0	IN	NS	b0.nic.xn--c1avg.
@@ -19485,26 +19370,26 @@ xn--c2br7g.	0	IN	NS	ac2.nstld.com.
 xn--c2br7g.	0	IN	NS	ac3.nstld.com.
 xn--c2br7g.	0	IN	NS	ac4.nstld.com.
 xn--c2br7g.	0	IN	DS	42810 8 2 5bf46578d493a97436a5852abbea6cd186bd5786ad7d08387b7430228371ee33
-xn--cck2b3b.	0	IN	NS	a.nic.xn--cck2b3b.
-xn--cck2b3b.	0	IN	NS	b.nic.xn--cck2b3b.
-xn--cck2b3b.	0	IN	NS	ns3.dns.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	v0n0.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	v0n1.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	v0n2.nic.xn--cck2b3b.
+xn--cck2b3b.	0	IN	NS	v0n3.nic.xn--cck2b3b.
+xn--cck2b3b.	0	IN	NS	v2n0.nic.xn--cck2b3b.
+xn--cck2b3b.	0	IN	NS	v2n1.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	DS	3841 8 2 123a65d7e5ceaac47d65136b12037a6965b9a52f8ed600c1cfbec8039b5877d5
 xn--cck2b3b.	0	IN	DS	7171 8 2 480318eeeb6f2bfec750dd4267bddc9d033b80c0bf1bf9cf979780c35bb87769
-a.nic.xn--cck2b3b.	0	IN	A	37.209.192.10
-a.nic.xn--cck2b3b.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--cck2b3b.	0	IN	A	37.209.194.10
-b.nic.xn--cck2b3b.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--cck2b3b.	0	IN	A	156.154.159.193
-ns3.dns.nic.xn--cck2b3b.	0	IN	AAAA	2610:a1:1073::c1
 v0n0.nic.xn--cck2b3b.	0	IN	A	65.22.76.5
 v0n0.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:4a::5
 v0n1.nic.xn--cck2b3b.	0	IN	A	65.22.77.5
 v0n1.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:4b::5
 v0n2.nic.xn--cck2b3b.	0	IN	A	65.22.78.5
 v0n2.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:4c::5
+v0n3.nic.xn--cck2b3b.	0	IN	A	161.232.38.5
+v0n3.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:10c::5
+v2n0.nic.xn--cck2b3b.	0	IN	A	65.22.79.5
+v2n0.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:4d::5
+v2n1.nic.xn--cck2b3b.	0	IN	A	161.232.39.5
+v2n1.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:10d::5
 xn--cckwcxetd.	0	IN	NS	dns1.nic.xn--cckwcxetd.
 xn--cckwcxetd.	0	IN	NS	dns2.nic.xn--cckwcxetd.
 xn--cckwcxetd.	0	IN	NS	dns3.nic.xn--cckwcxetd.
@@ -19597,26 +19482,26 @@ xn--e1a4c.	0	IN	NS	y.dns.eu.
 xn--e1a4c.	0	IN	NS	be.dns.eu.
 xn--e1a4c.	0	IN	NS	si.dns.eu.
 xn--e1a4c.	0	IN	DS	8731 8 2 90045c6e0579687c19d9318132095adbc9532831f3d175004d8e4a05fb05d268
-xn--eckvdtc9d.	0	IN	NS	a.nic.xn--eckvdtc9d.
-xn--eckvdtc9d.	0	IN	NS	b.nic.xn--eckvdtc9d.
-xn--eckvdtc9d.	0	IN	NS	ns3.dns.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	v0n0.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	v0n1.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	v0n2.nic.xn--eckvdtc9d.
+xn--eckvdtc9d.	0	IN	NS	v0n3.nic.xn--eckvdtc9d.
+xn--eckvdtc9d.	0	IN	NS	v2n0.nic.xn--eckvdtc9d.
+xn--eckvdtc9d.	0	IN	NS	v2n1.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	DS	15400 8 2 02709ffcf8a245cdc4bb1d688f982898f244a65d798c574a5ec82749c918830b
 xn--eckvdtc9d.	0	IN	DS	53936 8 2 b28c814ee8f6237ced8a3ba3d591b75f455258faec60828f7d01432a8e153eac
-a.nic.xn--eckvdtc9d.	0	IN	A	37.209.192.10
-a.nic.xn--eckvdtc9d.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--eckvdtc9d.	0	IN	A	37.209.194.10
-b.nic.xn--eckvdtc9d.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--eckvdtc9d.	0	IN	A	156.154.171.66
-ns3.dns.nic.xn--eckvdtc9d.	0	IN	AAAA	2610:a1:1073::1:42
 v0n0.nic.xn--eckvdtc9d.	0	IN	A	65.22.76.6
 v0n0.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:4a::6
 v0n1.nic.xn--eckvdtc9d.	0	IN	A	65.22.77.6
 v0n1.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:4b::6
 v0n2.nic.xn--eckvdtc9d.	0	IN	A	65.22.78.6
 v0n2.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:4c::6
+v0n3.nic.xn--eckvdtc9d.	0	IN	A	161.232.38.6
+v0n3.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:10c::6
+v2n0.nic.xn--eckvdtc9d.	0	IN	A	65.22.79.6
+v2n0.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:4d::6
+v2n1.nic.xn--eckvdtc9d.	0	IN	A	161.232.39.6
+v2n1.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:10d::6
 xn--efvy88h.	0	IN	NS	a.zdnscloud.cn.
 xn--efvy88h.	0	IN	NS	b.zdnscloud.cn.
 xn--efvy88h.	0	IN	NS	c.zdnscloud.com.
@@ -19626,26 +19511,26 @@ xn--efvy88h.	0	IN	NS	g.zdnscloud.com.
 xn--efvy88h.	0	IN	NS	i.zdnscloud.cn.
 xn--efvy88h.	0	IN	NS	j.zdnscloud.com.
 xn--efvy88h.	0	IN	DS	36754 8 2 d4a3344e3eb4166464489b5a5706ace8b8ad7cdc2d3c0aea088e8851b8e24de2
-xn--fct429k.	0	IN	NS	a.nic.xn--fct429k.
-xn--fct429k.	0	IN	NS	b.nic.xn--fct429k.
-xn--fct429k.	0	IN	NS	ns3.dns.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	v0n0.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	v0n1.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	v0n2.nic.xn--fct429k.
+xn--fct429k.	0	IN	NS	v0n3.nic.xn--fct429k.
+xn--fct429k.	0	IN	NS	v2n0.nic.xn--fct429k.
+xn--fct429k.	0	IN	NS	v2n1.nic.xn--fct429k.
 xn--fct429k.	0	IN	DS	8479 8 2 c4fa8d520fbb397127d969d901cf7d4cba2341020e00066179f240c9b631005b
 xn--fct429k.	0	IN	DS	33139 8 2 e4d17f595eb9ea2d365fdb095ec7866a106ae8a3dfda44da3225efeee0a74b02
-a.nic.xn--fct429k.	0	IN	A	37.209.192.10
-a.nic.xn--fct429k.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--fct429k.	0	IN	A	37.209.194.10
-b.nic.xn--fct429k.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--fct429k.	0	IN	A	156.154.171.67
-ns3.dns.nic.xn--fct429k.	0	IN	AAAA	2610:a1:1073::1:43
 v0n0.nic.xn--fct429k.	0	IN	A	65.22.76.7
 v0n0.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:4a::7
 v0n1.nic.xn--fct429k.	0	IN	A	65.22.77.7
 v0n1.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:4b::7
 v0n2.nic.xn--fct429k.	0	IN	A	65.22.78.7
 v0n2.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:4c::7
+v0n3.nic.xn--fct429k.	0	IN	A	161.232.38.7
+v0n3.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:10c::7
+v2n0.nic.xn--fct429k.	0	IN	A	65.22.79.7
+v2n0.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:4d::7
+v2n1.nic.xn--fct429k.	0	IN	A	161.232.39.7
+v2n1.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:10d::7
 xn--fhbei.	0	IN	NS	ac1.nstld.com.
 xn--fhbei.	0	IN	NS	ac2.nstld.com.
 xn--fhbei.	0	IN	NS	ac3.nstld.com.
@@ -19751,52 +19636,52 @@ ns2.dns.nic.xn--g2xx48c.	0	IN	A	156.154.170.68
 ns2.dns.nic.xn--g2xx48c.	0	IN	AAAA	2610:a1:1072::1:44
 ns3.dns.nic.xn--g2xx48c.	0	IN	A	156.154.171.68
 ns3.dns.nic.xn--g2xx48c.	0	IN	AAAA	2610:a1:1073::1:44
-xn--gckr3f0f.	0	IN	NS	a.nic.xn--gckr3f0f.
-xn--gckr3f0f.	0	IN	NS	b.nic.xn--gckr3f0f.
-xn--gckr3f0f.	0	IN	NS	ns3.dns.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	v0n0.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	v0n1.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	v0n2.nic.xn--gckr3f0f.
+xn--gckr3f0f.	0	IN	NS	v0n3.nic.xn--gckr3f0f.
+xn--gckr3f0f.	0	IN	NS	v2n0.nic.xn--gckr3f0f.
+xn--gckr3f0f.	0	IN	NS	v2n1.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	DS	8299 8 2 ea53409a63f3c2e67887df475d35837ca4696aadd7a08523436c05960ac99eee
 xn--gckr3f0f.	0	IN	DS	20257 8 2 b43c572db9a2fcf853558b4439fae106547749d710b0f67528343f0274404543
-a.nic.xn--gckr3f0f.	0	IN	A	37.209.192.10
-a.nic.xn--gckr3f0f.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--gckr3f0f.	0	IN	A	37.209.194.10
-b.nic.xn--gckr3f0f.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--gckr3f0f.	0	IN	A	156.154.171.69
-ns3.dns.nic.xn--gckr3f0f.	0	IN	AAAA	2610:a1:1073::1:45
 v0n0.nic.xn--gckr3f0f.	0	IN	A	65.22.76.8
 v0n0.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:4a::8
 v0n1.nic.xn--gckr3f0f.	0	IN	A	65.22.77.8
 v0n1.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:4b::8
 v0n2.nic.xn--gckr3f0f.	0	IN	A	65.22.78.8
 v0n2.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:4c::8
+v0n3.nic.xn--gckr3f0f.	0	IN	A	161.232.38.8
+v0n3.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:10c::8
+v2n0.nic.xn--gckr3f0f.	0	IN	A	65.22.79.8
+v2n0.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:4d::8
+v2n1.nic.xn--gckr3f0f.	0	IN	A	161.232.39.8
+v2n1.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:10d::8
 xn--gecrj9c.	0	IN	NS	ns01.trs-dns.com.
 xn--gecrj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--gecrj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--gecrj9c.	0	IN	NS	ns10.trs-dns.info.
 xn--gecrj9c.	0	IN	DS	50680 8 2 a7fb8b5d0067032787c19ed4950ac6dd05cf2984dc6b569931f23a5519993ad7
 xn--gecrj9c.	0	IN	DS	59902 8 2 9a26f0e597291522aff9251198c841e6573924b8b142cf99a44e292b9a252ba0
-xn--gk3at1e.	0	IN	NS	a.nic.xn--gk3at1e.
-xn--gk3at1e.	0	IN	NS	b.nic.xn--gk3at1e.
-xn--gk3at1e.	0	IN	NS	ns3.dns.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v0n0.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v0n1.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v0n2.nic.xn--gk3at1e.
+xn--gk3at1e.	0	IN	NS	v0n3.nic.xn--gk3at1e.
+xn--gk3at1e.	0	IN	NS	v2n0.nic.xn--gk3at1e.
+xn--gk3at1e.	0	IN	NS	v2n1.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	DS	46249 8 2 c189f2ac583e682fd789aebeef182ae85f9c55e7c1c5ba849a72c6ae3e7280fc
 xn--gk3at1e.	0	IN	DS	62404 8 2 abe26a827cd8026e02a148365ad795fa844282e961fc25583498834571b1ea7a
-a.nic.xn--gk3at1e.	0	IN	A	37.209.192.10
-a.nic.xn--gk3at1e.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--gk3at1e.	0	IN	A	37.209.194.10
-b.nic.xn--gk3at1e.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--gk3at1e.	0	IN	A	156.154.171.70
-ns3.dns.nic.xn--gk3at1e.	0	IN	AAAA	2610:a1:1073::1:46
 v0n0.nic.xn--gk3at1e.	0	IN	A	65.22.76.9
 v0n0.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:4a::9
 v0n1.nic.xn--gk3at1e.	0	IN	A	65.22.77.9
 v0n1.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:4b::9
 v0n2.nic.xn--gk3at1e.	0	IN	A	65.22.78.9
 v0n2.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:4c::9
+v0n3.nic.xn--gk3at1e.	0	IN	A	161.232.38.9
+v0n3.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:10c::9
+v2n0.nic.xn--gk3at1e.	0	IN	A	65.22.79.9
+v2n0.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:4d::9
+v2n1.nic.xn--gk3at1e.	0	IN	A	161.232.39.9
+v2n1.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:10d::9
 xn--h2breg3eve.	0	IN	NS	ns01.trs-dns.com.
 xn--h2breg3eve.	0	IN	NS	ns01.trs-dns.net.
 xn--h2breg3eve.	0	IN	NS	ns10.trs-dns.org.
@@ -19899,26 +19784,26 @@ dnsc.nic.xn--jlq480n2rg.	0	IN	A	156.154.102.3
 dnsc.nic.xn--jlq480n2rg.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.xn--jlq480n2rg.	0	IN	A	156.154.103.3
 dnsd.nic.xn--jlq480n2rg.	0	IN	AAAA	2610:a1:1010::3
-xn--jvr189m.	0	IN	NS	a.nic.xn--jvr189m.
-xn--jvr189m.	0	IN	NS	b.nic.xn--jvr189m.
-xn--jvr189m.	0	IN	NS	ns3.dns.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	NS	v0n0.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	NS	v0n1.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	NS	v0n2.nic.xn--jvr189m.
+xn--jvr189m.	0	IN	NS	v0n3.nic.xn--jvr189m.
+xn--jvr189m.	0	IN	NS	v2n0.nic.xn--jvr189m.
+xn--jvr189m.	0	IN	NS	v2n1.nic.xn--jvr189m.
 xn--jvr189m.	0	IN	DS	2149 8 2 508bddccb2b2b23586882a59e145310aca85ffb453eb073565e900466f52a39f
 xn--jvr189m.	0	IN	DS	7474 8 2 1a4bd45fc99d1b96bbf07728da08adcd9f7c3bc71851e140c5b1d0b6d7710349
-a.nic.xn--jvr189m.	0	IN	A	37.209.192.10
-a.nic.xn--jvr189m.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--jvr189m.	0	IN	A	37.209.194.10
-b.nic.xn--jvr189m.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--jvr189m.	0	IN	A	156.154.171.72
-ns3.dns.nic.xn--jvr189m.	0	IN	AAAA	2610:a1:1073::1:48
 v0n0.nic.xn--jvr189m.	0	IN	A	65.22.76.10
 v0n0.nic.xn--jvr189m.	0	IN	AAAA	2a01:8840:4a::10
 v0n1.nic.xn--jvr189m.	0	IN	A	65.22.77.10
 v0n1.nic.xn--jvr189m.	0	IN	AAAA	2a01:8840:4b::10
 v0n2.nic.xn--jvr189m.	0	IN	A	65.22.78.10
 v0n2.nic.xn--jvr189m.	0	IN	AAAA	2a01:8840:4c::10
+v0n3.nic.xn--jvr189m.	0	IN	A	161.232.38.10
+v0n3.nic.xn--jvr189m.	0	IN	AAAA	2a01:8840:10c::10
+v2n0.nic.xn--jvr189m.	0	IN	A	65.22.79.10
+v2n0.nic.xn--jvr189m.	0	IN	AAAA	2a01:8840:4d::10
+v2n1.nic.xn--jvr189m.	0	IN	A	161.232.39.10
+v2n1.nic.xn--jvr189m.	0	IN	AAAA	2a01:8840:10d::10
 xn--kcrx77d1x4a.	0	IN	NS	a.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	0	IN	NS	b.nic.xn--kcrx77d1x4a.
 xn--kcrx77d1x4a.	0	IN	NS	c.nic.xn--kcrx77d1x4a.
@@ -20310,26 +20195,26 @@ xn--rhqv96g.	0	IN	NS	ns3.teleinfo.cn.
 xn--rhqv96g.	0	IN	NS	ns4.teleinfoo.com.
 xn--rhqv96g.	0	IN	DS	27565 8 2 b53c43c6b3f1146cc9969545c292fae4823d43b81da05141646f837451e92375
 xn--rhqv96g.	0	IN	DS	33427 8 2 9351edbe1ea6275c59bacccb774672a3298a58351728c6f763af54f33b9d5ea6
-xn--rovu88b.	0	IN	NS	a.nic.xn--rovu88b.
-xn--rovu88b.	0	IN	NS	b.nic.xn--rovu88b.
-xn--rovu88b.	0	IN	NS	ns3.dns.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	v0n0.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	v0n1.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	v0n2.nic.xn--rovu88b.
+xn--rovu88b.	0	IN	NS	v0n3.nic.xn--rovu88b.
+xn--rovu88b.	0	IN	NS	v2n0.nic.xn--rovu88b.
+xn--rovu88b.	0	IN	NS	v2n1.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	DS	247 8 2 74e7cc2a18827e9854e1f541072fb2346bbc81286343edf089d7c3d9a24eb9d0
 xn--rovu88b.	0	IN	DS	1249 8 2 faecafc5a2a9f88ac34a7d570da61418bc78607db107aa10f150c77022c9b910
-a.nic.xn--rovu88b.	0	IN	A	37.209.192.10
-a.nic.xn--rovu88b.	0	IN	AAAA	2001:dcd:1::10
-b.nic.xn--rovu88b.	0	IN	A	37.209.194.10
-b.nic.xn--rovu88b.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.xn--rovu88b.	0	IN	A	156.154.171.76
-ns3.dns.nic.xn--rovu88b.	0	IN	AAAA	2610:a1:1073::1:4c
 v0n0.nic.xn--rovu88b.	0	IN	A	65.22.76.11
 v0n0.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:4a::11
 v0n1.nic.xn--rovu88b.	0	IN	A	65.22.77.11
 v0n1.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:4b::11
 v0n2.nic.xn--rovu88b.	0	IN	A	65.22.78.11
 v0n2.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:4c::11
+v0n3.nic.xn--rovu88b.	0	IN	A	161.232.38.11
+v0n3.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:10c::11
+v2n0.nic.xn--rovu88b.	0	IN	A	65.22.79.11
+v2n0.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:4d::11
+v2n1.nic.xn--rovu88b.	0	IN	A	161.232.39.11
+v2n1.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:10d::11
 xn--rvc1e0am3e.	0	IN	NS	ns01.trs-dns.com.
 xn--rvc1e0am3e.	0	IN	NS	ns01.trs-dns.net.
 xn--rvc1e0am3e.	0	IN	NS	ns10.trs-dns.org.
@@ -20745,26 +20630,26 @@ b0.nic.zara.	0	IN	A	65.22.233.33
 b0.nic.zara.	0	IN	AAAA	2a01:8840:e3::33
 c0.nic.zara.	0	IN	A	65.22.234.33
 c0.nic.zara.	0	IN	AAAA	2a01:8840:e4::33
-zero.	0	IN	NS	a.nic.zero.
-zero.	0	IN	NS	b.nic.zero.
-zero.	0	IN	NS	ns3.dns.nic.zero.
 zero.	0	IN	NS	v0n0.nic.zero.
 zero.	0	IN	NS	v0n1.nic.zero.
 zero.	0	IN	NS	v0n2.nic.zero.
+zero.	0	IN	NS	v0n3.nic.zero.
+zero.	0	IN	NS	v2n0.nic.zero.
+zero.	0	IN	NS	v2n1.nic.zero.
 zero.	0	IN	DS	22717 8 2 c5360714b56c1edbf51e44cd8d93e2c1afa38d22eec53750087915274e4bbadc
 zero.	0	IN	DS	52774 8 2 2f7c24f9a7f75c1ba05da9b742209f4e8204bd280f50b4f64800854b0965dd12
-a.nic.zero.	0	IN	A	37.209.192.10
-a.nic.zero.	0	IN	AAAA	2001:dcd:1::10
-b.nic.zero.	0	IN	A	37.209.194.10
-b.nic.zero.	0	IN	AAAA	2001:dcd:2::10
-ns3.dns.nic.zero.	0	IN	A	156.154.159.188
-ns3.dns.nic.zero.	0	IN	AAAA	2610:a1:1073::bc
 v0n0.nic.zero.	0	IN	A	65.22.76.12
 v0n0.nic.zero.	0	IN	AAAA	2a01:8840:4a::12
 v0n1.nic.zero.	0	IN	A	65.22.77.12
 v0n1.nic.zero.	0	IN	AAAA	2a01:8840:4b::12
 v0n2.nic.zero.	0	IN	A	65.22.78.12
 v0n2.nic.zero.	0	IN	AAAA	2a01:8840:4c::12
+v0n3.nic.zero.	0	IN	A	161.232.38.12
+v0n3.nic.zero.	0	IN	AAAA	2a01:8840:10c::12
+v2n0.nic.zero.	0	IN	A	65.22.79.12
+v2n0.nic.zero.	0	IN	AAAA	2a01:8840:4d::12
+v2n1.nic.zero.	0	IN	A	161.232.39.12
+v2n1.nic.zero.	0	IN	AAAA	2a01:8840:10d::12
 zip.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 zip.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 zip.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
