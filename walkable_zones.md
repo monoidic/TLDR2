@@ -301,6 +301,7 @@
 * `omega.`
 * `ong.br.`
 * `or.id.`
+* `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
