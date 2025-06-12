@@ -630,6 +630,9 @@ dns.ch-zrh-as57777.anchors.atlas.ripe.net.	0	IN	NS	ch-zrh-as57777.anchors.atlas.
 ch-zrh-as58057.anchors.atlas.ripe.net.	0	IN	A	193.33.94.201
 ch-zrh-as58057.anchors.atlas.ripe.net.	0	IN	AAAA	2a09:4c0:100:c121::5ec9
 dns.ch-zrh-as58057.anchors.atlas.ripe.net.	0	IN	NS	ch-zrh-as58057.anchors.atlas.ripe.net.
+ch-zrh-as62035.anchors.atlas.ripe.net.	0	IN	A	185.193.244.26
+ch-zrh-as62035.anchors.atlas.ripe.net.	0	IN	AAAA	2a0a:3cc0:0:10::2
+dns.ch-zrh-as62035.anchors.atlas.ripe.net.	0	IN	NS	ch-zrh-as62035.anchors.atlas.ripe.net.
 ch-zrh-as62371.anchors.atlas.ripe.net.	0	IN	A	185.70.41.236
 ch-zrh-as62371.anchors.atlas.ripe.net.	0	IN	AAAA	2a05:2701:f10::ec
 dns.ch-zrh-as62371.anchors.atlas.ripe.net.	0	IN	NS	ch-zrh-as62371.anchors.atlas.ripe.net.
@@ -10473,13 +10476,10 @@ rrc09.ripe.net.	0	IN	A	194.42.48.68
 rrc09.ripe.net.	0	IN	LOC	47 22 0.000 N 08 33 0.000 E 0m 1m 10000m 10m
 rrc09-admin.ripe.net.	0	IN	CNAME	rrc09.ripe.net.
 rrc091.ripe.net.	0	IN	CNAME	rrc09.ripe.net.
-rrc10.ripe.net.	0	IN	A	217.29.66.6
-rrc10.ripe.net.	0	IN	AAAA	2001:7f8:b:100:1d1:a5d1:2654:6
+rrc10.ripe.net.	0	IN	A	217.29.76.6
 rrc10.ripe.net.	0	IN	LOC	45 27 0.000 N 09 11 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc10.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc10-admin.ripe.net.	0	IN	A	217.29.76.6
 rrc10-oob.ripe.net.	0	IN	A	217.29.76.25
-rrc101.ripe.net.	0	IN	A	217.29.76.6
 rrc11.ripe.net.	0	IN	A	213.200.66.6
 rrc11.ripe.net.	0	IN	LOC	40 41 0.000 N 74 00 0.000 W 0m 1m 10000m 10m
 _acme-challenge.rrc11.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10539,15 +10539,11 @@ rrc19.ripe.net.	0	IN	A	154.66.177.174
 rrc19.ripe.net.	0	IN	AAAA	2c0f:f9e8:500:3::2
 rrc19.ripe.net.	0	IN	LOC	26 14 0.000 S 28 03 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc19.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc20.ripe.net.	0	IN	A	91.206.52.253
-rrc20.ripe.net.	0	IN	AAAA	2001:7f8:24::fd
+rrc20.ripe.net.	0	IN	A	194.242.34.191
+rrc20.ripe.net.	0	IN	AAAA	2001:67c:20ac::191
 rrc20.ripe.net.	0	IN	LOC	47 22 0.000 N 08 33 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc20.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc20-admin.ripe.net.	0	IN	A	194.242.34.191
-rrc20-admin.ripe.net.	0	IN	AAAA	2001:67c:20ac::191
 rrc20-oob.ripe.net.	0	IN	A	194.242.34.193
-rrc201.ripe.net.	0	IN	A	194.242.34.191
-rrc201.ripe.net.	0	IN	AAAA	2001:67c:20ac::191
 rrc21.ripe.net.	0	IN	A	37.49.237.99
 rrc21.ripe.net.	0	IN	AAAA	2001:7f8:54::1:99
 rrc21.ripe.net.	0	IN	LOC	48 50 0.000 N 02 21 0.000 E 0m 1m 10000m 10m
