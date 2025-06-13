@@ -58,8 +58,6 @@ _901fe73efabe7e1ee103a935fa1b13a2.idp.acc.ripe.net.	0	IN	CNAME	_6586e5f40df0ae0f
 access.ripe.net.	0	IN	CNAME	access.ripe.net.cdn.cloudflare.net.
 _acme-challenge.access.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 _443._tcp.access.ripe.net.	0	IN	CNAME	gt-all-tlsa.ripe.net.
-access-beta.ripe.net.	0	IN	CNAME	ba-proxy-lb.ripe.net.
-_acme-challenge.access-beta.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 acme-certs.ripe.net.	0	IN	NS	acme-certs-1.ripe.net.
 _acme-challenge.acme-certs.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 acme-certs-1.ripe.net.	0	IN	A	193.0.19.123
@@ -4526,7 +4524,6 @@ _acme-challenge.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 academy.dev.ripe.net.	0	IN	CNAME	elearning-2.dev.ripe.net.
 _acme-challenge.academy.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 access.dev.ripe.net.	0	IN	CNAME	ba-apps.dev.ripe.net.
-access-beta.dev.ripe.net.	0	IN	CNAME	ba-apps.dev.ripe.net.
 afasia.dev.ripe.net.	0	IN	CNAME	ba-apps.dev.ripe.net.
 alertmanager.dev.ripe.net.	0	IN	CNAME	victoriametrics.dev.ripe.net.
 _acme-challenge.alertmanager.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -9514,7 +9511,6 @@ _c5f0e79ac85f0d35df619d12cccb2258.prepdev.ripe.net.	0	IN	CNAME	_f98142440230e985
 academy.prepdev.ripe.net.	0	IN	CNAME	elearning-2.prepdev.ripe.net.
 _acme-challenge.academy.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 access.prepdev.ripe.net.	0	IN	CNAME	ba-apps.prepdev.ripe.net.
-access-beta.prepdev.ripe.net.	0	IN	CNAME	ba-apps.prepdev.ripe.net.
 afasia.prepdev.ripe.net.	0	IN	CNAME	ba-apps.prepdev.ripe.net.
 alfresco.prepdev.ripe.net.	0	IN	CNAME	alfresco-1.prepdev.ripe.net.
 alfresco-02.prepdev.ripe.net.	0	IN	A	193.0.13.46
@@ -10503,15 +10499,11 @@ _acme-challenge.rrc13.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rrc13-admin.ripe.net.	0	IN	A	193.232.226.74
 rrc13-oob.ripe.net.	0	IN	A	193.232.64.30
 rrc131.ripe.net.	0	IN	A	193.232.226.74
-rrc14.ripe.net.	0	IN	A	198.32.176.6
-rrc14.ripe.net.	0	IN	AAAA	2001:504:d::9
+rrc14.ripe.net.	0	IN	A	192.158.252.7
+rrc14.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc14.ripe.net.	0	IN	LOC	37 26 0.000 N 122 09 0.000 W 0m 1m 10000m 10m
 _acme-challenge.rrc14.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc14-admin.ripe.net.	0	IN	A	192.158.252.7
-rrc14-admin.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc14-oob.ripe.net.	0	IN	A	192.158.252.6
-rrc141.ripe.net.	0	IN	A	192.158.252.7
-rrc141.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc15.ripe.net.	0	IN	A	187.16.216.23
 rrc15.ripe.net.	0	IN	AAAA	2001:12f8::23
 rrc15.ripe.net.	0	IN	LOC	23 35 0.000 S 46 37 0.000 W 0m 1m 10000m 10m
@@ -10572,11 +10564,7 @@ rrc24.ripe.net.	0	IN	A	179.0.156.33
 rrc24.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc24.ripe.net.	0	IN	LOC	34 54 0.000 S 56 09 0.000 W 0m 1m 10000m 10m
 _acme-challenge.rrc24.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc24-admin.ripe.net.	0	IN	A	179.0.156.33
-rrc24-admin.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc24-oob.ripe.net.	0	IN	A	179.0.156.32
-rrc241.ripe.net.	0	IN	A	179.0.156.33
-rrc241.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc25.ripe.net.	0	IN	A	193.0.4.29
 rrc25.ripe.net.	0	IN	AAAA	2001:67c:2e8:2:ffff:0:4:29
 rrc25.ripe.net.	0	IN	LOC	52 22 0.000 N 04 53 0.000 E 0m 1m 10000m 10m
