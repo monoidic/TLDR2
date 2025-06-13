@@ -202,7 +202,6 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `k12.nj.us.`
 * `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
