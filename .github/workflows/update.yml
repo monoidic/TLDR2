@@ -21,7 +21,7 @@ jobs:
     # make apt install not take an eternity
     - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
     - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
-    - run: go install github.com/monoidic/dns-tools@latest
+    - run: go install -C dns-tools
     - run: ./scan.sh prework
     - run: ./scan.sh walkable
     - id: walkable
@@ -46,7 +46,7 @@ jobs:
     # make apt install not take an eternity
     - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
     - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
-    - run: go install github.com/monoidic/dns-tools@latest
+    - run: go install -C dns-tools
     - uses: actions/download-artifact@v4
       with:
         name: db
@@ -77,7 +77,7 @@ jobs:
     # make apt install not take an eternity
     - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
     - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
-    - run: go install github.com/monoidic/dns-tools@latest
+    - run: go install -C dns-tools
     - uses: actions/download-artifact@v4
       with:
           name: db
