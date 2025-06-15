@@ -301,7 +301,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -319,7 +318,6 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
-* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
@@ -369,7 +367,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
