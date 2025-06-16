@@ -66,7 +66,6 @@
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
-* `cantho.vn.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -82,6 +81,7 @@
 * `co.id.`
 * `co.ve.`
 * `com.bt.`
+* `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -287,7 +287,6 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
