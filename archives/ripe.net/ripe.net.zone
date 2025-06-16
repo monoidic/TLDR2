@@ -10860,6 +10860,7 @@ _acme-challenge.dev-backend-01.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 dev-backend-02.stat.ripe.net.	0	IN	A	193.0.5.35
 dev-backend-02.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:15::c100:523
 _acme-challenge.dev-backend-02.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+dev-blocklist.stat.ripe.net.	0	IN	CNAME	dev-backend.stat.ripe.net.
 dev-rpki-hist-db1.stat.ripe.net.	0	IN	A	193.0.5.186
 dev-rpki-hist-db1.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5ba
 _acme-challenge.dev-rpki-hist-db1.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
