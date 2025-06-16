@@ -82,7 +82,6 @@
 * `co.id.`
 * `co.ve.`
 * `com.bt.`
-* `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
