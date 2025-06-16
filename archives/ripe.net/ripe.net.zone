@@ -10294,7 +10294,7 @@ _acme-challenge.repo-2.paas.rpki.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rfc8181.paas.rpki.ripe.net.	0	IN	A	193.0.11.47
 rfc8181.paas.rpki.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b2f
 _acme-challenge.rfc8181.paas.rpki.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrdp.paas.rpki.ripe.net.	0	IN	CNAME	rrdp.paas.rpki.ripe.net.cdn.cloudflare.net.
+rrdp.paas.rpki.ripe.net.	0	IN	CNAME	rrdp.paas.rpki.ripe.net.akamaized.net.
 _acme-challenge.rrdp.paas.rpki.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rsync.paas.rpki.ripe.net.	0	IN	CNAME	rrdp.int.paas.rpki.ripe.net.
 prometheus.rpki.ripe.net.	0	IN	CNAME	prometheus-2.rpki.ripe.net.
@@ -10561,15 +10561,11 @@ rrc22.ripe.net.	0	IN	A	185.86.67.70
 rrc22.ripe.net.	0	IN	AAAA	2a00:ff0:1234:14::6770
 rrc22.ripe.net.	0	IN	LOC	42 22 0.000 N 26 08 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc22.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc23.ripe.net.	0	IN	A	27.111.228.137
-rrc23.ripe.net.	0	IN	AAAA	2001:de8:4::1:2654:1
+rrc23.ripe.net.	0	IN	A	27.111.237.26
+rrc23.ripe.net.	0	IN	AAAA	2403:b100:2001:d::2
 rrc23.ripe.net.	0	IN	LOC	20 22 0.000 N 103 52 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc23.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc23-admin.ripe.net.	0	IN	A	27.111.237.26
-rrc23-admin.ripe.net.	0	IN	AAAA	2403:b100:2001:d::2
 rrc23-oob.ripe.net.	0	IN	A	27.111.237.22
-rrc231.ripe.net.	0	IN	A	27.111.237.26
-rrc231.ripe.net.	0	IN	AAAA	2403:b100:2001:d::2
 rrc24.ripe.net.	0	IN	A	179.0.156.33
 rrc24.ripe.net.	0	IN	AAAA	2001:13c7:7001:500::33
 rrc24.ripe.net.	0	IN	LOC	34 54 0.000 S 56 09 0.000 W 0m 1m 10000m 10m
