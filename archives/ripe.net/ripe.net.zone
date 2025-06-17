@@ -3378,11 +3378,9 @@ dnsmon.dev.atlas.ripe.net.	0	IN	CNAME	ui-01.dev.atlas.ripe.net.
 _acme-challenge.dnsmon.dev.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ipmap.dev.atlas.ripe.net.	0	IN	CNAME	ui-01.dev.atlas.ripe.net.
 _acme-challenge.ipmap.dev.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-reg-01.dev.atlas.ripe.net.	0	IN	A	10.114.0.18
-reg-01.dev.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:12
+reg-01.dev.atlas.ripe.net.	0	IN	CNAME	reg01-dev.atlas.ripe.net.
 _acme-challenge.reg-01.dev.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-reg-02.dev.atlas.ripe.net.	0	IN	A	10.114.0.19
-reg-02.dev.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:13
+reg-02.dev.atlas.ripe.net.	0	IN	CNAME	reg02-dev.atlas.ripe.net.
 _acme-challenge.reg-02.dev.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 stream.dev.atlas.ripe.net.	0	IN	CNAME	stream-01.dev.atlas.ripe.net.
 _acme-challenge.stream.dev.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -3572,11 +3570,9 @@ dnsmon.test.atlas.ripe.net.	0	IN	CNAME	ui-01.test.atlas.ripe.net.
 _acme-challenge.dnsmon.test.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ipmap.test.atlas.ripe.net.	0	IN	CNAME	ui-01.test.atlas.ripe.net.
 _acme-challenge.ipmap.test.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-reg-01.test.atlas.ripe.net.	0	IN	A	10.104.0.18
-reg-01.test.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:104::a68:12
+reg-01.test.atlas.ripe.net.	0	IN	CNAME	reg01-test.atlas.ripe.net.
 _acme-challenge.reg-01.test.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-reg-02.test.atlas.ripe.net.	0	IN	A	10.104.0.19
-reg-02.test.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:104::a68:13
+reg-02.test.atlas.ripe.net.	0	IN	CNAME	reg02-test.atlas.ripe.net.
 _acme-challenge.reg-02.test.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 stream.test.atlas.ripe.net.	0	IN	CNAME	stream-01.test.atlas.ripe.net.
 _acme-challenge.stream.test.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -4644,6 +4640,9 @@ jira.dev.ripe.net.	0	IN	CNAME	jira.it-general-dev.ripe.net.
 _acme-challenge.jira.dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 jira-service-management.dev.ripe.net.	0	IN	CNAME	jira-service-management.it-general-dev.ripe.net.
 _acme-challenge.jira-service-management.dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
+jira-sm.dev.ripe.net.	0	IN	A	10.114.0.15
+jira-sm.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:f
+_acme-challenge.jira-sm.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 karma.dev.ripe.net.	0	IN	CNAME	victoriametrics.dev.ripe.net.
 _acme-challenge.karma.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 katello-1.dev.ripe.net.	0	IN	A	193.0.1.106
@@ -10514,14 +10513,11 @@ rrc14.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc14.ripe.net.	0	IN	LOC	37 26 0.000 N 122 09 0.000 W 0m 1m 10000m 10m
 _acme-challenge.rrc14.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rrc14-oob.ripe.net.	0	IN	A	192.158.252.6
-rrc15.ripe.net.	0	IN	A	187.16.216.23
-rrc15.ripe.net.	0	IN	AAAA	2001:12f8::23
+rrc15.ripe.net.	0	IN	A	200.160.6.205
+rrc15.ripe.net.	0	IN	AAAA	2001:12ff:0:6192::205
 rrc15.ripe.net.	0	IN	LOC	23 35 0.000 S 46 37 0.000 W 0m 1m 10000m 10m
 _acme-challenge.rrc15.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc15-admin.ripe.net.	0	IN	A	200.160.6.205
-rrc15-admin.ripe.net.	0	IN	AAAA	2001:12ff:0:6192::205
 rrc15-oob.ripe.net.	0	IN	A	200.160.6.206
-rrc151.ripe.net.	0	IN	A	200.160.6.205
 rrc16.ripe.net.	0	IN	A	198.32.124.171
 rrc16.ripe.net.	0	IN	AAAA	2001:478:124::171
 rrc16.ripe.net.	0	IN	LOC	25 44 0.000 N 80 11 0.000 W 0m 1m 10000m 10m
@@ -10793,6 +10789,8 @@ betadb002.stat.ripe.net.	0	IN	A	10.102.0.66
 betadb002.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:102::a66:42
 _acme-challenge.betadb002.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 blocklist.stat.ripe.net.	0	IN	CNAME	data006.stat.ripe.net.
+blocklist-01.stat.ripe.net.	0	IN	CNAME	backend-01.stat.ripe.net.
+blocklist-02.stat.ripe.net.	0	IN	CNAME	backend-02.stat.ripe.net.
 cache005.stat.ripe.net.	0	IN	A	193.0.5.147
 cache005.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:593
 _acme-challenge.cache005.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10861,6 +10859,8 @@ dev-backend-02.stat.ripe.net.	0	IN	A	193.0.5.35
 dev-backend-02.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:15::c100:523
 _acme-challenge.dev-backend-02.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 dev-blocklist.stat.ripe.net.	0	IN	CNAME	dev-backend.stat.ripe.net.
+dev-blocklist-01.stat.ripe.net.	0	IN	CNAME	dev-backend-01.stat.ripe.net.
+dev-blocklist-02.stat.ripe.net.	0	IN	CNAME	dev-backend-02.stat.ripe.net.
 dev-rpki-hist-db1.stat.ripe.net.	0	IN	A	193.0.5.186
 dev-rpki-hist-db1.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5ba
 _acme-challenge.dev-rpki-hist-db1.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10868,6 +10868,8 @@ dev-rpki-hist-db2.stat.ripe.net.	0	IN	A	193.0.5.187
 dev-rpki-hist-db2.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5bb
 _acme-challenge.dev-rpki-hist-db2.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 dev-rpki-history.stat.ripe.net.	0	IN	CNAME	dev-backend.stat.ripe.net.
+dev-rpki-history-01.stat.ripe.net.	0	IN	CNAME	dev-backend-01.stat.ripe.net.
+dev-rpki-history-02.stat.ripe.net.	0	IN	CNAME	dev-backend-02.stat.ripe.net.
 dev009.stat.ripe.net.	0	IN	A	193.0.5.229
 dev009.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5e5
 _acme-challenge.dev009.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10912,6 +10914,8 @@ rpki-hist-db2.stat.ripe.net.	0	IN	A	193.0.5.198
 rpki-hist-db2.stat.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:5c6
 _acme-challenge.rpki-hist-db2.stat.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rpki-history.stat.ripe.net.	0	IN	CNAME	backend.stat.ripe.net.
+rpki-history-01.stat.ripe.net.	0	IN	CNAME	backend-01.stat.ripe.net.
+rpki-history-02.stat.ripe.net.	0	IN	CNAME	backend-02.stat.ripe.net.
 speedchecker.stat.ripe.net.	0	IN	CNAME	datab003.stat.ripe.net.
 standby-blocklist.stat.ripe.net.	0	IN	CNAME	datab006.stat.ripe.net.
 standby-db.stat.ripe.net.	0	IN	CNAME	db004.stat.ripe.net.
