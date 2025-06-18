@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
+* `.`
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
@@ -37,7 +38,6 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -66,7 +66,6 @@
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
-* `cantho.vn.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -302,7 +301,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
