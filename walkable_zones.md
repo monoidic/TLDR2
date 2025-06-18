@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
-* `.`
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
