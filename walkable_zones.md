@@ -180,7 +180,6 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `idn.mn.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`

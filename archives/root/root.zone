@@ -8539,7 +8539,6 @@ in.	0	IN	NS	ns01.trs-dns.com.
 in.	0	IN	NS	ns01.trs-dns.net.
 in.	0	IN	NS	ns10.trs-dns.org.
 in.	0	IN	NS	ns10.trs-dns.info.
-in.	0	IN	DS	25291 8 2 2945b61339dfa7221ad82d5c6c7e3ce4e9c2523e7754acc8131d0ef94617e2f2
 in.	0	IN	DS	48140 8 2 5ee4748c2069b99c98bc39a56881a64af17cc78711e6297d43ac5a4f4b5bb6e5
 inc.	0	IN	NS	a.nic.inc.
 inc.	0	IN	NS	b.nic.inc.
@@ -11198,9 +11197,6 @@ mn.	0	IN	NS	ns4.magic.mn.
 mn.	0	IN	DS	22489 8 2 c069cd3e147e1f008fd2394a7112509c96d26094f876e48e56192779e1c47ba6
 ns10.dns.mn.	0	IN	A	202.131.1.4
 ns11.dns.mn.	0	IN	A	202.131.4.12
-ns1.idn.mn.	0	IN	A	218.100.84.27
-ns2.idn.mn.	0	IN	A	202.170.80.40
-ns3.idn.mn.	0	IN	A	180.149.98.78
 ns1.magic.mn.	0	IN	A	202.131.0.10
 ns2.magic.mn.	0	IN	A	202.72.241.5
 ns3.magic.mn.	0	IN	A	202.131.224.80
@@ -17139,10 +17135,8 @@ ns-a4.tm.	0	IN	A	74.116.179.22
 ns-d1.tm.	0	IN	A	64.251.31.180
 ns-d1.tm.	0	IN	AAAA	2607:feb8::5:8
 ns-l1.tm.	0	IN	A	80.249.100.44
-ns-l1.tm.	0	IN	AAAA	2001:470:1f1d:244::44
 ns-l1.tm.	0	IN	AAAA	2a13:f040::4000:0:0:44
 ns-y1.tm.	0	IN	A	91.208.95.22
-ns-y1.tm.	0	IN	AAAA	2001:470:1f07:d0b::22
 ns-y1.tm.	0	IN	AAAA	2604:a00:50:1fd::22
 tmall.	0	IN	NS	a0.nic.tmall.
 tmall.	0	IN	NS	a2.nic.tmall.
@@ -19813,13 +19807,8 @@ xn--kput3i.	0	IN	NS	ns3.teleinfo.cn.
 xn--kput3i.	0	IN	NS	ns4.teleinfoo.com.
 xn--kput3i.	0	IN	DS	27565 8 2 a00d06ba7171102d9575f47af108b70ff9e24ce0d2ed3ad8f8923f14bb58f217
 xn--kput3i.	0	IN	DS	33427 8 2 c125fe3fc3d32cdac7709cd8b89732578a80ce3d5547b4dcce3c50217bd4864d
-xn--l1acc.	0	IN	NS	ns1.idn.mn.
-xn--l1acc.	0	IN	NS	ns2.idn.mn.
-xn--l1acc.	0	IN	NS	ns3.idn.mn.
 xn--l1acc.	0	IN	NS	ns10.dns.mn.
 xn--l1acc.	0	IN	NS	ns11.dns.mn.
-xn--l1acc.	0	IN	DS	45112 5 1 1f4351261342fc31daa8d5e4f1d4fbf6ee0d9857
-xn--l1acc.	0	IN	DS	45112 5 2 1cbba9081b31b12fa98f5b7fee95751bd16676e41a2abc0b25bd0c0031474492
 xn--l1acc.	0	IN	DS	47327 13 2 5080adfc58d869d0b7e45816945e93354233abf3406f23525fd02d9e8701c434
 xn--l1acc.	0	IN	DS	47327 13 4 ad7439b54ab7bdf624aa203ba36971b08472051ced05d0dca1897184a5ce1da092071eccf10b3adb6c2a51ba32a8da4b
 xn--lgbbat1ad8j.	0	IN	NS	idn1.nic.dz.
@@ -20352,7 +20341,6 @@ xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.com.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.net.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns10.trs-dns.org.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns10.trs-dns.info.
-xn--xkc2dl3a5ee0h.	0	IN	DS	42949 8 2 5daf7ae834260d89a675de3088045669d58e6d9dcf2215ee95bd7c4c7a67bcf0
 xn--xkc2dl3a5ee0h.	0	IN	DS	60017 8 2 929060ac99e322e7e07fbb8f719d9f9b5a0596530756aac17e547c3179ff5e43
 xn--y9a3aq.	0	IN	NS	fork.sth.dnsnode.net.
 xn--y9a3aq.	0	IN	NS	ns-cdn.amnic.net.
