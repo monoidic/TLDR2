@@ -66,6 +66,7 @@
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
+* `cantho.vn.`
 * `car.`
 * `cars.`
 * `caxias.br.`
