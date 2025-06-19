@@ -66,7 +66,6 @@
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
-* `cantho.vn.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -368,6 +367,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
