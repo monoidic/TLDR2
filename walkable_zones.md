@@ -66,7 +66,6 @@
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
-* `cantho.vn.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -301,7 +300,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
