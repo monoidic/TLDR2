@@ -959,9 +959,10 @@ gp.net.do.	0	IN	NS	dns2.midominio.do.
 gp.net.do.	0	IN	NS	dns3.midominio.do.
 gp.net.do.	0	IN	NS	dns4.midominio.do.
 greenlink.net.do.	0	IN	NS	dns1.midominio.do.
-greenlink.net.do.	0	IN	NS	dns2.midominio.do.
-greenlink.net.do.	0	IN	NS	dns3.midominio.do.
-greenlink.net.do.	0	IN	NS	dns4.midominio.do.
+greenlink.net.do.	0	IN	NS	dns01.greenlink.net.do.
+greenlink.net.do.	0	IN	NS	dns02.greenlink.net.do.
+dns01.greenlink.net.do.	0	IN	A	45.175.68.9
+dns02.greenlink.net.do.	0	IN	A	45.175.68.9
 grupobanamiel.net.do.	0	IN	NS	dns1.midominio.do.
 grupobanamiel.net.do.	0	IN	NS	dns2.midominio.do.
 grupobanamiel.net.do.	0	IN	NS	dns3.midominio.do.
