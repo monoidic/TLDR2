@@ -99,7 +99,6 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
