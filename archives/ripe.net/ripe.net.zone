@@ -10518,13 +10518,10 @@ rrc12.ripe.net.	0	IN	AAAA	2a02:c50:fffe:2:0:316e:0:1
 rrc12.ripe.net.	0	IN	LOC	50 06 0.000 N 08 40 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc12.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rrc12-oob.ripe.net.	0	IN	A	46.31.122.79
-rrc13.ripe.net.	0	IN	A	193.232.244.114
-rrc13.ripe.net.	0	IN	AAAA	2001:7f8:20:101::244:114
+rrc13.ripe.net.	0	IN	A	193.232.226.74
 rrc13.ripe.net.	0	IN	LOC	55 42 0.000 N 37 39 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc13.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc13-admin.ripe.net.	0	IN	A	193.232.226.74
 rrc13-oob.ripe.net.	0	IN	A	193.232.64.30
-rrc131.ripe.net.	0	IN	A	193.232.226.74
 rrc14.ripe.net.	0	IN	A	192.158.252.7
 rrc14.ripe.net.	0	IN	AAAA	2001:4f8:ffff::7
 rrc14.ripe.net.	0	IN	LOC	37 26 0.000 N 122 09 0.000 W 0m 1m 10000m 10m
@@ -11193,6 +11190,8 @@ test-whois.ripe.net.	0	IN	CNAME	whois-test.db.ripe.net.
 ns1.nl-ams.testdns.ripe.net.	0	IN	A	193.0.19.191
 ns1.nl-ams.testdns.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13bf
 _acme-challenge.ns1.nl-ams.testdns.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+vangogh.testdns.ripe.net.	0	IN	A	193.0.19.199
+vangogh.testdns.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13c7
 ticket.ripe.net.	0	IN	CNAME	jira.it-general-prod.ripe.net.
 _acme-challenge.ticket.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 ticketia.ripe.net.	0	IN	CNAME	ba-apps.ripe.net.
