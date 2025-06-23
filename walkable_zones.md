@@ -300,7 +300,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -348,7 +347,6 @@
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
-* `ruhr-uni-bochum.de.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
