@@ -509,7 +509,11 @@ ptca.edu.ps.	0	IN	NS	dns3.gov.ps.
 ptca.edu.ps.	0	IN	NS	dns4.pna.ps.
 ptca.edu.ps.	0	IN	NS	dns5.gov.ps.
 ptcdb.edu.ps.	0	IN	NS	ns1.ptcdb.edu.ps.
-ns1.ptcdb.edu.ps.	0	IN	A	173.249.48.199
+ptcdb.edu.ps.	0	IN	NS	ns2.ptcdb.edu.ps.
+ptcdb.edu.ps.	0	IN	NS	ns3.ptcdb.edu.ps.
+ns1.ptcdb.edu.ps.	0	IN	A	198.7.127.247
+ns2.ptcdb.edu.ps.	0	IN	A	173.249.48.199
+ns3.ptcdb.edu.ps.	0	IN	A	213.199.60.102
 ptcr.edu.ps.	0	IN	NS	ns1.bluehost.com.
 ptcr.edu.ps.	0	IN	NS	ns2.bluehost.com.
 ptuk.edu.ps.	0	IN	NS	elias.ns.cloudflare.com.
