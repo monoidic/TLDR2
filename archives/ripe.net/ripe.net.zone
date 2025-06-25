@@ -2800,8 +2800,8 @@ dns.us-dal-as2914.anchors.atlas.ripe.net.	0	IN	NS	us-dal-as2914.anchors.atlas.ri
 us-dal-as33438.anchors.atlas.ripe.net.	0	IN	A	151.139.52.113
 us-dal-as33438.anchors.atlas.ripe.net.	0	IN	AAAA	2604:6840:1200:200::29
 dns.us-dal-as33438.anchors.atlas.ripe.net.	0	IN	NS	us-dal-as33438.anchors.atlas.ripe.net.
-us-dal-as396993.anchors.atlas.ripe.net.	0	IN	A	195.178.121.195
-us-dal-as396993.anchors.atlas.ripe.net.	0	IN	AAAA	2602:f743:119::195
+us-dal-as396993.anchors.atlas.ripe.net.	0	IN	A	195.178.121.138
+us-dal-as396993.anchors.atlas.ripe.net.	0	IN	AAAA	2602:f743:119::138
 dns.us-dal-as396993.anchors.atlas.ripe.net.	0	IN	NS	us-dal-as396993.anchors.atlas.ripe.net.
 us-dal-as60841.anchors.atlas.ripe.net.	0	IN	A	104.167.215.167
 dns.us-dal-as60841.anchors.atlas.ripe.net.	0	IN	NS	us-dal-as60841.anchors.atlas.ripe.net.
@@ -4590,6 +4590,9 @@ _acme-challenge.alfresco-04.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 alfresco-1.dev.ripe.net.	0	IN	A	10.114.0.45
 alfresco-1.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:2d
 _acme-challenge.alfresco-1.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+alfresco-1-migration-copy.dev.ripe.net.	0	IN	A	10.114.0.39
+alfresco-1-migration-copy.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:27
+_acme-challenge.alfresco-1-migration-copy.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 alfresco-tooling.dev.ripe.net.	0	IN	A	10.114.0.41
 alfresco-tooling.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:29
 _acme-challenge.alfresco-tooling.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -4742,6 +4745,8 @@ _acme-challenge.test-oel8.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 texon.dev.ripe.net.	0	IN	A	10.114.0.44
 texon.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:2c
 _acme-challenge.texon.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+ticket.dev.ripe.net.	0	IN	CNAME	jira-1.dev.ripe.net.
+_acme-challenge.ticket.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ticketia.dev.ripe.net.	0	IN	CNAME	ba-apps.dev.ripe.net.
 vb.dev.ripe.net.	0	IN	A	10.114.1.67
 vb.dev.ripe.net.	0	IN	A	10.114.1.68
@@ -7212,8 +7217,6 @@ jira-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:130f
 _acme-challenge.jira-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 jira-sm-ingress.ripe.net.	0	IN	A	193.0.2.1
 _acme-challenge.jira-sm-ingress.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
-jsm.ripe.net.	0	IN	CNAME	jira-1.ripe.net.
-_acme-challenge.jsm.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 jss.ripe.net.	0	IN	CNAME	capybara.ripe.net.
 _acme-challenge.jumphost-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 k.ripe.net.	0	IN	NS	ns3.lacnic.net.
@@ -9685,7 +9688,6 @@ ipmap-api05.prepdev.ripe.net.	0	IN	A	193.0.13.30
 ipmap-api05.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d1e
 _acme-challenge.ipmap-api05.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 jaeger.prepdev.ripe.net.	0	IN	CNAME	opentelemetry.prepdev.ripe.net.
-jira.prepdev.ripe.net.	0	IN	CNAME	lynx.prepdev.ripe.net.
 _acme-challenge.jira.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 keycloak-1.prepdev.ripe.net.	0	IN	A	193.0.6.59
 keycloak-1.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:34::c100:63b
@@ -9703,9 +9705,6 @@ limalima.prepdev.ripe.net.	0	IN	A	193.0.13.26
 limalima.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d1a
 _acme-challenge.limalima.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 lirportal.prepdev.ripe.net.	0	IN	CNAME	ba-apps.prepdev.ripe.net.
-lynx.prepdev.ripe.net.	0	IN	A	193.0.13.43
-lynx.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d2b
-_acme-challenge.lynx.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 mailhost.prepdev.ripe.net.	0	IN	CNAME	dodo.prepdev.ripe.net.
 marvin.prepdev.ripe.net.	0	IN	CNAME	interweb-2.prepdev.ripe.net.
 _acme-challenge.marvin.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
