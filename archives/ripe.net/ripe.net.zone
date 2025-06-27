@@ -235,6 +235,9 @@ dns.ar-bhi-as28109.anchors.atlas.ripe.net.	0	IN	NS	ar-bhi-as28109.anchors.atlas.
 ar-bue-as4270.anchors.atlas.ripe.net.	0	IN	A	170.210.5.200
 ar-bue-as4270.anchors.atlas.ripe.net.	0	IN	AAAA	2800:110:5::200
 dns.ar-bue-as4270.anchors.atlas.ripe.net.	0	IN	NS	ar-bue-as4270.anchors.atlas.ripe.net.
+ar-bue-as52376.anchors.atlas.ripe.net.	0	IN	A	200.9.157.207
+ar-bue-as52376.anchors.atlas.ripe.net.	0	IN	AAAA	2001:13c7:600a:208::207
+dns.ar-bue-as52376.anchors.atlas.ripe.net.	0	IN	NS	ar-bue-as52376.anchors.atlas.ripe.net.
 ar-cor-as27976.anchors.atlas.ripe.net.	0	IN	A	200.63.125.244
 ar-cor-as27976.anchors.atlas.ripe.net.	0	IN	AAAA	2803:700:0:ff0e::244
 dns.ar-cor-as27976.anchors.atlas.ripe.net.	0	IN	NS	ar-cor-as27976.anchors.atlas.ripe.net.
@@ -537,6 +540,9 @@ dns.ca-van-as394256.anchors.atlas.ripe.net.	0	IN	NS	ca-van-as394256.anchors.atla
 ca-van-as395152.anchors.atlas.ripe.net.	0	IN	A	192.102.254.220
 ca-van-as395152.anchors.atlas.ripe.net.	0	IN	AAAA	2607:3380:1000:2::220
 dns.ca-van-as395152.anchors.atlas.ripe.net.	0	IN	NS	ca-van-as395152.anchors.atlas.ripe.net.
+ca-van-as396993.anchors.atlas.ripe.net.	0	IN	A	198.135.169.29
+ca-van-as396993.anchors.atlas.ripe.net.	0	IN	AAAA	2602:f743:219::29
+dns.ca-van-as396993.anchors.atlas.ripe.net.	0	IN	NS	ca-van-as396993.anchors.atlas.ripe.net.
 ca-van-as397131.anchors.atlas.ripe.net.	0	IN	A	23.170.33.3
 ca-van-as397131.anchors.atlas.ripe.net.	0	IN	AAAA	2602:fe6a::3
 dns.ca-van-as397131.anchors.atlas.ripe.net.	0	IN	NS	ca-van-as397131.anchors.atlas.ripe.net.
@@ -10458,9 +10464,7 @@ rrc00.ripe.net.	0	IN	A	193.0.4.28
 rrc00.ripe.net.	0	IN	AAAA	2001:67c:2e8:2:ffff:0:4:28
 rrc00.ripe.net.	0	IN	LOC	52 22 0.000 N 04 53 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc00.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc00-admin.ripe.net.	0	IN	CNAME	rrc00.ripe.net.
 rrc00-oob.ripe.net.	0	IN	A	10.111.0.111
-rrc001.ripe.net.	0	IN	CNAME	rrc00.ripe.net.
 rrc01.ripe.net.	0	IN	AAAA	2a01:40:1003:a:3::1
 rrc01.ripe.net.	0	IN	LOC	51 29 0.000 N 00 07 0.000 W 0m 1m 10000m 10m
 _acme-challenge.rrc01.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10554,7 +10558,6 @@ rrc06.ripe.net.	0	IN	A	203.178.139.53
 rrc06.ripe.net.	0	IN	LOC	35 40 0.000 N 139 46 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc06.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 rrc06-oob.ripe.net.	0	IN	A	203.178.137.2
-rrc07.ripe.net.	0	IN	A	77.72.225.167
 rrc07.ripe.net.	0	IN	AAAA	2a01:3f0:0:51::4d48:e1a7
 rrc07.ripe.net.	0	IN	LOC	59 19 0.000 N 18 05 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc07.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10640,7 +10643,6 @@ rrc25.ripe.net.	0	IN	A	193.0.4.29
 rrc25.ripe.net.	0	IN	AAAA	2001:67c:2e8:2:ffff:0:4:29
 rrc25.ripe.net.	0	IN	LOC	52 22 0.000 N 04 53 0.000 E 0m 1m 10000m 10m
 _acme-challenge.rrc25.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-rrc25-admin.ripe.net.	0	IN	CNAME	rrc25.ripe.net.
 rrc26.ripe.net.	0	IN	A	94.207.43.6
 rrc26.ripe.net.	0	IN	AAAA	2a00:f2f:1105::ffff:5ecf:2b06
 rrc26.ripe.net.	0	IN	LOC	25 12 0.000 N 55 16 0.000 E 0m 1m 10000m 10m
