@@ -1681,12 +1681,13 @@ magnet.iki.fi.	0	IN	A	192.168.0.1
 magnet.iki.fi.	0	IN	MX	10 magnet.iki.fi.
 magnet.iki.fi.	0	IN	RP	magnet.iki.fi. .
 mahis.iki.fi.	0	IN	A	91.232.156.81
-mahis.iki.fi.	0	IN	A	91.232.156.82
 mahis.iki.fi.	0	IN	MX	10 mahis.iki.fi.
 mahis.iki.fi.	0	IN	MX	100 mail.kapsi.fi.
 mahis.iki.fi.	0	IN	MX	110 mx2.kapsi.fi.
 mahis.iki.fi.	0	IN	RP	mahis.iki.fi. .
-wwww.mahis.iki.fi.	0	IN	CNAME	mahis.iki.fi.
+mail.mahis.iki.fi.	0	IN	CNAME	mahis.iki.fi.
+ns.mahis.iki.fi.	0	IN	CNAME	mahis.iki.fi.
+www.mahis.iki.fi.	0	IN	CNAME	mahis.iki.fi.
 maikku.iki.fi.	0	IN	A	212.226.138.147
 maikku.iki.fi.	0	IN	MX	10 maikku.iki.fi.
 maikku.iki.fi.	0	IN	MX	100 mail.kpnqwest.fi.
