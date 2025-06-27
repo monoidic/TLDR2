@@ -300,6 +300,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -329,7 +330,6 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
-* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
