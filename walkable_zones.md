@@ -222,6 +222,7 @@
 * `log.br.`
 * `lol.`
 * `londrina.br.`
+* `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
@@ -285,6 +286,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
