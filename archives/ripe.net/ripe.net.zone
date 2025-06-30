@@ -4373,7 +4373,10 @@ colorant-5c.ripe.net.	0	IN	CNAME	colorant-2.ripe.net.
 conduit1.ripe.net.	0	IN	A	193.0.1.221
 conduit1.ripe.net.	0	IN	AAAA	2001:67c:2e8:1::c100:1dd
 confluence.ripe.net.	0	IN	CNAME	confluence.it-general-prod.ripe.net.
-_acme-challenge.confluence.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
+_acme-challenge.confluence.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+confluence-1.ripe.net.	0	IN	A	193.0.19.20
+confluence-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1314
+_acme-challenge.confluence-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 container-tests-1.ripe.net.	0	IN	A	10.102.0.46
 container-tests-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:102::a66:2e
 _acme-challenge.container-tests-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -4672,6 +4675,11 @@ _acme-challenge.chameleon.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 cnagy.dev.ripe.net.	0	IN	A	10.114.1.59
 cnagy.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:13b
 _acme-challenge.cnagy.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+confluence.dev.ripe.net.	0	IN	CNAME	confluence-1.dev.ripe.net.
+_acme-challenge.confluence.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+confluence-1.dev.ripe.net.	0	IN	A	10.114.0.13
+confluence-1.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:d
+_acme-challenge.confluence-1.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 confluence-poc-1.dev.ripe.net.	0	IN	A	10.114.0.35
 confluence-poc-1.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:23
 _acme-challenge.confluence-poc-1.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -7157,7 +7165,6 @@ api.it-general-dev.ripe.net.	0	IN	A	10.212.0.10
 confluence.it-general-dev.ripe.net.	0	IN	CNAME	nginx-internal.it-general-dev.ripe.net.
 _acme-challenge.confluence.it-general-dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 falco.it-general-dev.ripe.net.	0	IN	CNAME	nginx-internal.it-general-dev.ripe.net.
-_acme-challenge.falco.it-general-dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 grafana.it-general-dev.ripe.net.	0	IN	CNAME	nginx-internal.it-general-dev.ripe.net.
 _acme-challenge.grafana.it-general-dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 jira.it-general-dev.ripe.net.	0	IN	CNAME	nginx-internal.it-general-dev.ripe.net.
@@ -7281,7 +7288,6 @@ _acme-challenge.keycloak-psql-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 keys.ripe.net.	0	IN	CNAME	pool.sks-keyservers.net.
 krk.ripe.net.	0	IN	CNAME	rrc00.ripe.net.
 kuard.ripe.net.	0	IN	CNAME	nginx-internal.it-general-dev.ripe.net.
-_acme-challenge.kuard.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 lab1-workbench.ripe.net.	0	IN	CNAME	netlabproxy.ripe.net.
 _acme-challenge.lab1-workbench.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 lab2-workbench.ripe.net.	0	IN	CNAME	netlabproxy.ripe.net.
