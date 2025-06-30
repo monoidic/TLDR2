@@ -9588,6 +9588,9 @@ control-plane-2.openshift-test.ripe.net.	0	IN	A	10.102.2.12
 etcd-0.openshift-test.ripe.net.	0	IN	A	10.102.2.11
 etcd-1.openshift-test.ripe.net.	0	IN	A	10.102.2.12
 etcd-2.openshift-test.ripe.net.	0	IN	A	10.102.2.13
+opentelemetry.ripe.net.	0	IN	A	193.0.13.139
+opentelemetry.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d8b
+_acme-challenge.opentelemetry.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ops-action-1.ripe.net.	0	IN	A	193.0.19.6
 ops-action-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1306
 _acme-challenge.ops-action-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
