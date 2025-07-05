@@ -78,6 +78,7 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
+* `co.id.`
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
