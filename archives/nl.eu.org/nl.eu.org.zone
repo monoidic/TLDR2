@@ -47,7 +47,10 @@ nl.eu.org.	0	IN	NSEC3PARAM	1 0 1 -
 90804283048230943239243.nl.eu.org.	0	IN	A	217.101.10.178
 911.nl.eu.org.	0	IN	A	83.98.221.192
 _acme-challenge.nl.eu.org.	0	IN	NS	sun.at-the-beach.nl.
-_443._tcp.nl.eu.org.	0	IN	TLSA	3 1 1 da5b05972bab7cc71ade472582e8fee5e401119388671abdf71beccb19c9bf17
+_tcp.nl.eu.org.	0	IN	NS	bar.at-the-beach.nl.
+_tcp.nl.eu.org.	0	IN	NS	sun.at-the-beach.nl.
+_tcp.nl.eu.org.	0	IN	DS	49105 15 2 937aee19e44e1bb0501c6bcd64636ea4c8eddcee6b5a8a6326d55d4061dc3100
+_443._tcp.nl.eu.org.	0	IN	TLSA	3 1 1 69c984dabcaab776556d18dd3515f4dd3e4a72808cfebbd57a8fd1c6b4fdecfb
 aalander.nl.eu.org.	0	IN	CNAME	www.aalander.nl.
 www.aalander.nl.eu.org.	0	IN	CNAME	www.aalander.nl.
 ab.nl.eu.org.	0	IN	A	209.209.11.98
@@ -292,7 +295,6 @@ chtest.nl.eu.org.	0	IN	A	84.27.98.111
 cirno.nl.eu.org.	0	IN	NS	jamie.ns.cloudflare.com.
 cirno.nl.eu.org.	0	IN	NS	oswald.ns.cloudflare.com.
 ciska.nl.eu.org.	0	IN	A	84.28.124.79
-claartje.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 claddo.nl.eu.org.	0	IN	NS	boyd.ns.cloudflare.com.
 claddo.nl.eu.org.	0	IN	NS	raina.ns.cloudflare.com.
 cleiren.nl.eu.org.	0	IN	NS	ns-cloud-a1.googledomains.com.
@@ -326,8 +328,7 @@ conduit.nl.eu.org.	0	IN	NS	ns3.afraid.org.
 content.nl.eu.org.	0	IN	A	77.175.154.200
 cook.nl.eu.org.	0	IN	NS	ns1.infinityfree.com.
 cook.nl.eu.org.	0	IN	NS	ns2.infinityfree.com.
-correspondentie.nl.eu.org.	0	IN	NS	apollo.ns.cloudflare.com.
-correspondentie.nl.eu.org.	0	IN	NS	stella.ns.cloudflare.com.
+correspondentie.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 coudtsgod.nl.eu.org.	0	IN	NS	lars.ns.cloudflare.com.
 coudtsgod.nl.eu.org.	0	IN	NS	noor.ns.cloudflare.com.
 croatia.nl.eu.org.	0	IN	NS	ns1.visser-info.nl.
@@ -349,7 +350,6 @@ daisalot.nl.eu.org.	0	IN	NS	vps1018.directvps.nl.
 daisalot.nl.eu.org.	0	IN	NS	vps1853.directvps.nl.
 dalsa25.nl.eu.org.	0	IN	A	143.179.96.178
 www.dalsa25.nl.eu.org.	0	IN	A	143.179.96.178
-daniel.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 dar.nl.eu.org.	0	IN	CNAME	relay.dar.tf.
 datsilv.nl.eu.org.	0	IN	NS	conrad.ns.cloudflare.com.
 datsilv.nl.eu.org.	0	IN	NS	kehlani.ns.cloudflare.com.
@@ -518,10 +518,8 @@ excellent-hr.nl.eu.org.	0	IN	A	83.87.135.83
 www.excellent-hr.nl.eu.org.	0	IN	CNAME	excellent-hr.nl.eu.org.
 excellent21.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 www.excellent21.nl.eu.org.	0	IN	CNAME	excellent21.nl.eu.org.
-excellentadvies.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 vpn.excellentadvies.nl.eu.org.	0	IN	CNAME	excellentadvies.nl.eu.org.
 www.excellentadvies.nl.eu.org.	0	IN	CNAME	excellentadvies.nl.eu.org.
-excellentnalatenschapsadvies.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 www.excellentnalatenschapsadvies.nl.eu.org.	0	IN	CNAME	excellentnalatenschapsadvies.nl.eu.org.
 expired.nl.eu.org.	0	IN	A	81.172.129.161
 expired.nl.eu.org.	0	IN	AAAA	2001:470:7a85:2f25::249
@@ -1169,7 +1167,6 @@ mjj.nl.eu.org.	0	IN	NS	alina.ns.cloudflare.com.
 mjj.nl.eu.org.	0	IN	NS	sergi.ns.cloudflare.com.
 mokesnod.nl.eu.org.	0	IN	NS	lars.ns.cloudflare.com.
 mokesnod.nl.eu.org.	0	IN	NS	noor.ns.cloudflare.com.
-mongodb.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 moonwell.nl.eu.org.	0	IN	NS	ns1.dreamhost.com.
 moonwell.nl.eu.org.	0	IN	NS	ns2.dreamhost.com.
 moonwell.nl.eu.org.	0	IN	NS	ns3.dreamhost.com.
@@ -1227,7 +1224,6 @@ naw.nl.eu.org.	0	IN	NS	juhz.erje.net.
 naw.nl.eu.org.	0	IN	NS	ibtri.erje.net.
 naw.nl.eu.org.	0	IN	NS	kanti.erje.net.
 naw.nl.eu.org.	0	IN	NS	vesto.erje.net.
-ncs.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 ha.ncs.nl.eu.org.	0	IN	CNAME	ncs.nl.eu.org.
 nodered.ncs.nl.eu.org.	0	IN	CNAME	ncs.nl.eu.org.
 unifi.ncs.nl.eu.org.	0	IN	CNAME	ncs.nl.eu.org.
@@ -1253,7 +1249,6 @@ neya.nl.eu.org.	0	IN	NS	destiny.ns.cloudflare.com.
 nfsen.nl.eu.org.	0	IN	A	77.175.154.200
 nfsight.nl.eu.org.	0	IN	A	77.175.154.200
 ngkm.nl.eu.org.	0	IN	A	87.195.255.130
-nienhuis.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 nightdweller.nl.eu.org.	0	IN	NS	vps1018.directvps.nl.
 nightdweller.nl.eu.org.	0	IN	NS	vps1853.directvps.nl.
 nixsrv.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
@@ -1287,7 +1282,6 @@ nuzorg.nl.eu.org.	0	IN	A	85.144.224.144
 oai.nl.eu.org.	0	IN	NS	boyd.ns.cloudflare.com.
 oai.nl.eu.org.	0	IN	NS	kara.ns.cloudflare.com.
 odin.nl.eu.org.	0	IN	CNAME	duijckaerts.nl.
-omansa.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 www.omansa.nl.eu.org.	0	IN	CNAME	omansa.nl.eu.org.
 omen6.nl.eu.org.	0	IN	NS	ns1.runhosting.com.
 omen6.nl.eu.org.	0	IN	NS	ns2.runhosting.com.
@@ -1441,7 +1435,6 @@ rb1.nl.eu.org.	0	IN	A	86.84.220.107
 rb2.nl.eu.org.	0	IN	A	86.84.220.107
 rbcert.nl.eu.org.	0	IN	A	86.84.220.107
 rbekooy.nl.eu.org.	0	IN	A	86.84.220.107
-rebecca.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 recreatiemaffia.nl.eu.org.	0	IN	NS	ns1.infinityfree.com.
 recreatiemaffia.nl.eu.org.	0	IN	NS	ns2.infinityfree.com.
 remmie.nl.eu.org.	0	IN	A	85.145.192.135
@@ -2011,7 +2004,7 @@ ybr.nl.eu.org.	0	IN	NS	lynn.ns.cloudflare.com.
 ybr.nl.eu.org.	0	IN	NS	destiny.ns.cloudflare.com.
 yixboost.nl.eu.org.	0	IN	A	185.199.111.153
 docs.yixboost.nl.eu.org.	0	IN	A	82.168.19.207
-hotspot.yixboost.nl.eu.org.	0	IN	A	82.168.19.207
+hotspot.yixboost.nl.eu.org.	0	IN	CNAME	expired.nl.eu.org.
 play.yixboost.nl.eu.org.	0	IN	CNAME	naslambers.synology.me.
 yixgames.nl.eu.org.	0	IN	A	82.168.19.207
 yixubg.nl.eu.org.	0	IN	A	82.168.19.207
