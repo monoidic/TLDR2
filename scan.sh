@@ -1,20 +1,16 @@
 #!/usr/bin/env bash
 
-bin="~/go/bin/dns-tools"
 db="tldr.sqlite3"
 GITHUB_MAX_SIZE=99614720
 scan() {
-	eval "$bin" -db "$db" $*
-}
-
-multi_scan() {
-	for flag in $*; do
-		scan $flag
-	done
+	~/go/bin/dns-tools -db "$db" $*
 }
 
 get_ns_ips() {
-	multi_scan -{net,rr}_ns -{net,rr}_ip -zone_ns_ip
+	for i in {1..3}; do
+		scan -{net,rr}_{ns,ip}
+	done
+	scan -zone_ns_ip
 }
 
 prework() {
@@ -43,9 +39,7 @@ prework() {
 	done
 
 	# idk
-	for i in {1..3}; do
-		get_ns_ips
-	done
+	get_ns_ips
 }
 
 axfr() {
@@ -118,6 +112,11 @@ md_walkable() {
 	get_walkable | while read zone; do
 		printf '* `%s`\n' "$zone" >> walkable_zones.md
 	done
+}
+
+txt_nsec3_walkable() {
+    sqlite3 $db "SELECT zone.name FROM zone_nsec_state INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id WHERE nsec_state.name='nsec3' AND zone_nsec_state.opt_out=TRUE  ORDER BY zone.name" > nsec3_optout.txt
+    sqlite3 $db "SELECT zone.name FROM zone_nsec_state INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id WHERE nsec_state.name='nsec3' AND zone_nsec_state.opt_out=FALSE ORDER BY zone.name" > nsec3_no_optout.txt
 }
 
 $*

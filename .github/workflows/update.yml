@@ -103,10 +103,14 @@ jobs:
     - uses: actions/download-artifact@v4
       with:
         path: artifacts
+    - uses: actions/download-artifact@v4
+      with:
+          name: db
     - run: git pull
     - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
     - run: find walk_lists -type f -empty -exec git restore '{}' ';'
-    - run: git add walk_lists
+    - run: ./scan.sh txt_nsec3_walkable
+    - run: git add walk_lists nsec3_no_optout.txt nsec3_optout.txt
     - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
     - run: git commit -m 'Updating walks' || true
     - run: git push
