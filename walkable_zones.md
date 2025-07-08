@@ -286,7 +286,6 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -317,7 +316,6 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
-* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
@@ -367,6 +365,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`

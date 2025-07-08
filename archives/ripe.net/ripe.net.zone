@@ -55,7 +55,7 @@ atlas.acc.ripe.net.	0	IN	NS	ns-1750.awsdns-26.co.uk.
 atlas.acc.ripe.net.	0	IN	DS	8965 13 2 c3faf44ed50f240f565f9a6ba89afde9b6eb990f3aa7c469d1f4bec4b803830f
 idp.acc.ripe.net.	0	IN	CNAME	idp.acc.ripe.net.edgekey.net.
 _901fe73efabe7e1ee103a935fa1b13a2.idp.acc.ripe.net.	0	IN	CNAME	_6586e5f40df0ae0f934a4fb7c6e43754.mhbtsbpdnt.acm-validations.aws.
-access.ripe.net.	0	IN	CNAME	access.ripe.net.cdn.cloudflare.net.
+access.ripe.net.	0	IN	CNAME	access.ripe.net.edgekey.net.
 _acme-challenge.access.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 _443._tcp.access.ripe.net.	0	IN	CNAME	gt-all-tlsa.ripe.net.
 acme-certs.ripe.net.	0	IN	NS	acme-certs-1.ripe.net.
@@ -3912,8 +3912,6 @@ gp.cctld.authdns.ripe.net.	0	IN	A	193.0.9.76
 gp.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::76
 gu.cctld.authdns.ripe.net.	0	IN	A	193.0.9.78
 gu.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::78
-iq.cctld.authdns.ripe.net.	0	IN	A	193.0.9.81
-iq.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::81
 jm.cctld.authdns.ripe.net.	0	IN	A	193.0.9.82
 jm.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::82
 jo.cctld.authdns.ripe.net.	0	IN	A	193.0.9.83
