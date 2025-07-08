@@ -63,7 +63,8 @@ net.eu.org.	0	IN	NSEC3PARAM	1 0 10 fadaf001
 40.net.eu.org.	0	IN	NS	ns4.he.net.
 40.net.eu.org.	0	IN	NS	ns5.he.net.
 42.net.eu.org.	0	IN	NS	ns2.afraid.org.
-42.net.eu.org.	0	IN	NS	ip42.us.to.
+42.net.eu.org.	0	IN	NS	ns4.42.net.eu.org.
+ns4.42.net.eu.org.	0	IN	A	51.158.29.255
 53696e67756c6172697479.net.eu.org.	0	IN	A	0.0.0.0
 53696e67756c6172697479.net.eu.org.	0	IN	NS	53696e67756c6172697479.net.eu.org.
 540858504.net.eu.org.	0	IN	NS	shandy.dnspod.net.
