@@ -29,6 +29,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -104,8 +105,8 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
@@ -142,7 +143,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -156,7 +156,6 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gov.ao.`
@@ -252,7 +251,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -269,7 +267,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.flowers.`
+* `nic.dm.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -280,7 +278,6 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -345,6 +342,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -361,7 +359,6 @@
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -369,9 +366,11 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
+* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
