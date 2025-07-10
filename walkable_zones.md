@@ -47,7 +47,6 @@
 * `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -159,7 +158,6 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
-* `gob.ve.`
 * `goiania.br.`
 * `gov.ao.`
 * `gov.br.`
@@ -194,7 +192,6 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -244,7 +241,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -274,7 +270,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -303,11 +298,9 @@
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
-* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -374,7 +367,6 @@
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
-* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
@@ -383,7 +375,6 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `torproject.net.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
