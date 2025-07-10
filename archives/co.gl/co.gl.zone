@@ -3,10 +3,11 @@ co.gl.	0	IN	NS	b.nic.gl.
 co.gl.	0	IN	NS	d.nic.gl.
 co.gl.	0	IN	NS	ns1.anycastdns.cz.
 co.gl.	0	IN	NS	ns2.anycastdns.cz.
-co.gl.	0	IN	DNSKEY	256 3 8 AwEAAcdPD9J4m4cfFD0VoYpjTgVZ60dNg11jU2QToykDDpk1sOTKCJu8N8Z2GJ6OHR5+198+JiOUvAk2kDhtWiTa99JY3s8rTKie9LNRBngwKcfOJTdk6UxzrltTdf0poF6J++WSFIIzaih8mkiFn2MJ8UTSX2CCdyF266WIyZvKmuN00BWyyrCZnkV1XGUmShPHNeh58Aex72Y6mKZIJzSThIdb41nxgzrftgBbHkmD4w7vbM4qtF+DEadUVMsUcDvthwq6b+xCmG1mllFwaYfQGHV1rqSjU/1WCQIz5/q84rJmnTWc6YnpbTmGs132RlOhI9v14FJ0MJaIJz1OsHXSrGs= ;{id = 31261 (zsk), size = 2048b}
-co.gl.	0	IN	DNSKEY	256 3 8 AwEAAd8kc+RjJkqnz/2KLAaPxdYtfoPRtYsrLkVtAD+7IxEtzLW1Y7RjLbESSpY4HyF1sR6CZ7tHTwx5+h30HK/z024vJvVC5MBS9EQphaTcarbIdUG111GV2rIHYZQqzAqwloH5hUFmZ3ez4I1L9wTU68civwuHgiXo2Gdwp8OyaWLJqK516KXx7shMhFJ/w3AqBa25/c7/urL5kmMR9SiVS3aWyDzFVBEl20Hp4M/TY8hBSTfgkFzkHoyVRiyc8n2W6/J2wjBGfeAeee8s3D3zDInhZmLowFRe0UshKbW2sKb2NwSeLYeta4tybU9ULWpQW4fM5uB8ULj2mSyJHwBZ/pU= ;{id = 10971 (zsk), size = 2048b}
-co.gl.	0	IN	DNSKEY	257 3 8 AwEAAalId5ZxZ4sS852W53/V9diuZK8pFi9Eo8ziUmqKnB1mTr6kr4xfPMQKYxkVlQBGTcmiEtvrODSxBd7JnOuH6+yvHXbiUmosNRxPzKe8UBff+Y2AqDLfWQvw2X2muvQTkAPZYr799KeYiW5+YLM4PPWfkhaWAIQ6RmnKzMh1sPO7MGb7US228h91IITrfqTrgBUfIOcVhd41meg38Rq6z6Zid9z49WHaZH7M3kZtWEFCAcKtLKJdCrocyys9pzNyV5PljEq6c0BXZnw1Dt7r1LSOwtRlD7IiSy35PRav3Tcm2V0A49q7hsZiEiCbgFq24saW8qwAFe2StbApR8X59H0= ;{id = 12956 (ksk), size = 2048b}
-co.gl.	0	IN	NSEC3PARAM	1 0 0 772d5dc5 
+co.gl.	0	IN	DNSKEY	256 3 15 1xzbHCW7ZjRiJ4alTvBZ9xxwutSgiUiSn4Xx7QAIkpk= ;{id = 47202 (zsk), size = 256b}
+co.gl.	0	IN	DNSKEY	257 3 15 JjeVV1438C+4fYvR0Pnl0Ph6pgWl3rZx6QESo1ZtMaA= ;{id = 34723 (ksk), size = 256b}
+co.gl.	0	IN	NSEC3PARAM	1 0 0 - 
+co.gl.	0	IN	CDS	34723 15 2 a83035507559173f4facfb842ba722e77b7b7b50a6fd680c967966923c3179a0
+co.gl.	0	IN	CDNSKEY	257 3 15 JjeVV1438C+4fYvR0Pnl0Ph6pgWl3rZx6QESo1ZtMaA=
 alcoa.co.gl.	0	IN	NS	dns1.cscdns.net.
 alcoa.co.gl.	0	IN	NS	dns2.cscdns.net.
 alphabet.co.gl.	0	IN	NS	ns1.google.com.

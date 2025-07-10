@@ -3,10 +3,11 @@ edu.gl.	0	IN	NS	b.nic.gl.
 edu.gl.	0	IN	NS	d.nic.gl.
 edu.gl.	0	IN	NS	ns1.anycastdns.cz.
 edu.gl.	0	IN	NS	ns2.anycastdns.cz.
-edu.gl.	0	IN	DNSKEY	256 3 8 AwEAAaHygKWsEVDd8v/ihIC3MpATpJMgLxbo+Ga65L2r4vPJw1RDqJdG9KqgRLxhC4UeWRoEXkTzSbkKMrp+77uvqlk54tshZPtSryz/un8SfxNSg2gUHaZqpmKTvmvrg6UYfG2m6fpZaRq9XOGFqKHie+aP+QotfTMoDHb9zQdrVhxn1QA8AUKpqtvFyFbDc3LpJ2XfkkGBLR0rFeQcXNfPdLlhwybnOP7pwYgqzErmvcMgaOgcax8gohacl4n5Bv1PCFl3Rs18vaTWR8wHbsR4gMSApYzSEFOMrkIm5LC/SQ/SnYDCE3Zv6SiIeBN46cSWCW+dgbfAtzyiJL9KhbsAdbk= ;{id = 15009 (zsk), size = 2048b}
-edu.gl.	0	IN	DNSKEY	256 3 8 AwEAAc0VsC+NDqEKN7TrgnYyYoT9BVcpCA2UnfUv5bBAmOBn82jW4CLfWMlWJILVrWYCd6id2mHaJAoVyTfx0LPFqLBTMaVbca6+sID2oM8wkbtVUSSUE2V6n/AqA10k+wgrK04+YMMy4PGJ/isJvkZLyHx0JWFEOmk4XXZvRLoVsZhIW8Ae5tGCKiT2tVehcDEzrMxrfbXE3DKcejgSCT/3UXfqemZw26dzUkCBCWbTszSVgbrcMSKAzA1pqxTs7swjmhiowP786xLcSI0nvlkDDKv0YwCp8wRESV9mXhMNmiqQ4Of3vW6p8e8g/lZLKCN8XgVXWdTL7K3iXqmVRhbM8ks= ;{id = 63085 (zsk), size = 2048b}
-edu.gl.	0	IN	DNSKEY	257 3 8 AwEAAY/waTNXPWalRXg2MVqhEl0P8z2LIXKuO/+wDhULBDSiiZzORmIeQLgEW2MFKm2Mo9zC+g8lnfxiM4WMP3DT4NowOAVmlr/fCitzbdLxCSP+btV4grP/IdGpP5vYIX43dwe9sgywipIzs9eqP+6oo7CNDhsiEztmqPzBp5GqwuWFK/b0ko+0APEc+3huztJfEdHw+z9mYTtq7MS2Ubw0hyWBZXbgTPON1199WuOKwgtJMypWVRNaDciw5NR7w4mWbUcUmNHA1G8/VLK8vSyQqoC5FiWxTZPoPGI/+R9K45d71X5fwAxRvZml8lBs0eZ/Uz0Y2vm6xAcPmlcOIFC+aLk= ;{id = 29219 (ksk), size = 2048b}
-edu.gl.	0	IN	NSEC3PARAM	1 0 0 738f6e3a 
+edu.gl.	0	IN	DNSKEY	256 3 15 ECPcduJ0LuF0lpLT09bQHXWA+ZvLIunHHXmsr62flQ0= ;{id = 56890 (zsk), size = 256b}
+edu.gl.	0	IN	DNSKEY	257 3 15 02X5mZth5GkmGfSkShPiQDwV5Uzd5N1rSCGs09Y09l4= ;{id = 13865 (ksk), size = 256b}
+edu.gl.	0	IN	NSEC3PARAM	1 0 0 - 
+edu.gl.	0	IN	CDS	13865 15 2 1030be49f190deb0a72b0bc45895e2d2bd87032f7a2592fd68f35c14d6370980
+edu.gl.	0	IN	CDNSKEY	257 3 15 02X5mZth5GkmGfSkShPiQDwV5Uzd5N1rSCGs09Y09l4=
 1009.edu.gl.	0	IN	NS	ns1.bb-online.net.
 1009.edu.gl.	0	IN	NS	ns2.bb-online.org.
 1009.edu.gl.	0	IN	NS	ns3.bb-online.info.

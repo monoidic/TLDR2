@@ -3,10 +3,11 @@ com.gl.	0	IN	NS	b.nic.gl.
 com.gl.	0	IN	NS	d.nic.gl.
 com.gl.	0	IN	NS	ns1.anycastdns.cz.
 com.gl.	0	IN	NS	ns2.anycastdns.cz.
-com.gl.	0	IN	DNSKEY	256 3 8 AwEAAbL5a+d81w7rprT3tiBgYOX7xujGLlrXOAp5TPDOuJ0Ssrgn/QvbzOk86sXp24Bptoaf7vTrpuoNR69Yl6EkzVpeEL+WGqeuxtRn5+rDdXve+xiE/qZfMFNEyoxU/S98HdLjQ/Dgu+mOi8mcjS183pFwTz4WtPrdZyzyW9/jOHTbplgJyBVy5pIboX/4cC9Qf5J1X2t9OyfwDl5xF3/5QoNTr1O4knIuAGmLrGu/n0sJeYDfPIQj5OszV9fEzlzjbwgghKfv+V3e6Ap6U3gWxp5SRC11gK+GVsfQhAgK7/NlfJTsQaugXhzlcClJ3YMP+COuMG8tU9egff/z/uYhSOM= ;{id = 11659 (zsk), size = 2048b}
-com.gl.	0	IN	DNSKEY	256 3 8 AwEAAbeDltD3zmir9f2nW2bMz8odJzOLcwS2rVnpu1zuXOKhMuBQUKjrKG4s8mV1SudUepNgM+kPsdj3PWyD1xKfnsSG2pb6L206uQQ9vHLP83zcjOFF3oiYuDwmyFqzXMf3Onm4uFYAUut80z5M8V3TWFTBMoNLLdrUte1slPIZFs3oC3YFIV4nLcaMZTXl1meHsSMhVAWKBpMciNlCkYtzhzi9ZZjWmi46e58UhQGxMuKWeDE/IzCBJAVTM7TJNflFHQY2JuIH44unV02qvexCpemnaUpO6Onf/w5a7jzqNQ+26TxNzcHUnyzcJE/lOLfyVL66/jklfWX6V22f3XZrZyE= ;{id = 27124 (zsk), size = 2048b}
-com.gl.	0	IN	DNSKEY	257 3 8 AwEAAalZwFrMaRctRVlrzBoxh9VYXRCqWDl6eCqv5vUxg8WvHG43A5UC8hqGve4B1ZLmZgVdsrWTqR2Dzh8WsVBCTo7WaorUQuo6NzlV8JEnXc0esgBuGNcKElSEteQ12IaNuA9nFIE7pO0rWKVB3c7YgOHNcBLwgSyXedQrCH7qGczrMmeFGA9y/QkP/kjjkCEhmt7jyRNtvZabcH7c+nGqs2/mTiMi0gKqPmpAwHZO9jXDiQGAQs5MM00pclfR1KKk+yRyYQbXxR0nxKFdJ3URbIBXn3TovglFygg+XR4awZDqpW/syvS9G2/URJV8KOtroJ77eGcf9LyEHbAs/sh9bA0= ;{id = 6302 (ksk), size = 2048b}
-com.gl.	0	IN	NSEC3PARAM	1 0 0 70c868a5 
+com.gl.	0	IN	DNSKEY	256 3 15 nKC703EyTtkbwHgPpYn8B6rZ4lId4bblDot5tzGfYDk= ;{id = 52734 (zsk), size = 256b}
+com.gl.	0	IN	DNSKEY	257 3 15 fpfNxwL8E8zYyqW+9JdLcyInMipaiqJmJfsMpg8BRZw= ;{id = 65100 (ksk), size = 256b}
+com.gl.	0	IN	NSEC3PARAM	1 0 0 - 
+com.gl.	0	IN	CDS	65100 15 2 5bf48a5458d5c3c4ed5fc7c94a2d971aba19d5ba53fb2a3433b9f2dc96294a5d
+com.gl.	0	IN	CDNSKEY	257 3 15 fpfNxwL8E8zYyqW+9JdLcyInMipaiqJmJfsMpg8BRZw=
 777.com.gl.	0	IN	NS	ns-cloud-c1.googledomains.com.
 777.com.gl.	0	IN	NS	ns-cloud-c2.googledomains.com.
 777.com.gl.	0	IN	NS	ns-cloud-c3.googledomains.com.
