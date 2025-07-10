@@ -95,6 +95,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -122,7 +123,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -175,7 +175,6 @@
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -188,7 +187,6 @@
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
-* `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -223,9 +221,7 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -253,7 +249,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -270,6 +265,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -284,7 +280,9 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -296,6 +294,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -321,7 +320,6 @@
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
-* `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
@@ -345,7 +343,6 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
-* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
