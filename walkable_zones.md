@@ -54,6 +54,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -79,8 +80,8 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
+* `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -106,10 +107,12 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -118,6 +121,7 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
+* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -130,9 +134,11 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
+* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
+* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -151,6 +157,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -173,12 +180,14 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
+* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `interhostsolutions.be.`
@@ -192,6 +201,7 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
+* `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
@@ -223,6 +233,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -243,6 +254,7 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
+* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -277,6 +289,7 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
+* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -301,6 +314,7 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -316,6 +330,7 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
+* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
