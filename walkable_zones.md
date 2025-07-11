@@ -44,6 +44,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -98,7 +99,6 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -299,7 +299,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
