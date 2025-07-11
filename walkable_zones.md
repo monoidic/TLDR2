@@ -80,6 +80,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -95,7 +96,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -245,7 +245,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -301,7 +300,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
