@@ -4522,8 +4522,9 @@ _acme-challenge.rdap-test.db.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 replication-manager.db.ripe.net.	0	IN	A	10.102.0.18
 replication-manager.db.ripe.net.	0	IN	AAAA	2001:67c:2e8:102::a66:12
 _acme-challenge.replication-manager.db.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-replication-manager-dev.db.ripe.net.	0	IN	CNAME	nginx-internal.swe-db-dev.ripe.net.
-_acme-challenge.replication-manager-dev.db.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
+replication-manager-dev.db.ripe.net.	0	IN	A	10.114.0.43
+replication-manager-dev.db.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:2b
+_acme-challenge.replication-manager-dev.db.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 replication-manager-prepdev.db.ripe.net.	0	IN	A	193.0.13.22
 replication-manager-prepdev.db.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d16
 _acme-challenge.replication-manager-prepdev.db.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
