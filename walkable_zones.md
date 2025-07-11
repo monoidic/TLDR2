@@ -12,7 +12,6 @@
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
-* `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -75,7 +74,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -174,7 +172,6 @@
 * `guitars.`
 * `gv.ao.`
 * `hosp.uk.`
-* `hosted-by-previder.com.`
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
@@ -277,7 +274,6 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -366,6 +362,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -376,7 +373,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
