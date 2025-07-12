@@ -10,7 +10,6 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -19,7 +18,6 @@
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
-* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -99,6 +97,7 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -274,7 +273,6 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -299,6 +297,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -359,17 +358,15 @@
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
-* `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
-* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
@@ -387,14 +384,11 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
-* `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
