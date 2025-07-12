@@ -4,7 +4,7 @@ bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 bw.	0	IN	DNSKEY	256 3 13 tvr6V5Yg0Dm+IQ/PuaNy+CsjuE1RKgIYHkHzyzNw+o+DjZxA/qP5k8FZ3Rf3rSeyKDaRwQM/RvG1C1YeyP396w== ;{id = 14619 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
-bw.	0	IN	NSEC3PARAM	1 0 0 113545349f9d7ac9 
+bw.	0	IN	NSEC3PARAM	1 0 0 ff7016e506ad90f9 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
 bw.	0	IN	CDNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA==
 a.bw.	0	IN	NS	ns1.dreamhost.com.
@@ -6967,6 +6967,10 @@ cnonline.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 cnonline.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 cnpsolutions.co.bw.	0	IN	NS	ns.mainnameserver.com.
 cnpsolutions.co.bw.	0	IN	NS	ns2.mainnameserver.com.
+cns.co.bw.	0	IN	NS	ns1.debunked.website.
+cns.co.bw.	0	IN	NS	ns2.debunked.website.
+cns.co.bw.	0	IN	NS	ns3.debunked.website.
+cns.co.bw.	0	IN	NS	ns4.debunked.website.
 cnt.co.bw.	0	IN	NS	ns1.md-uk-2.webhostbox.net.
 cnt.co.bw.	0	IN	NS	ns2.md-uk-2.webhostbox.net.
 cnyawe.co.bw.	0	IN	NS	ns1.debunked.website.
@@ -22242,8 +22246,8 @@ orangefranchise.co.bw.	0	IN	NS	ns1.orange.net.bw.
 orangefranchise.co.bw.	0	IN	NS	ns2.orange.net.bw.
 orangegrove.co.bw.	0	IN	NS	ns1.node1142.myfcloud.com.
 orangegrove.co.bw.	0	IN	NS	ns2.node1142.myfcloud.com.
-orangegroveguesthouse.co.bw.	0	IN	NS	ns1.cloudoon.com.
-orangegroveguesthouse.co.bw.	0	IN	NS	ns2.cloudoon.net.
+orangegroveguesthouse.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
+orangegroveguesthouse.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 orangeishere.co.bw.	0	IN	NS	dns1.cscdns.net.
 orangeishere.co.bw.	0	IN	NS	dns2.cscdns.net.
 orangemail.co.bw.	0	IN	NS	ns1.orange.net.bw.
