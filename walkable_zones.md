@@ -24,7 +24,7 @@
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
-* `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -35,7 +35,6 @@
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
-* `arq.br.`
 * `art.br.`
 * `asso.mc.`
 * `ati.tn.`
@@ -57,7 +56,6 @@
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
-* `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
@@ -79,6 +77,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -97,7 +96,6 @@
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
@@ -165,7 +163,6 @@
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
-* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
@@ -234,14 +231,12 @@
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
-* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -254,7 +249,6 @@
 * `natal.br.`
 * `net.bt.`
 * `net.er.`
-* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -278,7 +272,6 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -290,7 +283,6 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
-* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -322,7 +314,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
