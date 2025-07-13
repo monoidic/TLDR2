@@ -80,7 +80,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -96,7 +95,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -255,7 +253,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -368,6 +365,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -394,7 +392,6 @@
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
