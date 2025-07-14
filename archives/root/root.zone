@@ -11999,7 +11999,7 @@ gu.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::78
 jm.cctld.authdns.ripe.net.	0	IN	A	193.0.9.82
 jm.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::82
 jo.cctld.authdns.ripe.net.	0	IN	A	193.0.9.83
-jo.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::83
+jo.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::83
 kg.cctld.authdns.ripe.net.	0	IN	A	193.0.9.84
 kg.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::84
 mc.cctld.authdns.ripe.net.	0	IN	A	193.0.9.92
@@ -12010,7 +12010,7 @@ nc.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::100
 ne.cctld.authdns.ripe.net.	0	IN	A	193.0.9.101
 ne.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::101
 np.cctld.authdns.ripe.net.	0	IN	A	193.0.9.102
-np.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::102
+np.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::102
 ps.cctld.authdns.ripe.net.	0	IN	A	193.0.9.105
 ps.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::105
 sd.cctld.authdns.ripe.net.	0	IN	A	193.0.9.109
@@ -12022,7 +12022,7 @@ sn.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::111
 sy.cctld.authdns.ripe.net.	0	IN	A	193.0.9.113
 sy.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::113
 sz.cctld.authdns.ripe.net.	0	IN	A	193.0.9.114
-sz.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::114
+sz.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::114
 tj.cctld.authdns.ripe.net.	0	IN	A	193.0.9.117
 tj.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::117
 ug.cctld.authdns.ripe.net.	0	IN	A	193.0.9.52
@@ -17165,22 +17165,16 @@ to.	0	IN	NS	cd5.tonic.to.
 to.	0	IN	NS	cd6.tonic.to.
 to.	0	IN	NS	cd7.tonic.to.
 to.	0	IN	NS	cd8.tonic.to.
-to.	0	IN	NS	tonic.to.
-to.	0	IN	NS	sydney.tonic.to.
+to.	0	IN	NS	ns01.trs-dns.com.
+to.	0	IN	NS	ns01.trs-dns.net.
+to.	0	IN	NS	ns10.trs-dns.org.
+to.	0	IN	NS	ns10.trs-dns.info.
 to.	0	IN	NS	newyork.tonic.to.
-to.	0	IN	NS	helsinki.tonic.to.
-to.	0	IN	NS	frankfurt.tonic.to.
-to.	0	IN	NS	singapore.tonic.to.
-tonic.to.	0	IN	A	149.28.204.240
 cd5.tonic.to.	0	IN	A	185.136.96.197
 cd6.tonic.to.	0	IN	A	185.136.97.197
 cd7.tonic.to.	0	IN	A	185.136.98.197
 cd8.tonic.to.	0	IN	A	185.136.99.197
-frankfurt.tonic.to.	0	IN	A	46.101.233.168
-helsinki.tonic.to.	0	IN	A	95.216.159.42
 newyork.tonic.to.	0	IN	A	162.243.211.202
-singapore.tonic.to.	0	IN	A	188.166.187.0
-sydney.tonic.to.	0	IN	A	104.156.232.193
 today.	0	IN	NS	v0n0.nic.today.
 today.	0	IN	NS	v0n1.nic.today.
 today.	0	IN	NS	v0n2.nic.today.
@@ -19933,7 +19927,6 @@ xn--mgbgu82a.	0	IN	NS	ns01.trs-dns.com.
 xn--mgbgu82a.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbgu82a.	0	IN	NS	ns10.trs-dns.org.
 xn--mgbgu82a.	0	IN	NS	ns10.trs-dns.info.
-xn--mgbgu82a.	0	IN	DS	8036 8 2 7c0b166dea37cefabfb7c1d3fe40b612fe0e72f50563bc6597e70fe73a60f496
 xn--mgbgu82a.	0	IN	DS	29871 13 2 0cee2b6a6ad8917255b1af4df53fff4cfac10aec17facddd7d83a370f1dc6b8f
 xn--mgbi4ecexp.	0	IN	NS	a.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	b.nic.xn--mgbi4ecexp.
