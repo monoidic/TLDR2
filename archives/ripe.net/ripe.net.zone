@@ -4642,6 +4642,8 @@ atlas.dev.ripe.net.	0	IN	NS	ns-850.awsdns-42.net.
 atlas.dev.ripe.net.	0	IN	NS	ns-1514.awsdns-61.org.
 atlas.dev.ripe.net.	0	IN	NS	ns-1999.awsdns-57.co.uk.
 atlas.dev.ripe.net.	0	IN	DS	33454 13 2 8859022060c29f7342b5908f843cd5de4ee0179298b2ece1e59ae1e2db1428f8
+_acme-challenge.atlas-db5.atlas.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+_acme-challenge.atlas-db6.atlas.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ba-apps.dev.ripe.net.	0	IN	A	10.116.0.18
 ba-apps.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:116::a74:12
 ba-apps-5.dev.ripe.net.	0	IN	A	10.114.1.63
@@ -5631,6 +5633,7 @@ _acme-challenge.gitlab-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 gitlab-2.ripe.net.	0	IN	A	193.0.19.226
 gitlab-2.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13e2
 _acme-challenge.gitlab-2.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+_acme-challenge.gitlab-cache-001.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 gitlab-infra.ripe.net.	0	IN	A	193.0.19.151
 gitlab-infra.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1397
 _acme-challenge.gitlab-infra.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
