@@ -44,6 +44,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -173,7 +174,6 @@
 * `guitars.`
 * `gv.ao.`
 * `hosp.uk.`
-* `hosted-by-previder.com.`
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
@@ -253,6 +253,7 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
+* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -272,7 +273,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -297,6 +297,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -359,7 +360,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
