@@ -20,7 +20,6 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
-* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
@@ -90,7 +89,6 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -99,6 +97,7 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -107,7 +106,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
@@ -115,7 +113,6 @@
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
-* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
@@ -134,9 +131,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -155,7 +150,6 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -172,7 +166,6 @@
 * `guitars.`
 * `gv.ao.`
 * `hosp.uk.`
-* `hosted-by-previder.com.`
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
@@ -204,7 +197,6 @@
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -242,6 +234,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -251,7 +244,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -280,11 +272,10 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -298,7 +289,7 @@
 * `ong.br.`
 * `onion.`
 * `or.id.`
-* `org.bt.`
+* `oraclegovcloudapps.com.`
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
@@ -321,7 +312,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -336,7 +326,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -352,7 +341,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
