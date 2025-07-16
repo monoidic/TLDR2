@@ -29,6 +29,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -106,7 +107,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
@@ -176,7 +176,6 @@
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -271,6 +270,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -299,7 +299,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -389,6 +388,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
