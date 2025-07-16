@@ -29,6 +29,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -56,7 +57,6 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -94,6 +94,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -106,6 +108,7 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -176,7 +179,6 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -187,7 +189,6 @@
 * `info.ve.`
 * `int.ve.`
 * `interhostsolutions.be.`
-* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -198,11 +199,9 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -220,7 +219,6 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -249,7 +247,6 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
-* `net.bt.`
 * `net.er.`
 * `net.id.`
 * `net.kz.`
@@ -270,6 +267,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -286,6 +284,7 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -293,10 +292,10 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
-* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
@@ -339,7 +338,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -370,7 +368,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -386,7 +383,6 @@
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
