@@ -79,7 +79,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -109,6 +108,7 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -253,7 +253,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -299,8 +298,8 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
-* `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
