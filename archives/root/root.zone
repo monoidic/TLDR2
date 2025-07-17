@@ -3745,7 +3745,6 @@ cn.	0	IN	NS	d.dns.cn.
 cn.	0	IN	NS	e.dns.cn.
 cn.	0	IN	NS	ns.cernet.net.
 cn.	0	IN	DS	33094 8 2 cccf13ed73a83244f7d2936f0b6c3507d85c3ebc5e1be4fb644064bc5b5fe3b2
-cn.	0	IN	DS	57724 8 2 5d0423633eb24a499be78aa22d1c0c9ba36218ff49fd95a4cdf1a4ad97c67044
 ns1.conac.cn.	0	IN	A	111.235.161.1
 ns1.conac.cn.	0	IN	AAAA	2401:b400:1::1
 ns2.conac.cn.	0	IN	A	111.235.162.1
@@ -12018,7 +12017,7 @@ sd.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::109
 sm.cctld.authdns.ripe.net.	0	IN	A	193.0.9.110
 sm.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::110
 sn.cctld.authdns.ripe.net.	0	IN	A	193.0.9.111
-sn.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::111
+sn.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::111
 sy.cctld.authdns.ripe.net.	0	IN	A	193.0.9.113
 sy.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::113
 sz.cctld.authdns.ripe.net.	0	IN	A	193.0.9.114
@@ -17161,20 +17160,10 @@ ns2.ati.tn.	0	IN	A	41.228.63.62
 ns2.ati.tn.	0	IN	AAAA	2c0f:fab0:ffff:5:41:228:63:62
 pch.ati.tn.	0	IN	A	204.61.216.94
 pch.ati.tn.	0	IN	AAAA	2001:500:14:6094:ad::1
-to.	0	IN	NS	cd5.tonic.to.
-to.	0	IN	NS	cd6.tonic.to.
-to.	0	IN	NS	cd7.tonic.to.
-to.	0	IN	NS	cd8.tonic.to.
 to.	0	IN	NS	ns01.trs-dns.com.
 to.	0	IN	NS	ns01.trs-dns.net.
 to.	0	IN	NS	ns10.trs-dns.org.
 to.	0	IN	NS	ns10.trs-dns.info.
-to.	0	IN	NS	newyork.tonic.to.
-cd5.tonic.to.	0	IN	A	185.136.96.197
-cd6.tonic.to.	0	IN	A	185.136.97.197
-cd7.tonic.to.	0	IN	A	185.136.98.197
-cd8.tonic.to.	0	IN	A	185.136.99.197
-newyork.tonic.to.	0	IN	A	162.243.211.202
 today.	0	IN	NS	v0n0.nic.today.
 today.	0	IN	NS	v0n1.nic.today.
 today.	0	IN	NS	v0n2.nic.today.
@@ -19035,7 +19024,6 @@ xn--2scrj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--2scrj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--2scrj9c.	0	IN	NS	ns10.trs-dns.info.
 xn--2scrj9c.	0	IN	DS	14201 13 2 f168c458aa9d214a129146d0fadbeb81273972061a2ab09f04e65f1b8375b922
-xn--2scrj9c.	0	IN	DS	17027 8 2 e37f4e4c68c8045c1cfc046e65f2a42d6ce8bf1840600eda533fa202d8a445e3
 xn--30rr7y.	0	IN	NS	a.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	b.zdnscloud.cn.
 xn--30rr7y.	0	IN	NS	c.zdnscloud.com.
@@ -19072,7 +19060,6 @@ xn--3hcrj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--3hcrj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--3hcrj9c.	0	IN	NS	ns10.trs-dns.info.
 xn--3hcrj9c.	0	IN	DS	9504 13 2 ce4c7c86962e419139f99e8bc928c5cb38f65916f75e12aa938c108baf355c21
-xn--3hcrj9c.	0	IN	DS	60622 8 2 22e187a6a66db53db0507dcc0be3ab48c3d6280a0cf133b42b4bac4975944c14
 xn--3pxu8k.	0	IN	NS	ac1.nstld.com.
 xn--3pxu8k.	0	IN	NS	ac2.nstld.com.
 xn--3pxu8k.	0	IN	NS	ac3.nstld.com.
@@ -19088,12 +19075,10 @@ xn--45br5cyl.	0	IN	NS	ns01.trs-dns.net.
 xn--45br5cyl.	0	IN	NS	ns10.trs-dns.org.
 xn--45br5cyl.	0	IN	NS	ns10.trs-dns.info.
 xn--45br5cyl.	0	IN	DS	23186 13 2 5f774b0898c4971293f83f2a305d5d6ebfaa90ee926800f76336552e64c12c77
-xn--45br5cyl.	0	IN	DS	59426 8 2 937e8e8f25319d04147bb4999718106a1e972e8fc9c03c4d97212af925656637
 xn--45brj9c.	0	IN	NS	ns01.trs-dns.com.
 xn--45brj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--45brj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--45brj9c.	0	IN	NS	ns10.trs-dns.info.
-xn--45brj9c.	0	IN	DS	9137 8 2 c6f790deaa6b316747eec520c29f6794975d4e5476c77eeca68429e8d0cb6188
 xn--45brj9c.	0	IN	DS	31141 13 2 5d729c75a258eff24add2c7032ac578b1908996891aab6baf04f05e50dbe896c
 xn--45q11c.	0	IN	NS	a.zdnscloud.cn.
 xn--45q11c.	0	IN	NS	b.zdnscloud.cn.
@@ -19145,7 +19130,6 @@ xn--55qx5d.	0	IN	NS	c.ngtld.cn.
 xn--55qx5d.	0	IN	NS	d.ngtld.cn.
 xn--55qx5d.	0	IN	NS	e.ngtld.cn.
 xn--55qx5d.	0	IN	DS	7354 8 2 f74d2888b4af5769011720a88a0f2235af7742ab15ae7badc3c8277c5dddaa5b
-xn--55qx5d.	0	IN	DS	47359 8 2 d8fe897ce8ac620cb7cb9f6f4e887fc7a14c3ed80cb973da4e30a17ceca1015b
 xn--5su34j936bgsg.	0	IN	NS	ac1.nstld.com.
 xn--5su34j936bgsg.	0	IN	NS	ac2.nstld.com.
 xn--5su34j936bgsg.	0	IN	NS	ac3.nstld.com.
@@ -19551,7 +19535,6 @@ xn--fpcrj9c3d.	0	IN	NS	ns01.trs-dns.com.
 xn--fpcrj9c3d.	0	IN	NS	ns01.trs-dns.net.
 xn--fpcrj9c3d.	0	IN	NS	ns10.trs-dns.org.
 xn--fpcrj9c3d.	0	IN	NS	ns10.trs-dns.info.
-xn--fpcrj9c3d.	0	IN	DS	40310 8 2 db355c554d1e0feac19805a85638e86778ea74c314d7821404ca365bbc701c0a
 xn--fpcrj9c3d.	0	IN	DS	41765 13 2 d6db83a69bb625f6206d469bfcb0616696ee040022cb6d026edeec7a91dba0cf
 xn--fzc2c9e2c.	0	IN	NS	lk.communitydns.net.
 xn--fzc2c9e2c.	0	IN	NS	nic.lk-anycast.pch.net.
@@ -19617,7 +19600,6 @@ xn--gecrj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--gecrj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--gecrj9c.	0	IN	NS	ns10.trs-dns.info.
 xn--gecrj9c.	0	IN	DS	50254 13 2 131a10a5763dd43bd20565bae996b05198bb9cfcfc3e7f9b04ebd641b960710b
-xn--gecrj9c.	0	IN	DS	50680 8 2 a7fb8b5d0067032787c19ed4950ac6dd05cf2984dc6b569931f23a5519993ad7
 xn--gk3at1e.	0	IN	NS	v0n0.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v0n1.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v0n2.nic.xn--gk3at1e.
@@ -19641,13 +19623,11 @@ xn--h2breg3eve.	0	IN	NS	ns01.trs-dns.com.
 xn--h2breg3eve.	0	IN	NS	ns01.trs-dns.net.
 xn--h2breg3eve.	0	IN	NS	ns10.trs-dns.org.
 xn--h2breg3eve.	0	IN	NS	ns10.trs-dns.info.
-xn--h2breg3eve.	0	IN	DS	19984 8 2 675e532bf511fd91464ce0e99cfd03b08dba51e726f7b6d54b5b125d79659dbc
 xn--h2breg3eve.	0	IN	DS	46995 13 2 f99abe173acdcb7ddaee32d0bf5ea159d61553552c9124cb6c0a70b52bec3da9
 xn--h2brj9c.	0	IN	NS	ns01.trs-dns.com.
 xn--h2brj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--h2brj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--h2brj9c.	0	IN	NS	ns10.trs-dns.info.
-xn--h2brj9c.	0	IN	DS	5261 8 2 642d873a79227066e3f6e21b626cdc1e7d84cba784c4689c62126354da4b5b05
 xn--h2brj9c.	0	IN	DS	19963 13 2 805c0f77b41d0d80cd8346be7d3341442fd531654ea88c7001bc4d86a8098347
 xn--h2brj9c8c.	0	IN	NS	ns01.trs-dns.com.
 xn--h2brj9c8c.	0	IN	NS	ns01.trs-dns.net.
@@ -19692,7 +19672,6 @@ xn--io0a7i.	0	IN	NS	c.ngtld.cn.
 xn--io0a7i.	0	IN	NS	d.ngtld.cn.
 xn--io0a7i.	0	IN	NS	e.ngtld.cn.
 xn--io0a7i.	0	IN	DS	7354 8 2 47e1c08f32a93f8296cc53920e1c281c8ea10b14f21528f2594e7c84225e7fcc
-xn--io0a7i.	0	IN	DS	47359 8 2 426db7d3fb8e6058be42d379ecd7742b2efab5dd0a7a95494d3518604b715b1e
 xn--j1aef.	0	IN	NS	ac1.nstld.com.
 xn--j1aef.	0	IN	NS	ac2.nstld.com.
 xn--j1aef.	0	IN	NS	ac3.nstld.com.
@@ -19879,12 +19858,10 @@ xn--mgbbh1a.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbbh1a.	0	IN	NS	ns10.trs-dns.org.
 xn--mgbbh1a.	0	IN	NS	ns10.trs-dns.info.
 xn--mgbbh1a.	0	IN	DS	4530 13 2 e178c59327c8c2da8e66338ab5254114ce5ad7355bea5d0eae46abba957d49b4
-xn--mgbbh1a.	0	IN	DS	8752 8 2 3c9ba00eda2fd7b93511c6c4ff457f1399b66e4d3beaaa70e76633d7592f990f
 xn--mgbbh1a71e.	0	IN	NS	ns01.trs-dns.com.
 xn--mgbbh1a71e.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbbh1a71e.	0	IN	NS	ns10.trs-dns.org.
 xn--mgbbh1a71e.	0	IN	NS	ns10.trs-dns.info.
-xn--mgbbh1a71e.	0	IN	DS	20455 8 2 33d2a18bc78295abf8a0e49350c417f10924749ae157ace0ad00a95e5b9463d9
 xn--mgbbh1a71e.	0	IN	DS	37709 13 2 7e30445a66192c1e9d9fe7b8097d3e72e56103e5339f451009507eb240be57d0
 xn--mgbc0a9azcg.	0	IN	NS	a.tld.ma.
 xn--mgbc0a9azcg.	0	IN	NS	b.tld.ma.
@@ -20171,12 +20148,10 @@ xn--rvc1e0am3e.	0	IN	NS	ns01.trs-dns.net.
 xn--rvc1e0am3e.	0	IN	NS	ns10.trs-dns.org.
 xn--rvc1e0am3e.	0	IN	NS	ns10.trs-dns.info.
 xn--rvc1e0am3e.	0	IN	DS	42550 13 2 60246b2ed0a73e4ac90007c1c4f9f066085ef2e8ddb8fc3b9b67900a57a6807e
-xn--rvc1e0am3e.	0	IN	DS	55189 8 2 df91baeacfc3432bc3d3aee104061bd6c4bdaa4fe2e24b4f173be77e2378a4ff
 xn--s9brj9c.	0	IN	NS	ns01.trs-dns.com.
 xn--s9brj9c.	0	IN	NS	ns01.trs-dns.net.
 xn--s9brj9c.	0	IN	NS	ns10.trs-dns.org.
 xn--s9brj9c.	0	IN	NS	ns10.trs-dns.info.
-xn--s9brj9c.	0	IN	DS	20806 8 2 f3bf5883656c3276312814d967cba8df291b0969c074788b505b56f048661310
 xn--s9brj9c.	0	IN	DS	56582 13 2 3bfb44803c93fb58ac0595b87116083f0b853337d67c35eaf80515bb4b2bebbe
 xn--ses554g.	0	IN	NS	a.zdnscloud.cn.
 xn--ses554g.	0	IN	NS	b.zdnscloud.cn.
@@ -20331,7 +20306,6 @@ xn--xkc2dl3a5ee0h.	0	IN	NS	ns01.trs-dns.net.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns10.trs-dns.org.
 xn--xkc2dl3a5ee0h.	0	IN	NS	ns10.trs-dns.info.
 xn--xkc2dl3a5ee0h.	0	IN	DS	17943 13 2 c79b16bacfc2e7811bc669dd6320a299e69d1ae4e9e63fd26d5cdd8dd4e85346
-xn--xkc2dl3a5ee0h.	0	IN	DS	60017 8 2 929060ac99e322e7e07fbb8f719d9f9b5a0596530756aac17e547c3179ff5e43
 xn--y9a3aq.	0	IN	NS	fork.sth.dnsnode.net.
 xn--y9a3aq.	0	IN	NS	ns-cdn.amnic.net.
 xn--y9a3aq.	0	IN	NS	ns-pch.amnic.net.
