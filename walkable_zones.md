@@ -6,7 +6,6 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -108,7 +107,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -189,7 +187,6 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -206,7 +203,6 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -232,7 +228,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -276,11 +271,10 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.shell.`
+* `nic.pics.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -387,7 +381,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
