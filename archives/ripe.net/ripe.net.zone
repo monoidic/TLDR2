@@ -3543,6 +3543,12 @@ probev4-test.atlas.ripe.net.	0	IN	CNAME	atlas-ui-test.atlas.ripe.net.
 admin.prod.atlas.ripe.net.	0	IN	A	193.0.19.82
 admin.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1352
 _acme-challenge.admin.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+dnsmon.prod.atlas.ripe.net.	0	IN	A	193.0.11.35
+dnsmon.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b23
+_acme-challenge.dnsmon.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+ipmap.prod.atlas.ripe.net.	0	IN	A	193.0.11.36
+ipmap.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b24
+_acme-challenge.ipmap.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 reg-01.prod.atlas.ripe.net.	0	IN	A	193.0.19.12
 reg-01.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:130c
 _acme-challenge.reg-01.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
