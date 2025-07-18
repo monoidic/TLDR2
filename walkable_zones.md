@@ -31,14 +31,13 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
-* `art.br.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -87,7 +86,6 @@
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
-* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
@@ -95,6 +93,7 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -138,7 +137,6 @@
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
-* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -203,7 +201,6 @@
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -272,9 +269,7 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -283,6 +278,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -328,7 +324,6 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -362,11 +357,9 @@
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
