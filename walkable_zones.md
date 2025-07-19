@@ -9,7 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -29,6 +28,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -38,6 +38,7 @@
 * `arq.br.`
 * `art.br.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -78,7 +79,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -113,7 +113,6 @@
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
-* `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
@@ -223,6 +222,7 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -247,8 +247,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
-* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -266,6 +264,8 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -274,6 +274,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -311,13 +312,11 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
-* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -343,7 +342,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
