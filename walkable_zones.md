@@ -82,11 +82,13 @@
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
+* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
+* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
@@ -107,7 +109,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -263,6 +264,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -274,8 +276,8 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -296,6 +298,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -355,6 +358,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -365,12 +369,14 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
