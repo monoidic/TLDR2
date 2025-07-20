@@ -7,8 +7,8 @@ gl.	0	IN	DNSKEY	256 3 8 AwEAAZQoEjyIZnLTg1KjLl8AakwY8ir6sF5DBTPqDCu0JBBVoPc8ba41
 gl.	0	IN	DNSKEY	256 3 8 AwEAAa9A2dS02nv1E/20rVhnV4JhZhfspG3ypFvoTns+IV1Qla62o554ZctdWrTEcZpp6ROxLZKxI4XEQpRHmsPrcYpCvOAzZxN8Ku89T96zRCyT1lVoLQZ0wPYh0WsgBIBJkMPIzlzzc+VMQTzk939WhICDKsfn3yV1z2KgPP2d0fcMa4+JOlrdhERkh8juw7h4fWTFODkp85ov+mw9+QVXAUdEyXNmtQEB3NuDkN2RwXpSez250yekEFAjnpky3ZrzrqWdzD9BdEOCXcj4Ps9M+TitOW3lybKhevvtBsJl4vrkCWycGlGXEnPbC9M8pqE2BOYO2EqS+ycGIUWbdSzZqsE= ;{id = 54789 (zsk), size = 2048b}
 gl.	0	IN	DNSKEY	257 3 8 AwEAAfYm4+zwxY7gxb4XaVDGuNUKfR2Zcd9wYXI+JeL6NutecP8/5yejpYvyYrS9EoZKi1I/Zxy5T0bhke0TfCwtX+1fjLqZYXhnqPbqRrFjRsMLEMx4BXnI4+jRKOx/Fq1RQHKJqnw+3k9peImXyxSs79OzNKIbZHvYh/BYLjzGX2GUqRngvxjzfsPYpqV4vI3tpqTx5UpetxNLzMSPwZSI/rfDuRDZjP44V1UjLkcZ2AmqSva6q92kb7zruhn6C0JocyPTOPPK1J08tSp/ur+AYLYLyxL8+v28i1i9c1UhtatXpnCHn8OGFmg2pC/Vv2Q8sTXjKs6DFQ4IGODOQdU2HqM= ;{id = 11560 (ksk), size = 2048b}
 gl.	0	IN	NSEC3PARAM	1 0 0 69cb137e 
-0.gl.	0	IN	NS	ns1.sudos.co.
-0.gl.	0	IN	NS	ns2.sudos.co.
+0.gl.	0	IN	NS	ns1.fruits.co.
+0.gl.	0	IN	NS	ns2.fruits.co.
 00.gl.	0	IN	NS	ns1.registry-server.com.
 00.gl.	0	IN	NS	ns2.registry-server.com.
 000.gl.	0	IN	NS	pns61.cloudns.net.
@@ -2653,8 +2653,8 @@ bingo3.gl.	0	IN	NS	ns3.simply.com.
 bingo3.gl.	0	IN	NS	ns4.simply.com.
 bingo3.gl.	0	IN	DS	64343 13 2 087a5b586336d2f4870554ca256c605bec6fdb1fa81928861f7a8f1a0b8e947c
 bingo3.gl.	0	IN	DS	64343 13 4 6a2b93688a664a27979ec75c7804402644042b7623fea595812c2caeb33c357c24d4c2c1445055137eca70fe06082263
-bio.gl.	0	IN	NS	rajeev.ns.cloudflare.com.
-bio.gl.	0	IN	NS	priscilla.ns.cloudflare.com.
+bio.gl.	0	IN	NS	ns1-expired.sav.com.
+bio.gl.	0	IN	NS	ns2-expired.sav.com.
 bio-circle.gl.	0	IN	NS	ns0.iquer.net.
 bio-circle.gl.	0	IN	NS	ns1.iquer.net.
 bio-circle.gl.	0	IN	NS	ns2.iquer.net.
