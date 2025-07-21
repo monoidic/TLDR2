@@ -5148,8 +5148,7 @@ dhcp191.ripe.net.	0	IN	A	193.0.1.191
 dns-unbound-test.ripe.net.	0	IN	A	193.0.1.170
 dnscheck.ripe.net.	0	IN	CNAME	zonemaster.ripe.net.
 _acme-challenge.dnscheck.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-dnsmon.ripe.net.	0	IN	A	193.0.6.165
-dnsmon.ripe.net.	0	IN	AAAA	2001:67c:2e8:22::c100:6a5
+dnsmon.ripe.net.	0	IN	CNAME	dnsmon.prod.atlas.ripe.net.
 _acme-challenge.dnsmon.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 dnsmon-test.ripe.net.	0	IN	CNAME	atlas-ui-test.atlas.ripe.net.
 dnsnms.ripe.net.	0	IN	CNAME	misc1.nl-ams.admindns.ripe.net.
@@ -7063,8 +7062,7 @@ _acme-challenge.api.intlists.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 introtoipv6enroll.ripe.net.	0	IN	CNAME	fu224skd.sibpages.com.
 ip-echo.ripe.net.	0	IN	A	193.0.6.141
 ip-echo.ripe.net.	0	IN	AAAA	2001:67c:2e8:16::c100:68d
-ipmap.ripe.net.	0	IN	A	193.0.6.166
-ipmap.ripe.net.	0	IN	AAAA	2001:67c:2e8:22::c100:6a6
+ipmap.ripe.net.	0	IN	CNAME	ipmap.prod.atlas.ripe.net.
 _acme-challenge.ipmap.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ipmap-api.ripe.net.	0	IN	A	193.0.11.20
 ipmap-api.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b14
@@ -9614,7 +9612,6 @@ tc5-esx-5.oob.ripe.net.	0	IN	AAAA	2001:67c:2e8:6:6::14
 tc5-esx-6.oob.ripe.net.	0	IN	AAAA	2001:67c:2e8:6:6::15
 victoriametrics.oob.ripe.net.	0	IN	A	10.6.0.67
 victoriametrics-ext.oob.ripe.net.	0	IN	A	10.6.0.146
-openipmap.ripe.net.	0	IN	CNAME	ipmap.ripe.net.
 _acme-challenge.openipmap.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 _etcd-server-ssl._tcp.openshift-test.ripe.net.	0	IN	SRV	0 10 2380 etcd-0.openshift-test.ripe.net.
 _etcd-server-ssl._tcp.openshift-test.ripe.net.	0	IN	SRV	0 10 2380 etcd-1.openshift-test.ripe.net.
@@ -9741,9 +9738,6 @@ _acme-challenge.ba-resource-requests-2.prepdev.ripe.net.	0	IN	CNAME	acme-certs.r
 ba-worker-2.prepdev.ripe.net.	0	IN	A	193.0.13.49
 ba-worker-2.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d31
 _acme-challenge.ba-worker-2.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-beefmaster.prepdev.ripe.net.	0	IN	A	193.0.13.94
-beefmaster.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d5e
-_acme-challenge.beefmaster.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 boran.prepdev.ripe.net.	0	IN	A	193.0.13.135
 boran.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d87
 _acme-challenge.boran.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
