@@ -656,6 +656,7 @@ consultoriageral.rn.gov.br.	0	IN	A	177.87.96.2
 www.consultoriageral.rn.gov.br.	0	IN	CNAME	consultoriageral.rn.gov.br.
 control.rn.gov.br.	0	IN	A	177.87.96.94
 control.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+control.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 certidoes.control.rn.gov.br.	0	IN	CNAME	control.rn.gov.br.
 convenios.control.rn.gov.br.	0	IN	A	177.87.96.25
 documentos.control.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
@@ -706,7 +707,9 @@ portaltemp03.cotic.rn.gov.br.	0	IN	CNAME	wpdev.cotic.rn.gov.br.
 portaltemp04.cotic.rn.gov.br.	0	IN	CNAME	wpdev.cotic.rn.gov.br.
 portaltemp05.cotic.rn.gov.br.	0	IN	CNAME	wpdev.cotic.rn.gov.br.
 *.sistemas.cotic.rn.gov.br.	0	IN	A	177.87.96.250
+*.sistemas.cotic.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 wpdev.cotic.rn.gov.br.	0	IN	A	177.87.96.94
+wpdev.cotic.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 wphml.cotic.rn.gov.br.	0	IN	A	177.87.96.97
 temp01.wphml.cotic.rn.gov.br.	0	IN	CNAME	wphml.cotic.rn.gov.br.
 www.wphml.cotic.rn.gov.br.	0	IN	CNAME	wphml.cotic.rn.gov.br.
@@ -741,6 +744,7 @@ curraisnovos.rn.gov.br.	0	IN	NS	ns2.servidorwebfacil.com.
 cvli.rn.gov.br.	0	IN	A	177.87.96.2
 www.cvli.rn.gov.br.	0	IN	CNAME	cvli.rn.gov.br.
 dados.rn.gov.br.	0	IN	A	177.87.96.250
+dados.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 www.dados.rn.gov.br.	0	IN	CNAME	dados.rn.gov.br.
 dap.rn.gov.br.	0	IN	A	177.87.96.122
 datanorte.rn.gov.br.	0	IN	A	177.87.96.2
@@ -843,6 +847,7 @@ www.e-assembleia.rn.gov.br.	0	IN	A	187.76.194.116
 ead.rn.gov.br.	0	IN	A	177.87.96.7
 eadeg.rn.gov.br.	0	IN	CNAME	moodle2.rn.gov.br.
 eagenda.rn.gov.br.	0	IN	A	177.87.96.250
+eagenda.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 www.eagenda.rn.gov.br.	0	IN	CNAME	eagenda.rn.gov.br.
 portaldoaluno.eb.rn.gov.br.	0	IN	CNAME	ead.rn.gov.br.
 educacao.rn.gov.br.	0	IN	A	177.87.96.2
@@ -871,6 +876,7 @@ egrn.rn.gov.br.	0	IN	A	177.87.96.70
 ead.egrn.rn.gov.br.	0	IN	CNAME	moodle2.rn.gov.br.
 emater.rn.gov.br.	0	IN	A	177.87.96.94
 emater.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+emater.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 selecao.emater.rn.gov.br.	0	IN	CNAME	servicos.emater.rn.gov.br.
 servicos.emater.rn.gov.br.	0	IN	A	177.87.96.12
 www.emater.rn.gov.br.	0	IN	CNAME	emater.rn.gov.br.
@@ -1249,6 +1255,7 @@ pendencias.rn.gov.br.	0	IN	NS	hal.ns.cloudflare.com.
 pendencias.rn.gov.br.	0	IN	NS	daisy.ns.cloudflare.com.
 pge.rn.gov.br.	0	IN	A	177.87.96.94
 pge.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+pge.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 bi.pge.rn.gov.br.	0	IN	A	177.87.96.251
 divida.pge.rn.gov.br.	0	IN	A	177.87.96.31
 dividahomologa.pge.rn.gov.br.	0	IN	A	177.87.96.141
@@ -1362,6 +1369,7 @@ portaldoservidor.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 portalegre.rn.gov.br.	0	IN	NS	dns30174.dizinc.com.
 portalegre.rn.gov.br.	0	IN	NS	dns30175.dizinc.com.
 portalnovo.rn.gov.br.	0	IN	A	177.87.96.94
+portalnovo.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 www.portalnovo.rn.gov.br.	0	IN	CNAME	portalnovo.rn.gov.br.
 portalosc.rn.gov.br.	0	IN	CNAME	plp.sethas.rn.gov.br.
 portalsei.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
@@ -1647,7 +1655,9 @@ wiki.saude.rn.gov.br.	0	IN	CNAME	sistemas.saude.rn.gov.br.
 www.saude.rn.gov.br.	0	IN	CNAME	saude.rn.gov.br.
 sead.rn.gov.br.	0	IN	A	177.87.96.94
 sead.rn.gov.br.	0	IN	MX	1 zimbra.cotic.rn.gov.br.
+sead.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 censo.sead.rn.gov.br.	0	IN	A	177.87.96.250
+censo.sead.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 meet.sead.rn.gov.br.	0	IN	A	177.87.96.133
 selecao.sead.rn.gov.br.	0	IN	A	177.87.96.69
 www.selecao.sead.rn.gov.br.	0	IN	CNAME	selecao.sead.rn.gov.br.
@@ -1691,12 +1701,14 @@ seas.rn.gov.br.	0	IN	A	177.87.96.2
 www.seas.rn.gov.br.	0	IN	CNAME	seas.rn.gov.br.
 secult.rn.gov.br.	0	IN	A	177.87.96.94
 secult.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+secult.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 www.secult.rn.gov.br.	0	IN	CNAME	secult.rn.gov.br.
 sedec.rn.gov.br.	0	IN	A	177.87.96.2
 sedec.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
 www.sedec.rn.gov.br.	0	IN	CNAME	sedec.rn.gov.br.
 sedraf.rn.gov.br.	0	IN	A	177.87.96.94
 sedraf.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+sedraf.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 pecafes.sedraf.rn.gov.br.	0	IN	A	200.164.64.154
 www.pecafes.sedraf.rn.gov.br.	0	IN	CNAME	pecafes.sedraf.rn.gov.br.
 sistemas.sedraf.rn.gov.br.	0	IN	A	177.87.96.88
@@ -1742,6 +1754,7 @@ senadoreloidesouza.rn.gov.br.	0	IN	NS	ns952.hostgator.com.br.
 senadoreloidesouza.rn.gov.br.	0	IN	NS	ns953.hostgator.com.br.
 seplan.rn.gov.br.	0	IN	A	177.87.96.94
 seplan.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+seplan.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 googlee2dc67ef2be06c14.seplan.rn.gov.br.	0	IN	CNAME	google.com.
 governancainovadora.seplan.rn.gov.br.	0	IN	A	23.236.62.147
 m.governancainovadora.seplan.rn.gov.br.	0	IN	CNAME	www92.wixdns.net.
@@ -1834,6 +1847,7 @@ sgp.rn.gov.br.	0	IN	CNAME	appaspnet.rn.gov.br.
 siabi.rn.gov.br.	0	IN	CNAME	ead.rn.gov.br.
 www.siabi.rn.gov.br.	0	IN	CNAME	siabi.rn.gov.br.
 sic.rn.gov.br.	0	IN	A	177.87.96.250
+sic.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 www.sic.rn.gov.br.	0	IN	CNAME	sic.rn.gov.br.
 www.sigad.rn.gov.br.	0	IN	CNAME	ead.rn.gov.br.
 sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
