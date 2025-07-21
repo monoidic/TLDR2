@@ -10,7 +10,6 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -82,7 +81,6 @@
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
-* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -106,7 +104,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
@@ -136,6 +133,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -173,7 +171,6 @@
 * `guitars.`
 * `gv.ao.`
 * `hosp.uk.`
-* `hosted-by-previder.com.`
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
@@ -248,6 +245,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -267,6 +265,7 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -278,9 +277,8 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -373,7 +371,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
