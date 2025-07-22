@@ -8,6 +8,7 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -16,7 +17,6 @@
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
-* `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
@@ -28,6 +28,8 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
@@ -75,11 +77,11 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
+* `co.id.`
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -128,12 +130,12 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
-* `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -183,7 +185,6 @@
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
-* `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -278,9 +279,7 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -341,7 +340,9 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -360,7 +361,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -383,6 +383,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
