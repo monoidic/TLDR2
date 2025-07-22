@@ -21,7 +21,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -44,7 +43,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -106,6 +104,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
@@ -155,7 +154,6 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -179,15 +177,16 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
-* `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
+* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -208,12 +207,10 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
-* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -260,7 +257,6 @@
 * `net.ve.`
 * `netnod.se.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -278,11 +274,11 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -299,12 +295,10 @@
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
-* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
-* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -396,7 +390,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `web.id.`
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
