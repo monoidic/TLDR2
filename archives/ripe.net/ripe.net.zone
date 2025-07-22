@@ -9841,6 +9841,9 @@ rpki.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:116::a74:24
 _acme-challenge.rpki.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 alertmanager.rpki.prepdev.ripe.net.	0	IN	CNAME	prometheus-1.rpki.prepdev.ripe.net.
 _acme-challenge.alertmanager.rpki.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
+barman-test-1.rpki.prepdev.ripe.net.	0	IN	A	193.0.13.28
+barman-test-1.rpki.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::c100:d1c
+_acme-challenge.barman-test-1.rpki.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 core.rpki.prepdev.ripe.net.	0	IN	A	10.116.0.48
 core.rpki.prepdev.ripe.net.	0	IN	AAAA	2001:67c:2e8:116::a74:30
 _acme-challenge.core.rpki.prepdev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
