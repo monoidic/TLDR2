@@ -33,6 +33,7 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
+* `app.br.`
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
@@ -52,6 +53,7 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
+* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -93,7 +95,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -115,6 +116,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -169,6 +171,7 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
@@ -199,7 +202,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
-* `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
@@ -250,6 +252,7 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
+* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -273,11 +276,9 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
