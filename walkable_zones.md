@@ -8,7 +8,6 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -21,6 +20,7 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
+* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -28,8 +28,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
-* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
@@ -43,6 +41,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -76,7 +75,6 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
@@ -133,8 +131,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -154,6 +150,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -180,6 +177,7 @@
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
+* `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
@@ -207,10 +205,12 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
+* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -257,6 +257,7 @@
 * `net.ve.`
 * `netnod.se.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -279,6 +280,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -292,13 +294,16 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
+* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -336,9 +341,7 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -357,6 +360,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -379,7 +383,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
@@ -390,6 +393,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `web.id.`
 * `web.ve.`
 * `wed.`
 * `wiki.br.`

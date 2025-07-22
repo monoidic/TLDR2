@@ -1482,8 +1482,8 @@ dns.id-jog-as23951.anchors.atlas.ripe.net.	0	IN	NS	id-jog-as23951.anchors.atlas.
 id-srg-as142360.anchors.atlas.ripe.net.	0	IN	A	103.170.25.13
 id-srg-as142360.anchors.atlas.ripe.net.	0	IN	AAAA	2401:2620:2620:0:103:170:25:13
 dns.id-srg-as142360.anchors.atlas.ripe.net.	0	IN	NS	id-srg-as142360.anchors.atlas.ripe.net.
-ie-dub-as1213.anchors.atlas.ripe.net.	0	IN	A	193.1.201.140
-ie-dub-as1213.anchors.atlas.ripe.net.	0	IN	AAAA	2001:770:1c:11::c101:c98c
+ie-dub-as1213.anchors.atlas.ripe.net.	0	IN	A	193.1.33.9
+ie-dub-as1213.anchors.atlas.ripe.net.	0	IN	AAAA	2001:770:1c:7::c101:210b
 dns.ie-dub-as1213.anchors.atlas.ripe.net.	0	IN	NS	ie-dub-as1213.anchors.atlas.ripe.net.
 ie-ork-as42953.anchors.atlas.ripe.net.	0	IN	A	185.6.39.132
 ie-ork-as42953.anchors.atlas.ripe.net.	0	IN	AAAA	2a03:ac1:1:341::4
@@ -2047,8 +2047,8 @@ dns.nl-wrv-as56611-client.anchors.atlas.ripe.net.	0	IN	NS	nl-wrv-as56611-client.
 nl-zbo-as208751.anchors.atlas.ripe.net.	0	IN	A	45.135.151.45
 nl-zbo-as208751.anchors.atlas.ripe.net.	0	IN	AAAA	2a06:e881:6700:5::10
 dns.nl-zbo-as208751.anchors.atlas.ripe.net.	0	IN	NS	nl-zbo-as208751.anchors.atlas.ripe.net.
-no-boo-as29695-client.anchors.atlas.ripe.net.	0	IN	A	77.110.218.255
-no-boo-as29695-client.anchors.atlas.ripe.net.	0	IN	AAAA	2a00:e08:4000:12ef::2
+no-boo-as29695-client.anchors.atlas.ripe.net.	0	IN	A	81.166.54.213
+no-boo-as29695-client.anchors.atlas.ripe.net.	0	IN	AAAA	2a01:79a:75::5
 dns.no-boo-as29695-client.anchors.atlas.ripe.net.	0	IN	NS	no-boo-as29695-client.anchors.atlas.ripe.net.
 no-fde-as35132.anchors.atlas.ripe.net.	0	IN	A	62.50.171.162
 no-fde-as35132.anchors.atlas.ripe.net.	0	IN	AAAA	2a02:1660:4000:2a::2
@@ -2212,7 +2212,7 @@ ro-ias-as60149.anchors.atlas.ripe.net.	0	IN	A	86.107.73.26
 ro-ias-as60149.anchors.atlas.ripe.net.	0	IN	AAAA	2001:67c:10:1102::11
 dns.ro-ias-as60149.anchors.atlas.ripe.net.	0	IN	NS	ro-ias-as60149.anchors.atlas.ripe.net.
 ro-tgm-as214402.anchors.atlas.ripe.net.	0	IN	A	44.32.77.3
-ro-tgm-as214402.anchors.atlas.ripe.net.	0	IN	AAAA	2a0d:8140:6000::2
+ro-tgm-as214402.anchors.atlas.ripe.net.	0	IN	AAAA	2a11:29c0:3d93:1::5
 dns.ro-tgm-as214402.anchors.atlas.ripe.net.	0	IN	NS	ro-tgm-as214402.anchors.atlas.ripe.net.
 ro-tsr-as60149.anchors.atlas.ripe.net.	0	IN	A	93.113.126.132
 ro-tsr-as60149.anchors.atlas.ripe.net.	0	IN	AAAA	2001:678:928:1102::11
@@ -3577,7 +3577,8 @@ reg-04.prod.atlas.ripe.net.	0	IN	A	193.0.19.247
 reg-04.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:13f7
 _acme-challenge.reg-04.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 stream.prod.atlas.ripe.net.	0	IN	A	193.0.11.38
-stream.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b25
+stream.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b26
+_acme-challenge.stream.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 stream-01.prod.atlas.ripe.net.	0	IN	A	193.0.19.80
 stream-01.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1350
 _acme-challenge.stream-01.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -3585,7 +3586,8 @@ stream-02.prod.atlas.ripe.net.	0	IN	A	193.0.19.81
 stream-02.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1351
 _acme-challenge.stream-02.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ui.prod.atlas.ripe.net.	0	IN	A	193.0.11.37
-ui.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b24
+ui.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:25::c100:b25
+_acme-challenge.ui.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ui-01.prod.atlas.ripe.net.	0	IN	A	10.72.0.21
 ui-01.prod.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:72::a48:15
 _acme-challenge.ui-01.prod.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
