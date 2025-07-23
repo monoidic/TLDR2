@@ -8,6 +8,7 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -105,7 +106,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
@@ -116,6 +116,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -188,7 +189,6 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -271,14 +271,11 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -323,7 +320,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -332,6 +328,7 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
+* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -345,7 +342,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -364,6 +360,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -374,6 +371,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
