@@ -95,6 +95,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -107,7 +108,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
@@ -202,6 +202,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
+* `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
@@ -276,9 +277,11 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -296,6 +299,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
