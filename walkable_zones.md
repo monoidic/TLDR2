@@ -19,6 +19,7 @@
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
+* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -61,6 +62,7 @@
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
+* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -78,12 +80,15 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
+* `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -93,6 +98,7 @@
 * `curitiba.br.`
 * `cw.`
 * `d-zone.ca.`
+* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `desi.`
@@ -131,6 +137,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -140,6 +147,7 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
+* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -202,6 +210,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -254,6 +263,7 @@
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -270,15 +280,14 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -290,6 +299,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -301,14 +311,17 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -320,6 +333,7 @@
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
+* `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
@@ -334,7 +348,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -347,12 +360,12 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
