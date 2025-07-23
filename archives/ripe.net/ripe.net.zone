@@ -9549,6 +9549,7 @@ nexus-2.ripe.net.	0	IN	A	193.0.19.61
 nexus-2.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:133d
 _acme-challenge.nexus-2.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 nik-sus-1.ripe.net.	0	IN	CNAME	eqix3-sus-1.ripe.net.
+northc.ripe.net.	0	IN	CNAME	fe-0-0-1.tc5-oob-fw-1.ripe.net.
 nro-apps-1.ripe.net.	0	IN	A	193.0.19.45
 nro-apps-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:132d
 _acme-challenge.nro-apps-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -10757,7 +10758,6 @@ smarthost.ripe.net.	0	IN	CNAME	mail-out-1.ripe.net.
 _acme-challenge.smarthost.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 smtp.ripe.net.	0	IN	CNAME	mail-out-1.ripe.net.
 _acme-challenge.smtp.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-snarez.ripe.net.	0	IN	A	193.0.0.179
 sonarqube.ripe.net.	0	IN	CNAME	sonarqube-1.ripe.net.
 _acme-challenge.sonarqube.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 sonarqube-1.ripe.net.	0	IN	A	10.102.0.70
@@ -11159,7 +11159,6 @@ _acme-challenge.vmagent.swe-rpki-dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 vmalert.swe-rpki-dev.ripe.net.	0	IN	CNAME	nginx-internal.swe-rpki-dev.ripe.net.
 _acme-challenge.vmalert.swe-rpki-dev.ripe.net.	0	IN	CNAME	acme-k8s.ripe.net.
 tarpan.ripe.net.	0	IN	A	193.0.7.109
-tc5.ripe.net.	0	IN	CNAME	pp0.tc5-oob-fw-1.ripe.net.
 tc5-5c-1-prod.ripe.net.	0	IN	AAAA	2001:67c:2e8:24::a18:1e
 tc5-cns-z3g-a02.ripe.net.	0	IN	A	10.200.0.69
 tc5-cns-z3g-a04.ripe.net.	0	IN	A	10.200.0.41
@@ -11236,8 +11235,8 @@ vifa-33.tc5-lb-virt-5.ripe.net.	0	IN	A	193.0.13.3
 vifa-33.tc5-lb-virt-5.ripe.net.	0	IN	AAAA	2001:67c:2e8:33::3
 tc5-oob-fw-1.ripe.net.	0	IN	A	10.200.0.27
 tc5-oob-fw-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:200::ac8:1b
+fe-0-0-1.tc5-oob-fw-1.ripe.net.	0	IN	A	62.133.74.216
 fe-0-0-6-alias0.tc5-oob-fw-1.ripe.net.	0	IN	A	10.200.4.18
-pp0.tc5-oob-fw-1.ripe.net.	0	IN	A	86.82.70.244
 tc5-oob-sw-1.ripe.net.	0	IN	A	10.200.0.81
 tc5-pdu-z3g-a01-a.ripe.net.	0	IN	A	10.200.0.82
 tc5-pdu-z3g-a01-b.ripe.net.	0	IN	A	10.200.0.83
