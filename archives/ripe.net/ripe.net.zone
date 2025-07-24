@@ -177,7 +177,7 @@ aso-new.ripe.net.	0	IN	A	193.0.19.75
 aso-new.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:134b
 aso-old.ripe.net.	0	IN	A	193.0.19.75
 aso-old.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:134b
-atlas.ripe.net.	0	IN	CNAME	atlas-ui.ripe.net.
+atlas.ripe.net.	0	IN	CNAME	ui.prod.atlas.ripe.net.
 _acme-challenge.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 _443._tcp.atlas.ripe.net.	0	IN	CNAME	le-root-tlsa.ripe.net.
 admin.atlas.ripe.net.	0	IN	A	193.0.19.16
@@ -3725,7 +3725,7 @@ _acme-challenge.worker3.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 worker4.atlas.ripe.net.	0	IN	A	193.0.19.143
 worker4.atlas.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:138f
 _acme-challenge.worker4.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-www.atlas.ripe.net.	0	IN	CNAME	atlas-ui.ripe.net.
+www.atlas.ripe.net.	0	IN	CNAME	atlas.ripe.net.
 _acme-challenge.www.atlas.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 db.atlas-dev.ripe.net.	0	IN	CNAME	db.atlas.dev.ripe.net.
 db3.atlas-dev.ripe.net.	0	IN	A	10.102.0.59
