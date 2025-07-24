@@ -26,7 +26,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -133,9 +132,7 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
-* `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -156,7 +153,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.leg.br.`
+* `go.id.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -189,7 +186,6 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -246,7 +242,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -269,7 +264,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.dm.`
+* `nic.diet.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -312,6 +307,7 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
