@@ -4705,18 +4705,12 @@ _acme-challenge.ba-resource-requests-2.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.
 ba-worker-2.dev.ripe.net.	0	IN	A	10.114.1.49
 ba-worker-2.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:131
 _acme-challenge.ba-worker-2.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-beefmaster.dev.ripe.net.	0	IN	A	10.114.0.26
-beefmaster.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:1a
-_acme-challenge.beefmaster.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 boran.dev.ripe.net.	0	IN	A	10.114.0.40
 boran.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:28
 _acme-challenge.boran.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 build-int-1.dev.ripe.net.	0	IN	A	10.114.0.37
 build-int-1.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:25
 _acme-challenge.build-int-1.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-chameleon.dev.ripe.net.	0	IN	A	10.114.0.25
-chameleon.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:19
-_acme-challenge.chameleon.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 cnagy.dev.ripe.net.	0	IN	A	10.114.1.59
 cnagy.dev.ripe.net.	0	IN	AAAA	2001:67c:2e8:114::a72:13b
 _acme-challenge.cnagy.dev.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
@@ -5486,6 +5480,7 @@ vlan-81.eqix3-syn-1.ripe.net.	0	IN	A	10.81.0.17
 vlan-82.eqix3-syn-1.ripe.net.	0	IN	A	10.82.0.17
 vlan-84.eqix3-syn-1.ripe.net.	0	IN	A	10.84.0.16
 eqix3-syn-2.ripe.net.	0	IN	CNAME	vlan-81.eqix3-syn-2.ripe.net.
+vlan-106.eqix3-syn-2.ripe.net.	0	IN	A	10.106.0.8
 vlan-81.eqix3-syn-2.ripe.net.	0	IN	A	10.81.0.20
 vlan-91.eqix3-syn-2.ripe.net.	0	IN	A	10.91.0.21
 eqix3-syn-3.ripe.net.	0	IN	CNAME	vlan-81.eqix3-syn-3.ripe.net.
@@ -6003,6 +5998,7 @@ vlan-81.ha-syn-1.ripe.net.	0	IN	A	10.81.0.18
 vlan-82.ha-syn-1.ripe.net.	0	IN	A	10.82.0.18
 vlan-84.ha-syn-1.ripe.net.	0	IN	A	10.84.0.17
 ha-syn-2.ripe.net.	0	IN	CNAME	vlan-81.ha-syn-2.ripe.net.
+vlan-106.ha-syn-2.ripe.net.	0	IN	A	10.106.0.10
 vlan-81.ha-syn-2.ripe.net.	0	IN	A	10.81.0.21
 vlan-91.ha-syn-2.ripe.net.	0	IN	A	10.91.0.20
 bastion-dev.hdp1.ripe.net.	0	IN	A	10.106.0.15
@@ -11293,6 +11289,7 @@ vlan-81.tc5-syn-1.ripe.net.	0	IN	A	10.81.0.16
 vlan-82.tc5-syn-1.ripe.net.	0	IN	A	10.82.0.16
 vlan-84.tc5-syn-1.ripe.net.	0	IN	A	10.84.0.15
 tc5-syn-2.ripe.net.	0	IN	CNAME	vlan-81.tc5-syn-2.ripe.net.
+vlan-106.tc5-syn-2.ripe.net.	0	IN	A	10.106.0.9
 vlan-81.tc5-syn-2.ripe.net.	0	IN	A	10.81.0.19
 vlan-91.tc5-syn-2.ripe.net.	0	IN	A	10.91.0.22
 xe-1-2-0-18.tc5rtr.ripe.net.	0	IN	A	193.0.0.235
