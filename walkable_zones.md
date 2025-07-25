@@ -95,7 +95,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -175,6 +174,7 @@
 * `guitars.`
 * `gv.ao.`
 * `hosp.uk.`
+* `hosted-by-previder.com.`
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
@@ -190,6 +190,7 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
+* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -208,6 +209,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -222,7 +224,6 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -242,6 +243,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -251,7 +253,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -266,7 +267,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -276,15 +276,15 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -295,7 +295,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -307,8 +306,10 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -334,6 +335,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -349,6 +351,7 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
@@ -360,7 +363,6 @@
 * `slg.br.`
 * `slz.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`

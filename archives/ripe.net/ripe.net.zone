@@ -2754,8 +2754,8 @@ us-abn-as43996.anchors.atlas.ripe.net.	0	IN	AAAA	2a01:5040:2000:30::e
 dns.us-abn-as43996.anchors.atlas.ripe.net.	0	IN	NS	us-abn-as43996.anchors.atlas.ripe.net.
 us-abn-as5006.anchors.atlas.ripe.net.	0	IN	A	206.144.4.4
 dns.us-abn-as5006.anchors.atlas.ripe.net.	0	IN	NS	us-abn-as5006.anchors.atlas.ripe.net.
-us-abs-as398355.anchors.atlas.ripe.net.	0	IN	A	104.167.241.3
-us-abs-as398355.anchors.atlas.ripe.net.	0	IN	AAAA	2602:fccf:100:3::13
+us-abs-as398355.anchors.atlas.ripe.net.	0	IN	A	23.186.248.2
+us-abs-as398355.anchors.atlas.ripe.net.	0	IN	AAAA	2602:f83a::2
 dns.us-abs-as398355.anchors.atlas.ripe.net.	0	IN	NS	us-abs-as398355.anchors.atlas.ripe.net.
 us-asc-as40581.anchors.atlas.ripe.net.	0	IN	A	208.90.108.84
 us-asc-as40581.anchors.atlas.ripe.net.	0	IN	AAAA	2607:f4f0:0:e000:1::3
@@ -3320,7 +3320,7 @@ uy-mvd-as6057.anchors.atlas.ripe.net.	0	IN	A	190.64.201.9
 uy-mvd-as6057.anchors.atlas.ripe.net.	0	IN	AAAA	2800:a8:a05::2019
 dns.uy-mvd-as6057.anchors.atlas.ripe.net.	0	IN	NS	uy-mvd-as6057.anchors.atlas.ripe.net.
 uz-tas-as8193.anchors.atlas.ripe.net.	0	IN	A	84.54.64.38
-uz-tas-as8193.anchors.atlas.ripe.net.	0	IN	AAAA	2a05:45c7:e000::38
+uz-tas-as8193.anchors.atlas.ripe.net.	0	IN	AAAA	2a05:45c7:e002:100::38
 dns.uz-tas-as8193.anchors.atlas.ripe.net.	0	IN	NS	uz-tas-as8193.anchors.atlas.ripe.net.
 ve-bla-as21826.anchors.atlas.ripe.net.	0	IN	A	200.82.230.152
 ve-bla-as21826.anchors.atlas.ripe.net.	0	IN	AAAA	2803:8100:c402:6::1
@@ -4432,9 +4432,6 @@ _acme-challenge.api.container-tests-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 vlan-81.container-tests-1.ripe.net.	0	IN	A	10.81.0.51
 cormorant.ripe.net.	0	IN	A	193.0.19.106
 cormorant.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:136a
-cow.ripe.net.	0	IN	A	193.0.1.33
-cow.ripe.net.	0	IN	AAAA	2001:67c:2e8:1::c100:121
-_acme-challenge.cow.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 cron.ripe.net.	0	IN	CNAME	appserv-1.ripe.net.
 cryptosaurus.ripe.net.	0	IN	A	193.0.19.149
 cryptosaurus.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1395
@@ -9662,10 +9659,6 @@ _acme-challenge.opentelemetry.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 ops-action-1.ripe.net.	0	IN	A	193.0.19.6
 ops-action-1.ripe.net.	0	IN	AAAA	2001:67c:2e8:11::c100:1306
 _acme-challenge.ops-action-1.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-parapet.ripe.net.	0	IN	A	193.0.1.111
-parapet.ripe.net.	0	IN	AAAA	2001:67c:2e8:1::c100:16f
-_acme-challenge.parapet.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
-vlan-81.parapet.ripe.net.	0	IN	A	10.81.0.48
 _acme-challenge.pbx.ripe.net.	0	IN	CNAME	acme-certs.ripe.net.
 pdeweerd-test-1.ripe.net.	0	IN	A	193.0.1.8
 perfsonar-probe.ripe.net.	0	IN	A	193.0.0.185
