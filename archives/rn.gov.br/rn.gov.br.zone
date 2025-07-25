@@ -756,11 +756,13 @@ www.dados.rn.gov.br.	0	IN	CNAME	dados.rn.gov.br.
 dap.rn.gov.br.	0	IN	A	177.87.96.122
 datanorte.rn.gov.br.	0	IN	A	177.87.96.2
 datanorte.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+datanorte.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 www.datanorte.rn.gov.br.	0	IN	CNAME	datanorte.rn.gov.br.
-defesacivil.rn.gov.br.	0	IN	A	177.87.96.2
+defesacivil.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.defesacivil.rn.gov.br.	0	IN	CNAME	defesacivil.rn.gov.br.
 defesasocial.rn.gov.br.	0	IN	A	177.87.96.2
 defesasocial.rn.gov.br.	0	IN	MX	10 mail.defesasocial.rn.gov.br.
+defesasocial.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 ci1.defesasocial.rn.gov.br.	0	IN	A	177.87.96.17
 ci2.defesasocial.rn.gov.br.	0	IN	A	177.87.96.18
 ci3.defesasocial.rn.gov.br.	0	IN	A	177.87.96.19
@@ -786,6 +788,7 @@ www8.defesasocial.rn.gov.br.	0	IN	A	177.87.96.36
 www9.defesasocial.rn.gov.br.	0	IN	A	177.87.96.72
 dei.rn.gov.br.	0	IN	A	177.87.96.2
 dei.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+dei.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 sdoe.dei.rn.gov.br.	0	IN	NS	ns-120.awsdns-15.com.
 sdoe.dei.rn.gov.br.	0	IN	NS	ns-780.awsdns-33.net.
 sdoe.dei.rn.gov.br.	0	IN	NS	ns-1249.awsdns-28.org.
@@ -793,6 +796,7 @@ sdoe.dei.rn.gov.br.	0	IN	NS	ns-1594.awsdns-07.co.uk.
 www.dei.rn.gov.br.	0	IN	CNAME	dei.rn.gov.br.
 der.rn.gov.br.	0	IN	A	177.87.96.2
 der.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+der.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 www.der.rn.gov.br.	0	IN	CNAME	der.rn.gov.br.
 detran.rn.gov.br.	0	IN	A	189.89.66.178
 detran.rn.gov.br.	0	IN	MX	10 mail.detran.rn.gov.br.
@@ -855,13 +859,13 @@ eagenda.rn.gov.br.	0	IN	A	177.87.96.250
 eagenda.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::fa
 www.eagenda.rn.gov.br.	0	IN	CNAME	eagenda.rn.gov.br.
 portaldoaluno.eb.rn.gov.br.	0	IN	CNAME	ead.rn.gov.br.
-educacao.rn.gov.br.	0	IN	A	177.87.96.2
+educacao.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 codesp.educacao.rn.gov.br.	0	IN	CNAME	educacao.rn.gov.br.
 crerser.educacao.rn.gov.br.	0	IN	CNAME	ensinomediopotiguar.educacao.rn.gov.br.
 ensinomediopotiguar.educacao.rn.gov.br.	0	IN	A	189.89.79.149
 etern.educacao.rn.gov.br.	0	IN	CNAME	ensinomediopotiguar.educacao.rn.gov.br.
 faroldosaberpotiguar.educacao.rn.gov.br.	0	IN	CNAME	ensinomediopotiguar.educacao.rn.gov.br.
-www.focoaprendizagem.educacao.rn.gov.br.	0	IN	A	177.87.96.2
+www.focoaprendizagem.educacao.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 qvst.educacao.rn.gov.br.	0	IN	CNAME	ensinomediopotiguar.educacao.rn.gov.br.
 sab.educacao.rn.gov.br.	0	IN	CNAME	educacao.rn.gov.br.
 sigeduc.educacao.rn.gov.br.	0	IN	A	177.87.96.80
@@ -875,7 +879,7 @@ educar.rn.gov.br.	0	IN	MX	5 alt2.aspmx.l.google.com.
 educar.rn.gov.br.	0	IN	MX	10 alt3.aspmx.l.google.com.
 educar.rn.gov.br.	0	IN	MX	10 alt4.aspmx.l.google.com.
 educar.rn.gov.br.	0	IN	MX	15 iooyxogb4cgvfstc6hcmbbhoq5zkvju5a5nffbizavfk6pvgspyq.mx-verification.google.com.
-ee.rn.gov.br.	0	IN	A	177.87.96.2
+ee.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.ee.rn.gov.br.	0	IN	CNAME	ee.rn.gov.br.
 egrn.rn.gov.br.	0	IN	A	177.87.96.70
 ead.egrn.rn.gov.br.	0	IN	CNAME	moodle2.rn.gov.br.
@@ -887,9 +891,11 @@ servicos.emater.rn.gov.br.	0	IN	A	177.87.96.12
 www.emater.rn.gov.br.	0	IN	CNAME	emater.rn.gov.br.
 emgern.rn.gov.br.	0	IN	A	177.87.96.2
 emgern.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+emgern.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 www.emgern.rn.gov.br.	0	IN	CNAME	emgern.rn.gov.br.
 emparn.rn.gov.br.	0	IN	A	177.87.96.2
 emparn.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+emparn.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 meteorologia.emparn.rn.gov.br.	0	IN	A	177.87.96.214
 www.emparn.rn.gov.br.	0	IN	CNAME	emparn.rn.gov.br.
 emprotur.rn.gov.br.	0	IN	A	177.87.96.103
@@ -897,18 +903,18 @@ emprotur.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
 www.emprotur.rn.gov.br.	0	IN	CNAME	emprotur.rn.gov.br.
 encanto.rn.gov.br.	0	IN	NS	ns1.kingpage7.com.br.
 encanto.rn.gov.br.	0	IN	NS	ns2.kingpage7.com.br.
-eptran.rn.gov.br.	0	IN	A	177.87.96.2
+eptran.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.eptran.rn.gov.br.	0	IN	CNAME	eptran.rn.gov.br.
 equador.rn.gov.br.	0	IN	NS	dns30174.dizinc.com.
 equador.rn.gov.br.	0	IN	NS	dns30175.dizinc.com.
-escoladegoverno.rn.gov.br.	0	IN	A	177.87.96.2
+escoladegoverno.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 certificado.escoladegoverno.rn.gov.br.	0	IN	CNAME	escoladegoverno.rn.gov.br.
 www.escoladegoverno.rn.gov.br.	0	IN	CNAME	escoladegoverno.rn.gov.br.
 escutaativa.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
 www.escutaativa.rn.gov.br.	0	IN	CNAME	escutaativa.rn.gov.br.
 espiritosanto.rn.gov.br.	0	IN	NS	nspro34.hostgator.com.br.
 espiritosanto.rn.gov.br.	0	IN	NS	nspro35.hostgator.com.br.
-esprn.rn.gov.br.	0	IN	A	177.87.96.2
+esprn.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.esprn.rn.gov.br.	0	IN	CNAME	esprn.rn.gov.br.
 estudante.rn.gov.br.	0	IN	MX	1 aspmx.l.google.com.
 estudante.rn.gov.br.	0	IN	MX	5 alt1.aspmx.l.google.com.
@@ -919,6 +925,7 @@ extremoz.rn.gov.br.	0	IN	NS	ns-528.awsdns-02.net.
 extremoz.rn.gov.br.	0	IN	NS	ns-1239.awsdns-26.org.
 fapern.rn.gov.br.	0	IN	A	177.87.96.2
 fapern.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+fapern.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 www.fapern.rn.gov.br.	0	IN	CNAME	fapern.rn.gov.br.
 felipeguerra.rn.gov.br.	0	IN	NS	ns1.rgsites.com.br.
 felipeguerra.rn.gov.br.	0	IN	NS	ns2.rgsites.com.br.
@@ -937,8 +944,7 @@ franciscodantas.rn.gov.br.	0	IN	NS	dns30174.dizinc.com.
 franciscodantas.rn.gov.br.	0	IN	NS	dns30175.dizinc.com.
 frutuosogomes.rn.gov.br.	0	IN	NS	wells.ns.cloudflare.com.
 frutuosogomes.rn.gov.br.	0	IN	NS	collins.ns.cloudflare.com.
-fundac.rn.gov.br.	0	IN	A	177.87.96.2
-servicos.fundac.rn.gov.br.	0	IN	A	177.87.96.61
+fundac.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.fundac.rn.gov.br.	0	IN	CNAME	fundac.rn.gov.br.
 fundase.rn.gov.br.	0	IN	A	177.87.96.2
 fundase.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
@@ -1677,7 +1683,6 @@ sgt.saude.rn.gov.br.	0	IN	A	177.87.98.3
 sigte.saude.rn.gov.br.	0	IN	A	177.87.96.242
 sigtele.saude.rn.gov.br.	0	IN	A	177.87.96.82
 simsinasc.saude.rn.gov.br.	0	IN	A	177.87.96.47
-sinan.saude.rn.gov.br.	0	IN	A	177.87.96.32
 sisdim.saude.rn.gov.br.	0	IN	A	177.87.96.99
 sisjud.saude.rn.gov.br.	0	IN	A	177.87.96.33
 sismap.saude.rn.gov.br.	0	IN	CNAME	rededetalentos.rn.gov.br.
@@ -1711,20 +1716,21 @@ www.selecao.sead.rn.gov.br.	0	IN	CNAME	selecao.sead.rn.gov.br.
 www.sead.rn.gov.br.	0	IN	CNAME	sead.rn.gov.br.
 seap.rn.gov.br.	0	IN	A	177.87.96.2
 seap.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
+seap.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 api.seap.rn.gov.br.	0	IN	CNAME	siapen.sejuc.rn.gov.br.
 armaria.seap.rn.gov.br.	0	IN	CNAME	siapen.sejuc.rn.gov.br.
 hml.armaria.seap.rn.gov.br.	0	IN	CNAME	hml.siapen.sejuc.rn.gov.br.
-ctc.seap.rn.gov.br.	0	IN	CNAME	siapen.sejuc.rn.gov.br.
+ctc.seap.rn.gov.br.	0	IN	A	177.87.96.32
 hml.ctc.seap.rn.gov.br.	0	IN	CNAME	hml.siapen.sejuc.rn.gov.br.
-diarias.seap.rn.gov.br.	0	IN	A	177.87.96.96
-hml.diarias.seap.rn.gov.br.	0	IN	A	177.87.96.132
+diarias.seap.rn.gov.br.	0	IN	CNAME	ctc.seap.rn.gov.br.
+hml.diarias.seap.rn.gov.br.	0	IN	CNAME	hml.siapen.sejuc.rn.gov.br.
 hml.integracoes.seap.rn.gov.br.	0	IN	CNAME	hml.diarias.seap.rn.gov.br.
 jenkins.seap.rn.gov.br.	0	IN	CNAME	panoptico.seap.rn.gov.br.
 keycloak.seap.rn.gov.br.	0	IN	CNAME	panoptico.seap.rn.gov.br.
 moodle.seap.rn.gov.br.	0	IN	A	177.87.96.165
 observabilidade.seap.rn.gov.br.	0	IN	CNAME	panoptico.seap.rn.gov.br.
 panoptico.seap.rn.gov.br.	0	IN	A	177.87.96.161
-saude.seap.rn.gov.br.	0	IN	CNAME	siapen.sejuc.rn.gov.br.
+saude.seap.rn.gov.br.	0	IN	CNAME	ctc.seap.rn.gov.br.
 hml.saude.seap.rn.gov.br.	0	IN	CNAME	hml.siapen.sejuc.rn.gov.br.
 visita.seap.rn.gov.br.	0	IN	A	177.87.96.154
 hml.visita.seap.rn.gov.br.	0	IN	CNAME	hml.siapen.sejuc.rn.gov.br.
@@ -1940,6 +1946,8 @@ arquivos.sipac.rn.gov.br.	0	IN	A	177.87.96.114
 homologacao.sipac.rn.gov.br.	0	IN	A	177.87.96.112
 sisprod-homologacao.sipac.rn.gov.br.	0	IN	CNAME	homologacao.sipac.rn.gov.br.
 sipat.rn.gov.br.	0	IN	CNAME	appaspnet.rn.gov.br.
+sisautarm.rn.gov.br.	0	IN	A	177.87.96.61
+www.sisautarm.rn.gov.br.	0	IN	CNAME	sisautarm.rn.gov.br.
 sistemascbm.rn.gov.br.	0	IN	CNAME	sistemas.cbm.rn.gov.br.
 sitionovo.rn.gov.br.	0	IN	NS	wells.ns.cloudflare.com.
 sitionovo.rn.gov.br.	0	IN	NS	collins.ns.cloudflare.com.
