@@ -74,7 +74,7 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
-* `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -189,6 +189,7 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
+* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -286,6 +287,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -297,7 +299,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
