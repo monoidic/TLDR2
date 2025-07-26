@@ -28,7 +28,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
-* `anycast.co.tz.`
+* `anani.br.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -38,7 +38,6 @@
 * `arq.br.`
 * `art.br.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -76,6 +75,7 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
+* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `com.bt.`
@@ -219,6 +219,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -276,7 +277,7 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -296,12 +297,14 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
