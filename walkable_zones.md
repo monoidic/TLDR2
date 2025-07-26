@@ -16,6 +16,7 @@
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
+* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -107,6 +108,7 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -173,6 +175,7 @@
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -197,6 +200,7 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
+* `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
@@ -212,6 +216,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -231,13 +236,12 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
+* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -249,6 +253,7 @@
 * `net.bt.`
 * `net.er.`
 * `net.id.`
+* `net.kz.`
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
@@ -266,9 +271,11 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -276,10 +283,8 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -290,6 +295,8 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
+* `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
@@ -351,11 +358,11 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
