@@ -16,7 +16,6 @@
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -40,10 +39,10 @@
 * `art.br.`
 * `asso.mc.`
 * `ati.tn.`
+* `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
-* `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -67,6 +66,7 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
+* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -76,8 +76,8 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
+* `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -107,7 +107,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -167,10 +166,12 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hosp.uk.`
+* `hosted-by-previder.com.`
 * `hosting.`
 * `id.`
 * `id.pub.`
@@ -196,7 +197,6 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
@@ -204,6 +204,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -211,7 +212,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -231,7 +231,6 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
@@ -250,7 +249,6 @@
 * `net.bt.`
 * `net.er.`
 * `net.id.`
-* `net.kz.`
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
@@ -268,11 +266,9 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -294,9 +290,9 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
+* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
@@ -309,10 +305,12 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -323,9 +321,11 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
+* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -350,10 +350,12 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -364,7 +366,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
