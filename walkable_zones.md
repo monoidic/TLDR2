@@ -44,6 +44,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -51,6 +52,7 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -73,7 +75,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -204,6 +205,7 @@
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -222,6 +224,7 @@
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
+* `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
@@ -229,12 +232,15 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
+* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
@@ -255,6 +261,7 @@
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -269,6 +276,7 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -285,12 +293,12 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -332,7 +340,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -376,6 +383,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `torproject.net.`
+* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
