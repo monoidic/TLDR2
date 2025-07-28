@@ -1892,8 +1892,8 @@ ap-hautkatanga.cd.	0	IN	NS	ns1.hosting.cd.
 ap-hautkatanga.cd.	0	IN	NS	ns2.hosting.cd.
 ap-kasaioriental.cd.	0	IN	NS	ns1.hosting.cd.
 ap-kasaioriental.cd.	0	IN	NS	ns2.hosting.cd.
-ap-lomami.cd.	0	IN	NS	ns1.hosting.cd.
-ap-lomami.cd.	0	IN	NS	ns2.hosting.cd.
+ap-lomami.cd.	0	IN	NS	ns1.ap-lomami.cd.
+ns1.ap-lomami.cd.	0	IN	A	180.149.199.93
 ap-lualaba.cd.	0	IN	NS	ns1.ap-lualaba.cd.
 ns1.ap-lualaba.cd.	0	IN	A	180.149.199.76
 ap-tshopo.cd.	0	IN	NS	ns1.ap-tshopo.cd.
@@ -8401,6 +8401,8 @@ fondationdnt.cd.	0	IN	NS	ns1.mongwd.com.
 fondationdnt.cd.	0	IN	NS	ns2.mongwd.com.
 fondationgt.cd.	0	IN	NS	ns1.uniteddns.net.
 fondationgt.cd.	0	IN	NS	ns2.uniteddns.net.
+fondationlasource.cd.	0	IN	NS	ns1.o2switch.net.
+fondationlasource.cd.	0	IN	NS	ns2.o2switch.net.
 fondationlolakisanga.cd.	0	IN	NS	ns1.skylink243.net.
 fondationlolakisanga.cd.	0	IN	NS	ns2.skylink243.net.
 fondationmbiya.cd.	0	IN	NS	ns1.fklm.net.
