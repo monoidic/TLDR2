@@ -27,7 +27,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
-* `anycast.co.tz.`
+* `anani.br.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -42,6 +42,8 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
+* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -77,12 +79,14 @@
 * `co.id.`
 * `co.ve.`
 * `com.bt.`
+* `com.ge.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -90,7 +94,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -103,6 +106,7 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
@@ -123,6 +127,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -190,6 +195,7 @@
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
+* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
@@ -213,6 +219,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -235,6 +242,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -248,6 +256,7 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
@@ -266,8 +275,11 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -280,6 +292,7 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
@@ -299,14 +312,15 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -324,6 +338,7 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
+* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
@@ -331,6 +346,7 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
+* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
@@ -341,7 +357,6 @@
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
-* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
