@@ -2863,12 +2863,26 @@ v2n0.nic.capital.	0	IN	A	65.22.31.10
 v2n0.nic.capital.	0	IN	AAAA	2a01:8840:21::10
 v2n1.nic.capital.	0	IN	A	161.232.15.10
 v2n1.nic.capital.	0	IN	AAAA	2a01:8840:f9::10
-capitalone.	0	IN	NS	ac1.nstld.com.
-capitalone.	0	IN	NS	ac2.nstld.com.
-capitalone.	0	IN	NS	ac3.nstld.com.
-capitalone.	0	IN	NS	ac4.nstld.com.
+capitalone.	0	IN	NS	a.nic.capitalone.
+capitalone.	0	IN	NS	b.nic.capitalone.
+capitalone.	0	IN	NS	c.nic.capitalone.
+capitalone.	0	IN	NS	x.nic.capitalone.
+capitalone.	0	IN	NS	y.nic.capitalone.
+capitalone.	0	IN	NS	z.nic.capitalone.
 capitalone.	0	IN	DS	16365 8 2 017564f7c0204b23e19605e08e5dcf57c286d6d5097b53440de91d4f04d3abac
 capitalone.	0	IN	DS	35674 8 2 18a369b6ca7ecd8c34858091e85c169d7d7df070b019a714e8928f6489ed4985
+a.nic.capitalone.	0	IN	A	37.209.192.9
+a.nic.capitalone.	0	IN	AAAA	2001:dcd:1::9
+b.nic.capitalone.	0	IN	A	37.209.194.9
+b.nic.capitalone.	0	IN	AAAA	2001:dcd:2::9
+c.nic.capitalone.	0	IN	A	37.209.196.9
+c.nic.capitalone.	0	IN	AAAA	2001:dcd:3::9
+x.nic.capitalone.	0	IN	A	156.154.172.82
+x.nic.capitalone.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.capitalone.	0	IN	A	156.154.173.82
+y.nic.capitalone.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.capitalone.	0	IN	A	156.154.174.82
+z.nic.capitalone.	0	IN	AAAA	2610:a1:1076::1:82
 car.	0	IN	NS	a.nic.car.
 car.	0	IN	NS	b.nic.car.
 car.	0	IN	NS	c.nic.car.
@@ -12384,12 +12398,26 @@ c.nic.nokia.	0	IN	A	212.18.248.159
 c.nic.nokia.	0	IN	AAAA	2a04:2b00:13ee::159
 d.nic.nokia.	0	IN	A	212.18.249.159
 d.nic.nokia.	0	IN	AAAA	2a04:2b00:13ff::159
-norton.	0	IN	NS	ac1.nstld.com.
-norton.	0	IN	NS	ac2.nstld.com.
-norton.	0	IN	NS	ac3.nstld.com.
-norton.	0	IN	NS	ac4.nstld.com.
+norton.	0	IN	NS	a.nic.norton.
+norton.	0	IN	NS	b.nic.norton.
+norton.	0	IN	NS	c.nic.norton.
+norton.	0	IN	NS	x.nic.norton.
+norton.	0	IN	NS	y.nic.norton.
+norton.	0	IN	NS	z.nic.norton.
 norton.	0	IN	DS	13095 8 2 8a3e13067f0237e9f16d0c6d25c72b262af2e49bbba4345c70e1ba5fd19ac321
 norton.	0	IN	DS	47347 8 2 119e98d6a7c8ad1c5199b2fbb3de5b330021f366400d6b4b8409400a738e1d7a
+a.nic.norton.	0	IN	A	37.209.192.9
+a.nic.norton.	0	IN	AAAA	2001:dcd:1::9
+b.nic.norton.	0	IN	A	37.209.194.9
+b.nic.norton.	0	IN	AAAA	2001:dcd:2::9
+c.nic.norton.	0	IN	A	37.209.196.9
+c.nic.norton.	0	IN	AAAA	2001:dcd:3::9
+x.nic.norton.	0	IN	A	156.154.172.82
+x.nic.norton.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.norton.	0	IN	A	156.154.173.82
+y.nic.norton.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.norton.	0	IN	A	156.154.174.82
+z.nic.norton.	0	IN	AAAA	2610:a1:1076::1:82
 now.	0	IN	NS	dns1.nic.now.
 now.	0	IN	NS	dns2.nic.now.
 now.	0	IN	NS	dns3.nic.now.
