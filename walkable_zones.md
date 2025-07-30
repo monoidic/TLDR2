@@ -74,7 +74,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -265,9 +264,9 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
