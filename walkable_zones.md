@@ -22,6 +22,7 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -278,6 +279,7 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -372,7 +374,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
