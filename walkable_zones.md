@@ -2,6 +2,7 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -67,12 +68,12 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
-* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -107,7 +108,6 @@
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -120,7 +120,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -172,6 +171,7 @@
 * `gv.ao.`
 * `hosp.uk.`
 * `hosting.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -209,7 +209,6 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -238,6 +237,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -255,16 +255,22 @@
 * `net.ve.`
 * `netnod.se.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -315,7 +321,6 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -327,7 +332,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -346,6 +350,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
