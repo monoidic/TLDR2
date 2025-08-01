@@ -22,6 +22,7 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -78,13 +79,11 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `com.bt.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
-* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -93,9 +92,9 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
@@ -127,6 +126,7 @@
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
+* `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
@@ -165,7 +165,6 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
-* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -195,7 +194,7 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `kaas.gg.`
+* `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
@@ -206,12 +205,12 @@
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
-* `lel.br.`
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
+* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -275,7 +274,6 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -297,6 +295,7 @@
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
+* `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
@@ -359,6 +358,7 @@
 * `slg.br.`
 * `slz.br.`
 * `sorocaba.br.`
+* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
