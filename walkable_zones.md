@@ -20,11 +20,13 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
+* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -166,6 +168,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -213,6 +216,7 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
+* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -241,6 +245,7 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
+* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
@@ -249,12 +254,14 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -270,7 +277,9 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -339,6 +348,7 @@
 * `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
+* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
