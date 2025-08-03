@@ -105,7 +105,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -214,8 +213,6 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -231,7 +228,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -259,7 +255,7 @@
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
-* `nic.audio.`
+* `nic.aquarelle.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -337,6 +333,7 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
