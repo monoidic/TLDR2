@@ -25,7 +25,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -74,11 +73,11 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -178,7 +177,6 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -267,6 +265,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -275,11 +274,12 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -294,8 +294,8 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
-* `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
@@ -340,7 +340,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -356,6 +355,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -388,7 +388,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
