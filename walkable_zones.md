@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -25,7 +26,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -78,6 +78,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -93,7 +94,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -107,9 +108,9 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -144,6 +145,7 @@
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
+* `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
@@ -203,6 +205,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -210,6 +213,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -236,9 +240,9 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
+* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -247,7 +251,9 @@
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
+* `net.lb.`
 * `net.pr.`
+* `net.tn.`
 * `net.ve.`
 * `netnod.se.`
 * `nic.aquarelle.`
@@ -257,7 +263,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -267,7 +272,6 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -275,6 +279,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -303,7 +308,9 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
+* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
@@ -316,9 +323,12 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
+* `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
+* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -344,7 +354,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -357,6 +366,7 @@
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
+* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
