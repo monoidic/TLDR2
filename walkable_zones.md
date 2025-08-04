@@ -2,9 +2,9 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -19,7 +19,6 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
-* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
@@ -29,12 +28,11 @@
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
-* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
+* `app.br.`
 * `aquarelle.`
 * `arpa.`
-* `arq.br.`
 * `art.br.`
 * `asso.mc.`
 * `ati.tn.`
@@ -77,7 +75,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -93,6 +90,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -118,7 +116,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -176,7 +173,6 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -184,7 +180,6 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
-* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -265,6 +260,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -278,9 +274,8 @@
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
-* `nipr.mil.`
+* `nic.za.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -343,6 +338,7 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
+* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
@@ -352,15 +348,14 @@
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
-* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
-* `slz.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
+* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
@@ -374,8 +369,8 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `torproject.net.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
@@ -393,6 +388,7 @@
 * `web.id.`
 * `web.ve.`
 * `wed.`
+* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
