@@ -39,7 +39,6 @@
 * `arq.br.`
 * `art.br.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -96,7 +95,6 @@
 * `curitiba.br.`
 * `cw.`
 * `d-zone.ca.`
-* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `desi.`
@@ -105,7 +103,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
@@ -294,7 +291,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `omega.`
-* `ong.br.`
 * `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
@@ -304,7 +300,6 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
-* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -320,7 +315,6 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
-* `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
@@ -373,7 +367,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
