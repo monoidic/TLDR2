@@ -38,6 +38,7 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -73,10 +74,10 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -107,6 +108,7 @@
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -142,8 +144,8 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
+* `fot.br.`
 * `foz.br.`
-* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -171,7 +173,6 @@
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -194,7 +195,6 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
@@ -258,6 +258,7 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -272,11 +273,12 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -286,7 +288,6 @@
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
-* `odo.br.`
 * `omega.`
 * `ong.br.`
 * `or.id.`
@@ -297,7 +298,6 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
-* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -305,6 +305,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -334,14 +335,13 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
-* `santoandre.br.`
 * `saobernardo.br.`
-* `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
@@ -354,6 +354,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
