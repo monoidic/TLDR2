@@ -404,9 +404,9 @@ y.nic.afl.	0	IN	A	156.154.173.82
 y.nic.afl.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.afl.	0	IN	A	156.154.174.82
 z.nic.afl.	0	IN	AAAA	2610:a1:1076::1:82
-africa.	0	IN	NS	nsp.netnod.se.
+africa.	0	IN	NS	ns.coza.net.za.
+africa.	0	IN	NS	ns4.dns.net.za.
 africa.	0	IN	NS	coza1.dnsnode.net.
-africa.	0	IN	DS	44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
 africa.	0	IN	DS	51115 8 2 53248d4d36757a31135688efa42c2c307591a7989523e6cd9cc2441414349481
 ans.dnsstudy.africa.	0	IN	A	192.96.24.69
 ag.	0	IN	NS	a0.cctld.afilias-nst.info.
@@ -2840,10 +2840,10 @@ canon.	0	IN	NS	b.gmoregistry.net.
 canon.	0	IN	NS	k.gmoregistry.net.
 canon.	0	IN	NS	l.gmoregistry.net.
 canon.	0	IN	DS	5225 8 2 9a1fc16a90acf3c7d3233480f45f595debdef3f71ae637bf3f8093670dda7d8a
-capetown.	0	IN	NS	nsp.netnod.se.
+capetown.	0	IN	NS	ns2.dns.net.za.
+capetown.	0	IN	NS	ns4.dns.net.za.
 capetown.	0	IN	NS	coza1.dnsnode.net.
 capetown.	0	IN	DS	6749 8 2 3b828190e412d1780fd97c538547f6698f1db01570ffae56efb91f4e4735e6a6
-capetown.	0	IN	DS	58120 8 2 0d66710dd001e9120a86952cebb8c21aedd72d5e2ca46f0a40266529e7133107
 capital.	0	IN	NS	v0n0.nic.capital.
 capital.	0	IN	NS	v0n1.nic.capital.
 capital.	0	IN	NS	v0n2.nic.capital.
@@ -5286,9 +5286,9 @@ ns5.dns.nic.dupont.	0	IN	A	156.154.157.52
 ns5.dns.nic.dupont.	0	IN	AAAA	2610:a1:1075::34
 ns6.dns.nic.dupont.	0	IN	A	156.154.158.52
 ns6.dns.nic.dupont.	0	IN	AAAA	2610:a1:1076::34
-durban.	0	IN	NS	nsp.netnod.se.
+durban.	0	IN	NS	ns2.dns.net.za.
+durban.	0	IN	NS	ns4.dns.net.za.
 durban.	0	IN	NS	coza1.dnsnode.net.
-durban.	0	IN	DS	48265 8 2 57603308e8a6d14065f069a08c050cde3ad0c769dd2bece4da5fcc9456bafb32
 durban.	0	IN	DS	62936 8 2 12f972c27bf0e22f2c4740bf8a4769d7113ed0beff1cf79c070af070203f81a1
 dvag.	0	IN	NS	a.nic.dvag.
 dvag.	0	IN	NS	b.nic.dvag.
@@ -9168,10 +9168,10 @@ dnsc.nic.jobs.	0	IN	A	156.154.102.3
 dnsc.nic.jobs.	0	IN	AAAA	2610:a1:1009::3
 dnsd.nic.jobs.	0	IN	A	156.154.103.3
 dnsd.nic.jobs.	0	IN	AAAA	2610:a1:1010::3
-joburg.	0	IN	NS	nsp.netnod.se.
+joburg.	0	IN	NS	ns2.dns.net.za.
+joburg.	0	IN	NS	ns4.dns.net.za.
 joburg.	0	IN	NS	coza1.dnsnode.net.
 joburg.	0	IN	DS	2855 8 2 d027f109b59baeb30bc000dc1f2d34b57d9ba404923f899bb07e4badd0dc2136
-joburg.	0	IN	DS	65032 8 2 4abf29a076fc19ac89283bed93457b56d2b0c8ad90dc24d70f70988a7d8bb574
 jot.	0	IN	NS	dns1.nic.jot.
 jot.	0	IN	NS	dns2.nic.jot.
 jot.	0	IN	NS	dns3.nic.jot.
@@ -15222,8 +15222,6 @@ se.	0	IN	NS	x.ns.se.
 se.	0	IN	NS	y.ns.se.
 se.	0	IN	NS	z.ns.se.
 se.	0	IN	DS	59407 8 2 67a8e06fcefdd9397f77f26c41ade4ec142f299bcfa1827f0ef8fd87f2f63022
-nsp.netnod.se.	0	IN	A	194.58.198.33
-nsp.netnod.se.	0	IN	AAAA	2a01:3f1:3033::53
 a.ns.se.	0	IN	A	192.36.144.107
 a.ns.se.	0	IN	AAAA	2a01:3f0:0:301::53
 b.ns.se.	0	IN	A	192.36.133.107
@@ -20532,6 +20530,12 @@ za.	0	IN	NS	nsza.is.co.za.
 za.	0	IN	NS	za-ns.anycast.pch.net.
 za.	0	IN	DS	45749 8 2 3e2b0b7e6063ca11400fa4b54d8a530888234cd0eb3b5fbf820c0750784da84e
 nsza.is.co.za.	0	IN	A	196.4.160.27
+ns.coza.net.za.	0	IN	A	206.223.136.200
+ns.coza.net.za.	0	IN	AAAA	2001:43f8:30::200
+ns2.dns.net.za.	0	IN	A	196.29.59.175
+ns2.dns.net.za.	0	IN	AAAA	2001:43f8:790:5901::c41d:3baf
+ns4.dns.net.za.	0	IN	A	77.72.229.251
+ns4.dns.net.za.	0	IN	AAAA	2a01:3f0:0:314::53
 zappos.	0	IN	NS	dns1.nic.zappos.
 zappos.	0	IN	NS	dns2.nic.zappos.
 zappos.	0	IN	NS	dns3.nic.zappos.

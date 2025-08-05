@@ -13,6 +13,7 @@
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
+* `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -73,7 +74,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -93,7 +93,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -138,6 +137,7 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -255,7 +255,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `netnod.se.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -270,16 +269,17 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
+* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
