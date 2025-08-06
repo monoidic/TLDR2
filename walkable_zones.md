@@ -11,7 +11,6 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
@@ -39,11 +38,11 @@
 * `arq.br.`
 * `art.br.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
+* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -55,6 +54,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -77,6 +77,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -211,11 +212,13 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
+* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
@@ -257,7 +260,6 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
-* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -269,13 +271,13 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -290,6 +292,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
@@ -328,6 +331,7 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
+* `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
@@ -337,6 +341,7 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
+* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
@@ -351,6 +356,7 @@
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
+* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `sorocaba.br.`
@@ -387,6 +393,7 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wed.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
