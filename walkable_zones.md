@@ -6,12 +6,9 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
@@ -25,12 +22,11 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
-* `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
@@ -88,7 +84,6 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -103,7 +98,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -114,7 +108,6 @@
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
-* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
@@ -136,7 +129,6 @@
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -200,8 +192,6 @@
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
-* `khplay.nl.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -212,7 +202,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -249,7 +238,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -264,7 +252,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.flowers.`
+* `nic.dm.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -274,9 +262,7 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.ve.`
-* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
@@ -288,7 +274,6 @@
 * `nsr.dns.md.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
@@ -347,6 +332,7 @@
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
+* `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
@@ -368,6 +354,7 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
+* `the.br.`
 * `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
@@ -386,7 +373,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
