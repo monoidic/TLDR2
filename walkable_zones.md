@@ -39,7 +39,6 @@
 * `arq.br.`
 * `art.br.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -94,7 +93,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
+* `customer.mythic-beasts.com.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -245,7 +244,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -276,6 +274,7 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -383,6 +382,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
