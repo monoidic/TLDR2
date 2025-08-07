@@ -39,6 +39,7 @@
 * `arq.br.`
 * `art.br.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -77,6 +78,7 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
+* `co.ve.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -117,6 +119,7 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
+* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
@@ -176,6 +179,7 @@
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
+* `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
@@ -186,6 +190,7 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -241,6 +246,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -375,12 +381,15 @@
 * `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
+* `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
+* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
@@ -389,6 +398,7 @@
 * `web.id.`
 * `web.ve.`
 * `wed.`
+* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
@@ -396,3 +406,4 @@
 * `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
+* `zlg.br.`
