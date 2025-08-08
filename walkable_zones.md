@@ -12,7 +12,6 @@
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
-* `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -77,7 +76,6 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
@@ -97,7 +95,6 @@
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
@@ -107,7 +104,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
@@ -215,7 +211,6 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
-* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -245,7 +240,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -274,17 +268,16 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
-* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `nsr.dns.md.`
@@ -294,12 +287,10 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
 * `org.kz.`
-* `org.lb.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
@@ -386,7 +377,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
