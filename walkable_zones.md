@@ -29,7 +29,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -94,6 +93,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -239,7 +239,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -276,12 +275,13 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -294,6 +294,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -356,13 +357,12 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
