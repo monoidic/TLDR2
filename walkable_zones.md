@@ -11,7 +11,6 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
@@ -23,7 +22,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -33,10 +31,12 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
+* `app.br.`
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -44,11 +44,11 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -64,6 +64,7 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
+* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -80,6 +81,7 @@
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
+* `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
@@ -90,6 +92,7 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -102,7 +105,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -122,7 +124,6 @@
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
-* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
@@ -131,7 +132,6 @@
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -162,7 +162,6 @@
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
-* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
@@ -180,6 +179,7 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
+* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -188,6 +188,7 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
+* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
@@ -240,7 +241,6 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
-* `nat.tn.`
 * `natal.br.`
 * `net.bt.`
 * `net.id.`
@@ -254,6 +254,7 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -263,12 +264,12 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -317,7 +318,6 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -363,7 +363,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -372,6 +371,7 @@
 * `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
+* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
@@ -383,9 +383,9 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wed.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
