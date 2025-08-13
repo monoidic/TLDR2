@@ -1,9 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -74,7 +72,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -92,7 +89,6 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
-* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `d-zone.ca.`
@@ -124,6 +120,7 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
+* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -160,6 +157,7 @@
 * `goiania.br.`
 * `gov.ao.`
 * `gov.br.`
+* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -184,7 +182,6 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
-* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -208,7 +205,6 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
-* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -224,7 +220,6 @@
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
-* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -238,7 +233,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -278,9 +272,7 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -304,6 +296,7 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -340,6 +333,7 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -394,13 +388,13 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
-* `web.ve.`
 * `wed.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `zlg.br.`
