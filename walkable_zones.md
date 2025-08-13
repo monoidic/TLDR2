@@ -1,7 +1,9 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -89,6 +91,7 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
+* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `d-zone.ca.`
@@ -182,6 +185,7 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
+* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -205,6 +209,7 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
+* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -220,6 +225,7 @@
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
+* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -233,6 +239,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -269,9 +276,9 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `niteroi.br.`
 * `noc.net.er.`
@@ -388,13 +395,13 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wed.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `zlg.br.`
