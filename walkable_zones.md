@@ -23,7 +23,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -79,7 +78,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -95,7 +93,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -271,6 +268,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -314,7 +312,6 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
-* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
@@ -337,9 +334,9 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
-* `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -404,7 +401,6 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `zlg.br.`
