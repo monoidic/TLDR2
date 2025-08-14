@@ -2,6 +2,7 @@ bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
+bw.	0	IN	DNSKEY	256 3 13 7mBlVx/tVHwtOBnn3NTbKbIry7PKaObb7WgqzBaK+QYFlbJ4oAzLCrAXWXeho/3bzDMmAXDLRuoU+/b1YMBtVw== ;{id = 29278 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	256 3 13 +PqUQmw8NOXg+QkykLaYnvpnkCPQ3jhBugDgPeSiCN2My7LaV+BnEza4+UTQjS1eu05qw0oplzKZ8VdFURhpmg== ;{id = 16690 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 027d70a59ac28d11 
@@ -952,6 +953,8 @@ ns2.1966.co.bw.	0	IN	A	23.235.220.106
 99.co.bw.	0	IN	NS	ns8002.hostgator.com.
 9949.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 9949.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+99media.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
+99media.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 9mile.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 9mile.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 9mile.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -8639,6 +8642,8 @@ dijo.co.bw.	0	IN	NS	ns1.dns-h.com.
 dijo.co.bw.	0	IN	NS	ns1.host-h.net.
 dijo.co.bw.	0	IN	NS	ns2.dns-h.com.
 dijo.co.bw.	0	IN	NS	ns2.host-h.net.
+dikagofacilitech.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
+dikagofacilitech.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 dikatsocs.co.bw.	0	IN	NS	ns1.orangehost.com.
 dikatsocs.co.bw.	0	IN	NS	ns2.orangehost.com.
 dikgang.co.bw.	0	IN	NS	bekomedia.mars.orderbox-dns.com.
@@ -18608,6 +18613,8 @@ mascom.co.bw.	0	IN	NS	ns3.a2hosting.com.
 mascom.co.bw.	0	IN	NS	ns4.a2hosting.com.
 masedicorporate.co.bw.	0	IN	NS	cns4003.webhostbox.net.
 masedicorporate.co.bw.	0	IN	NS	cns4004.webhostbox.net.
+maseleannete.co.bw.	0	IN	NS	ns1.bluehost.com.
+maseleannete.co.bw.	0	IN	NS	ns2.bluehost.com.
 masenegroup.co.bw.	0	IN	NS	dns1.webmart.co.bw.
 masenegroup.co.bw.	0	IN	NS	dns2.webmart.co.bw.
 masenegroup.co.bw.	0	IN	NS	dns3.webmart.co.bw.
@@ -19880,8 +19887,8 @@ mochacs.co.bw.	0	IN	NS	ns2.named.co.za.
 mochacs.co.bw.	0	IN	NS	directadmin.resolving.co.za.
 mockingbird.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 mockingbird.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
-modandengineering.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-modandengineering.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+modandengineering.co.bw.	0	IN	NS	ns1.md-47.webhostbox.net.
+modandengineering.co.bw.	0	IN	NS	ns2.md-47.webhostbox.net.
 modcontrols.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
 modcontrols.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 modcorpinternational.co.bw.	0	IN	NS	ns1.maranyane.com.
@@ -23845,8 +23852,10 @@ pnkreapakwa.co.bw.	0	IN	NS	ns1.debunked.website.
 pnkreapakwa.co.bw.	0	IN	NS	ns2.debunked.website.
 pnpbots.co.bw.	0	IN	NS	ns1.paratustelco.co.bw.
 pnpbots.co.bw.	0	IN	NS	ns2.paratustelco.co.bw.
-pnpbotswana.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
-pnpbotswana.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+pnpbotswana.co.bw.	0	IN	NS	ns1.dns-h.com.
+pnpbotswana.co.bw.	0	IN	NS	ns1.host-h.net.
+pnpbotswana.co.bw.	0	IN	NS	ns2.dns-h.com.
+pnpbotswana.co.bw.	0	IN	NS	ns2.host-h.net.
 pnr.co.bw.	0	IN	NS	ns1.servconfig.com.
 pnr.co.bw.	0	IN	NS	ns2.servconfig.com.
 pnrb.co.bw.	0	IN	NS	ns1.mowanadigital.com.
