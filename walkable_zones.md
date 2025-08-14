@@ -10,7 +10,9 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
 * `4u.com.`
+* `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -44,6 +46,8 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
+* `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
@@ -75,6 +79,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -91,6 +96,7 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -167,6 +173,7 @@
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
+* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `iana-servers.net.`
@@ -249,6 +256,7 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
@@ -263,7 +271,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -290,8 +297,10 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
+* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
@@ -304,6 +313,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -327,7 +337,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
