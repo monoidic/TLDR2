@@ -3,7 +3,6 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -49,7 +48,6 @@
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
-* `belem.br.`
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
@@ -67,7 +65,6 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
-* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -95,10 +92,8 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -193,7 +188,6 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
@@ -258,8 +252,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -271,12 +263,10 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -405,7 +395,6 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `zlg.br.`
