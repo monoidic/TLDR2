@@ -40,6 +40,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -79,6 +80,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `com.bt.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
@@ -94,6 +96,7 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -104,6 +107,7 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
@@ -122,11 +126,14 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
+* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
+* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
@@ -155,6 +162,7 @@
 * `goiania.br.`
 * `gov.ao.`
 * `gov.br.`
+* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -163,6 +171,7 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
@@ -175,12 +184,12 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
+* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -208,10 +217,12 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
+* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -229,6 +240,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -236,6 +248,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -255,7 +268,6 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -266,15 +278,16 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
+* `not.br.`
 * `nsr.dns.md.`
 * `ntr.br.`
 * `nu.`
@@ -322,6 +335,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -359,7 +373,6 @@
 * `tec.ve.`
 * `the.br.`
 * `tld.md.`
-* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
