@@ -6,6 +6,7 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -54,6 +55,7 @@
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
+* `bio.br.`
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
@@ -85,6 +87,7 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -194,6 +197,8 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
+* `joinville.br.`
+* `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
@@ -215,6 +220,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -226,6 +232,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -251,9 +258,9 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
+* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -286,7 +293,6 @@
 * `nsr.dns.md.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
@@ -299,6 +305,7 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -351,13 +358,16 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
@@ -380,6 +390,7 @@
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
@@ -394,6 +405,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `zlg.br.`
