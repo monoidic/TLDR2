@@ -9,6 +9,7 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
+* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -30,6 +31,7 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
@@ -44,6 +46,7 @@
 * `auto.`
 * `ax.`
 * `b.br.`
+* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -77,7 +80,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -101,6 +103,7 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -171,6 +174,7 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `iana-servers.net.`
 * `id.`
@@ -241,6 +245,7 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
+* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -274,7 +279,6 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -293,6 +297,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `oraclegovcloudapps.com.`
 * `org.bt.`
@@ -313,6 +318,7 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
