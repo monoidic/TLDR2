@@ -1,7 +1,6 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -46,7 +45,6 @@
 * `auto.`
 * `ax.`
 * `b.br.`
-* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -80,6 +78,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -190,6 +189,7 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
+* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -215,7 +215,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -261,7 +260,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -275,9 +273,9 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -320,7 +318,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -335,9 +332,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
-* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
@@ -373,6 +368,7 @@
 * `tec.ve.`
 * `the.br.`
 * `tld.md.`
+* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
