@@ -146,7 +146,6 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -237,7 +236,6 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -260,7 +258,6 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -305,7 +302,6 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
