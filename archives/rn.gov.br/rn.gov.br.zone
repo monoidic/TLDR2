@@ -1532,7 +1532,7 @@ deve-treze-auth.redesim.rn.gov.br.	0	IN	CNAME	deve-treze.redesim.rn.gov.br.
 deve-treze-gateway.redesim.rn.gov.br.	0	IN	CNAME	deve-treze.redesim.rn.gov.br.
 deve-treze-interno.redesim.rn.gov.br.	0	IN	CNAME	deve-treze.redesim.rn.gov.br.
 deve-treze-legacy.redesim.rn.gov.br.	0	IN	CNAME	deve-treze.redesim.rn.gov.br.
-deve-um.redesim.rn.gov.br.	0	IN	A	187.115.163.114
+deve-um.redesim.rn.gov.br.	0	IN	CNAME	deve-um-auth.redesim.rn.gov.br.
 deve-um-autenticacao.redesim.rn.gov.br.	0	IN	CNAME	deve-um-auth.redesim.rn.gov.br.
 deve-um-auth.redesim.rn.gov.br.	0	IN	A	200.155.79.212
 deve-um-gateway.redesim.rn.gov.br.	0	IN	CNAME	deve-um-auth.redesim.rn.gov.br.
@@ -1595,6 +1595,8 @@ rnsustentavelii.rn.gov.br.	0	IN	CNAME	rnsustentavel.rn.gov.br.
 www.rnsustentavelii.rn.gov.br.	0	IN	CNAME	rnsustentavelii.rn.gov.br.
 rodolfofernandes.rn.gov.br.	0	IN	NS	dns30174.dizinc.com.
 rodolfofernandes.rn.gov.br.	0	IN	NS	dns30175.dizinc.com.
+rotadoapi.rn.gov.br.	0	IN	A	177.87.96.237
+www.rotadoapi.rn.gov.br.	0	IN	CNAME	rotadoapi.rn.gov.br.
 ruybarbosa.rn.gov.br.	0	IN	NS	ns23.servidorprotegido.net.
 ruybarbosa.rn.gov.br.	0	IN	NS	ns24.servidorprotegido.net.
 saeg.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
@@ -1811,7 +1813,6 @@ www.seel.rn.gov.br.	0	IN	CNAME	seel.rn.gov.br.
 sefaz.rn.gov.br.	0	IN	NS	dns1.dsecrin.govrn.
 sei.rn.gov.br.	0	IN	A	177.87.96.84
 app.sei.rn.gov.br.	0	IN	A	177.87.96.240
-app01.sei.rn.gov.br.	0	IN	A	177.87.96.237
 app02.sei.rn.gov.br.	0	IN	A	177.87.96.238
 app03.sei.rn.gov.br.	0	IN	A	177.87.96.239
 capacita.sei.rn.gov.br.	0	IN	A	177.87.96.20
