@@ -6,7 +6,6 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -50,6 +49,7 @@
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
+* `belem.br.`
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
@@ -107,7 +107,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
@@ -155,6 +154,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -167,6 +167,7 @@
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
+* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
@@ -198,6 +199,7 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
@@ -261,15 +263,14 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
-* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -278,11 +279,13 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `nsr.dns.md.`
 * `ntr.br.`
@@ -368,7 +371,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
