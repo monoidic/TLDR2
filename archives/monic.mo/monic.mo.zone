@@ -1,4 +1,4 @@
-monic.mo.	0	IN	A	202.175.87.46
+monic.mo.	0	IN	A	202.175.82.31
 monic.mo.	0	IN	NS	ns1.monic.mo.
 monic.mo.	0	IN	NS	ns2.monic.mo.
 monic.mo.	0	IN	NS	ns3.monic.mo.
@@ -6,7 +6,6 @@ monic.mo.	0	IN	NS	ns4.monic.mo.
 monic.mo.	0	IN	MX	10 mx4.monic.mo.
 monic.mo.	0	IN	MX	50 mx5.monic.mo.
 monic.mo.	0	IN	MX	60 mx6.monic.mo.
-monic.mo.	0	IN	AAAA	2001:f90:2:8::6
 a.monic.mo.	0	IN	A	202.175.87.47
 a.monic.mo.	0	IN	AAAA	2001:f90:2:8::2
 b.monic.mo.	0	IN	A	202.175.87.48
@@ -64,5 +63,5 @@ ticket.monic.mo.	0	IN	CNAME	d.monic.mo.
 two.monic.mo.	0	IN	CNAME	ironhide.monic.mo.
 webmail.monic.mo.	0	IN	CNAME	mx4.monic.mo.
 whois.monic.mo.	0	IN	CNAME	ironhide.monic.mo.
-www.monic.mo.	0	IN	CNAME	ironhide.monic.mo.
+www.monic.mo.	0	IN	A	202.175.82.31
 zabbix.monic.mo.	0	IN	A	202.86.139.109
