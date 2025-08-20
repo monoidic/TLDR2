@@ -3,9 +3,10 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
+* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -23,12 +24,12 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
@@ -77,7 +78,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -88,7 +88,6 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -106,7 +105,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
@@ -119,7 +117,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -127,8 +124,8 @@
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
+* `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -138,7 +135,6 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
-* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
@@ -173,8 +169,8 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
-* `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -182,6 +178,7 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
+* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -211,10 +208,13 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
+* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
@@ -240,13 +240,13 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
-* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -258,6 +258,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -274,6 +275,7 @@
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
+* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -286,7 +288,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `omega.`
-* `onion.`
+* `ong.br.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -307,7 +309,6 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
-* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -317,7 +318,7 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
@@ -333,6 +334,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -351,11 +353,9 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
-* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
