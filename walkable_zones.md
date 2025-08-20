@@ -8,7 +8,6 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -26,6 +25,7 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -79,7 +79,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -109,7 +108,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsstudy.africa.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -128,6 +126,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -138,6 +137,7 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -186,7 +186,6 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
-* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -200,6 +199,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
+* `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
@@ -238,8 +238,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
-* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -254,14 +252,16 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
+* `net.tn.`
+* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -270,6 +270,7 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -333,7 +334,6 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
-* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
@@ -350,6 +350,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -360,12 +361,12 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
-* `the.br.`
 * `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
@@ -374,6 +375,7 @@
 * `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
@@ -397,5 +399,4 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `zlg.br.`
