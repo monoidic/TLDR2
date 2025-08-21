@@ -53,7 +53,6 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
-* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -75,7 +74,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -86,7 +84,6 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
-* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -95,13 +92,13 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
 * `desi.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -152,7 +149,6 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
@@ -202,7 +198,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
-* `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
@@ -215,7 +210,6 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -226,8 +220,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
-* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -237,7 +229,6 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -275,7 +266,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -284,12 +274,10 @@
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
-* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `nsr.dns.md.`
 * `ntr.br.`
@@ -298,14 +286,12 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -323,10 +309,8 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -341,8 +325,8 @@
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
-* `ro.gov.br.`
 * `ro.leg.br.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -380,9 +364,7 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `torproject.net.`
 * `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
