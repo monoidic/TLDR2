@@ -30,6 +30,7 @@
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
@@ -215,7 +216,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -242,7 +242,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -269,18 +268,18 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
