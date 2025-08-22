@@ -28,7 +28,6 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
-* `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
@@ -75,6 +74,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -86,7 +86,6 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -104,6 +103,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -133,8 +133,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -154,6 +152,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -164,7 +163,6 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
-* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -173,6 +171,7 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -239,11 +238,13 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
+* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bt.`
 * `net.id.`
@@ -259,6 +260,7 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -267,7 +269,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -292,6 +293,7 @@
 * `ong.br.`
 * `or.id.`
 * `org.bt.`
+* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
@@ -317,7 +319,6 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
-* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -376,6 +377,7 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
@@ -384,7 +386,6 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
-* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
