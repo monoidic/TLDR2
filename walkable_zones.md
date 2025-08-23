@@ -175,6 +175,7 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -258,6 +259,7 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -295,7 +297,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -339,6 +340,7 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -371,6 +373,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
