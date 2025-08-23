@@ -9,6 +9,7 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
+* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -39,6 +40,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -101,6 +103,7 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -172,7 +175,6 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -202,6 +204,7 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -257,7 +260,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -271,14 +273,17 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
+* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -314,6 +319,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -364,6 +370,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
