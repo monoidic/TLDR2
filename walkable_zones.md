@@ -16,6 +16,7 @@
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
+* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -134,6 +135,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -146,6 +148,7 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
+* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -172,10 +175,12 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
 * `iki.fi.`
+* `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
@@ -204,6 +209,7 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -215,13 +221,16 @@
 * `lol.`
 * `londrina.br.`
 * `lr.`
+* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
+* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
+* `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
@@ -238,7 +247,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -260,6 +268,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -352,6 +361,7 @@
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
+* `slz.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -362,6 +372,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -375,6 +386,7 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
