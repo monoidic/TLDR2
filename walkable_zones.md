@@ -29,10 +29,8 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
-* `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
@@ -89,17 +87,15 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -134,7 +130,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -161,7 +156,6 @@
 * `goiania.br.`
 * `gov.ao.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -179,6 +173,7 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -190,7 +185,6 @@
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
-* `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
@@ -218,7 +212,6 @@
 * `lk.`
 * `log.br.`
 * `lol.`
-* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -239,10 +232,10 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
+* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -258,6 +251,7 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -274,7 +268,6 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -328,6 +321,7 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
+* `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
@@ -353,7 +347,10 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
+* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `sorocaba.br.`
@@ -373,6 +370,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `torproject.net.`
+* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
