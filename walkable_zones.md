@@ -29,8 +29,10 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
+* `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
@@ -52,7 +54,6 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
-* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -87,6 +88,7 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -96,6 +98,7 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -130,6 +133,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -156,6 +160,7 @@
 * `goiania.br.`
 * `gov.ao.`
 * `gov.br.`
+* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -185,6 +190,7 @@
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
+* `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
@@ -212,6 +218,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -232,6 +239,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -265,9 +273,9 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -287,6 +295,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
