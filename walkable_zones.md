@@ -3,9 +3,11 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
+* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -28,13 +30,13 @@
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
-* `art.br.`
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
@@ -237,7 +239,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -276,9 +277,11 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
+* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -341,7 +344,6 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
-* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -351,6 +353,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -391,10 +394,8 @@
 * `web.id.`
 * `web.ve.`
 * `wed.`
-* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
-* `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
