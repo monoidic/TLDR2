@@ -185,8 +185,8 @@ ps.	0	IN	NS	ps-ns.anycast.pch.net.
 970.ps.	0	IN	NS	ns2.pnina.ps.
 970techmap.ps.	0	IN	NS	cdns1.hadara.ps.
 970techmap.ps.	0	IN	NS	cdns2.hadara.ps.
-99idea.ps.	0	IN	NS	cdns1.hadara.ps.
-99idea.ps.	0	IN	NS	cdns2.hadara.ps.
+99idea.ps.	0	IN	NS	ns1.injazatcloud.ps.
+99idea.ps.	0	IN	NS	ns2.injazatcloud.ps.
 9fit.ps.	0	IN	NS	ns1.101domain.com.
 9fit.ps.	0	IN	NS	ns2.101domain.com.
 a-brothers.ps.	0	IN	NS	ns1.bluetd.com.
@@ -1101,6 +1101,8 @@ alhaq.ps.	0	IN	NS	jo.ns.cloudflare.com.
 alhaq.ps.	0	IN	NS	skip.ns.cloudflare.com.
 alhasan.ps.	0	IN	NS	lex.ns.cloudflare.com.
 alhasan.ps.	0	IN	NS	roxy.ns.cloudflare.com.
+alhasangroup.ps.	0	IN	NS	hosting01.mada.ps.
+alhasangroup.ps.	0	IN	NS	hosting02.mada.ps.
 alhaya.ps.	0	IN	NS	ines.ns.cloudflare.com.
 alhaya.ps.	0	IN	NS	norm.ns.cloudflare.com.
 alhayat.ps.	0	IN	NS	dns.site5.com.
@@ -2012,6 +2014,8 @@ aqbarts.ps.	0	IN	NS	cp3.privatesystems.net.
 aqbarts.ps.	0	IN	NS	cp4.privatesystems.net.
 aqelectrical.ps.	0	IN	NS	dale.ns.cloudflare.com.
 aqelectrical.ps.	0	IN	NS	dolly.ns.cloudflare.com.
+aqqaba.ps.	0	IN	NS	desi.ns.cloudflare.com.
+aqqaba.ps.	0	IN	NS	norm.ns.cloudflare.com.
 aqraba.ps.	0	IN	NS	ns1635.websitewelcome.com.
 aqraba.ps.	0	IN	NS	ns1636.websitewelcome.com.
 aqsaacademy.ps.	0	IN	NS	ns1.dns-parking.com.
@@ -3312,8 +3316,6 @@ bms.ps.	0	IN	NS	ns1.inmotionhosting.com.
 bms.ps.	0	IN	NS	ns2.inmotionhosting.com.
 bmw.ps.	0	IN	NS	dns1.cscdns.net.
 bmw.ps.	0	IN	NS	dns2.cscdns.net.
-bnb.ps.	0	IN	NS	ns1.bluetd.com.
-bnb.ps.	0	IN	NS	ns2.bluetd.com.
 bnet.ps.	0	IN	NS	dns1.bnet.ps.
 bnet.ps.	0	IN	NS	dns1.bnet-palestine.com.
 bnet.ps.	0	IN	NS	dns2.bnet.ps.
@@ -3752,8 +3754,6 @@ carscore.ps.	0	IN	NS	ns2.101domain.com.
 carscore.ps.	0	IN	NS	ns5.101domain.com.
 carseer.ps.	0	IN	NS	vita.ns.cloudflare.com.
 carseer.ps.	0	IN	NS	bjorn.ns.cloudflare.com.
-carta.ps.	0	IN	NS	ns1.injazatcloud.ps.
-carta.ps.	0	IN	NS	ns2.injazatcloud.ps.
 cartoonnetwork.ps.	0	IN	NS	ns-96.awsdns-12.com.
 cartoonnetwork.ps.	0	IN	NS	ns-711.awsdns-24.net.
 cartoonnetwork.ps.	0	IN	NS	ns-1517.awsdns-61.org.
@@ -6763,8 +6763,6 @@ gewiss.ps.	0	IN	NS	ns3-34.azure-dns.org.
 gewiss.ps.	0	IN	NS	ns4-34.azure-dns.info.
 gff.ps.	0	IN	NS	cdns1.hadara.ps.
 gff.ps.	0	IN	NS	cdns2.hadara.ps.
-gfi.ps.	0	IN	NS	ns0.wixdns.net.
-gfi.ps.	0	IN	NS	ns1.wixdns.net.
 gg-tours.ps.	0	IN	NS	ns1.bluetd.com.
 gg-tours.ps.	0	IN	NS	ns2.bluetd.com.
 ggmgastro.ps.	0	IN	NS	dns.teamartwork.com.
@@ -12562,8 +12560,6 @@ pal.ps.	0	IN	NS	ns2.bluehost.com.
 pal-am.ps.	0	IN	NS	dns1.bnet.ps.
 pal-am.ps.	0	IN	NS	dns2.bnet.ps.
 pal-am.ps.	0	IN	NS	dns3.bnet.ps.
-pal-care.ps.	0	IN	NS	ns1.bluetd.com.
-pal-care.ps.	0	IN	NS	ns2.bluetd.com.
 pal-cluster.ps.	0	IN	NS	ines.ns.cloudflare.com.
 pal-cluster.ps.	0	IN	NS	norm.ns.cloudflare.com.
 pal-collection.ps.	0	IN	NS	kirk.ns.cloudflare.com.
@@ -14953,8 +14949,6 @@ runited.ps.	0	IN	NS	nsp10.mada.ps.
 runited.ps.	0	IN	NS	nss10.mada.ps.
 runtheal.ps.	0	IN	NS	ns1.101domain.com.
 runtheal.ps.	0	IN	NS	ns2.101domain.com.
-ruraldevelopment.ps.	0	IN	NS	cdns1.hadara.ps.
-ruraldevelopment.ps.	0	IN	NS	cdns2.hadara.ps.
 rush.ps.	0	IN	NS	ns21.domaincontrol.com.
 rush.ps.	0	IN	NS	ns22.domaincontrol.com.
 russellbedford.ps.	0	IN	NS	ns1.101domain.com.
@@ -17521,8 +17515,6 @@ tripmasters.ps.	0	IN	NS	cdns1.hadara.ps.
 tripmasters.ps.	0	IN	NS	cdns2.hadara.ps.
 trix.ps.	0	IN	NS	beth.ns.cloudflare.com.
 trix.ps.	0	IN	NS	todd.ns.cloudflare.com.
-troo.ps.	0	IN	NS	karl.ns.cloudflare.com.
-troo.ps.	0	IN	NS	angela.ns.cloudflare.com.
 troweprice.ps.	0	IN	NS	edns1.ultradns.biz.
 troweprice.ps.	0	IN	NS	edns1.ultradns.com.
 troweprice.ps.	0	IN	NS	edns1.ultradns.net.
