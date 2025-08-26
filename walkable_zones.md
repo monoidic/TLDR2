@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -95,13 +96,15 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -132,7 +135,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -145,6 +147,7 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
+* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -232,7 +235,6 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
-* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
@@ -246,6 +248,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -265,14 +268,13 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -295,6 +297,7 @@
 * `ong.br.`
 * `or.id.`
 * `org.bt.`
+* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
@@ -319,8 +322,10 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
+* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
+* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -356,7 +361,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -386,7 +390,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
