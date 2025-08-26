@@ -40,7 +40,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -267,7 +266,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.flowers.`
+* `nic.dm.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -296,6 +295,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -351,6 +351,7 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
@@ -377,6 +378,7 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
+* `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
