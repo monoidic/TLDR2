@@ -15,7 +15,6 @@
 * `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
-* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -76,6 +75,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -246,7 +246,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -261,9 +260,11 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -283,6 +284,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -312,7 +314,6 @@
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
-* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
@@ -340,7 +341,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -356,12 +356,10 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`

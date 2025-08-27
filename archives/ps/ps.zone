@@ -3221,8 +3221,10 @@ blaze.ps.	0	IN	NS	ns-1953.awsdns-52.co.uk.
 blaze-public.ps.	0	IN	NS	ns0.transip.net.
 blaze-public.ps.	0	IN	NS	ns1.transip.nl.
 blaze-public.ps.	0	IN	NS	ns2.transip.eu.
-blda.ps.	0	IN	NS	ns13.nepras.net.
-blda.ps.	0	IN	NS	ns14.nepras.net.
+blda.ps.	0	IN	NS	ns1.blda.ps.
+blda.ps.	0	IN	NS	ns2.blda.ps.
+ns1.blda.ps.	0	IN	A	85.17.236.227
+ns2.blda.ps.	0	IN	A	85.17.236.227
 blfa.ps.	0	IN	NS	dns1.mbcloudservers.com.
 blfa.ps.	0	IN	NS	dns2.mbcloudservers.com.
 blfa.ps.	0	IN	NS	dns3.mbcloudservers.com.
@@ -4534,10 +4536,10 @@ daimler.ps.	0	IN	NS	dns1.p01.nsone.net.
 daimler.ps.	0	IN	NS	dns2.p01.nsone.net.
 daimler.ps.	0	IN	NS	dns3.p01.nsone.net.
 daimler.ps.	0	IN	NS	dns4.p01.nsone.net.
-daimler-ag.ps.	0	IN	NS	ns1.corpinter.net.
-daimler-ag.ps.	0	IN	NS	ns2.corpinter.de.
-daimler-ag.ps.	0	IN	NS	ns3.corpinter.net.
-daimler-ag.ps.	0	IN	NS	ns4.corpinter.de.
+daimler-ag.ps.	0	IN	NS	dns1.p01.nsone.net.
+daimler-ag.ps.	0	IN	NS	dns2.p01.nsone.net.
+daimler-ag.ps.	0	IN	NS	dns3.p01.nsone.net.
+daimler-ag.ps.	0	IN	NS	dns4.p01.nsone.net.
 dalal.ps.	0	IN	NS	donna.ns.cloudflare.com.
 dalal.ps.	0	IN	NS	alexis.ns.cloudflare.com.
 dalalak.ps.	0	IN	NS	ns3.cleannameservers.com.
@@ -7755,6 +7757,7 @@ hoo.ps.	0	IN	NS	ns-161-b.gandi.net.
 hoo.ps.	0	IN	NS	ns-200-a.gandi.net.
 hoodista.ps.	0	IN	NS	ns1.ttawor.com.
 hoodista.ps.	0	IN	NS	ns2.ttawor.com.
+hop.ps.	0	IN	NS	p2.hadara.ps.
 hop.ps.	0	IN	NS	cdns1.hadara.ps.
 hop.ps.	0	IN	NS	cdns2.hadara.ps.
 hope.ps.	0	IN	NS	ns1.siteground.net.
@@ -9142,6 +9145,9 @@ kenzi.ps.	0	IN	NS	ns1.zone.ps.
 kenzi.ps.	0	IN	NS	ns2.zone.ps.
 kerishmotoracademy.ps.	0	IN	NS	ns7.gemzo.net.
 kerishmotoracademy.ps.	0	IN	NS	ns8.gemzo.net.
+kesteman.ps.	0	IN	NS	ns1.netim.net.
+kesteman.ps.	0	IN	NS	ns2.netim.net.
+kesteman.ps.	0	IN	NS	ns3.netim.net.
 kestrel.ps.	0	IN	NS	ns1.mtechs.site.
 kestrel.ps.	0	IN	NS	ns2.mtechs.site.
 ketaby.ps.	0	IN	NS	ns1-cat.dl-cms.com.
@@ -11919,6 +11925,8 @@ noon.ps.	0	IN	NS	ns1.101domain.com.
 noon.ps.	0	IN	NS	ns2.101domain.com.
 noonbook.ps.	0	IN	NS	ns1-dolphin.dl-cms.com.
 noonbook.ps.	0	IN	NS	ns2-dolphin.dl-cms.com.
+noor.ps.	0	IN	NS	ns1.injazatcloud.ps.
+noor.ps.	0	IN	NS	ns2.injazatcloud.ps.
 nooralshams.ps.	0	IN	NS	ns1-cat.dl-cms.com.
 nooralshams.ps.	0	IN	NS	ns2-cat.dl-cms.com.
 noqta.ps.	0	IN	NS	lex.ns.cloudflare.com.
@@ -12905,6 +12913,8 @@ palsec.ps.	0	IN	NS	dns1.anyservers.com.
 palsec.ps.	0	IN	NS	dns2.anyservers.com.
 palshop.ps.	0	IN	NS	love.ns.cloudflare.com.
 palshop.ps.	0	IN	NS	venkat.ns.cloudflare.com.
+palsign.ps.	0	IN	NS	ns1.injazatcloud.ps.
+palsign.ps.	0	IN	NS	ns2.injazatcloud.ps.
 palsmart.ps.	0	IN	NS	grant.ns.cloudflare.com.
 palsmart.ps.	0	IN	NS	sandy.ns.cloudflare.com.
 palsms.ps.	0	IN	NS	ns-cloud-c1.googledomains.com.
@@ -15871,6 +15881,8 @@ sinokrotmarkets.ps.	0	IN	NS	ns1.bluetd.com.
 sinokrotmarkets.ps.	0	IN	NS	ns2.bluetd.com.
 sinwan.ps.	0	IN	NS	ines.ns.cloudflare.com.
 sinwan.ps.	0	IN	NS	norm.ns.cloudflare.com.
+sipta.ps.	0	IN	NS	ns1.injazatcloud.ps.
+sipta.ps.	0	IN	NS	ns2.injazatcloud.ps.
 sira.ps.	0	IN	NS	ns7.gemzo.net.
 sira.ps.	0	IN	NS	ns8.gemzo.net.
 siraj.ps.	0	IN	NS	ns1-36.azure-dns.com.
