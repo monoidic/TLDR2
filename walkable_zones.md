@@ -3,7 +3,6 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -70,7 +69,6 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
-* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -81,9 +79,9 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
-* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -161,7 +159,6 @@
 * `gob.ve.`
 * `goiania.br.`
 * `gov.ao.`
-* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
@@ -171,7 +168,6 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
-* `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
@@ -183,7 +179,6 @@
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
-* `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
@@ -249,7 +244,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -269,9 +263,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -286,7 +278,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -310,7 +301,6 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
-* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -359,7 +349,6 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
@@ -388,6 +377,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
