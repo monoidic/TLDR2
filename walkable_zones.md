@@ -3,6 +3,7 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -47,7 +48,6 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -69,6 +69,7 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -78,10 +79,9 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
+* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -110,7 +110,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -126,7 +125,6 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
-* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -144,7 +142,6 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -159,6 +156,7 @@
 * `gob.ve.`
 * `goiania.br.`
 * `gov.ao.`
+* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
@@ -168,6 +166,7 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
@@ -179,6 +178,7 @@
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
+* `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
@@ -241,9 +241,9 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -254,7 +254,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -264,6 +263,7 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -275,9 +275,9 @@
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
-* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -301,6 +301,7 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -313,7 +314,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -321,7 +321,6 @@
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
-* `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
@@ -349,6 +348,7 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
