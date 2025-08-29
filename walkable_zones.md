@@ -52,6 +52,7 @@
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
+* `bet.br.`
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
@@ -95,6 +96,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -265,7 +267,6 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -279,7 +280,9 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -305,6 +308,7 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -351,6 +355,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -381,6 +386,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
@@ -394,6 +400,7 @@
 * `web.id.`
 * `web.ve.`
 * `wed.`
+* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
