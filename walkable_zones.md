@@ -249,6 +249,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -267,6 +268,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -297,6 +299,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -374,7 +377,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
