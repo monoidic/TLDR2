@@ -3495,8 +3495,10 @@ batterycentre.co.bw.	0	IN	NS	ns01.gcsat.co.bw.
 batterycentre.co.bw.	0	IN	NS	ns02.gcsat.co.bw.
 batteryhq.co.bw.	0	IN	NS	suspened1.nic.net.bw.
 batteryhq.co.bw.	0	IN	NS	suspened2.nic.net.bw.
-baudaconference.co.bw.	0	IN	NS	ns1.dns-parking.com.
-baudaconference.co.bw.	0	IN	NS	ns2.dns-parking.com.
+baudaconference.co.bw.	0	IN	NS	ns1.baudaconference.co.bw.
+baudaconference.co.bw.	0	IN	NS	ns2.baudaconference.co.bw.
+ns1.baudaconference.co.bw.	0	IN	A	191.101.81.18
+ns2.baudaconference.co.bw.	0	IN	A	191.101.81.18
 bavarian.co.bw.	0	IN	NS	ns1.dns-parking.com.
 bavarian.co.bw.	0	IN	NS	ns2.dns-parking.com.
 bavia.co.bw.	0	IN	NS	bwadomains.mars.orderbox-dns.com.
