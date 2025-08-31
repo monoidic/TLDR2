@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.id.`
@@ -23,6 +24,7 @@
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
+* `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
@@ -74,7 +76,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -105,7 +106,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -134,7 +134,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -268,7 +267,6 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -276,7 +274,6 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -298,7 +295,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -342,7 +338,6 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
