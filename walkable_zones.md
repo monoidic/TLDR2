@@ -4,6 +4,7 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `2ix.at.`
+* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -16,7 +17,6 @@
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
-* `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
@@ -45,6 +45,7 @@
 * `auto.`
 * `ax.`
 * `b.br.`
+* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -52,6 +53,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -105,6 +107,7 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -179,7 +182,6 @@
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
-* `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
@@ -256,7 +258,7 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.audio.`
+* `nic.aquarelle.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -276,6 +278,7 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -297,13 +300,13 @@
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
-* `org.tn.`
 * `org.ve.`
+* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
-* `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -321,7 +324,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
@@ -337,8 +339,10 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
+* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
@@ -349,12 +353,10 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -371,18 +373,17 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
-* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
