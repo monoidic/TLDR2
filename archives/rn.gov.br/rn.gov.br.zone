@@ -907,7 +907,8 @@ eptran.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.eptran.rn.gov.br.	0	IN	CNAME	eptran.rn.gov.br.
 equador.rn.gov.br.	0	IN	NS	dns30174.dizinc.com.
 equador.rn.gov.br.	0	IN	NS	dns30175.dizinc.com.
-escoladegoverno.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
+escoladegoverno.rn.gov.br.	0	IN	A	177.87.96.94
+escoladegoverno.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 certificado.escoladegoverno.rn.gov.br.	0	IN	CNAME	escoladegoverno.rn.gov.br.
 www.escoladegoverno.rn.gov.br.	0	IN	CNAME	escoladegoverno.rn.gov.br.
 escutaativa.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
@@ -1833,9 +1834,9 @@ semarh.rn.gov.br.	0	IN	A	177.87.96.2
 semarh.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
 semarh.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
 www.semarh.rn.gov.br.	0	IN	CNAME	semarh.rn.gov.br.
-semjidh.rn.gov.br.	0	IN	A	177.87.96.2
+semjidh.rn.gov.br.	0	IN	A	177.87.96.94
 semjidh.rn.gov.br.	0	IN	MX	10 zimbra.cotic.rn.gov.br.
-semjidh.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::2
+semjidh.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 www.semjidh.rn.gov.br.	0	IN	CNAME	semjidh.rn.gov.br.
 www.semut.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 senadoreloidesouza.rn.gov.br.	0	IN	NS	ns952.hostgator.com.br.
