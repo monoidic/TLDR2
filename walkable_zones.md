@@ -2,10 +2,8 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -16,7 +14,6 @@
 * `abc.br.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -26,7 +23,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -47,7 +43,6 @@
 * `auto.`
 * `ax.`
 * `b.br.`
-* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -84,7 +79,6 @@
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -124,7 +118,6 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
-* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
@@ -134,11 +127,9 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -168,21 +159,17 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
-* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
-* `ia.br.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -220,14 +207,12 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
-* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -239,12 +224,12 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -260,8 +245,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -274,7 +257,6 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -285,11 +267,7 @@
 * `nic.ve.`
 * `nic.za.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
-* `nom.br.`
-* `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `nsr.dns.md.`
 * `ntr.br.`
@@ -308,7 +286,6 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -352,7 +329,6 @@
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
-* `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
@@ -380,7 +356,6 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
