@@ -58,7 +58,6 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -125,7 +124,6 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
-* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -139,7 +137,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -222,7 +219,6 @@
 * `lk.`
 * `log.br.`
 * `lol.`
-* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -275,7 +271,6 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -288,8 +283,6 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
-* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -327,14 +320,12 @@
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
-* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
-* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
