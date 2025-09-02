@@ -17,7 +17,6 @@
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
-* `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
@@ -58,6 +57,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -80,6 +80,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -124,6 +125,7 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
+* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -137,6 +139,7 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -203,7 +206,6 @@
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
-* `khplay.nl.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
@@ -219,6 +221,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -246,7 +249,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -264,13 +266,13 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
+* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -283,6 +285,8 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
+* `nog.community.`
+* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -293,7 +297,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -306,7 +309,6 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
-* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -320,18 +322,18 @@
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
+* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
+* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -353,7 +355,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
