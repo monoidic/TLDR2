@@ -3,9 +3,8 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -17,14 +16,16 @@
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
-* `adm.br.`
 * `adv.br.`
+* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
+* `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
@@ -33,6 +34,7 @@
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
+* `arq.br.`
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
@@ -43,7 +45,6 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -75,7 +76,6 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -103,6 +103,7 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -150,6 +151,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -190,6 +192,7 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
+* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -228,9 +231,9 @@
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -240,7 +243,8 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
-* `name.pr.`
+* `my.id.`
+* `mythic-beasts.com.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -254,7 +258,6 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -262,6 +265,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -270,6 +274,7 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -293,6 +298,7 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -342,11 +348,11 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
-* `sch.id.`
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -354,7 +360,6 @@
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
@@ -395,4 +400,5 @@
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
+* `xyz.br.`
 * `zlg.br.`
