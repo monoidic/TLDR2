@@ -41,7 +41,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -81,6 +80,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -97,12 +97,14 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -184,6 +186,7 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
+* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
@@ -242,7 +245,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -264,6 +266,7 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -277,7 +280,6 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -296,6 +298,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -306,6 +309,7 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -324,6 +328,7 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
+* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -387,7 +392,9 @@
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
