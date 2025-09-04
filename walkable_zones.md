@@ -25,6 +25,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -59,7 +60,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -75,7 +75,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -116,7 +115,6 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
-* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -196,7 +194,6 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
-* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -217,6 +214,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -236,14 +234,12 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -262,22 +258,24 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.juegos.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -296,7 +294,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `or.id.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
@@ -308,7 +305,6 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
-* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -354,7 +350,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
