@@ -8,9 +8,7 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
-* `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -60,6 +58,7 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
+* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -75,6 +74,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -115,6 +115,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -165,7 +166,6 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
-* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -185,7 +185,6 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
-* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -194,6 +193,7 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
+* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -234,12 +234,13 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
+* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -276,12 +277,12 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -294,6 +295,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `or.id.`
 * `org.bt.`
 * `org.kz.`
 * `org.lb.`
@@ -305,6 +307,7 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
+* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -350,6 +353,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -392,7 +396,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `web.id.`
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
