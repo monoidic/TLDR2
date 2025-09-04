@@ -81,7 +81,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -107,7 +106,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -119,10 +117,8 @@
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
-* `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -139,7 +135,6 @@
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -211,7 +206,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -221,7 +215,6 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
-* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -255,7 +248,6 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
-* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -264,7 +256,6 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -293,7 +284,6 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `nsr.dns.md.`
 * `ntr.br.`
@@ -368,7 +358,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -404,7 +393,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `web.id.`
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
