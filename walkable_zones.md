@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -89,6 +90,7 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -114,15 +116,19 @@
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
+* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
+* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -206,6 +212,7 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -229,12 +236,14 @@
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -262,6 +271,7 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -297,6 +307,7 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -312,6 +323,7 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
+* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -347,15 +359,19 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
+* `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
