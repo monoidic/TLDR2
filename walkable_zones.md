@@ -7,7 +7,6 @@
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
-* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -180,7 +179,6 @@
 * `ia.br.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -208,6 +206,7 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -267,17 +266,19 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.juegos.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -365,7 +366,6 @@
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
