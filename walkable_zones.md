@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -23,7 +22,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -48,11 +46,13 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
+* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -105,6 +105,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -114,7 +115,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
-* `edu.kg.`
+* `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
@@ -131,7 +132,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -153,7 +153,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
+* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gov.ao.`
@@ -186,7 +186,6 @@
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
-* `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -224,6 +223,7 @@
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
+* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -267,17 +267,19 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.juegos.`
 * `nic.mc.`
-* `nic.mom.`
+* `nic.me.`
 * `nic.omega.`
-* `nic.shell.`
+* `nic.pics.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -290,7 +292,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -338,6 +339,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -361,7 +363,6 @@
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
-* `store.ve.`
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
@@ -379,6 +380,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
