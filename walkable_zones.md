@@ -81,6 +81,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.kg.`
 * `com.kz.`
@@ -100,7 +101,6 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
@@ -166,7 +166,6 @@
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
-* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
@@ -174,11 +173,9 @@
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -283,6 +280,7 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -300,7 +298,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -309,12 +306,10 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
