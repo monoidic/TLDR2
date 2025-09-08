@@ -48,7 +48,6 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -96,7 +95,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -173,7 +171,6 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
-* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -208,7 +205,6 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -261,6 +257,7 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -271,18 +268,14 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.juegos.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -324,6 +317,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -376,12 +370,10 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
