@@ -10,7 +10,6 @@ gov.ph.	0	IN	MX	10 aspmx2.googlemail.com.
 gov.ph.	0	IN	MX	10 aspmx3.googlemail.com.
 gov.ph.	0	IN	MX	15 ne-mail1.gov.ph.
 gov.ph.	0	IN	MX	16 ne-mail2.gov.ph.
-gov.ph.	0	IN	DNSKEY	256 3 13 sjctDlVsl1tK54tNJmlGnAr+J5Sa9dqezZ2iKZA8FreSu3lqDm0lnNHw2rG8Q7zSjY8gw9JFQi3b0dk7jJMvew== ;{id = 27649 (zsk), size = 256b}
 gov.ph.	0	IN	DNSKEY	256 3 13 9iePGxgy5ys96UEE5rGYR0Yj6Awp29HnlU12WhmQ2P0oJJ0qHe+dxC7RJ8ZABT5vopoZ/wvrJiO7/wWfVjyHSg== ;{id = 37530 (zsk), size = 256b}
 gov.ph.	0	IN	DNSKEY	257 3 13 b9JFuC2mMsKwiPSqGKBkXf0s66yXNgShtMWL5S/Kc+kh3z6tPoZCUMfb7bmJ4F1kdTU7jqaZoBxdrWG00PzWXg== ;{id = 33207 (ksk), size = 256b}
 gov.ph.	0	IN	NSEC3PARAM	1 0 0 - 
@@ -1367,8 +1366,10 @@ catbalogancity.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
 catbalogancity.gov.ph.	0	IN	NS	newscott.gov.ph.
 catbaloganwd.gov.ph.	0	IN	NS	ns1.lightweightworks.com.
 catbaloganwd.gov.ph.	0	IN	NS	ns2.lightweightworks.com.
-cateel.gov.ph.	0	IN	NS	ns1.livedns.co.uk.
-cateel.gov.ph.	0	IN	NS	ns2.livedns.co.uk.
+cateel.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
+cateel.gov.ph.	0	IN	NS	ns4.dns.gov.ph.
+cateel.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
+cateel.gov.ph.	0	IN	NS	newscott.gov.ph.
 catigbian.gov.ph.	0	IN	NS	ns1.zoom.ph.
 catigbian.gov.ph.	0	IN	NS	ns2.zoom.ph.
 catmon-cebu.gov.ph.	0	IN	NS	foovis1.ncc.gov.ph.
@@ -3505,10 +3506,6 @@ lgusebaste.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
 lgusebaste.gov.ph.	0	IN	NS	newscott.gov.ph.
 lgusiaton.gov.ph.	0	IN	NS	ns8521.hostgator.com.
 lgusiaton.gov.ph.	0	IN	NS	ns8522.hostgator.com.
-lgusocorro.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
-lgusocorro.gov.ph.	0	IN	NS	ns4.dns.gov.ph.
-lgusocorro.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
-lgusocorro.gov.ph.	0	IN	NS	newscott.gov.ph.
 lgustamonica.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
 lgustamonica.gov.ph.	0	IN	NS	ns4.dns.gov.ph.
 lgustamonica.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
@@ -4481,7 +4478,7 @@ napc.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
 napc.gov.ph.	0	IN	NS	newscott.gov.ph.
 napocor.gov.ph.	0	IN	NS	ns1.napocor.gov.ph.
 napocor.gov.ph.	0	IN	NS	ns2.napocor.gov.ph.
-ns1.napocor.gov.ph.	0	IN	A	126.209.12.72
+ns1.napocor.gov.ph.	0	IN	A	58.97.169.2
 ns2.napocor.gov.ph.	0	IN	A	45.64.123.199
 napolcom.gov.ph.	0	IN	NS	max.ns.cloudflare.com.
 napolcom.gov.ph.	0	IN	NS	pam.ns.cloudflare.com.
@@ -6737,6 +6734,10 @@ snwater.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
 snwater.gov.ph.	0	IN	NS	newscott.gov.ph.
 snwd.gov.ph.	0	IN	NS	ns2.bnshosting.net.
 snwd.gov.ph.	0	IN	NS	ns5.bnshosting.net.
+socorro.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
+socorro.gov.ph.	0	IN	NS	ns4.dns.gov.ph.
+socorro.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
+socorro.gov.ph.	0	IN	NS	newscott.gov.ph.
 socorromindoro.gov.ph.	0	IN	NS	ns1.sparkcom.eu.org.
 socorromindoro.gov.ph.	0	IN	NS	ns2.sparkcom.eu.org.
 www.sofronioespanola.gov.ph.	0	IN	A	202.90.158.52
