@@ -200,6 +200,7 @@
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
+* `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
@@ -278,6 +279,7 @@
 * `nic.juegos.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -355,6 +357,7 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
+* `sch.id.`
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
@@ -364,7 +367,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -381,6 +383,7 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
+* `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
@@ -388,11 +391,13 @@
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
+* `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
