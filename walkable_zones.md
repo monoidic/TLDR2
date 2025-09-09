@@ -3,7 +3,6 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -88,7 +87,6 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -109,6 +107,7 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -246,7 +245,6 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -266,6 +264,7 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -275,14 +274,14 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.juegos.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.swatch.`
+* `nic.shell.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -293,10 +292,10 @@
 * `nsr.dns.md.`
 * `ntr.br.`
 * `nu.`
+* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -344,7 +343,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
