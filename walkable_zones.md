@@ -96,7 +96,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -277,6 +276,7 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.juegos.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -362,6 +362,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -389,6 +390,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
