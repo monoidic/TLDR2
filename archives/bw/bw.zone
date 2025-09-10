@@ -4,7 +4,7 @@ bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 bw.	0	IN	DNSKEY	256 3 13 7mBlVx/tVHwtOBnn3NTbKbIry7PKaObb7WgqzBaK+QYFlbJ4oAzLCrAXWXeho/3bzDMmAXDLRuoU+/b1YMBtVw== ;{id = 29278 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
-bw.	0	IN	NSEC3PARAM	1 0 0 027d70a59ac28d11 
+bw.	0	IN	NSEC3PARAM	1 0 0 9bc0e8254f747b75 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
 bw.	0	IN	CDNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA==
 a.bw.	0	IN	NS	ns1.dreamhost.com.
@@ -1254,6 +1254,10 @@ activealigners.co.bw.	0	IN	NS	ns.otherdns.com.
 activealigners.co.bw.	0	IN	NS	ns.otherdns.net.
 activedriveinsurance.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 activedriveinsurance.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
+activekidsacademy.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
+activekidsacademy.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
+activekidsacademy.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
+activekidsacademy.co.bw.	0	IN	NS	info873950.mercury.orderbox-dns.com.
 activephysio.co.bw.	0	IN	NS	ns2uul.vbnservices.net.
 activephysio.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 activia.co.bw.	0	IN	NS	dns1.cscdns.net.
@@ -4678,6 +4682,12 @@ bokagolddestinations.co.bw.	0	IN	NS	ns2.md-89.webhostbox.net.
 bokamoso.co.bw.	0	IN	NS	ns1.digitalocean.com.
 bokamoso.co.bw.	0	IN	NS	ns2.digitalocean.com.
 bokamoso.co.bw.	0	IN	NS	ns3.digitalocean.com.
+bokamosohospital.co.bw.	0	IN	NS	ns.bnamed.eu.
+bokamosohospital.co.bw.	0	IN	NS	ns.bnamed.uk.
+bokamosohospital.co.bw.	0	IN	NS	ns.bnamed.us.
+bokamosohospital.co.bw.	0	IN	NS	ns.nscluster.pl.
+bokamosohospital.co.bw.	0	IN	NS	ns.nscluster.ru.
+bokamosohospital.co.bw.	0	IN	DS	20762 13 2 e6106c4faedcf3206efab3846e53532ffeb6c8216afaeede3e9965d0f3c71819
 bokamosoprinters.co.bw.	0	IN	NS	ns1.maranyane.digital.
 bokamosoprinters.co.bw.	0	IN	NS	ns2.maranyane.digital.
 bokamosowealth.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
@@ -6317,10 +6327,8 @@ cblock.co.bw.	0	IN	NS	ns1.folio.agency.
 cblock.co.bw.	0	IN	NS	ns2.folio.agency.
 cbm.co.bw.	0	IN	NS	ns1.paratustelco.co.bw.
 cbm.co.bw.	0	IN	NS	ns2.paratustelco.co.bw.
-cbs.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
-cbs.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
-cbs.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
-cbs.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
+cbs.co.bw.	0	IN	NS	ns1.maranyane.digital.
+cbs.co.bw.	0	IN	NS	ns2.maranyane.digital.
 cbs-botswana.co.bw.	0	IN	NS	ns3.mega.bw.
 cbs-botswana.co.bw.	0	IN	NS	ns4.mega.bw.
 cbsclutch.co.bw.	0	IN	NS	dns1.yandex.net.
@@ -7681,8 +7689,8 @@ creativecompound.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 creativeculture.co.bw.	0	IN	NS	ns1.digitalocean.com.
 creativeculture.co.bw.	0	IN	NS	ns2.digitalocean.com.
 creativeculture.co.bw.	0	IN	NS	ns3.digitalocean.com.
-creativedam.co.bw.	0	IN	NS	lara.ns.cloudflare.com.
-creativedam.co.bw.	0	IN	NS	martin.ns.cloudflare.com.
+creativedam.co.bw.	0	IN	NS	ns1.maranyane.digital.
+creativedam.co.bw.	0	IN	NS	ns2.maranyane.digital.
 creativehouse.co.bw.	0	IN	NS	ns3.mega.bw.
 creativehouse.co.bw.	0	IN	NS	ns4.mega.bw.
 creativeinsights.co.bw.	0	IN	NS	ns1.siteground353.com.
@@ -11345,6 +11353,10 @@ fivesciences.co.bw.	0	IN	NS	ns1.botshosting.co.za.
 fivesciences.co.bw.	0	IN	NS	ns2.botshosting.co.za.
 fivestarcabincrew.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 fivestarcabincrew.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+fixswiftsolutions.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
+fixswiftsolutions.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
+fixswiftsolutions.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
+fixswiftsolutions.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
 flake.co.bw.	0	IN	NS	info873950.mars.orderbox-dns.com.
 flake.co.bw.	0	IN	NS	info873950.earth.orderbox-dns.com.
 flake.co.bw.	0	IN	NS	info873950.venus.orderbox-dns.com.
@@ -12471,10 +12483,8 @@ geosolutions.co.bw.	0	IN	NS	dns2.zebranet.co.bw.
 geosurv.co.bw.	0	IN	NS	dns1.supremepanel.com.
 geosurv.co.bw.	0	IN	NS	dns2.supremepanel.com.
 geosurv.co.bw.	0	IN	NS	dns3.supremepanel.com.
-geotech.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
-geotech.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
-geotech.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
-geotech.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
+geotech.co.bw.	0	IN	NS	ns1.maranyane.digital.
+geotech.co.bw.	0	IN	NS	ns2.maranyane.digital.
 geotechnics.co.bw.	0	IN	NS	ns391.websitewelcome.com.
 geotechnics.co.bw.	0	IN	NS	ns392.websitewelcome.com.
 geotestlabs.co.bw.	0	IN	NS	ns1.serverhostgroup.com.
@@ -12636,10 +12646,8 @@ gizzogroup.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 gizzogroup.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
 gkmlogistics.co.bw.	0	IN	NS	ns1.cp-51.webhostbox.net.
 gkmlogistics.co.bw.	0	IN	NS	ns2.cp-51.webhostbox.net.
-gkt.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
-gkt.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
-gkt.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
-gkt.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
+gkt.co.bw.	0	IN	NS	ns1.maranyane.digital.
+gkt.co.bw.	0	IN	NS	ns2.maranyane.digital.
 gladafrica.co.bw.	0	IN	NS	ns1.dottess.cloud.
 gladafrica.co.bw.	0	IN	NS	ns2.dottess.cloud.
 glamaesthetics.co.bw.	0	IN	NS	dns1.webmart.co.bw.
@@ -13531,8 +13539,8 @@ haven.co.bw.	0	IN	NS	ns1.mark123.website.
 haven.co.bw.	0	IN	NS	ns2.mark123.website.
 havenstream.co.bw.	0	IN	NS	ns1.atommedia.co.bw.
 havenstream.co.bw.	0	IN	NS	ns2.atommedia.co.bw.
-hawkeye.co.bw.	0	IN	NS	ns1.alu.co.bw.
-hawkeye.co.bw.	0	IN	NS	ns2.alu.co.bw.
+hawkeye.co.bw.	0	IN	NS	jack.ns.cloudflare.com.
+hawkeye.co.bw.	0	IN	NS	hattie.ns.cloudflare.com.
 hawksmining.co.bw.	0	IN	NS	ns1.botsnet.bw.
 hawksmining.co.bw.	0	IN	NS	ns2.botsnet.bw.
 haystack.co.bw.	0	IN	NS	ns-cloud-c1.googledomains.com.
@@ -14025,10 +14033,8 @@ hotlinesecurity.co.bw.	0	IN	NS	ns1.mega.bw.
 hotlinesecurity.co.bw.	0	IN	NS	ns2.mega.bw.
 hotlinesecurity.co.bw.	0	IN	NS	ns3.mega.bw.
 hotlinesecurity.co.bw.	0	IN	NS	ns4.mega.bw.
-house1957.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
-house1957.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
-house1957.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
-house1957.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
+house1957.co.bw.	0	IN	NS	ns1.maranyane.digital.
+house1957.co.bw.	0	IN	NS	ns2.maranyane.digital.
 houseandhome.co.bw.	0	IN	NS	dns1.zebranet.co.bw.
 houseandhome.co.bw.	0	IN	NS	dns2.zebranet.co.bw.
 houseandhomebots.co.bw.	0	IN	NS	ns-424.awsdns-53.com.
@@ -32571,10 +32577,8 @@ waltons.co.bw.	0	IN	NS	demeter.is.co.za.
 waltons.co.bw.	0	IN	NS	jupiter.is.co.za.
 waltord.co.bw.	0	IN	NS	ns1117.websitewelcome.com.
 waltord.co.bw.	0	IN	NS	ns1118.websitewelcome.com.
-wamandi.co.bw.	0	IN	NS	ns1.mysecurecloudhost.com.
-wamandi.co.bw.	0	IN	NS	ns2.mysecurecloudhost.com.
-wamandi.co.bw.	0	IN	NS	ns3.mysecurecloudhost.com.
-wamandi.co.bw.	0	IN	NS	ns4.mysecurecloudhost.com.
+wamandi.co.bw.	0	IN	NS	ns1.maranyane.digital.
+wamandi.co.bw.	0	IN	NS	ns2.maranyane.digital.
 wamelame.co.bw.	0	IN	NS	ns1.kgwebobusinessemails2.co.bw.
 wamelame.co.bw.	0	IN	NS	ns2.kgwebobusinessemails2.co.bw.
 wanderport.co.bw.	0	IN	NS	ns1045.ui-dns.de.
@@ -33231,6 +33235,8 @@ worldgroup.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 worldgroup.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 worldsportsbetting.co.bw.	0	IN	NS	ns1.101domain.com.
 worldsportsbetting.co.bw.	0	IN	NS	ns2.101domain.com.
+worldsync.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
+worldsync.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 worldwide-dating.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 worldwide-dating.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 worldwidedating.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
