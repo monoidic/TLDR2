@@ -76,6 +76,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -95,6 +96,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -224,7 +226,6 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -273,15 +274,12 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -409,6 +407,5 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
