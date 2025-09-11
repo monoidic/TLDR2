@@ -13450,8 +13450,10 @@ doktorpeso.do.	0	IN	NS	dns1.midominio.do.
 doktorpeso.do.	0	IN	NS	dns2.midominio.do.
 doktorpeso.do.	0	IN	NS	dns3.midominio.do.
 doktorpeso.do.	0	IN	NS	dns4.midominio.do.
-dol.do.	0	IN	NS	dana.ns.cloudflare.com.
-dol.do.	0	IN	NS	glen.ns.cloudflare.com.
+dol.do.	0	IN	NS	any-ns1.dol.do.
+dol.do.	0	IN	NS	any-ns2.dol.do.
+any-ns1.dol.do.	0	IN	A	91.200.176.1
+any-ns2.dol.do.	0	IN	A	109.104.147.1
 dolar.do.	0	IN	NS	dns1.midominio.do.
 dolar.do.	0	IN	NS	dns2.midominio.do.
 dolar.do.	0	IN	NS	dns3.midominio.do.
@@ -18098,6 +18100,7 @@ frida-artworks.do.	0	IN	NS	ns2.checkdomain.de.
 friday.do.	0	IN	NS	ns1.regery.net.
 friday.do.	0	IN	NS	ns2.regery.net.
 friday.do.	0	IN	NS	ns3.regery.net.
+frie.do.	0	IN	NS	ns51.cloudns.net.
 frie.do.	0	IN	NS	pns51.cloudns.net.
 frie.do.	0	IN	NS	pns52.cloudns.net.
 frie.do.	0	IN	NS	pns53.cloudns.net.
@@ -20477,9 +20480,8 @@ harvestgroup.do.	0	IN	NS	dns1.midominio.do.
 harvestgroup.do.	0	IN	NS	dns2.midominio.do.
 harvestgroup.do.	0	IN	NS	dns3.midominio.do.
 harvestgroup.do.	0	IN	NS	dns4.midominio.do.
-hautarzt.do.	0	IN	NS	ns.udag.de.
-hautarzt.do.	0	IN	NS	ns.udag.net.
-hautarzt.do.	0	IN	NS	ns.udag.org.
+hautarzt.do.	0	IN	NS	ns5.kasserver.com.
+hautarzt.do.	0	IN	NS	ns6.kasserver.com.
 haval.do.	0	IN	NS	ns5.gomydns.com.
 haval.do.	0	IN	NS	ns6.gomydns.com.
 haval.do.	0	IN	NS	ns7.gomydns.com.
