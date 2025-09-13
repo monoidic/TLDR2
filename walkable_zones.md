@@ -22,9 +22,9 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -60,8 +60,8 @@
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
+* `boavista.br.`
 * `br.`
-* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -91,7 +91,6 @@
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
-* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
@@ -224,7 +223,6 @@
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
-* `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
@@ -237,12 +235,12 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
+* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -268,7 +266,6 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -285,6 +282,7 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
+* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -320,6 +318,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -399,12 +398,10 @@
 * `web.id.`
 * `web.ve.`
 * `wed.`
-* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
