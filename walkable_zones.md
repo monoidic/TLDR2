@@ -4,6 +4,7 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
+* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -132,6 +133,7 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
+* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -265,7 +267,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -279,7 +280,6 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -297,6 +297,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -380,7 +381,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
