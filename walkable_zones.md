@@ -14,6 +14,7 @@
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
@@ -106,7 +107,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -132,12 +132,12 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
+* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -151,6 +151,7 @@
 * `game.`
 * `gdn.`
 * `geo.br.`
+* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
@@ -183,6 +184,7 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
+* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
@@ -202,7 +204,6 @@
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
-* `khplay.nl.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
@@ -231,6 +232,7 @@
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
+* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
@@ -238,6 +240,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -245,7 +248,6 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -255,7 +257,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -273,9 +274,10 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -290,11 +292,14 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `or.id.`
 * `org.bt.`
 * `org.kz.`
+* `org.lb.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
-* `pa.leg.br.`
+* `osasco.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -307,24 +312,22 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
-* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
+* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -346,6 +349,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -375,11 +379,8 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
-* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
@@ -394,5 +395,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
