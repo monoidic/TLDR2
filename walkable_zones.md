@@ -4,7 +4,6 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -31,7 +30,6 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
-* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -52,7 +50,6 @@
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
-* `bet.br.`
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
@@ -75,7 +72,6 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
-* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -91,7 +87,6 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -108,7 +103,6 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
-* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -130,7 +124,6 @@
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
-* `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
@@ -202,7 +195,6 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
@@ -243,14 +235,12 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -262,10 +252,8 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -273,11 +261,9 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -308,6 +294,7 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -409,6 +396,5 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
