@@ -98,7 +98,6 @@
 * `curitiba.br.`
 * `cw.`
 * `d-zone.ca.`
-* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `desi.`
@@ -183,7 +182,6 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -209,6 +207,7 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -222,11 +221,11 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -244,7 +243,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -280,7 +278,6 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -293,6 +290,7 @@
 * `nom.za.`
 * `not.br.`
 * `nsr.dns.md.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
@@ -345,6 +343,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
