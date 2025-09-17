@@ -26,7 +26,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -41,7 +40,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -96,8 +94,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -176,7 +174,6 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
-* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `iana-servers.net.`
@@ -235,7 +232,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -249,7 +245,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -279,10 +274,8 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -410,6 +403,5 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
