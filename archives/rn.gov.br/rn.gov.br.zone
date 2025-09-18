@@ -808,7 +808,7 @@ apiparcelamentoh1.detran.rn.gov.br.	0	IN	CNAME	gatewayh.detran.rn.gov.br.
 apiportallogin.detran.rn.gov.br.	0	IN	CNAME	gateway.detran.rn.gov.br.
 cfc.detran.rn.gov.br.	0	IN	CNAME	www2.detran.rn.gov.br.
 cnhpopular.detran.rn.gov.br.	0	IN	CNAME	gateway.detran.rn.gov.br.
-consultapbt.detran.rn.gov.br.	0	IN	CNAME	gatewayportal.detran.rn.gov.br.
+consultapbt.detran.rn.gov.br.	0	IN	CNAME	gateway.detran.rn.gov.br.
 crlvdigital.detran.rn.gov.br.	0	IN	CNAME	gateway.detran.rn.gov.br.
 crlvdigitalinterno.detran.rn.gov.br.	0	IN	A	10.7.0.32
 det_serv_apl.detran.rn.gov.br.	0	IN	CNAME	www2.detran.rn.gov.br.
@@ -818,7 +818,7 @@ fw.detran.rn.gov.br.	0	IN	CNAME	www2.detran.rn.gov.br.
 gateway.detran.rn.gov.br.	0	IN	A	177.87.96.183
 gatewayh.detran.rn.gov.br.	0	IN	A	189.89.66.179
 gatewaymobile.detran.rn.gov.br.	0	IN	A	177.87.96.178
-gatewayportal.detran.rn.gov.br.	0	IN	A	177.87.96.190
+gatewayportal.detran.rn.gov.br.	0	IN	CNAME	gateway.detran.rn.gov.br.
 infracoesapihom.detran.rn.gov.br.	0	IN	CNAME	spy.detran.rn.gov.br.
 mail.detran.rn.gov.br.	0	IN	A	189.89.66.181
 mercosul.detran.rn.gov.br.	0	IN	CNAME	detran.rn.gov.br.
@@ -1947,6 +1947,9 @@ sigeduc.rn.gov.br.	0	IN	MX	10 sigeduc-bal1.imd.ufrn.br.
 adm.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
 adm.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
 backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.200
+backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.201
+backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.202
+backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.203
 bal1.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
 bal2.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
 conferencia.sigeduc.rn.gov.br.	0	IN	A	200.17.142.245
@@ -1958,6 +1961,9 @@ inst4.sigeduc.rn.gov.br.	0	IN	CNAME	inst1.sigeduc.rn.gov.br.
 inst5.sigeduc.rn.gov.br.	0	IN	CNAME	inst1.sigeduc.rn.gov.br.
 inst6.sigeduc.rn.gov.br.	0	IN	CNAME	inst1.sigeduc.rn.gov.br.
 matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.200
+matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.201
+matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.202
+matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.203
 www.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
 www.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
 simais.rn.gov.br.	0	IN	A	177.87.96.104
