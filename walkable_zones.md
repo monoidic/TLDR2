@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -32,7 +33,6 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
-* `api.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
@@ -40,6 +40,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -275,7 +276,6 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -299,7 +299,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -400,7 +399,6 @@
 * `ve.`
 * `vet.br.`
 * `vix.br.`
-* `vlog.br.`
 * `web.id.`
 * `web.ve.`
 * `wed.`
