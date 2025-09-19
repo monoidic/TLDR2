@@ -22,13 +22,13 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -51,7 +51,6 @@
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
-* `bet.br.`
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
@@ -75,7 +74,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -142,7 +140,6 @@
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
-* `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
@@ -180,7 +177,6 @@
 * `ia.br.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -190,8 +186,6 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
-* `info.ve.`
-* `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -268,7 +262,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -278,16 +271,14 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
-* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -305,23 +296,19 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -334,7 +321,6 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -347,7 +333,6 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
-* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
@@ -364,7 +349,6 @@
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
-* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -382,7 +366,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
@@ -390,6 +373,7 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
