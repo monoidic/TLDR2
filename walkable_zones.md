@@ -57,6 +57,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -134,8 +135,11 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
+* `fin.tn.`
+* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -149,6 +153,7 @@
 * `game.`
 * `gdn.`
 * `geo.br.`
+* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
@@ -209,6 +214,7 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
+* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -250,6 +256,7 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -277,6 +284,7 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -341,6 +349,7 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
+* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
