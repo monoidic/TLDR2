@@ -57,7 +57,6 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
-* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -83,19 +82,18 @@
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
-* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -106,6 +104,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -134,7 +133,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -148,7 +146,6 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
-* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -162,6 +159,7 @@
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
+* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
@@ -169,7 +167,6 @@
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
-* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
@@ -202,6 +199,7 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
@@ -262,9 +260,9 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -274,9 +272,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -284,7 +280,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -297,6 +292,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -363,6 +359,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -373,7 +370,6 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
-* `the.br.`
 * `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
@@ -393,7 +389,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
