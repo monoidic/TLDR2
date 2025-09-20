@@ -267,6 +267,7 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -300,7 +301,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -411,6 +411,5 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
