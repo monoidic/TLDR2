@@ -60,7 +60,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -76,7 +75,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -96,7 +94,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -188,7 +185,6 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
-* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
@@ -248,7 +244,6 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -280,11 +275,12 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -299,6 +295,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -332,7 +329,6 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
-* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -376,13 +372,11 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
@@ -400,7 +394,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `web.id.`
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
