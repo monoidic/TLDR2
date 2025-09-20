@@ -211,6 +211,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -278,11 +279,13 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -341,6 +344,7 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
