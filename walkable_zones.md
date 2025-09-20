@@ -57,6 +57,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -82,18 +83,19 @@
 * `co.ve.`
 * `com.bt.`
 * `com.kg.`
+* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -133,6 +135,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -146,6 +149,7 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
+* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -167,6 +171,7 @@
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
+* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
@@ -206,7 +211,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -260,6 +264,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -272,14 +277,14 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.mom.`
-* `nic.pics.`
+* `nic.me.`
+* `nic.omega.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -336,7 +341,6 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -359,7 +363,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -370,6 +373,7 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
+* `the.br.`
 * `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
@@ -389,6 +393,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -402,5 +407,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
