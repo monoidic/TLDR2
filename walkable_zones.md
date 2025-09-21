@@ -6,6 +6,7 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -103,6 +104,7 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -181,6 +183,7 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -202,6 +205,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
+* `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
@@ -242,7 +246,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -274,6 +277,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -309,7 +313,6 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -339,12 +342,13 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
+* `sampa.br.`
+* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
@@ -360,6 +364,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -367,6 +372,7 @@
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
+* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tld.md.`
