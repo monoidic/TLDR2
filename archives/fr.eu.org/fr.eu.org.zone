@@ -3480,8 +3480,9 @@ ys.fr.eu.org.	0	IN	NS	ns1.ys.fr.eu.org.
 ys.fr.eu.org.	0	IN	NS	ns2.ys.fr.eu.org.
 ns1.ys.fr.eu.org.	0	IN	A	188.226.169.40
 ns2.ys.fr.eu.org.	0	IN	A	188.226.169.40
-yverry.fr.eu.org.	0	IN	NS	ns1.desec.io.
-yverry.fr.eu.org.	0	IN	NS	ns2.desec.org.
+yverry.fr.eu.org.	0	IN	NS	erin.ns.cloudflare.com.
+yverry.fr.eu.org.	0	IN	NS	lamar.ns.cloudflare.com.
+yverry.fr.eu.org.	0	IN	DS	2371 13 2 83ecdff1346df6c0349bd9e301e53845ef59b1c85a52b89d743b673de200d463
 zebu.fr.eu.org.	0	IN	NS	a.ns.zebu.fr.eu.org.
 zebu.fr.eu.org.	0	IN	NS	b.ns.zebu.fr.eu.org.
 a.ns.zebu.fr.eu.org.	0	IN	A	82.67.111.94
