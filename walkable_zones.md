@@ -69,6 +69,7 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
+* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -119,6 +120,7 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
+* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
@@ -187,6 +189,7 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
+* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -224,6 +227,7 @@
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
+* `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
@@ -251,6 +255,7 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
+* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -267,6 +272,8 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -294,7 +301,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.kz.`
@@ -372,11 +378,13 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
+* `torproject.net.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
@@ -403,5 +411,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`
+* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
