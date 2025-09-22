@@ -9,6 +9,7 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
+* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -21,7 +22,6 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -98,7 +98,6 @@
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
@@ -111,11 +110,12 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
+* `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
@@ -243,7 +243,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -270,9 +269,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -364,7 +361,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -402,7 +398,6 @@
 * `web.id.`
 * `web.ve.`
 * `wed.`
-* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
