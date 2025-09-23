@@ -48,7 +48,6 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -176,8 +175,10 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -223,7 +224,6 @@
 * `lol.`
 * `londrina.br.`
 * `lr.`
-* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
@@ -244,7 +244,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -260,9 +259,11 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -371,7 +372,6 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
-* `the.br.`
 * `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
@@ -384,6 +384,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
