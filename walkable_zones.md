@@ -104,7 +104,6 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -264,7 +263,6 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -286,6 +284,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -329,7 +328,6 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
