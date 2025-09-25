@@ -3,6 +3,7 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -28,6 +29,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -106,6 +108,7 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -263,6 +266,7 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -277,6 +281,7 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -381,6 +386,7 @@
 * `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
