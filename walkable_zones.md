@@ -14,6 +14,7 @@
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -23,7 +24,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -46,6 +46,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -80,7 +81,9 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
+* `com.cy.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
@@ -96,6 +99,7 @@
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
+* `cy.`
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
@@ -111,7 +115,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -146,7 +149,6 @@
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
-* `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
@@ -157,7 +159,7 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -193,6 +195,7 @@
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
+* `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
@@ -232,8 +235,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
-* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
@@ -251,9 +252,9 @@
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
-* `natal.br.`
 * `net.bt.`
 * `net.id.`
+* `net.kz.`
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
@@ -265,18 +266,20 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -293,14 +296,17 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
+* `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -320,6 +326,7 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -343,6 +350,7 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
+* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
@@ -351,6 +359,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
