@@ -1,8 +1,9 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
+* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -27,7 +28,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -87,11 +87,13 @@
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
+* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
+* `curitiba.br.`
 * `cw.`
 * `d-zone.ca.`
 * `def.br.`
@@ -104,7 +106,6 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
-* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -120,7 +121,9 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
+* `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -194,9 +197,11 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
+* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
@@ -205,6 +210,7 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -256,7 +262,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.car.`
+* `nic.bg.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -271,13 +277,14 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
+* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -374,8 +381,8 @@
 * `to.leg.br.`
 * `torproject.net.`
 * `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
