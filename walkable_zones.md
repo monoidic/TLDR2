@@ -55,7 +55,6 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
-* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -76,9 +75,9 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `com.bt.`
 * `com.cy.`
@@ -87,6 +86,7 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -102,7 +102,6 @@
 * `des.br.`
 * `desa.id.`
 * `desi.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -131,11 +130,11 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -156,7 +155,6 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -168,10 +166,12 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
+* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -204,6 +204,7 @@
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
+* `khplay.nl.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
@@ -263,12 +264,13 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -295,7 +297,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -307,7 +308,6 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -341,6 +341,7 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -356,6 +357,7 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
