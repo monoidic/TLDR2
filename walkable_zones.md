@@ -3,6 +3,7 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -29,6 +30,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -180,6 +182,7 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -209,6 +212,7 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -218,6 +222,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -278,6 +283,7 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -357,6 +363,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
