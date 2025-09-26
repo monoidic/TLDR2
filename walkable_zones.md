@@ -3,7 +3,6 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -26,10 +25,10 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -86,6 +85,7 @@
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
+* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
@@ -180,7 +180,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -199,6 +198,7 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
+* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -209,7 +209,6 @@
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -219,7 +218,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -252,6 +250,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -271,14 +270,16 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -297,7 +298,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -322,6 +322,7 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
+* `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
@@ -333,6 +334,7 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
+* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -341,6 +343,7 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -354,7 +357,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -362,6 +364,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -383,6 +386,7 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
