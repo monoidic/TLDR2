@@ -8,7 +8,6 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -31,6 +30,7 @@
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -55,6 +55,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -78,6 +79,7 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
+* `co.id.`
 * `co.ve.`
 * `com.bt.`
 * `com.cy.`
@@ -102,6 +104,7 @@
 * `des.br.`
 * `desa.id.`
 * `desi.`
+* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -130,6 +133,7 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
+* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -155,6 +159,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -270,6 +275,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -308,9 +314,9 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -357,7 +363,6 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
@@ -381,7 +386,6 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
