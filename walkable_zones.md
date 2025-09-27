@@ -3,9 +3,9 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -41,7 +41,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -76,7 +75,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -108,10 +106,10 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -126,6 +124,7 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
+* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -136,7 +135,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -155,7 +153,6 @@
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
-* `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
@@ -165,6 +162,7 @@
 * `gov.ao.`
 * `gov.br.`
 * `gov.bt.`
+* `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
@@ -210,7 +208,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -250,6 +247,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -261,7 +259,6 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -278,8 +275,8 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -312,13 +309,13 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -337,7 +334,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `rj.leg.br.`
+* `ripe.net.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
@@ -364,9 +361,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
-* `sorocaba.br.`
 * `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
@@ -395,7 +390,6 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
