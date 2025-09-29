@@ -38,6 +38,7 @@
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
+* `arq.br.`
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
@@ -70,6 +71,7 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -80,7 +82,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -89,7 +90,6 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -97,6 +97,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -118,6 +119,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -139,7 +141,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -256,6 +257,7 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -267,14 +269,18 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -296,13 +302,11 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
-* `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
@@ -319,10 +323,10 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
-* `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
