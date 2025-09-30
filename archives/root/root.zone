@@ -3809,24 +3809,18 @@ f.zdnscloud.cn.	0	IN	A	116.169.54.111
 i.zdnscloud.cn.	0	IN	AAAA	2401:8d00:1::1
 co.	0	IN	NS	a.registrydns.co.
 co.	0	IN	NS	b.registrydns.co.
-co.	0	IN	NS	ns1.cctld.co.
-co.	0	IN	NS	ns2.cctld.co.
-co.	0	IN	NS	ns6.cctld.co.
-co.	0	IN	NS	ns7.cctld.co.
+co.	0	IN	NS	c.registrydns.co.
+co.	0	IN	NS	d.registrydns.co.
 co.	0	IN	DS	7786 8 2 eb84f864cbe86e913796d2c8dd81933aa2c94bbcfb73419a42250bc4650b081b
 co.	0	IN	DS	62110 8 2 4857ee1a85e661c92156ad09b40139dae7d5be37d117a1223289f0e20cf9d654
-ns1.cctld.co.	0	IN	A	37.209.192.14
-ns1.cctld.co.	0	IN	AAAA	2001:dcd:1::14
-ns2.cctld.co.	0	IN	A	37.209.194.14
-ns2.cctld.co.	0	IN	AAAA	2001:dcd:2::14
-ns6.cctld.co.	0	IN	A	156.154.105.25
-ns6.cctld.co.	0	IN	AAAA	2610:a1:1012::21
-ns7.cctld.co.	0	IN	A	204.74.105.1
-ns7.cctld.co.	0	IN	AAAA	2610:a1:3180::53
 a.registrydns.co.	0	IN	A	194.169.218.57
 a.registrydns.co.	0	IN	AAAA	2001:67c:13cc::1:57
 b.registrydns.co.	0	IN	A	185.24.64.57
 b.registrydns.co.	0	IN	AAAA	2a04:2b00:13cc::1:57
+c.registrydns.co.	0	IN	A	212.18.248.57
+c.registrydns.co.	0	IN	AAAA	2a04:2b00:13ee::57
+d.registrydns.co.	0	IN	A	212.18.249.57
+d.registrydns.co.	0	IN	AAAA	2a04:2b00:13ff::57
 coach.	0	IN	NS	v0n0.nic.coach.
 coach.	0	IN	NS	v0n1.nic.coach.
 coach.	0	IN	NS	v0n2.nic.coach.
@@ -9270,7 +9264,7 @@ jprs.	0	IN	NS	tld2.nic.jprs.
 jprs.	0	IN	NS	tld3.nic.jprs.
 jprs.	0	IN	NS	tld4.nic.jprs.
 jprs.	0	IN	NS	tld5.nic.jprs.
-jprs.	0	IN	DS	14500 8 2 1e07f9bc32099270bd8b9b91452ffbd6c04e5d4bf7b002703110d5c091df045d
+jprs.	0	IN	DS	1915 8 2 d2d8b07b59b3127e2890a593a1424cba519989a20d39a1809b860314a6bec199
 tld1.nic.jprs.	0	IN	A	103.47.2.1
 tld1.nic.jprs.	0	IN	AAAA	2001:dda::1
 tld2.nic.jprs.	0	IN	A	117.104.133.16
@@ -12042,7 +12036,7 @@ sz.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::114
 tj.cctld.authdns.ripe.net.	0	IN	A	193.0.9.117
 tj.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::117
 ug.cctld.authdns.ripe.net.	0	IN	A	193.0.9.52
-ug.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::52
+ug.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::52
 sec2.authdns.ripe.net.	0	IN	A	193.0.9.4
 sec2.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::4
 a.dns.ripn.net.	0	IN	A	193.232.128.6
@@ -17664,7 +17658,6 @@ ug.	0	IN	NS	ns-ug.afrinic.net.
 ug.	0	IN	NS	anycast.eahd.or.ug.
 ug.	0	IN	DS	2767 8 2 4278d7c4b2b45738a39f310eac36558411bd547812517bdf23f95fcbb4796b2e
 anycast.eahd.or.ug.	0	IN	A	204.61.216.60
-anycast.eahd.or.ug.	0	IN	AAAA	2001:500:14:6060:ad::1
 root.eahd.or.ug.	0	IN	A	212.88.97.132
 uk.	0	IN	NS	nsa.nic.uk.
 uk.	0	IN	NS	nsb.nic.uk.
