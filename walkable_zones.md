@@ -10,6 +10,7 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -25,7 +26,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -177,6 +177,7 @@
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
+* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
@@ -208,6 +209,7 @@
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
+* `khplay.nl.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
@@ -286,7 +288,6 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -297,9 +298,11 @@
 * `nsr.dns.md.`
 * `ntr.br.`
 * `nu.`
+* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -362,6 +365,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
