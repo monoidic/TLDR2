@@ -26,6 +26,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -145,10 +146,8 @@
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
-* `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -199,7 +198,6 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
@@ -280,7 +278,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -288,6 +285,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -302,7 +300,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -343,7 +340,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -401,7 +397,6 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
-* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
