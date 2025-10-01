@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.cy.`
@@ -22,6 +23,7 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -58,7 +60,9 @@
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
+* `blog.br.`
 * `bmd.br.`
+* `boavista.br.`
 * `br.`
 * `bsb.br.`
 * `bt.`
@@ -73,6 +77,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -105,7 +110,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -121,6 +125,7 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
+* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -154,7 +159,9 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -203,6 +210,7 @@
 * `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -238,7 +246,9 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -270,7 +280,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.mom.`
+* `nic.me.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -313,7 +323,10 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
+* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -326,6 +339,7 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
+* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -351,7 +365,9 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
+* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
@@ -382,6 +398,7 @@
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
+* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
