@@ -34,6 +34,7 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
+* `api.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
@@ -108,6 +109,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -171,6 +173,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -261,9 +264,11 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -283,8 +288,8 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -317,6 +322,7 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -331,6 +337,7 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
+* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -361,6 +368,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -387,6 +395,7 @@
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
+* `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
