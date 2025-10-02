@@ -23,7 +23,6 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -64,6 +63,7 @@
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
+* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -245,9 +245,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -379,6 +377,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -390,6 +389,7 @@
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
+* `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
