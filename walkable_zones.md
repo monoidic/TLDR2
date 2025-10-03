@@ -6,7 +6,6 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -98,7 +97,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -109,6 +107,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -181,7 +180,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -246,6 +244,7 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
+* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -269,6 +268,7 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -281,6 +281,8 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.shell.`
+* `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -292,6 +294,7 @@
 * `not.br.`
 * `ntr.br.`
 * `nu.`
+* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
@@ -320,6 +323,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -353,7 +357,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
