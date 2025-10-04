@@ -10,6 +10,7 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -97,6 +98,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -107,6 +109,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -205,6 +208,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
+* `kapsi.fi.`
 * `kg.`
 * `khplay.nl.`
 * `kin.one.`
@@ -247,6 +251,7 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
+* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -270,18 +275,21 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
