@@ -30,7 +30,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -61,7 +60,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -177,7 +175,6 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
-* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -197,7 +194,6 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
-* `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
@@ -206,7 +202,6 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
 * `kg.`
@@ -222,7 +217,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -269,7 +263,6 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -283,7 +276,6 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -303,7 +295,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -356,7 +347,6 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
-* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -366,7 +356,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -384,7 +373,6 @@
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
-* `tmp.br.`
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
