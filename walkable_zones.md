@@ -17,7 +17,6 @@
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -62,7 +61,6 @@
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
-* `boavista.br.`
 * `br.`
 * `bsb.br.`
 * `bt.`
@@ -82,7 +80,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `com.bt.`
 * `com.cy.`
 * `com.kg.`
 * `com.kz.`
@@ -120,7 +117,6 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
-* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -222,7 +218,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -266,6 +261,7 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -280,12 +276,11 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.ve.`
+* `nic.swatch.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -301,7 +296,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `or.id.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
@@ -363,12 +357,9 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -376,7 +367,6 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
-* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
