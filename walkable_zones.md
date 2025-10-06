@@ -21,6 +21,7 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
+* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
@@ -57,6 +58,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -136,6 +138,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -263,7 +266,6 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -283,7 +285,6 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -309,6 +310,7 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -366,6 +368,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -373,6 +376,7 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
+* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
