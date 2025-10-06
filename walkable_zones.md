@@ -5,7 +5,6 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -26,7 +25,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -139,7 +137,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -216,7 +213,6 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
-* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -240,7 +236,6 @@
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
-* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
@@ -249,8 +244,8 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -286,6 +281,7 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -293,7 +289,6 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -370,7 +365,6 @@
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
@@ -386,7 +380,6 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`

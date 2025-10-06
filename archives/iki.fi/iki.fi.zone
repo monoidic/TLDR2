@@ -2071,6 +2071,10 @@ nj.iki.fi.	0	IN	RP	nj.iki.fi. .
 notinki.iki.fi.	0	IN	A	185.57.4.212
 notinki.iki.fi.	0	IN	MX	10 notinki.iki.fi.
 notinki.iki.fi.	0	IN	RP	notinki.iki.fi. .
+grafana.notinki.iki.fi.	0	IN	CNAME	notinki.iki.fi.
+ha.notinki.iki.fi.	0	IN	CNAME	notinki.iki.fi.
+unifi.notinki.iki.fi.	0	IN	CNAME	notinki.iki.fi.
+zm.notinki.iki.fi.	0	IN	CNAME	notinki.iki.fi.
 ns.iki.fi.	0	IN	A	185.185.170.42
 ns.iki.fi.	0	IN	HINFO	"NonAlpha" "NetBSD"
 ns.iki.fi.	0	IN	MX	10 mail.iki.fi.
