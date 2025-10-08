@@ -281,11 +281,10 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -345,6 +344,7 @@
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
+* `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -362,7 +362,6 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
