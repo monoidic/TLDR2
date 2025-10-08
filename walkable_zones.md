@@ -98,6 +98,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -128,7 +129,6 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
-* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -195,6 +195,7 @@
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
+* `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -204,6 +205,7 @@
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
+* `jus.br.`
 * `k12.wi.us.`
 * `kaas.gg.`
 * `kapsi.fi.`
@@ -227,8 +229,8 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -239,7 +241,6 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
@@ -272,7 +273,6 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -281,6 +281,7 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -307,6 +308,7 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -327,6 +329,7 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -364,7 +367,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
