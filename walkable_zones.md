@@ -24,6 +24,7 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -81,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `com.bt.`
 * `com.cy.`
 * `com.kg.`
 * `com.kz.`
@@ -275,6 +277,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -282,6 +285,7 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
