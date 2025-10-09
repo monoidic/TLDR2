@@ -82,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -187,6 +188,7 @@
 * `id.pub.`
 * `ieee.`
 * `iki.fi.`
+* `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
@@ -213,6 +215,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -224,6 +227,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -269,18 +273,21 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -302,9 +309,9 @@
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -336,7 +343,9 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
+* `rj.leg.br.`
 * `rn.leg.br.`
+* `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -344,6 +353,7 @@
 * `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
+* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
@@ -351,7 +361,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -359,6 +368,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
