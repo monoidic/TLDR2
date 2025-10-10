@@ -24,7 +24,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -48,7 +47,6 @@
 * `auto.`
 * `ax.`
 * `b.br.`
-* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -90,6 +88,7 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -105,9 +104,11 @@
 * `desa.id.`
 * `desi.`
 * `det.br.`
+* `dev.br.`
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -126,6 +127,7 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -167,6 +169,7 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
+* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -237,16 +240,17 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
+* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
+* `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -268,13 +272,14 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.pics.`
+* `nic.omega.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -287,7 +292,9 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `ntr.br.`
 * `nu.`
+* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
@@ -295,8 +302,8 @@
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
-* `org.lb.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
@@ -315,7 +322,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -366,6 +372,7 @@
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
+* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
