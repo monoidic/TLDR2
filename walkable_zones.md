@@ -8,9 +8,9 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.cy.`
@@ -29,11 +29,9 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
-* `api.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
@@ -130,6 +128,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -212,7 +211,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -224,7 +222,6 @@
 * `lk.`
 * `log.br.`
 * `lol.`
-* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -277,7 +274,6 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -301,6 +297,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -349,7 +346,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -363,6 +359,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
