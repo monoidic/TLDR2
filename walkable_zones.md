@@ -77,7 +77,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -291,7 +290,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `nog.community.`
+* `noc.net.er.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -302,7 +301,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -351,7 +349,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
