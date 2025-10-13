@@ -3,6 +3,7 @@ bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 bw.	0	IN	DNSKEY	256 3 13 COrnnwlzqyJeeSUujTlrzP7s74JAuIAqsmL6J6RovSigD+7JuZA2C8c/5lvkxetuuryyqidARV0J/Z7682bkbA== ;{id = 14943 (zsk), size = 256b}
+bw.	0	IN	DNSKEY	256 3 13 RJrxvfknl4ccTp+e1I8mua2jppEZ1X/WFGhWMFsCUjwmyV5wloyxliZfAC6rK6KWRoNYPaI+sB/Hk1d7FFfNXA== ;{id = 48016 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
 bw.	0	IN	NSEC3PARAM	1 0 0 53f42c41198b1e9f 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
@@ -6012,6 +6013,8 @@ byritebots.co.bw.	0	IN	NS	ns2.opq.net.bw.
 byritebots.co.bw.	0	IN	NS	ns3.opq.net.bw.
 bytebridge.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 bytebridge.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
+bytebridgetechnologies.co.bw.	0	IN	NS	ns1.dns-parking.com.
+bytebridgetechnologies.co.bw.	0	IN	NS	ns2.dns-parking.com.
 bytesizecollege.co.bw.	0	IN	NS	lila.ns.cloudflare.com.
 bytesizecollege.co.bw.	0	IN	NS	bjorn.ns.cloudflare.com.
 c3.co.bw.	0	IN	NS	zelda.ns.cloudflare.com.
@@ -15382,6 +15385,8 @@ ithutegotshameka.co.bw.	0	IN	NS	ns2.dreamhost.com.
 ithutegotshameka.co.bw.	0	IN	NS	ns3.dreamhost.com.
 ithutelearning.co.bw.	0	IN	NS	ns1.tswanadomains.xyz.
 ithutelearning.co.bw.	0	IN	NS	ns2.tswanadomains.xyz.
+ithutelms.co.bw.	0	IN	NS	ns1.vercel-dns.com.
+ithutelms.co.bw.	0	IN	NS	ns2.vercel-dns.com.
 itineracimolai.co.bw.	0	IN	NS	dns3.fastweb.it.
 itineracimolai.co.bw.	0	IN	NS	dns4.fastweb.it.
 itineraspa.co.bw.	0	IN	NS	dns3.fastweb.it.
@@ -26482,10 +26487,8 @@ romanna.co.bw.	0	IN	NS	ns1.bwdomains.co.bw.
 romanna.co.bw.	0	IN	NS	ns2.bwdomains.co.bw.
 romanspizza.co.bw.	0	IN	NS	ns1.farhan.com.
 romanspizza.co.bw.	0	IN	NS	ns2.farhan.com.
-roofcaresteel.co.bw.	0	IN	NS	ns1.ajmediatech.com.
-roofcaresteel.co.bw.	0	IN	NS	ns2.ajmediatech.com.
-roofcaresteel.co.bw.	0	IN	NS	ns11.magichandsghana.com.
-roofcaresteel.co.bw.	0	IN	NS	ns12.magichandsghana.com.
+roofcaresteel.co.bw.	0	IN	NS	ns1.domains.net.bw.
+roofcaresteel.co.bw.	0	IN	NS	ns2.domains.net.bw.
 roofspecialists.co.bw.	0	IN	NS	cns4003.webhostbox.net.
 roofspecialists.co.bw.	0	IN	NS	cns4004.webhostbox.net.
 rootsmulticlean.co.bw.	0	IN	NS	ns1.iob.co.bw.
@@ -34451,6 +34454,10 @@ divineconcepts.net.bw.	0	IN	NS	ben.ns.cloudflare.com.
 divineconcepts.net.bw.	0	IN	NS	elinore.ns.cloudflare.com.
 domainregistrationbotswana.net.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
 domainregistrationbotswana.net.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
+domains.net.bw.	0	IN	NS	ns1.domains.net.bw.
+domains.net.bw.	0	IN	NS	ns2.domains.net.bw.
+ns1.domains.net.bw.	0	IN	A	92.205.20.40
+ns2.domains.net.bw.	0	IN	A	92.205.30.60
 drpl.net.bw.	0	IN	NS	ns1.zebranet.net.
 drpl.net.bw.	0	IN	NS	ns2.zebranet.net.
 duke.net.bw.	0	IN	NS	ns1.md-83.webhostbox.net.
