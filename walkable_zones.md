@@ -14,6 +14,7 @@
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -25,6 +26,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -40,7 +42,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -75,7 +76,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -127,7 +127,6 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -170,7 +169,6 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
-* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -224,6 +222,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -246,6 +245,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -367,6 +367,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
@@ -388,6 +389,7 @@
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
+* `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
