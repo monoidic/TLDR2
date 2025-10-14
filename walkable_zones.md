@@ -6,6 +6,7 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -25,7 +26,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.leg.br.`
+* `am.gov.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -39,6 +40,7 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -107,7 +109,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dnsking.ch.`
+* `dns.md.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -217,7 +219,6 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -250,7 +251,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -280,7 +280,6 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -306,6 +305,7 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -376,13 +376,13 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
@@ -396,6 +396,7 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
+* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
