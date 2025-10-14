@@ -6,7 +6,6 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -26,7 +25,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -41,7 +39,6 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -77,6 +74,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -109,7 +107,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -286,6 +283,7 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -308,7 +306,6 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -379,7 +376,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -400,7 +396,6 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
