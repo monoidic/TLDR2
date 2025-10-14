@@ -9,7 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -24,9 +23,9 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -97,7 +96,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -110,13 +108,12 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
-* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -129,7 +126,6 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
-* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -214,11 +210,11 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
-* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
+* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -251,6 +247,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -280,6 +277,7 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -287,7 +285,6 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -295,9 +292,9 @@
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
-* `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -359,12 +356,11 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -383,6 +379,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
