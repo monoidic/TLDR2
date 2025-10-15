@@ -667,6 +667,11 @@ control.rn.gov.br.	0	IN	AAAA	2801:80:22a0:177::5e
 certidoes.control.rn.gov.br.	0	IN	CNAME	control.rn.gov.br.
 convenios.control.rn.gov.br.	0	IN	A	177.87.96.25
 documentos.control.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
+eci.control.rn.gov.br.	0	IN	A	208.97.137.232
+ftp.eci.control.rn.gov.br.	0	IN	CNAME	eci.control.rn.gov.br.
+mysql.eci.control.rn.gov.br.	0	IN	CNAME	eci.control.rn.gov.br.
+ssh.eci.control.rn.gov.br.	0	IN	CNAME	eci.control.rn.gov.br.
+www.eci.control.rn.gov.br.	0	IN	CNAME	eci.control.rn.gov.br.
 portal.hom.control.rn.gov.br.	0	IN	A	177.87.96.79
 iacm.control.rn.gov.br.	0	IN	A	185.173.111.53
 iacm.control.rn.gov.br.	0	IN	MX	5 mx1.hostinger.com.br.
@@ -849,9 +854,6 @@ www3.detran.rn.gov.br.	0	IN	A	189.89.66.188
 diariooficial.rn.gov.br.	0	IN	NS	dane.ns.cloudflare.com.
 diariooficial.rn.gov.br.	0	IN	NS	chloe.ns.cloudflare.com.
 dnsteste.rn.gov.br.	0	IN	NS	dns1.dsecrin.govrn.
-ns1.dnsteste.rn.gov.br.	0	IN	A	177.87.98.201
-ns2.dnsteste.rn.gov.br.	0	IN	A	177.87.98.202
-www.dnsteste.rn.gov.br.	0	IN	A	177.87.98.203
 doutorseveriano.rn.gov.br.	0	IN	NS	wells.ns.cloudflare.com.
 doutorseveriano.rn.gov.br.	0	IN	NS	collins.ns.cloudflare.com.
 drive.rn.gov.br.	0	IN	A	177.87.96.248
