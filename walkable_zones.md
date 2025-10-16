@@ -30,7 +30,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -82,12 +81,14 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
+* `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
@@ -108,6 +109,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -252,6 +254,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -274,11 +277,13 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -299,6 +304,7 @@
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
@@ -347,6 +353,7 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
+* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -383,7 +390,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
