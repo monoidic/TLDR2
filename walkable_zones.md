@@ -100,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -191,6 +192,7 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
+* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -254,6 +256,7 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bt.`
 * `net.id.`
@@ -265,7 +268,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -286,6 +288,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -299,12 +302,14 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
@@ -319,6 +324,7 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -329,6 +335,7 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
