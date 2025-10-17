@@ -27,6 +27,7 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -83,15 +84,18 @@
 * `co.ve.`
 * `com.bt.`
 * `com.cy.`
+* `com.kg.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
+* `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
+* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
@@ -244,6 +248,7 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
+* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -298,7 +303,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -311,6 +315,7 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -318,7 +323,6 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -384,10 +388,12 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
+* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
