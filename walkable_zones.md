@@ -80,10 +80,8 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `com.bt.`
-* `com.cy.`
 * `com.kg.`
 * `com.kz.`
 * `com.lb.`
@@ -100,7 +98,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -193,7 +190,6 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
-* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -276,7 +272,6 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -285,6 +280,7 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.za.`
 * `nipr.mil.`
@@ -301,6 +297,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
