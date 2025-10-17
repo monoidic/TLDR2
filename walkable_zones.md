@@ -82,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -93,13 +94,13 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
+* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -108,7 +109,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -136,7 +136,6 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -176,7 +175,6 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
-* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -278,6 +276,7 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -286,9 +285,9 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -299,7 +298,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -391,7 +389,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
