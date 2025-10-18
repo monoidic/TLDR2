@@ -17,7 +17,6 @@
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -62,12 +61,10 @@
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
-* `boavista.br.`
 * `br.`
 * `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
-* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -77,7 +74,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -181,7 +177,6 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
-* `ia.br.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -229,7 +224,6 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -273,6 +267,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -288,8 +283,8 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -301,6 +296,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -309,12 +305,10 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
-* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
-* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -375,7 +369,6 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
-* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
