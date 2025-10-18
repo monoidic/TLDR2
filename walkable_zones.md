@@ -4,6 +4,7 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
+* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -76,11 +77,11 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -134,7 +135,6 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
-* `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
@@ -168,6 +168,7 @@
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
+* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
@@ -230,7 +231,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -276,6 +276,7 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -286,8 +287,8 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -306,6 +307,7 @@
 * `org.lb.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -351,6 +353,7 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
+* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
@@ -368,6 +371,7 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
@@ -383,9 +387,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
-* `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
