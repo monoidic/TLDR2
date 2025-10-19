@@ -26,7 +26,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
@@ -93,7 +92,6 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -221,7 +219,6 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -265,7 +262,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -284,9 +280,9 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -350,6 +346,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
