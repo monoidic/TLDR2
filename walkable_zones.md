@@ -184,6 +184,7 @@
 * `ia.br.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -248,10 +249,12 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -347,7 +350,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
