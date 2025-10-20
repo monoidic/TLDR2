@@ -82,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -277,6 +278,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -350,7 +352,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
