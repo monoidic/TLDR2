@@ -113,6 +113,7 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -286,7 +287,6 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
