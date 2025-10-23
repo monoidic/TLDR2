@@ -66,6 +66,7 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
+* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -74,7 +75,6 @@
 * `ch.`
 * `christmas.`
 * `ci.`
-* `cim.br.`
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
@@ -141,7 +141,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -183,7 +182,6 @@
 * `ia.br.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -199,7 +197,7 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jampa.br.`
+* `jab.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -216,6 +214,7 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
+* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -227,7 +226,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -258,7 +256,6 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
-* `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -275,7 +272,6 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
@@ -284,8 +280,8 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -302,6 +298,7 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
+* `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
@@ -313,7 +310,6 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
-* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
@@ -358,6 +354,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -365,6 +362,7 @@
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
+* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
