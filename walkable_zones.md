@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -14,7 +13,9 @@
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -28,7 +29,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -61,6 +62,7 @@
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
+* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -178,7 +180,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -195,8 +196,10 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
+* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
@@ -241,7 +244,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -266,7 +268,6 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -274,12 +275,10 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -295,6 +294,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -383,7 +383,9 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
+* `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
