@@ -186,7 +186,6 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -212,7 +211,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -259,7 +257,6 @@
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
-* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -283,13 +280,11 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -372,7 +367,6 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
-* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
