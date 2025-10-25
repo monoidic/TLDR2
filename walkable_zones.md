@@ -64,6 +64,7 @@
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
+* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -178,6 +179,7 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `iana-servers.net.`
@@ -190,6 +192,7 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
+* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -233,6 +236,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -267,6 +271,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -296,6 +301,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -385,6 +391,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
