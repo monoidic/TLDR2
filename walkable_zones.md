@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.cy.`
@@ -48,6 +49,7 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -80,7 +82,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -109,6 +110,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -233,7 +235,6 @@
 * `mat.br.`
 * `mc.`
 * `md.`
-* `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
@@ -266,7 +267,6 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
-* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -278,13 +278,13 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -344,6 +344,7 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -393,7 +394,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -409,4 +409,3 @@
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
-* `zlg.br.`
