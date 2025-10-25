@@ -64,7 +64,6 @@
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
-* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -77,6 +76,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -178,9 +178,9 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
-* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -190,7 +190,6 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
-* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -234,7 +233,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -265,10 +263,10 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -357,6 +355,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -368,6 +367,7 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
@@ -385,7 +385,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
