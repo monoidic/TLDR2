@@ -31,7 +31,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -78,6 +77,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -370,6 +370,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
