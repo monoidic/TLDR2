@@ -13,6 +13,7 @@
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
+* `abc.br.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -81,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
@@ -106,7 +108,6 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -149,7 +150,6 @@
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
-* `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
@@ -185,6 +185,7 @@
 * `id.`
 * `id.pub.`
 * `ieee.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -276,12 +277,13 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.me.`
+* `nic.mc.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -317,16 +319,17 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -340,7 +343,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -357,7 +359,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
@@ -383,6 +384,7 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
@@ -399,7 +401,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
