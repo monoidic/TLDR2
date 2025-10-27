@@ -2,6 +2,7 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -21,8 +22,6 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
-* `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -40,9 +39,7 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -99,6 +96,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -123,17 +121,14 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
-* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
-* `eng.br.`
 * `ens.tn.`
 * `er.`
-* `esp.br.`
+* `es.leg.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -143,7 +138,6 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
-* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
@@ -151,7 +145,6 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
-* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -189,7 +182,6 @@
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
-* `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
@@ -212,7 +204,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -249,6 +240,7 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
+* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -262,7 +254,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -275,15 +266,17 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.in.`
+* `nic.hosting.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -335,6 +328,7 @@
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
+* `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
@@ -349,13 +343,11 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
-* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -401,7 +393,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
