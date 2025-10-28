@@ -31,6 +31,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -40,11 +41,13 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
+* `ax.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -75,7 +78,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -97,7 +99,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -122,7 +123,6 @@
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
-* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -137,13 +137,13 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
+* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
-* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
@@ -154,7 +154,6 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
@@ -233,6 +232,7 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
+* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -274,8 +274,8 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -283,8 +283,6 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -361,7 +359,6 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
@@ -405,7 +402,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
