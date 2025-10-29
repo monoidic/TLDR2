@@ -10,6 +10,7 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -85,6 +86,7 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
+* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -106,7 +108,6 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -123,7 +124,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -143,11 +143,13 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
+* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
+* `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
@@ -157,6 +159,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -168,6 +171,7 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
+* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -179,7 +183,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -206,13 +209,16 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
+* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -241,6 +247,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -260,6 +267,7 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -274,6 +282,7 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -291,11 +300,13 @@
 * `nx.gw.`
 * `odo.br.`
 * `omega.`
+* `ong.br.`
 * `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
+* `org.lb.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
@@ -312,14 +323,12 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
-* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -335,7 +344,6 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -395,6 +403,7 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
