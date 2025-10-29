@@ -10,7 +10,6 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -86,7 +85,6 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
-* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -137,6 +135,7 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
+* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
@@ -144,13 +143,11 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
-* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
-* `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
@@ -160,7 +157,6 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -172,7 +168,6 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
-* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -199,6 +194,7 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
+* `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
@@ -210,17 +206,15 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
-* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -231,6 +225,7 @@
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
+* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -246,7 +241,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -266,7 +260,6 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -278,9 +271,9 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -298,18 +291,18 @@
 * `nx.gw.`
 * `odo.br.`
 * `omega.`
-* `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
-* `org.lb.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -342,6 +335,7 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -387,6 +381,7 @@
 * `tur.br.`
 * `tv.br.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
