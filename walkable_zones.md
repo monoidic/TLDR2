@@ -82,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -99,6 +100,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -268,7 +270,6 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -290,6 +291,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -303,7 +305,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -365,6 +366,7 @@
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
@@ -407,7 +409,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
