@@ -41,7 +41,6 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -64,7 +63,6 @@
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
-* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -108,7 +106,6 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -128,7 +125,6 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
-* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
@@ -187,7 +183,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -276,12 +271,12 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -295,7 +290,6 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -328,7 +322,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -379,6 +372,7 @@
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
+* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
