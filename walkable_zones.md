@@ -99,7 +99,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -111,7 +110,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -282,7 +280,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -304,6 +301,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -363,6 +361,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -407,6 +406,7 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
