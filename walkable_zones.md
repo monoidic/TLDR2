@@ -99,7 +99,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -112,6 +112,7 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -138,6 +139,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -280,7 +282,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -378,7 +379,6 @@
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
-* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
