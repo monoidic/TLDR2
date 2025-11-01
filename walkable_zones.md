@@ -31,7 +31,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -67,7 +66,6 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
-* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -98,7 +96,6 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
-* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
@@ -153,7 +150,6 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
-* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -202,7 +198,6 @@
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
-* `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
@@ -236,7 +231,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -251,6 +245,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -264,7 +259,6 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
-* `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -285,7 +279,6 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
-* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
@@ -296,7 +289,6 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -304,7 +296,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -326,7 +317,6 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
-* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -361,7 +351,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
