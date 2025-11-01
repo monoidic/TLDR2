@@ -82,7 +82,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -100,7 +99,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -186,7 +184,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
@@ -278,7 +275,6 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -291,7 +287,6 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -409,7 +404,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
