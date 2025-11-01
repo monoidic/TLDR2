@@ -17,6 +17,7 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -30,7 +31,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -70,6 +70,7 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -80,12 +81,12 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
 * `com.kg.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -126,7 +127,6 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
-* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
@@ -177,6 +177,7 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -184,6 +185,7 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -192,7 +194,7 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
-* `info.ve.`
+* `info.tn.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -258,6 +260,7 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
@@ -266,6 +269,7 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -279,13 +283,14 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nom.br.`
+* `nog.community.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -309,6 +314,7 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -322,7 +328,6 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -350,11 +355,13 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `shell.`
 * `sjc.br.`
 * `slg.br.`
