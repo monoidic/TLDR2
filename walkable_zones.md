@@ -31,6 +31,7 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -87,6 +88,7 @@
 * `com.cy.`
 * `com.kg.`
 * `com.kz.`
+* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -127,6 +129,7 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
+* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
@@ -195,6 +198,7 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
+* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -291,6 +295,7 @@
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
+* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -328,6 +333,7 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
+* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
