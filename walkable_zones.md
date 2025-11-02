@@ -25,11 +25,13 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -76,14 +78,17 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `com.bd.`
 * `com.bt.`
+* `com.cy.`
 * `com.kg.`
 * `com.kz.`
+* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -107,6 +112,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -134,6 +140,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -177,11 +184,13 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
+* `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `ieee.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -194,9 +203,11 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
+* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
@@ -233,13 +244,13 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
+* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -269,6 +280,7 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
+* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -278,6 +290,7 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -304,6 +317,7 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
+* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -346,6 +360,7 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.leg.br.`
@@ -367,6 +382,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -379,7 +395,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
