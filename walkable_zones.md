@@ -1,7 +1,6 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -9,6 +8,7 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
+* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -76,10 +76,12 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -114,7 +116,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -168,7 +169,6 @@
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
-* `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
@@ -191,7 +191,6 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
-* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
@@ -280,21 +279,16 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -342,7 +336,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -361,7 +354,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
