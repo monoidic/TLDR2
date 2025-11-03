@@ -23,11 +23,55 @@ www.acessobi.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 admin.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 dev.admin.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.admin.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+aem.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+aem.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 -all"
+www.aem.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 des.aeuems.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 hom.aeuems.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.aeuems.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 hom.agc.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.agc.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+agehab.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+agehab.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+cdhu.agehab.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+hom.domusweb.agehab.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+www.ecm.agehab.ms.gov.br.	0	IN	A	187.86.227.120
+habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs116.ms.gov.br.
+api.administracao-reajuste.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.administracao-reajuste.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+agrupador.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.agrupador.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+consultadecpf.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.consultadecpf.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+consultapublica.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.consultapublica.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+controledesaldo.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+api.controledesaldo.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.controledesaldo.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.controledesaldo.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+es.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs047.ms.gov.br.
+hom.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+inscricao.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+api.inscricao.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.api.inscricao.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.inscricao.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom2.inscricao.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+kibana.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+portaltransparencia.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+api.portaltransparencia.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.portaltransparencia.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.portaltransparencia.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+rabbitmq.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+regularizacao-fundiaria.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.regularizacao-fundiaria.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+sorteador.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.sorteador.habix.agehab.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+papelzero.agehab.ms.gov.br.	0	IN	CNAME	ns.vs116.ms.gov.br.
+api.papelzero.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.papelzero.agehab.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.papelzero.agehab.ms.gov.br.	0	IN	CNAME	ns.vsh116.ms.gov.br.
+www.papelzero.agehab.ms.gov.br.	0	IN	CNAME	ns.vs116.ms.gov.br.
+www.agehab.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 agenciadenoticias.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 www.agenciadenoticias.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 agendamentobioparquepantanal.ms.gov.br.	0	IN	CNAME	lb-card-ec-002.limbersoftware.com.br.
