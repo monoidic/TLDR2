@@ -140,10 +140,26 @@ www.agesul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 agiosul.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
 agitra.ms.gov.br.	0	IN	MX	10 mail.agitrams.ms.gov.br.
 mail.agitrams.ms.gov.br.	0	IN	A	200.199.222.106
+agraer.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+agraer.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+comunicacao.agraer.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+www.ecm.agraer.ms.gov.br.	0	IN	A	187.86.226.101
+intranet.agraer.ms.gov.br.	0	IN	CNAME	ns.vs022.ms.gov.br.
+mapas.agraer.ms.gov.br.	0	IN	A	187.86.227.107
+sigater.agraer.ms.gov.br.	0	IN	A	35.198.0.79
+siglo.agraer.ms.gov.br.	0	IN	A	187.86.227.106
+www.agraer.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 aguaclaraprevidencia.ms.gov.br.	0	IN	NS	dns1.webpaes.com.br.
 aguaclaraprevidencia.ms.gov.br.	0	IN	NS	dns2.webpaes.com.br.
 al.ms.gov.br.	0	IN	NS	gracie.ns.cloudflare.com.
 al.ms.gov.br.	0	IN	NS	harvey.ns.cloudflare.com.
+alcinopolis.ms.gov.br.	0	IN	A	192.185.216.206
+alcinopolis.ms.gov.br.	0	IN	A	192.185.216.207
+alcinopolis.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+alcinopolis.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.227.132 -all"
+pop.alcinopolis.ms.gov.br.	0	IN	CNAME	email.prefeitura.ms.gov.br.
+smtp.alcinopolis.ms.gov.br.	0	IN	CNAME	email.prefeitura.ms.gov.br.
+www.alcinopolis.ms.gov.br.	0	IN	A	192.185.217.117
 amambai.ms.gov.br.	0	IN	NS	ns1.amambai.ms.gov.br.
 amambai.ms.gov.br.	0	IN	NS	ns2.amambai.ms.gov.br.
 ns1.amambai.ms.gov.br.	0	IN	A	200.150.204.121
@@ -200,6 +216,11 @@ www.autoatendimento.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.automacao-ust.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.ava.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 rabbitmq.az.ms.gov.br.	0	IN	A	187.86.226.33
+bancocidadao.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+bancocidadao.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+bancodagente.ms.gov.br.	0	IN	MX	10 mail.ms.gov.br.
+bancodagente.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
+www.bancodagente.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
 bandeirantes.ms.gov.br.	0	IN	NS	dns.snol.com.br.
 bandeirantes.ms.gov.br.	0	IN	NS	dns2.snol.com.br.
 barcode.ms.gov.br.	0	IN	A	187.86.226.40
@@ -501,7 +522,9 @@ cartasdeservicos.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 www.cartasdeservicos.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.cas.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.cas.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
-casacivil.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+casacivil.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+casacivil.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.casacivil.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.casacivilcapital.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.casacivilcapital.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.casadasaude.ms.gov.br.	0	IN	CNAME	casadasaude.mastercase.com.br.
