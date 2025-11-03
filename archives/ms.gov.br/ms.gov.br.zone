@@ -530,6 +530,13 @@ www.casacivilcapital.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.casadasaude.ms.gov.br.	0	IN	CNAME	casadasaude.mastercase.com.br.
 cassilandia.ms.gov.br.	0	IN	NS	nick.ns.cloudflare.com.
 cassilandia.ms.gov.br.	0	IN	NS	ashley.ns.cloudflare.com.
+cbm.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+cbm.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+hom.boletim.cbm.ms.gov.br.	0	IN	A	187.86.226.30
+www.boletim.cbm.ms.gov.br.	0	IN	A	187.86.226.24
+vistoria.cbm.ms.gov.br.	0	IN	CNAME	ns.vs001.ms.gov.br.
+hom.vistoria.cbm.ms.gov.br.	0	IN	CNAME	ns.vsh001.ms.gov.br.
+www.cbm.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.ccegraphql.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
 admin.cdie.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.admin.cdie.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
@@ -546,6 +553,9 @@ ww1.centraldecompras.ms.gov.br.	0	IN	CNAME	ns.vs052.ms.gov.br.
 ww3.centraldecompras.ms.gov.br.	0	IN	A	187.86.226.100
 www.centraldecompras.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 www.centrocultural.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+centrodeconvencoes.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+centrodeconvencoes.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.centrodeconvencoes.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.ead.cepef.ms.gov.br.	0	IN	CNAME	ns.vs119.ms.gov.br.
 www.ead.cepef.ms.gov.br.	0	IN	A	187.86.227.41
 hom.ead2.cepef.ms.gov.br.	0	IN	A	187.86.226.174
