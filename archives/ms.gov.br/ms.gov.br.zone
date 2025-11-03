@@ -114,6 +114,32 @@ hom.ti.agepan.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 transporte.agepan.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 hom.transporte.agepan.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.agepan.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+agepen.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+agepen.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.ged.agepen.ms.gov.br.	0	IN	A	187.86.226.248
+patronato.agepen.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.siapen.agepen.ms.gov.br.	0	IN	A	200.181.113.202
+www.siapen.agepen.ms.gov.br.	0	IN	A	200.181.113.203
+www.siapen20.agepen.ms.gov.br.	0	IN	A	187.86.227.26
+www.agepen.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+ageprev.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+ageprev.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 ip4:187.86.226.203 -all"
+agendamento.ageprev.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+hom.agendamento.ageprev.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+www.agendamento.ageprev.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+hom.calculadatas.ageprev.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+www.calculadatas.ageprev.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+sgp.ageprev.ms.gov.br.	0	IN	A	187.86.226.69
+hom.sgp.ageprev.ms.gov.br.	0	IN	A	187.86.226.77
+www.ageprev.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+agesul.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+agesul.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:200.199.222.110 -all"
+agesul.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+mail.agesul.ms.gov.br.	0	IN	A	200.199.222.110
+www.agesul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+agiosul.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+agitra.ms.gov.br.	0	IN	MX	10 mail.agitrams.ms.gov.br.
+mail.agitrams.ms.gov.br.	0	IN	A	200.199.222.106
 aguaclaraprevidencia.ms.gov.br.	0	IN	NS	dns1.webpaes.com.br.
 aguaclaraprevidencia.ms.gov.br.	0	IN	NS	dns2.webpaes.com.br.
 al.ms.gov.br.	0	IN	NS	gracie.ns.cloudflare.com.
