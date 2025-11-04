@@ -755,6 +755,7 @@ dourados.ms.gov.br.	0	IN	NS	ns1.dourados.ms.gov.br.
 dourados.ms.gov.br.	0	IN	NS	ns2.dourados.ms.gov.br.
 ns1.dourados.ms.gov.br.	0	IN	A	186.233.214.2
 ns2.dourados.ms.gov.br.	0	IN	A	45.187.127.62
+dpge.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
 hom.drone.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.dw.ms.gov.br.	0	IN	A	187.86.226.130
 e-ms.ms.gov.br.	0	IN	CNAME	ns.vs049.ms.gov.br.
@@ -800,6 +801,8 @@ www.educacao.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 educacaofiscal.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
 hom.educacaofiscal.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 www.educacaofiscal.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+educar.ms.gov.br.	0	IN	MX	10 mail.educar.ms.gov.br.
+mail.educar.ms.gov.br.	0	IN	A	200.163.45.132
 hom.efazenda.ms.gov.br.	0	IN	CNAME	ns.vsh108.ms.gov.br.
 servicos.efazenda.ms.gov.br.	0	IN	CNAME	ns.vs005.ms.gov.br.
 hom.servicos.efazenda.ms.gov.br.	0	IN	CNAME	ns.vsh05.ms.gov.br.
