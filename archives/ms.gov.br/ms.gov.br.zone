@@ -694,6 +694,11 @@ siga.defensoria.ms.gov.br.	0	IN	A	187.86.227.100
 hom.siga.defensoria.ms.gov.br.	0	IN	A	187.86.226.186
 sistemas.defensoria.ms.gov.br.	0	IN	A	187.86.226.24
 www.defensoria.ms.gov.br.	0	IN	A	187.86.227.39
+defesacivil.ms.gov.br.	0	IN	MX	10 mx.zoho.com.
+defesacivil.ms.gov.br.	0	IN	MX	20 mx2.zoho.com.
+defesacivil.ms.gov.br.	0	IN	MX	50 mx3.zoho.com.
+defesacivil.ms.gov.br.	0	IN	SPF	"v=spf1 include:zohomail.com ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.defesacivil.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 deodapolis.ms.gov.br.	0	IN	NS	ns1.mdwebhost.com.br.
 deodapolis.ms.gov.br.	0	IN	NS	ns2.mdwebhost.com.br.
 dev.desafioinovams.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
@@ -738,6 +743,8 @@ ecm.docvirtus.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 console.ecm.docvirtus.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 www.ecm.docvirtus.ms.gov.br.	0	IN	A	187.86.226.60
 hom.docvirtus.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+dof.ms.gov.br.	0	IN	MX	10 correio.uniservice.com.br.
+www.dof.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 doisirmaosdoburiti.ms.gov.br.	0	IN	NS	art.ns.cloudflare.com.
 doisirmaosdoburiti.ms.gov.br.	0	IN	NS	hadlee.ns.cloudflare.com.
 domusweb.ms.gov.br.	0	IN	A	187.86.226.54
