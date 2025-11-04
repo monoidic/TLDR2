@@ -278,47 +278,6 @@ ordens.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 pantanalemalerta.bombeiros.ms.gov.br.	0	IN	CNAME	pantanal-em-alerta-b2pd4.ondigitalocean.app.
 patrimonio.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.patrimonio.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
-portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-10sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-11sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-12sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-13sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-14sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-15sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-16sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-17sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-18sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-19sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-1gbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-1sgbm-ind.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-20sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-21sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-22sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-23sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-24sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-25sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-2gbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-2sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-3gbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-3sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-4gbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-4sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-5gbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-5sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-6gbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-6sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-7sgbm-ind.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-8sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.89.226.159
-9sgbm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-abm.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-ajudanciageral.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-cmb.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-conaph.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-ds.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-dtel.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-emg.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-goa.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
-operacional.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
 prevenir.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.prevenir.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 prevenir-sat.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
@@ -561,11 +520,18 @@ www.ead.cepef.ms.gov.br.	0	IN	A	187.86.227.41
 hom.ead2.cepef.ms.gov.br.	0	IN	A	187.86.226.174
 www.cepef.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 certmanager.ms.gov.br.	0	IN	A	187.86.227.61
+cetran.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+cetran.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.cetran.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.cex.ms.gov.br.	0	IN	A	187.86.226.6
+cge.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+cge.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+hom.cge.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+minio.cge.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+console.minio.cge.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+www.cge.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 api.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.api.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
-api.cbm.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
-hom.api.cbm.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 api.fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.api.fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
@@ -573,6 +539,8 @@ hom.fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 sis.cgp.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 des.sis.cgp.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 sistemas.cgp.ms.gov.br.	0	IN	A	187.86.226.189
+api.tjms.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.tjms.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 sistemas.cgpialf.ms.gov.br.	0	IN	A	187.86.226.189
 sistemas.cgpic.ms.gov.br.	0	IN	A	187.86.226.189
 sistemas.cgpii.ms.gov.br.	0	IN	A	187.86.226.189
@@ -1526,6 +1494,8 @@ sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 solar.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.solar.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+cgp.sejusp.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.cgp.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.selecaoegov.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.selecaoegov.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 selviria.ms.gov.br.	0	IN	NS	ns1.mdwebhost.com.br.
@@ -1727,6 +1697,7 @@ console.minio.sistemaflorestal.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 sistemarh.ms.gov.br.	0	IN	A	187.86.226.119
 homologacao.sistemarh.ms.gov.br.	0	IN	A	187.86.226.121
 treinamento.sistemarh.ms.gov.br.	0	IN	A	187.86.226.122
+cgp.sjusp.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
 smtp2.ms.gov.br.	0	IN	A	187.86.226.66
 smtp2.ms.gov.br.	0	IN	A	187.86.227.66
 smtp2.ms.gov.br.	0	IN	A	187.86.227.67
