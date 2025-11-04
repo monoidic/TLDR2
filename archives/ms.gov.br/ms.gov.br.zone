@@ -563,12 +563,21 @@ www.cimp.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 hom.wiki.cioficio.ms.gov.br.	0	IN	CNAME	ns.vsh001.ms.gov.br.
 www.wiki.cioficio.ms.gov.br.	0	IN	CNAME	ns.vs001.ms.gov.br.
 www.cioficio.ms.gov.br.	0	IN	CNAME	www.edoc.ms.gov.br.
+ciops.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+ciops.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+ensino.ciops.ms.gov.br.	0	IN	A	187.86.226.246
+intranet.ciops.ms.gov.br.	0	IN	A	200.181.112.229
+portal.ciops.ms.gov.br.	0	IN	A	189.10.97.141
+una.ciops.ms.gov.br.	0	IN	A	189.10.97.139
+www.ciops.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 ciptea.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 adm.ciptea.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 dev.adm.ciptea.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.adm.ciptea.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 des.ciptea.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.ciptea.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+ciptran.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+ciptran.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
 cmam.ms.gov.br.	0	IN	NS	ns1.locaweb.com.br.
 cmam.ms.gov.br.	0	IN	NS	ns2.locaweb.com.br.
 cmantoniojoao.ms.gov.br.	0	IN	NS	ns1.dns-parking.com.
@@ -614,6 +623,8 @@ www.comitedofogo.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 www.compras.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.comprascoronavirus.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.comprascoronavirus.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+concurso.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+concurso.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
 hom.adm.concursoeducacaofiscal.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.adm.concursoeducacaofiscal.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.concursoeducacaofiscal.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
@@ -676,6 +687,13 @@ www.dados.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 dbipva.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 console.dbipva.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 www.declaracaoestoque.ms.gov.br.	0	IN	A	187.86.226.158
+defensoria.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
+antigo.defensoria.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
+intranet.defensoria.ms.gov.br.	0	IN	CNAME	proxy.defensoria.ms.def.br.
+siga.defensoria.ms.gov.br.	0	IN	A	187.86.227.100
+hom.siga.defensoria.ms.gov.br.	0	IN	A	187.86.226.186
+sistemas.defensoria.ms.gov.br.	0	IN	A	187.86.226.24
+www.defensoria.ms.gov.br.	0	IN	A	187.86.227.39
 deodapolis.ms.gov.br.	0	IN	NS	ns1.mdwebhost.com.br.
 deodapolis.ms.gov.br.	0	IN	NS	ns2.mdwebhost.com.br.
 dev.desafioinovams.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
@@ -1494,9 +1512,6 @@ sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 solar.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.solar.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
-cgp.sejusp.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
-cgp.sejusp.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
-www.cgp.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.selecaoegov.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.selecaoegov.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 selviria.ms.gov.br.	0	IN	NS	ns1.mdwebhost.com.br.
