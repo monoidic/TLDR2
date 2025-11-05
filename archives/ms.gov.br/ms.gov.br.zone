@@ -815,6 +815,8 @@ www.efiscalizacao.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.efornecedor.ms.gov.br.	0	IN	A	187.86.226.125
 hom.egesdms.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.egesdms.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+egrhp.ms.gov.br.	0	IN	MX	10 mail.ms.gov.br.
+egrhp.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
 des.eipva.ms.gov.br.	0	IN	CNAME	ns.vs137.ms.gov.br.
 hom.eipva.ms.gov.br.	0	IN	CNAME	ns.vs137.ms.gov.br.
 www.eipva.ms.gov.br.	0	IN	CNAME	ns.vs137.ms.gov.br.
@@ -857,8 +859,28 @@ escoex.ms.gov.br.	0	IN	NS	jay.ns.cloudflare.com.
 escoex.ms.gov.br.	0	IN	NS	carol.ns.cloudflare.com.
 www.escoex.ms.gov.br.	0	IN	NS	jay.ns.cloudflare.com.
 www.escoex.ms.gov.br.	0	IN	NS	carol.ns.cloudflare.com.
+escolagov.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+escolagov.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 ip4:187.86.226.203 -all"
+ava.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs137.ms.gov.br.
+hom.cursos.escolagov.ms.gov.br.	0	IN	A	187.86.226.30
+hom2.cursos.escolagov.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+ww2.cursos.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+www.cursos.escolagov.ms.gov.br.	0	IN	A	187.86.226.24
+hom.desconto.escolagov.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+www.desconto.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+fs-ava.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+des.instrutor.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.instrutor.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.instrutor.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+pos.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+hom.processoseletivo.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+www.processoseletivo.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+www.escolagov.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 escolajm.ms.gov.br.	0	IN	NS	ns70.prodns.com.br.
 escolajm.ms.gov.br.	0	IN	NS	ns71.prodns.com.br.
+escolas.ms.gov.br.	0	IN	MX	0 1787480007.mail.outlook.com.
+1787480007.escolas.ms.gov.br.	0	IN	CNAME	domains.live.com.
+webmail.escolas.ms.gov.br.	0	IN	CNAME	outlook.com.
 www.esic.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.esocialms.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.esocialms.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
@@ -881,6 +903,10 @@ hom.eventosms.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.eventosms.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 extracttpapelzero.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.extracttpapelzero.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+fadeb.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fadeb.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+ava.fadeb.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+www.fadeb.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 faleconosco.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 www.faleconosco.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 www.fasp.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
