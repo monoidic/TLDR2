@@ -278,6 +278,14 @@ ordens.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 pantanalemalerta.bombeiros.ms.gov.br.	0	IN	CNAME	pantanal-em-alerta-b2pd4.ondigitalocean.app.
 patrimonio.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.patrimonio.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+ajudanciageral.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+cmb.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+conaph.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+ds.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+dtel.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+emg.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
+operacional.portal.bombeiros.ms.gov.br.	0	IN	A	187.86.226.159
 prevenir.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.prevenir.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 prevenir-sat.bombeiros.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
@@ -532,6 +540,8 @@ console.minio.cge.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 www.cge.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 api.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.api.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+api.cbm.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.cbm.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 api.fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.api.fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
@@ -539,8 +549,6 @@ hom.fcc.cgp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 sis.cgp.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 des.sis.cgp.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 sistemas.cgp.ms.gov.br.	0	IN	A	187.86.226.189
-api.tjms.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
-hom.api.tjms.cgp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 sistemas.cgpialf.ms.gov.br.	0	IN	A	187.86.226.189
 sistemas.cgpic.ms.gov.br.	0	IN	A	187.86.226.189
 sistemas.cgpii.ms.gov.br.	0	IN	A	187.86.226.189
@@ -912,6 +920,32 @@ www.faleconosco.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 www.fasp.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
 fatimadosul.ms.gov.br.	0	IN	NS	ns1.dns-parking.com.
 fatimadosul.ms.gov.br.	0	IN	NS	ns2.dns-parking.com.
+fazenda.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fazenda.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.146 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 ip4:187.86.226.203 -all"
+7333e610c5fd4f3ec2d6bae649174de12382ba21.fazenda.ms.gov.br.	0	IN	CNAME	_ac9rs8iea99c24vuakkwwjfqeqp5mj56.acsoluti.com.br.
+aefiscal.fazenda.ms.gov.br.	0	IN	A	187.86.226.202
+bi.fazenda.ms.gov.br.	0	IN	A	187.86.226.54
+bpe.fazenda.ms.gov.br.	0	IN	CNAME	ns.vs068.ms.gov.br.
+hom.fluxolivre.fazenda.ms.gov.br.	0	IN	CNAME	ns.vsh135.ms.gov.br.
+www.fluxolivre.fazenda.ms.gov.br.	0	IN	CNAME	ns.vs135.ms.gov.br.
+homologacao.nfce.fazenda.ms.gov.br.	0	IN	CNAME	ns.vsh088.ms.gov.br.
+nfe.fazenda.ms.gov.br.	0	IN	A	187.86.226.72
+parallels.fazenda.ms.gov.br.	0	IN	A	187.86.226.160
+produtosclassificados.fazenda.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.produtosclassificados.fazenda.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+ressarcimento.fazenda.ms.gov.br.	0	IN	A	187.86.226.154
+hom.ressarcimento.fazenda.ms.gov.br.	0	IN	A	187.86.226.154
+sgchomologacao.fazenda.ms.gov.br.	0	IN	A	187.86.226.212
+sicob.fazenda.ms.gov.br.	0	IN	A	187.86.227.15
+dev.sicob.fazenda.ms.gov.br.	0	IN	A	187.86.227.15
+hom.sicob.fazenda.ms.gov.br.	0	IN	A	187.86.227.15
+spds.fazenda.ms.gov.br.	0	IN	CNAME	ns.vs004.ms.gov.br.
+hom.spds.fazenda.ms.gov.br.	0	IN	A	187.86.226.87
+uatop-cofapec.fazenda.ms.gov.br.	0	IN	A	187.86.227.161
+vdi.fazenda.ms.gov.br.	0	IN	A	187.86.227.122
+wifims.fazenda.ms.gov.br.	0	IN	A	10.2.13.77
+_c5ecacd5b3c8d5721d42b67a05ff9e6f.wifims.fazenda.ms.gov.br.	0	IN	CNAME	9f0dd346cfdbabf74b28bf46bd68850b.1307cb565411062a180d2f8df0e45f70.4a682fc0004256f.comodoca.com.
+www.fazenda.ms.gov.br.	0	IN	CNAME	ns.unisite.ms.gov.br.
 hom.fes.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.fes.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 www.festivalamericadosul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
