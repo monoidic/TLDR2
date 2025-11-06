@@ -1061,6 +1061,9 @@ guialopesdalaguna.ms.gov.br.	0	IN	NS	ns1.guialopesdalaguna.ms.gov.br.
 guialopesdalaguna.ms.gov.br.	0	IN	NS	ns2.guialopesdalaguna.ms.gov.br.
 ns1.guialopesdalaguna.ms.gov.br.	0	IN	A	162.241.158.172
 ns2.guialopesdalaguna.ms.gov.br.	0	IN	A	162.241.7.3
+hemosul.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+hemosul.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.hemosul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 www.servidor.hospitalregional.ms.gov.br.	0	IN	CNAME	ns.vs119.ms.gov.br.
 www.hospitalregional.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
@@ -1069,6 +1072,27 @@ www.hrms.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 humani.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.humani.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 humaniweb.ms.gov.br.	0	IN	A	187.86.227.28
+iagro.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+iagro.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 ip4:187.86.226.203 -all"
+www.bi.iagro.ms.gov.br.	0	IN	A	187.86.226.11
+hom.cadastramento.iagro.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
+www.cadastramento.iagro.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
+cco.iagro.ms.gov.br.	0	IN	A	187.86.226.80
+gws.iagro.ms.gov.br.	0	IN	MX	1 aspmx.l.google.com.
+gws.iagro.ms.gov.br.	0	IN	MX	5 alt1.aspmx.l.google.com.
+gws.iagro.ms.gov.br.	0	IN	MX	5 alt2.aspmx.l.google.com.
+gws.iagro.ms.gov.br.	0	IN	MX	10 alt3.aspmx.l.google.com.
+gws.iagro.ms.gov.br.	0	IN	MX	10 alt4.aspmx.l.google.com.
+is5w3qkkhi4pn.gws.iagro.ms.gov.br.	0	IN	CNAME	gv-ct6fjvn34iauta.dv.googlehosted.com.
+informes.iagro.ms.gov.br.	0	IN	A	187.86.226.24
+servicos.iagro.ms.gov.br.	0	IN	A	187.86.226.5
+hom.servicos.iagro.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom1.servicos.iagro.ms.gov.br.	0	IN	A	187.86.226.32
+www.servicos.iagro.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.sicomat.iagro.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.sicomat.iagro.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.iagro.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+www2.iagro.ms.gov.br.	0	IN	CNAME	ns.vs017.ms.gov.br.
 ianerapipapelzero.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.ianerapipapelzero.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 www.icmstransparente.ms.gov.br.	0	IN	CNAME	ns.vs001.ms.gov.br.
@@ -1079,6 +1103,94 @@ www.idanimal.ms.gov.br.	0	IN	A	187.86.226.92
 www1.idoso.ms.gov.br.	0	IN	A	200.212.252.131
 iguatemi.ms.gov.br.	0	IN	NS	ns1.mediasystems.ms.gov.br.
 iguatemi.ms.gov.br.	0	IN	NS	ns2.mediasystems.ms.gov.br.
+imasul.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+imasul.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+adcar.imasul.ms.gov.br.	0	IN	A	187.86.227.147
+agendamentos.imasul.ms.gov.br.	0	IN	A	187.86.227.7
+ar.imasul.ms.gov.br.	0	IN	A	187.86.226.195
+carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+admin.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+api.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+gpkg.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.gpkg.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+admin.hom.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+api.hom.carboncontrol.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+carms.imasul.ms.gov.br.	0	IN	A	187.86.227.126
+hom.carms.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+cerberus.imasul.ms.gov.br.	0	IN	A	187.86.226.165
+jiboia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+api.jiboia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.api.jiboia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.jiboia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+justificalr.imasul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+kmz-monitoramento.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.kmz-monitoramento.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+laboratorio.imasul.ms.gov.br.	0	IN	A	187.86.227.7
+licenciamento.imasul.ms.gov.br.	0	IN	A	187.86.226.153
+mescla-pdf.licenciamento.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.mescla-pdf.licenciamento.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+mades.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+back.mades.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.back.mades.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.mades.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+mapviewer.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.mapviewer.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+maxar.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+minio.monitoramento.imasul.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+console.minio.monitoramento.imasul.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+mra.imasul.ms.gov.br.	0	IN	A	187.86.227.74
+nfex.imasul.ms.gov.br.	0	IN	A	34.96.72.252
+painelservicos.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.painelservicos.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+painelsuporte.imasul.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+hom.painelsuporte.imasul.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+hom.pescaamadora.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+www.pescaamadora.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+piuva.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.piuva.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+portal-transparencia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+back.portal-transparencia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+dev.back.portal-transparencia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.back.portal-transparencia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.portal-transparencia.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+predictor.imasul.ms.gov.br.	0	IN	A	187.86.226.195
+processos.imasul.ms.gov.br.	0	IN	A	187.86.226.165
+ptolomy.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+qualiar.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+servicos.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.servicos.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+sia.imasul.ms.gov.br.	0	IN	A	187.86.226.26
+hom.sigma.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.sigma.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+silore.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+minio.silore.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+console.minio.silore.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+siriema.imasul.ms.gov.br.	0	IN	A	187.86.227.9
+hom.siriema.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+minio.siriema.imasul.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+v2.siriema.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+dev.v2.siriema.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.v2.siriema.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+sisea-analytics.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.sisea-analytics.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+sisla.imasul.ms.gov.br.	0	IN	A	187.86.226.98
+sisla2.imasul.ms.gov.br.	0	IN	A	187.86.226.84
+sisrev.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.sisrev.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+minio.sisrev.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+console.minio.sisrev.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+sisrev-relatorios.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.sisrev-relatorios.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+spdi.imasul.ms.gov.br.	0	IN	CNAME	ns.vs031.ms.gov.br.
+staging.imasul.ms.gov.br.	0	IN	A	187.86.226.224
+supressaolegal.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+backend.supressaolegal.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.supressaolegal.imasul.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom-backend.supressaolegal.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+transparencia-car-api.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.transparencia-car-api.imasul.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+www.imasul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 www.imbg.ms.gov.br.	0	IN	A	187.86.226.129
 imcas.ms.gov.br.	0	IN	NS	ns1.dns-parking.com.
 imcas.ms.gov.br.	0	IN	NS	ns2.dns-parking.com.
