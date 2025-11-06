@@ -946,6 +946,11 @@ vdi.fazenda.ms.gov.br.	0	IN	A	187.86.227.122
 wifims.fazenda.ms.gov.br.	0	IN	A	10.2.13.77
 _c5ecacd5b3c8d5721d42b67a05ff9e6f.wifims.fazenda.ms.gov.br.	0	IN	CNAME	9f0dd346cfdbabf74b28bf46bd68850b.1307cb565411062a180d2f8df0e45f70.4a682fc0004256f.comodoca.com.
 www.fazenda.ms.gov.br.	0	IN	CNAME	ns.unisite.ms.gov.br.
+fcms.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fcms.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+fertel.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fertel.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+ingest.fertel.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.fes.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.fes.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 www.festivalamericadosul.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
@@ -969,12 +974,49 @@ hom.forms.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 ftp.ms.gov.br.	0	IN	A	187.86.226.34
 intranet.fundacaodecultura.ms.gov.br.	0	IN	CNAME	ns.vs022.ms.gov.br.
 www.fundacaodecultura.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+fundect.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fundect.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+documentis.fundect.ms.gov.br.	0	IN	A	187.86.226.210
+www.documentis.fundect.ms.gov.br.	0	IN	A	187.86.226.210
+hom.midiaciencia.fundect.ms.gov.br.	0	IN	A	187.86.226.30
+www.midiaciencia.fundect.ms.gov.br.	0	IN	A	187.86.226.24
+sig.fundect.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+versatile.fundect.ms.gov.br.	0	IN	A	187.86.226.210
+www.versatile.fundect.ms.gov.br.	0	IN	A	187.86.226.210
+www.fundect.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+fundesporte.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fundesporte.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+hom.admin.bolsa.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.admin.bolsa.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+assets.bolsa.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+console.assets.bolsa.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.bolsa.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+www.bolsa.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+eventos.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+hom.eventos.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+www.fundesporte.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+fundtur.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+fundtur.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.classificacao.fundtur.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+www.incentivamais.fundtur.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
+intranet.fundtur.ms.gov.br.	0	IN	CNAME	ns.vs022.ms.gov.br.
+www.fundtur.ms.gov.br.	0	IN	A	187.86.226.106
 hom.fundturaitm.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.fundturaitm.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 funprev.ms.gov.br.	0	IN	NS	ns1.dns-parking.com.
 funprev.ms.gov.br.	0	IN	NS	ns2.dns-parking.com.
+funsau.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+funsau.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+meet.funsau.ms.gov.br.	0	IN	A	187.86.225.29
 funsau-na.ms.gov.br.	0	IN	NS	ns1.loginhost.com.br.
 funsau-na.ms.gov.br.	0	IN	NS	ns2.loginhost.com.br.
+funtrab.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+funtrab.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+app.funtrab.ms.gov.br.	0	IN	NS	ivy.ns.cloudflare.com.
+app.funtrab.ms.gov.br.	0	IN	NS	hank.ns.cloudflare.com.
+mscontratamais.funtrab.ms.gov.br.	0	IN	NS	ivy.ns.cloudflare.com.
+mscontratamais.funtrab.ms.gov.br.	0	IN	NS	hank.ns.cloudflare.com.
+www.funtrab.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.gap.ms.gov.br.	0	IN	A	187.86.226.31
 www.gap.ms.gov.br.	0	IN	CNAME	ns.vs004.ms.gov.br.
 hom.gcont.ms.gov.br.	0	IN	A	187.86.226.214
