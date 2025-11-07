@@ -1544,6 +1544,33 @@ www.participa.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 passbolt.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 hom.passelivredigital.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 www.passelivredigital.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+pc.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+pc.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 ip4:187.86.226.203 -all"
+academia.pc.ms.gov.br.	0	IN	A	187.86.226.252
+ceos.pc.ms.gov.br.	0	IN	A	187.86.227.35
+ftp.ceos.pc.ms.gov.br.	0	IN	A	187.86.226.13
+cpe.pc.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+api.cpe.pc.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom-api.cpe.pc.ms.gov.br.	0	IN	A	187.6.254.66
+minio.cpe.pc.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+console.minio.cpe.pc.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+cronos.pc.ms.gov.br.	0	IN	A	189.9.0.81
+devir.pc.ms.gov.br.	0	IN	A	187.86.226.139
+www.eleicao.pc.ms.gov.br.	0	IN	A	187.86.226.163
+ensino.pc.ms.gov.br.	0	IN	A	187.86.227.6
+fip.pc.ms.gov.br.	0	IN	A	187.86.227.35
+hom-cpe.pc.ms.gov.br.	0	IN	A	187.6.254.66
+hom-minio.pc.ms.gov.br.	0	IN	A	187.6.254.66
+www.labld.pc.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+minio.pc.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+console.minio.pc.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+receptor.pc.ms.gov.br.	0	IN	A	187.4.113.77
+receptorh.pc.ms.gov.br.	0	IN	A	187.4.113.76
+sistemas.pc.ms.gov.br.	0	IN	A	187.86.226.110
+www.sistemas.pc.ms.gov.br.	0	IN	A	187.86.226.110
+sittel-guardiao.pc.ms.gov.br.	0	IN	A	201.88.207.118
+www.pc.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+zeus.pc.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 hom.ped.ms.gov.br.	0	IN	CNAME	ns.vsh001.ms.gov.br.
 www.ped.ms.gov.br.	0	IN	CNAME	ns.vs001.ms.gov.br.
 pedrogomes.ms.gov.br.	0	IN	NS	nspro40.hostgator.com.br.
