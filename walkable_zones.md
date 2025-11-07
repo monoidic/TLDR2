@@ -31,7 +31,6 @@
 * `am.leg.br.`
 * `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -112,6 +111,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -140,7 +140,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -202,7 +201,6 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -212,7 +210,6 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -274,6 +271,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -289,7 +287,6 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -320,15 +317,14 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
-* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -339,7 +335,6 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -351,10 +346,10 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
-* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
