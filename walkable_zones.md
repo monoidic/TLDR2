@@ -102,6 +102,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -187,7 +188,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `ieee.`
 * `iki.fi.`
 * `imb.br.`
@@ -285,8 +285,10 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
+* `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -302,7 +304,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -408,7 +409,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
