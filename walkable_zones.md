@@ -43,6 +43,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -121,6 +122,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -143,6 +145,7 @@
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
+* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -155,18 +158,22 @@
 * `game.`
 * `gdn.`
 * `geo.br.`
+* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
+* `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
+* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
@@ -236,6 +243,7 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
+* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
@@ -248,6 +256,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -260,6 +269,7 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -273,6 +283,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -325,6 +336,7 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
+* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -380,6 +392,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
