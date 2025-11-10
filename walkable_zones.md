@@ -258,7 +258,9 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
+* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -303,7 +305,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -375,6 +376,7 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `swatch.`
 * `tc.br.`
@@ -405,8 +407,10 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wed.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
