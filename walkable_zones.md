@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -24,6 +25,7 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -120,13 +122,16 @@
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
+* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
+* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
+* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -178,6 +183,7 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
@@ -219,7 +225,9 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
+* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -233,7 +241,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -268,15 +275,16 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -292,10 +300,10 @@
 * `not.br.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -336,6 +344,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -362,6 +371,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -374,6 +384,7 @@
 * `tec.ve.`
 * `the.br.`
 * `tld.md.`
+* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
@@ -388,6 +399,7 @@
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
