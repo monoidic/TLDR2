@@ -32,6 +32,7 @@
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -282,7 +283,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.mom.`
+* `nic.me.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -351,7 +352,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -408,6 +408,7 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
