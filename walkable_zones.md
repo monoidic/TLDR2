@@ -7,6 +7,7 @@
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
+* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -24,12 +25,11 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `amazon.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -98,17 +98,19 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
+* `dev.br.`
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -122,6 +124,7 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
+* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -136,7 +139,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -251,7 +253,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -274,10 +275,9 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.me.`
+* `nic.mc.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
@@ -285,8 +285,8 @@
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -298,6 +298,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `or.id.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
@@ -364,6 +365,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -396,9 +398,11 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `web.id.`
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`

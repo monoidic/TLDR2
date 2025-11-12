@@ -2430,6 +2430,8 @@ meet.segov.ms.gov.br.	0	IN	A	187.86.225.34
 hom.pg.segov.ms.gov.br.	0	IN	A	187.86.227.17
 www.pg.segov.ms.gov.br.	0	IN	A	187.86.226.141
 www.segov.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+segrh.ms.gov.br.	0	IN	MX	10 mail.ms.gov.br.
+segrh.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
 www.segurancapatrimonial.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 cadastropessoa.seguro.ms.gov.br.	0	IN	A	187.86.226.166
 dev.cadastropessoa.seguro.ms.gov.br.	0	IN	CNAME	ns.vsd035.ms.gov.br.
@@ -2438,6 +2440,61 @@ sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 solar.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 hom.solar.sei.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
+seilog.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+seilog.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.seilog.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+seinfra.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+seinfra.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.gc2e.seinfra.ms.gov.br.	0	IN	A	187.86.226.198
+www.sismoden.seinfra.ms.gov.br.	0	IN	A	187.86.226.199
+www.seinfra.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+sejusp.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+sejusp.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+alertams.sejusp.ms.gov.br.	0	IN	A	187.86.226.169
+antecedentes.sejusp.ms.gov.br.	0	IN	A	187.86.227.75
+antecedentesh.sejusp.ms.gov.br.	0	IN	A	187.86.227.76
+cartoriosii.sejusp.ms.gov.br.	0	IN	A	187.86.227.79
+cartoriosiih.sejusp.ms.gov.br.	0	IN	A	187.86.227.77
+cbmservicos.sejusp.ms.gov.br.	0	IN	A	187.86.226.252
+www.cead.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+cgp.sejusp.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+cgp.sejusp.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+www.cgp.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+cin.sejusp.ms.gov.br.	0	IN	A	187.86.227.177
+cin-homo.sejusp.ms.gov.br.	0	IN	A	187.86.227.178
+cronos.sejusp.ms.gov.br.	0	IN	A	189.9.0.119
+desaparecidos.sejusp.ms.gov.br.	0	IN	A	187.86.227.8
+diarias.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.diarias.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+homologacao.e-rg.sejusp.ms.gov.br.	0	IN	A	187.86.226.144
+efuncionais.sejusp.ms.gov.br.	0	IN	A	187.86.226.9
+homologacao.efuncionais.sejusp.ms.gov.br.	0	IN	A	187.86.226.144
+estatistica.sejusp.ms.gov.br.	0	IN	A	187.86.226.83
+frota.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.frota.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+geolocalizacao.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.geolocalizacao.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+iigp.sejusp.ms.gov.br.	0	IN	A	187.86.227.79
+iigph.sejusp.ms.gov.br.	0	IN	A	187.86.227.77
+infra.sejusp.ms.gov.br.	0	IN	A	200.181.125.99
+monitorviolenciacontramulher.sejusp.ms.gov.br.	0	IN	A	187.86.226.83
+pesp.sejusp.ms.gov.br.	0	IN	A	187.86.226.83
+portalservicos.sejusp.ms.gov.br.	0	IN	A	187.86.226.252
+processo.sejusp.ms.gov.br.	0	IN	A	187.86.227.107
+rel-diarias.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+hom.rel-diarias.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+rgdigital.sejusp.ms.gov.br.	0	IN	A	187.86.226.9
+saipol.sejusp.ms.gov.br.	0	IN	A	200.181.112.228
+sas.sejusp.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+sas.sejusp.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+servicos.sejusp.ms.gov.br.	0	IN	A	187.86.226.252
+simba.sejusp.ms.gov.br.	0	IN	A	187.4.113.77
+simbah.sejusp.ms.gov.br.	0	IN	A	187.4.113.76
+sistemas.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+hom.sistemas.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
+vpn.sejusp.ms.gov.br.	0	IN	A	200.163.47.170
+www.sejusp.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 hom.selecaoegov.ms.gov.br.	0	IN	CNAME	ns.vsh051.ms.gov.br.
 www.selecaoegov.ms.gov.br.	0	IN	CNAME	ns.vs051.ms.gov.br.
 selviria.ms.gov.br.	0	IN	NS	ns1.mdwebhost.com.br.
