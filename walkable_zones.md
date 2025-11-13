@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -15,9 +14,7 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
-* `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -55,9 +52,8 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
-* `bib.ve.`
+* `bib.br.`
 * `bio.br.`
-* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -80,10 +76,10 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
+* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -92,7 +88,6 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
-* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
@@ -105,15 +100,17 @@
 * `desi.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
+* `ecn.br.`
 * `edu.br.`
-* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
@@ -123,7 +120,6 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -155,7 +151,6 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -168,7 +163,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
-* `gov.ve.`
+* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `hidns.co.`
@@ -176,7 +171,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -240,13 +234,11 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
-* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
@@ -264,17 +256,14 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
-* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -287,6 +276,7 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -294,7 +284,6 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -315,7 +304,6 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -334,7 +322,6 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
-* `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
@@ -380,6 +367,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
@@ -390,6 +378,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -398,7 +387,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
