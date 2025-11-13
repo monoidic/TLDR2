@@ -2512,9 +2512,26 @@ id.semadesc.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 webmail.semadesc.ms.gov.br.	0	IN	CNAME	zimbra-mta-in-out.semadesc.ms.gov.br.
 www.semadesc.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
 zimbra-mta-in-out.semadesc.ms.gov.br.	0	IN	A	187.86.226.251
+semagro.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
+semagro.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.226.251 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
+fadefe.semagro.ms.gov.br.	0	IN	A	187.86.227.32
+manuca.semagro.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+minio.manuca.semagro.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+console.minio.manuca.semagro.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
+webmail.semagro.ms.gov.br.	0	IN	CNAME	zimbra-mta-in-out.semagro.ms.gov.br.
+www.semagro.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+zimbra-mta-in-out.semagro.ms.gov.br.	0	IN	A	187.86.226.251
 inscricao.seminariobioceanica.ms.gov.br.	0	IN	A	104.131.183.128
 www.inscricao.seminariobioceanica.ms.gov.br.	0	IN	A	104.131.183.128
 www.seminariointernacionalbioceanica.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
+seop.ms.gov.br.	0	IN	MX	10 mail.ms.gov.br.
+seop.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
+sepaf.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
+www.precoce.sepaf.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
+www.terraboa.sepaf.ms.gov.br.	0	IN	CNAME	ns.vs036.ms.gov.br.
+seprotur.ms.gov.br.	0	IN	MX	10 mail.ms.gov.br.
+seprotur.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 -all"
+sisleite.seprotur.ms.gov.br.	0	IN	A	187.86.226.181
 hom.mic.serc.ms.gov.br.	0	IN	A	187.86.226.32
 www.mic.serc.ms.gov.br.	0	IN	A	187.86.226.41
 serieespecial.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
