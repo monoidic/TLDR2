@@ -125,10 +125,6 @@ ns2.tribodeideias.com.br.	0	IN	A	96.9.173.20
 ns1.dominios.uol.com.br.	0	IN	A	200.98.199.199
 ns2.dominios.uol.com.br.	0	IN	A	200.221.65.6
 ns3.dominios.uol.com.br.	0	IN	A	200.98.199.204
-ns1.valueserver.com.br.	0	IN	A	149.56.130.46
-ns1.valueserver.com.br.	0	IN	AAAA	2607:5300:201:3000::1b47
-ns2.valueserver.com.br.	0	IN	A	164.132.43.31
-ns2.valueserver.com.br.	0	IN	AAAA	2001:41d0:302:2000::27c0
 ns1.vink.com.br.	0	IN	A	74.63.243.105
 ns2.vink.com.br.	0	IN	A	74.63.243.106
 dns1.interlegis.gov.br.	0	IN	A	200.199.205.130
@@ -1416,8 +1412,6 @@ portalsei.rn.gov.br.	0	IN	CNAME	applinux01.rn.gov.br.
 portodomangue.rn.gov.br.	0	IN	NS	alla.ns.cloudflare.com.
 portodomangue.rn.gov.br.	0	IN	NS	vern.ns.cloudflare.com.
 pratico.rn.gov.br.	0	IN	A	177.87.96.5
-prefeituradegovdixsept.rn.gov.br.	0	IN	NS	ns1.valueserver.com.br.
-prefeituradegovdixsept.rn.gov.br.	0	IN	NS	ns2.valueserver.com.br.
 previdenciasustentavel.rn.gov.br.	0	IN	A	177.87.97.40
 www.previdenciasustentavel.rn.gov.br.	0	IN	CNAME	previdenciasustentavel.rn.gov.br.
 proerd.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
@@ -1967,6 +1961,7 @@ matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.200
 matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.201
 matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.202
 matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.203
+saldos.sigeduc.rn.gov.br.	0	IN	CNAME	data-exporter.sigeduc.rn.gov.br.
 treinamento.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
 www.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
 www.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
@@ -2103,6 +2098,7 @@ portalgestortuitebeta.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
 portalprocuradoria.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
 prd-mail01.tce.rn.gov.br.	0	IN	CNAME	correio.tce.rn.gov.br.
 processos.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
+processos2.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
 processosbeta.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
 reports.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
 robocop.tce.rn.gov.br.	0	IN	CNAME	www.tce.rn.gov.br.
