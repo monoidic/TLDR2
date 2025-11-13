@@ -8,6 +8,7 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -28,7 +29,6 @@
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -42,7 +42,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -111,7 +110,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -140,6 +138,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -268,7 +267,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -287,8 +285,8 @@
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -302,6 +300,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -361,7 +360,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -371,6 +369,7 @@
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
+* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
