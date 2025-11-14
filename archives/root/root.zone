@@ -522,12 +522,26 @@ v2n0.nic.airforce.	0	IN	A	65.22.35.34
 v2n0.nic.airforce.	0	IN	AAAA	2a01:8840:25::34
 v2n1.nic.airforce.	0	IN	A	161.232.17.34
 v2n1.nic.airforce.	0	IN	AAAA	2a01:8840:fb::34
-airtel.	0	IN	NS	ac1.nstld.com.
-airtel.	0	IN	NS	ac2.nstld.com.
-airtel.	0	IN	NS	ac3.nstld.com.
-airtel.	0	IN	NS	ac4.nstld.com.
+airtel.	0	IN	NS	a.nic.airtel.
+airtel.	0	IN	NS	b.nic.airtel.
+airtel.	0	IN	NS	c.nic.airtel.
+airtel.	0	IN	NS	x.nic.airtel.
+airtel.	0	IN	NS	y.nic.airtel.
+airtel.	0	IN	NS	z.nic.airtel.
 airtel.	0	IN	DS	33365 8 2 49d75f57e4393dfa7fb4fb380df31f83d178109da2a791f9d6d1d875260113be
 airtel.	0	IN	DS	42300 8 2 a698e339483d094208dfb7b858cdf0401bffc320afcc5aeed3b03dfe82bfacc0
+a.nic.airtel.	0	IN	A	37.209.192.9
+a.nic.airtel.	0	IN	AAAA	2001:dcd:1::9
+b.nic.airtel.	0	IN	A	37.209.194.9
+b.nic.airtel.	0	IN	AAAA	2001:dcd:2::9
+c.nic.airtel.	0	IN	A	37.209.196.9
+c.nic.airtel.	0	IN	AAAA	2001:dcd:3::9
+x.nic.airtel.	0	IN	A	156.154.172.82
+x.nic.airtel.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.airtel.	0	IN	A	156.154.173.82
+y.nic.airtel.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.airtel.	0	IN	A	156.154.174.82
+z.nic.airtel.	0	IN	AAAA	2610:a1:1076::1:82
 akdn.	0	IN	NS	a0.nic.akdn.
 akdn.	0	IN	NS	a2.nic.akdn.
 akdn.	0	IN	NS	b0.nic.akdn.
@@ -1888,12 +1902,26 @@ c.nic.bh.	0	IN	A	212.18.248.115
 c.nic.bh.	0	IN	AAAA	2a04:2b00:13ee::115
 d.nic.bh.	0	IN	A	212.18.249.115
 d.nic.bh.	0	IN	AAAA	2a04:2b00:13ff::115
-bharti.	0	IN	NS	ac1.nstld.com.
-bharti.	0	IN	NS	ac2.nstld.com.
-bharti.	0	IN	NS	ac3.nstld.com.
-bharti.	0	IN	NS	ac4.nstld.com.
+bharti.	0	IN	NS	a.nic.bharti.
+bharti.	0	IN	NS	b.nic.bharti.
+bharti.	0	IN	NS	c.nic.bharti.
+bharti.	0	IN	NS	x.nic.bharti.
+bharti.	0	IN	NS	y.nic.bharti.
+bharti.	0	IN	NS	z.nic.bharti.
 bharti.	0	IN	DS	13206 8 2 bcf1efc6d85ca9939af95be715d7093082bac953e8539f88d21b16054d5a22ca
 bharti.	0	IN	DS	44461 8 2 c75a41dda300752c5772d66a6022fcb9fd51d94ecc9d42dc8db4c4f85521b0d7
+a.nic.bharti.	0	IN	A	37.209.192.9
+a.nic.bharti.	0	IN	AAAA	2001:dcd:1::9
+b.nic.bharti.	0	IN	A	37.209.194.9
+b.nic.bharti.	0	IN	AAAA	2001:dcd:2::9
+c.nic.bharti.	0	IN	A	37.209.196.9
+c.nic.bharti.	0	IN	AAAA	2001:dcd:3::9
+x.nic.bharti.	0	IN	A	156.154.172.82
+x.nic.bharti.	0	IN	AAAA	2610:a1:1074::1:82
+y.nic.bharti.	0	IN	A	156.154.173.82
+y.nic.bharti.	0	IN	AAAA	2610:a1:1075::1:82
+z.nic.bharti.	0	IN	A	156.154.174.82
+z.nic.bharti.	0	IN	AAAA	2610:a1:1076::1:82
 bi.	0	IN	NS	bi.cctld.authdns.ripe.net.
 bi.	0	IN	NS	ns.nic.bi.
 bi.	0	IN	NS	ns1.nic.bi.
