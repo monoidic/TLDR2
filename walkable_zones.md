@@ -21,6 +21,7 @@
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
+* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -110,6 +111,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -138,7 +140,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -210,8 +211,10 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -251,7 +254,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -277,7 +279,9 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -320,9 +324,9 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -373,7 +377,6 @@
 * `swatch.`
 * `tc.br.`
 * `tec.br.`
-* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
@@ -386,6 +389,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
