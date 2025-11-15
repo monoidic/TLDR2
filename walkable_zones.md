@@ -60,7 +60,6 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -99,16 +98,16 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `desi.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -237,7 +236,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -245,10 +243,8 @@
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
-* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -257,7 +253,6 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
-* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -268,6 +263,7 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -292,7 +288,6 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
-* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
