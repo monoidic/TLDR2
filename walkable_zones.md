@@ -27,8 +27,8 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
-* `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -58,6 +58,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -81,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -91,6 +93,7 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -218,6 +221,7 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
+* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -279,7 +283,6 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
@@ -300,6 +303,7 @@
 * `odo.br.`
 * `omega.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -346,7 +350,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -396,6 +399,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
