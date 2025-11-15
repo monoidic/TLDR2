@@ -27,8 +27,8 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
+* `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -58,7 +58,6 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
-* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -92,12 +91,12 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -138,6 +137,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -218,7 +218,6 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -281,6 +280,7 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -288,6 +288,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -395,7 +396,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -404,6 +404,7 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
