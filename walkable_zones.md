@@ -34,6 +34,7 @@
 * `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
+* `aparecida.br.`
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
@@ -52,6 +53,7 @@
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
+* `belem.br.`
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
@@ -99,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -167,6 +168,7 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
+* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -185,10 +187,10 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `ieee.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
+* `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
@@ -282,7 +284,6 @@
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
-* `nic.shell.`
 * `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
@@ -391,7 +392,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
