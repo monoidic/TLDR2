@@ -105,7 +105,6 @@
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `desi.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -188,6 +187,7 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
+* `ieee.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
