@@ -29,7 +29,6 @@
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -99,12 +98,11 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `desi.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -187,7 +185,6 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `ieee.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -272,10 +269,9 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -284,6 +280,7 @@
 * `nic.mom.`
 * `nic.pics.`
 * `nic.shell.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -365,7 +362,6 @@
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
-* `shell.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -391,7 +387,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -407,7 +402,6 @@
 * `web.ve.`
 * `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
