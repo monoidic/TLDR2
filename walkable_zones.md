@@ -7,7 +7,6 @@
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
-* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -16,7 +15,6 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
-* `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
@@ -25,11 +23,9 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -53,7 +49,6 @@
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
-* `belem.br.`
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
@@ -71,7 +66,6 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
-* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -110,7 +104,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -140,7 +133,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -160,7 +152,6 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -239,6 +230,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -254,6 +246,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -266,20 +259,25 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.omega.`
 * `nic.pics.`
+* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -309,7 +307,6 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
-* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -345,6 +342,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -358,10 +356,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
-* `shell.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
@@ -369,7 +364,6 @@
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
-* `swatch.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
@@ -384,7 +378,6 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
-* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
