@@ -83,7 +83,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -189,7 +188,6 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `ieee.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -278,7 +276,9 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -286,11 +286,11 @@
 * `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
-* `nic.swatch.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -300,6 +300,7 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `omega.`
 * `ong.br.`
 * `or.id.`
 * `org.bt.`
