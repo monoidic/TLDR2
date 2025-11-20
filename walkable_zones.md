@@ -30,6 +30,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -55,6 +56,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -120,7 +122,6 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
-* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
@@ -139,6 +140,7 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -182,6 +184,7 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -249,7 +252,6 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
@@ -261,6 +263,7 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -272,9 +275,7 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
@@ -298,6 +299,7 @@
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
+* `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
@@ -351,6 +353,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
