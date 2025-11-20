@@ -32,6 +32,7 @@
 * `amazon.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -82,6 +83,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -254,6 +256,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -282,7 +285,6 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.omega.`
 * `nic.pics.`
 * `nic.shell.`
 * `nic.swatch.`
@@ -300,6 +302,7 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `omega.`
 * `ong.br.`
 * `or.id.`
 * `org.bt.`
@@ -375,7 +378,6 @@
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
-* `swatch.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
@@ -405,9 +407,7 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
-* `wed.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
