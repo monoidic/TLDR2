@@ -4,6 +4,9 @@ ricta.org.rw.	0	IN	NS	ns2.ricta.org.rw.
 ricta.org.rw.	0	IN	NS	ns3.ricta.org.rw.
 ricta.org.rw.	0	IN	MX	0 ricta-org-rw.mail.protection.outlook.com.
 ricta.org.rw.	0	IN	AAAA	2001:43f8:151:2503::167
+57423635.ricta.org.rw.	0	IN	CNAME	sendgrid.net.
+s1._domainkey.ricta.org.rw.	0	IN	CNAME	s1.domainkey.u57423635.wl136.sendgrid.net.
+s2._domainkey.ricta.org.rw.	0	IN	CNAME	s2.domainkey.u57423635.wl136.sendgrid.net.
 a.ricta.org.rw.	0	IN	A	196.49.7.126
 ans.ricta.org.rw.	0	IN	A	192.96.246.2
 ans.ricta.org.rw.	0	IN	AAAA	2001:42a0::68
@@ -17,6 +20,7 @@ chat.ricta.org.rw.	0	IN	AAAA	2001:43f8:151:45::184
 debianmirror.ricta.org.rw.	0	IN	A	196.49.7.135
 dnsnode.ricta.org.rw.	0	IN	A	77.72.229.254
 dnsnode.ricta.org.rw.	0	IN	AAAA	2a01:3f0:0:306::53
+em1728.ricta.org.rw.	0	IN	CNAME	u57423635.wl136.sendgrid.net.
 fs.ricta.org.rw.	0	IN	A	196.49.7.120
 ns1.gransy.ricta.org.rw.	0	IN	A	185.38.108.108
 ns1.gransy.ricta.org.rw.	0	IN	AAAA	2a00:fea0:dead::beef
@@ -57,6 +61,7 @@ registry1.ricta.org.rw.	0	IN	AAAA	2001:43f8:151:45::137
 registry2.ricta.org.rw.	0	IN	A	196.49.7.137
 replica-a.ricta.org.rw.	0	IN	A	41.138.85.99
 sping.ricta.org.rw.	0	IN	A	196.49.7.179
+url6213.ricta.org.rw.	0	IN	CNAME	sendgrid.net.
 wazuh.ricta.org.rw.	0	IN	A	196.49.7.171
 webmail.ricta.org.rw.	0	IN	CNAME	outlook.office365.com.
 whmcs.ricta.org.rw.	0	IN	A	196.49.7.134
