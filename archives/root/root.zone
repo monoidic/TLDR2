@@ -1396,7 +1396,9 @@ ns3.dns.nic.axa.	0	IN	AAAA	2610:a1:1073::14
 az.	0	IN	NS	az.hostmaster.ua.
 az.	0	IN	NS	ns3.intrans.az.
 az.	0	IN	NS	rip.psg.com.
+az.	0	IN	NS	ns13.intrans.az.
 az.	0	IN	DS	48544 8 2 4cb64b087166bd2a837efcedc5d210f3ffbedb7e6535998b27a1e43b948967cc
+ns13.intrans.az.	0	IN	A	217.14.111.13
 ns3.intrans.az.	0	IN	A	148.251.2.246
 azure.	0	IN	NS	dns1.nic.azure.
 azure.	0	IN	NS	dns2.nic.azure.
