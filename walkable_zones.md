@@ -9,7 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -25,7 +24,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -82,7 +80,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -101,6 +98,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -123,7 +121,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -197,7 +194,6 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
-* `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
@@ -206,7 +202,6 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
@@ -267,11 +262,11 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -309,8 +304,6 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
-* `pe.leg.br.`
-* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -319,7 +312,6 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -335,7 +327,6 @@
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
-* `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
@@ -398,6 +389,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
