@@ -17,6 +17,7 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -41,6 +42,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -125,6 +127,7 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
+* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -281,6 +284,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -310,6 +314,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -379,7 +384,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -394,6 +398,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
