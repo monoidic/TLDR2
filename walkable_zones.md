@@ -40,7 +40,6 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -81,7 +80,7 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -110,6 +109,7 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -124,7 +124,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -158,20 +157,19 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
-* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
-* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -260,7 +258,6 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
-* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -272,7 +269,6 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -300,14 +296,12 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
-* `org.mn.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -328,7 +322,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
@@ -336,6 +329,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -366,7 +360,6 @@
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
-* `store.ve.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
