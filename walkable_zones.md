@@ -114,7 +114,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -195,7 +194,6 @@
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
-* `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -284,12 +282,10 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
-* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -386,7 +382,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
