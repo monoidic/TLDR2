@@ -55,6 +55,8 @@ ns3.hostinger.com.br.	0	IN	A	173.192.183.247
 ns4.hostinger.com.br.	0	IN	A	31.170.164.249
 ns214.hoteldaweb.com.br.	0	IN	A	51.222.2.171
 ns215.hoteldaweb.com.br.	0	IN	A	51.222.2.173
+ns1.incluster.com.br.	0	IN	A	45.224.128.91
+ns2.incluster.com.br.	0	IN	A	51.161.10.158
 ns1.janascemosdigital.com.br.	0	IN	A	201.76.149.85
 ns2.janascemosdigital.com.br.	0	IN	A	201.76.149.86
 nsa1.k8.com.br.	0	IN	A	184.73.232.169
@@ -478,8 +480,8 @@ cliqueservidor.rn.gov.br.	0	IN	CNAME	adcon.rn.gov.br.
 www.cliqueservidor.rn.gov.br.	0	IN	CNAME	cliqueservidor.rn.gov.br.
 cma.rn.gov.br.	0	IN	NS	dns1.interlegis.gov.br.
 cma.rn.gov.br.	0	IN	NS	dns2.interlegis.gov.br.
-cmbarcelona.rn.gov.br.	0	IN	NS	ns952.hostgator.com.br.
-cmbarcelona.rn.gov.br.	0	IN	NS	ns953.hostgator.com.br.
+cmbarcelona.rn.gov.br.	0	IN	NS	ns1.incluster.com.br.
+cmbarcelona.rn.gov.br.	0	IN	NS	ns2.incluster.com.br.
 cmbentofernandes.rn.gov.br.	0	IN	NS	ns1.dns-parking.com.
 cmbentofernandes.rn.gov.br.	0	IN	NS	ns2.dns-parking.com.
 cmboasaude.rn.gov.br.	0	IN	NS	ns1.locaweb.com.br.
