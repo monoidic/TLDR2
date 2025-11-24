@@ -10,7 +10,6 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -30,6 +29,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -137,6 +137,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -205,7 +206,6 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -250,6 +250,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -261,6 +262,7 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -293,7 +295,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -383,6 +384,7 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
