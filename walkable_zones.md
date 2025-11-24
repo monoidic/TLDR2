@@ -26,7 +26,6 @@
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
-* `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
@@ -98,9 +97,9 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -142,17 +141,20 @@
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
+* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
+* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
+* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
@@ -182,7 +184,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -245,7 +246,6 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
-* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -254,7 +254,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bt.`
-* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -263,6 +262,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -331,6 +331,7 @@
 * `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
+* `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
@@ -379,7 +380,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -394,7 +394,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
