@@ -26,10 +26,10 @@
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
+* `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -76,7 +76,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -90,7 +89,6 @@
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
-* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
@@ -99,7 +97,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -182,8 +179,8 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -246,14 +243,14 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
+* `mus.br.`
 * `my.at.`
 * `my.de.`
-* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
-* `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -317,7 +314,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -380,6 +376,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
