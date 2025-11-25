@@ -100,7 +100,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -151,7 +150,6 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
-* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -306,7 +304,6 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
-* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -360,6 +357,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -370,7 +368,6 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.br.`
-* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
@@ -398,6 +395,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
