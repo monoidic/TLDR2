@@ -92,13 +92,12 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -208,7 +207,6 @@
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -274,6 +272,7 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -357,9 +356,11 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -395,7 +396,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
