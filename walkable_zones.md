@@ -30,6 +30,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -76,6 +77,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -89,6 +91,7 @@
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
+* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
@@ -97,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -179,6 +183,7 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -246,10 +251,12 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
+* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
+* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -314,6 +321,7 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
+* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -352,7 +360,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
