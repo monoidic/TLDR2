@@ -1,0 +1,13 @@
+1337.pictures.	0	IN	A	91.216.248.20
+1337.pictures.	0	IN	A	91.216.248.21
+1337.pictures.	0	IN	A	91.216.248.22
+1337.pictures.	0	IN	NS	ns1.lima-city.de.
+1337.pictures.	0	IN	NS	ns2.lima-city.de.
+1337.pictures.	0	IN	NS	ns3.lima-city.de.
+1337.pictures.	0	IN	MX	10 mail.lima-city.de.
+1337.pictures.	0	IN	AAAA	2a00:f48:2000:affe::50
+*.1337.pictures.	0	IN	A	91.216.248.20
+*.1337.pictures.	0	IN	A	91.216.248.21
+*.1337.pictures.	0	IN	A	91.216.248.22
+*.1337.pictures.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.1337.pictures.	0	IN	CNAME	1337.pictures.acme.ssl-secured.email.

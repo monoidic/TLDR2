@@ -1,0 +1,17 @@
+lima-city.at.	0	IN	A	91.216.248.20
+lima-city.at.	0	IN	A	91.216.248.22
+lima-city.at.	0	IN	A	91.216.248.23
+lima-city.at.	0	IN	NS	ns1.lima-city.de.
+lima-city.at.	0	IN	NS	ns2.lima-city.de.
+lima-city.at.	0	IN	NS	ns3.lima-city.de.
+lima-city.at.	0	IN	MX	0 mail.lima-city.de.
+lima-city.at.	0	IN	AAAA	2a00:f48:2000:affe::50
+lima-city.at.	0	IN	DNSKEY	257 3 13 4KDTFVLwJvMa/TqlaIymSAWt47ZUB6QAuDDdWe6h9JhDz1z0mgncrqdrh9ncaElMIL4/MM+fv0YS5gnqbH5c5A== ;{id = 12751 (ksk), size = 256b}
+*.lima-city.at.	0	IN	A	91.216.248.20
+*.lima-city.at.	0	IN	A	91.216.248.22
+*.lima-city.at.	0	IN	A	91.216.248.23
+*.lima-city.at.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.lima-city.at.	0	IN	CNAME	lima-city.at.acme.ssl-secured.email.
+_autodiscover._tcp.lima-city.at.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.lima-city.at.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.lima-city.at.	0	IN	CNAME	mail.lima-city.de.

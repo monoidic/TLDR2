@@ -1,0 +1,17 @@
+lima-city.ch.	0	IN	A	91.216.248.20
+lima-city.ch.	0	IN	A	91.216.248.22
+lima-city.ch.	0	IN	A	91.216.248.23
+lima-city.ch.	0	IN	NS	ns1.lima-city.de.
+lima-city.ch.	0	IN	NS	ns2.lima-city.de.
+lima-city.ch.	0	IN	NS	ns3.lima-city.de.
+lima-city.ch.	0	IN	MX	0 mail.lima-city.de.
+lima-city.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+lima-city.ch.	0	IN	DNSKEY	257 3 13 PXL5KyqthmzTHtNpeIQ+hoVHXuegN2xazJrLzfHdI57I/ulUPulxRslKJOQ2r6Wu0ITyYruJin7ogJgMNmBIUg== ;{id = 7487 (ksk), size = 256b}
+*.lima-city.ch.	0	IN	A	91.216.248.20
+*.lima-city.ch.	0	IN	A	91.216.248.22
+*.lima-city.ch.	0	IN	A	91.216.248.23
+*.lima-city.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.lima-city.ch.	0	IN	CNAME	lima-city.ch.acme.ssl-secured.email.
+_autodiscover._tcp.lima-city.ch.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.lima-city.ch.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.lima-city.ch.	0	IN	CNAME	mail.lima-city.de.

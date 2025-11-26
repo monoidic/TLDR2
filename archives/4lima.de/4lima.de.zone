@@ -1,0 +1,18 @@
+4lima.de.	0	IN	A	91.216.248.20
+4lima.de.	0	IN	A	91.216.248.21
+4lima.de.	0	IN	A	91.216.248.22
+4lima.de.	0	IN	NS	ns1.lima-city.de.
+4lima.de.	0	IN	NS	ns2.lima-city.de.
+4lima.de.	0	IN	NS	ns3.lima-city.de.
+4lima.de.	0	IN	MX	0 mail.lima-city.de.
+4lima.de.	0	IN	AAAA	2a00:f48:2000:affe::50
+4lima.de.	0	IN	DNSKEY	257 3 13 5JKYLAk0+Ijcn2kzsJKqHUgjgHL7GDt6V+SNB3MZkxfzuLb2f3lABkKabxicW9CK48nU9LWIjDZyHf1E1r7imA== ;{id = 47444 (ksk), size = 256b}
+*.4lima.de.	0	IN	A	91.216.248.20
+*.4lima.de.	0	IN	A	91.216.248.21
+*.4lima.de.	0	IN	A	91.216.248.22
+*.4lima.de.	0	IN	MX	0 mail.lima-city.de.
+*.4lima.de.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.4lima.de.	0	IN	CNAME	4lima.de.acme.ssl-secured.email.
+_autodiscover._tcp.4lima.de.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.4lima.de.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.4lima.de.	0	IN	CNAME	mail.lima-city.de.

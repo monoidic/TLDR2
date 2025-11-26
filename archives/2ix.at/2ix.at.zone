@@ -1,0 +1,17 @@
+2ix.at.	0	IN	A	91.216.248.20
+2ix.at.	0	IN	A	91.216.248.21
+2ix.at.	0	IN	A	91.216.248.22
+2ix.at.	0	IN	NS	ns1.lima-city.de.
+2ix.at.	0	IN	NS	ns2.lima-city.de.
+2ix.at.	0	IN	NS	ns3.lima-city.de.
+2ix.at.	0	IN	MX	0 mail.lima-city.de.
+2ix.at.	0	IN	AAAA	2a00:f48:2000:affe::50
+2ix.at.	0	IN	DNSKEY	257 3 13 gO//CxgghfamAFKrNw+MhhLKitd9/526DyNLmd12HVWmXpzBbc9CBaet59jzRTxwPpd8GnEx8stS+vgqUYrJRw== ;{id = 9246 (ksk), size = 256b}
+*.2ix.at.	0	IN	A	91.216.248.20
+*.2ix.at.	0	IN	A	91.216.248.21
+*.2ix.at.	0	IN	A	91.216.248.22
+*.2ix.at.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.2ix.at.	0	IN	CNAME	2ix.at.acme.ssl-secured.email.
+_autodiscover._tcp.2ix.at.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.2ix.at.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.2ix.at.	0	IN	CNAME	mail.lima-city.de.

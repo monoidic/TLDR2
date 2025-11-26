@@ -1,0 +1,17 @@
+12hp.ch.	0	IN	A	91.216.248.20
+12hp.ch.	0	IN	A	91.216.248.22
+12hp.ch.	0	IN	A	91.216.248.23
+12hp.ch.	0	IN	NS	ns1.lima-city.de.
+12hp.ch.	0	IN	NS	ns2.lima-city.de.
+12hp.ch.	0	IN	NS	ns3.lima-city.de.
+12hp.ch.	0	IN	MX	0 mail.lima-city.de.
+12hp.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+12hp.ch.	0	IN	DNSKEY	257 3 13 4usD9iXvvvlxO3+pPbisobl/MDWbk8lmmJNh+X3AjtKSTGJ7Wr9G5kPNNQR1L8A96jtlcf6xFCQNuVsFHnsHDw== ;{id = 13919 (ksk), size = 256b}
+*.12hp.ch.	0	IN	A	91.216.248.20
+*.12hp.ch.	0	IN	A	91.216.248.22
+*.12hp.ch.	0	IN	A	91.216.248.23
+*.12hp.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.12hp.ch.	0	IN	CNAME	12hp.ch.acme.ssl-secured.email.
+_autodiscover._tcp.12hp.ch.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.12hp.ch.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.12hp.ch.	0	IN	CNAME	mail.lima-city.de.

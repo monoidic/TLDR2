@@ -1,0 +1,17 @@
+4lima.ch.	0	IN	A	91.216.248.20
+4lima.ch.	0	IN	A	91.216.248.21
+4lima.ch.	0	IN	A	91.216.248.22
+4lima.ch.	0	IN	NS	ns1.lima-city.de.
+4lima.ch.	0	IN	NS	ns2.lima-city.de.
+4lima.ch.	0	IN	NS	ns3.lima-city.de.
+4lima.ch.	0	IN	MX	0 mail.lima-city.de.
+4lima.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+4lima.ch.	0	IN	DNSKEY	257 3 13 G3j0LVIkwNLAydc9wHTSUjOAuj5dVr1xuJgGhAKbr6WzycmOBps9DshdqfVgtjfjdB3dyCHdpkty45j0zltfRQ== ;{id = 60117 (ksk), size = 256b}
+*.4lima.ch.	0	IN	A	91.216.248.20
+*.4lima.ch.	0	IN	A	91.216.248.21
+*.4lima.ch.	0	IN	A	91.216.248.22
+*.4lima.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.4lima.ch.	0	IN	CNAME	4lima.ch.acme.ssl-secured.email.
+_autodiscover._tcp.4lima.ch.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.4lima.ch.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.4lima.ch.	0	IN	CNAME	mail.lima-city.de.

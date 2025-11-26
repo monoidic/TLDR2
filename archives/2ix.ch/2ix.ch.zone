@@ -1,0 +1,17 @@
+2ix.ch.	0	IN	A	91.216.248.20
+2ix.ch.	0	IN	A	91.216.248.22
+2ix.ch.	0	IN	A	91.216.248.23
+2ix.ch.	0	IN	NS	ns1.lima-city.de.
+2ix.ch.	0	IN	NS	ns2.lima-city.de.
+2ix.ch.	0	IN	NS	ns3.lima-city.de.
+2ix.ch.	0	IN	MX	0 mail.lima-city.de.
+2ix.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+2ix.ch.	0	IN	DNSKEY	257 3 13 xFmyKhDxmJPZO42Hhe6PsPui/tRkuUHXUJGttw87s3KD3Hle7DCDB4M9C0hpoNYS85Lwe1DLufbyi1zARZJZTQ== ;{id = 6690 (ksk), size = 256b}
+*.2ix.ch.	0	IN	A	91.216.248.20
+*.2ix.ch.	0	IN	A	91.216.248.22
+*.2ix.ch.	0	IN	A	91.216.248.23
+*.2ix.ch.	0	IN	AAAA	2a00:f48:2000:affe::50
+_acme-challenge.2ix.ch.	0	IN	CNAME	2ix.ch.acme.ssl-secured.email.
+_autodiscover._tcp.2ix.ch.	0	IN	SRV	10 0 443 mail.lima-city.de.
+autoconfig.2ix.ch.	0	IN	CNAME	mail.lima-city.de.
+autodiscover.2ix.ch.	0	IN	CNAME	mail.lima-city.de.
