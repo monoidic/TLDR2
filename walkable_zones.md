@@ -31,6 +31,8 @@
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -97,6 +99,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -134,7 +137,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -243,7 +245,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -279,7 +280,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -302,15 +302,18 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -353,11 +356,14 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
+* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
