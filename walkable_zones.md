@@ -7,7 +7,6 @@
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
-* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -82,6 +81,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -98,7 +98,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -110,7 +109,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -118,6 +116,7 @@
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
+* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -155,6 +154,7 @@
 * `game.`
 * `gdn.`
 * `geo.br.`
+* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
@@ -184,6 +184,7 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -265,10 +266,8 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -277,6 +276,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
@@ -287,6 +287,7 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -328,6 +329,7 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
+* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -375,6 +377,7 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
+* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
@@ -394,6 +397,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
