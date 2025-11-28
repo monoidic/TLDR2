@@ -17,6 +17,7 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -99,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -276,15 +278,12 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
