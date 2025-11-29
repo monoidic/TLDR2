@@ -3,12 +3,12 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
+* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -30,7 +30,6 @@
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
-* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -69,17 +68,18 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
+* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -92,6 +92,7 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
+* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
@@ -127,6 +128,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -187,6 +189,7 @@
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
+* `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
@@ -234,13 +237,13 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
+* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -274,7 +277,6 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
@@ -291,6 +293,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -332,7 +335,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -358,6 +360,7 @@
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
+* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
