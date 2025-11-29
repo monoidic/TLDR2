@@ -4,7 +4,6 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -42,6 +41,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -91,13 +91,14 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
+* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -109,7 +110,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -180,7 +180,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -193,6 +192,7 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
+* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -223,9 +223,9 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
+* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -270,7 +270,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -300,6 +299,7 @@
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -394,7 +394,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
