@@ -9,7 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -70,18 +69,17 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
-* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -94,7 +92,6 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
-* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
@@ -108,6 +105,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -129,7 +127,6 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
-* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -190,7 +187,6 @@
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
-* `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
@@ -238,7 +234,6 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
-* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
@@ -246,10 +241,12 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -361,7 +358,6 @@
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
-* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
