@@ -3,7 +3,6 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -42,7 +41,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -89,6 +87,7 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -99,7 +98,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -158,7 +156,6 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -246,12 +243,10 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -269,6 +264,7 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -279,6 +275,7 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -371,9 +368,11 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
+* `the.br.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
+* `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
@@ -394,7 +393,7 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
-* `xn--54b7fta0cc.`
+* `wiki.br.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
