@@ -62,7 +62,6 @@
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
-* `boavista.br.`
 * `br.`
 * `bsb.br.`
 * `bt.`
@@ -99,10 +98,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -149,7 +146,6 @@
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
-* `fortal.br.`
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
@@ -160,9 +156,9 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -184,6 +180,7 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -196,15 +193,16 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
+* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
+* `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
@@ -213,6 +211,7 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
+* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -221,7 +220,6 @@
 * `lk.`
 * `log.br.`
 * `lol.`
-* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -234,17 +232,14 @@
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
-* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -272,7 +267,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -319,7 +313,6 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
-* `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
@@ -352,7 +345,6 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
-* `sch.id.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
@@ -396,6 +388,7 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
+* `wiki.br.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
