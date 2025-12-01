@@ -1706,10 +1706,10 @@ senasa.net.do.	0	IN	NS	dns1.midominio.do.
 senasa.net.do.	0	IN	NS	dns2.midominio.do.
 senasa.net.do.	0	IN	NS	dns3.midominio.do.
 senasa.net.do.	0	IN	NS	dns4.midominio.do.
-setecorp.net.do.	0	IN	NS	dns1.midominio.do.
-setecorp.net.do.	0	IN	NS	dns2.midominio.do.
-setecorp.net.do.	0	IN	NS	dns3.midominio.do.
-setecorp.net.do.	0	IN	NS	dns4.midominio.do.
+setecorp.net.do.	0	IN	NS	ns1.setecorp.net.do.
+setecorp.net.do.	0	IN	NS	ns2.setecorp.net.do.
+ns1.setecorp.net.do.	0	IN	A	15.235.35.222
+ns2.setecorp.net.do.	0	IN	A	15.235.35.222
 shell.net.do.	0	IN	NS	dns1.shell.com.
 shell.net.do.	0	IN	NS	dns2.shell.com.
 shell.net.do.	0	IN	NS	dns3.shell.com.
