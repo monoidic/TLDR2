@@ -16,12 +16,10 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
-* `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
-* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -40,7 +38,6 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -90,7 +87,6 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
-* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -115,7 +111,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -124,7 +119,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -195,8 +189,6 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
-* `info.ve.`
-* `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -241,7 +233,6 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
@@ -255,7 +246,6 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
-* `nat.tn.`
 * `natal.br.`
 * `net.bt.`
 * `net.id.`
@@ -265,7 +255,6 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -290,7 +279,6 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
-* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -298,6 +286,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
@@ -331,7 +320,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
@@ -374,7 +362,6 @@
 * `store.ve.`
 * `tc.br.`
 * `tec.br.`
-* `tec.ve.`
 * `the.br.`
 * `tm.mc.`
 * `tmp.br.`
@@ -399,9 +386,7 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
-* `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
