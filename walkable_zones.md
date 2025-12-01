@@ -6,7 +6,9 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -97,6 +99,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -160,7 +163,6 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
-* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -176,12 +178,12 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -200,11 +202,9 @@
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
-* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
-* `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
@@ -213,7 +213,6 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
-* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -397,8 +396,6 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
-* `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
