@@ -27,6 +27,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -49,7 +50,6 @@
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
-* `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
@@ -109,6 +109,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -136,6 +137,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -149,6 +151,7 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
+* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -179,6 +182,7 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -190,6 +194,7 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
+* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -251,6 +256,7 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
+* `net.bd.`
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
@@ -284,6 +290,7 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -294,8 +301,8 @@
 * `or.id.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
 * `org.lb.`
-* `org.mn.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
@@ -319,6 +326,7 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
+* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -340,8 +348,8 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
-* `sampa.br.`
 * `santamaria.br.`
+* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -359,7 +367,9 @@
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
+* `srv.br.`
 * `stackhero-network.com.`
+* `store.ve.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
@@ -389,7 +399,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
