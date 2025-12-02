@@ -50,6 +50,7 @@
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
+* `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
@@ -268,7 +269,6 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -276,7 +276,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -295,7 +294,6 @@
 * `not.br.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `ong.br.`
 * `or.id.`
@@ -303,6 +301,7 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
+* `org.mn.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
@@ -348,6 +347,7 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
+* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
@@ -357,7 +357,6 @@
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
