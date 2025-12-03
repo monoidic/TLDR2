@@ -692,8 +692,8 @@ example.hidns.vip.	0	IN	NS	ns1.teodns.com.
 example.hidns.vip.	0	IN	NS	ns2.teodns.com.
 exit.hidns.vip.	0	IN	A	38.247.80.164
 exmail.hidns.vip.	0	IN	A	198.12.95.225
-cloudflare-r2-oss.faker.hidns.vip.	0	IN	CNAME	cloudflare-r2-oss-d6p.pages.dev.
-remember.faker.hidns.vip.	0	IN	CNAME	remember-wt2.pages.dev.
+faker.hidns.vip.	0	IN	NS	kipp.ns.cloudflare.com.
+faker.hidns.vip.	0	IN	NS	bailey.ns.cloudflare.com.
 fandy.hidns.vip.	0	IN	A	104.18.169.247
 fanpengfei.hidns.vip.	0	IN	A	172.245.11.115
 fans.hidns.vip.	0	IN	NS	dns1.serv00.com.
