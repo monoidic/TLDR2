@@ -5,10 +5,8 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -23,7 +21,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -38,9 +35,7 @@
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
-* `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -71,7 +66,6 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
-* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -101,7 +95,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -135,6 +128,7 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
+* `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
@@ -143,6 +137,7 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
+* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
@@ -153,7 +148,6 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
@@ -178,13 +172,13 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -205,6 +199,7 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -217,6 +212,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -245,7 +241,6 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -269,7 +264,6 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -281,8 +275,8 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -292,11 +286,13 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
-* `org.cy.`
 * `org.kz.`
+* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -305,13 +301,11 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
-* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
-* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
@@ -339,7 +333,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -360,6 +353,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -395,6 +389,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
