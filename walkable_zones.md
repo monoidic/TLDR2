@@ -116,7 +116,6 @@
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
-* `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
@@ -177,10 +176,7 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
-* `gv.ao.`
 * `hidns.co.`
-* `hidns.vip.`
-* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
@@ -245,7 +241,6 @@
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
-* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
@@ -276,6 +271,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -288,7 +284,6 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -382,7 +377,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
@@ -399,11 +393,8 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
-* `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
