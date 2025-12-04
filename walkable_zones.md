@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -61,7 +60,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -101,11 +99,9 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -184,7 +180,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -208,7 +203,6 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -221,7 +215,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -236,7 +229,6 @@
 * `mat.br.`
 * `mc.`
 * `md.`
-* `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
@@ -246,7 +238,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -341,7 +332,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -383,8 +373,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
@@ -398,11 +386,11 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
