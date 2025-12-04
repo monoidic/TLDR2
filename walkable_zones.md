@@ -101,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -165,6 +164,7 @@
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
+* `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
@@ -301,6 +301,7 @@
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
+* `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
@@ -333,6 +334,7 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
+* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -379,9 +381,11 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
+* `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
@@ -390,6 +394,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
