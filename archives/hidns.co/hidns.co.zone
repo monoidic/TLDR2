@@ -11,7 +11,8 @@ hidns.co.	0	IN	DNSKEY	257 3 13 eMXCQebZEN4mlt9WYWI/q1/Vi9BkEGouszVTPwjc8JbisNwOY
 0588.hidns.co.	0	IN	NS	ns3.hostry.com.
 0588.hidns.co.	0	IN	NS	ns4.hostry.com.
 www.0662.hidns.co.	0	IN	CNAME	newsnow-8hj.pages.dev.
-0880.0880.hidns.co.	0	IN	CNAME	3333-duj.pages.dev.
+0880.hidns.co.	0	IN	NS	uma.ns.cloudflare.com.
+0880.hidns.co.	0	IN	NS	camilo.ns.cloudflare.com.
 097234.hidns.co.	0	IN	NS	ns1.gcorelabs.net.
 097234.hidns.co.	0	IN	NS	ns2.gcdn.services.
 097234.hidns.co.	0	IN	DS	38535 13 2 409bb70db4e50901886d1469163b641000515b7a8cc156cb52c54176983acef5
@@ -736,7 +737,8 @@ file.dsmn.hidns.co.	0	IN	CNAME	tywed.pages.dev.
 home.dsmn.hidns.co.	0	IN	CNAME	homepagesr.pages.dev.
 www.dsmn.hidns.co.	0	IN	CNAME	xuhaodata.github.io.
 ssh.dubthelad1.hidns.co.	0	IN	CNAME	nyhflxww.us-east-1.clawcloudrun.com.
-duo.hidns.co.	0	IN	A	146.235.213.45
+duo.hidns.co.	0	IN	NS	desi.ns.cloudflare.com.
+duo.hidns.co.	0	IN	NS	tosana.ns.cloudflare.com.
 duohekaishui.hidns.co.	0	IN	A	188.253.117.71
 cf-de.dwrg.hidns.co.	0	IN	A	162.159.153.212
 cf-jp.dwrg.hidns.co.	0	IN	A	172.64.229.218
@@ -756,10 +758,8 @@ cmd.ebuffett.hidns.co.	0	IN	CNAME	cmd-six.vercel.app.
 cut.ebuffett.hidns.co.	0	IN	CNAME	cuts.9990351.xyz.
 pan.ebuffett.hidns.co.	0	IN	CNAME	pan.9990351.xyz.
 subs.ebuffett.hidns.co.	0	IN	CNAME	sub-store1.9990351.xyz.
-edu.hidns.co.	0	IN	NS	ns1.server1.webhostmost.com.
-edu.hidns.co.	0	IN	NS	ns2.server2.webhostmost.com.
-edu.hidns.co.	0	IN	NS	ns3.server3.webhostmost.com.
-edu.hidns.co.	0	IN	NS	ns4.server4.webhostmost.com.
+edu.hidns.co.	0	IN	NS	cheryl.ns.cloudflare.com.
+edu.hidns.co.	0	IN	NS	kenneth.ns.cloudflare.com.
 alist.education.hidns.co.	0	IN	CNAME	xrhodpmn.ap-northeast-1.clawcloudrun.com.
 recordweb.education.hidns.co.	0	IN	CNAME	ticsea.github.io.
 eduinstitute.hidns.co.	0	IN	A	52.221.236.253
@@ -870,9 +870,8 @@ webssh.free.hidns.co.	0	IN	CNAME	fbsdbftz.ap-southeast-1.clawcloudrun.com.
 free2025.hidns.co.	0	IN	A	194.105.89.110
 free8.hidns.co.	0	IN	A	104.36.85.97
 tz.freebird.hidns.co.	0	IN	A	38.55.125.163
-argo.freech.hidns.co.	0	IN	CNAME	argo-4r4.pages.dev.
-io.freech.hidns.co.	0	IN	CNAME	kkkxxx.pages.dev.
-xui.freech.hidns.co.	0	IN	CNAME	hello-xui.ns-gbl06x43.svc.cluster.
+freech.hidns.co.	0	IN	NS	venkat.ns.cloudflare.com.
+freech.hidns.co.	0	IN	NS	ryleigh.ns.cloudflare.com.
 freedom.hidns.co.	0	IN	NS	ns1.server1.webhostmost.com.
 freedom.hidns.co.	0	IN	NS	ns2.server2.webhostmost.com.
 freedom.hidns.co.	0	IN	NS	ns3.server3.webhostmost.com.
@@ -886,7 +885,8 @@ iwanna.fuck.hidns.co.	0	IN	A	82.115.31.235
 fucking.hidns.co.	0	IN	A	154.23.163.18
 fun.hidns.co.fun.hidns.co.	0	IN	CNAME	cname.vercel-dns.com.
 fun.fun.hidns.co.	0	IN	CNAME	cname.vercel-dns.com.
-fuqiang.hidns.co.	0	IN	A	1.58.156.21
+fuqiang.hidns.co.	0	IN	NS	lakas.ns.cloudflare.com.
+fuqiang.hidns.co.	0	IN	NS	susan.ns.cloudflare.com.
 fxzm.hidns.co.	0	IN	A	159.138.62.207
 ai.fxzm.hidns.co.	0	IN	CNAME	gvyfzyiv.us-east-1.clawcloudrun.com.
 ssh.fxzm.hidns.co.	0	IN	CNAME	rjjpfgds.us-east-1.clawcloudrun.com.
@@ -1384,7 +1384,6 @@ lclc.hidns.co.	0	IN	NS	ns1.he.net.
 lclc.hidns.co.	0	IN	NS	ns2.he.net.
 lclc.hidns.co.	0	IN	NS	ns3.he.net.
 lclc.hidns.co.	0	IN	NS	ns4.he.net.
-lee.hidns.co.	0	IN	A	58.152.33.158
 leelokhan.hidns.co.	0	IN	A	136.243.156.121
 live2d.leelokhan.hidns.co.	0	IN	A	136.243.156.121
 leen.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
@@ -1612,7 +1611,8 @@ mine.hidns.co.	0	IN	NS	ns64.cloudns.uk.
 ming.hidns.co.	0	IN	A	223.18.225.71
 mingfei.hidns.co.	0	IN	NS	noor.ns.cloudflare.com.
 mingfei.hidns.co.	0	IN	NS	jonah.ns.cloudflare.com.
-minggo.hidns.co.	0	IN	A	23.188.240.197
+minggo.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
+minggo.hidns.co.	0	IN	NS	savanna.ns.cloudflare.com.
 mingtech.hidns.co.	0	IN	A	38.207.142.17
 mingz.hidns.co.	0	IN	A	61.245.10.31
 minitor.hidns.co.	0	IN	NS	ns1.gcorelabs.net.
@@ -1623,7 +1623,8 @@ www.mistysky.hidns.co.	0	IN	CNAME	xg.3.frp.one.
 mix.hidns.co.	0	IN	NS	dns1.serv00.com.
 mix.hidns.co.	0	IN	NS	dns2.serv00.com.
 mixedx.hidns.co.	0	IN	A	172.104.178.92
-mjj.hidns.co.	0	IN	A	103.137.185.66
+mjj.hidns.co.	0	IN	NS	ned.ns.cloudflare.com.
+mjj.hidns.co.	0	IN	NS	demi.ns.cloudflare.com.
 mmkkt.hidns.co.	0	IN	NS	dane.ns.cloudflare.com.
 mmkkt.hidns.co.	0	IN	NS	stella.ns.cloudflare.com.
 mmm.hidns.co.	0	IN	NS	lucy.ns.cloudflare.com.
@@ -1674,6 +1675,8 @@ mytv.hidns.co.	0	IN	NS	ns1.infinityfree.com.
 mytv.hidns.co.	0	IN	NS	ns2.infinityfree.com.
 myvps.hidns.co.	0	IN	A	154.83.92.165
 myxc.hidns.co.	0	IN	A	192.227.172.169
+nais.hidns.co.	0	IN	NS	fred.ns.cloudflare.com.
+nais.hidns.co.	0	IN	NS	magali.ns.cloudflare.com.
 nana.hidns.co.	0	IN	A	154.92.128.140
 nanas.hidns.co.	0	IN	NS	ns1.gcorelabs.net.
 nanas.hidns.co.	0	IN	NS	ns2.gcorelabs.net.
@@ -1892,6 +1895,8 @@ phat.hidns.co.	0	IN	NS	ns1.desec.io.
 phat.hidns.co.	0	IN	NS	ns2.desec.org.
 phat.hidns.co.	0	IN	NS	dns1.serv00.com.
 phat.hidns.co.	0	IN	NS	dns2.serv00.com.
+piaoliangshizhu.hidns.co.	0	IN	NS	rosa.ns.cloudflare.com.
+piaoliangshizhu.hidns.co.	0	IN	NS	gabriel.ns.cloudflare.com.
 ping.hidns.co.	0	IN	NS	hope.ns.cloudflare.com.
 ping.hidns.co.	0	IN	NS	joaquin.ns.cloudflare.com.
 pinghub.hidns.co.	0	IN	A	3.75.170.179
@@ -2043,8 +2048,8 @@ check.socks5.scun.hidns.co.	0	IN	CNAME	cf-workers-checksocks5-b1j.pages.dev.
 socks5.sub.scun.hidns.co.	0	IN	CNAME	socks2vlesssub-6qu.pages.dev.
 sub.scx.hidns.co.	0	IN	CNAME	zimlddfgsqki.us-west-1.clawcloudrun.com.
 sdgpds.hidns.co.	0	IN	A	23.94.37.117
-ssh.sdrive33.hidns.co.	0	IN	CNAME	rgpwndew.us-west-1.clawcloudrun.com.
-subapi.sdrive33.hidns.co.	0	IN	CNAME	yxjrsgwykucs.us-west-1.clawcloudrun.com.
+sdrive33.hidns.co.	0	IN	NS	shaz.ns.cloudflare.com.
+sdrive33.hidns.co.	0	IN	NS	nicolas.ns.cloudflare.com.
 sdxkrs11.hidns.co.	0	IN	A	61.224.83.116
 sea.hidns.co.	0	IN	A	5.123.108.115
 searc.hidns.co.	0	IN	A	5.123.108.38
@@ -2185,8 +2190,8 @@ students.hidns.co.	0	IN	NS	fred.ns.cloudflare.com.
 students.hidns.co.	0	IN	NS	magali.ns.cloudflare.com.
 alist.studystudy.hidns.co.	0	IN	CNAME	wpadldav.ap-southeast-1.clawcloudrun.com.
 ssh.studystudy.hidns.co.	0	IN	CNAME	qxoxhjgg.ap-southeast-1.clawcloudrun.com.
-sub.hidns.co.	0	IN	NS	dns1.serv00.com.
-sub.hidns.co.	0	IN	NS	dns2.serv00.com.
+sub.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
+sub.hidns.co.	0	IN	NS	savanna.ns.cloudflare.com.
 sucloud.hidns.co.	0	IN	NS	dns1.serv00.com.
 sucloud.hidns.co.	0	IN	NS	dns2.serv00.com.
 suif.hidns.co.	0	IN	A	142.171.174.204
@@ -2254,8 +2259,8 @@ test.tensw.hidns.co.	0	IN	A	1.1.1.1
 www.tensw.hidns.co.	0	IN	A	1.1.1.1
 test.hidns.co.	0	IN	A	45.159.208.17
 188.test.hidns.co.	0	IN	A	45.159.208.17
-tgod.hidns.co.	0	IN	A	107.155.65.108
-blog.tgod.hidns.co.	0	IN	CNAME	gtian5418-github-io.pages.dev.
+tgod.hidns.co.	0	IN	NS	agustin.ns.cloudflare.com.
+tgod.hidns.co.	0	IN	NS	michelle.ns.cloudflare.com.
 thb.hidns.co.	0	IN	NS	ns1.gcorelabs.net.
 thb.hidns.co.	0	IN	NS	ns2.gcdn.services.
 the.hidns.co.	0	IN	A	31.223.184.41
@@ -2435,9 +2440,8 @@ wuu.wanou.hidns.co.	0	IN	CNAME	cname.yy2.0101.pw.
 home.way.hidns.co.	0	IN	CNAME	waynenet.pages.dev.
 web.hidns.co.	0	IN	NS	conrad.ns.cloudflare.com.
 web.hidns.co.	0	IN	NS	stella.ns.cloudflare.com.
-weibreeze.hidns.co.	0	IN	NS	ns1.dynv6.com.
-weibreeze.hidns.co.	0	IN	NS	ns2.dynv6.com.
-weibreeze.hidns.co.	0	IN	NS	ns3.dynv6.com.
+weibreeze.hidns.co.	0	IN	NS	hope.ns.cloudflare.com.
+weibreeze.hidns.co.	0	IN	NS	thomas.ns.cloudflare.com.
 wendoudou.hidns.co.	0	IN	A	203.174.83.24
 read.wendoudou.hidns.co.	0	IN	A	203.174.83.24
 xui.wendoudou.hidns.co.	0	IN	A	203.174.83.24
@@ -2447,7 +2451,8 @@ blog.westlord.hidns.co.	0	IN	CNAME	westlordnote.pages.dev.
 blog.westlord.westlord.hidns.co.	0	IN	CNAME	westlordnote.pages.dev.
 wgc.hidns.co.	0	IN	NS	fred.ns.cloudflare.com.
 wgc.hidns.co.	0	IN	NS	magali.ns.cloudflare.com.
-libre.wgck.hidns.co.	0	IN	CNAME	be8d812b.libre.wgck.hidns.co.dnsoe3.com.
+wgck.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
+wgck.hidns.co.	0	IN	NS	savanna.ns.cloudflare.com.
 wget.hidns.co.	0	IN	A	23.106.140.130
 who.hidns.co.	0	IN	A	107.172.230.254
 whois.hidns.co.	0	IN	A	216.198.79.1
@@ -2618,7 +2623,8 @@ xuk.hidns.co.	0	IN	NS	ns4.hostry.com.
 xunle.hidns.co.	0	IN	A	8.217.157.68
 xuqiqi007.hidns.co.	0	IN	A	119.8.93.26
 xwmz.hidns.co.	0	IN	A	38.93.203.39
-xxbb.hidns.co.	0	IN	A	182.43.16.252
+xxbb.hidns.co.	0	IN	NS	pam.ns.cloudflare.com.
+xxbb.hidns.co.	0	IN	NS	hans.ns.cloudflare.com.
 xxm.hidns.co.	0	IN	A	129.146.36.197
 blog.xxm.hidns.co.	0	IN	A	104.224.88.15
 ssh.xxm.hidns.co.	0	IN	CNAME	wifujgyo.us-east-1.clawcloudrun.com.
@@ -2750,8 +2756,8 @@ yyz.hidns.co.	0	IN	A	128.204.223.94
 yzfy.hidns.co.	0	IN	NS	dawn.ns.cloudflare.com.
 yzfy.hidns.co.	0	IN	NS	quincy.ns.cloudflare.com.
 yzgts.hidns.co.	0	IN	A	172.245.11.115
-yzzb.hidns.co.	0	IN	A	91.149.239.72
-zbtv.yzzb.hidns.co.	0	IN	CNAME	zbtv.pages.dev.
+yzzb.hidns.co.	0	IN	NS	garret.ns.cloudflare.com.
+yzzb.hidns.co.	0	IN	NS	joselyn.ns.cloudflare.com.
 z2002.hidns.co.	0	IN	A	34.146.71.156
 z333.hidns.co.	0	IN	A	89.251.26.14
 zaki.hidns.co.	0	IN	A	188.68.234.96
