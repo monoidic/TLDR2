@@ -48,6 +48,8 @@ ssh.188870.hidns.vip.	0	IN	CNAME	ezklpzzs.ap-northeast-1.clawcloudrun.com.
 2003.hidns.vip.	0	IN	A	34.146.71.156
 2025.hidns.vip.	0	IN	A	188.68.248.50
 222.hidns.vip.	0	IN	A	185.77.226.144
+224sd.hidns.vip.	0	IN	NS	hal.ns.cloudflare.com.
+224sd.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
 333.hidns.vip.	0	IN	A	89.185.123.56
 360.hidns.vip.	0	IN	NS	ns1.ccccocccc.cc.
 360.hidns.vip.	0	IN	NS	ns2.ccccocccc.cc.
@@ -375,7 +377,8 @@ cache.hidns.vip.	0	IN	A	91.103.122.46
 caijin.hidns.vip.	0	IN	A	45.252.59.65
 00o00o00.canmy777.hidns.vip.	0	IN	CNAME	00o00o00.pages.dev.
 ddns.canmy777.hidns.vip.	0	IN	A	104.17.45.169
-caobi.hidns.vip.	0	IN	A	172.247.18.66
+caobi.hidns.vip.	0	IN	NS	fred.ns.cloudflare.com.
+caobi.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
 caoxian.hidns.vip.	0	IN	A	154.40.37.165
 cardshop.hidns.vip.	0	IN	A	8.210.49.71
 www.cardshop.hidns.vip.	0	IN	A	8.210.49.71
@@ -643,8 +646,8 @@ equity.hidns.vip.	0	IN	A	188.68.24.227
 eric.hidns.vip.	0	IN	A	1.1.1.1
 eric.hidns.vip.	0	IN	A	8.8.8.8
 119.etime.hidns.vip.	0	IN	A	119.29.104.68
-img.eva.hidns.vip.	0	IN	CNAME	vimg.pages.dev.
-minecraft.eva.hidns.vip.	0	IN	CNAME	vhexo.pages.dev.
+eva.hidns.vip.	0	IN	NS	ada.ns.cloudflare.com.
+eva.hidns.vip.	0	IN	NS	nico.ns.cloudflare.com.
 example.hidns.vip.	0	IN	NS	ns1.teodns.com.
 example.hidns.vip.	0	IN	NS	ns2.teodns.com.
 exit.hidns.vip.	0	IN	A	38.247.80.164
@@ -1531,10 +1534,8 @@ opschool.hidns.vip.	0	IN	NS	ns4.server4.webhostmost.com.
 org.hidns.vip.	0	IN	A	212.91.26.79
 orz.hidns.vip.	0	IN	A	213.35.10.5
 1.orz.hidns.vip.	0	IN	CNAME	linux.do.
-otherbanana.hidns.vip.	0	IN	A	158.180.92.106
-blog.otherbanana.hidns.vip.	0	IN	A	152.69.224.154
-panel.otherbanana.hidns.vip.	0	IN	A	152.69.224.154
-ssh.otherbanana.hidns.vip.	0	IN	CNAME	ygoovqjv.ap-northeast-1.clawcloudrun.com.
+otherbanana.hidns.vip.	0	IN	NS	jo.ns.cloudflare.com.
+otherbanana.hidns.vip.	0	IN	NS	norm.ns.cloudflare.com.
 ovo.hidns.vip.	0	IN	A	172.245.32.90
 cdn.ovo.hidns.vip.	0	IN	CNAME	vercel-cname.xingpingcn.top.
 blog.oxo.hidns.vip.	0	IN	CNAME	git80123-github-io.pages.dev.
@@ -1886,7 +1887,8 @@ ssh.tdx.hidns.vip.	0	IN	CNAME	zeqxykxo.us-east-1.clawcloudrun.com.
 subapi.tdx.hidns.vip.	0	IN	CNAME	vwcqlybrexpj.eu-central-1.clawcloudrun.com.
 team.hidns.vip.	0	IN	NS	alaric.ns.cloudflare.com.
 team.hidns.vip.	0	IN	NS	karsyn.ns.cloudflare.com.
-tech.hidns.vip.	0	IN	A	31.186.87.211
+tech.hidns.vip.	0	IN	NS	fred.ns.cloudflare.com.
+tech.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
 sub.tecom.hidns.vip.	0	IN	CNAME	tnuixxcbhfde.eu-central-1.clawcloudrun.com.
 teletubby.hidns.vip.	0	IN	A	58.176.103.249
 ten.hidns.vip.	0	IN	A	116.49.241.140
@@ -2394,7 +2396,8 @@ z2002.hidns.vip.	0	IN	NS	keanu.ns.cloudflare.com.
 z2002.hidns.vip.	0	IN	NS	teresa.ns.cloudflare.com.
 z333.hidns.vip.	0	IN	A	89.251.26.14
 zcf.z333.hidns.vip.	0	IN	CNAME	z888.pages.dev.
-zaki.hidns.vip.	0	IN	A	188.68.234.96
+zaki.hidns.vip.	0	IN	NS	clara.ns.cloudflare.com.
+zaki.hidns.vip.	0	IN	NS	braden.ns.cloudflare.com.
 dy.zaofu.hidns.vip.	0	IN	CNAME	sub-web-modify-41s.pages.dev.
 misub.zaofu.hidns.vip.	0	IN	CNAME	misub-7vr.pages.dev.
 sub.zaofu.hidns.vip.	0	IN	CNAME	workervless2sub-6lz.pages.dev.
