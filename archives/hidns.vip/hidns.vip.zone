@@ -1601,9 +1601,8 @@ proversion.hidns.vip.	0	IN	A	107.173.230.97
 pusen.hidns.vip.	0	IN	A	111.119.250.210
 pusen.pusen.hidns.vip.	0	IN	CNAME	photo-evu.pages.dev.
 puyudjxkdgds.hidns.vip.	0	IN	A	217.160.33.178
-pve.hidns.vip.	0	IN	A	104.16.0.1
-pve.hidns.vip.	0	IN	AAAA	2606:4700:57::1
-_acme-challenge.pve.hidns.vip.	0	IN	CNAME	pve.hidns.vip.ed5a41db41ed1ca0.dcv.cloudflare.com.
+pve.hidns.vip.	0	IN	NS	sima.ns.cloudflare.com.
+pve.hidns.vip.	0	IN	NS	thomas.ns.cloudflare.com.
 pwh.hidns.vip.	0	IN	NS	major.ns.cloudflare.com.
 pwh.hidns.vip.	0	IN	NS	cortney.ns.cloudflare.com.
 pwzx.hidns.vip.	0	IN	A	140.238.165.14
