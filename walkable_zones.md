@@ -9,6 +9,7 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
+* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -19,6 +20,7 @@
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
+* `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
@@ -28,6 +30,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -39,6 +42,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -73,6 +77,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -89,7 +94,6 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -106,6 +110,7 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -154,6 +159,7 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
+* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -199,6 +205,8 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
+* `k12.wi.us.`
+* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -232,6 +240,7 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
+* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -262,19 +271,19 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
-* `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -294,14 +303,15 @@
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -321,6 +331,7 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
+* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -333,6 +344,8 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
+* `salvador.br.`
+* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
@@ -348,6 +361,7 @@
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
+* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -373,7 +387,6 @@
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
