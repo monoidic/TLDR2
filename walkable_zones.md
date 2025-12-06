@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
@@ -25,6 +26,7 @@
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
+* `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
@@ -99,8 +101,10 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -109,12 +113,14 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -231,7 +237,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -293,7 +298,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
