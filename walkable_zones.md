@@ -27,7 +27,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -53,6 +52,7 @@
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
+* `bet.br.`
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
@@ -197,6 +197,7 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
+* `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
@@ -273,6 +274,7 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -307,6 +309,7 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -321,6 +324,7 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
+* `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
@@ -398,6 +402,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
