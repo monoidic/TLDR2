@@ -27,6 +27,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -183,7 +184,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -204,7 +204,6 @@
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
-* `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
@@ -240,7 +239,6 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
@@ -258,7 +256,6 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
-* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -266,7 +263,6 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -373,7 +369,6 @@
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
-* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
@@ -402,7 +397,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
