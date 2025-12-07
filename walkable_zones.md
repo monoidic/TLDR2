@@ -23,6 +23,7 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
+* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -80,7 +81,6 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
@@ -97,8 +97,8 @@
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
-* `curitiba.br.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -136,7 +136,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -191,6 +190,7 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
+* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -247,6 +247,7 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
+* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -258,7 +259,6 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
-* `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -286,6 +286,7 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -326,7 +327,6 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -341,6 +341,7 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -382,6 +383,7 @@
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
+* `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
@@ -395,7 +397,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
