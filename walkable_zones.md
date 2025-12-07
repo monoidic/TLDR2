@@ -24,6 +24,7 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -100,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -226,6 +228,7 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -361,6 +364,7 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
@@ -400,6 +404,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
