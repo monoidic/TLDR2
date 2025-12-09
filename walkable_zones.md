@@ -1,15 +1,14 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
+* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -98,8 +97,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -160,6 +157,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -363,6 +361,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
