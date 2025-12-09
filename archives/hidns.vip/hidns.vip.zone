@@ -622,7 +622,8 @@ blog.easycdn.hidns.vip.	0	IN	CNAME	blog.easycdn.hidns.vip.eo.dnse4.com.
 check.easycdn.hidns.vip.	0	IN	CNAME	check.easycdn.hidns.vip.eo.dnse4.com.
 tsuenwan.hongkong.easycdn.hidns.vip.	0	IN	AAAA	2a14:67c0:302:56::a
 tsuenwan.hongkong.sg.easycdn.hidns.vip.	0	IN	AAAA	2406:da18:3cb:c2aa:a811:faa9:3b7b:37d2
-echo.hidns.vip.	0	IN	A	45.78.56.68
+echo.hidns.vip.	0	IN	NS	liv.ns.cloudflare.com.
+echo.hidns.vip.	0	IN	NS	bart.ns.cloudflare.com.
 edog.hidns.vip.	0	IN	NS	ns1.he.net.
 edog.hidns.vip.	0	IN	NS	ns2.he.net.
 edog.hidns.vip.	0	IN	NS	ns3.he.net.
@@ -1573,7 +1574,6 @@ cloud.pass0716.hidns.vip.	0	IN	A	45.221.115.101
 webssh.pax.hidns.vip.	0	IN	CNAME	omdxehxf.eu-central-1.clawcloudrun.com.
 pay.hidns.vip.	0	IN	A	185.31.40.13
 www.pay.hidns.vip.	0	IN	A	185.31.40.13
-1panel.peaceg.hidns.vip.	0	IN	A	142.171.157.91
 ip.peanut.hidns.vip.	0	IN	CNAME	ip.peanut.tk.
 peb911.hidns.vip.	0	IN	A	45.144.115.25
 pedroneer.hidns.vip.	0	IN	A	104.21.5.9
@@ -2202,6 +2202,8 @@ xbb.hidns.vip.	0	IN	A	103.195.189.214
 xbc.hidns.vip.	0	IN	A	140.235.39.228
 xbo.hidns.vip.	0	IN	A	132.145.81.119
 xdesign.hidns.vip.	0	IN	A	103.149.249.232
+xfwwl.hidns.vip.	0	IN	NS	melina.ns.cloudflare.com.
+xfwwl.hidns.vip.	0	IN	NS	quentin.ns.cloudflare.com.
 sub.xgmp.hidns.vip.	0	IN	CNAME	ayrhljlgfprs.us-west-1.clawcloudrun.com.
 xiangliudev.hidns.vip.	0	IN	A	37.123.193.39
 xiangming.hidns.vip.	0	IN	A	85.232.241.109
@@ -2248,8 +2250,8 @@ xin.hidns.vip.	0	IN	A	113.45.184.219
 hw.xin.hidns.vip.	0	IN	A	113.45.184.219
 xingguang.hidns.vip.	0	IN	A	89.208.247.70
 subapi.xinghui.hidns.vip.	0	IN	CNAME	qknauqqvdmgs.eu-central-1.clawcloudrun.com.
-xingshuang.hidns.vip.	0	IN	NS	fred.ns.cloudflare.com.
-xingshuang.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
+xingshuang.hidns.vip.	0	IN	NS	aaden.ns.cloudflare.com.
+xingshuang.hidns.vip.	0	IN	NS	sloan.ns.cloudflare.com.
 xingyi.hidns.vip.	0	IN	A	129.150.35.209
 xio.hidns.vip.	0	IN	NS	amanda.ns.cloudflare.com.
 xio.hidns.vip.	0	IN	NS	everton.ns.cloudflare.com.
