@@ -40,6 +40,7 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -114,6 +115,7 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -122,6 +124,7 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
+* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -171,6 +174,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -183,7 +187,6 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -191,6 +194,7 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
+* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -328,6 +332,7 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
