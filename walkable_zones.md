@@ -1,12 +1,11 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.ch.`
+* `12hp.at.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
-* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4u.com.`
@@ -26,7 +25,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -39,13 +37,11 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
-* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -94,9 +90,9 @@
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
-* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -198,7 +194,6 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
@@ -243,19 +238,16 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
-* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -279,10 +271,8 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
-* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
@@ -296,6 +286,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -304,7 +295,6 @@
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
-* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
@@ -342,7 +332,6 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -361,7 +350,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -400,6 +388,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
