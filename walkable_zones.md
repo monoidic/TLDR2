@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -31,6 +30,7 @@
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -100,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -146,6 +147,7 @@
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
+* `fortal.br.`
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
@@ -170,6 +172,7 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
+* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -382,6 +385,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
