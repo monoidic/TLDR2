@@ -2,6 +2,7 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -70,7 +71,6 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
-* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -111,7 +111,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -154,14 +153,12 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
-* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -183,7 +180,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -285,7 +281,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -307,7 +302,6 @@
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -322,12 +316,10 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
-* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
@@ -402,6 +394,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
