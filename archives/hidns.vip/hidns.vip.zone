@@ -5,11 +5,8 @@ hidns.vip.	0	IN	AAAA	2603:c020:15:a700:ae98:750:3d62:2933
 hidns.vip.	0	IN	DNSKEY	257 3 13 NbgQSx40TpcMZsh1LVeOxXeQrKSDKZCqWDdEIgLfwXngIQRlHxcg6FYCgNhJSdR825+SROu+bRPcxVPePb4bNg== ;{id = 18951 (ksk), size = 256b}
 000.hidns.vip.	0	IN	A	34.120.54.55
 000.hidns.vip.	0	IN	AAAA	2600:1901:0:6d85::
-011203.hidns.vip.	0	IN	A	185.199.108.153
-011203.hidns.vip.	0	IN	A	185.199.109.153
-011203.hidns.vip.	0	IN	A	185.199.110.153
-011203.hidns.vip.	0	IN	A	185.199.111.153
-www.011203.hidns.vip.	0	IN	CNAME	chenxuan520.github.io.
+011203.hidns.vip.	0	IN	NS	fred.ns.cloudflare.com.
+011203.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
 0553.hidns.vip.	0	IN	NS	dns1.p02.nsone.net.
 0553.hidns.vip.	0	IN	NS	dns2.p02.nsone.net.
 0553.hidns.vip.	0	IN	NS	dns3.p02.nsone.net.
