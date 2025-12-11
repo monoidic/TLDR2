@@ -17,7 +17,9 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
+* `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
@@ -73,6 +75,7 @@
 * `ch.`
 * `christmas.`
 * `ci.`
+* `cim.br.`
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
@@ -98,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -136,7 +138,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -169,6 +170,7 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
+* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -216,8 +218,6 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -257,6 +257,7 @@
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
+* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -277,9 +278,11 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
+* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -291,6 +294,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -315,6 +319,7 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -327,6 +332,7 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
+* `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
@@ -334,6 +340,8 @@
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
+* `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -342,6 +350,7 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
+* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
@@ -349,6 +358,7 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
+* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
