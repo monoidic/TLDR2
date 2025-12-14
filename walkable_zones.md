@@ -2,8 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -29,6 +27,7 @@
 * `am.br.`
 * `am.gov.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -36,8 +35,8 @@
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
+* `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -56,6 +55,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -84,9 +84,11 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
+* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
+* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
@@ -128,6 +130,7 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
+* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -157,6 +160,7 @@
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
+* `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
@@ -207,7 +211,6 @@
 * `kz.`
 * `lactld.org.`
 * `lb.`
-* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -223,6 +226,7 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
+* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -243,6 +247,7 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
+* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
@@ -257,9 +262,9 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -267,7 +272,6 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -287,6 +291,8 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `ong.br.`
+* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -296,6 +302,7 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -314,6 +321,7 @@
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
+* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
@@ -336,6 +344,7 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
+* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
@@ -361,6 +370,7 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
+* `the.br.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -385,6 +395,7 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
+* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
