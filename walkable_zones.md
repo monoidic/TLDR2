@@ -9,12 +9,12 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
+* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -29,7 +29,6 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -38,6 +37,7 @@
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
+* `art.br.`
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
@@ -95,8 +95,8 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
+* `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -105,6 +105,7 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dns.md.`
@@ -112,6 +113,7 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -124,8 +126,6 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
-* `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -212,6 +212,7 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
+* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -220,7 +221,6 @@
 * `lk.`
 * `log.br.`
 * `lol.`
-* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -326,11 +326,11 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
+* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
-* `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
@@ -345,11 +345,9 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
-* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
-* `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
@@ -397,7 +395,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
