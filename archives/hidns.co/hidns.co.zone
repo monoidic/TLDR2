@@ -443,10 +443,8 @@ caoxian.hidns.co.	0	IN	A	154.40.37.165
 worldnetworkpass.cap.hidns.co.	0	IN	CNAME	worldnetworkpass.pages.dev.
 www.cardinal.hidns.co.	0	IN	CNAME	cdn.cardinal.qzz.io.
 carparts.hidns.co.	0	IN	A	64.64.241.175
-carrier.hidns.co.	0	IN	NS	dns1.p04.nsone.net.
-carrier.hidns.co.	0	IN	NS	dns2.p04.nsone.net.
-carrier.hidns.co.	0	IN	NS	dns3.p04.nsone.net.
-carrier.hidns.co.	0	IN	NS	dns4.p04.nsone.net.
+carrier.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
+carrier.hidns.co.	0	IN	NS	savanna.ns.cloudflare.com.
 casks.hidns.co.	0	IN	NS	ns1.gcorelabs.net.
 casks.hidns.co.	0	IN	NS	ns2.gcdn.services.
 cat.hidns.co.	0	IN	NS	ns1.hostry.com.
@@ -1125,7 +1123,8 @@ it.iicc.hidns.co.	0	IN	A	132.226.145.107
 tools.iicc.hidns.co.	0	IN	A	47.79.38.92
 iii.hidns.co.	0	IN	A	115.52.172.230
 h.iii.hidns.co.iii.hidns.co.	0	IN	A	115.52.172.230
-ssh.ikoiku.hidns.co.	0	IN	CNAME	bjqaolqp.ap-northeast-1.clawcloudrun.com.
+ikoiku.hidns.co.	0	IN	NS	vita.ns.cloudflare.com.
+ikoiku.hidns.co.	0	IN	NS	ridge.ns.cloudflare.com.
 iksd.hidns.co.	0	IN	A	103.149.249.232
 ssh.ikytek.hidns.co.	0	IN	CNAME	bxaagatr.ap-northeast-1.clawcloudrun.com.
 imatrix.hidns.co.	0	IN	A	103.4.30.139
