@@ -12,7 +12,6 @@
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
-* `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
@@ -101,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -115,7 +115,6 @@
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
-* `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
@@ -182,12 +181,12 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
 * `imb.br.`
-* `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
@@ -215,7 +214,6 @@
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
-* `lel.br.`
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
@@ -286,6 +284,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -298,7 +297,6 @@
 * `ong.br.`
 * `or.id.`
 * `org.bd.`
-* `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
