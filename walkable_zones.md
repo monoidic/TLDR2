@@ -38,6 +38,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -54,6 +55,7 @@
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
+* `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
@@ -68,7 +70,6 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
-* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -82,6 +83,7 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -92,7 +94,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -283,6 +284,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -338,6 +340,7 @@
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
+* `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
@@ -372,7 +375,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
