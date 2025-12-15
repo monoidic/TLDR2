@@ -16,8 +16,6 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
-* `ac.id.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -36,6 +34,7 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -52,6 +51,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -71,7 +71,6 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
-* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
@@ -100,7 +99,6 @@
 * `det.br.`
 * `dev.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -117,6 +115,7 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
+* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -126,7 +125,6 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -159,8 +157,8 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
-* `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -169,6 +167,7 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -183,12 +182,14 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
+* `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
+* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
-* `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
@@ -219,15 +220,14 @@
 * `md.`
 * `med.br.`
 * `mil.br.`
-* `mil.id.`
 * `mil.kz.`
+* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -253,13 +253,11 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.guitars.`
+* `nic.game.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
-* `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -267,8 +265,8 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
 * `nom.za.`
-* `not.br.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -298,11 +296,11 @@
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
-* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
@@ -321,7 +319,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sch.id.`
 * `se.`
 * `se.gov.br.`
 * `seg.br.`
@@ -334,6 +331,7 @@
 * `sorocaba.br.`
 * `srv.br.`
 * `stackhero-network.com.`
+* `store.ve.`
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
@@ -359,9 +357,9 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
-* `wiki.br.`
+* `web.ve.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
