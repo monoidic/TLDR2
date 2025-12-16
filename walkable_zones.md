@@ -5,6 +5,7 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
+* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -87,6 +88,7 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
+* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
@@ -97,6 +99,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -129,6 +132,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -159,6 +163,7 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -173,11 +178,13 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -240,6 +247,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -261,9 +269,11 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -281,6 +291,7 @@
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
+* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -335,10 +346,12 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
+* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
@@ -351,6 +364,7 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
