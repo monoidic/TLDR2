@@ -109,6 +109,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -253,7 +254,6 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -271,7 +271,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -285,6 +284,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
