@@ -60,7 +60,6 @@
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
-* `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
@@ -197,7 +196,6 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -254,6 +252,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -267,10 +266,9 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -350,7 +348,6 @@
 * `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
-* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
@@ -385,7 +382,6 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
-* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
@@ -401,7 +397,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
