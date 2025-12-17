@@ -7,6 +7,7 @@
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
+* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -287,6 +288,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
