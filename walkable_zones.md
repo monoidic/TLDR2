@@ -9,7 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -101,7 +100,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -109,7 +107,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -282,7 +279,6 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
@@ -403,6 +399,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
