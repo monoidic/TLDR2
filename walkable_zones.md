@@ -20,7 +20,6 @@
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
-* `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
@@ -28,9 +27,9 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
+* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -58,9 +57,9 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
+* `boavista.br.`
 * `br.`
 * `bsb.br.`
 * `bt.`
@@ -85,6 +84,7 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
+* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -106,6 +106,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -163,7 +164,6 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -177,7 +177,6 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
-* `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
@@ -235,6 +234,7 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
+* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
@@ -263,10 +263,8 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -278,12 +276,12 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
-* `nom.ve.`
+* `nom.br.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -291,7 +289,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -314,6 +311,7 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -362,7 +360,6 @@
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
@@ -389,7 +386,6 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
-* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
