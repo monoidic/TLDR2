@@ -27,8 +27,10 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -80,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -96,7 +99,9 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -245,7 +250,6 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -261,6 +265,7 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -293,7 +298,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -344,6 +348,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -394,7 +399,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
