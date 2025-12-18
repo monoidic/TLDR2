@@ -136,12 +136,8 @@ ae8f88.hidns.vip.	0	IN	NS	pns14.cloudns.net.
 subapi.aeson.hidns.vip.	0	IN	CNAME	pcamnlwmpfrm.eu-central-1.clawcloudrun.com.
 afm.hidns.vip.	0	IN	A	38.129.136.51
 afqae.hidns.vip.	0	IN	A	98.150.104.93
-agent.hidns.vip.	0	IN	A	91.149.239.122
-u50.agent.hidns.vip.	0	IN	A	202.141.161.50
-u51.agent.hidns.vip.	0	IN	A	202.141.161.51
-u52.agent.hidns.vip.	0	IN	A	202.141.161.52
-u53.agent.hidns.vip.	0	IN	A	202.141.161.53
-u54.agent.hidns.vip.	0	IN	A	202.141.161.54
+agent.hidns.vip.	0	IN	NS	hal.ns.cloudflare.com.
+agent.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
 agi.hidns.vip.	0	IN	A	188.68.248.8
 sub.agi.agi.hidns.vip.	0	IN	CNAME	cf-workers-sub-v41.pages.dev.
 sub.agi.hidns.vip.	0	IN	CNAME	cf-workers-sub-v41.pages.dev.
@@ -1829,9 +1825,7 @@ sweet.hidns.vip.	0	IN	A	195.184.247.6
 edge.swoth.hidns.vip.	0	IN	CNAME	yg-149.pages.dev.
 geminiai.swoth.hidns.vip.	0	IN	CNAME	openai-gemini-15v.pages.dev.
 sub.swoth.hidns.vip.	0	IN	CNAME	jqplicctrojg.us-east-1.clawcloudrun.com.
-syj.hidns.vip.	0	IN	NS	zod.ns.cloudflare.com.
 syj.hidns.vip.	0	IN	NS	cora.ns.cloudflare.com.
-syj.hidns.vip.	0	IN	NS	demi.ns.cloudflare.com.
 syj.hidns.vip.	0	IN	NS	remy.ns.cloudflare.com.
 sync.hidns.vip.	0	IN	NS	trey.ns.cloudflare.com.
 sync.hidns.vip.	0	IN	NS	savanna.ns.cloudflare.com.
