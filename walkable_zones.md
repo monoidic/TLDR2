@@ -109,7 +109,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -122,6 +121,7 @@
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
+* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -146,6 +146,7 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
+* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -211,6 +212,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -283,7 +285,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -296,6 +297,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -331,6 +333,7 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
+* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -353,6 +356,7 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
+* `sch.id.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
