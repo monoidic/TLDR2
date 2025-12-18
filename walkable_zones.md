@@ -8,7 +8,6 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -101,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -108,7 +108,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -137,7 +136,6 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -303,6 +301,7 @@
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
+* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -362,6 +361,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -379,7 +379,6 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
