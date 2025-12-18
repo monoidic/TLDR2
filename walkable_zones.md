@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -78,6 +79,7 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
+* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
@@ -88,8 +90,10 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -111,12 +115,13 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
+* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
-* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -141,7 +146,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -207,8 +211,8 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -271,6 +275,7 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -291,8 +296,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -328,7 +331,6 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
-* `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -351,7 +353,6 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
-* `sch.id.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
@@ -388,6 +389,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -402,4 +404,5 @@
 * `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
+* `xyz.br.`
 * `zlg.br.`
