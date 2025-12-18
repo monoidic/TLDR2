@@ -34,12 +34,15 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
+* `api.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -84,6 +87,7 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
+* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -95,8 +99,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -104,6 +108,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -136,6 +141,7 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -167,6 +173,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -258,6 +265,7 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -282,6 +290,7 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -294,7 +303,6 @@
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
-* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -335,6 +343,7 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -353,7 +362,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
