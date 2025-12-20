@@ -30,10 +30,8 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
-* `aparecida.br.`
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
@@ -134,7 +132,6 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -194,6 +191,7 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
+* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -230,6 +228,7 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
+* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -288,7 +287,7 @@
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
-* `nom.ve.`
+* `nom.br.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -323,6 +322,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -337,14 +337,13 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
