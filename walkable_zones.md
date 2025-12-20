@@ -41,6 +41,7 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -81,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -88,6 +90,7 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -124,6 +127,7 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
+* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
@@ -140,6 +144,7 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
+* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
@@ -215,6 +220,7 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
+* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -259,15 +265,16 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -291,6 +298,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -304,6 +312,7 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -324,12 +333,15 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
+* `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
