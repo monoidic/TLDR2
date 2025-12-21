@@ -27,7 +27,6 @@
 * `al.leg.br.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -41,6 +40,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -109,7 +109,6 @@
 * `diet.`
 * `dns.br.`
 * `dns.md.`
-* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -270,7 +269,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
