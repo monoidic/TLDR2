@@ -25,10 +25,8 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -41,7 +39,6 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -95,13 +92,11 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
-* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -110,7 +105,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -194,7 +188,6 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
-* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -208,7 +201,6 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -256,7 +248,6 @@
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
-* `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
@@ -272,7 +263,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -287,7 +277,6 @@
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
-* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -303,7 +292,6 @@
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
-* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -341,13 +329,11 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -364,7 +350,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -400,6 +385,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
