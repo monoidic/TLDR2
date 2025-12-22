@@ -101,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -108,9 +109,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dns.md.`
-* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -179,7 +178,6 @@
 * `gv.ao.`
 * `hidns.co.`
 * `hidns.vip.`
-* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
@@ -191,7 +189,6 @@
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
-* `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
@@ -254,7 +251,6 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
-* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -314,7 +310,6 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -389,6 +384,7 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
