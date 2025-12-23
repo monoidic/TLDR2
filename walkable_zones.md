@@ -9,7 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
@@ -88,22 +87,17 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
-* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
-* `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
-* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
@@ -115,7 +109,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -124,7 +117,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -151,6 +143,7 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
+* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -170,9 +163,9 @@
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
+* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
-* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -184,6 +177,7 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -197,7 +191,7 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `jab.br.`
+* `isla.pr.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
@@ -249,7 +243,7 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `name.pr.`
+* `mythic-beasts.com.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -260,7 +254,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -274,7 +267,6 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -356,8 +348,8 @@
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
@@ -392,7 +384,6 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
