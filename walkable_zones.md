@@ -43,6 +43,7 @@
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
+* `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -125,7 +126,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -202,6 +202,7 @@
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
+* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
@@ -244,11 +245,9 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -271,9 +270,9 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -367,6 +366,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
@@ -382,8 +382,8 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
-* `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
