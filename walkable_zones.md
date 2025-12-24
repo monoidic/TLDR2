@@ -5,6 +5,7 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
+* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -100,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -107,9 +109,11 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -207,7 +211,6 @@
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -260,6 +263,7 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
+* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -272,6 +276,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -292,6 +297,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -302,7 +308,6 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -339,7 +344,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -386,8 +390,6 @@
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
-* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
