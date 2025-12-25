@@ -18,6 +18,7 @@
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
+* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -107,6 +108,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -136,6 +138,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -295,7 +298,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -330,6 +332,7 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
@@ -365,6 +368,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -408,3 +412,4 @@
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
+* `zlg.br.`
