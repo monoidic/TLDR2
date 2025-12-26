@@ -1965,7 +1965,8 @@ radsystem.hidns.co.	0	IN	A	62.3.12.185
 rak.hidns.co.	0	IN	A	154.44.6.83
 rannj.hidns.co.	0	IN	A	45.196.219.82
 www.rayden.hidns.co.	0	IN	A	202.85.53.17
-rdx87.hidns.co.	0	IN	A	175.147.75.215
+rdx87.hidns.co.	0	IN	NS	frida.ns.cloudflare.com.
+rdx87.hidns.co.	0	IN	NS	harlan.ns.cloudflare.com.
 recar.hidns.co.	0	IN	A	142.171.110.13
 blog.red.hidns.co.	0	IN	A	165.1.76.150
 regcdn.hidns.co.	0	IN	A	193.38.248.11
@@ -2820,12 +2821,8 @@ zmm.hidns.co.	0	IN	A	198.12.95.225
 znb.hidns.co.	0	IN	NS	vick.ns.cloudflare.com.
 znb.hidns.co.	0	IN	NS	eloise.ns.cloudflare.com.
 zohar.hidns.co.	0	IN	A	142.171.168.234
-zone.hidns.co.	0	IN	A	103.137.185.66
-zone.hidns.co.	0	IN	MX	5 mx1.qiye.aliyun.com.
-zone.hidns.co.	0	IN	MX	10 mx2.qiye.aliyun.com.
-zone.hidns.co.	0	IN	MX	15 mx3.qiye.aliyun.com.
-mail.zone.hidns.co.	0	IN	CNAME	qiye.aliyun.com.
-www.zone.hidns.co.	0	IN	A	103.137.185.66
+zone.hidns.co.	0	IN	NS	donna.ns.cloudflare.com.
+zone.hidns.co.	0	IN	NS	carter.ns.cloudflare.com.
 blog.zoneyan.hidns.co.	0	IN	CNAME	zoneyan00-github-io.pages.dev.
 zor.hidns.co.	0	IN	NS	ns2.he.net.
 zor.hidns.co.	0	IN	NS	ns3.he.net.
