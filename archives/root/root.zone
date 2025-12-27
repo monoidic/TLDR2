@@ -11594,11 +11594,19 @@ music.	0	IN	NS	ns01.trs-dns.net.
 music.	0	IN	NS	ns10.trs-dns.org.
 music.	0	IN	NS	ns10.trs-dns.info.
 music.	0	IN	DS	14632 13 2 68f411322e670c84337b2182422af6e8f95c367c24e79cd4326b2276f52f4603
+mv.	0	IN	NS	ns.mv.
 mv.	0	IN	NS	ns.dhivehinet.net.mv.
 mv.	0	IN	NS	ns2.dhivehinet.net.mv.
+mv.	0	IN	NS	boli.ns.mv.
 mv.	0	IN	NS	mv-ns.anycast.pch.net.
+mv.	0	IN	NS	sangu.ns.mv.
 ns.dhivehinet.net.mv.	0	IN	A	202.1.192.196
 ns2.dhivehinet.net.mv.	0	IN	A	202.1.201.201
+ns.mv.	0	IN	A	202.1.192.196
+boli.ns.mv.	0	IN	A	103.31.84.199
+boli.ns.mv.	0	IN	AAAA	2406:e400:a:1::1
+sangu.ns.mv.	0	IN	A	27.114.188.1
+sangu.ns.mv.	0	IN	AAAA	2406:e400:1:1::1
 mw.	0	IN	NS	mw.cctld.authdns.ripe.net.
 mw.	0	IN	NS	ns4.apnic.net.
 mw.	0	IN	NS	rip.psg.com.
@@ -11986,6 +11994,7 @@ ls-ns.anycast.pch.net.	0	IN	AAAA	2001:500:14:6028:ad::1
 ms-ns.anycast.pch.net.	0	IN	A	204.61.216.33
 ms-ns.anycast.pch.net.	0	IN	AAAA	2001:500:14:6033:ad::1
 mv-ns.anycast.pch.net.	0	IN	A	204.61.216.24
+mv-ns.anycast.pch.net.	0	IN	AAAA	2001:500:14:6024:ad::1
 na-ns.anycast.pch.net.	0	IN	A	204.61.216.35
 na-ns.anycast.pch.net.	0	IN	AAAA	2001:500:14:6035:ad::1
 xn--node.ns.anycast.pch.net.	0	IN	A	204.61.216.88
