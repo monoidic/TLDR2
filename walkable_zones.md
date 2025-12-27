@@ -6,6 +6,7 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -14,6 +15,7 @@
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
+* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -52,6 +54,7 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -91,6 +94,7 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
+* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
@@ -98,12 +102,13 @@
 * `cw.`
 * `cy.`
 * `def.br.`
+* `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -129,6 +134,7 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
+* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
@@ -155,6 +161,7 @@
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
+* `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
@@ -264,9 +271,11 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -288,6 +297,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -298,6 +308,7 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -306,10 +317,12 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
+* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -323,6 +336,7 @@
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
+* `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
@@ -370,6 +384,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
