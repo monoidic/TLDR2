@@ -54,12 +54,15 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
+* `bmd.br.`
+* `boavista.br.`
 * `br.`
 * `bsb.br.`
 * `bt.`
@@ -98,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -105,15 +109,17 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
+* `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -241,6 +247,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -259,6 +266,7 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -290,6 +298,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
