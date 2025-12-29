@@ -38,6 +38,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -94,6 +95,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -167,6 +169,7 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -232,6 +235,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
