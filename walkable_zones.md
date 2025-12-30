@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -47,6 +48,7 @@
 * `auto.`
 * `ax.`
 * `b.br.`
+* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -80,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -91,10 +94,10 @@
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
+* `curitiba.br.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -105,7 +108,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -115,10 +117,10 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
-* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
+* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -128,10 +130,8 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -178,7 +178,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -201,11 +200,12 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
+* `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -219,6 +219,7 @@
 * `lol.`
 * `londrina.br.`
 * `lr.`
+* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
@@ -257,6 +258,7 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -287,6 +289,8 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -314,9 +318,12 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
+* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -347,6 +354,7 @@
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -360,7 +368,6 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.br.`
-* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
@@ -371,7 +378,6 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
-* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
