@@ -101,12 +101,12 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dnsking.ch.`
 * `dnsnode.net.`
@@ -273,7 +273,6 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -386,7 +385,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
