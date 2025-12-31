@@ -30,6 +30,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -54,6 +55,7 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
+* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -97,7 +99,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -119,6 +120,7 @@
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
+* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -250,6 +252,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -271,6 +274,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -317,6 +321,7 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -333,6 +338,7 @@
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
+* `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
@@ -346,6 +352,7 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
+* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -354,6 +361,7 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
+* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
@@ -374,6 +382,7 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
+* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
@@ -390,7 +399,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
