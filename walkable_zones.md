@@ -16,7 +16,6 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
-* `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
@@ -59,7 +58,6 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -105,11 +103,10 @@
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dnsking.ch.`
+* `dns.br.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -134,11 +131,9 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
-* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
-* `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
@@ -149,7 +144,6 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
-* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -219,7 +213,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -260,7 +253,6 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
-* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
@@ -319,20 +311,16 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
-* `psc.br.`
 * `psg.com.`
 * `psi.br.`
-* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
-* `recife.br.`
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
@@ -342,7 +330,6 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
-* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
@@ -384,12 +371,10 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
-* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
