@@ -101,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -111,7 +110,6 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -285,7 +283,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
