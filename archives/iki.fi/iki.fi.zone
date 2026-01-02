@@ -16,8 +16,8 @@ iki.fi.	0	IN	AAAA	2a0b:5c81:1c1::42
 iki.fi.	0	IN	NAPTR	10 10 "s" "SIP+D2U" "" _sip._udp.iki.fi.
 iki.fi.	0	IN	DNSKEY	256 3 13 XAN6TqQFZsEd3A/zyy3oDmXxV0nSaVKbN6q8dBigUEfelvIeiWD2z8GliAxVslFAZHpMs6zOv3CmpY8EGlqBBQ== ;{id = 13690 (zsk), size = 256b}
 iki.fi.	0	IN	DNSKEY	257 3 13 tP7Shl/VSLN1jF8vB/mpHhhrIi7wuwsibYoyhfBvHFC5sEJOwsW6ztWglXDL8S+ozAwAjGd7IM5hTByvYnBhOw== ;{id = 5119 (ksk), size = 256b}
-_25._tcp.iki.fi.	0	IN	TLSA	2 0 1 23e783b70c4a922244ea1095f14b1c26aa1aac094b12c03e2ac2830b421c32f1
-_25._tcp.iki.fi.	0	IN	TLSA	2 0 2 3d543ef2e2a8800b55b6b806219ceac4e0e2d1fd2a92e37986717784be28fd1ec8993cfe33a15f3fa4a02e168aeef99bc77ddce10233de2e6ed8f111e5a52b81
+_25._tcp.iki.fi.	0	IN	TLSA	2 1 1 766502e52bf98e687beb99b0f8265e09a3402a1596609ecfb5566440beded36b
+_25._tcp.iki.fi.	0	IN	TLSA	2 1 2 03f1781eabf0948c37a60751a149638a7e151b041cafca423ada50c3a59b6923f57bd646e008b0420371a5cceaa1a6388812ae7a9d61512433aaa8fc5bee4bb5
 _443._tcp.iki.fi.	0	IN	TLSA	2 1 1 025490860b498ab73c6a12f27a49ad5fe230fafe3ac8f6112c9b7d0aad46941d
 _443._tcp.iki.fi.	0	IN	TLSA	2 1 1 2bbad93ab5c79279ec121507f272cbe0c6647a3aae52e22f388afab426b4adba
 _443._tcp.iki.fi.	0	IN	TLSA	2 1 1 3586d4ecf070578cbd27aedce20b964e48bc149faeb9dad72f46b857869172b8
