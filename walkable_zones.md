@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -33,7 +32,6 @@
 * `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
-* `aparecida.br.`
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
@@ -114,7 +112,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -138,6 +135,7 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
+* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -276,7 +274,6 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -297,11 +294,9 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
-* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -317,7 +312,6 @@
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
-* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
