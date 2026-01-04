@@ -17,7 +17,6 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
-* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -39,7 +38,6 @@
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
-* `art.br.`
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
@@ -99,7 +97,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -109,7 +106,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -136,7 +132,6 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -158,7 +153,6 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -310,7 +304,6 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
