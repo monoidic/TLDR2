@@ -11,7 +11,6 @@ gov.ph.	0	IN	MX	10 aspmx3.googlemail.com.
 gov.ph.	0	IN	MX	15 ne-mail1.gov.ph.
 gov.ph.	0	IN	MX	16 ne-mail2.gov.ph.
 gov.ph.	0	IN	DNSKEY	256 3 13 crKhTlGjOJCBWsak04va/6jVmUi7I+Zx0fKGJclUHkoipJyRpzXpZLIg13hwFZNBOM93mA2K+4OCiKCzNjnOYA== ;{id = 31300 (zsk), size = 256b}
-gov.ph.	0	IN	DNSKEY	256 3 13 +0ZI3htUyinuYoE9B2A7JFt3PyCtGxEBUUdA5USz6FwkTijx1WORUF7if5rdwScVxoOa6q4FcLVjg7RknpBd9Q== ;{id = 9125 (zsk), size = 256b}
 gov.ph.	0	IN	DNSKEY	257 3 13 b9JFuC2mMsKwiPSqGKBkXf0s66yXNgShtMWL5S/Kc+kh3z6tPoZCUMfb7bmJ4F1kdTU7jqaZoBxdrWG00PzWXg== ;{id = 33207 (ksk), size = 256b}
 gov.ph.	0	IN	NSEC3PARAM	1 0 0 - 
 gov.ph.	0	IN	CDS	33207 13 2 26920f8bcd4d915110a62bd6acae8ab230f20c7b18efffcbdc604ec8be3ba8ae
@@ -1768,6 +1767,8 @@ dashboard.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
 dashboard.gov.ph.	0	IN	NS	ns4.dns.gov.ph.
 dashboard.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
 dashboard.gov.ph.	0	IN	NS	newscott.gov.ph.
+dasmawater.gov.ph.	0	IN	NS	ns1.dns-parking.com.
+dasmawater.gov.ph.	0	IN	NS	ns2.dns-parking.com.
 dasolpangasinan.gov.ph.	0	IN	NS	ns1.bluehost.com.
 dasolpangasinan.gov.ph.	0	IN	NS	ns2.bluehost.com.
 data.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
@@ -4649,9 +4650,8 @@ negosyocenter.gov.ph.	0	IN	NS	ns-351.awsdns-43.com.
 negosyocenter.gov.ph.	0	IN	NS	ns-835.awsdns-40.net.
 negosyocenter.gov.ph.	0	IN	NS	ns-1739.awsdns-25.co.uk.
 negosyocenter.gov.ph.	0	IN	NS	server2.dti.gov.ph.
-negros-occ.gov.ph.	0	IN	NS	ns1.digitalocean.com.
-negros-occ.gov.ph.	0	IN	NS	ns2.digitalocean.com.
-negros-occ.gov.ph.	0	IN	NS	ns3.digitalocean.com.
+negros-occ.gov.ph.	0	IN	NS	bill.ns.cloudflare.com.
+negros-occ.gov.ph.	0	IN	NS	lovisa.ns.cloudflare.com.
 nest.gov.ph.	0	IN	NS	ns3.dns.gov.ph.
 nest.gov.ph.	0	IN	NS	ns4.dns.gov.ph.
 nest.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
