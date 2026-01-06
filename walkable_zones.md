@@ -82,6 +82,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -110,6 +111,7 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -128,6 +130,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -216,6 +219,8 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
+* `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -298,6 +303,7 @@
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
+* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
