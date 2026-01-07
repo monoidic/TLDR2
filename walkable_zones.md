@@ -24,7 +24,6 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -38,7 +37,6 @@
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
-* `arq.br.`
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
@@ -76,8 +74,6 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
-* `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -125,7 +121,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -135,7 +130,6 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
-* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
@@ -145,7 +139,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -249,7 +242,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -286,16 +278,13 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
-* `ntr.br.`
 * `nu.`
 * `nx.gw.`
-* `odo.br.`
 * `ong.br.`
 * `onion.`
 * `or.id.`
@@ -311,7 +300,6 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
