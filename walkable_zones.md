@@ -49,6 +49,7 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -60,6 +61,7 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
+* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -68,6 +70,7 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
+* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -96,7 +99,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -139,7 +141,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -187,7 +188,9 @@
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
+* `ind.br.`
 * `ind.tn.`
+* `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
@@ -241,6 +244,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -293,6 +297,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -390,6 +395,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
