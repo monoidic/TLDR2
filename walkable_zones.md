@@ -101,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -157,6 +158,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -166,10 +168,12 @@
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
+* `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -276,6 +280,7 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
@@ -359,13 +364,13 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.br.`
