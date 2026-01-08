@@ -61,8 +61,10 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
+* `bmd.br.`
 * `boavista.br.`
 * `br.`
+* `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -123,7 +125,9 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
+* `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -176,8 +180,8 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
+* `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -204,6 +208,7 @@
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -230,6 +235,7 @@
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
+* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
@@ -253,6 +259,7 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
@@ -277,6 +284,7 @@
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
+* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -288,6 +296,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -383,7 +392,9 @@
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
