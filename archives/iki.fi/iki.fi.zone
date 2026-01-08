@@ -486,9 +486,7 @@ www.dt.iki.fi.	0	IN	CNAME	dt.iki.fi.
 dura.iki.fi.	0	IN	A	188.93.140.146
 dura.iki.fi.	0	IN	MX	10 dura.iki.fi.
 dura.iki.fi.	0	IN	RP	dura.iki.fi. .
-ebu.iki.fi.	0	IN	NS	ns.iki.fi.
-ebu.iki.fi.	0	IN	NS	ns1.fi.basen.net.
-ebu.iki.fi.	0	IN	NS	ns1.ecyrd.com.
+ebu.iki.fi.	0	IN	MX	100 mta-gw.infomaniak.ch.
 ebu.iki.fi.	0	IN	RP	ebu.iki.fi. .
 edelleen.iki.fi.	0	IN	A	212.16.98.2
 edelleen.iki.fi.	0	IN	HINFO	"NonAlpha" "NotBSD"
