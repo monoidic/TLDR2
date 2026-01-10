@@ -11,7 +11,6 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -28,7 +27,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -88,7 +86,6 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
-* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
@@ -99,9 +96,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -111,7 +106,6 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -133,14 +127,12 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -182,7 +174,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -230,7 +221,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -246,7 +236,6 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -259,7 +248,6 @@
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
-* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -283,11 +271,9 @@
 * `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
-* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -308,7 +294,6 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -322,7 +307,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -331,12 +315,10 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -367,7 +349,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
