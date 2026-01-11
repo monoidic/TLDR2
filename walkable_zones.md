@@ -2,6 +2,7 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -76,7 +77,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -94,12 +94,12 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
-* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -107,6 +107,8 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
+* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -177,8 +179,8 @@
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
+* `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -213,9 +215,7 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -257,6 +257,7 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
+* `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -274,10 +275,12 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
+* `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -294,7 +297,6 @@
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
-* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -303,6 +305,7 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -321,8 +324,6 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -361,7 +362,6 @@
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
@@ -377,6 +377,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
