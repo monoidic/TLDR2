@@ -77,6 +77,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -94,12 +95,13 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
+* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -181,9 +183,9 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -215,7 +217,9 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
+* `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -265,7 +269,6 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
-* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -274,7 +277,6 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
@@ -297,6 +299,7 @@
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -314,7 +317,6 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -324,6 +326,8 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
+* `realm.cz.`
+* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
