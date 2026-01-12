@@ -747,7 +747,6 @@ hhzy.hidns.vip.	0	IN	NS	ns1.server1.webhostmost.com.
 hhzy.hidns.vip.	0	IN	NS	ns2.server2.webhostmost.com.
 hhzy.hidns.vip.	0	IN	NS	ns3.server3.webhostmost.com.
 hhzy.hidns.vip.	0	IN	NS	ns4.server4.webhostmost.com.
-hi404.hidns.vip.	0	IN	A	34.92.54.58
 hiai.hidns.vip.	0	IN	NS	jaime.ns.cloudflare.com.
 hiai.hidns.vip.	0	IN	NS	sloan.ns.cloudflare.com.
 hicn.hidns.vip.	0	IN	NS	hal.ns.cloudflare.com.
@@ -1308,6 +1307,7 @@ newyork.hidns.vip.	0	IN	NS	toby.ns.cloudflare.com.
 newyork.hidns.vip.	0	IN	NS	elinore.ns.cloudflare.com.
 nezha.hidns.vip.	0	IN	NS	hal.ns.cloudflare.com.
 nezha.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
+nezha.hidns.vip.	0	IN	DS	2371 13 2 ae2e33b7e9096ea6293caeecc5985ad448f495f45be34faecbea994fb71232e0
 ngfc.hidns.vip.	0	IN	A	8.8.8.8
 pubapi.ngfc.hidns.vip.	0	IN	CNAME	tgykhgofgyvg.ap-northeast-1.clawcloudrun.com.
 nic.hidns.vip.	0	IN	NS	kara.ns.cloudflare.com.
@@ -1807,7 +1807,8 @@ fiji.tusiji.hidns.vip.	0	IN	CNAME	feluzi.pages.dev.
 fuyut.tusiji.hidns.vip.	0	IN	CNAME	luzil-dta.pages.dev.
 lin.tusiji.hidns.vip.	0	IN	A	104.18.211.254
 xinj.tusiji.hidns.vip.	0	IN	A	66.78.59.25
-tusu.hidns.vip.	0	IN	A	35.212.174.5
+tusu.hidns.vip.	0	IN	NS	magali.ns.cloudflare.com.
+tusu.hidns.vip.	0	IN	NS	alberto.ns.cloudflare.com.
 tvbb.hidns.vip.	0	IN	NS	ns1.server1.webhostmost.com.
 tvbb.hidns.vip.	0	IN	NS	ns2.server2.webhostmost.com.
 tvbb.hidns.vip.	0	IN	NS	ns3.server3.webhostmost.com.

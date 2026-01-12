@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -11,10 +10,10 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
-* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -39,7 +38,6 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
-* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -78,14 +76,12 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
-* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
-* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -95,7 +91,6 @@
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
-* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
@@ -166,7 +161,6 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -176,6 +170,7 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
@@ -208,7 +203,6 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -268,13 +262,11 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
-* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -322,7 +314,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -382,7 +373,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
@@ -406,6 +396,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
