@@ -32,7 +32,6 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
-* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -57,7 +56,6 @@
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
-* `bio.br.`
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
@@ -76,6 +74,7 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
+* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -84,13 +83,14 @@
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
+* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
+* `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -107,7 +107,6 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -233,7 +232,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -241,7 +239,6 @@
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
-* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
@@ -249,7 +246,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -260,10 +256,9 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
+* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -294,7 +289,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -343,7 +337,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -391,13 +384,13 @@
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
-* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
