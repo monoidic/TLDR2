@@ -5,6 +5,7 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
+* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -100,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -135,6 +137,7 @@
 * `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -152,6 +155,7 @@
 * `game.`
 * `gdn.`
 * `geo.br.`
+* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
@@ -172,6 +176,7 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
@@ -254,6 +259,7 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -268,13 +274,11 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
@@ -293,7 +297,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -359,6 +362,7 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
@@ -387,6 +391,7 @@
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
+* `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
@@ -401,6 +406,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
