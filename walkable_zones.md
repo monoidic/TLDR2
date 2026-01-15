@@ -67,6 +67,7 @@
 * `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
+* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -133,6 +134,7 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
+* `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
@@ -250,6 +252,7 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
+* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
@@ -268,6 +271,7 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -290,17 +294,22 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
 * `org.lb.`
+* `org.mn.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -383,6 +392,7 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
