@@ -17,6 +17,7 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -58,6 +59,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -89,6 +91,7 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -98,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -107,6 +111,7 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -114,6 +119,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -153,6 +159,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -235,10 +242,10 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
+* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -280,14 +287,13 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `ong.br.`
 * `or.id.`
@@ -360,7 +366,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -369,6 +374,7 @@
 * `store.ve.`
 * `tc.br.`
 * `tec.br.`
+* `tec.ve.`
 * `the.br.`
 * `tm.mc.`
 * `tmp.br.`
@@ -399,6 +405,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
