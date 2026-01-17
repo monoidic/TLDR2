@@ -39,7 +39,6 @@
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
-* `art.br.`
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
@@ -49,7 +48,6 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -61,6 +59,7 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
+* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -91,15 +90,15 @@
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
+* `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
+* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
-* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
@@ -125,7 +124,6 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -147,7 +145,6 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
-* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -155,7 +152,6 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -177,12 +173,13 @@
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -244,6 +241,7 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
+* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -267,7 +265,6 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -288,15 +285,18 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
+* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -335,6 +335,7 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
+* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
@@ -361,7 +362,6 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
-* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
@@ -371,9 +371,7 @@
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
-* `tmp.br.`
 * `tn.`
-* `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
@@ -399,6 +397,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
