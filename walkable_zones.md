@@ -87,7 +87,6 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -136,7 +135,6 @@
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -251,7 +249,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -288,11 +285,9 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -372,7 +367,6 @@
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.br.`
