@@ -11,7 +11,6 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -70,7 +69,6 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
-* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -264,7 +262,6 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
-* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -299,7 +296,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -332,7 +328,6 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -373,7 +368,6 @@
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.br.`
@@ -387,7 +381,6 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
-* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
@@ -400,7 +393,6 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
@@ -409,6 +401,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
