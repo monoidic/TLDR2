@@ -3,11 +3,9 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
-* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -107,12 +105,10 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -132,7 +128,6 @@
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
-* `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `far.br.`
@@ -157,7 +152,6 @@
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
-* `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
@@ -184,7 +178,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -208,10 +201,8 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -238,7 +229,6 @@
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
-* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
@@ -256,7 +246,6 @@
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
-* `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
@@ -304,7 +293,6 @@
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
-* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -319,7 +307,6 @@
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
-* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
@@ -347,7 +334,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -408,6 +394,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
