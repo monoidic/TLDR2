@@ -30,6 +30,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -84,7 +85,6 @@
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
-* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -100,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -112,7 +113,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -138,7 +138,6 @@
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -160,7 +159,6 @@
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
-* `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
@@ -255,7 +253,6 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
-* `net.bd.`
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
@@ -266,7 +263,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -297,7 +293,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -340,6 +335,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -386,7 +382,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -405,6 +400,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
