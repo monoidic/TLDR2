@@ -5,14 +5,17 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
+* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
+* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -24,7 +27,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -82,11 +84,15 @@
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
+* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
+* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -111,7 +117,9 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
+* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -144,13 +152,13 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -194,6 +202,7 @@
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
+* `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
@@ -236,6 +245,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -286,7 +296,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -303,6 +312,7 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -318,6 +328,7 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
+* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -330,8 +341,10 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -339,7 +352,6 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
-* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
@@ -369,6 +381,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
