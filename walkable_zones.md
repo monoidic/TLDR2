@@ -5,7 +5,6 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -42,7 +41,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -67,7 +65,6 @@
 * `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
-* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -85,6 +82,7 @@
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
+* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -100,7 +98,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -113,6 +110,7 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -132,19 +130,18 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
-* `eti.br.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
+* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
-* `fortal.br.`
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
@@ -159,6 +156,7 @@
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
+* `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
@@ -243,7 +241,6 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -253,6 +250,7 @@
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
+* `net.bd.`
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
@@ -263,6 +261,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -282,7 +281,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -293,6 +291,8 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
+* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -304,7 +304,6 @@
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
-* `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
@@ -382,13 +381,12 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -400,7 +398,6 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
