@@ -251,6 +251,7 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
+* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -266,10 +267,12 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -366,6 +369,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
