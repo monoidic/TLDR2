@@ -42,7 +42,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -71,6 +70,7 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -98,6 +98,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
@@ -113,6 +114,7 @@
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
+* `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
@@ -125,6 +127,7 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -135,6 +138,7 @@
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
+* `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
@@ -228,7 +232,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -246,7 +249,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -283,7 +285,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -300,7 +301,6 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
-* `org.mn.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
