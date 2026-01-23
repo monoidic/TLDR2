@@ -28,7 +28,6 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -39,7 +38,6 @@
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
-* `art.br.`
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
@@ -99,10 +97,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -143,7 +139,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -161,9 +156,9 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
+* `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
@@ -187,7 +182,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -199,6 +193,7 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
+* `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
@@ -210,6 +205,7 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -222,7 +218,6 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
-* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -251,13 +246,12 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
-* `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -289,6 +283,8 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -314,10 +310,12 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
+* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -327,7 +325,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
@@ -335,7 +332,7 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
-* `ripe.net.`
+* `riopreto.br.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -354,7 +351,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
