@@ -2,6 +2,8 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -247,6 +249,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -275,7 +278,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -388,6 +391,7 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
@@ -398,7 +402,6 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
-* `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
