@@ -278,6 +278,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -299,6 +300,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -402,6 +404,7 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
