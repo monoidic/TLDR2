@@ -39906,10 +39906,8 @@ saludnet.do.	0	IN	NS	dns1.midominio.do.
 saludnet.do.	0	IN	NS	dns2.midominio.do.
 saludnet.do.	0	IN	NS	dns3.midominio.do.
 saludnet.do.	0	IN	NS	dns4.midominio.do.
-saludrd.do.	0	IN	NS	ns1.saludrd.do.
-saludrd.do.	0	IN	NS	ns2.saludrd.do.
-ns1.saludrd.do.	0	IN	A	216.225.198.5
-ns2.saludrd.do.	0	IN	A	216.225.198.5
+saludrd.do.	0	IN	NS	chin.ns.cloudflare.com.
+saludrd.do.	0	IN	NS	emerson.ns.cloudflare.com.
 saluduniversal.do.	0	IN	NS	ns1.claro.net.do.
 saluduniversal.do.	0	IN	NS	ns2.claro.net.do.
 saludya.do.	0	IN	NS	dns1.midominio.do.
