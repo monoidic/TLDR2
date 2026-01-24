@@ -35,7 +35,6 @@
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
-* `app.br.`
 * `aquarelle.`
 * `arpa.`
 * `arq.br.`
@@ -54,10 +53,8 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
-* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
-* `bio.br.`
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
@@ -79,7 +76,6 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
-* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
@@ -102,7 +98,6 @@
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
-* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
@@ -224,7 +219,6 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
-* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -246,7 +240,6 @@
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
-* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
@@ -264,7 +257,6 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
-* `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -339,7 +331,6 @@
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
