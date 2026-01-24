@@ -3,6 +3,7 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -23,6 +24,7 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -99,8 +101,10 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -158,6 +162,7 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -167,17 +172,20 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
+* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -186,6 +194,7 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
+* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -194,6 +203,7 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
+* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -207,6 +217,7 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
+* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -215,6 +226,7 @@
 * `lk.`
 * `log.br.`
 * `lol.`
+* `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -229,6 +241,7 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
+* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
@@ -246,7 +259,9 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
+* `net.bt.`
 * `net.id.`
+* `net.kz.`
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
@@ -256,6 +271,7 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -263,7 +279,6 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -297,7 +312,7 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pe.leg.br.`
+* `pb.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -346,6 +361,7 @@
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -373,7 +389,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -383,11 +398,11 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
+* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
