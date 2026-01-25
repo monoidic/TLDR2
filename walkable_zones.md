@@ -96,7 +96,6 @@
 * `coop.br.`
 * `copro.uk.`
 * `coz.br.`
-* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
@@ -111,7 +110,6 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -231,7 +229,6 @@
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -300,6 +297,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -313,7 +311,7 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -348,7 +346,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -390,7 +387,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -409,7 +405,6 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
