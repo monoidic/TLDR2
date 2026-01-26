@@ -26,7 +26,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -90,7 +89,6 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -104,7 +102,6 @@
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -127,7 +124,6 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -136,6 +132,7 @@
 * `eti.br.`
 * `ewp.live.`
 * `far.br.`
+* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -190,9 +187,9 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
+* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
-* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -202,9 +199,11 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
+* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -224,10 +223,8 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -275,6 +272,7 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
+* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -305,7 +303,6 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -343,7 +340,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -353,6 +349,7 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
@@ -368,7 +365,6 @@
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
-* `store.ve.`
 * `tc.`
 * `tc.br.`
 * `tec.br.`
@@ -381,12 +377,10 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
-* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
