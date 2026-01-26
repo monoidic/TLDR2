@@ -58,6 +58,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -75,6 +76,7 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
+* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -99,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -295,8 +296,10 @@
 * `not.br.`
 * `ntr.br.`
 * `nu.`
+* `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -386,6 +389,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
@@ -402,7 +406,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
