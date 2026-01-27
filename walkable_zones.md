@@ -18,6 +18,7 @@
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
+* `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
@@ -80,6 +81,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -98,8 +100,10 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
+* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -139,6 +143,7 @@
 * `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
+* `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
@@ -162,6 +167,7 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
+* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -178,6 +184,7 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
+* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -204,7 +211,9 @@
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -262,9 +271,11 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -273,6 +284,7 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -281,6 +293,7 @@
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
+* `not.br.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -300,10 +313,12 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
+* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
@@ -311,6 +326,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -350,6 +366,7 @@
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
+* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
@@ -373,10 +390,12 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
