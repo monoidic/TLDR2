@@ -43,6 +43,7 @@
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
+* `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -207,6 +208,7 @@
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
+* `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
@@ -398,6 +400,7 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
+* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
