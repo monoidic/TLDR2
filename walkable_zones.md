@@ -101,12 +101,10 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
-* `dev.br.`
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
@@ -125,7 +123,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -250,7 +247,6 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
-* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -291,7 +287,6 @@
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
-* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
@@ -315,7 +310,6 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
-* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -335,7 +329,6 @@
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
-* `recife.br.`
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
@@ -370,6 +363,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -396,7 +390,6 @@
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
