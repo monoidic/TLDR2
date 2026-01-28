@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -48,7 +49,6 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -98,19 +98,17 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
+* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -178,7 +176,6 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
@@ -186,13 +183,11 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
-* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -210,6 +205,7 @@
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -231,7 +227,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -251,7 +246,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -280,6 +274,7 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
@@ -345,7 +340,6 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -366,7 +360,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -384,6 +377,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
