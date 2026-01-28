@@ -43,14 +43,12 @@
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
-* `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
-* `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
@@ -101,6 +99,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -170,7 +169,6 @@
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
-* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
@@ -329,7 +327,6 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
