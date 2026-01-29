@@ -24,12 +24,12 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
-* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -57,6 +57,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -91,7 +92,6 @@
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -99,7 +99,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -109,6 +108,7 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -190,6 +190,7 @@
 * `in-addr.arpa.`
 * `ind.br.`
 * `ind.tn.`
+* `inf.br.`
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
@@ -198,7 +199,6 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
@@ -229,7 +229,6 @@
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
-* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -271,7 +270,6 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -298,7 +296,6 @@
 * `ong.br.`
 * `or.id.`
 * `org.bd.`
-* `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
@@ -362,6 +359,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -373,13 +371,13 @@
 * `store.ve.`
 * `tc.`
 * `tc.br.`
+* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
