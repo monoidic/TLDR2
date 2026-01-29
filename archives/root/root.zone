@@ -9146,6 +9146,8 @@ jordan1st.nic.gov.jo.	0	IN	A	193.188.69.19
 jordan1st.nic.gov.jo.	0	IN	AAAA	2a02:9c0:0:19::19
 petra.nic.gov.jo.	0	IN	A	193.188.66.2
 petra.nic.gov.jo.	0	IN	AAAA	2a02:9c0:0:407::2
+d.cctld-servers.net.jo.	0	IN	A	193.188.69.19
+d.cctld-servers.net.jo.	0	IN	AAAA	2a02:9c0:0:19::19
 cloudns.nic.net.jo.	0	IN	A	54.155.28.251
 cloudns.nic.net.jo.	0	IN	AAAA	2a05:d018:123c:3500:3e00:7185:3a6e:e082
 jobs.	0	IN	NS	dns1.nic.jobs.
@@ -12278,6 +12280,7 @@ ns4.nic.net.ng.	0	IN	A	185.28.194.194
 ns5.nic.net.ng.	0	IN	A	196.216.168.41
 ns5.nic.net.ng.	0	IN	AAAA	2001:43f8:120::41
 nsa.nic.net.ng.	0	IN	A	41.222.79.3
+nsa.nic.net.ng.	0	IN	AAAA	2c0f:f098::3
 ngo.	0	IN	NS	a0.nic.ngo.
 ngo.	0	IN	NS	a2.nic.ngo.
 ngo.	0	IN	NS	b0.nic.ngo.
@@ -19927,11 +19930,11 @@ xn--mgbai9azgqp6j.	0	IN	NS	ns1.ntc.net.pk.
 xn--mgbai9azgqp6j.	0	IN	NS	ns2.ntc.net.pk.
 xn--mgbai9azgqp6j.	0	IN	DS	21720 7 1 9fc6318aa15a43b4cf11d3f64cd678935e40402f
 xn--mgbai9azgqp6j.	0	IN	DS	21720 7 2 bb7d853dfdfd7a39574ce1b5d3009e5c813264e614430c1b29c894c090393dd1
+xn--mgbayh7gpa.	0	IN	NS	d.cctld-servers.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	jo.cctld.authdns.ripe.net.
 xn--mgbayh7gpa.	0	IN	NS	amra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	petra.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	NS	cloudns.nic.net.jo.
-xn--mgbayh7gpa.	0	IN	NS	jordan1st.nic.gov.jo.
 xn--mgbayh7gpa.	0	IN	DS	31715 8 2 e7b5191787c7db3c20bfcf917807791eb09917e887ebb7cbb3d11678e9767ad1
 xn--mgbayh7gpa.	0	IN	DS	53426 8 2 2425c479903e0d9a22e49aec321eb564bd808b96c5ce23e8685f4fb2832179da
 xn--mgbbh1a.	0	IN	NS	ns01.trs-dns.com.
