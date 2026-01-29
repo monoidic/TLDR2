@@ -30,7 +30,8 @@ cc.18k.hidns.co.	0	IN	CNAME	cm1-83g.pages.dev.
 vip.18k.hidns.co.	0	IN	A	137.175.50.119
 www.18k.hidns.co.	0	IN	A	137.175.50.119
 2002.hidns.co.	0	IN	A	34.146.71.156
-2003.hidns.co.	0	IN	A	34.146.71.156
+2003.hidns.co.	0	IN	NS	dion.ns.cloudflare.com.
+2003.hidns.co.	0	IN	NS	cecelia.ns.cloudflare.com.
 2025.hidns.co.	0	IN	A	188.68.248.50
 2025530.hidns.co.	0	IN	NS	ns1.infinityfree.com.
 2025530.hidns.co.	0	IN	NS	ns2.infinityfree.com.
@@ -639,7 +640,6 @@ ccnode.gistar.hidns.co.	0	IN	CNAME	knzjukmjlxrp.us-east-1.clawcloudrun.com.
 ssh.gistar.hidns.co.	0	IN	CNAME	ttidofwf.us-east-1.clawcloudrun.com.
 git.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
 git.hidns.co.	0	IN	NS	savanna.ns.cloudflare.com.
-github.hidns.co.	0	IN	A	139.196.220.53
 me.gleam.hidns.co.	0	IN	A	47.79.38.132
 nz.gleam.hidns.co.	0	IN	A	166.108.236.210
 ssh.gleam.hidns.co.	0	IN	CNAME	ekjeiwbu.ap-northeast-1.clawcloudrun.com.
