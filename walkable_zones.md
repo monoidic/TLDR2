@@ -4,6 +4,7 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
+* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -27,6 +28,7 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -99,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -169,6 +170,7 @@
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
+* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
@@ -226,7 +228,7 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
+* `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
@@ -266,8 +268,10 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -275,6 +279,7 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
@@ -293,6 +298,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -300,6 +306,7 @@
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
+* `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
@@ -314,6 +321,7 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -336,6 +344,7 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
+* `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -343,6 +352,7 @@
 * `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
+* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
@@ -354,13 +364,14 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
+* `srv.br.`
+* `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
 * `tc.br.`
@@ -391,6 +402,7 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
+* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
