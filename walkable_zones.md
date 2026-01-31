@@ -70,6 +70,7 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
+* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -100,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -120,6 +120,7 @@
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
+* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -254,6 +255,7 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -297,7 +299,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
