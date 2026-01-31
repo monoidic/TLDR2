@@ -1,9 +1,9 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -40,8 +40,6 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -59,6 +57,7 @@
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
+* `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
@@ -68,7 +67,6 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
-* `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -99,7 +97,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -170,11 +167,11 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
-* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
@@ -191,7 +188,6 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
-* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -211,7 +207,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -234,9 +229,9 @@
 * `mat.br.`
 * `mc.`
 * `md.`
-* `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
@@ -268,7 +263,6 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
-* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -282,9 +276,9 @@
 * `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
-* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -295,6 +289,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -332,7 +327,6 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
-* `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -375,7 +369,6 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
-* `the.br.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -396,7 +389,6 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
