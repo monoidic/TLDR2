@@ -179,7 +179,6 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
@@ -267,7 +266,6 @@
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
