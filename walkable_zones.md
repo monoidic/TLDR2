@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -23,6 +24,7 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -41,6 +43,7 @@
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
+* `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -185,6 +188,7 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
