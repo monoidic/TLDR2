@@ -16,6 +16,7 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
+* `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
@@ -55,7 +56,9 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -96,10 +99,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -135,6 +136,7 @@
 * `ewp.live.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -155,11 +157,13 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
+* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
+* `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
@@ -205,6 +209,7 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -225,7 +230,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -265,6 +269,8 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -291,13 +297,11 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
-* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -311,6 +315,7 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
+* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
@@ -326,10 +331,12 @@
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
+* `recife.br.`
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
+* `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
@@ -378,7 +385,6 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
-* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
@@ -386,6 +392,7 @@
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
+* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
