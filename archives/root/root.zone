@@ -9133,6 +9133,8 @@ y.nic.jnj.	0	IN	A	212.18.248.161
 y.nic.jnj.	0	IN	AAAA	2a04:2b00:13ee::161
 z.nic.jnj.	0	IN	A	212.18.249.161
 z.nic.jnj.	0	IN	AAAA	2a04:2b00:13ff::161
+jo.	0	IN	NS	c.cctld-servers.net.jo.
+jo.	0	IN	NS	d.cctld-servers.net.jo.
 jo.	0	IN	NS	jo.cctld.authdns.ripe.net.
 jo.	0	IN	NS	rip.psg.com.
 jo.	0	IN	NS	amra.nic.gov.jo.
@@ -9145,6 +9147,10 @@ jordan1st.nic.gov.jo.	0	IN	A	193.188.69.19
 jordan1st.nic.gov.jo.	0	IN	AAAA	2a02:9c0:0:19::19
 petra.nic.gov.jo.	0	IN	A	193.188.66.2
 petra.nic.gov.jo.	0	IN	AAAA	2a02:9c0:0:407::2
+a.cctld-servers.net.jo.	0	IN	A	193.188.66.2
+a.cctld-servers.net.jo.	0	IN	AAAA	2a02:9c0:0:407::2
+b.cctld-servers.net.jo.	0	IN	A	193.188.66.103
+b.cctld-servers.net.jo.	0	IN	AAAA	2a02:9c0:0:408::103
 c.cctld-servers.net.jo.	0	IN	A	54.155.28.251
 c.cctld-servers.net.jo.	0	IN	AAAA	2a05:d018:123c:3500:3e00:7185:3a6e:e082
 d.cctld-servers.net.jo.	0	IN	A	193.188.69.19
@@ -19927,6 +19933,8 @@ xn--mgbai9azgqp6j.	0	IN	NS	ns1.ntc.net.pk.
 xn--mgbai9azgqp6j.	0	IN	NS	ns2.ntc.net.pk.
 xn--mgbai9azgqp6j.	0	IN	DS	21720 7 1 9fc6318aa15a43b4cf11d3f64cd678935e40402f
 xn--mgbai9azgqp6j.	0	IN	DS	21720 7 2 bb7d853dfdfd7a39574ce1b5d3009e5c813264e614430c1b29c894c090393dd1
+xn--mgbayh7gpa.	0	IN	NS	a.cctld-servers.net.jo.
+xn--mgbayh7gpa.	0	IN	NS	b.cctld-servers.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	c.cctld-servers.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	d.cctld-servers.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	jo.cctld.authdns.ripe.net.
