@@ -77,10 +77,8 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
@@ -101,7 +99,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -131,7 +128,6 @@
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
-* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
@@ -146,7 +142,6 @@
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
-* `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
@@ -273,7 +268,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -310,7 +304,6 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
-* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -324,7 +317,6 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -359,7 +351,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
