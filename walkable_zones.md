@@ -5,16 +5,13 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
-* `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -28,6 +25,7 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
@@ -54,9 +52,9 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
+* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
-* `biz.id.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -108,11 +106,9 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -152,7 +148,6 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
-* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -162,7 +157,6 @@
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
-* `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
@@ -185,7 +179,6 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -219,7 +212,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -231,7 +223,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -239,7 +230,6 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
@@ -250,6 +240,7 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
+* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
@@ -283,7 +274,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `niteroi.br.`
+* `nipr.mil.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -320,7 +311,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -365,6 +355,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -394,14 +385,12 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
-* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
-* `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--pgbs0dh.`

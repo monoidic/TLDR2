@@ -9386,8 +9386,8 @@ kfh.	0	IN	NS	a.nic.kfh.
 kfh.	0	IN	NS	b.nic.kfh.
 kfh.	0	IN	NS	c.nic.kfh.
 kfh.	0	IN	NS	d.nic.kfh.
+kfh.	0	IN	DS	19529 8 2 e6782b15580e48186716a8e819b8c8a382612e3518cdf0a40851543d3211ec4a
 kfh.	0	IN	DS	23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
-kfh.	0	IN	DS	47020 8 2 602ee5eb852a6581e8cbdabe8d6685a881cc2783b4de8d8947393231243b80b2
 a.nic.kfh.	0	IN	A	194.169.218.43
 a.nic.kfh.	0	IN	AAAA	2001:67c:13cc::1:43
 b.nic.kfh.	0	IN	A	185.24.64.43
@@ -11602,9 +11602,12 @@ mv.	0	IN	NS	ns2.dhivehinet.net.mv.
 mv.	0	IN	NS	boli.ns.mv.
 mv.	0	IN	NS	mv-ns.anycast.pch.net.
 mv.	0	IN	NS	sangu.ns.mv.
+mv.	0	IN	NS	baraveli.ns.mv.
 ns.dhivehinet.net.mv.	0	IN	A	202.1.192.196
 ns2.dhivehinet.net.mv.	0	IN	A	202.1.201.201
 ns.mv.	0	IN	A	202.1.192.196
+baraveli.ns.mv.	0	IN	A	188.166.71.229
+baraveli.ns.mv.	0	IN	AAAA	2a03:b0c0:2:f0:0:1:46a5:8001
 boli.ns.mv.	0	IN	A	103.31.84.199
 boli.ns.mv.	0	IN	AAAA	2406:e400:a:1::1
 sangu.ns.mv.	0	IN	A	27.114.188.1
