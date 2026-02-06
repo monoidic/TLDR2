@@ -1619,8 +1619,8 @@ santacruz.rn.gov.br.	0	IN	NS	wells.ns.cloudflare.com.
 santacruz.rn.gov.br.	0	IN	NS	collins.ns.cloudflare.com.
 santamaria.rn.gov.br.	0	IN	NS	ns23.servidorprotegido.net.
 santamaria.rn.gov.br.	0	IN	NS	ns24.servidorprotegido.net.
-santanadomatos.rn.gov.br.	0	IN	NS	alla.ns.cloudflare.com.
-santanadomatos.rn.gov.br.	0	IN	NS	vern.ns.cloudflare.com.
+santanadomatos.rn.gov.br.	0	IN	NS	ns1.vercel-dns.com.
+santanadomatos.rn.gov.br.	0	IN	NS	ns2.vercel-dns.com.
 santoantonio.rn.gov.br.	0	IN	NS	ns1.locaweb.com.br.
 santoantonio.rn.gov.br.	0	IN	NS	ns2.locaweb.com.br.
 santoantonio.rn.gov.br.	0	IN	NS	ns3.locaweb.com.br.
@@ -1956,6 +1956,9 @@ sigeduc.rn.gov.br.	0	IN	MX	10 sigeduc-bal1.imd.ufrn.br.
 adm.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
 adm.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
 backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.200
+backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.201
+backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.202
+backend.sigeduc.rn.gov.br.	0	IN	A	177.20.148.203
 bal1.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
 bal2.sigeduc.rn.gov.br.	0	IN	A	177.20.146.30
 conferencia.sigeduc.rn.gov.br.	0	IN	A	200.17.142.245
@@ -1967,6 +1970,9 @@ inst4.sigeduc.rn.gov.br.	0	IN	CNAME	inst1.sigeduc.rn.gov.br.
 inst5.sigeduc.rn.gov.br.	0	IN	CNAME	inst1.sigeduc.rn.gov.br.
 inst6.sigeduc.rn.gov.br.	0	IN	CNAME	inst1.sigeduc.rn.gov.br.
 matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.200
+matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.201
+matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.202
+matricula.sigeduc.rn.gov.br.	0	IN	A	177.20.148.203
 saldos.sigeduc.rn.gov.br.	0	IN	CNAME	data-exporter.sigeduc.rn.gov.br.
 treinamento.sigeduc.rn.gov.br.	0	IN	A	177.20.148.200
 www.sigeduc.rn.gov.br.	0	IN	A	177.20.146.29
@@ -2509,6 +2515,10 @@ ns1.servidorwebfacil.com.	0	IN	A	200.98.246.51
 ns2.servidorwebfacil.com.	0	IN	A	200.98.246.52
 ns13.servidorwebsite.com.	0	IN	A	177.85.98.2
 ns14.servidorwebsite.com.	0	IN	A	177.85.98.3
+ns1.vercel-dns.com.	0	IN	A	198.51.44.13
+ns1.vercel-dns.com.	0	IN	AAAA	2620:4d:4000:6259:7:13:0:1
+ns2.vercel-dns.com.	0	IN	A	198.51.45.13
+ns2.vercel-dns.com.	0	IN	AAAA	2a00:edc0:6259:7:13::2
 ns1.webhousenatal.com.	0	IN	A	74.53.202.150
 ns2.webhousenatal.com.	0	IN	A	74.53.202.151
 cdns1.main-hosting.eu.	0	IN	A	153.92.2.1
