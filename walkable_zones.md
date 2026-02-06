@@ -1,17 +1,14 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -43,6 +40,7 @@
 * `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
+* `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
@@ -89,6 +87,8 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
+* `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
@@ -100,7 +100,6 @@
 * `cy.`
 * `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
@@ -171,7 +170,6 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
-* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -226,6 +224,7 @@
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -234,6 +233,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -242,7 +242,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -251,6 +250,7 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -259,8 +259,8 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
-* `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -308,6 +308,7 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
+* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
@@ -324,6 +325,7 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
+* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -331,7 +333,6 @@
 * `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
-* `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
@@ -343,6 +344,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -355,16 +357,15 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
-* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
+* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
-* `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
 * `tc.br.`
@@ -388,6 +389,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
