@@ -149,7 +149,6 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -194,13 +193,11 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
-* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
-* `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
@@ -211,6 +208,7 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -237,6 +235,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -269,16 +268,13 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
-* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
-* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
@@ -297,7 +293,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -311,7 +306,6 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -322,12 +316,10 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
-* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
@@ -378,7 +370,6 @@
 * `tc.`
 * `tc.br.`
 * `tec.br.`
-* `tec.ve.`
 * `the.br.`
 * `tm.mc.`
 * `tmp.br.`
