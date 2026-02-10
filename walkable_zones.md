@@ -98,8 +98,11 @@
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
+* `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
+* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
@@ -113,6 +116,7 @@
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
+* `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
@@ -124,6 +128,7 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -169,6 +174,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -244,6 +250,7 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
+* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -267,6 +274,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -279,7 +287,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -314,6 +321,7 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -367,6 +375,7 @@
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
+* `store.ve.`
 * `tc.`
 * `tc.br.`
 * `tec.br.`
@@ -401,6 +410,7 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
