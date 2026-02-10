@@ -14,10 +14,12 @@
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
+* `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
@@ -25,7 +27,6 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -75,7 +76,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
+* `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
@@ -101,7 +102,6 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -109,6 +109,7 @@
 * `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -126,6 +127,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -146,12 +148,14 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
+* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
+* `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
@@ -217,6 +221,7 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
+* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -225,6 +230,7 @@
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
+* `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
@@ -263,6 +269,7 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -279,7 +286,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `nog.community.`
+* `noc.net.er.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -288,12 +295,12 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
-* `ong.br.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
+* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -306,6 +313,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -321,6 +329,7 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
@@ -340,6 +349,7 @@
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
+* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
@@ -356,6 +366,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -366,6 +377,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
@@ -390,10 +402,10 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
