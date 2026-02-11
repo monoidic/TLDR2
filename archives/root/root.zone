@@ -12804,6 +12804,10 @@ online.	0	IN	NS	a.nic.online.
 online.	0	IN	NS	b.nic.online.
 online.	0	IN	NS	e.nic.online.
 online.	0	IN	NS	f.nic.online.
+online.	0	IN	NS	ns01.trs-dns.com.
+online.	0	IN	NS	ns01.trs-dns.net.
+online.	0	IN	NS	ns10.trs-dns.org.
+online.	0	IN	NS	ns10.trs-dns.info.
 online.	0	IN	DS	19282 8 2 2706a216bd382a5823c746ce685cbc84ca12a9c227e47792abd990fa7885dbb0
 online.	0	IN	DS	65176 8 2 a7ae5fd8bca808edb6906ad3bb9ab506326907f1c41fa8404453e8c843f266ee
 a.nic.online.	0	IN	A	194.169.218.54
@@ -13493,9 +13497,9 @@ pk.	0	IN	NS	root-e.pknic.pk.
 pk.	0	IN	NS	root-s.pknic.pk.
 pk.	0	IN	NS	root-c1.pknic.pk.
 pk.	0	IN	NS	root-c2.pknic.pk.
-ns.ntc.net.pk.	0	IN	A	202.83.164.166
-ns1.ntc.net.pk.	0	IN	A	202.83.164.167
-ns2.ntc.net.pk.	0	IN	A	175.107.198.150
+ns1.ntc.org.pk.	0	IN	A	43.250.84.53
+ns2.ntc.org.pk.	0	IN	A	43.250.84.54
+ns3.ntc.org.pk.	0	IN	A	36.50.76.15
 root-c1.pknic.pk.	0	IN	A	185.159.197.160
 root-c1.pknic.pk.	0	IN	AAAA	2620:10a:80aa::160
 root-c2.pknic.pk.	0	IN	A	185.159.198.160
@@ -15740,6 +15744,10 @@ site.	0	IN	NS	a.nic.site.
 site.	0	IN	NS	b.nic.site.
 site.	0	IN	NS	e.nic.site.
 site.	0	IN	NS	f.nic.site.
+site.	0	IN	NS	ns01.trs-dns.com.
+site.	0	IN	NS	ns01.trs-dns.net.
+site.	0	IN	NS	ns10.trs-dns.org.
+site.	0	IN	NS	ns10.trs-dns.info.
 site.	0	IN	DS	4241 8 2 b2f9f1baaa93793437d7f16065a2075bba7794160c1fee25a7bb5a34164ec7d5
 site.	0	IN	DS	51974 8 2 a06dc47457cc1185cf1b3a7cf6eccb84978de92939dd182beed9521509d0da7b
 a.nic.site.	0	IN	A	194.169.218.61
@@ -16085,6 +16093,10 @@ space.	0	IN	NS	a.nic.space.
 space.	0	IN	NS	b.nic.space.
 space.	0	IN	NS	e.nic.space.
 space.	0	IN	NS	f.nic.space.
+space.	0	IN	NS	ns01.trs-dns.com.
+space.	0	IN	NS	ns01.trs-dns.net.
+space.	0	IN	NS	ns10.trs-dns.org.
+space.	0	IN	NS	ns10.trs-dns.info.
 space.	0	IN	DS	33010 8 2 53e37640a028fa26a4ed6306aa07c506bf037fc414af9caf0e41adfff87ccb72
 space.	0	IN	DS	63881 8 2 85ee1264739a00fb6139712c3d7227721d99654226b0140f14a3e3d1a63b315f
 a.nic.space.	0	IN	A	194.169.218.51
@@ -17815,6 +17827,10 @@ uno.	0	IN	NS	a.nic.uno.
 uno.	0	IN	NS	b.nic.uno.
 uno.	0	IN	NS	c.nic.uno.
 uno.	0	IN	NS	d.nic.uno.
+uno.	0	IN	NS	ns01.trs-dns.com.
+uno.	0	IN	NS	ns01.trs-dns.net.
+uno.	0	IN	NS	ns10.trs-dns.org.
+uno.	0	IN	NS	ns10.trs-dns.info.
 uno.	0	IN	DS	7286 8 2 d85eed6e94d62f2d9c4d8ff199a5cb355ad0e3b56bf845264aa9f38bfc6450b5
 uno.	0	IN	DS	56080 8 2 73e7b1013fd902486a7942f93000536e49b6ea7c53bcaadbd2acff557b44a552
 a.nic.uno.	0	IN	A	194.169.218.21
@@ -19954,11 +19970,10 @@ xn--mgbah1a3hjkrd.	0	IN	NS	ns3.nic.mr.
 xn--mgbah1a3hjkrd.	0	IN	NS	ns-mr.nic.fr.
 xn--mgbah1a3hjkrd.	0	IN	NS	ns-mr.afrinic.net.
 xn--mgbah1a3hjkrd.	0	IN	DS	19030 8 2 9c1324bbe5b1726510ca3ea47e2d42f7e6c6a09baf424ac344f32de5488ae5a9
-xn--mgbai9azgqp6j.	0	IN	NS	ns.ntc.net.pk.
-xn--mgbai9azgqp6j.	0	IN	NS	ns1.ntc.net.pk.
-xn--mgbai9azgqp6j.	0	IN	NS	ns2.ntc.net.pk.
-xn--mgbai9azgqp6j.	0	IN	DS	21720 7 1 9fc6318aa15a43b4cf11d3f64cd678935e40402f
-xn--mgbai9azgqp6j.	0	IN	DS	21720 7 2 bb7d853dfdfd7a39574ce1b5d3009e5c813264e614430c1b29c894c090393dd1
+xn--mgbai9azgqp6j.	0	IN	NS	ns1.ntc.org.pk.
+xn--mgbai9azgqp6j.	0	IN	NS	ns2.ntc.org.pk.
+xn--mgbai9azgqp6j.	0	IN	NS	ns3.ntc.org.pk.
+xn--mgbai9azgqp6j.	0	IN	DS	23595 13 2 e46d0e529c6f1a41ec7de4a184c062ffb2847d49618192fecb8d348818e576c6
 xn--mgbayh7gpa.	0	IN	NS	a.cctld-servers.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	b.cctld-servers.net.jo.
 xn--mgbayh7gpa.	0	IN	NS	c.cctld-servers.net.jo.
