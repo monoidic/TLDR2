@@ -5,7 +5,6 @@ nic.my.	0	IN	NS	c.mynic.centralnic-dns.com.
 nic.my.	0	IN	NS	d.mynic.centralnic-dns.com.
 nic.my.	0	IN	NS	e.nic.my.
 nic.my.	0	IN	NS	f.nic.my.
-nic.my.	0	IN	NS	b1.nic.my.
 nic.my.	0	IN	DNSKEY	256 3 8 AwEAAdPmMS/5cXdgbSq8qCEcC2eaxCYoRC/vZAEHPccCZqAYQUY3f1Pee8YcYMIkpyPK9TKk27oLJl6TPYRnue/rDk4bo+hntQbkNwDKa0qY7L+fG07hh6YqGRtcOP2ERo0NJmWWfR81BCioUSPttMDYAxlBPMSN5BThM7eFzoKhkkX3 ;{id = 42231 (zsk), size = 1024b}
 nic.my.	0	IN	DNSKEY	257 3 8 AwEAAbfuMbRaBg15ScnGK3hMZ7y6FQXxuOr0r+4dIL/j5cGtve+Ffuzsh8l/WHQrP3Kj/0u04dLMeCMYoc8C+LUUvjhgh0A5I2lUmtI3v+0D28PmRZwmp57PwMczy1yozD3ZLFLzaxRVXyE44Tm2L1SqBJtfvNXdFnq/WI2s2+MN/sNDvMGeRv6GV3JdpwdyA/6LD0WuFTzQ7M0gFpp4Jy8JAmwO1zy23uKYuXTIhNwQLeW+vuSI+PRLwY+WoMaNF8n6zH2H1jeHpnVPqo9lQfToYgtCpGOMKQQrTQbR8xIt9BF/S0yU5vUW2cdkmP6BRVlQFw+lrwHeUNj5moINuuAfjMs= ;{id = 43792 (ksk), size = 2048b}
 nic.my.	0	IN	NSEC3PARAM	1 0 100 55273394bca553a8 
@@ -15,3 +14,7 @@ a1.nic.my.	0	IN	A	202.171.47.204
 b.nic.my.	0	IN	A	103.44.108.153
 b.nic.my.	0	IN	AAAA	2001:ddc:0:53::153
 b1.nic.my.	0	IN	A	202.171.47.205
+e.nic.my.	0	IN	A	152.69.217.125
+e.nic.my.	0	IN	AAAA	2603:c024:4518:ad60:242::2
+f.nic.my.	0	IN	A	213.35.107.235
+f.nic.my.	0	IN	AAAA	2603:c024:4518:ad60:3184::4

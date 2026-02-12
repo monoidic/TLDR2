@@ -54,6 +54,7 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -82,6 +83,7 @@
 * `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
+* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -222,6 +224,7 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
+* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -247,6 +250,7 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
+* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -263,7 +267,6 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -283,6 +286,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -295,14 +299,12 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
-* `org.pr.`
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
@@ -322,6 +324,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -338,6 +341,7 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
+* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
@@ -349,6 +353,7 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
+* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -361,7 +366,6 @@
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
@@ -405,6 +409,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
