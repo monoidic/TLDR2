@@ -6,6 +6,7 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -26,6 +27,7 @@
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
@@ -38,6 +40,7 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `arts.ve.`
 * `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
@@ -82,6 +85,7 @@
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
+* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -171,6 +175,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -269,6 +274,7 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -280,9 +286,7 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -295,6 +299,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -326,6 +331,7 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -407,6 +413,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`

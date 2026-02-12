@@ -6712,6 +6712,10 @@ fun.	0	IN	NS	a.nic.fun.
 fun.	0	IN	NS	b.nic.fun.
 fun.	0	IN	NS	e.nic.fun.
 fun.	0	IN	NS	f.nic.fun.
+fun.	0	IN	NS	ns01.trs-dns.com.
+fun.	0	IN	NS	ns01.trs-dns.net.
+fun.	0	IN	NS	ns10.trs-dns.org.
+fun.	0	IN	NS	ns10.trs-dns.info.
 fun.	0	IN	DS	19375 8 2 191ef18cd05c7af81d71c222e6bd5b657848e2c78c8087e4ea11dbb0bf791c33
 fun.	0	IN	DS	45055 8 2 5e45d3230400b1e80e5e2011e4d03e969fa89254b8a2a483d6f366b17357f957
 a.nic.fun.	0	IN	A	194.169.218.72
@@ -8095,6 +8099,10 @@ host.	0	IN	NS	a.nic.host.
 host.	0	IN	NS	b.nic.host.
 host.	0	IN	NS	e.nic.host.
 host.	0	IN	NS	f.nic.host.
+host.	0	IN	NS	ns01.trs-dns.com.
+host.	0	IN	NS	ns01.trs-dns.net.
+host.	0	IN	NS	ns10.trs-dns.org.
+host.	0	IN	NS	ns10.trs-dns.info.
 host.	0	IN	DS	1897 8 2 726c3c1baf1ba9853660e4d34270d42d1e8c50ec79a1843c7cb14fa1dc8f38f8
 host.	0	IN	DS	54521 8 2 b01ac945154ca99256587fd429ea4160fcd531633a1c9bfdcb04c7f1a297200a
 a.nic.host.	0	IN	A	194.169.218.53
@@ -11644,13 +11652,11 @@ my.	0	IN	NS	a.mynic.centralnic-dns.com.
 my.	0	IN	NS	b.mynic.centralnic-dns.com.
 my.	0	IN	NS	c.mynic.centralnic-dns.com.
 my.	0	IN	NS	d.mynic.centralnic-dns.com.
-my.	0	IN	NS	a1.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
 my.	0	IN	DS	47187 13 2 8b70cf4c48233d0624556523ea52c524f157800b97445c6a62a8c078337567ae
 a.nic.my.	0	IN	A	103.44.108.53
 a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
-a1.nic.my.	0	IN	A	202.171.47.204
 mz.	0	IN	NS	anyns.uem.mz.
 mz.	0	IN	NS	dzowo.uem.mz.
 mz.	0	IN	NS	ns-mz.afrinic.net.
@@ -13741,6 +13747,10 @@ press.	0	IN	NS	a.nic.press.
 press.	0	IN	NS	b.nic.press.
 press.	0	IN	NS	e.nic.press.
 press.	0	IN	NS	f.nic.press.
+press.	0	IN	NS	ns01.trs-dns.com.
+press.	0	IN	NS	ns01.trs-dns.net.
+press.	0	IN	NS	ns10.trs-dns.org.
+press.	0	IN	NS	ns10.trs-dns.info.
 press.	0	IN	DS	11915 8 2 bf03d95ef84d1896e57e82d02f809e6415823176dee48bf6b011720ae8cf7983
 press.	0	IN	DS	56540 8 2 9e422a4e7be0a741b0c7e5c5ca984afa95b0c2f512f13be981e47aecf87ea581
 a.nic.press.	0	IN	A	194.169.218.34
@@ -16306,6 +16316,10 @@ store.	0	IN	NS	a.nic.store.
 store.	0	IN	NS	b.nic.store.
 store.	0	IN	NS	e.nic.store.
 store.	0	IN	NS	f.nic.store.
+store.	0	IN	NS	ns01.trs-dns.com.
+store.	0	IN	NS	ns01.trs-dns.net.
+store.	0	IN	NS	ns10.trs-dns.org.
+store.	0	IN	NS	ns10.trs-dns.info.
 store.	0	IN	DS	38974 8 2 3d17e03a2e9dd75f65939b2ca470d85f03ce4cbea32187d65ea1a610569e5f49
 store.	0	IN	DS	45961 8 2 15c0aeda3d208a2fdba1df9e5afcd6628b162cea740b4e7d4fef1879092f6e25
 a.nic.store.	0	IN	A	194.169.218.45
@@ -16874,6 +16888,10 @@ tech.	0	IN	NS	a.nic.tech.
 tech.	0	IN	NS	b.nic.tech.
 tech.	0	IN	NS	e.nic.tech.
 tech.	0	IN	NS	f.nic.tech.
+tech.	0	IN	NS	ns01.trs-dns.com.
+tech.	0	IN	NS	ns01.trs-dns.net.
+tech.	0	IN	NS	ns10.trs-dns.org.
+tech.	0	IN	NS	ns10.trs-dns.info.
 tech.	0	IN	DS	28487 8 2 ea62fa86a9c863738597a42d28762b1f75d42f7d77aa6767425de138f8b0e78c
 tech.	0	IN	DS	44746 8 2 982f1ebbd8bdf753193c770fc19095f50678393951bc01357ffea6a8e96ea3b1
 dns2.tld.becloudby.tech.	0	IN	A	93.125.25.73
@@ -18665,6 +18683,10 @@ website.	0	IN	NS	a.nic.website.
 website.	0	IN	NS	b.nic.website.
 website.	0	IN	NS	e.nic.website.
 website.	0	IN	NS	f.nic.website.
+website.	0	IN	NS	ns01.trs-dns.com.
+website.	0	IN	NS	ns01.trs-dns.net.
+website.	0	IN	NS	ns10.trs-dns.org.
+website.	0	IN	NS	ns10.trs-dns.info.
 website.	0	IN	DS	241 8 2 bb05372f77f6474787aea2d8bd477386af3b54cddd199ddae76a3fc00d1e7761
 website.	0	IN	DS	58591 8 2 bad631380e8e6f70cf21dec0d8d8abbe9df00cd2f0f9376a33535a3fa6ab26e6
 a.nic.website.	0	IN	A	194.169.218.52
@@ -20072,7 +20094,6 @@ xn--mgbx4cd0ab.	0	IN	NS	a.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	c.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	d.mynic.centralnic-dns.com.
-xn--mgbx4cd0ab.	0	IN	NS	a1.nic.my.
 xn--mgbx4cd0ab.	0	IN	DS	15766 13 2 e1b9df06c9b2e9f67aa4f7afe4a20d0cc055abbae1ae5c72e967f2f11d417b71
 xn--mix891f.	0	IN	NS	a.monic.mo.
 xn--mix891f.	0	IN	NS	b.monic.mo.
