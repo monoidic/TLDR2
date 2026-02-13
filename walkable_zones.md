@@ -4,7 +4,6 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -23,7 +22,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -84,7 +82,6 @@
 * `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
-* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -155,6 +152,7 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -165,7 +163,6 @@
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
-* `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
@@ -234,7 +231,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -243,7 +239,6 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -253,7 +248,6 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
-* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
@@ -287,7 +281,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -300,7 +293,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -308,7 +300,6 @@
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
-* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
