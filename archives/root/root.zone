@@ -6424,7 +6424,8 @@ fo.	0	IN	NS	a.nic.fo.
 fo.	0	IN	NS	b.nic.fo.
 fo.	0	IN	NS	c.nic.fo.
 fo.	0	IN	NS	d.nic.fo.
-fo.	0	IN	DS	6691 8 2 a752ceaae4e28b4232244e5486d55889f117a15b81d3128ce7e9359f1d47a445
+fo.	0	IN	NS	mimi.nic.fo.
+fo.	0	IN	NS	xn--gurun-jta.nic.fo.
 fo.	0	IN	DS	14231 8 2 2828b71e13a64b57b7bb68c56519d583597bec04ef2721d967622223f4ccf36b
 a.nic.fo.	0	IN	A	194.169.218.27
 a.nic.fo.	0	IN	AAAA	2001:67c:13cc::1:27
@@ -6434,6 +6435,10 @@ c.nic.fo.	0	IN	A	212.18.248.27
 c.nic.fo.	0	IN	AAAA	2a04:2b00:13ee::27
 d.nic.fo.	0	IN	A	212.18.249.27
 d.nic.fo.	0	IN	AAAA	2a04:2b00:13ff::27
+mimi.nic.fo.	0	IN	A	77.72.229.243
+mimi.nic.fo.	0	IN	AAAA	2a01:3f0:0:315::53
+xn--gurun-jta.nic.fo.	0	IN	A	194.146.106.158
+xn--gurun-jta.nic.fo.	0	IN	AAAA	2001:67c:1010:40::53
 foo.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 foo.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 foo.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -15302,10 +15307,10 @@ b.ns.se.	0	IN	A	192.36.133.107
 b.ns.se.	0	IN	AAAA	2001:67c:254c:301::53
 c.ns.se.	0	IN	A	192.36.135.107
 c.ns.se.	0	IN	AAAA	2001:67c:2554:301::53
-f.ns.se.	0	IN	A	192.71.53.53
-f.ns.se.	0	IN	AAAA	2a01:3f0:0:305::53
-g.ns.se.	0	IN	A	130.239.5.114
-g.ns.se.	0	IN	AAAA	2001:6b0:e:3::1
+f.ns.se.	0	IN	A	192.36.134.97
+f.ns.se.	0	IN	AAAA	2001:67c:2550:301::53
+g.ns.se.	0	IN	A	194.68.134.97
+g.ns.se.	0	IN	AAAA	2001:67c:2558:301::53
 i.ns.se.	0	IN	A	194.146.106.22
 i.ns.se.	0	IN	AAAA	2001:67c:1010:5::53
 m.ns.se.	0	IN	A	194.0.11.112
