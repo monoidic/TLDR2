@@ -82,7 +82,6 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -280,7 +279,6 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -291,7 +289,6 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -351,7 +348,6 @@
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
@@ -409,7 +405,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `wolterskluwer.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
