@@ -56,6 +56,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -408,6 +409,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `wolterskluwer.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
