@@ -15,6 +15,7 @@
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
+* `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
@@ -84,6 +85,7 @@
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
+* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -117,6 +119,7 @@
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
+* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
@@ -133,6 +136,7 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
+* `ewp.live.`
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
@@ -181,6 +185,7 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -261,7 +266,6 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
-* `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -296,10 +300,12 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -320,6 +326,7 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
+* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -328,6 +335,8 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
+* `recife.br.`
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
@@ -345,6 +354,7 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
+* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
@@ -355,13 +365,14 @@
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
+* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -383,7 +394,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
@@ -393,6 +403,7 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
+* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
