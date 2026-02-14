@@ -99,6 +99,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -208,7 +209,6 @@
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
-* `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
@@ -223,7 +223,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -409,6 +408,7 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
