@@ -113,7 +113,6 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -140,7 +139,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
@@ -150,11 +148,11 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -165,12 +163,10 @@
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
-* `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
-* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
@@ -256,7 +252,6 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
-* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -283,10 +278,8 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
-* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
@@ -308,7 +301,6 @@
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
-* `org.tn.`
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
@@ -319,11 +311,9 @@
 * `pi.leg.br.`
 * `pics.`
 * `poa.br.`
-* `ponpes.id.`
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
-* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -360,7 +350,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
@@ -405,11 +394,9 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
