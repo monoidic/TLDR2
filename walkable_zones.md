@@ -99,9 +99,9 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -113,6 +113,7 @@
 * `dns.md.`
 * `dnsking.ch.`
 * `dnsnode.net.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -154,7 +155,6 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
-* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -284,6 +284,7 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
@@ -299,7 +300,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -405,9 +405,11 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
