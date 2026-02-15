@@ -10,7 +10,6 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -66,7 +65,6 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
-* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -133,7 +131,6 @@
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
-* `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `ewp.live.`
@@ -280,18 +277,15 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -349,7 +343,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -364,7 +357,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
@@ -379,11 +371,9 @@
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
-* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -409,7 +399,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
