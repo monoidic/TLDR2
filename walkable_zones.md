@@ -66,7 +66,6 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
-* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -101,6 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -111,7 +111,6 @@
 * `dns.br.`
 * `dns.md.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -154,7 +153,6 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
-* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -168,7 +166,6 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -283,10 +280,9 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
-* `nic.pics.`
+* `nic.mom.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -299,6 +295,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -404,7 +401,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
