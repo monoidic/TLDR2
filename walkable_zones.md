@@ -292,6 +292,7 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
+* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
