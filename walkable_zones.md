@@ -101,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -154,6 +155,7 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -171,7 +173,6 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
-* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -186,7 +187,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -279,7 +279,6 @@
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
@@ -381,7 +380,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tld.md.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
