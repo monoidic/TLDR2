@@ -3832,7 +3832,6 @@ co.	0	IN	NS	b.registrydns.co.
 co.	0	IN	NS	c.registrydns.co.
 co.	0	IN	NS	d.registrydns.co.
 co.	0	IN	DS	7786 8 2 eb84f864cbe86e913796d2c8dd81933aa2c94bbcfb73419a42250bc4650b081b
-co.	0	IN	DS	62110 8 2 4857ee1a85e661c92156ad09b40139dae7d5be37d117a1223289f0e20cf9d654
 a.registrydns.co.	0	IN	A	194.169.218.57
 a.registrydns.co.	0	IN	AAAA	2001:67c:13cc::1:57
 b.registrydns.co.	0	IN	A	185.24.64.57
@@ -4330,8 +4329,6 @@ cr.	0	IN	NS	ca2.nic.cr.
 cr.	0	IN	NS	dns.nic.cr.
 cr.	0	IN	DS	52616 13 2 32a4e37fd3637311376a54e6aaa0dadbe15a2c2f28e5c8cea1a2a197d5492a6f
 cr.	0	IN	DS	52616 13 4 410cc5c7602218cf3eebf89cdca774e8741a6a0528f13f956b1cb0a0c51663709a2474a74a9a1c87183d0f401a439248
-cr.	0	IN	DS	58628 13 2 774366be4cb919e7a17116beac78e6b2aff1c87cbf0462a17e9b03cede12daae
-cr.	0	IN	DS	58628 13 4 e574f2fc644d92a320775c9c5083166c5a6305652762a62f859405ff64fa61db503221c353d3be30f082e6e65c9e75c4
 ca1.nic.cr.	0	IN	A	185.159.197.100
 ca1.nic.cr.	0	IN	AAAA	2620:10a:80aa::100
 ca2.nic.cr.	0	IN	A	185.159.198.100
@@ -8880,6 +8877,7 @@ is.	0	IN	NS	b.nic.is.
 is.	0	IN	NS	c.nic.is.
 is.	0	IN	NS	d.nic.is.
 is.	0	IN	NS	e.nic.is.
+is.	0	IN	NS	f.nic.is.
 is.	0	IN	DS	46824 13 2 4a7ccf6f00d17b918a24a12e6e4f114899e423ea4abb9cf7519be81fa226e79b
 a.nic.is.	0	IN	A	185.93.156.10
 a.nic.is.	0	IN	AAAA	2001:67c:6c:56::10
@@ -8891,6 +8889,8 @@ d.nic.is.	0	IN	A	194.146.106.58
 d.nic.is.	0	IN	AAAA	2001:67c:1010:14::53
 e.nic.is.	0	IN	A	194.0.25.41
 e.nic.is.	0	IN	AAAA	2001:678:20::41
+f.nic.is.	0	IN	A	185.93.157.22
+f.nic.is.	0	IN	AAAA	2001:67c:6c:1000::22
 ismaili.	0	IN	NS	a0.nic.ismaili.
 ismaili.	0	IN	NS	a2.nic.ismaili.
 ismaili.	0	IN	NS	b0.nic.ismaili.
@@ -9392,6 +9392,10 @@ kfh.	0	IN	NS	a.nic.kfh.
 kfh.	0	IN	NS	b.nic.kfh.
 kfh.	0	IN	NS	c.nic.kfh.
 kfh.	0	IN	NS	d.nic.kfh.
+kfh.	0	IN	NS	ns01.trs-dns.com.
+kfh.	0	IN	NS	ns01.trs-dns.net.
+kfh.	0	IN	NS	ns10.trs-dns.org.
+kfh.	0	IN	NS	ns10.trs-dns.info.
 kfh.	0	IN	DS	19529 8 2 e6782b15580e48186716a8e819b8c8a382612e3518cdf0a40851543d3211ec4a
 kfh.	0	IN	DS	23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
 a.nic.kfh.	0	IN	A	194.169.218.43
@@ -11638,6 +11642,7 @@ mx.	0	IN	NS	m.mx-ns.mx.
 mx.	0	IN	NS	o.mx-ns.mx.
 mx.	0	IN	NS	x.mx-ns.mx.
 mx.	0	IN	DS	12884 8 2 250b2b75df2df867e7b8e362c52ee6e994d8aa0e4f850dd8bb94099daef2461d
+mx.	0	IN	DS	43850 8 2 3d4481f6dc8fa708903891bd06481c6069d37baa241022e3699ac8928693dbef
 c.mx-ns.mx.	0	IN	A	192.100.224.1
 c.mx-ns.mx.	0	IN	AAAA	2001:1258::1
 e.mx-ns.mx.	0	IN	A	189.201.244.1
@@ -20134,6 +20139,10 @@ xn--ngbe9e0a.	0	IN	NS	a.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	b.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	c.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	d.nic.xn--ngbe9e0a.
+xn--ngbe9e0a.	0	IN	NS	ns01.trs-dns.com.
+xn--ngbe9e0a.	0	IN	NS	ns01.trs-dns.net.
+xn--ngbe9e0a.	0	IN	NS	ns10.trs-dns.org.
+xn--ngbe9e0a.	0	IN	NS	ns10.trs-dns.info.
 xn--ngbe9e0a.	0	IN	DS	5347 8 2 6e02d3ee5a203293f8cbaf20686aecd516e1363e231ec6db68e78e9f48090e47
 xn--ngbe9e0a.	0	IN	DS	49747 8 2 6d343065191808281110ece8c0a9cb89612b03355524a7cbbbf9df0e95cfcdcb
 a.nic.xn--ngbe9e0a.	0	IN	A	194.169.218.22
