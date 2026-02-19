@@ -11,6 +11,7 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -300,6 +301,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
