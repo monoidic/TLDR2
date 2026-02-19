@@ -11,7 +11,6 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -271,6 +270,7 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
+* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -289,6 +289,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -299,7 +300,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
