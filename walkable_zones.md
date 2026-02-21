@@ -86,7 +86,6 @@
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
-* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -118,7 +117,6 @@
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
-* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -153,7 +151,6 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
-* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -202,7 +199,6 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -239,6 +235,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -248,6 +245,7 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
+* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -265,6 +263,7 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
@@ -302,6 +301,7 @@
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -322,7 +322,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -339,9 +338,9 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
-* `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
@@ -401,6 +400,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
