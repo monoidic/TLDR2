@@ -34,7 +34,6 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
-* `api.br.`
 * `app.br.`
 * `aquarelle.`
 * `arpa.`
@@ -86,6 +85,7 @@
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
+* `com.kz.`
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
@@ -117,6 +117,7 @@
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
+* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -151,6 +152,7 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
+* `g12.br.`
 * `game.`
 * `gdn.`
 * `geo.br.`
@@ -183,7 +185,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -199,6 +200,7 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -209,7 +211,6 @@
 * `kapsi.fi.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -244,7 +245,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -300,7 +300,6 @@
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
-* `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
@@ -322,6 +321,7 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
+* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -338,6 +338,7 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
+* `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
@@ -400,10 +401,10 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
+* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
