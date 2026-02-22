@@ -302,8 +302,8 @@ dns1.arc.net.my.	0	IN	A	203.115.225.11
 dns1.arc.net.my.	0	IN	AAAA	2001:c18:0:3001::11
 dns2.arc.net.my.	0	IN	A	203.115.225.12
 dns2.arc.net.my.	0	IN	AAAA	2001:c18:0:3001::12
-arcnet.net.my.	0	IN	NS	dns1.arc.net.my.
-arcnet.net.my.	0	IN	NS	dns2.arc.net.my.
+arcnet.net.my.	0	IN	NS	ns100.namewrap.com.
+arcnet.net.my.	0	IN	NS	ns101.namewrap.com.
 ares.net.my.	0	IN	NS	dns40.internet-webhosting.com.
 ares.net.my.	0	IN	NS	dns41.internet-webhosting.com.
 aria.net.my.	0	IN	NS	ns11.sec-node.com.
@@ -866,8 +866,8 @@ cybermall.net.my.	0	IN	NS	ns100581.securev.net.
 cybermall.net.my.	0	IN	NS	ns100582.securev.net.
 cybersecurity.net.my.	0	IN	NS	ns3.cybersecurity.my.
 cybersecurity.net.my.	0	IN	NS	cybersecurity.my.
-cybertech.net.my.	0	IN	NS	ns1.ipnames.net.
-cybertech.net.my.	0	IN	NS	ns2.ipnames.net.
+cybertech.net.my.	0	IN	NS	dns19.parkpage.foundationapi.com.
+cybertech.net.my.	0	IN	NS	dns20.parkpage.foundationapi.com.
 cyberworld.net.my.	0	IN	NS	ns100581.securev.net.
 cyberworld.net.my.	0	IN	NS	ns100582.securev.net.
 cyclone.net.my.	0	IN	NS	ns1.siklon.net.
