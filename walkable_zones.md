@@ -99,6 +99,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -263,6 +264,7 @@
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
+* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -277,6 +279,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -299,6 +302,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -313,6 +317,7 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -355,6 +360,7 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
+* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
