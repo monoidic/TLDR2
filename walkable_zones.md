@@ -21,6 +21,7 @@
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
+* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -100,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -126,6 +128,7 @@
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
+* `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
@@ -216,6 +219,7 @@
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
+* `lel.br.`
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
@@ -288,6 +292,7 @@
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
+* `nom.br.`
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
