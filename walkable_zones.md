@@ -104,7 +104,6 @@
 * `d-zone.ca.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -120,7 +119,6 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
-* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -138,7 +136,6 @@
 * `eti.br.`
 * `ewp.live.`
 * `far.br.`
-* `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
@@ -147,7 +144,6 @@
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
-* `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
@@ -160,9 +156,7 @@
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
-* `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -175,6 +169,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -198,7 +193,6 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -239,25 +233,20 @@
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
-* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
-* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
-* `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
-* `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
@@ -276,10 +265,8 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -290,7 +277,6 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -322,7 +308,6 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -333,7 +318,6 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -364,7 +348,6 @@
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -380,7 +363,6 @@
 * `tc.`
 * `tc.br.`
 * `tec.br.`
-* `tec.ve.`
 * `the.br.`
 * `tld.md.`
 * `tm.mc.`
@@ -395,7 +377,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
