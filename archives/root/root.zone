@@ -8431,7 +8431,6 @@ il.	0	IN	NS	nse.ns.il.
 il.	0	IN	NS	ilns.ilan.net.il.
 il.	0	IN	NS	lookup.iucc.ac.il.
 il.	0	IN	DS	35088 13 2 ac84d274e6bf42857b41def52d8e6a23853b00fe76b7fb70b97484ed49fea182
-il.	0	IN	DS	40239 13 2 687a4abeb697c30e24277072e0380161b84a6b0759f4998c32602d464feb0ca8
 lookup.iucc.ac.il.	0	IN	A	128.139.34.240
 lookup.iucc.ac.il.	0	IN	AAAA	2001:bf8:900:6::808b:22f0
 ilns.ilan.net.il.	0	IN	A	128.139.35.5
@@ -9114,14 +9113,12 @@ y.nic.jnj.	0	IN	A	212.18.248.161
 y.nic.jnj.	0	IN	AAAA	2a04:2b00:13ee::161
 z.nic.jnj.	0	IN	A	212.18.249.161
 z.nic.jnj.	0	IN	AAAA	2a04:2b00:13ff::161
+jo.	0	IN	NS	a.cctld-servers.net.jo.
 jo.	0	IN	NS	b.cctld-servers.net.jo.
 jo.	0	IN	NS	c.cctld-servers.net.jo.
 jo.	0	IN	NS	d.cctld-servers.net.jo.
 jo.	0	IN	NS	jo.cctld.authdns.ripe.net.
 jo.	0	IN	NS	rip.psg.com.
-jo.	0	IN	NS	petra.nic.gov.jo.
-petra.nic.gov.jo.	0	IN	A	193.188.66.2
-petra.nic.gov.jo.	0	IN	AAAA	2a02:9c0:0:407::2
 a.cctld-servers.net.jo.	0	IN	A	193.188.66.2
 a.cctld-servers.net.jo.	0	IN	AAAA	2a02:9c0:0:407::2
 b.cctld-servers.net.jo.	0	IN	A	193.188.66.103
@@ -9361,24 +9358,12 @@ b0.nic.kerryproperties.	0	IN	A	65.22.113.55
 b0.nic.kerryproperties.	0	IN	AAAA	2a01:8840:6f::55
 c0.nic.kerryproperties.	0	IN	A	65.22.114.55
 c0.nic.kerryproperties.	0	IN	AAAA	2a01:8840:70::55
-kfh.	0	IN	NS	a.nic.kfh.
-kfh.	0	IN	NS	b.nic.kfh.
-kfh.	0	IN	NS	c.nic.kfh.
-kfh.	0	IN	NS	d.nic.kfh.
 kfh.	0	IN	NS	ns01.trs-dns.com.
 kfh.	0	IN	NS	ns01.trs-dns.net.
 kfh.	0	IN	NS	ns10.trs-dns.org.
 kfh.	0	IN	NS	ns10.trs-dns.info.
 kfh.	0	IN	DS	19529 8 2 e6782b15580e48186716a8e819b8c8a382612e3518cdf0a40851543d3211ec4a
 kfh.	0	IN	DS	23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
-a.nic.kfh.	0	IN	A	194.169.218.43
-a.nic.kfh.	0	IN	AAAA	2001:67c:13cc::1:43
-b.nic.kfh.	0	IN	A	185.24.64.43
-b.nic.kfh.	0	IN	AAAA	2a04:2b00:13cc::1:43
-c.nic.kfh.	0	IN	A	212.18.248.43
-c.nic.kfh.	0	IN	AAAA	2a04:2b00:13ee::43
-d.nic.kfh.	0	IN	A	212.18.249.43
-d.nic.kfh.	0	IN	AAAA	2a04:2b00:13ff::43
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -14750,7 +14735,7 @@ sa.	0	IN	NS	p1.dns.sa.
 sa.	0	IN	NS	s1.dns.sa.
 sa.	0	IN	NS	s2.dns.sa.
 sa.	0	IN	NS	sh1.dns.sa.
-sa.	0	IN	DS	62932 8 2 2e80b1231d370f4933a26f19487946eaca1db9d41a53831c2a9e73368bbbaab5
+sa.	0	IN	DS	2990 8 2 9f357b0a83134174b0e581c252ad172e9e5f750ab95a4c900c9655a919b560c0
 c1.dns.sa.	0	IN	A	86.111.192.9
 c1.dns.sa.	0	IN	AAAA	2001:67c:18c8:c0::c1
 c2.dns.sa.	0	IN	A	86.111.196.9
@@ -20000,24 +19985,12 @@ y.nic.xn--ngbc5azd.	0	IN	A	156.154.173.82
 y.nic.xn--ngbc5azd.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.xn--ngbc5azd.	0	IN	A	156.154.174.82
 z.nic.xn--ngbc5azd.	0	IN	AAAA	2610:a1:1076::1:82
-xn--ngbe9e0a.	0	IN	NS	a.nic.xn--ngbe9e0a.
-xn--ngbe9e0a.	0	IN	NS	b.nic.xn--ngbe9e0a.
-xn--ngbe9e0a.	0	IN	NS	c.nic.xn--ngbe9e0a.
-xn--ngbe9e0a.	0	IN	NS	d.nic.xn--ngbe9e0a.
 xn--ngbe9e0a.	0	IN	NS	ns01.trs-dns.com.
 xn--ngbe9e0a.	0	IN	NS	ns01.trs-dns.net.
 xn--ngbe9e0a.	0	IN	NS	ns10.trs-dns.org.
 xn--ngbe9e0a.	0	IN	NS	ns10.trs-dns.info.
 xn--ngbe9e0a.	0	IN	DS	5347 8 2 6e02d3ee5a203293f8cbaf20686aecd516e1363e231ec6db68e78e9f48090e47
 xn--ngbe9e0a.	0	IN	DS	49747 8 2 6d343065191808281110ece8c0a9cb89612b03355524a7cbbbf9df0e95cfcdcb
-a.nic.xn--ngbe9e0a.	0	IN	A	194.169.218.22
-a.nic.xn--ngbe9e0a.	0	IN	AAAA	2001:67c:13cc::1:22
-b.nic.xn--ngbe9e0a.	0	IN	A	185.24.64.22
-b.nic.xn--ngbe9e0a.	0	IN	AAAA	2a04:2b00:13cc::1:22
-c.nic.xn--ngbe9e0a.	0	IN	A	212.18.248.22
-c.nic.xn--ngbe9e0a.	0	IN	AAAA	2a04:2b00:13ee::22
-d.nic.xn--ngbe9e0a.	0	IN	A	212.18.249.22
-d.nic.xn--ngbe9e0a.	0	IN	AAAA	2a04:2b00:13ff::22
 xn--ngbrx.	0	IN	NS	gtld.beta.aridns.net.au.
 xn--ngbrx.	0	IN	NS	gtld.alpha.aridns.net.au.
 xn--ngbrx.	0	IN	NS	gtld.delta.aridns.net.au.
