@@ -41,6 +41,7 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -53,6 +54,7 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -97,8 +99,11 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
+* `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
@@ -112,6 +117,7 @@
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
+* `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
@@ -150,6 +156,7 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
+* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
@@ -159,6 +166,7 @@
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
+* `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
@@ -202,6 +210,7 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -252,6 +261,7 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -266,6 +276,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -300,6 +311,7 @@
 * `org.tn.`
 * `org.ve.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -387,11 +399,14 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
+* `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
