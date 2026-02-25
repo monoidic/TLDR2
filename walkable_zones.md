@@ -25,6 +25,7 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -100,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -156,6 +158,7 @@
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
+* `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
@@ -244,6 +247,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -285,7 +289,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -302,8 +305,10 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
+* `org.mn.`
 * `org.pr.`
 * `org.tn.`
+* `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -318,6 +323,7 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
+* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -349,6 +355,7 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
+* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
