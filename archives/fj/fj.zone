@@ -6733,8 +6733,12 @@ itcns2.gov.fj.	0	IN	A	124.108.30.194
 itcns3.gov.fj.	0	IN	A	124.108.30.172
 itcns4.gov.fj.	0	IN	A	124.108.27.171
 govt.fj.	0	IN	NS	itcns3.gov.fj.
+govt.fj.	0	IN	NS	itcns3.govt.fj.
 govt.fj.	0	IN	NS	itcns4.gov.fj.
+govt.fj.	0	IN	NS	itcns4.govt.fj.
 govt.fj.	0	IN	DS	24198 7 2 03b97d16b914bcfabd5fd6e38b32943e1ae3a7b26af7554fc53bb678a53a1b60
+itcns3.govt.fj.	0	IN	A	124.108.30.172
+itcns4.govt.fj.	0	IN	A	124.108.27.171
 gransy-anycast1.fj.	0	IN	A	185.28.194.194
 gransy-anycast1.fj.	0	IN	AAAA	2a00:fea0:dead::beef
 gransy-anycast2.fj.	0	IN	A	185.38.108.108
