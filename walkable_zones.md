@@ -3,7 +3,6 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -114,7 +113,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -287,8 +285,8 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -387,6 +385,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
