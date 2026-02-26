@@ -3,6 +3,7 @@
 * `.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
@@ -98,9 +99,9 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -113,6 +114,7 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -267,7 +269,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -283,8 +284,8 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -297,6 +298,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
