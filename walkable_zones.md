@@ -154,6 +154,7 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -173,6 +174,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -281,6 +283,7 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
@@ -401,7 +404,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
