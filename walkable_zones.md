@@ -67,7 +67,6 @@
 * `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
-* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -101,9 +100,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
-* `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
@@ -154,10 +151,10 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
-* `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
@@ -270,7 +267,6 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
-* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -381,7 +377,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
