@@ -154,6 +154,7 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -179,7 +180,6 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
@@ -191,7 +191,6 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
-* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
@@ -222,7 +221,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -281,6 +279,7 @@
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
+* `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
@@ -347,7 +346,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -403,7 +401,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
