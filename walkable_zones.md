@@ -99,15 +99,14 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
@@ -154,7 +153,6 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
-* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -262,10 +260,8 @@
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
-* `net.kz.`
 * `net.lb.`
 * `net.pr.`
-* `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -328,6 +324,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
