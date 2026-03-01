@@ -76,6 +76,7 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
+* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -121,11 +122,13 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
+* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -151,6 +154,7 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
+* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -197,6 +201,7 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -323,7 +328,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -333,6 +337,7 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
+* `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
