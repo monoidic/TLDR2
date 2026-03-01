@@ -76,7 +76,6 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
-* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -122,13 +121,11 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
-* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -154,7 +151,6 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
-* `gdn.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -180,6 +176,7 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
+* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
@@ -191,6 +188,7 @@
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
+* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
@@ -199,7 +197,6 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -221,6 +218,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -335,7 +333,6 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
-* `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -346,6 +343,7 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
+* `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
