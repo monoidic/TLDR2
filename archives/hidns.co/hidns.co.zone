@@ -1206,7 +1206,9 @@ pay.hidns.co.	0	IN	NS	ns1.hostry.com.
 pay.hidns.co.	0	IN	NS	ns2.hostry.com.
 pay.hidns.co.	0	IN	NS	ns3.hostry.com.
 pay.hidns.co.	0	IN	NS	ns4.hostry.com.
-tg.pdns.hidns.co.	0	IN	CNAME	x.com.
+pdns.hidns.co.	0	IN	NS	ns1.vps8.zz.cd.
+pdns.hidns.co.	0	IN	NS	ns2.vps8.zz.cd.
+pdns.hidns.co.	0	IN	DS	10375 13 2 98ebd4e204265078033dade9f6e20efbe450bb50a64ec3d490e9944860a3f0ac
 pema.hidns.co.	0	IN	A	185.199.108.153
 pema.hidns.co.	0	IN	A	185.199.109.153
 pema.hidns.co.	0	IN	A	185.199.110.153
@@ -1640,8 +1642,7 @@ ql.wvvw.hidns.co.	0	IN	CNAME	qootxdjdihwc.ap-southeast-1.clawcloudrun.com.
 www.wvvw.hidns.co.	0	IN	CNAME	qootxdjdihwc.ap-southeast-1.clawcloudrun.com.
 wwdc.hidns.co.	0	IN	NS	zelda.ns.cloudflare.com.
 wwdc.hidns.co.	0	IN	NS	porter.ns.cloudflare.com.
-www.hidns.co.	0	IN	A	129.153.216.29
-www.hidns.co.	0	IN	AAAA	2603:c020:15:a700:ae98:750:3d62:2933
+www.hidns.co.	0	IN	CNAME	hidns.pages.dev.
 wwwqqq.hidns.co.	0	IN	NS	aspen.ns.cloudflare.com.
 wwwqqq.hidns.co.	0	IN	NS	javon.ns.cloudflare.com.
 wwww.hidns.co.	0	IN	NS	trey.ns.cloudflare.com.
