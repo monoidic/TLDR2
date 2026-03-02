@@ -168,7 +168,6 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -348,7 +347,6 @@
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
-* `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
