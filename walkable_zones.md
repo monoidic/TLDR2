@@ -101,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -141,7 +142,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -166,7 +166,6 @@
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
-* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
@@ -197,10 +196,8 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -211,7 +208,6 @@
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -287,13 +283,13 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
-* `not.br.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -305,7 +301,6 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
-* `org.mn.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
@@ -323,7 +318,6 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
