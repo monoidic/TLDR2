@@ -32,6 +32,7 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -40,6 +41,7 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -259,6 +261,7 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -316,6 +319,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -402,6 +406,7 @@
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
+* `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
