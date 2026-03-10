@@ -77,12 +77,10 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -210,7 +208,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -221,6 +218,7 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
+* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -248,7 +246,6 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -329,6 +326,7 @@
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
+* `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
@@ -361,7 +359,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
@@ -397,6 +394,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
