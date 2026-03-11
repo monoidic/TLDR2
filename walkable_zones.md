@@ -87,7 +87,6 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -101,7 +100,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -134,7 +132,6 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
-* `eti.br.`
 * `ewp.live.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -240,7 +237,6 @@
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
-* `mil.br.`
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
@@ -389,7 +385,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
