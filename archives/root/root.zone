@@ -4098,6 +4098,7 @@ comsec.	0	IN	NS	ac2.nstld.com.
 comsec.	0	IN	NS	ac3.nstld.com.
 comsec.	0	IN	NS	ac4.nstld.com.
 comsec.	0	IN	DS	34356 8 2 690fa5ece1031be50ddd9ac71d413546cb3d1f3d9914563c0b8c32e53f491b32
+comsec.	0	IN	DS	49881 13 2 bf4347fb6bb9c988295f26fadad5d8a07d6e2dae7248a99db78e77247a6305db
 condos.	0	IN	NS	v0n0.nic.condos.
 condos.	0	IN	NS	v0n1.nic.condos.
 condos.	0	IN	NS	v0n2.nic.condos.
@@ -11617,11 +11618,14 @@ my.	0	IN	NS	a.mynic.centralnic-dns.com.
 my.	0	IN	NS	b.mynic.centralnic-dns.com.
 my.	0	IN	NS	c.mynic.centralnic-dns.com.
 my.	0	IN	NS	d.mynic.centralnic-dns.com.
+my.	0	IN	NS	e.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
 my.	0	IN	DS	47187 13 2 8b70cf4c48233d0624556523ea52c524f157800b97445c6a62a8c078337567ae
 a.nic.my.	0	IN	A	103.44.108.53
 a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
+e.nic.my.	0	IN	A	152.69.217.125
+e.nic.my.	0	IN	AAAA	2603:c024:4518:ad60:242::2
 mz.	0	IN	NS	anyns.uem.mz.
 mz.	0	IN	NS	dzowo.uem.mz.
 mz.	0	IN	NS	ns-mz.afrinic.net.
@@ -16870,6 +16874,7 @@ tf.	0	IN	NS	d.nic.fr.
 tf.	0	IN	NS	f.ext.nic.fr.
 tf.	0	IN	NS	g.ext.nic.fr.
 tf.	0	IN	DS	61832 13 2 9b5c9089b84d2138e6c30163d9b169e6e793236827ce2a0eedab7cb96c644d83
+tf.	0	IN	DS	62518 13 2 aac6a2525351970888149d7140514a043da2e6a772dae56069a07f17863d9262
 tg.	0	IN	NS	ns1.nic.tg.
 tg.	0	IN	NS	ns1.admin.net.
 tg.	0	IN	NS	ns2.nic.tg.
@@ -19940,6 +19945,7 @@ xn--mgbx4cd0ab.	0	IN	NS	a.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	c.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	d.mynic.centralnic-dns.com.
+xn--mgbx4cd0ab.	0	IN	NS	e.nic.my.
 xn--mgbx4cd0ab.	0	IN	DS	15766 13 2 e1b9df06c9b2e9f67aa4f7afe4a20d0cc055abbae1ae5c72e967f2f11d417b71
 xn--mix891f.	0	IN	NS	a.monic.mo.
 xn--mix891f.	0	IN	NS	b.monic.mo.
