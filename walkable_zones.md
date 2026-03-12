@@ -59,6 +59,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -131,6 +132,7 @@
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
+* `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `ewp.live.`
@@ -207,7 +209,6 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
 * `kin.one.`
@@ -274,6 +275,7 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
+* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -288,6 +290,7 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
+* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -297,6 +300,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -369,6 +373,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
