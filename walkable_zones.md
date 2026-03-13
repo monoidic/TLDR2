@@ -2,7 +2,6 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -56,6 +55,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
@@ -98,8 +98,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -129,6 +129,7 @@
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
+* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
@@ -175,11 +176,13 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -205,6 +208,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -280,12 +284,10 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -332,11 +334,13 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
+* `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -354,6 +358,7 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
+* `sch.id.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
@@ -398,6 +403,7 @@
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
+* `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
