@@ -22,6 +22,7 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
+* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
@@ -54,6 +55,7 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
+* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -78,6 +80,7 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
+* `co.id.`
 * `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
@@ -161,7 +164,6 @@
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
-* `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
@@ -181,7 +183,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -220,14 +221,12 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -246,6 +245,7 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
+* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -254,6 +254,7 @@
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
+* `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
@@ -291,12 +292,10 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
-* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -328,6 +327,7 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
