@@ -9,8 +9,6 @@
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
-* `4lima.ch.`
-* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
@@ -23,7 +21,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -61,7 +58,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -101,6 +97,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -140,7 +137,6 @@
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -168,8 +164,6 @@
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
-* `gov.cl.`
-* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
@@ -186,7 +180,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -202,7 +195,6 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
-* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -252,7 +244,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -273,7 +264,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -290,7 +280,6 @@
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
-* `nog.community.`
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
@@ -300,7 +289,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -346,7 +334,6 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
-* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
@@ -359,7 +346,6 @@
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
-* `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
@@ -397,14 +383,12 @@
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
-* `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
-* `vlog.br.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
