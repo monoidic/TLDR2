@@ -42,7 +42,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -60,6 +59,8 @@
 * `bio.br.`
 * `biz.id.`
 * `biz.pr.`
+* `blog.br.`
+* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -242,7 +243,6 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -299,6 +299,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -385,9 +386,7 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `tourism.tn.`
-* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
