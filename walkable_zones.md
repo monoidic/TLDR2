@@ -32,6 +32,7 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -41,6 +42,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -322,6 +324,7 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -343,6 +346,7 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
+* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
