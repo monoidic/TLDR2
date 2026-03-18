@@ -6,6 +6,8 @@ nic.my.	0	IN	NS	d.mynic.centralnic-dns.com.
 nic.my.	0	IN	NS	f.nic.my.
 nic.my.	0	IN	DNSKEY	256 3 13 MqrQRhpnuqXF3mLM8eWK0FsCoNtoOwZoU4Bu/P3SmPui8IKTkJNNBOqyM74Mf8GMWEYf364jqUHai5VfZQSMzg== ;{id = 26139 (zsk), size = 256b}
 nic.my.	0	IN	DNSKEY	257 3 13 y4XJ0U4RjDytK5UWa9E5kmETeUSNTwywDaGoi1YkIUgc7k41lMT5QhyXderTH9Yf54gTzqYjiHeNuBrxTuuUHw== ;{id = 59356 (ksk), size = 256b}
+nic.my.	0	IN	CDS	59356 13 2 baf9c0699f70ac5f904f549c558dc1293e527c0415ad33d7c50d59450be76004
+nic.my.	0	IN	CDNSKEY	257 3 13 y4XJ0U4RjDytK5UWa9E5kmETeUSNTwywDaGoi1YkIUgc7k41lMT5QhyXderTH9Yf54gTzqYjiHeNuBrxTuuUHw==
 a.nic.my.	0	IN	A	103.44.108.53
 a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
 b.nic.my.	0	IN	A	103.44.108.153
