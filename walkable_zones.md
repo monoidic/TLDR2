@@ -66,7 +66,6 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
-* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -99,11 +98,12 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -207,7 +207,6 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
 * `kin.one.`
@@ -289,7 +288,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -359,7 +357,6 @@
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
-* `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
