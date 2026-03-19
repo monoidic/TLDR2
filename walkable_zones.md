@@ -109,6 +109,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -116,6 +117,7 @@
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
+* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -278,6 +280,7 @@
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
+* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
@@ -299,6 +302,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -338,6 +342,7 @@
 * `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
+* `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
@@ -373,6 +378,7 @@
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
+* `store.ve.`
 * `tc.`
 * `tc.br.`
 * `tec.br.`
