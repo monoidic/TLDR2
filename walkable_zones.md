@@ -61,7 +61,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -99,6 +98,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `def.br.`
@@ -108,7 +108,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -282,7 +281,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
