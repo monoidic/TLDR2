@@ -6,7 +6,6 @@
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
-* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -50,9 +49,7 @@
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
-* `barueri.br.`
 * `bd.`
-* `belem.br.`
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
@@ -75,7 +72,6 @@
 * `ch.`
 * `christmas.`
 * `ci.`
-* `cim.br.`
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
@@ -88,7 +84,6 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
-* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
@@ -109,7 +104,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -162,7 +156,6 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
-* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -195,7 +188,6 @@
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
-* `info.tn.`
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
@@ -248,7 +240,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -295,15 +286,12 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -317,7 +305,6 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
-* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -326,7 +313,6 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
-* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
