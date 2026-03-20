@@ -52,6 +52,7 @@
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
+* `belem.br.`
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
@@ -88,6 +89,7 @@
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
+* `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
@@ -236,6 +238,7 @@
 * `mat.br.`
 * `mc.`
 * `md.`
+* `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
@@ -255,11 +258,13 @@
 * `mythic-beasts.com.`
 * `name.pr.`
 * `nat.tn.`
+* `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
@@ -297,6 +302,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -391,8 +397,10 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
+* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
