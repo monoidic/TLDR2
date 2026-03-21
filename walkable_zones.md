@@ -253,9 +253,11 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
+* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -393,6 +395,7 @@
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
+* `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
