@@ -101,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -289,6 +288,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -311,6 +311,7 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
@@ -335,6 +336,7 @@
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
+* `recife.br.`
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
@@ -398,6 +400,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
