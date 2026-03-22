@@ -42,14 +42,12 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -111,7 +109,6 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -185,7 +182,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -215,7 +211,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -235,7 +230,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -327,7 +321,6 @@
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
-* `prof.pr.`
 * `psc.br.`
 * `psg.com.`
 * `psi.br.`
@@ -369,7 +362,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -400,7 +392,6 @@
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
-* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
