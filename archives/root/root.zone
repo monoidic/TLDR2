@@ -9364,7 +9364,6 @@ kfh.	0	IN	NS	ns01.trs-dns.net.
 kfh.	0	IN	NS	ns10.trs-dns.org.
 kfh.	0	IN	NS	ns10.trs-dns.info.
 kfh.	0	IN	DS	19529 8 2 e6782b15580e48186716a8e819b8c8a382612e3518cdf0a40851543d3211ec4a
-kfh.	0	IN	DS	23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
 kg.	0	IN	NS	kg.cctld.authdns.ripe.net.
 kg.	0	IN	NS	ns.kg.
 kg.	0	IN	NS	ns2.kg.
@@ -11663,7 +11662,7 @@ name.	0	IN	NS	ac1.nstld.com.
 name.	0	IN	NS	ac2.nstld.com.
 name.	0	IN	NS	ac3.nstld.com.
 name.	0	IN	NS	ac4.nstld.com.
-name.	0	IN	DS	52563 8 2 4e2671f0dbc3927d842053044c6a0cbf8b21e1e657de8bba99a4835031a85a41
+name.	0	IN	DS	34927 13 2 075d31f7850f617d05daf0253d146f73b148ef1bf84f43c888a17c161555a5d9
 navy.	0	IN	NS	v0n0.nic.navy.
 navy.	0	IN	NS	v0n1.nic.navy.
 navy.	0	IN	NS	v0n2.nic.navy.
@@ -12280,15 +12279,15 @@ nhk.	0	IN	NS	k.gmoregistry.net.
 nhk.	0	IN	NS	l.gmoregistry.net.
 nhk.	0	IN	DS	26765 8 2 6e9c65a3131229436d4c649a5b32377024f1a8d74ae38dfbadde3a007d00c6ae
 ni.	0	IN	NS	ns.ni.
-ni.	0	IN	NS	ns.uu.net.
-ni.	0	IN	NS	ns.ideay.net.ni.
 ni.	0	IN	NS	ns2.ni.
 ni.	0	IN	NS	ns3.ni.
+ni.	0	IN	NS	ns4.ni.
 ni.	0	IN	NS	dns-ext.nic.cr.
-ns.ideay.net.ni.	0	IN	A	186.1.31.8
 ns.ni.	0	IN	A	165.98.1.2
 ns2.ni.	0	IN	A	200.9.187.2
 ns3.ni.	0	IN	A	200.119.166.36
+ns4.ni.	0	IN	A	34.236.38.63
+ns4.ni.	0	IN	AAAA	2600:1f10:40b2:a5d6:6f85:ee80:d86c:6b90
 nico.	0	IN	NS	a.gmoregistry.net.
 nico.	0	IN	NS	b.gmoregistry.net.
 nico.	0	IN	NS	k.gmoregistry.net.
@@ -19985,7 +19984,6 @@ xn--ngbe9e0a.	0	IN	NS	ns01.trs-dns.com.
 xn--ngbe9e0a.	0	IN	NS	ns01.trs-dns.net.
 xn--ngbe9e0a.	0	IN	NS	ns10.trs-dns.org.
 xn--ngbe9e0a.	0	IN	NS	ns10.trs-dns.info.
-xn--ngbe9e0a.	0	IN	DS	5347 8 2 6e02d3ee5a203293f8cbaf20686aecd516e1363e231ec6db68e78e9f48090e47
 xn--ngbe9e0a.	0	IN	DS	49747 8 2 6d343065191808281110ece8c0a9cb89612b03355524a7cbbbf9df0e95cfcdcb
 xn--ngbrx.	0	IN	NS	gtld.beta.aridns.net.au.
 xn--ngbrx.	0	IN	NS	gtld.alpha.aridns.net.au.
@@ -20516,7 +20514,6 @@ youtube.	0	IN	DS	63811 8 2 704005247382f846eac39d9654488f071934fdf3e96c05be32660
 yt.	0	IN	NS	d.nic.fr.
 yt.	0	IN	NS	f.ext.nic.fr.
 yt.	0	IN	NS	g.ext.nic.fr.
-yt.	0	IN	DS	2488 13 2 185aed42dc3641ea53ec74c474aeaf72f049556fe306ded0e748b60c5fed1000
 yt.	0	IN	DS	43590 13 2 00f8e088993584877d22c0f104baec8d079d8fa690a9129f64357c4225b0433c
 yun.	0	IN	NS	ns1.teleinfo.cn.
 yun.	0	IN	NS	ns2.teleinfoo.com.

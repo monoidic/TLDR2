@@ -24,7 +24,6 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -210,6 +209,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -395,7 +395,6 @@
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
-* `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
