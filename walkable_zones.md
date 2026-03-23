@@ -2,6 +2,7 @@
 
 * `.`
 * `12hp.at.`
+* `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
@@ -100,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -251,6 +251,7 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
+* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -266,6 +267,7 @@
 * `net.tn.`
 * `net.ve.`
 * `nic.aquarelle.`
+* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -288,6 +290,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -390,11 +393,11 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
