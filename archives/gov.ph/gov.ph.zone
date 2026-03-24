@@ -12,6 +12,7 @@ gov.ph.	0	IN	MX	15 ne-mail1.gov.ph.
 gov.ph.	0	IN	MX	16 ne-mail2.gov.ph.
 gov.ph.	0	IN	DNSKEY	256 3 13 DegKzji9c03xfRCm0OygZNGb4hcr3xnSEl1j69mQ5OJVh4cPTHJcpeO3T/PiwYGGYraO+aYFEynTtJUpFHGfIg== ;{id = 20311 (zsk), size = 256b}
 gov.ph.	0	IN	DNSKEY	256 3 13 4dCfB0S5m9+K4BaZhiLj5/2K6Ru1fFrkSBTqsIeP53CSli05Cry5NNit3WWvS8Oq+OK+l5OE3H0p6oSh6QsZTg== ;{id = 36605 (zsk), size = 256b}
+gov.ph.	0	IN	DNSKEY	257 3 13 M6fyPYPue0SX9PBMZnnfKS7GmbhZQpdNNk02f6ltef6YQ/fcTIcVTbHgE1PTPJza3Dl525MHDfnNLe6e/rSI3w== ;{id = 41481 (ksk), size = 256b}
 gov.ph.	0	IN	DNSKEY	257 3 13 b9JFuC2mMsKwiPSqGKBkXf0s66yXNgShtMWL5S/Kc+kh3z6tPoZCUMfb7bmJ4F1kdTU7jqaZoBxdrWG00PzWXg== ;{id = 33207 (ksk), size = 256b}
 gov.ph.	0	IN	NSEC3PARAM	1 0 0 - 
 gov.ph.	0	IN	CDS	33207 13 2 26920f8bcd4d915110a62bd6acae8ab230f20c7b18efffcbdc604ec8be3ba8ae
@@ -5258,9 +5259,6 @@ panglaolgu.gov.ph.	0	IN	NS	ns5.dns.gov.ph.
 panglaolgu.gov.ph.	0	IN	NS	newscott.gov.ph.
 panglimaestino.gov.ph.	0	IN	NS	foovis1.ncc.gov.ph.
 panglimaestino.gov.ph.	0	IN	NS	foovis2.ncc.gov.ph.
-pangusog.gov.ph.	0	IN	NS	ns1.pangusog.gov.ph.
-pangusog.gov.ph.	0	IN	DS	58804 13 2 44a389ab6cc2ab9c0522e9e65ff5109dbb1b106aa2270c77c2e0cb74a18f3b1a
-ns1.pangusog.gov.ph.	0	IN	A	20.24.18.20
 paniquitarlac.gov.ph.	0	IN	NS	ns1.zoom.ph.
 paniquitarlac.gov.ph.	0	IN	NS	ns2.zoom.ph.
 paniquitarlac.gov.ph.	0	IN	NS	ns3.zoom.ph.
