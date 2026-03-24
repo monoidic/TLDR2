@@ -129,7 +129,6 @@
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
-* `er.`
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
@@ -302,7 +301,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
