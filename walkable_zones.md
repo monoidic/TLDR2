@@ -31,7 +31,6 @@
 * `am.leg.br.`
 * `anani.br.`
 * `anycast.co.tz.`
-* `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -394,7 +393,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
