@@ -40,6 +40,8 @@ prework() {
 
 	# idk
 	get_ns_ips
+	# .onion kept popping up smh
+	scan -maybe_zone
 }
 
 axfr() {
