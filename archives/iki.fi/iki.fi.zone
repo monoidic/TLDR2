@@ -644,6 +644,9 @@ ghost.iki.fi.	0	IN	NS	ns.iki.fi.
 ghost.iki.fi.	0	IN	NS	unk.fi.
 ghost.iki.fi.	0	IN	NS	moonlit.uusikaupunki.fi.
 ghost.iki.fi.	0	IN	RP	ghost.iki.fi. .
+gima.iki.fi.	0	IN	NS	jim.ns.cloudflare.com.
+gima.iki.fi.	0	IN	NS	iris.ns.cloudflare.com.
+gima.iki.fi.	0	IN	RP	gima.iki.fi. .
 glom.iki.fi.	0	IN	A	86.115.194.199
 glom.iki.fi.	0	IN	MX	10 glom.iki.fi.
 glom.iki.fi.	0	IN	RP	glom.iki.fi. .
@@ -3008,7 +3011,8 @@ toka.iki.fi.	0	IN	A	173.203.213.60
 toka.iki.fi.	0	IN	MX	10 toka.iki.fi.
 toka.iki.fi.	0	IN	RP	toka.iki.fi. .
 www.toka.iki.fi.	0	IN	CNAME	toka.iki.fi.
-tommif.iki.fi.	0	IN	MX	100 mail.iki.fi.
+tommif.iki.fi.	0	IN	NS	jim.ns.cloudflare.com.
+tommif.iki.fi.	0	IN	NS	iris.ns.cloudflare.com.
 tommif.iki.fi.	0	IN	RP	tommif.iki.fi. .
 tommo.iki.fi.	0	IN	NS	ns.iki.fi.
 tommo.iki.fi.	0	IN	NS	xfr0.zoneedit.com.
