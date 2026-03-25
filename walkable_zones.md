@@ -101,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -110,6 +111,7 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -268,24 +270,21 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
-* `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -298,7 +297,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -362,7 +360,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
-* `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
@@ -371,7 +368,6 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
-* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
@@ -398,7 +394,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
