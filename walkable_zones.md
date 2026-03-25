@@ -4,6 +4,7 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
+* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -21,6 +22,7 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
+* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
@@ -54,6 +56,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.ng.`
@@ -82,6 +85,7 @@
 * `co.ve.`
 * `cocca.fr.`
 * `col.ng.`
+* `com.bd.`
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
@@ -104,12 +108,15 @@
 * `des.br.`
 * `desa.id.`
 * `det.br.`
+* `dev.br.`
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -121,6 +128,7 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
+* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `es.leg.br.`
@@ -144,6 +152,8 @@
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
+* `foz.br.`
+* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -160,6 +170,7 @@
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
+* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
@@ -169,6 +180,8 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
+* `gv.ao.`
+* `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
@@ -181,6 +194,7 @@
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
+* `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
@@ -229,6 +243,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -263,6 +278,8 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -276,6 +293,7 @@
 * `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
+* `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
@@ -288,8 +306,10 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `ong.br.`
 * `or.id.`
 * `org.bd.`
+* `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
@@ -314,6 +334,7 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
+* `psc.br.`
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
@@ -334,6 +355,7 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -346,6 +368,7 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `se.`
 * `se.gov.br.`
@@ -355,6 +378,7 @@
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
+* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -374,6 +398,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
