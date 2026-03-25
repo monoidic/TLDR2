@@ -59,6 +59,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.ng.`
 * `biz.pr.`
 * `blog.br.`
 * `bmd.br.`
@@ -83,6 +84,7 @@
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
+* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -101,6 +103,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -140,6 +143,7 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ng.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -153,6 +157,7 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
+* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -227,6 +232,7 @@
 * `lol.`
 * `londrina.br.`
 * `lr.`
+* `ltd.ng.`
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
@@ -265,6 +271,7 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -310,6 +317,7 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `org.yt.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -318,6 +326,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
@@ -352,6 +361,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
