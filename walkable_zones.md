@@ -103,7 +103,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -118,9 +117,7 @@
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
-* `ecn.br.`
 * `edu.br.`
-* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
@@ -135,14 +132,11 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
-* `eti.br.`
 * `ewp.live.`
-* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
-* `fin.tn.`
 * `firm.ng.`
 * `firm.ve.`
 * `flog.br.`
@@ -167,13 +161,11 @@
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
-* `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
-* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
@@ -210,13 +202,10 @@
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
-* `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lactld.org.`
 * `lb.`
@@ -250,7 +239,6 @@
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
-* `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
@@ -266,7 +254,6 @@
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
-* `net.kz.`
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
@@ -284,7 +271,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -299,7 +285,6 @@
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
-* `nom.ve.`
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
@@ -310,7 +295,6 @@
 * `onion.`
 * `or.id.`
 * `org.bd.`
-* `org.bt.`
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
@@ -326,7 +310,6 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
-* `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
@@ -337,7 +320,6 @@
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
-* `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
@@ -362,7 +344,6 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
-* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
@@ -374,7 +355,6 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
-* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
