@@ -73,6 +73,7 @@
 * `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
+* `christmas.`
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
@@ -100,7 +101,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
