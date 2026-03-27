@@ -10,9 +10,11 @@
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -158,6 +160,7 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
+* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -226,12 +229,14 @@
 * `lr.`
 * `ma.gov.br.`
 * `ma.leg.br.`
+* `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
 * `md.`
+* `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
