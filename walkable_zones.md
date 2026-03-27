@@ -28,7 +28,9 @@
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
+* `am.leg.br.`
 * `anani.br.`
+* `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -47,6 +49,7 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -85,6 +88,7 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
+* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
@@ -165,9 +169,11 @@
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
+* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -267,6 +273,7 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
+* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -281,7 +288,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
