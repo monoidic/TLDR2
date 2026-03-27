@@ -101,6 +101,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -178,7 +179,6 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
@@ -216,7 +216,6 @@
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
-* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -287,6 +286,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -298,7 +298,6 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
-* `ong.br.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -311,7 +310,6 @@
 * `org.ve.`
 * `osasco.br.`
 * `pa.leg.br.`
-* `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
@@ -326,7 +324,6 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
-* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -403,6 +400,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
