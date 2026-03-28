@@ -99,6 +99,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `customer.mythic-beasts.com.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -123,11 +124,9 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
-* `eng.br.`
 * `ens.tn.`
 * `es.leg.br.`
 * `esp.br.`
@@ -209,6 +208,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -249,7 +249,6 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
-* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -316,7 +315,6 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `poa.br.`
 * `ponpes.id.`
@@ -343,7 +341,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -381,7 +378,6 @@
 * `tc.br.`
 * `tec.br.`
 * `tec.ve.`
-* `the.br.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -396,7 +392,6 @@
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
-* `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
