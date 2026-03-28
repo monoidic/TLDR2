@@ -14,6 +14,7 @@
 * `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
+* `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -76,6 +77,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -169,6 +171,7 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
+* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -176,10 +179,13 @@
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
+* `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -201,6 +207,7 @@
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
 * `kin.one.`
@@ -269,6 +276,7 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
+* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -325,6 +333,7 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
+* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -395,6 +404,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
