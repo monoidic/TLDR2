@@ -4747,6 +4747,8 @@ avisan.do.	0	IN	NS	dns1.midominio.do.
 avisan.do.	0	IN	NS	dns2.midominio.do.
 avisan.do.	0	IN	NS	dns3.midominio.do.
 avisan.do.	0	IN	NS	dns4.midominio.do.
+aviso.do.	0	IN	NS	dns1.midominio.do.
+aviso.do.	0	IN	NS	dns2.midominio.do.
 avlft.do.	0	IN	NS	ns1.vultr.com.
 avlft.do.	0	IN	NS	ns2.vultr.com.
 avn.do.	0	IN	NS	ns-262.awsdns-32.com.
@@ -29554,10 +29556,8 @@ maskotas.do.	0	IN	NS	dns1.midominio.do.
 maskotas.do.	0	IN	NS	dns2.midominio.do.
 maskotas.do.	0	IN	NS	dns3.midominio.do.
 maskotas.do.	0	IN	NS	dns4.midominio.do.
-maspatrimonio.do.	0	IN	NS	dns1.midominio.do.
-maspatrimonio.do.	0	IN	NS	dns2.midominio.do.
-maspatrimonio.do.	0	IN	NS	dns3.midominio.do.
-maspatrimonio.do.	0	IN	NS	dns4.midominio.do.
+maspatrimonio.do.	0	IN	NS	ns5.globalhostla.com.
+maspatrimonio.do.	0	IN	NS	ns6.globalhostla.com.
 masrd.do.	0	IN	NS	ns105.ovh.net.
 masrd.do.	0	IN	NS	dns105.ovh.net.
 masreservas.do.	0	IN	NS	dns1.midominio.do.
@@ -30098,6 +30098,10 @@ megamarket.do.	0	IN	NS	dns3.midominio.do.
 megamarket.do.	0	IN	NS	dns4.midominio.do.
 megapari.do.	0	IN	NS	daisy.ns.cloudflare.com.
 megapari.do.	0	IN	NS	gerald.ns.cloudflare.com.
+megaplax.do.	0	IN	NS	dns1.midominio.do.
+megaplax.do.	0	IN	NS	dns2.midominio.do.
+megaplax.do.	0	IN	NS	dns3.midominio.do.
+megaplax.do.	0	IN	NS	dns4.midominio.do.
 megaprint.do.	0	IN	NS	dns1.midominio.do.
 megaprint.do.	0	IN	NS	dns2.midominio.do.
 megaprint.do.	0	IN	NS	dns3.midominio.do.
@@ -35163,6 +35167,8 @@ p52.do.	0	IN	NS	ns3.netim.net.
 p52club.do.	0	IN	NS	ns1.netim.net.
 p52club.do.	0	IN	NS	ns2.netim.net.
 p52club.do.	0	IN	NS	ns3.netim.net.
+pabe.do.	0	IN	NS	ns1.isi.com.do.
+pabe.do.	0	IN	NS	ns2.isi.com.do.
 pabellondelafama.do.	0	IN	NS	ns-509.awsdns-63.com.
 pabellondelafama.do.	0	IN	NS	ns-994.awsdns-60.net.
 pabellondelafama.do.	0	IN	NS	ns-1417.awsdns-49.org.
@@ -44062,8 +44068,10 @@ split.do.	0	IN	NS	dns3.midominio.do.
 split.do.	0	IN	NS	dns4.midominio.do.
 spm.do.	0	IN	NS	ns1.spm.do.
 spm.do.	0	IN	NS	ns2.spm.do.
-ns1.spm.do.	0	IN	A	152.53.241.28
+spm.do.	0	IN	NS	ns3.spm.do.
+ns1.spm.do.	0	IN	A	152.53.167.172
 ns2.spm.do.	0	IN	A	152.53.82.53
+ns3.spm.do.	0	IN	A	152.53.241.28
 spoilerplus.do.	0	IN	NS	1-you.njalla.no.
 spoilerplus.do.	0	IN	NS	2-can.njalla.in.
 spoilerplus.do.	0	IN	NS	3-get.njalla.fo.
