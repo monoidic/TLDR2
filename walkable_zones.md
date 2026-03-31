@@ -23,7 +23,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -61,7 +60,6 @@
 * `biz.id.`
 * `biz.pr.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -110,7 +108,6 @@
 * `df.leg.br.`
 * `diet.`
 * `dns.br.`
-* `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
@@ -166,7 +163,6 @@
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
-* `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
@@ -187,7 +183,6 @@
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
-* `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
 * `ind.br.`
@@ -252,7 +247,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -332,14 +326,12 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
-* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
-* `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
