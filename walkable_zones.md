@@ -42,6 +42,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -54,7 +55,6 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
-* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -166,7 +166,6 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -210,6 +209,7 @@
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lactld.org.`
@@ -219,6 +219,7 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
+* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -229,7 +230,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -240,7 +240,6 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -249,7 +248,6 @@
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
-* `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pr.`
@@ -266,6 +264,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -321,7 +320,6 @@
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -340,6 +338,7 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
+* `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
@@ -356,6 +355,7 @@
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
+* `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `se.`
@@ -378,7 +378,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
@@ -387,6 +386,7 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
