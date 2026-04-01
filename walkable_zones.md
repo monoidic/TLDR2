@@ -81,6 +81,7 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
+* `co.ve.`
 * `cocca.fr.`
 * `com.bd.`
 * `com.bt.`
@@ -177,6 +178,7 @@
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -345,6 +347,7 @@
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
@@ -356,6 +359,7 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
+* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
@@ -369,6 +373,7 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
+* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
