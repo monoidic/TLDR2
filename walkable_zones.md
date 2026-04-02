@@ -58,7 +58,6 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
-* `biz.id.`
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
@@ -143,7 +142,6 @@
 * `feira.br.`
 * `fin.tn.`
 * `firm.ve.`
-* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -248,7 +246,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -280,7 +277,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -338,7 +334,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `registry.in.`
 * `rep.br.`
@@ -378,7 +373,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -419,7 +413,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
