@@ -6,7 +6,6 @@ net.my.	0	IN	NS	d.mynic.centralnic-dns.com.
 net.my.	0	IN	NS	e.nic.my.
 net.my.	0	IN	NS	ns01.trs-dns.com.
 net.my.	0	IN	NS	ns01.trs-dns.net.
-net.my.	0	IN	DNSKEY	256 3 13 LqC1ZsirhwlZmAncY/y7ERJB3LHnTSOC/179cEHtc7dcy+62SC/dqf9+9y+8MAzzywOYDTJaJt4VPkK+7BjRDw== ;{id = 26912 (zsk), size = 256b}
 net.my.	0	IN	DNSKEY	256 3 13 OPC8scKfwgQ2gjD8IlncfrgguYS3/THNkCn7B3eJqO0nKLR1ZXcHLaK8wMIDyTKhJPZUfK3duCjRVYc6N/a/oQ== ;{id = 64911 (zsk), size = 256b}
 net.my.	0	IN	DNSKEY	257 3 13 pgXPvmYX13uEIulJJazlrDR48Ohaz3P6aEHSkFE2p5GbyPl/Y8LrcWsj9hmJpBn5mRdx7L3cUXmsbCddeDwqoA== ;{id = 53832 (ksk), size = 256b}
 net.my.	0	IN	NSEC3PARAM	1 0 0 - 
@@ -2368,6 +2367,8 @@ mega.net.my.	0	IN	NS	ns135.mschosting.cloud.
 mega.net.my.	0	IN	NS	ns136.mschosting.cloud.
 megacity.net.my.	0	IN	NS	dave.ns.cloudflare.com.
 megacity.net.my.	0	IN	NS	olga.ns.cloudflare.com.
+megacity.net.my.	0	IN	NS	ns100.namewrap.com.
+megacity.net.my.	0	IN	NS	ns101.namewrap.com.
 megapower.net.my.	0	IN	NS	ns1519.securen.net.
 megapower.net.my.	0	IN	NS	ns1520.securen.net.
 meijia.net.my.	0	IN	NS	seans21.hostwindsdns.com.
@@ -3411,6 +3412,8 @@ server.net.my.	0	IN	NS	ns2.mesradns.net.
 serverpark.net.my.	0	IN	NS	ns7.agnx.com.
 serverpark.net.my.	0	IN	NS	ns8.agnx.com.
 serverpark.net.my.	0	IN	NS	ns9.agnx.com.
+service.net.my.	0	IN	NS	ns100.namewrap.com.
+service.net.my.	0	IN	NS	ns101.namewrap.com.
 service.net.my.	0	IN	NS	pdns1.serverfreak.biz.
 service.net.my.	0	IN	NS	pdns2.serverfreak.biz.
 sesb.net.my.	0	IN	NS	ns-1510.ipxcdn.com.
@@ -3900,8 +3903,6 @@ truesecuretech.net.my.	0	IN	NS	ns1561.securen.net.
 truesecuretech.net.my.	0	IN	NS	ns1562.securen.net.
 trustpattern.net.my.	0	IN	NS	coco.bunny.net.
 trustpattern.net.my.	0	IN	NS	kiki.bunny.net.
-tsg.net.my.	0	IN	NS	ns1519.securen.net.
-tsg.net.my.	0	IN	NS	ns1520.securen.net.
 tsg.net.my.	0	IN	NS	ns1555.securen.net.
 tsg.net.my.	0	IN	NS	ns1556.securen.net.
 tsi.net.my.	0	IN	NS	ns1.dnsvine.com.

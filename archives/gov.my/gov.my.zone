@@ -6,7 +6,6 @@ gov.my.	0	IN	NS	d.mynic.centralnic-dns.com.
 gov.my.	0	IN	NS	e.nic.my.
 gov.my.	0	IN	NS	ns01.trs-dns.com.
 gov.my.	0	IN	NS	ns01.trs-dns.net.
-gov.my.	0	IN	DNSKEY	256 3 13 PI6QN4IuVrxSGBLR48XJte4/ZDOsQeXdWWAvfA/siqlk6vqOJiDUBbtsx06LHf+Kkbb6yz0tFap7aH+PnPuumw== ;{id = 20756 (zsk), size = 256b}
 gov.my.	0	IN	DNSKEY	256 3 13 XOk+VjPgmVS1q7UrVP1V2fVT3P4RjYMuK2X3iveLe0dhzt9o/6boWIkxzmFuJPpAqImgWEPQdwFsH61UmHiajQ== ;{id = 47199 (zsk), size = 256b}
 gov.my.	0	IN	DNSKEY	257 3 13 q8ZG3JAYfBfSXiQSZvQg+ekBkFhEf0cNlAAf5Eitt16y1YtVXZKmpqCZ93fbmFSykLccPYmSXkQ9o42E/gIr8Q== ;{id = 52927 (ksk), size = 256b}
 gov.my.	0	IN	NSEC3PARAM	1 0 0 - 
@@ -2182,8 +2181,6 @@ mppd.gov.my.	0	IN	NS	dns1.gitn.net.my.
 mppd.gov.my.	0	IN	NS	dns2.gitn.net.my.
 mppd.gov.my.	0	IN	DS	41524 8 1 f82e3d6753dbcfe9ad904e1424ccde9683ef3ec9
 mppd.gov.my.	0	IN	DS	41524 8 2 1446222c2257f4057c8e008ff007f627f1420ba2f418ab9133dbbb8e990bd208
-mppd2.gov.my.	0	IN	NS	ns1.awedns.com.
-mppd2.gov.my.	0	IN	NS	ns2.awedns.com.
 mppengerang.gov.my.	0	IN	NS	dns1.gitn.net.my.
 mppengerang.gov.my.	0	IN	NS	dns2.gitn.net.my.
 mppengerang.gov.my.	0	IN	DS	35131 8 1 a53b6f2db9ca08843d10a9152d112f87d898e191
@@ -2965,8 +2962,6 @@ ppdkintautara.gov.my.	0	IN	NS	dns1.serverfreak.biz.
 ppdkintautara.gov.my.	0	IN	NS	dns2.serverfreak.biz.
 ppj.gov.my.	0	IN	NS	ns1.ppj.gov.my.
 ppj.gov.my.	0	IN	NS	ns2.ppj.gov.my.
-ppj.gov.my.	0	IN	DS	50161 8 1 5983950becf11eb058265cc19cc2876f54735d36
-ppj.gov.my.	0	IN	DS	50161 8 2 3eaa77d69d0ea237d0a2c4f8563e856679d1211178a3563d7154d94010b13713
 ns1.ppj.gov.my.	0	IN	A	218.208.115.68
 ns2.ppj.gov.my.	0	IN	A	218.208.114.28
 pplrnk.gov.my.	0	IN	NS	ns1.ejoesolutions.com.
@@ -3038,8 +3033,6 @@ pusaka.gov.my.	0	IN	NS	ns3.sains.com.my.
 pusaka.gov.my.	0	IN	NS	ns4.sains.com.my.
 putrajaya.gov.my.	0	IN	NS	ns1.ppj.gov.my.
 putrajaya.gov.my.	0	IN	NS	ns2.ppj.gov.my.
-putrajaya.gov.my.	0	IN	DS	7579 8 1 1a3d68ed06ac8b561261ea7615cb468fa9d3ad23
-putrajaya.gov.my.	0	IN	DS	7579 8 2 deac4e4fd7f4d4c5248f887c34d484cd58706c317e8e5dab93e5180649d260f9
 rac.gov.my.	0	IN	NS	dns1.gitn.net.my.
 rac.gov.my.	0	IN	NS	dns2.gitn.net.my.
 rac.gov.my.	0	IN	DS	3322 8 1 496b56adb2e28cfe509c1b8a60a7593a5ff7ac52
