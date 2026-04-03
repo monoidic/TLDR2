@@ -26,6 +26,7 @@
 * `aju.br.`
 * `al.leg.br.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `ap.leg.br.`
