@@ -38,7 +38,6 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -150,14 +149,12 @@
 * `gdn.`
 * `gen.ng.`
 * `geo.br.`
-* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
-* `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
@@ -173,7 +170,6 @@
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
-* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -206,7 +202,6 @@
 * `kdns.fr.`
 * `kg.`
 * `kin.one.`
-* `kin.pub.`
 * `kz.`
 * `lb.`
 * `leg.br.`
@@ -259,7 +254,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `ngo.ng.`
 * `nic.in.`
 * `nic.za.`
 * `niteroi.br.`
@@ -273,6 +267,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -302,7 +297,6 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
-* `psc.br.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -333,7 +327,6 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
-* `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
