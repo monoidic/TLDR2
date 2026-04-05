@@ -33,6 +33,7 @@
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
+* `aquarelle.`
 * `arpa.`
 * `arq.br.`
 * `art.br.`
@@ -40,6 +41,8 @@
 * `asso.mc.`
 * `ato.br.`
 * `audio.`
+* `auto.`
+* `ax.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -68,6 +71,7 @@
 * `caxias.br.`
 * `ce.leg.br.`
 * `ch.`
+* `christmas.`
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
@@ -147,6 +151,7 @@
 * `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
+* `gn.`
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
@@ -224,6 +229,7 @@
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
+* `mc.`
 * `md.`
 * `med.br.`
 * `mg.leg.br.`
@@ -312,6 +318,7 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
@@ -336,7 +343,6 @@
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
-* `snowflake.app.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
