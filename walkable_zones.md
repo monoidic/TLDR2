@@ -204,7 +204,6 @@
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lb.`
@@ -246,7 +245,6 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
-* `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -266,7 +264,6 @@
 * `nom.br.`
 * `nom.ve.`
 * `nom.za.`
-* `not.br.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -317,7 +314,6 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
-* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
@@ -338,7 +334,6 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
-* `se.leg.br.`
 * `seg.br.`
 * `sjc.br.`
 * `slg.br.`
