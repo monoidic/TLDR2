@@ -45,6 +45,7 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -104,7 +105,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -143,6 +143,7 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
+* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -189,6 +190,7 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
+* `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -229,6 +231,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -269,6 +272,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -329,6 +333,7 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
+* `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
