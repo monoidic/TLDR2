@@ -2,9 +2,7 @@
 
 * `.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
@@ -58,7 +56,6 @@
 * `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
-* `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
@@ -105,6 +102,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -116,7 +114,6 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
 * `emprende.ve.`
 * `enf.br.`
@@ -197,13 +194,13 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
-* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lb.`
@@ -245,8 +242,8 @@
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `name.pm.`
 * `name.pr.`
-* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -255,7 +252,6 @@
 * `net.lb.`
 * `net.pr.`
 * `net.tn.`
-* `net.ve.`
 * `ngo.ng.`
 * `nic.in.`
 * `nic.za.`
@@ -263,7 +259,7 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
-* `nom.za.`
+* `not.br.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -281,7 +277,6 @@
 * `org.tn.`
 * `org.ve.`
 * `org.yt.`
-* `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -314,10 +309,10 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -334,6 +329,7 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `sjc.br.`
 * `slg.br.`
@@ -377,6 +373,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
