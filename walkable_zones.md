@@ -28,7 +28,6 @@
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `anani.br.`
 * `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
@@ -188,7 +187,6 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
-* `info.ve.`
 * `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
@@ -315,7 +313,6 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
-* `riopreto.br.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -338,10 +335,8 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
-* `seg.br.`
 * `sjc.br.`
 * `slg.br.`
-* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -381,6 +376,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
