@@ -5,7 +5,6 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `2ix.at.`
-* `2ix.ch.`
 * `2ix.de.`
 * `4.at.`
 * `4lima.at.`
@@ -81,6 +80,7 @@
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
+* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -134,7 +134,6 @@
 * `feira.br.`
 * `fin.tn.`
 * `firm.ng.`
-* `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
@@ -149,7 +148,6 @@
 * `gdn.`
 * `gen.ng.`
 * `geo.br.`
-* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
@@ -170,7 +168,6 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
-* `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
@@ -186,7 +183,6 @@
 * `ind.br.`
 * `ind.tn.`
 * `inf.br.`
-* `info.pr.`
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
@@ -202,6 +198,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -209,9 +206,7 @@
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
-* `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -246,7 +241,6 @@
 * `my.de.`
 * `my.id.`
 * `name.pm.`
-* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -271,7 +265,6 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -298,7 +291,6 @@
 * `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
-* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -312,7 +304,6 @@
 * `recife.br.`
 * `rep.br.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -322,7 +313,6 @@
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
