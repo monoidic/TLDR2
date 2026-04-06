@@ -81,7 +81,6 @@
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
-* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -96,6 +95,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `def.br.`
 * `des.br.`
@@ -104,6 +104,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -201,7 +202,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -271,6 +271,7 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `onion.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
