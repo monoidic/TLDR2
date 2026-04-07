@@ -82,6 +82,7 @@
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
+* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -105,7 +106,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
