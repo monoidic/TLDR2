@@ -21,7 +21,6 @@
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
-* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -45,6 +44,7 @@
 * `ax.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -63,6 +63,7 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
+* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -78,20 +79,18 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
-* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
+* `com.tn.`
 * `com.ve.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
-* `copro.uk.`
 * `coz.br.`
-* `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
@@ -103,7 +102,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -128,7 +126,6 @@
 * `ewp.live.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ng.`
@@ -159,7 +156,6 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
@@ -176,7 +172,6 @@
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
-* `id.`
 * `id.pub.`
 * `iki.fi.`
 * `imb.br.`
@@ -212,7 +207,6 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
-* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -222,6 +216,7 @@
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
+* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -241,15 +236,16 @@
 * `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
+* `my.de.`
 * `my.id.`
 * `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
-* `net.bt.`
 * `net.id.`
 * `net.kz.`
+* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -260,6 +256,7 @@
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `ntr.br.`
 * `nu.`
@@ -331,6 +328,7 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `sjc.br.`
 * `slg.br.`
@@ -356,7 +354,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
