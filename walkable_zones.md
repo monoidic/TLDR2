@@ -23,6 +23,7 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
+* `aju.br.`
 * `al.leg.br.`
 * `am.br.`
 * `am.gov.br.`
@@ -45,6 +46,7 @@
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
+* `barueri.br.`
 * `bd.`
 * `belem.br.`
 * `bet.br.`
@@ -67,6 +69,7 @@
 * `car.`
 * `cars.`
 * `caxias.br.`
+* `cci.fr.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -79,7 +82,6 @@
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
-* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -103,6 +105,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
@@ -203,6 +206,7 @@
 * `kdns.fr.`
 * `kg.`
 * `kin.one.`
+* `kin.pub.`
 * `kz.`
 * `lb.`
 * `leg.br.`
