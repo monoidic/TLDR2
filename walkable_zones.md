@@ -22,7 +22,6 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
-* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `am.br.`
@@ -236,7 +235,6 @@
 * `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
-* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -326,7 +324,6 @@
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
-* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
