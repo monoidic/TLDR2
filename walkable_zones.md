@@ -106,6 +106,7 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
