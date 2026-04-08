@@ -1,14 +1,15 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
-* `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `2ix.at.`
 * `2ix.ch.`
+* `2ix.de.`
 * `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
@@ -22,7 +23,7 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `ap.leg.br.`
@@ -39,6 +40,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -75,7 +77,9 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `col.ng.`
 * `com.bd.`
+* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -93,6 +97,7 @@
 * `cw.`
 * `cy.`
 * `def.br.`
+* `des.br.`
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
@@ -116,6 +121,7 @@
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -135,6 +141,7 @@
 * `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
+* `foz.br.`
 * `fst.br.`
 * `g12.br.`
 * `game.`
@@ -145,6 +152,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -312,30 +320,34 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
-* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
+* `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
+* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
+* `tc.br.`
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
@@ -346,6 +358,7 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
+* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `udi.br.`
@@ -355,6 +368,7 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
+* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
 * `web.id.`
