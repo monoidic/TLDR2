@@ -97,7 +97,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `def.br.`
 * `des.br.`
@@ -109,6 +108,7 @@
 * `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
+* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -122,6 +122,7 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
+* `ens.tn.`
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
@@ -147,6 +148,7 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
+* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -196,6 +198,7 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
+* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
@@ -313,6 +316,7 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
+* `riopreto.br.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
