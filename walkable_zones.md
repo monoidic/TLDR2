@@ -52,6 +52,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.ng.`
@@ -79,6 +80,7 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -102,11 +104,11 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -120,7 +122,6 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
@@ -146,7 +147,6 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -172,9 +172,11 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
+* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -194,10 +196,10 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
-* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
+* `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
 * `kin.one.`
@@ -227,6 +229,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -249,6 +252,7 @@
 * `net.bt.`
 * `net.id.`
 * `net.kz.`
+* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -309,7 +313,6 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
-* `riopreto.br.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -339,13 +342,16 @@
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
+* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
 * `tc.br.`
+* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
+* `tmp.br.`
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
