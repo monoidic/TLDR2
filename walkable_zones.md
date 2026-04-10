@@ -11,11 +11,13 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -35,6 +37,7 @@
 * `arpa.`
 * `arq.br.`
 * `art.br.`
+* `arts.ve.`
 * `asso.mc.`
 * `ato.br.`
 * `audio.`
@@ -82,6 +85,7 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
+* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -98,13 +102,13 @@
 * `def.br.`
 * `des.br.`
 * `desa.id.`
+* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
 * `dnsking.ch.`
 * `dnsupdate.info.`
 * `dz.`
-* `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
@@ -132,6 +136,7 @@
 * `fin.tn.`
 * `firm.ng.`
 * `firm.ve.`
+* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -140,7 +145,9 @@
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
+* `g12.br.`
 * `game.`
+* `gdn.`
 * `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
@@ -155,9 +162,10 @@
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
-* `gov.cl.`
+* `gov.bt.`
 * `gov.kz.`
 * `gov.lb.`
+* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -169,7 +177,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -183,7 +190,6 @@
 * `info.ve.`
 * `int.ve.`
 * `intl.tn.`
-* `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
@@ -204,7 +210,6 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -219,7 +224,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -243,6 +247,7 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
+* `net.bt.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -263,9 +268,12 @@
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
+* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
+* `org.kz.`
+* `org.lb.`
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
@@ -275,6 +283,8 @@
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
+* `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -320,6 +330,7 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
+* `sch.wf.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
@@ -346,6 +357,7 @@
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
+* `tur.br.`
 * `tv.br.`
 * `udi.br.`
 * `uri.arpa.`
