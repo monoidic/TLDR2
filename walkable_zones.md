@@ -12,7 +12,6 @@
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
-* `9guacu.br.`
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
@@ -28,8 +27,6 @@
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `anani.br.`
-* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -51,7 +48,6 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
-* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -205,7 +201,6 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kdns.fr.`
-* `kg.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
@@ -321,7 +316,6 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -338,13 +332,10 @@
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
-* `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
-* `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
@@ -375,6 +366,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
