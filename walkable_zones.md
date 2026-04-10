@@ -26,6 +26,7 @@
 * `aju.br.`
 * `al.leg.br.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `ap.leg.br.`
@@ -64,6 +65,7 @@
 * `bsb.br.`
 * `bt.`
 * `campinagrande.br.`
+* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -79,6 +81,7 @@
 * `co.id.`
 * `co.ve.`
 * `col.ng.`
+* `com.bd.`
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
@@ -104,6 +107,7 @@
 * `df.leg.br.`
 * `diet.`
 * `dnsking.ch.`
+* `dnsupdate.info.`
 * `dz.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -115,6 +119,7 @@
 * `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
+* `ee.`
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
@@ -130,12 +135,14 @@
 * `fedorapeople.org.`
 * `feira.br.`
 * `fin.tn.`
+* `firm.ng.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
+* `fortal.br.`
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
@@ -146,6 +153,8 @@
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
+* `go.gov.br.`
+* `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
@@ -161,9 +170,11 @@
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
+* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
+* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
@@ -344,6 +355,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
@@ -375,3 +387,4 @@
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
+* `zlg.br.`
