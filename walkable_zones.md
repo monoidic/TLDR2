@@ -149,6 +149,7 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
+* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -190,6 +191,7 @@
 * `info.pr.`
 * `info.tn.`
 * `info.ve.`
+* `int.ve.`
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
@@ -322,6 +324,7 @@
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
