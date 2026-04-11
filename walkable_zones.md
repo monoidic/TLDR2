@@ -26,7 +26,6 @@
 * `aju.br.`
 * `al.leg.br.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `ap.leg.br.`
@@ -57,6 +56,7 @@
 * `biz.id.`
 * `biz.ng.`
 * `biz.pr.`
+* `biz.wf.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -69,6 +69,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -95,6 +96,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `def.br.`
 * `des.br.`
@@ -146,6 +148,7 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
+* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -154,6 +157,7 @@
 * `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
+* `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
@@ -230,8 +234,10 @@
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
+* `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
@@ -240,6 +246,7 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
+* `my.id.`
 * `name.pm.`
 * `name.pr.`
 * `nat.tn.`
@@ -274,6 +281,7 @@
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
 * `org.yt.`
 * `orx.biz.`
