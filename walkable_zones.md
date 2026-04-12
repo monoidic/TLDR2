@@ -26,7 +26,6 @@
 * `aju.br.`
 * `al.leg.br.`
 * `am.br.`
-* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
 * `ap.leg.br.`
@@ -70,7 +69,6 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
-* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -82,7 +80,6 @@
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
-* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -287,7 +284,6 @@
 * `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -333,7 +329,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
