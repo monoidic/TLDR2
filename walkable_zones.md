@@ -17,7 +17,6 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
-* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -68,7 +67,6 @@
 * `campinas.br.`
 * `car.`
 * `cars.`
-* `caxias.br.`
 * `cci.fr.`
 * `ce.leg.br.`
 * `ch.`
@@ -78,7 +76,6 @@
 * `cloud.fedoraproject.org.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
@@ -127,7 +124,6 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `ewp.live.`
 * `far.br.`
@@ -244,7 +240,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -263,7 +258,6 @@
 * `ngo.ng.`
 * `nic.in.`
 * `nic.za.`
-* `niteroi.br.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -287,8 +281,8 @@
 * `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
+* `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
@@ -305,7 +299,6 @@
 * `psc.br.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -323,7 +316,6 @@
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
