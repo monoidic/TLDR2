@@ -13,7 +13,6 @@
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
-* `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
@@ -26,9 +25,9 @@
 * `aju.br.`
 * `al.leg.br.`
 * `am.br.`
+* `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
-* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -37,7 +36,6 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
-* `asso.mc.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -54,7 +52,6 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
@@ -69,6 +66,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -80,6 +78,7 @@
 * `co.ve.`
 * `col.ng.`
 * `com.bd.`
+* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
@@ -121,7 +120,6 @@
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
-* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -142,7 +140,6 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
-* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -178,7 +175,6 @@
 * `ia.br.`
 * `ia.ve.`
 * `id.`
-* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -221,7 +217,6 @@
 * `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -230,7 +225,6 @@
 * `mc.`
 * `md.`
 * `med.br.`
-* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -239,7 +233,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
@@ -284,11 +277,11 @@
 * `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
-* `pi.leg.br.`
 * `pics.`
 * `plc.ng.`
 * `poa.br.`
@@ -303,7 +296,6 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
-* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -311,7 +303,6 @@
 * `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
-* `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
 * `rj.leg.br.`
@@ -320,7 +311,6 @@
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
-* `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
@@ -335,13 +325,11 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
-* `seg.br.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
@@ -354,7 +342,6 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
-* `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
