@@ -27,7 +27,6 @@
 * `al.leg.br.`
 * `am.br.`
 * `am.gov.br.`
-* `am.leg.br.`
 * `anani.br.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -104,6 +103,7 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
+* `df.leg.br.`
 * `diet.`
 * `dnsking.ch.`
 * `dnsupdate.info.`
@@ -123,6 +123,7 @@
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -153,7 +154,6 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
-* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -222,6 +222,7 @@
 * `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -239,6 +240,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
@@ -283,9 +285,7 @@
 * `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
-* `pb.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
@@ -294,6 +294,7 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -313,8 +314,8 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -332,6 +333,7 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `sjc.br.`
 * `slg.br.`
@@ -350,6 +352,7 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
+* `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
