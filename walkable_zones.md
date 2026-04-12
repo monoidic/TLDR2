@@ -13,6 +13,7 @@
 * `4lima.de.`
 * `4u.com.`
 * `9guacu.br.`
+* `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
@@ -28,6 +29,7 @@
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
+* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -36,6 +38,7 @@
 * `arq.br.`
 * `art.br.`
 * `arts.ve.`
+* `asso.mc.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -52,6 +55,7 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
+* `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
@@ -100,7 +104,6 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dnsking.ch.`
 * `dnsupdate.info.`
@@ -140,6 +143,7 @@
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
+* `fst.br.`
 * `g12.br.`
 * `game.`
 * `gdn.`
@@ -175,6 +179,7 @@
 * `ia.br.`
 * `ia.ve.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
@@ -225,6 +230,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -280,15 +286,14 @@
 * `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
-* `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -296,6 +301,7 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -303,14 +309,15 @@
 * `rep.br.`
 * `ribeirao.br.`
 * `riik.ee.`
+* `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
 * `rj.leg.br.`
-* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
 * `sampa.br.`
@@ -319,12 +326,13 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
-* `se.leg.br.`
+* `seg.br.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
