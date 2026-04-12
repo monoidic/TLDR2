@@ -17,12 +17,14 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
+* `al.leg.br.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -219,6 +221,7 @@
 * `log.br.`
 * `lol.`
 * `londrina.br.`
+* `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -239,6 +242,7 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
+* `ms.leg.br.`
 * `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
@@ -283,6 +287,7 @@
 * `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
+* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -328,6 +333,7 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
+* `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
@@ -365,6 +371,7 @@
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
+* `ve.`
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
