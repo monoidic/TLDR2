@@ -7,6 +7,7 @@
 * `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
+* `4.at.`
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
@@ -16,14 +17,12 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
-* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -42,6 +41,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -68,6 +68,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
@@ -76,6 +77,8 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
+* `co.ve.`
+* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -92,6 +95,7 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
+* `cw.`
 * `cy.`
 * `def.br.`
 * `des.br.`
@@ -118,11 +122,13 @@
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `ewp.live.`
+* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `feira.br.`
@@ -148,6 +154,7 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
+* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -160,6 +167,7 @@
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
+* `gov.ve.`
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
@@ -175,6 +183,7 @@
 * `iki.fi.`
 * `imb.br.`
 * `in-addr.arpa.`
+* `ind.br.`
 * `ind.tn.`
 * `inf.br.`
 * `info.pr.`
@@ -184,6 +193,7 @@
 * `intl.tn.`
 * `ip6.arpa.`
 * `iris.arpa.`
+* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -209,9 +219,9 @@
 * `log.br.`
 * `lol.`
 * `londrina.br.`
-* `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
+* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
@@ -220,6 +230,7 @@
 * `mc.`
 * `md.`
 * `med.br.`
+* `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
@@ -228,11 +239,12 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
+* `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -253,6 +265,7 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
@@ -299,10 +312,13 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
+* `riopreto.br.`
 * `rj.leg.br.`
+* `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `roxa.org.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `salvador.br.`
@@ -312,7 +328,6 @@
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
@@ -325,8 +340,10 @@
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
+* `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
+* `store.ve.`
 * `tc.`
 * `tc.br.`
 * `tec.br.`
@@ -348,11 +365,9 @@
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
-* `ve.`
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
