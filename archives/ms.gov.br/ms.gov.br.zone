@@ -246,10 +246,6 @@ belavista.ms.gov.br.	0	IN	NS	ns2.instarswe.com.br.
 minio.beneficiosfiscais.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 console.minio.beneficiosfiscais.ms.gov.br.	0	IN	CNAME	ns.vs140.ms.gov.br.
 bioparquepantanal.ms.gov.br.	0	IN	CNAME	ns.vs065.ms.gov.br.
-admin.bioparquepantanal.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
-hom.admin.bioparquepantanal.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
-agendamento.bioparquepantanal.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
-hom.agendamento.bioparquepantanal.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
 bipaineis.ms.gov.br.	0	IN	CNAME	ns.vs078.ms.gov.br.
 sense.bipaineis.ms.gov.br.	0	IN	CNAME	ns.vs012.ms.gov.br.
 biservicos.ms.gov.br.	0	IN	CNAME	ns.vs133.ms.gov.br.
@@ -1920,6 +1916,7 @@ hom.sap.ms.gov.br.	0	IN	CNAME	ns.vs029.ms.gov.br.
 saude.ms.gov.br.	0	IN	MX	10 snwl.ms.gov.br.
 saude.ms.gov.br.	0	IN	SPF	"v=spf1 ip4:187.86.226.203 ip4:187.86.226.66 ip4:187.86.227.66 ip4:187.86.227.67 ip4:187.86.226.147 ip4:187.86.226.146 ip4:187.86.227.149 ip4:187.86.227.150 ip4:187.86.227.151 -all"
 *.saude.ms.gov.br.	0	IN	CNAME	waf.saude.ms.gov.br.
+_dmarc.saude.ms.gov.br.	0	IN	CNAME	dmarc.ibesecurity.com.
 acervo.saude.ms.gov.br.	0	IN	A	189.22.42.3
 acompanhamentoccv.saude.ms.gov.br.	0	IN	A	187.6.86.214
 api.saude.ms.gov.br.	0	IN	A	201.20.32.254
