@@ -23,7 +23,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `am.br.`
 * `am.gov.br.`
@@ -57,7 +56,6 @@
 * `biz.id.`
 * `biz.ng.`
 * `biz.pr.`
-* `biz.wf.`
 * `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
@@ -206,7 +204,6 @@
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lb.`
@@ -260,7 +257,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `ngo.ng.`
 * `nic.in.`
 * `nic.za.`
 * `niteroi.br.`
@@ -375,7 +371,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `web.id.`
 * `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
