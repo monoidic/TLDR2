@@ -132,6 +132,7 @@
 * `ewp.live.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ng.`
@@ -174,9 +175,11 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
+* `hidns.vip.`
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -201,7 +204,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -267,6 +269,7 @@
 * `nom.za.`
 * `not.br.`
 * `ntr.br.`
+* `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
@@ -291,6 +294,7 @@
 * `pi.leg.br.`
 * `pics.`
 * `plc.ng.`
+* `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
@@ -332,6 +336,7 @@
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
+* `se.`
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
@@ -358,6 +363,7 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
+* `tv.br.`
 * `udi.br.`
 * `uri.arpa.`
 * `urn.arpa.`
@@ -368,7 +374,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
