@@ -17,7 +17,7 @@ prework() {
 	# create dummy db
 	scan -rr_ip
 	# add root zone
-	sqlite3 "$db" "INSERT OR IGNORE INTO name (name, is_zone) VALUES ('.', TRUE)"
+	sqlite3 "$db" "INSERT OR IGNORE INTO name (name, is_zone) VALUES ('.', TRUE), ('in-addr.arpa.', TRUE)"
 	# fetch and parse root nameserver records
 	get_ns_ips
 	# axfr root nameservers
