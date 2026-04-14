@@ -52,9 +52,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
-* `bib.ve.`
 * `bio.br.`
-* `biz.id.`
 * `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
@@ -96,12 +94,10 @@
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
-* `curitiba.br.`
 * `cw.`
 * `cy.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -141,7 +137,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -156,7 +151,6 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -196,7 +190,6 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
@@ -239,10 +232,8 @@
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
-* `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
@@ -251,7 +242,6 @@
 * `name.pm.`
 * `name.pr.`
 * `nat.tn.`
-* `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.id.`
@@ -272,7 +262,6 @@
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
-* `odo.br.`
 * `ong.br.`
 * `or.id.`
 * `org.bd.`
@@ -303,7 +292,6 @@
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
-* `psc.br.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
