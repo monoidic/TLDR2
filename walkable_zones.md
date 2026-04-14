@@ -86,6 +86,7 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
+* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `conn.uk.`
@@ -178,7 +179,6 @@
 * `hosp.uk.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -197,6 +197,7 @@
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
+* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
@@ -214,6 +215,7 @@
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
+* `lima-city.ch.`
 * `lk.`
 * `log.br.`
 * `lol.`
@@ -233,12 +235,14 @@
 * `mg.leg.br.`
 * `mil.br.`
 * `mil.id.`
+* `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
+* `mt.leg.br.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -277,6 +281,7 @@
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
+* `org.tn.`
 * `org.ve.`
 * `org.yt.`
 * `orx.biz.`
@@ -365,6 +370,7 @@
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
+* `ve.`
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
