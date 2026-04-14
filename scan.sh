@@ -34,7 +34,7 @@ prework() {
 	# idk, check for zones
 	for i in {1..5}; do
 		scan -validate
-		scan -parent_map
+		scan -parent_map{_pre,}
 		scan -maybe_zone
 	done
 }
