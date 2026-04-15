@@ -31,7 +31,6 @@
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
 * `115.in-addr.arpa.`
-* `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
 * `118.in-addr.arpa.`
 * `119.in-addr.arpa.`
@@ -53,7 +52,6 @@
 * `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
-* `135.in-addr.arpa.`
 * `136.in-addr.arpa.`
 * `137.in-addr.arpa.`
 * `138.in-addr.arpa.`
@@ -78,7 +76,6 @@
 * `155.in-addr.arpa.`
 * `156.in-addr.arpa.`
 * `157.in-addr.arpa.`
-* `158.in-addr.arpa.`
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
 * `160.in-addr.arpa.`
@@ -143,8 +140,6 @@
 * `212.in-addr.arpa.`
 * `213.in-addr.arpa.`
 * `216.in-addr.arpa.`
-* `217.in-addr.arpa.`
-* `218.in-addr.arpa.`
 * `219.in-addr.arpa.`
 * `220.in-addr.arpa.`
 * `221.in-addr.arpa.`
@@ -339,7 +334,6 @@
 * `c.0.1.0.0.2.ip6.arpa.`
 * `c.4.1.0.0.2.ip6.arpa.`
 * `campinagrande.br.`
-* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
@@ -396,7 +390,6 @@
 * `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
-* `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
@@ -421,7 +414,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ng.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -451,7 +443,6 @@
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
-* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
@@ -466,7 +457,6 @@
 * `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -479,7 +469,6 @@
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
-* `info.ve.`
 * `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
@@ -501,7 +490,6 @@
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -511,7 +499,6 @@
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
-* `log.br.`
 * `lol.`
 * `londrina.br.`
 * `lr.`
@@ -520,7 +507,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -575,11 +561,9 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -628,7 +612,6 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -640,7 +623,6 @@
 * `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
-* `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
