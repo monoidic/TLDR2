@@ -8,6 +8,7 @@
 * `0.6.2.ip6.arpa.`
 * `0.8.2.ip6.arpa.`
 * `0.a.2.ip6.arpa.`
+* `0.c.2.ip6.arpa.`
 * `1.0.0.1.6.2.ip6.arpa.`
 * `1.0.0.2.6.2.ip6.arpa.`
 * `1.4.1.0.0.2.ip6.arpa.`
@@ -131,6 +132,7 @@
 * `201.in-addr.arpa.`
 * `202.in-addr.arpa.`
 * `203.in-addr.arpa.`
+* `204.in-addr.arpa.`
 * `205.in-addr.arpa.`
 * `206.in-addr.arpa.`
 * `207.in-addr.arpa.`
@@ -150,6 +152,7 @@
 * `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
 * `225.in-addr.arpa.`
+* `226.in-addr.arpa.`
 * `227.in-addr.arpa.`
 * `228.in-addr.arpa.`
 * `229.in-addr.arpa.`
@@ -186,6 +189,7 @@
 * `4.0.1.0.0.2.ip6.arpa.`
 * `4.1.1.0.0.2.ip6.arpa.`
 * `4.4.1.0.0.2.ip6.arpa.`
+* `4.at.`
 * `4.in-addr.arpa.`
 * `40.in-addr.arpa.`
 * `41.in-addr.arpa.`
@@ -280,6 +284,7 @@
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
+* `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
@@ -305,7 +310,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
@@ -347,6 +351,7 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
+* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
@@ -358,6 +363,7 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
+* `com.ve.`
 * `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
@@ -369,6 +375,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -445,6 +452,7 @@
 * `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
+* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
@@ -459,7 +467,6 @@
 * `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
-* `id.`
 * `id.pub.`
 * `iki.fi.`
 * `imb.br.`
@@ -515,10 +522,10 @@
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
-* `md.`
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
@@ -535,12 +542,14 @@
 * `mythic-beasts.com.`
 * `name.pm.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
 * `net.er.`
 * `net.id.`
 * `net.kz.`
+* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -550,6 +559,7 @@
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -578,6 +588,7 @@
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
+* `odo.br.`
 * `ong.br.`
 * `or.id.`
 * `org.bd.`
@@ -634,6 +645,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -647,6 +659,7 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
+* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -654,6 +667,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
@@ -692,7 +706,6 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbai9azgqp6j.`
 * `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
