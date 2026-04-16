@@ -350,7 +350,6 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
-* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -481,7 +480,6 @@
 * `info.tn.`
 * `info.ve.`
 * `int.ve.`
-* `interhostsolutions.be.`
 * `intl.tn.`
 * `ip6-servers.arpa.`
 * `ip6.arpa.`
