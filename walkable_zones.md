@@ -603,7 +603,6 @@
 * `org.tn.`
 * `org.ve.`
 * `org.yt.`
-* `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -643,6 +642,7 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
+* `roxa.org.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
