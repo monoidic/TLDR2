@@ -2603,6 +2603,8 @@ business.	0	IN	NS	v2n1.nic.business.
 business.	0	IN	DS	27997 8 2 7f17414b2ebdd17b8bf3f1205bc82e2ee158df8de4cf46daceff55447f0ee429
 ns1.dns.business.	0	IN	A	157.90.205.138
 ns1.dns.business.	0	IN	AAAA	2a01:4f8:252:4295::9d5a:cd8a
+ns2us.dns.business.	0	IN	A	147.135.106.236
+ns2us.dns.business.	0	IN	AAAA	2604:2dc0:200:2eb::2
 v0n0.nic.business.	0	IN	A	65.22.32.38
 v0n0.nic.business.	0	IN	AAAA	2a01:8840:22::38
 v0n1.nic.business.	0	IN	A	65.22.33.38
@@ -10969,6 +10971,10 @@ y.nic.menu.	0	IN	A	156.154.173.82
 y.nic.menu.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.menu.	0	IN	A	156.154.174.82
 z.nic.menu.	0	IN	AAAA	2610:a1:1076::1:82
+merck.	0	IN	NS	ns1.dns.business.
+merck.	0	IN	NS	nsp.netnod.se.
+merck.	0	IN	NS	ns2us.dns.business.
+merck.	0	IN	DS	61224 13 2 e02519adf0ef1076f54211757c4298f56fc1f53e781e6fa0fb730d4d0ee26a22
 merckmsd.	0	IN	NS	a.nic.merckmsd.
 merckmsd.	0	IN	NS	b.nic.merckmsd.
 merckmsd.	0	IN	NS	c.nic.merckmsd.
@@ -15228,6 +15234,8 @@ se.	0	IN	NS	x.ns.se.
 se.	0	IN	NS	y.ns.se.
 se.	0	IN	NS	z.ns.se.
 se.	0	IN	DS	59407 8 2 67a8e06fcefdd9397f77f26c41ade4ec142f299bcfa1827f0ef8fd87f2f63022
+nsp.netnod.se.	0	IN	A	194.58.198.33
+nsp.netnod.se.	0	IN	AAAA	2a01:3f1:3033::53
 a.ns.se.	0	IN	A	192.36.144.107
 a.ns.se.	0	IN	AAAA	2a01:3f0:0:301::53
 b.ns.se.	0	IN	A	192.36.133.107
@@ -15687,6 +15695,7 @@ site.	0	IN	NS	ns01.trs-dns.net.
 site.	0	IN	NS	ns10.trs-dns.org.
 site.	0	IN	NS	ns10.trs-dns.info.
 site.	0	IN	DS	4241 8 2 b2f9f1baaa93793437d7f16065a2075bba7794160c1fee25a7bb5a34164ec7d5
+site.	0	IN	DS	31826 13 2 e054e10b0036a0f449cc3a7d539a919ef9f18c9f256b2bb51526cf6fd7d33b6b
 site.	0	IN	DS	51974 8 2 a06dc47457cc1185cf1b3a7cf6eccb84978de92939dd182beed9521509d0da7b
 sj.	0	IN	NS	x.nic.no.
 sj.	0	IN	NS	y.nic.no.
@@ -16015,6 +16024,7 @@ space.	0	IN	NS	ns01.trs-dns.net.
 space.	0	IN	NS	ns10.trs-dns.org.
 space.	0	IN	NS	ns10.trs-dns.info.
 space.	0	IN	DS	33010 8 2 53e37640a028fa26a4ed6306aa07c506bf037fc414af9caf0e41adfff87ccb72
+space.	0	IN	DS	51168 13 2 6b303eda0ae6e8206b2a20a62600e663c30b4d59408c62e461ebc5179f0d1f78
 space.	0	IN	DS	63881 8 2 85ee1264739a00fb6139712c3d7227721d99654226b0140f14a3e3d1a63b315f
 sport.	0	IN	NS	anycast9.irondns.net.
 sport.	0	IN	NS	anycast10.irondns.net.

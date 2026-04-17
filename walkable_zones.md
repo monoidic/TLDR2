@@ -91,6 +91,7 @@
 * `167.in-addr.arpa.`
 * `168.in-addr.arpa.`
 * `169.in-addr.arpa.`
+* `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
 * `173.in-addr.arpa.`
@@ -198,8 +199,8 @@
 * `45.in-addr.arpa.`
 * `46.in-addr.arpa.`
 * `47.in-addr.arpa.`
+* `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -322,6 +323,7 @@
 * `bet.br.`
 * `bhz.br.`
 * `bib.br.`
+* `bib.ve.`
 * `bio.br.`
 * `biz.id.`
 * `biz.ng.`
@@ -341,6 +343,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -377,6 +380,8 @@
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
+* `des.br.`
+* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -398,6 +403,7 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
+* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -550,6 +556,7 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -603,6 +610,7 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
+* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `plc.ng.`
@@ -661,6 +669,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
