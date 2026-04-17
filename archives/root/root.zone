@@ -16048,11 +16048,14 @@ dnsd.nic.spot.	0	IN	A	156.154.103.3
 dnsd.nic.spot.	0	IN	AAAA	2610:a1:1010::3
 sr.	0	IN	NS	ns1.nic.sr.
 sr.	0	IN	NS	ns2.nic.sr.
+sr.	0	IN	NS	ns3.nic.sr.
 sr.	0	IN	DS	46104 13 2 967a6b8f3c9c7fd0f981ea3eef1b8a6fe2c4043fbb1518d171d80e83ce4a84ee
 ns1.nic.sr.	0	IN	A	168.195.219.210
 ns1.nic.sr.	0	IN	AAAA	2803:ff40:a251:0:168:195:219:2
 ns2.nic.sr.	0	IN	A	168.195.216.214
 ns2.nic.sr.	0	IN	AAAA	2803:ff40:a000:2501:168:195:216:2
+ns3.nic.sr.	0	IN	A	45.83.205.134
+ns3.nic.sr.	0	IN	AAAA	2a0f:ff40:100:3112:2d53:cd87::
 srl.	0	IN	NS	a0.nic.srl.
 srl.	0	IN	NS	a2.nic.srl.
 srl.	0	IN	NS	b0.nic.srl.
