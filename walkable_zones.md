@@ -95,7 +95,6 @@
 * `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
 * `173.in-addr.arpa.`
-* `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
 * `176.in-addr.arpa.`
 * `177.in-addr.arpa.`
@@ -138,7 +137,6 @@
 * `207.in-addr.arpa.`
 * `208.in-addr.arpa.`
 * `209.in-addr.arpa.`
-* `210.in-addr.arpa.`
 * `211.in-addr.arpa.`
 * `212.in-addr.arpa.`
 * `213.in-addr.arpa.`
@@ -299,7 +297,6 @@
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
-* `arin.net.`
 * `arpa.`
 * `arq.br.`
 * `art.br.`
@@ -310,7 +307,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
@@ -369,7 +365,6 @@
 * `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
@@ -378,7 +373,6 @@
 * `cw.`
 * `cy.`
 * `d.0.1.0.0.2.ip6.arpa.`
-* `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -465,7 +459,6 @@
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
-* `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
@@ -495,7 +488,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -508,7 +500,6 @@
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
-* `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
@@ -537,7 +528,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -554,7 +544,6 @@
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
-* `net.tn.`
 * `net.ve.`
 * `ngo.ng.`
 * `nic.aquarelle.`
@@ -657,7 +646,6 @@
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
-* `sch.tf.`
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
