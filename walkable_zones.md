@@ -201,6 +201,7 @@
 * `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -500,7 +501,6 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
-* `lacnic.net.`
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
@@ -580,6 +580,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -664,7 +665,6 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
-* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
