@@ -201,6 +201,7 @@
 * `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -376,7 +377,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -388,6 +388,7 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
+* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
@@ -542,6 +543,7 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
+* `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -602,6 +604,7 @@
 * `org.tn.`
 * `org.ve.`
 * `org.yt.`
+* `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -654,6 +657,7 @@
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
+* `sch.tf.`
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
@@ -697,7 +701,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
