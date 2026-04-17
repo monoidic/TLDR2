@@ -94,7 +94,6 @@
 * `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
-* `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
 * `176.in-addr.arpa.`
@@ -127,7 +126,6 @@
 * `2.1.1.0.0.2.ip6.arpa.`
 * `2.4.1.0.0.2.ip6.arpa.`
 * `2.in-addr.arpa.`
-* `20.in-addr.arpa.`
 * `200.in-addr.arpa.`
 * `201.in-addr.arpa.`
 * `202.in-addr.arpa.`
@@ -188,7 +186,6 @@
 * `39.in-addr.arpa.`
 * `4.0.1.0.0.2.ip6.arpa.`
 * `4.1.1.0.0.2.ip6.arpa.`
-* `4.4.1.0.0.2.ip6.arpa.`
 * `4.at.`
 * `4.in-addr.arpa.`
 * `40.in-addr.arpa.`
@@ -234,7 +231,6 @@
 * `7.1.1.0.0.2.ip6.arpa.`
 * `70.in-addr.arpa.`
 * `71.in-addr.arpa.`
-* `72.in-addr.arpa.`
 * `74.in-addr.arpa.`
 * `75.in-addr.arpa.`
 * `76.in-addr.arpa.`
@@ -280,7 +276,6 @@
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -344,6 +339,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -359,7 +355,6 @@
 * `col.ng.`
 * `com.bd.`
 * `com.bt.`
-* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -393,8 +388,6 @@
 * `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
-* `e164.arpa.`
-* `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
@@ -435,7 +428,6 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -516,6 +508,7 @@
 * `londrina.br.`
 * `lr.`
 * `ltd.ng.`
+* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
@@ -532,7 +525,6 @@
 * `mil.ve.`
 * `mincom.tn.`
 * `mom.`
-* `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
@@ -574,7 +566,6 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
@@ -705,7 +696,6 @@
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
-* `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
 * `xn--mgbayh7gpa.`
