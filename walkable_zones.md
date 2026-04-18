@@ -366,6 +366,7 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -466,6 +467,7 @@
 * `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
+* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -494,6 +496,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -578,7 +581,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
