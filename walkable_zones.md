@@ -101,6 +101,7 @@
 * `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
+* `18.in-addr.arpa.`
 * `180.in-addr.arpa.`
 * `181.in-addr.arpa.`
 * `182.in-addr.arpa.`
@@ -127,6 +128,8 @@
 * `2.4.1.0.0.2.ip6.arpa.`
 * `2.in-addr.arpa.`
 * `20.in-addr.arpa.`
+* `200.in-addr.arpa.`
+* `201.in-addr.arpa.`
 * `202.in-addr.arpa.`
 * `203.in-addr.arpa.`
 * `204.in-addr.arpa.`
@@ -196,6 +199,7 @@
 * `45.in-addr.arpa.`
 * `46.in-addr.arpa.`
 * `47.in-addr.arpa.`
+* `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
 * `4lima.at.`
 * `4lima.ch.`
@@ -223,9 +227,11 @@
 * `64.in-addr.arpa.`
 * `65.in-addr.arpa.`
 * `66.in-addr.arpa.`
+* `67.in-addr.arpa.`
 * `68.in-addr.arpa.`
 * `69.in-addr.arpa.`
 * `7.0.1.0.0.2.ip6.arpa.`
+* `7.1.1.0.0.2.ip6.arpa.`
 * `70.in-addr.arpa.`
 * `71.in-addr.arpa.`
 * `72.in-addr.arpa.`
@@ -272,6 +278,7 @@
 * `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
+* `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
@@ -303,10 +310,13 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
 * `b.4.1.0.0.2.ip6.arpa.`
+* `b.br.`
+* `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
@@ -316,6 +326,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
@@ -366,7 +377,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -388,6 +398,7 @@
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
+* `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
@@ -458,6 +469,7 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
+* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr-servers.arpa.`
@@ -556,6 +568,7 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
+* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -606,6 +619,8 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
+* `pr.leg.br.`
+* `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
@@ -630,6 +645,7 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
+* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -680,6 +696,7 @@
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
+* `utwente.io.`
 * `v.ua.`
 * `ve.`
 * `vet.br.`
