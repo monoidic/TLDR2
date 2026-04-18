@@ -29,7 +29,6 @@
 * `111.in-addr.arpa.`
 * `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
-* `114.in-addr.arpa.`
 * `115.in-addr.arpa.`
 * `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
@@ -51,7 +50,6 @@
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
 * `132.in-addr.arpa.`
-* `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
 * `136.in-addr.arpa.`
@@ -262,7 +260,6 @@
 * `9.in-addr.arpa.`
 * `90.in-addr.arpa.`
 * `91.in-addr.arpa.`
-* `92.in-addr.arpa.`
 * `93.in-addr.arpa.`
 * `94.in-addr.arpa.`
 * `95.in-addr.arpa.`
@@ -325,7 +322,6 @@
 * `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
-* `bio.br.`
 * `biz.id.`
 * `biz.ng.`
 * `biz.pr.`
@@ -354,7 +350,6 @@
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
-* `co.id.`
 * `co.ve.`
 * `cocca.fr.`
 * `col.ng.`
@@ -365,7 +360,6 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
-* `com.ve.`
 * `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
@@ -490,7 +484,6 @@
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
-* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
@@ -536,7 +529,6 @@
 * `mom.`
 * `morena.br.`
 * `mp.br.`
-* `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
@@ -569,7 +561,6 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -581,6 +572,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -668,7 +660,6 @@
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
-* `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
 * `sp.leg.br.`
@@ -699,9 +690,9 @@
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
-* `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
