@@ -11618,7 +11618,6 @@ o.mx-ns.mx.	0	IN	A	200.23.1.1
 o.mx-ns.mx.	0	IN	AAAA	2001:1201::1
 x.mx-ns.mx.	0	IN	A	201.131.252.1
 x.mx-ns.mx.	0	IN	AAAA	2001:1201:10::1
-my.	0	IN	NS	a.nic.my.
 my.	0	IN	NS	a.mynic.centralnic-dns.com.
 my.	0	IN	NS	b.mynic.centralnic-dns.com.
 my.	0	IN	NS	c.mynic.centralnic-dns.com.
@@ -11627,8 +11626,6 @@ my.	0	IN	NS	e.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
 my.	0	IN	DS	47187 13 2 8b70cf4c48233d0624556523ea52c524f157800b97445c6a62a8c078337567ae
-a.nic.my.	0	IN	A	103.44.108.53
-a.nic.my.	0	IN	AAAA	2001:ddc:0:53::53
 e.nic.my.	0	IN	A	152.69.217.125
 e.nic.my.	0	IN	AAAA	2603:c024:4518:ad60:242::2
 mz.	0	IN	NS	anyns.uem.mz.
