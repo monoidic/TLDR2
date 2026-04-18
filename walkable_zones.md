@@ -15,7 +15,6 @@
 * `1.4.2.ip6.arpa.`
 * `1.a.2.ip6.arpa.`
 * `1.in-addr.arpa.`
-* `100.in-addr.arpa.`
 * `101.in-addr.arpa.`
 * `102.in-addr.arpa.`
 * `103.in-addr.arpa.`
@@ -377,6 +376,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -702,6 +702,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
@@ -709,7 +710,6 @@
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
-* `xn--mgbai9azgqp6j.`
 * `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
