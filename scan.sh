@@ -64,7 +64,9 @@ zonefiles() {
 		fi
 		mv ${filepath}{.tmp,}
 		if [[ $filesize > $GITHUB_MAX_SIZE ]]; then
-			gzip -f ${filepath}
+			if diff -q ${filepath} <(zcat ${filepath}.gz); then
+				gzip -f ${filepath}
+			fi
 		fi
 		echo "dumping zone ${zone}"
 	done
