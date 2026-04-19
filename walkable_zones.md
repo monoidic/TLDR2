@@ -12,7 +12,6 @@
 * `1.0.0.1.6.2.ip6.arpa.`
 * `1.0.0.2.6.2.ip6.arpa.`
 * `1.4.1.0.0.2.ip6.arpa.`
-* `1.4.2.ip6.arpa.`
 * `1.a.2.ip6.arpa.`
 * `1.in-addr.arpa.`
 * `100.in-addr.arpa.`
@@ -146,7 +145,6 @@
 * `217.in-addr.arpa.`
 * `218.in-addr.arpa.`
 * `219.in-addr.arpa.`
-* `220.in-addr.arpa.`
 * `221.in-addr.arpa.`
 * `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
@@ -249,7 +247,6 @@
 * `81.in-addr.arpa.`
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
-* `84.in-addr.arpa.`
 * `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
@@ -305,7 +302,6 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
-* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -323,7 +319,6 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
-* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -419,7 +414,6 @@
 * `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
-* `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
 * `firm.ng.`
@@ -462,14 +456,12 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
-* `id.`
 * `id.pub.`
 * `iki.fi.`
 * `imb.br.`
@@ -544,7 +536,6 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -560,10 +551,10 @@
 * `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
+* `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
@@ -580,6 +571,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -590,6 +582,7 @@
 * `nro.net.`
 * `ntr.br.`
 * `nu.`
+* `nx.gw.`
 * `odo.br.`
 * `ong.br.`
 * `or.id.`
@@ -649,10 +642,8 @@
 * `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
-* `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
-* `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
@@ -662,6 +653,7 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
@@ -702,7 +694,6 @@
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
-* `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
