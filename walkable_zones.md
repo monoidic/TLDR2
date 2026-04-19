@@ -17,6 +17,7 @@
 * `1.in-addr.arpa.`
 * `100.in-addr.arpa.`
 * `101.in-addr.arpa.`
+* `102.in-addr.arpa.`
 * `103.in-addr.arpa.`
 * `104.in-addr.arpa.`
 * `105.in-addr.arpa.`
@@ -105,12 +106,14 @@
 * `181.in-addr.arpa.`
 * `182.in-addr.arpa.`
 * `183.in-addr.arpa.`
+* `184.in-addr.arpa.`
 * `185.in-addr.arpa.`
 * `186.in-addr.arpa.`
 * `187.in-addr.arpa.`
 * `188.in-addr.arpa.`
 * `189.in-addr.arpa.`
 * `190.in-addr.arpa.`
+* `191.in-addr.arpa.`
 * `192.in-addr.arpa.`
 * `193.in-addr.arpa.`
 * `194.in-addr.arpa.`
@@ -127,6 +130,7 @@
 * `20.in-addr.arpa.`
 * `200.in-addr.arpa.`
 * `201.in-addr.arpa.`
+* `202.in-addr.arpa.`
 * `203.in-addr.arpa.`
 * `204.in-addr.arpa.`
 * `205.in-addr.arpa.`
@@ -158,6 +162,7 @@
 * `232.in-addr.arpa.`
 * `233.in-addr.arpa.`
 * `234.in-addr.arpa.`
+* `235.in-addr.arpa.`
 * `236.in-addr.arpa.`
 * `237.in-addr.arpa.`
 * `238.in-addr.arpa.`
@@ -196,11 +201,13 @@
 * `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
+* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
 * `5.1.0.0.2.ip6.arpa.`
+* `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
 * `50.in-addr.arpa.`
@@ -261,6 +268,7 @@
 * `95.in-addr.arpa.`
 * `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
+* `98.in-addr.arpa.`
 * `99.in-addr.arpa.`
 * `9guacu.br.`
 * `a.0.1.0.0.2.ip6.arpa.`
@@ -302,6 +310,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
+* `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
@@ -451,9 +460,11 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
+* `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
@@ -506,6 +517,7 @@
 * `londrina.br.`
 * `lr.`
 * `ltd.ng.`
+* `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
@@ -533,6 +545,7 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pm.`
+* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -563,10 +576,12 @@
 * `nic.in.`
 * `nic.mc.`
 * `nic.me.`
+* `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -574,6 +589,7 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `nro.net.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -638,6 +654,7 @@
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
+* `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
@@ -674,6 +691,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
