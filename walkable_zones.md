@@ -59,6 +59,7 @@
 * `138.in-addr.arpa.`
 * `139.in-addr.arpa.`
 * `14.in-addr.arpa.`
+* `140.in-addr.arpa.`
 * `141.in-addr.arpa.`
 * `142.in-addr.arpa.`
 * `143.in-addr.arpa.`
@@ -130,6 +131,7 @@
 * `200.in-addr.arpa.`
 * `201.in-addr.arpa.`
 * `202.in-addr.arpa.`
+* `203.in-addr.arpa.`
 * `204.in-addr.arpa.`
 * `205.in-addr.arpa.`
 * `206.in-addr.arpa.`
@@ -187,8 +189,10 @@
 * `4.0.1.0.0.2.ip6.arpa.`
 * `4.1.1.0.0.2.ip6.arpa.`
 * `4.4.1.0.0.2.ip6.arpa.`
+* `4.at.`
 * `4.in-addr.arpa.`
 * `40.in-addr.arpa.`
+* `41.in-addr.arpa.`
 * `42.in-addr.arpa.`
 * `43.in-addr.arpa.`
 * `44.in-addr.arpa.`
@@ -233,10 +237,12 @@
 * `72.in-addr.arpa.`
 * `74.in-addr.arpa.`
 * `75.in-addr.arpa.`
+* `76.in-addr.arpa.`
 * `77.in-addr.arpa.`
 * `78.in-addr.arpa.`
 * `79.in-addr.arpa.`
 * `8.0.1.0.0.2.ip6.arpa.`
+* `8.1.1.0.0.2.ip6.arpa.`
 * `8.4.1.0.0.2.ip6.arpa.`
 * `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
@@ -250,6 +256,7 @@
 * `88.in-addr.arpa.`
 * `89.in-addr.arpa.`
 * `9.0.1.0.0.2.ip6.arpa.`
+* `9.1.0.0.2.ip6.arpa.`
 * `9.1.1.0.0.2.ip6.arpa.`
 * `9.4.1.0.0.2.ip6.arpa.`
 * `9.in-addr.arpa.`
@@ -281,6 +288,7 @@
 * `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
+* `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
 * `anani.br.`
@@ -307,6 +315,7 @@
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
 * `b.4.1.0.0.2.ip6.arpa.`
+* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -366,8 +375,8 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -519,6 +528,7 @@
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
+* `mil.id.`
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
@@ -535,6 +545,7 @@
 * `mythic-beasts.com.`
 * `name.pm.`
 * `name.pr.`
+* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -629,6 +640,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -658,6 +670,7 @@
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
+* `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
@@ -673,6 +686,7 @@
 * `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
+* `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
@@ -688,6 +702,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
