@@ -191,7 +191,6 @@
 * `4.4.1.0.0.2.ip6.arpa.`
 * `4.at.`
 * `4.in-addr.arpa.`
-* `40.in-addr.arpa.`
 * `41.in-addr.arpa.`
 * `42.in-addr.arpa.`
 * `43.in-addr.arpa.`
@@ -266,7 +265,6 @@
 * `93.in-addr.arpa.`
 * `94.in-addr.arpa.`
 * `95.in-addr.arpa.`
-* `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
 * `98.in-addr.arpa.`
 * `99.in-addr.arpa.`
@@ -331,7 +329,6 @@
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -366,7 +363,6 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -470,7 +466,6 @@
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
-* `id.pub.`
 * `iki.fi.`
 * `imb.br.`
 * `in-addr-servers.arpa.`
@@ -570,7 +565,6 @@
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
-* `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
@@ -581,7 +575,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -632,7 +625,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
@@ -650,14 +642,12 @@
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
-* `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
-* `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
@@ -686,7 +676,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
