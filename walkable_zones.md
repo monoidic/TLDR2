@@ -13,6 +13,7 @@
 * `1.0.0.2.6.2.ip6.arpa.`
 * `1.4.1.0.0.2.ip6.arpa.`
 * `1.4.2.ip6.arpa.`
+* `1.a.2.ip6.arpa.`
 * `1.in-addr.arpa.`
 * `100.in-addr.arpa.`
 * `101.in-addr.arpa.`
@@ -93,7 +94,6 @@
 * `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
-* `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
 * `176.in-addr.arpa.`
@@ -102,7 +102,6 @@
 * `179.in-addr.arpa.`
 * `18.in-addr.arpa.`
 * `180.in-addr.arpa.`
-* `181.in-addr.arpa.`
 * `182.in-addr.arpa.`
 * `183.in-addr.arpa.`
 * `184.in-addr.arpa.`
@@ -145,7 +144,6 @@
 * `217.in-addr.arpa.`
 * `218.in-addr.arpa.`
 * `219.in-addr.arpa.`
-* `220.in-addr.arpa.`
 * `221.in-addr.arpa.`
 * `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
@@ -160,6 +158,7 @@
 * `231.in-addr.arpa.`
 * `232.in-addr.arpa.`
 * `233.in-addr.arpa.`
+* `234.in-addr.arpa.`
 * `235.in-addr.arpa.`
 * `236.in-addr.arpa.`
 * `237.in-addr.arpa.`
@@ -204,10 +203,10 @@
 * `4lima.de.`
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
-* `5.1.0.0.2.ip6.arpa.`
 * `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
+* `50.in-addr.arpa.`
 * `51.in-addr.arpa.`
 * `52.in-addr.arpa.`
 * `54.in-addr.arpa.`
@@ -247,7 +246,6 @@
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
 * `84.in-addr.arpa.`
-* `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
 * `88.in-addr.arpa.`
@@ -263,6 +261,7 @@
 * `93.in-addr.arpa.`
 * `94.in-addr.arpa.`
 * `95.in-addr.arpa.`
+* `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
 * `98.in-addr.arpa.`
 * `99.in-addr.arpa.`
@@ -347,6 +346,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -360,7 +360,6 @@
 * `com.lb.`
 * `com.pr.`
 * `com.tn.`
-* `com.ve.`
 * `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
@@ -429,6 +428,7 @@
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
+* `game.`
 * `gdn.`
 * `gen.ng.`
 * `geo.br.`
@@ -447,6 +447,7 @@
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
+* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
@@ -489,6 +490,7 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -506,7 +508,6 @@
 * `lk.`
 * `log.br.`
 * `lol.`
-* `londrina.br.`
 * `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
@@ -523,7 +524,6 @@
 * `mil.br.`
 * `mil.id.`
 * `mil.kz.`
-* `mil.ve.`
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
@@ -543,6 +543,7 @@
 * `net.bd.`
 * `net.bt.`
 * `net.er.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -551,7 +552,7 @@
 * `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
-* `nic.audio.`
+* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
@@ -566,10 +567,10 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -633,6 +634,7 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
+* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
@@ -640,6 +642,7 @@
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
+* `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
 * `sc.gov.br.`
@@ -671,6 +674,7 @@
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
+* `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
@@ -679,7 +683,6 @@
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
-* `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
@@ -688,7 +691,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `web.id.`
 * `web.ve.`
 * `wiki.br.`
 * `xn--54b7fta0cc.`
