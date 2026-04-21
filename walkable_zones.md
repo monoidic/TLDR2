@@ -62,6 +62,7 @@
 * `140.in-addr.arpa.`
 * `141.in-addr.arpa.`
 * `142.in-addr.arpa.`
+* `143.in-addr.arpa.`
 * `144.in-addr.arpa.`
 * `145.in-addr.arpa.`
 * `146.in-addr.arpa.`
@@ -71,6 +72,7 @@
 * `15.in-addr.arpa.`
 * `150.in-addr.arpa.`
 * `151.in-addr.arpa.`
+* `152.in-addr.arpa.`
 * `153.in-addr.arpa.`
 * `154.in-addr.arpa.`
 * `155.in-addr.arpa.`
@@ -79,6 +81,7 @@
 * `158.in-addr.arpa.`
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
+* `160.in-addr.arpa.`
 * `161.in-addr.arpa.`
 * `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
@@ -94,6 +97,7 @@
 * `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
+* `176.in-addr.arpa.`
 * `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
@@ -138,6 +142,7 @@
 * `211.in-addr.arpa.`
 * `212.in-addr.arpa.`
 * `213.in-addr.arpa.`
+* `216.in-addr.arpa.`
 * `217.in-addr.arpa.`
 * `218.in-addr.arpa.`
 * `219.in-addr.arpa.`
@@ -171,6 +176,7 @@
 * `3.0.1.0.0.2.ip6.arpa.`
 * `3.1.0.0.2.ip6.arpa.`
 * `3.1.1.0.0.2.ip6.arpa.`
+* `3.4.1.0.0.2.ip6.arpa.`
 * `3.6.2.ip6.arpa.`
 * `3.in-addr.arpa.`
 * `31.in-addr.arpa.`
@@ -200,6 +206,7 @@
 * `4lima.de.`
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
+* `5.1.0.0.2.ip6.arpa.`
 * `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
@@ -298,6 +305,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -494,6 +502,7 @@
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -542,6 +551,7 @@
 * `net.bd.`
 * `net.bt.`
 * `net.er.`
+* `net.id.`
 * `net.kz.`
 * `net.lb.`
 * `net.pr.`
@@ -557,6 +567,7 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
+* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -621,6 +632,7 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
+* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
