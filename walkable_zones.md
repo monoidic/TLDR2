@@ -565,7 +565,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -664,6 +663,7 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
