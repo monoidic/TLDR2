@@ -484,6 +484,7 @@
 * `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
+* `ip6-servers.arpa.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -582,6 +583,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
