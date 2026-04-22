@@ -310,7 +310,6 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
@@ -566,7 +565,6 @@
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
-* `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
@@ -579,7 +577,6 @@
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
