@@ -106,6 +106,7 @@
 * `181.in-addr.arpa.`
 * `182.in-addr.arpa.`
 * `183.in-addr.arpa.`
+* `184.in-addr.arpa.`
 * `185.in-addr.arpa.`
 * `186.in-addr.arpa.`
 * `187.in-addr.arpa.`
@@ -219,6 +220,7 @@
 * `59.in-addr.arpa.`
 * `6.0.1.0.0.2.ip6.arpa.`
 * `6.1.1.0.0.2.ip6.arpa.`
+* `60.in-addr.arpa.`
 * `61.in-addr.arpa.`
 * `62.in-addr.arpa.`
 * `63.in-addr.arpa.`
@@ -247,6 +249,7 @@
 * `81.in-addr.arpa.`
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
+* `84.in-addr.arpa.`
 * `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
@@ -288,6 +291,7 @@
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
+* `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
@@ -347,6 +351,7 @@
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
@@ -372,7 +377,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -459,12 +463,14 @@
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
+* `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
+* `iki.fi.`
 * `imb.br.`
 * `in-addr-servers.arpa.`
 * `in-addr.arpa.`
@@ -497,8 +503,10 @@
 * `lacnic.net.`
 * `lactld.org.`
 * `lb.`
+* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
+* `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
@@ -553,6 +561,7 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
+* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -568,12 +577,16 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.my.`
+* `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
+* `nom.za.`
 * `not.br.`
 * `nro.net.`
 * `ntr.br.`
@@ -617,6 +630,7 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
+* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -666,6 +680,7 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
+* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
