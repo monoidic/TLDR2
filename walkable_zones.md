@@ -39,7 +39,6 @@
 * `121.in-addr.arpa.`
 * `122.in-addr.arpa.`
 * `123.in-addr.arpa.`
-* `124.in-addr.arpa.`
 * `125.in-addr.arpa.`
 * `126.in-addr.arpa.`
 * `128.in-addr.arpa.`
@@ -61,7 +60,6 @@
 * `14.in-addr.arpa.`
 * `140.in-addr.arpa.`
 * `141.in-addr.arpa.`
-* `142.in-addr.arpa.`
 * `143.in-addr.arpa.`
 * `144.in-addr.arpa.`
 * `145.in-addr.arpa.`
@@ -101,7 +99,6 @@
 * `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
-* `18.in-addr.arpa.`
 * `180.in-addr.arpa.`
 * `181.in-addr.arpa.`
 * `182.in-addr.arpa.`
@@ -118,7 +115,6 @@
 * `193.in-addr.arpa.`
 * `194.in-addr.arpa.`
 * `195.in-addr.arpa.`
-* `196.in-addr.arpa.`
 * `197.in-addr.arpa.`
 * `198.in-addr.arpa.`
 * `199.in-addr.arpa.`
@@ -204,7 +200,6 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
-* `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
 * `5.1.0.0.2.ip6.arpa.`
 * `5.1.1.0.0.2.ip6.arpa.`
@@ -257,7 +252,6 @@
 * `89.in-addr.arpa.`
 * `9.0.1.0.0.2.ip6.arpa.`
 * `9.1.0.0.2.ip6.arpa.`
-* `9.1.1.0.0.2.ip6.arpa.`
 * `9.4.1.0.0.2.ip6.arpa.`
 * `9.in-addr.arpa.`
 * `90.in-addr.arpa.`
@@ -269,7 +263,6 @@
 * `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
 * `98.in-addr.arpa.`
-* `99.in-addr.arpa.`
 * `9guacu.br.`
 * `a.0.1.0.0.2.ip6.arpa.`
 * `a.1.0.0.2.ip6.arpa.`
@@ -337,7 +330,6 @@
 * `bsb.br.`
 * `bt.`
 * `c.0.1.0.0.2.ip6.arpa.`
-* `c.4.1.0.0.2.ip6.arpa.`
 * `campinagrande.br.`
 * `campinas.br.`
 * `car.`
@@ -362,7 +354,6 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -377,7 +368,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -423,8 +413,6 @@
 * `feira.br.`
 * `fin.tn.`
 * `firm.ng.`
-* `firm.ve.`
-* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -520,7 +508,6 @@
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -549,7 +536,6 @@
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
-* `net.bt.`
 * `net.er.`
 * `net.id.`
 * `net.kz.`
@@ -578,11 +564,8 @@
 * `nic.me.`
 * `nic.mom.`
 * `nic.my.`
-* `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
-* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -599,7 +582,6 @@
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
-* `org.kz.`
 * `org.lb.`
 * `org.mn.`
 * `org.pr.`
@@ -663,7 +645,6 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
