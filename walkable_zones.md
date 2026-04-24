@@ -5,9 +5,7 @@
 * `0.0.0.2.6.2.ip6.arpa.`
 * `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
-* `0.6.2.ip6.arpa.`
 * `0.8.2.ip6.arpa.`
-* `0.a.2.ip6.arpa.`
 * `0.c.2.ip6.arpa.`
 * `1.0.0.1.6.2.ip6.arpa.`
 * `1.0.0.2.6.2.ip6.arpa.`
@@ -124,7 +122,6 @@
 * `199.in-addr.arpa.`
 * `2.0.1.0.0.2.ip6.arpa.`
 * `2.1.0.0.2.ip6.arpa.`
-* `2.1.1.0.0.2.ip6.arpa.`
 * `2.4.1.0.0.2.ip6.arpa.`
 * `2.in-addr.arpa.`
 * `20.in-addr.arpa.`
@@ -207,7 +204,6 @@
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
 * `5.1.0.0.2.ip6.arpa.`
-* `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
 * `50.in-addr.arpa.`
@@ -218,8 +214,6 @@
 * `57.in-addr.arpa.`
 * `58.in-addr.arpa.`
 * `59.in-addr.arpa.`
-* `6.0.1.0.0.2.ip6.arpa.`
-* `6.1.1.0.0.2.ip6.arpa.`
 * `60.in-addr.arpa.`
 * `61.in-addr.arpa.`
 * `62.in-addr.arpa.`
@@ -314,7 +308,6 @@
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
-* `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -612,6 +605,7 @@
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
+* `pi.leg.br.`
 * `pics.`
 * `plc.ng.`
 * `poa.br.`
@@ -689,7 +683,6 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
