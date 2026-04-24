@@ -5,7 +5,9 @@
 * `0.0.0.2.6.2.ip6.arpa.`
 * `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
+* `0.6.2.ip6.arpa.`
 * `0.8.2.ip6.arpa.`
+* `0.a.2.ip6.arpa.`
 * `0.c.2.ip6.arpa.`
 * `1.0.0.1.6.2.ip6.arpa.`
 * `1.0.0.2.6.2.ip6.arpa.`
@@ -61,7 +63,6 @@
 * `141.in-addr.arpa.`
 * `142.in-addr.arpa.`
 * `143.in-addr.arpa.`
-* `144.in-addr.arpa.`
 * `145.in-addr.arpa.`
 * `146.in-addr.arpa.`
 * `147.in-addr.arpa.`
@@ -91,7 +92,6 @@
 * `169.in-addr.arpa.`
 * `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
-* `172.in-addr.arpa.`
 * `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
@@ -122,6 +122,7 @@
 * `199.in-addr.arpa.`
 * `2.0.1.0.0.2.ip6.arpa.`
 * `2.1.0.0.2.ip6.arpa.`
+* `2.1.1.0.0.2.ip6.arpa.`
 * `2.4.1.0.0.2.ip6.arpa.`
 * `2.in-addr.arpa.`
 * `20.in-addr.arpa.`
@@ -204,9 +205,9 @@
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
 * `5.1.0.0.2.ip6.arpa.`
+* `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
-* `50.in-addr.arpa.`
 * `51.in-addr.arpa.`
 * `52.in-addr.arpa.`
 * `54.in-addr.arpa.`
@@ -214,6 +215,8 @@
 * `57.in-addr.arpa.`
 * `58.in-addr.arpa.`
 * `59.in-addr.arpa.`
+* `6.0.1.0.0.2.ip6.arpa.`
+* `6.1.1.0.0.2.ip6.arpa.`
 * `60.in-addr.arpa.`
 * `61.in-addr.arpa.`
 * `62.in-addr.arpa.`
@@ -308,6 +311,7 @@
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
+* `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
@@ -331,7 +335,6 @@
 * `bt.`
 * `c.0.1.0.0.2.ip6.arpa.`
 * `c.4.1.0.0.2.ip6.arpa.`
-* `campinagrande.br.`
 * `campinas.br.`
 * `car.`
 * `cars.`
@@ -353,7 +356,6 @@
 * `col.ng.`
 * `com.bd.`
 * `com.bt.`
-* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
@@ -370,6 +372,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -393,7 +396,6 @@
 * `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
-* `edu.pr.`
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
@@ -481,7 +483,6 @@
 * `iris.arpa.`
 * `isla.pr.`
 * `jab.br.`
-* `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
@@ -494,7 +495,6 @@
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -581,7 +581,6 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
-* `nro.net.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -683,6 +682,7 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
+* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
