@@ -81,7 +81,6 @@
 * `158.in-addr.arpa.`
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
-* `160.in-addr.arpa.`
 * `161.in-addr.arpa.`
 * `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
@@ -264,7 +263,6 @@
 * `91.in-addr.arpa.`
 * `92.in-addr.arpa.`
 * `93.in-addr.arpa.`
-* `94.in-addr.arpa.`
 * `95.in-addr.arpa.`
 * `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
@@ -301,7 +299,6 @@
 * `aquarelle.`
 * `arin.net.`
 * `arpa.`
-* `arq.br.`
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
@@ -414,7 +411,6 @@
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
-* `ewp.live.`
 * `f.0.1.0.0.2.ip6.arpa.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -544,7 +540,6 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -630,7 +625,6 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
