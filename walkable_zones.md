@@ -565,6 +565,7 @@
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
+* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -576,6 +577,7 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
