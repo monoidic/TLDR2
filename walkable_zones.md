@@ -46,7 +46,6 @@
 * `129.in-addr.arpa.`
 * `12hp.at.`
 * `12hp.ch.`
-* `12hp.de.`
 * `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
@@ -377,7 +376,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -387,7 +385,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -436,7 +433,6 @@
 * `g12.br.`
 * `game.`
 * `gdn.`
-* `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
 * `gn.`
@@ -464,7 +460,6 @@
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
-* `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
@@ -581,8 +576,8 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -605,7 +600,6 @@
 * `org.tn.`
 * `org.ve.`
 * `org.yt.`
-* `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
