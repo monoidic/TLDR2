@@ -97,7 +97,6 @@
 * `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
-* `176.in-addr.arpa.`
 * `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
@@ -158,7 +157,6 @@
 * `229.in-addr.arpa.`
 * `23.in-addr.arpa.`
 * `230.in-addr.arpa.`
-* `231.in-addr.arpa.`
 * `232.in-addr.arpa.`
 * `233.in-addr.arpa.`
 * `234.in-addr.arpa.`
@@ -175,7 +173,6 @@
 * `2ix.de.`
 * `3.0.1.0.0.2.ip6.arpa.`
 * `3.1.0.0.2.ip6.arpa.`
-* `3.1.1.0.0.2.ip6.arpa.`
 * `3.4.1.0.0.2.ip6.arpa.`
 * `3.6.2.ip6.arpa.`
 * `3.in-addr.arpa.`
@@ -317,7 +314,6 @@
 * `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -331,7 +327,6 @@
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
-* `bmd.br.`
 * `boavista.br.`
 * `br.`
 * `bsb.br.`
@@ -377,8 +372,8 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
-* `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -450,13 +445,10 @@
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
-* `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
-* `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
-* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
@@ -552,8 +544,6 @@
 * `net.er.`
 * `net.id.`
 * `net.kz.`
-* `net.lb.`
-* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
@@ -561,7 +551,6 @@
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
-* `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
@@ -617,11 +606,9 @@
 * `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
-* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
-* `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
@@ -702,7 +689,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
