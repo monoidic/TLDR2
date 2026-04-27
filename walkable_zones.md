@@ -50,7 +50,6 @@
 * `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
-* `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
@@ -64,7 +63,6 @@
 * `142.in-addr.arpa.`
 * `143.in-addr.arpa.`
 * `144.in-addr.arpa.`
-* `145.in-addr.arpa.`
 * `146.in-addr.arpa.`
 * `147.in-addr.arpa.`
 * `148.in-addr.arpa.`
@@ -82,7 +80,6 @@
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
 * `160.in-addr.arpa.`
-* `161.in-addr.arpa.`
 * `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
 * `164.in-addr.arpa.`
@@ -344,6 +341,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -355,8 +353,8 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
 * `col.ng.`
-* `com.bd.`
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
@@ -364,6 +362,7 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -372,7 +371,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
@@ -382,7 +380,6 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
@@ -408,7 +405,6 @@
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
-* `est.pr.`
 * `etc.br.`
 * `eti.br.`
 * `ewp.live.`
@@ -490,7 +486,6 @@
 * `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
-* `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kdns.fr.`
@@ -503,7 +498,6 @@
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
-* `lel.br.`
 * `li.`
 * `lib.wi.us.`
 * `lima-city.at.`
@@ -709,7 +703,5 @@
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
 * `xn--mgbayh7gpa.`
-* `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
-* `zlg.br.`
