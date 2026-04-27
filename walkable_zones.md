@@ -67,7 +67,6 @@
 * `145.in-addr.arpa.`
 * `146.in-addr.arpa.`
 * `147.in-addr.arpa.`
-* `148.in-addr.arpa.`
 * `149.in-addr.arpa.`
 * `15.in-addr.arpa.`
 * `150.in-addr.arpa.`
@@ -105,7 +104,6 @@
 * `180.in-addr.arpa.`
 * `181.in-addr.arpa.`
 * `182.in-addr.arpa.`
-* `183.in-addr.arpa.`
 * `184.in-addr.arpa.`
 * `185.in-addr.arpa.`
 * `186.in-addr.arpa.`
@@ -371,12 +369,12 @@
 * `contagem.br.`
 * `coop.br.`
 * `copro.uk.`
-* `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -421,7 +419,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ng.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -489,7 +486,6 @@
 * `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
-* `jdf.br.`
 * `joinville.br.`
 * `jor.br.`
 * `jus.br.`
@@ -519,7 +515,6 @@
 * `ma.gov.br.`
 * `ma.leg.br.`
 * `macapa.br.`
-* `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
@@ -552,7 +547,6 @@
 * `net.er.`
 * `net.id.`
 * `net.kz.`
-* `net.lb.`
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
@@ -574,7 +568,6 @@
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
-* `nic.me.`
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
@@ -591,7 +584,6 @@
 * `nro.net.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `ong.br.`
 * `or.id.`
@@ -603,9 +595,7 @@
 * `org.mn.`
 * `org.pr.`
 * `org.tn.`
-* `org.ve.`
 * `org.yt.`
-* `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
 * `palmas.br.`
@@ -690,14 +680,12 @@
 * `trd.br.`
 * `tur.br.`
 * `tv.br.`
-* `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
