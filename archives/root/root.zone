@@ -12784,7 +12784,6 @@ online.	0	IN	NS	ns01.trs-dns.net.
 online.	0	IN	NS	ns10.trs-dns.org.
 online.	0	IN	NS	ns10.trs-dns.info.
 online.	0	IN	DS	30961 13 2 9292c8b10406684b2e89209014bf4e14ac8d277ef5b6fc36122b0b5878acd47e
-online.	0	IN	DS	65176 8 2 a7ae5fd8bca808edb6906ad3bb9ab506326907f1c41fa8404453e8c843f266ee
 ooo.	0	IN	NS	a.nic.ooo.
 ooo.	0	IN	NS	b.nic.ooo.
 ooo.	0	IN	NS	c.nic.ooo.
@@ -14513,6 +14512,7 @@ ro.	0	IN	NS	primary.rotld.ro.
 ro.	0	IN	NS	sec-dns-a.rotld.ro.
 ro.	0	IN	NS	sec-dns-b.rotld.ro.
 ro.	0	IN	DS	28330 8 2 f76431ce5df70b17cc445dea069da4d581bd8ca79c622e90a5f1eb35bbc6993d
+ro.	0	IN	DS	39877 8 2 7e362086dad6ceaedb5474a21d13401b7ba68f3162abe6ef2679f040dd65d16d
 dns-at.rotld.ro.	0	IN	A	78.104.145.6
 dns-at.rotld.ro.	0	IN	AAAA	2001:628:453:bb::6
 dns-c.rotld.ro.	0	IN	A	194.0.11.113
@@ -16222,7 +16222,6 @@ store.	0	IN	NS	ns01.trs-dns.net.
 store.	0	IN	NS	ns10.trs-dns.org.
 store.	0	IN	NS	ns10.trs-dns.info.
 store.	0	IN	DS	2327 13 2 fabe791546e2eab3ff93db790d5fa1fc750a9149aa6b712545d2acc27e101209
-store.	0	IN	DS	45961 8 2 15c0aeda3d208a2fdba1df9e5afcd6628b162cea740b4e7d4fef1879092f6e25
 stream.	0	IN	NS	a.nic.stream.
 stream.	0	IN	NS	b.nic.stream.
 stream.	0	IN	NS	c.nic.stream.
@@ -17550,7 +17549,7 @@ tw.	0	IN	NS	f.dns.tw.
 tw.	0	IN	NS	g.dns.tw.
 tw.	0	IN	NS	h.dns.tw.
 tw.	0	IN	NS	anytld.apnic.net.
-tw.	0	IN	DS	51277 8 2 462da9af501d2b1eef6725522db5972f8cd2490b51d92088ff1e3d2de0ec7bcd
+tw.	0	IN	DS	46902 13 2 87ed52e8006f720751fb4f13d4bf3f28a2c267b33883ee52209c2bc3681233e6
 a.dns.tw.	0	IN	A	203.73.24.25
 a.dns.tw.	0	IN	AAAA	2001:45b1:0:5::25
 b.dns.tw.	0	IN	A	210.201.138.58
