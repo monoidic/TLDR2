@@ -10411,6 +10411,7 @@ lt.	0	IN	NS	c.tld.lt.
 lt.	0	IN	NS	d.tld.lt.
 lt.	0	IN	NS	e.tld.lt.
 lt.	0	IN	NS	f.tld.lt.
+lt.	0	IN	NS	r.tld.lt.
 lt.	0	IN	DS	1765 13 2 cd9c628a13b8d780e3e2fb66ef6252f1127412d33c54d582e16c74a86faecb17
 a.tld.lt.	0	IN	A	185.150.40.131
 b.tld.lt.	0	IN	A	194.0.20.1
@@ -10422,6 +10423,8 @@ d.tld.lt.	0	IN	AAAA	2001:678:6::1
 e.tld.lt.	0	IN	A	194.0.18.1
 f.tld.lt.	0	IN	A	194.0.19.1
 f.tld.lt.	0	IN	AAAA	2001:678:8c::1
+r.tld.lt.	0	IN	A	194.0.25.46
+r.tld.lt.	0	IN	AAAA	2001:678:20::46
 ltd.	0	IN	NS	v0n0.nic.ltd.
 ltd.	0	IN	NS	v0n1.nic.ltd.
 ltd.	0	IN	NS	v0n2.nic.ltd.
@@ -14511,7 +14514,6 @@ ro.	0	IN	NS	dns-ro.denic.de.
 ro.	0	IN	NS	primary.rotld.ro.
 ro.	0	IN	NS	sec-dns-a.rotld.ro.
 ro.	0	IN	NS	sec-dns-b.rotld.ro.
-ro.	0	IN	DS	28330 8 2 f76431ce5df70b17cc445dea069da4d581bd8ca79c622e90a5f1eb35bbc6993d
 ro.	0	IN	DS	39877 8 2 7e362086dad6ceaedb5474a21d13401b7ba68f3162abe6ef2679f040dd65d16d
 dns-at.rotld.ro.	0	IN	A	78.104.145.6
 dns-at.rotld.ro.	0	IN	AAAA	2001:628:453:bb::6
