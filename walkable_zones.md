@@ -54,7 +54,6 @@
 * `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
-* `136.in-addr.arpa.`
 * `137.in-addr.arpa.`
 * `138.in-addr.arpa.`
 * `139.in-addr.arpa.`
@@ -64,7 +63,6 @@
 * `142.in-addr.arpa.`
 * `143.in-addr.arpa.`
 * `144.in-addr.arpa.`
-* `145.in-addr.arpa.`
 * `146.in-addr.arpa.`
 * `147.in-addr.arpa.`
 * `148.in-addr.arpa.`
@@ -155,7 +153,6 @@
 * `226.in-addr.arpa.`
 * `227.in-addr.arpa.`
 * `228.in-addr.arpa.`
-* `229.in-addr.arpa.`
 * `23.in-addr.arpa.`
 * `230.in-addr.arpa.`
 * `231.in-addr.arpa.`
@@ -190,7 +187,6 @@
 * `4.1.1.0.0.2.ip6.arpa.`
 * `4.4.1.0.0.2.ip6.arpa.`
 * `4.at.`
-* `4.in-addr.arpa.`
 * `40.in-addr.arpa.`
 * `41.in-addr.arpa.`
 * `42.in-addr.arpa.`
@@ -220,7 +216,6 @@
 * `59.in-addr.arpa.`
 * `6.0.1.0.0.2.ip6.arpa.`
 * `6.1.1.0.0.2.ip6.arpa.`
-* `60.in-addr.arpa.`
 * `61.in-addr.arpa.`
 * `62.in-addr.arpa.`
 * `63.in-addr.arpa.`
@@ -275,12 +270,10 @@
 * `a.1.0.0.2.ip6.arpa.`
 * `a.1.1.0.0.2.ip6.arpa.`
 * `a.4.1.0.0.2.ip6.arpa.`
-* `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
 * `adv.br.`
@@ -375,7 +368,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
@@ -387,15 +379,14 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
+* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
-* `e164.arpa.`
 * `ecn.br.`
-* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -454,7 +445,6 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
-* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -500,6 +490,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lacnic.net.`
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
@@ -555,7 +546,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -579,7 +569,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -633,7 +622,6 @@
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
-* `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -647,7 +635,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
