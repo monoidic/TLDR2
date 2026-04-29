@@ -89,6 +89,7 @@
 * `165.in-addr.arpa.`
 * `166.in-addr.arpa.`
 * `167.in-addr.arpa.`
+* `168.in-addr.arpa.`
 * `169.in-addr.arpa.`
 * `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
@@ -192,6 +193,7 @@
 * `4.in-addr.arpa.`
 * `40.in-addr.arpa.`
 * `41.in-addr.arpa.`
+* `42.in-addr.arpa.`
 * `43.in-addr.arpa.`
 * `44.in-addr.arpa.`
 * `45.in-addr.arpa.`
@@ -278,11 +280,14 @@
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
+* `ac.lk.`
 * `ac.pr.`
+* `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
+* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -317,6 +322,7 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -351,6 +357,7 @@
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
+* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -411,6 +418,7 @@
 * `f.0.1.0.0.2.ip6.arpa.`
 * `far.br.`
 * `fedorainfracloud.org.`
+* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -530,6 +538,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -570,8 +579,8 @@
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -619,6 +628,7 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
+* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -645,6 +655,7 @@
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
+* `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
@@ -652,6 +663,7 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
+* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
@@ -673,6 +685,7 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
+* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
