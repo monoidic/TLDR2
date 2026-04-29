@@ -27,6 +27,7 @@
 * `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
 * `111.in-addr.arpa.`
+* `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
 * `115.in-addr.arpa.`
@@ -76,6 +77,7 @@
 * `154.in-addr.arpa.`
 * `155.in-addr.arpa.`
 * `156.in-addr.arpa.`
+* `157.in-addr.arpa.`
 * `158.in-addr.arpa.`
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
@@ -87,7 +89,6 @@
 * `165.in-addr.arpa.`
 * `166.in-addr.arpa.`
 * `167.in-addr.arpa.`
-* `168.in-addr.arpa.`
 * `169.in-addr.arpa.`
 * `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
@@ -147,6 +148,7 @@
 * `220.in-addr.arpa.`
 * `221.in-addr.arpa.`
 * `222.in-addr.arpa.`
+* `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
 * `225.in-addr.arpa.`
 * `226.in-addr.arpa.`
@@ -184,12 +186,12 @@
 * `37.in-addr.arpa.`
 * `39.in-addr.arpa.`
 * `4.0.1.0.0.2.ip6.arpa.`
+* `4.1.1.0.0.2.ip6.arpa.`
 * `4.4.1.0.0.2.ip6.arpa.`
 * `4.at.`
 * `4.in-addr.arpa.`
 * `40.in-addr.arpa.`
 * `41.in-addr.arpa.`
-* `42.in-addr.arpa.`
 * `43.in-addr.arpa.`
 * `44.in-addr.arpa.`
 * `45.in-addr.arpa.`
@@ -250,6 +252,7 @@
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
 * `88.in-addr.arpa.`
+* `89.in-addr.arpa.`
 * `9.0.1.0.0.2.ip6.arpa.`
 * `9.1.0.0.2.ip6.arpa.`
 * `9.1.1.0.0.2.ip6.arpa.`
@@ -260,6 +263,7 @@
 * `92.in-addr.arpa.`
 * `93.in-addr.arpa.`
 * `94.in-addr.arpa.`
+* `95.in-addr.arpa.`
 * `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
 * `98.in-addr.arpa.`
@@ -274,13 +278,11 @@
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
-* `ac.lk.`
-* `adm.br.`
+* `ac.pr.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -315,7 +317,6 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
-* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
@@ -343,13 +344,13 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
+* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
-* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -366,6 +367,7 @@
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
+* `curitiba.br.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -404,11 +406,11 @@
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
+* `eti.br.`
 * `ewp.live.`
 * `f.0.1.0.0.2.ip6.arpa.`
 * `far.br.`
 * `fedorainfracloud.org.`
-* `fedorapeople.org.`
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
@@ -474,6 +476,7 @@
 * `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
+* `ip6-servers.arpa.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -510,6 +513,7 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
+* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -526,7 +530,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -542,6 +545,7 @@
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
+* `net.pr.`
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
@@ -566,7 +570,6 @@
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -581,6 +584,7 @@
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
+* `ong.br.`
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
@@ -615,7 +619,6 @@
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
-* `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
@@ -642,7 +645,6 @@
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
-* `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
@@ -650,7 +652,6 @@
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
-* `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
@@ -672,7 +673,6 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
