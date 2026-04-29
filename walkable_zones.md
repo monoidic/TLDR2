@@ -218,7 +218,6 @@
 * `57.in-addr.arpa.`
 * `58.in-addr.arpa.`
 * `59.in-addr.arpa.`
-* `6.0.1.0.0.2.ip6.arpa.`
 * `6.1.1.0.0.2.ip6.arpa.`
 * `60.in-addr.arpa.`
 * `61.in-addr.arpa.`
@@ -244,7 +243,6 @@
 * `8.0.1.0.0.2.ip6.arpa.`
 * `8.1.1.0.0.2.ip6.arpa.`
 * `8.4.1.0.0.2.ip6.arpa.`
-* `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
 * `81.in-addr.arpa.`
 * `82.in-addr.arpa.`
@@ -253,7 +251,6 @@
 * `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
-* `88.in-addr.arpa.`
 * `89.in-addr.arpa.`
 * `9.0.1.0.0.2.ip6.arpa.`
 * `9.1.0.0.2.ip6.arpa.`
@@ -373,11 +370,9 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
-* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -444,7 +439,6 @@
 * `go.id.`
 * `go.leg.br.`
 * `gob.cl.`
-* `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
 * `gov.ao.`
@@ -461,7 +455,6 @@
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
-* `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosted-by-previder.com.`
@@ -498,14 +491,12 @@
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
-* `leilao.br.`
 * `lel.br.`
 * `li.`
 * `lib.wi.us.`
@@ -690,7 +681,6 @@
 * `trafficplex.cloud.`
 * `trd.br.`
 * `tur.br.`
-* `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
@@ -711,7 +701,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
