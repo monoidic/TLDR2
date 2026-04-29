@@ -5364,7 +5364,6 @@ eco.	0	IN	NS	a.ns.nic.eco.
 eco.	0	IN	NS	b.ns.nic.eco.
 eco.	0	IN	NS	c.ns.nic.eco.
 eco.	0	IN	NS	d.ns.nic.eco.
-eco.	0	IN	DS	20969 8 2 d64fde1cc6a5c7a2aef1b29a4fbd00c294129c64506af54a3df182c9e658c66c
 eco.	0	IN	DS	28231 8 2 c7f0d645e7eb76db60c34bf1a460b5abcccf5b4b6a167187941501e9844cf62a
 a.ns.nic.eco.	0	IN	A	185.159.197.4
 a.ns.nic.eco.	0	IN	AAAA	2620:10a:80aa::4
@@ -16427,11 +16426,13 @@ suzuki.	0	IN	NS	l.gmoregistry.net.
 suzuki.	0	IN	DS	33941 8 2 dc04eaae9d4e306eec2a2d1ebd1f146b8e555ff28e0924ee22e36555ac44c386
 sv.	0	IN	NS	a.lactld.org.
 sv.	0	IN	NS	p.ns.sv.
+sv.	0	IN	NS	ix.red.sv.
 sv.	0	IN	NS	ns.dns.br.
 sv.	0	IN	NS	sir.red.sv.
 sv.	0	IN	NS	dns-ext.nic.cr.
 p.ns.sv.	0	IN	A	204.61.216.112
 p.ns.sv.	0	IN	AAAA	2001:500:14:6112:ad::1
+ix.red.sv.	0	IN	A	168.243.17.2
 sir.red.sv.	0	IN	A	131.100.140.162
 swatch.	0	IN	NS	dns1.nic.swatch.
 swatch.	0	IN	NS	dns2.nic.swatch.
@@ -17921,6 +17922,7 @@ verisign.	0	IN	DS	29816 13 2 f54b156bb5a1c4b07e9ecec5a35ce98ff85b841f08221985c9c
 versicherung.	0	IN	NS	a.dns.nic.versicherung.
 versicherung.	0	IN	NS	m.dns.nic.versicherung.
 versicherung.	0	IN	NS	n.dns.nic.versicherung.
+versicherung.	0	IN	DS	23345 8 2 032eda7e733e515e9393c7f949eb6aecc0920d423b5e2c7f59f48911dc1e7063
 versicherung.	0	IN	DS	26134 8 2 925ee924b5bc6876443e476c16eaf5bf02885acadbdf27ca2c87be8eeb7f3b41
 versicherung.	0	IN	DS	40642 8 2 0467a13928ccb19d281df83a64fe82ee5556806625e034b146d2261e1e2632b2
 a.dns.nic.versicherung.	0	IN	A	194.0.25.13
