@@ -409,6 +409,7 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
+* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -665,6 +666,7 @@
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
+* `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
 * `slz.br.`
@@ -682,6 +684,7 @@
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
+* `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
