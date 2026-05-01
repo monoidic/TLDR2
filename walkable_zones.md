@@ -353,7 +353,6 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
-* `cnt.br.`
 * `co.id.`
 * `co.ve.`
 * `cocca.fr.`
@@ -373,11 +372,9 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
-* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -424,7 +421,6 @@
 * `fin.tn.`
 * `firm.ng.`
 * `firm.ve.`
-* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -503,7 +499,6 @@
 * `kz.`
 * `lacnic.net.`
 * `lactld.org.`
-* `lb.`
 * `leg.br.`
 * `leilao.br.`
 * `lel.br.`
@@ -521,7 +516,6 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
-* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -591,7 +585,6 @@
 * `not.br.`
 * `nro.net.`
 * `ntr.br.`
-* `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
@@ -678,7 +671,6 @@
 * `store.ve.`
 * `tc.`
 * `tc.br.`
-* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
