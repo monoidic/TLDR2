@@ -4,6 +4,7 @@
 * `0.0.0.1.6.2.ip6.arpa.`
 * `0.0.0.2.6.2.ip6.arpa.`
 * `0.4.1.0.0.2.ip6.arpa.`
+* `0.4.2.ip6.arpa.`
 * `0.6.2.ip6.arpa.`
 * `0.8.2.ip6.arpa.`
 * `0.a.2.ip6.arpa.`
@@ -241,6 +242,7 @@
 * `78.in-addr.arpa.`
 * `79.in-addr.arpa.`
 * `8.0.1.0.0.2.ip6.arpa.`
+* `8.1.1.0.0.2.ip6.arpa.`
 * `8.4.1.0.0.2.ip6.arpa.`
 * `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
@@ -277,6 +279,7 @@
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
+* `ac.leg.br.`
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
@@ -363,6 +366,7 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
+* `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -375,6 +379,7 @@
 * `cy.`
 * `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
+* `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
 * `des.br.`
 * `desa.id.`
@@ -491,12 +496,12 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
+* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -577,7 +582,6 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -693,7 +697,6 @@
 * `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
-* `ve.`
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
