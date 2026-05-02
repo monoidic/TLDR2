@@ -91,7 +91,6 @@
 * `167.in-addr.arpa.`
 * `168.in-addr.arpa.`
 * `169.in-addr.arpa.`
-* `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
 * `173.in-addr.arpa.`
@@ -130,7 +129,6 @@
 * `20.in-addr.arpa.`
 * `200.in-addr.arpa.`
 * `201.in-addr.arpa.`
-* `202.in-addr.arpa.`
 * `203.in-addr.arpa.`
 * `204.in-addr.arpa.`
 * `205.in-addr.arpa.`
@@ -160,7 +158,6 @@
 * `230.in-addr.arpa.`
 * `231.in-addr.arpa.`
 * `232.in-addr.arpa.`
-* `233.in-addr.arpa.`
 * `234.in-addr.arpa.`
 * `235.in-addr.arpa.`
 * `236.in-addr.arpa.`
@@ -211,7 +208,6 @@
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
 * `50.in-addr.arpa.`
-* `51.in-addr.arpa.`
 * `52.in-addr.arpa.`
 * `54.in-addr.arpa.`
 * `56.in-addr.arpa.`
@@ -285,7 +281,6 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -360,11 +355,9 @@
 * `col.ng.`
 * `com.bd.`
 * `com.bt.`
-* `com.cy.`
 * `com.kz.`
 * `com.lb.`
 * `com.pr.`
-* `com.tn.`
 * `com.ve.`
 * `comcast.net.`
 * `conn.uk.`
@@ -381,7 +374,6 @@
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
 * `des.br.`
-* `desa.id.`
 * `det.br.`
 * `dev.br.`
 * `df.leg.br.`
@@ -397,7 +389,6 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
-* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -580,6 +571,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -663,7 +655,6 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
@@ -680,7 +671,6 @@
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
-* `tmp.br.`
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
