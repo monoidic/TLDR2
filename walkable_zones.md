@@ -353,7 +353,7 @@
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
-* `co.id.`
+* `cnt.br.`
 * `co.ve.`
 * `cocca.fr.`
 * `col.ng.`
@@ -372,8 +372,8 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
+* `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
@@ -421,6 +421,7 @@
 * `fin.tn.`
 * `firm.ng.`
 * `firm.ve.`
+* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -499,6 +500,7 @@
 * `kz.`
 * `lacnic.net.`
 * `lactld.org.`
+* `lb.`
 * `leg.br.`
 * `leilao.br.`
 * `lel.br.`
@@ -516,6 +518,7 @@
 * `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
+* `manaus.br.`
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
@@ -585,6 +588,7 @@
 * `not.br.`
 * `nro.net.`
 * `ntr.br.`
+* `nu.`
 * `nx.gw.`
 * `odo.br.`
 * `ong.br.`
@@ -613,7 +617,6 @@
 * `ponpes.id.`
 * `ppg.br.`
 * `pr.`
-* `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
 * `prof.pr.`
@@ -639,7 +642,6 @@
 * `rn.leg.br.`
 * `ro.gov.br.`
 * `ro.leg.br.`
-* `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
@@ -668,9 +670,9 @@
 * `sp.leg.br.`
 * `srv.br.`
 * `stackhero-network.com.`
-* `store.ve.`
 * `tc.`
 * `tc.br.`
+* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
