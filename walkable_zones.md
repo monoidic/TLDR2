@@ -550,6 +550,7 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -578,9 +579,10 @@
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
