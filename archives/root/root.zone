@@ -2118,7 +2118,6 @@ blog.	0	IN	NS	a.ns.nic.blog.
 blog.	0	IN	NS	b.ns.nic.blog.
 blog.	0	IN	NS	c.ns.nic.blog.
 blog.	0	IN	NS	d.ns.nic.blog.
-blog.	0	IN	DS	6766 8 2 65581cc0c38868bb708cb1c981f61b8d332c201a9a25b71dcb91ae9959443c32
 blog.	0	IN	DS	7382 8 2 94b49e0a0837f32f5a21407a92988bf208a2598ce0516f7276f0e2e81aba3765
 a.ns.nic.blog.	0	IN	A	185.159.197.9
 a.ns.nic.blog.	0	IN	AAAA	2620:10a:80aa::9
@@ -6973,7 +6972,7 @@ d.nic.gd.	0	IN	AAAA	2a04:2b00:13ff::88
 gdn.	0	IN	NS	ns1.nic.gdn.
 gdn.	0	IN	NS	ns3.nic.gdn.
 gdn.	0	IN	NS	ns4.nic.gdn.
-gdn.	0	IN	DS	31405 8 1 00275a5feec994177d0c012b7239ca8ad41ec030
+gdn.	0	IN	DS	31024 8 1 32d0919bdaec6321eb1d8be9956d062a10f92e6e
 gdn.	0	IN	DS	51961 8 1 560ebea2094d97bb3bab16b77a706d00ec30c203
 ns1.nic.gdn.	0	IN	A	194.0.25.18
 ns1.nic.gdn.	0	IN	AAAA	2001:678:20::18
@@ -14051,6 +14050,7 @@ radio.	0	IN	DS	62727 10 2 3863e4a0c36a262785c1703b5cff54cdbd56cd40bb414b45599848
 re.	0	IN	NS	d.nic.fr.
 re.	0	IN	NS	f.ext.nic.fr.
 re.	0	IN	NS	g.ext.nic.fr.
+re.	0	IN	DS	60657 13 2 54f441fe25ca20db7e5cdb9596a32ad8784ab06f68a6f4fce84c5a7ea8e1b347
 re.	0	IN	DS	61047 13 2 6a6546f44c8680c705612f9722a591dbbb88bf0d40e89e1cb45fad18eee3d4ea
 read.	0	IN	NS	dns1.nic.read.
 read.	0	IN	NS	dns2.nic.read.
