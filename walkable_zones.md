@@ -24,7 +24,6 @@
 * `106.in-addr.arpa.`
 * `107.in-addr.arpa.`
 * `108.in-addr.arpa.`
-* `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
 * `111.in-addr.arpa.`
 * `112.in-addr.arpa.`
@@ -45,7 +44,6 @@
 * `128.in-addr.arpa.`
 * `129.in-addr.arpa.`
 * `12hp.at.`
-* `12hp.ch.`
 * `12hp.de.`
 * `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
@@ -204,11 +202,11 @@
 * `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
+* `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
 * `5.1.0.0.2.ip6.arpa.`
 * `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
-* `5.in-addr.arpa.`
 * `50.in-addr.arpa.`
 * `51.in-addr.arpa.`
 * `52.in-addr.arpa.`
@@ -335,7 +333,6 @@
 * `br.`
 * `bsb.br.`
 * `bt.`
-* `c.0.1.0.0.2.ip6.arpa.`
 * `c.4.1.0.0.2.ip6.arpa.`
 * `campinagrande.br.`
 * `campinas.br.`
@@ -349,7 +346,6 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
-* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -376,7 +372,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -388,14 +383,12 @@
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
-* `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
-* `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
@@ -495,7 +488,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -522,7 +514,6 @@
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -560,14 +551,12 @@
 * `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
-* `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -579,8 +568,6 @@
 * `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
-* `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -700,7 +687,6 @@
 * `v.ua.`
 * `ve.`
 * `vet.br.`
-* `vix.br.`
 * `vlog.br.`
 * `web.id.`
 * `web.ve.`
