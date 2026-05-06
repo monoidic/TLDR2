@@ -5,7 +5,6 @@
 * `0.0.0.2.6.2.ip6.arpa.`
 * `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
-* `0.6.2.ip6.arpa.`
 * `0.8.2.ip6.arpa.`
 * `0.a.2.ip6.arpa.`
 * `0.c.2.ip6.arpa.`
@@ -30,7 +29,6 @@
 * `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
-* `115.in-addr.arpa.`
 * `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
 * `118.in-addr.arpa.`
@@ -83,7 +81,6 @@
 * `16.in-addr.arpa.`
 * `160.in-addr.arpa.`
 * `161.in-addr.arpa.`
-* `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
 * `164.in-addr.arpa.`
 * `165.in-addr.arpa.`
@@ -313,9 +310,7 @@
 * `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
-* `b.1.1.0.0.2.ip6.arpa.`
 * `b.4.1.0.0.2.ip6.arpa.`
-* `b.br.`
 * `ba.gov.br.`
 * `ba.leg.br.`
 * `barueri.br.`
@@ -366,7 +361,6 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
 * `coop.br.`
@@ -377,7 +371,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -464,10 +457,9 @@
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
+* `hosted-by-previder.com.`
 * `hosting.`
-* `ia.br.`
 * `ia.ve.`
-* `iana-servers.net.`
 * `id.`
 * `id.pub.`
 * `iki.fi.`
@@ -500,6 +492,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lacnic.net.`
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
@@ -613,6 +606,7 @@
 * `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
+* `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
@@ -683,17 +677,14 @@
 * `tn.`
 * `to.gov.br.`
 * `to.leg.br.`
-* `tourism.tn.`
 * `trafficplex.cloud.`
 * `trd.br.`
-* `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
 * `udi.br.`
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
-* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
