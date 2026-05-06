@@ -42,7 +42,6 @@
 * `124.in-addr.arpa.`
 * `125.in-addr.arpa.`
 * `126.in-addr.arpa.`
-* `128.in-addr.arpa.`
 * `129.in-addr.arpa.`
 * `12hp.at.`
 * `12hp.ch.`
@@ -176,7 +175,6 @@
 * `3.0.1.0.0.2.ip6.arpa.`
 * `3.1.0.0.2.ip6.arpa.`
 * `3.1.1.0.0.2.ip6.arpa.`
-* `3.4.1.0.0.2.ip6.arpa.`
 * `3.6.2.ip6.arpa.`
 * `3.in-addr.arpa.`
 * `31.in-addr.arpa.`
@@ -557,7 +555,6 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
-* `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -709,9 +706,7 @@
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
 * `xn--fzc2c9e2c.`
-* `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
