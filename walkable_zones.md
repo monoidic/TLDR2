@@ -12,7 +12,6 @@
 * `1.0.0.1.6.2.ip6.arpa.`
 * `1.0.0.2.6.2.ip6.arpa.`
 * `1.4.1.0.0.2.ip6.arpa.`
-* `1.4.2.ip6.arpa.`
 * `1.a.2.ip6.arpa.`
 * `1.in-addr.arpa.`
 * `100.in-addr.arpa.`
@@ -24,7 +23,6 @@
 * `106.in-addr.arpa.`
 * `107.in-addr.arpa.`
 * `108.in-addr.arpa.`
-* `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
 * `111.in-addr.arpa.`
 * `112.in-addr.arpa.`
@@ -140,7 +138,6 @@
 * `209.in-addr.arpa.`
 * `210.in-addr.arpa.`
 * `211.in-addr.arpa.`
-* `212.in-addr.arpa.`
 * `213.in-addr.arpa.`
 * `216.in-addr.arpa.`
 * `217.in-addr.arpa.`
@@ -273,7 +270,6 @@
 * `9guacu.br.`
 * `a.0.1.0.0.2.ip6.arpa.`
 * `a.1.0.0.2.ip6.arpa.`
-* `a.1.1.0.0.2.ip6.arpa.`
 * `a.4.1.0.0.2.ip6.arpa.`
 * `abc.br.`
 * `ac.bd.`
@@ -296,7 +292,6 @@
 * `anycastdns.cz.`
 * `ap.leg.br.`
 * `aparecida.br.`
-* `api.br.`
 * `app.br.`
 * `aquarelle.`
 * `arin.net.`
@@ -422,7 +417,6 @@
 * `fedoraproject.org.`
 * `feira.br.`
 * `fin.tn.`
-* `firm.ng.`
 * `firm.ve.`
 * `flog.br.`
 * `floripa.br.`
@@ -546,7 +540,6 @@
 * `mythic-beasts.com.`
 * `name.pm.`
 * `name.pr.`
-* `nat.tn.`
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
@@ -581,6 +574,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -662,7 +656,6 @@
 * `sch.wf.`
 * `se.`
 * `se.gov.br.`
-* `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
@@ -683,7 +676,6 @@
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
-* `to.gov.br.`
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
