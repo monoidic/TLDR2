@@ -23,7 +23,6 @@
 * `105.in-addr.arpa.`
 * `106.in-addr.arpa.`
 * `107.in-addr.arpa.`
-* `108.in-addr.arpa.`
 * `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
 * `111.in-addr.arpa.`
@@ -50,7 +49,6 @@
 * `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
-* `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
@@ -97,7 +95,6 @@
 * `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
-* `176.in-addr.arpa.`
 * `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
@@ -206,7 +203,6 @@
 * `4lima.de.`
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
-* `5.1.0.0.2.ip6.arpa.`
 * `5.1.1.0.0.2.ip6.arpa.`
 * `5.4.1.0.0.2.ip6.arpa.`
 * `5.in-addr.arpa.`
@@ -283,7 +279,6 @@
 * `ac.lk.`
 * `ac.pr.`
 * `adm.br.`
-* `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
@@ -305,6 +300,7 @@
 * `art.br.`
 * `arts.ve.`
 * `asso.mc.`
+* `ati.tn.`
 * `ato.br.`
 * `audio.`
 * `auto.`
@@ -376,7 +372,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -497,7 +492,6 @@
 * `kapsi.fi.`
 * `kdns.fr.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
@@ -638,7 +632,6 @@
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
-* `riobranco.br.`
 * `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
@@ -710,6 +703,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
