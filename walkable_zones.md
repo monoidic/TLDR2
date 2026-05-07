@@ -344,7 +344,6 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
-* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -377,6 +376,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -495,7 +495,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -558,13 +557,11 @@
 * `net.ve.`
 * `netnod.se.`
 * `ngo.ng.`
-* `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
 * `nic.cars.`
-* `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
@@ -580,7 +577,9 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -644,6 +643,7 @@
 * `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
+* `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
