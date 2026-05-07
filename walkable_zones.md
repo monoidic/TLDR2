@@ -3,7 +3,6 @@
 * `.`
 * `0.0.0.1.6.2.ip6.arpa.`
 * `0.0.0.2.6.2.ip6.arpa.`
-* `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
 * `0.6.2.ip6.arpa.`
 * `0.8.2.ip6.arpa.`
@@ -21,7 +20,6 @@
 * `103.in-addr.arpa.`
 * `104.in-addr.arpa.`
 * `105.in-addr.arpa.`
-* `106.in-addr.arpa.`
 * `107.in-addr.arpa.`
 * `108.in-addr.arpa.`
 * `109.in-addr.arpa.`
@@ -48,14 +46,12 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `13.in-addr.arpa.`
-* `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
 * `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
 * `136.in-addr.arpa.`
-* `137.in-addr.arpa.`
 * `138.in-addr.arpa.`
 * `139.in-addr.arpa.`
 * `14.in-addr.arpa.`
@@ -70,7 +66,6 @@
 * `148.in-addr.arpa.`
 * `149.in-addr.arpa.`
 * `15.in-addr.arpa.`
-* `150.in-addr.arpa.`
 * `151.in-addr.arpa.`
 * `152.in-addr.arpa.`
 * `153.in-addr.arpa.`
@@ -81,7 +76,6 @@
 * `158.in-addr.arpa.`
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
-* `160.in-addr.arpa.`
 * `161.in-addr.arpa.`
 * `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
@@ -92,7 +86,6 @@
 * `168.in-addr.arpa.`
 * `169.in-addr.arpa.`
 * `170.in-addr.arpa.`
-* `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
 * `173.in-addr.arpa.`
 * `174.in-addr.arpa.`
@@ -115,7 +108,6 @@
 * `190.in-addr.arpa.`
 * `191.in-addr.arpa.`
 * `192.in-addr.arpa.`
-* `193.in-addr.arpa.`
 * `194.in-addr.arpa.`
 * `195.in-addr.arpa.`
 * `196.in-addr.arpa.`
@@ -227,7 +219,6 @@
 * `64.in-addr.arpa.`
 * `65.in-addr.arpa.`
 * `66.in-addr.arpa.`
-* `67.in-addr.arpa.`
 * `68.in-addr.arpa.`
 * `69.in-addr.arpa.`
 * `7.0.1.0.0.2.ip6.arpa.`
@@ -344,7 +335,6 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
-* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -366,14 +356,10 @@
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
-* `comcast.net.`
 * `conn.uk.`
 * `contagem.br.`
-* `coop.br.`
 * `copro.uk.`
-* `coz.br.`
 * `cri.br.`
-* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
@@ -382,7 +368,6 @@
 * `def.br.`
 * `des.br.`
 * `desa.id.`
-* `det.br.`
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
@@ -393,12 +378,10 @@
 * `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
-* `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
 * `edu.kg.`
-* `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
@@ -454,7 +437,6 @@
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
-* `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
@@ -487,11 +469,9 @@
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
-* `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
-* `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
@@ -541,7 +521,6 @@
 * `mus.br.`
 * `my.at.`
 * `my.de.`
-* `my.id.`
 * `mythic-beasts.com.`
 * `name.pm.`
 * `name.pr.`
@@ -677,9 +656,7 @@
 * `store.ve.`
 * `tc.`
 * `tc.br.`
-* `tec.br.`
 * `tec.ve.`
-* `the.br.`
 * `tm.mc.`
 * `tmp.br.`
 * `tn.`
@@ -701,7 +678,6 @@
 * `ve.`
 * `vet.br.`
 * `vix.br.`
-* `vlog.br.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
