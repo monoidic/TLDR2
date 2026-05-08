@@ -44,6 +44,7 @@
 * `126.in-addr.arpa.`
 * `128.in-addr.arpa.`
 * `129.in-addr.arpa.`
+* `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
 * `13.in-addr.arpa.`
@@ -376,6 +377,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -647,6 +649,7 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
+* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
