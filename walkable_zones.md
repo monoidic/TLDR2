@@ -147,6 +147,7 @@
 * `218.in-addr.arpa.`
 * `219.in-addr.arpa.`
 * `220.in-addr.arpa.`
+* `221.in-addr.arpa.`
 * `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
@@ -173,6 +174,7 @@
 * `2ix.ch.`
 * `2ix.de.`
 * `3.0.1.0.0.2.ip6.arpa.`
+* `3.1.0.0.2.ip6.arpa.`
 * `3.1.1.0.0.2.ip6.arpa.`
 * `3.4.1.0.0.2.ip6.arpa.`
 * `3.6.2.ip6.arpa.`
@@ -196,10 +198,10 @@
 * `44.in-addr.arpa.`
 * `45.in-addr.arpa.`
 * `46.in-addr.arpa.`
+* `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
 * `4lima.at.`
-* `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
@@ -255,6 +257,7 @@
 * `9.0.1.0.0.2.ip6.arpa.`
 * `9.1.0.0.2.ip6.arpa.`
 * `9.1.1.0.0.2.ip6.arpa.`
+* `9.4.1.0.0.2.ip6.arpa.`
 * `9.in-addr.arpa.`
 * `90.in-addr.arpa.`
 * `91.in-addr.arpa.`
@@ -340,6 +343,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -368,9 +372,10 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
+* `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -435,6 +440,7 @@
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
+* `go.leg.br.`
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
@@ -488,10 +494,12 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
+* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lacnic.net.`
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
@@ -567,12 +575,11 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
+* `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -585,6 +592,7 @@
 * `odo.br.`
 * `ong.br.`
 * `or.id.`
+* `org.bd.`
 * `org.bt.`
 * `org.cy.`
 * `org.kz.`
@@ -629,6 +637,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
@@ -698,7 +707,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
