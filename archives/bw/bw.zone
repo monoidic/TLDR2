@@ -4,7 +4,7 @@ bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 bw.	0	IN	DNSKEY	256 3 13 aM1BXx9RD4/p8mW0mdjocIJXNWOya7L5eBMQcBZSmxJvEFMjO11ujvJtA8dQ9jH0lzpXpxXoiFlaRKID81HPig== ;{id = 14234 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
-bw.	0	IN	NSEC3PARAM	1 0 0 9d68b8d312d3694f 
+bw.	0	IN	NSEC3PARAM	1 0 0 68e3f4617bf41d68 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
 bw.	0	IN	CDNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA==
 a.bw.	0	IN	NS	ns1.dreamhost.com.
@@ -8725,6 +8725,12 @@ cromfield.co.bw.	0	IN	NS	ns1.dns-h.com.
 cromfield.co.bw.	0	IN	NS	ns1.host-h.net.
 cromfield.co.bw.	0	IN	NS	ns2.dns-h.com.
 cromfield.co.bw.	0	IN	NS	ns2.host-h.net.
+cropprotection.co.bw.	0	IN	NS	ns.bnamed.eu.
+cropprotection.co.bw.	0	IN	NS	ns.bnamed.uk.
+cropprotection.co.bw.	0	IN	NS	ns.bnamed.us.
+cropprotection.co.bw.	0	IN	NS	ns.nscluster.si.
+cropprotection.co.bw.	0	IN	NS	ns.nscluster.tf.
+cropprotection.co.bw.	0	IN	DS	23126 13 2 3b96c47d0f8d548aca10ebf7c153e7f063a6e6547892af2ed386fa307d4ff00d
 cross-b.co.bw.	0	IN	NS	ns1.botsnet.bw.
 cross-b.co.bw.	0	IN	NS	ns2.botsnet.bw.
 cross-b.co.bw.	0	IN	NS	ns3.botsnet.bw.
