@@ -11,7 +11,6 @@
 * `0.c.2.ip6.arpa.`
 * `1.0.0.1.6.2.ip6.arpa.`
 * `1.0.0.2.6.2.ip6.arpa.`
-* `1.4.1.0.0.2.ip6.arpa.`
 * `1.4.2.ip6.arpa.`
 * `1.a.2.ip6.arpa.`
 * `1.in-addr.arpa.`
@@ -75,7 +74,6 @@
 * `152.in-addr.arpa.`
 * `153.in-addr.arpa.`
 * `154.in-addr.arpa.`
-* `155.in-addr.arpa.`
 * `156.in-addr.arpa.`
 * `157.in-addr.arpa.`
 * `158.in-addr.arpa.`
@@ -287,7 +285,6 @@
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -317,7 +314,6 @@
 * `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
 * `ba.gov.br.`
-* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -377,7 +373,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -502,7 +497,6 @@
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
-* `lactld.org.`
 * `lb.`
 * `leg.br.`
 * `leilao.br.`
@@ -567,7 +561,6 @@
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
-* `nic.diet.`
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
@@ -581,7 +574,6 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
