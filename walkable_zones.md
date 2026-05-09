@@ -22,7 +22,7 @@
 * `104.in-addr.arpa.`
 * `105.in-addr.arpa.`
 * `106.in-addr.arpa.`
-* `108.in-addr.arpa.`
+* `107.in-addr.arpa.`
 * `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
 * `111.in-addr.arpa.`
@@ -38,7 +38,6 @@
 * `121.in-addr.arpa.`
 * `122.in-addr.arpa.`
 * `123.in-addr.arpa.`
-* `124.in-addr.arpa.`
 * `125.in-addr.arpa.`
 * `126.in-addr.arpa.`
 * `128.in-addr.arpa.`
@@ -71,7 +70,6 @@
 * `15.in-addr.arpa.`
 * `150.in-addr.arpa.`
 * `151.in-addr.arpa.`
-* `152.in-addr.arpa.`
 * `153.in-addr.arpa.`
 * `154.in-addr.arpa.`
 * `155.in-addr.arpa.`
@@ -99,6 +97,7 @@
 * `176.in-addr.arpa.`
 * `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
+* `179.in-addr.arpa.`
 * `18.in-addr.arpa.`
 * `180.in-addr.arpa.`
 * `181.in-addr.arpa.`
@@ -143,7 +142,6 @@
 * `216.in-addr.arpa.`
 * `217.in-addr.arpa.`
 * `218.in-addr.arpa.`
-* `219.in-addr.arpa.`
 * `220.in-addr.arpa.`
 * `221.in-addr.arpa.`
 * `222.in-addr.arpa.`
@@ -154,6 +152,7 @@
 * `227.in-addr.arpa.`
 * `228.in-addr.arpa.`
 * `229.in-addr.arpa.`
+* `23.in-addr.arpa.`
 * `230.in-addr.arpa.`
 * `231.in-addr.arpa.`
 * `232.in-addr.arpa.`
@@ -184,7 +183,6 @@
 * `37.in-addr.arpa.`
 * `39.in-addr.arpa.`
 * `4.0.1.0.0.2.ip6.arpa.`
-* `4.1.1.0.0.2.ip6.arpa.`
 * `4.4.1.0.0.2.ip6.arpa.`
 * `4.at.`
 * `4.in-addr.arpa.`
@@ -194,7 +192,7 @@
 * `43.in-addr.arpa.`
 * `44.in-addr.arpa.`
 * `45.in-addr.arpa.`
-* `47.in-addr.arpa.`
+* `46.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
 * `4lima.at.`
@@ -213,7 +211,6 @@
 * `56.in-addr.arpa.`
 * `57.in-addr.arpa.`
 * `58.in-addr.arpa.`
-* `59.in-addr.arpa.`
 * `6.0.1.0.0.2.ip6.arpa.`
 * `6.1.1.0.0.2.ip6.arpa.`
 * `60.in-addr.arpa.`
@@ -224,12 +221,10 @@
 * `65.in-addr.arpa.`
 * `66.in-addr.arpa.`
 * `67.in-addr.arpa.`
-* `68.in-addr.arpa.`
 * `69.in-addr.arpa.`
 * `7.0.1.0.0.2.ip6.arpa.`
 * `7.1.1.0.0.2.ip6.arpa.`
 * `70.in-addr.arpa.`
-* `71.in-addr.arpa.`
 * `72.in-addr.arpa.`
 * `74.in-addr.arpa.`
 * `75.in-addr.arpa.`
@@ -240,7 +235,6 @@
 * `8.0.1.0.0.2.ip6.arpa.`
 * `8.1.1.0.0.2.ip6.arpa.`
 * `8.4.1.0.0.2.ip6.arpa.`
-* `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
 * `81.in-addr.arpa.`
 * `82.in-addr.arpa.`
@@ -271,7 +265,6 @@
 * `a.1.0.0.2.ip6.arpa.`
 * `a.1.1.0.0.2.ip6.arpa.`
 * `a.4.1.0.0.2.ip6.arpa.`
-* `abc.br.`
 * `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
@@ -281,13 +274,10 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
-* `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
-* `anani.br.`
 * `anycast.co.tz.`
 * `ap.leg.br.`
 * `aparecida.br.`
@@ -317,11 +307,11 @@
 * `bd.`
 * `belem.br.`
 * `bet.br.`
+* `bhz.br.`
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
@@ -371,6 +361,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -380,7 +371,6 @@
 * `dev.br.`
 * `df.leg.br.`
 * `diet.`
-* `dns.br.`
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
@@ -436,7 +426,6 @@
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -451,7 +440,6 @@
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
-* `guitars.`
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
@@ -512,6 +500,7 @@
 * `ltd.ng.`
 * `ma.gov.br.`
 * `ma.leg.br.`
+* `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
@@ -525,13 +514,13 @@
 * `mil.kz.`
 * `mil.ve.`
 * `mincom.tn.`
+* `mom.`
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -541,6 +530,7 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -561,15 +551,12 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
-* `nic.in.`
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -580,6 +567,7 @@
 * `nom.za.`
 * `not.br.`
 * `nro.net.`
+* `ntr.br.`
 * `nu.`
 * `nx.gw.`
 * `odo.br.`
@@ -587,7 +575,6 @@
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
-* `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
@@ -608,7 +595,6 @@
 * `poa.br.`
 * `ponpes.id.`
 * `ppg.br.`
-* `pr.`
 * `pr.leg.br.`
 * `pro.br.`
 * `pro.pr.`
@@ -647,7 +633,6 @@
 * `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
-* `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
@@ -700,7 +685,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
