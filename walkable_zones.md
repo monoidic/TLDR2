@@ -48,13 +48,11 @@
 * `12hp.ch.`
 * `12hp.de.`
 * `13.in-addr.arpa.`
-* `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
 * `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
 * `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
-* `136.in-addr.arpa.`
 * `137.in-addr.arpa.`
 * `138.in-addr.arpa.`
 * `139.in-addr.arpa.`
@@ -122,7 +120,6 @@
 * `197.in-addr.arpa.`
 * `198.in-addr.arpa.`
 * `199.in-addr.arpa.`
-* `2.0.1.0.0.2.ip6.arpa.`
 * `2.1.0.0.2.ip6.arpa.`
 * `2.1.1.0.0.2.ip6.arpa.`
 * `2.4.1.0.0.2.ip6.arpa.`
@@ -194,7 +191,6 @@
 * `40.in-addr.arpa.`
 * `41.in-addr.arpa.`
 * `42.in-addr.arpa.`
-* `43.in-addr.arpa.`
 * `44.in-addr.arpa.`
 * `45.in-addr.arpa.`
 * `46.in-addr.arpa.`
@@ -235,14 +231,12 @@
 * `70.in-addr.arpa.`
 * `71.in-addr.arpa.`
 * `72.in-addr.arpa.`
-* `74.in-addr.arpa.`
 * `75.in-addr.arpa.`
 * `76.in-addr.arpa.`
 * `77.in-addr.arpa.`
 * `78.in-addr.arpa.`
 * `79.in-addr.arpa.`
 * `8.0.1.0.0.2.ip6.arpa.`
-* `8.1.1.0.0.2.ip6.arpa.`
 * `8.4.1.0.0.2.ip6.arpa.`
 * `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
@@ -310,9 +304,7 @@
 * `audio.`
 * `auto.`
 * `ax.`
-* `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
-* `b.1.0.0.2.ip6.arpa.`
 * `b.1.1.0.0.2.ip6.arpa.`
 * `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
@@ -374,7 +366,6 @@
 * `coz.br.`
 * `cri.br.`
 * `cuiaba.br.`
-* `curitiba.br.`
 * `cw.`
 * `cy.`
 * `d-zone.ca.`
@@ -392,7 +383,6 @@
 * `dnsnode.net.`
 * `dnsupdate.info.`
 * `dz.`
-* `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
 * `e164.arpa.`
 * `ecn.br.`
@@ -407,7 +397,6 @@
 * `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
-* `ens.tn.`
 * `er.`
 * `es.leg.br.`
 * `esp.br.`
@@ -491,11 +480,9 @@
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
-* `joinville.br.`
 * `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
-* `kapsi.fi.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -514,7 +501,6 @@
 * `log.br.`
 * `lol.`
 * `londrina.br.`
-* `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
 * `ma.leg.br.`
@@ -536,7 +522,6 @@
 * `morena.br.`
 * `mp.br.`
 * `ms.leg.br.`
-* `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
 * `my.at.`
@@ -580,6 +565,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -630,7 +616,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
@@ -643,7 +628,6 @@
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
-* `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
