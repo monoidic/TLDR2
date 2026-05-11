@@ -244,7 +244,6 @@
 * `8.0.1.0.0.2.ip6.arpa.`
 * `8.1.1.0.0.2.ip6.arpa.`
 * `8.4.1.0.0.2.ip6.arpa.`
-* `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
 * `81.in-addr.arpa.`
 * `82.in-addr.arpa.`
@@ -267,7 +266,6 @@
 * `94.in-addr.arpa.`
 * `95.in-addr.arpa.`
 * `96.in-addr.arpa.`
-* `97.in-addr.arpa.`
 * `98.in-addr.arpa.`
 * `99.in-addr.arpa.`
 * `9guacu.br.`
@@ -281,13 +279,11 @@
 * `ac.id.`
 * `ac.leg.br.`
 * `ac.lk.`
-* `ac.pr.`
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
 * `al.leg.br.`
-* `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
 * `am.leg.br.`
@@ -339,11 +335,11 @@
 * `c.0.1.0.0.2.ip6.arpa.`
 * `c.4.1.0.0.2.ip6.arpa.`
 * `campinagrande.br.`
-* `campinas.br.`
 * `car.`
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -361,7 +357,6 @@
 * `com.bt.`
 * `com.cy.`
 * `com.kz.`
-* `com.lb.`
 * `com.pr.`
 * `com.tn.`
 * `com.ve.`
@@ -396,6 +391,7 @@
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
+* `edu.kg.`
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
@@ -434,7 +430,6 @@
 * `game.`
 * `gdn.`
 * `gen.ng.`
-* `geo.br.`
 * `ggf.br.`
 * `gn.`
 * `go.gov.br.`
@@ -565,7 +560,6 @@
 * `nic.christmas.`
 * `nic.cr.`
 * `nic.diet.`
-* `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
@@ -653,7 +647,6 @@
 * `santoandre.br.`
 * `saobernardo.br.`
 * `saogonca.br.`
-* `sc.gov.br.`
 * `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
@@ -662,7 +655,6 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
