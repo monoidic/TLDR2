@@ -391,6 +391,7 @@
 * `dnsking.ch.`
 * `dnsnode.net.`
 * `dnsupdate.info.`
+* `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
 * `e164.arpa.`
@@ -510,6 +511,7 @@
 * `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
+* `lk.`
 * `log.br.`
 * `lol.`
 * `londrina.br.`
@@ -523,6 +525,7 @@
 * `maringa.br.`
 * `mat.br.`
 * `mc.`
+* `md.`
 * `med.br.`
 * `mg.leg.br.`
 * `mil.br.`
@@ -578,6 +581,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -610,6 +614,7 @@
 * `pe.leg.br.`
 * `perso.tn.`
 * `pi.leg.br.`
+* `pics.`
 * `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
@@ -706,6 +711,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
