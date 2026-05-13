@@ -355,7 +355,6 @@
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
 * `cocca.fr.`
 * `col.ng.`
 * `com.bd.`
@@ -500,6 +499,7 @@
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
+* `kz.`
 * `lacnic.net.`
 * `lactld.org.`
 * `lb.`
@@ -556,6 +556,7 @@
 * `net.pr.`
 * `net.tn.`
 * `net.ve.`
+* `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
@@ -579,6 +580,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -662,6 +664,7 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
+* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
