@@ -70,7 +70,6 @@
 * `148.in-addr.arpa.`
 * `149.in-addr.arpa.`
 * `15.in-addr.arpa.`
-* `150.in-addr.arpa.`
 * `151.in-addr.arpa.`
 * `152.in-addr.arpa.`
 * `153.in-addr.arpa.`
@@ -170,7 +169,6 @@
 * `24.in-addr.arpa.`
 * `25.in-addr.arpa.`
 * `27.in-addr.arpa.`
-* `2ix.at.`
 * `2ix.ch.`
 * `2ix.de.`
 * `3.0.1.0.0.2.ip6.arpa.`
@@ -227,7 +225,6 @@
 * `64.in-addr.arpa.`
 * `65.in-addr.arpa.`
 * `66.in-addr.arpa.`
-* `67.in-addr.arpa.`
 * `68.in-addr.arpa.`
 * `69.in-addr.arpa.`
 * `7.0.1.0.0.2.ip6.arpa.`
@@ -344,6 +341,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -376,6 +374,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -502,7 +501,6 @@
 * `lacnic.net.`
 * `lactld.org.`
 * `lb.`
-* `leg.br.`
 * `leilao.br.`
 * `lel.br.`
 * `li.`
@@ -556,7 +554,6 @@
 * `net.tn.`
 * `net.ve.`
 * `netnod.se.`
-* `ngo.ng.`
 * `nic.aquarelle.`
 * `nic.audio.`
 * `nic.auto.`
@@ -635,7 +632,6 @@
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -709,8 +705,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
-* `xn--xkc2al3hye2a.`
 * `xyz.br.`
 * `zlg.br.`
