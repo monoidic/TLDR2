@@ -26,7 +26,6 @@
 * `108.in-addr.arpa.`
 * `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
-* `111.in-addr.arpa.`
 * `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
@@ -201,7 +200,6 @@
 * `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -246,7 +244,6 @@
 * `8.4.1.0.0.2.ip6.arpa.`
 * `8.in-addr.arpa.`
 * `80.in-addr.arpa.`
-* `81.in-addr.arpa.`
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
 * `84.in-addr.arpa.`
@@ -327,7 +324,6 @@
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
-* `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
 * `blog.br.`
@@ -438,12 +434,10 @@
 * `gdn.`
 * `gen.ng.`
 * `geo.br.`
-* `ggf.br.`
 * `gn.`
 * `go.gov.br.`
 * `go.id.`
 * `go.leg.br.`
-* `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
 * `gouv.ci.`
@@ -462,7 +456,6 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
-* `hidns.vip.`
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
@@ -487,7 +480,6 @@
 * `ip6-servers.arpa.`
 * `ip6.arpa.`
 * `iris.arpa.`
-* `isla.pr.`
 * `jab.br.`
 * `jampa.br.`
 * `jdf.br.`
@@ -496,7 +488,6 @@
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
-* `kdns.fr.`
 * `kg.`
 * `kin.one.`
 * `kin.pub.`
@@ -545,7 +536,6 @@
 * `my.id.`
 * `mythic-beasts.com.`
 * `name.pm.`
-* `name.pr.`
 * `nat.tn.`
 * `natal.br.`
 * `net.bd.`
@@ -571,7 +561,6 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
-* `nic.guitars.`
 * `nic.hosting.`
 * `nic.in.`
 * `nic.mc.`
@@ -598,7 +587,6 @@
 * `or.id.`
 * `org.bd.`
 * `org.bt.`
-* `org.cy.`
 * `org.kz.`
 * `org.lb.`
 * `org.mn.`
@@ -631,7 +619,6 @@
 * `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
-* `rec.br.`
 * `rec.ve.`
 * `recife.br.`
 * `rep.br.`
@@ -644,7 +631,6 @@
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
-* `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
@@ -667,7 +653,6 @@
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
-* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
