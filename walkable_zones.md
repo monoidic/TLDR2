@@ -344,6 +344,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -579,6 +580,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
