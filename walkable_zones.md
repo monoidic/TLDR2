@@ -511,6 +511,7 @@
 * `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
+* `lk.`
 * `log.br.`
 * `lol.`
 * `londrina.br.`
