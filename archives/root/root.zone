@@ -561,20 +561,20 @@ al.	0	IN	NS	munnari.oz.au.
 ns1.nic.al.	0	IN	A	194.1.149.230
 nsx.nic.al.	0	IN	A	194.0.11.108
 nsx.nic.al.	0	IN	AAAA	2001:678:e:108::53
-alibaba.	0	IN	NS	a0.nic.alibaba.
-alibaba.	0	IN	NS	a2.nic.alibaba.
-alibaba.	0	IN	NS	b0.nic.alibaba.
-alibaba.	0	IN	NS	c0.nic.alibaba.
+alibaba.	0	IN	NS	ns1.nic.alibaba.
+alibaba.	0	IN	NS	ns2.nic.alibaba.
+alibaba.	0	IN	NS	ns3.nic.alibaba.
+alibaba.	0	IN	NS	ns4.nic.alibaba.
 alibaba.	0	IN	DS	7516 8 2 9bb7ac1c7877373106e72e767ef0a772f43682d030ad67b2c7e3e473a9b7b69f
 alibaba.	0	IN	DS	36130 8 2 6f6a5de93c24eed7e0ed4006c65795d4b0689dfe5fce1fa784d0d9f8a105c5c8
-a0.nic.alibaba.	0	IN	A	65.22.132.9
-a0.nic.alibaba.	0	IN	AAAA	2a01:8840:82::9
-a2.nic.alibaba.	0	IN	A	65.22.135.9
-a2.nic.alibaba.	0	IN	AAAA	2a01:8840:85::9
-b0.nic.alibaba.	0	IN	A	65.22.133.9
-b0.nic.alibaba.	0	IN	AAAA	2a01:8840:83::9
-c0.nic.alibaba.	0	IN	A	65.22.134.9
-c0.nic.alibaba.	0	IN	AAAA	2a01:8840:84::9
+ns1.nic.alibaba.	0	IN	A	203.107.2.1
+ns1.nic.alibaba.	0	IN	AAAA	2408:4000:101::1
+ns2.nic.alibaba.	0	IN	A	203.107.2.2
+ns2.nic.alibaba.	0	IN	AAAA	2408:4000:101::2
+ns3.nic.alibaba.	0	IN	A	203.107.3.1
+ns3.nic.alibaba.	0	IN	AAAA	2408:4000:102::1
+ns4.nic.alibaba.	0	IN	A	203.107.3.2
+ns4.nic.alibaba.	0	IN	AAAA	2408:4000:102::2
 alipay.	0	IN	NS	a0.nic.alipay.
 alipay.	0	IN	NS	a2.nic.alipay.
 alipay.	0	IN	NS	b0.nic.alipay.
