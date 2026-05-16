@@ -32,6 +32,7 @@
 * `114.in-addr.arpa.`
 * `115.in-addr.arpa.`
 * `116.in-addr.arpa.`
+* `117.in-addr.arpa.`
 * `118.in-addr.arpa.`
 * `119.in-addr.arpa.`
 * `120.in-addr.arpa.`
@@ -55,8 +56,6 @@
 * `135.in-addr.arpa.`
 * `136.in-addr.arpa.`
 * `137.in-addr.arpa.`
-* `138.in-addr.arpa.`
-* `139.in-addr.arpa.`
 * `14.in-addr.arpa.`
 * `140.in-addr.arpa.`
 * `141.in-addr.arpa.`
@@ -154,6 +153,7 @@
 * `226.in-addr.arpa.`
 * `227.in-addr.arpa.`
 * `228.in-addr.arpa.`
+* `229.in-addr.arpa.`
 * `23.in-addr.arpa.`
 * `230.in-addr.arpa.`
 * `231.in-addr.arpa.`
@@ -177,7 +177,6 @@
 * `3.4.1.0.0.2.ip6.arpa.`
 * `3.6.2.ip6.arpa.`
 * `3.in-addr.arpa.`
-* `31.in-addr.arpa.`
 * `32.in-addr.arpa.`
 * `34.in-addr.arpa.`
 * `35.in-addr.arpa.`
@@ -269,7 +268,6 @@
 * `98.in-addr.arpa.`
 * `99.in-addr.arpa.`
 * `9guacu.br.`
-* `a.0.1.0.0.2.ip6.arpa.`
 * `a.1.0.0.2.ip6.arpa.`
 * `a.1.1.0.0.2.ip6.arpa.`
 * `a.4.1.0.0.2.ip6.arpa.`
@@ -311,7 +309,6 @@
 * `axarnet.cloud.`
 * `b.0.1.0.0.2.ip6.arpa.`
 * `b.1.0.0.2.ip6.arpa.`
-* `b.1.1.0.0.2.ip6.arpa.`
 * `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
 * `ba.gov.br.`
@@ -324,6 +321,7 @@
 * `bib.br.`
 * `bib.ve.`
 * `bio.br.`
+* `biz.id.`
 * `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
@@ -341,17 +339,16 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
-* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
 * `ci.`
 * `cim.br.`
 * `cloud.fedoraproject.org.`
+* `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
 * `co.id.`
-* `co.ve.`
 * `cocca.fr.`
 * `col.ng.`
 * `com.bd.`
@@ -425,7 +422,6 @@
 * `flowers.`
 * `fm.br.`
 * `fnd.br.`
-* `fortal.br.`
 * `fot.br.`
 * `foz.br.`
 * `fst.br.`
@@ -448,7 +444,6 @@
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
-* `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
@@ -535,7 +530,6 @@
 * `mt.leg.br.`
 * `muni.cz.`
 * `mus.br.`
-* `my.at.`
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
@@ -619,6 +613,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -648,8 +643,10 @@
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
+* `saogonca.br.`
 * `sc.gov.br.`
 * `sc.leg.br.`
+* `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
