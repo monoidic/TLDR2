@@ -6,7 +6,6 @@
 * `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
 * `0.6.2.ip6.arpa.`
-* `0.8.2.ip6.arpa.`
 * `0.a.2.ip6.arpa.`
 * `0.c.2.ip6.arpa.`
 * `1.0.0.1.6.2.ip6.arpa.`
@@ -30,7 +29,6 @@
 * `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
-* `115.in-addr.arpa.`
 * `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
 * `118.in-addr.arpa.`
@@ -68,7 +66,6 @@
 * `146.in-addr.arpa.`
 * `147.in-addr.arpa.`
 * `148.in-addr.arpa.`
-* `149.in-addr.arpa.`
 * `15.in-addr.arpa.`
 * `150.in-addr.arpa.`
 * `151.in-addr.arpa.`
@@ -79,15 +76,12 @@
 * `156.in-addr.arpa.`
 * `157.in-addr.arpa.`
 * `158.in-addr.arpa.`
-* `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
 * `160.in-addr.arpa.`
 * `161.in-addr.arpa.`
-* `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
 * `164.in-addr.arpa.`
 * `165.in-addr.arpa.`
-* `166.in-addr.arpa.`
 * `167.in-addr.arpa.`
 * `168.in-addr.arpa.`
 * `169.in-addr.arpa.`
@@ -108,7 +102,6 @@
 * `183.in-addr.arpa.`
 * `184.in-addr.arpa.`
 * `185.in-addr.arpa.`
-* `186.in-addr.arpa.`
 * `187.in-addr.arpa.`
 * `188.in-addr.arpa.`
 * `189.in-addr.arpa.`
@@ -201,7 +194,6 @@
 * `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
-* `4lima.at.`
 * `4lima.ch.`
 * `4lima.de.`
 * `4u.com.`
@@ -214,7 +206,6 @@
 * `51.in-addr.arpa.`
 * `52.in-addr.arpa.`
 * `54.in-addr.arpa.`
-* `56.in-addr.arpa.`
 * `57.in-addr.arpa.`
 * `58.in-addr.arpa.`
 * `59.in-addr.arpa.`
@@ -251,7 +242,6 @@
 * `83.in-addr.arpa.`
 * `84.in-addr.arpa.`
 * `85.in-addr.arpa.`
-* `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
 * `88.in-addr.arpa.`
 * `89.in-addr.arpa.`
@@ -272,7 +262,6 @@
 * `99.in-addr.arpa.`
 * `9guacu.br.`
 * `a.0.1.0.0.2.ip6.arpa.`
-* `a.1.0.0.2.ip6.arpa.`
 * `a.1.1.0.0.2.ip6.arpa.`
 * `a.4.1.0.0.2.ip6.arpa.`
 * `abc.br.`
@@ -294,7 +283,6 @@
 * `anani.br.`
 * `anycast.co.tz.`
 * `anycastdns.cz.`
-* `ap.leg.br.`
 * `aparecida.br.`
 * `api.br.`
 * `app.br.`
@@ -323,7 +311,6 @@
 * `belem.br.`
 * `bet.br.`
 * `bhz.br.`
-* `bib.br.`
 * `bib.ve.`
 * `bio.br.`
 * `biz.id.`
@@ -344,7 +331,6 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
-* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -375,7 +361,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
@@ -410,7 +395,6 @@
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
-* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
@@ -430,7 +414,6 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -446,20 +429,17 @@
 * `gob.cl.`
 * `gob.ve.`
 * `goiania.br.`
-* `gouv.ci.`
 * `gov.ao.`
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
 * `gov.cl.`
 * `gov.kz.`
-* `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
-* `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
@@ -467,7 +447,6 @@
 * `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
-* `ia.ve.`
 * `iana-servers.net.`
 * `id.`
 * `id.pub.`
@@ -517,12 +496,10 @@
 * `lr.`
 * `ltd.ng.`
 * `ma.gov.br.`
-* `ma.leg.br.`
 * `macapa.br.`
 * `maceio.br.`
 * `manaus.br.`
 * `maringa.br.`
-* `mat.br.`
 * `mc.`
 * `md.`
 * `med.br.`
@@ -562,7 +539,6 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -575,7 +551,6 @@
 * `nic.mc.`
 * `nic.me.`
 * `nic.mom.`
-* `nic.my.`
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
@@ -587,13 +562,10 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
-* `nro.net.`
 * `ntr.br.`
 * `nu.`
-* `nx.gw.`
 * `odo.br.`
 * `ong.br.`
-* `or.id.`
 * `org.bd.`
 * `org.bt.`
 * `org.cy.`
@@ -610,7 +582,6 @@
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
-* `perso.tn.`
 * `pi.leg.br.`
 * `pics.`
 * `plc.ng.`
@@ -626,7 +597,6 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -663,7 +633,6 @@
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
-* `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
 * `slg.br.`
@@ -701,7 +670,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
