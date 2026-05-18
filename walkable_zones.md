@@ -46,6 +46,7 @@
 * `129.in-addr.arpa.`
 * `12hp.at.`
 * `12hp.ch.`
+* `12hp.de.`
 * `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
@@ -150,7 +151,6 @@
 * `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
-* `225.in-addr.arpa.`
 * `226.in-addr.arpa.`
 * `227.in-addr.arpa.`
 * `228.in-addr.arpa.`
@@ -249,7 +249,6 @@
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
 * `84.in-addr.arpa.`
-* `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
 * `88.in-addr.arpa.`
@@ -403,7 +402,6 @@
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
@@ -427,7 +425,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -458,7 +455,6 @@
 * `gov.ve.`
 * `gru.br.`
 * `guitars.`
-* `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
@@ -569,6 +565,7 @@
 * `nic.dm.`
 * `nic.flowers.`
 * `nic.game.`
+* `nic.guitars.`
 * `nic.hosting.`
 * `nic.mc.`
 * `nic.me.`
@@ -577,6 +574,7 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
@@ -596,7 +594,6 @@
 * `org.cy.`
 * `org.kz.`
 * `org.lb.`
-* `org.mn.`
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
@@ -635,7 +632,6 @@
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
-* `riopreto.br.`
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
@@ -691,6 +687,7 @@
 * `uoregon.edu.`
 * `uri.arpa.`
 * `urn.arpa.`
+* `urown.cloud.`
 * `utwente.io.`
 * `v.ua.`
 * `ve.`
