@@ -24,14 +24,14 @@
 * `106.in-addr.arpa.`
 * `107.in-addr.arpa.`
 * `108.in-addr.arpa.`
+* `109.in-addr.arpa.`
 * `110.in-addr.arpa.`
-* `111.in-addr.arpa.`
 * `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
 * `115.in-addr.arpa.`
+* `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
-* `118.in-addr.arpa.`
 * `119.in-addr.arpa.`
 * `120.in-addr.arpa.`
 * `121.in-addr.arpa.`
@@ -45,13 +45,16 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
+* `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
 * `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
+* `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
 * `136.in-addr.arpa.`
 * `137.in-addr.arpa.`
+* `138.in-addr.arpa.`
 * `139.in-addr.arpa.`
 * `14.in-addr.arpa.`
 * `140.in-addr.arpa.`
@@ -233,7 +236,6 @@
 * `74.in-addr.arpa.`
 * `75.in-addr.arpa.`
 * `76.in-addr.arpa.`
-* `77.in-addr.arpa.`
 * `78.in-addr.arpa.`
 * `79.in-addr.arpa.`
 * `8.0.1.0.0.2.ip6.arpa.`
@@ -280,6 +282,7 @@
 * `adm.br.`
 * `adv.br.`
 * `agr.br.`
+* `aju.br.`
 * `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
@@ -295,8 +298,10 @@
 * `aquarelle.`
 * `arin.net.`
 * `arpa.`
+* `arq.br.`
 * `art.br.`
 * `arts.ve.`
+* `asso.mc.`
 * `ati.tn.`
 * `ato.br.`
 * `audio.`
@@ -329,6 +334,7 @@
 * `bsb.br.`
 * `bt.`
 * `c.0.1.0.0.2.ip6.arpa.`
+* `c.4.1.0.0.2.ip6.arpa.`
 * `campinagrande.br.`
 * `campinas.br.`
 * `car.`
@@ -341,6 +347,7 @@
 * `christmas.`
 * `ci.`
 * `cim.br.`
+* `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
 * `cnt.br.`
@@ -353,7 +360,6 @@
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
-* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `comcast.net.`
@@ -363,7 +369,6 @@
 * `copro.uk.`
 * `coz.br.`
 * `cri.br.`
-* `cuiaba.br.`
 * `curitiba.br.`
 * `cw.`
 * `cy.`
@@ -390,7 +395,6 @@
 * `edu.bt.`
 * `edu.kg.`
 * `edu.kz.`
-* `edu.lb.`
 * `edu.pr.`
 * `edu.ve.`
 * `ee.`
@@ -400,10 +404,10 @@
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
-* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
+* `ewp.live.`
 * `f.0.1.0.0.2.ip6.arpa.`
 * `far.br.`
 * `fedorainfracloud.org.`
@@ -449,11 +453,11 @@
 * `gru.br.`
 * `guitars.`
 * `gv.ao.`
+* `gv.uy.`
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
 * `hosted-by-previder.com.`
-* `hosting.`
 * `ia.br.`
 * `ia.ve.`
 * `iana-servers.net.`
@@ -464,9 +468,11 @@
 * `in-addr-servers.arpa.`
 * `in-addr.arpa.`
 * `ind.br.`
+* `ind.tn.`
 * `inf.br.`
 * `info.pr.`
 * `info.tn.`
+* `info.ve.`
 * `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
@@ -498,6 +504,7 @@
 * `lima-city.ch.`
 * `lk.`
 * `log.br.`
+* `lol.`
 * `londrina.br.`
 * `lr.`
 * `ltd.ng.`
@@ -534,6 +541,7 @@
 * `natal.br.`
 * `net.bd.`
 * `net.bt.`
+* `net.er.`
 * `net.id.`
 * `net.kz.`
 * `net.lb.`
@@ -543,7 +551,6 @@
 * `netnod.se.`
 * `ngo.ng.`
 * `nic.aquarelle.`
-* `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
 * `nic.car.`
@@ -565,6 +572,7 @@
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
+* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -599,6 +607,7 @@
 * `plc.ng.`
 * `poa.br.`
 * `ponpes.id.`
+* `ppg.br.`
 * `pr.`
 * `pr.leg.br.`
 * `pro.br.`
@@ -614,7 +623,8 @@
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
-* `ribeirao.br.`
+* `rep.br.`
+* `rg.net.`
 * `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
@@ -652,7 +662,6 @@
 * `sorocaba.br.`
 * `sp.leg.br.`
 * `srv.br.`
-* `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
 * `tc.br.`
@@ -689,7 +698,6 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
-* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
