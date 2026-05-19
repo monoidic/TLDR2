@@ -1,6 +1,7 @@
 # List of TLDs & Roots With Walkable NSEC Records
 
 * `.`
+* `0.0.0.1.6.2.ip6.arpa.`
 * `0.0.0.2.6.2.ip6.arpa.`
 * `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
@@ -51,9 +52,12 @@
 * `131.in-addr.arpa.`
 * `132.in-addr.arpa.`
 * `133.in-addr.arpa.`
+* `134.in-addr.arpa.`
 * `135.in-addr.arpa.`
 * `136.in-addr.arpa.`
 * `137.in-addr.arpa.`
+* `138.in-addr.arpa.`
+* `139.in-addr.arpa.`
 * `14.in-addr.arpa.`
 * `140.in-addr.arpa.`
 * `141.in-addr.arpa.`
@@ -67,6 +71,7 @@
 * `149.in-addr.arpa.`
 * `15.in-addr.arpa.`
 * `150.in-addr.arpa.`
+* `151.in-addr.arpa.`
 * `152.in-addr.arpa.`
 * `153.in-addr.arpa.`
 * `154.in-addr.arpa.`
@@ -93,6 +98,7 @@
 * `174.in-addr.arpa.`
 * `175.in-addr.arpa.`
 * `176.in-addr.arpa.`
+* `177.in-addr.arpa.`
 * `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
 * `18.in-addr.arpa.`
@@ -142,6 +148,7 @@
 * `219.in-addr.arpa.`
 * `220.in-addr.arpa.`
 * `221.in-addr.arpa.`
+* `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
 * `225.in-addr.arpa.`
@@ -196,6 +203,7 @@
 * `49.in-addr.arpa.`
 * `4lima.at.`
 * `4lima.ch.`
+* `4lima.de.`
 * `4u.com.`
 * `5.0.1.0.0.2.ip6.arpa.`
 * `5.1.0.0.2.ip6.arpa.`
@@ -220,6 +228,7 @@
 * `65.in-addr.arpa.`
 * `66.in-addr.arpa.`
 * `67.in-addr.arpa.`
+* `68.in-addr.arpa.`
 * `69.in-addr.arpa.`
 * `7.0.1.0.0.2.ip6.arpa.`
 * `7.1.1.0.0.2.ip6.arpa.`
@@ -277,7 +286,6 @@
 * `adv.br.`
 * `agr.br.`
 * `aju.br.`
-* `al.leg.br.`
 * `alcom.fi.`
 * `am.br.`
 * `am.gov.br.`
@@ -368,7 +376,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -650,6 +657,7 @@
 * `sch.id.`
 * `sch.tf.`
 * `sch.wf.`
+* `se.`
 * `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
@@ -676,6 +684,7 @@
 * `to.leg.br.`
 * `tourism.tn.`
 * `trafficplex.cloud.`
+* `trd.br.`
 * `tur.br.`
 * `tv.br.`
 * `tznic.or.tz.`
@@ -685,6 +694,7 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
+* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
@@ -694,6 +704,7 @@
 * `wiki.br.`
 * `xn--54b7fta0cc.`
 * `xn--80ao21a.`
+* `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
 * `xn--pgbs0dh.`
