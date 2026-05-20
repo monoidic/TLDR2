@@ -30,7 +30,6 @@
 * `112.in-addr.arpa.`
 * `113.in-addr.arpa.`
 * `114.in-addr.arpa.`
-* `115.in-addr.arpa.`
 * `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
 * `118.in-addr.arpa.`
@@ -39,7 +38,6 @@
 * `121.in-addr.arpa.`
 * `122.in-addr.arpa.`
 * `123.in-addr.arpa.`
-* `124.in-addr.arpa.`
 * `125.in-addr.arpa.`
 * `126.in-addr.arpa.`
 * `128.in-addr.arpa.`
@@ -104,7 +102,6 @@
 * `18.in-addr.arpa.`
 * `180.in-addr.arpa.`
 * `181.in-addr.arpa.`
-* `182.in-addr.arpa.`
 * `183.in-addr.arpa.`
 * `184.in-addr.arpa.`
 * `185.in-addr.arpa.`
@@ -151,7 +148,6 @@
 * `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
-* `225.in-addr.arpa.`
 * `226.in-addr.arpa.`
 * `227.in-addr.arpa.`
 * `228.in-addr.arpa.`
@@ -276,7 +272,6 @@
 * `a.1.1.0.0.2.ip6.arpa.`
 * `a.4.1.0.0.2.ip6.arpa.`
 * `abc.br.`
-* `ac.bd.`
 * `ac.cy.`
 * `ac.id.`
 * `ac.leg.br.`
@@ -299,6 +294,7 @@
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
+* `arin.net.`
 * `arpa.`
 * `arq.br.`
 * `art.br.`
@@ -343,7 +339,6 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
-* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -376,6 +371,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -428,7 +424,6 @@
 * `fm.br.`
 * `fnd.br.`
 * `fortal.br.`
-* `fot.br.`
 * `foz.br.`
 * `fst.br.`
 * `g12.br.`
@@ -462,7 +457,6 @@
 * `hidns.co.`
 * `hidns.vip.`
 * `hosp.uk.`
-* `hosted-by-previder.com.`
 * `hosting.`
 * `ia.br.`
 * `ia.ve.`
@@ -495,6 +489,7 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
+* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
@@ -504,7 +499,6 @@
 * `leilao.br.`
 * `lel.br.`
 * `li.`
-* `lib.wi.us.`
 * `lima-city.at.`
 * `lima-city.ch.`
 * `lk.`
@@ -534,6 +528,7 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
@@ -558,7 +553,6 @@
 * `nic.audio.`
 * `nic.auto.`
 * `nic.bg.`
-* `nic.car.`
 * `nic.cars.`
 * `nic.christmas.`
 * `nic.cr.`
@@ -583,7 +577,6 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
-* `nro.net.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -624,12 +617,9 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
-* `rep.br.`
-* `rg.net.`
 * `ribeirao.br.`
 * `riik.ee.`
 * `rio.br.`
@@ -705,6 +695,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
