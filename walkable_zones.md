@@ -299,7 +299,6 @@
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
-* `arin.net.`
 * `arpa.`
 * `arq.br.`
 * `art.br.`
@@ -377,7 +376,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -497,7 +495,6 @@
 * `k12.wi.us.`
 * `kapsi.fi.`
 * `kg.`
-* `kin.one.`
 * `kin.pub.`
 * `kz.`
 * `lacnic.net.`
@@ -537,7 +534,6 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
-* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
