@@ -356,6 +356,8 @@
 * `cnt.br.`
 * `co.id.`
 * `co.ve.`
+* `cocca.fr.`
+* `col.ng.`
 * `com.bd.`
 * `com.bt.`
 * `com.cy.`
@@ -375,7 +377,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -482,6 +483,7 @@
 * `int.ve.`
 * `interhostsolutions.be.`
 * `intl.tn.`
+* `ip6-servers.arpa.`
 * `ip6.arpa.`
 * `iris.arpa.`
 * `isla.pr.`
@@ -576,8 +578,8 @@
 * `nic.pics.`
 * `nic.ve.`
 * `nic.za.`
+* `nipr.mil.`
 * `niteroi.br.`
-* `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
 * `nom.ve.`
@@ -599,6 +601,7 @@
 * `org.pr.`
 * `org.tn.`
 * `org.ve.`
+* `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
