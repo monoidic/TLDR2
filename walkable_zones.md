@@ -81,7 +81,6 @@
 * `158.in-addr.arpa.`
 * `159.in-addr.arpa.`
 * `16.in-addr.arpa.`
-* `160.in-addr.arpa.`
 * `161.in-addr.arpa.`
 * `162.in-addr.arpa.`
 * `163.in-addr.arpa.`
@@ -110,7 +109,6 @@
 * `185.in-addr.arpa.`
 * `186.in-addr.arpa.`
 * `187.in-addr.arpa.`
-* `188.in-addr.arpa.`
 * `189.in-addr.arpa.`
 * `190.in-addr.arpa.`
 * `191.in-addr.arpa.`
@@ -141,20 +139,17 @@
 * `210.in-addr.arpa.`
 * `211.in-addr.arpa.`
 * `212.in-addr.arpa.`
-* `213.in-addr.arpa.`
 * `216.in-addr.arpa.`
 * `217.in-addr.arpa.`
 * `218.in-addr.arpa.`
 * `219.in-addr.arpa.`
 * `220.in-addr.arpa.`
-* `221.in-addr.arpa.`
 * `222.in-addr.arpa.`
 * `223.in-addr.arpa.`
 * `224.in-addr.arpa.`
 * `225.in-addr.arpa.`
 * `226.in-addr.arpa.`
 * `227.in-addr.arpa.`
-* `228.in-addr.arpa.`
 * `229.in-addr.arpa.`
 * `23.in-addr.arpa.`
 * `230.in-addr.arpa.`
@@ -229,7 +224,6 @@
 * `66.in-addr.arpa.`
 * `67.in-addr.arpa.`
 * `68.in-addr.arpa.`
-* `69.in-addr.arpa.`
 * `7.0.1.0.0.2.ip6.arpa.`
 * `7.1.1.0.0.2.ip6.arpa.`
 * `70.in-addr.arpa.`
@@ -359,10 +353,10 @@
 * `cocca.fr.`
 * `col.ng.`
 * `com.bd.`
+* `com.bt.`
 * `com.cy.`
 * `com.kz.`
 * `com.lb.`
-* `com.pr.`
 * `com.tn.`
 * `com.ve.`
 * `comcast.net.`
@@ -411,7 +405,6 @@
 * `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
-* `etc.br.`
 * `eti.br.`
 * `ewp.live.`
 * `f.0.1.0.0.2.ip6.arpa.`
@@ -423,7 +416,6 @@
 * `fin.tn.`
 * `firm.ng.`
 * `firm.ve.`
-* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -434,7 +426,6 @@
 * `fst.br.`
 * `g12.br.`
 * `game.`
-* `gdn.`
 * `gen.ng.`
 * `geo.br.`
 * `ggf.br.`
@@ -542,7 +533,6 @@
 * `my.de.`
 * `my.id.`
 * `mythic-beasts.com.`
-* `name.pm.`
 * `name.pr.`
 * `nat.tn.`
 * `natal.br.`
@@ -567,7 +557,6 @@
 * `nic.cr.`
 * `nic.diet.`
 * `nic.dm.`
-* `nic.flowers.`
 * `nic.game.`
 * `nic.guitars.`
 * `nic.hosting.`
@@ -576,10 +565,7 @@
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
-* `nic.ve.`
 * `nic.za.`
-* `nipr.mil.`
-* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -605,7 +591,6 @@
 * `org.yt.`
 * `orx.biz.`
 * `osasco.br.`
-* `pa.leg.br.`
 * `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
@@ -629,7 +614,6 @@
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
-* `rec.ve.`
 * `recife.br.`
 * `rep.br.`
 * `rg.net.`
@@ -641,14 +625,12 @@
 * `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
-* `ro.gov.br.`
 * `ro.leg.br.`
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
 * `ryce-rsp.com.`
 * `salvador.br.`
-* `sampa.br.`
 * `santamaria.br.`
 * `santoandre.br.`
 * `saobernardo.br.`
@@ -657,7 +639,6 @@
 * `sc.leg.br.`
 * `sch.id.`
 * `sch.tf.`
-* `sch.wf.`
 * `se.`
 * `se.gov.br.`
 * `se.leg.br.`
@@ -665,7 +646,6 @@
 * `setarnet.aw.`
 * `sgnic.sg.`
 * `sjc.br.`
-* `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
@@ -678,7 +658,6 @@
 * `tec.br.`
 * `tec.ve.`
 * `the.br.`
-* `tm.mc.`
 * `tmp.br.`
 * `tn.`
 * `to.gov.br.`
@@ -708,6 +687,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`

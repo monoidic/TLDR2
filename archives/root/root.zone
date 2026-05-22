@@ -2660,6 +2660,7 @@ ns2.dns.nic.buzz.	0	IN	A	156.154.145.29
 ns2.dns.nic.buzz.	0	IN	AAAA	2610:a1:1072::1d
 ns3.dns.nic.buzz.	0	IN	A	156.154.159.29
 ns3.dns.nic.buzz.	0	IN	AAAA	2610:a1:1073::1d
+bv.	0	IN	NS	a.nic.bv.
 bv.	0	IN	NS	x.nic.no.
 bv.	0	IN	NS	y.nic.no.
 bv.	0	IN	NS	z.nic.no.
@@ -2667,6 +2668,8 @@ bv.	0	IN	NS	nn.uninett.no.
 bv.	0	IN	NS	nac.no.
 bv.	0	IN	NS	server.nordu.net.
 bv.	0	IN	DS	33800 13 2 5fa7fb1c36c810cbbeea4557ce1b96175fb14b5e5f400a9d7aa36ba6b60fbd0e
+a.nic.bv.	0	IN	A	158.38.61.97
+a.nic.bv.	0	IN	AAAA	2001:700:4603::1
 bw.	0	IN	NS	pch.nic.net.bw.
 bw.	0	IN	NS	dns1.nic.net.bw.
 bw.	0	IN	NS	ns-bw.afrinic.net.
