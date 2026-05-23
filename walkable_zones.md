@@ -6,6 +6,7 @@
 * `0.4.1.0.0.2.ip6.arpa.`
 * `0.4.2.ip6.arpa.`
 * `0.6.2.ip6.arpa.`
+* `0.8.2.ip6.arpa.`
 * `0.a.2.ip6.arpa.`
 * `0.c.2.ip6.arpa.`
 * `1.0.0.1.6.2.ip6.arpa.`
@@ -46,6 +47,7 @@
 * `12hp.at.`
 * `12hp.ch.`
 * `12hp.de.`
+* `13.in-addr.arpa.`
 * `130.in-addr.arpa.`
 * `131.in-addr.arpa.`
 * `132.in-addr.arpa.`
@@ -107,7 +109,6 @@
 * `184.in-addr.arpa.`
 * `185.in-addr.arpa.`
 * `186.in-addr.arpa.`
-* `187.in-addr.arpa.`
 * `188.in-addr.arpa.`
 * `189.in-addr.arpa.`
 * `190.in-addr.arpa.`
@@ -128,7 +129,6 @@
 * `20.in-addr.arpa.`
 * `200.in-addr.arpa.`
 * `201.in-addr.arpa.`
-* `202.in-addr.arpa.`
 * `203.in-addr.arpa.`
 * `204.in-addr.arpa.`
 * `205.in-addr.arpa.`
@@ -158,7 +158,6 @@
 * `230.in-addr.arpa.`
 * `231.in-addr.arpa.`
 * `232.in-addr.arpa.`
-* `233.in-addr.arpa.`
 * `234.in-addr.arpa.`
 * `235.in-addr.arpa.`
 * `236.in-addr.arpa.`
@@ -220,6 +219,7 @@
 * `6.1.1.0.0.2.ip6.arpa.`
 * `60.in-addr.arpa.`
 * `61.in-addr.arpa.`
+* `62.in-addr.arpa.`
 * `63.in-addr.arpa.`
 * `64.in-addr.arpa.`
 * `65.in-addr.arpa.`
@@ -314,6 +314,7 @@
 * `b.4.1.0.0.2.ip6.arpa.`
 * `b.br.`
 * `ba.gov.br.`
+* `ba.leg.br.`
 * `barueri.br.`
 * `bd.`
 * `belem.br.`
@@ -371,7 +372,6 @@
 * `cri.br.`
 * `cuiaba.br.`
 * `curitiba.br.`
-* `cw.`
 * `cy.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
@@ -380,7 +380,6 @@
 * `desa.id.`
 * `det.br.`
 * `dev.br.`
-* `df.leg.br.`
 * `diet.`
 * `dns.br.`
 * `dnsking.ch.`
@@ -389,7 +388,6 @@
 * `dz.`
 * `e.0.1.0.0.2.ip6.arpa.`
 * `e12.ve.`
-* `e164.arpa.`
 * `ecn.br.`
 * `edu.br.`
 * `edu.bt.`
@@ -397,15 +395,12 @@
 * `edu.kz.`
 * `edu.lb.`
 * `edu.pr.`
-* `edu.ve.`
 * `ee.`
-* `emprende.ve.`
 * `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
 * `es.leg.br.`
-* `esp.br.`
 * `est.pr.`
 * `etc.br.`
 * `eti.br.`
@@ -415,9 +410,11 @@
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
+* `feira.br.`
 * `fin.tn.`
 * `firm.ng.`
 * `firm.ve.`
+* `flog.br.`
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
@@ -493,6 +490,7 @@
 * `kin.one.`
 * `kin.pub.`
 * `kz.`
+* `lacnic.net.`
 * `lactld.org.`
 * `lb.`
 * `leg.br.`
@@ -526,6 +524,7 @@
 * `mincom.tn.`
 * `mom.`
 * `morena.br.`
+* `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
@@ -571,7 +570,6 @@
 * `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
-* `niteroi.br.`
 * `noc.net.er.`
 * `nog.community.`
 * `nom.br.`
@@ -598,7 +596,6 @@
 * `orx.biz.`
 * `osasco.br.`
 * `pa.leg.br.`
-* `palmas.br.`
 * `pb.leg.br.`
 * `pe.leg.br.`
 * `perso.tn.`
@@ -615,6 +612,7 @@
 * `prof.pr.`
 * `psc.br.`
 * `psg.com.`
+* `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
