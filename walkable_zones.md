@@ -462,6 +462,7 @@
 * `gv.ao.`
 * `gv.uy.`
 * `hidns.co.`
+* `hidns.vip.`
 * `hosp.uk.`
 * `hosted-by-previder.com.`
 * `hosting.`
@@ -536,10 +537,12 @@
 * `mp.br.`
 * `ms.leg.br.`
 * `mt.leg.br.`
+* `muni.cz.`
 * `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
+* `mythic-beasts.com.`
 * `name.pm.`
 * `name.pr.`
 * `nat.tn.`
@@ -573,6 +576,7 @@
 * `nic.mom.`
 * `nic.my.`
 * `nic.pics.`
+* `nic.ve.`
 * `nic.za.`
 * `nipr.mil.`
 * `niteroi.br.`
@@ -581,6 +585,7 @@
 * `nom.ve.`
 * `nom.za.`
 * `not.br.`
+* `nro.net.`
 * `ntr.br.`
 * `nu.`
 * `nx.gw.`
@@ -616,6 +621,7 @@
 * `pro.pr.`
 * `prof.pr.`
 * `psc.br.`
+* `psg.com.`
 * `psi.br.`
 * `pvh.br.`
 * `qsl.br.`
@@ -701,6 +707,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
