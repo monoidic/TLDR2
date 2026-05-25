@@ -63,7 +63,6 @@
 * `141.in-addr.arpa.`
 * `142.in-addr.arpa.`
 * `143.in-addr.arpa.`
-* `144.in-addr.arpa.`
 * `145.in-addr.arpa.`
 * `146.in-addr.arpa.`
 * `147.in-addr.arpa.`
@@ -99,7 +98,6 @@
 * `175.in-addr.arpa.`
 * `176.in-addr.arpa.`
 * `177.in-addr.arpa.`
-* `178.in-addr.arpa.`
 * `179.in-addr.arpa.`
 * `18.in-addr.arpa.`
 * `180.in-addr.arpa.`
@@ -187,7 +185,6 @@
 * `37.in-addr.arpa.`
 * `39.in-addr.arpa.`
 * `4.0.1.0.0.2.ip6.arpa.`
-* `4.1.1.0.0.2.ip6.arpa.`
 * `4.4.1.0.0.2.ip6.arpa.`
 * `4.at.`
 * `4.in-addr.arpa.`
@@ -197,7 +194,6 @@
 * `43.in-addr.arpa.`
 * `44.in-addr.arpa.`
 * `45.in-addr.arpa.`
-* `46.in-addr.arpa.`
 * `47.in-addr.arpa.`
 * `48.in-addr.arpa.`
 * `49.in-addr.arpa.`
@@ -344,6 +340,7 @@
 * `cars.`
 * `caxias.br.`
 * `cci.fr.`
+* `ce.gov.br.`
 * `ce.leg.br.`
 * `ch.`
 * `christmas.`
@@ -407,7 +404,6 @@
 * `eng.br.`
 * `ens.tn.`
 * `er.`
-* `es.leg.br.`
 * `esp.br.`
 * `est.pr.`
 * `etc.br.`
@@ -426,7 +422,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -633,7 +628,6 @@
 * `rep.br.`
 * `rg.net.`
 * `ribeirao.br.`
-* `riik.ee.`
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
@@ -663,18 +657,13 @@
 * `seg.br.`
 * `setarnet.aw.`
 * `sgnic.sg.`
-* `sjc.br.`
 * `slg.br.`
 * `slz.br.`
 * `social.br.`
 * `sorocaba.br.`
-* `sp.leg.br.`
-* `srv.br.`
 * `stackhero-network.com.`
 * `store.ve.`
 * `tc.`
-* `tc.br.`
-* `tec.br.`
 * `tec.ve.`
 * `the.br.`
 * `tm.mc.`
@@ -699,6 +688,7 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
+* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
@@ -707,6 +697,7 @@
 * `xn--fzc2c9e2c.`
 * `xn--l1acc.`
 * `xn--mgbai9azgqp6j.`
+* `xn--mgbayh7gpa.`
 * `xn--pgbs0dh.`
 * `xn--xkc2al3hye2a.`
 * `xyz.br.`
