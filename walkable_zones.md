@@ -34,7 +34,6 @@
 * `116.in-addr.arpa.`
 * `117.in-addr.arpa.`
 * `118.in-addr.arpa.`
-* `119.in-addr.arpa.`
 * `120.in-addr.arpa.`
 * `121.in-addr.arpa.`
 * `122.in-addr.arpa.`
@@ -90,7 +89,6 @@
 * `166.in-addr.arpa.`
 * `167.in-addr.arpa.`
 * `168.in-addr.arpa.`
-* `169.in-addr.arpa.`
 * `170.in-addr.arpa.`
 * `171.in-addr.arpa.`
 * `172.in-addr.arpa.`
@@ -113,7 +111,6 @@
 * `188.in-addr.arpa.`
 * `189.in-addr.arpa.`
 * `190.in-addr.arpa.`
-* `191.in-addr.arpa.`
 * `192.in-addr.arpa.`
 * `193.in-addr.arpa.`
 * `194.in-addr.arpa.`
@@ -141,7 +138,6 @@
 * `210.in-addr.arpa.`
 * `211.in-addr.arpa.`
 * `212.in-addr.arpa.`
-* `213.in-addr.arpa.`
 * `216.in-addr.arpa.`
 * `217.in-addr.arpa.`
 * `218.in-addr.arpa.`
@@ -250,7 +246,6 @@
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
 * `84.in-addr.arpa.`
-* `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
 * `88.in-addr.arpa.`
@@ -295,7 +290,6 @@
 * `anycast.co.tz.`
 * `anycastdns.cz.`
 * `ap.leg.br.`
-* `aparecida.br.`
 * `api.br.`
 * `app.br.`
 * `aquarelle.`
@@ -377,6 +371,7 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
+* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -404,7 +399,6 @@
 * `edu.ve.`
 * `ee.`
 * `emprende.ve.`
-* `enf.br.`
 * `eng.br.`
 * `ens.tn.`
 * `er.`
@@ -415,7 +409,6 @@
 * `eti.br.`
 * `ewp.live.`
 * `f.0.1.0.0.2.ip6.arpa.`
-* `far.br.`
 * `fedorainfracloud.org.`
 * `fedorapeople.org.`
 * `fedoraproject.org.`
@@ -427,7 +420,6 @@
 * `floripa.br.`
 * `flowers.`
 * `fm.br.`
-* `fnd.br.`
 * `fortal.br.`
 * `fot.br.`
 * `foz.br.`
@@ -491,7 +483,6 @@
 * `jampa.br.`
 * `jdf.br.`
 * `joinville.br.`
-* `jor.br.`
 * `jus.br.`
 * `k12.wi.us.`
 * `kapsi.fi.`
@@ -537,7 +528,6 @@
 * `ms.leg.br.`
 * `mt.leg.br.`
 * `muni.cz.`
-* `mus.br.`
 * `my.at.`
 * `my.de.`
 * `my.id.`
@@ -625,7 +615,6 @@
 * `psg.com.`
 * `psi.br.`
 * `pvh.br.`
-* `qsl.br.`
 * `rar.ve.`
 * `realm.cz.`
 * `rec.br.`
@@ -646,7 +635,6 @@
 * `rr.leg.br.`
 * `rs.leg.br.`
 * `ruhr.`
-* `ryce-rsp.com.`
 * `salvador.br.`
 * `sampa.br.`
 * `santamaria.br.`
@@ -659,7 +647,6 @@
 * `sch.tf.`
 * `sch.wf.`
 * `se.`
-* `se.gov.br.`
 * `se.leg.br.`
 * `seg.br.`
 * `setarnet.aw.`
@@ -700,7 +687,6 @@
 * `vet.br.`
 * `vix.br.`
 * `vlog.br.`
-* `wadl.top.`
 * `web.id.`
 * `web.ve.`
 * `wiki.br.`
