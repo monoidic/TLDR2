@@ -628,7 +628,6 @@
 * `pvh.br.`
 * `qsl.br.`
 * `rar.ve.`
-* `realm.cz.`
 * `rec.br.`
 * `rec.ve.`
 * `recife.br.`
@@ -639,6 +638,7 @@
 * `rio.br.`
 * `riobranco.br.`
 * `riopreto.br.`
+* `ripe.net.`
 * `rj.leg.br.`
 * `rn.leg.br.`
 * `ro.gov.br.`
