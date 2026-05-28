@@ -117,7 +117,6 @@
 * `192.in-addr.arpa.`
 * `193.in-addr.arpa.`
 * `194.in-addr.arpa.`
-* `195.in-addr.arpa.`
 * `196.in-addr.arpa.`
 * `197.in-addr.arpa.`
 * `198.in-addr.arpa.`
@@ -250,7 +249,6 @@
 * `82.in-addr.arpa.`
 * `83.in-addr.arpa.`
 * `84.in-addr.arpa.`
-* `85.in-addr.arpa.`
 * `86.in-addr.arpa.`
 * `87.in-addr.arpa.`
 * `88.in-addr.arpa.`
@@ -266,7 +264,6 @@
 * `93.in-addr.arpa.`
 * `94.in-addr.arpa.`
 * `95.in-addr.arpa.`
-* `96.in-addr.arpa.`
 * `97.in-addr.arpa.`
 * `98.in-addr.arpa.`
 * `99.in-addr.arpa.`
@@ -330,7 +327,6 @@
 * `biz.ng.`
 * `biz.pr.`
 * `biz.wf.`
-* `blog.br.`
 * `bmd.br.`
 * `boavista.br.`
 * `br.`
@@ -349,7 +345,6 @@
 * `ch.`
 * `christmas.`
 * `ci.`
-* `cim.br.`
 * `cloud.fedoraproject.org.`
 * `cloud.muni.cz.`
 * `cng.br.`
@@ -377,7 +372,6 @@
 * `curitiba.br.`
 * `cw.`
 * `cy.`
-* `d-zone.ca.`
 * `d.0.1.0.0.2.ip6.arpa.`
 * `d.4.1.0.0.2.ip6.arpa.`
 * `def.br.`
@@ -451,13 +445,11 @@
 * `gov.bd.`
 * `gov.br.`
 * `gov.bt.`
-* `gov.cl.`
 * `gov.kz.`
 * `gov.lb.`
 * `gov.pr.`
 * `gov.tn.`
 * `gov.ve.`
-* `gru.br.`
 * `guitars.`
 * `gv.ao.`
 * `gv.uy.`
@@ -696,7 +688,6 @@
 * `urn.arpa.`
 * `urown.cloud.`
 * `utwente.io.`
-* `v.ua.`
 * `ve.`
 * `vet.br.`
 * `vix.br.`
