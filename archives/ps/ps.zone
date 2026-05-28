@@ -32,6 +32,8 @@ ps.	0	IN	NS	ps-ns.anycast.pch.net.
 101domains.ps.	0	IN	NS	nelly.ns.cloudflare.com.
 10omar.ps.	0	IN	NS	ns1-penguin.dl-cms.com.
 10omar.ps.	0	IN	NS	ns2-penguin.dl-cms.com.
+1118.ps.	0	IN	NS	ns1.netsto.net.
+1118.ps.	0	IN	NS	ns2.netsto.net.
 112.ps.	0	IN	NS	dns3.gov.ps.
 112.ps.	0	IN	NS	dns4.pna.ps.
 112.ps.	0	IN	NS	dns5.gov.ps.
@@ -2275,8 +2277,6 @@ aqarioon.ps.	0	IN	NS	cdns1.hadara.ps.
 aqarioon.ps.	0	IN	NS	cdns2.hadara.ps.
 aqariya.ps.	0	IN	NS	ns1.dns-parking.com.
 aqariya.ps.	0	IN	NS	ns2.dns-parking.com.
-aqarplus.ps.	0	IN	NS	ns1.dns-parking.com.
-aqarplus.ps.	0	IN	NS	ns2.dns-parking.com.
 aqary.ps.	0	IN	NS	ns1.injazatcloud.ps.
 aqary.ps.	0	IN	NS	ns2.injazatcloud.ps.
 aqbarts.ps.	0	IN	NS	cp1.privatesystems.net.
@@ -5619,8 +5619,6 @@ douli.ps.	0	IN	NS	ns1.bluehost.com.
 douli.ps.	0	IN	NS	ns2.bluehost.com.
 douniform.ps.	0	IN	NS	ns1.injazatcloud.ps.
 douniform.ps.	0	IN	NS	ns2.injazatcloud.ps.
-dqfoods.ps.	0	IN	NS	ns1.injazatcloud.ps.
-dqfoods.ps.	0	IN	NS	ns2.injazatcloud.ps.
 dr.ps.	0	IN	NS	ns1-estore.dns-supercode.com.
 dr.ps.	0	IN	NS	ns2-estore.dns-supercode.com.
 dr-lamees.ps.	0	IN	NS	cesar.ns.cloudflare.com.
@@ -10915,8 +10913,10 @@ macbook.ps.	0	IN	NS	a.ns.apple.com.
 macbook.ps.	0	IN	NS	b.ns.apple.com.
 macbook.ps.	0	IN	NS	c.ns.apple.com.
 macbook.ps.	0	IN	NS	d.ns.apple.com.
-macc.ps.	0	IN	NS	ns6805.hostgator.com.
-macc.ps.	0	IN	NS	ns6806.hostgator.com.
+macc.ps.	0	IN	NS	ns1.macc.ps.
+macc.ps.	0	IN	NS	ns2.macc.ps.
+ns1.macc.ps.	0	IN	A	69.49.242.131
+ns2.macc.ps.	0	IN	A	69.49.242.131
 maccosmetics.ps.	0	IN	NS	ns01.elcompanies.com.
 maccosmetics.ps.	0	IN	NS	ns02.elcompanies.com.
 maccosmetics.ps.	0	IN	NS	ns03.elcompanies.com.
@@ -14858,8 +14858,6 @@ pinkblue.ps.	0	IN	NS	ns2.dns-parking.com.
 pinkie.ps.	0	IN	NS	ns1.netim.net.
 pinkie.ps.	0	IN	NS	ns2.netim.net.
 pinkie.ps.	0	IN	NS	ns3.netim.net.
-pinkpro.ps.	0	IN	NS	ns1-cat.dl-cms.com.
-pinkpro.ps.	0	IN	NS	ns2-cat.dl-cms.com.
 pinkstore.ps.	0	IN	NS	ns1-dolphin.dl-cms.com.
 pinkstore.ps.	0	IN	NS	ns2-dolphin.dl-cms.com.
 pinook.ps.	0	IN	NS	nscp5.mada.ps.
@@ -19577,8 +19575,6 @@ ubcgroup.ps.	0	IN	NS	ns13.truehostdns.com.
 ubcgroup.ps.	0	IN	NS	ns14.truehostdns.com.
 ubeidiya.ps.	0	IN	NS	ns1.injazatcloud.ps.
 ubeidiya.ps.	0	IN	NS	ns2.injazatcloud.ps.
-ubiedyeh.ps.	0	IN	NS	ns1.hebronhost.com.
-ubiedyeh.ps.	0	IN	NS	ns2.hebronhost.com.
 ubimet.ps.	0	IN	NS	ns1.markmonitor.com.
 ubimet.ps.	0	IN	NS	ns2.markmonitor.com.
 ubimet.ps.	0	IN	NS	ns3.markmonitor.com.
