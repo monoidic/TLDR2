@@ -3,5 +3,5 @@ FROM ubuntu:26.04
 RUN apt update &&\
     apt install -y jq ldnsutils sqlite3 golang ca-certificates git wget python3 &&\
     apt clean &&\
-    go install github.com/monoidic/dns-tools@dac6e32a3033521fbdc219be590bcd5417f89d6c &&\
+    go install -trimpath github.com/monoidic/dns-tools@2347e642c13a53559c01195e0e097346fcae98ca &&\
     cp /root/go/bin/dns-tools /usr/local/bin
