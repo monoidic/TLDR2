@@ -76,8 +76,12 @@ walkable() {
 	scan -nsec_map
 }
 
-get_walkable() {
+_get_walkable() {
 	sqlite3 "$db" "SELECT zone.name FROM zone_nsec_state INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id WHERE nsec_state.name='plain_nsec' ORDER BY zone.name"
+}
+
+get_walkable() {
+	printf 'walkable=%s\n' $(_get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | shuf | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
 }
 
 walk() {
