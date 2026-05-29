@@ -9,20 +9,12 @@ jobs:
   prework:
     name: Prework
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/monoidic/tldr2:latest
     outputs:
         walkable: ${{steps.walkable.outputs.walkable}}
     steps:
     - uses: actions/checkout@v6.0.2
-      with:
-        submodules: true
-    - uses: actions/setup-go@v6.3.0
-      with:
-        cache-dependency-path: dns-tools/go.sum
-        go-version: '1.26'
-    # make apt install not take an eternity
-    - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
-    - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
-    - run: go install -C dns-tools
     - run: ./scan.sh prework
     - run: ./scan.sh walkable
     - id: walkable
@@ -36,19 +28,11 @@ jobs:
   axfr:
     name: Zone transfer
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/monoidic/tldr2:latest
     needs: prework
     steps:
     - uses: actions/checkout@v6.0.2
-      with:
-        submodules: true
-    - uses: actions/setup-go@v6.3.0
-      with:
-        cache-dependency-path: dns-tools/go.sum
-        go-version: '1.26'
-    # make apt install not take an eternity
-    - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
-    - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
-    - run: go install -C dns-tools
     - uses: actions/download-artifact@v8.0.1
       with:
         name: db
@@ -65,22 +49,14 @@ jobs:
   zone_walk:
     name: Zone walks
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/monoidic/tldr2:latest
     needs: prework
     strategy:
         matrix:
             tld: ${{ fromJson(needs.prework.outputs.walkable) }}
     steps:
     - uses: actions/checkout@v6.0.2
-      with:
-        submodules: true
-    - uses: actions/setup-go@v6.3.0
-      with:
-        cache-dependency-path: dns-tools/go.sum
-        go-version: '1.26'
-    # make apt install not take an eternity
-    - run: sudo sh -c 'echo "set man-db/auto-update false" | debconf-communicate; dpkg-reconfigure man-db'
-    - run: timeout 180 sudo sh -c 'apt update && apt install jq ldnsutils sqlite3'
-    - run: go install -C dns-tools
     - uses: actions/download-artifact@v8.0.1
       with:
           name: db
@@ -100,6 +76,8 @@ jobs:
   walked:
     name: Collect zone walking
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/monoidic/tldr2:latest
     needs: zone_walk
     steps:
     - uses: actions/checkout@v6.0.2
