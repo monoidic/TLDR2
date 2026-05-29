@@ -3,7 +3,7 @@
 db="tldr.sqlite3"
 GITHUB_MAX_SIZE=99614720
 scan() {
-	~/go/bin/dns-tools -db "$db" $*
+	dns-tools -db "$db" $*
 }
 
 get_ns_ips() {
