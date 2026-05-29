@@ -60,6 +60,7 @@ jobs:
     - uses: actions/download-artifact@v8.0.1
       with:
           name: db
+    - run: git config --global --add safe.directory $(realpath .)
     - run: ./scan.sh walk ${{matrix.tld}}
     - run: mv walk_lists/${{matrix.tld}}list walk_lists/${{matrix.tld}}list.bak
     - run: git restore walk_lists/${{matrix.tld}}list || true
@@ -87,6 +88,7 @@ jobs:
     - uses: actions/download-artifact@v8.0.1
       with:
           name: db
+    - run: git config --global --add safe.directory $(realpath .)
     - run: git pull
     - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
     - run: find walk_lists -type f -empty -exec git restore '{}' ';'
