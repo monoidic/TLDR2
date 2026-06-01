@@ -6,8 +6,8 @@
 103.in-addr.arpa.	0	IN	DNSKEY	256 3 13 qTz6U+BIv4IYMXOhv+sbRn00n9LxyhPHzsa6fKx60zItQ32t+kUtVhsTIB1kn39ARv8a3iwYkv7e6SjOBq3IBA== ;{id = 49906 (zsk), size = 256b}
 103.in-addr.arpa.	0	IN	DNSKEY	257 3 13 2uGMr3V5MIx9poeHPkHpMBWYe1c+mVO0WxeuldXY4MKxSFfVsaOtCE7oC6ArD+GK72zfIiBoVJtxV7P7ooXKHg== ;{id = 50754 (ksk), size = 256b}
 103.in-addr.arpa.	0	IN	DNSKEY	257 3 13 9ir146pU2za1CvevH3YTyO4KZjXYXoQs4w8FKmt/reUjThv+IYrDIuG/0f8MZzZcgFbg7iYkK2Nd79Oo+R3lyw== ;{id = 58838 (ksk), size = 256b}
-103.in-addr.arpa.	0	IN	CDS	58838 13 2 458d6e688f107c8b71cc4ad1a391bf9717023b14933d41aa012ed560917c0959
-103.in-addr.arpa.	0	IN	CDNSKEY	257 3 13 9ir146pU2za1CvevH3YTyO4KZjXYXoQs4w8FKmt/reUjThv+IYrDIuG/0f8MZzZcgFbg7iYkK2Nd79Oo+R3lyw==
+103.in-addr.arpa.	0	IN	CDS	50754 13 2 49a6e29f876eb81c62ac208ad136cf2746aeeb5480fd408c8ba2259205cedeb5
+103.in-addr.arpa.	0	IN	CDNSKEY	257 3 13 2uGMr3V5MIx9poeHPkHpMBWYe1c+mVO0WxeuldXY4MKxSFfVsaOtCE7oC6ArD+GK72zfIiBoVJtxV7P7ooXKHg==
 10.1.103.in-addr.arpa.	0	IN	NS	ns.nsa.gov.cn.
 10.1.103.in-addr.arpa.	0	IN	NS	ns2.nsa.gov.cn.
 100.1.103.in-addr.arpa.	0	IN	NS	ns21.cloudns.net.
@@ -4526,12 +4526,16 @@
 1.112.103.in-addr.arpa.	0	IN	NS	pns102.cloudns.net.
 1.112.103.in-addr.arpa.	0	IN	NS	pns103.cloudns.net.
 1.112.103.in-addr.arpa.	0	IN	NS	pns104.cloudns.net.
+10.112.103.in-addr.arpa.	0	IN	NS	ns1.7stardigitalnetwork.com.
+10.112.103.in-addr.arpa.	0	IN	NS	ns2.7stardigitalnetwork.com.
 104.112.103.in-addr.arpa.	0	IN	NS	ns-443.awsdns-55.com.
 104.112.103.in-addr.arpa.	0	IN	NS	ns-637.awsdns-15.net.
 104.112.103.in-addr.arpa.	0	IN	NS	ns-1054.awsdns-03.org.
 104.112.103.in-addr.arpa.	0	IN	NS	ns-1579.awsdns-05.co.uk.
 105.112.103.in-addr.arpa.	0	IN	NS	rdns1.as58511.net.
 105.112.103.in-addr.arpa.	0	IN	NS	rdns2.as58511.net.
+11.112.103.in-addr.arpa.	0	IN	NS	ns1.7stardigitalnetwork.com.
+11.112.103.in-addr.arpa.	0	IN	NS	ns2.7stardigitalnetwork.com.
 12.112.103.in-addr.arpa.	0	IN	NS	ns1.denbroadband.in.
 12.112.103.in-addr.arpa.	0	IN	NS	ns2.denbroadband.in.
 121.112.103.in-addr.arpa.	0	IN	NS	ns1.nstplnet.com.
@@ -4729,6 +4733,8 @@
 71.112.103.in-addr.arpa.	0	IN	NS	ns2.anonanswerability.com.
 76.112.103.in-addr.arpa.	0	IN	NS	rdns1.nbbn.com.au.
 77.112.103.in-addr.arpa.	0	IN	NS	rdns1.nbbn.com.au.
+8.112.103.in-addr.arpa.	0	IN	NS	ns1.7stardigitalnetwork.com.
+8.112.103.in-addr.arpa.	0	IN	NS	ns2.7stardigitalnetwork.com.
 80.112.103.in-addr.arpa.	0	IN	NS	dns1.cloudns.net.
 80.112.103.in-addr.arpa.	0	IN	NS	dns2.cloudns.net.
 80.112.103.in-addr.arpa.	0	IN	NS	dns5.cloudns.net.
@@ -4743,6 +4749,8 @@
 86.112.103.in-addr.arpa.	0	IN	NS	ns2.dnsairwire.in.
 87.112.103.in-addr.arpa.	0	IN	NS	ns1.dnsairwire.in.
 87.112.103.in-addr.arpa.	0	IN	NS	ns2.dnsairwire.in.
+9.112.103.in-addr.arpa.	0	IN	NS	ns1.7stardigitalnetwork.com.
+9.112.103.in-addr.arpa.	0	IN	NS	ns2.7stardigitalnetwork.com.
 0.113.103.in-addr.arpa.	0	IN	NS	ns1.tabnet.solutions.
 1.113.103.in-addr.arpa.	0	IN	NS	ns1.my-vault.com.au.
 1.113.103.in-addr.arpa.	0	IN	NS	ns2.my-vault.com.au.
@@ -10595,10 +10603,13 @@
 190.131.103.in-addr.arpa.	0	IN	NS	ns1.shana.sg.
 190.131.103.in-addr.arpa.	0	IN	NS	ns2.shana.sg.
 190.131.103.in-addr.arpa.	0	IN	NS	ns3.shana.sg.
-191.131.103.in-addr.arpa.	0	IN	NS	pns61.cloudns.net.
-191.131.103.in-addr.arpa.	0	IN	NS	pns62.cloudns.com.
-191.131.103.in-addr.arpa.	0	IN	NS	pns63.cloudns.net.
-191.131.103.in-addr.arpa.	0	IN	NS	pns64.cloudns.uk.
+191.131.103.in-addr.arpa.	0	IN	NS	ns1.nease.net.
+191.131.103.in-addr.arpa.	0	IN	NS	ns2.166.com.
+191.131.103.in-addr.arpa.	0	IN	NS	ns3.nease.net.
+191.131.103.in-addr.arpa.	0	IN	NS	ns4.nease.net.
+191.131.103.in-addr.arpa.	0	IN	NS	ns5.nease.net.
+191.131.103.in-addr.arpa.	0	IN	NS	ns6.nease.net.
+191.131.103.in-addr.arpa.	0	IN	NS	ns8.166.com.
 192.131.103.in-addr.arpa.	0	IN	NS	ns1.he.net.
 192.131.103.in-addr.arpa.	0	IN	NS	ns2.he.net.
 192.131.103.in-addr.arpa.	0	IN	NS	ns3.he.net.
@@ -15055,7 +15066,8 @@
 106.147.103.in-addr.arpa.	0	IN	NS	dns2.galaxynetbd.com.
 107.147.103.in-addr.arpa.	0	IN	NS	dns1.galaxynetbd.com.
 107.147.103.in-addr.arpa.	0	IN	NS	dns2.galaxynetbd.com.
-108.147.103.in-addr.arpa.	0	IN	NS	host17.dukehost.com.
+108.147.103.in-addr.arpa.	0	IN	NS	ns1.dukehost.com.
+108.147.103.in-addr.arpa.	0	IN	NS	ns2.dukehost.com.
 109.147.103.in-addr.arpa.	0	IN	NS	ns1.dukehost.com.
 109.147.103.in-addr.arpa.	0	IN	NS	ns2.dukehost.com.
 11.147.103.in-addr.arpa.	0	IN	NS	ns-cloud-e1.googledomains.com.
