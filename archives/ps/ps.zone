@@ -17019,8 +17019,10 @@ segafredo.ps.	0	IN	NS	cdns1.hadara.ps.
 segafredo.ps.	0	IN	NS	cdns2.hadara.ps.
 segafredocafe.ps.	0	IN	NS	cdns1.hadara.ps.
 segafredocafe.ps.	0	IN	NS	cdns2.hadara.ps.
-sehatty.ps.	0	IN	NS	ns1.gov.ps.
-sehatty.ps.	0	IN	NS	ns3.gov.ps.
+sehatty.ps.	0	IN	NS	ns1.sehatty.ps.
+sehatty.ps.	0	IN	NS	ns2.sehatty.ps.
+ns1.sehatty.ps.	0	IN	A	5.75.180.175
+ns2.sehatty.ps.	0	IN	A	5.75.180.175
 seja.ps.	0	IN	NS	gail.ns.cloudflare.com.
 seja.ps.	0	IN	NS	norm.ns.cloudflare.com.
 selco.ps.	0	IN	NS	ns3.secureserver.net.
