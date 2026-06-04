@@ -13,6 +13,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 1.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 1.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 1.in-addr.arpa.	0	IN	DS	22243 13 2 00e0d41adac2a4f4155405ec67d55b295673921dc0c606473dce99f03b67e425
+1.in-addr.arpa.	0	IN	DS	43707 13 2 90867c2caa60e545f8178736bea481492c81d544fdae2ffda0bb17ecc57d3017
 10.in-addr.arpa.	0	IN	NS	blackhole-1.iana.org.
 10.in-addr.arpa.	0	IN	NS	blackhole-2.iana.org.
 100.in-addr.arpa.	0	IN	NS	r.arin.net.
@@ -28,6 +29,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 101.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 101.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 101.in-addr.arpa.	0	IN	DS	4026 13 2 fcfb445ca00e8fd0d1cd3f3d645d5e37264aebf656722e0242dedf36d8f65c9e
+101.in-addr.arpa.	0	IN	DS	10388 13 2 2aba755e5667143433b8cc6864fc34d62617cc70be615c077ac7e45a117739ad
 102.in-addr.arpa.	0	IN	NS	ns1.afrinic.net.
 102.in-addr.arpa.	0	IN	NS	ns2.afrinic.net.
 102.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
@@ -41,6 +43,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 103.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 103.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 103.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+103.in-addr.arpa.	0	IN	DS	50754 13 2 49a6e29f876eb81c62ac208ad136cf2746aeeb5480fd408c8ba2259205cedeb5
 103.in-addr.arpa.	0	IN	DS	58838 13 2 458d6e688f107c8b71cc4ad1a391bf9717023b14933d41aa012ed560917c0959
 104.in-addr.arpa.	0	IN	NS	r.arin.net.
 104.in-addr.arpa.	0	IN	NS	u.arin.net.
@@ -63,6 +66,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 106.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 106.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 106.in-addr.arpa.	0	IN	DS	10185 13 2 5af0d66781c02e54fd3e6b26b98137dad50f5c1306c75f12854c6057827f4ab8
+106.in-addr.arpa.	0	IN	DS	63627 13 2 96cb7c074ddf5120a8e6117c796e1ed61a22a453997028c45c2904e0946880a6
 107.in-addr.arpa.	0	IN	NS	r.arin.net.
 107.in-addr.arpa.	0	IN	NS	u.arin.net.
 107.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -89,23 +93,27 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 110.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 110.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 110.in-addr.arpa.	0	IN	DS	50652 13 2 33678e2831e0aaff28a25cd199c428b0b51983f8db16c1ba81b02a59b48fbe6c
+110.in-addr.arpa.	0	IN	DS	60907 13 2 d32825e796c91d64f34a133dfff03e5b5e75f74b9809e174d534c915b0ce18c2
 111.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 111.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 111.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 111.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 111.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 111.in-addr.arpa.	0	IN	DS	29365 13 2 f2a6b73ac9a0502921b2637d636e4ba3a1a835a1585731f3af17b2dc0ac8ea9b
+111.in-addr.arpa.	0	IN	DS	50592 13 2 92076ecea78bf8f7a2aede24e9436ba7a1dfe822e22a464acb1548aba5b9f422
 112.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 112.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 112.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 112.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 112.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 112.in-addr.arpa.	0	IN	DS	17204 13 2 805921bb55556544a5b9007f41cfbd84b1244fd73091f6fb4cfb5ef0bd3d6c50
+112.in-addr.arpa.	0	IN	DS	29311 13 2 b1d694c18db77f8fd8a4c34db3ab9d2dc8403821ae900d311139f4f52848372d
 113.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 113.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 113.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 113.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 113.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+113.in-addr.arpa.	0	IN	DS	34307 13 2 c6fdbaf693c14310dd194ad9b63d32d4af4a64570c71ff632d2851b3dfbf8ef1
 113.in-addr.arpa.	0	IN	DS	39943 13 2 f44782037fb79ff9d2973c8e3fe1c398ac8284b4f30794e6bb16399e169a230e
 114.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 114.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -113,36 +121,42 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 114.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 114.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 114.in-addr.arpa.	0	IN	DS	50467 13 2 fac259d192504bb2cc0f91779483358d5acd0693c4bcfc25460ca01d3f29e6c6
+114.in-addr.arpa.	0	IN	DS	54473 13 2 63d77e883f5a05464e1a48fd16e853b97e51daacc154f0bf8ff7c423c13526a0
 115.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 115.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 115.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 115.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 115.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 115.in-addr.arpa.	0	IN	DS	39856 13 2 c9beac2c990dc9b97604631087c35386fab7c567d0afe2ae15538d16224a1f5a
+115.in-addr.arpa.	0	IN	DS	42176 13 2 0b267f74719d4df8fe545dd5ca74dfe1dbced14ac88f7514dbbb336379505a66
 116.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 116.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 116.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 116.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 116.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 116.in-addr.arpa.	0	IN	DS	29173 13 2 85932cebe624791db29ef18d1b73224549ac7f468907fdd581b9597d9cd0550b
+116.in-addr.arpa.	0	IN	DS	34414 13 2 43bc48510d8a9bd0d2df3fc527e5473bb3d7b7bd91222f92ea43e9aefa381336
 117.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 117.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 117.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 117.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 117.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 117.in-addr.arpa.	0	IN	DS	35374 13 2 6a9cd25017740b7a03c8d77cf1f838b7ce86f6940171a46cdd3ac53aa493e60c
+117.in-addr.arpa.	0	IN	DS	53038 13 2 0cc5273e2a69b111b56d164f9ccccbf983e0ca67be2bb455040f0a9067c13c06
 118.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 118.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 118.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 118.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 118.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 118.in-addr.arpa.	0	IN	DS	48240 13 2 76fabdca444a1e92cd5824fff979b51e688f7f3e3dc466df2d1111ee9517cccd
+118.in-addr.arpa.	0	IN	DS	60295 13 2 74c995ca21828f090f597d842161a27af961801dfedd365bcdb1045a6f828930
 119.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 119.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 119.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 119.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 119.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 119.in-addr.arpa.	0	IN	DS	30271 13 2 1f6597e0dfa42450743c13edf0114551c29c8bc45796ea65d7d94f4bf736d81f
+119.in-addr.arpa.	0	IN	DS	64403 13 2 33630725771ab6d5c902604ff31648ca723d0e962bfde7411cf8854653f300aa
 12.in-addr.arpa.	0	IN	NS	cbru.br.ns.els-gms.att.net.
 12.in-addr.arpa.	0	IN	NS	cmtu.mt.ns.els-gms.att.net.
 12.in-addr.arpa.	0	IN	NS	dbru.br.ns.els-gms.att.net.
@@ -153,11 +167,13 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 120.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 120.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 120.in-addr.arpa.	0	IN	DS	35162 13 2 781d3e9e52ab7a5b0b0537f02d1721f5bfbe41aeb5dbc74e8e8be6564b89823d
+120.in-addr.arpa.	0	IN	DS	58902 13 2 ee6308e39697a5a57d1aff46c06c9c58c575d92c81ba4b9b8dab685a46826b74
 121.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 121.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 121.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 121.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 121.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+121.in-addr.arpa.	0	IN	DS	5329 13 2 2c57fd6497cc38e42db413fbcac34cbe9d7a7d8f2a9f7851bd0d7f9edb7f5166
 121.in-addr.arpa.	0	IN	DS	57986 13 2 84ee87e60e7c09df78383f763292cdcdd11bfe203422e62bd41f51e71a0a900a
 122.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 122.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -165,23 +181,27 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 122.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 122.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 122.in-addr.arpa.	0	IN	DS	12397 13 2 9d8bc578823b95f229a2566d5bc5a2118dbe44dd577657dfb91cbd473b1ae4f4
+122.in-addr.arpa.	0	IN	DS	32392 13 2 b0cfbcc92ca6a793ae8345a1f4a2e6061910afb887a2d80af4929ee98b22eb54
 123.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 123.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 123.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 123.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 123.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 123.in-addr.arpa.	0	IN	DS	6977 13 2 70cabaf4cb2809d0fd507d482c282bbdd23790b0d40751b7c5cf367a7a52c3c4
+123.in-addr.arpa.	0	IN	DS	23094 13 2 e9d44fa3b8288a3ac9c23783547ad441f461e129a5143497d764bcc6d0318c74
 124.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 124.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 124.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 124.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 124.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+124.in-addr.arpa.	0	IN	DS	18678 13 2 1c8fd5802ff0ea645d2918bfa44bb8cf9ea9523b580e3cecda0e915def0c6748
 124.in-addr.arpa.	0	IN	DS	29480 13 2 9d5d138a42f0f14a44a473c1b176096f32992c4647a31db6e96486d12fcb4d6e
 125.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 125.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 125.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 125.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 125.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+125.in-addr.arpa.	0	IN	DS	38138 13 2 ef243bb4bc13770f23a2f0e59b2fd075947517ab0f0bdad9820d4429c4c91db3
 125.in-addr.arpa.	0	IN	DS	54436 13 2 01b8e325db6d186a10e86e6fd70ecae9752a53d568a237fd9774e71d7ae05b5b
 126.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 126.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -189,6 +209,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 126.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 126.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 126.in-addr.arpa.	0	IN	DS	3806 13 2 b30440013ef9088e4614adbf20f98a79ee7c4dc030d6037a4ae2c4d1f4bbabb0
+126.in-addr.arpa.	0	IN	DS	30629 13 2 375f489426cdf10711c17f13f1c5a26395e82baa85fbeb9d245ae07411318c51
 128.in-addr.arpa.	0	IN	NS	r.arin.net.
 128.in-addr.arpa.	0	IN	NS	u.arin.net.
 128.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -286,6 +307,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 14.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 14.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 14.in-addr.arpa.	0	IN	DS	8601 13 2 733cb24f1abd25f6a214285567ee31201b094cc157c4ebe8f15c93621b31059d
+14.in-addr.arpa.	0	IN	DS	22684 13 2 96de858efa1ef6c623697f2f6a03077e91f64803846046140366c8b64ba25ed5
 140.in-addr.arpa.	0	IN	NS	r.arin.net.
 140.in-addr.arpa.	0	IN	NS	u.arin.net.
 140.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -367,6 +389,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 150.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 150.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 150.in-addr.arpa.	0	IN	DS	40579 13 2 712a0a59f0f26f4bf53fef66642347263f4f81786415c5f62208c8987fdbd585
+150.in-addr.arpa.	0	IN	DS	61116 13 2 ee18de240249371ae86d9de202e8af735a02fbfa27a5535f8898bd64be0d74e8
 151.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 151.in-addr.arpa.	0	IN	NS	ns3.afrinic.net.
 151.in-addr.arpa.	0	IN	NS	ns4.apnic.net.
@@ -385,6 +408,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 153.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 153.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 153.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+153.in-addr.arpa.	0	IN	DS	41251 13 2 742ab2c4cc7592f1a555d546f376917b68a90956f6e8939b5c101f9c00dee5a6
 153.in-addr.arpa.	0	IN	DS	48892 13 2 dea8eaf50ebee2261b460e819207d579d8a82779ea60c1c4c66ff9fb9123df56
 154.in-addr.arpa.	0	IN	NS	ns1.afrinic.net.
 154.in-addr.arpa.	0	IN	NS	ns2.afrinic.net.
@@ -462,6 +486,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 163.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 163.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 163.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+163.in-addr.arpa.	0	IN	DS	32263 13 2 dcc93cc2ba54bdda874e82550afc809d0421a1b7e7a63021c740fb5d7cf2c8a7
 163.in-addr.arpa.	0	IN	DS	35817 13 2 e08b855573256a1f8ba3550efef52e181a2dd99a5bacf35f401081e1a9dec992
 164.in-addr.arpa.	0	IN	NS	r.arin.net.
 164.in-addr.arpa.	0	IN	NS	u.arin.net.
@@ -521,6 +546,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 171.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 171.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 171.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+171.in-addr.arpa.	0	IN	DS	6154 13 2 54a35629429004515beadc0d04f0385f08c1a4249328a2b9acf802400d7ebdfe
 171.in-addr.arpa.	0	IN	DS	34487 13 2 38b082196eb63fe198a655ad216a41b2d29e1459c98a6bc666618e74798e2c00
 172.in-addr.arpa.	0	IN	NS	r.arin.net.
 172.in-addr.arpa.	0	IN	NS	u.arin.net.
@@ -548,6 +574,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 175.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 175.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 175.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+175.in-addr.arpa.	0	IN	DS	29356 13 2 939e2141b2f9cdbdf3f0fbaf3a6abdfb255795f0b52efae67f9b8066c42ae730
 175.in-addr.arpa.	0	IN	DS	62979 13 2 337598082cb7ee11a85f22bcc072a30dac652346632a7e77ba2319396a2dcf7e
 176.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 176.in-addr.arpa.	0	IN	NS	ns3.afrinic.net.
@@ -593,6 +620,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 180.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 180.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 180.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+180.in-addr.arpa.	0	IN	DS	33983 13 2 e28618a0502907bdfa1659513f627dcc7b168b19792a287a76b36237b1ac1599
 180.in-addr.arpa.	0	IN	DS	36557 13 2 5e1737657212b7da7a67f3f7e89dde2f7b276ab6b7c7e360607a49da33984d50
 181.in-addr.arpa.	0	IN	NS	a.arpa.dns.br.
 181.in-addr.arpa.	0	IN	NS	a.lactld.org.
@@ -609,6 +637,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 182.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 182.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 182.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+182.in-addr.arpa.	0	IN	DS	22514 13 2 9d8cd1312ca463a58ba5698756eb36fe242e18efe10b7e07be6cf7e131c077c9
 182.in-addr.arpa.	0	IN	DS	50795 13 2 a314745f53e6b6b0c2066b1b740288e7e04e0cc5d140347118a52e6d16c74e06
 183.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 183.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -616,6 +645,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 183.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 183.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 183.in-addr.arpa.	0	IN	DS	5693 13 2 4d2061ade44104e9c40377ef1dfc77e870829ac297f7efda7819033e9d295efc
+183.in-addr.arpa.	0	IN	DS	38357 13 2 2d07eb77976d19f8238b1aedfcc983703b83283d4ef4da9101919a85aaefcca8
 184.in-addr.arpa.	0	IN	NS	r.arin.net.
 184.in-addr.arpa.	0	IN	NS	u.arin.net.
 184.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -781,12 +811,14 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 202.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 202.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 202.in-addr.arpa.	0	IN	DS	32807 13 2 8ea017b3c8ee8bf81c299761efd339c132d5f9604e328ec9da640634a908aabf
+202.in-addr.arpa.	0	IN	DS	38312 13 2 3c1435ac3df74a23f46a720973e33886f98f4710969abf2a1dc05a2ea76fd4e3
 203.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 203.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 203.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 203.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 203.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 203.in-addr.arpa.	0	IN	DS	3331 13 2 c845b790ad860c6fce67b7937bb90173af25d3b6a0779779828f65254e8d6e2c
+203.in-addr.arpa.	0	IN	DS	62187 13 2 31f1bfc2f95fbeb1cea109d86641f6f533ac143f873e58b3266ebe69d817945c
 204.in-addr.arpa.	0	IN	NS	r.arin.net.
 204.in-addr.arpa.	0	IN	NS	u.arin.net.
 204.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -834,6 +866,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 210.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 210.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 210.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+210.in-addr.arpa.	0	IN	DS	20420 13 2 005faa2a15ca8df349de3aa3dd258a2a0a8ebefad821414e1575f75abc6566dc
 210.in-addr.arpa.	0	IN	DS	63893 13 2 2ea7f90252a7885347726b38716d997ed9ffa0d0aca1dfe45ab059d341c80ee7
 211.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 211.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -841,6 +874,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 211.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 211.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 211.in-addr.arpa.	0	IN	DS	27548 13 2 b3e40891e4b472de2db9e467828b59374c8a8e86a129256f1b4f1e86316e9c72
+211.in-addr.arpa.	0	IN	DS	54467 13 2 82c22b564fbae08fa30a991cfc0741e4b4c3ff938ffb03d0dd470517f0f2d34a
 212.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 212.in-addr.arpa.	0	IN	NS	ns3.afrinic.net.
 212.in-addr.arpa.	0	IN	NS	ns4.apnic.net.
@@ -884,11 +918,13 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 218.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 218.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 218.in-addr.arpa.	0	IN	DS	16177 13 2 bc7ed1257b4f46b60f7b0f3e585a1cefda0c5208063971951976088dbaa502f2
+218.in-addr.arpa.	0	IN	DS	37320 13 2 051ef957e5f3f7d844e2b95bd201b504b6404ecf030601caf6cdf707449ae82f
 219.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 219.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 219.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 219.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 219.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+219.in-addr.arpa.	0	IN	DS	924 13 2 6527dd25ea0136c114bd6df263eb1edaa2ac2fa2326247e25eec43fbadf6e45f
 219.in-addr.arpa.	0	IN	DS	40329 13 2 4a18a3cf1dea355141e93c537b5c3320606f8accdfdc799b3c254378b6bbe5f4
 220.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 220.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -896,17 +932,20 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 220.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 220.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 220.in-addr.arpa.	0	IN	DS	22355 13 2 d56567f51ece785302658cb9b237dac2807f28ba3b03c7f6ffc9308106c69634
+220.in-addr.arpa.	0	IN	DS	63996 13 2 6ac5e8ccd6fb66de4d72a9223c6668dd495b63ecdc37f9ff3a0dfef0eb11e126
 221.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 221.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 221.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 221.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 221.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 221.in-addr.arpa.	0	IN	DS	27567 13 2 86057be68d9faaaf8f812981347628d31ce1ab4c8e31a44604b07a8d48497e81
+221.in-addr.arpa.	0	IN	DS	60262 13 2 7dc55eb857ad9f2d16aff43147d009103e5efda6aa815ab97cf92fe2096b4450
 222.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 222.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 222.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 222.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 222.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+222.in-addr.arpa.	0	IN	DS	16658 13 2 0ffdedd4d48b732505d11e18171bdaea1bc8fc5f167f0bb4ed394a13f06786b2
 222.in-addr.arpa.	0	IN	DS	64095 13 2 c9241a558cd167b7970ec42418f18558c0151c4d637183434e7dc08cf217e878
 223.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 223.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -914,6 +953,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 223.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 223.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 223.in-addr.arpa.	0	IN	DS	5463 13 2 fbe8be97d5a796bba1c9e7653a94365be53790108eab847425a5ed55b19b9258
+223.in-addr.arpa.	0	IN	DS	21384 13 2 e5b4f1ab6c35753003672df617f4542a142fceeef8c5f9cdb218dc151e55cca4
 224.in-addr.arpa.	0	IN	NS	a.iana-servers.net.
 224.in-addr.arpa.	0	IN	NS	b.iana-servers.net.
 224.in-addr.arpa.	0	IN	NS	c.iana-servers.net.
@@ -1026,6 +1066,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 27.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 27.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 27.in-addr.arpa.	0	IN	DS	27337 13 2 e6fbca3c0274f7960b6078476dc7d1b477c923742236210995643bea3c3f2c2d
+27.in-addr.arpa.	0	IN	DS	64469 13 2 164d5a806f46cf23c1957a6a7afe40b862bddfc0ea626a66bfe6a574c2b99bc3
 28.in-addr.arpa.	0	IN	NS	con1r.nipr.mil.
 28.in-addr.arpa.	0	IN	NS	con2r.nipr.mil.
 28.in-addr.arpa.	0	IN	NS	eur1r.nipr.mil.
@@ -1077,6 +1118,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 36.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 36.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 36.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+36.in-addr.arpa.	0	IN	DS	56021 13 2 be8686cc2b9684bd83da7f05f848bb62ce19065a01aeeb66837fc3213229615e
 36.in-addr.arpa.	0	IN	DS	61179 13 2 c87d20d62958c7259121dce872a1138dab304237991726732c5e32210756fd12
 37.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 37.in-addr.arpa.	0	IN	NS	ns3.afrinic.net.
@@ -1092,6 +1134,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 39.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 39.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 39.in-addr.arpa.	0	IN	DS	18660 13 2 3b5807b3fd7fd7363f2a9c6cf993286ad69f04e5d7b7e6b4b095ab6ec336497e
+39.in-addr.arpa.	0	IN	DS	31963 13 2 b9e8eb0437f882d0790dcb768297a41f39b4c0283da574b1a5fbbb107a4997ce
 4.in-addr.arpa.	0	IN	NS	r.arin.net.
 4.in-addr.arpa.	0	IN	NS	u.arin.net.
 4.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -1119,6 +1162,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 42.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 42.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 42.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+42.in-addr.arpa.	0	IN	DS	28162 13 2 1f04bd28f9c277e45878ade5f77ab58a9dde765524db6fb08fd3c9af68047d5f
 42.in-addr.arpa.	0	IN	DS	39240 13 2 1fb66a1a620c463f9d2b4e65ff04e738dc0e683f10f43d862e0b1b3a1814c4f4
 43.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 43.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
@@ -1126,6 +1170,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 43.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 43.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 43.in-addr.arpa.	0	IN	DS	6076 13 2 4a3a4f056caad03fa75c82df22aefc1589a9283bf5ad08fb5be9a8a5e9f128aa
+43.in-addr.arpa.	0	IN	DS	41014 13 2 0bc76bf21003d94522928a9fe6ad2f9115d55c69553df89fc5ad68959311b40a
 44.in-addr.arpa.	0	IN	NS	r.arin.net.
 44.in-addr.arpa.	0	IN	NS	u.arin.net.
 44.in-addr.arpa.	0	IN	NS	x.arin.net.
@@ -1164,6 +1209,7 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 49.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 49.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 49.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+49.in-addr.arpa.	0	IN	DS	10478 13 2 6ed3bcb58f019f8a2fff8c93ec2d9e6ecedd9d1ba7cc7fadc12d06005c97b95c
 49.in-addr.arpa.	0	IN	DS	39649 13 2 c8fe0c98478036e54644b5348c19a1833083b2fbfacec78bc056e1e2544e9d28
 5.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 5.in-addr.arpa.	0	IN	NS	ns3.afrinic.net.
@@ -1223,12 +1269,14 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 58.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 58.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 58.in-addr.arpa.	0	IN	DS	37981 13 2 244db4e6a28df4f447f9126870d83d6456e8587ef7b358f553a29ffe521dbc08
+58.in-addr.arpa.	0	IN	DS	51636 13 2 f3994462f43c6444c6613106289a3a85953aac600bac8afb9dd334fe040ca83f
 59.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 59.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 59.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 59.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 59.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 59.in-addr.arpa.	0	IN	DS	5971 13 2 f5cf5393212d95e00d1f3d2bd075fb322092ae95690dc5add23faab4f8f17254
+59.in-addr.arpa.	0	IN	DS	44725 13 2 2f02ae6ceb8924e0a5120e80ec926a245f6ef534bd9dac67af8cc9856f4c0021
 6.in-addr.arpa.	0	IN	NS	ns01.army.mil.
 6.in-addr.arpa.	0	IN	NS	ns02.army.mil.
 6.in-addr.arpa.	0	IN	NS	ns03.army.mil.
@@ -1238,12 +1286,14 @@ in-addr.arpa.	0	IN	DNSKEY	257 3 8 AwEAAbdOaEhLDa/H2m+hbXBHiAUE95PgpL2358lkJCBmb2
 60.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 60.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 60.in-addr.arpa.	0	IN	DS	20617 13 2 227d33715e92c4c8de0624b1bcd904979d920f31e0215df7b10b697ea17a2315
+60.in-addr.arpa.	0	IN	DS	35814 13 2 9ae666a84b0edfc6e7e5d34a5b8abfd6120c2ebad91a9f638a2e9c9f6061c91c
 61.in-addr.arpa.	0	IN	NS	ns1.apnic.net.
 61.in-addr.arpa.	0	IN	NS	ns2.apnic.net.
 61.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 61.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 61.in-addr.arpa.	0	IN	NS	rirns.arin.net.
 61.in-addr.arpa.	0	IN	DS	32859 13 2 ae7357f44d308a07ac575326295c4c6818c758c4228081aec679f2841ae970a6
+61.in-addr.arpa.	0	IN	DS	57527 13 2 f69d65d9628db4e5fc03d7bf6ce46fef59f1709a69ec239a8f9acf688ad060d5
 62.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 62.in-addr.arpa.	0	IN	NS	ns3.afrinic.net.
 62.in-addr.arpa.	0	IN	NS	ns4.apnic.net.
