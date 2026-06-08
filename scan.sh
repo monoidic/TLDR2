@@ -82,7 +82,7 @@ _get_walkable() {
 }
 
 get_walkable() {
-	printf 'walkable=%s\n' $(_get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | shuf | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
+	printf 'walkable=%s\n' $(_get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | sort -u | shuf | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
 }
 
 _get_arpa() {
@@ -90,7 +90,7 @@ _get_arpa() {
 		cd archives
 		for x in *.in-addr.arpa; do
 			if [[ "$x" =~ ^[0-9]+.in-addr.arpa$ ]]; then
-				echo $x
+				cat "${x}"/* | grep 'IN\sNS\s' | awk '{print $1}'
 			fi
 		done
 	)
