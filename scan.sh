@@ -91,7 +91,7 @@ _get_arpa() {
 		for x in *.in-addr.arpa; do
 			if [[ "$x" =~ ^[0-9]+.in-addr.arpa$ ]]; then
 				echo $x
-			done
+			fi
 		done
 	)
 }
