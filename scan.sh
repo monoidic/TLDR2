@@ -31,6 +31,8 @@ prework() {
 	sed '/^\/\//d;/^$/d;s/^\*\.//;s/^!//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > psl.txt
 	# add entries
 	scan -parse_lists psl.txt
+	_get_arpa > arpa_zones.txt
+	scan -parse_lists arpa_zones.txt
 	# idk, check for zones
 	for i in {1..5}; do
 		scan -validate
@@ -78,7 +80,6 @@ walkable() {
 
 _get_walkable() {
 	sqlite3 "$db" "SELECT zone.name FROM zone_nsec_state INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id WHERE nsec_state.name='plain_nsec' ORDER BY zone.name"
-	_get_arpa
 }
 
 get_walkable() {
