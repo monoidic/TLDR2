@@ -94,7 +94,7 @@ _get_arpa() {
 				cat "${x}"/* | grep 'IN\sNS\s' | awk '{print $1}'
 			fi
 		done
-	)
+	) | sort -u | shuf | head -n 50
 }
 
 walk() {
