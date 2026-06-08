@@ -91,7 +91,7 @@ _get_arpa() {
 		cd archives
 		for x in *.in-addr.arpa; do
 			if [[ "$x" =~ ^[0-9]+.in-addr.arpa$ ]]; then
-				cat "${x}"/* | grep 'IN\sNS\s' | awk '{print $1}'
+				grep -a 'IN\sNS\s' "${x}"/* | awk '{print $1}'
 			fi
 		done
 	) | sort -u | shuf | head -n 50
