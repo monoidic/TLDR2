@@ -92,6 +92,7 @@ _get_arpa() {
 			cd archives
 			for x in *.in-addr.arpa; do
 				if [[ "$x" =~ ^[0-9]+\.in-addr.arpa$ ]] || [[ "$x" =~ ^[0-9]+\.[0-9]+\.in-addr.arpa$ ]]; then
+#					echo "$x"
 					grep -ah 'IN\sNS\s' "${x}"/* | awk '{print $1}'
 				fi
 			done
@@ -100,11 +101,12 @@ _get_arpa() {
 			cd walk_lists
 			for x in *.in-addr.arpa.list; do
 				if [[ "$x" =~ ^[0-9]+\.in-addr.arpa\.list$ ]] || [[ "$x" =~ ^[0-9]+\.[0-9]+\.in-addr.arpa\.list$ ]]; then
+#					echo "$x"
 					cat "$x"
 				fi
 			done
 		)
-	) | sort -u | shuf | head -n 50
+	) | sort -u
 }
 
 walk() {
