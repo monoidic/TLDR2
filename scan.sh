@@ -106,7 +106,7 @@ _get_arpa() {
 				fi
 			done
 		)
-	) | sort -u
+	) | sort -u | shuf | head -n500
 }
 
 walk() {
