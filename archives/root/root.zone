@@ -10471,6 +10471,7 @@ b0.nic.ltda.	0	IN	A	65.22.117.17
 b0.nic.ltda.	0	IN	AAAA	2a01:8840:73::17
 c0.nic.ltda.	0	IN	A	65.22.118.17
 c0.nic.ltda.	0	IN	AAAA	2a01:8840:74::17
+lu.	0	IN	NS	1.ns.lu.
 lu.	0	IN	NS	g.dns.lu.
 lu.	0	IN	NS	i.dns.lu.
 lu.	0	IN	NS	j.dns.lu.
@@ -10490,6 +10491,8 @@ ns1.dns.lu.	0	IN	A	158.64.229.18
 ns1.dns.lu.	0	IN	AAAA	2001:a18:4:1::18
 p.dns.lu.	0	IN	A	194.0.42.42
 p.dns.lu.	0	IN	AAAA	2001:678:60::42:42
+1.ns.lu.	0	IN	A	158.64.229.18
+1.ns.lu.	0	IN	AAAA	2001:a18:4:1::18
 lundbeck.	0	IN	NS	a0.nic.lundbeck.
 lundbeck.	0	IN	NS	a2.nic.lundbeck.
 lundbeck.	0	IN	NS	b0.nic.lundbeck.
@@ -14281,6 +14284,7 @@ ren.	0	IN	NS	g.zdnscloud.com.
 ren.	0	IN	NS	i.zdnscloud.cn.
 ren.	0	IN	NS	j.zdnscloud.com.
 ren.	0	IN	DS	6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
+ren.	0	IN	DS	16939 13 2 0d92a314ba5fee31419e629a7ebd53350b79e887f79721a615ec7fa03331c81f
 rent.	0	IN	NS	a.nic.rent.
 rent.	0	IN	NS	b.nic.rent.
 rent.	0	IN	NS	c.nic.rent.
