@@ -3,6 +3,7 @@
 153.in-addr.arpa.	0	IN	NS	ns3.lacnic.net.
 153.in-addr.arpa.	0	IN	NS	apnic.authdns.ripe.net.
 153.in-addr.arpa.	0	IN	NS	rirns.arin.net.
+153.in-addr.arpa.	0	IN	DNSKEY	256 3 13 OQp2huMM8V/R+KOy6QMHQCLfvTEU90E2YXVOzRS6R5bkKWNOjJHikeAQHjMGh8tGiY/z5i33BqALheap7PFGxA== ;{id = 36715 (zsk), size = 256b}
 153.in-addr.arpa.	0	IN	DNSKEY	256 3 13 ak7gYlwSA9TwPzSxObJf9XLU16qLcaCXX/R74yN1MsqKRxDozG7vSKTmPLaUBBOwOiuLcRVLF8gBY0s/ED1pnA== ;{id = 44865 (zsk), size = 256b}
 153.in-addr.arpa.	0	IN	DNSKEY	257 3 13 zpngcyPgnIrR0PP7A3ypsfRYXjaW0Md+yD0j0gFOKFJIqMxZzqkxf9HetmvNIxrS/L46iEyuAPWi7Hf9QySLrw== ;{id = 41251 (ksk), size = 256b}
 153.in-addr.arpa.	0	IN	CDS	41251 13 2 742ab2c4cc7592f1a555d546f376917b68a90956f6e8939b5c101f9c00dee5a6
@@ -1242,6 +1243,22 @@
 128.124.153.in-addr.arpa.	0	IN	NS	ns2.namedserver.net.
 129.124.153.in-addr.arpa.	0	IN	NS	ns.namedserver.net.
 129.124.153.in-addr.arpa.	0	IN	NS	ns2.namedserver.net.
+160.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+160.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+161.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+161.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+162.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+162.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+163.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+163.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+164.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+164.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+165.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+165.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+166.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+166.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
+167.124.153.in-addr.arpa.	0	IN	NS	ns1.globalxtreme.net.
+167.124.153.in-addr.arpa.	0	IN	NS	ns5.globalxtreme.net.
 176.124.153.in-addr.arpa.	0	IN	NS	ddns1.interlink.or.jp.
 176.124.153.in-addr.arpa.	0	IN	NS	ddns2.interlink.or.jp.
 177.124.153.in-addr.arpa.	0	IN	NS	ddns1.interlink.or.jp.
@@ -66909,6 +66926,8 @@
 166.56.153.in-addr.arpa.	0	IN	NS	dns2.turksat.com.tr.
 167.56.153.in-addr.arpa.	0	IN	NS	dns1.turksat.com.tr.
 167.56.153.in-addr.arpa.	0	IN	NS	dns2.turksat.com.tr.
+172.56.153.in-addr.arpa.	0	IN	NS	rdns1.surnet.tr.
+172.56.153.in-addr.arpa.	0	IN	NS	rdns2.surnet.tr.
 184.56.153.in-addr.arpa.	0	IN	NS	rdns1.bildns.com.
 184.56.153.in-addr.arpa.	0	IN	NS	rdns2.bildns.com.
 188.56.153.in-addr.arpa.	0	IN	NS	lamar.ns.cloudflare.com.
@@ -67637,6 +67656,8 @@
 79.75.153.in-addr.arpa.	0	IN	NS	ns6.ruraltel.net.
 80.75.153.in-addr.arpa.	0	IN	NS	ns1.cloudzy.com.
 80.75.153.in-addr.arpa.	0	IN	NS	ns2.cloudzy.com.
+90.75.153.in-addr.arpa.	0	IN	NS	ns1.cloudzy.com.
+90.75.153.in-addr.arpa.	0	IN	NS	ns2.cloudzy.com.
 1.76.153.in-addr.arpa.	0	IN	NS	ns1.jgp.name.
 1.76.153.in-addr.arpa.	0	IN	NS	ns2.jgp.name.
 100.76.153.in-addr.arpa.	0	IN	NS	ns1.tcworks.net.
