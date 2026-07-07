@@ -7423,7 +7423,7 @@ c.ns.gq.	0	IN	A	185.21.170.65
 c.ns.gq.	0	IN	AAAA	2a04:1b00:12::1
 d.ns.gq.	0	IN	A	185.21.171.65
 d.ns.gq.	0	IN	AAAA	2a04:1b00:13::1
-gr.	0	IN	NS	gr-c.ics.forth.gr.
+gr.	0	IN	NS	gr-a.ics.forth.gr.
 gr.	0	IN	NS	gr-d.ics.forth.gr.
 gr.	0	IN	NS	gr-m.ics.forth.gr.
 gr.	0	IN	NS	estia.ics.forth.gr.
@@ -7432,6 +7432,8 @@ gr.	0	IN	NS	grdns.ics.forth.gr.
 gr.	0	IN	DS	13987 8 2 ff87e9205f88e1d32c67a65bd61c68c56689c607d7684d12c867dc933d546ec8
 estia.ics.forth.gr.	0	IN	A	139.91.191.3
 estia.ics.forth.gr.	0	IN	AAAA	2001:648:2c30::191:3
+gr-a.ics.forth.gr.	0	IN	A	194.0.25.48
+gr-a.ics.forth.gr.	0	IN	AAAA	2001:678:20::48
 gr-at.ics.forth.gr.	0	IN	A	78.104.145.227
 gr-c.ics.forth.gr.	0	IN	A	194.0.1.25
 gr-c.ics.forth.gr.	0	IN	AAAA	2001:678:4::19
@@ -7921,8 +7923,8 @@ c0.nic.hkt.	0	IN	AAAA	2a01:8840:74::33
 hm.	0	IN	NS	ns1.registry.hm.
 hm.	0	IN	NS	ns2.registry.hm.
 hm.	0	IN	NS	ns3.registry.hm.
-ns1.registry.hm.	0	IN	A	142.171.40.232
-ns2.registry.hm.	0	IN	A	142.171.40.234
+ns1.registry.hm.	0	IN	A	223.252.41.82
+ns2.registry.hm.	0	IN	A	223.252.41.83
 ns3.registry.hm.	0	IN	A	128.199.180.188
 hn.	0	IN	NS	a.lactld.org.
 hn.	0	IN	NS	ns1.anycastdns.cz.
@@ -14676,7 +14678,7 @@ ruhr.	0	IN	NS	a.nic.ruhr.
 ruhr.	0	IN	NS	b.nic.ruhr.
 ruhr.	0	IN	NS	c.nic.ruhr.
 ruhr.	0	IN	NS	d.nic.ruhr.
-ruhr.	0	IN	DS	40422 10 2 74fb0b871adf46aab5d49a1eb3b8b0b7dda42c023dd045ec0282b6187b3b4cf7
+ruhr.	0	IN	DS	35633 13 2 470d5916105a40ecc204fd025aad5e43e44c82747c6c3c5130462f9b7396e9a5
 ruhr.	0	IN	DS	46252 10 2 3db9db25d3b8e13fbcb4eba53f61c7ce156831dce66d4a19747d17f8ab278fdb
 a.nic.ruhr.	0	IN	A	194.169.218.155
 a.nic.ruhr.	0	IN	AAAA	2001:67c:13cc::1:155
@@ -20102,6 +20104,7 @@ xn--qxa6a.	0	IN	NS	si.dns.eu.
 xn--qxa6a.	0	IN	DS	28624 8 2 248cb7496d7d6c9a4c0f2bc97187e1ea7a4f9f1acefdc745680875e8a009b793
 xn--qxam.	0	IN	NS	gr-c.ics.forth.gr.
 xn--qxam.	0	IN	NS	gr-d.ics.forth.gr.
+xn--qxam.	0	IN	NS	gr-m.ics.forth.gr.
 xn--qxam.	0	IN	NS	estia.ics.forth.gr.
 xn--qxam.	0	IN	NS	gr-at.ics.forth.gr.
 xn--qxam.	0	IN	NS	grdns.ics.forth.gr.
