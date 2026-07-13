@@ -39,6 +39,8 @@ prework() {
 		scan -parent_map{_pre,}
 		scan -maybe_zone
 	done
+
+	get_running_walks >> filters.txt
 }
 
 axfr() {
@@ -76,6 +78,26 @@ zonefiles() {
 
 walkable() {
 	scan -nsec_map
+}
+
+get_running_walks() {
+	for status in queued in_progress; do
+		curl -sL \
+			-H "Accept: application/vnd.github+json" \
+			-H "Authorization: Bearer $GITHUB_TOKEN" \
+			-H "X-GitHub-Api-Version: 2026-03-10" \
+			"https://api.github.com/repos/monoidic/TLDR2/actions/runs?status=$status" \
+		| jq '.workflow_runs[].id' | while read workflow_id; do
+			for pagenum in {1..3}; do
+				curl -sL \
+					-H "Accept: application/vnd.github+json" \
+					-H "Authorization: Bearer $GITHUB_TOKEN" \
+					-H "X-GitHub-Api-Version: 2026-03-10" \
+					"https://api.github.com/repos/monoidic/TLDR2/actions/runs/${workflow_id}/jobs?per_page=100&page=${pagenum}" \
+				| jq -r '.jobs[].name' | grep '^Zone walks' | cut -d'(' -f2 | cut -d')' -f1
+			done
+		done
+	done
 }
 
 _get_walkable() {
