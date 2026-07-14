@@ -1891,6 +1891,10 @@ bh.	0	IN	NS	a.nic.bh.
 bh.	0	IN	NS	b.nic.bh.
 bh.	0	IN	NS	c.nic.bh.
 bh.	0	IN	NS	d.nic.bh.
+bh.	0	IN	NS	ns01.trs-dns.com.
+bh.	0	IN	NS	ns01.trs-dns.net.
+bh.	0	IN	NS	ns10.trs-dns.org.
+bh.	0	IN	NS	ns10.trs-dns.info.
 bh.	0	IN	DS	17411 8 2 5585896549a2954516768f776e8a9e2610cbf5cbd7165389c0a5448435c71185
 bh.	0	IN	DS	62264 8 2 c4078eb7e70029e2bbed8f7271d9f7636c133746c0e3dc22ea7f1bfda231b246
 a.nic.bh.	0	IN	A	194.169.218.115
@@ -3518,7 +3522,6 @@ circle.	0	IN	NS	v0n3.nic.circle.
 circle.	0	IN	NS	v2n0.nic.circle.
 circle.	0	IN	NS	v2n1.nic.circle.
 circle.	0	IN	DS	10075 8 2 61c05f1db1341492824a03dcf98a62a6f641e1202a8e207ffc05acc617226b3d
-circle.	0	IN	DS	37745 8 2 89e27d8efd40f6e9a05d3a8a4ae933a41056e574008d30b20c8ad9a7d07785db
 v0n0.nic.circle.	0	IN	A	65.22.36.49
 v0n0.nic.circle.	0	IN	AAAA	2a01:8840:26::49
 v0n1.nic.circle.	0	IN	A	65.22.37.49
@@ -4343,6 +4346,8 @@ dns.nic.cr.	0	IN	A	200.107.82.100
 dns.nic.cr.	0	IN	AAAA	2001:13c7:7004:1::d100
 dns-ext.nic.cr.	0	IN	A	200.107.82.219
 dns-ext.nic.cr.	0	IN	AAAA	2001:13c7:7004:110::219
+nsca.nic.cr.	0	IN	A	200.107.82.38
+nsca.nic.cr.	0	IN	AAAA	2001:13c7:7004:1::38
 p.nic.cr.	0	IN	A	204.61.216.89
 p.nic.cr.	0	IN	AAAA	2001:500:14:6089:ad::1
 credit.	0	IN	NS	v0n0.nic.credit.
@@ -7365,7 +7370,6 @@ got.	0	IN	NS	v0n2.nic.got.
 got.	0	IN	NS	v0n3.nic.got.
 got.	0	IN	NS	v2n0.nic.got.
 got.	0	IN	NS	v2n1.nic.got.
-got.	0	IN	DS	4355 8 2 8b11d5875a3202ed7faae05a5eab67057eca0d5bdb62875c5203b6cbb011c50a
 got.	0	IN	DS	12529 8 2 d88ceb7699002d534fcf0499de71b904ab195ce5bafc7d563178e993670a6a14
 v0n0.nic.got.	0	IN	A	65.22.36.57
 v0n0.nic.got.	0	IN	AAAA	2a01:8840:26::57
@@ -9176,7 +9180,6 @@ jot.	0	IN	NS	v0n3.nic.jot.
 jot.	0	IN	NS	v2n0.nic.jot.
 jot.	0	IN	NS	v2n1.nic.jot.
 jot.	0	IN	DS	21967 8 2 d68beb3ffe524f947633ee4f6ed10fbc44a38be4494bf1d2c5d777c92d4bef14
-jot.	0	IN	DS	60425 8 2 e6238d8e60f3d9967690f2d435f35503ca777fc828b7deba61a1e4cc7e97bfcc
 v0n0.nic.jot.	0	IN	A	65.22.36.65
 v0n0.nic.jot.	0	IN	AAAA	2a01:8840:26::65
 v0n1.nic.jot.	0	IN	A	65.22.37.65
@@ -14629,12 +14632,15 @@ rsvp.	0	IN	NS	ns-tld5.charlestonroadregistry.com.
 rsvp.	0	IN	DS	7067 8 2 a34484076595033b18742005866b79f5c56fecec5a667494e3b179621b44ee4a
 ru.	0	IN	NS	a.dns.ripn.net.
 ru.	0	IN	NS	b.dns.ripn.net.
+ru.	0	IN	NS	c.tld-servers.ru.
 ru.	0	IN	NS	d.dns.ripn.net.
 ru.	0	IN	NS	e.dns.ripn.net.
 ru.	0	IN	NS	f.dns.ripn.net.
 ru.	0	IN	DS	51575 8 2 34cf735353060d9bd6347ff81ecfaac24ec8f11971dc800249c64a21bc062775
 a.dns.flexireg.ru.	0	IN	A	31.177.70.1
 a.dns.flexireg.ru.	0	IN	AAAA	2a02:2090:6800::1
+c.tld-servers.ru.	0	IN	A	194.190.122.17
+c.tld-servers.ru.	0	IN	AAAA	2a09:bd00:1:0:194:190:122:17
 rugby.	0	IN	NS	a.nic.rugby.
 rugby.	0	IN	NS	b.nic.rugby.
 rugby.	0	IN	NS	c.nic.rugby.
@@ -16424,6 +16430,7 @@ sv.	0	IN	NS	p.ns.sv.
 sv.	0	IN	NS	ix.red.sv.
 sv.	0	IN	NS	ns.dns.br.
 sv.	0	IN	NS	sir.red.sv.
+sv.	0	IN	NS	nsca.nic.cr.
 sv.	0	IN	NS	dns-ext.nic.cr.
 p.ns.sv.	0	IN	A	204.61.216.112
 p.ns.sv.	0	IN	AAAA	2001:500:14:6112:ad::1
@@ -20042,6 +20049,7 @@ ns2.nic.xn--p1acf.	0	IN	A	72.0.49.2
 ns2.nic.xn--p1acf.	0	IN	AAAA	2620:171:a01:ad::2
 xn--p1ai.	0	IN	NS	a.dns.ripn.net.
 xn--p1ai.	0	IN	NS	b.dns.ripn.net.
+xn--p1ai.	0	IN	NS	c.tld-servers.ru.
 xn--p1ai.	0	IN	NS	d.dns.ripn.net.
 xn--p1ai.	0	IN	NS	e.dns.ripn.net.
 xn--p1ai.	0	IN	NS	f.dns.ripn.net.
