@@ -16,6 +16,8 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
     - run: ./scan.sh prework
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: ./scan.sh walkable
     - id: walkable
       run: ./scan.sh get_walkable | tee -a "$GITHUB_OUTPUT"
