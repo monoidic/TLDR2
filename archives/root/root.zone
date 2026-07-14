@@ -14050,11 +14050,17 @@ ns2.dns.nic.racing.	0	IN	A	156.154.170.33
 ns2.dns.nic.racing.	0	IN	AAAA	2610:a1:1072::1:21
 ns3.dns.nic.racing.	0	IN	A	156.154.171.33
 ns3.dns.nic.racing.	0	IN	AAAA	2610:a1:1073::1:21
+radio.	0	IN	NS	a.nic.radio.
+radio.	0	IN	NS	b.nic.radio.
 radio.	0	IN	NS	anycast9.irondns.net.
 radio.	0	IN	NS	anycast10.irondns.net.
 radio.	0	IN	NS	anycast23.irondns.net.
 radio.	0	IN	NS	anycast24.irondns.net.
 radio.	0	IN	DS	62727 10 2 3863e4a0c36a262785c1703b5cff54cdbd56cd40bb414b45599848ce972e26b9
+a.nic.radio.	0	IN	A	194.169.218.21
+a.nic.radio.	0	IN	AAAA	2001:67c:13cc::1:21
+b.nic.radio.	0	IN	A	185.24.64.21
+b.nic.radio.	0	IN	AAAA	2a04:2b00:13cc::1:21
 re.	0	IN	NS	d.nic.fr.
 re.	0	IN	NS	f.ext.nic.fr.
 re.	0	IN	NS	g.ext.nic.fr.
