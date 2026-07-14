@@ -40,7 +40,7 @@ prework() {
 		scan -maybe_zone
 	done
 
-	get_running_walks >> filters.txt
+	get_running_walks | sed 's/^/^/;s/$/$/' >> filters.txt
 }
 
 axfr() {
