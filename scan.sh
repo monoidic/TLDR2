@@ -42,9 +42,9 @@ prework() {
 }
 
 filter_running() {
-	prev_len=$(wc -l filters.txt)
+	prev_len=$(wc -l filters.txt | cut -d' ' -f1)
 	get_running_walks | sed 's/^/^/;s/$/$/' >> filters.txt
-	after_len=$(wc -l filters.txt)
+	after_len=$(wc -l filters.txt | cut -d' ' -f1)
 	added_lines=$((after_len - prev_len))
 	echo "entries added: ${added_lines}"
 }
