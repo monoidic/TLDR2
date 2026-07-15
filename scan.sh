@@ -39,8 +39,14 @@ prework() {
 		scan -parent_map{_pre,}
 		scan -maybe_zone
 	done
+}
 
+filter_running() {
+	prev_len=$(wc -l filters.txt)
 	get_running_walks | sed 's/^/^/;s/$/$/' >> filters.txt
+	after_len=$(wc -l filters.txt)
+	added_lines=$((after_len - prev_len))
+	echo "entries added: ${added_lines}"
 }
 
 axfr() {

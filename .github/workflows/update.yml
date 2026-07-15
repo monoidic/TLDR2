@@ -16,6 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v6.0.2
     - run: ./scan.sh prework
+    - run: ./scan.sh filter_running
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: ./scan.sh walkable
