@@ -1887,24 +1887,12 @@ e.nic.bg.	0	IN	A	185.143.80.1
 e.nic.bg.	0	IN	AAAA	2a02:6a80:530e::1
 p.nic.bg.	0	IN	A	204.61.216.110
 p.nic.bg.	0	IN	AAAA	2001:500:14:6110:ad::1
-bh.	0	IN	NS	a.nic.bh.
-bh.	0	IN	NS	b.nic.bh.
-bh.	0	IN	NS	c.nic.bh.
-bh.	0	IN	NS	d.nic.bh.
 bh.	0	IN	NS	ns01.trs-dns.com.
 bh.	0	IN	NS	ns01.trs-dns.net.
 bh.	0	IN	NS	ns10.trs-dns.org.
 bh.	0	IN	NS	ns10.trs-dns.info.
 bh.	0	IN	DS	17411 8 2 5585896549a2954516768f776e8a9e2610cbf5cbd7165389c0a5448435c71185
 bh.	0	IN	DS	62264 8 2 c4078eb7e70029e2bbed8f7271d9f7636c133746c0e3dc22ea7f1bfda231b246
-a.nic.bh.	0	IN	A	194.169.218.115
-a.nic.bh.	0	IN	AAAA	2001:67c:13cc::1:115
-b.nic.bh.	0	IN	A	185.24.64.115
-b.nic.bh.	0	IN	AAAA	2a04:2b00:13cc::1:115
-c.nic.bh.	0	IN	A	212.18.248.115
-c.nic.bh.	0	IN	AAAA	2a04:2b00:13ee::115
-d.nic.bh.	0	IN	A	212.18.249.115
-d.nic.bh.	0	IN	AAAA	2a04:2b00:13ff::115
 bharti.	0	IN	NS	a.nic.bharti.
 bharti.	0	IN	NS	b.nic.bharti.
 bharti.	0	IN	NS	c.nic.bharti.
@@ -5407,6 +5395,7 @@ edu.	0	IN	NS	m.edu-servers.net.
 edu.	0	IN	DS	35663 13 2 a2e1614291831a4746b5ac52b4b345357687271e85353082741f1cf3d06a4c1d
 pendragon.cs.purdue.edu.	0	IN	A	128.10.2.5
 gold.uog.edu.	0	IN	A	168.123.250.66
+gold-test.uog.edu.	0	IN	A	168.123.250.70
 green.uog.edu.	0	IN	A	168.123.250.56
 phloem.uoregon.edu.	0	IN	A	128.223.32.35
 phloem.uoregon.edu.	0	IN	AAAA	2001:468:d01:20::80df:2023
@@ -7578,6 +7567,7 @@ gu.	0	IN	NS	gu.cctld.authdns.ripe.net.
 gu.	0	IN	NS	gold.uog.edu.
 gu.	0	IN	NS	green.uog.edu.
 gu.	0	IN	NS	phloem.uoregon.edu.
+gu.	0	IN	NS	gold-test.uog.edu.
 gucci.	0	IN	NS	dns1.nic.gucci.
 gucci.	0	IN	NS	dns2.nic.gucci.
 gucci.	0	IN	NS	dns3.nic.gucci.
@@ -14671,7 +14661,6 @@ ruhr.	0	IN	NS	b.nic.ruhr.
 ruhr.	0	IN	NS	c.nic.ruhr.
 ruhr.	0	IN	NS	d.nic.ruhr.
 ruhr.	0	IN	DS	35633 13 2 470d5916105a40ecc204fd025aad5e43e44c82747c6c3c5130462f9b7396e9a5
-ruhr.	0	IN	DS	46252 10 2 3db9db25d3b8e13fbcb4eba53f61c7ce156831dce66d4a19747d17f8ab278fdb
 a.nic.ruhr.	0	IN	A	194.169.218.155
 a.nic.ruhr.	0	IN	AAAA	2001:67c:13cc::1:155
 b.nic.ruhr.	0	IN	A	185.24.64.155
@@ -19867,24 +19856,12 @@ xn--mgbca7dzdo.	0	IN	NS	gtld.delta.aridns.net.au.
 xn--mgbca7dzdo.	0	IN	NS	gtld.gamma.aridns.net.au.
 xn--mgbca7dzdo.	0	IN	DS	1909 8 1 d5a6f96664ae0d000a01b196c4348e7e231d95f8
 xn--mgbca7dzdo.	0	IN	DS	1909 8 2 f62b4e977cba32cef37856a9f919ce405eb998f04d4abb309f1f9b86c105ca72
-xn--mgbcpq6gpa1a.	0	IN	NS	a.nic.xn--mgbcpq6gpa1a.
-xn--mgbcpq6gpa1a.	0	IN	NS	b.nic.xn--mgbcpq6gpa1a.
-xn--mgbcpq6gpa1a.	0	IN	NS	c.nic.xn--mgbcpq6gpa1a.
-xn--mgbcpq6gpa1a.	0	IN	NS	d.nic.xn--mgbcpq6gpa1a.
 xn--mgbcpq6gpa1a.	0	IN	NS	ns01.trs-dns.com.
 xn--mgbcpq6gpa1a.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbcpq6gpa1a.	0	IN	NS	ns10.trs-dns.org.
 xn--mgbcpq6gpa1a.	0	IN	NS	ns10.trs-dns.info.
 xn--mgbcpq6gpa1a.	0	IN	DS	18404 8 2 1dbc70cb85267da1054f652ac0b4aeeb76f17fb9648a490f4a0bb0d934bf6ac3
 xn--mgbcpq6gpa1a.	0	IN	DS	43307 8 2 f81dacc26855561ec37ffd774f722c2c5f07a181c611114ae28724460001fd39
-a.nic.xn--mgbcpq6gpa1a.	0	IN	A	194.169.218.115
-a.nic.xn--mgbcpq6gpa1a.	0	IN	AAAA	2001:67c:13cc::1:115
-b.nic.xn--mgbcpq6gpa1a.	0	IN	A	185.24.64.115
-b.nic.xn--mgbcpq6gpa1a.	0	IN	AAAA	2a04:2b00:13cc::1:115
-c.nic.xn--mgbcpq6gpa1a.	0	IN	A	212.18.248.115
-c.nic.xn--mgbcpq6gpa1a.	0	IN	AAAA	2a04:2b00:13ee::115
-d.nic.xn--mgbcpq6gpa1a.	0	IN	A	212.18.249.115
-d.nic.xn--mgbcpq6gpa1a.	0	IN	AAAA	2a04:2b00:13ff::115
 xn--mgberp4a5d4ar.	0	IN	NS	c1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	c2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	i1.dns.sa.
