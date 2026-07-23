@@ -18513,6 +18513,11 @@ ns5.dns.nic.weatherchannel.	0	IN	A	156.154.157.179
 ns5.dns.nic.weatherchannel.	0	IN	AAAA	2610:a1:1075::b3
 ns6.dns.nic.weatherchannel.	0	IN	A	156.154.158.179
 ns6.dns.nic.weatherchannel.	0	IN	AAAA	2610:a1:1076::b3
+web.	0	IN	NS	ac1.nstld.com.
+web.	0	IN	NS	ac2.nstld.com.
+web.	0	IN	NS	ac3.nstld.com.
+web.	0	IN	NS	ac4.nstld.com.
+web.	0	IN	DS	17965 13 2 ffbc80b0436c15fcaa63c8f60a89349351d09f3a79cab6352681e567d178e827
 webcam.	0	IN	NS	a.nic.webcam.
 webcam.	0	IN	NS	b.nic.webcam.
 webcam.	0	IN	NS	c.nic.webcam.
