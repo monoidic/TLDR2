@@ -1257,10 +1257,8 @@
 206.100.185.in-addr.arpa.	0	IN	NS	ns2.trollfjord.no.
 207.100.185.in-addr.arpa.	0	IN	NS	ns.trollfjord.no.
 207.100.185.in-addr.arpa.	0	IN	NS	ns2.trollfjord.no.
-212.100.185.in-addr.arpa.	0	IN	NS	ns1-05.azure-dns.com.
-212.100.185.in-addr.arpa.	0	IN	NS	ns2-05.azure-dns.net.
-212.100.185.in-addr.arpa.	0	IN	NS	ns3-05.azure-dns.org.
-212.100.185.in-addr.arpa.	0	IN	NS	ns4-05.azure-dns.info.
+212.100.185.in-addr.arpa.	0	IN	NS	ns1.redswitches.com.
+212.100.185.in-addr.arpa.	0	IN	NS	ns2.redswitches.com.
 215.100.185.in-addr.arpa.	0	IN	NS	ns1-01.azure-dns.com.
 215.100.185.in-addr.arpa.	0	IN	NS	ns2-01.azure-dns.net.
 215.100.185.in-addr.arpa.	0	IN	NS	ns3-01.azure-dns.org.
@@ -64302,15 +64300,24 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 27.23.185.in-addr.arpa.	0	IN	NS	ns1.jkit.nl.
 27.23.185.in-addr.arpa.	0	IN	NS	ns2.jkit.nl.
 27.23.185.in-addr.arpa.	0	IN	NS	ns3.jkit.nl.
-28.23.185.in-addr.arpa.	0	IN	NS	ns1.nohup.it.
-28.23.185.in-addr.arpa.	0	IN	NS	ns2.nohup.it.
-29.23.185.in-addr.arpa.	0	IN	NS	ns1.nohup.it.
-29.23.185.in-addr.arpa.	0	IN	NS	ns2.nohup.it.
+28.23.185.in-addr.arpa.	0	IN	NS	pns71.cloudns.net.
+28.23.185.in-addr.arpa.	0	IN	NS	pns72.cloudns.com.
+28.23.185.in-addr.arpa.	0	IN	NS	pns73.cloudns.net.
+28.23.185.in-addr.arpa.	0	IN	NS	pns74.cloudns.uk.
+28.23.185.in-addr.arpa.	0	IN	DS	28187 13 2 d5eade1b8b56e9f8622c38eee12e653333f56769bae1931b8abbdd47a6c6db83
+29.23.185.in-addr.arpa.	0	IN	NS	pns71.cloudns.net.
+29.23.185.in-addr.arpa.	0	IN	NS	pns72.cloudns.com.
+29.23.185.in-addr.arpa.	0	IN	NS	pns73.cloudns.net.
+29.23.185.in-addr.arpa.	0	IN	NS	pns74.cloudns.uk.
+29.23.185.in-addr.arpa.	0	IN	DS	7588 13 2 a30795c4da7ad6abd40e455b0b2110059511a36d30baf9663cf5dcc132af0b40
 3.23.185.in-addr.arpa.	0	IN	NS	ns1.anw.at.
 3.23.185.in-addr.arpa.	0	IN	NS	ns2.anw.at.
 3.23.185.in-addr.arpa.	0	IN	NS	ns3.anw.at.
-30.23.185.in-addr.arpa.	0	IN	NS	ns1.nohup.it.
-30.23.185.in-addr.arpa.	0	IN	NS	ns2.nohup.it.
+30.23.185.in-addr.arpa.	0	IN	NS	pns71.cloudns.net.
+30.23.185.in-addr.arpa.	0	IN	NS	pns72.cloudns.com.
+30.23.185.in-addr.arpa.	0	IN	NS	pns73.cloudns.net.
+30.23.185.in-addr.arpa.	0	IN	NS	pns74.cloudns.uk.
+30.23.185.in-addr.arpa.	0	IN	DS	16275 13 2 a5f6d60410d38df89912544c4318f4b2efaecacd7c820f3504f608486ba1e981
 31.23.185.in-addr.arpa.	0	IN	NS	pns71.cloudns.net.
 31.23.185.in-addr.arpa.	0	IN	NS	pns72.cloudns.com.
 31.23.185.in-addr.arpa.	0	IN	NS	pns73.cloudns.net.
@@ -99993,6 +100000,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 183.68.185.in-addr.arpa.	0	IN	NS	edns116.ultradns.org.
 184.68.185.in-addr.arpa.	0	IN	NS	dns1.hip-hosting.ovh.
 184.68.185.in-addr.arpa.	0	IN	NS	dns2.hip-hosting.ovh.
+185.68.185.in-addr.arpa.	0	IN	NS	dns1.hip-hosting.ovh.
+185.68.185.in-addr.arpa.	0	IN	NS	dns2.hip-hosting.ovh.
 188.68.185.in-addr.arpa.	0	IN	NS	auth01.ns.td-fn.net.
 188.68.185.in-addr.arpa.	0	IN	NS	auth02.ns.td-fn.net.
 189.68.185.in-addr.arpa.	0	IN	NS	ns1.balearics.net.
@@ -102894,24 +102903,15 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 247.73.185.in-addr.arpa.	0	IN	NS	dns1.bbbell.it.
 247.73.185.in-addr.arpa.	0	IN	NS	dns2.bbbell.it.
 248.73.185.in-addr.arpa.	0	IN	NS	ns01.netalia.it.
-248.73.185.in-addr.arpa.	0	IN	NS	ns02.netalia.it.
 248.73.185.in-addr.arpa.	0	IN	NS	ns03.netalia.it.
-248.73.185.in-addr.arpa.	0	IN	NS	dns-pub-01.netalia.it.
-248.73.185.in-addr.arpa.	0	IN	NS	dns-pub-02.netalia.it.
 249.73.185.in-addr.arpa.	0	IN	NS	ns01.netalia.it.
-249.73.185.in-addr.arpa.	0	IN	NS	ns02.netalia.it.
 249.73.185.in-addr.arpa.	0	IN	NS	ns03.netalia.it.
-249.73.185.in-addr.arpa.	0	IN	NS	dns-pub-01.netalia.it.
-249.73.185.in-addr.arpa.	0	IN	NS	dns-pub-02.netalia.it.
 25.73.185.in-addr.arpa.	0	IN	NS	ns1.upheads.no.
 25.73.185.in-addr.arpa.	0	IN	NS	ns2.upheads.com.
 25.73.185.in-addr.arpa.	0	IN	NS	ns3.upheads.org.
 25.73.185.in-addr.arpa.	0	IN	DS	20192 8 4 34ad654ada5c61fa598171f91a12691297b99fadfa29687fd07dc5a35badd7fe8565a20b8d2cbd2d3aaf60ea641ce6fe
 250.73.185.in-addr.arpa.	0	IN	NS	ns01.netalia.it.
-250.73.185.in-addr.arpa.	0	IN	NS	ns02.netalia.it.
 250.73.185.in-addr.arpa.	0	IN	NS	ns03.netalia.it.
-250.73.185.in-addr.arpa.	0	IN	NS	dns-pub-01.netalia.it.
-250.73.185.in-addr.arpa.	0	IN	NS	dns-pub-02.netalia.it.
 251.73.185.in-addr.arpa.	0	IN	NS	ns1-02.azure-dns.com.
 251.73.185.in-addr.arpa.	0	IN	NS	ns2-02.azure-dns.net.
 251.73.185.in-addr.arpa.	0	IN	NS	ns3-02.azure-dns.org.
@@ -105676,6 +105676,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 131.79.185.in-addr.arpa.	0	IN	NS	ns05.ns-cloud4b.org.
 138.79.185.in-addr.arpa.	0	IN	NS	ns1.onefuturenetwork.com.
 138.79.185.in-addr.arpa.	0	IN	NS	ns2.onefuturenetwork.com.
+139.79.185.in-addr.arpa.	0	IN	NS	dns1.hip-hosting.ovh.
+139.79.185.in-addr.arpa.	0	IN	NS	dns2.hip-hosting.ovh.
 140.79.185.in-addr.arpa.	0	IN	NS	dns01.salesforce.com.
 140.79.185.in-addr.arpa.	0	IN	NS	dns02.salesforce.com.
 140.79.185.in-addr.arpa.	0	IN	NS	dns03.salesforce.com.
@@ -109095,10 +109097,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 237.85.185.in-addr.arpa.	0	IN	NS	dns6.idealhosting.org.
 237.85.185.in-addr.arpa.	0	IN	NS	dns7.idealhosting.org.
 237.85.185.in-addr.arpa.	0	IN	NS	dns8.idealhosting.org.
-238.85.185.in-addr.arpa.	0	IN	NS	dns5.idealhosting.org.
-238.85.185.in-addr.arpa.	0	IN	NS	dns6.idealhosting.org.
-238.85.185.in-addr.arpa.	0	IN	NS	dns7.idealhosting.org.
-238.85.185.in-addr.arpa.	0	IN	NS	dns8.idealhosting.org.
 239.85.185.in-addr.arpa.	0	IN	NS	dns5.idealhosting.org.
 239.85.185.in-addr.arpa.	0	IN	NS	dns6.idealhosting.org.
 239.85.185.in-addr.arpa.	0	IN	NS	dns7.idealhosting.org.
@@ -110043,8 +110041,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 249.87.185.in-addr.arpa.	0	IN	NS	ns00.skyberate.eu.
 249.87.185.in-addr.arpa.	0	IN	NS	ns00.skyberate.nl.
 249.87.185.in-addr.arpa.	0	IN	NS	ns01.skyberate.nl.
-25.87.185.in-addr.arpa.	0	IN	NS	ns1.andservers.com.
-25.87.185.in-addr.arpa.	0	IN	NS	ns2.andservers.com.
 250.87.185.in-addr.arpa.	0	IN	NS	ns00.skyberate.eu.
 250.87.185.in-addr.arpa.	0	IN	NS	ns00.skyberate.nl.
 250.87.185.in-addr.arpa.	0	IN	NS	ns01.skyberate.nl.
