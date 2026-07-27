@@ -99338,8 +99338,6 @@ c.f.f.f.f.f.f.f.0.4.7.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.telehouse.bg.
 0.a.c.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns.telenet.lv.
 0.a.c.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.telenet.lv.
 0.0.0.0.0.0.0.0.0.0.d.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns.satelit.cz.
-0.0.4.5.0.0.d.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns.idkfa.cz.
-0.0.4.5.0.0.d.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.idkfa.cz.
 1.0.d.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.rediisosnnetworks.com.
 1.0.d.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.rediisosnnetworks.com.
 0.0.0.0.0.0.0.0.2.0.0.0.9.0.1.0.0.c.d.8.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.transdata.no.
@@ -120623,35 +120621,43 @@ f.f.0.4.e.a.3.0.a.2.ip6.arpa.	0	IN	NS	ns5.he.net.
 0.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 0.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 0.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+0.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	2935 14 2 ba667c5925601d5a320651ba12b1aef1961407b0bc62eab38e16e8d0c7ff3c80
 0.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	49969 14 2 99b66a3dcb41808dff2aa88578412b1685fdf6ffe4b0e8f82822d02546d0d936
 1.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 1.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 1.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 1.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	46408 14 2 7e6f9ddf8b852b920cb13004acc7dd37f0ea8ffbcacf15530512ae1a02fdde48
+1.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	47383 14 2 fbf611ea7625d7809bf487caf214e4cbb7ef7cdd064049c892a985d1a1e932bd
 2.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 2.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 2.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 2.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	12476 14 2 f4086ac3295d21927c44a745ac131d43d736bf1e02c828d30e8173ae76e0d737
+2.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	61823 14 2 beabe702e626a69387dc28892e6933ae47adb8de0cda8f711eba0c8ceb57fab7
 3.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 3.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 3.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+3.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	40396 14 2 f24f11e1f0befe290da52a120c54ff40a40d59f019ee171f0d4a2ff94c172573
 3.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	57481 14 2 0f6be355acfa67f1aebbba34c33c8c0e5558704f4b695af6add9548622b64645
 4.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 4.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 4.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+4.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	28808 14 2 7cbc8a200784a2f25f5b0fcd58495ae486f76aab4de6c6ed974fef89ad5966e4
 4.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	45756 14 2 928167c803c9182f59e1a91348d8c7b8c7576af011644ce57cd9143d3acafbcb
 5.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 5.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 5.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 5.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	36754 14 2 1988e419637efdb9df30f088011e57dfed2a9142a6c11d360b10df474e1ecc5b
+5.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	59317 14 2 9438cc04f9f50a94c4da8d24b3ccc4c11920363a50d0e054563c27192a32f67b
 6.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 6.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 6.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+6.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	18982 14 2 e6b32f16170d9ca0dfc32dee40690978672b8ab7dba02c4e15f71167c1b06939
 6.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	59403 14 2 3e48b35eb3e618de169cc13e8eda03e561b25b3b1391bb2b65afb00951396677
 7.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 7.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 7.2.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 7.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	18720 14 2 08c70ec20b0764fc5d9d4ea60320d161c5c226d26c40b354481565ee26f78153
+7.2.0.b.3.0.a.2.ip6.arpa.	0	IN	DS	44144 14 2 48702a8a335b47bc8d4486e69f09b2438ce6fa46af2894e85bef53391b1200ca
 0.c.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns1.digitalocean.com.
 0.c.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.digitalocean.com.
 0.c.0.b.3.0.a.2.ip6.arpa.	0	IN	NS	ns3.digitalocean.com.
@@ -139842,33 +139848,41 @@ a.3.0.0.a.3.9.0.a.2.ip6.arpa.	0	IN	NS	dns54.cloudns.net.
 0.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 0.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 0.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	46277 14 2 de7b69b577e8d521c12bbe608a0272db1b98d2f8d34f8ab096ea254757ab57bc
+0.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	49524 14 2 588b682a685029e025a81224c09e8921b1690294efbad40a2b889bcaec680039
 1.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 1.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 1.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 1.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	32669 14 2 2ebf152d6bbadb2349cff08adef1577a8ff2f7adc335aff45a951f9908da4b53
+1.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	65450 14 2 f89acbe89771aee32d88f70ebc2f4bfb8763301daadd2cd11fe83dbe91abec61
 2.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 2.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 2.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 2.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	12302 14 2 5fd5c028375cef6023b4effb01b3f7bc29b29f7576b3c3532ebf75e6f39a4f37
+2.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	58209 14 2 5acf6e9e175ed58e2f214750453e5d20beab4909d1935e59cf957c63d647c57e
 3.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 3.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 3.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
 3.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	37078 14 2 463ff47fd2799b869255a7566eff0e4df9115916858bf62ec4eb0feec849e44a
+3.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	52784 14 2 b8db60a93458550c25a469226a2706af83852bd12767390953724b62d3fbfd79
 4.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 4.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 4.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+4.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	38863 14 2 7d894bc2c629ca1d2a2f8178d63e16f4f3af299f770f427730d1cb6feed00bcc
 4.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	49742 14 2 056fdff47e6afcf571ddbd692d4c04e7c4576804221c17a27d1926ffdf30adfa
 5.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 5.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 5.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+5.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	22590 14 2 899e7d145f0bbb76be2553860a780348c966d44b6f7674fc8bf42bcf1d7dcf5f
 5.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	36655 14 2 e9a99d7dd4e032d31f49fb77324d6bb83d4c2da2e58897997f0dc3ec96415a52
 6.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 6.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 6.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+6.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	5696 14 2 57533b8b39db86cf652189ce24ec3f9652f4ec8747a4f42b2a254505a02129f2
 6.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	32434 14 2 ff7a527f2e953d88ce752de43f190c4813e01fd20e9a3ac3b045207eb818964d
 7.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.it.
 7.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.nl.
 7.4.e.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns.fibertelecom.com.
+7.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	2061 14 2 ac472a00a0c7a500c8a2053e201b76f859f1deae0b6751f40a2064fb953bc88e
 7.4.e.3.9.0.a.2.ip6.arpa.	0	IN	DS	12928 14 2 c7174a83a20f02cb4bc3945d119b0968ef283dc21278493a729e902f57e567bb
 0.0.0.1.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.nerodns.de.
 0.0.0.1.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.nerodns.de.
