@@ -14040,15 +14040,18 @@ ns3.dns.nic.racing.	0	IN	A	156.154.171.33
 ns3.dns.nic.racing.	0	IN	AAAA	2610:a1:1073::1:21
 radio.	0	IN	NS	a.nic.radio.
 radio.	0	IN	NS	b.nic.radio.
-radio.	0	IN	NS	anycast9.irondns.net.
-radio.	0	IN	NS	anycast10.irondns.net.
-radio.	0	IN	NS	anycast23.irondns.net.
-radio.	0	IN	NS	anycast24.irondns.net.
+radio.	0	IN	NS	c.nic.radio.
+radio.	0	IN	NS	d.nic.radio.
+radio.	0	IN	DS	8022 10 2 0803cb1e944b9a6416d0e2f7a071d03a87754b0804f8833f63d250dd080a5590
 radio.	0	IN	DS	62727 10 2 3863e4a0c36a262785c1703b5cff54cdbd56cd40bb414b45599848ce972e26b9
 a.nic.radio.	0	IN	A	194.169.218.21
 a.nic.radio.	0	IN	AAAA	2001:67c:13cc::1:21
 b.nic.radio.	0	IN	A	185.24.64.21
 b.nic.radio.	0	IN	AAAA	2a04:2b00:13cc::1:21
+c.nic.radio.	0	IN	A	212.18.248.21
+c.nic.radio.	0	IN	AAAA	2a04:2b00:13ee::21
+d.nic.radio.	0	IN	A	212.18.249.21
+d.nic.radio.	0	IN	AAAA	2a04:2b00:13ff::21
 re.	0	IN	NS	d.nic.fr.
 re.	0	IN	NS	f.ext.nic.fr.
 re.	0	IN	NS	g.ext.nic.fr.
@@ -16295,6 +16298,7 @@ v2n1.nic.style.	0	IN	A	161.232.17.46
 v2n1.nic.style.	0	IN	AAAA	2a01:8840:fb::46
 su.	0	IN	NS	a.dns.ripn.net.
 su.	0	IN	NS	b.dns.ripn.net.
+su.	0	IN	NS	c.tld-servers.ru.
 su.	0	IN	NS	d.dns.ripn.net.
 su.	0	IN	NS	e.dns.ripn.net.
 su.	0	IN	NS	f.dns.ripn.net.
@@ -16636,6 +16640,7 @@ c0.nic.tatamotors.	0	IN	A	65.22.114.69
 c0.nic.tatamotors.	0	IN	AAAA	2a01:8840:70::69
 tatar.	0	IN	NS	a.dns.ripn.net.
 tatar.	0	IN	NS	b.dns.ripn.net.
+tatar.	0	IN	NS	c.tld-servers.ru.
 tatar.	0	IN	NS	d.dns.ripn.net.
 tatar.	0	IN	NS	e.dns.ripn.net.
 tatar.	0	IN	NS	f.dns.ripn.net.
@@ -19397,6 +19402,7 @@ xn--czru2d.	0	IN	NS	j.zdnscloud.com.
 xn--czru2d.	0	IN	DS	62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 xn--d1acj3b.	0	IN	NS	a.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	b.dns.ripn.net.
+xn--d1acj3b.	0	IN	NS	c.tld-servers.ru.
 xn--d1acj3b.	0	IN	NS	d.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	e.dns.ripn.net.
 xn--d1acj3b.	0	IN	NS	f.dns.ripn.net.
