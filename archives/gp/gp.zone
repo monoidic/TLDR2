@@ -4450,10 +4450,12 @@ r.gp.	0	IN	NS	ns2.website.org.
 r5volution.gp.	0	IN	NS	blue.foundationdns.com.
 r5volution.gp.	0	IN	NS	blue.foundationdns.net.
 r5volution.gp.	0	IN	NS	blue.foundationdns.org.
-race.gp.	0	IN	NS	ns1.cloudns.net.
-race.gp.	0	IN	NS	ns2.cloudns.net.
+race.gp.	0	IN	NS	ns1.race.gp.
+race.gp.	0	IN	NS	ns2.race.gp.
 ns1.race.gp.	0	IN	A	147.135.210.71
 ns2.race.gp.	0	IN	A	147.135.210.71
+race2.gp.	0	IN	NS	ns1.cloudns.net.
+race2.gp.	0	IN	NS	ns2.cloudns.net.
 raceweekend.gp.	0	IN	NS	hal.ns.cloudflare.com.
 raceweekend.gp.	0	IN	NS	brit.ns.cloudflare.com.
 racing.gp.	0	IN	NS	ns1.virtuaal.com.
@@ -4478,7 +4480,6 @@ randoguadeloupe.gp.	0	IN	NS	ns3.francedns.com.
 randonnees-guadeloupe.gp.	0	IN	NS	ns1.yulpa.io.
 randonnees-guadeloupe.gp.	0	IN	NS	ns2.yulpa.io.
 randonnees-guadeloupe.gp.	0	IN	NS	ns3.yulpa.io.
-rapidoto.gp.	0	IN	NS	ns-108-a.gandi.net.
 rdap.gp.	0	IN	NS	dns1.cloudns.net.
 rdap.gp.	0	IN	NS	dns2.cloudns.net.
 rdap.gp.	0	IN	NS	dns5.cloudns.net.
