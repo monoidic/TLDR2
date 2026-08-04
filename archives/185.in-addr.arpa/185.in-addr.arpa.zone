@@ -30042,10 +30042,8 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 226.158.185.in-addr.arpa.	0	IN	NS	ns2.slave-ns.de.
 227.158.185.in-addr.arpa.	0	IN	NS	ns.webmatic.de.
 227.158.185.in-addr.arpa.	0	IN	NS	ns2.slave-ns.de.
-228.158.185.in-addr.arpa.	0	IN	NS	adns1.drei.com.
-228.158.185.in-addr.arpa.	0	IN	NS	adns2.drei.at.
-228.158.185.in-addr.arpa.	0	IN	NS	adns3.drei.com.
-228.158.185.in-addr.arpa.	0	IN	NS	adns4.drei.at.
+228.158.185.in-addr.arpa.	0	IN	NS	acns1.drei.com.
+228.158.185.in-addr.arpa.	0	IN	NS	acns2.drei.at.
 229.158.185.in-addr.arpa.	0	IN	NS	adns1.drei.com.
 229.158.185.in-addr.arpa.	0	IN	NS	adns2.drei.at.
 230.158.185.in-addr.arpa.	0	IN	NS	adns1.drei.com.
@@ -31552,6 +31550,10 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 12.161.185.in-addr.arpa.	0	IN	NS	ns2.etila.com.
 120.161.185.in-addr.arpa.	0	IN	NS	ns01.jmpts.ch.
 120.161.185.in-addr.arpa.	0	IN	NS	ns02.jmpts.ch.
+121.161.185.in-addr.arpa.	0	IN	NS	0.aasaam-ns.net.
+121.161.185.in-addr.arpa.	0	IN	NS	1.aasaam-ns.net.
+121.161.185.in-addr.arpa.	0	IN	NS	2.aasaam-ns.ir.
+121.161.185.in-addr.arpa.	0	IN	NS	3.aasaam-ns.net.
 123.161.185.in-addr.arpa.	0	IN	NS	ns1-05.azure-dns.com.
 123.161.185.in-addr.arpa.	0	IN	NS	ns2-05.azure-dns.net.
 123.161.185.in-addr.arpa.	0	IN	NS	ns3-05.azure-dns.org.
@@ -37668,8 +37670,8 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 199.174.185.in-addr.arpa.	0	IN	NS	ns3.effortel.com.
 2.174.185.in-addr.arpa.	0	IN	NS	ns1.link.cs.it.
 2.174.185.in-addr.arpa.	0	IN	NS	ns2.link.cs.it.
-20.174.185.in-addr.arpa.	0	IN	NS	rdns1.onlinehosting.com.tr.
-20.174.185.in-addr.arpa.	0	IN	NS	rdns2.onlinehosting.com.tr.
+20.174.185.in-addr.arpa.	0	IN	NS	rdns1.rdns.net.tr.
+20.174.185.in-addr.arpa.	0	IN	NS	rdns2.rdns.net.tr.
 200.174.185.in-addr.arpa.	0	IN	NS	ns1.telssackhlitz.com.
 200.174.185.in-addr.arpa.	0	IN	NS	ns2.telssackhlitz.com.
 201.174.185.in-addr.arpa.	0	IN	NS	ns1.loopmokkreis.com.
@@ -47313,12 +47315,9 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 143.194.185.in-addr.arpa.	0	IN	NS	root-dns.netcup.net.
 143.194.185.in-addr.arpa.	0	IN	NS	third-dns.netcup.net.
 143.194.185.in-addr.arpa.	0	IN	NS	second-dns.netcup.net.
-144.194.185.in-addr.arpa.	0	IN	NS	a5-64.akam.net.
-144.194.185.in-addr.arpa.	0	IN	NS	a6-66.akam.net.
-144.194.185.in-addr.arpa.	0	IN	NS	a8-65.akam.net.
-144.194.185.in-addr.arpa.	0	IN	NS	a9-65.akam.net.
-144.194.185.in-addr.arpa.	0	IN	NS	a1-244.akam.net.
-144.194.185.in-addr.arpa.	0	IN	NS	a26-67.akam.net.
+144.194.185.in-addr.arpa.	0	IN	NS	ns.nextlayer.at.
+144.194.185.in-addr.arpa.	0	IN	NS	ns2.nextlayer.at.
+144.194.185.in-addr.arpa.	0	IN	NS	ns3.nextlayer.com.
 145.194.185.in-addr.arpa.	0	IN	NS	a5-64.akam.net.
 145.194.185.in-addr.arpa.	0	IN	NS	a6-66.akam.net.
 145.194.185.in-addr.arpa.	0	IN	NS	a8-65.akam.net.
@@ -47901,6 +47900,7 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 245.195.185.in-addr.arpa.	0	IN	NS	a1-230.akam.net.
 245.195.185.in-addr.arpa.	0	IN	NS	a12-67.akam.net.
 245.195.185.in-addr.arpa.	0	IN	NS	a20-66.akam.net.
+245.195.185.in-addr.arpa.	0	IN	DS	11411 13 2 4f2396ecd9c92dc61149a29d0371570f1f2cc25b33c4e943c6310172fcc7520b
 245.195.185.in-addr.arpa.	0	IN	DS	17475 13 2 d1ec90d9fd74111080317e45dd459a1e62a24d3113d5f5832225a52fc87c3931
 245.195.185.in-addr.arpa.	0	IN	DS	27375 13 2 de6dce8c91979f2f694dab37e8d10847334f7f431bd9d59eedb61f849de3fa34
 245.195.185.in-addr.arpa.	0	IN	DS	39505 13 2 4c41354e899e9fd9ccae166ba4d029fa1caaf05d80aa23bc5d1234cdd49ff36d
@@ -51575,6 +51575,8 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 22.201.185.in-addr.arpa.	0	IN	NS	dns.noris.ch.
 22.201.185.in-addr.arpa.	0	IN	NS	dns.noris.de.
 22.201.185.in-addr.arpa.	0	IN	NS	dns.noris.net.
+222.201.185.in-addr.arpa.	0	IN	NS	dns3.serverplus.com.tr.
+222.201.185.in-addr.arpa.	0	IN	NS	dns4.serverplus.com.tr.
 223.201.185.in-addr.arpa.	0	IN	NS	rdns1.webdade.com.
 223.201.185.in-addr.arpa.	0	IN	NS	rdns2.webdade.com.
 226.201.185.in-addr.arpa.	0	IN	NS	dns1.hostarch.com.
@@ -53476,10 +53478,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 234.206.185.in-addr.arpa.	0	IN	NS	ns3.protagio.org.
 235.206.185.in-addr.arpa.	0	IN	NS	ns2.procolix.eu.
 235.206.185.in-addr.arpa.	0	IN	NS	ns3.protagio.org.
-236.206.185.in-addr.arpa.	0	IN	NS	ns5.nakhldns.ir.
-236.206.185.in-addr.arpa.	0	IN	NS	ns10.nakhldns.ir.
-239.206.185.in-addr.arpa.	0	IN	NS	ns1.dnsnakhl.ir.
-239.206.185.in-addr.arpa.	0	IN	NS	ns2.dnsnakhl.ir.
 24.206.185.in-addr.arpa.	0	IN	NS	nslu1.mega.co.nz.
 24.206.185.in-addr.arpa.	0	IN	NS	nslu2.mega.co.nz.
 24.206.185.in-addr.arpa.	0	IN	NS	nsnl1.mega.co.nz.
@@ -56728,8 +56726,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 165.213.185.in-addr.arpa.	0	IN	NS	rdns2.irandns.com.
 166.213.185.in-addr.arpa.	0	IN	NS	rdns1.irandns.com.
 166.213.185.in-addr.arpa.	0	IN	NS	rdns2.irandns.com.
-167.213.185.in-addr.arpa.	0	IN	NS	ns1.email-chi.ir.
-167.213.185.in-addr.arpa.	0	IN	NS	ns2.email-chi.ir.
+167.213.185.in-addr.arpa.	0	IN	NS	rdns1.irandns.com.
+167.213.185.in-addr.arpa.	0	IN	NS	rdns2.irandns.com.
 170.213.185.in-addr.arpa.	0	IN	NS	corenet01.istdns.com.
 170.213.185.in-addr.arpa.	0	IN	NS	corenet02.istdns.com.
 171.213.185.in-addr.arpa.	0	IN	NS	rdns1.veganet.com.tr.
@@ -59833,6 +59831,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 225.22.185.in-addr.arpa.	0	IN	NS	nautilus.fco.gov.uk.
 226.22.185.in-addr.arpa.	0	IN	NS	columbus.fco.gov.uk.
 226.22.185.in-addr.arpa.	0	IN	NS	nautilus.fco.gov.uk.
+229.22.185.in-addr.arpa.	0	IN	NS	ns11.constellix.com.
+229.22.185.in-addr.arpa.	0	IN	NS	ns21.constellix.com.
 23.22.185.in-addr.arpa.	0	IN	NS	acns01.xaas.systems.
 23.22.185.in-addr.arpa.	0	IN	NS	acns02.xaas.systems.
 23.22.185.in-addr.arpa.	0	IN	NS	acns03.xaas.systems.
@@ -66407,6 +66407,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 150.234.185.in-addr.arpa.	0	IN	NS	ns2.gestionatusdns.com.
 151.234.185.in-addr.arpa.	0	IN	NS	pns101.cloudns.net.
 151.234.185.in-addr.arpa.	0	IN	NS	pns102.cloudns.net.
+151.234.185.in-addr.arpa.	0	IN	NS	pns103.cloudns.net.
+151.234.185.in-addr.arpa.	0	IN	NS	pns104.cloudns.net.
 152.234.185.in-addr.arpa.	0	IN	NS	dns1.sollie.nl.
 152.234.185.in-addr.arpa.	0	IN	NS	dns2.sollie.nl.
 152.234.185.in-addr.arpa.	0	IN	NS	dns3.sollie.nl.
@@ -68818,8 +68820,10 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 24.239.185.in-addr.arpa.	0	IN	NS	ns2.1-ix.net.
 25.239.185.in-addr.arpa.	0	IN	NS	ns.euroline.com.ua.
 25.239.185.in-addr.arpa.	0	IN	NS	ns2.euroline.com.ua.
-252.239.185.in-addr.arpa.	0	IN	NS	ns1.doctorsender.com.
-252.239.185.in-addr.arpa.	0	IN	NS	ns2.doctorsender.com.
+252.239.185.in-addr.arpa.	0	IN	NS	pns101.cloudns.net.
+252.239.185.in-addr.arpa.	0	IN	NS	pns102.cloudns.net.
+252.239.185.in-addr.arpa.	0	IN	NS	pns103.cloudns.net.
+252.239.185.in-addr.arpa.	0	IN	NS	pns104.cloudns.net.
 253.239.185.in-addr.arpa.	0	IN	NS	pns101.cloudns.net.
 253.239.185.in-addr.arpa.	0	IN	NS	pns102.cloudns.net.
 253.239.185.in-addr.arpa.	0	IN	NS	pns103.cloudns.net.
@@ -70399,6 +70403,11 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 183.242.185.in-addr.arpa.	0	IN	NS	wavjptma.rhosting.network.
 184.242.185.in-addr.arpa.	0	IN	NS	rdns1.garmtech.net.
 184.242.185.in-addr.arpa.	0	IN	NS	rdns2.garmtech.net.
+186.242.185.in-addr.arpa.	0	IN	NS	a.thor.ns.panascais.network.
+186.242.185.in-addr.arpa.	0	IN	NS	b.thor.ns.panascais.network.
+186.242.185.in-addr.arpa.	0	IN	NS	c.thor.ns.panascais.network.
+186.242.185.in-addr.arpa.	0	IN	NS	d.thor.ns.panascais.network.
+186.242.185.in-addr.arpa.	0	IN	DS	27379 8 2 a5668f2815fa74243ca72364d155d99bb24fe3368b55a48e8ac51141a422883a
 188.242.185.in-addr.arpa.	0	IN	NS	ns1.wifitel.sk.
 188.242.185.in-addr.arpa.	0	IN	NS	ns2.wifitel.sk.
 190.242.185.in-addr.arpa.	0	IN	NS	ns2.wifitel.sk.
@@ -76342,8 +76351,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 29.254.185.in-addr.arpa.	0	IN	NS	rdns2.merichosting.com.
 30.254.185.in-addr.arpa.	0	IN	NS	rdns1.perminet.com.
 30.254.185.in-addr.arpa.	0	IN	NS	rdns2.perminet.com.
-31.254.185.in-addr.arpa.	0	IN	NS	huxley.ns.cloudflare.com.
-31.254.185.in-addr.arpa.	0	IN	NS	virginia.ns.cloudflare.com.
+31.254.185.in-addr.arpa.	0	IN	NS	rdns1.merichosting.com.
+31.254.185.in-addr.arpa.	0	IN	NS	rdns2.merichosting.com.
 34.254.185.in-addr.arpa.	0	IN	NS	ns1bru.europa.eu.
 34.254.185.in-addr.arpa.	0	IN	NS	ns2bru.europa.eu.
 36.254.185.in-addr.arpa.	0	IN	NS	pns.neterra.net.
@@ -82466,20 +82475,20 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 47.36.185.in-addr.arpa.	0	IN	NS	ns12.tk-bodensee.net.
 48.36.185.in-addr.arpa.	0	IN	NS	dns01.vegvesen.no.
 48.36.185.in-addr.arpa.	0	IN	NS	dns02.vegvesen.no.
-48.36.185.in-addr.arpa.	0	IN	DS	41439 13 2 8c2eed04488eaedaf16258207186a50f01df7961d06f7ff787ddc2e334f38afe
+48.36.185.in-addr.arpa.	0	IN	DS	36692 13 2 683d0115a762108025c9eb0a6c2e46ed940b53222532d6cecdb03f8e657e60d0
 49.36.185.in-addr.arpa.	0	IN	NS	dns01.vegvesen.no.
 49.36.185.in-addr.arpa.	0	IN	NS	dns02.vegvesen.no.
-49.36.185.in-addr.arpa.	0	IN	DS	55719 13 2 c43dddc81ec88ed4a1413b51654e01c0b234ee3a5e7adbec00b2e097def81f70
+49.36.185.in-addr.arpa.	0	IN	DS	44805 13 2 1c6d7803032184e1db0459d75b32cb66968e422ca5af1ea3e751d60d617a2d2a
 5.36.185.in-addr.arpa.	0	IN	NS	ns1.eurid.eu.
 5.36.185.in-addr.arpa.	0	IN	NS	ns2.eurid.eu.
 5.36.185.in-addr.arpa.	0	IN	NS	ns3.eurid.eu.
 5.36.185.in-addr.arpa.	0	IN	NS	ns4.eurid.eu.
 50.36.185.in-addr.arpa.	0	IN	NS	dns01.vegvesen.no.
 50.36.185.in-addr.arpa.	0	IN	NS	dns02.vegvesen.no.
-50.36.185.in-addr.arpa.	0	IN	DS	32491 13 2 c2a003edcc5cf46d1814e0b391276aa97c1cc08a8ab91fe1a50882160a1af260
+50.36.185.in-addr.arpa.	0	IN	DS	32596 13 2 ba2839b21ebdd7c52582707673a4c15cd0b634ac4e442ae4cabe6b6ee73f1ee3
 51.36.185.in-addr.arpa.	0	IN	NS	dns01.vegvesen.no.
 51.36.185.in-addr.arpa.	0	IN	NS	dns02.vegvesen.no.
-51.36.185.in-addr.arpa.	0	IN	DS	56909 13 2 d8b45698a48d44731a4cc2a1a268612dcb67234548e3ef614b60f01a35689f19
+51.36.185.in-addr.arpa.	0	IN	DS	14175 13 2 5ec2bd50ad8838f50b749a411af125f545daa8cec2d7d82ead5f52c87537c77d
 52.36.185.in-addr.arpa.	0	IN	NS	t1.zoneedit.com.
 52.36.185.in-addr.arpa.	0	IN	NS	ns17.zoneedit.com.
 53.36.185.in-addr.arpa.	0	IN	NS	dns1.easydns.com.
@@ -90503,6 +90512,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 217.5.185.in-addr.arpa.	0	IN	NS	dns.korbank.com.
 218.5.185.in-addr.arpa.	0	IN	NS	dns.korbank.pl.
 218.5.185.in-addr.arpa.	0	IN	NS	dns.korbank.com.
+219.5.185.in-addr.arpa.	0	IN	NS	dns.korbank.pl.
+219.5.185.in-addr.arpa.	0	IN	NS	dns.korbank.com.
 22.5.185.in-addr.arpa.	0	IN	NS	ns1.zetup.se.
 22.5.185.in-addr.arpa.	0	IN	NS	ns2.zetup.se.
 22.5.185.in-addr.arpa.	0	IN	NS	ns3.zetup.se.
@@ -95390,6 +95401,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 225.59.185.in-addr.arpa.	0	IN	NS	naleczow.vtelecom.pl.
 226.59.185.in-addr.arpa.	0	IN	NS	ns3.vtelecom.pl.
 226.59.185.in-addr.arpa.	0	IN	NS	naleczow.vtelecom.pl.
+227.59.185.in-addr.arpa.	0	IN	NS	ns1.vtelecom.pl.
+227.59.185.in-addr.arpa.	0	IN	NS	ns2.vtelecom.pl.
 228.59.185.in-addr.arpa.	0	IN	NS	ns1.bluepipe.net.
 228.59.185.in-addr.arpa.	0	IN	NS	ns2.bluepipe.net.
 229.59.185.in-addr.arpa.	0	IN	NS	ns1.bluepipe.net.
@@ -101507,6 +101520,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 219.70.185.in-addr.arpa.	0	IN	NS	ns2.maxtel.cz.
 22.70.185.in-addr.arpa.	0	IN	NS	ns.de-cix.net.
 22.70.185.in-addr.arpa.	0	IN	NS	dns.de-cix.net.
+223.70.185.in-addr.arpa.	0	IN	NS	ns1.astravps.co.
+223.70.185.in-addr.arpa.	0	IN	NS	ns2.astravps.co.
 228.70.185.in-addr.arpa.	0	IN	NS	ns1.timewarp.at.
 228.70.185.in-addr.arpa.	0	IN	NS	ns2.timewarp.at.
 229.70.185.in-addr.arpa.	0	IN	NS	ns1.timewarp.at.
@@ -110406,16 +110421,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 168.88.185.in-addr.arpa.	0	IN	NS	ns-cloud-a4.googledomains.com.
 17.88.185.in-addr.arpa.	0	IN	NS	oneit-public-dns-a.oneit.pt.
 17.88.185.in-addr.arpa.	0	IN	NS	oneit-public-dns-b.oneit.pt.
-172.88.185.in-addr.arpa.	0	IN	NS	ns1.dgntek.com.
-172.88.185.in-addr.arpa.	0	IN	NS	ns2.dgntek.com.
-172.88.185.in-addr.arpa.	0	IN	NS	ns3.dgntek.com.
-172.88.185.in-addr.arpa.	0	IN	NS	ns4.dgntek.com.
-173.88.185.in-addr.arpa.	0	IN	NS	rdns1.ovadns.com.
-173.88.185.in-addr.arpa.	0	IN	NS	rdns2.ovadns.com.
-174.88.185.in-addr.arpa.	0	IN	NS	ns11.ventures.com.tr.
-174.88.185.in-addr.arpa.	0	IN	NS	ns12.ventures.com.tr.
-175.88.185.in-addr.arpa.	0	IN	NS	ns1.dgntek.com.
-175.88.185.in-addr.arpa.	0	IN	NS	ns2.dgntek.com.
 176.88.185.in-addr.arpa.	0	IN	NS	ns1.webideh.biz.
 176.88.185.in-addr.arpa.	0	IN	NS	ns2.webideh.biz.
 177.88.185.in-addr.arpa.	0	IN	NS	ns1.webideh.biz.
@@ -116147,14 +116152,14 @@ publicdns2.131.89.185.in-addr.arpa.	0	IN	A	93.95.56.141
 24.95.185.in-addr.arpa.	0	IN	NS	service.g1-dns.one.
 24.95.185.in-addr.arpa.	0	IN	DS	36626 13 2 9cd490a308d97b507da96a28c9263cdf655d8ca3dbe8e42a10169ad669f924d6
 24.95.185.in-addr.arpa.	0	IN	DS	36626 13 4 6c11d7af76bcd138ea14f024937cd50b6f1c42b7e5c704e1b104f3ee5de4001604637c7f582daac9146a01d20bd96aa8
-240.95.185.in-addr.arpa.	0	IN	NS	ns2.inet.it.
-240.95.185.in-addr.arpa.	0	IN	NS	venere.inet.it.
-241.95.185.in-addr.arpa.	0	IN	NS	ns2.inet.it.
-241.95.185.in-addr.arpa.	0	IN	NS	venere.inet.it.
-242.95.185.in-addr.arpa.	0	IN	NS	ns2.inet.it.
-242.95.185.in-addr.arpa.	0	IN	NS	venere.inet.it.
-243.95.185.in-addr.arpa.	0	IN	NS	ns2.inet.it.
-243.95.185.in-addr.arpa.	0	IN	NS	venere.inet.it.
+240.95.185.in-addr.arpa.	0	IN	NS	ns3a.idcservices.it.
+240.95.185.in-addr.arpa.	0	IN	NS	ns4a.idcservices.it.
+241.95.185.in-addr.arpa.	0	IN	NS	ns3a.idcservices.it.
+241.95.185.in-addr.arpa.	0	IN	NS	ns4a.idcservices.it.
+242.95.185.in-addr.arpa.	0	IN	NS	ns3a.idcservices.it.
+242.95.185.in-addr.arpa.	0	IN	NS	ns4a.idcservices.it.
+243.95.185.in-addr.arpa.	0	IN	NS	ns3a.idcservices.it.
+243.95.185.in-addr.arpa.	0	IN	NS	ns4a.idcservices.it.
 244.95.185.in-addr.arpa.	0	IN	NS	ns1.intistelecom.net.
 244.95.185.in-addr.arpa.	0	IN	NS	ns2.intistelecom.net.
 245.95.185.in-addr.arpa.	0	IN	NS	ns1.intistelecom.net.
@@ -117916,14 +117921,14 @@ publicdns2.131.89.185.in-addr.arpa.	0	IN	A	93.95.56.141
 174.99.185.in-addr.arpa.	0	IN	NS	ns2.miedzyrzec.net.pl.
 175.99.185.in-addr.arpa.	0	IN	NS	ns1.miedzyrzec.net.pl.
 175.99.185.in-addr.arpa.	0	IN	NS	ns2.miedzyrzec.net.pl.
-176.99.185.in-addr.arpa.	0	IN	NS	ns1.maxtel.cz.
-176.99.185.in-addr.arpa.	0	IN	NS	ns2.maxtel.cz.
-177.99.185.in-addr.arpa.	0	IN	NS	ns1.maxtel.cz.
-177.99.185.in-addr.arpa.	0	IN	NS	ns2.maxtel.cz.
-178.99.185.in-addr.arpa.	0	IN	NS	ns1.maxtel.cz.
-178.99.185.in-addr.arpa.	0	IN	NS	ns2.maxtel.cz.
-179.99.185.in-addr.arpa.	0	IN	NS	ns1.maxtel.cz.
-179.99.185.in-addr.arpa.	0	IN	NS	ns2.maxtel.cz.
+176.99.185.in-addr.arpa.	0	IN	NS	ns1.arenis.cz.
+176.99.185.in-addr.arpa.	0	IN	NS	ns2.arenis.cz.
+177.99.185.in-addr.arpa.	0	IN	NS	ns1.arenis.cz.
+177.99.185.in-addr.arpa.	0	IN	NS	ns2.arenis.cz.
+178.99.185.in-addr.arpa.	0	IN	NS	ns1.arenis.cz.
+178.99.185.in-addr.arpa.	0	IN	NS	ns2.arenis.cz.
+179.99.185.in-addr.arpa.	0	IN	NS	ns1.arenis.cz.
+179.99.185.in-addr.arpa.	0	IN	NS	ns2.arenis.cz.
 18.99.185.in-addr.arpa.	0	IN	NS	ns1-02.azure-dns.com.
 18.99.185.in-addr.arpa.	0	IN	NS	ns2-02.azure-dns.net.
 18.99.185.in-addr.arpa.	0	IN	NS	ns3-02.azure-dns.org.
