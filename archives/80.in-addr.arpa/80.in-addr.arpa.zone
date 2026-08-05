@@ -6964,6 +6964,8 @@
 45.191.80.in-addr.arpa.	0	IN	NS	ns2.isiri.org.ir.
 47.191.80.in-addr.arpa.	0	IN	NS	publicns-srv01.tci.ir.
 47.191.80.in-addr.arpa.	0	IN	NS	publicns-srv02.tci.ir.
+48.191.80.in-addr.arpa.	0	IN	NS	publicns-srv01.tci.ir.
+48.191.80.in-addr.arpa.	0	IN	NS	publicns-srv02.tci.ir.
 49.191.80.in-addr.arpa.	0	IN	NS	publicns-srv01.tci.ir.
 49.191.80.in-addr.arpa.	0	IN	NS	publicns-srv02.tci.ir.
 50.191.80.in-addr.arpa.	0	IN	NS	publicns-srv01.tci.ir.
@@ -32729,40 +32731,96 @@
 142.76.80.in-addr.arpa.	0	IN	NS	ns8-l5.nic.ru.
 143.76.80.in-addr.arpa.	0	IN	NS	ns.smr.arctel.ru.
 143.76.80.in-addr.arpa.	0	IN	NS	ns.tetra-net.ru.
-144.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-144.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-145.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-145.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-146.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-146.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-147.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-147.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-148.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-148.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-149.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-149.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
+144.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+144.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+144.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+144.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+144.76.80.in-addr.arpa.	0	IN	DS	40497 13 2 1365d62cd9b70a8c37b855720a91d4e30b549df7ad2938d8b8b9e7a8f05d738c
+144.76.80.in-addr.arpa.	0	IN	DS	40497 13 4 a4dd438e138af49624769cf2c9878453bcaa535c7b1735e19c4346c105e6137742f9383a37f3f09dc0ac5dd3a17a7c63
+145.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+145.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+145.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+145.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+145.76.80.in-addr.arpa.	0	IN	DS	56001 13 2 02dc7ed884c454b1460651ee51b1dcd717297fdd211c62aa17703c4474e2a628
+145.76.80.in-addr.arpa.	0	IN	DS	56001 13 4 b525bee7473a84c31b014fd6066cef2e22660e8c3fe41feb45287017fdb2388d8ac0bad6d5c4cd174f95b349428eee5b
+146.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+146.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+146.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+146.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+146.76.80.in-addr.arpa.	0	IN	DS	45059 13 2 ddb34b5098ecea77159f7a28718887a0c90785fd9fa573f6749bff3c32a8b70f
+146.76.80.in-addr.arpa.	0	IN	DS	45059 13 4 c79ca718579db98763dd1e47dbda5572a6599fff00209f468d67eee696f5a94d38a9d1ce7b302906fc00e9472bbcb005
+147.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+147.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+147.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+147.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+147.76.80.in-addr.arpa.	0	IN	DS	62889 13 2 60e401b561f4e8ccef28b5d142cf594cb3355c4a87d7227888ce1997434d98ec
+147.76.80.in-addr.arpa.	0	IN	DS	62889 13 4 5036a8cb54cb7185f18f96bb2b3be4ee3d2355e3c6e456033724dab1db8bcb736274aaf5d016653d756206accb21d5cf
+148.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+148.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+148.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+148.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+148.76.80.in-addr.arpa.	0	IN	DS	31921 13 2 f94aa877780227152ab540cb9a94db3eaceaa27033ca49f5141f0bd5928aa95d
+148.76.80.in-addr.arpa.	0	IN	DS	31921 13 4 6e8d0dcb06772a07ca8ba5de1eebc464f35be2c696505391e1ebb7d8274fa9119ef122b3e39e94f7990d4b8913ef5102
+149.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+149.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+149.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+149.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+149.76.80.in-addr.arpa.	0	IN	DS	42959 13 2 96197fa9b0c57339c07d2a16b538a8a2f62dbd393be609af35beac82974e420a
+149.76.80.in-addr.arpa.	0	IN	DS	42959 13 4 b95c48f886535f20bc9c3011b6a189e379caba7ac913904f3011ea9d089e7d10435aa68068620bd296ed73dc5bbf201d
 15.76.80.in-addr.arpa.	0	IN	NS	gpldnmadpe02.net.telefonicaglobalsolutions.com.
 15.76.80.in-addr.arpa.	0	IN	NS	gpldnmiabr02.net.telefonicaglobalsolutions.com.
-150.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-150.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-151.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-151.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-152.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-152.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-153.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-153.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-154.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-154.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-155.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-155.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-156.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-156.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
+150.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+150.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+150.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+150.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+150.76.80.in-addr.arpa.	0	IN	DS	21624 13 2 faf0e2f19011d3be1fb9cc3334af561e8ea20d3e134c9ec6e9ed8db0694ccbbf
+150.76.80.in-addr.arpa.	0	IN	DS	21624 13 4 717f22188de5a88398f668a57a677a9fe84c3592bdd143c2d1ceebc21177892f2af2e21c232837f41b9e40fd21605770
+151.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+151.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+151.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+151.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+151.76.80.in-addr.arpa.	0	IN	DS	29856 13 2 00672218beb78e58cd3259b6614b5d82cfb635e783c2a0d1c0a13a522f9f0443
+151.76.80.in-addr.arpa.	0	IN	DS	29856 13 4 95c3561c13c8d2b8f34faa378b5d1a617819862af23c24f27cf8c03299e9408a68a3a09a3ea4cdd4578dc63da35ddcae
+152.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+152.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+152.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+152.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+152.76.80.in-addr.arpa.	0	IN	DS	51808 13 2 e4e8b2389b79c9a3117d251057a404de9c0cf2dde7f22b453651de45badf7d0e
+152.76.80.in-addr.arpa.	0	IN	DS	51808 13 4 4e15d68c7afc1e555e2816a0fb7d142752fe5307ae15530b44f9ac9b6501697515c83c9b311ffb31c5744cf98545bb2d
+153.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+153.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+153.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+153.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+153.76.80.in-addr.arpa.	0	IN	DS	36947 13 2 1bc657567e8a51ce9ee2ec46621760829b0d597fc5acad5c7aaaf953d5f65c7a
+153.76.80.in-addr.arpa.	0	IN	DS	36947 13 4 9a91f2271e9553a4a692b574641802fc14222da00164f66b376183975e961a09ffd3766f53462cc93d381a4550ea0fbe
+154.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+154.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+154.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+154.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+154.76.80.in-addr.arpa.	0	IN	DS	7896 13 2 1821cd96f09c27e91ea375487c3b0968f552b129edf4d11e74903559adcd4a36
+154.76.80.in-addr.arpa.	0	IN	DS	7896 13 4 5858559974dc24b7cc9db012bd50e8c714d5a5d0b0d65aa78ec370ddd265a5ed44597415ff47b7c9512c314aeb897390
+155.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+155.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+155.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+155.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+155.76.80.in-addr.arpa.	0	IN	DS	23996 13 2 726982b33b83f62a2bf4dda446c9ddc6a6580d377ddf3aeaf7dfe9778dd9d92c
+155.76.80.in-addr.arpa.	0	IN	DS	23996 13 4 69a3e851d3522672b7ca25cc2d398fa44bc0d85f2048cb65d438c6ddbfc83d5c677b23b621e5e30b1234d39915710b16
+156.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+156.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+156.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+156.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+156.76.80.in-addr.arpa.	0	IN	DS	34879 13 2 438ad0b5b5098489efd922a905b979c4c742b3708fec9505302bc77410003a67
+156.76.80.in-addr.arpa.	0	IN	DS	34879 13 4 d61935bc3c7528b653975d0050d5ef0260cc3cfc539fdfb6a0f5b1bf245b49780ef7d8cd93eba67ae88e9c01ad944de0
 157.76.80.in-addr.arpa.	0	IN	NS	ns1.osl.basefarm.net.
 157.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
 158.76.80.in-addr.arpa.	0	IN	NS	ns1.osl.basefarm.net.
 158.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
-159.76.80.in-addr.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-159.76.80.in-addr.arpa.	0	IN	NS	ns01.sth.basefarm.net.
+159.76.80.in-addr.arpa.	0	IN	NS	ns1.o-dns.net.
+159.76.80.in-addr.arpa.	0	IN	NS	ns2.o-dns.no.
+159.76.80.in-addr.arpa.	0	IN	NS	ns3.o-dns.org.
+159.76.80.in-addr.arpa.	0	IN	NS	ns4.o-dns.se.
+159.76.80.in-addr.arpa.	0	IN	DS	7925 13 2 69ace922d071017867c25119e81339caa50df1b3ff226067ae405e1d19394cff
+159.76.80.in-addr.arpa.	0	IN	DS	7925 13 4 680be976757fbd145b5580f3279e5f3577bd4601547f15473596867d93622872e17122338e43e53fa89466d710c6282c
 16.76.80.in-addr.arpa.	0	IN	NS	ns1.archimedianet.it.
 16.76.80.in-addr.arpa.	0	IN	NS	ns2.archimedianet.it.
 162.76.80.in-addr.arpa.	0	IN	NS	ns1.vodafone.net.qa.
@@ -38340,8 +38398,8 @@
 204.87.80.in-addr.arpa.	0	IN	NS	ns2.artplanet.ru.
 205.87.80.in-addr.arpa.	0	IN	NS	ns1.artplanet.ru.
 205.87.80.in-addr.arpa.	0	IN	NS	ns2.artplanet.ru.
-206.87.80.in-addr.arpa.	0	IN	NS	ns12.ovh.net.
-206.87.80.in-addr.arpa.	0	IN	NS	dns12.ovh.net.
+206.87.80.in-addr.arpa.	0	IN	NS	ns3.virtvps.com.
+206.87.80.in-addr.arpa.	0	IN	NS	ns4.virtvps.com.
 207.87.80.in-addr.arpa.	0	IN	NS	ns1.artplanet.ru.
 207.87.80.in-addr.arpa.	0	IN	NS	ns2.artplanet.ru.
 208.87.80.in-addr.arpa.	0	IN	NS	a.ns.dsidata.sk.

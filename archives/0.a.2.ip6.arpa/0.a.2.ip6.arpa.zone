@@ -3649,8 +3649,12 @@ d.2.2.7.e.d.6.8.e.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.koba.pl.
 0.0.8.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 0.0.4.3.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 0.0.4.3.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
-8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns01.sth.basefarm.net.
+8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.o-dns.net.
+8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.o-dns.no.
+8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.o-dns.org.
+8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns4.o-dns.se.
+8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	DS	53078 13 2 30bc83baae3b2fb299a01e4a4113593af6240b66e88a56802b63318b6aed6d66
+8.2.d.1.0.0.a.2.ip6.arpa.	0	IN	DS	53078 13 4 0dc21321425a26961b57cf182ea843166283a682687a98894048dd4676add025a67949d4592376bcc923e4ce07315347
 8.3.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	itshosted.ns1server.nl.
 8.3.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	itshosted.ns2server.nl.
 0.4.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	auth0.exponential-e.net.
@@ -10256,8 +10260,12 @@ c.5.0.0.0.e.5.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.vodafone.cz.
 3.f.5.0.1.0.a.2.ip6.arpa.	0	IN	NS	tns.coolhousing.net.
 3.f.5.0.1.0.a.2.ip6.arpa.	0	IN	NS	uns.coolhousing.net.
 3.f.5.0.1.0.a.2.ip6.arpa.	0	IN	DS	39855 13 2 a8ce5c14e8044719c024cbbda0126bd0f8369680142066d4e2f0fa6e4b6f2bea
-0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns01.osl.basefarm.net.
-0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns01.sth.basefarm.net.
+0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.o-dns.net.
+0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.o-dns.no.
+0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns3.o-dns.org.
+0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	ns4.o-dns.se.
+0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	DS	59186 13 2 d4bd2109e350543db3af2ca8a2702e9ad2c38799a7f7ef949449a01f32048e76
+0.0.6.0.1.0.a.2.ip6.arpa.	0	IN	DS	59186 13 4 91fff64f0c62d7e1fbf2bc28072bed12565d3b8b48da6f1f4259e768590930982afc3c91e3ba9cdb2398cca25951e471
 8.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	a.root.lu.
 8.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	b.root.lu.
 8.0.6.0.1.0.a.2.ip6.arpa.	0	IN	NS	c.root.lu.
@@ -131204,11 +131212,9 @@ a.9.1.1.6.0.0.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.svrdnsap.com.
 0.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns.nexula.de.
 0.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns.nexula.eu.
 0.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	protected.nexula.it.
-0.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	protected.nexula.org.
 1.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns.nexula.de.
 1.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns.nexula.eu.
 1.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	protected.nexula.it.
-1.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	protected.nexula.org.
 2.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns.nexula.de.
 2.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	ns.nexula.eu.
 2.8.8.5.6.0.a.2.ip6.arpa.	0	IN	NS	protected.nexula.it.
@@ -159039,7 +159045,6 @@ f.1.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 61233ccea6e3ebb441506e23740e9bb4
 b.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	ns1.net.baiyuexiao.cn.
 b.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	ns2.net.baiyuexiao.cn.
 b.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	DS	29807 13 2 cee90f16953d56545a416cc01ad5d7cc68e077d38cbeebef21ce2c6210e4a164
-b.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	DS	29807 13 4 38209dad85f2ed969e9a37ec2617f387385fbbb93a0eb8585a999a2788572f457aa54ada214b91b1d6f2710cde0a62b7
 0.0.d.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	bailey.ns.cloudflare.com.
 0.0.d.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	nicolas.ns.cloudflare.com.
 0.0.d.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 ecd80a93cf12d500ca509ca6c4d00a0fa5130ca012cf3536baca7873390b2d78
