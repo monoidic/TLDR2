@@ -8348,6 +8348,7 @@ id.	0	IN	NS	b.dns.id.
 id.	0	IN	NS	c.dns.id.
 id.	0	IN	NS	d.dns.id.
 id.	0	IN	NS	e.dns.id.
+id.	0	IN	NS	f.dns.id.
 id.	0	IN	NS	ns4.apnic.net.
 id.	0	IN	DS	26887 8 2 28be22003a1afb1ed9a7bb82482274e2db5f09a6c50702c731e040d2257347ea
 b.dns.id.	0	IN	A	103.19.179.179
@@ -8358,6 +8359,8 @@ d.dns.id.	0	IN	A	45.126.57.57
 d.dns.id.	0	IN	AAAA	2402:ee80:d::d
 e.dns.id.	0	IN	A	103.19.177.177
 e.dns.id.	0	IN	AAAA	2001:df5:4000:4::4
+f.dns.id.	0	IN	A	203.119.112.112
+f.dns.id.	0	IN	AAAA	2001:dd8:1f::f
 ie.	0	IN	NS	a.ns.ie.
 ie.	0	IN	NS	c.ns.ie.
 ie.	0	IN	NS	d.ns.ie.
@@ -12583,6 +12586,7 @@ nz.	0	IN	NS	ns4.dns.net.nz.
 nz.	0	IN	NS	ns5.dns.net.nz.
 nz.	0	IN	NS	ns6.dns.net.nz.
 nz.	0	IN	NS	ns7.dns.net.nz.
+nz.	0	IN	DS	38240 8 2 73a9d78398595a6cddbb2e694891060846f89d1df090cc78f596e87b8047d6b9
 nz.	0	IN	DS	61067 8 2 a58b0396a16fd169b9e3467b5308879b23227adc7c8a5fbab2e830b25503377a
 nz.	0	IN	DS	62081 8 2 5e2a5c07daf18fe02e2609a2f630250159f7507c2d0d08de691100151be2f544
 circa.mcs.vuw.ac.nz.	0	IN	A	130.195.5.12
@@ -12972,7 +12976,6 @@ ott.	0	IN	DS	44759 13 2 8498f467bea6ca4e2da164cd6243d354129bbc51912a0634fae05004
 ovh.	0	IN	NS	d.nic.fr.
 ovh.	0	IN	NS	f.ext.nic.fr.
 ovh.	0	IN	NS	g.ext.nic.fr.
-ovh.	0	IN	DS	2779 13 2 e6b3f359c1980de521369be4bd61fc91b9e311aa79221705d248925add22f1d1
 ovh.	0	IN	DS	51966 13 2 ca942c4051cffd445f83dee1ac0a94e67c0a59e549f2981d4a243d16f2c98f2b
 pa.	0	IN	NS	a.lactld.org.
 pa.	0	IN	NS	ns.dns.br.
