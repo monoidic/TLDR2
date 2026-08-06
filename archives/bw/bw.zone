@@ -4,7 +4,7 @@ bw.	0	IN	NS	ns-bw.afrinic.net.
 bw.	0	IN	NS	master.btc.net.bw.
 bw.	0	IN	DNSKEY	256 3 13 +lPqAHbklr93yY4AQq59bexhMp3kSwWHLuGDcIzeWyClNpY6YmLgl8BTY824PTKlYje0QpsX7HLMkEK5gtcjUA== ;{id = 16372 (zsk), size = 256b}
 bw.	0	IN	DNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA== ;{id = 62453 (ksk), size = 256b}
-bw.	0	IN	NSEC3PARAM	1 0 0 067a88d15740b044 
+bw.	0	IN	NSEC3PARAM	1 0 0 4e9507e2df422fad 
 bw.	0	IN	CDS	62453 13 2 1b7c41a7c6f3b9cd7419cb595c52f2600f3eb68dce41829ad3bc596ea2250281
 bw.	0	IN	CDNSKEY	257 3 13 ZyV13l2yVxCeDGcnzFmE8AJjgzuJ6At1xtpBmNNzdFeDwVIzkgAhBEI3oa2oXfTP1B5H0gDtkbZj8u2otuvbQA==
 a.bw.	0	IN	NS	ns1.dreamhost.com.
@@ -4358,7 +4358,6 @@ bellizoespawnshop.co.bw.	0	IN	NS	ns.bnamed.uk.
 bellizoespawnshop.co.bw.	0	IN	NS	ns.bnamed.us.
 bellizoespawnshop.co.bw.	0	IN	NS	ns.nscluster.de.
 bellizoespawnshop.co.bw.	0	IN	NS	ns.nscluster.pm.
-bellizoespawnshop.co.bw.	0	IN	DS	35591 13 2 3e8bdc6a78bba8815b9cd744b6de2029e6153e8d3b1f53f82cb454b3f7a1dad3
 bellmark.co.bw.	0	IN	NS	ns1.hosting.co.bw.
 bellmark.co.bw.	0	IN	NS	ns2.hosting.co.bw.
 bellmontrisk.co.bw.	0	IN	NS	dns1.assertivesolution.com.
@@ -9101,8 +9100,8 @@ cws.co.bw.	0	IN	NS	dns3.webmart.co.bw.
 cws.co.bw.	0	IN	NS	dns4.webmart.co.bw.
 cwt.co.bw.	0	IN	NS	ns1.zebranet.net.
 cwt.co.bw.	0	IN	NS	ns2.zebranet.net.
-cyberbidsolutions.co.bw.	0	IN	NS	suspened1.nic.net.bw.
-cyberbidsolutions.co.bw.	0	IN	NS	suspened2.nic.net.bw.
+cyberbidsolutions.co.bw.	0	IN	NS	cns41.webhostbox.net.
+cyberbidsolutions.co.bw.	0	IN	NS	cns42.webhostbox.net.
 cyberdetectives.co.bw.	0	IN	NS	ns1uul.vbnservices.net.
 cyberdetectives.co.bw.	0	IN	NS	ns2vbn.vbnservices.net.
 cyberhubafrica.co.bw.	0	IN	NS	ns1.botshosting.co.za.
@@ -10254,8 +10253,6 @@ dmf.co.bw.	0	IN	NS	ns6456.hostgator.com.
 dmg.co.bw.	0	IN	NS	ns1.opq.net.bw.
 dmg.co.bw.	0	IN	NS	ns2.opq.net.bw.
 dmg.co.bw.	0	IN	NS	ns3.opq.net.bw.
-dmh.co.bw.	0	IN	NS	ns1.da.hostns.io.
-dmh.co.bw.	0	IN	NS	ns2.da.hostns.io.
 dms.co.bw.	0	IN	NS	ns1-fireblade.vivawebhost.com.
 dms.co.bw.	0	IN	NS	ns2-fireblade.vivawebhost.com.
 dmss.co.bw.	0	IN	NS	ns1.opq.net.bw.
@@ -10647,9 +10644,10 @@ dulletventures.co.bw.	0	IN	NS	ns1.botswebhost.com.
 dulletventures.co.bw.	0	IN	NS	ns2.botswebhost.com.
 dulog.co.bw.	0	IN	NS	ns1.md-92.webhostbox.net.
 dulog.co.bw.	0	IN	NS	ns2.md-92.webhostbox.net.
-dulux.co.bw.	0	IN	NS	ns1.akzonobel.com.
-dulux.co.bw.	0	IN	NS	ns2.akzonobel.com.
-dulux.co.bw.	0	IN	NS	ns3.akzonobel.com.
+dulux.co.bw.	0	IN	NS	ns1-02.azure-dns.com.
+dulux.co.bw.	0	IN	NS	ns2-02.azure-dns.net.
+dulux.co.bw.	0	IN	NS	ns3-02.azure-dns.org.
+dulux.co.bw.	0	IN	NS	ns4-02.azure-dns.info.
 dulux-botswana.co.bw.	0	IN	NS	ns1.wise.co.bw.
 dulux-botswana.co.bw.	0	IN	NS	ns2.wise.co.bw.
 dulux-botswana.co.bw.	0	IN	NS	lion.info.bw.
@@ -30277,8 +30275,8 @@ scw.co.bw.	0	IN	NS	dns01.concerotel.net.bw.
 scw.co.bw.	0	IN	NS	dns02.concerotel.net.bw.
 sdabiblequest.co.bw.	0	IN	NS	ns1.siteground.net.
 sdabiblequest.co.bw.	0	IN	NS	ns2.siteground.net.
-sdcgroup.co.bw.	0	IN	NS	ns1.abaricom.co.bw.
-sdcgroup.co.bw.	0	IN	NS	ns2.abaricom.co.bw.
+sdcgroup.co.bw.	0	IN	NS	ns1.starhostchobe.com.
+sdcgroup.co.bw.	0	IN	NS	ns2.starhostchobe.com.
 sdi.co.bw.	0	IN	NS	dns1.divineconcepts.net.bw.
 sdi.co.bw.	0	IN	NS	dns2.divineconcepts.net.bw.
 sdinvestments.co.bw.	0	IN	NS	ns1.da.hostns.io.
