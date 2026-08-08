@@ -27,7 +27,7 @@ def write_mtime_db(d: dict[str, int]):
 def sort_timed() -> None:
     zones = sys.stdin.read().splitlines()
     mtime_db = read_mtime_db()
-    zones.sort(key=lambda z: mtime_db.get(z, default=0))
+    zones.sort(key=lambda z: (mtime_db[z] if z in mtime_db else 0))
 
     for zone in zones:
         print(zone)
