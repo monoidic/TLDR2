@@ -3,6 +3,8 @@
 import sys
 import pathlib
 import datetime
+import os
+import json
 
 basepath = pathlib.Path("walk_lists")
 db_path = pathlib.Path("mtime_db.txt")
@@ -32,7 +34,7 @@ def sort_timed() -> None:
 
 
 def update_timed() -> None:
-    zones = sys.stdin.read().splitlines()
+    zones = json.loads(os.environ["walkable"])
     mtime_db = read_mtime_db()
     now = int(datetime.datetime.now().timestamp())
     mtime_db |= {zone: now for zone in zones}
