@@ -2,33 +2,45 @@
 
 import sys
 import pathlib
-from functools import cmp_to_key
+import datetime
 
 basepath = pathlib.Path("walk_lists")
+db_path = pathlib.Path("mtime_db.txt")
 
 
-def cmp_time(left_k: str, right_k: str) -> int:
-    left, right = (basepath / f"{path}list" for path in (left_k, right_k))
-    if any(not f.exists() for f in (left, right)):
-        if left.exists():
-            return 1
-        if right.exists():
-            return -1
-        return 0
+def read_mtime_db() -> dict[str, int]:
+    rows = db_path.read_text().splitlines()
+    rows = {t[0]: int(t[1]) for t in (row.split() for row in rows)}
+    return rows
 
-    return left.lstat().st_mtime_ns - right.lstat().st_mtime_ns
+
+def write_mtime_db(d: dict[str, int]):
+    entries = [(k, v) for k, v in d.items()]
+    entries.sort()
+    text = "\n".join(f"{zone} {timestamp}" for zone, timestamp in entries)
+
+    db_path.write_text(text)
 
 
 def sort_timed() -> None:
     zones = sys.stdin.read().splitlines()
-    zones.sort(key=cmp_to_key(cmp_time))
+    mtime_db = read_mtime_db()
+    zones.sort(key=lambda z: mtime_db.get(z, default=0))
 
     for zone in zones:
         print(zone)
 
 
+def update_timed() -> None:
+    zones = sys.stdin.read().splitlines()
+    mtime_db = read_mtime_db()
+    now = int(datetime.datetime.now().timestamp())
+    mtime_db |= {zone: now for zone in zones}
+    write_mtime_db(mtime_db)
+
+
 def main() -> None:
-    funcs = {f.__name__: f for f in [sort_timed]}
+    funcs = {f.__name__: f for f in [sort_timed, update_timed]}
 
     if len(sys.argv) < 2:
         return
