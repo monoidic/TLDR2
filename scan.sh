@@ -110,8 +110,12 @@ _get_walkable() {
 	sqlite3 "$db" "SELECT zone.name FROM zone_nsec_state INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id WHERE nsec_state.name='plain_nsec' ORDER BY zone.name"
 }
 
+get_walkable_all() {
+	_get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | sort -u
+}
+
 get_walkable() {
-	printf 'walkable=%s\n' $(_get_walkable | grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') | sort -u | shuf | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
+	printf 'walkable=%s\n' $(get_walkable_all | ./utils.py sort_timed | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
 }
 
 _get_arpa() {
@@ -159,7 +163,7 @@ md_axfr() {
 md_walkable() {
 	printf '# List of TLDs & Roots With Walkable NSEC Records\n\n' > walkable_zones.md
 
-	get_walkable | while read zone; do
+	get_walkable_all | while read zone; do
 		printf '* `%s`\n' "$zone" >> walkable_zones.md
 	done
 }
