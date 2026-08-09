@@ -15,10 +15,10 @@ jobs:
         walkable: ${{steps.walkable.outputs.walkable}}
     steps:
     - uses: actions/checkout@v6.0.2
-    - run: ./scan.sh prework
     - run: ./scan.sh filter_running
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - run: ./scan.sh prework
     - run: ./scan.sh walkable
     - id: walkable
       run: ./scan.sh get_walkable | tee -a "$GITHUB_OUTPUT"
@@ -43,10 +43,8 @@ jobs:
     - run: git config --global user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
     - run: ./scan.sh axfr
     - run: ./scan.sh zonefiles
-    - run: ./scan.sh md_axfr
-    - run: ./scan.sh md_walkable
     - run: git pull
-    - run: git add transferable_zones.md walkable_zones.md archives/
+    - run: git add axfr_mtime_db.csv archives/
     - run: git commit -m 'Updating zone information' || true
     - run: git push
 
@@ -98,11 +96,11 @@ jobs:
     - run: git pull
     - run: for file in artifacts/*/*.patch; do patch -p1 < $file; done
     - run: find walk_lists -type f -empty -exec git restore '{}' ';'
-    - run: ./scan.sh txt_nsec3_walkable
-    - run: ./utils.py update_timed
+    - run: ./utils.py update_nsec3_db
+    - run: ./utils.py update_walk_mtimedb
       env:
         walkable: ${{needs.prework.outputs.walkable}}
-    - run: git add walk_lists nsec3_no_optout.txt nsec3_optout.txt mtime_db.txt
+    - run: git add walk_lists nsec3_db.csv walk_mtime_db.csv
     - run: git config user.name github-actions && git config user.email github-actions[bot]@users.noreply.github.com
     - run: git commit -m 'Updating walks' || true
     - run: git push

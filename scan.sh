@@ -28,11 +28,12 @@ prework() {
 	# download PSL
 	wget https://raw.githubusercontent.com/publicsuffix/list/refs/heads/main/public_suffix_list.dat || exit 1
 	# convert to idna lol
-	sed '/^\/\//d;/^$/d;s/^\*\.//;s/^!//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > psl.txt
+	sed '/^\/\//d;/^$/d;s/^\*\.//;s/^!//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > entries.txt
+	_get_arpa >> entries.txt
+	# remove filtered entries
+	grep -vf <(grep -v '^#' filters.txt | sed '/^$/d') entries.txt > entries_filtered.txt
 	# add entries
-	scan -parse_lists psl.txt
-	_get_arpa > arpa_zones.txt
-	scan -parse_lists arpa_zones.txt
+	scan -parse_lists entries_filtered.txt
 	# idk, check for zones
 	for i in {1..5}; do
 		scan -validate
@@ -80,6 +81,7 @@ zonefiles() {
 		fi
 		echo "dumping zone ${zone}"
 	done
+	./utils.py update_axfrable_mtimedb
 }
 
 walkable() {
@@ -115,7 +117,7 @@ get_walkable_all() {
 }
 
 get_walkable() {
-	printf 'walkable=%s\n' $(get_walkable_all | ./utils.py sort_timed | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
+	printf 'walkable=%s\n' $(get_walkable_all | ./utils.py sort_walks_by_mtimedb | head -n 255 | sort | jq -Rsc 'split("\n") | .[:-1]')
 }
 
 _get_arpa() {
@@ -140,37 +142,6 @@ walk() {
 	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
 	scan -zone_walk -nsec_forever -num_procs 16
 	ldns-read-zone -z <(sqlite3 tldr.sqlite3 "SELECT rr_name.name FROM zone_walk_res INNER JOIN rr_type ON zone_walk_res.rr_type_id=rr_type.id INNER JOIN rr_name ON zone_walk_res.rr_name_id=rr_name.id WHERE rr_type.name='NS'" | grep -v "^${1}$" | sed 's/$/ TXT ""/') | awk '{print $1}' > "walk_lists/${1}list"
-}
-
-md_axfr() {
-	printf '# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n' > transferable_zones.md
-
-	sqlite3 "$db" 'SELECT zone.name, ip.address FROM zone_ns_ip INNER JOIN name AS zone ON zone_ns_ip.zone_id=zone.id INNER JOIN ip ON zone_ns_ip.ip_id=ip.id WHERE zone_ns_ip.axfrable=TRUE' | while read line; do
-		zone=$(echo "$line" | cut -d'|' -f1)
-		ip=$(echo "$line" | cut -d'|' -f2)
-
-		# "uninteresting" zones that produce too much flux
-		if [[ $zone = . || $zone = arpa. ]]; then
-			continue
-		fi
-
-		path_name="${zone%.}"
-
-		printf '* `%s` via `%s`: [Click here to view zone data.](archives/%s/%s.zone)\n' "$zone" "$ip" "$path_name" "$path_name" >> transferable_zones.md
-	done
-}
-
-md_walkable() {
-	printf '# List of TLDs & Roots With Walkable NSEC Records\n\n' > walkable_zones.md
-
-	get_walkable_all | while read zone; do
-		printf '* `%s`\n' "$zone" >> walkable_zones.md
-	done
-}
-
-txt_nsec3_walkable() {
-    sqlite3 $db "SELECT zone.name FROM zone_nsec_state INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id WHERE nsec_state.name='nsec3' AND zone_nsec_state.opt_out=TRUE  ORDER BY zone.name" > nsec3_optout.txt
-    sqlite3 $db "SELECT zone.name FROM zone_nsec_state INNER JOIN name AS zone ON zone_nsec_state.zone_id=zone.id INNER JOIN nsec_state ON zone_nsec_state.nsec_state_id=nsec_state.id WHERE nsec_state.name='nsec3' AND zone_nsec_state.opt_out=FALSE ORDER BY zone.name" > nsec3_no_optout.txt
 }
 
 $*
