@@ -182,8 +182,6 @@ ups.biz.fj.	0	IN	NS	dns1.cscdns.net.
 ups.biz.fj.	0	IN	NS	dns2.cscdns.net.
 verizon.biz.fj.	0	IN	NS	ns-scrm.verizon.com.
 verizon.biz.fj.	0	IN	NS	ns-tmtr.verizon.com.
-vodafone.biz.fj.	0	IN	NS	ns1.vodafone.net.fj.
-vodafone.biz.fj.	0	IN	NS	ns2.vodafone.net.fj.
 101domain.com.fj.	0	IN	NS	houston.ns.cloudflare.com.
 101domain.com.fj.	0	IN	NS	anastasia.ns.cloudflare.com.
 101domains.com.fj.	0	IN	NS	houston.ns.cloudflare.com.
@@ -633,6 +631,8 @@ aus-g4s.com.fj.	0	IN	NS	ns1.101domain.com.
 aus-g4s.com.fj.	0	IN	NS	ns2.101domain.com.
 ausps.com.fj.	0	IN	NS	kip.ns.cloudflare.com.
 ausps.com.fj.	0	IN	NS	rose.ns.cloudflare.com.
+aussan.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+aussan.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 authentic.com.fj.	0	IN	NS	ns1.auserver.com.au.
 authentic.com.fj.	0	IN	NS	ns2.auserver.com.au.
 authentictravel.com.fj.	0	IN	NS	ns1.auserver.com.au.
@@ -1814,8 +1814,8 @@ drpepper.com.fj.	0	IN	NS	ns1-09.azure-dns.com.
 drpepper.com.fj.	0	IN	NS	ns2-09.azure-dns.net.
 drpepper.com.fj.	0	IN	NS	ns3-09.azure-dns.org.
 drpepper.com.fj.	0	IN	NS	ns4-09.azure-dns.info.
-drprius.com.fj.	0	IN	NS	fonzie.ns.cloudflare.com.
-drprius.com.fj.	0	IN	NS	desiree.ns.cloudflare.com.
+drprius.com.fj.	0	IN	NS	dale.ns.cloudflare.com.
+drprius.com.fj.	0	IN	NS	monika.ns.cloudflare.com.
 duaduaresort.com.fj.	0	IN	NS	ns1.bdm.microsoftonline.com.
 duaduaresort.com.fj.	0	IN	NS	ns2.bdm.microsoftonline.com.
 duaduaresort.com.fj.	0	IN	NS	ns3.bdm.microsoftonline.com.
@@ -4119,8 +4119,6 @@ motherenergydrink.com.fj.	0	IN	NS	sue.ns.cloudflare.com.
 motherenergydrink.com.fj.	0	IN	NS	greg.ns.cloudflare.com.
 motibhai.com.fj.	0	IN	NS	alina.ns.cloudflare.com.
 motibhai.com.fj.	0	IN	NS	thomas.ns.cloudflare.com.
-motiva.com.fj.	0	IN	NS	ns2.wixdns.net.
-motiva.com.fj.	0	IN	NS	ns3.wixdns.net.
 motorex.com.fj.	0	IN	NS	bayan.ns.cloudflare.com.
 motorex.com.fj.	0	IN	NS	novalee.ns.cloudflare.com.
 motorola.com.fj.	0	IN	NS	a1-79.akam.net.
@@ -6968,6 +6966,8 @@ mail.id.fj.	0	IN	NS	bayan.ns.cloudflare.com.
 mail.id.fj.	0	IN	NS	novalee.ns.cloudflare.com.
 altria.info.fj.	0	IN	NS	dns1.cscdns.net.
 altria.info.fj.	0	IN	NS	dns2.cscdns.net.
+aussan.info.fj.	0	IN	NS	caching01.usp.ac.fj.
+aussan.info.fj.	0	IN	NS	caching02.usp.ac.fj.
 brother.info.fj.	0	IN	NS	ns1.ipmirror.com.
 brother.info.fj.	0	IN	NS	ns2.ipmirror.com.
 cisco.info.fj.	0	IN	NS	ns1.markmonitor.com.
@@ -6990,8 +6990,6 @@ ups.info.fj.	0	IN	NS	dns1.cscdns.net.
 ups.info.fj.	0	IN	NS	dns2.cscdns.net.
 verizon.info.fj.	0	IN	NS	ns-scrm.verizon.com.
 verizon.info.fj.	0	IN	NS	ns-tmtr.verizon.com.
-vodafone.info.fj.	0	IN	NS	ns1.vodafone.net.fj.
-vodafone.info.fj.	0	IN	NS	ns2.vodafone.net.fj.
 master.fj.	0	IN	A	144.120.141.11
 www.master.fj.	0	IN	A	144.120.141.11
 fijinavy.mil.fj.	0	IN	NS	drua.tfl.com.fj.
@@ -7024,8 +7022,6 @@ pwc.name.fj.	0	IN	NS	dns1.cscdns.net.
 pwc.name.fj.	0	IN	NS	dns2.cscdns.net.
 ups.name.fj.	0	IN	NS	dns1.cscdns.net.
 ups.name.fj.	0	IN	NS	dns2.cscdns.net.
-vodafone.name.fj.	0	IN	NS	ns1.vodafone.net.fj.
-vodafone.name.fj.	0	IN	NS	ns2.vodafone.net.fj.
 3m.net.fj.	0	IN	NS	a.ns.3m.com.
 3m.net.fj.	0	IN	NS	b.ns.3m.com.
 aa.net.fj.	0	IN	NS	dns1.cscdns.net.
@@ -7537,8 +7533,6 @@ scientology.org.fj.	0	IN	NS	ns1.scientology.net.
 scientology.org.fj.	0	IN	NS	ns1.scientology.org.
 seep.org.fj.	0	IN	NS	ns1.auserver.com.au.
 seep.org.fj.	0	IN	NS	ns2.auserver.com.au.
-sodelpa.org.fj.	0	IN	NS	drua.tfl.com.fj.
-sodelpa.org.fj.	0	IN	NS	tabua.tfl.com.fj.
 spats.org.fj.	0	IN	NS	ns1.bluehost.com.
 spats.org.fj.	0	IN	NS	ns2.bluehost.com.
 srif.org.fj.	0	IN	NS	ns1.he.net.
@@ -7601,8 +7595,6 @@ pwc.pro.fj.	0	IN	NS	dns1.cscdns.net.
 pwc.pro.fj.	0	IN	NS	dns2.cscdns.net.
 ups.pro.fj.	0	IN	NS	dns1.cscdns.net.
 ups.pro.fj.	0	IN	NS	dns2.cscdns.net.
-vodafone.pro.fj.	0	IN	NS	ns1.vodafone.net.fj.
-vodafone.pro.fj.	0	IN	NS	ns2.vodafone.net.fj.
 rdap.fj.	0	IN	A	144.120.141.13
 www.rdap.fj.	0	IN	A	144.120.141.13
 _df23e41fbbf9f83bd7759d1e23f486ce.www.rdap.fj.	0	IN	CNAME	6ca3d12e0cab06b57b58df168f1443dc.5ac2d7e56d45599d9bda131a8f3d5e63.sectigo.com.
