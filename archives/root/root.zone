@@ -2352,6 +2352,7 @@ c0.nic.bosch.	0	IN	AAAA	2a01:8840:70::46
 bostik.	0	IN	NS	d.nic.fr.
 bostik.	0	IN	NS	f.ext.nic.fr.
 bostik.	0	IN	NS	g.ext.nic.fr.
+bostik.	0	IN	DS	15906 13 2 716bfd888f02f8fc2c568f20b530a836d82476e9e6e56c6db1bb0f1e98767b68
 bostik.	0	IN	DS	18147 13 2 e570bff87af9244279302e8ac77932222143c62ad60d6065b3bf6d691ef141ff
 boston.	0	IN	NS	a.nic.boston.
 boston.	0	IN	NS	b.nic.boston.
@@ -9903,7 +9904,6 @@ v2n1.nic.lease.	0	IN	AAAA	2a01:8840:f7::62
 leclerc.	0	IN	NS	d.nic.fr.
 leclerc.	0	IN	NS	f.ext.nic.fr.
 leclerc.	0	IN	NS	g.ext.nic.fr.
-leclerc.	0	IN	DS	56243 13 2 e6cd61fe33323d5b27b16bcb952512801ae7e4f4c860d733eb9148e409811a37
 leclerc.	0	IN	DS	65159 13 2 f29cb282be2c2750719574ba14a6fab762e2ddca5fb7d3d6c582c43b5da78dcb
 lefrak.	0	IN	NS	a0.nic.lefrak.
 lefrak.	0	IN	NS	a2.nic.lefrak.
@@ -11631,11 +11631,14 @@ my.	0	IN	NS	b.mynic.centralnic-dns.com.
 my.	0	IN	NS	c.mynic.centralnic-dns.com.
 my.	0	IN	NS	d.mynic.centralnic-dns.com.
 my.	0	IN	NS	e.nic.my.
+my.	0	IN	NS	g.nic.my.
 my.	0	IN	NS	ns01.trs-dns.com.
 my.	0	IN	NS	ns01.trs-dns.net.
 my.	0	IN	DS	47187 13 2 8b70cf4c48233d0624556523ea52c524f157800b97445c6a62a8c078337567ae
 e.nic.my.	0	IN	A	152.69.217.125
 e.nic.my.	0	IN	AAAA	2603:c024:4518:ad60:242::2
+g.nic.my.	0	IN	A	15.197.189.233
+g.nic.my.	0	IN	AAAA	2600:9000:a61a:e65b:b532:3115:4619:6578
 mz.	0	IN	NS	anyns.uem.mz.
 mz.	0	IN	NS	dzowo.uem.mz.
 mz.	0	IN	NS	ns-mz.afrinic.net.
@@ -19935,6 +19938,7 @@ xn--mgbx4cd0ab.	0	IN	NS	b.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	c.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	d.mynic.centralnic-dns.com.
 xn--mgbx4cd0ab.	0	IN	NS	e.nic.my.
+xn--mgbx4cd0ab.	0	IN	NS	g.nic.my.
 xn--mgbx4cd0ab.	0	IN	DS	15766 13 2 e1b9df06c9b2e9f67aa4f7afe4a20d0cc055abbae1ae5c72e967f2f11d417b71
 xn--mix891f.	0	IN	NS	a.monic.mo.
 xn--mix891f.	0	IN	NS	b.monic.mo.
