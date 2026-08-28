@@ -12752,6 +12752,7 @@
 100.139.103.in-addr.arpa.	0	IN	NS	ns1.agb.com.mm.
 100.139.103.in-addr.arpa.	0	IN	NS	ns2.agb.com.mm.
 101.139.103.in-addr.arpa.	0	IN	NS	ns1.agb.com.mm.
+101.139.103.in-addr.arpa.	0	IN	NS	ns2.agb.com.mm.
 102.139.103.in-addr.arpa.	0	IN	NS	ns1.onedata.com.vn.
 102.139.103.in-addr.arpa.	0	IN	NS	ns2.onedata.com.vn.
 103.139.103.in-addr.arpa.	0	IN	NS	ns1.onedata.com.vn.
@@ -14212,7 +14213,6 @@
 131.143.103.in-addr.arpa.	0	IN	NS	kodiak.indobsd.id.
 131.143.103.in-addr.arpa.	0	IN	NS	cheetah.indobsd.id.
 136.143.103.in-addr.arpa.	0	IN	NS	ns1.kobayashi.ad.jp.
-136.143.103.in-addr.arpa.	0	IN	NS	ns2.kobayashi.ad.jp.
 137.143.103.in-addr.arpa.	0	IN	NS	ns1.kobayashi.ad.jp.
 137.143.103.in-addr.arpa.	0	IN	NS	ns2.kobayashi.ad.jp.
 138.143.103.in-addr.arpa.	0	IN	NS	ns1.circlenetworkbd.com.
@@ -32868,18 +32868,16 @@
 74.209.103.in-addr.arpa.	0	IN	NS	ziggy.ns.cloudflare.com.
 75.209.103.in-addr.arpa.	0	IN	NS	craig.ns.cloudflare.com.
 75.209.103.in-addr.arpa.	0	IN	NS	ziggy.ns.cloudflare.com.
-76.209.103.in-addr.arpa.	0	IN	NS	ns1.weakaxiom.com.
-76.209.103.in-addr.arpa.	0	IN	NS	ns2.weakaxiom.com.
+76.209.103.in-addr.arpa.	0	IN	NS	ns1.originnet.com.pk.
+76.209.103.in-addr.arpa.	0	IN	NS	ns2.originnet.com.pk.
 77.209.103.in-addr.arpa.	0	IN	NS	pns21.cloudns.net.
 77.209.103.in-addr.arpa.	0	IN	NS	pns23.cloudns.net.
 78.209.103.in-addr.arpa.	0	IN	NS	ns1.webns.io.
 78.209.103.in-addr.arpa.	0	IN	NS	ns2.webns.io.
 78.209.103.in-addr.arpa.	0	IN	NS	ns3.webns.io.
 78.209.103.in-addr.arpa.	0	IN	NS	ns4.webns.io.
-79.209.103.in-addr.arpa.	0	IN	NS	ns1.webns.io.
-79.209.103.in-addr.arpa.	0	IN	NS	ns2.webns.io.
-79.209.103.in-addr.arpa.	0	IN	NS	ns3.webns.io.
-79.209.103.in-addr.arpa.	0	IN	NS	ns4.webns.io.
+79.209.103.in-addr.arpa.	0	IN	NS	ns1.originnet.com.pk.
+79.209.103.in-addr.arpa.	0	IN	NS	ns2.originnet.com.pk.
 8.209.103.in-addr.arpa.	0	IN	NS	ns3.cepat.net.id.
 8.209.103.in-addr.arpa.	0	IN	NS	ns4.cepat.net.id.
 80.209.103.in-addr.arpa.	0	IN	NS	ns1.banglalionwimax.com.
@@ -55548,7 +55546,6 @@
 1.50.103.in-addr.arpa.	0	IN	NS	pdns100.ultradns.net.
 1.50.103.in-addr.arpa.	0	IN	NS	ns1-pchnet.paypal.com.
 1.50.103.in-addr.arpa.	0	IN	NS	ns2-pchnet.paypal.com.
-10.50.103.in-addr.arpa.	0	IN	NS	ns1.onenet.hk.
 100.50.103.in-addr.arpa.	0	IN	NS	ns1.spectrum.com.au.
 100.50.103.in-addr.arpa.	0	IN	NS	ns2.spectrum.com.au.
 100.50.103.in-addr.arpa.	0	IN	NS	ns3.spectrum.com.au.
@@ -55573,7 +55570,6 @@
 106.50.103.in-addr.arpa.	0	IN	NS	simon.ns.cloudflare.com.
 107.50.103.in-addr.arpa.	0	IN	NS	rihana.ns.cloudflare.com.
 107.50.103.in-addr.arpa.	0	IN	NS	yevgen.ns.cloudflare.com.
-11.50.103.in-addr.arpa.	0	IN	NS	ns1.onenet.hk.
 128.50.103.in-addr.arpa.	0	IN	NS	ns1.artorius.net.id.
 128.50.103.in-addr.arpa.	0	IN	NS	ns2.artorius.net.id.
 129.50.103.in-addr.arpa.	0	IN	NS	ns1.artorius.net.id.
@@ -55726,7 +55722,6 @@
 77.50.103.in-addr.arpa.	0	IN	NS	ns3.jetwaybroadband.com.
 78.50.103.in-addr.arpa.	0	IN	NS	ns3.jetwaybroadband.com.
 79.50.103.in-addr.arpa.	0	IN	NS	ns3.jetwaybroadband.com.
-8.50.103.in-addr.arpa.	0	IN	NS	ns1.onenet.hk.
 80.50.103.in-addr.arpa.	0	IN	NS	ns1.services-design.com.
 80.50.103.in-addr.arpa.	0	IN	NS	ns2.services-design.com.
 81.50.103.in-addr.arpa.	0	IN	NS	dns-abspl-a.alliancebroadband.in.
@@ -55739,7 +55734,6 @@
 85.50.103.in-addr.arpa.	0	IN	NS	ns1.celio-llc.com.
 86.50.103.in-addr.arpa.	0	IN	NS	ns1.celio-llc.com.
 87.50.103.in-addr.arpa.	0	IN	NS	ns1.celio-llc.com.
-9.50.103.in-addr.arpa.	0	IN	NS	ns1.onenet.hk.
 100.51.103.in-addr.arpa.	0	IN	NS	ns1.kiwidata.nz.
 100.51.103.in-addr.arpa.	0	IN	NS	ns2.kiwidata.nz.
 100.51.103.in-addr.arpa.	0	IN	NS	ns3.kiwidata.nz.
@@ -67500,8 +67494,8 @@
 18.9.103.in-addr.arpa.	0	IN	NS	ns2-05.azure-dns.net.
 18.9.103.in-addr.arpa.	0	IN	NS	ns3-05.azure-dns.org.
 18.9.103.in-addr.arpa.	0	IN	NS	ns4-05.azure-dns.info.
-182.9.103.in-addr.arpa.	0	IN	NS	ns1.mcb.com.pk.
-182.9.103.in-addr.arpa.	0	IN	NS	ns2.mcb.com.pk.
+182.9.103.in-addr.arpa.	0	IN	NS	a1.uberns.com.
+182.9.103.in-addr.arpa.	0	IN	NS	b1.uberns.com.
 184.9.103.in-addr.arpa.	0	IN	NS	ns1.equitel.com.bd.
 184.9.103.in-addr.arpa.	0	IN	NS	ns2.equitel.com.bd.
 185.9.103.in-addr.arpa.	0	IN	NS	ns1.btraccl.net.
