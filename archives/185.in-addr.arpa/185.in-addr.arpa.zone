@@ -22144,8 +22144,6 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 31.141.185.in-addr.arpa.	0	IN	NS	ns61.constellix.net.
 32.141.185.in-addr.arpa.	0	IN	NS	ns1.andservers.com.
 32.141.185.in-addr.arpa.	0	IN	NS	ns2.andservers.com.
-33.141.185.in-addr.arpa.	0	IN	NS	rdns1.makdos.com.
-33.141.185.in-addr.arpa.	0	IN	NS	rdns4.makdos.com.
 34.141.185.in-addr.arpa.	0	IN	NS	ns1.routergate.net.
 34.141.185.in-addr.arpa.	0	IN	NS	ns2.routergate.net.
 35.141.185.in-addr.arpa.	0	IN	NS	ns1.dgntek.com.
@@ -42452,10 +42450,14 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 119.183.185.in-addr.arpa.	0	IN	DS	28639 13 2 1252f059b40b54e1da7d4e217b900eb680961899a35665e6376ff257a7a0bce2
 12.183.185.in-addr.arpa.	0	IN	NS	ns1.mediatel.su.
 12.183.185.in-addr.arpa.	0	IN	NS	ns2.mediatel.su.
-120.183.185.in-addr.arpa.	0	IN	NS	ns.telecom.by.
-120.183.185.in-addr.arpa.	0	IN	NS	ns1.telecom.by.
-122.183.185.in-addr.arpa.	0	IN	NS	ns.telecom.by.
-122.183.185.in-addr.arpa.	0	IN	NS	ns1.telecom.by.
+120.183.185.in-addr.arpa.	0	IN	NS	ns1.a1.by.
+120.183.185.in-addr.arpa.	0	IN	NS	ns2.a1.by.
+120.183.185.in-addr.arpa.	0	IN	NS	ns3.a1.by.
+120.183.185.in-addr.arpa.	0	IN	NS	ns4.a1.by.
+122.183.185.in-addr.arpa.	0	IN	NS	ns1.a1.by.
+122.183.185.in-addr.arpa.	0	IN	NS	ns2.a1.by.
+122.183.185.in-addr.arpa.	0	IN	NS	ns3.a1.by.
+122.183.185.in-addr.arpa.	0	IN	NS	ns4.a1.by.
 123.183.185.in-addr.arpa.	0	IN	NS	ns1.a1.by.
 123.183.185.in-addr.arpa.	0	IN	NS	ns2.a1.by.
 123.183.185.in-addr.arpa.	0	IN	NS	ns3.a1.by.
@@ -43112,8 +43114,6 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 254.184.185.in-addr.arpa.	0	IN	NS	ns2.myshoptet.com.
 26.184.185.in-addr.arpa.	0	IN	NS	ns1.dgntek.com.
 26.184.185.in-addr.arpa.	0	IN	NS	ns2.dgntek.com.
-27.184.185.in-addr.arpa.	0	IN	NS	rdns1.makdos.com.
-27.184.185.in-addr.arpa.	0	IN	NS	rdns4.makdos.com.
 28.184.185.in-addr.arpa.	0	IN	NS	ns.exohosting.sk.
 28.184.185.in-addr.arpa.	0	IN	NS	ns1.exohosting.eu.
 28.184.185.in-addr.arpa.	0	IN	NS	ns3.exohosting.cz.
@@ -43725,16 +43725,14 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 148.186.185.in-addr.arpa.	0	IN	NS	ns1.satserver.nl.
 148.186.185.in-addr.arpa.	0	IN	NS	ns2.satserver.nl.
 148.186.185.in-addr.arpa.	0	IN	NS	ns3.satserver.nl.
-149.186.185.in-addr.arpa.	0	IN	NS	ns0-auth.businessconnect.be.
-149.186.185.in-addr.arpa.	0	IN	NS	ns1-auth.businessconnect.be.
-149.186.185.in-addr.arpa.	0	IN	DS	9158 13 2 a8d4e5ee1f3ddd08e905e845f780e0cc8f5b53e75a60b49d552b514053b60156
-149.186.185.in-addr.arpa.	0	IN	DS	9158 13 4 d60eeedaff520f4f4f7ab65c21f7b6db903a803aa9d8ddd07d493cb86a346ca06388db8d84194c990b34e023daa3b766
+149.186.185.in-addr.arpa.	0	IN	NS	ns1.satserver.nl.
+149.186.185.in-addr.arpa.	0	IN	NS	ns2.satserver.nl.
+149.186.185.in-addr.arpa.	0	IN	NS	ns3.satserver.nl.
 15.186.185.in-addr.arpa.	0	IN	NS	auth1.activenetwork.it.
 15.186.185.in-addr.arpa.	0	IN	NS	auth2.activenetwork.it.
-150.186.185.in-addr.arpa.	0	IN	NS	ns0-auth.businessconnect.be.
-150.186.185.in-addr.arpa.	0	IN	NS	ns1-auth.businessconnect.be.
-150.186.185.in-addr.arpa.	0	IN	DS	29184 13 2 3b1e8c203dee3736b971f1fc3011ea81dadbd209647016374f239a5f26cfe18d
-150.186.185.in-addr.arpa.	0	IN	DS	29184 13 4 af0dfd53ae0d54352d32a35b02ecca3075661d82cce5ad05b191ac3366a1c3a1f5d2615f811c6dbd584c61de37c87dad
+150.186.185.in-addr.arpa.	0	IN	NS	ns1.satserver.nl.
+150.186.185.in-addr.arpa.	0	IN	NS	ns2.satserver.nl.
+150.186.185.in-addr.arpa.	0	IN	NS	ns3.satserver.nl.
 151.186.185.in-addr.arpa.	0	IN	NS	ns1.satserver.nl.
 151.186.185.in-addr.arpa.	0	IN	NS	ns2.satserver.nl.
 151.186.185.in-addr.arpa.	0	IN	NS	ns3.satserver.nl.
@@ -71210,9 +71208,9 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 134.244.185.in-addr.arpa.	0	IN	NS	dns2.obit.ru.
 135.244.185.in-addr.arpa.	0	IN	NS	dns1.obit.ru.
 135.244.185.in-addr.arpa.	0	IN	NS	dns2.obit.ru.
-138.244.185.in-addr.arpa.	0	IN	NS	dns-01.sheepname.com.
-138.244.185.in-addr.arpa.	0	IN	NS	dns-02.sheepname.com.
-138.244.185.in-addr.arpa.	0	IN	DS	56376 13 2 c4536fcb68b436d675963a7b91b1111d26464c80fb08e38a1adf896696c7b85b
+138.244.185.in-addr.arpa.	0	IN	NS	ns1.sheepname.com.
+138.244.185.in-addr.arpa.	0	IN	NS	ns2.sheepname.eu.
+138.244.185.in-addr.arpa.	0	IN	DS	24745 13 2 fc30c3071deabf3f6c64d336e7244ed20a68ac5514b6bb45a697820e30e65f5a
 14.244.185.in-addr.arpa.	0	IN	NS	ns1.horizon.net.fk.
 14.244.185.in-addr.arpa.	0	IN	NS	ns2.horizon.net.fk.
 14.244.185.in-addr.arpa.	0	IN	NS	ns3.horizon.net.fk.
@@ -78545,8 +78543,10 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 145.29.185.in-addr.arpa.	0	IN	NS	ns2.com-com.it.
 146.29.185.in-addr.arpa.	0	IN	NS	ns1.com-com.it.
 146.29.185.in-addr.arpa.	0	IN	NS	ns2.com-com.it.
-147.29.185.in-addr.arpa.	0	IN	NS	ns1.com-com.it.
-147.29.185.in-addr.arpa.	0	IN	NS	ns2.com-com.it.
+147.29.185.in-addr.arpa.	0	IN	NS	ns-32.awsdns-04.com.
+147.29.185.in-addr.arpa.	0	IN	NS	ns-608.awsdns-12.net.
+147.29.185.in-addr.arpa.	0	IN	NS	ns-1488.awsdns-58.org.
+147.29.185.in-addr.arpa.	0	IN	NS	ns-1573.awsdns-04.co.uk.
 148.29.185.in-addr.arpa.	0	IN	NS	a.aspserveur.com.
 148.29.185.in-addr.arpa.	0	IN	NS	b.aspserveur.com.
 149.29.185.in-addr.arpa.	0	IN	NS	a.aspserveur.com.
@@ -79392,6 +79392,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 71.3.185.in-addr.arpa.	0	IN	NS	ns2.sg.metro-set.ru.
 72.3.185.in-addr.arpa.	0	IN	NS	a.adns.mdnx.net.
 72.3.185.in-addr.arpa.	0	IN	NS	b.adns.mdnx.net.
+73.3.185.in-addr.arpa.	0	IN	NS	ns1.vozora.net.
+73.3.185.in-addr.arpa.	0	IN	NS	ns2.vozora.net.
 74.3.185.in-addr.arpa.	0	IN	NS	a.adns.mdnx.net.
 74.3.185.in-addr.arpa.	0	IN	NS	b.adns.mdnx.net.
 75.3.185.in-addr.arpa.	0	IN	NS	a.adns.mdnx.net.
@@ -103546,8 +103548,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 219.74.185.in-addr.arpa.	0	IN	NS	dns-02.allgaeudsl.de.
 221.74.185.in-addr.arpa.	0	IN	NS	rdns1.sindad.cloud.
 221.74.185.in-addr.arpa.	0	IN	NS	rdns2.sindad.cloud.
-222.74.185.in-addr.arpa.	0	IN	NS	ns1.the.hosting.
-222.74.185.in-addr.arpa.	0	IN	NS	ns2.the.hosting.
 224.74.185.in-addr.arpa.	0	IN	NS	ns1.sasg.de.
 224.74.185.in-addr.arpa.	0	IN	NS	ns1.sasg.eu.
 224.74.185.in-addr.arpa.	0	IN	NS	ns2.sasg.de.
@@ -103788,13 +103788,13 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 106.75.185.in-addr.arpa.	0	IN	NS	ns2.commssupply.net.
 107.75.185.in-addr.arpa.	0	IN	NS	ns1.commssupply.net.
 107.75.185.in-addr.arpa.	0	IN	NS	ns2.commssupply.net.
-116.75.185.in-addr.arpa.	0	IN	NS	bt.satoya.cz.
+116.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.cz.
 116.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.net.
-117.75.185.in-addr.arpa.	0	IN	NS	bt.satoya.cz.
+117.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.cz.
 117.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.net.
-118.75.185.in-addr.arpa.	0	IN	NS	bt.satoya.cz.
+118.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.cz.
 118.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.net.
-119.75.185.in-addr.arpa.	0	IN	NS	bt.satoya.cz.
+119.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.cz.
 119.75.185.in-addr.arpa.	0	IN	NS	ns.pe3ny.net.
 120.75.185.in-addr.arpa.	0	IN	NS	ns1.txrxcomms.co.uk.
 120.75.185.in-addr.arpa.	0	IN	NS	ns2.txrxcomms.co.uk.
@@ -109846,8 +109846,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 38.86.185.in-addr.arpa.	0	IN	NS	ns16.ouriran.net.
 39.86.185.in-addr.arpa.	0	IN	NS	ns15.ouriran.net.
 39.86.185.in-addr.arpa.	0	IN	NS	ns16.ouriran.net.
-4.86.185.in-addr.arpa.	0	IN	NS	rdns1.makdos.com.
-4.86.185.in-addr.arpa.	0	IN	NS	rdns4.makdos.com.
 40.86.185.in-addr.arpa.	0	IN	NS	pdns.goldenlines.net.il.
 40.86.185.in-addr.arpa.	0	IN	NS	sdns.goldenlines.net.il.
 42.86.185.in-addr.arpa.	0	IN	NS	pdns.goldenlines.net.il.
