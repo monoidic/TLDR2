@@ -4497,12 +4497,8 @@ cw.	0	IN	NS	ns0.ja.net.
 cw.	0	IN	NS	ns1.bna.cw.
 cw.	0	IN	NS	ns1.dns.cw.
 cw.	0	IN	NS	ns2.bna.cw.
-cw.	0	IN	NS	kadushi.curinfo.cw.
-cw.	0	IN	NS	ns01-server.curinfo.cw.
 ns1.bna.cw.	0	IN	A	216.122.189.85
 ns2.bna.cw.	0	IN	A	216.122.189.86
-kadushi.curinfo.cw.	0	IN	A	65.208.122.63
-ns01-server.curinfo.cw.	0	IN	A	65.208.122.36
 ns1.dns.cw.	0	IN	A	194.0.28.6
 ns1.dns.cw.	0	IN	AAAA	2001:678:2c:0:194:0:28:6
 cx.	0	IN	NS	ns.anycast.nic.cx.
@@ -19045,6 +19041,7 @@ xn--3e0b707e.	0	IN	NS	d.dns.kr.
 xn--3e0b707e.	0	IN	NS	e.dns.kr.
 xn--3e0b707e.	0	IN	NS	f.dns.kr.
 xn--3e0b707e.	0	IN	NS	g.dns.kr.
+xn--3e0b707e.	0	IN	DS	13541 13 2 cac673c4f8b94ca8a18e39a0e4a0a516c10f8a63657673d1a610afbfdaf1a91a
 xn--3e0b707e.	0	IN	DS	48379 8 2 88372b74adb821c79fac26e1883cc6bd96ff6eb97aaa1a9486bb4b3b26076d02
 xn--3hcrj9c.	0	IN	NS	ns1.registry.in.
 xn--3hcrj9c.	0	IN	NS	ns2.registry.in.
