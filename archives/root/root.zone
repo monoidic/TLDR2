@@ -10817,14 +10817,11 @@ md.	0	IN	NS	nsa.tld.md.
 md.	0	IN	NS	nsb.tld.md.
 md.	0	IN	NS	nsc.dns.md.
 md.	0	IN	NS	nsf.dns.md.
-md.	0	IN	NS	nsr.dns.md.
 md.	0	IN	DS	127 14 2 ca674f4a54be4629950ecdfd492b82c5dfc833006924d5f06f40749a543dd1d4
 nsc.dns.md.	0	IN	A	144.217.93.2
 nsc.dns.md.	0	IN	AAAA	2607:5300:201:3100::2f69
 nsf.dns.md.	0	IN	A	92.222.76.179
 nsf.dns.md.	0	IN	AAAA	2001:41d0:401:3100::7162
-nsr.dns.md.	0	IN	A	89.32.236.165
-nsr.dns.md.	0	IN	AAAA	2a00:c5a0:0:aaaa:89:32:236:165
 nsa.tld.md.	0	IN	A	185.108.181.191
 nsb.tld.md.	0	IN	A	185.108.181.192
 me.	0	IN	NS	a0.nic.me.
@@ -14747,7 +14744,6 @@ sa.	0	IN	NS	s2.dns.sa.
 sa.	0	IN	NS	sh1.dns.sa.
 sa.	0	IN	DS	2990 8 2 9f357b0a83134174b0e581c252ad172e9e5f750ab95a4c900c9655a919b560c0
 c1.dns.sa.	0	IN	A	86.111.192.9
-c1.dns.sa.	0	IN	AAAA	2001:67c:18c8:c0::c1
 c2.dns.sa.	0	IN	A	86.111.196.9
 c2.dns.sa.	0	IN	AAAA	2001:67c:130:10::9
 i1.dns.sa.	0	IN	A	212.138.118.118
@@ -20094,7 +20090,6 @@ xn--qxam.	0	IN	NS	gr-m.ics.forth.gr.
 xn--qxam.	0	IN	NS	estia.ics.forth.gr.
 xn--qxam.	0	IN	NS	gr-at.ics.forth.gr.
 xn--qxam.	0	IN	NS	grdns.ics.forth.gr.
-xn--qxam.	0	IN	DS	10384 8 2 10a432dbf0112ce38a83ced26f36ce36aac7a3d37cec8d07583c01a5e9fd8ed1
 xn--qxam.	0	IN	DS	57157 13 2 346e2d93a22f864aefc2b7350f4469af3887183bde885f8cc3b807477150e37e
 xn--rhqv96g.	0	IN	NS	ns1.teleinfo.cn.
 xn--rhqv96g.	0	IN	NS	ns2.teleinfoo.com.
