@@ -17,7 +17,7 @@ db = "tldr.sqlite3"
 
 def read_mtime_db(path: pathlib.Path) -> dict[str, int]:
     ret = {}
-    with open(path) as fd:
+    with open(path, newline="") as fd:
         reader = csv.DictReader(fd)
         for row in reader:
             ret[row["zone"]] = int(row["timestamp"])
@@ -28,7 +28,7 @@ def write_mtime_db(path: pathlib.Path, d: dict[str, int]):
     entries = [{"zone": k, "timestamp": v} for k, v in d.items()]
     entries.sort(key=lambda e: e["zone"])
 
-    with open(path, "w") as fd:
+    with open(path, "w", newline="") as fd:
         writer = csv.DictWriter(fd, ["zone", "timestamp"])
         writer.writeheader()
         writer.writerows(entries)
@@ -36,7 +36,7 @@ def write_mtime_db(path: pathlib.Path, d: dict[str, int]):
 
 def read_nsec3_db() -> dict[str, tuple[str, int]]:
     ret = {}
-    with open(nsec3_db_path) as fd:
+    with open(nsec3_db_path, newline="") as fd:
         reader = csv.DictReader(fd)
         for row in reader:
             ret[row["zone"]] = (row["status"], int(row["timestamp"]))
@@ -48,7 +48,7 @@ def write_nsec3_db(d: dict[str, tuple[str, int]]) -> None:
     entries = [{"zone": k, "status": t[0], "timestamp": t[1]} for k, t in d.items()]
     entries.sort(key=lambda e: e["zone"])
 
-    with open(nsec3_db_path, "w") as fd:
+    with open(nsec3_db_path, "w", newline="") as fd:
         writer = csv.DictWriter(fd, ["zone", "status", "timestamp"])
         writer.writeheader()
         writer.writerows(entries)

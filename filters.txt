@@ -2,16 +2,8 @@
 ^ch.$
 ^se.$
 
-# broken?
-#^dnsking.ch.$
-#^comcast.net.$
-^com.bt.$
-
+# reserved
 ^onion.$
-
-# temp™ workaround
-^ac.lk.$
-^comcast.net.$
 
 # way too big
 ^de5.net.$
@@ -19,5 +11,6 @@
 # EDE: 6 (DNSSEC Bogus): (proof of non-existence of saudex.se.gov.br. A)
 ^se.gov.br.$
 
-^go.gov.br.$
-^gov.ao.$
+# EDE: 22 (No Reachable Authority): (at delegation com.bt.)
+# EDE: 23 (Network Error): ([2405:d000:0:100::210]:53 returned SERVFAIL for bhutantraxyz.com.bt A)
+^com.bt.$
