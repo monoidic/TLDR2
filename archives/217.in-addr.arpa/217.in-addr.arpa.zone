@@ -20120,6 +20120,8 @@
 129.156.217.in-addr.arpa.	0	IN	NS	name.phx.gblx.net.
 129.156.217.in-addr.arpa.	0	IN	NS	name.roc.gblx.net.
 129.156.217.in-addr.arpa.	0	IN	NS	name.snv.gblx.net.
+13.156.217.in-addr.arpa.	0	IN	NS	pdns1.alexhost.com.
+13.156.217.in-addr.arpa.	0	IN	NS	pdns2.alexhost.com.
 130.156.217.in-addr.arpa.	0	IN	NS	name.iad.gblx.net.
 130.156.217.in-addr.arpa.	0	IN	NS	name.phx.gblx.net.
 130.156.217.in-addr.arpa.	0	IN	NS	name.roc.gblx.net.
@@ -23283,8 +23285,10 @@
 47.17.217.in-addr.arpa.	0	IN	NS	dns2.atman.pl.
 48.17.217.in-addr.arpa.	0	IN	NS	ns1.kencomp.net.
 48.17.217.in-addr.arpa.	0	IN	NS	ns2.kencomp.net.
+48.17.217.in-addr.arpa.	0	IN	NS	ns3.kencomp.net.
 49.17.217.in-addr.arpa.	0	IN	NS	ns1.kencomp.net.
 49.17.217.in-addr.arpa.	0	IN	NS	ns2.kencomp.net.
+49.17.217.in-addr.arpa.	0	IN	NS	ns3.kencomp.net.
 5.17.217.in-addr.arpa.	0	IN	NS	ns.edb.com.
 5.17.217.in-addr.arpa.	0	IN	NS	ns1.edb.com.
 5.17.217.in-addr.arpa.	0	IN	NS	ns2.edb.com.
@@ -23292,6 +23296,7 @@
 5.17.217.in-addr.arpa.	0	IN	DS	54125 13 2 68c8519c3ba8d688847b922c08b6b5a4b388f2e2cccbd51ace2e8111cd7846d0
 50.17.217.in-addr.arpa.	0	IN	NS	ns1.kencomp.net.
 50.17.217.in-addr.arpa.	0	IN	NS	ns2.kencomp.net.
+50.17.217.in-addr.arpa.	0	IN	NS	ns3.kencomp.net.
 51.17.217.in-addr.arpa.	0	IN	NS	ns1.kencomp.net.
 51.17.217.in-addr.arpa.	0	IN	NS	ns2.kencomp.net.
 52.17.217.in-addr.arpa.	0	IN	NS	ns1.kencomp.net.
@@ -41606,35 +41611,35 @@ ns14.6.179.217.in-addr.arpa.	0	IN	A	45.67.139.199
 192.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 192.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 192.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-192.31.217.in-addr.arpa.	0	IN	DS	6942 13 2 7b5c2febeb1284ad368e514d04082a629afc2b41458fd354f4ec9c565be46e60
+192.31.217.in-addr.arpa.	0	IN	DS	55486 13 2 c52504986957b9eab997cfa3fe3a1bab86281098a2e400254c7d35912d77a8e0
 193.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 193.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 193.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-193.31.217.in-addr.arpa.	0	IN	DS	32666 13 2 d9fcd154f9a2ceb61c4d9e5c95dec879f37cbe9a25d55a0c02dc61308d24b947
+193.31.217.in-addr.arpa.	0	IN	DS	12921 13 2 322dd1b90e314b044866539c24b6b740b97970fefe5683573882b5c038b1d990
 202.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 202.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 202.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-202.31.217.in-addr.arpa.	0	IN	DS	45094 13 2 f325b931403c37e4ed2cb3c13a49cd316542fdc8e574fdf341219566e59df2b9
+202.31.217.in-addr.arpa.	0	IN	DS	44854 13 2 b63ef9534d0eb36293e9429015c10312bacffdf95a9383eee52e9b3a866f7376
 203.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 203.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 203.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-203.31.217.in-addr.arpa.	0	IN	DS	2637 13 2 1e8d51707f7e1e9f86020c0d12c3f84be5ac20ccd96d30cf9329ecacce163282
+203.31.217.in-addr.arpa.	0	IN	DS	39961 13 2 a23ef7b96526d60791d0a27d500b0068089440ce4cee3e296b7db9659ef57513
 204.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 204.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 204.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-204.31.217.in-addr.arpa.	0	IN	DS	32731 13 2 13404832a3a81dd67c3298a82e25eb5d94a78513d45ab8cadf5638549d4998a6
+204.31.217.in-addr.arpa.	0	IN	DS	50160 13 2 12cdd5577b27467ebe0902be4c33d91dab3bfa203d779670d2c30018b2321aed
 205.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 205.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 205.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-205.31.217.in-addr.arpa.	0	IN	DS	11456 13 2 d72bbc3f3761383191b638c8733462ef2b9c427fe3c6dd0d65839cec3a3cfc85
+205.31.217.in-addr.arpa.	0	IN	DS	58661 13 2 32b50b8da80ed23dc871af2477e06c5d01caaa11cc410e0b67348842a76dd4d5
 206.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 206.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 206.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-206.31.217.in-addr.arpa.	0	IN	DS	21809 13 2 0ae74952938d9b4a6191dc24824ffe1768799b0aeb006b742175882b3087e929
+206.31.217.in-addr.arpa.	0	IN	DS	55851 13 2 23ba833f490716d3cfb65b98095f0913af2adeadbb58ca109b023884e4e14d56
 207.31.217.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
 207.31.217.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
 207.31.217.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
-207.31.217.in-addr.arpa.	0	IN	DS	51830 13 2 d25613dcb54f9c6d0d9a517fef729fa95e554cdbd447daf49f107718074650dc
+207.31.217.in-addr.arpa.	0	IN	DS	15383 13 2 7f7ba6f53d061f987ffe011487ae7de391dfd3318bd46b15ba50c80d7c352214
 208.31.217.in-addr.arpa.	0	IN	NS	auth01.ns.td-fn.net.
 208.31.217.in-addr.arpa.	0	IN	NS	auth02.ns.td-fn.net.
 209.31.217.in-addr.arpa.	0	IN	NS	auth01.ns.td-fn.net.
