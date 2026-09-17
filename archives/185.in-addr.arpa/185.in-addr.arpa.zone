@@ -45519,14 +45519,18 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 194.19.185.in-addr.arpa.	0	IN	NS	ns2.voip.kz.
 195.19.185.in-addr.arpa.	0	IN	NS	ns1.voip.kz.
 195.19.185.in-addr.arpa.	0	IN	NS	ns2.voip.kz.
-196.19.185.in-addr.arpa.	0	IN	NS	ns01.registrar.kabel-deutschland.de.
-196.19.185.in-addr.arpa.	0	IN	NS	ns02.registrar.kabel-deutschland.de.
-197.19.185.in-addr.arpa.	0	IN	NS	ns01.registrar.kabel-deutschland.de.
-197.19.185.in-addr.arpa.	0	IN	NS	ns02.registrar.kabel-deutschland.de.
-198.19.185.in-addr.arpa.	0	IN	NS	ns01.registrar.kabel-deutschland.de.
-198.19.185.in-addr.arpa.	0	IN	NS	ns02.registrar.kabel-deutschland.de.
-199.19.185.in-addr.arpa.	0	IN	NS	ns01.registrar.kabel-deutschland.de.
-199.19.185.in-addr.arpa.	0	IN	NS	ns02.registrar.kabel-deutschland.de.
+196.19.185.in-addr.arpa.	0	IN	NS	ns1.vodafone-ip.de.
+196.19.185.in-addr.arpa.	0	IN	NS	ns2.vodafone-ip.de.
+196.19.185.in-addr.arpa.	0	IN	NS	ns3.vodafone-ip.de.
+197.19.185.in-addr.arpa.	0	IN	NS	ns1.vodafone-ip.de.
+197.19.185.in-addr.arpa.	0	IN	NS	ns2.vodafone-ip.de.
+197.19.185.in-addr.arpa.	0	IN	NS	ns3.vodafone-ip.de.
+198.19.185.in-addr.arpa.	0	IN	NS	ns1.vodafone-ip.de.
+198.19.185.in-addr.arpa.	0	IN	NS	ns2.vodafone-ip.de.
+198.19.185.in-addr.arpa.	0	IN	NS	ns3.vodafone-ip.de.
+199.19.185.in-addr.arpa.	0	IN	NS	ns1.vodafone-ip.de.
+199.19.185.in-addr.arpa.	0	IN	NS	ns2.vodafone-ip.de.
+199.19.185.in-addr.arpa.	0	IN	NS	ns3.vodafone-ip.de.
 2.19.185.in-addr.arpa.	0	IN	NS	ns1.tlapnet.cz.
 2.19.185.in-addr.arpa.	0	IN	NS	ns2.tlapnet.cz.
 20.19.185.in-addr.arpa.	0	IN	NS	ns1.ncnet.ru.
@@ -47604,6 +47608,9 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 27.194.185.in-addr.arpa.	0	IN	NS	dns2.akiwifi.com.
 3.194.185.in-addr.arpa.	0	IN	NS	pns101.cloudns.net.
 3.194.185.in-addr.arpa.	0	IN	NS	pns102.cloudns.net.
+3.194.185.in-addr.arpa.	0	IN	NS	pns103.cloudns.net.
+3.194.185.in-addr.arpa.	0	IN	NS	pns104.cloudns.net.
+3.194.185.in-addr.arpa.	0	IN	DS	48911 13 2 5eb54bb1c375fad3e0d445bc7b72ce7123483e939ef91ca93a8e8aaf9f8d270a
 30.194.185.in-addr.arpa.	0	IN	NS	rdns1.bogahost.com.
 30.194.185.in-addr.arpa.	0	IN	NS	rdns2.bogahost.com.
 31.194.185.in-addr.arpa.	0	IN	NS	ns8.heficed.com.
@@ -83586,6 +83593,7 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 239.38.185.in-addr.arpa.	0	IN	NS	ns2.osselle.net.
 24.38.185.in-addr.arpa.	0	IN	NS	ns1.desec.io.
 24.38.185.in-addr.arpa.	0	IN	NS	ns2.desec.org.
+24.38.185.in-addr.arpa.	0	IN	DS	53699 13 2 0c8469ce5f82d2cdeaf64ca4db8ed0172def5a9539474028a58d2a4e878d27bb
 240.38.185.in-addr.arpa.	0	IN	NS	ns1-i.rollernet.us.
 240.38.185.in-addr.arpa.	0	IN	NS	ns2-i.rollernet.us.
 240.38.185.in-addr.arpa.	0	IN	NS	ns3-i.rollernet.net.
@@ -109129,14 +109137,10 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 81.84.185.in-addr.arpa.	0	IN	NS	ns.kamp.net.
 81.84.185.in-addr.arpa.	0	IN	NS	ns2.kamp.net.
 81.84.185.in-addr.arpa.	0	IN	NS	ns2.kampnic.net.
-82.84.185.in-addr.arpa.	0	IN	NS	ns1-05.azure-dns.com.
-82.84.185.in-addr.arpa.	0	IN	NS	ns2-05.azure-dns.net.
-82.84.185.in-addr.arpa.	0	IN	NS	ns3-05.azure-dns.org.
-82.84.185.in-addr.arpa.	0	IN	NS	ns4-05.azure-dns.info.
-83.84.185.in-addr.arpa.	0	IN	NS	ns1-07.azure-dns.com.
-83.84.185.in-addr.arpa.	0	IN	NS	ns2-07.azure-dns.net.
-83.84.185.in-addr.arpa.	0	IN	NS	ns3-07.azure-dns.org.
-83.84.185.in-addr.arpa.	0	IN	NS	ns4-07.azure-dns.info.
+82.84.185.in-addr.arpa.	0	IN	NS	auth.g1-dns.com.
+82.84.185.in-addr.arpa.	0	IN	NS	auth.g1-dns.one.
+83.84.185.in-addr.arpa.	0	IN	NS	auth.g1-dns.com.
+83.84.185.in-addr.arpa.	0	IN	NS	auth.g1-dns.one.
 88.84.185.in-addr.arpa.	0	IN	NS	ns1.fastfone.it.
 88.84.185.in-addr.arpa.	0	IN	NS	ns2.fastfone.it.
 89.84.185.in-addr.arpa.	0	IN	NS	ns1.fastfone.it.
