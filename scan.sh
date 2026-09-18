@@ -123,16 +123,10 @@ get_walkable() {
 _get_arpa() {
 	(
 		(
-			cd archives
-			for x in *.in-addr.arpa *.ip6.arpa; do
-				grep -ah 'IN\sNS\s' "${x}"/* | awk '{print $1}'
-			done
+			find archives -name '*.in-addr.arpa' -or -name '*.ip6.arpa' -exec grep -rah 'IN\sNS\s' '{}'/ \; | awk '{print $1}'
 		)
 		(
-			cd walk_lists
-			for x in *.in-addr.arpa.list *.ip6.arpa.list; do
-				cat "$x"
-			done
+			find walk_lists -name '*.in-addr.arpa.list' -or -name '*.ip6.arpa.list' -exec cat '{}' \;
 		)
 	) | sort -u | shuf | head -n 2000
 }
