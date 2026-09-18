@@ -138,6 +138,7 @@ _get_arpa() {
 }
 
 walk() {
+	mkdir -p "$(dirname "$1")"
 	sqlite3 "$db" "UPDATE name SET nsec_walked=TRUE"
 	sqlite3 "$db" "UPDATE name SET nsec_walked=FALSE WHERE name='${1}'"
 	scan -zone_walk -nsec_forever -num_procs 16
