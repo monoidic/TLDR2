@@ -140398,6 +140398,10 @@ f.0.0.1.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.dnsmacht.de.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.dnsmacht.de.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns3.dnsmacht.de.
+b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
+b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
+b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
+b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
@@ -140418,20 +140422,8 @@ a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns3.dnsmacht.de.
 1.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 1.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
 1.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
-4.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
-4.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
-4.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
-4.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 5.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	brady.ns.cloudflare.com.
 5.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	angela.ns.cloudflare.com.
-6.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
-6.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
-6.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
-6.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
-7.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
-7.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
-7.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
-7.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 0.0.b.4.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.acorus-networks.net.
 0.0.b.4.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.acorus-networks.fr.
 0.0.b.4.9.0.a.2.ip6.arpa.	0	IN	NS	ns3.acorus-networks.com.
@@ -153780,6 +153772,10 @@ f.f.f.6.0.4.1.8.d.0.a.2.ip6.arpa.	0	IN	NS	martin.ns.cloudflare.com.
 0.0.6.9.d.0.a.2.ip6.arpa.	0	IN	NS	auth02.ns.td-fn.net.
 0.0.0.0.3.4.8.9.d.0.a.2.ip6.arpa.	0	IN	NS	june.ns.cloudflare.com.
 0.0.0.0.3.4.8.9.d.0.a.2.ip6.arpa.	0	IN	NS	casey.ns.cloudflare.com.
+0.4.a.9.d.0.a.2.ip6.arpa.	0	IN	NS	ns1.euronodes.com.
+0.4.a.9.d.0.a.2.ip6.arpa.	0	IN	NS	ns2.euronodes.com.
+0.4.a.9.d.0.a.2.ip6.arpa.	0	IN	DS	57063 13 2 5ab2f90c6a845d3d8e5465ecb3c95198409b607276544848db76d444e929459b
+0.4.a.9.d.0.a.2.ip6.arpa.	0	IN	DS	57063 13 4 4e05dca294ab064af8e922f29cb4e8a586544468220cfe06f5f77e6b9931651435af928cc44b4d2fed5a0aeae1029cd6
 0.8.a.9.d.0.a.2.ip6.arpa.	0	IN	NS	ns02.readspeaker.com.
 0.8.a.9.d.0.a.2.ip6.arpa.	0	IN	NS	ns03.readspeaker.com.
 1.8.a.9.d.0.a.2.ip6.arpa.	0	IN	NS	ns02.readspeaker.com.
@@ -160542,6 +160538,8 @@ d.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	pns101.cloudns.net.
 d.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	pns102.cloudns.net.
 d.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	pns103.cloudns.net.
 d.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	pns104.cloudns.net.
+c.f.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns1.as210880.net.
+c.f.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns2.as210880.net.
 e.f.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	rita.ns.cloudflare.com.
 e.f.b.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	toby.ns.cloudflare.com.
 3.1.c.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	pcns01.amoskvin.net.
