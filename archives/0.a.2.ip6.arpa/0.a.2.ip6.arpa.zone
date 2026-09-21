@@ -1819,6 +1819,7 @@ f.f.f.f.8.9.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.webbaccess.nu.
 7.1.6.1.0.0.a.2.ip6.arpa.	0	IN	DS	32079 14 2 821cb36069911fe32e2c8783cea92838bd56b80f94cde25b647cf52b288c4988
 8.1.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.mmc.at.
 8.1.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.mmc.at.
+8.1.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.mmc.at.
 9.1.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.mmc.at.
 9.1.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.mmc.at.
 a.1.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.mmc.at.
@@ -98873,6 +98874,7 @@ f.0.0.0.0.4.1.7.1.0.a.2.ip6.arpa.	0	IN	NS	dns3.netstorming.net.
 0.0.3.7.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.zalaszam.hu.
 0.6.3.7.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.gits.lu.
 0.6.3.7.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.gits.lu.
+0.6.3.7.1.0.a.2.ip6.arpa.	0	IN	NS	ns3.gits.lu.
 0.3.0.e.0.e.3.7.1.0.a.2.ip6.arpa.	0	IN	NS	dns3.cleanmat-bg.net.
 0.3.0.e.0.e.3.7.1.0.a.2.ip6.arpa.	0	IN	NS	dns4.cleanmat-bg.net.
 0.0.4.7.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.iq.pl.
@@ -103152,6 +103154,7 @@ c.4.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.ah-server.com.
 8.a.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns4.baden.domains.
 0.b.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.s-fg-net.de.
 0.b.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.s-fg-net.com.
+0.b.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns3.s-fg-net.eu.
 0.b.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns4.s-fg-net.de.
 8.c.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns.naukanet.ru.
 8.c.b.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.naukanet.ru.
@@ -132559,6 +132562,8 @@ f.f.0.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	DS	31907 13 2 df704aedfa50bfc27bed9d70a1dd4
 6.1.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	mckinley.ns.cloudflare.com.
 7.1.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	coco.bunny.net.
 7.1.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	kiki.bunny.net.
+a.1.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns1.desec.io.
+a.1.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.desec.org.
 4.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	cleo.ns.cloudflare.com.
 4.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	lovisa.ns.cloudflare.com.
 0.6.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns1.mintcloud.eu.
@@ -140402,10 +140407,8 @@ f.0.0.1.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.dnsmacht.de.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.dnsmacht.de.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns3.dnsmacht.de.
-b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
-b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
-b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
-b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
+b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.wolfscastle.de.
+b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.wolfscastle.de.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
