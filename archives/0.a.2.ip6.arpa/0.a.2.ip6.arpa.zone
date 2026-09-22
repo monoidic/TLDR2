@@ -100098,6 +100098,8 @@ a.a.3.a.0.c.9.a.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.wplatform.net.
 1.0.7.0.1.0.0.0.0.2.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	ns2v6.doclernet.hu.
 1.0.8.0.1.0.0.0.0.2.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	ns1v6.doclernet.hu.
 1.0.8.0.1.0.0.0.0.2.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	ns2v6.doclernet.hu.
+1.0.8.0.0.2.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	ns1v6.doclernet.hu.
+1.0.8.0.0.2.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	ns2v6.doclernet.hu.
 0.a.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	dns1.telematica.at.
 0.a.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	dns2.telematica.at.
 0.a.e.a.1.0.a.2.ip6.arpa.	0	IN	NS	dns3.telematica.at.
@@ -140380,6 +140382,10 @@ f.0.0.1.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 1.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 1.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
 1.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
+2.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
+2.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
+2.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
+2.0.2.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 0.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
 0.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 0.0.1.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	tom.dnsrelay.network.
@@ -155240,30 +155246,22 @@ e.4.6.4.0.c.c.1.e.0.a.2.ip6.arpa.	0	IN	NS	ns5.he.net.
 6.4.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	rdns3.orbittelekom.com.
 7.4.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	rdns2.orbittelekom.com.
 7.4.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	rdns3.orbittelekom.com.
-0.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-0.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-0.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	2664 14 2 a89944c8c25920ee42eb4a8da7ec574e1ceae330a9903615feac84f7d626800b
-1.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-1.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-1.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	30715 14 2 bac1f54cace924fae5eafc609a5cc3a7ab8c67500f3d7775ff9390fe17721301
-2.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-2.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-2.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	38417 14 2 64efe57830fea63958bbdb3ac42382d26c3b3cdb64c9bce8df93e9f28c312c10
-3.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-3.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-3.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	42123 14 2 40e057f00814ac2d1757c795ae22e2a4a05bf8679086dddd5625eb0462c08043
-4.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-4.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-4.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	2748 14 2 e221b178398a01bb76f0a3e81db5f6c2b8c8b4ac5f624f576e03f9a9aea71884
-5.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-5.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-5.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	17586 14 2 d6f29cb4f75beaa5d10560039bbe239b90c675bb52bbc02097f308ee11ac1c4e
-6.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-6.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-6.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	29039 14 2 f713d311313b40ab1d5a9cba4555a7af6f03116bf6a99823644fc9c945fd7344
-7.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-cgn.dalason.net.
-7.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns.dc-dus.dalason.net.
-7.8.9.2.e.0.a.2.ip6.arpa.	0	IN	DS	50616 14 2 463f162120e458444853c8033586e53ba5fad51e53c750e8fa50e6ca6c544d2b
+0.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+0.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+1.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+1.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+2.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+2.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+3.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+3.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+4.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+4.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+5.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+5.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+6.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+6.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
+7.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.dalason.net.
+7.8.9.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.dalason.net.
 0.0.0.0.0.8.b.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.uptm.ch.
 0.0.0.0.0.8.b.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.uptm.ch.
 0.0.0.0.0.8.b.2.e.0.a.2.ip6.arpa.	0	IN	NS	ns3.uptm.ch.
