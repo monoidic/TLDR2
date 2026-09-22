@@ -4,6 +4,7 @@ fj.	0	IN	NS	ns3.fj.
 fj.	0	IN	NS	ns4.fj.
 fj.	0	IN	NS	ns5.fj.
 fj.	0	IN	DNSKEY	256 3 15 UUFDojsnpKpMHm4IJdTvB3lh6KAjgHfH1KGDmqwsM0E= ;{id = 31931 (zsk), size = 256b}
+fj.	0	IN	DNSKEY	256 3 15 1mIwKDsWn99t3fvfPe+2UiLLxrfK/h43fPzDTsd5674= ;{id = 2508 (zsk), size = 256b}
 fj.	0	IN	DNSKEY	257 3 15 eKYONVzoO6C8c+Plx+9+ldUJpDPG0iWNcw4fYQjfxWg= ;{id = 53415 (ksk), size = 256b}
 fj.	0	IN	NSEC3PARAM	1 0 0 - 
 adpatelcollege.ac.fj.	0	IN	NS	aron.ns.cloudflare.com.
@@ -1402,6 +1403,8 @@ clydepac.com.fj.	0	IN	NS	drua.tfl.com.fj.
 clydepac.com.fj.	0	IN	NS	tabua.tfl.com.fj.
 cml.com.fj.	0	IN	NS	ns1.auserver.com.au.
 cml.com.fj.	0	IN	NS	ns2.auserver.com.au.
+cmp.com.fj.	0	IN	NS	caching01.usp.ac.fj.
+cmp.com.fj.	0	IN	NS	caching02.usp.ac.fj.
 cnae.com.fj.	0	IN	NS	ns1.bluehost.com.
 cnae.com.fj.	0	IN	NS	ns2.bluehost.com.
 cnn.com.fj.	0	IN	NS	ns-416.awsdns-52.com.
