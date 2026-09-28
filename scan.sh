@@ -27,6 +27,8 @@ prework() {
 
 	# download PSL
 	wget https://raw.githubusercontent.com/publicsuffix/list/refs/heads/main/public_suffix_list.dat || exit 1
+	# add eTLDs not directly listed in PSL
+	cat manual_second_levels.txt >> public_suffix_list.dat
 	# convert to idna lol
 	sed '/^\/\//d;/^$/d;s/^\*\.//;s/^!//' public_suffix_list.dat | python3 -c 'print("\n".join(x.encode("idna").decode() for x in __import__("sys").stdin.read().splitlines()))' > entries.txt
 	_get_arpa >> entries.txt
