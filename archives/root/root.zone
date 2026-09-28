@@ -1893,7 +1893,6 @@ bh.	0	IN	NS	ns01.trs-dns.net.
 bh.	0	IN	NS	ns10.trs-dns.org.
 bh.	0	IN	NS	ns10.trs-dns.info.
 bh.	0	IN	DS	16165 13 2 45213cb31d25c008d3e888f9b4ce9b04c11aca091077eee4f2dfc330d7c232a2
-bh.	0	IN	DS	62264 8 2 c4078eb7e70029e2bbed8f7271d9f7636c133746c0e3dc22ea7f1bfda231b246
 bharti.	0	IN	NS	a.nic.bharti.
 bharti.	0	IN	NS	b.nic.bharti.
 bharti.	0	IN	NS	c.nic.bharti.
@@ -9543,7 +9542,7 @@ kpn.	0	IN	NS	b.nic.kpn.
 kpn.	0	IN	NS	c.nic.kpn.
 kpn.	0	IN	NS	d.nic.kpn.
 kpn.	0	IN	DS	6010 7 2 e5a8e92b179784641c4fcb989bd6946ea85a03812039f5061922d1815992fbc6
-kpn.	0	IN	DS	10051 7 2 f265871198c769849f8acf952f01fcd412c9b3dc5dbf8fca98911d5052c0a240
+kpn.	0	IN	DS	17925 13 2 e83d7b33fd0af60b6983c8c15830de3b8f3c16c0b1a3163dd2368797885a893b
 a.nic.kpn.	0	IN	A	194.169.218.90
 a.nic.kpn.	0	IN	AAAA	2001:67c:13cc::1:90
 b.nic.kpn.	0	IN	A	185.24.64.90
@@ -14525,6 +14524,7 @@ v2n0.nic.rip.	0	IN	AAAA	2a01:8840:25::22
 v2n1.nic.rip.	0	IN	A	161.232.17.22
 v2n1.nic.rip.	0	IN	AAAA	2a01:8840:fb::22
 ro.	0	IN	NS	dns-c.rotld.ro.
+ro.	0	IN	NS	dns-d.rotld.ro.
 ro.	0	IN	NS	dns-at.rotld.ro.
 ro.	0	IN	NS	dns-ro.denic.de.
 ro.	0	IN	NS	primary.rotld.ro.
@@ -14535,6 +14535,8 @@ dns-at.rotld.ro.	0	IN	A	78.104.145.6
 dns-at.rotld.ro.	0	IN	AAAA	2001:628:453:bb::6
 dns-c.rotld.ro.	0	IN	A	194.0.11.113
 dns-c.rotld.ro.	0	IN	AAAA	2001:678:e:113::53
+dns-d.rotld.ro.	0	IN	A	194.102.178.21
+dns-d.rotld.ro.	0	IN	AAAA	2a03:5e81::194:102:178:21
 primary.rotld.ro.	0	IN	A	192.162.16.18
 primary.rotld.ro.	0	IN	AAAA	2a03:5e80:0:4:192:162:16:18
 sec-dns-a.rotld.ro.	0	IN	A	192.162.16.20
@@ -19886,7 +19888,6 @@ xn--mgbcpq6gpa1a.	0	IN	NS	ns01.trs-dns.net.
 xn--mgbcpq6gpa1a.	0	IN	NS	ns10.trs-dns.org.
 xn--mgbcpq6gpa1a.	0	IN	NS	ns10.trs-dns.info.
 xn--mgbcpq6gpa1a.	0	IN	DS	22024 13 2 7d1259cceacb19ea52d0ede37f98e085b560c9c8d5a5cf696dc38411c7df2c2e
-xn--mgbcpq6gpa1a.	0	IN	DS	43307 8 2 f81dacc26855561ec37ffd774f722c2c5f07a181c611114ae28724460001fd39
 xn--mgberp4a5d4ar.	0	IN	NS	c1.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	c2.dns.sa.
 xn--mgberp4a5d4ar.	0	IN	NS	i1.dns.sa.
