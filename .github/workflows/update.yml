@@ -8,7 +8,7 @@ on:
 jobs:
   prework:
     name: Prework
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     container:
       image: ghcr.io/monoidic/tldr2:latest
     outputs:
@@ -30,7 +30,7 @@ jobs:
 
   axfr:
     name: Zone transfer
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     container:
       image: ghcr.io/monoidic/tldr2:latest
     needs: prework
@@ -50,7 +50,7 @@ jobs:
 
   zone_walk:
     name: Zone walks
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     container:
       image: ghcr.io/monoidic/tldr2:latest
     needs: prework
@@ -78,7 +78,7 @@ jobs:
 
   walked:
     name: Collect zone walking
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     container:
       image: ghcr.io/monoidic/tldr2:latest
     needs:
