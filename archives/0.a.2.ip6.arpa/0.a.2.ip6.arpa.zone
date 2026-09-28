@@ -883,7 +883,7 @@ c.b.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns04.versatel.de.
 8.c.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns4.hexanet.fr.
 0.e.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.relaix.net.
 0.e.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.relaix.net.
-0.e.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.relaix.net.
+0.e.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.relaix.de.
 0.0.0.0.0.f.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns.alsys.ro.
 0.0.0.0.0.f.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	birlic.alsys.ro.
 4.3.2.1.0.f.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.interlan.ro.
@@ -100528,6 +100528,8 @@ d.a.e.d.f.0.0.0.0.c.c.e.1.0.a.2.ip6.arpa.	0	IN	NS	pns64.cloudns.uk.
 3.0.c.c.e.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.nuxtdns.com.
 5.0.c.c.e.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.nuxtdns.com.
 5.0.c.c.e.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.nuxtdns.com.
+9.0.c.c.e.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.nuxtdns.com.
+9.0.c.c.e.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.nuxtdns.com.
 1.0.0.0.0.8.e.e.1.0.a.2.ip6.arpa.	0	IN	NS	nash.ns.cloudflare.com.
 1.0.0.0.0.8.e.e.1.0.a.2.ip6.arpa.	0	IN	NS	nora.ns.cloudflare.com.
 1.0.0.0.0.8.e.e.1.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 7c3f12edb6679c1d140477d3d1c364ff0ba6b12c9e356f6a48b857a88d337914
@@ -104526,7 +104528,7 @@ c.b.0.0.0.3.3.2.2.0.a.2.ip6.arpa.	0	IN	NS	in160.ecomz.net.
 9.e.3.2.2.0.a.2.ip6.arpa.	0	IN	DS	53262 13 2 0d77729941b6e466413e0197162b3c757b30e7d64afe2ba7febce93ff658404a
 8.f.3.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.relaix.net.
 8.f.3.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.relaix.net.
-8.f.3.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns3.relaix.net.
+8.f.3.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns3.relaix.de.
 0.0.4.2.2.0.a.2.ip6.arpa.	0	IN	NS	a5-64.akam.net.
 0.0.4.2.2.0.a.2.ip6.arpa.	0	IN	NS	a8-65.akam.net.
 0.0.4.2.2.0.a.2.ip6.arpa.	0	IN	NS	a1-207.akam.net.
@@ -146040,8 +146042,14 @@ b.1.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	tani.ns.cloudflare.com.
 b.1.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	harvey.ns.cloudflare.com.
 1.0.c.1.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	rdns1.bharatdatacenter.com.
 1.0.c.1.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	rdns2.bharatdatacenter.com.
-8.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
-8.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
+8.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1-vel.v6direct.org.
+8.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns2-vel.v6direct.org.
+9.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1-vel.v6direct.org.
+9.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns2-vel.v6direct.org.
+a.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1-vel.v6direct.org.
+a.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns2-vel.v6direct.org.
+b.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1-vel.v6direct.org.
+b.0.0.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns2-vel.v6direct.org.
 8.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	server-de.ns.dns.gohegan.net.
 8.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	server-fr.ns.dns.gohegan.net.
 8.2.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	server-gb.ns.dns.gohegan.net.
@@ -154553,8 +154561,8 @@ c.1.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns2.nuxtdns.com.
 2.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns2.vmrdns.sculk.ltd.
 5.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns1.sr-net.ru.
 5.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns2.sr-net.ru.
-6.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	javier.ns.cloudflare.com.
-6.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	mallory.ns.cloudflare.com.
+6.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	anton.ns.cloudflare.com.
+6.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	bella.ns.cloudflare.com.
 d.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	vita.ns.cloudflare.com.
 d.0.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	alexis.ns.cloudflare.com.
 c.5.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns1.alterra.host.
@@ -154578,8 +154586,8 @@ e.5.0.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	vasilii.ns.cloudflare.com.
 3.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns5.he.net.
 2.0.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns1.rusk.network.
 2.0.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	ns2.rusk.network.
-4.1.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	keira.ns.cloudflare.com.
-4.1.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	miles.ns.cloudflare.com.
+4.1.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	tanner.ns.cloudflare.com.
+4.1.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	treasure.ns.cloudflare.com.
 0.b.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	dns41.cloudns.net.
 0.b.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	dns42.cloudns.net.
 0.b.0.9.0.4.9.d.d.0.a.2.ip6.arpa.	0	IN	NS	dns43.cloudns.net.
