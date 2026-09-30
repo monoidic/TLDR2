@@ -7,6 +7,7 @@ import os
 import json
 import sqlite3
 import csv
+import io
 
 basepath = pathlib.Path("walk_lists")
 walk_mtime_db_path = pathlib.Path("walk_mtime_db.csv")
@@ -15,7 +16,7 @@ nsec3_db_path = pathlib.Path("nsec3_db.csv")
 db = "tldr.sqlite3"
 
 
-def read_mtime_db(path: pathlib.Path) -> dict[str, int]:
+def old_read_mtime_db(path: pathlib.Path) -> dict[str, int]:
     ret = {}
     with open(path, newline="") as fd:
         reader = csv.DictReader(fd)
@@ -24,11 +25,39 @@ def read_mtime_db(path: pathlib.Path) -> dict[str, int]:
     return ret
 
 
+def read_mtime_db(path: pathlib.Path) -> dict[str, int]:
+    ret = {}
+    raw = path.read_bytes().decode("utf-8")
+    timestamps, zones = raw.split("\r\n\r\n")
+    timestamp_map: dict[int, int] = {}
+
+    with io.StringIO(timestamps) as fd:
+        reader = csv.DictReader(fd)
+        for i, row in enumerate(reader):
+            timestamp_map[i + 1] = int(row["timestamp"])
+
+    with io.StringIO(zones) as fd:
+        reader = csv.DictReader(fd)
+        for row in reader:
+            ret[row["zone"]] = timestamp_map[int(row["timestamp"])]
+
+    return ret
+
+
 def write_mtime_db(path: pathlib.Path, d: dict[str, int]):
-    entries = [{"zone": k, "timestamp": v} for k, v in d.items()]
+    timestamps_s = sorted(set(d.values()))
+    timestamps_m = {timestamp: i + 1 for i, timestamp in enumerate(timestamps_s)}
+    timestamps_entries = [{"timestamp": timestamp} for timestamp in timestamps_s]
+
+    entries = [{"zone": k, "timestamp": timestamps_m[v]} for k, v in d.items()]
     entries.sort(key=lambda e: e["zone"])
 
     with open(path, "w", newline="") as fd:
+        writer = csv.DictWriter(fd, ["timestamp"])
+        writer.writeheader()
+        writer.writerows(timestamps_entries)
+        fd.write("\r\n")
+
         writer = csv.DictWriter(fd, ["zone", "timestamp"])
         writer.writeheader()
         writer.writerows(entries)
@@ -36,19 +65,40 @@ def write_mtime_db(path: pathlib.Path, d: dict[str, int]):
 
 def read_nsec3_db() -> dict[str, tuple[str, int]]:
     ret = {}
-    with open(nsec3_db_path, newline="") as fd:
+    raw = nsec3_db_path.read_bytes().decode("utf-8")
+    timestamps, zones = raw.split("\r\n\r\n")
+    timestamp_map: dict[int, int] = {}
+
+    with io.StringIO(timestamps) as fd:
+        reader = csv.DictReader(fd)
+        for i, row in enumerate(reader):
+            timestamp_map[i + 1] = int(row["timestamp"])
+
+    with io.StringIO(zones) as fd:
         reader = csv.DictReader(fd)
         for row in reader:
-            ret[row["zone"]] = (row["status"], int(row["timestamp"]))
+            ret[row["zone"]] = (row["status"], timestamp_map[int(row["timestamp"])])
 
     return ret
 
 
 def write_nsec3_db(d: dict[str, tuple[str, int]]) -> None:
-    entries = [{"zone": k, "status": t[0], "timestamp": t[1]} for k, t in d.items()]
+    timestamps_s = sorted(set(t[1] for t in d.values()))
+    timestamps_m = {timestamp: i + 1 for i, timestamp in enumerate(timestamps_s)}
+    timestamps_entries = [{"timestamp": timestamp} for timestamp in timestamps_s]
+
+    entries = [
+        {"zone": k, "status": t[0], "timestamp": timestamps_m[t[1]]}
+        for k, t in d.items()
+    ]
     entries.sort(key=lambda e: e["zone"])
 
     with open(nsec3_db_path, "w", newline="") as fd:
+        writer = csv.DictWriter(fd, ["timestamp"])
+        writer.writeheader()
+        writer.writerows(timestamps_entries)
+        fd.write("\r\n")
+
         writer = csv.DictWriter(fd, ["zone", "status", "timestamp"])
         writer.writeheader()
         writer.writerows(entries)
