@@ -3990,7 +3990,6 @@ ns1.ryce-rsp.com.	0	IN	AAAA	2a0c:8f40:0:701::111
 ns2.teleinfoo.com.	0	IN	A	103.61.61.1
 ns2.teleinfoo.com.	0	IN	AAAA	2402:7d80:8888::1
 ns4.teleinfoo.com.	0	IN	A	103.61.63.1
-ns2.tojikiston.com.	0	IN	A	193.111.11.4
 ns01.trs-dns.com.	0	IN	A	64.96.1.1
 ns01.trs-dns.com.	0	IN	AAAA	2620:57:4001::1
 dns1.u-registry.com.	0	IN	A	51.222.128.197
@@ -9546,7 +9545,6 @@ kpn.	0	IN	NS	a.nic.kpn.
 kpn.	0	IN	NS	b.nic.kpn.
 kpn.	0	IN	NS	c.nic.kpn.
 kpn.	0	IN	NS	d.nic.kpn.
-kpn.	0	IN	DS	6010 7 2 e5a8e92b179784641c4fcb989bd6946ea85a03812039f5061922d1815992fbc6
 kpn.	0	IN	DS	17925 13 2 e83d7b33fd0af60b6983c8c15830de3b8f3c16c0b1a3163dd2368797885a893b
 a.nic.kpn.	0	IN	A	194.169.218.90
 a.nic.kpn.	0	IN	AAAA	2001:67c:13cc::1:90
@@ -12039,7 +12037,7 @@ sn.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::111
 sz.cctld.authdns.ripe.net.	0	IN	A	193.0.9.114
 sz.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::114
 tj.cctld.authdns.ripe.net.	0	IN	A	193.0.9.117
-tj.cctld.authdns.ripe.net.	0	IN	AAAA	2001:67c:e0::117
+tj.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::117
 ug.cctld.authdns.ripe.net.	0	IN	A	193.0.9.52
 ug.cctld.authdns.ripe.net.	0	IN	AAAA	2a13:27c0:30::52
 sec2.authdns.ripe.net.	0	IN	A	193.0.9.4
@@ -17073,7 +17071,6 @@ tirol.	0	IN	NS	ns1.ryce-rsp.com.
 tirol.	0	IN	DS	52354 8 2 c69a3d977e6dfbeb38ea5627c10cfbd818c97a111ef0c24d1c6e21b9484846fb
 tj.	0	IN	NS	tj.cctld.authdns.ripe.net.
 tj.	0	IN	NS	ns1.nic.tj.
-tj.	0	IN	NS	ns2.tojikiston.com.
 tj.	0	IN	NS	phloem.uoregon.edu.
 ns1.nic.tj.	0	IN	A	91.218.160.197
 tjmaxx.	0	IN	NS	a.nic.tjmaxx.
