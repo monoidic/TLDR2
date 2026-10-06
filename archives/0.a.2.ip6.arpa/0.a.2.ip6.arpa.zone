@@ -1665,6 +1665,8 @@ f.e.4.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.novso.com.
 0.0.8.3.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.verixi.net.
 0.0.8.3.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.verixi.net.
 0.0.8.3.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns4.verixi.net.
+1.0.0.3.0.4.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.verixi.net.
+1.0.0.3.0.4.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.verixi.net.
 0.0.0.8.1.3.0.4.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.verixi.net.
 0.0.0.8.1.3.0.4.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.verixi.net.
 1.0.0.8.1.3.0.4.8.2.5.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.verixi.net.
@@ -102212,6 +102214,8 @@ f.8.c.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	in-addr.ps.
 0.e.6.0.2.0.a.2.ip6.arpa.	0	IN	DS	5547 13 2 bbaf91e96345e4d36e1017952751809022b8aa7f4970c695231d77221aec7dd7
 6.0.0.0.0.0.0.0.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.sewan.fr.
 6.0.0.0.0.0.0.0.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.sewan.fr.
+0.0.0.3.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.sewan.fr.
+0.0.0.3.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.sewan.fr.
 e.a.3.c.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.sewan.fr.
 e.a.3.c.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.sewan.fr.
 0.d.8.e.6.0.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.sewan.fr.
@@ -140519,6 +140523,10 @@ a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.dnsmacht.de.
 a.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns3.dnsmacht.de.
 b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.wolfscastle.de.
 b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.wolfscastle.de.
+c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
+c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
+c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
+c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
@@ -147545,6 +147553,8 @@ e.0.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns2.serverdiscounter.com.
 9.3.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns2.serverdiscounter.com.
 d.3.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns1.serverdiscounter.com.
 d.3.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns2.serverdiscounter.com.
+9.5.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns1.serverdiscounter.com.
+9.5.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns2.serverdiscounter.com.
 0.8.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns3.serverdiscounter.com.
 0.8.0.0.0.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns4.serverdiscounter.com.
 9.0.0.0.1.0.0.0.0.c.b.b.b.0.a.2.ip6.arpa.	0	IN	NS	ns1.serverdiscounter.com.
@@ -160919,6 +160929,7 @@ f.9.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns2.desec.org.
 6.b.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns4.vinehost.net.
 0.d.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	yavin.as212811.net.
 0.d.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	dathomir.as212811.net.
+0.d.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	DS	4710 13 2 0ebc20711a78559be95970f6c3580095446d93c6f6305b6f0c60d6aab7ed14a8
 6.d.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns1.rdns.as214749.net.
 6.d.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns2.rdns.as214749.net.
 6.d.d.0.1.c.5.8.f.0.a.2.ip6.arpa.	0	IN	NS	ns3.rdns.as214749.net.
@@ -161773,8 +161784,6 @@ f.a.3.0.0.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	margo.ns.cloudflare.com.
 0.0.1.0.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	pns52.cloudns.net.
 0.0.1.0.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	pns53.cloudns.net.
 0.0.1.0.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	pns54.cloudns.net.
-2.7.8.1.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	emely.ns.cloudflare.com.
-2.7.8.1.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	sonny.ns.cloudflare.com.
 1.1.0.0.2.3.5.5.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	elle.ns.cloudflare.com.
 1.1.0.0.2.3.5.5.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	jake.ns.cloudflare.com.
 2.1.0.0.2.3.5.5.6.c.6.e.f.0.a.2.ip6.arpa.	0	IN	NS	amir.ns.cloudflare.com.
