@@ -33,6 +33,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 11.gp.	0	IN	NS	ns2.dan.com.
 111.gp.	0	IN	NS	ns1.dan.com.
 111.gp.	0	IN	NS	ns2.dan.com.
+1111.gp.	0	IN	NS	dns1.cloudns.net.
+1111.gp.	0	IN	NS	dns2.cloudns.net.
 123.gp.	0	IN	NS	ns1.alidns.com.
 123.gp.	0	IN	NS	ns2.alidns.com.
 14.gp.	0	IN	NS	pdns1.registrar-servers.com.
@@ -89,6 +91,8 @@ gp.	0	IN	MX	10 ns1.nic.gp.
 39.gp.	0	IN	NS	ns2.dan.com.
 4.gp.	0	IN	NS	ns21.kv.de.
 4.gp.	0	IN	NS	ns22.kv.de.
+404.gp.	0	IN	NS	dns1.cloudns.net.
+404.gp.	0	IN	NS	dns2.cloudns.net.
 44.gp.	0	IN	NS	jaxson.ns.cloudflare.com.
 44.gp.	0	IN	NS	sharon.ns.cloudflare.com.
 5.gp.	0	IN	NS	ns21.kv.de.
@@ -463,6 +467,8 @@ alstom.gp.	0	IN	NS	ns3.nameshield.net.
 alstom.gp.	0	IN	NS	obs.ns1.fr.
 alterium.gp.	0	IN	NS	ns10.ovh.net.
 alterium.gp.	0	IN	NS	dns10.ovh.net.
+am.gp.	0	IN	NS	dns1.cloudns.net.
+am.gp.	0	IN	NS	dns2.cloudns.net.
 amana.gp.	0	IN	NS	ns.whirlpool.com.
 amana.gp.	0	IN	NS	ns2.whirlpool.com.
 amazon.gp.	0	IN	NS	ns2.amzndns.co.uk.
@@ -638,7 +644,6 @@ astellaspharma.gp.	0	IN	NS	ns4.markmonitor.com.
 astellaspharma.gp.	0	IN	NS	ns5.markmonitor.com.
 atc.gp.	0	IN	NS	ns109.ovh.net.
 atc.gp.	0	IN	NS	dns109.ovh.net.
-atec.gp.	0	IN	NS	dns.ovh.net.
 atec.gp.	0	IN	NS	dns5.cloudns.net.
 atec.gp.	0	IN	NS	dns6.cloudns.net.
 atemp.gp.	0	IN	NS	art.ns.cloudflare.com.
@@ -1273,7 +1278,7 @@ ciscosystems.gp.	0	IN	NS	ns1.markmonitor.com.
 ciscosystems.gp.	0	IN	NS	ns3.markmonitor.com.
 cita.gp.	0	IN	NS	ns100.ovh.net.
 cita.gp.	0	IN	NS	dns100.ovh.net.
-citroen.gp.	0	IN	NS	c.dns.gandi.net.
+citroen.gp.	0	IN	NS	ns-43-c.gandi.net.
 citroen.gp.	0	IN	NS	ns-115-b.gandi.net.
 citroen.gp.	0	IN	NS	ns-210-a.gandi.net.
 citroen-origins.gp.	0	IN	NS	a.dns.gandi.net.
@@ -1352,7 +1357,7 @@ colonialclub.gp.	0	IN	NS	ns1.o2switch.net.
 colonialclub.gp.	0	IN	NS	ns2.o2switch.net.
 com.gp.	0	IN	NS	ns1.nic.gp.
 com.gp.	0	IN	NS	ns-gp.nic.fr.
-cometh.gp.	0	IN	NS	ns.18ovh.net.
+cometh.gp.	0	IN	NS	ns18.ovh.net.
 cometh.gp.	0	IN	NS	dns18.ovh.net.
 comlaude.gp.	0	IN	NS	nsgbr.comlaude.co.uk.
 comlaude.gp.	0	IN	NS	nssui.comlaude.ch.
@@ -1402,8 +1407,6 @@ courir.gp.	0	IN	NS	ns4.safebrands.org.
 courir.gp.	0	IN	NS	ns5.safebrands.tech.
 cpg.gp.	0	IN	NS	dns1.cscdns.net.
 cpg.gp.	0	IN	NS	dns2.cscdns.net.
-cq.gp.	0	IN	NS	ns1.sedoparking.com.
-cq.gp.	0	IN	NS	ns2.sedoparking.com.
 crawfordandcompany.gp.	0	IN	NS	dns1.cscdns.net.
 crawfordandcompany.gp.	0	IN	NS	dns2.cscdns.net.
 crcc.gp.	0	IN	NS	pns1.cloudns.net.
@@ -1431,7 +1434,6 @@ csr.gp.	0	IN	NS	dns1.p02.nsone.net.
 csr.gp.	0	IN	NS	dns2.p02.nsone.net.
 csr.gp.	0	IN	NS	dns3.p02.nsone.net.
 csr.gp.	0	IN	NS	dns4.p02.nsone.net.
-csw.gp.	0	IN	NS	dns2.cloudns.net.
 cultura.gp.	0	IN	NS	ns101.ovh.net.
 cultura.gp.	0	IN	NS	dns101.ovh.net.
 customrepaint.gp.	0	IN	NS	dns1.cloudns.net.
@@ -1629,19 +1631,19 @@ dolibarr.gp.	0	IN	NS	pns3.cloudns.net.
 dolibarr.gp.	0	IN	NS	pns4.cloudns.net.
 domain.gp.	0	IN	NS	dns1.cloudns.net.
 domain.gp.	0	IN	NS	dns2.cloudns.net.
+domaine.gp.	0	IN	NS	dns1.cloudns.net.
+domaine.gp.	0	IN	NS	dns2.cloudns.net.
 domaines.gp.	0	IN	NS	ns16.ovh.net.
 domaines.gp.	0	IN	NS	dns16.ovh.net.
 domains.gp.	0	IN	NS	ns101.ovh.net.
 domains.gp.	0	IN	NS	dns101.ovh.net.
 domex.gp.	0	IN	NS	ns10.ovh.net.
 domex.gp.	0	IN	NS	dns10.ovh.net.
-domini.gp.	0	IN	NS	ns1.register.it.
-domini.gp.	0	IN	NS	ns2.register.it.
 dominiando.gp.	0	IN	NS	ns.dominiando.it.
 dominiando.gp.	0	IN	NS	ns.dominiando.uk.
 dominiando.gp.	0	IN	NS	ns.dominiando.us.
 dominiando.gp.	0	IN	NS	ns.dominiando.asia.
-domplayer.gp.	0	IN	NS	ucum.ns.cloudflare.com.
+domplayer.gp.	0	IN	NS	nucum.ns.cloudflare.com.
 domplayer.gp.	0	IN	NS	santino.ns.cloudflare.com.
 domtomlegal.gp.	0	IN	NS	ns1.netim.net.
 domtomlegal.gp.	0	IN	NS	ns2.netim.net.
@@ -1740,7 +1742,6 @@ echovital.gp.	0	IN	NS	ns3.netim.net.
 eco.gp.	0	IN	NS	dns.online.pro.
 eco.gp.	0	IN	NS	dns2.online.pro.
 eco.gp.	0	IN	NS	dns3.online.pro.
-eco.gp.	0	IN	NS	ns1045.ui-dns.biz.
 ecoledesmetiersgbh.gp.	0	IN	NS	ns-6-a.gandi.net.
 ecoledesmetiersgbh.gp.	0	IN	NS	ns-97-c.gandi.net.
 ecoledesmetiersgbh.gp.	0	IN	NS	ns-122-b.gandi.net.
@@ -2230,7 +2231,7 @@ gbh.gp.	0	IN	NS	ns-147-a.gandi.net.
 gc.gp.	0	IN	NS	ns1.dan.com.
 gc.gp.	0	IN	NS	ns2.dan.com.
 gca.gp.	0	IN	NS	ns103.ovh.net.
-gca.gp.	0	IN	NS	ks380753.kimsufi.com.
+gca.gp.	0	IN	NS	dns103.ovh.net.
 gdp.gp.	0	IN	NS	ns100.ovh.net.
 gdp.gp.	0	IN	NS	dns100.ovh.net.
 gdsolutions.gp.	0	IN	NS	ns61.1and1.fr.
