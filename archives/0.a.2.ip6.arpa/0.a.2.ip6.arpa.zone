@@ -103893,6 +103893,8 @@ b.0.0.0.0.c.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.vistec.net.
 8.c.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.poasnet.fi.
 0.d.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.interstroom.nl.
 0.d.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.interstroom.nl.
+0.d.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	ns3.interstroom.nl.
+0.d.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	ns4.interstroom.nl.
 8.e.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	rev-ns1.megafon.ru.
 8.e.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	rev-ns2.megafon.ru.
 8.e.3.1.2.0.a.2.ip6.arpa.	0	IN	NS	rev-ns3.megafon.ru.
@@ -130277,6 +130279,7 @@ f.1.0.2.1.c.4.e.5.0.a.2.ip6.arpa.	0	IN	NS	ns2.tourperl.com.
 0.0.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	NS	ns1.213471.xyz.
 0.0.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.213471.xyz.
 0.0.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	NS	ns3.213471.xyz.
+0.0.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	DS	18545 15 2 a7e3dcac8ca68a13f6ec9da959c244e66d92ba84d9523c35fc1cf074c583e0db
 0.1.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	NS	hazel.ns.cloudflare.com.
 0.1.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	NS	mitch.ns.cloudflare.com.
 0.0.c.1.4.0.0.6.0.a.2.ip6.arpa.	0	IN	NS	emily.ns.cloudflare.com.
@@ -140562,6 +140565,10 @@ b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.wolfscastle.de.
 b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.wolfscastle.de.
 c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	fries.fxdns.net.
 c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	pizza.fxdns.net.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 0.4.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
@@ -160012,10 +160019,8 @@ b.2.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	DS	29807 13 2 cee90f16953d56545a416cc01ad5d7c
 5.4.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	trevor.ns.cloudflare.com.
 7.4.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	jaime.ns.cloudflare.com.
 7.4.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	stella.ns.cloudflare.com.
-d.f.7.5.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	jewel.ns.cloudflare.com.
-d.f.7.5.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	marek.ns.cloudflare.com.
-e.f.7.5.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	jewel.ns.cloudflare.com.
-e.f.7.5.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	marek.ns.cloudflare.com.
+7.5.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	sarah.ns.cloudflare.com.
+7.5.5.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	etienne.ns.cloudflare.com.
 0.1.1.b.6.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	ray.ns.cloudflare.com.
 0.1.1.b.6.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	elaine.ns.cloudflare.com.
 1.1.1.b.6.c.c.1.f.0.a.2.ip6.arpa.	0	IN	NS	ray.ns.cloudflare.com.
