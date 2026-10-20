@@ -27454,12 +27454,10 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 206.152.185.in-addr.arpa.	0	IN	NS	edv-team-oberland-2.rdns.fmsweb.de.
 207.152.185.in-addr.arpa.	0	IN	NS	edv-team-oberland-1.rdns.fmsweb.de.
 207.152.185.in-addr.arpa.	0	IN	NS	edv-team-oberland-2.rdns.fmsweb.de.
-208.152.185.in-addr.arpa.	0	IN	NS	ns1.ncluster.net.
-208.152.185.in-addr.arpa.	0	IN	NS	ns2.ncluster.eu.
-208.152.185.in-addr.arpa.	0	IN	NS	ns3.ncluster.de.
-209.152.185.in-addr.arpa.	0	IN	NS	ns1.ncluster.net.
-209.152.185.in-addr.arpa.	0	IN	NS	ns2.ncluster.eu.
-209.152.185.in-addr.arpa.	0	IN	NS	ns3.ncluster.de.
+208.152.185.in-addr.arpa.	0	IN	NS	bns.mux.nu.
+208.152.185.in-addr.arpa.	0	IN	NS	pns.nugbr.de.
+209.152.185.in-addr.arpa.	0	IN	NS	bns.mux.nu.
+209.152.185.in-addr.arpa.	0	IN	NS	pns.nugbr.de.
 21.152.185.in-addr.arpa.	0	IN	NS	ns1.superonline.net.
 21.152.185.in-addr.arpa.	0	IN	NS	ns2.superonline.net.
 21.152.185.in-addr.arpa.	0	IN	NS	ns3.superonline.net.
@@ -56448,6 +56446,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 118.212.185.in-addr.arpa.	0	IN	NS	ns-993.awsdns-60.net.
 118.212.185.in-addr.arpa.	0	IN	NS	ns-1484.awsdns-57.org.
 118.212.185.in-addr.arpa.	0	IN	NS	ns-1637.awsdns-12.co.uk.
+119.212.185.in-addr.arpa.	0	IN	NS	rdns1.snowd.com.
+119.212.185.in-addr.arpa.	0	IN	NS	rdns2.snowd.com.
 12.212.185.in-addr.arpa.	0	IN	NS	dns1.xgbe.cz.
 12.212.185.in-addr.arpa.	0	IN	NS	gw-valachnet.valachnet.cz.
 128.212.185.in-addr.arpa.	0	IN	NS	ns3.sitesblog.com.
@@ -86780,6 +86780,14 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 13.43.185.in-addr.arpa.	0	IN	NS	ns.nextlayer.at.
 13.43.185.in-addr.arpa.	0	IN	NS	ns2.nextlayer.at.
 13.43.185.in-addr.arpa.	0	IN	NS	ns3.nextlayer.com.
+132.43.185.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
+132.43.185.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
+132.43.185.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
+132.43.185.in-addr.arpa.	0	IN	DS	3157 13 4 066c7151f495e40b4d056fc891c85df079b2a11bd303f517d60a7db1c2bd108368d34f9677b7fafc155d01654a8b41b5
+133.43.185.in-addr.arpa.	0	IN	NS	sld1.ns.nic.cz.
+133.43.185.in-addr.arpa.	0	IN	NS	sld2.ns.nic.cz.
+133.43.185.in-addr.arpa.	0	IN	NS	sld3.ns.nic.cz.
+133.43.185.in-addr.arpa.	0	IN	DS	48723 13 4 1d6b7fa88d6a173603b33866ba8bf7e721f0c50a9a5a432f6282dacfcbd529de6e26315423457385e2982407f891c1d6
 134.43.185.in-addr.arpa.	0	IN	NS	a.ns.nic.cz.
 134.43.185.in-addr.arpa.	0	IN	NS	b.ns.nic.cz.
 134.43.185.in-addr.arpa.	0	IN	DS	23849 13 2 5fa02f68cf3b52008e4f6bbe90b447327b3376d6719307928f6a73e1f8b7d135
