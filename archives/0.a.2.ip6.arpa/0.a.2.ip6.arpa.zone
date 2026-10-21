@@ -3700,6 +3700,10 @@ d.2.2.7.e.d.6.8.e.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.koba.pl.
 9.2.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 2.9.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 2.9.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
+3.9.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
+3.9.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
+2.3.7.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
+2.3.7.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 3.3.7.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 3.3.7.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 0.0.8.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
@@ -5297,6 +5301,8 @@ c.0.0.0.0.6.1.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.elcat.kg.
 1.0.1.0.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.rackdc.com.
 8.3.9.1.1.8.8.1.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.rackdc.com.
 8.3.9.1.1.8.8.1.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.rackdc.com.
+0.0.1.3.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.veriteknik.com.
+0.0.1.3.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.veriteknik.com.
 0.0.3.7.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.rackdc.com.
 0.0.3.7.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.rackdc.com.
 4.0.3.7.0.0.3.7.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.rackdc.com.
@@ -119448,9 +119454,6 @@ f.0.0.0.0.2.7.7.3.0.a.2.ip6.arpa.	0	IN	NS	ns3.gmhost.com.ua.
 0.a.9.7.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.mosinfocom.ru.
 0.0.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	dns.iol.cz.
 0.0.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.tel.cz.
-0.4.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	ns05.unbelievable-machine.net.
-0.4.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	ns06.unbelievable-machine.net.
-0.4.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	ns07.unbelievable-machine.net.
 0.e.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	a.ns14.net.
 0.e.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	b.ns14.net.
 0.e.a.7.3.0.a.2.ip6.arpa.	0	IN	NS	c.ns14.net.
@@ -119585,9 +119588,6 @@ a.b.b.a.0.c.0.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.ruweb.ru.
 0.6.9.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns02.fba.ba.
 0.0.a.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns1.p1v6.com.
 0.0.a.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.p1v6.com.
-0.4.a.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns05.unbelievable-machine.net.
-0.4.a.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns06.unbelievable-machine.net.
-0.4.a.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns07.unbelievable-machine.net.
 0.0.0.0.0.6.b.8.3.0.a.2.ip6.arpa.	0	IN	NS	dns1.ibaaco.sy.
 0.0.0.0.0.6.b.8.3.0.a.2.ip6.arpa.	0	IN	NS	dns2.ibaaco.sy.
 0.0.c.8.3.0.a.2.ip6.arpa.	0	IN	NS	ns1.real-hosts.com.
@@ -132713,8 +132713,12 @@ f.6.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ulla.ns.cloudflare.com.
 0.8.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ulla.ns.cloudflare.com.
 8.8.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	name01.eu.
 8.8.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	name02.eu.
+0.9.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	dean.ns.cloudflare.com.
+0.9.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ulla.ns.cloudflare.com.
 2.b.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns1.as210880.net.
 2.b.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.as210880.net.
+4.c.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	dean.ns.cloudflare.com.
+4.c.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ulla.ns.cloudflare.com.
 6.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns1.as207258.net.
 6.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.as207258.net.
 c.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	anton.ns.cloudflare.com.
@@ -146238,6 +146242,7 @@ c.e.0.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 a03cc79e46c5758e34049167374e
 8.8.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1.he.net.
 8.8.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns2.he.net.
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1.flerken.cc.
+d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	pterm.flerken.cc.
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	flerken.zapto.org.
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	27128 13 2 e95eb2c7a35fbf6902c7fe1ed8230b0940444a5de43d192555f752e43bebbce1
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	27128 13 4 36b5aa2cabd780267f993bd675559041b4c9ebc766f4b5560882e954d13765830b72776ad12be88271627444f47427c1
@@ -151383,6 +151388,16 @@ e.c.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	pdns2.wareserv.com.
 8.e.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	DS	44250 13 2 c89f42eac88778f463b6a69198df8200531a46330e865e3755a0f02b7c84fd3b
 1.9.e.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	coco.bunny.net.
 1.9.e.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	kiki.bunny.net.
+0.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns1.he.net.
+0.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns2.he.net.
+0.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns3.he.net.
+0.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns4.he.net.
+0.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns5.he.net.
+1.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns1.he.net.
+1.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns2.he.net.
+1.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns3.he.net.
+1.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns4.he.net.
+1.2.f.0.1.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns5.he.net.
 3.0.2.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns1.m-m-networks.net.
 3.0.2.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns2.m-m-networks.net.
 5.0.2.4.6.b.c.0.a.2.ip6.arpa.	0	IN	NS	ns1.m-m-networks.net.
