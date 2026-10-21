@@ -8664,7 +8664,6 @@ info.	0	IN	NS	b0.info.afilias-nst.org.
 info.	0	IN	NS	b2.info.afilias-nst.org.
 info.	0	IN	NS	c0.info.afilias-nst.info.
 info.	0	IN	NS	d0.info.afilias-nst.org.
-info.	0	IN	DS	5104 8 2 1af7548a8d3e2950c20303757df9390c26cfa39e26c8b6a8f6c8b1e72dd8f744
 info.	0	IN	DS	9986 8 2 8d61a24555b582725e925161677b74d76a164ee760d507f49308f3187068cb3c
 a0.asia.afilias-nst.info.	0	IN	A	199.19.55.1
 a0.asia.afilias-nst.info.	0	IN	AAAA	2001:500:d::1
@@ -9722,6 +9721,11 @@ la.	0	IN	NS	ns1.nic.la.
 la.	0	IN	NS	ns2.nic.la.
 la.	0	IN	NS	ns3.nic.la.
 la.	0	IN	NS	ns4.nic.la.
+la.	0	IN	NS	ns01.trs-dns.com.
+la.	0	IN	NS	ns01.trs-dns.net.
+la.	0	IN	NS	ns10.trs-dns.org.
+la.	0	IN	NS	ns10.trs-dns.info.
+la.	0	IN	DS	25164 7 2 1217c71860e555f30e3f6e241e613f1cca5543dd54bf097dcc0b4a9d6429d24e
 la.	0	IN	DS	42973 7 1 1f0cefa420e9101bb5791f3ab93e85917a72978b
 la.	0	IN	DS	42973 7 2 e7d0c3bcdf60e8d842e882d90b4ec263c8889b760098492c798841c13b4ea13f
 ns1.nic.la.	0	IN	A	185.24.64.15
@@ -20155,7 +20159,12 @@ xn--q7ce6a.	0	IN	NS	a.xn--q7ce6a.centralnic-dns.com.
 xn--q7ce6a.	0	IN	NS	b.xn--q7ce6a.centralnic-dns.com.
 xn--q7ce6a.	0	IN	NS	c.xn--q7ce6a.centralnic-dns.com.
 xn--q7ce6a.	0	IN	NS	d.xn--q7ce6a.centralnic-dns.com.
+xn--q7ce6a.	0	IN	NS	ns01.trs-dns.com.
+xn--q7ce6a.	0	IN	NS	ns01.trs-dns.net.
+xn--q7ce6a.	0	IN	NS	ns10.trs-dns.org.
+xn--q7ce6a.	0	IN	NS	ns10.trs-dns.info.
 xn--q7ce6a.	0	IN	DS	10705 7 2 0abe3fc3e0d788cc7eda69271c7acb9ed5d23460d381b86253b44c57716a89e9
+xn--q7ce6a.	0	IN	DS	21009 7 2 5d45d5b0f0aa3370f70d0b12844be89fbf9bc630ddc634ea51eba8e159b43d41
 xn--q9jyb4c.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 xn--q9jyb4c.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 xn--q9jyb4c.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
