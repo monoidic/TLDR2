@@ -2041,8 +2041,6 @@ f.3.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 2.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 3.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 3.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
-6.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
-6.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 7.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 7.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 8.4.1.0.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
@@ -2169,6 +2167,8 @@ f.f.f.1.0.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 8.0.4.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 9.0.4.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 9.0.4.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
+4.0.5.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
+4.0.5.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 5.0.5.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 5.0.5.0.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 0.0.4.3.2.3.6.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
@@ -3696,6 +3696,8 @@ d.2.2.7.e.d.6.8.e.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.koba.pl.
 7.9.0.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 8.2.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 8.2.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
+9.2.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
+9.2.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 2.9.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
 2.9.1.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.i3d.net.
 3.3.7.0.7.2.d.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.i3d.net.
@@ -5136,6 +5138,22 @@ a.0.0.0.1.a.7.6.0.0.a.2.ip6.arpa.	0	IN	NS	b.atechdns.com.
 0.0.0.0.0.c.b.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.gts.cz.
 0.0.0.0.0.c.b.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.anect.cz.
 0.0.0.0.0.c.b.6.0.0.a.2.ip6.arpa.	0	IN	DS	58078 13 2 0e1c77399be5a892d387078ba2e0b387b1782d49d5757fd9f4b3022f776e27a4
+0.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+0.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+1.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+1.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+2.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+2.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+3.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+3.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+4.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+4.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+5.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+5.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+6.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+6.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
+7.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.lekosonline.sk.
+7.2.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.lekosonline.sk.
 0.0.0.0.0.4.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	dns.technorail.com.
 0.0.0.0.0.4.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	dns2.technorail.com.
 0.0.0.0.0.4.d.6.0.0.a.2.ip6.arpa.	0	IN	NS	dns3.arubadns.net.
@@ -139443,6 +139461,9 @@ c.0.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	dax.ns.cloudflare.com.
 c.0.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	meiling.ns.cloudflare.com.
 d.0.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	dax.ns.cloudflare.com.
 d.0.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	meiling.ns.cloudflare.com.
+3.3.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	ns1.onezero.tel.
+3.3.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	ns2.onezero.tel.
+3.3.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	ns3.onezero.tel.
 4.3.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	coco.bunny.net.
 4.3.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	kiki.bunny.net.
 5.3.0.0.0.0.0.e.7.0.a.2.ip6.arpa.	0	IN	NS	ns1.netvtel.pt.
@@ -158996,8 +159017,9 @@ f.b.8.2.7.0.1.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.stoneapp.net.
 6.c.e.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.netserv.cz.
 7.c.e.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns.netserv.cz.
 7.c.e.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.netserv.cz.
-0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns0.julez.in.
-0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.julez.in.
+0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns-a-1.dns.jlzinfra.de.
+0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns-a-2.dns.jlzinfra.de.
+0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns-a-3.dns.jlzinfra.de.
 0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	DS	40664 15 2 4a9abdc558aac71f4ed4ab9b938713b14163f2b7754152cc72d7e8e0160bb765
 0.0.f.b.e.0.a.2.ip6.arpa.	0	IN	DS	40664 15 4 c8623acafe3fd994d58dc1112cc2371984b92f06d7e792571eef76d95fd11467ec799d7ba7fd31a474bb01d7015aff04
 4.0.0.0.7.0.f.b.e.0.a.2.ip6.arpa.	0	IN	NS	ns.yannikenss.de.
