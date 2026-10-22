@@ -15172,9 +15172,8 @@ sc.	0	IN	NS	b0.cctld.afilias-nst.org.
 sc.	0	IN	NS	b2.cctld.afilias-nst.org.
 sc.	0	IN	NS	c0.cctld.afilias-nst.info.
 sc.	0	IN	NS	d0.cctld.afilias-nst.org.
-sc.	0	IN	NS	ns1.nic.sc.
 sc.	0	IN	DS	2539 8 2 8293fa3ac08be770a400dde4f250dc6bf1046f34430be12e65c15bf2f482b26c
-ns1.nic.sc.	0	IN	A	41.86.57.54
+sc.	0	IN	DS	35612 8 2 7a60fd508decc8b4cbeecc9c85edbbbe689f70310d97cfd5ee4ac2643dd1da10
 scb.	0	IN	NS	c.nic.scb.
 scb.	0	IN	NS	rz.nic.scb.
 scb.	0	IN	NS	nn1.nic.scb.
@@ -18060,7 +18059,8 @@ d.nic.vg.	0	IN	A	212.18.249.104
 d.nic.vg.	0	IN	AAAA	2a04:2b00:13ff::104
 vi.	0	IN	NS	ns3.nic.vi.
 vi.	0	IN	NS	pch.nic.vi.
-ns3.nic.vi.	0	IN	A	185.17.236.230
+ns3.nic.vi.	0	IN	A	108.128.43.191
+ns3.nic.vi.	0	IN	AAAA	2a05:d018:1db7:6efe:91ed:ac51:e2f1:55b3
 pch.nic.vi.	0	IN	A	204.61.216.133
 pch.nic.vi.	0	IN	AAAA	2001:500:14:6133:ad::1
 viajes.	0	IN	NS	v0n0.nic.viajes.
