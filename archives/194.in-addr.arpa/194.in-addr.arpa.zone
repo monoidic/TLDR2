@@ -21663,8 +21663,10 @@
 239.169.194.in-addr.arpa.	0	IN	NS	ns3.arcor-ip.de.
 240.169.194.in-addr.arpa.	0	IN	NS	ns1.benchmark.fr.
 240.169.194.in-addr.arpa.	0	IN	NS	ns2.benchmark.fr.
-241.169.194.in-addr.arpa.	0	IN	NS	dns1.betacom.com.pl.
-241.169.194.in-addr.arpa.	0	IN	NS	dns2.betacom.com.pl.
+241.169.194.in-addr.arpa.	0	IN	NS	ns1-01.azure-dns.com.
+241.169.194.in-addr.arpa.	0	IN	NS	ns2-01.azure-dns.net.
+241.169.194.in-addr.arpa.	0	IN	NS	ns3-01.azure-dns.org.
+241.169.194.in-addr.arpa.	0	IN	NS	ns4-01.azure-dns.info.
 243.169.194.in-addr.arpa.	0	IN	NS	ns.nxs.se.
 243.169.194.in-addr.arpa.	0	IN	NS	us-west.nxs.se.
 243.169.194.in-addr.arpa.	0	IN	DS	51229 13 2 08ac9e8c6f07aca4ac31b4bf55c367e1e34209c71b3375540420f2c44ca48c75
@@ -44989,8 +44991,8 @@
 100.50.194.in-addr.arpa.	0	IN	NS	domain.nix.cz.
 100.50.194.in-addr.arpa.	0	IN	NS	domain.nixcz.org.
 100.50.194.in-addr.arpa.	0	IN	DS	33639 13 2 1c6e44dc0a39e286fe3631bb74934d955ff1bfa815b795f016e8ecee930053df
-101.50.194.in-addr.arpa.	0	IN	NS	ns4.1b.hu.
-101.50.194.in-addr.arpa.	0	IN	NS	balu.1b.hu.
+101.50.194.in-addr.arpa.	0	IN	NS	byron.ns.cloudflare.com.
+101.50.194.in-addr.arpa.	0	IN	NS	destiny.ns.cloudflare.com.
 102.50.194.in-addr.arpa.	0	IN	NS	ns1.pinesh.nl.
 102.50.194.in-addr.arpa.	0	IN	NS	ns2.pinesh.nl.
 103.50.194.in-addr.arpa.	0	IN	NS	ns.kolagmk.ru.
@@ -55344,7 +55346,6 @@
 112.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 112.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 112.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-112.93.194.in-addr.arpa.	0	IN	DS	51351 13 1 dec2ebc11acf20ec344abcf1fd53106e403ca2ac
 112.93.194.in-addr.arpa.	0	IN	DS	51351 13 2 6dee7ca3d239c4bad06fd05f871201ee16bc3f1caf2665d285b49d8261cca375
 113.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 113.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55352,7 +55353,6 @@
 113.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 113.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 113.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-113.93.194.in-addr.arpa.	0	IN	DS	9671 13 1 7e14ee2356b6f653e0f14e2cd9a5eb68beb534b2
 113.93.194.in-addr.arpa.	0	IN	DS	9671 13 2 645fbd64824aa4e338d68982d446342a968516e41b7dd729715d960f00e5531a
 114.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 114.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55360,7 +55360,6 @@
 114.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 114.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 114.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-114.93.194.in-addr.arpa.	0	IN	DS	44534 13 1 c3522ec95f7df53a85aaf18ce16c252a360aae65
 114.93.194.in-addr.arpa.	0	IN	DS	44534 13 2 972c9377fbd510cfc10896ce81dd9fe39b6eb1f1b052f8bf4eac7fc5dbc5961d
 115.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 115.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55368,7 +55367,6 @@
 115.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 115.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 115.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-115.93.194.in-addr.arpa.	0	IN	DS	9130 13 1 cae4f041a8f1f3c3c635295e4a38e493efe5af67
 115.93.194.in-addr.arpa.	0	IN	DS	9130 13 2 b54b0db55b52a9aa66e4acdf5069746cda3b04f8daa9334af988b5dcce7f2d0c
 116.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 116.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55376,7 +55374,6 @@
 116.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 116.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 116.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-116.93.194.in-addr.arpa.	0	IN	DS	24834 13 1 7697529c1459f8faa2ea590745e4dcedec5f533e
 116.93.194.in-addr.arpa.	0	IN	DS	24834 13 2 7ddf121ac7fcea6e8bc2a408ea7cb112d40295251b5e23e1425427853f7ef5a9
 117.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 117.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55384,7 +55381,6 @@
 117.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 117.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 117.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-117.93.194.in-addr.arpa.	0	IN	DS	47625 13 1 ff8b0e0086a6c063637c00e9a447506a5f16aea7
 117.93.194.in-addr.arpa.	0	IN	DS	47625 13 2 d7ea7985be5a410c546ab457bcd50c61ab7276572aaa82514428464ded003666
 118.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 118.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55392,7 +55388,6 @@
 118.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 118.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 118.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-118.93.194.in-addr.arpa.	0	IN	DS	20839 13 1 47f986ab013563c5d03b082f33ed84ce643d1f3d
 118.93.194.in-addr.arpa.	0	IN	DS	20839 13 2 a81460004e2fbb4bf05164ce6a9ff962b054375902ac60d908be43a199e3caef
 119.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 119.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55400,7 +55395,6 @@
 119.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 119.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 119.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-119.93.194.in-addr.arpa.	0	IN	DS	64176 13 1 464ec710825c5a30b41de36c495c3975e96f2518
 119.93.194.in-addr.arpa.	0	IN	DS	64176 13 2 df908f62907a15d092bc275c4e0874c5ccbea60a9707668ea3f9d69671e6c4cf
 12.93.194.in-addr.arpa.	0	IN	NS	ns3.maneco.cz.
 12.93.194.in-addr.arpa.	0	IN	NS	ns4.maneco.cz.
@@ -55410,7 +55404,6 @@
 120.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 120.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 120.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-120.93.194.in-addr.arpa.	0	IN	DS	10999 13 1 89e7a87851de83ae78e0e027011a5c134a2811ba
 120.93.194.in-addr.arpa.	0	IN	DS	10999 13 2 42aa10f45d1bd05bcc47dcfb1a29e938c1d015c13c14c625f7ae1914101940e0
 121.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 121.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55418,7 +55411,6 @@
 121.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 121.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 121.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-121.93.194.in-addr.arpa.	0	IN	DS	63627 13 1 61c543094fdc49baf4e825d8b0d1725e9b391232
 121.93.194.in-addr.arpa.	0	IN	DS	63627 13 2 8eae443441680a54448878054145fc9fd50d4a072acd786678f7d0a5c2d37cc9
 122.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.ch.
 122.93.194.in-addr.arpa.	0	IN	NS	dns1.sfs-network.biz.
@@ -55426,7 +55418,6 @@
 122.93.194.in-addr.arpa.	0	IN	NS	dns2.sfs-network.biz.
 122.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.ch.
 122.93.194.in-addr.arpa.	0	IN	NS	dns3.sfs-network.biz.
-122.93.194.in-addr.arpa.	0	IN	DS	47643 13 1 366ef6fe6738580d5549f0c6d7fc1c1bea5e4304
 122.93.194.in-addr.arpa.	0	IN	DS	47643 13 2 f7481ae6b662cc8f384c0d18447a00b3a1158bfe0ee5dcbbc288d8e9c68bb851
 0.123.93.194.in-addr.arpa.	0	IN	CNAME	0.0-63.123.93.194.in-addr.arpa.
 0-63.123.93.194.in-addr.arpa.	0	IN	NS	ns.de-cix.net.
