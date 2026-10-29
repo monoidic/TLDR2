@@ -2241,7 +2241,6 @@ boehringer.	0	IN	NS	a0.nic.boehringer.
 boehringer.	0	IN	NS	a2.nic.boehringer.
 boehringer.	0	IN	NS	b0.nic.boehringer.
 boehringer.	0	IN	NS	c0.nic.boehringer.
-boehringer.	0	IN	DS	37117 8 2 98508b91e23eef16223b93512b6ffd370f83ced809a7a157a98a8b07be84e0ce
 boehringer.	0	IN	DS	41267 8 2 6e59a0a23e7ffd0aba04ee2e1ded716854df0f41980c2f14fc72226b25c501a1
 a0.nic.boehringer.	0	IN	A	65.22.188.17
 a0.nic.boehringer.	0	IN	AAAA	2a01:8840:b6::17
@@ -2461,7 +2460,6 @@ bradesco.	0	IN	NS	a2.nic.bradesco.
 bradesco.	0	IN	NS	b0.nic.bradesco.
 bradesco.	0	IN	NS	c0.nic.bradesco.
 bradesco.	0	IN	DS	58541 8 2 992b40f08b079b163e9d0d1dd935e0ad2ea3c0a220b731af67b2a22eeb863b6b
-bradesco.	0	IN	DS	61375 8 2 a0ffe5a2c7c1cb086855963d43117563e509ca1e6b27d87ef9ce011c195b8344
 a0.nic.bradesco.	0	IN	A	65.22.124.2
 a0.nic.bradesco.	0	IN	AAAA	2a01:8840:7a::2
 a2.nic.bradesco.	0	IN	A	65.22.127.2
@@ -5819,6 +5817,7 @@ extraspace.	0	IN	NS	a0.nic.extraspace.
 extraspace.	0	IN	NS	a2.nic.extraspace.
 extraspace.	0	IN	NS	b0.nic.extraspace.
 extraspace.	0	IN	NS	c0.nic.extraspace.
+extraspace.	0	IN	DS	42956 8 2 f33aabcdf6e37cf93fe0da5e076cfb42b25ef5b9a55b6736548041e42c4afbad
 extraspace.	0	IN	DS	64657 8 2 9697a3469e8e24f5b49fecc0d2f2573cb96d106f26781583e705111befd15571
 a0.nic.extraspace.	0	IN	A	65.22.116.1
 a0.nic.extraspace.	0	IN	AAAA	2a01:8840:72::1
@@ -7078,6 +7077,7 @@ genting.	0	IN	NS	v0n3.nic.genting.
 genting.	0	IN	NS	v2n0.nic.genting.
 genting.	0	IN	NS	v2n1.nic.genting.
 genting.	0	IN	DS	34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
+genting.	0	IN	DS	56714 8 2 5b7107afa72a358204ad6ca62776541ac3dd95e26eae7b3264f92a4f8ab3a703
 v0n0.nic.genting.	0	IN	A	65.22.108.13
 v0n0.nic.genting.	0	IN	AAAA	2a01:8840:6a::13
 v0n1.nic.genting.	0	IN	A	65.22.109.13
@@ -7892,19 +7892,6 @@ c.nic.help.	0	IN	A	212.18.248.158
 c.nic.help.	0	IN	AAAA	2a04:2b00:13ee::158
 d.nic.help.	0	IN	A	212.18.249.158
 d.nic.help.	0	IN	AAAA	2a04:2b00:13ff::158
-helsinki.	0	IN	NS	a0.nic.helsinki.
-helsinki.	0	IN	NS	a2.nic.helsinki.
-helsinki.	0	IN	NS	b0.nic.helsinki.
-helsinki.	0	IN	NS	c0.nic.helsinki.
-helsinki.	0	IN	DS	31639 8 2 069a71ef4b12265a44802fcf51b4531dc3835f8fbb68874fbf3565144a12770d
-a0.nic.helsinki.	0	IN	A	65.22.220.33
-a0.nic.helsinki.	0	IN	AAAA	2a01:8840:d6::33
-a2.nic.helsinki.	0	IN	A	65.22.223.33
-a2.nic.helsinki.	0	IN	AAAA	2a01:8840:d9::33
-b0.nic.helsinki.	0	IN	A	65.22.221.33
-b0.nic.helsinki.	0	IN	AAAA	2a01:8840:d7::33
-c0.nic.helsinki.	0	IN	A	65.22.222.33
-c0.nic.helsinki.	0	IN	AAAA	2a01:8840:d8::33
 here.	0	IN	NS	ns-tld1.charlestonroadregistry.com.
 here.	0	IN	NS	ns-tld2.charlestonroadregistry.com.
 here.	0	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -7916,6 +7903,7 @@ hermes.	0	IN	NS	a2.nic.hermes.
 hermes.	0	IN	NS	b0.nic.hermes.
 hermes.	0	IN	NS	c0.nic.hermes.
 hermes.	0	IN	DS	17194 8 2 f38ae5e161d402739020cc92a88dfa905a59972426ef42044c37ea6240bb9614
+hermes.	0	IN	DS	29179 8 2 60f80db8f97a87f085538b40aab13b7cd8a792c928f5722194a854d9431f33e7
 a0.nic.hermes.	0	IN	A	65.22.232.25
 a0.nic.hermes.	0	IN	AAAA	2a01:8840:e2::25
 a2.nic.hermes.	0	IN	A	65.22.235.25
@@ -7979,6 +7967,7 @@ hkt.	0	IN	NS	a2.nic.hkt.
 hkt.	0	IN	NS	b0.nic.hkt.
 hkt.	0	IN	NS	c0.nic.hkt.
 hkt.	0	IN	DS	2077 8 2 b467734f0f2a8287ba3a0eddf252055d740f2fd0072f81095eb6a56be2405ee0
+hkt.	0	IN	DS	36140 8 2 ad16c0aeae40ad54cff2807f0b7792f2414a2d63eb1937f51c44c9837ba4a869
 a0.nic.hkt.	0	IN	A	65.22.116.33
 a0.nic.hkt.	0	IN	AAAA	2a01:8840:72::33
 a2.nic.hkt.	0	IN	A	65.22.119.33
@@ -8064,6 +8053,7 @@ homedepot.	0	IN	NS	a0.nic.homedepot.
 homedepot.	0	IN	NS	a2.nic.homedepot.
 homedepot.	0	IN	NS	b0.nic.homedepot.
 homedepot.	0	IN	NS	c0.nic.homedepot.
+homedepot.	0	IN	DS	9964 8 2 c2eadcb54a5d65ac1836e7af0ee286bdc1a870a18c80d606cf6e63f0dfb41dbc
 homedepot.	0	IN	DS	41296 8 2 547d577cb0c59bc0fdca6d4a26ab5fa73588f9f7ba554a6adfff6b31ba056e45
 a0.nic.homedepot.	0	IN	A	65.22.192.1
 a0.nic.homedepot.	0	IN	AAAA	2a01:8840:ba::1
@@ -8344,6 +8334,7 @@ hughes.	0	IN	NS	a0.nic.hughes.
 hughes.	0	IN	NS	a2.nic.hughes.
 hughes.	0	IN	NS	b0.nic.hughes.
 hughes.	0	IN	NS	c0.nic.hughes.
+hughes.	0	IN	DS	28339 8 2 ba1ad019c2fcf85daa184ad17f16ef0654c4f73879de044f7be13483dcfbba1e
 hughes.	0	IN	DS	64252 8 2 29a6ae50d287b301e6624077720bea37aa9cd752183dd014e7f3028cbcb740f2
 a0.nic.hughes.	0	IN	A	65.22.108.1
 a0.nic.hughes.	0	IN	AAAA	2a01:8840:6a::1
@@ -9054,6 +9045,7 @@ itv.	0	IN	NS	a2.nic.itv.
 itv.	0	IN	NS	b0.nic.itv.
 itv.	0	IN	NS	c0.nic.itv.
 itv.	0	IN	DS	47554 8 2 b40bd9c46f4ea1a9a496c57c37a91938af59778971851d7d91c54dc203649c13
+itv.	0	IN	DS	60242 8 2 868d1b2c7a281532abe241277f0dc4b11a86f5b7d51136f988c1f22404eff174
 a0.nic.itv.	0	IN	A	65.22.88.25
 a0.nic.itv.	0	IN	AAAA	2a01:8840:56::25
 a2.nic.itv.	0	IN	A	65.22.91.25
@@ -9067,6 +9059,7 @@ jaguar.	0	IN	NS	a2.nic.jaguar.
 jaguar.	0	IN	NS	b0.nic.jaguar.
 jaguar.	0	IN	NS	c0.nic.jaguar.
 jaguar.	0	IN	DS	15829 8 2 d4bb4fd9f95efa2bf1781b7a0c17388b42520cab5f8c805e7dca3105f33cd881
+jaguar.	0	IN	DS	56650 8 2 a54d38be5be57203e861ee539dbed313a43285d1470166032771c0f818a9850b
 a0.nic.jaguar.	0	IN	A	65.22.112.51
 a0.nic.jaguar.	0	IN	AAAA	2a01:8840:6e::51
 a2.nic.jaguar.	0	IN	A	65.22.115.51
@@ -9107,6 +9100,7 @@ jeep.	0	IN	NS	v0n2.nic.jeep.
 jeep.	0	IN	NS	v0n3.nic.jeep.
 jeep.	0	IN	NS	v2n0.nic.jeep.
 jeep.	0	IN	NS	v2n1.nic.jeep.
+jeep.	0	IN	DS	16714 8 2 8cd8bfbb30fd5b853e8b27a2d1abac5e212e9473ecd7d7270aa28f183eb88275
 jeep.	0	IN	DS	49999 8 2 f00a0b4b65adac570c2dbc81483367392ea9a86ffd17e4b3f042d446acd1ea4b
 v0n0.nic.jeep.	0	IN	A	65.22.104.29
 v0n0.nic.jeep.	0	IN	AAAA	2a01:8840:66::29
@@ -9178,6 +9172,7 @@ jll.	0	IN	NS	a2.nic.jll.
 jll.	0	IN	NS	b0.nic.jll.
 jll.	0	IN	NS	c0.nic.jll.
 jll.	0	IN	DS	34711 8 2 2684574b7ac4339237fa607c55c1244d45c6c7c86b143c9240a72c2f62a012e4
+jll.	0	IN	DS	37891 8 2 74d299e01a51ac0de8d9cc3eb55327670929dbde0b912bb6abbdc2f3cefdabf1
 a0.nic.jll.	0	IN	A	65.22.148.9
 a0.nic.jll.	0	IN	AAAA	2a01:8840:92::9
 a2.nic.jll.	0	IN	A	65.22.151.9
@@ -9432,6 +9427,7 @@ kerryhotels.	0	IN	NS	a0.nic.kerryhotels.
 kerryhotels.	0	IN	NS	a2.nic.kerryhotels.
 kerryhotels.	0	IN	NS	b0.nic.kerryhotels.
 kerryhotels.	0	IN	NS	c0.nic.kerryhotels.
+kerryhotels.	0	IN	DS	17570 8 2 5c5289cac7285025c2a8fe08db7d22c6f15f782a1c51eabcdf07065ddc1f8dac
 kerryhotels.	0	IN	DS	59119 8 2 cabc1873ec8bc994e11443766b2eb1e6aaaa0f01ca1472b7ff03c4c7b818838a
 a0.nic.kerryhotels.	0	IN	A	65.22.112.53
 a0.nic.kerryhotels.	0	IN	AAAA	2a01:8840:6e::53
@@ -9445,6 +9441,7 @@ kerryproperties.	0	IN	NS	a0.nic.kerryproperties.
 kerryproperties.	0	IN	NS	a2.nic.kerryproperties.
 kerryproperties.	0	IN	NS	b0.nic.kerryproperties.
 kerryproperties.	0	IN	NS	c0.nic.kerryproperties.
+kerryproperties.	0	IN	DS	44275 8 2 8df1b33475f92c6ee64d7dc2e0a76295f39c5439ec3ffe20ed120c3a0b6c0a30
 kerryproperties.	0	IN	DS	48565 8 2 98e8c6905df7915e05a6af4cf38ad9e4bad214dfec3f14d2a62aca1a1a8c53b2
 a0.nic.kerryproperties.	0	IN	A	65.22.112.55
 a0.nic.kerryproperties.	0	IN	AAAA	2a01:8840:6e::55
@@ -9493,6 +9490,7 @@ kids.	0	IN	NS	a2.nic.kids.
 kids.	0	IN	NS	b0.nic.kids.
 kids.	0	IN	NS	c0.nic.kids.
 kids.	0	IN	DS	11536 8 2 0ade57b3836da5e4ce75aed8a7cd64b58e7d68a813d10cd94453d11f60a3ecee
+kids.	0	IN	DS	27715 8 2 3c3709f1b59cf82dc271ca2bddcd0eb0f0ee5a85a7b9d9ae863612bfd539bc94
 a0.nic.kids.	0	IN	A	65.22.172.17
 a0.nic.kids.	0	IN	AAAA	2a01:8840:a6::17
 a2.nic.kids.	0	IN	A	65.22.175.17
@@ -9696,6 +9694,7 @@ kuokgroup.	0	IN	NS	a2.nic.kuokgroup.
 kuokgroup.	0	IN	NS	b0.nic.kuokgroup.
 kuokgroup.	0	IN	NS	c0.nic.kuokgroup.
 kuokgroup.	0	IN	DS	28711 8 2 19c2733eeb5ab3b49ce9d819206870d68b3bb15dd07f69f99175e27a984ed8d1
+kuokgroup.	0	IN	DS	30409 8 2 48f3810422af82af1eb0b945b24e42ee6e13a05af75b323062968293cd21a567
 a0.nic.kuokgroup.	0	IN	A	65.22.112.56
 a0.nic.kuokgroup.	0	IN	AAAA	2a01:8840:6e::56
 a2.nic.kuokgroup.	0	IN	A	65.22.115.56
@@ -9795,6 +9794,7 @@ land.	0	IN	NS	v0n3.nic.land.
 land.	0	IN	NS	v2n0.nic.land.
 land.	0	IN	NS	v2n1.nic.land.
 land.	0	IN	DS	6595 8 2 7e0b97ba96c8437478bfb2da2f47c51cd530a254d8f9fd7612c30d5ce7fa2fc3
+land.	0	IN	DS	51445 8 2 3c4bea5071bce5763f098b83b60837f3630f02decd5bc02b59110df63dab94e1
 v0n0.nic.land.	0	IN	A	65.22.20.11
 v0n0.nic.land.	0	IN	AAAA	2a01:8840:16::11
 v0n1.nic.land.	0	IN	A	65.22.21.11
@@ -9811,6 +9811,7 @@ landrover.	0	IN	NS	a0.nic.landrover.
 landrover.	0	IN	NS	a2.nic.landrover.
 landrover.	0	IN	NS	b0.nic.landrover.
 landrover.	0	IN	NS	c0.nic.landrover.
+landrover.	0	IN	DS	4261 8 2 6460fa509bbccdf2f4daacb103880b6a62c657c5f7997ce5792c2963966f51b9
 landrover.	0	IN	DS	9545 8 2 8228511299170db94d53620e945e5ead65bed2f247121a70cd9dffb37674db69
 a0.nic.landrover.	0	IN	A	65.22.112.57
 a0.nic.landrover.	0	IN	AAAA	2a01:8840:6e::57
@@ -9844,6 +9845,7 @@ lasalle.	0	IN	NS	a2.nic.lasalle.
 lasalle.	0	IN	NS	b0.nic.lasalle.
 lasalle.	0	IN	NS	c0.nic.lasalle.
 lasalle.	0	IN	DS	6184 8 2 b7ceb81d5279786be446c8d6981f911d3cb31dfc7e192de510c6d489ca3ba370
+lasalle.	0	IN	DS	60179 8 2 81766147ac1e9df3434cb9f76cc87af42f549e18f9cc4ff5f386b0bf2717a2d1
 a0.nic.lasalle.	0	IN	A	65.22.148.1
 a0.nic.lasalle.	0	IN	AAAA	2a01:8840:92::1
 a2.nic.lasalle.	0	IN	A	65.22.151.1
@@ -9915,6 +9917,7 @@ lawyer.	0	IN	NS	v0n2.nic.lawyer.
 lawyer.	0	IN	NS	v0n3.nic.lawyer.
 lawyer.	0	IN	NS	v2n0.nic.lawyer.
 lawyer.	0	IN	NS	v2n1.nic.lawyer.
+lawyer.	0	IN	DS	24607 8 2 5bbdff9eae6811892b8625e203e29ee7e7b9d408f0102f60304fa278b0ee13f3
 lawyer.	0	IN	DS	24952 8 2 07f6239a01f7cab022db3f5773ea1f03bcf6780e4f87de8afd4f93883d19ebf8
 v0n0.nic.lawyer.	0	IN	A	65.22.24.14
 v0n0.nic.lawyer.	0	IN	AAAA	2a01:8840:1a::14
@@ -9983,6 +9986,7 @@ lease.	0	IN	NS	v0n2.nic.lease.
 lease.	0	IN	NS	v0n3.nic.lease.
 lease.	0	IN	NS	v2n0.nic.lease.
 lease.	0	IN	NS	v2n1.nic.lease.
+lease.	0	IN	DS	19570 8 2 7320fcdf884ed5aa072c2b69c839f74221dca59d0913dd15d235f4006744f9da
 lease.	0	IN	DS	49669 8 2 1c84ba6cc51944ecebd6a197de418af987c88a6ee0bdac2d1120b47e1da6bc9b
 v0n0.nic.lease.	0	IN	A	65.22.24.62
 v0n0.nic.lease.	0	IN	AAAA	2a01:8840:1a::62
@@ -10005,6 +10009,7 @@ lefrak.	0	IN	NS	a2.nic.lefrak.
 lefrak.	0	IN	NS	b0.nic.lefrak.
 lefrak.	0	IN	NS	c0.nic.lefrak.
 lefrak.	0	IN	DS	13552 8 2 dfe80636fc126c19c1af2ff130e361cb22b4f33d97a48ca25fe7c81ee351796e
+lefrak.	0	IN	DS	14821 8 2 041dbf3edf1359ab07a3f3b2169de0ac4969961524b431dd6b3e66ab97253b1e
 a0.nic.lefrak.	0	IN	A	65.22.112.58
 a0.nic.lefrak.	0	IN	AAAA	2a01:8840:6e::58
 a2.nic.lefrak.	0	IN	A	65.22.115.58
@@ -10019,6 +10024,7 @@ legal.	0	IN	NS	v0n2.nic.legal.
 legal.	0	IN	NS	v0n3.nic.legal.
 legal.	0	IN	NS	v2n0.nic.legal.
 legal.	0	IN	NS	v2n1.nic.legal.
+legal.	0	IN	DS	6194 8 2 4ec5af71b36d2d108da17f393ee3835bfc4946ac82dfdbc734e64a0b424d5c04
 legal.	0	IN	DS	11869 8 2 c56d8a0808a1ba707334dafe4d97506bf25de7ce21885dd86c98c012e164f113
 v0n0.nic.legal.	0	IN	A	65.22.20.12
 v0n0.nic.legal.	0	IN	AAAA	2a01:8840:16::12
@@ -10039,6 +10045,7 @@ lego.	0	IN	NS	v0n3.nic.lego.
 lego.	0	IN	NS	v2n0.nic.lego.
 lego.	0	IN	NS	v2n1.nic.lego.
 lego.	0	IN	DS	5752 8 2 af9076e3b4365d770b2827a4a9f6ea142d12af52887d9ea685e34aa0acdeea40
+lego.	0	IN	DS	43931 8 2 a66717b96e9cea66af360da6fc6262bdd9d80aaa333ae7ec678e822b8c8e4437
 v0n0.nic.lego.	0	IN	A	65.22.108.14
 v0n0.nic.lego.	0	IN	AAAA	2a01:8840:6a::14
 v0n1.nic.lego.	0	IN	A	65.22.109.14
@@ -10060,6 +10067,7 @@ lgbt.	0	IN	NS	a0.nic.lgbt.
 lgbt.	0	IN	NS	a2.nic.lgbt.
 lgbt.	0	IN	NS	b0.nic.lgbt.
 lgbt.	0	IN	NS	c0.nic.lgbt.
+lgbt.	0	IN	DS	11032 8 2 adbf29341bc4d2c1815a123f996ae7e1b59d7833fadd6d270b410115166bc8c7
 lgbt.	0	IN	DS	16912 8 2 58fc6791daa780f1b589fb72ce7f1e43f39dcd185df0e57ae60178e81fa174b6
 a0.nic.lgbt.	0	IN	A	65.22.32.1
 a0.nic.lgbt.	0	IN	AAAA	2a01:8840:22::1
@@ -10105,6 +10113,7 @@ life.	0	IN	NS	v0n2.nic.life.
 life.	0	IN	NS	v0n3.nic.life.
 life.	0	IN	NS	v2n0.nic.life.
 life.	0	IN	NS	v2n1.nic.life.
+life.	0	IN	DS	1831 8 2 7b345f191676f198e8008c727e3afab47d82ba1eeeff22e73255d67241f9cdf9
 life.	0	IN	DS	11164 8 2 aa2dbff1c2f5e1c3c430e1bfc84208722612a39d3ca8e3974ddc5e0934564328
 v0n0.nic.life.	0	IN	A	65.22.20.35
 v0n0.nic.life.	0	IN	AAAA	2a01:8840:16::35
@@ -10148,6 +10157,7 @@ lighting.	0	IN	NS	v0n2.nic.lighting.
 lighting.	0	IN	NS	v0n3.nic.lighting.
 lighting.	0	IN	NS	v2n0.nic.lighting.
 lighting.	0	IN	NS	v2n1.nic.lighting.
+lighting.	0	IN	DS	29621 8 2 16b17695d8c713c5642bc32abd884dcecc5346eb00e92be50ff9e35e7a293782
 lighting.	0	IN	DS	55696 8 2 8ed67ccf601fcf46ff98b89154d21b8c5ef2d60f34a9a4d6d1968b5869beefad
 v0n0.nic.lighting.	0	IN	A	65.22.32.52
 v0n0.nic.lighting.	0	IN	AAAA	2a01:8840:22::52
@@ -10212,6 +10222,7 @@ limited.	0	IN	NS	v0n3.nic.limited.
 limited.	0	IN	NS	v2n0.nic.limited.
 limited.	0	IN	NS	v2n1.nic.limited.
 limited.	0	IN	DS	28252 8 2 a9350d48b0282a5bfe1f7311fe716de96cb29700b11642b15848419091c3e27a
+limited.	0	IN	DS	41134 8 2 864726f7f4de92c5919ea777268e360cfcc5b2895d4b6bb6f8e9eecdec2a1261
 v0n0.nic.limited.	0	IN	A	65.22.28.52
 v0n0.nic.limited.	0	IN	AAAA	2a01:8840:1e::52
 v0n1.nic.limited.	0	IN	A	65.22.29.52
@@ -10231,6 +10242,7 @@ limo.	0	IN	NS	v0n3.nic.limo.
 limo.	0	IN	NS	v2n0.nic.limo.
 limo.	0	IN	NS	v2n1.nic.limo.
 limo.	0	IN	DS	39862 8 2 9de0702a0eea28354d3dca5eb0870d939f439cb14a879b583b35911ccd15019b
+limo.	0	IN	DS	57232 8 2 6dcfd633f0ff3305bad809c36d6e08bb71d4bb5bd41b505c0b741175af929c79
 v0n0.nic.limo.	0	IN	A	65.22.20.30
 v0n0.nic.limo.	0	IN	AAAA	2a01:8840:16::30
 v0n1.nic.limo.	0	IN	A	65.22.21.30
@@ -10273,6 +10285,7 @@ live.	0	IN	NS	v0n2.nic.live.
 live.	0	IN	NS	v0n3.nic.live.
 live.	0	IN	NS	v2n0.nic.live.
 live.	0	IN	NS	v2n1.nic.live.
+live.	0	IN	DS	4724 8 2 2cad139bb45de83ff3671921550c0e4ff0175eab078ad40fc4f6255cb43e2884
 live.	0	IN	DS	36322 8 2 201df9a9af6766d9cdbc8355756728f2db40ba93f9724f93aeeb1bddd7d564a0
 v0n0.nic.live.	0	IN	A	65.22.20.1
 v0n0.nic.live.	0	IN	AAAA	2a01:8840:16::1
@@ -10324,6 +10337,7 @@ llc.	0	IN	NS	a0.nic.llc.
 llc.	0	IN	NS	a2.nic.llc.
 llc.	0	IN	NS	b0.nic.llc.
 llc.	0	IN	NS	c0.nic.llc.
+llc.	0	IN	DS	7426 8 2 185a6fef58e6bfd26d44d80a7f0e0af8bcecb4e36ab7e9c870ad70e94a95fa35
 llc.	0	IN	DS	25591 8 2 93c8b54bd9413a06dc25a32304b423342fd3273ca6785071c4bd18a2d8b04819
 a0.nic.llc.	0	IN	A	65.22.36.9
 a0.nic.llc.	0	IN	AAAA	2a01:8840:26::9
@@ -10371,6 +10385,7 @@ loans.	0	IN	NS	v0n2.nic.loans.
 loans.	0	IN	NS	v0n3.nic.loans.
 loans.	0	IN	NS	v2n0.nic.loans.
 loans.	0	IN	NS	v2n1.nic.loans.
+loans.	0	IN	DS	19444 8 2 02e88d5b5edc9e6b33b05957b8de19120ca1d282cb299952db9754e0dfd3903a
 loans.	0	IN	DS	42307 8 2 1861e548a3f914c3b7f4db8336e56041359d352b703d9e302193fc1a98d3ae1b
 v0n0.nic.loans.	0	IN	A	65.22.24.55
 v0n0.nic.loans.	0	IN	AAAA	2a01:8840:1a::55
@@ -10450,6 +10465,7 @@ lotto.	0	IN	NS	a0.nic.lotto.
 lotto.	0	IN	NS	a2.nic.lotto.
 lotto.	0	IN	NS	b0.nic.lotto.
 lotto.	0	IN	NS	c0.nic.lotto.
+lotto.	0	IN	DS	3692 8 2 b2f81ef964148a43accef149d0f6617ba31e343bd2406eea1f632d330d234859
 lotto.	0	IN	DS	45466 8 2 6ffe76934a3634a61f99fad76fa0506a7682c5541452cf7b289f348fedd124bf
 a0.nic.lotto.	0	IN	A	65.22.28.25
 a0.nic.lotto.	0	IN	AAAA	2a01:8840:1e::25
@@ -10528,6 +10544,7 @@ ltd.	0	IN	NS	v0n3.nic.ltd.
 ltd.	0	IN	NS	v2n0.nic.ltd.
 ltd.	0	IN	NS	v2n1.nic.ltd.
 ltd.	0	IN	DS	54 8 2 d0f5f5a210d27f70a8912bf81078beeb34dbd370d7f0470d1140b749ac2f3a46
+ltd.	0	IN	DS	4397 8 2 a781401aa0ced0adc9d27163d3d5545a4ffe4993dece70be548387e4b07b4786
 v0n0.nic.ltd.	0	IN	A	65.22.28.2
 v0n0.nic.ltd.	0	IN	AAAA	2a01:8840:1e::2
 v0n1.nic.ltd.	0	IN	A	65.22.29.2
@@ -10580,6 +10597,7 @@ lundbeck.	0	IN	NS	a2.nic.lundbeck.
 lundbeck.	0	IN	NS	b0.nic.lundbeck.
 lundbeck.	0	IN	NS	c0.nic.lundbeck.
 lundbeck.	0	IN	DS	10564 8 2 38580c9480c824da9cb65a5ffaccdf2f6aedc660b98c6166e0a843ff13fab368
+lundbeck.	0	IN	DS	49247 8 2 955e45a6a577b2f70a8afbec833e6e261020c81e943300ce4bca5ac7fde1cd41
 a0.nic.lundbeck.	0	IN	A	65.22.112.60
 a0.nic.lundbeck.	0	IN	AAAA	2a01:8840:6e::60
 a2.nic.lundbeck.	0	IN	A	65.22.115.60
@@ -10684,6 +10702,7 @@ maif.	0	IN	NS	v0n3.nic.maif.
 maif.	0	IN	NS	v2n0.nic.maif.
 maif.	0	IN	NS	v2n1.nic.maif.
 maif.	0	IN	DS	23521 8 2 9ba0fe20840ece2ff7793f00a66ce5457904d0549526c8454b0cfec4a697b59c
+maif.	0	IN	DS	63637 8 2 02874566699326b249d1461b289c5b949876e6d8d7a50ab9c99cf6237b05393b
 v0n0.nic.maif.	0	IN	A	65.22.108.5
 v0n0.nic.maif.	0	IN	AAAA	2a01:8840:6a::5
 v0n1.nic.maif.	0	IN	A	65.22.109.5
@@ -10703,6 +10722,7 @@ maison.	0	IN	NS	v0n3.nic.maison.
 maison.	0	IN	NS	v2n0.nic.maison.
 maison.	0	IN	NS	v2n1.nic.maison.
 maison.	0	IN	DS	47149 8 2 ae330295e4790375d3e98ac41830036aabb74d3d31b17c391b49d7fd2a4883bb
+maison.	0	IN	DS	55952 8 2 9f6d1ed3aebf20ac4e21fe300d93c31cae2f79c9de8382d3135264b46a4b633d
 v0n0.nic.maison.	0	IN	A	65.22.28.33
 v0n0.nic.maison.	0	IN	AAAA	2a01:8840:1e::33
 v0n1.nic.maison.	0	IN	A	65.22.29.33
@@ -10741,6 +10761,7 @@ management.	0	IN	NS	v0n3.nic.management.
 management.	0	IN	NS	v2n0.nic.management.
 management.	0	IN	NS	v2n1.nic.management.
 management.	0	IN	DS	2944 8 2 3212da6705ed0149ee2e13781d2708a6add9073dd6e680edb3d76d9e45427590
+management.	0	IN	DS	32251 8 2 47801603a75788c4abf5c51ae313e1b59d38a2bfea27810d5047b9decb8fc9bd
 v0n0.nic.management.	0	IN	A	65.22.20.14
 v0n0.nic.management.	0	IN	AAAA	2a01:8840:16::14
 v0n1.nic.management.	0	IN	A	65.22.21.14
@@ -10771,6 +10792,7 @@ market.	0	IN	NS	v0n3.nic.market.
 market.	0	IN	NS	v2n0.nic.market.
 market.	0	IN	NS	v2n1.nic.market.
 market.	0	IN	DS	40531 8 2 a42ed3b928b90e5b821578d204ba0d108138be438eea0f9ceb91436085264c80
+market.	0	IN	DS	62735 8 2 6ca268d8ca7c00ac0005241e52c679b7ab0da121180569e0c0cc2de9c5e85982
 v0n0.nic.market.	0	IN	A	65.22.20.8
 v0n0.nic.market.	0	IN	AAAA	2a01:8840:16::8
 v0n1.nic.market.	0	IN	A	65.22.21.8
@@ -10790,6 +10812,7 @@ marketing.	0	IN	NS	v0n3.nic.marketing.
 marketing.	0	IN	NS	v2n0.nic.marketing.
 marketing.	0	IN	NS	v2n1.nic.marketing.
 marketing.	0	IN	DS	22285 8 2 f2fd61f041544a7a8dd1bf440c72020d08581190d697f3944886ad1ff08588e1
+marketing.	0	IN	DS	44581 8 2 7af2a7ea52f9b1fa7db598eba085b8d37f15c2273b9a538a1cecc2916ee7d6e3
 v0n0.nic.marketing.	0	IN	A	65.22.20.6
 v0n0.nic.marketing.	0	IN	AAAA	2a01:8840:16::6
 v0n1.nic.marketing.	0	IN	A	65.22.21.6
@@ -10809,6 +10832,7 @@ markets.	0	IN	NS	v0n3.nic.markets.
 markets.	0	IN	NS	v2n0.nic.markets.
 markets.	0	IN	NS	v2n1.nic.markets.
 markets.	0	IN	DS	58144 8 2 2c079f760779074e6ce68307c28f88f7b75d9fd6cfd65bec5c95c38d3ebfc614
+markets.	0	IN	DS	64757 8 2 49cae040120cb09469290800fe75baff34cfe04b7125e25fca925b869719e317
 v0n0.nic.markets.	0	IN	A	65.22.32.65
 v0n0.nic.markets.	0	IN	AAAA	2a01:8840:22::65
 v0n1.nic.markets.	0	IN	A	65.22.33.65
@@ -10826,6 +10850,7 @@ marriott.	0	IN	NS	a2.nic.marriott.
 marriott.	0	IN	NS	b0.nic.marriott.
 marriott.	0	IN	NS	c0.nic.marriott.
 marriott.	0	IN	DS	24409 8 2 8684c74574a7d00d562dcd780c7deb8554f2de761bc6bf4f59197d8d9b0656a6
+marriott.	0	IN	DS	37879 8 2 c7fc96e6d6edca83581eeddf557ad20685c9d0c72b782813f7ce5d94cfb57432
 a0.nic.marriott.	0	IN	A	65.22.236.9
 a0.nic.marriott.	0	IN	AAAA	2a01:8840:e6::9
 a2.nic.marriott.	0	IN	A	65.22.239.9
@@ -10878,6 +10903,7 @@ mba.	0	IN	NS	v0n2.nic.mba.
 mba.	0	IN	NS	v0n3.nic.mba.
 mba.	0	IN	NS	v2n0.nic.mba.
 mba.	0	IN	NS	v2n1.nic.mba.
+mba.	0	IN	DS	15530 8 2 712b70a0cd10f9042d9101e291be56c70658b5b98680eda779eca70aceda10f4
 mba.	0	IN	DS	65197 8 2 4076ff89017430719753df3c4c878f0114b1a6c14f79a9b8d7494f6f825afdec
 v0n0.nic.mba.	0	IN	A	65.22.24.59
 v0n0.nic.mba.	0	IN	AAAA	2a01:8840:1a::59
@@ -10971,6 +10997,7 @@ media.	0	IN	NS	v0n3.nic.media.
 media.	0	IN	NS	v2n0.nic.media.
 media.	0	IN	NS	v2n1.nic.media.
 media.	0	IN	DS	54649 8 2 d73ad588629eaac32749998639d85e8b383069cd7b85e4a5edd131156eb15b97
+media.	0	IN	DS	56680 8 2 a6a921dcd5a91d63f879135d0333c0fcb047a64f82b5fb6811d411d25b7cce06
 v0n0.nic.media.	0	IN	A	65.22.20.3
 v0n0.nic.media.	0	IN	AAAA	2a01:8840:16::3
 v0n1.nic.media.	0	IN	A	65.22.21.3
@@ -11021,6 +11048,7 @@ memorial.	0	IN	NS	v0n3.nic.memorial.
 memorial.	0	IN	NS	v2n0.nic.memorial.
 memorial.	0	IN	NS	v2n1.nic.memorial.
 memorial.	0	IN	DS	17102 8 2 125500a7dfbea41e4b90c1b086db21277340df1fbace51ac8e9aaa0c773d1d23
+memorial.	0	IN	DS	33904 8 2 91d519254c2348a96b0724b9f3990b6f67ba35925665ed694d82d36c4a5d26c6
 v0n0.nic.memorial.	0	IN	A	65.22.32.64
 v0n0.nic.memorial.	0	IN	AAAA	2a01:8840:22::64
 v0n1.nic.memorial.	0	IN	A	65.22.33.64
@@ -11322,6 +11350,7 @@ mobi.	0	IN	NS	b0.mobi.afilias-nst.org.
 mobi.	0	IN	NS	b2.mobi.afilias-nst.org.
 mobi.	0	IN	NS	c0.mobi.afilias-nst.info.
 mobi.	0	IN	NS	d0.mobi.afilias-nst.org.
+mobi.	0	IN	DS	35575 8 2 14f7656ec90e2eff725e3643ba360ca4f675d49c334a32f8167cb92b3473aec2
 mobi.	0	IN	DS	56191 8 2 016c0d8022bef2cabb827ce75dabd8fd24cd0160ac277a95ecd5e79b1a95592c
 mobile.	0	IN	NS	ns01.trs-dns.com.
 mobile.	0	IN	NS	ns01.trs-dns.net.
@@ -11334,6 +11363,7 @@ moda.	0	IN	NS	v0n2.nic.moda.
 moda.	0	IN	NS	v0n3.nic.moda.
 moda.	0	IN	NS	v2n0.nic.moda.
 moda.	0	IN	NS	v2n1.nic.moda.
+moda.	0	IN	DS	52747 8 2 b1b0fd7b719ac5d633d5529352c9e7dc5abfa21a738a72ecab6abaa5ab196624
 moda.	0	IN	DS	60925 8 2 d9124bbc4096e70b4aab2a0328750836243bb8ff45fb0aa3000239e83d5da1cd
 v0n0.nic.moda.	0	IN	A	65.22.20.28
 v0n0.nic.moda.	0	IN	AAAA	2a01:8840:16::28
@@ -11430,6 +11460,7 @@ money.	0	IN	NS	v0n3.nic.money.
 money.	0	IN	NS	v2n0.nic.money.
 money.	0	IN	NS	v2n1.nic.money.
 money.	0	IN	DS	4450 8 2 ccb7eba3b169edefbf21f0dd89667afa4920d4065d96c26f9a191b874ba25719
+money.	0	IN	DS	40832 8 2 c691aa46f968493e58a01a6a0a0af323635cf3b949ce227c2d3d6166e721d327
 v0n0.nic.money.	0	IN	A	65.22.28.13
 v0n0.nic.money.	0	IN	AAAA	2a01:8840:1e::13
 v0n1.nic.money.	0	IN	A	65.22.29.13
@@ -11474,6 +11505,7 @@ mortgage.	0	IN	NS	v0n2.nic.mortgage.
 mortgage.	0	IN	NS	v0n3.nic.mortgage.
 mortgage.	0	IN	NS	v2n0.nic.mortgage.
 mortgage.	0	IN	NS	v2n1.nic.mortgage.
+mortgage.	0	IN	DS	14590 8 2 b869522c3c1a884b6e74fdcc59e36596ba195d844a9a40d32379c0e7f084b87d
 mortgage.	0	IN	DS	32380 8 2 5a2743723615f674dd2633997cfb7d2e89a0db552bf7553b6eb80c449e998049
 v0n0.nic.mortgage.	0	IN	A	65.22.32.56
 v0n0.nic.mortgage.	0	IN	AAAA	2a01:8840:22::56
@@ -11538,6 +11570,7 @@ movie.	0	IN	NS	v0n3.nic.movie.
 movie.	0	IN	NS	v2n0.nic.movie.
 movie.	0	IN	NS	v2n1.nic.movie.
 movie.	0	IN	DS	391 8 2 0c93d08a6111d49129ac112076adf54b8b8e8975eb6f334372c8ce498664c422
+movie.	0	IN	DS	10321 8 2 52dab10adae8d2cfef9702eb375dc2452fb09826434b52aeaf58c6f0ebad3af9
 v0n0.nic.movie.	0	IN	A	65.22.32.26
 v0n0.nic.movie.	0	IN	AAAA	2a01:8840:22::26
 v0n1.nic.movie.	0	IN	A	65.22.33.26
@@ -11747,6 +11780,7 @@ nab.	0	IN	NS	a2.nic.nab.
 nab.	0	IN	NS	b0.nic.nab.
 nab.	0	IN	NS	c0.nic.nab.
 nab.	0	IN	DS	3754 8 2 8db2922bd318627eaf5907312a66433d3fc088510f37a4162b1911077b0cdfac
+nab.	0	IN	DS	12286 8 2 ddb637d8e9bb04c8cad43050993f2028d986346e09a0c5c42ea432211b6f5cd3
 a0.nic.nab.	0	IN	A	65.22.112.61
 a0.nic.nab.	0	IN	AAAA	2a01:8840:6e::61
 a2.nic.nab.	0	IN	A	65.22.115.61
@@ -11772,6 +11806,7 @@ navy.	0	IN	NS	v0n3.nic.navy.
 navy.	0	IN	NS	v2n0.nic.navy.
 navy.	0	IN	NS	v2n1.nic.navy.
 navy.	0	IN	DS	24535 8 2 6f05f1cc418bdc0c32058586cd7de8cf28ec70aa9c978e2613389226053c53bf
+navy.	0	IN	DS	56720 8 2 2d668331add9a763cf4b01fd7dc39f64fc5fca8ded8ecc059d37d6e874af1ed5
 v0n0.nic.navy.	0	IN	A	65.22.28.34
 v0n0.nic.navy.	0	IN	AAAA	2a01:8840:1e::34
 v0n1.nic.navy.	0	IN	A	65.22.29.34
@@ -12219,6 +12254,7 @@ network.	0	IN	NS	v0n2.nic.network.
 network.	0	IN	NS	v0n3.nic.network.
 network.	0	IN	NS	v2n0.nic.network.
 network.	0	IN	NS	v2n1.nic.network.
+network.	0	IN	DS	11416 8 2 66b87e0d0861b6d022dae6a838acae9d2ec461a84e5011c525db6c8806f1abe9
 network.	0	IN	DS	40414 8 2 67bbaa0c822dacf7baa5d8faac2591bdd7bf9a6a4189eca26a61c25276744d2b
 v0n0.nic.network.	0	IN	A	65.22.32.36
 v0n0.nic.network.	0	IN	AAAA	2a01:8840:22::36
@@ -12264,6 +12300,7 @@ news.	0	IN	NS	v0n3.nic.news.
 news.	0	IN	NS	v2n0.nic.news.
 news.	0	IN	NS	v2n1.nic.news.
 news.	0	IN	DS	39979 8 2 40c36d4b7aff71b956abbfd5710bb34dbdab3f020d58cb613da94fc359e63c36
+news.	0	IN	DS	63314 8 2 dfca18583b31be12ca1c07e36b4d21d5722277df78002dafccbe3287ba78e6ff
 v0n0.nic.news.	0	IN	A	65.22.32.3
 v0n0.nic.news.	0	IN	AAAA	2a01:8840:22::3
 v0n1.nic.news.	0	IN	A	65.22.33.3
@@ -12280,6 +12317,7 @@ next.	0	IN	NS	a0.nic.next.
 next.	0	IN	NS	a2.nic.next.
 next.	0	IN	NS	b0.nic.next.
 next.	0	IN	NS	c0.nic.next.
+next.	0	IN	DS	18661 8 2 b2763ea4801b812999271ba11aae4a17194a2f886388ba6971b01e18da69b7c4
 next.	0	IN	DS	39380 8 2 fd76f1a70049cc1383d9da8cbe33917b5877152f2d976e1a0806ca79c00f4658
 a0.nic.next.	0	IN	A	65.22.112.62
 a0.nic.next.	0	IN	AAAA	2a01:8840:6e::62
