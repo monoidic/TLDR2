@@ -3951,14 +3951,6 @@ c.mynic.centralnic-dns.com.	0	IN	A	212.18.248.114
 c.mynic.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ee::114
 d.mynic.centralnic-dns.com.	0	IN	A	212.18.249.114
 d.mynic.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ff::114
-a.xn--q7ce6a.centralnic-dns.com.	0	IN	A	194.169.218.17
-a.xn--q7ce6a.centralnic-dns.com.	0	IN	AAAA	2001:67c:13cc::1:17
-b.xn--q7ce6a.centralnic-dns.com.	0	IN	A	185.24.64.17
-b.xn--q7ce6a.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13cc::1:17
-c.xn--q7ce6a.centralnic-dns.com.	0	IN	A	212.18.248.17
-c.xn--q7ce6a.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ee::17
-d.xn--q7ce6a.centralnic-dns.com.	0	IN	A	212.18.249.17
-d.xn--q7ce6a.centralnic-dns.com.	0	IN	AAAA	2a04:2b00:13ff::17
 ns-tld1.charlestonroadregistry.com.	0	IN	A	216.239.32.105
 ns-tld1.charlestonroadregistry.com.	0	IN	AAAA	2001:4860:4802:32::69
 ns-tld2.charlestonroadregistry.com.	0	IN	A	216.239.34.105
@@ -9745,10 +9737,6 @@ ns1.nic.kz.	0	IN	A	185.79.212.7
 ns1.nic.kz.	0	IN	AAAA	2a01:7640:9000::7
 ns2.nic.kz.	0	IN	A	204.61.216.143
 ns2.nic.kz.	0	IN	AAAA	2001:500:14:6143:ad::1
-la.	0	IN	NS	ns1.nic.la.
-la.	0	IN	NS	ns2.nic.la.
-la.	0	IN	NS	ns3.nic.la.
-la.	0	IN	NS	ns4.nic.la.
 la.	0	IN	NS	ns01.trs-dns.com.
 la.	0	IN	NS	ns01.trs-dns.net.
 la.	0	IN	NS	ns10.trs-dns.org.
@@ -9756,14 +9744,6 @@ la.	0	IN	NS	ns10.trs-dns.info.
 la.	0	IN	DS	25164 7 2 1217c71860e555f30e3f6e241e613f1cca5543dd54bf097dcc0b4a9d6429d24e
 la.	0	IN	DS	42973 7 1 1f0cefa420e9101bb5791f3ab93e85917a72978b
 la.	0	IN	DS	42973 7 2 e7d0c3bcdf60e8d842e882d90b4ec263c8889b760098492c798841c13b4ea13f
-ns1.nic.la.	0	IN	A	185.24.64.15
-ns1.nic.la.	0	IN	AAAA	2a04:2b00:13cc::1:15
-ns2.nic.la.	0	IN	A	194.169.218.14
-ns2.nic.la.	0	IN	AAAA	2001:67c:13cc::1:14
-ns3.nic.la.	0	IN	A	185.24.64.14
-ns3.nic.la.	0	IN	AAAA	2a04:2b00:13cc::1:14
-ns4.nic.la.	0	IN	A	194.169.218.15
-ns4.nic.la.	0	IN	AAAA	2001:67c:13cc::1:15
 lacaixa.	0	IN	NS	anycast9.irondns.net.
 lacaixa.	0	IN	NS	anycast10.irondns.net.
 lacaixa.	0	IN	NS	anycast23.irondns.net.
@@ -20225,10 +20205,6 @@ xn--pssy2u.	0	IN	NS	ac2.nstld.com.
 xn--pssy2u.	0	IN	NS	ac3.nstld.com.
 xn--pssy2u.	0	IN	NS	ac4.nstld.com.
 xn--pssy2u.	0	IN	DS	6014 13 2 29cd1b30d078fb49171fcb0d6ce2c4c612a9f948891de03c0382abde173c00ac
-xn--q7ce6a.	0	IN	NS	a.xn--q7ce6a.centralnic-dns.com.
-xn--q7ce6a.	0	IN	NS	b.xn--q7ce6a.centralnic-dns.com.
-xn--q7ce6a.	0	IN	NS	c.xn--q7ce6a.centralnic-dns.com.
-xn--q7ce6a.	0	IN	NS	d.xn--q7ce6a.centralnic-dns.com.
 xn--q7ce6a.	0	IN	NS	ns01.trs-dns.com.
 xn--q7ce6a.	0	IN	NS	ns01.trs-dns.net.
 xn--q7ce6a.	0	IN	NS	ns10.trs-dns.org.
