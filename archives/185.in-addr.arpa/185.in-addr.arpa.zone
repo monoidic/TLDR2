@@ -2372,10 +2372,8 @@
 83.102.185.in-addr.arpa.	0	IN	NS	dns1.jouve-hdi.com.
 83.102.185.in-addr.arpa.	0	IN	NS	dns2.jouve-hdi.com.
 83.102.185.in-addr.arpa.	0	IN	NS	dns3.jouve-hdi.com.
-84.102.185.in-addr.arpa.	0	IN	NS	a.any-cast.net.
-84.102.185.in-addr.arpa.	0	IN	NS	b.any-cast.net.
-84.102.185.in-addr.arpa.	0	IN	NS	c.any-cast.net.
-84.102.185.in-addr.arpa.	0	IN	NS	d.any-cast.net.
+84.102.185.in-addr.arpa.	0	IN	NS	ns103.ovh.net.
+84.102.185.in-addr.arpa.	0	IN	NS	dns103.ovh.net.
 87.102.185.in-addr.arpa.	0	IN	NS	dns1.sfctek.com.tr.
 87.102.185.in-addr.arpa.	0	IN	NS	dns2.sfctek.com.tr.
 88.102.185.in-addr.arpa.	0	IN	NS	ns1.data-center.ro.
@@ -7957,6 +7955,8 @@
 78.112.185.in-addr.arpa.	0	IN	NS	dns2.akiwifi.com.
 79.112.185.in-addr.arpa.	0	IN	NS	dns1.imatel.es.
 79.112.185.in-addr.arpa.	0	IN	NS	dns2.imatel.es.
+80.112.185.in-addr.arpa.	0	IN	NS	ns1.bsmt.ru.
+80.112.185.in-addr.arpa.	0	IN	NS	ns2.bsmt.ru.
 81.112.185.in-addr.arpa.	0	IN	NS	nseu1.datalabs.ae.
 81.112.185.in-addr.arpa.	0	IN	NS	nseu2.datalabs.ae.
 82.112.185.in-addr.arpa.	0	IN	NS	ns1.creanova.org.
@@ -10534,6 +10534,9 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 58.118.185.in-addr.arpa.	0	IN	NS	ns2.blackslot.com.
 59.118.185.in-addr.arpa.	0	IN	NS	ns1.blackslot.com.
 59.118.185.in-addr.arpa.	0	IN	NS	ns2.blackslot.com.
+61.118.185.in-addr.arpa.	0	IN	NS	iris.ns.cloudflare.com.
+61.118.185.in-addr.arpa.	0	IN	NS	dexter.ns.cloudflare.com.
+61.118.185.in-addr.arpa.	0	IN	DS	2371 13 2 306b995b01888b9281673a17eb756ac5479f0b4b3f7c54a3dbcaaddfc2f3abc4
 64.118.185.in-addr.arpa.	0	IN	NS	ns1.vpsville.ru.
 64.118.185.in-addr.arpa.	0	IN	NS	ns2.vpsville.ru.
 65.118.185.in-addr.arpa.	0	IN	NS	ns1.vpsville.ru.
@@ -31516,14 +31519,6 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 8.160.185.in-addr.arpa.	0	IN	NS	ns1.acorus-networks.net.
 8.160.185.in-addr.arpa.	0	IN	NS	ns2.acorus-networks.fr.
 8.160.185.in-addr.arpa.	0	IN	NS	ns3.acorus-networks.com.
-84.160.185.in-addr.arpa.	0	IN	NS	ara.ns.cloudflare.com.
-84.160.185.in-addr.arpa.	0	IN	NS	yisroel.ns.cloudflare.com.
-85.160.185.in-addr.arpa.	0	IN	NS	ara.ns.cloudflare.com.
-85.160.185.in-addr.arpa.	0	IN	NS	yisroel.ns.cloudflare.com.
-86.160.185.in-addr.arpa.	0	IN	NS	ara.ns.cloudflare.com.
-86.160.185.in-addr.arpa.	0	IN	NS	yisroel.ns.cloudflare.com.
-87.160.185.in-addr.arpa.	0	IN	NS	ara.ns.cloudflare.com.
-87.160.185.in-addr.arpa.	0	IN	NS	yisroel.ns.cloudflare.com.
 88.160.185.in-addr.arpa.	0	IN	NS	ns.cosmonova.net.ua.
 88.160.185.in-addr.arpa.	0	IN	NS	ns.kumirtele.com.
 88.160.185.in-addr.arpa.	0	IN	NS	ns1.it-tele.net.
@@ -35418,8 +35413,6 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 98.169.185.in-addr.arpa.	0	IN	NS	rdns2.homehost.com.br.
 99.169.185.in-addr.arpa.	0	IN	NS	rdns1.homehost.com.br.
 99.169.185.in-addr.arpa.	0	IN	NS	rdns2.homehost.com.br.
-0.17.185.in-addr.arpa.	0	IN	NS	ns1.netcrafters.tech.
-0.17.185.in-addr.arpa.	0	IN	NS	ns2.netcrafters.tech.
 1.17.185.in-addr.arpa.	0	IN	NS	pdns1.1st-server.net.
 1.17.185.in-addr.arpa.	0	IN	NS	pdns2.1st-server.net.
 10.17.185.in-addr.arpa.	0	IN	NS	rs1.selectel.org.
