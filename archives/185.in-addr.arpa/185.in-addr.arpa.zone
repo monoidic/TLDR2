@@ -10774,6 +10774,10 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 202.119.185.in-addr.arpa.	0	IN	NS	ns2.voxity.fr.
 203.119.185.in-addr.arpa.	0	IN	NS	ns1.voxity.fr.
 203.119.185.in-addr.arpa.	0	IN	NS	ns2.voxity.fr.
+205.119.185.in-addr.arpa.	0	IN	NS	ns1.vname.org.
+205.119.185.in-addr.arpa.	0	IN	NS	ns2.vname.org.
+205.119.185.in-addr.arpa.	0	IN	NS	ns3.vname.org.
+205.119.185.in-addr.arpa.	0	IN	NS	ns4.vname.org.
 208.119.185.in-addr.arpa.	0	IN	NS	ns1.fortes.pl.
 208.119.185.in-addr.arpa.	0	IN	NS	ns2.he.net.
 208.119.185.in-addr.arpa.	0	IN	NS	ns3.he.net.
@@ -24716,8 +24720,6 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 51.147.185.in-addr.arpa.	0	IN	NS	ns2.energbank.com.
 53.147.185.in-addr.arpa.	0	IN	NS	dns1.swiftycdn.net.
 53.147.185.in-addr.arpa.	0	IN	NS	dns2.swiftycdn.net.
-54.147.185.in-addr.arpa.	0	IN	NS	ns1.inboxpress-au.com.
-54.147.185.in-addr.arpa.	0	IN	NS	ns2.inboxpress-au.com.
 56.147.185.in-addr.arpa.	0	IN	NS	gsm2.lmt.lv.
 56.147.185.in-addr.arpa.	0	IN	NS	lte4.lmt.lv.
 57.147.185.in-addr.arpa.	0	IN	NS	gsm2.lmt.lv.
@@ -34871,8 +34873,9 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 46.168.185.in-addr.arpa.	0	IN	NS	ns3-rev.celeo.net.
 47.168.185.in-addr.arpa.	0	IN	NS	ns1-rev.celeo.net.
 47.168.185.in-addr.arpa.	0	IN	NS	ns3-rev.celeo.net.
-48.168.185.in-addr.arpa.	0	IN	NS	ns1.auto-dns.com.
-48.168.185.in-addr.arpa.	0	IN	NS	ns2.auto-dns.com.
+48.168.185.in-addr.arpa.	0	IN	NS	ns1.superspace.nl.
+48.168.185.in-addr.arpa.	0	IN	NS	ns2.superspace.nl.
+48.168.185.in-addr.arpa.	0	IN	DS	20546 13 2 59d5dbbddea153c3909e3fa29d795c9de9b26d0620a836f9ba21f542894a2315
 5.168.185.in-addr.arpa.	0	IN	NS	ns.plusinedc.nl.
 5.168.185.in-addr.arpa.	0	IN	NS	ns2.plusinedc.nl.
 5.168.185.in-addr.arpa.	0	IN	NS	ns3.plusinedc.nl.
@@ -46971,14 +46974,14 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 27.192.185.in-addr.arpa.	0	IN	NS	ns2.blcnet.fi.
 3.192.185.in-addr.arpa.	0	IN	NS	ns1.leaseweb.nl.
 3.192.185.in-addr.arpa.	0	IN	NS	ns4.leaseweb.net.
-40.192.185.in-addr.arpa.	0	IN	NS	rdns1.subset.host.
-40.192.185.in-addr.arpa.	0	IN	NS	rdns2.subset.host.
-41.192.185.in-addr.arpa.	0	IN	NS	rdns1.subset.host.
-41.192.185.in-addr.arpa.	0	IN	NS	rdns2.subset.host.
-42.192.185.in-addr.arpa.	0	IN	NS	rdns1.subset.host.
-42.192.185.in-addr.arpa.	0	IN	NS	rdns2.subset.host.
-43.192.185.in-addr.arpa.	0	IN	NS	rdns1.subset.host.
-43.192.185.in-addr.arpa.	0	IN	NS	rdns2.subset.host.
+40.192.185.in-addr.arpa.	0	IN	NS	rdns3.subset.host.
+40.192.185.in-addr.arpa.	0	IN	NS	rdns4.subset.host.
+41.192.185.in-addr.arpa.	0	IN	NS	rdns3.subset.host.
+41.192.185.in-addr.arpa.	0	IN	NS	rdns4.subset.host.
+42.192.185.in-addr.arpa.	0	IN	NS	rdns3.subset.host.
+42.192.185.in-addr.arpa.	0	IN	NS	rdns4.subset.host.
+43.192.185.in-addr.arpa.	0	IN	NS	rdns3.subset.host.
+43.192.185.in-addr.arpa.	0	IN	NS	rdns4.subset.host.
 44.192.185.in-addr.arpa.	0	IN	NS	rev1.thgnet.net.
 44.192.185.in-addr.arpa.	0	IN	NS	rev2.thgnet.net.
 45.192.185.in-addr.arpa.	0	IN	NS	rev1.thgnet.net.
@@ -49875,8 +49878,8 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 7.198.185.in-addr.arpa.	0	IN	NS	edns4.ultradns.com.
 7.198.185.in-addr.arpa.	0	IN	NS	edns4.ultradns.net.
 7.198.185.in-addr.arpa.	0	IN	NS	edns4.ultradns.org.
-70.198.185.in-addr.arpa.	0	IN	NS	ns01.servergurus.de.
-70.198.185.in-addr.arpa.	0	IN	NS	ns02.servergurus.de.
+70.198.185.in-addr.arpa.	0	IN	NS	ns103.ovh.net.
+70.198.185.in-addr.arpa.	0	IN	NS	dns103.ovh.net.
 72.198.185.in-addr.arpa.	0	IN	NS	rdns1.makdos.com.
 72.198.185.in-addr.arpa.	0	IN	NS	rdns4.makdos.com.
 73.198.185.in-addr.arpa.	0	IN	NS	rdns1.makdos.com.
@@ -56198,9 +56201,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 150.211.185.in-addr.arpa.	0	IN	NS	ns1.adbw.ch.
 150.211.185.in-addr.arpa.	0	IN	NS	ns2.adbw.ch.
 150.211.185.in-addr.arpa.	0	IN	NS	ns3.adbw.ch.
-151.211.185.in-addr.arpa.	0	IN	NS	ns1.adbw.ch.
-151.211.185.in-addr.arpa.	0	IN	NS	ns2.adbw.ch.
-151.211.185.in-addr.arpa.	0	IN	NS	ns3.adbw.ch.
 152.211.185.in-addr.arpa.	0	IN	NS	coco.bunny.net.
 152.211.185.in-addr.arpa.	0	IN	NS	kiki.bunny.net.
 153.211.185.in-addr.arpa.	0	IN	NS	coco.bunny.net.
@@ -56547,10 +56547,6 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 111.212.185.in-addr.arpa.	0	IN	NS	rdns.centohost.com.
 117.212.185.in-addr.arpa.	0	IN	NS	pdns1.alexhost.com.
 117.212.185.in-addr.arpa.	0	IN	NS	pdns2.alexhost.com.
-118.212.185.in-addr.arpa.	0	IN	NS	ns-223.awsdns-27.com.
-118.212.185.in-addr.arpa.	0	IN	NS	ns-993.awsdns-60.net.
-118.212.185.in-addr.arpa.	0	IN	NS	ns-1484.awsdns-57.org.
-118.212.185.in-addr.arpa.	0	IN	NS	ns-1637.awsdns-12.co.uk.
 119.212.185.in-addr.arpa.	0	IN	NS	rdns1.snowd.com.
 119.212.185.in-addr.arpa.	0	IN	NS	rdns2.snowd.com.
 12.212.185.in-addr.arpa.	0	IN	NS	dns1.xgbe.cz.
@@ -72288,6 +72284,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 231.244.185.in-addr.arpa.	0	IN	NS	ns2.cablecolor.com.sv.
 231.244.185.in-addr.arpa.	0	IN	NS	ns3.cablecolor.com.sv.
 231.244.185.in-addr.arpa.	0	IN	NS	ns4.cablecolor.com.sv.
+236.244.185.in-addr.arpa.	0	IN	NS	ns1.velcom.it.
+236.244.185.in-addr.arpa.	0	IN	NS	ns2.velcom.it.
 237.244.185.in-addr.arpa.	0	IN	NS	ns1.dns74.net.
 237.244.185.in-addr.arpa.	0	IN	NS	ns2.dns74.net.
 237.244.185.in-addr.arpa.	0	IN	NS	ns3.dns74.net.

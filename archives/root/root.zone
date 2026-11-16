@@ -2658,6 +2658,7 @@ buzz.	0	IN	NS	c.nic.buzz.
 buzz.	0	IN	NS	ns1.dns.nic.buzz.
 buzz.	0	IN	NS	ns2.dns.nic.buzz.
 buzz.	0	IN	NS	ns3.dns.nic.buzz.
+buzz.	0	IN	DS	13643 13 2 896a171b1427913a8844e66d87e729daa7d84b32cc0d41a9596fade82e41c1ed
 buzz.	0	IN	DS	60340 8 2 fba59e35952704ae0656bc122aec20528c8d49600e314e8bdf0ae00ce8c336b7
 a.nic.buzz.	0	IN	A	37.209.192.10
 a.nic.buzz.	0	IN	AAAA	2001:dcd:1::10
@@ -2900,7 +2901,6 @@ capitalone.	0	IN	NS	c.nic.capitalone.
 capitalone.	0	IN	NS	x.nic.capitalone.
 capitalone.	0	IN	NS	y.nic.capitalone.
 capitalone.	0	IN	NS	z.nic.capitalone.
-capitalone.	0	IN	DS	16365 8 2 017564f7c0204b23e19605e08e5dcf57c286d6d5097b53440de91d4f04d3abac
 capitalone.	0	IN	DS	35674 8 2 18a369b6ca7ecd8c34858091e85c169d7d7df070b019a714e8928f6489ed4985
 a.nic.capitalone.	0	IN	A	37.209.192.9
 a.nic.capitalone.	0	IN	AAAA	2001:dcd:1::9
@@ -7034,7 +7034,6 @@ george.	0	IN	NS	c.nic.george.
 george.	0	IN	NS	x.nic.george.
 george.	0	IN	NS	y.nic.george.
 george.	0	IN	NS	z.nic.george.
-george.	0	IN	DS	1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
 george.	0	IN	DS	52471 8 2 2075b42f79f6ac18baaa19256564296dc9a53b1a24f2bf84550e005206b4e2d3
 a.nic.george.	0	IN	A	37.209.192.9
 a.nic.george.	0	IN	AAAA	2001:dcd:1::9
@@ -7525,7 +7524,6 @@ grocery.	0	IN	NS	x.nic.grocery.
 grocery.	0	IN	NS	y.nic.grocery.
 grocery.	0	IN	NS	z.nic.grocery.
 grocery.	0	IN	DS	18634 8 2 03d573c990bfb36fce9a9ecebf706b50bc42d96772d9c39c76af617225c02b34
-grocery.	0	IN	DS	58537 8 2 3306b36e70fe436fc00b50acd0d7c0dab84db02062907f3ff5cece68f09cb68c
 a.nic.grocery.	0	IN	A	37.209.192.10
 a.nic.grocery.	0	IN	AAAA	2001:dcd:1::10
 b.nic.grocery.	0	IN	A	37.209.194.10
@@ -14922,7 +14920,6 @@ samsclub.	0	IN	NS	x.nic.samsclub.
 samsclub.	0	IN	NS	y.nic.samsclub.
 samsclub.	0	IN	NS	z.nic.samsclub.
 samsclub.	0	IN	DS	35602 8 2 29e4496bea5e1cec89fcb45cbd4d9c45d0a024eb2b3bb1245f67ef66ba89d210
-samsclub.	0	IN	DS	60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
 a.nic.samsclub.	0	IN	A	37.209.192.9
 a.nic.samsclub.	0	IN	AAAA	2001:dcd:1::9
 b.nic.samsclub.	0	IN	A	37.209.194.9
@@ -18498,7 +18495,6 @@ walmart.	0	IN	NS	x.nic.walmart.
 walmart.	0	IN	NS	y.nic.walmart.
 walmart.	0	IN	NS	z.nic.walmart.
 walmart.	0	IN	DS	4411 8 2 cee1000fc9a5a5c1e205308ac36910953c589174ca5d18516dcb0549ea450886
-walmart.	0	IN	DS	34531 8 2 e09b4ccfa8a68b1d6a13042fa28a343782d0d1b4bf3e79c6a1415d3b2825b922
 a.nic.walmart.	0	IN	A	37.209.192.9
 a.nic.walmart.	0	IN	AAAA	2001:dcd:1::9
 b.nic.walmart.	0	IN	A	37.209.194.9
