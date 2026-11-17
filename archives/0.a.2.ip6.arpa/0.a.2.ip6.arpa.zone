@@ -3431,8 +3431,8 @@ e.6.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3-01.azure-dns.org.
 e.6.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns4-01.azure-dns.info.
 0.7.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns.isnet.ru.
 0.7.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.isnet.ru.
-8.7.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.westcall.net.
-8.7.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.westcall.net.
+8.7.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns6.ertelecom.ru.
+8.7.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns8.ertelecom.ru.
 8.9.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.combell.net.
 8.9.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns4.combell.net.
 0.a.c.1.0.0.a.2.ip6.arpa.	0	IN	NS	dns2.envia-tel.net.
@@ -4025,8 +4025,8 @@ f.d.e.1.0.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 e521a8d9c1353ca3efc489e6c7455c880af6
 8.0.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.witcom.cloud.
 8.0.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.witcom.cloud.
 8.0.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns4.witcom.cloud.
-0.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.netiwan.fr.
-0.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.netiwan.fr.
+0.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.one-elephant.org.
+0.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.one-elephant.org.
 0.0.0.0.0.0.0.0.8.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.nsasp.net.
 0.0.0.0.0.0.0.0.8.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.nsasp.net.
 1.0.0.3.0.0.0.0.8.1.f.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.nsasp.net.
@@ -100668,6 +100668,8 @@ f.0.0.0.0.5.f.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.hostiko.network.
 6.c.c.f.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.adreseau.net.
 7.c.c.f.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.adreseau.net.
 7.c.c.f.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.adreseau.net.
+1.c.d.f.1.0.a.2.ip6.arpa.	0	IN	NS	ns1.zumedns.com.
+1.c.d.f.1.0.a.2.ip6.arpa.	0	IN	NS	ns2.zumedns.com.
 0.0.0.0.0.0.f.f.1.0.a.2.ip6.arpa.	0	IN	NS	pns41.cloudns.net.
 0.0.0.0.0.0.f.f.1.0.a.2.ip6.arpa.	0	IN	NS	pns42.cloudns.net.
 0.0.0.0.0.0.f.f.1.0.a.2.ip6.arpa.	0	IN	NS	pns43.cloudns.net.
@@ -106782,6 +106784,10 @@ b.b.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns2.hostinger.com.
 1.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns2.hostinger.com.
 6.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns1.hostinger.com.
 6.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns2.hostinger.com.
+7.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns1.hostinger.com.
+7.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns2.hostinger.com.
+8.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns1.hostinger.com.
+8.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns2.hostinger.com.
 9.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns1.hostinger.com.
 9.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns2.hostinger.com.
 d.c.0.0.0.8.7.4.2.0.a.2.ip6.arpa.	0	IN	NS	rdns1.hostinger.com.
@@ -128181,6 +128187,8 @@ a.0.0.0.1.0.0.0.2.4.5.4.5.0.a.2.ip6.arpa.	0	IN	NS	ns.binero.com.
 2.0.0.0.1.0.0.0.0.4.f.4.5.0.a.2.ip6.arpa.	0	IN	NS	ns2.dnsblock.net.
 3.0.0.0.1.0.0.0.0.4.f.4.5.0.a.2.ip6.arpa.	0	IN	NS	ns1.dnsblock.net.
 3.0.0.0.1.0.0.0.0.4.f.4.5.0.a.2.ip6.arpa.	0	IN	NS	ns2.dnsblock.net.
+0.c.f.4.5.0.a.2.ip6.arpa.	0	IN	NS	ns1.atel76.ru.
+0.c.f.4.5.0.a.2.ip6.arpa.	0	IN	NS	ns2.atel76.ru.
 0.0.0.5.5.0.a.2.ip6.arpa.	0	IN	NS	ns1.infinity-telecom.com.
 0.0.0.5.5.0.a.2.ip6.arpa.	0	IN	NS	ns2.infinity-telecom.com.
 1.0.0.5.5.0.a.2.ip6.arpa.	0	IN	NS	ns1.infinity-telecom.com.
@@ -140440,6 +140448,10 @@ d.1.1.0.1.c.7.1.9.0.a.2.ip6.arpa.	0	IN	NS	vida.ns.cloudflare.com.
 1.6.0.0.0.8.2.2.9.0.a.2.ip6.arpa.	0	IN	NS	porter.ns.cloudflare.com.
 0.c.4.2.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.larevet.net.
 0.c.4.2.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.larevet.net.
+0.0.5.2.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.gentlent.net.
+0.0.5.2.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.gentlent.net.
+0.0.5.2.9.0.a.2.ip6.arpa.	0	IN	NS	ns3.gentlent.biz.
+0.0.5.2.9.0.a.2.ip6.arpa.	0	IN	NS	ns4.gentlent.info.
 0.0.6.2.9.0.a.2.ip6.arpa.	0	IN	NS	cbv-rdns01.ipline.eu.
 0.0.6.2.9.0.a.2.ip6.arpa.	0	IN	NS	cpt-rdns01.ipline.eu.
 1.0.6.2.9.0.a.2.ip6.arpa.	0	IN	NS	cbv-rdns01.ipline.eu.
@@ -157311,6 +157323,8 @@ c.5.0.f.2.0.f.8.e.0.a.2.ip6.arpa.	0	IN	DS	2645 13 4 8d2761d7c66d6ebca61bc5f08116
 a.7.0.f.2.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	jack.ns.cloudflare.com.
 a.7.0.f.2.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	julissa.ns.cloudflare.com.
 a.7.0.f.2.0.f.8.e.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 8ec2da80fa98129ca1a88c07844cdc4a192714de13a10d8274f7f87aed4e5179
+b.7.0.f.2.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	james.ns.cloudflare.com.
+b.7.0.f.2.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	hattie.ns.cloudflare.com.
 4.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	ns1.pcdog.ch.
 4.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	ns2.pcdog.ch.
 4.0.f.8.e.0.a.2.ip6.arpa.	0	IN	NS	ns3.pcdog.ch.
