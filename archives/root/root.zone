@@ -130,6 +130,7 @@ able.	0	IN	NS	c.nic.able.
 able.	0	IN	NS	ns1.dns.nic.able.
 able.	0	IN	NS	ns2.dns.nic.able.
 able.	0	IN	NS	ns3.dns.nic.able.
+able.	0	IN	DS	26098 13 2 5f99abd27b0d2b9548ea6f5e12fadbe97cc8cea77c107e729f46dfd907116840
 able.	0	IN	DS	48877 8 2 6effec2f6db34b2d1086a3b4cedd6e4109135877e533d6d1bf0f7ca760eb018f
 a.nic.able.	0	IN	A	37.209.192.10
 a.nic.able.	0	IN	AAAA	2001:dcd:1::10
@@ -457,7 +458,6 @@ ai.	0	IN	NS	v0n3.nic.ai.
 ai.	0	IN	NS	v2n0.nic.ai.
 ai.	0	IN	NS	v2n1.nic.ai.
 ai.	0	IN	DS	1814 8 2 8d4293e0e8ae7d9be73def27d95203ee3efaf532e2e4b2e4c44f0a7970f94cca
-ai.	0	IN	DS	3799 8 2 8a8030d4661ae6fcf417349682ac058648371002e70e717e4cf2f11f83543385
 v0n0.nic.ai.	0	IN	A	199.115.152.1
 v0n0.nic.ai.	0	IN	AAAA	2001:500:a0::1
 v0n1.nic.ai.	0	IN	A	199.115.153.1
@@ -769,6 +769,7 @@ amica.	0	IN	NS	c.nic.amica.
 amica.	0	IN	NS	ns1.dns.nic.amica.
 amica.	0	IN	NS	ns2.dns.nic.amica.
 amica.	0	IN	NS	ns3.dns.nic.amica.
+amica.	0	IN	DS	20663 13 2 5e4bfcd2fc6bdff0ec82ab9fa2845f187cac00f327537d36fb83b7b2978f4162
 amica.	0	IN	DS	37714 8 2 d2d98dd38d76b5819cd3079b1772ea5370f5cd0843cd53af0569985c6d92599f
 a.nic.amica.	0	IN	A	37.209.192.9
 a.nic.amica.	0	IN	AAAA	2001:dcd:1::9
@@ -2177,7 +2178,6 @@ bm.	0	IN	NS	b2.bm.afilias-nst.org.
 bm.	0	IN	NS	c0.bm.afilias-nst.info.
 bm.	0	IN	NS	d0.bm.afilias-nst.org.
 bm.	0	IN	DS	5636 8 2 73a6e76bcfd168c3f7161c273a41041a316831f4f09a236db936571a5ea213f2
-bm.	0	IN	DS	37810 8 2 e3e102b0b9334884c32ba5ee04c628e94d9d66b9026287109066ebeeecfebc20
 bms.	0	IN	NS	a0.nic.bms.
 bms.	0	IN	NS	a2.nic.bms.
 bms.	0	IN	NS	b0.nic.bms.
@@ -3145,6 +3145,7 @@ catholic.	0	IN	NS	x.nic.catholic.
 catholic.	0	IN	NS	y.nic.catholic.
 catholic.	0	IN	NS	z.nic.catholic.
 catholic.	0	IN	DS	21967 8 2 a6aac594f31e65e79e0dcede4d0a0b10eaa0f4db43dd7174fd928e01bd5542a0
+catholic.	0	IN	DS	48425 13 2 6f954cb606cfc10f045318505ac80fc9223f5ea0d930c2b7744dcef16827cdc7
 a.nic.catholic.	0	IN	A	37.209.192.9
 a.nic.catholic.	0	IN	AAAA	2001:dcd:1::9
 b.nic.catholic.	0	IN	A	37.209.194.9
@@ -12386,7 +12387,6 @@ norton.	0	IN	NS	c.nic.norton.
 norton.	0	IN	NS	x.nic.norton.
 norton.	0	IN	NS	y.nic.norton.
 norton.	0	IN	NS	z.nic.norton.
-norton.	0	IN	DS	13095 8 2 8a3e13067f0237e9f16d0c6d25c72b262af2e49bbba4345c70e1ba5fd19ac321
 norton.	0	IN	DS	47347 8 2 119e98d6a7c8ad1c5199b2fbb3de5b330021f366400d6b4b8409400a738e1d7a
 a.nic.norton.	0	IN	A	37.209.192.9
 a.nic.norton.	0	IN	AAAA	2001:dcd:1::9
@@ -15454,6 +15454,7 @@ sew.	0	IN	NS	a2.nic.sew.
 sew.	0	IN	NS	b0.nic.sew.
 sew.	0	IN	NS	c0.nic.sew.
 sew.	0	IN	DS	24562 8 2 f058b69dc4842232e352dbe1485dfc257ad1627aee9f4bf4decd967307e30b1d
+sew.	0	IN	DS	51979 8 2 d92d8dff7f16573a2f13fe7df48dd101d49e54a198939b0959c485cdd0fbf0c6
 a0.nic.sew.	0	IN	A	65.22.188.25
 a0.nic.sew.	0	IN	AAAA	2a01:8840:b6::25
 a2.nic.sew.	0	IN	A	65.22.191.25
@@ -19310,6 +19311,7 @@ xn--80aqecdr1a.	0	IN	NS	c.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	x.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	y.nic.xn--80aqecdr1a.
 xn--80aqecdr1a.	0	IN	NS	z.nic.xn--80aqecdr1a.
+xn--80aqecdr1a.	0	IN	DS	25454 13 2 03869d6516c911faf7fec032f1c422e27dc93e9e3776555b40bdb2e71887c0a8
 xn--80aqecdr1a.	0	IN	DS	50089 8 2 1c651bd0c4b0b51d953b5baab9df5fb4256b88ca5883cea94ae060c1e5c313a4
 a.nic.xn--80aqecdr1a.	0	IN	A	37.209.192.9
 a.nic.xn--80aqecdr1a.	0	IN	AAAA	2001:dcd:1::9
@@ -20030,6 +20032,7 @@ xn--mgbi4ecexp.	0	IN	NS	x.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	y.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	NS	z.nic.xn--mgbi4ecexp.
 xn--mgbi4ecexp.	0	IN	DS	5914 8 2 308b25083f486a76906992484720bd2f9f944fcb49111512ea95957417f3c03d
+xn--mgbi4ecexp.	0	IN	DS	45810 13 2 da047b9ddbe048d9ad32c38edf573b52f43557a1a0464cc97cae4007ac80718f
 a.nic.xn--mgbi4ecexp.	0	IN	A	37.209.192.9
 a.nic.xn--mgbi4ecexp.	0	IN	AAAA	2001:dcd:1::9
 b.nic.xn--mgbi4ecexp.	0	IN	A	37.209.194.9
@@ -20291,6 +20294,7 @@ xn--tiq49xqyj.	0	IN	NS	x.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	y.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	NS	z.nic.xn--tiq49xqyj.
 xn--tiq49xqyj.	0	IN	DS	20710 8 2 c1fbac37a1a9b6fb9dc85ba47c7f98ad7cf2d78cbbd3cda8c93d389870616ba0
+xn--tiq49xqyj.	0	IN	DS	51024 13 2 04e2e54d1a6f0bdee01b7f50af5175407dbba68e370bcc5bca1b789034ed9543
 a.nic.xn--tiq49xqyj.	0	IN	A	37.209.192.9
 a.nic.xn--tiq49xqyj.	0	IN	AAAA	2001:dcd:1::9
 b.nic.xn--tiq49xqyj.	0	IN	A	37.209.194.9
