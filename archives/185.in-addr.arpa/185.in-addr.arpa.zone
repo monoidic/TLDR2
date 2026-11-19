@@ -395,6 +395,7 @@
 209.1.185.in-addr.arpa.	0	IN	NS	dns.de-cix.net.
 21.1.185.in-addr.arpa.	0	IN	NS	sean.ns.cloudflare.com.
 21.1.185.in-addr.arpa.	0	IN	NS	vida.ns.cloudflare.com.
+21.1.185.in-addr.arpa.	0	IN	DS	2371 13 2 d50e1176d7b6be4c0b0b6b875b54dcd4fa5b3d1b55a36e0e51ad29db9f5b9e22
 210.1.185.in-addr.arpa.	0	IN	NS	ns.de-cix.net.
 210.1.185.in-addr.arpa.	0	IN	NS	dns.de-cix.net.
 211.1.185.in-addr.arpa.	0	IN	NS	ns.de-cix.net.
@@ -11286,19 +11287,15 @@ ns14.0.117.185.in-addr.arpa.	0	IN	A	45.67.139.199
 196.12.185.in-addr.arpa.	0	IN	NS	alfa.ns.active24.cz.
 196.12.185.in-addr.arpa.	0	IN	NS	beta.ns.active24.cz.
 196.12.185.in-addr.arpa.	0	IN	NS	gama.ns.active24.sk.
-196.12.185.in-addr.arpa.	0	IN	DS	22941 13 2 17094c5afd80bfdac935322f08a179e4a56455d0fa445682f1c282126c5c9e5d
 197.12.185.in-addr.arpa.	0	IN	NS	alfa.ns.active24.cz.
 197.12.185.in-addr.arpa.	0	IN	NS	beta.ns.active24.cz.
 197.12.185.in-addr.arpa.	0	IN	NS	gama.ns.active24.sk.
-197.12.185.in-addr.arpa.	0	IN	DS	22941 13 2 41fb134d4e6e6ded0de3cecf547d698c9e1cdeb40f4e2954835d69d079d1c3ab
 198.12.185.in-addr.arpa.	0	IN	NS	alfa.ns.active24.cz.
 198.12.185.in-addr.arpa.	0	IN	NS	beta.ns.active24.cz.
 198.12.185.in-addr.arpa.	0	IN	NS	gama.ns.active24.sk.
-198.12.185.in-addr.arpa.	0	IN	DS	22941 13 2 2ff56f65f5f2c202471f6954ce3d9672c614130b9934fab4bc9fc10764bee3c3
 199.12.185.in-addr.arpa.	0	IN	NS	alfa.ns.active24.cz.
 199.12.185.in-addr.arpa.	0	IN	NS	beta.ns.active24.cz.
 199.12.185.in-addr.arpa.	0	IN	NS	gama.ns.active24.sk.
-199.12.185.in-addr.arpa.	0	IN	DS	22941 13 2 536c0bbb133d91cbd15c81f6ec3474eb85ac928813132a0783c48cc68fd5d724
 2.12.185.in-addr.arpa.	0	IN	NS	ns1.alphalink.fr.
 2.12.185.in-addr.arpa.	0	IN	NS	ns2.alphalink.fr.
 20.12.185.in-addr.arpa.	0	IN	NS	ns.ap-media.pl.
@@ -49973,6 +49970,12 @@ publicdns2.56.168.185.in-addr.arpa.	0	IN	A	93.95.56.141
 95.198.185.in-addr.arpa.	0	IN	NS	relay.vipit.no.
 96.198.185.in-addr.arpa.	0	IN	NS	dns1.intred.it.
 96.198.185.in-addr.arpa.	0	IN	NS	dns2.intred.it.
+97.198.185.in-addr.arpa.	0	IN	NS	dns1.intred.it.
+97.198.185.in-addr.arpa.	0	IN	NS	dns2.intred.it.
+98.198.185.in-addr.arpa.	0	IN	NS	dns1.intred.it.
+98.198.185.in-addr.arpa.	0	IN	NS	dns2.intred.it.
+99.198.185.in-addr.arpa.	0	IN	NS	dns1.intred.it.
+99.198.185.in-addr.arpa.	0	IN	NS	dns2.intred.it.
 0.199.185.in-addr.arpa.	0	IN	NS	pns.dtag.de.
 0.199.185.in-addr.arpa.	0	IN	NS	secondary007.dtag.net.
 1.199.185.in-addr.arpa.	0	IN	NS	pns.dtag.de.
@@ -58573,8 +58576,8 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 94.216.185.in-addr.arpa.	0	IN	NS	dns-1-sg0101-01.insead.edu.sg.
 95.216.185.in-addr.arpa.	0	IN	NS	dns-1-fr7703-06.insead.edu.
 95.216.185.in-addr.arpa.	0	IN	NS	dns-1-sg0101-01.insead.edu.sg.
-0.217.185.in-addr.arpa.	0	IN	NS	ns1.foilhat.net.
-0.217.185.in-addr.arpa.	0	IN	NS	ns2.foilhat.net.
+0.217.185.in-addr.arpa.	0	IN	NS	nns1.obe.net.
+0.217.185.in-addr.arpa.	0	IN	NS	nns2.obe.net.
 1.217.185.in-addr.arpa.	0	IN	NS	ns1.foilhat.net.
 1.217.185.in-addr.arpa.	0	IN	NS	ns2.foilhat.net.
 10.217.185.in-addr.arpa.	0	IN	NS	ns1.wafai.net.sa.
@@ -72981,12 +72984,12 @@ ns14.171.206.185.in-addr.arpa.	0	IN	A	45.67.139.199
 126.246.185.in-addr.arpa.	0	IN	NS	ns7.permlink.ru.
 127.246.185.in-addr.arpa.	0	IN	NS	ns.permlink.ru.
 127.246.185.in-addr.arpa.	0	IN	NS	ns7.permlink.ru.
-128.246.185.in-addr.arpa.	0	IN	NS	ns1.foilhat.net.
-128.246.185.in-addr.arpa.	0	IN	NS	ns2.foilhat.net.
+128.246.185.in-addr.arpa.	0	IN	NS	nns1.obe.net.
+128.246.185.in-addr.arpa.	0	IN	NS	nns2.obe.net.
 129.246.185.in-addr.arpa.	0	IN	NS	ns1.foilhat.net.
 129.246.185.in-addr.arpa.	0	IN	NS	ns2.foilhat.net.
-130.246.185.in-addr.arpa.	0	IN	NS	ns1.foilhat.net.
-130.246.185.in-addr.arpa.	0	IN	NS	ns2.foilhat.net.
+130.246.185.in-addr.arpa.	0	IN	NS	nns1.obe.net.
+130.246.185.in-addr.arpa.	0	IN	NS	nns2.obe.net.
 131.246.185.in-addr.arpa.	0	IN	NS	ns1.oneprovider.net.
 131.246.185.in-addr.arpa.	0	IN	NS	ns2.oneprovider.net.
 132.246.185.in-addr.arpa.	0	IN	NS	dns7.qzxyz.com.

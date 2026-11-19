@@ -2484,12 +2484,12 @@ f.3.0.0.8.2.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.ovo.sc.
 2.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.dbn.nforce.nl.
 2.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.dbn.nforce.nl.
 2.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.nforce.com.
-3.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.edis.global.
-3.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.edis.global.
+3.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.dbn.nforce.nl.
+3.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.dbn.nforce.nl.
 4.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	rdns1.iniz.com.
 4.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	rdns2.iniz.com.
-5.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.edis.at.
-5.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.edis.at.
+5.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.dbn.nforce.nl.
+5.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.dbn.nforce.nl.
 6.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	a.resolv.is.
 6.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	u.resolv.is.
 8.0.0.1.8.6.7.1.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.leanor.net.
@@ -106454,6 +106454,10 @@ e.1.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.he.net.
 e.1.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.he.net.
 e.1.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns3.he.net.
 e.1.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns4.he.net.
+b.2.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	dns1.altunsatis.com.
+b.2.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	dns2.altunsatis.com.
+c.2.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	dns1.altunsatis.com.
+c.2.0.0.0.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	dns2.altunsatis.com.
 1.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns1.ghostdns.de.
 1.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.ghostdns.de.
 1.c.f.2.2.0.a.2.ip6.arpa.	0	IN	NS	ns3.ghostdns.de.
@@ -140860,10 +140864,9 @@ b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns1.wolfscastle.de.
 b.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	ns2.wolfscastle.de.
 c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	fries.fxdns.net.
 c.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	pizza.fxdns.net.
-d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
-d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
-d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
-d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver04.eu.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	kanye.ns.cloudflare.com.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	surina.ns.cloudflare.com.
+d.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 effe5e6235664db149565295034968f0e9772c6191906706abb973c8808e5f81
 e.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver01.eu.
 e.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver02.eu.
 e.3.0.0.f.3.9.0.a.2.ip6.arpa.	0	IN	NS	nameserver03.eu.
@@ -146547,7 +146550,8 @@ c.e.0.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	2371 13 2 a03cc79e46c5758e34049167374e
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns1.flerken.cc.
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	pterm.flerken.cc.
 d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	flerken.zapto.org.
-d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	27128 13 2 e95eb2c7a35fbf6902c7fe1ed8230b0940444a5de43d192555f752e43bebbce1
+d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	19873 13 2 776ee1e2e61684275e1dd7d56a0f5d4b166db9c0219b46f45cb27e83582c36bb
+d.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	DS	19873 13 4 10c7f1cea023534c6a8114e356787f55e73f7c2101281486846b84bc05fc9b104541594f2093f0901fd1de39e362b17b
 f.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns.pitea.xyz.
 f.2.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	ns2.pitea.xyz.
 3.0.7.0.e.4.b.0.a.2.ip6.arpa.	0	IN	NS	rita.ns.cloudflare.com.
