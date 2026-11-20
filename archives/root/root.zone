@@ -417,7 +417,6 @@ ag.	0	IN	NS	b0.cctld.afilias-nst.org.
 ag.	0	IN	NS	b2.cctld.afilias-nst.org.
 ag.	0	IN	NS	c0.cctld.afilias-nst.info.
 ag.	0	IN	NS	d0.cctld.afilias-nst.org.
-ag.	0	IN	DS	8905 8 2 e3cdce330b6f170283c06a1e3aad11c098ad4a83cfc0f3cb603ecfc49af4a059
 ag.	0	IN	DS	25471 8 2 87c1af4c67cfc9f894472c11db013f3494b6cec33811d07400c57790278bafa6
 agakhan.	0	IN	NS	a0.nic.agakhan.
 agakhan.	0	IN	NS	a2.nic.agakhan.
@@ -3167,6 +3166,7 @@ cba.	0	IN	NS	c.nic.cba.
 cba.	0	IN	NS	x.nic.cba.
 cba.	0	IN	NS	y.nic.cba.
 cba.	0	IN	NS	z.nic.cba.
+cba.	0	IN	DS	8578 13 2 444813bf8b96b5fd1367f8fe0516d8bb8ec42008ed1e4fa91d9ac4795560afc6
 cba.	0	IN	DS	31729 8 2 84871955bc863e5911b72369b1d1eb75ff087a8093edb4ba4bfb48f95813c034
 a.nic.cba.	0	IN	A	37.209.192.9
 a.nic.cba.	0	IN	AAAA	2001:dcd:1::9
@@ -12299,7 +12299,6 @@ ninja.	0	IN	NS	v0n2.nic.ninja.
 ninja.	0	IN	NS	v0n3.nic.ninja.
 ninja.	0	IN	NS	v2n0.nic.ninja.
 ninja.	0	IN	NS	v2n1.nic.ninja.
-ninja.	0	IN	DS	46082 8 2 c8f816a7a575bdb2f997f682aab2653ba2cb5eddb69b036a30742a33befaf141
 ninja.	0	IN	DS	64022 8 2 a8b37f2a5f285bd6f9b5ddb406382a70cdb256f5b0d7d517c3ae71bf1676824f
 v0n0.nic.ninja.	0	IN	A	65.22.20.4
 v0n0.nic.ninja.	0	IN	AAAA	2a01:8840:16::4
@@ -12750,7 +12749,6 @@ onl.	0	IN	NS	a2.nic.onl.
 onl.	0	IN	NS	b0.nic.onl.
 onl.	0	IN	NS	c0.nic.onl.
 onl.	0	IN	DS	32977 8 2 c4b7f856f175f6ce939a2105c40785cb450b1f08c8a6f45082adc8f419660998
-onl.	0	IN	DS	40711 8 2 2144e3a641835a0f4944a2bab8df4dd9eecc76a76c330690765966c1c81a2d78
 a0.nic.onl.	0	IN	A	65.22.136.1
 a0.nic.onl.	0	IN	AAAA	2a01:8840:86::1
 a2.nic.onl.	0	IN	A	65.22.139.1
@@ -12802,7 +12800,6 @@ oracle.	0	IN	NS	a2.nic.oracle.
 oracle.	0	IN	NS	b0.nic.oracle.
 oracle.	0	IN	NS	c0.nic.oracle.
 oracle.	0	IN	DS	46726 8 2 bd5ce61fdcd7e3a558182d19875ffee39d6f00ffb7a82aa29769e6f063429893
-oracle.	0	IN	DS	51169 8 2 43a2fd7b6df137824c6ee5b145ad5fa8664600165ef0c9772b1d286bcda63873
 a0.nic.oracle.	0	IN	A	65.22.84.25
 a0.nic.oracle.	0	IN	AAAA	2a01:8840:52::25
 a2.nic.oracle.	0	IN	A	65.22.87.25
@@ -12904,7 +12901,6 @@ organic.	0	IN	NS	a0.nic.organic.
 organic.	0	IN	NS	a2.nic.organic.
 organic.	0	IN	NS	b0.nic.organic.
 organic.	0	IN	NS	c0.nic.organic.
-organic.	0	IN	DS	22474 8 2 5803fbc9f1fc0d4aa172dc24f6b2b099f18dc13e04cee7f605777d798a3a812f
 organic.	0	IN	DS	53117 8 2 2704e5c53766b06b3fde9f18053718968abe8c4bfcd41b2b594274f81ce9196a
 a0.nic.organic.	0	IN	A	65.22.20.40
 a0.nic.organic.	0	IN	AAAA	2a01:8840:16::40
@@ -13003,7 +12999,6 @@ partners.	0	IN	NS	v0n2.nic.partners.
 partners.	0	IN	NS	v0n3.nic.partners.
 partners.	0	IN	NS	v2n0.nic.partners.
 partners.	0	IN	NS	v2n1.nic.partners.
-partners.	0	IN	DS	27907 8 2 ded4dc046e9d9f9250f766bd987e6268d4c82333b9835a520aa311df9d3c0948
 partners.	0	IN	DS	35320 8 2 b824fb700176280534aa9704adc77729ccf2244fc2e7044f141cc88896bd4d2a
 v0n0.nic.partners.	0	IN	A	65.22.32.15
 v0n0.nic.partners.	0	IN	AAAA	2a01:8840:22::15
@@ -13024,7 +13019,6 @@ parts.	0	IN	NS	v0n3.nic.parts.
 parts.	0	IN	NS	v2n0.nic.parts.
 parts.	0	IN	NS	v2n1.nic.parts.
 parts.	0	IN	DS	12151 8 2 767c3e36f907ccc6e7acdadd36f460b37bebc2a2d2e5e3dbecda87720ab1daf6
-parts.	0	IN	DS	24967 8 2 3facb67c61427cac01c712ea17c8d0e9eb74f5290a2d36311499c096578254bd
 v0n0.nic.parts.	0	IN	A	65.22.20.53
 v0n0.nic.parts.	0	IN	AAAA	2a01:8840:16::53
 v0n1.nic.parts.	0	IN	A	65.22.21.53
@@ -13108,7 +13102,6 @@ pet.	0	IN	NS	a2.nic.pet.
 pet.	0	IN	NS	b0.nic.pet.
 pet.	0	IN	NS	c0.nic.pet.
 pet.	0	IN	DS	19084 8 2 a55e93475b705125cec92b40d6cbb127c209ba510f1e7b220597317491792188
-pet.	0	IN	DS	42856 8 2 ee6c6c84eff7b00eb70d9bd8a29cee8a04d29d4d006cc1f61a95fff873fde974
 a0.nic.pet.	0	IN	A	65.22.16.17
 a0.nic.pet.	0	IN	AAAA	2a01:8840:12::17
 a2.nic.pet.	0	IN	A	65.22.19.17
@@ -13241,7 +13234,6 @@ photography.	0	IN	NS	v0n2.nic.photography.
 photography.	0	IN	NS	v0n3.nic.photography.
 photography.	0	IN	NS	v2n0.nic.photography.
 photography.	0	IN	NS	v2n1.nic.photography.
-photography.	0	IN	DS	30361 8 2 11ab70b24654e6225068852309a763d43af4958b7c670407842c40f655bee3aa
 photography.	0	IN	DS	38452 8 2 f2d0c02e6d8cd23055a145165744576785e0d8b95a792b75c959477d6fbf42e9
 v0n0.nic.photography.	0	IN	A	65.22.24.3
 v0n0.nic.photography.	0	IN	AAAA	2a01:8840:1a::3
@@ -13262,7 +13254,6 @@ photos.	0	IN	NS	v0n3.nic.photos.
 photos.	0	IN	NS	v2n0.nic.photos.
 photos.	0	IN	NS	v2n1.nic.photos.
 photos.	0	IN	DS	9617 8 2 c1cdb9e2bcd6ca3774c2247fb37f6e9d168a56b86781d0235fd1527a6329cb38
-photos.	0	IN	DS	41914 8 2 b6a00eeeb4864e5152cf32cb1dc5ae4528ab2cf82c46a4de0a2d77921b51c979
 v0n0.nic.photos.	0	IN	A	65.22.28.40
 v0n0.nic.photos.	0	IN	AAAA	2a01:8840:1e::40
 v0n1.nic.photos.	0	IN	A	65.22.29.40
@@ -13333,7 +13324,6 @@ pictures.	0	IN	NS	v0n2.nic.pictures.
 pictures.	0	IN	NS	v0n3.nic.pictures.
 pictures.	0	IN	NS	v2n0.nic.pictures.
 pictures.	0	IN	NS	v2n1.nic.pictures.
-pictures.	0	IN	DS	6637 8 2 550ea36a773c9dc5a81e39bb942120f5b00aa3eaefdeadc785c8fc7265d41012
 pictures.	0	IN	DS	56674 8 2 affa578bf0f0b5a191814042d82718093737dbaae81f500e1e66dda1a0162cea
 v0n0.nic.pictures.	0	IN	A	65.22.20.16
 v0n0.nic.pictures.	0	IN	AAAA	2a01:8840:16::16
@@ -13402,7 +13392,6 @@ pink.	0	IN	NS	b0.nic.pink.
 pink.	0	IN	NS	b2.nic.pink.
 pink.	0	IN	NS	c0.nic.pink.
 pink.	0	IN	DS	10729 8 2 5acf8864865d8b60e8fedfc45447413884c0f662d2a8798641ceba95af7b011e
-pink.	0	IN	DS	53032 8 2 54475c411977fb9c94c01453633eb43b8dc64b154462de278a0644c6b83a79d1
 a0.nic.pink.	0	IN	A	65.22.28.17
 a0.nic.pink.	0	IN	AAAA	2a01:8840:1e::17
 a2.nic.pink.	0	IN	A	65.22.31.17
@@ -13445,7 +13434,6 @@ pizza.	0	IN	NS	v0n3.nic.pizza.
 pizza.	0	IN	NS	v2n0.nic.pizza.
 pizza.	0	IN	NS	v2n1.nic.pizza.
 pizza.	0	IN	DS	7495 8 2 5da28636216ea20cf79931469dbcf199453f9b200b0e5b20d3ab4dad2d8abdce
-pizza.	0	IN	DS	55750 8 2 9271cd9fb2ca456900ef1e26877eb45d968d8ddf80281b6c6e05621f4067207f
 v0n0.nic.pizza.	0	IN	A	65.22.28.50
 v0n0.nic.pizza.	0	IN	AAAA	2a01:8840:1e::50
 v0n1.nic.pizza.	0	IN	A	65.22.29.50
@@ -13497,7 +13485,6 @@ place.	0	IN	NS	v0n2.nic.place.
 place.	0	IN	NS	v0n3.nic.place.
 place.	0	IN	NS	v2n0.nic.place.
 place.	0	IN	NS	v2n1.nic.place.
-place.	0	IN	DS	436 8 2 2ee9ef69fb398b0d80a926994666cc9405231a042f31752d00295ccfc2ddbaf4
 place.	0	IN	DS	5176 8 2 15f06fb6edc8daa42342e901d62567616fcb3c5cfad55527bbfc46320bc1392d
 v0n0.nic.place.	0	IN	A	65.22.28.22
 v0n0.nic.place.	0	IN	AAAA	2a01:8840:1e::22
@@ -13529,7 +13516,6 @@ plumbing.	0	IN	NS	v0n3.nic.plumbing.
 plumbing.	0	IN	NS	v2n0.nic.plumbing.
 plumbing.	0	IN	NS	v2n1.nic.plumbing.
 plumbing.	0	IN	DS	19205 8 2 12c411f439d0b18edce479ea0d11d0921d70fd4fb4303049e55291729e398cd3
-plumbing.	0	IN	DS	48722 8 2 d0024bf8bc37e85179a92e3b16f602aa566e63df0eb315324be040ff2d35bdb4
 v0n0.nic.plumbing.	0	IN	A	65.22.24.28
 v0n0.nic.plumbing.	0	IN	AAAA	2a01:8840:1a::28
 v0n1.nic.plumbing.	0	IN	A	65.22.25.28
@@ -13548,7 +13534,6 @@ plus.	0	IN	NS	v0n2.nic.plus.
 plus.	0	IN	NS	v0n3.nic.plus.
 plus.	0	IN	NS	v2n0.nic.plus.
 plus.	0	IN	NS	v2n1.nic.plus.
-plus.	0	IN	DS	5074 8 2 eae08e76fc529973567f9ede81dcad8090f91800ab271b798006ae563a538b2f
 plus.	0	IN	DS	57179 8 2 bdfdf73b4ef3137116c276969dae29722fd9d52fa9a4048b9b87a2cfcfd414b4
 v0n0.nic.plus.	0	IN	A	65.22.32.39
 v0n0.nic.plus.	0	IN	AAAA	2a01:8840:22::39
@@ -13623,7 +13608,6 @@ poker.	0	IN	NS	a2.nic.poker.
 poker.	0	IN	NS	b0.nic.poker.
 poker.	0	IN	NS	c0.nic.poker.
 poker.	0	IN	DS	4279 8 2 b233c055ec5cd0494ea1006b95c62373f8677657a7c9620f37cae438ead020ca
-poker.	0	IN	DS	12856 8 2 571efc932d4c25e2f41df9e216b66732f8d17bb7efd2f6230af3127948ba167c
 a0.nic.poker.	0	IN	A	65.22.20.33
 a0.nic.poker.	0	IN	AAAA	2a01:8840:16::33
 a2.nic.poker.	0	IN	A	65.22.23.33
@@ -13759,7 +13743,6 @@ productions.	0	IN	NS	v0n3.nic.productions.
 productions.	0	IN	NS	v2n0.nic.productions.
 productions.	0	IN	NS	v2n1.nic.productions.
 productions.	0	IN	DS	54340 8 2 f6968112fbc2665b959ca37ff4506dea846411a5a6aed48532aa8c3280570081
-productions.	0	IN	DS	55354 8 2 61296764506d9b3ea454b8cf49fea13cbb8662804f0a02948139ffbb0e0cbc8f
 v0n0.nic.productions.	0	IN	A	65.22.28.16
 v0n0.nic.productions.	0	IN	AAAA	2a01:8840:1e::16
 v0n1.nic.productions.	0	IN	A	65.22.29.16
@@ -13797,7 +13780,6 @@ promo.	0	IN	NS	a2.nic.promo.
 promo.	0	IN	NS	b0.nic.promo.
 promo.	0	IN	NS	c0.nic.promo.
 promo.	0	IN	DS	39689 8 2 58d0ca474edbb6268e9014f96c82dafc743c26c824bb737569b49db1e31cc7ea
-promo.	0	IN	DS	61459 8 2 583dcffeacf0cf25f52e5f4d356db7e3d3e4145992edc4e8b1fea3b5ad1868ca
 a0.nic.promo.	0	IN	A	65.22.244.9
 a0.nic.promo.	0	IN	AAAA	2a01:8840:ee::9
 a2.nic.promo.	0	IN	A	65.22.247.9
@@ -13812,7 +13794,6 @@ properties.	0	IN	NS	v0n2.nic.properties.
 properties.	0	IN	NS	v0n3.nic.properties.
 properties.	0	IN	NS	v2n0.nic.properties.
 properties.	0	IN	NS	v2n1.nic.properties.
-properties.	0	IN	DS	24565 8 2 519c0cae03f6f4a6679f85ed1376f04a6702406f0731734618f608895306e4f5
 properties.	0	IN	DS	35165 8 2 b3fdb89440e4c3904e08db1e7bc1f90afb377f84fab630f4933a887e6970b9b0
 v0n0.nic.properties.	0	IN	A	65.22.20.46
 v0n0.nic.properties.	0	IN	AAAA	2a01:8840:16::46
@@ -13933,7 +13914,6 @@ pub.	0	IN	NS	v0n3.nic.pub.
 pub.	0	IN	NS	v2n0.nic.pub.
 pub.	0	IN	NS	v2n1.nic.pub.
 pub.	0	IN	DS	21190 8 2 5dd4a34bfeabbb99e1ed471409489580642c640a7d3f293756988b886c95e331
-pub.	0	IN	DS	53776 8 2 3766469c89af5eca8e8c5852e359396294057677c5ae8ca9c641422d7237bb4f
 v0n0.nic.pub.	0	IN	A	65.22.28.7
 v0n0.nic.pub.	0	IN	AAAA	2a01:8840:1e::7
 v0n1.nic.pub.	0	IN	A	65.22.29.7
@@ -14160,7 +14140,6 @@ recipes.	0	IN	NS	v0n3.nic.recipes.
 recipes.	0	IN	NS	v2n0.nic.recipes.
 recipes.	0	IN	NS	v2n1.nic.recipes.
 recipes.	0	IN	DS	3980 8 2 b129241ca89290f3b0ba36c67e3060ffd2664b999ba2d36d30f5e405d79e2bae
-recipes.	0	IN	DS	50824 8 2 4740fa6aefac02132e2edea2f54dcd7fa2140f06de024524215b7eac2968a225
 v0n0.nic.recipes.	0	IN	A	65.22.24.54
 v0n0.nic.recipes.	0	IN	AAAA	2a01:8840:1a::54
 v0n1.nic.recipes.	0	IN	A	65.22.25.54
@@ -14177,7 +14156,6 @@ red.	0	IN	NS	a0.nic.red.
 red.	0	IN	NS	a2.nic.red.
 red.	0	IN	NS	b0.nic.red.
 red.	0	IN	NS	c0.nic.red.
-red.	0	IN	DS	20191 8 2 a838978f76dab8c9a0057b3fdddbd9883e760764e5ae1cea04f0961d61a4bb28
 red.	0	IN	DS	35084 8 2 fdb5971495a1076b8ec4ef8678649bfe91622866e7d7d4c7134917973cb7e4a5
 a0.nic.red.	0	IN	A	65.22.36.25
 a0.nic.red.	0	IN	AAAA	2a01:8840:26::25
@@ -14207,7 +14185,6 @@ rehab.	0	IN	NS	v0n2.nic.rehab.
 rehab.	0	IN	NS	v0n3.nic.rehab.
 rehab.	0	IN	NS	v2n0.nic.rehab.
 rehab.	0	IN	NS	v2n1.nic.rehab.
-rehab.	0	IN	DS	5731 8 2 d3ba72f70047888faae7f22dead5112c540fa6aac533dcc55d9ee4920de4cca9
 rehab.	0	IN	DS	59905 8 2 5c7bf3b3c317dcaec89546b769cad2ad4fb20531f9ec274eac9dbb0c001827d5
 v0n0.nic.rehab.	0	IN	A	65.22.28.61
 v0n0.nic.rehab.	0	IN	AAAA	2a01:8840:1e::61
@@ -14227,7 +14204,6 @@ reise.	0	IN	NS	v0n2.nic.reise.
 reise.	0	IN	NS	v0n3.nic.reise.
 reise.	0	IN	NS	v2n0.nic.reise.
 reise.	0	IN	NS	v2n1.nic.reise.
-reise.	0	IN	DS	25897 8 2 4d05b8cdd95e0502923689dfeb01db93185455e252acab2556af477baaf4865d
 reise.	0	IN	DS	61445 8 2 5a49d826aecb23374a29389325ff36ef8b5843b167f0bb5478d14cadda675dcd
 v0n0.nic.reise.	0	IN	A	65.22.28.63
 v0n0.nic.reise.	0	IN	AAAA	2a01:8840:1e::63
@@ -14247,7 +14223,6 @@ reisen.	0	IN	NS	v0n2.nic.reisen.
 reisen.	0	IN	NS	v0n3.nic.reisen.
 reisen.	0	IN	NS	v2n0.nic.reisen.
 reisen.	0	IN	NS	v2n1.nic.reisen.
-reisen.	0	IN	DS	16819 8 2 2fe6f73a7337d0492ba6acc3c38ac175e81d13b593136551ad1e95641dd396cd
 reisen.	0	IN	DS	26357 8 2 869218a6d13fba47aa84e54d6026962d64b22073d7dcfbbf14cac7597784b063
 v0n0.nic.reisen.	0	IN	A	65.22.28.54
 v0n0.nic.reisen.	0	IN	AAAA	2a01:8840:1e::54
@@ -14318,7 +14293,6 @@ rentals.	0	IN	NS	v0n3.nic.rentals.
 rentals.	0	IN	NS	v2n0.nic.rentals.
 rentals.	0	IN	NS	v2n1.nic.rentals.
 rentals.	0	IN	DS	8425 8 2 07d24c21a968c75fd1d3cf9c1c3d489c9eccb58140be7b9ece681a829bf0bc4b
-rentals.	0	IN	DS	33616 8 2 348cca06b6eaa7f81247d1b92c72a18cab732c243954080d773507739433202e
 v0n0.nic.rentals.	0	IN	A	65.22.32.14
 v0n0.nic.rentals.	0	IN	AAAA	2a01:8840:22::14
 v0n1.nic.rentals.	0	IN	A	65.22.33.14
@@ -14338,7 +14312,6 @@ repair.	0	IN	NS	v0n3.nic.repair.
 repair.	0	IN	NS	v2n0.nic.repair.
 repair.	0	IN	NS	v2n1.nic.repair.
 repair.	0	IN	DS	37922 8 2 7343f9b0a60a5d1ef99abe04bade2bd84e48c3ab459a905ed177e85edcd31fd5
-repair.	0	IN	DS	39172 8 2 c1d26541b3cca74a53db2b5eaba4ad0a17d7f5d06c824b9a658ad2580fa40b28
 v0n0.nic.repair.	0	IN	A	65.22.32.18
 v0n0.nic.repair.	0	IN	AAAA	2a01:8840:22::18
 v0n1.nic.repair.	0	IN	A	65.22.33.18
@@ -14358,7 +14331,6 @@ report.	0	IN	NS	v0n3.nic.report.
 report.	0	IN	NS	v2n0.nic.report.
 report.	0	IN	NS	v2n1.nic.report.
 report.	0	IN	DS	14410 8 2 ccac1f6d79fd091e3928b8b0e0967298e42143c908bc96e14415c684f2694683
-report.	0	IN	DS	23221 8 2 4ff9de3b32f0735045d53641deeb17597de3638b7ef3aa33616d4f52c6aa6b51
 v0n0.nic.report.	0	IN	A	65.22.28.18
 v0n0.nic.report.	0	IN	AAAA	2a01:8840:1e::18
 v0n1.nic.report.	0	IN	A	65.22.29.18
@@ -14378,7 +14350,6 @@ republican.	0	IN	NS	v0n3.nic.republican.
 republican.	0	IN	NS	v2n0.nic.republican.
 republican.	0	IN	NS	v2n1.nic.republican.
 republican.	0	IN	DS	18677 8 2 0c7e579ea2d210daaa790d1d5fb9f2621925a85cbfe91cfb864232e277db2fcb
-republican.	0	IN	DS	53482 8 2 9f97cc9c78c5d96051f4689120777eaab356675883b2573d4d2ef769b33dfe34
 v0n0.nic.republican.	0	IN	A	65.22.20.32
 v0n0.nic.republican.	0	IN	AAAA	2a01:8840:16::32
 v0n1.nic.republican.	0	IN	A	65.22.21.32
@@ -14403,7 +14374,6 @@ restaurant.	0	IN	NS	v0n3.nic.restaurant.
 restaurant.	0	IN	NS	v2n0.nic.restaurant.
 restaurant.	0	IN	NS	v2n1.nic.restaurant.
 restaurant.	0	IN	DS	2980 8 2 4f7ec1d4cf255da297cfdaa27731c1e8e3751ff7f6f79839a9f46b3d8a19d19c
-restaurant.	0	IN	DS	62200 8 2 a9093436978db7d5ee302879f0bf8d7a84e0a2c0aa132784f92d97d0d4e15992
 v0n0.nic.restaurant.	0	IN	A	65.22.28.49
 v0n0.nic.restaurant.	0	IN	AAAA	2a01:8840:1e::49
 v0n1.nic.restaurant.	0	IN	A	65.22.29.49
@@ -14442,7 +14412,6 @@ reviews.	0	IN	NS	v0n3.nic.reviews.
 reviews.	0	IN	NS	v2n0.nic.reviews.
 reviews.	0	IN	NS	v2n1.nic.reviews.
 reviews.	0	IN	DS	22289 8 2 490723f662f503dda383a31e8407bb0541dca7576e0b19d17d04ffe5c22d9cd5
-reviews.	0	IN	DS	38191 8 2 5dafa6aa4e5bb71394ff2f91b4423ef5a1c7ba598e359f7afcc8df8c6f68957c
 v0n0.nic.reviews.	0	IN	A	65.22.32.12
 v0n0.nic.reviews.	0	IN	AAAA	2a01:8840:22::12
 v0n1.nic.reviews.	0	IN	A	65.22.33.12
@@ -14473,7 +14442,6 @@ rich.	0	IN	NS	a0.nic.rich.
 rich.	0	IN	NS	a2.nic.rich.
 rich.	0	IN	NS	b0.nic.rich.
 rich.	0	IN	NS	c0.nic.rich.
-rich.	0	IN	DS	12391 8 2 aa344ed8e0615ff242ec66edea4160269d0ec1d36437965a8d1d1aba6a4d97d8
 rich.	0	IN	DS	56734 8 2 c6b7c12ecd971e2f0ce73e795b5b0e24733da66082c06d309d212c0d7f48851b
 a0.nic.rich.	0	IN	A	65.22.136.17
 a0.nic.rich.	0	IN	AAAA	2a01:8840:86::17
@@ -14529,7 +14497,6 @@ rip.	0	IN	NS	v0n3.nic.rip.
 rip.	0	IN	NS	v2n0.nic.rip.
 rip.	0	IN	NS	v2n1.nic.rip.
 rip.	0	IN	DS	4202 8 2 0ec76aee6a97684f9e9cee79771a58c3c11e02d405c78e954c934df93870b654
-rip.	0	IN	DS	64594 8 2 e5771475fcab4c6df4608be0ede2efd5cfbcfa1405ca0b121c57557b959a40bd
 v0n0.nic.rip.	0	IN	A	65.22.32.22
 v0n0.nic.rip.	0	IN	AAAA	2a01:8840:22::22
 v0n1.nic.rip.	0	IN	A	65.22.33.22
@@ -14568,7 +14535,6 @@ rocks.	0	IN	NS	v0n2.nic.rocks.
 rocks.	0	IN	NS	v0n3.nic.rocks.
 rocks.	0	IN	NS	v2n0.nic.rocks.
 rocks.	0	IN	NS	v2n1.nic.rocks.
-rocks.	0	IN	DS	55882 8 2 bda2ed5e9099d2e358529c190d03290d396b85fc2a41259c734fb816bc7d5ed6
 rocks.	0	IN	DS	58762 8 2 f00b629fa7e5f151ebbc778465a047f1639474eb8f89c1e64003c6bba6b7b3d7
 v0n0.nic.rocks.	0	IN	A	65.22.32.35
 v0n0.nic.rocks.	0	IN	AAAA	2a01:8840:22::35
@@ -14715,7 +14681,6 @@ run.	0	IN	NS	v0n3.nic.run.
 run.	0	IN	NS	v2n0.nic.run.
 run.	0	IN	NS	v2n1.nic.run.
 run.	0	IN	DS	20657 8 2 4c09088d229639bc75cfde9b5163be628ea25f6dca4a20cd38ba13cfc892fcf3
-run.	0	IN	DS	37315 8 2 fb85b407411a748f93e2393fdc4123c2fd6f15d2b8841091d83dff1364726a37
 v0n0.nic.run.	0	IN	A	65.22.32.40
 v0n0.nic.run.	0	IN	AAAA	2a01:8840:22::40
 v0n1.nic.run.	0	IN	A	65.22.33.40
@@ -14850,7 +14815,6 @@ safety.	0	IN	NS	v0n2.nic.safety.
 safety.	0	IN	NS	v0n3.nic.safety.
 safety.	0	IN	NS	v2n0.nic.safety.
 safety.	0	IN	NS	v2n1.nic.safety.
-safety.	0	IN	DS	6139 8 2 01e166cb1c6a2797fbdeffbe26b009a7a1f72905f476353537dfa63754b479de
 safety.	0	IN	DS	45982 8 2 10a510517390615085be9b2251cf6cc03ea538900fe2f76a684e31a8c3ddc47e
 v0n0.nic.safety.	0	IN	A	65.22.36.41
 v0n0.nic.safety.	0	IN	AAAA	2a01:8840:26::41
@@ -14884,7 +14848,6 @@ sale.	0	IN	NS	v0n3.nic.sale.
 sale.	0	IN	NS	v2n0.nic.sale.
 sale.	0	IN	NS	v2n1.nic.sale.
 sale.	0	IN	DS	54547 8 2 f24641fb512060f4744af5f00a367f1953880a24d1dc5bfafe60c9a5f10c1772
-sale.	0	IN	DS	58006 8 2 3aafea8a5f3796ff0e2a4754c784aa2dd72f34853afcdb1dbd7571c7673c88cf
 v0n0.nic.sale.	0	IN	A	65.22.20.48
 v0n0.nic.sale.	0	IN	AAAA	2a01:8840:16::48
 v0n1.nic.sale.	0	IN	A	65.22.21.48
@@ -14903,7 +14866,6 @@ salon.	0	IN	NS	v0n2.nic.salon.
 salon.	0	IN	NS	v0n3.nic.salon.
 salon.	0	IN	NS	v2n0.nic.salon.
 salon.	0	IN	NS	v2n1.nic.salon.
-salon.	0	IN	DS	20629 8 2 15beee88cb2059844adc8b06944fc2424a7618726b390a08fc21fde2ef6daa07
 salon.	0	IN	DS	47747 8 2 28d7dfcc68898a0c624d01965312544e6a903c1c04b4fe719a3aa6a2b756b149
 v0n0.nic.salon.	0	IN	A	65.22.28.58
 v0n0.nic.salon.	0	IN	AAAA	2a01:8840:1e::58
@@ -15009,7 +14971,6 @@ sarl.	0	IN	NS	v0n2.nic.sarl.
 sarl.	0	IN	NS	v0n3.nic.sarl.
 sarl.	0	IN	NS	v2n0.nic.sarl.
 sarl.	0	IN	NS	v2n1.nic.sarl.
-sarl.	0	IN	DS	30877 8 2 24db28de74191d33588c628d306be3457278f59ceca8104d2a81cfa7fcd8d6e6
 sarl.	0	IN	DS	53839 8 2 e51424c9593585ac15511c6b71ab98829dcb0ae55ba44d04f2ecfa73bb3f4708
 v0n0.nic.sarl.	0	IN	A	65.22.32.63
 v0n0.nic.sarl.	0	IN	AAAA	2a01:8840:22::63
@@ -15187,7 +15148,6 @@ school.	0	IN	NS	v0n2.nic.school.
 school.	0	IN	NS	v0n3.nic.school.
 school.	0	IN	NS	v2n0.nic.school.
 school.	0	IN	NS	v2n1.nic.school.
-school.	0	IN	DS	34030 8 2 30e847d55bbc147f8706cf9ee2b50478f41a143e2cbb738f7214ddd59cfb31ae
 school.	0	IN	DS	58271 8 2 2be4190856075f330e18950ce6ad7ac2d2769b196d625df8653377bf2b728fa9
 v0n0.nic.school.	0	IN	A	65.22.20.43
 v0n0.nic.school.	0	IN	AAAA	2a01:8840:16::43
@@ -15207,7 +15167,6 @@ schule.	0	IN	NS	v0n2.nic.schule.
 schule.	0	IN	NS	v0n3.nic.schule.
 schule.	0	IN	NS	v2n0.nic.schule.
 schule.	0	IN	NS	v2n1.nic.schule.
-schule.	0	IN	DS	32869 8 2 76b7d6a448a72d947cf0b045429535113822fad4dad7b120910ea0d4f5e835aa
 schule.	0	IN	DS	42206 8 2 a6fbb624abfd57038d2925edbc80c51d396ce495ce63c242e2abea27b3dbedaa
 v0n0.nic.schule.	0	IN	A	65.22.20.68
 v0n0.nic.schule.	0	IN	AAAA	2a01:8840:16::68
@@ -15422,7 +15381,6 @@ services.	0	IN	NS	v0n3.nic.services.
 services.	0	IN	NS	v2n0.nic.services.
 services.	0	IN	NS	v2n1.nic.services.
 services.	0	IN	DS	7852 8 2 5d055043515268b61f3652c770fe80368c49a859c509aabd901de4306f823783
-services.	0	IN	DS	36727 8 2 46f51f49699733c685b1a338969594396ba5e24d76f6011149c20be7a3b757fc
 v0n0.nic.services.	0	IN	A	65.22.20.37
 v0n0.nic.services.	0	IN	AAAA	2a01:8840:16::37
 v0n1.nic.services.	0	IN	A	65.22.21.37
@@ -15591,7 +15549,6 @@ shiksha.	0	IN	NS	a2.nic.shiksha.
 shiksha.	0	IN	NS	b0.nic.shiksha.
 shiksha.	0	IN	NS	c0.nic.shiksha.
 shiksha.	0	IN	DS	17005 8 2 e5eb807468b2693d59d8c6276f5140695c104b6c3a18fedd31ac374ec1c226e8
-shiksha.	0	IN	DS	54049 8 2 b4dd9094c19c5a3be8d6921d695f16cd6412258fa8302e5d7879405e2c0ef7dc
 a0.nic.shiksha.	0	IN	A	65.22.32.33
 a0.nic.shiksha.	0	IN	AAAA	2a01:8840:22::33
 a2.nic.shiksha.	0	IN	A	65.22.35.33
@@ -15607,7 +15564,6 @@ shoes.	0	IN	NS	v0n3.nic.shoes.
 shoes.	0	IN	NS	v2n0.nic.shoes.
 shoes.	0	IN	NS	v2n1.nic.shoes.
 shoes.	0	IN	DS	30247 8 2 028a54c6bde418f1d787c3bee37f3be6d106b7bcfe927b4057d7dc4680e287ad
-shoes.	0	IN	DS	59242 8 2 e6883ee7853289aff66b9090429f6573077638bac3b5a6595b0c16108abfbe9c
 v0n0.nic.shoes.	0	IN	A	65.22.24.23
 v0n0.nic.shoes.	0	IN	AAAA	2a01:8840:1a::23
 v0n1.nic.shoes.	0	IN	A	65.22.25.23
@@ -15632,7 +15588,6 @@ shopping.	0	IN	NS	v0n3.nic.shopping.
 shopping.	0	IN	NS	v2n0.nic.shopping.
 shopping.	0	IN	NS	v2n1.nic.shopping.
 shopping.	0	IN	DS	27631 8 2 975e77b8e251968182388dc0a159ad311834bfb3b869ba8bf5f541d2f740f112
-shopping.	0	IN	DS	31984 8 2 372b561bd71aad22ecf3c93491046fb1b6d5d23a25b899baedecb89a4c038c91
 v0n0.nic.shopping.	0	IN	A	65.22.32.19
 v0n0.nic.shopping.	0	IN	AAAA	2a01:8840:22::19
 v0n1.nic.shopping.	0	IN	A	65.22.33.19
@@ -15658,7 +15613,6 @@ show.	0	IN	NS	v0n3.nic.show.
 show.	0	IN	NS	v2n0.nic.show.
 show.	0	IN	NS	v2n1.nic.show.
 show.	0	IN	DS	31030 8 2 acd14361546eb384c131d585339364b75bb641f515b6ce89f9385e164f406e55
-show.	0	IN	DS	43876 8 2 7b05d715b0b79a0a0844d3283f0115d1dcbae5c3d98eec45f17df09bc5963904
 v0n0.nic.show.	0	IN	A	65.22.28.43
 v0n0.nic.show.	0	IN	AAAA	2a01:8840:1e::43
 v0n1.nic.show.	0	IN	A	65.22.29.43
@@ -15727,7 +15681,6 @@ singles.	0	IN	NS	v0n2.nic.singles.
 singles.	0	IN	NS	v0n3.nic.singles.
 singles.	0	IN	NS	v2n0.nic.singles.
 singles.	0	IN	NS	v2n1.nic.singles.
-singles.	0	IN	DS	11041 8 2 28f8fd0b9b11a1947d4dd5a1190aba72a1a1f30b7fd3752e8261defbfe17b84b
 singles.	0	IN	DS	53221 8 2 8e5210d1d656262556f36ef3accf3aa6a9d94090f137dff9b8434a0ab95309bd
 v0n0.nic.singles.	0	IN	A	65.22.32.57
 v0n0.nic.singles.	0	IN	AAAA	2a01:8840:22::57
@@ -15772,7 +15725,6 @@ ski.	0	IN	NS	a2.nic.ski.
 ski.	0	IN	NS	b0.nic.ski.
 ski.	0	IN	NS	c0.nic.ski.
 ski.	0	IN	DS	16289 8 2 72712824f80e4e5695b001109b9acb602e1e6d4058768e513f1eb0092caa39a5
-ski.	0	IN	DS	62489 8 2 d421064a672f86a83a4c7fe005ce8cd164fffdfab3e64415498c3413ba46fe10
 a0.nic.ski.	0	IN	A	65.22.84.17
 a0.nic.ski.	0	IN	AAAA	2a01:8840:52::17
 a2.nic.ski.	0	IN	A	65.22.87.17
@@ -15926,7 +15878,6 @@ soccer.	0	IN	NS	v0n2.nic.soccer.
 soccer.	0	IN	NS	v0n3.nic.soccer.
 soccer.	0	IN	NS	v2n0.nic.soccer.
 soccer.	0	IN	NS	v2n1.nic.soccer.
-soccer.	0	IN	DS	28159 8 2 88ef6e5b2aae60cccf9f9585d03f0f2bff9a57c613cf3edcf01e34734886f0d3
 soccer.	0	IN	DS	56986 8 2 472e5125c0cf6dad45f32976ae8024ae0e60a1ff687623df82ac2666a70bcea7
 v0n0.nic.soccer.	0	IN	A	65.22.32.58
 v0n0.nic.soccer.	0	IN	AAAA	2a01:8840:22::58
@@ -15947,7 +15898,6 @@ social.	0	IN	NS	v0n3.nic.social.
 social.	0	IN	NS	v2n0.nic.social.
 social.	0	IN	NS	v2n1.nic.social.
 social.	0	IN	DS	13606 8 2 f734b8891e13f73f87bd270bf77f1698a58d3e4a6d2be59e9370d9642156d8b2
-social.	0	IN	DS	40816 8 2 683895edf086360b6bc8f2e6674bfe94735df6f88a6efeff850b905595383af8
 v0n0.nic.social.	0	IN	A	65.22.20.41
 v0n0.nic.social.	0	IN	AAAA	2a01:8840:16::41
 v0n1.nic.social.	0	IN	A	65.22.21.41
@@ -15971,7 +15921,6 @@ software.	0	IN	NS	v0n2.nic.software.
 software.	0	IN	NS	v0n3.nic.software.
 software.	0	IN	NS	v2n0.nic.software.
 software.	0	IN	NS	v2n1.nic.software.
-software.	0	IN	DS	13531 8 2 adbc7a3c20e6f0b685c47bfa610899b783dc463921f47bc231a6e29147e80902
 software.	0	IN	DS	37115 8 2 80a0ed8eec2e77c3d030c5366136f235c4b2fbde556de0c865c717c37bba5f0d
 v0n0.nic.software.	0	IN	A	65.22.32.10
 v0n0.nic.software.	0	IN	AAAA	2a01:8840:22::10
@@ -16001,7 +15950,6 @@ solar.	0	IN	NS	v0n3.nic.solar.
 solar.	0	IN	NS	v2n0.nic.solar.
 solar.	0	IN	NS	v2n1.nic.solar.
 solar.	0	IN	DS	7885 8 2 55d7fb9c1a94fe2ff4ad3f3fac2ccd61e79c45eaa8b561995e20fdc9bc53a9fd
-solar.	0	IN	DS	55894 8 2 9fe65d323fa0cef5b7c9180df5e5eb8cb03d9e8253fe0089e85e4bb58a57aa5d
 v0n0.nic.solar.	0	IN	A	65.22.20.51
 v0n0.nic.solar.	0	IN	AAAA	2a01:8840:16::51
 v0n1.nic.solar.	0	IN	A	65.22.21.51
@@ -16020,7 +15968,6 @@ solutions.	0	IN	NS	v0n2.nic.solutions.
 solutions.	0	IN	NS	v0n3.nic.solutions.
 solutions.	0	IN	NS	v2n0.nic.solutions.
 solutions.	0	IN	NS	v2n1.nic.solutions.
-solutions.	0	IN	DS	23131 8 2 1e10218cd63ab2aaa5a7c6fd02ccb36a543eac55a4185e24e9ed4e15a866e2b0
 solutions.	0	IN	DS	26822 8 2 f1518f5278a6c2115adfc96c769d2e1875aaab12eb072e09da17d40714529ee6
 v0n0.nic.solutions.	0	IN	A	65.22.32.2
 v0n0.nic.solutions.	0	IN	AAAA	2a01:8840:22::2
@@ -16041,7 +15988,6 @@ song.	0	IN	NS	v0n3.nic.song.
 song.	0	IN	NS	v2n0.nic.song.
 song.	0	IN	NS	v2n1.nic.song.
 song.	0	IN	DS	7711 8 2 f6ec966f42b97561f6c211c86e775abd1713cce9d2a3fe45a6823685f351d289
-song.	0	IN	DS	54031 8 2 0595f0d68769e6bc795c21a8c96043f4b530593b76be48348797b157040bf72c
 v0n0.nic.song.	0	IN	A	65.22.76.2
 v0n0.nic.song.	0	IN	AAAA	2a01:8840:4a::2
 v0n1.nic.song.	0	IN	A	65.22.77.2
@@ -16069,7 +16015,6 @@ spa.	0	IN	NS	a0.nic.spa.
 spa.	0	IN	NS	a2.nic.spa.
 spa.	0	IN	NS	b0.nic.spa.
 spa.	0	IN	NS	c0.nic.spa.
-spa.	0	IN	DS	11881 8 2 5f494f6958801e119d309bf6cd627c42d1fd04055703aeaac2c2d1b98db00b97
 spa.	0	IN	DS	42266 8 2 655b1073f7ce5928441bc9b40141690f34950f3a062c977ce241fa780e931a1f
 a0.nic.spa.	0	IN	A	65.22.48.17
 a0.nic.spa.	0	IN	AAAA	2a01:8840:2e::17
@@ -16155,7 +16100,6 @@ stada.	0	IN	NS	a0.nic.stada.
 stada.	0	IN	NS	a2.nic.stada.
 stada.	0	IN	NS	b0.nic.stada.
 stada.	0	IN	NS	c0.nic.stada.
-stada.	0	IN	DS	10585 8 2 0bdb59ef7db2dbdd103cf1cda4ecbddd6befc6f4d074ef177311fc3358c14941
 stada.	0	IN	DS	10822 8 2 8fcf73e7843d18bfd05072659aacdf5338bfc80a410ee83dc2b3bfb874c26f88
 a0.nic.stada.	0	IN	A	65.22.156.25
 a0.nic.stada.	0	IN	AAAA	2a01:8840:9a::25
@@ -16314,7 +16258,6 @@ studio.	0	IN	NS	v0n2.nic.studio.
 studio.	0	IN	NS	v0n3.nic.studio.
 studio.	0	IN	NS	v2n0.nic.studio.
 studio.	0	IN	NS	v2n1.nic.studio.
-studio.	0	IN	DS	1354 8 2 d4289b105c9cb81d1ea631fe723a7dd3e9a52fb649b4a0a40c4890a9faa62846
 studio.	0	IN	DS	35741 8 2 ea396815305687a68d5df9bac421daba8dad24ddf1d2e3d61ccdb0908dc93e7a
 v0n0.nic.studio.	0	IN	A	65.22.28.3
 v0n0.nic.studio.	0	IN	AAAA	2a01:8840:1e::3
@@ -16354,7 +16297,6 @@ style.	0	IN	NS	v0n3.nic.style.
 style.	0	IN	NS	v2n0.nic.style.
 style.	0	IN	NS	v2n1.nic.style.
 style.	0	IN	DS	14471 8 2 3d0bb9238027ff9e403e715eda7f213b8e64f6e1d628f17b54fea484d1ffd2d1
-style.	0	IN	DS	64534 8 2 ae493c6907eab77640ded4690ae2035a5a613d78edca8814f9314334e4c19943
 v0n0.nic.style.	0	IN	A	65.22.32.46
 v0n0.nic.style.	0	IN	AAAA	2a01:8840:22::46
 v0n1.nic.style.	0	IN	A	65.22.33.46
@@ -16399,7 +16341,6 @@ supplies.	0	IN	NS	v0n2.nic.supplies.
 supplies.	0	IN	NS	v0n3.nic.supplies.
 supplies.	0	IN	NS	v2n0.nic.supplies.
 supplies.	0	IN	NS	v2n1.nic.supplies.
-supplies.	0	IN	DS	10984 8 2 ac8aff181900b2a9ac0736c0e254c3e847e240705467109b03cfc22839a30405
 supplies.	0	IN	DS	43604 8 2 68c486c885d729e71497d27327e2be9e1a05f8cfda26906fa84c066e4b8c62f6
 v0n0.nic.supplies.	0	IN	A	65.22.20.59
 v0n0.nic.supplies.	0	IN	AAAA	2a01:8840:16::59
@@ -16420,7 +16361,6 @@ supply.	0	IN	NS	v0n3.nic.supply.
 supply.	0	IN	NS	v2n0.nic.supply.
 supply.	0	IN	NS	v2n1.nic.supply.
 supply.	0	IN	DS	32515 8 2 3377c6dfc59d5e9900cc6bbae9c683a9cac1873b282a51ad9e009b7e094ff119
-supply.	0	IN	DS	43957 8 2 81a7a79353c68ff3d449a1b307f82944686706043cfde44f65b22b396ff9ac5e
 v0n0.nic.supply.	0	IN	A	65.22.24.52
 v0n0.nic.supply.	0	IN	AAAA	2a01:8840:1a::52
 v0n1.nic.supply.	0	IN	A	65.22.25.52
@@ -16440,7 +16380,6 @@ support.	0	IN	NS	v0n3.nic.support.
 support.	0	IN	NS	v2n0.nic.support.
 support.	0	IN	NS	v2n1.nic.support.
 support.	0	IN	DS	481 8 2 e51fd9cd54671c6cd527e1d2b75fda72b067820c5e4d6ad74e4acc9f95b24bbc
-support.	0	IN	DS	59704 8 2 5c789108f88d370a56e1c616c42694a492fa0b3ed7cafb7f9565777e1b85ad96
 v0n0.nic.support.	0	IN	A	65.22.20.5
 v0n0.nic.support.	0	IN	AAAA	2a01:8840:16::5
 v0n1.nic.support.	0	IN	A	65.22.21.5
@@ -16479,7 +16418,6 @@ surgery.	0	IN	NS	v0n3.nic.surgery.
 surgery.	0	IN	NS	v2n0.nic.surgery.
 surgery.	0	IN	NS	v2n1.nic.surgery.
 surgery.	0	IN	DS	23591 8 2 3944357708212ed8d4c8970e5bbabcb9b1bb8f56bd177163b941c4d8d2a6bca0
-surgery.	0	IN	DS	23746 8 2 26e3f51a86c852653ef6b6fdd89566f7d9faab6985201274b0abe95b530e400e
 v0n0.nic.surgery.	0	IN	A	65.22.24.31
 v0n0.nic.surgery.	0	IN	AAAA	2a01:8840:1a::31
 v0n1.nic.surgery.	0	IN	A	65.22.25.31
@@ -16587,7 +16525,6 @@ systems.	0	IN	NS	v0n2.nic.systems.
 systems.	0	IN	NS	v0n3.nic.systems.
 systems.	0	IN	NS	v2n0.nic.systems.
 systems.	0	IN	NS	v2n1.nic.systems.
-systems.	0	IN	DS	9634 8 2 a45f6041847622b7a24e0b41aea1bbc2e618e952e2555206776295edcc9ef77d
 systems.	0	IN	DS	13097 8 2 e4425e0c1ebdbad2aecd6b2f7c44ea945a3b46c82432782ec60bd9d331d33035
 v0n0.nic.systems.	0	IN	A	65.22.20.38
 v0n0.nic.systems.	0	IN	AAAA	2a01:8840:16::38
@@ -16747,7 +16684,6 @@ tax.	0	IN	NS	v0n2.nic.tax.
 tax.	0	IN	NS	v0n3.nic.tax.
 tax.	0	IN	NS	v2n0.nic.tax.
 tax.	0	IN	NS	v2n1.nic.tax.
-tax.	0	IN	DS	3385 8 2 4d66cf4d6309a91268d634432d008877ab792d0632a1f8775b732a18c277786f
 tax.	0	IN	DS	12485 8 2 eb670e2fc7ca22addbdef1d221b8a2e85da9523bb27bbc9f870a6aae93942ece
 v0n0.nic.tax.	0	IN	A	65.22.24.16
 v0n0.nic.tax.	0	IN	AAAA	2a01:8840:1a::16
@@ -16767,7 +16703,6 @@ taxi.	0	IN	NS	v0n2.nic.taxi.
 taxi.	0	IN	NS	v0n3.nic.taxi.
 taxi.	0	IN	NS	v2n0.nic.taxi.
 taxi.	0	IN	NS	v2n1.nic.taxi.
-taxi.	0	IN	DS	28756 8 2 75a029ee9c29f3cfb66255f04c724e4739ed871da812f13b9684e07382535369
 taxi.	0	IN	DS	40637 8 2 c164bc3b6b38093ec715de5f8fdc9280e212ef58b6f5c47c04ef054f24cb3f45
 v0n0.nic.taxi.	0	IN	A	65.22.20.21
 v0n0.nic.taxi.	0	IN	AAAA	2a01:8840:16::21
@@ -16846,7 +16781,6 @@ team.	0	IN	NS	v0n3.nic.team.
 team.	0	IN	NS	v2n0.nic.team.
 team.	0	IN	NS	v2n1.nic.team.
 team.	0	IN	DS	19904 8 2 1a51c24b3c4134c25d05bd25aa19cf94bf505e28b8baf064d60b2945a30e9483
-team.	0	IN	DS	38380 8 2 98207980337abe3132eb70514e4f2117a2cbc9d83acd2e89b18f9368a0456ea9
 v0n0.nic.team.	0	IN	A	65.22.32.37
 v0n0.nic.team.	0	IN	AAAA	2a01:8840:22::37
 v0n1.nic.team.	0	IN	A	65.22.33.37
@@ -16876,7 +16810,6 @@ technology.	0	IN	NS	v0n3.nic.technology.
 technology.	0	IN	NS	v2n0.nic.technology.
 technology.	0	IN	NS	v2n1.nic.technology.
 technology.	0	IN	DS	4126 8 2 9e76cff6be0b03d6d637eebbcdaa5c8f1afbab4c9722a05cfdb52481322adfd2
-technology.	0	IN	DS	27175 8 2 dbbbb57529756c1bf2ed1ab1ca275b580c2f3296fcb65689844a8d58cd936516
 v0n0.nic.technology.	0	IN	A	65.22.28.37
 v0n0.nic.technology.	0	IN	AAAA	2a01:8840:1e::37
 v0n1.nic.technology.	0	IN	A	65.22.29.37
@@ -16915,7 +16848,6 @@ tennis.	0	IN	NS	v0n3.nic.tennis.
 tennis.	0	IN	NS	v2n0.nic.tennis.
 tennis.	0	IN	NS	v2n1.nic.tennis.
 tennis.	0	IN	DS	2851 8 2 179a37fad160ecbdf2b22259b18be982ee4d72752e6932316cbc34837e7778ec
-tennis.	0	IN	DS	41695 8 2 30e59d10fa2e38db83b8dbac7ced28b8a1d6a6697b19b0b8eae5f7cbbaf5d0d8
 v0n0.nic.tennis.	0	IN	A	65.22.28.32
 v0n0.nic.tennis.	0	IN	AAAA	2a01:8840:1e::32
 v0n1.nic.tennis.	0	IN	A	65.22.29.32
@@ -16999,7 +16931,6 @@ theater.	0	IN	NS	v0n2.nic.theater.
 theater.	0	IN	NS	v0n3.nic.theater.
 theater.	0	IN	NS	v2n0.nic.theater.
 theater.	0	IN	NS	v2n1.nic.theater.
-theater.	0	IN	DS	835 8 2 1f2f456aa1f487103616fe00b21f4c6b8238213f5fc85401cfe49dc4b4c2da10
 theater.	0	IN	DS	12365 8 2 c57c7bed7f98ab6e7769eb3c9b417d6351df1fe3219d986da285c11703ca23a1
 v0n0.nic.theater.	0	IN	A	65.22.20.64
 v0n0.nic.theater.	0	IN	AAAA	2a01:8840:16::64
@@ -17068,7 +16999,6 @@ tienda.	0	IN	NS	v0n3.nic.tienda.
 tienda.	0	IN	NS	v2n0.nic.tienda.
 tienda.	0	IN	NS	v2n1.nic.tienda.
 tienda.	0	IN	DS	17822 8 2 b6ed2dd707c14ba88374fd8a8bb5d4662a8117c72f06cd2a1fcc50a882a2d84a
-tienda.	0	IN	DS	18877 8 2 8a24a050895db01a10aa65274b30e9dcf130a48499f4e24659488430893de7e1
 v0n0.nic.tienda.	0	IN	A	65.22.32.29
 v0n0.nic.tienda.	0	IN	AAAA	2a01:8840:22::29
 v0n1.nic.tienda.	0	IN	A	65.22.33.29
@@ -17088,7 +17018,6 @@ tips.	0	IN	NS	v0n3.nic.tips.
 tips.	0	IN	NS	v2n0.nic.tips.
 tips.	0	IN	NS	v2n1.nic.tips.
 tips.	0	IN	DS	35345 8 2 9b990e1262357f09539d05b893e194418f378aca491d788a9a1c0f6421c39b41
-tips.	0	IN	DS	47965 8 2 f7855e0b7abe74ad44b19dba63986f47a496e1b7dd37ffed2bc2c2499da4ca72
 v0n0.nic.tips.	0	IN	A	65.22.24.5
 v0n0.nic.tips.	0	IN	AAAA	2a01:8840:1a::5
 v0n1.nic.tips.	0	IN	A	65.22.25.5
@@ -17107,7 +17036,6 @@ tires.	0	IN	NS	v0n2.nic.tires.
 tires.	0	IN	NS	v0n3.nic.tires.
 tires.	0	IN	NS	v2n0.nic.tires.
 tires.	0	IN	NS	v2n1.nic.tires.
-tires.	0	IN	DS	21502 8 2 6db31bf7d51a54d4c5179619a31d6256747d09b3b4788b6a82c61841c20eceaa
 tires.	0	IN	DS	38111 8 2 2416144e504552331cc73987f6f8f3f8f5b054a80947e4c162116e092be5713f
 v0n0.nic.tires.	0	IN	A	65.22.24.64
 v0n0.nic.tires.	0	IN	AAAA	2a01:8840:1a::64
@@ -17262,7 +17190,6 @@ today.	0	IN	NS	v0n3.nic.today.
 today.	0	IN	NS	v2n0.nic.today.
 today.	0	IN	NS	v2n1.nic.today.
 today.	0	IN	DS	8092 8 2 a3c07f3d6fdb3de1732f3aac98701f2ea12fd8bb0564e9d6ba0cdd7132392042
-today.	0	IN	DS	8164 8 2 92c5eaf94dd9dbc7d5254faf41cff9dfeae138c718773528dae6b717ef1b6fe0
 v0n0.nic.today.	0	IN	A	65.22.28.35
 v0n0.nic.today.	0	IN	AAAA	2a01:8840:1e::35
 v0n1.nic.today.	0	IN	A	65.22.29.35
@@ -17287,7 +17214,6 @@ tools.	0	IN	NS	v0n3.nic.tools.
 tools.	0	IN	NS	v2n0.nic.tools.
 tools.	0	IN	NS	v2n1.nic.tools.
 tools.	0	IN	DS	1547 8 2 c213bf66307bb131517dff9b31f47f2a5a2f7b57c97f8c2b5e8a46b613c2773d
-tools.	0	IN	DS	13831 8 2 5ddd852d119830be951afa0d5176443a935eaa350278ef15fbea34156cf5a9ab
 v0n0.nic.tools.	0	IN	A	65.22.28.44
 v0n0.nic.tools.	0	IN	AAAA	2a01:8840:1e::44
 v0n1.nic.tools.	0	IN	A	65.22.29.44
@@ -17330,7 +17256,6 @@ tours.	0	IN	NS	v0n3.nic.tours.
 tours.	0	IN	NS	v2n0.nic.tours.
 tours.	0	IN	NS	v2n1.nic.tours.
 tours.	0	IN	DS	11872 8 2 078f335cd6fdae3c83736584ec6c1338be3d67ce734b5a9d492f6c12e431b874
-tours.	0	IN	DS	41716 8 2 ad0f4d55834496f7305ac2a3a8743ddbf7c4802ec246341e7f9e555fa42b5ee9
 v0n0.nic.tours.	0	IN	A	65.22.24.47
 v0n0.nic.tours.	0	IN	AAAA	2a01:8840:1a::47
 v0n1.nic.tours.	0	IN	A	65.22.25.47
@@ -17350,7 +17275,6 @@ town.	0	IN	NS	v0n3.nic.town.
 town.	0	IN	NS	v2n0.nic.town.
 town.	0	IN	NS	v2n1.nic.town.
 town.	0	IN	DS	39731 8 2 0765c547c7c62216edf117575fb0b0601d1bdb999e502ecf07cac5172845df00
-town.	0	IN	DS	63256 8 2 515451761441c5c476f32ee4d28ae24d5179521fb505c318ef721e5fd6165c16
 v0n0.nic.town.	0	IN	A	65.22.28.55
 v0n0.nic.town.	0	IN	AAAA	2a01:8840:1e::55
 v0n1.nic.town.	0	IN	A	65.22.29.55
@@ -17375,7 +17299,6 @@ toys.	0	IN	NS	v0n3.nic.toys.
 toys.	0	IN	NS	v2n0.nic.toys.
 toys.	0	IN	NS	v2n1.nic.toys.
 toys.	0	IN	DS	5935 8 2 24251931c0cdf1f16a36fca4048f4b53e1f4a6a9320d51ea3aa3b855e458b5fd
-toys.	0	IN	DS	26029 8 2 7e93110615b5fadb76632c18aee800588a81fc4d6d70b9029385987290678ea9
 v0n0.nic.toys.	0	IN	A	65.22.20.23
 v0n0.nic.toys.	0	IN	AAAA	2a01:8840:16::23
 v0n1.nic.toys.	0	IN	A	65.22.21.23
@@ -17435,7 +17358,6 @@ trading.	0	IN	NS	v0n3.nic.trading.
 trading.	0	IN	NS	v2n0.nic.trading.
 trading.	0	IN	NS	v2n1.nic.trading.
 trading.	0	IN	DS	24712 8 2 34a94b3c751c48a466ef244d53fae8c61fed05b86af59603b35ccd5152708d0a
-trading.	0	IN	DS	49129 8 2 ef6ca74a84fbac616c85ddfc58eac5475041c67daec11fe64fa0c481968a0790
 v0n0.nic.trading.	0	IN	A	65.22.32.66
 v0n0.nic.trading.	0	IN	AAAA	2a01:8840:22::66
 v0n1.nic.trading.	0	IN	A	65.22.33.66
@@ -17455,7 +17377,6 @@ training.	0	IN	NS	v0n3.nic.training.
 training.	0	IN	NS	v2n0.nic.training.
 training.	0	IN	NS	v2n1.nic.training.
 training.	0	IN	DS	6482 8 2 c517b9170ded02cbd44959465f2e54ecc693563d59295f034bdd5ab2e736251e
-training.	0	IN	DS	44281 8 2 80dd6f1aad9c85fed280bc232c0dd8426c09dd7bdd6f6e6bc16232e252cba059
 v0n0.nic.training.	0	IN	A	65.22.24.41
 v0n0.nic.training.	0	IN	AAAA	2a01:8840:1a::41
 v0n1.nic.training.	0	IN	A	65.22.25.41
@@ -17475,7 +17396,6 @@ travel.	0	IN	NS	v0n3.nic.travel.
 travel.	0	IN	NS	v2n0.nic.travel.
 travel.	0	IN	NS	v2n1.nic.travel.
 travel.	0	IN	DS	589 8 2 608beead4bff670ee8da73b5908817420d9be75861f529d6c98e59623b63da16
-travel.	0	IN	DS	60277 8 2 df8590752dcf2cc075f91d5a6178c38a7ba1dbbc0c2327b88ca37be4797be126
 v0n0.nic.travel.	0	IN	A	65.22.28.8
 v0n0.nic.travel.	0	IN	AAAA	2a01:8840:1e::8
 v0n1.nic.travel.	0	IN	A	65.22.29.8
@@ -17636,7 +17556,6 @@ tvs.	0	IN	NS	a0.nic.tvs.
 tvs.	0	IN	NS	a2.nic.tvs.
 tvs.	0	IN	NS	b0.nic.tvs.
 tvs.	0	IN	NS	c0.nic.tvs.
-tvs.	0	IN	DS	29161 8 2 a36cbb75c2c810d16fdd5562c334351bdd007f5aeb008537115586951ac39240
 tvs.	0	IN	DS	46151 8 2 6115c2aa92b374a6b6a3a7693a5044dab8de2e3dabea14b273b8cb5c78a446fa
 a0.nic.tvs.	0	IN	A	65.22.204.9
 a0.nic.tvs.	0	IN	AAAA	2a01:8840:c6::9
@@ -17817,7 +17736,6 @@ university.	0	IN	NS	v0n3.nic.university.
 university.	0	IN	NS	v2n0.nic.university.
 university.	0	IN	NS	v2n1.nic.university.
 university.	0	IN	DS	16829 8 2 e6ed731738bf2c12876f232c01ff74519b53eec16e105a57c08af283d4e86859
-university.	0	IN	DS	40537 8 2 674e5d0fc3d6a5ee42486211ce3be970a6b6dde79ba48553732c1a929715302e
 v0n0.nic.university.	0	IN	A	65.22.20.19
 v0n0.nic.university.	0	IN	AAAA	2a01:8840:16::19
 v0n1.nic.university.	0	IN	A	65.22.21.19
@@ -17939,7 +17857,6 @@ vacations.	0	IN	NS	v0n2.nic.vacations.
 vacations.	0	IN	NS	v0n3.nic.vacations.
 vacations.	0	IN	NS	v2n0.nic.vacations.
 vacations.	0	IN	NS	v2n1.nic.vacations.
-vacations.	0	IN	DS	53014 8 2 63af40a94f8066d7f6ad7fcf89dc7111407c1da7a217ffc6c7f2f84a87cc9fc0
 vacations.	0	IN	DS	55324 8 2 9ddfead66c2d98b56bdd8e2e622356bea7f8f87f1ef17c1cedd17567225f7b48
 v0n0.nic.vacations.	0	IN	A	65.22.20.58
 v0n0.nic.vacations.	0	IN	AAAA	2a01:8840:16::58
@@ -18012,7 +17929,6 @@ ventures.	0	IN	NS	v0n2.nic.ventures.
 ventures.	0	IN	NS	v0n3.nic.ventures.
 ventures.	0	IN	NS	v2n0.nic.ventures.
 ventures.	0	IN	NS	v2n1.nic.ventures.
-ventures.	0	IN	DS	43132 8 2 5ad3e6b74a570bbd7ea2f84c87e6bfc6c305233383d14f29074f3e6e4a03a810
 ventures.	0	IN	DS	44791 8 2 ba837cee8844092df38fffd798b36f5eb21314e5d24b00410212d482b5e818ee
 v0n0.nic.ventures.	0	IN	A	65.22.24.11
 v0n0.nic.ventures.	0	IN	AAAA	2a01:8840:1a::11
@@ -18049,7 +17965,6 @@ vet.	0	IN	NS	v0n2.nic.vet.
 vet.	0	IN	NS	v0n3.nic.vet.
 vet.	0	IN	NS	v2n0.nic.vet.
 vet.	0	IN	NS	v2n1.nic.vet.
-vet.	0	IN	DS	19864 8 2 2b1b3ab9f4fdd837fc9f9c7875fa916b6a22c3ef5c0c04d5d3235e42828cf6a8
 vet.	0	IN	DS	64495 8 2 ec91044e6fb87288253d2878c0026ff5574881df384b8bdeac6e4c1da0141437
 v0n0.nic.vet.	0	IN	A	65.22.32.49
 v0n0.nic.vet.	0	IN	AAAA	2a01:8840:22::49
@@ -18087,7 +18002,6 @@ viajes.	0	IN	NS	v0n2.nic.viajes.
 viajes.	0	IN	NS	v0n3.nic.viajes.
 viajes.	0	IN	NS	v2n0.nic.viajes.
 viajes.	0	IN	NS	v2n1.nic.viajes.
-viajes.	0	IN	DS	1006 8 2 ee19922420d5f38807e2d61a8d0a7811e2c622bdf65cbdf56ab83ff4569ff4b3
 viajes.	0	IN	DS	60341 8 2 33bb2cdbe372870f513dbbb37027ab39bc04c4d9c771f7e9e49f15bdb9d3e054
 v0n0.nic.viajes.	0	IN	A	65.22.24.32
 v0n0.nic.viajes.	0	IN	AAAA	2a01:8840:1a::32
@@ -18108,7 +18022,6 @@ video.	0	IN	NS	v0n3.nic.video.
 video.	0	IN	NS	v2n0.nic.video.
 video.	0	IN	NS	v2n1.nic.video.
 video.	0	IN	DS	16592 8 2 3f69a52ff9879b500b2fc1d211bcdae13e2f0b649f85775b755177f235b1d397
-video.	0	IN	DS	42529 8 2 4cafbfedab7097a3727581bcc76ff8eb10b0c144b96f77cf48d7814e21d8d3a7
 v0n0.nic.video.	0	IN	A	65.22.24.40
 v0n0.nic.video.	0	IN	AAAA	2a01:8840:1a::40
 v0n1.nic.video.	0	IN	A	65.22.25.40
@@ -18156,7 +18069,6 @@ villas.	0	IN	NS	v0n3.nic.villas.
 villas.	0	IN	NS	v2n0.nic.villas.
 villas.	0	IN	NS	v2n1.nic.villas.
 villas.	0	IN	DS	1475 8 2 29b02d1413a3670a3a51f6fc43edd4798a2486daab4fa306f5b72be9de1e1b6a
-villas.	0	IN	DS	32191 8 2 ce7cf1b69581dc8a7d97b190d57a0d90de2f35f3f906e15984163f3bd62b6a7a
 v0n0.nic.villas.	0	IN	A	65.22.28.62
 v0n0.nic.villas.	0	IN	AAAA	2a01:8840:1e::62
 v0n1.nic.villas.	0	IN	A	65.22.29.62
@@ -18175,7 +18087,6 @@ vin.	0	IN	NS	v0n2.nic.vin.
 vin.	0	IN	NS	v0n3.nic.vin.
 vin.	0	IN	NS	v2n0.nic.vin.
 vin.	0	IN	NS	v2n1.nic.vin.
-vin.	0	IN	DS	25786 8 2 ba89439b43dd4c15ad9d0bc69198518041f5a9e269ce479569f0e42017d8a9a5
 vin.	0	IN	DS	49082 8 2 2059f744d3ca351435057220c3f76d501abf0cf308d7d2c2eb982641fe692977
 v0n0.nic.vin.	0	IN	A	65.22.28.21
 v0n0.nic.vin.	0	IN	AAAA	2a01:8840:1e::21
@@ -18260,7 +18171,6 @@ vision.	0	IN	NS	v0n3.nic.vision.
 vision.	0	IN	NS	v2n0.nic.vision.
 vision.	0	IN	NS	v2n1.nic.vision.
 vision.	0	IN	DS	53656 8 2 38c736af520392e88abfbf1ac78eeabda3879d239dc0954ac1676e34cc3b81d8
-vision.	0	IN	DS	58084 8 2 4e659852dd1934d5e78a5e6600ebad107682821e3bb5991f8b4bf8dfbc6927ff
 v0n0.nic.vision.	0	IN	A	65.22.24.15
 v0n0.nic.vision.	0	IN	AAAA	2a01:8840:1a::15
 v0n1.nic.vision.	0	IN	A	65.22.25.15
@@ -18389,7 +18299,6 @@ vote.	0	IN	NS	a2.nic.vote.
 vote.	0	IN	NS	b0.nic.vote.
 vote.	0	IN	NS	c0.nic.vote.
 vote.	0	IN	DS	39235 8 2 d0bbbb8cb83151f21f7d63ad987fbaeca9b76672a98017d24a182c00002e97d1
-vote.	0	IN	DS	62749 8 2 101d2ae9c31fbe10078e74d477010aa5c8966d814421123a893b8b0e7b46891a
 a0.nic.vote.	0	IN	A	65.22.168.9
 a0.nic.vote.	0	IN	AAAA	2a01:8840:a2::9
 a2.nic.vote.	0	IN	A	65.22.171.9
@@ -18421,7 +18330,6 @@ voto.	0	IN	NS	a0.nic.voto.
 voto.	0	IN	NS	a2.nic.voto.
 voto.	0	IN	NS	b0.nic.voto.
 voto.	0	IN	NS	c0.nic.voto.
-voto.	0	IN	DS	26875 8 2 847371b1a0a21ae134a0e0c15b0e505bb4c88a26ed401daff4f4e8794c5b31a1
 voto.	0	IN	DS	30562 8 2 4c7794e79b7080721c902f71a4e6ed0839d0c381ac2cbd08bc6cb80f4cafa5e6
 a0.nic.voto.	0	IN	A	65.22.168.1
 a0.nic.voto.	0	IN	AAAA	2a01:8840:a2::1
@@ -18438,7 +18346,6 @@ voyage.	0	IN	NS	v0n3.nic.voyage.
 voyage.	0	IN	NS	v2n0.nic.voyage.
 voyage.	0	IN	NS	v2n1.nic.voyage.
 voyage.	0	IN	DS	18596 8 2 5ba7ae66bf423cf3e9c2a36176564f25426e3cca856b80990707d367747e2806
-voyage.	0	IN	DS	25570 8 2 e17ea6fe786d37d2884b4eb52ae275ec41c4265aa252e2469396ff49878170c5
 v0n0.nic.voyage.	0	IN	A	65.22.32.28
 v0n0.nic.voyage.	0	IN	AAAA	2a01:8840:22::28
 v0n1.nic.voyage.	0	IN	A	65.22.33.28
@@ -18573,7 +18480,6 @@ watch.	0	IN	NS	v0n2.nic.watch.
 watch.	0	IN	NS	v0n3.nic.watch.
 watch.	0	IN	NS	v2n0.nic.watch.
 watch.	0	IN	NS	v2n1.nic.watch.
-watch.	0	IN	DS	54769 8 2 df912e3dd3fd5d0961ccd55abbcfb99e3cadba09ff443e3f1a7bebae400d57ad
 watch.	0	IN	DS	55960 8 2 2dbcb6b1133f868c5cf013a1d3145b17d33ec6ee3fdacf2221662fb8efade750
 v0n0.nic.watch.	0	IN	A	65.22.32.48
 v0n0.nic.watch.	0	IN	AAAA	2a01:8840:22::48
@@ -18592,7 +18498,6 @@ watches.	0	IN	NS	a2.nic.watches.
 watches.	0	IN	NS	b0.nic.watches.
 watches.	0	IN	NS	c0.nic.watches.
 watches.	0	IN	DS	39272 8 2 22b7eceed5354bcf3a593558c94ca1ea16d7604fe04946de2e21f73d9ad99c0d
-watches.	0	IN	DS	61699 8 2 9110905c79b0c95933eb1f037a0d7a150819f1d1553ad89187a7849039a97ebe
 a0.nic.watches.	0	IN	A	65.22.204.1
 a0.nic.watches.	0	IN	AAAA	2a01:8840:c6::1
 a2.nic.watches.	0	IN	A	65.22.207.1
@@ -18837,7 +18742,6 @@ wine.	0	IN	NS	v0n2.nic.wine.
 wine.	0	IN	NS	v0n3.nic.wine.
 wine.	0	IN	NS	v2n0.nic.wine.
 wine.	0	IN	NS	v2n1.nic.wine.
-wine.	0	IN	DS	4210 8 2 16016cd0c2432421b72d072422278999c3c2772353e3d5214d25be24b4d521cb
 wine.	0	IN	DS	58469 8 2 d56956b6770b2e490be1e9a76297bd51578cf3ac93efda6e62da088c73e89ac8
 v0n0.nic.wine.	0	IN	A	65.22.32.11
 v0n0.nic.wine.	0	IN	AAAA	2a01:8840:22::11
@@ -18929,7 +18833,6 @@ works.	0	IN	NS	v0n3.nic.works.
 works.	0	IN	NS	v2n0.nic.works.
 works.	0	IN	NS	v2n1.nic.works.
 works.	0	IN	DS	10889 8 2 ce896c56c5e75d5263023495f17e83caa0a297ce5230a611cadc7286d7cb66af
-works.	0	IN	DS	46672 8 2 0339dd99b86b96b8e437908e9aea3eb578fad0de211bd8cf7a4fe6885e0acdd2
 v0n0.nic.works.	0	IN	A	65.22.24.6
 v0n0.nic.works.	0	IN	AAAA	2a01:8840:1a::6
 v0n1.nic.works.	0	IN	A	65.22.25.6
@@ -18949,7 +18852,6 @@ world.	0	IN	NS	v0n3.nic.world.
 world.	0	IN	NS	v2n0.nic.world.
 world.	0	IN	NS	v2n1.nic.world.
 world.	0	IN	DS	422 8 2 d75d23d372a9a5b83f3e6c72201a16131744708a1b25fe1fbe7c8da064f32281
-world.	0	IN	DS	13081 8 2 84c4ee9b8cec0c7eb9c2c892a07df5513897f91c5b3bc80410ebb062e86eac21
 v0n0.nic.world.	0	IN	A	65.22.24.1
 v0n0.nic.world.	0	IN	AAAA	2a01:8840:1a::1
 v0n1.nic.world.	0	IN	A	65.22.25.1
@@ -19027,7 +18929,6 @@ wtf.	0	IN	NS	v0n2.nic.wtf.
 wtf.	0	IN	NS	v0n3.nic.wtf.
 wtf.	0	IN	NS	v2n0.nic.wtf.
 wtf.	0	IN	NS	v2n1.nic.wtf.
-wtf.	0	IN	DS	47461 8 2 a9f9582d8b0f154f7051751b8c2ab121231ccb2ae36ea6da9536439855bf9f0f
 wtf.	0	IN	DS	64501 8 2 db534bdfbd62b40781f6bdeeae115157844bfbbaa5aa3bd54ed01f8686cdda6d
 v0n0.nic.wtf.	0	IN	A	65.22.20.7
 v0n0.nic.wtf.	0	IN	AAAA	2a01:8840:16::7
@@ -19085,17 +18986,10 @@ y.nic.xerox.	0	IN	A	156.154.173.82
 y.nic.xerox.	0	IN	AAAA	2610:a1:1075::1:82
 z.nic.xerox.	0	IN	A	156.154.174.82
 z.nic.xerox.	0	IN	AAAA	2610:a1:1076::1:82
-xihuan.	0	IN	NS	ns1.teleinfo.cn.
-xihuan.	0	IN	NS	ns2.teleinfoo.com.
-xihuan.	0	IN	NS	ns3.teleinfo.cn.
-xihuan.	0	IN	NS	ns4.teleinfoo.com.
-xihuan.	0	IN	DS	27565 8 2 b77f15373b8af8e7ba2d8641701ae833416f8d439bbdaee71d18ce55efde7903
-xihuan.	0	IN	DS	33427 8 2 1061b1aacada68d55b091340a0765746a4fa68530d47faa10edfcd3237e3748c
 xin.	0	IN	NS	a0.nic.xin.
 xin.	0	IN	NS	a2.nic.xin.
 xin.	0	IN	NS	b0.nic.xin.
 xin.	0	IN	NS	c0.nic.xin.
-xin.	0	IN	DS	2809 8 2 3bbba82ef5ee5583f6743af83a583f203153df0c2066f8707a735dc514474bf4
 xin.	0	IN	DS	56090 8 2 9b1f2cd66625077e0aadc9bdddc9cc1b4b86d3931bcc4d96e255b191573884f1
 a0.nic.xin.	0	IN	A	65.22.128.17
 a0.nic.xin.	0	IN	AAAA	2a01:8840:7e::17
@@ -19116,7 +19010,6 @@ xn--1ck2e1b.	0	IN	NS	v0n2.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	v0n3.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	v2n0.nic.xn--1ck2e1b.
 xn--1ck2e1b.	0	IN	NS	v2n1.nic.xn--1ck2e1b.
-xn--1ck2e1b.	0	IN	DS	53164 8 2 27e776688bd0cedb38466ce0e6b2bcc5cbefa0549e04848ef0f1fdbe40f85d0e
 xn--1ck2e1b.	0	IN	DS	54482 8 2 8105b408dee98695937d516ae3054e56531d17362c20e26c1b28f0985c43d58e
 v0n0.nic.xn--1ck2e1b.	0	IN	A	65.22.76.3
 v0n0.nic.xn--1ck2e1b.	0	IN	AAAA	2a01:8840:4a::3
@@ -19270,7 +19163,6 @@ xn--5tzm5g.	0	IN	NS	a0.nic.xn--5tzm5g.
 xn--5tzm5g.	0	IN	NS	a2.nic.xn--5tzm5g.
 xn--5tzm5g.	0	IN	NS	b0.nic.xn--5tzm5g.
 xn--5tzm5g.	0	IN	NS	c0.nic.xn--5tzm5g.
-xn--5tzm5g.	0	IN	DS	26359 8 2 7d1e023bbb026ac5d19ae62d5f13ee6e01f3450a1e6629e25a9205dcf2a31f9e
 xn--5tzm5g.	0	IN	DS	39281 8 2 6d12649854ca15505498544957c7b505910ec051318b1eca134ad8407918e21d
 a0.nic.xn--5tzm5g.	0	IN	A	65.22.16.9
 a0.nic.xn--5tzm5g.	0	IN	AAAA	2a01:8840:12::9
@@ -19285,7 +19177,6 @@ xn--6frz82g.	0	IN	NS	a2.nic.xn--6frz82g.
 xn--6frz82g.	0	IN	NS	b0.nic.xn--6frz82g.
 xn--6frz82g.	0	IN	NS	c0.nic.xn--6frz82g.
 xn--6frz82g.	0	IN	DS	11759 8 2 6a6178cee51cb2abd29ad053a6a4584f08cc6bb040cd44c8ac1a4d19845d3f5c
-xn--6frz82g.	0	IN	DS	51310 8 2 b725fa381426f5e3a9338c5c5a57447611aba619e9675d9bf973d1d2a3b14b5e
 a0.nic.xn--6frz82g.	0	IN	A	65.22.24.9
 a0.nic.xn--6frz82g.	0	IN	AAAA	2a01:8840:1a::9
 a2.nic.xn--6frz82g.	0	IN	A	65.22.27.9
@@ -19412,7 +19303,6 @@ xn--bck1b9a5dre4c.	0	IN	NS	v0n3.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	v2n0.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	NS	v2n1.nic.xn--bck1b9a5dre4c.
 xn--bck1b9a5dre4c.	0	IN	DS	53690 8 2 921c397859d263155c2fe352a51d86749f156dc42849c4f027ffaeda5f1e15ec
-xn--bck1b9a5dre4c.	0	IN	DS	59140 8 2 05f9b4a2cc75f4cc41150454bb3911c3a8b0874d626162842146114819b45443
 v0n0.nic.xn--bck1b9a5dre4c.	0	IN	A	65.22.76.4
 v0n0.nic.xn--bck1b9a5dre4c.	0	IN	AAAA	2a01:8840:4a::4
 v0n1.nic.xn--bck1b9a5dre4c.	0	IN	A	65.22.77.4
@@ -19449,7 +19339,6 @@ xn--cck2b3b.	0	IN	NS	v0n2.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	v0n3.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	v2n0.nic.xn--cck2b3b.
 xn--cck2b3b.	0	IN	NS	v2n1.nic.xn--cck2b3b.
-xn--cck2b3b.	0	IN	DS	7171 8 2 480318eeeb6f2bfec750dd4267bddc9d033b80c0bf1bf9cf979780c35bb87769
 xn--cck2b3b.	0	IN	DS	63281 8 2 3769433e5378a73ec1914e8aa446a7db8d6b24256ec1a20a15ec28b3e3dd4ff6
 v0n0.nic.xn--cck2b3b.	0	IN	A	65.22.76.5
 v0n0.nic.xn--cck2b3b.	0	IN	AAAA	2a01:8840:4a::5
@@ -19517,7 +19406,6 @@ xn--czrs0t.	0	IN	NS	v0n2.nic.xn--czrs0t.
 xn--czrs0t.	0	IN	NS	v0n3.nic.xn--czrs0t.
 xn--czrs0t.	0	IN	NS	v2n0.nic.xn--czrs0t.
 xn--czrs0t.	0	IN	NS	v2n1.nic.xn--czrs0t.
-xn--czrs0t.	0	IN	DS	1450 8 2 ee874dd50ba3cecb8187c1d3fb2f8c72fae826a33c0c6a96dab7c16db8a70d84
 xn--czrs0t.	0	IN	DS	13120 8 2 421212a0cd3d4c4a4ab8a9da9d5032bbb9fa9e23490c94209680b345fa044740
 v0n0.nic.xn--czrs0t.	0	IN	A	65.22.28.64
 v0n0.nic.xn--czrs0t.	0	IN	AAAA	2a01:8840:1e::64
@@ -19564,7 +19452,6 @@ xn--eckvdtc9d.	0	IN	NS	v0n3.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	v2n0.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	NS	v2n1.nic.xn--eckvdtc9d.
 xn--eckvdtc9d.	0	IN	DS	28355 8 2 1be79e7bf7825b1009e1611a1c44b569eb63131dc38dcc88d5c72a411175f72c
-xn--eckvdtc9d.	0	IN	DS	53936 8 2 b28c814ee8f6237ced8a3ba3d591b75f455258faec60828f7d01432a8e153eac
 v0n0.nic.xn--eckvdtc9d.	0	IN	A	65.22.76.6
 v0n0.nic.xn--eckvdtc9d.	0	IN	AAAA	2a01:8840:4a::6
 v0n1.nic.xn--eckvdtc9d.	0	IN	A	65.22.77.6
@@ -19592,7 +19479,6 @@ xn--fct429k.	0	IN	NS	v0n2.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	v0n3.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	v2n0.nic.xn--fct429k.
 xn--fct429k.	0	IN	NS	v2n1.nic.xn--fct429k.
-xn--fct429k.	0	IN	DS	33139 8 2 e4d17f595eb9ea2d365fdb095ec7866a106ae8a3dfda44da3225efeee0a74b02
 xn--fct429k.	0	IN	DS	56095 8 2 ef1d015f5a8284114fc3e1e5edfabbb64e57696529be8cad2e9969f0dd3ed206
 v0n0.nic.xn--fct429k.	0	IN	A	65.22.76.7
 v0n0.nic.xn--fct429k.	0	IN	AAAA	2a01:8840:4a::7
@@ -19645,7 +19531,6 @@ xn--fjq720a.	0	IN	NS	v0n3.nic.xn--fjq720a.
 xn--fjq720a.	0	IN	NS	v2n0.nic.xn--fjq720a.
 xn--fjq720a.	0	IN	NS	v2n1.nic.xn--fjq720a.
 xn--fjq720a.	0	IN	DS	14845 8 2 2bf630d314852feca5ae87c1fa64f480d131fa5f039a64258f1ddb5f4238fbe2
-xn--fjq720a.	0	IN	DS	63835 8 2 e3f265b8894b76bab24512c5276be9243c0afb4595a14c879f9fb711e754c013
 v0n0.nic.xn--fjq720a.	0	IN	A	65.22.20.66
 v0n0.nic.xn--fjq720a.	0	IN	AAAA	2a01:8840:16::66
 v0n1.nic.xn--fjq720a.	0	IN	A	65.22.21.66
@@ -19716,7 +19601,6 @@ xn--gckr3f0f.	0	IN	NS	v0n2.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	v0n3.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	v2n0.nic.xn--gckr3f0f.
 xn--gckr3f0f.	0	IN	NS	v2n1.nic.xn--gckr3f0f.
-xn--gckr3f0f.	0	IN	DS	8299 8 2 ea53409a63f3c2e67887df475d35837ca4696aadd7a08523436c05960ac99eee
 xn--gckr3f0f.	0	IN	DS	27979 8 2 3e9d6a6f5114ca3ed71d9f27c10a5132f233ad686954d276d9e5e1a747e8f710
 v0n0.nic.xn--gckr3f0f.	0	IN	A	65.22.76.8
 v0n0.nic.xn--gckr3f0f.	0	IN	AAAA	2a01:8840:4a::8
@@ -19742,7 +19626,6 @@ xn--gk3at1e.	0	IN	NS	v0n3.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v2n0.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	NS	v2n1.nic.xn--gk3at1e.
 xn--gk3at1e.	0	IN	DS	47422 8 2 b118f2c16e7703315a5ed3b9ea080c88014a38bbd27f6cbab3804bed506d3b52
-xn--gk3at1e.	0	IN	DS	62404 8 2 abe26a827cd8026e02a148365ad795fa844282e961fc25583498834571b1ea7a
 v0n0.nic.xn--gk3at1e.	0	IN	A	65.22.76.9
 v0n0.nic.xn--gk3at1e.	0	IN	AAAA	2a01:8840:4a::9
 v0n1.nic.xn--gk3at1e.	0	IN	A	65.22.77.9
@@ -20251,7 +20134,6 @@ xn--rovu88b.	0	IN	NS	v0n2.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	v0n3.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	v2n0.nic.xn--rovu88b.
 xn--rovu88b.	0	IN	NS	v2n1.nic.xn--rovu88b.
-xn--rovu88b.	0	IN	DS	1249 8 2 faecafc5a2a9f88ac34a7d570da61418bc78607db107aa10f150c77022c9b910
 xn--rovu88b.	0	IN	DS	61631 8 2 450c2b2ad37e14708782752c7028c5f9f6b849ab2a85dfef684cf1e906ac8799
 v0n0.nic.xn--rovu88b.	0	IN	A	65.22.76.11
 v0n0.nic.xn--rovu88b.	0	IN	AAAA	2a01:8840:4a::11
@@ -20321,7 +20203,6 @@ xn--unup4y.	0	IN	NS	v0n3.nic.xn--unup4y.
 xn--unup4y.	0	IN	NS	v2n0.nic.xn--unup4y.
 xn--unup4y.	0	IN	NS	v2n1.nic.xn--unup4y.
 xn--unup4y.	0	IN	DS	9646 8 2 12a285165325a80e23a48bdc46d5e8fcee4c444c6d31c383543e8178d544f477
-xn--unup4y.	0	IN	DS	57331 8 2 98698bf6004dcfe48f3c5beb164f75d63fbac726ae652da39af2929a8f836f92
 v0n0.nic.xn--unup4y.	0	IN	A	65.22.20.34
 v0n0.nic.xn--unup4y.	0	IN	AAAA	2a01:8840:16::34
 v0n1.nic.xn--unup4y.	0	IN	A	65.22.21.34
@@ -20369,7 +20250,6 @@ xn--vhquv.	0	IN	NS	v0n3.nic.xn--vhquv.
 xn--vhquv.	0	IN	NS	v2n0.nic.xn--vhquv.
 xn--vhquv.	0	IN	NS	v2n1.nic.xn--vhquv.
 xn--vhquv.	0	IN	DS	18791 8 2 fff17e24e79ee2987e3cfefcad05f529055c0aebc8ca1b0f46b42735c0f73f07
-xn--vhquv.	0	IN	DS	25099 8 2 97139be679993f9bc92729c06a1ce43ae75083580338cf750f15fd2b34737717
 v0n0.nic.xn--vhquv.	0	IN	A	65.22.28.30
 v0n0.nic.xn--vhquv.	0	IN	AAAA	2a01:8840:1e::30
 v0n1.nic.xn--vhquv.	0	IN	A	65.22.29.30
@@ -20708,7 +20588,6 @@ zara.	0	IN	NS	a2.nic.zara.
 zara.	0	IN	NS	b0.nic.zara.
 zara.	0	IN	NS	c0.nic.zara.
 zara.	0	IN	DS	20839 8 2 f4bad8d1c96c11b998665085fdaa763802612737415e836f1c2dda1295abb4ac
-zara.	0	IN	DS	40147 8 2 2e4669652e0c3b84007e43707f8354c94afd6f929a5152524bedbaa6f009dafa
 a0.nic.zara.	0	IN	A	65.22.232.33
 a0.nic.zara.	0	IN	AAAA	2a01:8840:e2::33
 a2.nic.zara.	0	IN	A	65.22.235.33
@@ -20724,7 +20603,6 @@ zero.	0	IN	NS	v0n3.nic.zero.
 zero.	0	IN	NS	v2n0.nic.zero.
 zero.	0	IN	NS	v2n1.nic.zero.
 zero.	0	IN	DS	40157 8 2 93860899ff71d325cd81a2d97bd77f82a45ca9cedcbd68388ab7eb0b3c5987d1
-zero.	0	IN	DS	52774 8 2 2f7c24f9a7f75c1ba05da9b742209f4e8204bd280f50b4f64800854b0965dd12
 v0n0.nic.zero.	0	IN	A	65.22.76.12
 v0n0.nic.zero.	0	IN	AAAA	2a01:8840:4a::12
 v0n1.nic.zero.	0	IN	A	65.22.77.12
@@ -20758,7 +20636,6 @@ zone.	0	IN	NS	v0n3.nic.zone.
 zone.	0	IN	NS	v2n0.nic.zone.
 zone.	0	IN	NS	v2n1.nic.zone.
 zone.	0	IN	DS	9442 8 2 2c313be01ada7291e963ca798e3bc50c1dee5f00405e0c7b80cbb3950e3224e8
-zone.	0	IN	DS	12136 8 2 44853e072aa0c590351b822b9a23ff95631412a3583228163a995598ef764baf
 v0n0.nic.zone.	0	IN	A	65.22.28.5
 v0n0.nic.zone.	0	IN	AAAA	2a01:8840:1e::5
 v0n1.nic.zone.	0	IN	A	65.22.29.5
