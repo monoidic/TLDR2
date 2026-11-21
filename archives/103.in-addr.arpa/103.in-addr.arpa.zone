@@ -7373,7 +7373,7 @@
 114.121.103.in-addr.arpa.	0	IN	NS	rdns2.mytachyon.in.
 115.121.103.in-addr.arpa.	0	IN	NS	rdns1.mytachyon.in.
 115.121.103.in-addr.arpa.	0	IN	NS	rdns2.mytachyon.in.
-12.121.103.in-addr.arpa.	0	IN	NS	core.velocity.com.bd.
+12.121.103.in-addr.arpa.	0	IN	NS	ns1.velocity.bd.
 120.121.103.in-addr.arpa.	0	IN	NS	ns0.logon.com.pk.
 120.121.103.in-addr.arpa.	0	IN	NS	ns0.corenet.net.pk.
 120.121.103.in-addr.arpa.	0	IN	NS	ns0.lightup.pk.
@@ -7416,6 +7416,7 @@
 128.121.103.in-addr.arpa.	0	IN	NS	ns2.realworld.net.au.
 129.121.103.in-addr.arpa.	0	IN	NS	ns1.realworld.net.au.
 129.121.103.in-addr.arpa.	0	IN	NS	ns2.realworld.net.au.
+13.121.103.in-addr.arpa.	0	IN	NS	ns1.velocity.bd.
 130.121.103.in-addr.arpa.	0	IN	NS	ns1.realworld.net.au.
 130.121.103.in-addr.arpa.	0	IN	NS	ns2.realworld.net.au.
 131.121.103.in-addr.arpa.	0	IN	NS	ns1.realworld.net.au.
@@ -7436,7 +7437,7 @@
 138.121.103.in-addr.arpa.	0	IN	NS	ns2.cbn.net.id.
 139.121.103.in-addr.arpa.	0	IN	NS	ns1.cbn.net.id.
 139.121.103.in-addr.arpa.	0	IN	NS	ns2.cbn.net.id.
-14.121.103.in-addr.arpa.	0	IN	NS	core.velocity.com.bd.
+14.121.103.in-addr.arpa.	0	IN	NS	ns1.velocity.bd.
 144.121.103.in-addr.arpa.	0	IN	NS	ns1.cbn.net.id.
 144.121.103.in-addr.arpa.	0	IN	NS	ns2.cbn.net.id.
 145.121.103.in-addr.arpa.	0	IN	NS	ns1.cbn.net.id.
@@ -7449,6 +7450,7 @@
 148.121.103.in-addr.arpa.	0	IN	NS	ns2.fiber.net.id.
 149.121.103.in-addr.arpa.	0	IN	NS	ns1.fiber.net.id.
 149.121.103.in-addr.arpa.	0	IN	NS	ns2.fiber.net.id.
+15.121.103.in-addr.arpa.	0	IN	NS	ns1.velocity.bd.
 156.121.103.in-addr.arpa.	0	IN	NS	ns1.netstra.net.
 156.121.103.in-addr.arpa.	0	IN	NS	ns2.netstra.net.
 157.121.103.in-addr.arpa.	0	IN	NS	ns1.netstra.net.
@@ -62921,26 +62923,38 @@
 171.74.103.in-addr.arpa.	0	IN	NS	ns-633.awsdns-15.net.
 171.74.103.in-addr.arpa.	0	IN	NS	ns-1346.awsdns-40.org.
 171.74.103.in-addr.arpa.	0	IN	NS	ns-1688.awsdns-19.co.uk.
+176.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.co.
+176.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.im.
+176.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.uk.
+176.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.net.
 176.74.103.in-addr.arpa.	0	IN	NS	ns1.dzcrd.net.
 176.74.103.in-addr.arpa.	0	IN	NS	ns2.dzcrd.net.
 176.74.103.in-addr.arpa.	0	IN	NS	ns3.dzcrd.net.
 176.74.103.in-addr.arpa.	0	IN	NS	ns4.dzcrd.net.
-176.74.103.in-addr.arpa.	0	IN	DS	63105 13 2 ac7bbc0ddd8087569d5ed61c581d97ac36b9438aebc83466692e8f3cadbbbc55
+177.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.co.
+177.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.im.
+177.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.uk.
+177.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.net.
 177.74.103.in-addr.arpa.	0	IN	NS	ns1.dzcrd.net.
 177.74.103.in-addr.arpa.	0	IN	NS	ns2.dzcrd.net.
 177.74.103.in-addr.arpa.	0	IN	NS	ns3.dzcrd.net.
 177.74.103.in-addr.arpa.	0	IN	NS	ns4.dzcrd.net.
-177.74.103.in-addr.arpa.	0	IN	DS	44222 13 2 def0bf5c65491cc3d37326cf4af8df6203b7c68866d78d79bb0c9ba1dad33752
+178.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.co.
+178.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.im.
+178.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.uk.
+178.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.net.
 178.74.103.in-addr.arpa.	0	IN	NS	ns1.dzcrd.net.
 178.74.103.in-addr.arpa.	0	IN	NS	ns2.dzcrd.net.
 178.74.103.in-addr.arpa.	0	IN	NS	ns3.dzcrd.net.
 178.74.103.in-addr.arpa.	0	IN	NS	ns4.dzcrd.net.
-178.74.103.in-addr.arpa.	0	IN	DS	3051 13 2 adbb2b322273fe04317eb341e67970e0f5484f6fc1a13d60587a5ef9c5cfd8af
+179.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.co.
+179.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.im.
+179.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.uk.
+179.74.103.in-addr.arpa.	0	IN	NS	ns.dzcrd.net.
 179.74.103.in-addr.arpa.	0	IN	NS	ns1.dzcrd.net.
 179.74.103.in-addr.arpa.	0	IN	NS	ns2.dzcrd.net.
 179.74.103.in-addr.arpa.	0	IN	NS	ns3.dzcrd.net.
 179.74.103.in-addr.arpa.	0	IN	NS	ns4.dzcrd.net.
-179.74.103.in-addr.arpa.	0	IN	DS	53913 13 2 734336997868fda719df408108953f00bdca423ecf973c5e7085d3f72e5d184a
 18.74.103.in-addr.arpa.	0	IN	NS	ns1.zessnetworks.com.
 18.74.103.in-addr.arpa.	0	IN	NS	ns2.zessnetworks.com.
 180.74.103.in-addr.arpa.	0	IN	NS	denver.ns.cloudflare.com.
