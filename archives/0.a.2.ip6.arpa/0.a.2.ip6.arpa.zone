@@ -550,8 +550,10 @@ f.3.1.0.0.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.rdns.cldin.eu.
 2.0.f.f.0.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.rdns.cldin.eu.
 2.0.f.f.0.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.rdns.cldin.eu.
 2.0.f.f.0.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns3.rdns.cldin.eu.
-8.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns1.fluidata.co.uk.
-8.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns2.fluidata.co.uk.
+8.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns1-04.azure-dns.com.
+8.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns2-04.azure-dns.net.
+8.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns3-04.azure-dns.org.
+8.1.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	ns4-04.azure-dns.info.
 8.2.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	dxbns1.duhosting.ae.
 8.2.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	dxbns2.duhosting.ae.
 8.2.f.0.0.0.a.2.ip6.arpa.	0	IN	NS	dxbns3.duhosting.ae.
@@ -109457,6 +109459,8 @@ d.9.2.0.7.0.f.c.2.0.a.2.ip6.arpa.	0	IN	NS	ns2.windowsfone.net.
 0.0.0.1.b.e.f.0.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.netrack.ru.
 8.0.3.1.b.e.f.0.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns1.netrack.ru.
 8.0.3.1.b.e.f.0.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.netrack.ru.
+9.5.5.1.b.e.f.0.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns1.netrack.ru.
+9.5.5.1.b.e.f.0.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.netrack.ru.
 0.0.0.f.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns3-l5.nic.ru.
 0.0.0.f.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns4-l5.nic.ru.
 0.0.0.f.0.2.2.0.3.0.a.2.ip6.arpa.	0	IN	NS	ns8-l5.nic.ru.
@@ -120912,7 +120916,7 @@ d.a.b.0.d.a.b.0.0.e.0.a.3.0.a.2.ip6.arpa.	0	IN	NS	ns4.profitserver.net.
 0.e.8.a.3.0.a.2.ip6.arpa.	0	IN	NS	a1-110.akam.net.
 0.e.8.a.3.0.a.2.ip6.arpa.	0	IN	NS	a14-66.akam.net.
 0.e.8.a.3.0.a.2.ip6.arpa.	0	IN	NS	a26-67.akam.net.
-0.e.8.a.3.0.a.2.ip6.arpa.	0	IN	DS	6423 13 2 dd1988d0adb521400ab22996b8d33a9c5f7f5c67870b10a8b1278cf67c9b6d43
+0.e.8.a.3.0.a.2.ip6.arpa.	0	IN	DS	13377 13 2 35963b1a0ac25eaaa3b81be8beabc4155d903080aefac69e263b74c0a8b2470b
 0.0.9.a.3.0.a.2.ip6.arpa.	0	IN	NS	ns.pe3ny.cz.
 0.0.9.a.3.0.a.2.ip6.arpa.	0	IN	NS	ns.pe3ny.net.
 0.2.9.a.3.0.a.2.ip6.arpa.	0	IN	NS	ns2.ernw.de.
@@ -133001,6 +133005,8 @@ b.c.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns5.he.net.
 2.e.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.troihost.net.
 5.e.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	sneh.ns.cloudflare.com.
 5.e.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	julian.ns.cloudflare.com.
+e.e.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	coco.bunny.net.
+e.e.5.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	kiki.bunny.net.
 6.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns1.as207258.net.
 6.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	ns2.as207258.net.
 c.1.1.0.8.9.6.0.a.2.ip6.arpa.	0	IN	NS	anton.ns.cloudflare.com.
@@ -153932,12 +153938,18 @@ c.7.a.9.d.2.a.5.0.8.5.3.d.0.a.2.ip6.arpa.	0	IN	NS	ns2.lumaserv.eu.
 7.8.2.5.d.0.a.2.ip6.arpa.	0	IN	NS	gold.dns.relaxt.at.
 0.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
 0.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
+0.0.0.0.1.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
+0.0.0.0.1.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
 2.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
 2.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
 1.0.0.0.8.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
 1.0.0.0.8.0.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
 1.0.0.0.0.1.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
 1.0.0.0.0.1.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
+1.0.0.1.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
+1.0.0.1.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
+1.1.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ptr.eseven.net.
+1.1.0.0.0.4.4.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ptr.eseven.net.
 3.0.0.0.0.0.6.5.d.0.a.2.ip6.arpa.	0	IN	NS	a.ns.ns247.net.
 3.0.0.0.0.0.6.5.d.0.a.2.ip6.arpa.	0	IN	NS	b.ns.ns247.net.
 3.0.0.0.0.0.6.5.d.0.a.2.ip6.arpa.	0	IN	NS	c.ns.ns247.net.
